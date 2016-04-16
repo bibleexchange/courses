@@ -2,14 +2,15 @@
 	"name": "Deliverance Center",
 	"description": "This library is a collection of studies, sermons and Bible School cirriculum created, gathered and edited by many wonderful Christian workers whom God has Blessed Deliverance Center to co-labor with over the years.",
 	"notebooks": [
-		{"path":"doctrine-1", "name":"Doctrine 1"},
 		{"path":"book-of-romans", "name":"Book of Romans"},
 		{"path":"church-history", "name":"Church History"},
+		{"path":"doctrine-1", "name":"Doctrine 1"},
 		{"path":"hour-of-deliverance", "name":"Hour of Deliverance (Radio Broadcast)"},
-		{"path":"the-bride-of-christ", "name":"The Bride of Christ"},
 		{"path":"sermon-outlines-by-james-reynolds-sr", "name":"Sermon Outlines By James Reynolds, Sr."},
 		{"path":"sermon-outlines-by-stephen-reynolds-sr", "name":"Sermon Outlines By Stephen Reynolds, Sr."},
 		{"path":"sermon-outlines-by-stephen-reynolds-jr", "name":"Sermon Outlines By Stephen Reynolds, Jr."},
-		{"path":"song-of-solomon", "name":"Song of Solomon"}
+		{"path":"song-of-solomon", "name":"Song of Solomon"},
+		{"path":"sermon-outlines", "name":"Sermon Outlines"},
+		{"path":"the-bride-of-christ", "name":"The Bride of Christ"}
 		]
 }
