@@ -1,0 +1,25 @@
+
+<p><span lang='en'>Section 3-- Leviticus Study Questions </span><span lang='swa'>Sehemu ya 3 Maswali ya kujifunza Walawi </span></p>
+<p><span lang='en'>Write Leviticus 20:7-8. VERBATIM. </span><span lang='swa'>Andika Walawi 20:7-8. KWA MANENO YAKO. </span></p>
+<p><span lang='en'>Lev.20:7 Sanctify yourselves therefore&#44; and be ye holy: for I am the LORD yourGod. 8 And ye shall keep my statutes&#44; and do them: I am the LORD whichsanctify you. </span><span lang='swa'>Wal.20:7 Jitakaseni basi&#44; iweni watakatifu&#44;kwa kuwa mimi ndimi Bwana&#44; Mungu wenu. 8 Nanyi zishikeni sheria zangu&#44; na kuzitenda; Mimi ndimi Bwana niwatakasayeninyi. </span></p>
+<p><span lang='en'>Were the Levites the first priests? Give Scripture. </span><span lang='swa'>Walawi walikuwa makuhani wakwanza?Toa maandiko. </span></p>
+<p><span lang='en'>No. The priesthood and sacrifices did not begin with Aarons (Heb. 7:11). </span><span lang='swa'>Hapana. Ukuhani na dhabihu havikuanzia kwa Haruni(Waeb.7:11). </span></p>
+<p><span lang='en'>Explain the title given to this book. </span><span lang='swa'>Elezea jina la kitabu hiki lililotolewa. </span></p>
+<p><span lang='en'>Aaron of the tribe ofLevi was the first high priest after the order instituted in this book. It wasto the LEVITES that God conferred the responsibilities and honor of thepriesthood. (Hebrews 7:11.) </span><span lang='swa'>Haruni wa kabila la Lawi alikuwa kuhani mkuu wa kwanza baada ya utaratibu ulioanzishwa katika kitabu hiki.Ilikuwa kwa WALAWI Mungu aliwatunukia majukumu na heshima ya ukuhani. (Waeb 7:11.) </span></p>
+<p><span lang='en'>How do the Hebrews refer to this book? </span><span lang='swa'>Jinsi gani Waebrania warejewa katika kitabuhiki? </span></p>
+<p><span lang='en'>The Priest&apos;s Law </span><span lang='swa'>Sheria kuhani </span></p>
+<p><span lang='en'>What are the two key thoughts of Leviticus? </span><span lang='swa'>Ni mawazo gani mawili ya ufunguo ya Walawi? </span></p>
+<p><span lang='en'>ACCESS to GOD &amp;Holiness. </span><span lang='swa'>KUKARIBIA kwa MUNGU-Utakatifu. </span></p>
+<p><span lang='en'>Is the Levitical priesthood&#44; as Divinely instituted&#44; the fullness of God&apos;s will for worship and service to God? Explain with Scripture. </span><span lang='swa'>Je ukuhani wa kilawi&#44;kama ulivyo anzishwa kiungu&#44;ulikuwa utimilifu wa mapenzi ya Mungu kwa ajili ya ibada na huduma kwaMungu?Elezea kwa maandiko. </span></p>
+<p><span lang='en'>No&#44; It is a type ofChrist&apos;s priesthood and the priesthood of the Believer. Hebrews 7:11 </span><span lang='swa'>Hapana&#44;ni mfano wa ukuhani wa Kristo na ukuhuni wa mwamini.Waeb 7:11 </span></p>
+<p><span lang='en'>What time period does the book of Leviticus encapsulate? </span><span lang='swa'>Ni kitu gani kinatiwa katika kipindi cha kitabu cha walawi? </span></p>
+<p><span lang='en'>It contains the history of the first month of their second year after leaving Egypt. </span><span lang='swa'>Kina tia historia ya mwezi wa kwanza ya mwaka wao wa pili baada kuondoka Misri. </span></p>
+<p><span lang='en'>What significant idea can be found in Leviticus 16? (clue: verses 29 &amp; 30) </span><span lang='swa'>Ni wazo gani la muhimu linaweza kupatikana katika Walawi 16? (dokezo: mistari ya 29 - 30) </span></p>
+<p><span lang='en'>The Day of Atonement </span><span lang='swa'>Siku ya upatanisho </span></p>
+<p><span lang='en'>The word sin can be found in 70 verses in the book of Leviticus. Using the book of Leviticus as your dictionary&#44; answer the following question: What is sin? </span><span lang='swa'>Neno dhambi linaweza kupatikana kwenye mistari 70 katika kitabu cha Walawi. Tumia kitabu cha Walawi kama kamusi yako&#44;kujibu swali lifuatalo:Dhambi ni nini? </span></p>
+<p><span lang='en'>TransgressingGod&apos;s law. </span><span lang='swa'>Uasi wa sheria ya Mungu. </span></p>
+<p><span lang='en'>List the five offerings described in Chapters 1 thru 7. </span><span lang='swa'>Orodhesha sadaka tano zilizoelezwa katika Sura ya 1 hadi ya 7. </span></p>
+<p><span lang='en'>BurntOffering&#44; Meat Offering&#44; Peace Offering Sin Offering&#44; Trespass Offering </span><span lang='swa'>Sadaka ya kuteketeza&#44;sadaka ya nyama&#44;sadakaya amani&#44;sadaka dhambi&#44;sadaka ya hatia </span></p>
+<p><span lang='en'>From Chapter 23&#44; list the 7 feasts. </span><span lang='swa'>Kutoka Sura ya 23&#44; orodhesha sikukuu 7. </span></p>
+<p><span lang='en'>SabbathShabbat&#44;Passover&#44; First Fruits Yom HaBikkurim&#44; Feast of WeeksShavout&#44; Feast ofTrumpetsRosh Hashanah&#44; Day of AtonementYom Kippur&#44; Feast of Tabernacles(Booths)Sukkot </span><span lang='swa'>Sabato&#44;Pasaka&#44; Malimbuko Yom HaBikkurim&#44; Sikukuu ya mkate usiotiwa chachu&#44; Sikukuu ya kuzipiga tarumbeta Rosh Hashanah&#44;Sikukuu ya upatanisho Yom Kippur&#44; Sikukuu ya vibanda(nyumba za majani) </span></p>
+<p><span lang='en'>In your own words using up to three sentences: What is true Bible holiness? </span><span lang='swa'>Katika maneno ya tumia sentesi tatu:utakatifu wa kweli wa kiBiblia ni upi? </span></p>

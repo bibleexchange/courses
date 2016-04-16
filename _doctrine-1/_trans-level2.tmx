@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.4" segtype="paragraph" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg><bpt i="0" x="0">&lt;b0&gt;</bpt>Is evolution a scientifically proven fact?<ept i="0">&lt;/b0&gt;</ept>No, it is a <bpt i="1" x="1">&lt;i1&gt;</bpt>theory<ept i="1">&lt;/i1&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133233Z" creationid="sgrjr" creationdate="20150513T133233Z">
+        <seg><bpt i="0" x="0">&lt;b0&gt;</bpt>Maendelon zimehakikishwa ni mambo kwenye kuakikishwa katika manifa?<ept i="0">&lt;/b0&gt;</ept>Siyo (Hamma), ni mafundisho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg><bpt i="0" x="0">&lt;i0&gt;</bpt>Eoathropus dawsoni<ept i="0">&lt;/i0&gt;</ept>— Piltdown Man — From one piece of jaw, one piece of skull, one canine tooth, two molar teeth, and one nasal bone. Applying the chemical dying process proved the jawbone does not belong to this skull at all.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T134229Z" creationid="sgrjr" creationdate="20150513T134229Z">
+        <seg><bpt i="0" x="0">&lt;i0&gt;</bpt>Eoathropus dawsoni<ept i="0">&lt;/i0&gt;</ept>&amp;mdash; Mtu wa altdown&amp;mdash; Kutokea kwa sehemu kimoja cha mfupa wa kinwa, sepremu kimoja cha mfupa wa kichwa, jino moja ya mbele, meno mbili ya mwisho, na mfupa moja wa pua. Wakati ili hunzwa kar njinya laboratory ilionyesha kwamba hiyi mfupa wa kinwa haikumbatane vizuri na mfupa wa kichwa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg><bpt i="0" x="0">&lt;i0&gt;</bpt>Hesperopithecus<ept i="0">&lt;/i0&gt;</ept>— Harold Cocki — Nebraska Man — This model was constructed from one tooth that was discovered which eventually proved to be from a pig.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T134122Z" creationid="sgrjr" creationdate="20150513T134122Z">
+        <seg><bpt i="0" x="0">&lt;i0&gt;</bpt>Hesperopithecus<ept i="0">&lt;/i0&gt;</ept>&amp;mdash; Harold Cocki&amp;mdash; Mtu wa Nebroska&amp;mdash; Hiyi mfano ili undwa kutokea kwa jino moja amboyo ili fumbuliwa na kuhakikisha kutokea kwenye nguruwe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg><bpt i="0" x="0">&lt;i0&gt;</bpt>Homo erectus<ept i="0">&lt;/i0&gt;</ept>— Heidelberg Man — Again, an <bpt i="1" x="1">&lt;b1&gt;</bpt>entire<ept i="1">&lt;/b1&gt;</ept>diagram of a complex creature of hundreds of moving parts totally reconstructed from the exhaustive resource of <bpt i="2" x="2">&lt;b2&gt;</bpt>one<ept i="2">&lt;/b2&gt;</ept>jawbone found in the sands of Germany.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T134240Z" creationid="sgrjr" creationdate="20150513T134240Z">
+        <seg><bpt i="0" x="0">&lt;i0&gt;</bpt>Homo erectus<ept i="0">&lt;/i0&gt;</ept>&amp;mdash; Mtu wa Heidelberg&amp;mdash; Tena picha mzima ya umbo ngumu ya miya ya sehemu yenye kutikisika na kuundwa kutokea kwa tabu ya kupata mfupa wa kinwa ambayo ilipatikana kwenye mchanga wanchi Germany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg><bpt i="0" x="0">&lt;i0&gt;</bpt>Homo neanderthalensis<ept i="0">&lt;/i0&gt;</ept>— Neanderthal Man — Germany — Constructed from <bpt i="1" x="1">&lt;b1&gt;</bpt>part<ept i="1">&lt;/b1&gt;</ept>of a skull, thighbone, one rib <bpt i="2" x="2">&lt;b2&gt;</bpt>fragment<ept i="2">&lt;/b2&gt;</ept>. Scientists could not agree on the findings if they were even from the same body.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T134147Z" creationid="sgrjr" creationdate="20150513T134147Z">
+        <seg><bpt i="0" x="0">&lt;i0&gt;</bpt>Homo neanderthalensis<ept i="0">&lt;/i0&gt;</ept>&amp;mdash; Mtu wa Neanderthal&amp;mdash; Katika nshi Germany&amp;mdash; aliundwa kutokea kwa sehemu ya mfupa wa kichwa mfupa wa paya, na sehemu moja ya ubavu. Watu wenye elimu hawakuweze kukubali hiyo amboyo ili fumbuliwa ingawa walikuwa kwa mwili moja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg><bpt i="0" x="0">&lt;i0&gt;</bpt>Pithecanthropus erectus<ept i="0">&lt;/i0&gt;</ept>— “The ape man who walked erect” Known as the Java Man — The entire model was constructed from only a piece of skull, two teeth, and one thighbone. 10 scientists said they were the bones of an ape; 7 said they were the bones of a man. 7 others said they were a “missing link” in the chain of evolution!</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T134205Z" creationid="sgrjr" creationdate="20150513T134205Z">
+        <seg><bpt i="0" x="0">&lt;i0&gt;</bpt>Pithecanthropus erectus<ept i="0">&lt;/i0&gt;</ept>&amp;mdash; &amp;ldquo;Mtu……ape? Alikuwa ametembea myenye kusimama&amp;rdquo;. Mwenye kujulikana kama mpu wa JAVA&amp;mdash; Hiyo mfano mzima iliundwa kutokea kwa sehemu moja ya mfupa wa kichwa, meno mbili na mfupa moja wa paya. Watu kumu wenye elimu walisema ilikuwa mufupa za …..? an ape; saba walisema ilikuwa mifupa ya mtu. Saba wengine walisema ilikuwa ungano yenye ku toweka &amp;ldquo;katika mnyororo za maendeleo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A class of plants or animals which have characteristic properties in common and can be indefinitely propagated without changing those characteristics.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133046Z" creationid="sgrjr" creationdate="20150513T133046Z">
+        <seg>Haina za mapando na wanyama wenye kuwa na ufanonisho umoja na wamezorabila mwisho mahali pote bila mabadiliko lolote za haina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A plan without a planner? How would there be nothing and then suddenly something? The existence, beauty, immensity and order of our universe is evidence enough of a Designer at work and not mere coincidence.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133333Z" creationid="sgrjr" creationdate="20150513T133333Z">
+        <seg>Mpango bila mwenye kupanga? Vipi kulikuwako tupu na kiisha mara kumetuwako kitu? Kuwa, urembo, upana na utaratibu wa ulimwengu wetu ni akikisho yenye kutosha ya mwenye kuumba mwenye kuwa kwa kazi na siyo ubahatisho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>AIR — Just the right amount of oxygen is present in the air so that if any was added or taken away, life could not exist on earth.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133420Z" creationid="sgrjr" creationdate="20150513T133420Z">
+        <seg>AIR – hewa kamili za pumzi zimkuwamo katika hewa ili kusudi kamazingine ziméongeka ao kupungugwa maisha inge shindikana udongoni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Anthropology: The Doctrine of Man</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T132508Z" creationid="sgrjr" creationdate="20150513T132508Z">
+        <seg>Anthropology: Mafundisho kuhusu Mtu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dictionary Definition of Doctrine –</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="Deliverance" changedate="20150513T124323Z" creationid="Deliverance" creationdate="20150513T124323Z">
+        <seg>Ufasisiyo ya mafundisho kamusini (dictionary) –</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Doctrine 1</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="Deliverance" changedate="20150513T123638Z" creationid="Deliverance" creationdate="20150513T123638Z">
+        <seg>Mafundisho I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dogma is man’s statement of the truth set forth in a creed; while, doctrine is the fundamental truths of the Bible arranged in a systematic form. EXAMPLE: The Roman Catholic Church instructs men to call the pope <bpt i="0" x="0">&lt;i0&gt;</bpt>Holy Father<ept i="0">&lt;/i0&gt;</ept> (dogma), whereas the Bible says in Matthew 23:9 “<bpt i="1" x="1">&lt;i1&gt;</bpt>call no man your father”. <ept i="1">&lt;/i1&gt;</ept>(doctrine). The very context of Christ’s command is addressing the pride and arrogance of men that usurp honor and recognition that is not their own to claim. “Our source is not in man, but is in God” is the principle Christ is emphasizing. The false doctrine that prefaces this particular dogma is that the pope is literally Christ on the earth. Pope Pius X (1903-1914) is quoted in a sermon on the authority of the pope:</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="Deliverance" changedate="20150513T125357Z" creationid="Deliverance" creationdate="20150513T125357Z">
+        <seg>Dogma ni maneno ya kweli kutokea kwa mtu yenye kudhihirishwa kwa namna ya kusadiki, bali doctrine ni kweli wa ndani katika bibkia wenye kutungwa kwa ambinu. Kwa Mfano: kanisa ya katolika ya Rumi imeagiza watu kumwita pape &amp;ldquo;Baba Mtakatifu&amp;rdquo; (dogma), bali biblia imesema katika injili ya Mathayo Mtakaatifu sura yake ishirini na tatu, shairi ya tisa: Msimwite mtu Baba duniani. (doctrine). Maana kamili ya mafundisho ya kristo ni kuhusu kiburi na majivu ya watu ambaye wamepotonya ustahivu na shukrani isiyo kuwa ya kwao kwa kujipendelea wenyewe. Mwanza wetu siyo kwa mtu, bali kwa Mungu kwenye na fundisho ambayo Kristo ametetea. Mafundisho danganifu imetoa hiyo dogma kwamba Pape ndiye Kristo duniani. Pope Pius (ambae ali kuwako toka mwaka 1903 hadi 1914) aliiga kusema katika mafundisho kuhusu mamlakon ya Pope:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>EARTH — Job 12:8 “Speak to the earth, and it shall teach thee.” The earth is spinning in four directions at least all at once.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133438Z" creationid="sgrjr" creationdate="20150513T133438Z">
+        <seg>UDONGO&amp;mdash; Yobo 12:8 &amp;ldquo;Sungunza na udongo, na itakufundishwa&amp;rdquo;. Udondo imezunguka katika njia nne kwa mara moja ao zaidi yake.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Evolution versus Special Creation</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133013Z" creationid="sgrjr" creationdate="20150513T133013Z">
+        <seg>Maendeleo kufika kwenye umbo za tofauti (upekee)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Example — A dog will react to a whistle that we cannot hear.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133714Z" creationid="sgrjr" creationdate="20150513T133714Z">
+        <seg>Kwa mfano&amp;mdash; Mbwa atajibu kwa pyororo ambayo hatuzi kusikia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>First Year</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="Deliverance" changedate="20150513T123613Z" creationid="Deliverance" creationdate="20150513T123613Z">
+        <seg>Mwaka la Kwanza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Genesis 1:26 says man was created in the image of God. To what does this “image” and “likeness” refer?</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T132915Z" creationid="sgrjr" creationdate="20150513T132915Z">
+        <seg>Mwanzo 1:26 imesema kwamba aliumbwa kwa mfano wake Mungu. Ufananisho na mfano hii imeambatana na nini?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>How did life begin? Some say a product of evolution. Evolutionists seek to link man with brute beasts, but Jesus Christ came into the world to link man with God. John 1:12; Ephesians 2:15; II Peter 1:4; I John 3:2</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133827Z" creationid="sgrjr" creationdate="20150513T133827Z">
+        <seg>Vipi maisha ilianza? Wengi wameshuudia kwamba ni tuda za maendeleo. Wenye kutelea maendeleo wametafuta kuambatanisha mtu na wanyama, walakini Yesu alikuja duniani ili kuambatanisha mtu na Mungu. (Yohana 1:12; Waefeso 2:15; II Petro 1:4; I Yohana 3:2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, we must be careful to remember that while God is capable of assuming human form<bpt i="0" x="0">&lt;b0&gt;</bpt>, the essence of His being is Spirit.<ept i="0">&lt;/b0&gt;</ept> (John 4:24)</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T132952Z" creationid="sgrjr" creationdate="20150513T132952Z">
+        <seg>Basi, afadhali ma tufanye angalisho ili kukumbuka kwamba Mungu ana uwezon ya kuivaa hali ya mtu. Undani wa hali yake ni Roho. (Yohana 4:24)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If living organisms can be paired together and so propagate indefinitely a fertile offspring, they are of the same species.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133131Z" creationid="sgrjr" creationdate="20150513T133131Z">
+        <seg>Ikuwa viumbe vyenye uhai vimeweza kumbatana pamoja na hivi bila mwisho uzao wenye kuwa najiusi ya kuzao; vinatawanyisha kumbe vimekuwa vya haina moja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It has reference particularly to a moral and intellectual likeness. The following passages speak of the “image” of God in respect to knowledge and righteousness. (Ephesians 4:23; Colossians 3:10; 2 Corinthians 3:18)</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133007Z" creationid="sgrjr" creationdate="20150513T133007Z">
+        <seg>Imeambatana na ufananisho wa mwendo wa elimu. Maandiko ijayo imesungumzia &amp;ldquo;mfano&amp;rdquo; wa mungu kuhusu ufahamu na uhaki. (Wrefeso 4:23; Wakolosai 3:10; 2 Wakorinto 3:18)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Let&amp;apos;s take a look at some of the Darwinian “scientific method” at work! Consider if you could recognize any of your deceased relatives if you were give as scant evidence as we see below. THE MISSING LINKS:</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T134031Z" creationid="sgrjr" creationdate="20150513T134031Z">
+        <seg>Tutazame kwanza matendo ya badhi ya mbinu ya maarifa kama bile bwana Darwin alitumia! Tafakari kama umeweza kuwafahamu wazazi wako fuluni ambaye wamekuisha katoweka kama ulipewa hakikisho ndoyo kama hivyo tumeyaona katika mafundisho ifwatayo. MAUNGANO YENYE KUTOWEKA.:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Life did not come by human nature evolving into the Divine, but by the Divine entering into human nature.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133834Z" creationid="sgrjr" creationdate="20150513T133834Z">
+        <seg>Maisha haitoki kwa maumbile ya uutu yenye kuambatana na umungu, bali imetoka kua ya Umungu yenye kunigizana katika uutu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>MOON — If it was any closer, huge tidal waves would engulf us.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133407Z" creationid="sgrjr" creationdate="20150513T133407Z">
+        <seg>MWEZI&amp;mdash;Ikawa ilikuwa karibu, mawimbi yenye ukubwa zaidi ingetumeza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Meaning of Doctrine</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="Deliverance" changedate="20150513T124239Z" creationid="Deliverance" creationdate="20150513T124239Z">
+        <seg>Maana ya mafundisho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>OUR HUMAN BODY</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133604Z" creationid="sgrjr" creationdate="20150513T133604Z">
+        <seg>MWILI WETU WA UTU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Opposed to special creation is the theory of evolution, which teaches that all forms of life developed from one form and that higher species, developed from a lower. So that, for example, what was once a snail became a fish; what was once a fish became a reptile; what was once a reptile became a bird, and what was once an ape became a human being.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133031Z" creationid="sgrjr" creationdate="20150513T133031Z">
+        <seg>Kinyume za umbo za tofauti ni mafundisho za maendeleo, ambayo imefundisha halizote za maisha yenye kupata maendeleo tangu hali moja na hiyo na haina ya hali za juu zaidi, yenye kupata maendeleo kutoka kwa ma traina za chini zoudi. Ili kusudi, kwa mfano, ile iliyo kuwa gorogoro ili kwa samaki; ile iliyokuwa samaki, ilikuwa wanyama wenye kutamboa; ile iliyokuwa wanyama wenye kutamboa ilikuwa ndege, ne ile iliyokuwa apepe ili kuwa mtu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Reasons there is a God and Evolution is a Lie</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133250Z" creationid="sgrjr" creationdate="20150513T133250Z">
+        <seg>Sababu ya kuwako kwa Mungu na Mwendeleo ni Uongo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>STARS — Our solar system with its sun, and planets, the Milky Way, is composed of 100 billion stars each with their own planet system. The universe is considered to be infinitely expanding.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133433Z" creationid="sgrjr" creationdate="20150513T133433Z">
+        <seg>NYOTA –Ulimwengu wetu wa jua na jua yake, na ma udongo mbali mbali, imekuwa na billioni miya mojo ya nyota, na kila mmoja na ulimwengu yake ya udongo. Kumbe ulimwengu imejulika kuongezeka bila mwisho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SUN — 10% closer earth would sizzle or if the sun was 10% farther away the earth would freeze. The sun is so big that it could contain 1,300,000 earths.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133345Z" creationid="sgrjr" creationdate="20150513T133345Z">
+        <seg>JUWA&amp;mdash;10% Karibu, udingo unge sugulika ikawa juwa ilikuwa 10% Mbali ya udongo unge kuwa kama barafu. Juwa umekuwa kubwa zaidi hata kuwa 1.300.000 mara ya udongo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Science is the systematic and logical arrangement of certified facts. <bpt i="0" x="0">&lt;u0&gt;</bpt>We describe theology/doctrine as a science because it consists of facts relating to God and Divine things arranged in a systematic and logical order.<ept i="0">&lt;/u0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="Deliverance" changedate="20150513T125048Z" creationid="Deliverance" creationdate="20150513T125048Z">
+        <seg>Maarifa ni utaratibu kamili na yenye kitungwaa mbinyay yene kuhakikishwa, mambo. Tumefasiria theology (doctrine kma maonifa, kwani imeambatana na maneno kuhusu mungu na vitu takatifu vyenye utaratibu kamili na yenye kufwata mbinu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Special Creation “after his kind” Gen. 1:25</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T132530Z" creationid="sgrjr" creationdate="20150513T132530Z">
+        <seg>Umbo wa tofauti &amp;ldquo;kwa mfano wake&amp;rdquo; Mwanzo 1:25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>THE ACORN — Oak tree — The Poet said, “<bpt i="0" x="0">&lt;b0&gt;</bpt>Only<ept i="0">&lt;/b0&gt;</ept> God could make a Tree.”</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133541Z" creationid="sgrjr" creationdate="20150513T133541Z">
+        <seg>THE ACORN&amp;mdash; Mti wa Oak&amp;mdash;Mtunga shairi alisema &amp;ldquo;Mungu tu ndiye mwenye kuumba mti&amp;rdquo;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>THE BLOOD — Vessels like an incredibly complex city. Blood cells detect harm and fight off the enemy</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133751Z" creationid="sgrjr" creationdate="20150513T133751Z">
+        <seg>DNU&amp;mdash;Kitu kigumu kwa kuelewa. Masehemu za damu zimefumbua ubaya na kuponbansha adui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>THE BRAIN — greatest computer —Much of our brain’s potential goes unused.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133636Z" creationid="sgrjr" creationdate="20150513T133636Z">
+        <seg>BONGO&amp;mdash;Kombpyuta yenye ukubwa mno&amp;mdash; shehemu kubwa yenye kazi katika bongo letu alipate matumizi. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>THE CREATION OF LIFE</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133819Z" creationid="sgrjr" creationdate="20150513T133819Z">
+        <seg>UMBO LA MAIFA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>THE CREATION OF THE UNIVERSE</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133312Z" creationid="sgrjr" creationdate="20150513T133312Z">
+        <seg>KUUMBWA KWA ULIMWENGU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>THE EAR — sound scale — There are sounds in the air that we do not hear, and yet the ear has within it the potential to hear all sounds.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133700Z" creationid="sgrjr" creationdate="20150513T133700Z">
+        <seg>MASIKIYO&amp;mdash; Kipimo cha sauli&amp;mdash; kuna masauti hewani ambayo hatusikie, na japo sikiyo ina ndomi mwake uwezo wa kusikia sauti zote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>THE EYE — Transmits sight to the brain which changes the images right side up.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133724Z" creationid="sgrjr" creationdate="20150513T133724Z">
+        <seg>JICHO&amp;mdash;imetoa ono Kyenye bongo ili kusudi iyabadili mapicha kusimama sawa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>THE HEART — weighs almost 3 lbs. and pumps enough pressure to lift a battleship or push 100 freight cars down a track.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133625Z" creationid="sgrjr" creationdate="20150513T133625Z">
+        <seg>ROHO&amp;mdash;Ina uzito wa 3lbs., na imetoa mkazo yenye kutosha ili kusudi kunyanyua merikebu mojaza vita ao kusukuma ma gari miya moja yenye shehena kuteremka kwenye barabara.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>THE NERVES—There are over one billion nerves (main stems, branches and endings) in the human body all managed by one brain.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133801Z" creationid="sgrjr" creationdate="20150513T133801Z">
+        <seg>MISHIPA NDOGO&amp;mdash; Kuna mishipa ndogo zaidi ya bili moja (Mishipa kubwa, viugo na mwisho yao) Katika mwili wa mtu yote yenye kuongozwa na bongo moja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>THE RADISH — Black seed — Green leaves — Red coat — White meat.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133521Z" creationid="sgrjr" creationdate="20150513T133521Z">
+        <seg>The RADISH&amp;mdash; Punje nyeusi&amp;mdash;Majani ya kijivu&amp;mdash;jivu&amp;mdash;ngozi nyekundu&amp;mdash;Munyofu nyeupe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>THE ROSE — Color — scent, all packed into a tiny seed never gets mixed up.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133513Z" creationid="sgrjr" creationdate="20150513T133513Z">
+        <seg>Uwa&amp;mdash; Rangi&amp;mdash; harufu; yote katika punje ndogo bila kamwe kuchangamana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>THE THEORIES OF EVOLUTION</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133935Z" creationid="sgrjr" creationdate="20150513T133935Z">
+        <seg>NADHARIA YA MAENDELEO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>THE WATERMELON — seed reproduces itself 1 million times.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133533Z" creationid="sgrjr" creationdate="20150513T133533Z">
+        <seg>THE WATERMELON&amp;mdash; punje zimezaa pekeyke mara milioni moja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>THE WORLD OF NATURE</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133501Z" creationid="sgrjr" creationdate="20150513T133501Z">
+        <seg>Mwituni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Textbook</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="Deliverance" changedate="20150513T123622Z" creationid="Deliverance" creationdate="20150513T123622Z">
+        <seg>Vitabu vya Kiada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The <bpt i="0" x="0">&lt;i0&gt;</bpt>dogma<ept i="0">&lt;/i0&gt;</ept> of the Roman Catholic church is based on <bpt i="1" x="1">&lt;i1&gt;</bpt>false doctrine<ept i="1">&lt;/i1&gt;</ept> and therefore it is false. Doctrine could be understood as “simply what the Bible says” and dogma is man’s conclusions drawn from the text of the Scripture. Dogma <bpt i="2" x="2">&lt;i2&gt;</bpt>can be<ept i="2">&lt;/i2&gt;</ept> true, but is not necessarily true.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="Deliverance" changedate="20150513T125427Z" creationid="Deliverance" creationdate="20150513T125427Z">
+        <seg>Dogma ya kanisa za katolika ya Rumi umeketi juu ya mafundisho danganifu, na kumbe, imekuwa ya uongo. Mafundisho imesema &amp;ldquo;na dogma kama neon la mwisho kutokea kwa mtu na yenye kupatikana katika maandikon takatifu. Dogma imeweza kwa kweli, balihaiwezi kwa mara yote kuwa kweli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Creation of Man. The term <bpt i="0" x="0">&lt;i0&gt;</bpt>special creation<ept i="0">&lt;/i0&gt;</ept> refers to the doctrine that all living organisms were created according definite <bpt i="1" x="1">&lt;i1&gt;</bpt>species<ept i="1">&lt;/i1&gt;</ept> and that these species will produce after their kind. This principle defies the evolutionary hypothesis that each species is an evolved form of some earlier species. Biblically put, special creation means that all living organisms will produce <bpt i="2" x="2">&lt;b2&gt;</bpt>after his kind<ept i="2">&lt;/b2&gt;</ept>. A very simple example of this principle is that when you plant an orange seed, it is most definite that an orange tree will develop and not any other kind of plant (i.e. apples, watermelons, cucumber, etc.).</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T132603Z" creationid="sgrjr" creationdate="20150513T132603Z">
+        <seg>Kuumbwa kwa Mtu. Tamko &amp;ldquo;umbo wa tofauti&amp;rdquo; imeambatana na mafundisho ya kwamba viumbe vyote vyenye uhai viliumbya kutokana na ma haina Fulani na kwamba hiyo ma haina Fulani ina hali yenye mwendeleo ya ma haina ambayo ili kuako tangu awali. Kutokana na biblia, umbo wa tofauti (upekee) maana viumbe vyote vyenye uhai vitatoa uzao kwa mfano wake. Mfano mwepesi ya hiyo kamuni ni kwamba wakati umepanda punje za njimu, (mekuwa wazi kwamba mti wa njimu zita komaa kusi haina yake tu (kwa mbfano: apples, water melons, cucumber, na kadhalika) (Ndizi, hembe, mapela, muzeituni, na kadhalika).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Image of God</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T132858Z" creationid="sgrjr" creationdate="20150513T132858Z">
+        <seg>Mfano Ufamruisho wa Mungu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Pope is not simply the representative of Jesus Christ. On the contrary, he is Jesus Christ Himself, under the veil of the flesh, and who by means of a being common to humanity continues His ministry amongst men ... Does the Pope speak? It is Jesus Christ Who is speaking. Does he teach? It is Jesus Christ Who teaches. Does he confer grace or pronounce an anathema? It is Jesus Christ Himself Who is pronouncing the anathema and conferring the grace.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="Deliverance" changedate="20150513T125414Z" creationid="Deliverance" creationdate="20150513T125414Z">
+        <seg>Pope siye tu msimamizi wa Yesu Kristu. Lakini, ni Yesu Kristo mwenyewe, Katika mwili na kwa kuwa mtu kama watu ame fuliza kubimiza kazi zake myongoni mwa watu… &lt;/i&gt;&lt;i&gt;Pope amesema ? Ndiye Yesu Kristo amenena. Amefundisha ? Ndiye Yesu Kristo amefundisha. Ametoa neema ao laana? Ndiye Yesu Kristo mwenyewe ametoa laana na neema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The human body is incredibly complex and amazing. It begins with the union of two cells and it takes upon itself some 21 trillion other cells (all going to the right places).</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133617Z" creationid="sgrjr" creationdate="20150513T133617Z">
+        <seg>Mwili wa utu ni bila shaka ngumu na yenye kuleta mshangao. Imeanza na ambatano wa mbego mbili na imechukua binafsi trilioni ishirini na moja ya mbego nyingine (yote umeeda mahali kamili).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The principles, beliefs, or dogma of any church, sect, or party.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="Deliverance" changedate="20150513T124422Z" creationid="Deliverance" creationdate="20150513T124422Z">
+        <seg>mila, imani, soditio, maneno iliyo aminiwa kwa kila kanisa, dhehebu, ao chama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The word “doctrine” literally means “teaching” or “instruction” and may be defined as <bpt i="0" x="0">&lt;i0&gt;</bpt>the fundamental truths of the Bible arranged in systematic form<ept i="0">&lt;/i0&gt;</ept>. This study is also commonly called theology, which means literally <bpt i="1" x="1">&lt;i1&gt;</bpt>a reasoned discourse about God<ept i="1">&lt;/i1&gt;</ept>. Theology or doctrine may be defined as <bpt i="2" x="2">&lt;i2&gt;</bpt>a science which deals with our knowledge of God and His relations with man<ept i="2">&lt;/i2&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T130505Z" creationid="sgrjr" creationdate="20150513T130505Z">
+        <seg>Tamko &amp;ldquo;doctrine&amp;rdquo; maona yake mafundisho, na tena imeweza kufasiriwa kama kweli ya ndani katika biblia yenye kutungwa katika utaratibu ya mbinu mafunzo hiyi imcitwa kwa ujumba &amp;ldquo;theology&amp;rdquo;, maana maarifa kamili kuhusu Mungu. Theology ao doctrine lime weza kufasiriwa kama maarifa kuhusu ufahamu wetu wa Mungu na kwambatana kwake Mungu na mtu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Theology is knowledge of God, but religion is the practice of what is known. (John 13:17; James 1:27) You can be a theologian and not at all religious — i.e., not having any genuine spiritual experience.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="Deliverance" changedate="20150513T125251Z" creationid="Deliverance" creationdate="20150513T125251Z">
+        <seg>Theology ni ufahamu kuhusu Mungu, walakini, dini ni mazoezo za hiyo ambayo imefahamika. (John 13:17; james 1:27). Umeweza kuwa mwenye maarifa kamili kuhusu Mungu (theologian), lakini bado haujaambatana na dini-yani, badon haujapata ufahamu kamili za viroho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There are so many gaps and so much supposition in evolution that it cannot be classified as a true science. The gaps in evolution have become known as the “missing links.” It is made up of exaggerated speculation and theories and not “observable facts.” As a matter of fact, Evolution requires so much blind faith of its followers that it is more accurate to describe it as a religion. In the United States, it has become the religion of the State under the guise of “Separation of Church and State.”</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T134023Z" creationid="sgrjr" creationdate="20150513T134023Z">
+        <seg>Kun swali mengi ambayo imekosa jibu na udhani wengi kuhusu maendeleo ambayo haiwezi kuxhukuliwa kama maarifa halisi. Hiyo ma swali mbali mbali bila jibu imejulikana kama maungano yenye kutoweka. Ime kua fikira yenye kuzidi mno na mafundisho, lakini siyo mambo ambayo imeonekana kwa macho. Kueli, Maendeleo imeomba imani kubwa yenye kuwa bila macho kutokea kwa wafwashi wake ye kwamba imekuwa kuitaja kama dini. Kwenyi USA, imeduwa dini za serkali chini ya uficho ya &amp;ldquo;matengano kati ya kanisa na serkali&amp;rdquo;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There may be reference here to physical likeness. There are some who believe that such scriptures as Psalm 17:15 teach that God has a visible form and that man in the garden bore that image. See also Isaiah 6:1 and Acts 7:55,56.</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T132929Z" creationid="sgrjr" creationdate="20150513T132929Z">
+        <seg>Kumekuwa ambatano na ujananisho wa murlikuna wengine wamedhani kwamba hiyo maandiko, kama Zaburi 17:15 zimefundisha kwamba ana hali yenye kuonekana, hivyo mtu kwenye bustani alichukua kwa mfano wake. Angalia tena katika Isaya 6:1 na Matendo 7:55,56.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is a species?</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133042Z" creationid="sgrjr" creationdate="20150513T133042Z">
+        <seg>Haini ni nini?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is a test by which the distinction of species is known?</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="sgrjr" changedate="20150513T133126Z" creationid="sgrjr" creationdate="20150513T133126Z">
+        <seg>Ni kwa mashindno gain tofauti ya haina ime julikana?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is the connection between theology and religion?</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="Deliverance" changedate="20150513T125210Z" creationid="Deliverance" creationdate="20150513T125210Z">
+        <seg>Ushiritka gain inayopatikana kati ya theology ne dini?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What is the difference between a doctrine and a dogma?</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="Deliverance" changedate="20150513T125321Z" creationid="Deliverance" creationdate="20150513T125321Z">
+        <seg>Tofauti gain inayopatikana kati ya doctrine na dogma?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What the Bible Says About Man, Sin, Salvation and Angels</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="Deliverance" changedate="20150513T123650Z" creationid="Deliverance" creationdate="20150513T123650Z">
+        <seg>Biblia inasema nini kuhusu Mtu, Dhambi, Wokovu na Malaika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Why do we describe theology or doctrine as a “science”?</seg>
+      </tuv>
+      <tuv xml:lang="SW" changeid="Deliverance" changedate="20150513T125032Z" creationid="Deliverance" creationdate="20150513T125032Z">
+        <seg>Tumefasiria je theology ao doctrine kama marifa?</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

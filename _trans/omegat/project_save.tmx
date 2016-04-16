@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.4" segtype="paragraph" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anthropology: The Doctrine of Man</seg>
+      </tuv>
+      <tuv lang="SW" changeid="sgrjr" changedate="20150513T132508Z" creationid="sgrjr" creationdate="20150513T132508Z">
+        <seg>Anthropology: Mafundisho kuhusu Mtu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dictionary Definition of Doctrine –</seg>
+      </tuv>
+      <tuv lang="SW" changeid="Deliverance" changedate="20150513T124323Z" creationid="Deliverance" creationdate="20150513T124323Z">
+        <seg>Ufasisiyo ya mafundisho kamusini (dictionary) –</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Doctrine 1</seg>
+      </tuv>
+      <tuv lang="SW" changeid="Deliverance" changedate="20150513T123638Z" creationid="Deliverance" creationdate="20150513T123638Z">
+        <seg>Mafundisho I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dogma is man’s statement of the truth set forth in a creed; while, doctrine is the fundamental truths of the Bible arranged in a systematic form. EXAMPLE: The Roman Catholic Church instructs men to call the pope &lt;i0&gt;Holy Father&lt;/i0&gt; (dogma), whereas the Bible says in Matthew 23:9 “&lt;i1&gt;call no man your father”. &lt;/i1&gt;(doctrine). The very context of Christ’s command is addressing the pride and arrogance of men that usurp honor and recognition that is not their own to claim. “Our source is not in man, but is in God” is the principle Christ is emphasizing. The false doctrine that prefaces this particular dogma is that the pope is literally Christ on the earth. Pope Pius X (1903-1914) is quoted in a sermon on the authority of the pope:</seg>
+      </tuv>
+      <tuv lang="SW" changeid="Deliverance" changedate="20150513T125357Z" creationid="Deliverance" creationdate="20150513T125357Z">
+        <seg>Dogma ni maneno ya kweli kutokea kwa mtu yenye kudhihirishwa kwa namna ya kusadiki, bali doctrine ni kweli wa ndani katika bibkia wenye kutungwa kwa ambinu. Kwa Mfano: kanisa ya katolika ya Rumi imeagiza watu kumwita pape &amp;ldquo;Baba Mtakatifu&amp;rdquo; (dogma), bali biblia imesema katika injili ya Mathayo Mtakaatifu sura yake ishirini na tatu, shairi ya tisa: Msimwite mtu Baba duniani. (doctrine). Maana kamili ya mafundisho ya kristo ni kuhusu kiburi na majivu ya watu ambaye wamepotonya ustahivu na shukrani isiyo kuwa ya kwao kwa kujipendelea wenyewe. Mwanza wetu siyo kwa mtu, bali kwa Mungu kwenye na fundisho ambayo Kristo ametetea. Mafundisho danganifu imetoa hiyo dogma kwamba Pape ndiye Kristo duniani. Pope Pius (ambae ali kuwako toka mwaka 1903 hadi 1914) aliiga kusema katika mafundisho kuhusu mamlakon ya Pope:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First Year</seg>
+      </tuv>
+      <tuv lang="SW" changeid="Deliverance" changedate="20150513T123613Z" creationid="Deliverance" creationdate="20150513T123613Z">
+        <seg>Mwaka la Kwanza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Meaning of Doctrine</seg>
+      </tuv>
+      <tuv lang="SW" changeid="Deliverance" changedate="20150513T124239Z" creationid="Deliverance" creationdate="20150513T124239Z">
+        <seg>Maana ya mafundisho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Science is the systematic and logical arrangement of certified facts. &lt;u0&gt;We describe theology/doctrine as a science because it consists of facts relating to God and Divine things arranged in a systematic and logical order.&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="SW" changeid="Deliverance" changedate="20150513T125048Z" creationid="Deliverance" creationdate="20150513T125048Z">
+        <seg>Maarifa ni utaratibu kamili na yenye kitungwaa mbinyay yene kuhakikishwa, mambo. Tumefasiria theology (doctrine kma maonifa, kwani imeambatana na maneno kuhusu mungu na vitu takatifu vyenye utaratibu kamili na yenye kufwata mbinu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special Creation “after his kind” Gen. 1:25</seg>
+      </tuv>
+      <tuv lang="SW" changeid="sgrjr" changedate="20150513T132530Z" creationid="sgrjr" creationdate="20150513T132530Z">
+        <seg>Umbo wa tofauti &amp;ldquo;kwa mfano wake&amp;rdquo; Mwanzo 1:25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Textbook</seg>
+      </tuv>
+      <tuv lang="SW" changeid="Deliverance" changedate="20150513T123622Z" creationid="Deliverance" creationdate="20150513T123622Z">
+        <seg>Vitabu vya Kiada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;i0&gt;dogma&lt;/i0&gt; of the Roman Catholic church is based on &lt;i1&gt;false doctrine&lt;/i1&gt; and therefore it is false. Doctrine could be understood as “simply what the Bible says” and dogma is man’s conclusions drawn from the text of the Scripture. Dogma &lt;i2&gt;can be&lt;/i2&gt; true, but is not necessarily true.</seg>
+      </tuv>
+      <tuv lang="SW" changeid="Deliverance" changedate="20150513T125427Z" creationid="Deliverance" creationdate="20150513T125427Z">
+        <seg>Dogma ya kanisa za katolika ya Rumi umeketi juu ya mafundisho danganifu, na kumbe, imekuwa ya uongo. Mafundisho imesema &amp;ldquo;na dogma kama neon la mwisho kutokea kwa mtu na yenye kupatikana katika maandikon takatifu. Dogma imeweza kwa kweli, balihaiwezi kwa mara yote kuwa kweli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Meaning of Doctrine</seg>
+      </tuv>
+      <tuv lang="SW" changeid="Deliverance" changedate="20150513T124440Z" creationid="Deliverance" creationdate="20150513T124440Z">
+        <seg>Maana ya mafundisho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Pope is not simply the representative of Jesus Christ. On the contrary, he is Jesus Christ Himself, under the veil of the flesh, and who by means of a being common to humanity continues His ministry amongst men ... Does the Pope speak? It is Jesus Christ Who is speaking. Does he teach? It is Jesus Christ Who teaches. Does he confer grace or pronounce an anathema? It is Jesus Christ Himself Who is pronouncing the anathema and conferring the grace.</seg>
+      </tuv>
+      <tuv lang="SW" changeid="Deliverance" changedate="20150513T125414Z" creationid="Deliverance" creationdate="20150513T125414Z">
+        <seg>Pope siye tu msimamizi wa Yesu Kristu. Lakini, ni Yesu Kristo mwenyewe, Katika mwili na kwa kuwa mtu kama watu ame fuliza kubimiza kazi zake myongoni mwa watu… &lt;/i&gt;&lt;i&gt;Pope amesema ? Ndiye Yesu Kristo amenena. Amefundisha ? Ndiye Yesu Kristo amefundisha. Ametoa neema ao laana? Ndiye Yesu Kristo mwenyewe ametoa laana na neema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The principles, beliefs, or dogma of any church, sect, or party.</seg>
+      </tuv>
+      <tuv lang="SW" changeid="Deliverance" changedate="20150513T124422Z" creationid="Deliverance" creationdate="20150513T124422Z">
+        <seg>mila, imani, soditio, maneno iliyo aminiwa kwa kila kanisa, dhehebu, ao chama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The word “doctrine” literally means “teaching” or “instruction” and may be defined as &lt;i0&gt;the fundamental truths of the Bible arranged in systematic form&lt;/i0&gt;. This study is also commonly called theology, which means literally &lt;i1&gt;a reasoned discourse about God&lt;/i1&gt;. Theology or doctrine may be defined as &lt;i2&gt;a science which deals with our knowledge of God and His relations with man&lt;/i2&gt;</seg>
+      </tuv>
+      <tuv lang="SW" changeid="sgrjr" changedate="20150513T130505Z" creationid="sgrjr" creationdate="20150513T130505Z">
+        <seg>Tamko &amp;ldquo;doctrine&amp;rdquo; maona yake mafundisho, na tena imeweza kufasiriwa kama kweli ya ndani katika biblia yenye kutungwa katika utaratibu ya mbinu mafunzo hiyi imcitwa kwa ujumba &amp;ldquo;theology&amp;rdquo;, maana maarifa kamili kuhusu Mungu. Theology ao doctrine lime weza kufasiriwa kama maarifa kuhusu ufahamu wetu wa Mungu na kwambatana kwake Mungu na mtu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The word “doctrine” literally means “teaching” or “instruction” and may be defined as &lt;i0&gt;the fundamental truths of the Bible arranged in systematic form&lt;/i0&gt;. This study is also commonly called theology, which means literally &lt;i1&gt;a reasoned discourse about God&lt;/i1&gt;. Theology or doctrine may be defined as &lt;i2&gt;a science which deals with our knowledge of God and His relations with man&lt;/i2&gt;.</seg>
+      </tuv>
+      <tuv lang="SW" changeid="Deliverance" changedate="20150513T124610Z" creationid="Deliverance" creationdate="20150513T124610Z">
+        <seg>Tamko &amp;ldquo;doctrine&amp;rdquo; maona yake mafundisho, na tena imeweza kufasiriwa kama kweli ya ndani katika biblia yenye kutungwa katika utaratibu ya mbinu mafunzo hiyi imcitwa kwa ujumba &amp;ldquo;theology&amp;rdquo;, maana maarifa kamili kuhusu Mungu. Theology ao doctrine lime weza kufasiriwa kama maarifa kuhusu ufahamu wetu wa Mungu na kwambatana kwake Mungu na mtu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Theology is knowledge of God, but religion is the practice of what is known. (John 13:17; James 1:27) You can be a theologian and not at all religious — i.e., not having any genuine spiritual experience.</seg>
+      </tuv>
+      <tuv lang="SW" changeid="Deliverance" changedate="20150513T125251Z" creationid="Deliverance" creationdate="20150513T125251Z">
+        <seg>Theology ni ufahamu kuhusu Mungu, walakini, dini ni mazoezo za hiyo ambayo imefahamika. (John 13:17; james 1:27). Umeweza kuwa mwenye maarifa kamili kuhusu Mungu (theologian), lakini bado haujaambatana na dini-yani, badon haujapata ufahamu kamili za viroho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is the connection between theology and religion?</seg>
+      </tuv>
+      <tuv lang="SW" changeid="Deliverance" changedate="20150513T125210Z" creationid="Deliverance" creationdate="20150513T125210Z">
+        <seg>Ushiritka gain inayopatikana kati ya theology ne dini?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is the difference between a doctrine and a dogma?</seg>
+      </tuv>
+      <tuv lang="SW" changeid="Deliverance" changedate="20150513T125321Z" creationid="Deliverance" creationdate="20150513T125321Z">
+        <seg>Tofauti gain inayopatikana kati ya doctrine na dogma?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What the Bible Says About Man, Sin, Salvation and Angels</seg>
+      </tuv>
+      <tuv lang="SW" changeid="Deliverance" changedate="20150513T123650Z" creationid="Deliverance" creationdate="20150513T123650Z">
+        <seg>Biblia inasema nini kuhusu Mtu, Dhambi, Wokovu na Malaika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why do we describe theology or doctrine as a “science”?</seg>
+      </tuv>
+      <tuv lang="SW" changeid="Deliverance" changedate="20150513T125032Z" creationid="Deliverance" creationdate="20150513T125032Z">
+        <seg>Tumefasiria je theology ao doctrine kama marifa?</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

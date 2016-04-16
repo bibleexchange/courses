@@ -1,0 +1,16 @@
+5/13/15 9:23 AM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	      69	 1618	                       7827	                         9378	     3	
+Remaining:       	      53	 1164	                       5585	                         6703	     2	
+Unique:          	      69	 1618	                       7827	                         9378	     3	
+Unique Remaining:	      53	 1164	                       5585	                         6703	     2	
+
+
+Individual File Statistics:
+
+File Name                   	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+306_cover.html              	             9	                 5	              9	                        5	         31	             16	          31	                    16	                              191	                                  118	                               191	                                         118	                                212	                                    128	                                 212	                                           128	
+308_meaning-of-doctrine.html	            12	                 0	             12	                        0	        439	              0	         439	                     0	                             2169	                                    0	                              2169	                                           0	                               2591	                                      0	                                2591	                                             0	
+312_creation-of-man.html    	            48	                48	             48	                       48	       1148	           1148	        1148	                  1148	                             5467	                                 5467	                              5467	                                        5467	                               6575	                                   6575	                                6575	                                          6575	
