@@ -1,9 +1,9 @@
-#HOD 002 As the Eagle, so the Lord
+# HOD 002 As the Eagle, so the Lord
 
 catalogue #: 1991121R
 length: 58 minutes 50 seconds
 
-##Broadcast Outline
+## Broadcast Outline
 
 1. In-tro Music
 

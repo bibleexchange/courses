@@ -1,9 +1,9 @@
-#HOD 003 The Great Physician
+# HOD 003 The Great Physician
 
 catalogue #: 1991108R
 length: 62 minutes 46 seconds
 
-##Broadcast Outline
+## Broadcast Outline
 
 1. Greeting and Announcements by Host James Reynolds, Sr.. 
 

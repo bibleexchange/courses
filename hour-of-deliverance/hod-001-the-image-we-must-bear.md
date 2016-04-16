@@ -1,9 +1,9 @@
-#HOD 001 The Image that We Must Bear
+# HOD 001 The Image that We Must Bear
 
 catalogue #: 19700001
 length: 15 mins
 
-##Broadcast Outline
+## Broadcast Outline
 
 1. In-tro Music
 

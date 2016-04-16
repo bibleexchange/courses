@@ -1,11 +1,11 @@
-#HOD 005 Peace
+# HOD 005 Peace
 
 catalogue #: 19700002
 length: 15 mins
 
-##Broadcast Outline
+## Broadcast Outline
 
-1. In-tro Music
+1. Intro Music
 
 2. Greeting and Announcements by Host William Gorman. 
 
@@ -15,14 +15,14 @@ length: 15 mins
 
 5. Out-tro
 
-##Peace
+## Peace
 
 TEXT: Isaiah 48:22
 
-###Cry for Peace
+### Cry for Peace
 
-###Source of Peace
+### Source of Peace
 
-###Meaning of Peace
+### Meaning of Peace
 
-###Conclusion: Invitation for Peace
+### Conclusion: Invitation for Peace
