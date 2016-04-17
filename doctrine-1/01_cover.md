@@ -7,4 +7,4 @@
 <h3>DELIVERANCE BIBLE INSTITUTE</h3> 
 <h4>Portland, Maine, USA <span lang="swa">Portland, Maine, USA</span></h4>
 
-<img src="/assets/eagle.png" id="coverEagle"/>
+<img src="/images/eagle.png" id="coverEagle"/>

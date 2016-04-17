@@ -1,0 +1,27 @@
+{
+	"name": "Doctrine 1",
+	"author":"Deliverance Bible Institute",
+	"description": "",
+	"notes": [
+		{"path":"doctrine-1/01_cover.md", "name":"Cover","section":"Front"},
+		{"path":"doctrine-1/02_meaning-of-doctrine.md", "name":"Meaning of Doctrine","section":"Introduction"},
+		{"path":"doctrine-1/03_need-for-doctrine.md", "name":"Need For Doctrine","section":"Introduction"},
+		{"path":"doctrine-1/04_a-system-of-doctrine.md", "name":"System of Doctrine","section":"Introduction"},
+		{"path":"doctrine-1/05_creation-of-man.md", "name":"Creation of Man","section":"Anthropology"},
+		{"path":"doctrine-1/06_original-condition-of-man.md", "name":"Original Condition of Man","section":"Anthropology"},
+		{"path":"doctrine-1/07_scene-of-the-fall.md", "name":"Scene of the Fall","section":"Harmatiology"},
+		{"path":"doctrine-1/08_fact-of-the-fall.md", "name":"Fact of the Fall","section":"Harmatiology"},
+		{"path":"doctrine-1/09_results-of-the-fall.md", "name":"Results of the Fall","section":"Harmatiology"},
+		{"path":"doctrine-1/10_introduction-to-soteriology.md", "name":"Introduction to Soteriology","section":"Soteriology"},
+		{"path":"doctrine-1/11_nature-of-salvation.md", "name":"Nature of Salvation","section":"Soteriology"},
+		{"path":"doctrine-1/12_justification.md", "name":"Justification","section":"Soteriology"},
+		{"path":"doctrine-1/13_regeneration.md", "name":"Regeneration","section":"Soteriology"},
+		{"path":"doctrine-1/14_nature-of-angels.md", "name":"Nature of Angels","section":"Angels"},
+		{"path":"doctrine-1/15_office-of-angels.md", "name":"Office of Angels","section":"Angels"},
+		{"path":"doctrine-1/16_record-of-angels.md", "name":"Record of Angels","section":"Angels"},
+		{"path":"doctrine-1/17_conclusion.md", "name":"Conclusion","section":"Back"},
+		{"path":"doctrine-1/18_addendum.md", "name":"Addendum","section":"Back"}
+		
+		]
+}
+
