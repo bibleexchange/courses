@@ -55,7 +55,7 @@ Moses was used as an oracle of God, but he was not the only nor the last of Godâ
 
 A man can be justified in the eyes of God without the deeds of the law of Moses (thief on the cross). A man is never justified if he is contrary to the mind of God.
 
-<img src="god-can-justify-without-moses.png" />
+<img src="/images/god-can-justify-without-moses.png" />
 
 > Romans 7:22&mdash;For I delight in the law of God after the inward man:
 
