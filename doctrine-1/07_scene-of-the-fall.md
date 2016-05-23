@@ -1,4 +1,4 @@
-@en
+<div lang="en">
 
 <p>The Doctrine of Sin</p>
 <h1>Harmartiology</h1>
@@ -24,8 +24,8 @@
 
 <p>Jude 1:24&#8212;Now unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy,</p>
 
-
-@sw
+</div>
+<div lang="swa">
 
 
 
@@ -53,3 +53,4 @@
 <p>2) Adamu alipashwa kutenda dhambi? Hamna. Ikaua Adamu alipashwa kuyatenda, hakungi kuwa &#8220;uchaguzi&#8221; halisi, kuani Adamu hange kuwa na &#8220;uchaguzi&#8221; lakini dhambi katika majaribu kutekea kwa Mungu, kumetoka tena neema za kushinda! Tumeweza kuyashinda kwa ajili ya neema yake Mungu. Kulikuepo na tena kumekuwa uwezo wa kushinda.</p>
 
 <p>Yuda 1:24&#8212;Yeye awezaye kuwalinda nyinyi msijikwae, na kuwasimamisha mbele ya utukufu wake bila mawaa katika furaha kuu.</p>
+</div>
