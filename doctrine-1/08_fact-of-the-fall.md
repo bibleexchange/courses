@@ -1,5 +1,5 @@
 
-@en
+<div lang="en">
 
 <h2>The Fact of the Fall</h2>
 
@@ -23,13 +23,10 @@
 <h3>Lusting for what God has prohibited. v.6</h3>
 
 <p>Here we have the &#8220;Lust of the flesh&#8221;, &#8220;Lust of the eyes&#8221; and the &#8220;Pride of life&#8221; spoken of in 1 John 2:16. (Compare with Luke 4:1-15.)</p>
+</div>
 
 
-
-@sw
-
-
-
+<div lang="swa">
 
 <h2>Mambo kuhusu Kuanguka</h2>
 
@@ -53,3 +50,5 @@
 <h3>Tamaa za Kitu Mungu alikataza. (3:6)</h3>
 
 <h3>Hapa tuna &#8220;tamaa za mwili&#8221;, &#8220;tamaa za macho&#8221; na &#8220;mafirino za maisha&#8221; yenye kuzungumziwa katika I Yohana 2:16. (Linganisha na luka 4:1-15)</h3>
+
+</div>
