@@ -1,4 +1,4 @@
-@en
+<div lang="en">
 #Justification
 
 <h2>The Nature of Justification &#8211; Divine Acquittal</h2>
@@ -248,8 +248,8 @@ Christ earned or paid for this righteousness for us and the price is His atoning
 - Faith protected by works, James 2:22
 
 That is, faith is an energetic principle; as well as, a receptive attitude. Faith is therefore a powerful motive to obedience and to every good work. Faith involves the will and is connected with all good choices and actions. (Rom. 14:23) Faith includes the choice and pursuit of the truth. (II Thess. 2:12) Faith implies subjection to the righteousness of God. (Rom. 10:3)
-
-@sw
+</div>
+<div lang="swa">
 <h1>Kuhesabuliwa haki</h1>
 
 <h2>Asili ya kuhesabuliwa haki &#8212; Pato ya kiroho.<br></h2>
@@ -493,3 +493,4 @@ That is, faith is an energetic principle; as well as, a receptive attitude. Fait
 -Imani imelindwa na matendo&#8211;Yakobo 2:22
 
 <p>Ni hivyo, imani ni mila yenye nguvu; na hali ya kuwa tayari kwa kupokea. Kumbe imani ni sabubu fulani kwa utii na kwa tendo lote lililo bora. Imani imeomba mapenzi na imeambatana na machaguzi na metendo yote mema. (Warumi 14:23) Imani ina ndani yake uchaguzi ara kutafutisha kweli. ( II Wathesalonike 2:12) Imani imeonyesha utii kwa haki ya Mungu (Warumi 10:3).</p>
+</div>

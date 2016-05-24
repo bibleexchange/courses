@@ -1,5 +1,4 @@
-@en
-
+<div lang="en">
 <h2>Regeneration</h2>
 
 <h3>The Nature of Regeneration</h3>
@@ -99,10 +98,8 @@
 <p>I John 3:9&#8212;Whosoever is born of God doth not commit sin; for his seed remaineth in him: and he cannot sin, because he is born of God.</p>
 
 <p>I John 2:1&#8212; My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:</p>
-
-
-@sw
-
+</div>
+<div lang="swa">
 <h2>Kuzaliwa upya kwa kiroho.</h2>
 
 <h3>Asili (Maumbile) ya tendo la kuzaliwa upya kwa kiroho</h3>
@@ -199,3 +196,4 @@
 <p>I Yohana 3:9&#8212;Kila mtu aliyezaliwa na Mungu hatendi dhambi, kwa sababu uzao wake wakaa ndani yake; wala hawezi kutenda dhambi kwa sababu wamezaliwa kutokuwa na Mungu.</p>
 
 <p>I Yohana 2:1&#8212;Watoto wangu wadogo, nawaandikia haya ili kwamba msitende dhambi. Na kama mtu akitenda dhambi tunaye Mwombezi kwa Baba, Yesu Kristo mwenye haki.</p>
+</div>

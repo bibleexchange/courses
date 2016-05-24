@@ -1,11 +1,11 @@
 <div lang="en">
 
-<p>The Doctrine of Sin</p>
-<h1>Harmartiology</h1>
+<h1>Harmartiology: The Doctrine of Sin</h1>
 
 <p>We title the study of the Doctrine of sin as Harmartiology. The root word harmartia is a Greek word for sin; it comes from a word that literally means to miss the mark and not share in the prize. The suffix &#8211;ology identifies a &#8216;science&#8217;. It is called a science because it consists of systematically and logically arranged facts.</p>
 
 <h2>The Scene of the Fall </h2>
+
 <h3>The Tree of Knowledge of Good and Evil</h3>
 
 <p>In the midst of the garden was placed two trees of destiny. The first was a tree of life, but the second was the forbidden tree of knowledge of good and evil. Why did God place such a horrid tree in the midst of Eden&#8217;s blissful paradise? It was a test for man.</p>

@@ -1,6 +1,4 @@
-
-@en
-
+<div lang="en">
 <h2>The Nature of Salvation</h2>
 
 <h3>Three Aspects of Salvation</h3>
@@ -125,14 +123,8 @@
 
 <p>One does not necessarily precede the other. It is more accurate to say that regeneration is God&#8217;s action in man and conversion is man&#8217;s action toward God. Regeneration and conversion work together at once.</p>
 <p>&#8220;Somewhere between the limb and the ground, Zaccheus was converted.&#8221;&#8212; D. L. Moody </p>
-
-
-
-@sw
-
-
-
-
+</div>
+<div lang="swa">
 <h2>Haina za Wokovu</h2>
 
 <h3>Haina tatu ya wokovu</h3>
@@ -258,3 +250,4 @@
 
 <p>Moja haififi mbele ya ingine. Ni neno Kamilifu kusema kwamba kuzaliwa upya ni tendo la Mungu katika mtu na kugeuka ni tendo la mtu kwa Mungu. Kuzaliwa upya na kugeuka imetenda pamoja kwa mara moja.</p>
 <p> &#8220;(sehemu moja) kati ya kiungo cha mwili ne chini kwa udongo, zaccheus aligeuka&#8221;&#8212;D.L. Moody.</p>
+</div>

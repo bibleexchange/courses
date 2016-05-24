@@ -1,6 +1,4 @@
-
-@en
-
+<div lang="en">
 <h2>The Results of the Fall</h2>
 
 <h3>Upon Man&#8217;s Physical Nature</h3>
@@ -79,13 +77,8 @@
 <h5>The flesh and spirit are defiled.</h5>
 
 <p>2 Corinthians 7:1&#8212;&#8230;let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God.</p>
-
-
-
-@sw
-
-
-
+</div>
+<div lang="swa">
 <h2>Matokeo ya Kunvuguka</h2>
 
 <h3>(Juu ya ) mahali pa maisha ya mtu </h3>
@@ -158,3 +151,4 @@
 <p>Munyofu na Roho ni najisi.</p>
 
 <p>II Wakorinto 7&#160;:1&#8230; na tujitakase nafsi zetu na uchafu wote wa mwili na roho, huku tukitimiza utakatifu katika kumcha Mungu.</p>
+</div>

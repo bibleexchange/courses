@@ -1,6 +1,4 @@
-
-@en
-
+<div lang="en">
 <p>The Doctrine of Salvation</p>
 <h1>Soteriology</h1>
 
@@ -37,13 +35,8 @@
 
 <p>We will be dealing with the subject: </p>
 <p>What Constitutes Salvation? [or] The State of Grace</p>
-
-
-
-@sw
-
-
-
+</div>
+<div lang="swa">
 <p>Mafundisho Kuhusu Wokovu</p>
 <h1>Soteriology</h1>
 
@@ -79,3 +72,4 @@
 
 <p>Tutasungumzia nukta hiyi:</p>
 <p>Nikitu gani kimekuwa wokovu? (ao) Hali za neema.</p>
+</div>
