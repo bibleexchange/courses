@@ -4,7 +4,7 @@
 
 <!-- -->
 
-## vs. 20
+## The Law Has Never Justified Anyone vs. 20
 
 > Romans 3:20 Therefore by the deeds of the law there shall no flesh be justified in his sight: for by the law is the knowledge of sin.
 
