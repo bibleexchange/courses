@@ -10,6 +10,8 @@ for more notes on "Gentile Guilt"
 
 > 3:9—&hellip; we have before proved both Jews and Gentiles, that they are all under sin;
 
+## All Are Guilty
+
 All mankind needs to be justified through Jesus or the wrath of God will be revealed against it. – 1:18
 Jesus is the only way to salvation and those who do not chose to accept the provision of Christ are condemned. 
 

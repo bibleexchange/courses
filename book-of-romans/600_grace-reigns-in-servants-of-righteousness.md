@@ -62,7 +62,7 @@ We can find a concise illustration of this in 2 Corinthians 1:10
 
 #### How do we become dead to sin?
 
-We who are: Baptized into Christ’s death, Crucified with Christ, Dead to Sin
+We who are: Baptized into Christ’s death, Crucified with Christ, Dead to Sin.
 
 <table>
  <tr>
