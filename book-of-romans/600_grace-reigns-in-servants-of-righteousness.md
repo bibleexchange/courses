@@ -278,18 +278,38 @@ The saint is relieved of a master when he is crucified to sin with Christ, but t
 
 Sin is the slave trap of Satan; righteousness is the service of Christ. If ye sin ye are the servants of Satan, and not the servants of God.You cannot serve sin and be a servant to God.
 
-Grace reigns through righteousness. (Romans 5:21) God’s grace doesn’t help us serve sin, but enables us to serve God. God’s servants are to be sanctified—separated from sin and separated unto God.
+Grace is unmerited favor (the riches of God opened to us!). 
 
-The Truth concerning God’s Grace:
-- Grace is not just a covering.
-- Grace is the power to give you life.
-- Grace imparts the divine nature through faith.
+1. God's Grace is manifested in Providing Atonement, a covering for sin (the Blood of Jesus)
+
+> Ephesians 1:7 &mdash;In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;
+
+2. Grace reigns through righteousness. 
+
+(Romans 5:21) God’s grace doesn’t help us serve sin, but enables us to serve God. God’s servants are to be sanctified—separated from sin and separated unto God.
+
+- Psalm 84:11 The Lord will GIVE grace
+- Genesis 6:8 & 19:19 Noah & Lot -- FOUND grace in the eyes of the Lord (b/c actively searching for it.)
+
+> Barnes "THE argument commenced in this chapter is ... to show that the scheme of justification which God had adopted does not lead men to sin, but, on the contrary, to holiness."
+
+3. The Grace of God is the **Divine Influence** upon the heart and its reflection in the life.
+
+> Luke 2:40 And the child grew, and waxed strong in spirit, filled with wisdom: and the grace of God was upon him. (John 1:14; 1:17; Acts 4:33)
+
+- The Pagan Abram
+- The Misguided Moses
+- The Child David
+- Simon Peter
+- Saul of Tarsus
 
 ### To Whom You Yield to – sin or God –his servant you are. Vs. 16
 
+The Christian life is voluntary, but having voluntarily yielded ourselves to God, we are his SERVANTS and therefore obligated at servants are to their master. Service to God is not voluntary!
+
 ### You were servants to sin, but now are servants of righteousness vs.  17 -19 
 
-“Old habits die hard,” or so the saying goes. Having changed our object of servitude from sin and self to God, we must be vigilant in our effort to serve our Master faithfully. We are instructed to do some things.
+“Old habits die hard”. Having changed our object of servitude from sin and self to God, we must be vigilant in our effort to serve our Master faithfully. We are instructed to do some things.
 
 - Reckon yourself dead to sin, but alive to God. (6:11)
 - Let not sin reign in your mortal body. (6:12)
@@ -298,6 +318,8 @@ The Truth concerning God’s Grace:
 - Remember the shame of Sin! (6:21)
 
 What fruit had ye? What is the value of your service? It is the wage you earn. The Christian ought to be ashamed of his old life and service to sin, for sin makes a mockery of every man.
+
+> Ephesians 5:12&mdash;For it is a shame even to speak of those things which are done of them in secret.
 
 ### Contrasting the results of Sin and the results of Righteousness Vs. 20-23
 
