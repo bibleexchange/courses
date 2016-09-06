@@ -87,7 +87,7 @@ The historian Cassius Dio reports the following action taken by Claudius against
 Resulting from the restrictions imposed by the government was a Gentile-dominated church. It is this church that received Paul’s letter sometime around AD 57-58. Instead of in central synagogues or large meeting places, this church met in small groups around the city of Rome as in the homes of Believers. Though their gathering places were 'decentralized', especially from the letter to the Romans, we can see the Christian church maintained communication and the sense of being 'one body' in Christ.
 
 <!-- #8 -->
-!['timeline of romans'](romanns-timeline-one.png)
+!['timeline of romans'](https://googledrive.com/host/0B5UU8pOHCBVqWVcwUWl0eHlVTXc)
 
 ## TIME & PLACE - Romans was written from Corinth around 57-58 AD.
 
