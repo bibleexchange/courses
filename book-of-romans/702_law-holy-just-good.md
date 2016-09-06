@@ -2,91 +2,38 @@
 
 ## Introduction
 
-### Theme: 
-The law with his prescription of condemnation has dominion over the man living in his sin. Righteousness in life is impossible through the works of the law as the sinner is bound to his sin. Romans chapter seven deals with Carnality and the sinners relationship (so long as he lives) to sin and death. This chapter also emphasizes that the Law of God is holy.
+### Theme: The Law Reigns Over the Man Living in Sin
+
+Romans chapter seven deals with Carnality and the sinners relationship (so long as he lives) to sin and death. This chapter also emphasizes that the Law of God is holy.
 
 ### Division: Three Sections:
 
-- Verses 1 – 6: Died that You May be Married to Another
-In the first section, God shows how those that were placed by Him under the law were released from that relation by sharing in the death of Christ; so that, joined to a risen Christ, they bear fruit; and released from law, they are glad and willing to serve Him.
-The Apostle Paul reminds his Jewish brethren that the power of the law is terminated, and uses the illustration of a wife who has been freed by the death of her husband to marry another.  The main thought is death dissolves legal obligation and that on the death of her husband a wife is legally free to contract another marriage.
+#### Verses 1 – 6: Died that You May be Married to Another
+#### Verses 7- 13: The Law is Holy, And Just and Good
+#### Verses 14 – 25: Paul’s Captivity to the Law of Sin 
 
-- Verses 7- 13: The Law is Holy, And Just and Good
-Paul explains that sin’s dominion is not that the fault of the Law of God. The law is  good, but sin took advantage of him.
-
-- Verses 14 – 25: Paul’s Captivity to the Law of Sin 
-In the final section, we have Paul testifying of his struggle under the law as an Israelite, before he experienced the great truth that in Christ he was dead to the law and to sin.
-
-<!--     //////////////////////////////////////////////  -->
-<!--     //////////////////////////////////////////////  -->
-<!--     //////////////////////////////////////////////  -->
 ## Dead that You May be Married to Another (vs. 1-6)
 
 > Romans 7:1—Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth?
 
 ### Meaning of the Illustration
 
-The sinner is in a binding relationship to his sin as a wife to a husband. So, long as they both live, the husband and wife are bound to each other under God. As the wife is in submission to her husband, so the sinner is under the dominion of the law of sin.
-
-Paul announces a death! The death of self in it being crucified with Christ opens a whole new world of opportunity. As the wife would be free from the law of her husband by death, so the sinner is freed from the law of sin through sharing in Christ’s death. This death is the crucifixion of the old man with Christ. ( Ac 13:38-39; Rom. 3:25; 5:21; 6:6; 7:4; 2Co 5:15; Gal. 1:4; 2:20; 5:24; 6:14; Eph 4:22; 5:2; Col 2:11; 3:5,9; Titus 2:14; Heb 9:15; 1Pe1:21; 4:2; 1John 2:2; 4:10)
-
-Raised then in resurrection, we share in Christ’s life that we might be married to another. In this second marriage, we are united with Christ.
+The sinner is in a binding relationship to his sin as a wife to a husband. 
 
 ### The Power of the law is terminated
-
-As long as a person is LIVING in sin they are under the law. The Sinner has no choice but to be under the law, except if he die to his sinfulness. The law dominates the sinner. The person that lives in sin is under the law
-
-Death dissolves the legal obligation of the marriage. The sinner can be free from the power of sin and the penalty of the broken law.
-
-> Romans 7:4—We must “become dead to the law by the body of Christ” 
-
-<!-- -->
-
-> Romans 6:14—sin shall not have dominion…ye are not under the law, but under grace.
-
-#### Between the mind and the carnal works of the flesh.
-#### Between my will and the old unregenerate self
-#### Between my soul and sinfulness
 ### The Difference of the Union with Jesus Christ
-
-1. “Know ye not “ The old life is baptized into His death 6:3
-2. “Know ye not” The old service is broken off, destroyed through Christ. 6:16
-3.  “Know ye not” The old union is impossible with the new union with Christ.  7:1
-
 ### The Service of the Union with Jesus Christ
-
-From this union with Christ will come our service to Christ. 
-
-> Romans 7:6&mdash; But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not in the oldness of the letter. 
-
-#### Serve with newness of life	6:4
-#### Serve in newness of Spirit	7:6
-#### Serve with new power          Ro.1:16; 8:11; 1Co 6:14; 2Co 13:4; II Thess.1:11
-#### Serve as a new creature     II Cor. 5:17; Gal.6:15
+- Serve with newness of life
+- Serve in newness of Spirit
+- Serve with new power
+- Serve as a new creature
 
 ### The Fruitfulness of this Union
 
-Union with Christ enables us to bring forth fruit.
- 
 #### Our union with sin disabled us unto death.
-
-Rom.1:32; 6:21; 7:5; Gal.5:19-21
 
 #### Union with Christ enables us to bring forth fruit of Righteousness unto Holiness.
 
-- Under Sin
-
-As long as a person lives in sin brings forth fruit unto death. 7:5
-
-- With Christ
-
-"fruit unto God"
-
-Rom.1:13; 5:3-5; 6:22; John 15:2,4,5,8,16; I Cor. 1:6; Gal. 5:22-23; Eph 5:9; Php 1:11; 4:17; Col 1:6,10; Titus 3:14; Heb. 12:11; 13:15; James 3:18; 5:7; II Pe. 1:3-9
-
-<!--     //////////////////////////////////////////////  -->
-<!--     //////////////////////////////////////////////  -->
-<!--     //////////////////////////////////////////////  -->
 ## The Law is Holy, And Just and Good (vs. 7-13)
 
 In Romans 7:7-13, Paul establishes the goodness of God’s Law and the wickedness of sin. Paul is writing to the Jew, those who understand the law (vs.1), and properly frames the purpose and nature of the Law. Service to the letter of the Law cannot make one righteous, but in its exactness it awakens the sinner to his need of Christ. 
@@ -182,87 +129,6 @@ The law reveals the sinfulness of sin.	  	     12-13
 - The law condemns, convicts, constrains and conducts an awakened sinner to Christ.   Rom. 3:19,23; 7:8-11; 8:3; Gal.3:19-24  ( Judge, warden, executioner, conductor)
 
 Sin can hide in  society of men comparing one with another or else judging merely by the dictates of there own heart, but in the light of Perfect Holiness, sin becomes "exceedingly sinful".
-
-<!--     //////////////////////////////////////////////  -->
-<!--     //////////////////////////////////////////////  -->
-<!--     //////////////////////////////////////////////  -->
-## Paul’s Captivity to the Law of Sin  (vs. 14-25)
-
-
- Romans 7:14-25, Paul brings us to the root of the problem, the cause of our constant defeat by sin: our own flesh, the “body of this death” (verse 24).
-Every believer is privileged, enabled and obligated to live a holy life. For those resting in the law, as sufficient for justification and sanctification, it is necessary to convince them of their error. The law is insufficient for justification but Grace and righteousness of  Jesus Christ is sufficient.  A believing Jew is discharged from his obligations to the ceremonial rituals of the law, and is at liberty to come under the Gospel of God through Jesus Christ our Lord and Saviour, Ro 7:1-4.
-
-
-The inability of the flesh  7:14 - 25
-
-The key to the meaning of this entire section is found in the repetition of "I" thirty times in the chapter, without a single mention of the Holy Spirit.  It indicates what "I" am struggling to do, and utterly fail to do in my own strength.
-
-NOTE:	In Chapter 7 the Law is mentioned 20 times
-	In Chapter 8 the Holy Spirit is mentioned 20 times
-
-
-### We see three confessions in this section of the Chapter:
-
-#### The First Confession:  Verse 14, "For we know that the law is spiritual: but I am carnal, sold under sin."
-
-	The 2 words in the Greek for carnal
-	- one implying that which is purely material
-	- the other implying that which is ethical
-
-	The former suggests man's nature as weak.
-	The latter suggests man's character as sinful.
-
-#### The Second Confession:  Verses 18 - 20, "In my flesh swelleth no good thing."
-
-	Here we see Paul describing a struggle.  In him so far as his person was carnal, there dwelt no good thing,
-	though of course there was something more in him besides the flesh.
-
-
-#### The Third Confession:  Verses 21 - 25,
-	"I find then a law, that, when I would do good, evil is present with me."
-
-	He is ever conscious of moral contraction and conflict within.  He has a desire to do good and yet an evil is
-	always present.
-
-
-### PARALLEL:
-
-	On the one hand the inward man is delighted in God's law.  On the other hand he saw a different law in his
-	members warring against the law of his mind and bringing him into a spiritual bondage.
-
-NOTE:  	The "inward man" is not the same as "the new man", nor is the mind ever used of the renewed nature.
-	It is the immaterial part of man.
-
-
-### What are the 4 Laws mentioned in Verses 21 - 22?
-
-	1.	Law of God - (moral law - written or unwritten)
-	2.	Law of Sin - (reigns since fall of man)
-	3.	Law of Mind - (moral sense of man)
-	4.	Law of Members - (leads individual to falling under law of sin)
-
-### CONCLUSION of Chapter 7:
-
-#### Verse 24:	CRY OF AGONY AND CONFLICT
-
-		"O wretched man that I am!  Who shall deliver me from the body of this death?"
-
-		The body of this death - what a fearful description of the body!  Unredeemed, unchanged, under the
-		law of sin in all its members.  No matter what the "delight" of the quickened human spirit in the
-		things of God may be, to dwell undelivered in such a body is to find it a "body of death".
-
-#### Verse 25:	"I thank God, (for deliverance) through Jesus Christ our Lord"
-
-(We need a renewed mind)
-
-
-In summary, Paul discovered:
-
-1.	That sin dwelt in him - though he delighted in God's law.
-2.	That his will was powerless against it.
-3.	That the sinful self was not his real self.
-4.	That there is a difference through our Lord Jesus Christ.
-
 
 <!--     //////////////////////////////////////////////  -->
 <!--     //////////////////////////////////////////////  -->
