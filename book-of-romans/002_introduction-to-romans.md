@@ -1,37 +1,7 @@
-- What was the reputation/testimony of the believers at Rome in verse 8?
-- What did Paul think of these believers and what was the evidence of his sincerity in verses 8-9? 
-- What was Paul's request relating to the Romans in verse 10?
-- In verses 10-12, Why did Paul make this request?
-- In verses 13-15, Despite the obstacles Paul faced up to writing this letter, what was Paul still ready to do? 
-
-<!-- #1 -->
 # Introduction to the Study of Romans
 
 The Epistle of Romans is a treasure of truth that needs to be understood by the Saints of God. This study will endeavor to help you to understand its important doctrines. We will also emphasize bible memorization throughout this study as we put to memory passages from the book of Romans.
 
-<!-- #2 -->
-## Memorize Romans 1:1,2
-
-Our first memory passage will be Romans 1:1,2 ( and for the especially eager Romans 1:1-7). When memorizing Scripture it is helpful to start with a shorter passage and then make it even shorter by breaking it down into pieces. Memorize the first five words in the verse first, and when you’ve got them down, add the next five. As you become more confident, you can add more words, sentences, and even entire verses, but don’t add anything new until you’ve got the previous words down. We will divide our passage into 6 lines for ease of putting to memory.
-
-> [Romans 1:1,2] Romans one, verses one and two <br> Paul, a servant of Jesus Christ,<br> called to be an apostle, <br>separated unto the gospel of God,  <br>2 (Which he had promised afore <br>by his prophets in the holy scriptures,)
-
-<!-- #3 -->
-## Read and Respond to Romans 1:1-7
-
-- Does any particular verse, phrase or even word stand out to you from this reading?
-- What does Paul list as his main qualifications in verse 1?
-- According to Paul in verses 2-6, who is Jesus?
-- Who does Paul address this letter to in verse 7?
-
-<!-- #4 -->
-## Complete Romans 1:1,2 from Memory & Respond
-
-1. Romans 1:1,2 Paul, a __________________ of Jesus Christ, <br> called to be ________ ______________, <br> separated unto the _____________________ of God,  <br> 2 (Which he had _____________________ afore <br> by his ______________________ in the _____________ ____________________________,)
-
-2. If anything, what did you discover about yourself and your mind while memorizing this passage?
-
-<!-- #5 -->
 ## Authorship of the Epistle to the Romans
 
 ### Romans’ internal evidence supports Paul’s authorship.
