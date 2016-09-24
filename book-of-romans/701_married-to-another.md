@@ -8,15 +8,15 @@ Romans chapter seven deals with Carnality and the sinners relationship (so long 
 
 ### Division: Three Sections:
 
-#### Verses 1 – 6: Died that You May be Married to Another
+#### Verses 1&ndash;6: Died that You May be Married to Another
 
-#### Verses 7- 13: The Law is Holy, And Just and Good
+#### Verses 7&ndash;13: The Law is Holy, And Just and Good
 
-#### Verses 14 – 25: Paul’s Captivity to the Law of Sin 
+#### Verses 14&ndash;25: Paul’s Captivity to the Law of Sin 
 
 ## Dead that You May be Married to Another (vs. 1-6)
 
-> Romans 7:1—Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth?
+> Romans 7:1&mdash;Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth?
 
 ### Meaning of the Illustration
 
@@ -45,7 +45,7 @@ Death dissolves the legal obligation of the marriage. The sinner can be free fro
 
 1. “Know ye not “ The old life is baptized into His death 6:3
 2. “Know ye not” The old service is broken off, destroyed through Christ. 6:16
-3.  “Know ye not” The old union is impossible with the new union with Christ.  7:1
+3. “Know ye not” The old union is impossible with the new union with Christ.  7:1
 
 ### The Service of the Union with Jesus Christ
 
