@@ -1,4 +1,4 @@
-# The Law Reigns over the Man Living in Sin – Romans 7
+# The Law Reigns over the Man Living in Sin &mdash; Romans 7
 
 ## Introduction
 
@@ -8,7 +8,7 @@ The law with his prescription of condemnation has dominion over the man living i
 
 ### Division: Three Sections:
 
-#### Verses 1 – 6: Died that You May be Married to Another
+#### Verses 1 &mdash; 6: Died that You May be Married to Another
 
 In the first section, God shows how those that were placed by Him under the law were released from that relation by sharing in the death of Christ; so that, joined to a risen Christ, they bear fruit; and released from law, they are glad and willing to serve Him.
 The Apostle Paul reminds his Jewish brethren that the power of the law is terminated, and uses the illustration of a wife who has been freed by the death of her husband to marry another.  The main thought is death dissolves legal obligation and that on the death of her husband a wife is legally free to contract another marriage.
@@ -21,7 +21,7 @@ Paul explains that sin’s dominion is not that the fault of the Law of God. The
 
 > Romans 7:12&mdash;Wherefore the law is holy, and the commandment holy, and just, and good.
 
-#### Verses 14 – 25: Paul’s Captivity to the Law of Sin 
+#### Verses 14 &mdash; 25: Paul’s Captivity to the Law of Sin
 
 In the final section, we have Paul testifying of his struggle under the law as an Israelite, before he experienced the great truth that in Christ he was dead to the law and to sin.
 
