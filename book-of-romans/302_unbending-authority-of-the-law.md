@@ -46,4 +46,3 @@ The Day of Judgment will be a day of silence.
 This law refers to more than Moses Law; there is also reference to moral law and the law of conscience. The Gentile did not posses Moses’ Law, but every man has the moral law of God written on his heart and testified to by his conscience.
 
 ### The death penalty has been levied against the condemned. Rom.6:23
- 
