@@ -1,4 +1,4 @@
-## The Unbending Authority of the Law     (vs. 9-19)
+## The Unbending Authority of the Law (vs. 9-19)
 
 > *Justification is by faith without the deeds of the Law. The Law is: an advantage to those who know it (vs. 1-2), absolute in its nature (vs. 3-8), unbending in its authority (vs. 9-19), has a distinct purpose (vs. 20-30), and is not made void, but rather is established	by our faith. (v. 31).*
 
