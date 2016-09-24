@@ -12,7 +12,7 @@ Romans chapter seven deals with Carnality and the sinners relationship (so long 
 
 #### Verses 7&ndash;13: The Law is Holy, And Just and Good
 
-#### Verses 14&ndash;25: Paul’s Captivity to the Law of Sin
+#### Verses 14&ndash;25: Paul&apos;s Captivity to the Law of Sin
 
 ## Dead that You May be Married to Another (vs. 1-6)
 
@@ -32,11 +32,11 @@ As long as a person is LIVING in sin they are under the law. The Sinner has no c
 
 Death dissolves the legal obligation of the marriage. The sinner can be free from the power of sin and the penalty of the broken law.
 
-> Romans 7:4—We must “become dead to the law by the body of Christ”
+> Romans 7:4&mdash;We must “become dead to the law by the body of Christ”
 
 <!-- -->
 
-> Romans 6:14—sin shall not have dominion…ye are not under the law, but under grace.
+> Romans 6:14&mdash;sin shall not have dominion…ye are not under the law, but under grace.
 
 #### Between the mind and the carnal works of the flesh.
 #### Between my will and the old unregenerate self
