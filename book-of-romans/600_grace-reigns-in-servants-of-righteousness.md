@@ -2,10 +2,10 @@
 
 In Chapter six, Paul clearly establishes the relationship that the Believer has with sin and the conclusion that sin no longer having dominion over the Believer that the Believer should not continue in sin. Paul answers the question “Shall we sin?” by asking and answering two similar but different questions.
 
-- Verses 1-14	Shall we continue in sin, that grace may abound?	
+- Verses 1-14	Shall we continue in sin, that grace may abound?
 - Verses 15-23	Shall we sin, because we are not under the law, but under grace?
 
-Paul proves by inspiration of God that there is no good reason to sin! There is no scenario where sinning is appropriate or beneficial. 
+Paul proves by inspiration of God that there is no good reason to sin! There is no scenario where sinning is appropriate or beneficial.
 
 ## Grace Abounds in our Walking in the Newness of Christ’s Life Vs. 1-14
 
@@ -26,7 +26,7 @@ Summary:
 
 #### 1. When are we really saved from sin or dead to it?
 
-Salvation is a complete remedy (free from the penalty and power of sin) for the whole man (body, soul spirit). 
+Salvation is a complete remedy (free from the penalty and power of sin) for the whole man (body, soul spirit).
 
 God's plan of salvation does not stop at Justification (remedying the Believer's relationship to the law), but continues on in Sanctification (restoring man's walk with God) which climaxes in Perfection (salvation completed). Salvation in the Bible is an awesome word that includes all the redemptive acts and processes of God: predestination, justification, redemption, regeneration, grace, propitiation,  imputation, impartation, forgiveness, sanctification, glorification and perfection.
 
@@ -75,14 +75,14 @@ We who are: Baptized into Christ’s death, Crucified with Christ, Dead to Sin.
 ##### a. The Matter of this Death
 
 The Believer is "dead to sin". This is a matter of fact and a truth.
- 
+
 > Romans 6:2 God forbid. How shall we, that are dead to sin, live any longer therein?
 <!-- -->
 > Romans 6:11 Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord.
 <!-- -->
 > Romans 7:4&mdash;Wherefore, my brethren, ye also are become dead to the law by the body of Christ; that ye should be married to another, even to him who is raised from the dead, that we should bring forth fruit unto God.
 <!-- -->
-> Romans 7:6&mdash;But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not in the oldness of the letter. 
+> Romans 7:6&mdash;But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not in the oldness of the letter.
 <!-- -->
 > Galatians 2:19&mdash;For I through the law am dead to the law, that I might live unto God.
 <!-- -->
@@ -143,7 +143,7 @@ The Believer is "dead to sin". This is a matter of fact and a truth.
 
 What does it mean to be dead to sin? Or what is the result of being dead to sin?
 
-Paul presents to us the picture of death and draws the parallel between Christ’s death and resurrection and the spiritual death and resurrection of the Believer. 
+Paul presents to us the picture of death and draws the parallel between Christ’s death and resurrection and the spiritual death and resurrection of the Believer.
 
 Let us consider this parallels of spiritual and physical death:
 
@@ -155,15 +155,15 @@ People grab a hold of concepts such as the Believer’s death to sin and run wit
 
 A dead man has no need for pizza, hamburger, or even vegetables. These are sources of sustenance, and a dead man has no life to sustain. The living man eats with the purpose of maintaining life. If we are crucifying the flesh, why would we at the same time fight to keep him alive? Starve that old nature to death, and feed the spirit man.
 
-##### Dead men Do Not have Life. 
+##### Dead men Do Not have Life.
 
-This third observation may appear oversimplified, but bear with me. A man may live a full life filled with drunkenness and all kinds of selfishness and sin, but when he dies, his spirit leaves his body and that body no longer contains life. There rests the same hands that raised the bottle, the same feet that ran quickly to mischief, but now being dead and the spirit gone it is emptied of all evidence of life&mdash; good or bad. 
+This third observation may appear oversimplified, but bear with me. A man may live a full life filled with drunkenness and all kinds of selfishness and sin, but when he dies, his spirit leaves his body and that body no longer contains life. There rests the same hands that raised the bottle, the same feet that ran quickly to mischief, but now being dead and the spirit gone it is emptied of all evidence of life&mdash; good or bad.
 
 ##### Dead Men Are Gone
 
 This Death is an End to the Believers Former Relationship to Sin. The "Old Man" is not raised again, but a "New Man" is raised in his stead.
 
-- Remember, the main question in this section is, "Shall we continue in sin, that grace may abound?"	
+- Remember, the main question in this section is, "Shall we continue in sin, that grace may abound?"
 
 To understand the language of "death" and "life" that Paul uses, we have to consider what a "binding relationship" is. In our permissive age, Its difficult to conclude that a death must take place for there to be an end to the relationship. Whatever we choose to do with our minds and bodies, there are yet spiritual laws that govern regardless of our outlook. Two "binding relationships" in the Scripture:
 
@@ -184,7 +184,7 @@ This death is an end of the Believer's relationship to sin--the old man. What di
 - **Servant/Slave to Sin (Bondage)**
 > Proverbs 13:15&mdash;Good understanding giveth favour: but the way of transgressors is hard.
 
-- **Dead IN Sin** 
+- **Dead IN Sin**
 > Ephesians 2:1&mdash;And you hath he quickened, who were dead in trespasses and sins;
 
 ###### What IS the Believer's relationship to sin?
@@ -195,7 +195,7 @@ NOT THE SAME!
 
 <!--
 ===============================================================================
-The Believer’s situation is similar, but not exact. The Believer’s situation is similar in that in being crucified with Christ, he no longer contains that old life (2 Cor. 4:7). All things have become new, as an infant child just born, perfect. The Believer’s situation extends beyond the condition of natural death in that he is dead to sin, but alive to righteousness. 
+The Believer’s situation is similar, but not exact. The Believer’s situation is similar in that in being crucified with Christ, he no longer contains that old life (2 Cor. 4:7). All things have become new, as an infant child just born, perfect. The Believer’s situation extends beyond the condition of natural death in that he is dead to sin, but alive to righteousness.
 
 
 
@@ -204,11 +204,11 @@ This is a dual condition where the Believer having been crucified, his spirit is
 -->
 
 * baptized into Jesus Christ THEREFORE baptized into his death
-* buried with him by baptism into death: 
-* as Christ was raised up from the dead ... so we also should walk in newness of life. 
-* We have been planted together in the likeness of his death, 
-* we shall be also in the likeness of his resurrection: 
-* our old man is crucified with him, that the body of sin might be destroyed, 
+* buried with him by baptism into death:
+* as Christ was raised up from the dead ... so we also should walk in newness of life.
+* We have been planted together in the likeness of his death,
+* we shall be also in the likeness of his resurrection:
+* our old man is crucified with him, that the body of sin might be destroyed,
 
 - Mastery
 
@@ -216,8 +216,8 @@ This is a dual condition where the Believer having been crucified, his spirit is
 
 >  Romans 8:37&mdash;Nay, in all these things we are more than conquerors through him that loved us.
 
-<!-- left off --> 
-	
+<!-- left off -->
+
 ### LIVE any longer in sin?		Vs. 5,7-14
 
 #### Having DIED, we are FREE from sin.
@@ -227,7 +227,7 @@ This is a dual condition where the Believer having been crucified, his spirit is
 #### Having died WITH CHRIST, we shall LIVE with Him! RESURRECTION
 
 #### Death Has No More Dominion Over Christ 		vs. 9,10
-(Dead to Sin, but alive to God) 
+(Dead to Sin, but alive to God)
 
 a. He died ONCE unto sin. He Dieth no more! Death was vanquished,defeated by Christ.
 
@@ -241,7 +241,7 @@ As Christ Liveth unto God, LIKEWISE reckon ye also yourselves to be dead indeed 
 
 The slave to sin cannot just "reckon/think" themselves dead to sin.
 
-middle voice from 3056; **to take an inventory**, i.e. estimate (literally or figuratively):--conclude, (ac-)count (of), + despise, esteem, impute, lay, number, reason, reckon, suppose, think (on). 
+middle voice from 3056; **to take an inventory**, i.e. estimate (literally or figuratively):--conclude, (ac-)count (of), + despise, esteem, impute, lay, number, reason, reckon, suppose, think (on).
 
 **b. Take Inventory!**
 
@@ -255,7 +255,7 @@ The Believer is not the devil's victim, but the Believer is given the victory ov
 
 **c. Take Authority Over Your Mind in Jesus Name**
 
-“LET not sin…”There is a power in God (His Grace) that enables man to become dead to sin and live right. The Believer must exercise his faith diligently in God’s provision that the Believer is no longer under the dominion of sin. 
+“LET not sin…”There is a power in God (His Grace) that enables man to become dead to sin and live right. The Believer must exercise his faith diligently in God’s provision that the Believer is no longer under the dominion of sin.
 
 “Self-control” is required of saints. A diligent work is required of Believers in order to remain under grace and out from under the curse of the law. Notice the words of action demanded of the saints in these verses: reckon ye also yourselves… Let not sin therefore reign in your mortal body…Neither yield ye your members as instruments of unrighteousness unto sin: but yield yourselves unto God….
 We overcome sin by the word of God...Doing what he says. Yielding yourselves to God means that you find the root cause of your sin and remove it from your life. Is the root cause anger....then repent and turn to God.  Let Him help you with it, by doing what the word instructs us to do.
@@ -278,13 +278,13 @@ The saint is relieved of a master when he is crucified to sin with Christ, but t
 
 Sin is the slave trap of Satan; righteousness is the service of Christ. If ye sin ye are the servants of Satan, and not the servants of God.You cannot serve sin and be a servant to God.
 
-Grace is unmerited favor (the riches of God opened to us!). 
+Grace is unmerited favor (the riches of God opened to us!).
 
 1. God's Grace is manifested in Providing Atonement, a covering for sin (the Blood of Jesus)
 
 > Ephesians 1:7 &mdash;In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;
 
-2. Grace reigns through righteousness. 
+2. Grace reigns through righteousness.
 
 (Romans 5:21) God’s grace doesn’t help us serve sin, but enables us to serve God. God’s servants are to be sanctified—separated from sin and separated unto God.
 
@@ -307,7 +307,7 @@ Grace is unmerited favor (the riches of God opened to us!).
 
 The Christian life is voluntary, but having voluntarily yielded ourselves to God, we are his SERVANTS and therefore obligated at servants are to their master. Service to God is not voluntary!
 
-### You were servants to sin, but now are servants of righteousness vs.  17 -19 
+### You were servants to sin, but now are servants of righteousness vs.  17 -19
 
 “Old habits die hard”. Having changed our object of servitude from sin and self to God, we must be vigilant in our effort to serve our Master faithfully. We are instructed to do some things.
 
@@ -346,5 +346,3 @@ What fruit had ye? What is the value of your service? It is the wage you earn. T
   </td>
  </tr>
 </table>
-
- 
