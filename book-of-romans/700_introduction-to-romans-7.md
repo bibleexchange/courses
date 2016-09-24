@@ -18,11 +18,11 @@ The Apostle Paul reminds his Jewish brethren that the power of the law is termin
 
 #### Verses 7- 13: The Law is Holy, And Just and Good
 
-Paul explains that sin&apos;s dominion is not that the fault of the Law of God. The law is good, but sin took advantage of him.
+Paul explains that sin’s dominion is not that the fault of the Law of God. The law is  good, but sin took advantage of him.
 
 > Romans 7:12&mdash;Wherefore the law is holy, and the commandment holy, and just, and good.
 
-#### Verses 14 &mdash; 25: Paul’s Captivity to the Law of Sin
+#### Verses 14 &mdash; 25: Paul&apos;s Captivity to the Law of Sin
 
 In the final section, we have Paul testifying of his struggle under the law as an Israelite, before he experienced the great truth that in Christ he was dead to the law and to sin.
 
