@@ -1,6 +1,6 @@
-# Faith, Grace & Justification - Romans 4
+# Faith, Grace & Justification &mdash; Romans 4
 
-<center>JUSTIFICATION IS OF FAITH THAT IT MIGHT BE BY GRACE</center>
+JUSTIFICATION IS OF FAITH THAT IT MIGHT BE BY GRACE
 
 ## Introduction - "Justification By Grace Through Faith"
 
@@ -8,16 +8,16 @@ The role of the law in justification is that it brings the knowledge of sin.  A 
 
 By Grace a gift of eternal life is freely offered to the entire world and it is through faith that gift is received. God made the first move in the plan of redemption and for that plan to be effective in me, I must choose to receive that gift through faith. (God's grace is resistible by the nature of the free will given by God to man.)
 
->  Ephesians 2:8&mdash;For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:
+> Ephesians 2:8&mdash;For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:
 
->  Romans 4:16&mdash;Therefore it is of faith, that it might be by grace; to the end the promise might be sure to all the seed; not to that only which is of the law, but to that also which is of the faith of Abraham; who is the father of us all.
+> Romans 4:16&mdash;Therefore it is of faith, that it might be by grace; to the end the promise might be sure to all the seed; not to that only which is of the law, but to that also which is of the faith of Abraham; who is the father of us all.
 
 Justification by Faith is Demonstrated in the life of Abraham.
 
 <!-- -->
 <!-- -->
 <!-- -->
-## I. Abraham was justified by Faith and not by Works. – Vs. 1-8
+## I. Abraham was justified by Faith and not by Works. &mdash; Vs. 1-8
 
 > Romans 4:3&mdash;&hellip;Abraham believed God, and it was counted unto him for righteousness.
 
@@ -179,6 +179,4 @@ Man has received the promise of justification by faith through Jesus Christ.
 Abraham believed the promise of God. Against hope believed in hope.
 	Abraham believed in the promise of God regardless of the circumstances. Sarah was about 90 and Abraham was more than 100 years old. There was no natural way possible for them to have a child. Abraham staggered not at the promise of God. - V.20
 Justification is a Divine activity. Man cannot justify himself any more than Abraham could produce a son. Justification is a work of God bestowed by grace in response to faith.
-
-
 --->
