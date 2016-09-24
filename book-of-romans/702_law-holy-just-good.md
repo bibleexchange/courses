@@ -1,4 +1,4 @@
-# The Law Reigns over the Man Living in Sin – Romans 7
+# The Law Reigns over the Man Living in Sin &mdash; Romans 7
 
 ## Introduction
 
@@ -8,13 +8,13 @@ Romans chapter seven deals with Carnality and the sinners relationship (so long 
 
 ### Division: Three Sections:
 
-#### Verses 1 – 6: Died that You May be Married to Another
-#### Verses 7- 13: The Law is Holy, And Just and Good
-#### Verses 14 – 25: Paul’s Captivity to the Law of Sin 
+#### Verses 1&ndash;6: Died that You May be Married to Another
+#### Verses 7&ndash;13: The Law is Holy, And Just and Good
+#### Verses 14&ndash;25: Paul’s Captivity to the Law of Sin 
 
-## Dead that You May be Married to Another (vs. 1-6)
+## Dead that You May be Married to Another (vs. 1&ndash;6)
 
-> Romans 7:1—Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth?
+> Romans 7:1&mdash;Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth?
 
 ### Meaning of the Illustration
 
@@ -89,8 +89,8 @@ The law reveals the  power of sin. Under the law, a man becomes condemned to dea
 Romans 7:5 describes the state of a Jew as in the flesh serving sin which considered as being under  law -- cursed.
       
 Deuteronomy 27:26; 28:15; Ps 119:21; Jer 11:3; Ga 3:10
-●	The curses were proclaimed principally to secure obedience to the commandments.
-●	The curses were never meant to destroy the individual but produce repentance.
+- The curses were proclaimed principally to secure obedience to the commandments.
+- The curses were never meant to destroy the individual but produce repentance.
 
 #### 10 And the commandment, which was ordained to life, I found to be unto death. 
 
@@ -98,7 +98,7 @@ The end result for Paul was that he who vigorously followed the law and served i
 
 #### 11 For sin, taking occasion by the commandment, deceived me, and by it slew me.
  
-The law reveals the deceitfulness of sin.   		     11
+The law reveals the deceitfulness of sin. 11
 
 Sin takes advantage of us and deceives us,  The law of God is known in different ways: the ceremonial laws, the social laws, natural laws,  moral laws and health laws.
 
@@ -117,16 +117,14 @@ The Law itself is "Holy and Righteous and Good"
 
 ##### 13 Was then that which is good made death unto me? God forbid. 
 
-
 ##### But sin, that it might appear sin, working death in me by that which is good; 
-
 
 #### that sin by the commandment might become exceeding sinful.
 
 The law reveals the sinfulness of sin.	  	     12-13
 - The Law is Holy, Just and good, so as the standard, the plumb-line, the commandment shows us where and what we are in the sight of God; sin is shown for what it is “exceeding sinful”. Far off from the mark that God has set for us in Christ.
 - The law is intended to convict the sinner of sin and only through Christ find repentance.
-- The law condemns, convicts, constrains and conducts an awakened sinner to Christ.   Rom. 3:19,23; 7:8-11; 8:3; Gal.3:19-24  ( Judge, warden, executioner, conductor)
+- The law condemns, convicts, constrains and conducts an awakened sinner to Christ.   Rom. 3:19,23; 7:8-11; 8:3; Gal.3:19-24  (Judge, warden, executioner, conductor)
 
 Sin can hide in  society of men comparing one with another or else judging merely by the dictates of there own heart, but in the light of Perfect Holiness, sin becomes "exceedingly sinful".
 
