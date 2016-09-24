@@ -150,7 +150,7 @@ a.	Paul uses Abraham the Father of the nation of Israel to show the Jews the con
 Abraham was justified by faith and not by works.
 1)	Abraham believed God and it was counted unto him for 	righteousness. V. 3
 3)	Moses who was esteemed by the Jews as the writer of the Torah is 	called as a witness to the justification of Abraham by faith.
-Genesis 15:6And he believed in the LORD; and he counted it to him for righteousness
+Genesis 15:6 And he believed in the LORD; and he counted it to him for righteousness
 	This is a passage the Jews would have been well familiar with. Paul is using their own Scriptures to preach to the Jews justification by faith. The word counted carries the same meaning in Hebrew as it does on Greek. Righteousness was put to his account by faith. This is the meaning of Justification. Abraham was justified by faith the same way the Christians are today. God gave Abraham a promise; he believed God and it was counted unto him for righteousness.
 4)	God justifies the ungodly. V. 5
 	 Those who are not born&mdash;again are sinners and ungodly. The repentant sinner is declared righteous by God through the blood of Jesus. The ungodly do nothing to earn their salvation. They are justified totally by faith.
@@ -158,7 +158,7 @@ Genesis 15:6And he believed in the LORD; and he counted it to him for righteou
 David is called as a witness for justification by faith.
 Paul brings testimony from David to support the message of 	justification by faith.
 	 David was esteemed by the Jews as their great king. This quotation from the Psalms confirms that men are only justified by faith and not works.
-Psalms 32:1&mdash;2 A Psalm of David, Maschil. Blessed is he whose transgression is forgiven, whose sin is covered. Blessed is the man unto whom the LORD imputeth not iniquity, and in whose spirit there is no guile.
+Psalms 32:1&mdash;2 A Psalm of David, Maschil. Blessed is he whose transgression is forgiven, whose sin is covered. Blessed is the man unto whom the LORD imputeth not iniquity, and in whose spirit there is no guile.
 David was thanking God that His sin was forgiven and the sin was 	not put to his account. If sin was not imputed to him and his sin was forgiven this means he was restored to a right relationship with God. Justification is the Divine action of being placed in a right relationship with God through Jesus. David did not earn justification it was received by faith.
 
 Abraham was justified by Grace. Vs 9&mdash;17
