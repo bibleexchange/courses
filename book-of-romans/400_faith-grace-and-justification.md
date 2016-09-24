@@ -32,13 +32,13 @@ Abraham is referenced as &quot;our father&quot; in verses 1,12 and 17. Abraham w
 The Jews were holding to their relationship to Abraham (&quot;abraham&apos;s children according to the flesh&quot;) as their guarantee to eternal life. The Jews placed great confidence in Abraham the Father of their nation and it is the Jewish questions, Paul is addressing:
 
 &mdash; What about Abraham our Father?
-&mdash; What about the covenant of circumcision given to Abraham, doesnt that make us righteous?
+&mdash; What about the covenant of circumcision given to Abraham, doesn&apos;t that make us righteous?
 
 ##### b. What saith the Scripture?
 
 > Romans 4:3 &mdash;For what saith the scripture? …
 
-Romans chapter 4 deals with &quot;Abrahams Righteousness&quot;. Abraham is an example of justification by grace through faith.  Paul uses Abrahams life as recorded in SCRIPTURE to explain the doctrine of righteousness by faith. In both Chapter 3 and Chapter 4, Paul is bringing out the truth that he is not teaching a Gospel that is in competition with the Scriptures (Old Testament), but rather a Gospel that is a continuation of God&apos;s Eternal Purpose.
+Romans chapter 4 deals with &quot;Abraham&apos;s Righteousness&quot;. Abraham is an example of justification by grace through faith.  Paul uses Abraham&apos;s life as recorded in SCRIPTURE to explain the doctrine of righteousness by faith. In both Chapter 3 and Chapter 4, Paul is bringing out the truth that he is not teaching a Gospel that is in competition with the Scriptures (Old Testament), but rather a Gospel that is a continuation of God&apos;s Eternal Purpose.
 
 1. In chapter 3, Paul affirms that faith does not void the Law but rather establishes it.
 2. In chapter 4, the promise given to Abraham was  not through the Law (circumcision) but through the righteousness of faith.
@@ -115,24 +115,24 @@ Review and glean:
 
 A.	IT IS OF FAITH THAT IT MIGHT BE BY GRACE &mdash; 4:1&mdash;25
 
-	Romans chapter four deals with Abrahams Righteousness. Abraham is an example of justification by faith.  Paul uses Abrahams life to explain the doctrine of righteousness by faith. Abrahams Faith is recorded.
+	Romans chapter four deals with Abraham&apos;s Righteousness. Abraham is an example of justification by faith.  Paul uses Abraham&apos;s life to explain the doctrine of righteousness by faith. Abraham&apos;s Faith is recorded.
 Abraham is mentioned as our Father (1:1; 1:12; 1:17)
 1.	Father as pertaining to flesh.
 2.	Father of circumcision.
 3.	Father of our faith.
 4.	Father of nations. (This was the promise of God to Him)
-Abraham is used to support Pauls doctrine.
+Abraham is used to support Paul&apos;s doctrine.
 1.	Mosaic Law was not the first step in act of Redemption.
 2.	History of chosen people did not begin at Sinai.
 3.	Covenant with Abraham extended beyond Mosaic covenant of works.
 4.	Covenant of Grace precedes covenant of works.
-5.	Whole chapter is occupied with Gods dealing with Abraham.
-Pauls arguments are presented.  (Verses 1&mdash;25)
+5.	Whole chapter is occupied with God&apos;s dealing with Abraham.
+Paul&apos;s arguments are presented.  (Verses 1&mdash;25)
 1.	Righteousness is by faith.
 2.	Righteousness is not obtained by works.
 3.	It is not acquired by circumcision.
 4.	You cannot gain it through adherence of the law.  4:13&mdash;17
-5.	Abrahams faith shows us an example that we must follow.
+5.	Abraham&apos;s faith shows us an example that we must follow.
 6.	Paul reasoned that righteousness by faith is the only way to please God.
 
 1.	Justification by Faith is illustrated in the life of Abraham.  Vs. 1&mdash;8
@@ -144,7 +144,7 @@ a.	Paul uses Abraham the Father of the nation of Israel to show the Jews the con
 1)	The Jews placed great confidence in Abraham the Father of their nation.
 	God is using the example of Abraham to prove to them how men are justified.
 1)	Paul was addressing the questions of the Jew.
- 	What about Abraham our Father?  What about the covenant of circumcision given to Abraham, doesnt that make us righteous? The Jews were holding to the covenant of Abraham which they believed guaranteed them eternal life.
+ 	What about Abraham our Father?  What about the covenant of circumcision given to Abraham, doesn&apos;t that make us righteous? The Jews were holding to the covenant of Abraham which they believed guaranteed them eternal life.
 2)	What saith the Scripture?  V. 3
 	Paul was using the Scripture as the authority to refute the Questions of the Jews. So should the Christian today look to the Word of God as the final authority in settling questions. As much as possible it is good to answer the questions of people with the Bible.
 Abraham was justified by faith and not by works.
