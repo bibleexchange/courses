@@ -1,4 +1,4 @@
-# The Law Reigns over the Man Living in Sin – Romans 7
+# The Law Reigns over the Man Living in Sin &mdash; Romans 7
 
 ## Introduction
 
@@ -12,7 +12,7 @@ Romans chapter seven deals with Carnality and the sinners relationship (so long 
 
 #### Verses 7&ndash;13: The Law is Holy, And Just and Good
 
-#### Verses 14&ndash;25: Paul’s Captivity to the Law of Sin 
+#### Verses 14&ndash;25: Paul’s Captivity to the Law of Sin
 
 ## Dead that You May be Married to Another (vs. 1-6)
 
@@ -32,7 +32,7 @@ As long as a person is LIVING in sin they are under the law. The Sinner has no c
 
 Death dissolves the legal obligation of the marriage. The sinner can be free from the power of sin and the penalty of the broken law.
 
-> Romans 7:4—We must “become dead to the law by the body of Christ” 
+> Romans 7:4—We must “become dead to the law by the body of Christ”
 
 <!-- -->
 
@@ -49,19 +49,19 @@ Death dissolves the legal obligation of the marriage. The sinner can be free fro
 
 ### The Service of the Union with Jesus Christ
 
-From this union with Christ will come our service to Christ. 
+From this union with Christ will come our service to Christ.
 
-> Romans 7:6&mdash; But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not in the oldness of the letter. 
+> Romans 7:6&mdash; But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not in the oldness of the letter.
 
 #### Serve with newness of life	6:4
 #### Serve in newness of Spirit	7:6
-#### Serve with new power          Ro.1:16; 8:11; 1Co 6:14; 2Co 13:4; II Thess.1:11
-#### Serve as a new creature     II Cor. 5:17; Gal.6:15
+#### Serve with new power Ro.1:16; 8:11; 1Co 6:14; 2Co 13:4; II Thess.1:11
+#### Serve as a new creature II Cor. 5:17; Gal.6:15
 
 ### The Fruitfulness of this Union
 
 Union with Christ enables us to bring forth fruit.
- 
+
 #### Our union with sin disabled us unto death.
 
 Rom.1:32; 6:21; 7:5; Gal.5:19-21
