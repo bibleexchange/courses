@@ -75,37 +75,43 @@ God knows what He is doing, Follow Him.
 
 #### There are three laws mentioned here.
 
-1. The Law of the Spirit of Life
+1. The Law of Sin and Death
 
-This law is greater than the law of sin and death. It is the life of Jesus imparted to the believer by faith. It is the law that makes you free from sin and death. Knowing the Truth of the law of the Spirit of life makes you free to serve the Lord Jesus Christ. Liberty is man’s born again state. Serving the Lord brings more abundant life. Every believer must manifest the Life of Jesus more and more unto Sonship.
+It is like the law of gravity always pulling you down. It opposes that which is good and Godly. Brings you into bondage and condemnation. Bondage to sin makes you a servant to Satan. Serving the law of sin brings death. (Romans 7:22,23; 
 
-2. The law of sin and death
+2. The Law of God (Given Through Moses)
 
-It is like the law of gravity always pulling you down. It opposes that which is good and Godly. Brings you into bondage and condemnation. Bondage to sin makes you a servant to Satan. Serving the law of sin brings death.
+It is Righteous, good and Holy. It opposes sin and the works of the flesh. It brings you to conviction and decision. The law being weak cannot save but does point to Christ.
 
-3. The Law of God
+3. The Law of the Spirit of Life
 
-It is Righteous, good and Holy. It opposes sin and the works of the flesh. It brings you to conviction and decision. The law being weak cannot save but can point the way to Christ. Obedience to the law is liberty but can only be done through Jesus Christ.
+This law is greater than the law of sin and death. It is the life of Jesus imparted to the believer by faith. Liberty is man’s born again state&mdash;free to serve the Lord Jesus Christ. Serving the Lord brings more abundant life. Every Believer must manifest the Life of Jesus more and more. 
+
+The Type
+> II Chronicles 8:16 &mdash;Now all the work of Solomon was prepared unto the day of the foundation of the house of the Lord, and until it was finished. So the house of the Lord was perfected.
+
+The Antitype
+> Proverbs 4:18&mdash;But the path of the just is as the shining light, that shineth more and more unto the perfect day.
+<!-- -->
+> Colossians 3:16&mdash;Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
 
 #### The  Nature of the “Law of the Spirit of Life”
 
-1.	Provides justification where the old law only condemned.
-2.	Works liberty where the old law only worked bondage.
-3.	It is a stronger law doing what the old law could not do in its weakness. (SANCTIFICATION, HOLINESS, RIGHTEOUSNESS)
-4.	Christ was been made flesh and identified with the sinful. The old law could only stand from a distance as a school master with a pointed finger.
-5.	This law works righteousness in the Believer; the old law could only identify unrighteousness.
-6.	This life is subject to the law of God, whereas the flesh is not and cannot be for it is an enemy of God--there can only be one master.
+Provides justification where the old law only condemned. Works liberty where the old law only worked bondage. It is a stronger law doing what the old law could not do in its weakness. (SANCTIFICATION, HOLINESS, RIGHTEOUSNESS) Christ was been made flesh and identified with the sinful. The old law could only stand from a distance as a school master with a pointed finger. This law works righteousness in the Believer; the old law could only identify unrighteousness. This life is subject to the law of God, whereas the flesh is not and cannot be for it is an enemy of God.
 
 ####  The Fulfilling of this "Law of the Spirit of Life.”
 
-1.	It is fulfilled in the one that walks not after the flesh, but after the Spirit.
-2.	Also, in those that mind the things of the Spirit, and not the things of the flesh. 
-3.	It is pleasing to God, but they that are in the flesh cannot please God.
-4.	If the Spirit of God dwell in you then His life is fulfilled in you, for you are no longer trying to serve God in the flesh, but have the Spirit of Christ to inspire and insure life.
-5.	This life is not your own, but is Christ’s life. (Galatians 2:20)
-6.	The fruit of this Life is righteousness. Your body is dead because of sin, but the Spirit is life because of righteousness.
-7.	This Life is not debtor to the flesh, but to God to serve Him and obey Him.
-8.	This Life is fulfilled in mortifying carnal deeds of the flesh.
+> Romans 8:4&mdash;That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.
+
+It is fulfilled in the one that walks not after the flesh, but after the Spirit. Also, in those that mind the things of the Spirit, and not the things of the flesh. It is pleasing to God, but they that are in the flesh cannot please God. If the Spirit of God dwell in you then His life is fulfilled in you, for you are no longer trying to serve God in the flesh, but have the Spirit of Christ to inspire and insure life. This life is not your own, but is Christ’s life (Galatians 2:20). This Life is not debtor to the flesh, but to God to serve Him and obey Him (v.12). This Life is fulfilled in mortifying carnal deeds of the flesh (v. 13).
+
+> James 1:25&mdash;But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed.
+
+This is to be contrasted with confused theology around us ...
+
+> ILLUSTRATION&mdash;:It is said that on his retreat from Greece after his great military expedition there, King Xerxes boarded a Phoenician ship along with a number of his Persian troops. But a fearful storm came up, and the captain told Xerxes there was no hope unless the ship's load was substantially lightened. The king turned to his fellow Persians on deck and said, "It is on you that my safety depends. Now let some of you show your regard for your king." A number of the men bowed to Xerxes and threw themselves overboard! Lightened of its load, the ship made it safely to harbor. Xerxes immediately ordered that a golden crown be given to the pilot for preserving the king's life -- then ordered the man beheaded for causing the loss of so many Persian lives!
+
+Whenever a struggling Believer is caught up in the "do's" or "do not do's", go back to the cross. The blood of Jesus and the sanctifying power of the Spirit is effective against sin! The Fulfillmnet of Righteousness of God in us, is the fruit of a life abiding in Christ.
 
 ### They Walk with a New Mind -- minding the things of the Spirit and not the things of the Flesh
 
@@ -153,30 +159,51 @@ The peace of the Believer is oftened threated by the Believer failing to look to
 
 > Romans 8:11 But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you.                     
 
+[[PAUSE HERE]]
+
 #### The Holy Ghost dwelling in you
 
 > 2 Corinthians 6:16 And what agreement hath the temple of God with idols? for ye are the temple of the living God; as God hath said, I will dwell in them, and walk in them; and I will be their God, and they shall be my people.
- 
+<!-- -->
+
+Will the Holy Ghost Dwell in an unclean temple?
+
+> 1 Corinthians 6:18-20&mdash;Flee fornication. Every sin that a man doeth is without the body; but he that committeth fornication sinneth against his own body. 19 What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own? 20 For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God's.
+
+<!-- -->
+
+> 1 Corinthians 3:17&mdash;If any man defile the temple of God, him shall God destroy; for the temple of God is holy, which temple ye are.
+
 #### Dwelling in the Holy Ghost
 
 A.	Be obedient to the Word in all things
 
-Ro 8:1—There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.                                                                                                                                            
-
- Col 3:16—Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.                      John 14:23—Jesus answered and said unto him, If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him.                                                 15:7—If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you.
+> 1 John 5:7,8&mmdash;For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one. 8 And there are three that bear witness in earth, the spirit, and the water, and the blood: and these three agree in one.
+<!-- -->
+> Romans 8:1&mdash;There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.                                                                                                                                            
+<!-- -->
+> Col 3:16—Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.                     
+<!-- -->
+> John 14:23—Jesus answered and said unto him, If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him.                                                 
+<!-- -->
+>John 15:7—If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you.
  
 B.	Be subject to the Spirit in all things—FOLLOW                                                            
 
+Submission is requires action. Stay, Go, Believe ...
+
 C.	Be led by the Spirit in all things—WALK WITH HIM
 
-Ro 8:28—And we know that all things work together for good to them that love God, to them who are the called according to his purpose.                                                                                                                                 14:17—For the kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost.                                                                                                                                                                                   14:19—Let us therefore follow after the things which make for peace, and things wherewith one may edify another.
+> Romans 8:28—And we know that all things work together for good to them that love God, to them who are the called according to his purpose.                                                                                                                                 
+<!-- -->
+> Romans 14:17—For the kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost.                                                                                                                                                                               <!-- -->                                                                                                                                                                                   > Romans 14:19—Let us therefore follow after the things which make for peace, and things wherewith one may edify another.
 
 D. Through a Disciplined Prayer life & a Dedicated Mind to the Spirit God will Fulfill His Righteousness in Us
 
-Ro 8:2—For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.   4—That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.
-                                                                                                                                               Ro 1:5—By whom we have received grace and apostleship, for obedience to the faith among all nations, for his name:                                                                                                                                                      
-                                                                                                                                                16:26—But now is made manifest, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith:    
+> Ro 8:2—For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.   4—That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.
+                                                                                                                                               > Romans 1:5&mdash;By whom we have received grace and apostleship, for obedience to the faith among all nations, for his name:                                                                                                                                                      
+                                                                                                                                                > Romans 16:26&mdash;But now is made manifest, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith:    
                                                                                                                                                 
-                                                                                                                                              2Co 10:5—Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;
+                                                                                                                                              > 2 Corinthians 10:5&mdash;Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;
                                                                                                                                               
 Romans eight sets forth that part in our salvation which is exercised by the third person of the Godhead, the blessed Holy Ghost.  Without Christ's work on the cross there would be no salvation, and without the presence and constant operation of the Holy Ghost, there would be no application of that salvation to us. Righteousness in life is possible through power of the Holy Ghost.
