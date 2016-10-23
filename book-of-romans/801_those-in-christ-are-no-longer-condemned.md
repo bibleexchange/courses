@@ -125,7 +125,7 @@ The spiritual mind produces life: A Mind Focused on Truth will Have Faith, A Min
 
 #### It Makes a Difference What, How and How Much You Think
 
-It makes a difference what you think.         	Mindset                                                                                           It makes a difference how you think.          	Meditation                                                                                                  It makes a difference what you dwell on.		Motive                                                                                                 
+It makes a difference what you think.         	Motive                                                                                                                                                                                            It makes a difference how you think.          	Mindset                                                                                                  It makes a difference what you dwell on.		Meditation
 
 - Are we spiritually or carnally minded?
 
@@ -136,7 +136,7 @@ The peace of God will rule in a mind steadfast on Him.
 > 2 Thess. 3:16 Now the Lord of peace himself give you peace always by all means. The Lord be with you all.
 <!-- -->
 > Isiah 26:3&mdash;Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee
- 
+
 - How Weighty is the Will of God to my process?
 
 Is my mindset in tune with the Lord? Is my thinking in alignment with the Word of God? Is our walk right with God?
@@ -158,8 +158,6 @@ The peace of the Believer is oftened threated by the Believer failing to look to
 <!-- -->
 
 > Romans 8:11 But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you.                     
-
-[[PAUSE HERE]]
 
 #### The Holy Ghost dwelling in you
 
