@@ -2,7 +2,7 @@
 
 ## Review
 
-### Summary of Romans 8: 
+### Summary of Romans 8
 
 **Those in Christ ...**
 
@@ -12,59 +12,169 @@
 - Will Be Glorified Through the Ministry of the Holy Ghost, vs. 26-30
 - Have God as Their Advocate, vs. 31-39
 
-### Review of Verses 1-9
-
-**Those in Christ, the uncondemned &hellip;**
-- Walk in Liberty
-- Walk Not After the Flesh but After the Spirit
-- Walk According to a New Law
-- Walk with a New Mind
-
-## Those in Christ Have Received the Spirit of Adoption, vs. 10-16
+### Review of Verses 10-13 "I Have Received a New Work"
 
 > Romans 8:15&mdash;For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father.
 
+Having Received the Spirit of Adoption, I have Received a New Work. We can see the importance of works of righteousness in verses 10 through 13.
+
+- Because of Christ's Work, I have Life v.10
+- Because of the The Holy Ghost’s Work, I am Alive v.11
+- Because I am Alive, I Work vs.12-13
+
+## Those in Christ Have Received the Spirit of Adoption, vs. 10-16
+
 ### Having Received the Spirit of Adoption, I have Received a New Work, vs. 10-13
 
-<!-- PART 1 -->
+[[ previous study, PART 1 (reviwed above)]]
 
-### Having Received the Spirit of Adoption, I Have Been Received into a new Family vs. 14-16
+### Having Received the Spirit of Adoption, I have Been Received into a new Family vs. 14-16
 
-Completed Righteousness, the redemption of our body. BECAUSE OF ADOPTION     8:12 - 23
+> Romans 8:14-16&mdash;For as many as are led by the Spirit of God, they are the sons of God. 15 For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father. 16 The Spirit itself beareth witness with our spirit, that we are the children of God:
 
-8:14	"For as many as are led by the spirit"    “led” (controlled) by the spirit.                                        Divine Guidance is the scriptural evidence of Maturity and Sonship.
-There is a difference between Divine guidance and natural reasoning, circumstances or impressions.
-		Sons of God - "Sons" means adult sons - sons come of age
+#### The Family of God
 
-Two total separate  spirits are contrasted in 8:15
-8:15	1.	We have not received the spirit of bondage.       No longer under the law.
-	2.	"We have received the spirit of adoption."
-8:14-30 Adoption
-We are introduced here to a deeper concept which is adoption, the manifestation of the sons of God. We understand that every man is BORN into the family of God, so what is this adoption all about? Adoption has to do with placing the fully matured and fully developed into Sonship. This thought combined with the manifestation of the sons of God speak of God’s ultimate plan in salvation. He is desirous to have many sons like His only Son. We often refer to this plan as End Time Salvation. 
-End Time Salvation
+##### We are a Part of Something Great
+
+Family - Household - Body - Husbandry/Field - Building - Church - Flock - Citizens
+
+> Ephesians 2:19-22&mdash;Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;
+<!-- -->
+> Galatians 6:10 &mdash;As we have therefore opportunity, let us do good unto all men, especially unto them who are of the household of faith.
+<!-- -->
+> Romans 12:5&mdash;So we, being many, are one body in Christ, and every one members one of another.
+<!-- -->
+> 1 Corinthians 3:9&mdash;For we are labourers together with God: ye are God’s husbandry, ye are God’s building.
+<!-- -->
+> 1 Timothy 5:1-4&mdash;Rebuke not an elder, but intreat him as a father; and the younger men as brethren; 2 The elder women as mothers; the younger as sisters, with all purity. 3 Honour widows that are widows indeed. 4 But if any widow have children or nephews, let them learn first to shew piety at home, and to requite their parents: for that is good and acceptable before God.
+<!-- -->
+> 1 Timothy 3:15&mdash;But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth.
+<!-- -->
+> Hebrews 2:11&mdash;For both he that sanctifieth and they who are sanctified are all of one: for which cause he is not ashamed to call them brethren,
+
+##### Are we all God's children?
+
+> We are all different. Yet we are all God's children. We are all united behind this country and the common cause of freedom, justice, fairness, and equality. That is what unites us. &mdash;Barbara Boxer
+
+> The Son of God became incarnate in the souls of men to instill the feeling of brotherhood. All are brothers and all children of God.&mdash; Pope Francis
+
+> I cannot think that we are useless or God would not have created us. There is one God looking down on us all. We are all the children of one God. The sun, the darkness, the winds are all listening to what we have to say. &mdash;Geronimo
+
+> We are all children of the same God, and we have to come together to solve our problems and not be fighting so much. &mdash;Ann Romney
+
+> Given that sexual orientation is innate and that we are all, in theological terms, children of God, to deny access to some sacraments based on sexuality is as wrong as denying access to some sacraments based on race or gender. &mdash;Jon Meacham
+
+(Colossians 1:16 All people are God's creation, but only those born again are God's children. John 1:12,13; Galatians 3:26)
+
+> Think of what you are, you Christians. You are God's children; you are joint heirs with Christ. The 'many mansions' are for you; the palms and harps of the glorified are for you. You have a share in all that Christ has and is and shall be. &mdash;Charles Spurgeon
+
+#### Christian Maturity
+
+##### The Enemy of Maturity
+
+The doctrine of "sameness" is not only prevelant in secular arenas but is pervasive in Christian thought. After full inspection, this doctrine is oppositional to the doctrine of perfection.
+
+> 1 John 3:1-3&mdash;Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not. 2 Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is. 3 And every man that hath this hope in him purifieth himself, even as he is pure.
+
+<!-- -->
+
+> Galatians 4:1-5&mdash;Now I say, That the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all; 2 But is under tutors and governors until the time appointed of the father. 3 Even so we, when we were children, were in bondage under the elements of the world: 4 But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law, 5 To redeem them that were under the law, that we might receive the adoption of sons. 6 And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father. 7 Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ.
+
+<!-- -->
+> 2 Peter 1:4&mdash;Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust.
+
+The Christian is to be developing and maturing. We are not all the same in that respect. We all mature differently. (Stephen and Amelia)
+
+##### The Doctrine of Maturity - Perfection - Completed Righteousness - The Redemption of Our Body - Manifestation of the Sons of God
+
+- God's Work is not Complete in the Believer at Regeneration & Justification
+
+> Romans 8:23 &mdash;And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body
+
+##### The Evidence of Maturity
+
+> Romans 8:14&mdash;For as many as are led by the Spirit of God, they are the sons of God.
+
+- “led” (controlled) by the spirit.
+- Divine Guidance is the Scriptural evidence of Maturity and Sonship.
+- There is a difference between Divine guidance and natural reasoning, circumstances or impressions.
+- Sons of God - "Sons" means adult sons - sons that have come of age
+
+###### The Explanation of Maturity
+
+
+> 1 Peter 2:1-2&mdash;Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings, 2 As newborn babes, desire the sincere milk of the word, that ye may grow thereby:
+
+###### Greek Words in New Testament Translated Child and Related Terms
+
+1. teknon - that which is born (boy or girl)
+2. teknion - child (term of endearment)
+3. huios - son, male (origin, relationship to the father)
+4. pais - son or daughter (in relation to law) boy or girl (in relation to age) a servant or maid (in relation to condition)
+5. paidon - young or little child (term of endearment)
+6. paidarion - (a lad, little boy or girl)
+7. nepios - (not old enough to speak)
+8. brephos - an embryo
+9. korasion - young girl (term of endearment)
+10. neaniskos - young man (20-40 years old)
+
+
+In Romans 8:14-16 and Galatians 4:1-5, we are introduced to a deeper concept which is adoption, the manifestation of the sons of God. We understand that every man is BORN into the family of God, so what is this adoption all about? 
+
+Adoption has to do with placing the fully matured and fully developed into Sonship. This thought combined with the manifestation of the sons of God (v.19) speak of God’s ultimate plan in salvation. He is desirous to have many sons like His only Son. We often refer to this plan as End Time Salvation. 
 
 End Time Salvation is God’s plan of salvation in its totality, salvation to the uttermost, of the whole man—body, soul, and spirit—which in time past was not an available provision because of the appropriateness of time. It is now made available to us living in the end times (or, the time of the end).
-It is communicated throughout Scripture through many different thoughts. Listed below are some of the thoughts included in End Time Salvation: 
-End Time Deliverance                Full salvation           Apolutrosis: Complete State    of Release
-Adoption: The Placing of Sons
-One Hundred Fold Christian  Full Grown                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Manifestation of the Sons of God
-Fully Mature Sons of God    Perfect Man
-The Bride of Christ                     Overcomer                              Completeness of Personality                              
-                                                       Completeness of Sanctification        Man-child
-The first of the most needed messages of the bible!!!
-“the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death”          
-              
-              
-              
-              
-              
-              
-              
 
-II. ### Sonship							8:14-23
-Ro.1:4“The Spirit of Holiness” 8:2“The Spirit of life in Christ Jesus” 8:9“The Spirit of God”                                                                                                                                        8:11  “The Spirit of Him that raised up Jesus from the dead” 14 “The Spirit of God”                         (15  “The spirit of bondage”) 15 “The Spirit of Adoption” 
-11:8 “The spirit of slumber”                                                    15:19 “The Power of the Spirit”
-A. Manifested Son’s						8:14-23
+It is communicated throughout Scripture through many different thoughts. Listed below are some of the thoughts included in End Time Salvation: 
+- End Time Deliverance
+- Full salvation
+- Apolutrosis: Complete State of Release
+- Adoption: The Placing of Sons
+- One Hundred Fold Christian
+- Full Grown
+- Manifestation of the Sons of God
+- Fully Mature Sons of God
+- Perfect Man
+- The Bride of Christ
+- Overcomer
+- Completeness of Personality
+- Complete Sanctification
+- Man-child
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover latter --------------------
+#### Sonship       
+              
+##### Manifested Sons
+
 1. The meaning of Manifested Son’s
 a.  Manifested---apokalupsis,  ap-ok-al'-oop-sis                                                                                 
 Disclosure:--appearing, coming, lighten, be revealed, revelation, To take off the cover. 
