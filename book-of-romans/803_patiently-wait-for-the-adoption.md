@@ -12,65 +12,17 @@
 - Will Be Glorified Through the Ministry of the Holy Ghost, vs. 26-30
 - Have God as Their Advocate, vs. 31-39
 
-### Review of Verses 10-13 "I Have Received a New Work"
-
-> Romans 8:15&mdash;For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father.
-
-Having Received the Spirit of Adoption, I have Received a New Work. We can see the importance of works of righteousness in verses 10 through 13.
-
-- Because of Christ's Work, I have Life v.10
-- Because of the The Holy Ghost’s Work, I am Alive v.11
-- Because I am Alive, I Work vs.12-13
-
-## Those in Christ Have Received the Spirit of Adoption, vs. 10-16
-
-### Having Received the Spirit of Adoption, I have Received a New Work, vs. 10-13
-
-[[ previous study, PART 1 (reviwed above)]]
-
-### Having Received the Spirit of Adoption, I have Been Received into a new Family vs. 14-16
-
-> Romans 8:14-16&mdash;For as many as are led by the Spirit of God, they are the sons of God. 15 For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father. 16 The Spirit itself beareth witness with our spirit, that we are the children of God:
-
-#### The Family of God
-
-##### We are a Part of Something Great
-
-Family - Household - Body - Husbandry/Field - Building - Church - Flock - Citizens
-
-> Ephesians 2:19-22&mdash;Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;
+## Are No Longer Condemned, vs. 1-9
 <!-- -->
-> Galatians 6:10 &mdash;As we have therefore opportunity, let us do good unto all men, especially unto them who are of the household of faith.
+## Have Received the Spirit of Adoption, vs. 10-16
 <!-- -->
-> Romans 12:5&mdash;So we, being many, are one body in Christ, and every one members one of another.
-<!-- -->
-> 1 Corinthians 3:9&mdash;For we are labourers together with God: ye are God’s husbandry, ye are God’s building.
-<!-- -->
-> 1 Timothy 5:1-4&mdash;Rebuke not an elder, but intreat him as a father; and the younger men as brethren; 2 The elder women as mothers; the younger as sisters, with all purity. 3 Honour widows that are widows indeed. 4 But if any widow have children or nephews, let them learn first to shew piety at home, and to requite their parents: for that is good and acceptable before God.
-<!-- -->
-> 1 Timothy 3:15&mdash;But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth.
-<!-- -->
-> Hebrews 2:11&mdash;For both he that sanctifieth and they who are sanctified are all of one: for which cause he is not ashamed to call them brethren,
+## Patiently Wait for the Adoption, vs. 17-25
 
-##### Are we all God's children?
+>  17 And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together. 18 For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us. 19 For the earnest expectation of the creature waiteth for the manifestation of the sons of God. 20 For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope,  21 Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God. 22 For we know that the whole creation groaneth and travaileth in pain together until now. 23 And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body. 24 For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for? 25 But if we hope for that we see not, then do we with patience wait for it.
 
-> We are all different. Yet we are all God's children. We are all united behind this country and the common cause of freedom, justice, fairness, and equality. That is what unites us. &mdash;Barbara Boxer
+### Christian Maturity
 
-> The Son of God became incarnate in the souls of men to instill the feeling of brotherhood. All are brothers and all children of God.&mdash; Pope Francis
-
-> I cannot think that we are useless or God would not have created us. There is one God looking down on us all. We are all the children of one God. The sun, the darkness, the winds are all listening to what we have to say. &mdash;Geronimo
-
-> We are all children of the same God, and we have to come together to solve our problems and not be fighting so much. &mdash;Ann Romney
-
-> Given that sexual orientation is innate and that we are all, in theological terms, children of God, to deny access to some sacraments based on sexuality is as wrong as denying access to some sacraments based on race or gender. &mdash;Jon Meacham
-
-(Colossians 1:16 All people are God's creation, but only those born again are God's children. John 1:12,13; Galatians 3:26)
-
-> Think of what you are, you Christians. You are God's children; you are joint heirs with Christ. The 'many mansions' are for you; the palms and harps of the glorified are for you. You have a share in all that Christ has and is and shall be. &mdash;Charles Spurgeon
-
-#### Christian Maturity
-
-##### The Enemy of Maturity
+#### The Enemy of Maturity
 
 The doctrine of "sameness" is not only prevelant in secular arenas but is pervasive in Christian thought. After full inspection, this doctrine is oppositional to the doctrine of perfection.
 
@@ -83,9 +35,9 @@ The doctrine of "sameness" is not only prevelant in secular arenas but is pervas
 <!-- -->
 > 2 Peter 1:4&mdash;Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust.
 
-The Christian is to be developing and maturing. We are not all the same in that respect. We all mature differently. (Stephen and Amelia)
+The Christian is to be developing and maturing. We are not all the same in that respect. We all mature differently.
 
-##### The Doctrine of Maturity - Perfection - Completed Righteousness - The Redemption of Our Body - Manifestation of the Sons of God
+#### The Doctrine of Maturity - Perfection - Completed Righteousness - The Redemption of Our Body - Manifestation of the Sons of God
 
 - God's Work is not Complete in the Believer at Regeneration & Justification
 
@@ -260,3 +212,84 @@ Believers will find themselves calling God "Father" in their prayers and communi
 
 
 
+
+
+
+////////////////////////////////////////////////////////
+A. Walking after the Spirit is Liberty			Ch. 8
+Romans chapter eight deals with our position in Christ.  We are free from sin and death. 
+The law of sin brought bondage, but the Law of the Spirit of life in Christ Jesus has worked great liberty!  OUR POSITION IN CHRIST is free from condemnation.
+1. 8:10-16	Mortify the Deeds of the Body, Ye shall Live
+2. 8:17-25	Hope of Adoption as Joint Heirs
+3. 8:26-28	The Spirit Helps our Infirmities
+4. 8:29-30 	The Hope of Glorification
+5. 8:31-39	None Shall Stand Against Us, It is God that Justifies
+The end of the chapter deals with the Christian’s Hope, which is; “If God be for us who can be against us.”  And that we are more than conquerors and that all things work together for good. The sufferings we go through are to teach us our motives.  
+
+
+----------------------------------------
+ 
+
+
+
+
+What the Christian can look forward to.
+8:17	If children - than heirs.     We have legal inheritance rights.
+8:14 speaks of adult sons.
+8:17 speaks of born ones - those who are born of the Word and of the Spirit.
+Iv. HOPE OF SUFFERING
+Sufferings in comparison to glory.  (If we suffer we shall also reign)
+8:18	The Glory revealed (in) us.
+8:19	"Creature waiteth"		Earnest expectation within.
+
+
+
+Hope and faith is part of Christian living.
+8:20	For the creation was subjected to vanity, not of its own will, but by reason of Him who subjected it in hope.
+(God has a vast plan, reaching on into eternity, and "hope" lies ahead for creation.)
+8:21	"The creature shall be delivered."
+From bondage of corruption (although we are new creatures in Christ, yet God has left our bodies as a link with the present creation)
+8:24 – 25  Hope - something you know will transpire in your soul.
+		- Patience - wait for it.     (Good things come hard in life)
+8:26 Holy Spirit helpeth our infirmities.       Our divine helper;   Spirit - breath of God
+1.  Prayer - (spirit prays) understood by God.                                                                                               2.  According to His will - the spirit knows how to pray.
+8:27	Jesus our intercessor.     - Go between -     Mediator                                                                                                 8:28	Providential Care.  "All things work together for good"  to them that are called.
+Called does not mean invited.  "the called" are seen to be a company whose mark is neither religious response nor intellectual apprehending, but the electing grace of God.
+Called according to His purpose                                           God is infinite; man, a bit of dust
+God has a purpose, (a fixed intention)                                                                                        It will come to pass.
+
+
+God's major purpose in life of the Christian
+8:29	Predestinate                                                                                                                                                     He did also predestinate                                                                                                            Fore-Know foreknowledge                                                                                                                     Predestined to be conformed to His image
+
+
+
+
+God acts toward the believer.
+8:30	Called:     Them He also called   (called to be like God)                                                                              8:30	Justified:
+1.  Freed from sin.                                                                                                                 2.  Positioned in Christ.
+8:30	Glorified:	Eternal glory  - glory revealed in us
+
+
+V. COMPLETE ASSURANCE     (Confidence in God – Security)
+
+
+
+
+Six Questions
+8:31	What shall we then say?  		(to these things)                                                                                      8:31	If God be for us?			(Who can be against us)                                                                                8: 32	Shall he not freely give us all things?	(He spared not His own Son)                                               8:33	Who shall lay anythings against God's elect? 	(It is God that justifieth)                              8: 34	Who is he that condemneth?	(It is Christ that dies, and is risen again)                                       8:35	Who shall separate us?		(From the love of Christ)
+Verse 36:	Notice 7 Things Tested
+1.  Tribulations                                                                                                                     2.  Distress                                                                                                                                      3.  Persecution                                                                                                                                                            4.  Famine                                                                                                                                          5.  Nakedness                                                                                                                                                                    6.  Peril
+
+
+                                                                                                                                  7.  Sword
+Is there anything that can separate us from the love of God?
+8:38 - 39	"For I am persuaded that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor height, nor depth, nor any other creature, shall be able to separate us from the love of God which is in Christ Jesus our Lord.	
+There is a difference between knowing something and being persuaded of it.
+Persuaded - There is a difference between knowing a truth and being heart persuaded of it.
+Paul in his experience, had been through all these trials and tests.
+Persuaded - His mind, his conscience, his heart, his whole being, were sublimely committed into God.
+"God is love," and the "Father loveth the Son," and those connected with Christ find themselves wrapped in the same eternal affection shown by God to His Dear Son.
+CONCLUSION:
+The 2-fold secret of Christian living is described by two phrases in verse 1 and 10 - "in Christ Jesus" and "if Christ be in you."
+The Christian's will is to live in Christ a life pleasing to God.  The Holy Spirit dwells in us, empowering us to live such a life.
