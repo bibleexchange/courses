@@ -1,4 +1,4 @@
-#Lessons from the Mountain
+# Lessons from the Mountain
 
 <blockquote class='quote'>Matthew gives first the Beatitudes, the joyous shouts of exclamation over the attitudes and the activities of disciples in the kingdom: the &ldquo;poor in spirit&rdquo; recognize their helplessness and have no one to trust but God; &ldquo;they that mourn&rdquo; are keenly conscious of their sin and deeply sensitive to the needs of others; &ldquo;the meek&rdquo; are the teachable, those who are always willing to learn new truth and new ways; those who &ldquo;hunger and thirst after righteousness&rdquo; have an insatiable longing for a deeper relationship with God.&mdash;Teachers Bible Commentary</blockquote>
 
