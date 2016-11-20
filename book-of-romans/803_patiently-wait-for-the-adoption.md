@@ -43,6 +43,18 @@ The Christian is to be developing and maturing. We are not all the same in that 
 
 > Romans 8:23 &mdash;And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body
 
+We need to grow and Christ is the standard.
+
+> 2 Peter 3:18&mdash;But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and for ever. Amen. 
+<!-- -->
+> 1 Corinthians 13:9-12&mdash;For we know in part, and we prophesy in part. 10 But when that which is perfect is come, then that which is in part shall be done away. 11 When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things. 12 For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known.
+<!-- -->
+> James 1:2-4&mdash;My brethren, count it all joy when ye fall into divers temptations; 3 Knowing this, that the trying of your faith worketh patience. 4 But let patience have her perfect work, that ye may be perfect and entire, wanting nothing.
+<!-- -->
+> 2 Corinthians 3:18&mdash; 18 But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the Lord. 
+<!-- -->
+> Ephesians 4:13&mdash;Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:
+
 ##### The Evidence of Maturity
 
 > Romans 8:14&mdash;For as many as are led by the Spirit of God, they are the sons of God.
@@ -53,7 +65,6 @@ The Christian is to be developing and maturing. We are not all the same in that 
 - Sons of God - "Sons" means adult sons - sons that have come of age
 
 ###### The Explanation of Maturity
-
 
 > 1 Peter 2:1-2&mdash;Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings, 2 As newborn babes, desire the sincere milk of the word, that ye may grow thereby:
 
@@ -70,10 +81,72 @@ The Christian is to be developing and maturing. We are not all the same in that 
 9. korasion - young girl (term of endearment)
 10. neaniskos - young man (20-40 years old)
 
+##### The Development of the Child
 
-In Romans 8:14-16 and Galatians 4:1-5, we are introduced to a deeper concept which is adoption, the manifestation of the sons of God. We understand that every man is BORN into the family of God, so what is this adoption all about? 
+- **Unborn** - "gaster" in the belly, "with child", unborn
+1. Not Yet prodouced
+2. Developing within the Body of the mother
 
-Adoption has to do with placing the fully matured and fully developed into Sonship. This thought combined with the manifestation of the sons of God (v.19) speak of God’s ultimate plan in salvation. He is desirous to have many sons like His only Son. We often refer to this plan as End Time Salvation. 
+> 1 Thessalonians 5:3&mdash;For when they shall say, Peace and safety; then sudden destruction cometh upon them, as travail upon a woman with child; and they shall not escape.
+
+
+- **Child** - "teknon" not fully mature, still in the process of development
+1. Not in the place to receive the full inheritance
+
+Until the time apointed by the faither (Galatians 4:1-2) and ready to be revelated in the last time. (1 Peter 1:4,5; Luke 21:28; Ephesians 1:14; Romans 8:22,23)
+
+2. It does not yet appear what we shall be (1 John 3:2)
+
+A. "Now are we the sons (teknon) of God." The KJV uses the word sons to denote "teknon" which is never a mature son, but a younger child. We are now the sons (teknon) of God, who are not yet in the place to receive their full inheritance, but when HE SHALL APPEAR, WE SHALL BE LIKE HIM. Notice the text does not say "after He appears" but "when He appears". Ephesians 5:25-27 A READY & PREPARED PEOPLE.
+
+B. In the last days, God is perfecting a people to bring them into their full inheritance.
+
+- **Son** - "huios" a mature son, a placed son ( connected with the inheritance)
+
+The Manchild is a fully mature son of God, a placed son, who is walking in fulll in heritance rights. 1 Peter 1:4,5; Ephesians 1:14; A Perfect man. Ephesians 4:12-13; Matthew 5:48;
+
+
+### The Meaning of Adoption
+
+In Romans 8:14-16 and Galatians 4:1-5, we are introduced to a deeper concept which is adoption, the manifestation of the sons of God. We understand that every man is BORN into the family of God (John 3:3), so what is this "adoption" all about? 
+
+#### Adoption in Roman Law
+
+Adoption is the legal action by which a person takes into his family a child not his own with the purpose of treating him as and giving him all the privileges of his own natural child. An adopted child is legally entitled to all rights and privileges of a natural-born child.
+
+According to the Roman legal system the person who was adopted into a family gained all the legal rights of a legitimate son in the new family, but he lost all the rights, privileges and responsibilities in his old family. He was now an equal with the other sons and daughters in his new family. He was a co-heir with them according to the law. He was regarded as a new person who had a new life in a new family.
+
+Another wonderful thing about the Roman law was that the old life of the adopted son was completely wiped out. All of his debts were cancelled. His past now had nothing to do with him. He was in a new relationship with a new family.
+
+#### Adoption in Jewish Law &amp; Custom
+
+There was no Jewish adoption law, and when a man died without male offspring to continue his line, there were other provisions made. This was different from Roman law which allowed a man to create an heir from outside his family.
+
+Although no official Jewish law of adoption we can see the principles of adoption were not lost to the Jews as in the cases of:
+
+- Abraham and his servant Eliezer (Genesis 15:2-4)
+- Moses (Exodus 2:10)
+- Genubath (1 Kings 11:20)
+- Esther (Esther 2:7)
+
+#### Adoption in Relation to the Believer
+
+The Greek word for adoption (huiothesia) means to "place as a son" and is used only by Paul in the New Testament. Paul uses this word five times in his letters.
+
+> Romans 8:15&mdash;For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father.
+<!-- -->
+> Romans 8:23&mdash;And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body.
+<!-- -->
+> Romans 9:4&mdash;Who are Israelites; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;
+<!-- -->
+> Galatians 4:5&mdash;To redeem them that were under the law, that we might receive the adoption of sons.
+<!-- -->
+> Ephesians 1:5&mdash;Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,
+<!-- -->
+
+Adoption in Paul's letters is expansive. It includes the principles of "placement in the family of God" as for each Believer is a work completed, but it also speaks of a work not yet done. In Romans 8:23, Adoption is something the Believer who has received the firstfruits of the Spirit does "wait for".
+
+The "Adoption" for which the Believer patiently waits has to do with placing the fully matured and fully developed into Sonship. This thought combined with the manifestation of the sons of God (v.19) speak of God’s ultimate plan in salvation. He is desirous to have many sons like His only Son. We often refer to this plan as End Time Salvation. 
 
 End Time Salvation is God’s plan of salvation in its totality, salvation to the uttermost, of the whole man—body, soul, and spirit—which in time past was not an available provision because of the appropriateness of time. It is now made available to us living in the end times (or, the time of the end).
 
@@ -81,7 +154,7 @@ It is communicated throughout Scripture through many different thoughts. Listed 
 - End Time Deliverance
 - Full salvation
 - Apolutrosis: Complete State of Release
-- Adoption: The Placing of Sons
+- Adoption: The Placing of Sons (Sonship)
 - One Hundred Fold Christian
 - Full Grown
 - Manifestation of the Sons of God
@@ -93,7 +166,11 @@ It is communicated throughout Scripture through many different thoughts. Listed 
 - Complete Sanctification
 - Man-child
 
+<!-- -->
 
+### Closer Look at the Text Itself (verses 17-25)
+
+>  17 And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together. 18 For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us. 19 For the earnest expectation of the creature waiteth for the manifestation of the sons of God. 20 For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope,  21 Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God. 22 For we know that the whole creation groaneth and travaileth in pain together until now. 23 And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body. 24 For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for? 25 But if we hope for that we see not, then do we with patience wait for it.
 
 
 

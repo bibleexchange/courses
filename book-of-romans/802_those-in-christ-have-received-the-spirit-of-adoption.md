@@ -140,7 +140,7 @@ Who I am in the eyes of God is dependant on what Christ has done for me. We use 
 
 #### Led into a Perfect Walk
 
-A church that is half in and half out is the product of the flesh and not allowing the Spirit of God to lead.
+A Believer that is half in and half out is the product of the flesh and not allowing the Spirit of God to lead.
 
 ##### Jehoshaphat
 
