@@ -64,6 +64,44 @@ We need to grow and Christ is the standard.
 - There is a difference between Divine guidance and natural reasoning, circumstances or impressions.
 - Sons of God - "Sons" means adult sons - sons that have come of age
 
+1. Distinct Direction
+
+- The Holy Spirit makes no mistakes. People do, but the Holy Spirit does not.
+- The Holy Spirit leads as the Pillar of Cloud and Fire that led Israel.
+- The Holy Spirit guides as the guide to a traveller.
+- The Holy Spirit leads us as a General leads his army.
+- The Holy Spirit guides us as a ship is by the pilot. Where He governs He leads. They must be subject to His will. 
+- The Holy Spirit leads the willing.
+
+2. Detailed Direction
+
+- The Holy Spirit gives absolute, clear, detailed instructions.
+
+Philip (Acts 8:29-30); Peter (Acts 10:19-20); The Church ( Acts 13:2-4); Paul (Acts 16:6)
+
+- The Holy Spirit's Leading is into Truth (John 16:13), by the Word (Psalm 119:105) and in Power (Romans 8:14).
+
+> Romans 8:14&mdash;For as many as are led ["ago"]&hellip;
+
+The Greek word "ago" means to bring or carry like the wind. The Holy Spirit leads like the wind in the sails of a ship. The sails have to be set right. Also, like the influence of the son on teh trees. The sun draws life into the trees.
+
+3. Decision for Direction
+
+> Romans 8:14&mdash;For as many as are led ["ago"]&hellip;
+
+- There must be a decision made.
+- There must be a definite decision and your decision will not be changeable.
+- There must be a knowledgeable decision ( 1 Corinthians 2:9-10; Galatians 5:18)
+
+4. Deliverance Demanded
+
+> Romans 8:14&hellip;they are the sons of God.
+
+"huios" positioned as a son
+
+- Completed Deliverance
+- Mature Sons. Their conduct gives evidence of the diginity of their relationship and their likeness of His character.
+
 ###### The Explanation of Maturity
 
 > 1 Peter 2:1-2&mdash;Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings, 2 As newborn babes, desire the sincere milk of the word, that ye may grow thereby:
@@ -105,31 +143,39 @@ B. In the last days, God is perfecting a people to bring them into their full in
 
 The Manchild is a fully mature son of God, a placed son, who is walking in fulll in heritance rights. 1 Peter 1:4,5; Ephesians 1:14; A Perfect man. Ephesians 4:12-13; Matthew 5:48;
 
-
 ### The Meaning of Adoption
 
 In Romans 8:14-16 and Galatians 4:1-5, we are introduced to a deeper concept which is adoption, the manifestation of the sons of God. We understand that every man is BORN into the family of God (John 3:3), so what is this "adoption" all about? 
 
 #### Adoption in Roman Law
 
-Adoption is the legal action by which a person takes into his family a child not his own with the purpose of treating him as and giving him all the privileges of his own natural child. An adopted child is legally entitled to all rights and privileges of a natural-born child.
+Adoption is the legal action by which a person takes into his family a child not his own with the purpose of treating him as and giving him all the privileges of his own natural child. An adopted child is legally entitled to all rights and privileges of a natural-born child. In adoption a person is permanently placed in the family with the status of a son or attains sonship.
 
 According to the Roman legal system the person who was adopted into a family gained all the legal rights of a legitimate son in the new family, but he lost all the rights, privileges and responsibilities in his old family. He was now an equal with the other sons and daughters in his new family. He was a co-heir with them according to the law. He was regarded as a new person who had a new life in a new family.
 
 Another wonderful thing about the Roman law was that the old life of the adopted son was completely wiped out. All of his debts were cancelled. His past now had nothing to do with him. He was in a new relationship with a new family.
 
+The changes the adopted person went through under Roman law can be summarized as:
+
+1. A Change in **Family** ( Ephesians 3:14,15; 1 Corinthians 15:49)
+2. A Change in **Name** (Acts 11:26; Revelation 2:17; Revelation 3:12; John 1:42)
+3. A Change of **Home** (John 14:2; Philippians 3:20,21)
+4. A Change of **Responsibility** (Acts 13:38,39; Titus 3:1-11)
+
 #### Adoption in Jewish Law &amp; Custom
 
-There was no Jewish adoption law, and when a man died without male offspring to continue his line, there were other provisions made. This was different from Roman law which allowed a man to create an heir from outside his family.
+There was no Jewish "adoption" law, and when a man died without male offspring to continue his line, there were other provisions made. This was different from Roman law which allowed a man to create an heir from outside his family. In Jewish law, only sons by birth were esteemed.
 
-Although no official Jewish law of adoption we can see the principles of adoption were not lost to the Jews as in the cases of:
+Although there was no official Jewish law of adoption we can see the principles of adoption were not lost to the Jews as in the cases of:
 
 - Abraham and his servant Eliezer (Genesis 15:2-4)
-- Moses (Exodus 2:10)
-- Genubath (1 Kings 11:20)
-- Esther (Esther 2:7)
+- Moses in Pharoah's House (Exodus 2:10)
+- Genubath was brought into Pharoah's Household  among the sons of Pharoah (1 Kings 11:20)
+- Esther was raised in her uncle's home (Esther 2:7)
 
-#### Adoption in Relation to the Believer
+
+
+#### Adoption in Relation to the New Testament
 
 The Greek word for adoption (huiothesia) means to "place as a son" and is used only by Paul in the New Testament. Paul uses this word five times in his letters.
 
@@ -170,10 +216,39 @@ It is communicated throughout Scripture through many different thoughts. Listed 
 
 ### Closer Look at the Text Itself (verses 17-25)
 
->  17 And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together. 18 For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us. 19 For the earnest expectation of the creature waiteth for the manifestation of the sons of God. 20 For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope,  21 Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God. 22 For we know that the whole creation groaneth and travaileth in pain together until now. 23 And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body. 24 For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for? 25 But if we hope for that we see not, then do we with patience wait for it.
+The Believer has great things to look forward to in God. God has done great things in and for the Believer and there is yet a redemption that we patiently wait for in hope or faith! What does the Believer have to look forward to?
 
+#### Heirs of God (v. 17a)
 
+> 17 And if children, then heirs; heirs of God, and joint-heirs with Christ; 
 
+Sharing the relationship with the Father as a son, the Believer receives the privileges and inheritance of a son. Verse 14 speaks of "adult sons" who are Led by the Spirit (have proven the life Christ) and verse 17 speaks of ones born whose privileges are because of who Christ is! (Verse 16) And the Spirit bears witness with our Spirit that we are the children of God.
+
+#### Suffering unto Glorification (vs. 17b-18)
+
+> &hellip;if so be that we suffer with him, that we may be also glorified together. 18 For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us. 
+
+Trials prove the true character of the Christian. And although the suffering is not glorious, Paul brings our attention to glory that will follow. The Christian has the Hope of Suffering--if we suffer, we shall also reign.
+
+This result is to the glory of God! His glory revealed IN US.
+
+Christ is our example (1 Peter 2:21) Hebrews 2:10; 5:8-9; 1 Peter 4:1; James 5:10; Joseph; Moses; Job
+
+It is a choice to go the way of suffering Hebrews 11:25. 
+
+The nature of the suffering is that satan desires to destroy you. 1 Peter 2:20
+
+The results of the suffering Hebrews 12:11; 1 Peter 5:10
+
+#### The Creature Waits for the Manifestation of the Sons of God (vs. 19-22)
+
+19 For the earnest expectation of the creature waiteth for the manifestation of the sons of God. 20 For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope,  21 Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God. 22 For we know that the whole creation groaneth and travaileth in pain together until now. 
+
+God has a vast plan and Hope lies ahead for Creation. In bondage because sin is in the world, but there will be a deliverance!
+
+#### The Believer Waits for the Adoption, as Well
+
+23 And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body. 24 For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for? 25 But if we hope for that we see not, then do we with patience wait for it.
 
 
 
