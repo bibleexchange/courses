@@ -173,8 +173,6 @@ Although there was no official Jewish law of adoption we can see the principles 
 - Genubath was brought into Pharoah's Household  among the sons of Pharoah (1 Kings 11:20)
 - Esther was raised in her uncle's home (Esther 2:7)
 
-
-
 #### Adoption in Relation to the New Testament
 
 The Greek word for adoption (huiothesia) means to "place as a son" and is used only by Paul in the New Testament. Paul uses this word five times in his letters.
@@ -224,165 +222,6 @@ The Believer has great things to look forward to in God. God has done great thin
 
 Sharing the relationship with the Father as a son, the Believer receives the privileges and inheritance of a son. Verse 14 speaks of "adult sons" who are Led by the Spirit (have proven the life Christ) and verse 17 speaks of ones born whose privileges are because of who Christ is! (Verse 16) And the Spirit bears witness with our Spirit that we are the children of God.
 
-#### Suffering unto Glorification (vs. 17b-18)
-
-> &hellip;if so be that we suffer with him, that we may be also glorified together. 18 For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us. 
-
-Trials prove the true character of the Christian. And although the suffering is not glorious, Paul brings our attention to glory that will follow. The Christian has the Hope of Suffering--if we suffer, we shall also reign.
-
-This result is to the glory of God! His glory revealed IN US.
-
-Christ is our example (1 Peter 2:21) Hebrews 2:10; 5:8-9; 1 Peter 4:1; James 5:10; Joseph; Moses; Job
-
-It is a choice to go the way of suffering Hebrews 11:25. 
-
-The nature of the suffering is that satan desires to destroy you. 1 Peter 2:20
-
-The results of the suffering Hebrews 12:11; 1 Peter 5:10
-
-#### The Creature Waits for the Manifestation of the Sons of God (vs. 19-22)
-
-19 For the earnest expectation of the creature waiteth for the manifestation of the sons of God. 20 For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope,  21 Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God. 22 For we know that the whole creation groaneth and travaileth in pain together until now. 
-
-God has a vast plan and Hope lies ahead for Creation. In bondage because sin is in the world, but there will be a deliverance!
-
-#### The Believer Waits for the Adoption, as Well
-
-23 And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body. 24 For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for? 25 But if we hope for that we see not, then do we with patience wait for it.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-cover latter --------------------
-#### Sonship       
-              
-##### Manifested Sons
-
-1. The meaning of Manifested Son’s
-a.  Manifested---apokalupsis,  ap-ok-al'-oop-sis                                                                                 
-Disclosure:--appearing, coming, lighten, be revealed, revelation, To take off the cover. 
-b. It is a Revelation
-i. They are now hidden – in obscurity
-1. Like Israel in Egypt
-2. There is a time for Revelation
-3. Longing for something better
-c.    It is a Maturing
-i. A growing up					Eph.4:13-15
-1. We are children by faith		Gal. 3:26
-2. We need to grow up			Gal. 4:1-3
-3. We are in the process of growing
-d. It is a Deliverance
-i. First to the Overcomer			I Pt.1:3-5
-ii. Then to Creation				Rom.8:20-22
-1. The Time of the Manifesting of the Son’s of God
-I. Appointed of the Father			Gal.4:2
-1. In these last days                      		 I Pt. 1:4-5
-2. Not according to man’s desire		
-3. Not according to the flesh
-a.   No fleshly revelation
-b. No fleshly prophecy
-c.   No fleshly preaching
-d. No fleshly praying
-e.   No fleshly living
-4. Not a premature birth
-a.     Not a fleshly birth
-b. Not a child of the flesh
-5. According to the truth
-a. In respect of conception (normal – sound doctrine)
-b. In respect to birth
-c. In respect to maturity
-2. The Purpose of the Manifested Son’s
-I. To loosen Creation					8:19-22
-II. To Complete Redemption				8:23
-III. To Glorify God’s Son					8:17-18
-A. To Reveal His Son to us by His Spirit
-B. To Reveal His Son in us by His Spirit
-C. To have many Son’s like His only Son
-D. To have more Son’s like Jesus
-1. To be same in Nature			II Pt. 1:4
-a. Righteousness       Rom.1:17; 5:21; 6:16; Eph. 4:24
-b. Holiness    Ro1:4;6:19,22; IThes.3:13;4:7;	He12:10,14
-2. To be same in obedience
-a. Wisdom                                    Rom.14:33; 	I Cor. 1:30
-b. Sanctification                        II Thes. 2:13;  I Pt. 1:2
-Eph 4:13—Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ: 
-B. From slavery to Sonship						8:15-23
-Ro 8:15 For ye have not received the spirit of bondage (Slavery)again to fear; but ye have received the Spirit of adoption,(  whereby we cry, Abba, Father.
-1397.  douleia  douleia,  doo-li'-ah  (slavery)
-5206.  uioyesia  huiothesia,  hwee-oth-es-ee'-ah (the placing as a son)
-a. Requirements for Sonship				    	12-18
-b. Perfect through Sufferings 					8:17
-c. Conformed to the Image of His Son				8:28-30
-d. God’s Eternal Purpose					8:28-30
-C. The Redemption of Creation						8:18-23
-D. Redemption of the Body						8:23
-E. More than Conquerors						8:35-39
-
-
-1Peter 1:4—To an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you,  5—Who are kept by the power of God through faith unto salvation ready to be revealed in the last time. 
-Ephesians 4:13—Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:
-
-Mat.6:33; Mk. 4:20; Ro. 8:15-23; Eph. 1:13, 14; Colossians 1:22; Hebrews 7:25; Rev. 3:21; 19:7
-
-
-
-I Peter 1:5—Who are kept by the power of God through faith unto salvation ready to be revealed in the last time. (The signs surround us; we are in the “last time.”)
-
-I Corinthians 2:10 “But God hath revealed them unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God.”
-
-I Peter 1:10-12 “Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow.
-    Unto whom it was revealed, that not unto themselves, but unto us they did minister the things, which are now reported unto you by them that have preached the gospel unto you with the Holy Ghost sent down from heaven; which things the angels desire to look into.”
-Hebrews 11:39,40 “And these all, having obtained a good report through faith, received not the promise: God having provided some better thing for us, that they without us should not be made perfect.”
-Luke 21:28 “And when these things begin to come to pass, then look up, and lift up your heads; for your redemption draweth nigh.” (Apolutrosis)
-
-Paul emphasizes the importance of our relationship with Christ
-8:16	"Spirit itself bears witness with our spirit."                                                                                        The Holy Spirit and our spirit communicate.      "We are the children of God"
-Children in the natural grow up together as a family; Parents address them as children.
-Believers will find themselves calling God "Father" in their prayers and communion.          Children - tekna - Begotten of God through His word by Holy Spirit, and are partakers of His nature.				Adoption is for Adult - sons - huios
-
-
-
-
-
-
-
-////////////////////////////////////////////////////////
-A. Walking after the Spirit is Liberty			Ch. 8
-Romans chapter eight deals with our position in Christ.  We are free from sin and death. 
-The law of sin brought bondage, but the Law of the Spirit of life in Christ Jesus has worked great liberty!  OUR POSITION IN CHRIST is free from condemnation.
-1. 8:10-16	Mortify the Deeds of the Body, Ye shall Live
-2. 8:17-25	Hope of Adoption as Joint Heirs
-3. 8:26-28	The Spirit Helps our Infirmities
-4. 8:29-30 	The Hope of Glorification
-5. 8:31-39	None Shall Stand Against Us, It is God that Justifies
-The end of the chapter deals with the Christian’s Hope, which is; “If God be for us who can be against us.”  And that we are more than conquerors and that all things work together for good. The sufferings we go through are to teach us our motives.  
-
-
-----------------------------------------
- 
-
-
 
 
 What the Christian can look forward to.
@@ -411,37 +250,140 @@ Called according to His purpose                                           God is
 God has a purpose, (a fixed intention)                                                                                        It will come to pass.
 
 
-God's major purpose in life of the Christian
-8:29	Predestinate                                                                                                                                                     He did also predestinate                                                                                                            Fore-Know foreknowledge                                                                                                                     Predestined to be conformed to His image
 
 
 
 
-God acts toward the believer.
-8:30	Called:     Them He also called   (called to be like God)                                                                              8:30	Justified:
-1.  Freed from sin.                                                                                                                 2.  Positioned in Christ.
-8:30	Glorified:	Eternal glory  - glory revealed in us
 
 
-V. COMPLETE ASSURANCE     (Confidence in God – Security)
+#### Suffering unto Glorification (vs. 17b-18)
+
+> &hellip;if so be that we suffer with him, that we may be also glorified together. 18 For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us. 
+
+Trials prove the true character of the Christian. And although the suffering is not glorious, Paul brings our attention to glory that will follow. The Christian has the Hope of Suffering--if we suffer, we shall also reign.
+
+This result is to the glory of God! His glory revealed IN US.
+
+Christ is our example (1 Peter 2:21) Hebrews 2:10; 5:8-9; 1 Peter 4:1; James 5:10; Joseph; Moses; Job
+
+It is a choice to go the way of suffering Hebrews 11:25. 
+
+The nature of the suffering is that satan desires to destroy you. 1 Peter 2:20
+
+The results of the suffering Hebrews 12:11; 1 Peter 5:10
+
+#### The Creature Waits for the Manifestation of the Sons of God (vs. 19-22)
+
+19 For the earnest expectation of the creature waiteth for the manifestation of the sons of God. 20 For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope,  21 Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God. 22 For we know that the whole creation groaneth and travaileth in pain together until now. 
+
+God has a vast plan and Hope lies ahead for Creation. In bondage because sin is in the world, but there will be a deliverance!
+
+#### The Believer Waits for the Adoption, as Well
+
+23 And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body. 24 For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for? 25 But if we hope for that we see not, then do we with patience wait for it.
+
+"to wit" means "that is to say" ==== "The redemption of our body"
+
+The work is not complete yet in the Believer.
+
+- The Believer Patiently Waits for the Rapture and with that a new Body (
+- ---- 1 Corinthians 15:49-53-- vs. 51 Not all be die, but ALL WILL BE CHANGED -- to make different
+- ---- 2 Corinthians 5:1-5; 
+- ---- Phillipans 3:21)
+
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+
+
+
+##### Sonship - Manifested Sons
+
+1. The meaning of Manifested Son’s
+a.  Manifested---apokalupsis,  ap-ok-al'-oop-sis                                                                                 
+Disclosure:--appearing, coming, lighten, be revealed, revelation, To take off the cover. 
+b. It is a Revelation
+i. They are now hidden – in obscurity
+1. Like Israel in Egypt
+2. There is a time for Revelation
+3. Longing for something better
+c.    It is a Maturing
+i. A growing up					Eph.4:13-15
+1. We are children by faith		Gal. 3:26
+2. We need to grow up			Gal. 4:1-3
+3. We are in the process of growing
+d. It is a Deliverance
+i. First to the Overcomer			I Pt.1:3-5
+ii. Then to Creation				Rom.8:20-22
+1. The Time of the Manifesting of the Son’s of God
+I. Appointed of the Father			Gal.4:2
+1. In these last days                      		 I Pt. 1:4-5
+2. Not according to man’s desire		
+3. Not according to the flesh
+a. No fleshly revelation
+b. No fleshly prophecy
+c.   No fleshly preaching
+d. No fleshly praying
+e.   No fleshly living
+4. Not a premature birth
+a.     Not a fleshly birth
+b. Not a child of the flesh
+5. According to the truth
+a. In respect of conception (normal – sound doctrine)
+b. In respect to birth
+c. In respect to maturity
+
+
+2. The Purpose of the Manifested Son’s
+I. To loosen Creation					8:19-22
+II. To Complete Redemption				8:23
+III. To Glorify God’s Son					8:17-18
+A. To Reveal His Son to us by His Spirit
+B. To Reveal His Son in us by His Spirit
+C. To have many Son’s like His only Son
+D. To have more Son’s like Jesus
+1. To be same in Nature			II Pt. 1:4
+a. Righteousness       Rom.1:17; 5:21; 6:16; Eph. 4:24
+b. Holiness    Ro1:4;6:19,22; IThes.3:13;4:7;	He12:10,14
+2. To be same in obedience
+a. Wisdom                                    Rom.14:33; 	I Cor. 1:30
+b. Sanctification                        II Thes. 2:13;  I Pt. 1:2
+Eph 4:13—Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ: 
+B. From slavery to Sonship						8:15-23
+Ro 8:15 For ye have not received the spirit of bondage (Slavery)again to fear; but ye have received the Spirit of adoption,(  whereby we cry, Abba, Father.
+1397.  douleia  douleia,  doo-li'-ah  (slavery)
+5206.  uioyesia  huiothesia,  hwee-oth-es-ee'-ah (the placing as a son)
+a. Requirements for Sonship				    	12-18
+b. Perfect through Sufferings 					8:17
+c. Conformed to the Image of His Son				8:28-30
+d. God’s Eternal Purpose					8:28-30
+C. The Redemption of Creation						8:18-23
+D. Redemption of the Body						8:23
+
+
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
 
 
 
 
-Six Questions
-8:31	What shall we then say?  		(to these things)                                                                                      8:31	If God be for us?			(Who can be against us)                                                                                8: 32	Shall he not freely give us all things?	(He spared not His own Son)                                               8:33	Who shall lay anythings against God's elect? 	(It is God that justifieth)                              8: 34	Who is he that condemneth?	(It is Christ that dies, and is risen again)                                       8:35	Who shall separate us?		(From the love of Christ)
-Verse 36:	Notice 7 Things Tested
-1.  Tribulations                                                                                                                     2.  Distress                                                                                                                                      3.  Persecution                                                                                                                                                            4.  Famine                                                                                                                                          5.  Nakedness                                                                                                                                                                    6.  Peril
+1Peter 1:4—To an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you,  5—Who are kept by the power of God through faith unto salvation ready to be revealed in the last time. (The signs surround us; we are in the “last time.”)
 
+Ephesians 4:13—Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:
 
-                                                                                                                                  7.  Sword
-Is there anything that can separate us from the love of God?
-8:38 - 39	"For I am persuaded that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor height, nor depth, nor any other creature, shall be able to separate us from the love of God which is in Christ Jesus our Lord.	
-There is a difference between knowing something and being persuaded of it.
-Persuaded - There is a difference between knowing a truth and being heart persuaded of it.
-Paul in his experience, had been through all these trials and tests.
-Persuaded - His mind, his conscience, his heart, his whole being, were sublimely committed into God.
-"God is love," and the "Father loveth the Son," and those connected with Christ find themselves wrapped in the same eternal affection shown by God to His Dear Son.
-CONCLUSION:
-The 2-fold secret of Christian living is described by two phrases in verse 1 and 10 - "in Christ Jesus" and "if Christ be in you."
-The Christian's will is to live in Christ a life pleasing to God.  The Holy Spirit dwells in us, empowering us to live such a life.
+Mat.6:33; Mk. 4:20; Ro. 8:15-23; Eph. 1:13, 14; Colossians 1:22; Hebrews 7:25; Rev. 3:21; 19:7
+
+I Corinthians 2:10 “But God hath revealed them unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God.”
+
+I Peter 1:10-12 
+
+Hebrews 11:39,40 “And these all, having obtained a good report through faith, received not the promise: God having provided some better thing for us, that they without us should not be made perfect.”
+
+Luke 21:28 “And when these things begin to come to pass, then look up, and lift up your heads; for your redemption draweth nigh.” (Apolutrosis)
+
+<!-- THIS CHAPTER HASN'T BEEN COMPLETED YET -->
