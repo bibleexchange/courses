@@ -1,0 +1,33 @@
+{
+  "bible_verse_id":"066019007",
+  "title":"The Bride of Christ",
+  "description":"",
+  "image":"",
+  "authors": ["James R. Reynolds, Sr"],
+  "tags":[
+    "the bride of christ",
+    "tboc",
+    "james reynolds"
+  ],
+  "lessons":[
+
+    {"title":"Introduction to The Bride of Christ","summary":"", "steps":[
+      {"type":"GITHUB", "body":{"raw_url":  "https://raw.githubusercontent.com/bibleexchange/courses/master/the-bride-of-christ/cover.html"}},
+      {"type":"GITHUB", "body":{"raw_url":  "https://raw.githubusercontent.com/bibleexchange/courses/master/copyright.html"}},
+      {"type":"GITHUB", "body":{"raw_url":  "https://raw.githubusercontent.com/bibleexchange/courses/master/preface.html"}},
+      {"type":"GITHUB", "body":{"raw_url":  "https://raw.githubusercontent.com/bibleexchange/courses/master/dedicated.html"}},
+      {"type":"GITHUB", "body":{"raw_url":  "https://raw.githubusercontent.com/bibleexchange/courses/master/acknowledgements.html"}},
+      {"type":"GITHUB", "body":{"raw_url":  "https://raw.githubusercontent.com/bibleexchange/courses/master/introduction.html"}},
+      {"type":"GITHUB", "body":{"raw_url":  "https://raw.githubusercontent.com/bibleexchange/courses/master/structure-of-this-book.md"}},
+      ]},
+
+      {"title":"The Bride of Christ","summary":"", "steps":[
+        {"type":"GITHUB", "body":{"raw_url":  "https://raw.githubusercontent.com/bibleexchange/courses/master/the-bride-of-christ/the-bride-of-christ.html"}},
+        ]},
+
+      {"title":"The Body of Christ","summary":"", "steps":[
+        {"type":"GITHUB", "body":{"raw_url":  "https://raw.githubusercontent.com/bibleexchange/courses/master/the-bride-of-christ/the-body-of-christ.html"}},
+        ]},
+
+  ]
+}
