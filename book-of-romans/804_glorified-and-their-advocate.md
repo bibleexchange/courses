@@ -131,7 +131,7 @@ Complete Assurance (Confidence in God - Security)
 1. What Shall We Then Say? (to these things)
 2. If God be for us?
 3. Shall he not freely
-4. Who Shalll lay anything to God's elect?
+4. Who Shall lay anything to God's elect?
 5. Who is he that condemneth (it is Christ that died)
 6. Who Shall Separate Us
 
@@ -149,15 +149,15 @@ Persuaded -- knowing it versus be persuaded of it. a difference
 
 Note: Paul in his experiences, had been through all the trials and tests.
 
-Persuaded - His mind  his conscience and heart and hwole being weere sublimely committed to God. 
+Persuaded - His mind  his conscience and heart and whole being were sublimely committed to God. 
 
-The Christian is a conqueror. Overc omes the enemy and gains by the conflict! Our vicitories increase our faith.
+The Christian is a conqueror. Overcomes the enemy and gains by the conflict! Our victories increase our faith.
 
 The Christian's secret is "through Him that loved us" 
-- Not ourselves, but through Christ. But is not without efffort. We are strong through Him not "Effortless".
+- Not ourselves, but through Christ. But is not without effort. We are strong through Him not "Effortless".
 
 ## Conclusion
 
-The two fold secret of Christian living is described by thwo phrases in verse 1 and verse 10. "in Christ Jesus" and "if Christ be in you"
+The two fold secret of Christian living is described by two phrases in verse 1 and verse 10. "in Christ Jesus" and "if Christ be in you"
 
 The Christian's will is to live in Christ an life pleasing to God. The Holy Spirit dwells in us, empowering us to live such a life.
