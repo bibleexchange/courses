@@ -146,19 +146,79 @@ How is God's sovereignty expressed? God is a sovereign God so therefore he is al
 
 ### Clay in the Potters Hand, vs. 19-24
 
-> Romans 9:19-24&mdash;Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will? 20 Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus? 21  Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour? 22 What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction: 23 And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory, 24 Even us, whom he hath called, not of the Jews only, but also of the Gentiles?
+#### 1. God is Just v.19
 
-Verse 22:	Vessels of wrath fitted to destruction
+> Romans 9:19&mdash;Thou wilt say then unto me, **Why doth he yet find fault**? For **who hath resisted his will**? 
 
-DESTRUCTION:  Are eternal visitation of divine anger in "flaming fire" punishment upon bodies of the damned.
+- Exodus 6:2-9 Pharaoh Resisted but only for a time.
+- Numbers 22 (18,35,38) Balaam
+- Hosea 4:11,12 Israel 
 
-Verse 23:	Vessels of mercy, which he had afore prepared unto glory.  Make known the riches of his glory on the vessels of mercy.  Where our heart is there our treasure is also.
+#### 2. God is Sovereign (and Man is Responsible) v.20
 
-> Rom. 5:2   "Rejoice in hope of glory."
+> Romans 9:20&mdash;Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus? 
 
-Verse 23:	"Afore" - which he had afore prepared unto glory
+- Jeremiah 27:1-11 Jeremiah's Sermon on the Bonds and Yokes (28:1-4)
+- Jeremiah 25:8-11 & Jeremiah 25:12-15 Babylon
 
-Note well the word afore.  For the whole process of our salvation is viewed from that blessed future day when we shall enter, through divine mercy, into that glory which God afore appointed us.
+Galatians 5:19-21	
+Acts 5:29
+
+#### 3. God is Purposeful v.21
+
+> Romans 9:21&mdash;Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour? 
+
+Compare with JEREMIAH 18 "Go Down to the Potter's House
+
+> Jer 18:1-10&mdash;The word which came to Jeremiah from the LORD, saying, 2 Arise, and go down to the potter's house, and there I will cause thee to hear my words. 3 Then I went down to the potter's house, and, behold, he wrought a work on the wheels. 4 And the vessel that he made of clay was marred in the hand of the potter: so he made it again another vessel, as seemed good to the potter to make it. 5 Then the word of the LORD came to me, saying, 6 O house of Israel, cannot I do with you as this potter? saith the LORD. Behold, as the clay is in the potter's hand, so are ye in mine hand, O house of Israel. 7 At what instant I shall speak concerning a nation, and concerning a kingdom, to pluck up, and to pull down, and to destroy it; 8 If that nation, against whom I have pronounced, turn from their evil, I will repent of the evil that I thought to do unto them. 9 And at what instant I shall speak concerning a nation, and concerning a kingdom, to build and to plant it; 10 If it do evil in my sight, that it obey not my voice, then I will repent of the good, wherewith I said I would benefit them.
+
+#### 4. God is Right
+
+- Hypothetical "A" v.22
+
+> Romans 9:22&mdash; What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction: 
+
+- Hypothetical "B"  vs.23-24
+
+> Romans 9:23&mdash;And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory,
+
+Note well the word afore.  For the whole process of our salvation is viewed from that blessed future day when we shall enter, through divine mercy, into that glory which God afore appointed us. 24 Even us, whom he hath called, not of the Jews only, but also of the Gentiles?
+
+2 Timothy 2:20-21
+1 Peter 5:8 
+Matthew 25:1-10
+Galatians 5:4 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### The Calling of God's People, v. 25-29
 
