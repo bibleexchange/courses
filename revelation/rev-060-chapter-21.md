@@ -1,10 +1,10 @@
-#New Heaven and New Earth
+# New Heaven and New Earth
 
 TEXT: Revelation 21
 
 >Revelation 21:1&mdash;And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea.
 
-##Introduction
+## Introduction
 
 John sees that there will be a new heaven and a new earth and then he describes in awesome detail, "New Jerusalem".
 
@@ -14,29 +14,29 @@ John describes what he sees coming out of heaven from God as a "holy city", "new
 
 Who or what is this "city" like? Is it a place or a person? (vs. 9) In order to understand this "great city", we must carefully consider the details as John laid them out for us.
 
-##The End and The Beginning (vs. 1-8)
+## The End and The Beginning (vs. 1-8)
 
 The "end" John sees is not an "extinction" but a transition&mdash; made new!
 
-###First Glimpse (vs. 1,2)
+### First Glimpse (vs. 1,2)
 
 Heaven and Earth. John's first impression is that he is seeing something somewhat familiar, and yet it is altogether different. He says he sees a "new earth" and yet it is an earth with no sea. He says he sees a "new heaven" and yet it is a heaven where the veil between it and earth is removed.
 
 Then John sees another "new" thing. It is New Jerusalem coming down from God out of heaven like as if it were a "young married or betrothed woman" who is ready for her husband as she has put everything in proper order and is beautifully decorated. 
 
-###A Proclamation (vs. 3-8)
+### A Proclamation (vs. 3-8)
 
 The great voice (THE Voice!) proclaims what God is going to do.
 
-####Dwell with Men (vs. 3)
+#### Dwell with Men (vs. 3)
 
 Notice that New Jerusalem comes "down from God" and from "out of heaven" in verse 2. This is not a description of God's people finally going to heaven to be with God or "men with God". What John sees is more accurately understood as "God with men".
 
->Revelation 21:3&mdash;Behold, the tabernacle of God is with men, and he will dwell with them, and they shall be his people, and God himself shall be with them, and be their God.
+> Revelation 21:3&mdash;Behold, the tabernacle of God is with men, and he will dwell with them, and they shall be his people, and God himself shall be with them, and be their God.
 
-####Bring an End to Former Things (vs. 4-8)
+#### Bring an End to Former Things (vs. 4-8)
 
->Revelation 21:6&mdash;And he said unto me, **It is done**. I am Alpha and Omega, the beginning and the end&hellip; 
+> Revelation 21:6&mdash;And he said unto me, **It is done**. I am Alpha and Omega, the beginning and the end&hellip; 
 
 There are many awesome advantages to this new arrangement:
 
@@ -48,21 +48,23 @@ There are many awesome advantages to this new arrangement:
 6. No More Battles
 7. No More Unbelief
 
-##A Tour of New Jerusalem (vs. 9-27)
+## A Tour of New Jerusalem (vs. 9-27)
 
- 9 ¶ And there came unto me one of the seven angels which had the seven vials full of the seven last plagues, and talked with me, saying, Come hither, 
+> 9 ¶ And there came unto me one of the seven angels which had the seven vials full of the seven last plagues, and talked with me, saying, Come hither, 
 
 I will shew thee the bride, the Lamb's wife.
 
-###The Vantage Point (vs. 10)
+### The Vantage Point (vs. 10)
 
-####In the Spirit
->And he carried me away in the spirit
->
-####A Great and High Mountain
->to a great and high mountain, 
+#### In the Spirit
 
-###The Descriptions (vs. 10-
+> And he carried me away in the spirit
+
+#### A Great and High Mountain
+
+> to a great and high mountain, 
+
+### The Descriptions (vs. 10-
 
 1. A City (vs. 10)
 
@@ -132,9 +134,11 @@ NOTE: The following are merely educated guesses as to the actual gems referred t
 12.**Amethyst**, violet.
  
 6. The Lamb of God
+
 The Lamb is the Temple
-22 And I saw no temple therein: for the Lord God Almighty and the Lamb are the temple of it.
+
+> 22 And I saw no temple therein: for the Lord God Almighty and the Lamb are the temple of it.
 
 The Lamb is the Light
- 23 And the city had no need of the sun, neither of the moon, to shine in it: for the glory of God did lighten it, and the Lamb is the light thereof.
- 24 And the nations of them which are saved shall walk in the light of it: and the kings of the earth do bring their glory and honour into it.
+
+> 23 And the city had no need of the sun, neither of the moon, to shine in it: for the glory of God did lighten it, and the Lamb is the light thereof. 24 And the nations of them which are saved shall walk in the light of it: and the kings of the earth do bring their glory and honour into it.

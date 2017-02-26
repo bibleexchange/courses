@@ -4,18 +4,18 @@ The Epistle of Romans is a treasure of truth that needs to be understood by the 
 
 ## Authorship of the Epistle to the Romans
 
-### Romans’ internal evidence supports Paul’s authorship.
+### Romans&apos; internal evidence supports Paul’s authorship.
 
 #### Paul claimed to have written it. 1:1 Paul, a servant of Jesus Christ,
 
-#### Romans’ style is the same found in I and II Corinthians and especially Galatians. Paul’s style and the style of Romans is intensely “personal.” To read Paul’s epistles is almost the same as hearing his voice. Paul wrote like he talked.
+#### Romans&apos; style is the same found in I and II Corinthians and especially Galatians. Paul’s style and the style of Romans is intensely “personal.” To read Paul’s epistles is almost the same as hearing his voice. Paul wrote like he talked.
 
 #### The stage of development of Christian doctrine which the letter reveals fits naturally to the time of Paul. Paul was at the height of his ministry at about the middle of the first century at which time the common issues which disturbed the churches are the same issues dealt with in Romans.
 
 ### External evidences support Paul’s authorship.
 Paul was known as the writer of the epistle to the Romans as early as AD 95. Some of the writers who recognized Pauline authorship of Romans were:
 
-#### NT Writers—Especially Peter (2 Peter 3:15)
+#### NT Writers&mdash;Especially Peter (2 Peter 3:15)
 #### Clement of Rome (AD 95)
 #### Ignatius of Antioch (AD 110)
 #### Polycarp, the Bishop of Smyrna (After AD 110)

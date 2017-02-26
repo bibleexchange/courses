@@ -10,4 +10,4 @@
 ### DELIVERANCE BIBLE INSTITUTE
 #### Portland, Maine, USA
 
-<img src="https://googledrive.com/host/0B5UU8pOHCBVqbUZneGgyTWtfMjQ" id="coverEagle"/>
+<img src="https://bible.exchange/assets/img/be_logo.png" id="be-logo"/>

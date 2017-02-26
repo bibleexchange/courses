@@ -1,4 +1,4 @@
-#Great White Throne Judgment
+# Great White Throne Judgment
 
 text: Revelation 20:11-15
 
@@ -6,7 +6,7 @@ text: Revelation 20:11-15
 
 A Great White Throne and Him that Sat on It
 
-11 ¶ And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them.
+> 11 ¶ And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them.
 
 Compare this Throne with details given in Revelation 4 (vs. 11). 
 1. chapter Four described the throne of God just as the judgments of God on the earth were to begin. That throne was set in Heaven, but in Revelation 20 we are not told where this is set.
@@ -25,7 +25,7 @@ Compare this Throne with details given in Revelation 4 (vs. 11).
 
 The amount of evidence which a plaintiff or prosecuting attorney must present in a trial in order to win is called the standard of proof. Different cases require different standards of proof depending on what is at stake. 
 
-###There at least 3 common standards of proof in courts of law: 
+### There at least 3 common standards of proof in courts of law: 
 
 1. "beyond a reasonable doubt"
 2. "clear and convincing evidence"
@@ -34,7 +34,7 @@ This standard is often applied to civil cases. According to this standard a pers
 
 3. "preponderance of evidence"
 
-###This Court's Standard of Proof
+### This Court's Standard of Proof
 
 1. "beyond all doubt"
 
@@ -49,7 +49,8 @@ The Judge will require no third-hand testimony. He is the "Faithful and True Wit
 In this court, the standard of proof will be "beyond all doubt". God does not make mistakes.
 
 2. Judged Out of the Books 
-12 And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works.
+
+> 12 And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works.
 
 Judged out of the book according to God's law and not the law of man. Each biography will be opened.
 
@@ -83,15 +84,15 @@ This will require a resurrection
 
 Roll Call for a Hell Bound Train 
 
->Revelation 20:15 And whosoever was not found written in the book of life was cast into the lake of fire.
+> Revelation 20:15 And whosoever was not found written in the book of life was cast into the lake of fire.
 
-<!- -->
+<!-- -->
 
 >1 Corinthians 6:9-10&mdash;Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind, 10 Nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God.
 
 fearful, unbelieving, fornicators effeminate, abominable, murderers, whoremongers, sorcerers, idolatars, liars
 
->Psalm 9:17 The wicked shall be turned into hell, and all the nations that forget God.
+> Psalm 9:17 The wicked shall be turned into hell, and all the nations that forget God.
 
 James Reynolds -- They say Hell is a place without the presence of God, but that is not altogether true. Hell is a place filled with God's wrath&mdash; no love, no mercy, no grace. Hell will never experience joy or peace.
 

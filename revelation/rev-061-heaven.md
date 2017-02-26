@@ -1,9 +1,10 @@
 # Heaven
+
 Text: Revelation 22:1-5
 
->Revelation 22:1 ¶ And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb. 2 In the midst of the street of it, and on either side of the river, was there the tree of life, which bare twelve manner of fruits, and yielded her fruit every month: and the leaves of the tree were for the healing of the nations. 3 And there shall be no more curse: but the throne of God and of the Lamb shall be in it; and his servants shall serve him: 4 And they shall see his face; and his name shall be in their foreheads. 5 And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light: and they shall reign for ever and ever.
+> Revelation 22:1 ¶ And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb. 2 In the midst of the street of it, and on either side of the river, was there the tree of life, which bare twelve manner of fruits, and yielded her fruit every month: and the leaves of the tree were for the healing of the nations. 3 And there shall be no more curse: but the throne of God and of the Lamb shall be in it; and his servants shall serve him: 4 And they shall see his face; and his name shall be in their foreheads. 5 And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light: and they shall reign for ever and ever.
 
->John 14:1-3&mdash;Let not your heart be troubled: ye believe in God, believe also in me. 2 In my Father's house are many mansions: if it were not so, I would have told you. I go to prepare a place for you. 3 And if I go and prepare a place for you, I will come again, and receive you unto myself; that where I am, there ye may be also.
+> John 14:1-3&mdash;Let not your heart be troubled: ye believe in God, believe also in me. 2 In my Father's house are many mansions: if it were not so, I would have told you. I go to prepare a place for you. 3 And if I go and prepare a place for you, I will come again, and receive you unto myself; that where I am, there ye may be also.
 
 ## What is Heaven?
 
@@ -62,6 +63,7 @@ Luke 15:7 Joy in heaven
 Heaven is a place of rewards. Matthew 5:12
 
 Heaven is a beautiful place (notice our text).
+
 ## Who Will Go to Heaven?
 
 Matthew 5:3  the poor in spirit

@@ -1,12 +1,12 @@
-#Three Revelations of Who God Is
+# Three Revelations of Who God Is
 
 TEXT: Revelation 19
 
-##Introduction
+## Introduction
 
-###That I May Know Him
+### That I May Know Him
 
->Philippians 3:10&mdash;**That I may know him**, and the power of his resurrection, and the fellowship of his sufferings, being made conformable unto his death;
+> Philippians 3:10&mdash;**That I may know him**, and the power of his resurrection, and the fellowship of his sufferings, being made conformable unto his death;
 
 From behind the veil of the human condition, it is difficult to get a clear picture of God. We describe with limited vocabulary and understand him through limited experiences. 
 
@@ -39,9 +39,9 @@ When the bright and glorious morning I shall see; I shall know my Redeemer when 
 
 >2 Timothy 4:7-8&mdash;I have fought a good fight, I have finished my course, I have kept the faith: Henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day: and not to me only, but unto all them also that **love his appearing**. [manifestation, (especially) the second coming of Christ]
 
-###The Preface of Revelation 19
+### The Preface of Revelation 19
 
->Revelation 19:1mdash;And after these things&hellip;
+> Revelation 19:1mdash;And after these things&hellip;
 
 We are at the end of the third and final division of the book of Revelation. In 19:1, "after these things" is the same phrase in 1:19 "things which shall be hereafter". In review, Revelation has three main divisions:
 
@@ -64,10 +64,10 @@ God is infinite and our understanding of him is constantly developing all the wh
 </div>
 
 <bookmark id="first"/>
-##The Lord Our God Omnipotent who Reigns (vs. 1-6)
+## The Lord Our God Omnipotent who Reigns (vs. 1-6)
 
-###He Gave Us a Voice for Singing
-jjj
+### He Gave Us a Voice for Singing
+
 I heard a great voice of much people in heaven
 
 And the four and twenty elders and the four beasts fell down and worshipped God that sat on the throne
@@ -76,11 +76,11 @@ Revelation 19:4 is the last reference in the Bible to the twenty-four elders and
 
 v.6 the voice of a great multitude, and as the voice of many waters, and as the voice of mighty thunderings, 
 
-###He is the Words of the Song
+### He is the Words of the Song
 
 ...saying, Alleluia; Salvation, and glory, and honour, and power, unto the Lord our God:
 
-####Alleluia/Hallelujah
+#### Alleluia/Hallelujah
 
 The Hebrew word "halal" [STRONG's 01984] in relation to God means to be clear of sound or color or to shine. Therefore, it means to make a show, to boast or to celebrate. 'Halal' can be found in 140 verses in the O.T.
 
@@ -90,49 +90,42 @@ The Hebrew word "halal" [STRONG's 01984] in relation to God means to be clear of
 
 Interestingly, in the N.T., Alleluia/Hallelujah can only be found here in Revelation 19. The Greek word "allelouia" is imperative just as the Hebrew word "halal". Alleluia is a command to Praise the Lord (Jah)! It is an adoring exclamation&mdash;HALLELUJAH!
 
-####Salvation
+#### Salvation
 
-####Glory
+#### Glory
 
-####Honour
+#### Honour
 
-####Power
+#### Power
 
-###He is the Reason Why We Sing
+### He is the Reason Why We Sing
  
-####His Judgments are True
+#### His Judgments are True
 
-2 For true and righteous are his judgments: for he hath judged the great whore, which did corrupt the earth with her fornication, 
+> 2 For true and righteous are his judgments: for he hath judged the great whore, which did corrupt the earth with her fornication, 
 
-####He Keeps His Promises
-and hath avenged the blood of his servants at her hand.
- 3 And again they said, Alleluia. And her smoke rose up for ever and ever.
+#### He Keeps His Promises
+
+> and hath avenged the blood of his servants at her hand. 3 And again they said, Alleluia. And her smoke rose up for ever and ever.
  
- saying, Amen; Alleluia.
-####He Reigns
+#### He Reigns
 saying, Alleluia: for the Lord God omnipotent reigneth.
 
 <bookmark id="second"/>
 ##The Bridegroom Who Will be Wed (vs. 7-10)
 
 The Lamb will be Wed
- 7 Let us be glad and rejoice, and give honour to him: for the marriage of the Lamb is come, and his wife hath made herself ready.
- 8 And to her was granted that she should be arrayed in fine linen, clean and white: for the fine linen is the righteousness of saints.
- 9 And he saith unto me, Write, Blessed are they which are called unto the marriage supper of the Lamb. And he saith unto me, These are the true sayings of God.
- 10 And I fell at his feet to worship him. And he said unto me, See thou do it not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy.
+
+> 7 Let us be glad and rejoice, and give honour to him: for the marriage of the Lamb is come, and his wife hath made herself ready. 8 And to her was granted that she should be arrayed in fine linen, clean and white: for the fine linen is the righteousness of saints. 9 And he saith unto me, Write, Blessed are they which are called unto the marriage supper of the Lamb. And he saith unto me, These are the true sayings of God. 10 And I fell at his feet to worship him. And he said unto me, See thou do it not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy.
  
 <bookmark id="third"/>
-##The Lion Who will Return in Judgment (vs. 11-21)
-11 ¶ And I saw heaven opened, and behold a white horse; and he that sat upon him was called Faithful and True, and in righteousness he doth judge and make war.
+## The Lion Who will Return in Judgment (vs. 11-21)
+> 11 ¶ And I saw heaven opened, and behold a white horse; and he that sat upon him was called Faithful and True, and in righteousness he doth judge and make war.
 
->
-
-?The Mystery of His Name
+### The Mystery of His Name
  12  His eyes were as a flame of fire, and on his head were many crowns; and he had a name written, that no man knew, but he himself.
-
-
-
-(to his enemies: you don't even know me! (contrast on the cross, the sign written over His head! Mt 27:29 And when they had platted a crown of thorns, they put it upon his head, and a reed in his right hand: and they bowed the knee before him, and mocked him, saying, Hail, King of the Jews!
+ 
+ (to his enemies: you don't even know me! (contrast on the cross, the sign written over His head! Mt 27:29 And when they had platted a crown of thorns, they put it upon his head, and a reed in his right hand: and they bowed the knee before him, and mocked him, saying, Hail, King of the Jews!
  Mt 27:37 And set up over his head his accusation written, THIS IS JESUS THE KING OF THE JEWS.)
 
  13 And he was clothed with a vesture dipped in blood: and his name is called The Word of God.
@@ -149,4 +142,3 @@ An Invitation to another 'supper' is given:
  21 And the remnant were slain with the sword of him that sat upon the horse, which sword proceeded out of his mouth: and all the fowls were filled with their flesh.
 
 ##Conclusion
-
