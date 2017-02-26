@@ -67,8 +67,63 @@ Eternal Glory. A glory revealed in us -- the Glory of God.
 
 ## Have God as Their Advocate, vs. 31-39
 
-> 31 What shall we then say to these things? If God be for us, who can be against us? 32 He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things? 33 Who shall lay any thing to the charge of God’s elect? It is God that justifieth.  34 Who is he that condemneth? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us.  35 Who shall separate us from the love of Christ? shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?  36 As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter.  37 Nay, in all these things we are more than conquerors through him that loved us.  38 For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,  39 Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord. 
+The end of the chapter deals with the Christian’s Hope, which is; “If God be for us who can be against us.”  And that we are more than conquerors and that all things work together for good. The sufferings we go through are to teach us our motives.
+
+### The Accuser of the Saints
+
+> 31 What shall we then say to these things? If God be for us, who can be against us? 32 He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things? 33 Who shall lay any thing to the charge of God’s elect? It is God that justifieth.  34 Who is he that condemneth? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us.  
+
+1. Someone Must Produce Charges
+
+In any legal process, a prosecutor must present his case. Who will bring the charges? "WHO can be against us?"
+
+- Satan is against us Revelation 12:10
+- The World is against us John 15:18-19
+- False Witnesses - beware of men Matthew 10:17-19; Psalm 3:1
+
+2. The Defense Presents their Case
+
+- God is the Judge
+
+But He also is our defense! v.31
+- Justice demands satisfaction. 
+
+If the law has been broken ("all have sinned") then justice demands punishment. Eze. 18:4, 20 === v. 34!
+
+"ALL THINGS" v.32
+
+1. Repentance Acts 5:31; 11:28; Romans 2:4; 2 Timohty 2:25
+2. Forgiveness Psalm 103:3; Eph. 1:7; Co. 1:14; 1 John 1:9
+3. Salvation Eph. 2:8
+4. Life John 1:4; 10:10; Romans5:21; 2 Tim. 1:10
+5. Joy Neh. 8:10; Isaiah 12:3; Romans 14:17
+6. Healing Psalm 103:3; Isiah 53:5
+7. Holy Spirit Acts 2:38; 5:32; James 1:6-7
+
+
+3. The Judge Makes his Decision
+
+> v. 33 "It is God that Justifieth
+
+### The Power of God's Love
+
+> 35 Who shall separate us from the love of Christ? shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?  36 As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter.  37 Nay, in all these things we are more than conquerors through him that loved us.  38 For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,  39 Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord. 
   
+- The Nature of It - 1 John 4:8; Not a fickel love, but constant; 1 John 3:1 "manner" "strange" "foreign" "different"
+- The Means of It- 1 John 4:9 -- He is the Mediator, God's love was manifested to us
+- The Object of It  - John 3:16 -- US
+- The Assurance of It - "I am persuaded"
+
+Unaffected by the Extreme Conditions - Neither death nor life" Romans 14:8; Phil. 1:20,21
+
+Unaffected by Spiritual powers - Nor angels, nor principalities, nor powers, no one can come between you and God except you.
+
+Unaffected by Time -- present or to come
+
+Unaffected by life's circumstances -- nor height, nor depth, nor any other creature
+
+More than Conquerors	
+
 Complete Assurance (Confidence in God - Security)
 
 ### Six Question
@@ -76,13 +131,15 @@ Complete Assurance (Confidence in God - Security)
 1. What Shall We Then Say? (to these things)
 2. If God be for us?
 3. Shall he not freely
-4. Who Shalll lay anything to God's elect?
+4. Who Shall lay anything to God's elect?
 5. Who is he that condemneth (it is Christ that died)
 6. Who Shall Separate Us
 
 ### 7 Things Tested
 
 Tribulation, distress, persecution, famine nakedness, peril, sword
+
+The Christian is in conflict and it is a battle of faith, patience, and morals.
 
 ### Knowing and Persuaded
 
@@ -92,64 +149,15 @@ Persuaded -- knowing it versus be persuaded of it. a difference
 
 Note: Paul in his experiences, had been through all the trials and tests.
 
-Persuaded - Hi smind  his conscience and heart and hwole being weere sublimely committed to God. 
+Persuaded - His mind  his conscience and heart and whole being were sublimely committed to God. 
+
+The Christian is a conqueror. Overcomes the enemy and gains by the conflict! Our victories increase our faith.
+
+The Christian's secret is "through Him that loved us" 
+- Not ourselves, but through Christ. But is not without effort. We are strong through Him not "Effortless".
 
 ## Conclusion
 
-The two fold secret of Christian living is described by thwo phrases in verse 1 and verse 10. "in Christ Jesus" and "if Christ be in you"
+The two fold secret of Christian living is described by two phrases in verse 1 and verse 10. "in Christ Jesus" and "if Christ be in you"
 
 The Christian's will is to live in Christ an life pleasing to God. The Holy Spirit dwells in us, empowering us to live such a life.
-
-////////////////////////////////////////////////////////////////////////////
-///////////////////////////////////////////////////////////////////////////
-just pasted in here
-////////////////////////////////////////////////////////////////////////////
-///////////////////////////////////////////////////////////////////////////
-
-
-E. More than Conquerors						8:35-39
-
-
-
-////////////////////////////////////////////////////////
-A. Walking after the Spirit is Liberty			Ch. 8
-Romans chapter eight deals with our position in Christ.  We are free from sin and death. 
-The law of sin brought bondage, but the Law of the Spirit of life in Christ Jesus has worked great liberty!  OUR POSITION IN CHRIST is free from condemnation.
-1. 8:10-16	Mortify the Deeds of the Body, Ye shall Live
-2. 8:17-25	Hope of Adoption as Joint Heirs
-3. 8:26-28	The Spirit Helps our Infirmities
-4. 8:29-30 	The Hope of Glorification
-5. 8:31-39	None Shall Stand Against Us, It is God that Justifies
-The end of the chapter deals with the Christian’s Hope, which is; “If God be for us who can be against us.”  And that we are more than conquerors and that all things work together for good. The sufferings we go through are to teach us our motives.  
-
-
-----------------------------------------
- 
-
-
-
-
-
-
-V. COMPLETE ASSURANCE     (Confidence in God – Security)
-
-
-
-
-Six Questions
-8:31	What shall we then say?  		(to these things)                                                                                      8:31	If God be for us?			(Who can be against us)                                                                                8: 32	Shall he not freely give us all things?	(He spared not His own Son)                                               8:33	Who shall lay anythings against God's elect? 	(It is God that justifieth)                              8: 34	Who is he that condemneth?	(It is Christ that dies, and is risen again)                                       8:35	Who shall separate us?		(From the love of Christ)
-Verse 36:	Notice 7 Things Tested
-1.  Tribulations                                                                                                                     2.  Distress                                                                                                                                      3.  Persecution                                                                                                                                                            4.  Famine                                                                                                                                          5.  Nakedness                                                                                                                                                                    6.  Peril
-
-
-                                                                                                                                  7.  Sword
-Is there anything that can separate us from the love of God?
-8:38 - 39	"For I am persuaded that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor height, nor depth, nor any other creature, shall be able to separate us from the love of God which is in Christ Jesus our Lord.	
-There is a difference between knowing something and being persuaded of it.
-Persuaded - There is a difference between knowing a truth and being heart persuaded of it.
-Paul in his experience, had been through all these trials and tests.
-Persuaded - His mind, his conscience, his heart, his whole being, were sublimely committed into God.
-"God is love," and the "Father loveth the Son," and those connected with Christ find themselves wrapped in the same eternal affection shown by God to His Dear Son.
-CONCLUSION:
-The 2-fold secret of Christian living is described by two phrases in verse 1 and 10 - "in Christ Jesus" and "if Christ be in you."
-The Christian's will is to live in Christ a life pleasing to God.  The Holy Spirit dwells in us, empowering us to live such a life.

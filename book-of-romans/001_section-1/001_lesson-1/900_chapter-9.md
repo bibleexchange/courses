@@ -1,0 +1,360 @@
+# ROMANS CHAPTERS 9-11
+
+## Introduction to Romans 9-11
+
+### The Theme
+
+Remember the Structure of Romans?
+
+- Introduction ----------------- 1:1-17
+- DIVISION ONE:	Doctrinal ------ 1:18-8:29
+- DIVISION TWO: Dispensational - 9:1-11:26
+- DIVISION THREE: Practical ---- 12:1-15:33
+- Conclusion ------------------- 16:1-2
+
+Romans 9 Begins a the second of three major divisions to the Book of Romans. Chapter 8 concluded Division 1 which is primarily Doctrinal and Chapter 9 begins with Division 2 which is largely Dispensational.
+
+In general, A dispensation is a way of ordering things&mdash;an administration, a system, or a management. In theology, a dispensation is the Divine administration of a period of time. A dispensation is in effect the mode and methods of how God chooses to deal with humanity ( or a part of it) for a period of time.
+
+The Theme of this second Division is Dispensational in regards to Israel specifically and how God has dealt and will deal with Israel. The Theme is God's Sovereignty in His dealing with Israel. The Sovereignty and Righteousness of God is harmonized in these verses with His dealings with Israel specifically and all of mankind in general. 
+
+## The Structure
+
+1. The Sorrow of the Apostle at Israel's Rejection (9:1-5)
+2. The Rejection of Israel and God's Sovereignty (9:6-29)
+3. The Rejection of Israel and Human Responsibility (9:30-10:21)
+4. The Rejection of Israel and God's Purpose for their Future (11:1-32)
+5. The Apostle's Words of Praise of God (11:33-36)
+
+## The Sorrow of the Apostle at Israel's Rejection (9:1-5)
+
+Romans chapter nine talks about Paul’s sorrow for the Jews. We find out that not all of Abraham’s seed were the children of promise. 
+
+> Romans 9:7,8&mdash;&hellip; Neither, because they are the seed of Abraham, are they all children: but, In Isaac shall thy seed be called. 8 That is, They which are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed.
+
+This chapter talks about the calling of the Gentiles, and the rejection of the Jews, as it had been foretold.
+
+### The Sincerity of his feeling (1)
+
+**Paul preached the truth! ** His Sorrow for the Lost was Sincere and Divinely Inspired.
+
+1. Truth should be spken always
+2. Truth is the Believer's Life (John 8:32)
+3. Truth honors the Christ we serve.
+4. Truth must be obeyed (Gal. 3:1)
+5. Truth is necessary for growth. (Ephesians 4:14-15)
+6. Truth is a defense.
+7. We are begotten by the Truth. (James 1:18; 1 Peter 1:23
+8. We are to Walk in the the Truth (II John 4)
+
+### The Intensity of his feeling (2-3a)
+
+**Paul carried the burden!** His Sorrow was intense - Great heaviness, Continual, Self-Sacrificing
+
+Paul has experienced great heaviness in sorrowing over Israel’s condition as a whole. Paul comes to the place that he would even be willing to be accursed from Christ that his brethren might be found in Christ. This is a selfless declaration, but the proposition is not even possible. The sinner’s light in their darkness is the justified, sanctified, holy life of Believers that walk consistently in Christ and their own salvation is in Christ alone. 
+
+Paul’s proclamation is reminiscent of Moses in Exodus 32:32,33.
+
+> Exodus 32:32,33&mdash; Yet now, if thou wilt forgive their sin--; and if not, blot me, I pray thee, out of thy book which thou hast written. 33 And the LORD said unto Moses, Whosoever hath sinned against me, him will I blot out of my book.
+
+### The Basis of his feeling (3b-5)
+
+Paul has great sorrow for unbelieving Israel. Their unbelief is especially disheartening as they remained in their unbelief despite their great spiritual heritage. 
+
+Paul lays out the Jews spiritual heritage as being eight-fold. To the Jew Pertains:
+
+1.   **ADOPTION** - privilege of adoption  -  sonship 
+
+God had chosen Israel over Ishmael. ... The Jewish legend of Isaac and Ishamael's argument over circumcision ...
+
+2.   **GLORY** - Shekinah presence of God
+
+3.   **COVENANTS** - Promises of God made to Israel
+
+4.   **LAW** - Law given at Sinai
+
+5.   **SERVICE** - Authorized worship as ordained by God
+
+6.   **PROMISES** - Promise of God are (yea and amen) to them that believe
+
+The Jew had the promises of God, they even trusted in the law but they overlooked Christ.
+
+7.   **FATHERS** - Relationship to the Father (Fathers of the flesh)
+
+8.   **MESSIAH OF ISRAEL**
+
+The written word  Rom. 3:2  oracles of God committed unto them. Rom. 9:5  Christ came in the flesh
+
+There are over 400 prophecies concerning Christ in the Old Testament that were fulfilled in the New Testament.
+
+Christ is a rock of stumbling to the Jew.
+
+> Galatians 5:6&mdash;For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.
+
+John 14:15; 1 Peter 2:7,8
+
+### The Righteousness of his Feeling
+
+Paul makes it clear that his intense and sincere desire is all Israel be saved (Romans 9:1-5; 11:26; 10:1)
+
+God desires that all sinners be saved (1 Timothy 2:4; 2 Peter 3:9; Ezekiel 18:23; Matthew 23:37).
+
+> 1 Timothy 2:4&mdash;Who will have all men to be saved, and to come unto the knowledge of the truth.
+
+Paul is righteous in his desire and not contrary to mind and will of God.
+
+<!-- -->
+## The Rejection of Israel and God's Sovereignty (9:6-29)
+
+### The True Israel is According to the Promise, v. 6-10
+
+The majority of Israel has missed the point. Christ is the fulfillment of the law, but Israel stumbles over him as if a stone and hold to their laws and religion. They think they are the children of God because they are the children of Abraham and Isaac and that they are the ones to whom the law was revealed. 
+
+The fact that the Jews as a nation rejected the Messiah (Christ) raises the question "Did the Word of God fail?"  "Did God fail to carry out His promises"?  How does Paul answer these questions?  In these next verses Paul is confident that Israel's rejection of the gospel is not unanimous and not permanent&mdash;God is able to graft back in again!
+
+The real Israel is the elect, not a natural seed.  We see the plan of God as it unfolds. Not everyone that is born a part of the nationality of Israel are a part of Spiritual Israel. The children of the Israel are only children of the flesh, but the children of the promise are the children of God. (John 3:6 "born of the Spirit"). The New Testament Church is referred to as “the Israel of God” (Galatians 6:16) because of their faith in God and His Son, Jesus Christ&mdash;not because of their family lineage.
+
+> Romans 9:6-10&mdash;Not as though the word of God hath taken none effect. For they are not all Israel, which are of Israel: 7 Neither, because they are the seed of Abraham, are they all children: but, In Isaac shall thy seed be called. 8 That is, They which are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed. 9 For this is the word of promise, At this time will I come, and Sara shall have a son. 10 And not only this; but when Rebecca also had conceived by one, even by our father Isaac; 
+
+> Romans 10:1 ¶ Brethren, my heart's desire and prayer to God for Israel is, that they might be saved. 2 For I bear them record that they have a zeal of God, but not according to knowledge. 3 For they being ignorant of God's righteousness, and going about to establish their own righteousness, have not submitted themselves unto the righteousness of God. 4 For Christ is the end of the law for righteousness to every one that believeth.
+
+### Election or Predestination is Not of Works of Him that Calleth, v. 11-13
+
+Election is mentioned in verse eleven. 
+
+> Romans 9:11-13&mdash;(For the children being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calleth;) 12  It was said unto her, The elder shall serve the younger. 13 As it is written, Jacob have I loved, but Esau have I hated.
+
+Election or predestination is not an unrighteous act for God may justify whom He may and condemn whom he desires. All the good works of men cannot make them children of the promise, but that condition is dependent upon God showing mercy. 
+
+It is important to understand from Scripture how predestination or election works.
+
+Predestination and election is based upon God’s foreknowledge. He knows the end from the beginning He knows who will receive and who will reject before they are even born. 
+
+> Romans 8:29&mdash;For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren.
+
+> William Branham was a man of God and a tent preacher in the mid 1900’s. He was preaching one evening in the tent and a woman came to him near the closing of the service. She said, “Brother Branham, my husband has threatened to kill me if I came to your meetings, again. He is sitting right now in his car in the parking lot holding a shotgun.” Branham went out to the vehicle pulled open the passenger side door and sat down in the front seat. He plead with man concerning his soul for an hour or more. Branham, observing no change in the man, asked one final question. “Do you any intention that at any time in the future you may serve God?” The man arrogantly sounded a resounding, “No!” Branham told him that he saw no reason for him to continue living then, and snapped his fingers and the man died instantly in the driver’s seat. 
+
+Some are given 100 years and others only a few. It is man’s responsibility to respond in the time of mercy for turning to God cannot happen just on a man’s whim, but he must be drawn by the Father. 
+
+> John 6:44&mdash;No man can come to me, except the Father which hath sent me draw him: and I will raise him up at the last day.
+
+### God is Righteous in Mercy and Hardening, v. 14-18
+
+> Romans 9:14-18&mdash; What shall we say then? Is there unrighteousness with God? God forbid. 15 For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion. 16 So then it is not of him that willeth, nor of him that runneth, but of God that sheweth mercy. 17 For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth. 18 Therefore hath he mercy on whom he will have mercy, and whom he will he hardeneth.
+
+How is God's sovereignty expressed? God is a sovereign God so therefore he is also a just God.
+
+### Clay in the Potters Hand, vs. 19-24
+
+#### 1. God is Just v.19
+
+> Romans 9:19&mdash;Thou wilt say then unto me, **Why doth he yet find fault**? For **who hath resisted his will**? 
+
+- Exodus 6:2-9 Pharaoh Resisted but only for a time.
+- Numbers 22 (18,35,38) Balaam
+- Hosea 4:11,12 Israel 
+
+#### 2. God is Sovereign (and Man is Responsible) v.20
+
+> Romans 9:20&mdash;Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus? 
+
+- Jeremiah 27:1-11 Jeremiah's Sermon on the Bonds and Yokes (28:1-4)
+- Jeremiah 25:8-11 & Jeremiah 25:12-15 Babylon
+
+Galatians 5:19-21	
+Acts 5:29
+
+#### 3. God is Purposeful v.21
+
+> Romans 9:21&mdash;Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour? 
+
+Compare with JEREMIAH 18 "Go Down to the Potter's House
+
+> Jer 18:1-10&mdash;The word which came to Jeremiah from the LORD, saying, 2 Arise, and go down to the potter's house, and there I will cause thee to hear my words. 3 Then I went down to the potter's house, and, behold, he wrought a work on the wheels. 4 And the vessel that he made of clay was marred in the hand of the potter: so he made it again another vessel, as seemed good to the potter to make it. 5 Then the word of the LORD came to me, saying, 6 O house of Israel, cannot I do with you as this potter? saith the LORD. Behold, as the clay is in the potter's hand, so are ye in mine hand, O house of Israel. 7 At what instant I shall speak concerning a nation, and concerning a kingdom, to pluck up, and to pull down, and to destroy it; 8 If that nation, against whom I have pronounced, turn from their evil, I will repent of the evil that I thought to do unto them. 9 And at what instant I shall speak concerning a nation, and concerning a kingdom, to build and to plant it; 10 If it do evil in my sight, that it obey not my voice, then I will repent of the good, wherewith I said I would benefit them.
+
+#### 4. God is Right
+
+- Hypothetical "A" v.22
+
+> Romans 9:22&mdash; What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction: 
+
+- Hypothetical "B"  vs.23-24
+
+> Romans 9:23&mdash;And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory,
+
+Note well the word afore.  For the whole process of our salvation is viewed from that blessed future day when we shall enter, through divine mercy, into that glory which God afore appointed us. 24 Even us, whom he hath called, not of the Jews only, but also of the Gentiles?
+
+2 Timothy 2:20-21
+1 Peter 5:8 
+Matthew 25:1-10
+Galatians 5:4 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### The Calling of God's People, v. 25-29
+
+> Romans 9:25-29&mdash;As he saith also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved. 26 And it shall come to pass, that in the place where it was said unto them, Ye are not my people; there shall they be called the children of the living God. 27 Esaias also crieth concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant shall be saved: 28 For he will finish the work, and cut it short in righteousness: because a short work will the Lord make upon the earth. 29 And as Esaias said before, Except the Lord of Sabaoth had left us a seed, we had been as Sodoma, and been made like unto Gomorrha.
+
+Verse 25:	Paul here, takes from the prophet Hosea (2:23) a passage that distinctly refers to Israel. Here we see the remnant according to the election of grace.
+
+Verse 26:	Here we see the Gentile people.  God's infinte grace takes up those who were once called "dogs" and gives them a heavenly callign "Called to be children of the living God."
+
+Verse 27:	Here the apostle takes another prophet, Isaiah, and quotes again from him. Isa. 10:22 - concerning a remnant.
+
+Verse 28:	The ways of God are not our ways.  He waits long - He forbears - He is silent: then suddenly puts into execution an eternally formed purpose.
+
+Words of Ezekiel 20:35 & 36 are to be fulfilled - "Cut short in righteousness."
+
+Verse 29:	This verse is a quote from Isaiah 1:9 shows that if God had not intervened by his grace, they would have all become as Sodom and Gomorrah.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## The Rejection of Israel and Human Responsibility (9:30-10:21)
+
+### CONCLUSION of Chapter 9, v.30 - 33
+
+Ro 9:30 ¶ What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. 31 But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness. 32 Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone; 33 As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed.
+
+The Gentiles, not following after righteousness, attain to it by simple faith;
+
+Israel, following after the Law - Method 7 stumbled at the (by faith) way.
+
+Verse 30:	Some Gentiles who were making no effort to reach righteousness, reach it.
+
+Verse 31:	Israel followed after the law of righteousness but could not attain it. 
+		(Could not keep the law)
+
+Verse 32:	Israel did not seek it by faith.
+
+Verse 33:	Stumbled over the rock of offense.
+		- Stumbled over Jesus -
+
+NOTE:   The only way to have Christ in your life is to believe on Him.  Otherwise he is a "rock of offense".  He offended the leaders of Israel by exposing sin.
+
+What is the message of the Gospel that is open to all?
+
+Verse 33:	"And whosoever believeth on him shall not be ashamed."
+
+God's merce is illustrated by His dealings with both Jew and Gentile.  Humility and awe	are the proper attitudes for both Jew and Gentile who experience the mercy and kindness of God.
+
+Whether a man is a Jew or a Gentile, his salvation depends upon more or less than what he thinks and does with Jesus.
+
+Submission to God's way of righteousness by personal acknowledgement of Jesus as the risen Lord, brings a man into "Right standing with God".
+
+## The Rejection of Israel and God's Purpose for their Future (11:1-32)
+
+## The Apostle's Words of Praise of God (11:33-36)
+

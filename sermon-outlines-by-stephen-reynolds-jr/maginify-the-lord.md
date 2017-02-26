@@ -1,44 +1,22 @@
-# Magnify the Lord with Me
-
-Psalm 34:3
+# Magnify the Lord with Me (TEXT: Psalm 34:1-4)
 
 ## Psalm 34
-1 {A Psalm of David, when he changed his behaviour before Abimelech; who drove him away, and he departed.} I will bless the LORD at all times: his praise shall continually be in my mouth.
-2 My soul shall make her boast in the LORD: the humble shall hear thereof, and be glad.
-3 O magnify the LORD with me, and let us exalt his name together.
-4 I sought the LORD, and he heard me, and delivered me from all my fears.
-5 They looked unto him, and were lightened:and their faces were not ashamed.
-6 This poor man cried, and the LORD heard him, and saved him out of all his troubles.
-7 The angel of the LORD encampeth round about them that fear him, and delivereth them.
-8 O taste and see that the LORD is good: blessed is the man that trusteth in him.
-9 O fear the LORD, ye his saints: for there is no want to them that fear him.
-10 The young lions do lack, and suffer hunger: but they that seek the LORD shall not want any good thing.
-11 Come, ye children, hearken unto me: I will teach you the fear of the LORD.
-12 What man is he that desireth life, and loveth many days, that he may see good?
-13 Keep thy tongue from evil, and thy lips from speaking guile.
-14 Depart from evil, and do good; seek peace, and pursue it.
-15 The eyes of the LORD are upon the righteous, and his ears are open unto their cry.
-16 The face of the LORD is against them that do evil, to cut off the remembrance of them from the earth.
-17 The righteous cry, and the LORD heareth, and delivereth them out of all their troubles.
-18 The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.
-19 Many are the afflictions of the righteous: but the LORD delivereth him out of them all.
-20 He keepeth all his bones: not one of them is broken.
-21 Evil shall slay the wicked: and they that hate the righteous shall be desolate.
-22 The LORD redeemeth the soul of his servants: and none of them that trust in him shall be desolate.
+1 {A Psalm of David, when he changed his behaviour before Abimelech; who drove him away, and he departed.} I will bless the LORD at all times: his praise shall continually be in my mouth. 2 My soul shall make her boast in the LORD: the humble shall hear thereof, and be glad. 3 O magnify the LORD with me, and let us exalt his name together. 4 I sought the LORD, and he heard me, and delivered me from all my fears. 5 They looked unto him, and were lightened:and their faces were not ashamed. 6 This poor man cried, and the LORD heard him, and saved him out of all his troubles. 7 The angel of the LORD encampeth round about them that fear him, and delivereth them. 8 O taste and see that the LORD is good: blessed is the man that trusteth in him. 9 O fear the LORD, ye his saints: for there is no want to them that fear him. 10 The young lions do lack, and suffer hunger: but they that seek the LORD shall not want any good thing. 11 Come, ye children, hearken unto me: I will teach you the fear of the LORD. 12 What man is he that desireth life, and loveth many days, that he may see good? 13 Keep thy tongue from evil, and thy lips from speaking guile. 14 Depart from evil, and do good; seek peace, and pursue it. 15 The eyes of the LORD are upon the righteous, and his ears are open unto their cry. 16 The face of the LORD is against them that do evil, to cut off the remembrance of them from the earth. 17 The righteous cry, and the LORD heareth, and delivereth them out of all their troubles. 18 The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit. 19 Many are the afflictions of the righteous: but the LORD delivereth him out of them all. 20 He keepeth all his bones: not one of them is broken. 21 Evil shall slay the wicked: and they that hate the righteous shall be desolate. 22 The LORD redeemeth the soul of his servants: and none of them that trust in him shall be desolate.
 
-## Song
+- The Spirit of Magnifying God, v.1
+- The Invitation to Magnify God, v.2
+- The Power of Magnifying God, v.3
+- The Courage of Magnifying God, v.4
 
-O magnify the Lord, For He is worthy To be praised
-O magnify the Lord, For He is worthy To be praised
+<!-- ---------------------------------- -->
+<!-- ---------------------------------- -->
+## The Spirit of Magnifying God, v.1
 
-Hosanna Blessed be the Rock, 
-Blessed be the Rock, Of my Salvation
+> Psalm 34:1&mdash; I will bless the LORD at all times: his praise shall continually be in my mouth.
 
-Bro. McLain "America, Make God Great Again!"
+### The Meaning of Magnifying God
 
-## Magnify!
-
-The word "magnify' means literally "to make great," and then, to make great in the view of the mind, or to regard and treat as great. 
+The word "magnify' means literally "to make great," and then, to make great in the view of the mind, or to regard and treat as great. "To Make Large" "Boast" "Promote"
 
 To magnify, or exalt, “do not mean that we can add any thing to the glory of the name or nature of God; but that 
 - we should show forth, and publicly celebrate his majesty and greatness."
@@ -48,7 +26,7 @@ To magnify, or exalt, “do not mean that we can add any thing to the glory of t
 
 1 Samuel 2:7 &mdash;The LORD makes poor and makes rich; he brings low and he exalts. 
 
-God exalts the humble by delivering them out of danger and into safety, While man's response is to exalt God by proclaiming God's supreme exaltedness.
+GOD's PEOPLE ARE BLESSED. ------ Take care of ourself, Recognize God and Share with others. ----- God exalts the humble by delivering them out of danger and into safety, While man's response is to exalt God by proclaiming God's supreme exaltedness.
 
 "He is High and lifted up!" 
 
@@ -56,23 +34,52 @@ God exalts the humble by delivering them out of danger and into safety, While ma
 
 Proclaim God's supreme exaltedness. Ascribe Greatness
 
-## Harmonious Praise
+To Whom do we Give the Credit? 
 
-"Join Your Praises with Mine"
-ALIKE -- All without exception
-TOGETHER -- "Maybe not all in the same place, but with the same heart let our praise reach the ear of God as one!"
+### Somebody TESTIFY
 
-David had fled from King Saul and was not safe to return to Jerusalem.
+v.4 "he Heard me and delivered ..."
+v. 6 THIS POOR MAN CRIED
+v.8 "taste and see that the Lord is good"
+v.17 "delivereth them out of all their troubles"
 
-> 1 Samuel 21:10-15&mdash; And David arose and fled that day for fear of Saul, and went to Achish the king of Gath. 11 And the servants of Achish said unto him, Is not this David the king of the land? did they not sing one to another of him in dances, saying, Saul hath slain his thousands, and David his ten thousands? 12 And David laid up these words in his heart, and was sore afraid of Achish the king of Gath. 13 And he changed his behavior before them, and feigned himself mad in their hands, and scrabbled on the doors of the gate, and let his spittle fall down upon his beard. 
+### Song
 
-David could not just got to the place of worship in Jerusalem and yet he could still call for the WORSHIPPERS OF GOD TO COME MAGNIFY GOD TOGETHER.
+#### David
 
-## The Humble
+> Psalm 69:30&mdash;I will praise the name of God with a song, and will magnify him with thanksgiving.
+
+#### Chorus
+
+O magnify the Lord, For He is worthy To be praised
+O magnify the Lord, For He is worthy To be praised
+
+Hosanna Blessed be the Rock, 
+Blessed be the Rock, Of my Salvation
+
+#### Moses' Song
+
+> Exodus 15:1 ¶ Then sang Moses and the children of Israel this song unto the LORD, and spake, saying, I will sing unto the LORD, for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea. 2 The LORD is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father's God, and I will exalt him.
+
+#### Bro. McLain "America, Make God Great Again!"
+
+#### Mary
+
+> Luke 1:46&mdash;And Mary said, My soul doth magnify the Lord,
+
+#### Gentile Believers were Filled with the Holy Ghost
+
+>  Ac 10:46-47&mdash;For they heard them speak with tongues, and magnify God. Then answered Peter, Ac 10:47 Can any man forbid water, that these should not be baptized, which have received the Holy Ghost as well as we?
+
+## The Invitation to Magnify God, v. 2
+
+> Psalm 34:2&mdash;My soul shall make her boast in the LORD: the humble shall hear thereof, and be glad.
 
 David makes his plea to the HUMBLE! v.2 "humble shall hear thereof and be glad"
 
-As only they can truly appreciate David's request. The Humble share a common experiences of trial, loss and through that the Goodness of God. So they also should share in PRAISE of God!
+The Humble Will Hear and Be Glad (Others might to perceive it as an invitation, but the HUMBLE DO!
+
+David has been HUMBLED. As only they can truly appreciate David's request. The Humble share a common experiences of trial, loss and through that the Goodness of God. So they also should share in PRAISE of God!
 
 ===========================================================================
 
@@ -89,14 +96,27 @@ Spafford Childrens Hospital in Old Jeruselam
 
 ===========================================================================
 
-## To Whom do we Give the Credit? TESTIFY
+## The Power of Magnifying God, v.3
 
-v.4 "he Heard me and delivered ..."
-v. 6 THIS POOR MAN CRIED
-v.8 "taste and see that the Lord is good"
-v.17 "delivereth them out of all their troubles"
+> Psalm 34:3&mdash;3 O magnify the LORD with me, and let us exalt his name together.
 
-## The Courage of Praise and Prayer, v. 4
+"Join Your Praises with Mine"
+ALIKE -- All without exception
+TOGETHER -- "Maybe not all in the same place, but with the same heart let our praise reach the ear of God as one!"
 
-David appears faultness when you read his psalms of praise. But he was not without his weakness. HIs key to greatness was that his prayers silenced his fears.
+David had fled from King Saul and was not safe to return to Jerusalem.
+
+> 1 Samuel 21:10-15&mdash; And David arose and fled that day for fear of Saul, and went to Achish the king of Gath. 11 And the servants of Achish said unto him, Is not this David the king of the land? did they not sing one to another of him in dances, saying, Saul hath slain his thousands, and David his ten thousands? 12 And David laid up these words in his heart, and was sore afraid of Achish the king of Gath. 13 And he changed his behavior before them, and feigned himself mad in their hands, and scrabbled on the doors of the gate, and let his spittle fall down upon his beard. 
+
+David could not just got to the place of worship in Jerusalem and yet he could still call for the WORSHIPERS OF GOD TO COME MAGNIFY GOD TOGETHER.
+
+
+## The Courage of Magnifying God, v. 4
+
+> 4 I sought the LORD, and he heard me, and delivered me from all my fears.
+
+David appears faultless when you read his psalms of praise. But he was not without his weakness. 
+
+His key to greatness was that his prayers silenced his fears.
+
 David did not wait till the threat was passed to pray, but sought the Lord in his trouble and God delivered from his fear.
