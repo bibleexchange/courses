@@ -1,8 +1,8 @@
-#Introduction to the Song of Solomon
+# Introduction to the Song of Solomon
 
 > Song of Solomon 1:1 The song of songs, which is Solomon's.
 
-##The Language of this Book
+## The Language of this Book
 
 We will introduce you to the book and give some background information, but before you begin to study this book, and or listen to these messages you should read the book in it’s entirety at least three times. Pre-reading the book will greatly benefit you in following in this study of this wonderful book called the Song of Solomon.
 
@@ -20,9 +20,9 @@ We cannot afford to take out or edit any of the Scripture just because the langu
 
 God has left for us the "whole loaf". It is all God's word, even the Song of Solomon. God's Word is always has life in it.
 
-##God Desires a Close Relationship with You
+## God Desires a Close Relationship with You
 
-###Spend Time with Him
+### Spend Time with Him
 
 The most important thing that you can do for someone you love, is spend time with them. God loves us and wants to be with us. We truly do not grasp the whole of how much he loves us and wants a relationship with us. 
 
@@ -32,13 +32,13 @@ On inspection in this book are also our responses to His advances. He desires th
 
 READ: <a href="/bible/search?q=Song of Solomon 5:2-6" target="_BLANK">Song of Solomon 5:2-6</a>
 
-###Share with Him
+### Share with Him
 
 Somethings a loving husband and wife share with each other, are not shared with anyone else. God has some great things He wants to share with us, but we have to get close enough so He can share them with us.
 
 He desires to share divine secrets in the Spirit with those He truly Loves! <a href="/bible/search?q=John 15:15" target="_BLANK">John 15:15</a>
                           
-###Love Him Our Best
+### Love Him Our Best
 
 He loves us, but how is our love for Him? We want to love Him with ALL, but if we are honest we often do hold reservations. What could be more important than having time for the Lord?
 
@@ -60,7 +60,7 @@ God does not want the world to play around with you, nor you to play around with
 
 > Song 8:6 Set me as a seal upon thine heart, as a seal upon thine arm: for love is strong as death; jealousy is cruel as the grave: the coals thereof are coals of fire, which hath a most vehement flame.
 
-##Three Main Interpretations for Song of Solomon
+## Three Main Interpretations for Song of Solomon
 
 There are three general lines of thought concerning this book.
 
@@ -68,7 +68,7 @@ There are three general lines of thought concerning this book.
 2. The Relationship of Christ with His Church
 3. The Relationship of Christ with His Bride
 
-###The Relationship of Jehovah with Israel
+### The Relationship of Jehovah with Israel
 
 Some believe that this book is entirely an allegory that sets forth God's choice and guidance of Israel. This book is a revelation God's choice for Israel as a nation, God's guidance of Israel out of Egypt, God's providence over Israel in the wilderness and God's placing of them in the Land of Canaan awaiting the Messiah.
 
@@ -76,13 +76,13 @@ There is a definite parallel with this book and the history of the Jews, but tha
 
 God loves Israel, but God does not love ONLY Israel. God's people are not born of natural Abraham, but they are born of spiritual Abraham&mdash;i.e., by faith. <a href="/bible/search?q=Romans 9:8" target="_BLANK">Romans 9:8</a>
 
-###The Relationship of Christ with His Church
+### The Relationship of Christ with His Church
 
 This is probably the most popular opinion regarding this book. Most believe this book concerns a relationship with Christ and His Church. On the premise, the beginning of the Song coincides with the time just after the birth of Christ and its end relates to the end of the time of the Gentiles. The church is now in a state of waiting for the Lord to come back to meet his Church/Bride.
 
 I believe there are too many discrepancies created when we try to make the entire Body of the Church to be the Bride of Christ. This leads us to the third line of thought and the main one which we will follow in our study.
 
-###The Relationship of Christ with His Bride
+### The Relationship of Christ with His Bride
 
 Is the Church and the Bride the same thing? Is there a difference between the Church and the Bride? What is the difference?
 

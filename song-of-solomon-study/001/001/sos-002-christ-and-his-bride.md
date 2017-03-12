@@ -1,5 +1,5 @@
 <meta type="info" text="19781018">
-#SOS 002 Christ and His Bride
+# SOS 002 Christ and His Bride
 
 > Song of Solomon 1:1-2&mdash;The song of songs, which is Solomon's. Let him kiss me with the kisses of his mouth: for thy love is better than wine.
 
