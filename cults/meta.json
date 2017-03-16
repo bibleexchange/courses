@@ -1,0 +1,55 @@
+{
+	"title": "Cults",
+	"name": "cults",
+	"description": "",
+	"keywords": ["dbi", "cults"],
+	"author": "Rev. Stephen G. Reynolds Sr. and Other D.B.I Teachers",
+	"sections": [],
+	"trans": {
+		"title": [{
+			"lang": "swa",
+			"text": "Cults"
+		}],
+
+		"001_cover.md": [{
+			"lang": "swa",
+			"file": "001_cover.md"
+		}],
+		"002_introduction.md": [{
+			"lang": "swa",
+			"file": "002_introduction.md"
+		}],
+		"003_why-people-are-attracted-to-cults.md": [{
+			"lang": "swa",
+			"file": "003_why-people-are-attracted-to-cults.md"
+		}],
+		"004_the-marks-of-a-cult.md": [{
+			"lang": "swa",
+			"file": "004_the-marks-of-a-cult.md"
+		}],
+		"005_christian-responsibility-to-cults.md": [{
+			"lang": "swa",
+			"file": "005_christian-responsibility-to-cults.md"
+		}],
+		"006_personal-safeguards-against-cults.md": [{
+			"lang": "swa",
+			"file": "006_personal-safeguards-against-cults.md"
+		}],
+		"007_cultic-philosophies-in-the-church.md": [{
+			"lang": "swa",
+			"file": "007_cultic-philosophies-in-the-church.md"
+		}],
+		"008_curious-fascination-of-the-darkness.md": [{
+			"lang": "swa",
+			"file": "008_curious-fascination-of-the-darkness.md"
+		}],
+		"009_dangers-of-tolerating-evil.md": [{
+			"lang": "swa",
+			"file": "009_dangers-of-tolerating-evil.md"
+		}],
+		"010_epistle-of-jude.md": [{
+			"lang": "swa",
+			"file": "010_epistle-of-jude.md"
+		}]
+	}
+}
