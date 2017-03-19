@@ -12,7 +12,7 @@
 
 ### Israel's Rejection is not Universal, vs. 1-10
 
-> Romans 11:1 ¶ I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin.
+> Romans 11:1  I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin.
  2 God hath not cast away his people which he foreknew. Wot ye not what the scripture saith of Elias? how he maketh intercession to God against Israel, saying,
  3 Lord, they have killed thy prophets, and digged down thine altars; and I am left alone, and they seek my life.
  4 But what saith the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to the image of Baal.
@@ -84,7 +84,7 @@ middle voice from 1537 and 3004 (in its primary sense); to select:--make choice,
 
 > John 6:70 Jesus answered them, Have not I chosen you twelve, and one of you is a devil?
 
-> John 13:18 ¶ I speak not of you all: I know whom I have chosen: but that the scripture may be fulfilled, He that eateth bread with me hath lifted up his heel against me.
+> John 13:18  I speak not of you all: I know whom I have chosen: but that the scripture may be fulfilled, He that eateth bread with me hath lifted up his heel against me.
 
 > Ac 1:2 Until the day in which he was taken up, after that he through the Holy Ghost had given commandments unto the apostles whom he had chosen:
 
@@ -94,7 +94,7 @@ middle voice from 1537 and 3004 (in its primary sense); to select:--make choice,
 
 >Ac 15:7 And when there had been much disputing, Peter rose up, and said unto them, Men and brethren, ye know how that a good while ago God made choice among us, that the Gentiles by my mouth should hear the word of the gospel, and believe.
 
-> Ac 15:22 ¶ Then pleased it the apostles and elders, with the whole church, to send chosen men of their own company to Antioch with Paul and Barnabas; namely, Judas surnamed Barsabas, and Silas, chief men among the brethren:
+> Ac 15:22  Then pleased it the apostles and elders, with the whole church, to send chosen men of their own company to Antioch with Paul and Barnabas; namely, Judas surnamed Barsabas, and Silas, chief men among the brethren:
 
 <!-- -->
 

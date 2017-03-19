@@ -1,4 +1,4 @@
-# The Law Reigns over the Man Living in Sin – Romans 7
+# The Law Reigns over the Man Living in Sin &mdash; Romans 7
 
 ## Introduction
 
@@ -8,9 +8,9 @@ Romans 7 deals with the dominion of the law over the sinner. Paul also emphasize
 
 ### Three Divisions:
 
-- Verses 1 – 6: Died that You May be Married to Another
+- Verses 1 &mdash; 6: Died that You May be Married to Another
 - Verses 7- 13: The Law is Holy, And Just and Good
-- Verses 14 – 25: Paul’s Captivity to the Law of Sin 
+- Verses 14 &mdash; 25: Paul&apos;s Captivity to the Law of Sin 
 
 ## Dead that You May be Married to Another (vs. 1-6)
 
@@ -33,7 +33,7 @@ Romans 7 deals with the dominion of the law over the sinner. Paul also emphasize
 
 ## The Law is Holy, And Just and Good (vs. 7-13)
 
-In Romans 7:7-13, Paul establishes the goodness of God’s Law and the wickedness of sin. Service to the letter of the Law cannot make one righteous, but in its exactness it awakens the sinner to his need of Christ. 
+In Romans 7:7-13, Paul establishes the goodness of God&apos;s Law and the wickedness of sin. Service to the letter of the Law cannot make one righteous, but in its exactness it awakens the sinner to his need of Christ. 
 
 <table id="law-reveals" style="border:solid 5px gray; padding:10px; text-align:center;">
 <thead></thead>
@@ -70,9 +70,9 @@ In Romans 7:7-13, Paul establishes the goodness of God’s Law and the wickednes
 
 ** *In the light of Perfect Holiness, sin becomes "exceedingly sinful"*.
 
-## Paul’s Captivity to the Law of Sin  (vs. 14-25)
+## Paul&apos;s Captivity to the Law of Sin  (vs. 14-25)
 
-In Romans 7:14-25, Paul brings us to the root of the struggle; the cause of our constant defeat by sin is our own flesh, the “body of this death” (verse 24).
+In Romans 7:14-25, Paul brings us to the root of the struggle; the cause of our constant defeat by sin is our own flesh, the &quot;body of this death&quot; (verse 24).
 
 Every believer is privileged, enabled and obligated to live a holy life. For those resting in the law for justification and sanctification, it is necessary to convince them of their error. The law is insufficient for for these but grace through Jesus Christ is sufficient. A believing Jew is discharged from his obligations to the ceremonial rituals of the law, and is at liberty to come under the Gospel of God through Jesus Christ our Lord and Savior, Romans 7:1-4.
 

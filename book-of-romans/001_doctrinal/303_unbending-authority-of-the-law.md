@@ -6,17 +6,17 @@
 
 The whole world is under the sentence of condemnation.
 
-## The charge is levied against the sinner. – v. 9
+## The charge is levied against the sinner. &mdash; v. 9
 
 Who is a sinner? We have proven both Jew and Gentile to be under sin as ALL are guilty of breaking the law.
 
 ## Witnesses are brought before the accused.
 
-### The witness of creation – 1:20
-### The witness of conscience – 2:15
-### The witness of commandment – 3:19
+### The witness of creation &mdash; 1:20
+### The witness of conscience &mdash; 2:15
+### The witness of commandment &mdash; 3:19
                                                   
-## The indictment is read from the Scriptures. – vs. 10-18
+## The indictment is read from the Scriptures. &mdash; vs. 10-18
 
 ### According to the rules of the court the indictment had to be written.
 
@@ -30,19 +30,19 @@ The Jew boasted that he possessed the Scripture; now God is using that same Word
 
 ### Although the Gentile did not have the written word; they still had the same principals contained in the Word written on their heart 
 
-## The defense of the accused – V. 19
+## The defense of the accused &mdash; V. 19
 
 What is the defense of the accused?
 
 The accused has nothing to say; every mouth is stopped.
 The Day of Judgment will be a day of silence.
 
-## The verdict – V.20
+## The verdict &mdash; V.20
 
 ### GUILTY AS CHARGED!
 
 ### No flesh is justified by deeds of law.
 	
-This law refers to more than Moses Law; there is also reference to moral law and the law of conscience. The Gentile did not posses Moses’ Law, but every man has the moral law of God written on his heart and testified to by his conscience.
+This law refers to more than Moses Law; there is also reference to moral law and the law of conscience. The Gentile did not posses Moses&apos;s Law, but every man has the moral law of God written on his heart and testified to by his conscience.
 
 ### The death penalty has been levied against the condemned. Rom.6:23

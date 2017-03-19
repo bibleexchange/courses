@@ -10,7 +10,7 @@ Romans chapter seven deals with Carnality and the sinners relationship (so long 
 
 #### Verses 1&ndash;6: Died that You May be Married to Another
 #### Verses 7&ndash;13: The Law is Holy, And Just and Good
-#### Verses 14&ndash;25: Paul’s Captivity to the Law of Sin 
+#### Verses 14&ndash;25: Paul&apos;s Captivity to the Law of Sin 
 
 ## Dead that You May be Married to Another (vs. 1&ndash;6)
 
@@ -36,11 +36,11 @@ The sinner is in a binding relationship to his sin as a wife to a husband.
 
 ## The Law is Holy, And Just and Good (vs. 7-13)
 
-In Romans 7:7-13, Paul establishes the goodness of God’s Law and the wickedness of sin. Paul is writing to the Jew, those who understand the law (vs.1), and properly frames the purpose and nature of the Law. Service to the letter of the Law cannot make one righteous, but in its exactness it awakens the sinner to his need of Christ. 
+In Romans 7:7-13, Paul establishes the goodness of God&apos;s Law and the wickedness of sin. Paul is writing to the Jew, those who understand the law (vs.1), and properly frames the purpose and nature of the Law. Service to the letter of the Law cannot make one righteous, but in its exactness it awakens the sinner to his need of Christ. 
 
 ### Question: Is the Law Sin?
 
-> Romans 7:7 ¶ What shall we say then? Is the law sin? 
+> Romans 7:7  What shall we say then? Is the law sin? 
 
 Why Would Paul Ask this question? Paul had written in verse 6 that the law was something he was delivered from. This would seem to infer that the law is "bad".
 
@@ -52,7 +52,7 @@ Why Would Paul Ask this question? Paul had written in verse 6 that the law was s
 
 > vs. 7 ... God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet. 
 
-The main theme of chapter seven is the believer’s relation to the law.  The believer is united with Christ “the new husband.”  When we are born we are bound to the law like as a marriage.  To be free from the law, because the law will never die or change we must die.  We become dead to the law by the body of Christ, which allows us to marry him that is raised from the dead, even Jesus Christ.  We are delivered from the law to serve God in the newness of the Spirit, and not in the oldness of the letter.
+The main theme of chapter seven is the believer&apos;s relation to the law.  The believer is united with Christ &quot;the new husband.&quot;  When we are born we are bound to the law like as a marriage.  To be free from the law, because the law will never die or change we must die.  We become dead to the law by the body of Christ, which allows us to marry him that is raised from the dead, even Jesus Christ.  We are delivered from the law to serve God in the newness of the Spirit, and not in the oldness of the letter.
 
 Serving in the oldness of the letter of the law did not make Paul righteous but rather exposed his unrighteousness, but it was not the cause of his sin. The Law, like a schoolmaster, taught him what was sin. By society's standards, Paul was not guilty unless he followed through on his lust, but the law communicated God's standards which by result exposed the depravity of his heart. "Thou shalt not covet" (v.7). How can I be told not to "want" something that is in my nature? The law requires exact and complete obedience without exception. In the light of the law of a Holy God, sin is utterly and completely exposed wherever it can be found. 
 
@@ -122,7 +122,7 @@ The Law itself is "Holy and Righteous and Good"
 #### that sin by the commandment might become exceeding sinful.
 
 The law reveals the sinfulness of sin.	  	     12-13
-- The Law is Holy, Just and good, so as the standard, the plumb-line, the commandment shows us where and what we are in the sight of God; sin is shown for what it is “exceeding sinful”. Far off from the mark that God has set for us in Christ.
+- The Law is Holy, Just and good, so as the standard, the plumb-line, the commandment shows us where and what we are in the sight of God; sin is shown for what it is &quot;exceeding sinful&quot;. Far off from the mark that God has set for us in Christ.
 - The law is intended to convict the sinner of sin and only through Christ find repentance.
 - The law condemns, convicts, constrains and conducts an awakened sinner to Christ.   Rom. 3:19,23; 7:8-11; 8:3; Gal.3:19-24  (Judge, warden, executioner, conductor)
 

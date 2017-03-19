@@ -1,13 +1,13 @@
 
-# A Call for Unity – Ch. 15
+# A Call for Unity &mdash; Ch. 15
 Believers are to receive one another, as Christ received the Gentiles - to God's glory.  The first section of this chapter describes Christian relationships, with Christ as the perfect example of them.  Paul's personal message to the Romans begins in Verse 14.
 
 Put Verse 1 & 2 into your own words.  Compare with Chapter 14, Verse 19.
 
-Romans chapter fifteen talks about living an unselfish life.  Those that are strong are to help the weak.  We are to not live to please ourselves but to please God, to put others before us.  This chapter ends with Paul’s missionary journeys.
+Romans chapter fifteen talks about living an unselfish life.  Those that are strong are to help the weak.  We are to not live to please ourselves but to please God, to put others before us.  This chapter ends with Paul&apos;s missionary journeys.
 
 
-The fifteenth chapter of Romans has a strong feeling of conclusion. As is Paul’s style in this book, he repeats concepts already presented but more directly and personally. He prescribes the following instructions to his readers:
+The fifteenth chapter of Romans has a strong feeling of conclusion. As is Paul&apos;s style in this book, he repeats concepts already presented but more directly and personally. He prescribes the following instructions to his readers:
 
 - The Strong ought to bear the infirmities of the weak.
 
@@ -28,7 +28,7 @@ The fifteenth chapter of Romans has a strong feeling of conclusion. As is Paul�
 
 v. 23-23 Paul restates again his desire and intention to visit the church at Rome and his itinerary. He must first go to Spain and collect an offering for the saints at Jerusalem. He would then bring the offering to Jerusalem, after which he intends to visit Roman.
 
-It is interesting to note that there is somewhat a controversy over Romans 15:14—16:27. The question is as follows, “Where did Romans originally end.” Many old manuscripts do not contain this passage, and at the same time most do in one way or another. Some have it placed at the end of chapter fourteen and others both at the end of chapter fourteen and at the end of the book. This bears no influence of compromising the texts integrity, but can be logically in a hypothetical manner explained. Someone copying the letter and desiring to disperse it amongst many different churches could have left off the parts personal to the church at Rome.
+It is interesting to note that there is somewhat a controversy over Romans 15:14&mdash;16:27. The question is as follows, &quot;Where did Romans originally end.&quot; Many old manuscripts do not contain this passage, and at the same time most do in one way or another. Some have it placed at the end of chapter fourteen and others both at the end of chapter fourteen and at the end of the book. This bears no influence of compromising the texts integrity, but can be logically in a hypothetical manner explained. Someone copying the letter and desiring to disperse it amongst many different churches could have left off the parts personal to the church at Rome.
 
 
 Romans 15:
@@ -36,13 +36,13 @@ Consists of two parts, he reviews back to the former chapter and enforces it som
 He again talks about the strong bearing the weak Christians, We are to not only look at our own interests but rather more look at others interests.
 In business I have to be careful not to cheat my customers, → the same application falls to the Christians spiritual life.
 Chapter 15: talks about the conduct of a Christian
-He didn’t suffer for himself, so as much we are to suffer for Christ’s sake, for Christ
-If we don’t see a change in others, there is something.
+He didn&apos;st suffer for himself, so as much we are to suffer for Christ&apos;s sake, for Christ
+If we don&apos;st see a change in others, there is something.
 The strong ought to bear the infirmities of the weak. We ought to not please ourself but Christ.
 Are we fully persuaded?
 The strong person has something more than the weaker person has? They have more faith.
-We have a right to exercise and do what we want, but if it doesn’t please the Lord we should lay it down.
-The “Theme of chapter 15”: → Doing for others
+We have a right to exercise and do what we want, but if it doesn&apos;st please the Lord we should lay it down.
+The &quot;Theme of chapter 15&quot;: → Doing for others
 
 
 

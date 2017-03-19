@@ -24,7 +24,7 @@ Paul establishes that knowledge of the law is not enough to save (Not hearers bu
 
 Paul sets the Law in its right perspective. The religious Jew clung to his knowledge of the law of Moses as if it were a charm that justified them before God. They had a warped perspective of what the law is and does. Jesus did not and Paul does not eliminate the law as worthless, but does position it properly in the perspective provided by the revelation of the cross. In Judaism, the law is king, but according to the Gospel there is righteousness and justification without the deeds of the law. 
 
-This conviction in the pre-eminence of the law is what fed the Jew’s objection to Christ. The Holy Ghost knew the Jews were holding to their superiority and trying to justify their rejection of the Gospel. In Romans 3, we find refutations of the excuses of the Jews to further show they are condemned and in need of Jesus.
+This conviction in the pre-eminence of the law is what fed the Jew&apos;s objection to Christ. The Holy Ghost knew the Jews were holding to their superiority and trying to justify their rejection of the Gospel. In Romans 3, we find refutations of the excuses of the Jews to further show they are condemned and in need of Jesus.
 
 - The True Advantage of Having the Law	(vs. 1-2)
 - The Absoluteness of the Law 			(vs. 3-8)
@@ -34,11 +34,11 @@ This conviction in the pre-eminence of the law is what fed the Jew’s objection
 
 ### What Law?
 
-The word “law” generically means “a principle; a prescription”. Though it was to the Jew who was given the Law of God through Moses, both Jews and Gentiles had the law of God in their conscience (whether or not they chose to receive it was their choice). 
+The word &quot;law&quot; generically means &quot;a principle; a prescription&quot;. Though it was to the Jew who was given the Law of God through Moses, both Jews and Gentiles had the law of God in their conscience (whether or not they chose to receive it was their choice). 
 
-Throughout Romans, Paul illustrates the weakness of the Law given to Moses and yet at the same time establishes his true value. The Law given to Moses is indeed the will of God, but it is not the entirety of his instruction. The error of the Jew was in that they made those principles with its ceremonies and attached traditions the sum of God’s intent toward humanity.
+Throughout Romans, Paul illustrates the weakness of the Law given to Moses and yet at the same time establishes his true value. The Law given to Moses is indeed the will of God, but it is not the entirety of his instruction. The error of the Jew was in that they made those principles with its ceremonies and attached traditions the sum of God&apos;s intent toward humanity.
 
-Though we can find the same word “law” used in 52 verses in Romans, Paul is not always discussing the same set of principles or prescriptions.
+Though we can find the same word &quot;law&quot; used in 52 verses in Romans, Paul is not always discussing the same set of principles or prescriptions.
 
 - Romans 2:12-13,17,18,20,23,25,26 : The Jews had the Law of Moses and the Gentiles did not. The Jews boasted and rested in the law given through Moses and because of the keeping of the deeds of this Law.
 - Romans 2:14-15 : The Gentiles did have a law in their heart or their conscience
@@ -49,7 +49,7 @@ Though we can find the same word “law” used in 52 verses in Romans, Paul is 
 - Romans 8:2 : Law of the Spirit of life in Christ Jesus
 - Romans 9:31 : Law of Righteousness
 
-Moses was used as an oracle of God, but he was not the only nor the last of God’s messengers. Ultimately, he was only trailblazer for the Living Word! The law in our conscience or the law given through Moses are both abstractions of the Law of God. God gave his eternal principles to Moses and God desires his will, his law, his prescriptions to be hidden in the heart of every person and realized in their life.
+Moses was used as an oracle of God, but he was not the only nor the last of God&apos;s messengers. Ultimately, he was only trailblazer for the Living Word! The law in our conscience or the law given through Moses are both abstractions of the Law of God. God gave his eternal principles to Moses and God desires his will, his law, his prescriptions to be hidden in the heart of every person and realized in their life.
 
 >  Romans 3:28 Therefore we conclude that a man is justified by faith without the deeds of the law.
 
@@ -68,7 +68,7 @@ Having Received the Law First, What Advantage does the Jew Have? (vs. 1-2)
 Justification by faith is a doctrine of equality of all men which the Jews despised due to their insistence on being superior to the Gentiles. The Jew wanted to flaunt his greatness over the Gentile. Many Jews continued to reject the Gospel and hold to their pre-eminence and exalted position in Jehovah simply because of their lineage to Abraham. Most Jews were appalled by the concept of the Gentiles being equal to them and having the same access to God as them through faith in Jesus.
 
 ### The Advantage IS they had first received the oracles of God.
-	“Yes the Jew has an advantage, but it is not what you think!” 
+	&quot;Yes the Jew has an advantage, but it is not what you think!&quot; 
 
 Oracle literally means utterance and is used here to refer to the Words or utterances of God proclaimed through the prophets and preserved in the Holy Scriptures. The Jews had received the prophecies of the Messiah and therefore had an advantage of increased revelation of Messiah that the Gentiles did not have.  The advantage the Jew had was the very thing that condemns him as many still continue to reject Jesus as the Messiah.
 
@@ -80,8 +80,8 @@ The advantage of knowing the law is not that that knowledge justifies us, but is
 
  > 2 Peter 2:21&mdash;For it had been better for them not to have known the way of righteousness, than, after they have known it, to turn from the holy commandment delivered unto them.
 
-Question: Is it an advantage to not know God’s will?
-Answer: No. It is a blessing to have had the opportunity to know God’s will. Peter is expressing the greatness of the degree of condemnation of backslider. Both the heathen and backslider are condemned.
+Question: Is it an advantage to not know God&apos;s will?
+Answer: No. It is a blessing to have had the opportunity to know God&apos;s will. Peter is expressing the greatness of the degree of condemnation of backslider. Both the heathen and backslider are condemned.
 
 ____________________________________________________________________________________________________________________________
 

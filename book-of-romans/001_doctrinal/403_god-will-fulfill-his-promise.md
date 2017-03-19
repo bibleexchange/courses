@@ -1,7 +1,7 @@
 <!-- -->
 <!-- -->
 <!-- -->
-## III. God will Fulfill His Promise – Romans 4:18-25
+## III. God will Fulfill His Promise &mdash; Romans 4:18-25
 
 ### The Promise to Abraham, vs.18-22
 
@@ -9,7 +9,7 @@ Abraham was given the promise of God. God promised Abraham he would have a son. 
 
 ### The Promise of Justification, vs. 23,24
 
-> Romans 4:23 ¶ Now it was not written for his sake alone, that it was imputed to him; 24 But for us also, to whom it shall be imputed, &hellip;
+> Romans 4:23  Now it was not written for his sake alone, that it was imputed to him; 24 But for us also, to whom it shall be imputed, &hellip;
 
 ### The Condition of Justification, vs. 24
 
@@ -49,7 +49,7 @@ The following arguments are presented:
 ### 2.	Justification/Righteousness is not obtained by works.
 ### 3.	Justification/Righteousness is not acquired by circumcision.
 ### 4.	You cannot gain Justification/Righteousness through adherence of the law.  4:13-17
-### 5.	Abraham’s faith shows us an example that we must follow.
+### 5.	Abraham&apos;s faith shows us an example that we must follow.
 ### 6.	Paul reasoned that Justification/Righteousness by faith is the only way to please God.
 
 <!--
@@ -59,7 +59,7 @@ Research "Declared or Made Righteous"
 
 - Is this historically a Roman Catholic position ("made righteous") ????
 
-Both groups agree that the term invokes a communication of Christ's merits to sinners, not a declaration of sinlessness; Luther used the expression simul justus et peccator ("at the same time justified and a sinner"). However, Roman Catholicism sees justification as a communication of God's life to a human being, cleansing him of sin and transforming him truly into a son of God, so that it is not merely a declaration, but rather the soul is made actually objectively righteous. The Protestant view of justification, by contrast, is that it is the work of God through the means of grace. Faith is the righteousness of God that is accomplished in us through word and sacraments. Law and gospel work to kill the sinful self and to accomplish the new creation within us. This new creation within us is the faith of Christ. If we do not have this faith, then we are ungodly. Indulgences or human prayers add nothing—they are nothing. Everyone has some kind of faith — usually a faith in themselves. But we need God to continually destroy self-righteous faith and to replace it with the life of Christ. We need the faith that comes from God through law and gospel, word, works and sacraments. In the founding document of the Reformation, the 95 Theses, Luther said that 1.) "When our Lord and Master Jesus Christ said, ‘Repent’ (Matthew 4:17) He willed the entire life of believers to be one of repentance." and 95.) And thus be confident of entering into heaven through many tribulations rather than through the false security of peace (Acts 14:22).
+Both groups agree that the term invokes a communication of Christ's merits to sinners, not a declaration of sinlessness; Luther used the expression simul justus et peccator ("at the same time justified and a sinner"). However, Roman Catholicism sees justification as a communication of God's life to a human being, cleansing him of sin and transforming him truly into a son of God, so that it is not merely a declaration, but rather the soul is made actually objectively righteous. The Protestant view of justification, by contrast, is that it is the work of God through the means of grace. Faith is the righteousness of God that is accomplished in us through word and sacraments. Law and gospel work to kill the sinful self and to accomplish the new creation within us. This new creation within us is the faith of Christ. If we do not have this faith, then we are ungodly. Indulgences or human prayers add nothing&mdash;they are nothing. Everyone has some kind of faith &mdash; usually a faith in themselves. But we need God to continually destroy self-righteous faith and to replace it with the life of Christ. We need the faith that comes from God through law and gospel, word, works and sacraments. In the founding document of the Reformation, the 95 Theses, Luther said that 1.) "When our Lord and Master Jesus Christ said, 'Repent&apos;s (Matthew 4:17) He willed the entire life of believers to be one of repentance." and 95.) And thus be confident of entering into heaven through many tribulations rather than through the false security of peace (Acts 14:22).
 
 The true distinction, therefore, between the Protestant and the Catholic view of Justification is not an issue of being "declared righteous" versus being "made righteous", 
 

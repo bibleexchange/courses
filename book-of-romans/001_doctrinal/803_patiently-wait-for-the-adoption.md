@@ -59,7 +59,7 @@ We need to grow and Christ is the standard.
 
 > Romans 8:14&mdash;For as many as are led by the Spirit of God, they are the sons of God.
 
-- “led” (controlled) by the spirit.
+- &quot;led&quot; (controlled) by the spirit.
 - Divine Guidance is the Scriptural evidence of Maturity and Sonship.
 - There is a difference between Divine guidance and natural reasoning, circumstances or impressions.
 - Sons of God - "Sons" means adult sons - sons that have come of age
@@ -190,9 +190,9 @@ The Greek word for adoption (huiothesia) means to "place as a son" and is used o
 
 Adoption in Paul's letters is expansive. It includes the principles of "placement in the family of God" as for each Believer is a work completed, but it also speaks of a work not yet done. In Romans 8:23, Adoption is something the Believer who has received the firstfruits of the Spirit does "wait for".
 
-The "Adoption" for which the Believer patiently waits has to do with placing the fully matured and fully developed into Sonship. This thought combined with the manifestation of the sons of God (v.19) speak of God’s ultimate plan in salvation. He is desirous to have many sons like His only Son. We often refer to this plan as End Time Salvation. 
+The "Adoption" for which the Believer patiently waits has to do with placing the fully matured and fully developed into Sonship. This thought combined with the manifestation of the sons of God (v.19) speak of God&apos;s ultimate plan in salvation. He is desirous to have many sons like His only Son. We often refer to this plan as End Time Salvation. 
 
-End Time Salvation is God’s plan of salvation in its totality, salvation to the uttermost, of the whole man—body, soul, and spirit—which in time past was not an available provision because of the appropriateness of time. It is now made available to us living in the end times (or, the time of the end).
+End Time Salvation is God&apos;s plan of salvation in its totality, salvation to the uttermost, of the whole man&mdash;body, soul, and spirit&mdash;which in time past was not an available provision because of the appropriateness of time. It is now made available to us living in the end times (or, the time of the end).
 
 It is communicated throughout Scripture through many different thoughts. Listed below are some of the thoughts included in End Time Salvation: 
 - End Time Deliverance
@@ -240,7 +240,7 @@ Hope and faith is part of Christian living.
 (God has a vast plan, reaching on into eternity, and "hope" lies ahead for creation.)
 8:21	"The creature shall be delivered."
 From bondage of corruption (although we are new creatures in Christ, yet God has left our bodies as a link with the present creation)
-8:24 – 25  Hope - something you know will transpire in your soul.
+8:24 &mdash; 25  Hope - something you know will transpire in your soul.
 		- Patience - wait for it.     (Good things come hard in life)
 8:26 Holy Spirit helpeth our infirmities.       Our divine helper;   Spirit - breath of God
 1.  Prayer - (spirit prays) understood by God.                                                                                               2.  According to His will - the spirit knows how to pray.
@@ -301,11 +301,11 @@ The work is not complete yet in the Believer.
 
 ##### Sonship - Manifested Sons
 
-1. The meaning of Manifested Son’s
+1. The meaning of Manifested Son&apos;s
 a.  Manifested---apokalupsis,  ap-ok-al'-oop-sis                                                                                 
 Disclosure:--appearing, coming, lighten, be revealed, revelation, To take off the cover. 
 b. It is a Revelation
-i. They are now hidden – in obscurity
+i. They are now hidden &mdash; in obscurity
 1. Like Israel in Egypt
 2. There is a time for Revelation
 3. Longing for something better
@@ -317,10 +317,10 @@ i. A growing up					Eph.4:13-15
 d. It is a Deliverance
 i. First to the Overcomer			I Pt.1:3-5
 ii. Then to Creation				Rom.8:20-22
-1. The Time of the Manifesting of the Son’s of God
+1. The Time of the Manifesting of the Son&apos;s of God
 I. Appointed of the Father			Gal.4:2
 1. In these last days                      		 I Pt. 1:4-5
-2. Not according to man’s desire		
+2. Not according to man&apos;s desire		
 3. Not according to the flesh
 a. No fleshly revelation
 b. No fleshly prophecy
@@ -331,26 +331,26 @@ e.   No fleshly living
 a.     Not a fleshly birth
 b. Not a child of the flesh
 5. According to the truth
-a. In respect of conception (normal – sound doctrine)
+a. In respect of conception (normal &mdash; sound doctrine)
 b. In respect to birth
 c. In respect to maturity
 
 
-2. The Purpose of the Manifested Son’s
+2. The Purpose of the Manifested Son&apos;s
 I. To loosen Creation					8:19-22
 II. To Complete Redemption				8:23
-III. To Glorify God’s Son					8:17-18
+III. To Glorify God&apos;s Son					8:17-18
 A. To Reveal His Son to us by His Spirit
 B. To Reveal His Son in us by His Spirit
-C. To have many Son’s like His only Son
-D. To have more Son’s like Jesus
+C. To have many Son&apos;s like His only Son
+D. To have more Son&apos;s like Jesus
 1. To be same in Nature			II Pt. 1:4
 a. Righteousness       Rom.1:17; 5:21; 6:16; Eph. 4:24
 b. Holiness    Ro1:4;6:19,22; IThes.3:13;4:7;	He12:10,14
 2. To be same in obedience
 a. Wisdom                                    Rom.14:33; 	I Cor. 1:30
 b. Sanctification                        II Thes. 2:13;  I Pt. 1:2
-Eph 4:13—Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ: 
+Eph 4:13&mdash;Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ: 
 B. From slavery to Sonship						8:15-23
 Ro 8:15 For ye have not received the spirit of bondage (Slavery)again to fear; but ye have received the Spirit of adoption,(  whereby we cry, Abba, Father.
 1397.  douleia  douleia,  doo-li'-ah  (slavery)
@@ -358,7 +358,7 @@ Ro 8:15 For ye have not received the spirit of bondage (Slavery)again to fear; b
 a. Requirements for Sonship				    	12-18
 b. Perfect through Sufferings 					8:17
 c. Conformed to the Image of His Son				8:28-30
-d. God’s Eternal Purpose					8:28-30
+d. God&apos;s Eternal Purpose					8:28-30
 C. The Redemption of Creation						8:18-23
 D. Redemption of the Body						8:23
 
@@ -372,18 +372,18 @@ D. Redemption of the Body						8:23
 
 
 
-1Peter 1:4—To an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you,  5—Who are kept by the power of God through faith unto salvation ready to be revealed in the last time. (The signs surround us; we are in the “last time.”)
+1Peter 1:4&mdash;To an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you,  5&mdash;Who are kept by the power of God through faith unto salvation ready to be revealed in the last time. (The signs surround us; we are in the &quot;last time.&quot;)
 
-Ephesians 4:13—Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:
+Ephesians 4:13&mdash;Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:
 
 Mat.6:33; Mk. 4:20; Ro. 8:15-23; Eph. 1:13, 14; Colossians 1:22; Hebrews 7:25; Rev. 3:21; 19:7
 
-I Corinthians 2:10 “But God hath revealed them unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God.”
+I Corinthians 2:10 &quot;But God hath revealed them unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God.&quot;
 
 I Peter 1:10-12 
 
-Hebrews 11:39,40 “And these all, having obtained a good report through faith, received not the promise: God having provided some better thing for us, that they without us should not be made perfect.”
+Hebrews 11:39,40 &quot;And these all, having obtained a good report through faith, received not the promise: God having provided some better thing for us, that they without us should not be made perfect.&quot;
 
-Luke 21:28 “And when these things begin to come to pass, then look up, and lift up your heads; for your redemption draweth nigh.” (Apolutrosis)
+Luke 21:28 &quot;And when these things begin to come to pass, then look up, and lift up your heads; for your redemption draweth nigh.&quot; (Apolutrosis)
 
 <!-- THIS CHAPTER HASN'T BEEN COMPLETED YET -->

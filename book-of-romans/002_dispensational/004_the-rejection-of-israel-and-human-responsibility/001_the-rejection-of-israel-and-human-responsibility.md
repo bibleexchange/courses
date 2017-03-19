@@ -69,7 +69,7 @@ Why is Christ a stumblingstone to the sinner today?
 
 - The Jew First, The Gospel is FOR the Jew
 
-> Romans 1:16 ¶ For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.
+> Romans 1:16  For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.
 <!--->
 > Romans 2:9 Tribulation and anguish, upon every soul of man that doeth evil, of the Jew first, and also of the Gentile;
 <!--->
@@ -120,7 +120,7 @@ Finally, instead of endeavoring to fulfill the great end of the dispensation who
 
 - The Pharisees: Minute Prescriptions added to the Law
 
-> Acts 23:6 ¶ But when Paul perceived that the one part were Sadducees, and the other Pharisees, he cried out in the council, Men and brethren, I am a Pharisee, the son of a Pharisee: of the hope and resurrection of the dead I am called in question.
+> Acts 23:6  But when Paul perceived that the one part were Sadducees, and the other Pharisees, he cried out in the council, Men and brethren, I am a Pharisee, the son of a Pharisee: of the hope and resurrection of the dead I am called in question.
 <!-- -->
 > Ac 26:5 Which knew me from the beginning, if they would testify, that after the most straitest sect of our religion I lived a Pharisee.
 <!-- -->
@@ -138,7 +138,7 @@ They had a zeal of God, but were missing important truth -- The Righteousness of
 
 ### The Jews' Path to God, vs. 12-15
 
-> 12 ¶ For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him. 13 For whosoever shall call upon the name of the Lord shall be saved. 14 How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher? 15 And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!
+> 12  For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him. 13 For whosoever shall call upon the name of the Lord shall be saved. 14 How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher? 15 And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!
 
 ### The Jew's Rejection of the Gospel, v. 16-21
 
@@ -166,7 +166,7 @@ God is using the Gentiles to provoke the Jew to Jealousy (v.19).
 ### Handout
 
 
-National survey shows Jews leaving Judaism, assimilating, becoming Christians or “Nones” --- October 1, 2013
+National survey shows Jews leaving Judaism, assimilating, becoming Christians or &quot;Nones&quot; --- October 1, 2013
 
 Jews who are Christian now are one of the major components of the U.S. Jewish population.
 
@@ -184,9 +184,9 @@ Low religious practice and belief
 
 Two-thirds of Jews do not belong to a synagogue, almost one-third identify with no Jewish religious denomination, and one-quarter (23%) do not believe in God.
 
-Younger Jews are shifting to “no religion”
+Younger Jews are shifting to &quot;no religion&quot;
 
-Jewish Millennials, those born after 1980s, are the most likely to identify themselves as not religious. 32% say that they would describe themselves as having no particular religion or are agnostic or atheist. Alan Cooperman, deputy director of the Pew Center, called the drop in religious identity a “stunning” development. The shift to “None” in religion reflects a long term trend among American Jews.
+Jewish Millennials, those born after 1980s, are the most likely to identify themselves as not religious. 32% say that they would describe themselves as having no particular religion or are agnostic or atheist. Alan Cooperman, deputy director of the Pew Center, called the drop in religious identity a &quot;stunning&quot; development. The shift to &quot;None&quot; in religion reflects a long term trend among American Jews.
 
 Rise of the Messianic Jews
 

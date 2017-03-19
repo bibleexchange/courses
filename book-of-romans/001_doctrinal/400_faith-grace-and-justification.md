@@ -19,7 +19,7 @@ Justification by Faith is Demonstrated in the life of Abraham.
 <!-- -- -- -->
 ## I. Abraham was justified by Faith and not by Works. &mdash; Vs. 1&mdash;8
 
-> Romans 4:3&mdash;…Abraham believed God, and it was counted unto him for righteousness.
+> Romans 4:3&mdash;&hellip;Abraham believed God, and it was counted unto him for righteousness.
 
 ### A. Paul is Addressing a Question of the Jews
 
@@ -36,7 +36,7 @@ The Jews were holding to their relationship to Abraham (&quot;abraham&apos;s chi
 
 ##### b. What saith the Scripture?
 
-> Romans 4:3 &mdash;For what saith the scripture? …
+> Romans 4:3 &mdash;For what saith the scripture? &hellip;
 
 Romans chapter 4 deals with &quot;Abraham&apos;s Righteousness&quot;. Abraham is an example of justification by grace through faith. Paul uses Abraham&apos;s life as recorded in SCRIPTURE to explain the doctrine of righteousness by faith. In both Chapter 3 and Chapter 4, Paul is bringing out the truth that he is not teaching a Gospel that is in competition with the Scriptures (Old Testament), but rather a Gospel that is a continuation of God&apos;s Eternal Purpose.
 

@@ -34,11 +34,11 @@ We can see the importance works of righteousness in verses 10 through 13.
 
 #### Because of Christ's Work, I have Life 8:10
 
-> Romans 8:10—And if Christ be in you, the body is dead because of sin; but the Spirit is life because of righteousness.
+> Romans 8:10&mdash;And if Christ be in you, the body is dead because of sin; but the Spirit is life because of righteousness.
 
 Death is the Result of Sin; Sin = Death, Righteousness.
 
-Because of sin, your body is subject to death, but because of righteousness your spirit is subject to life! -- “the Spirit is life because of righteousness”
+Because of sin, your body is subject to death, but because of righteousness your spirit is subject to life! -- &quot;the Spirit is life because of righteousness&quot;
 
 Comparison of Translations: 
 
@@ -52,15 +52,15 @@ Comparison of Translations:
 
 - New American Standard Bible: If Christ is in you, though the body is dead because of sin, yet the spirit is alive because of righteousness.
 
-#### Because of the The Holy Ghost’s Work, I am Alive 8:11
+#### Because of the The Holy Ghost&apos;s Work, I am Alive 8:11
 
 > Romans 8:11&mdash;But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you.
 
 The Holy Ghost raised Jesus from the dead. The Holy Ghost quickens the mortal body of those He dwells in. The mortal body that is subject to death is made alive by the Holy Ghost.
 
-Christ in us and His life and Righteousness abounding in us is evidence of our faith and of Christ’s works within us.
+Christ in us and His life and Righteousness abounding in us is evidence of our faith and of Christ&apos;s works within us.
 
-Quicken - vitalize - bring to life – make alive
+Quicken - vitalize - bring to life &mdash; make alive
 
 A. The Spirit gives life by freeing the believer from sin and death.
 B. The Spirit gives life by doing what the law could not do.
@@ -82,7 +82,7 @@ We are debtors to life - we are obligated and behold to the Holy Ghost and not t
 Having Received the Spirit of Adoption, I have Received a New Work. We can see the importance of works of righteousness in verses 10 through 13.
 
 - Because of Christ's Work, I have Life v.10
-- Because of the The Holy Ghost’s Work, I am Alive v.11
+- Because of the The Holy Ghost&apos;s Work, I am Alive v.11
 - Because I am Alive, I Work vs.12-13
 
 ### Having Received the Spirit of Adoption, I have Been Received into a new Family vs. 14-16
@@ -101,7 +101,7 @@ Family - Household - Body - Husbandry/Field - Building - Church - Flock - Citize
 <!-- -->
 > Romans 12:5&mdash;So we, being many, are one body in Christ, and every one members one of another.
 <!-- -->
-> 1 Corinthians 3:9&mdash;For we are labourers together with God: ye are God’s husbandry, ye are God’s building.
+> 1 Corinthians 3:9&mdash;For we are labourers together with God: ye are God&apos;s husbandry, ye are God&apos;s building.
 <!-- -->
 > 1 Timothy 5:1-4&mdash;Rebuke not an elder, but intreat him as a father; and the younger men as brethren; 2 The elder women as mothers; the younger as sisters, with all purity. 3 Honour widows that are widows indeed. 4 But if any widow have children or nephews, let them learn first to shew piety at home, and to requite their parents: for that is good and acceptable before God.
 <!-- -->
@@ -154,7 +154,7 @@ The King prayed and all Judah stood before the Lord.
 
 The Spirit of God came upon Jahaziel and he spoke to Judah.
 
-> 2 Chronicles 20:15&mdash;And he said, Hearken ye, all Judah, and ye inhabitants of Jerusalem, and thou king Jehoshaphat, Thus saith the Lord unto you, Be not afraid nor dismayed by reason of this great multitude; for the battle is not yours, but God’s.
+> 2 Chronicles 20:15&mdash;And he said, Hearken ye, all Judah, and ye inhabitants of Jerusalem, and thou king Jehoshaphat, Thus saith the Lord unto you, Be not afraid nor dismayed by reason of this great multitude; for the battle is not yours, but God&apos;s.
 
 <!-- -->
 
@@ -166,7 +166,7 @@ Berachah is the "Valley of Blessings ("blessing" is "Berakhah" in Hebrew).
 
 Jehoshaphat joined himself in league with a sinner.
 
-> 35 ¶And after this did Jehoshaphat king of Judah join himself with Ahaziah king of Israel, who did very wickedly: 36 And he joined himself with him to make ships to go to Tarshish: and they made the ships in Ezion–geber. 37 Then Eliezer the son of Dodavah of Mareshah prophesied against Jehoshaphat, saying, Because thou hast joined thyself with Ahaziah, the Lord hath broken thy works. And the ships were broken, that they were not able to go to Tarshish. 
+> 35 ¶And after this did Jehoshaphat king of Judah join himself with Ahaziah king of Israel, who did very wickedly: 36 And he joined himself with him to make ships to go to Tarshish: and they made the ships in Ezion&mdash;geber. 37 Then Eliezer the son of Dodavah of Mareshah prophesied against Jehoshaphat, saying, Because thou hast joined thyself with Ahaziah, the Lord hath broken thy works. And the ships were broken, that they were not able to go to Tarshish. 
 
 ##### Jesus
 

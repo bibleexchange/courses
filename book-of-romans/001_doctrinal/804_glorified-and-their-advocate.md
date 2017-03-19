@@ -67,11 +67,11 @@ Eternal Glory. A glory revealed in us -- the Glory of God.
 
 ## Have God as Their Advocate, vs. 31-39
 
-The end of the chapter deals with the Christian’s Hope, which is; “If God be for us who can be against us.”  And that we are more than conquerors and that all things work together for good. The sufferings we go through are to teach us our motives.
+The end of the chapter deals with the Christian&apos;s Hope, which is; &quot;If God be for us who can be against us.&quot;  And that we are more than conquerors and that all things work together for good. The sufferings we go through are to teach us our motives.
 
 ### The Accuser of the Saints
 
-> 31 What shall we then say to these things? If God be for us, who can be against us? 32 He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things? 33 Who shall lay any thing to the charge of God’s elect? It is God that justifieth.  34 Who is he that condemneth? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us.  
+> 31 What shall we then say to these things? If God be for us, who can be against us? 32 He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things? 33 Who shall lay any thing to the charge of God&apos;s elect? It is God that justifieth.  34 Who is he that condemneth? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us.  
 
 1. Someone Must Produce Charges
 

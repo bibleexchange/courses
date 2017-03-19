@@ -6,43 +6,43 @@
 
 Romans chapters 12-16 complete the final section of this book. This section is particularly practical in its instruction. We see the righteousness of God applied to the daily life of the Believer.
 
-Romans chapter twelve deals with the Christian’s duties, which ultimately leads to a surrendered life.  The church is compared to the human body.  There should be unity among the body, if there is no unity, the body will not function properly.  This chapter also deals with the different duties of the church.  This chapter ends with the Christian spirit.  We are not to overcome but not with evil but we are to overcome with good. 
+Romans chapter twelve deals with the Christian&apos;s duties, which ultimately leads to a surrendered life.  The church is compared to the human body.  There should be unity among the body, if there is no unity, the body will not function properly.  This chapter also deals with the different duties of the church.  This chapter ends with the Christian spirit.  We are not to overcome but not with evil but we are to overcome with good. 
 
 ### Word Studies
 
 Often times words lose their value with us with overuse. Let us look more closely at the vocabulary of the first two verses of this chapter that we may gain a deeper understanding of it:
 
-**Beseech** – This has the ideas of to call near and intreat. This is a plea in earnest.
+**Beseech** &mdash; This has the ideas of to call near and intreat. This is a plea in earnest.
 
-**Therefore** – What is it THERE FOR? All of Chapter eleven expresses what grace has brought about. The outcast has been included. Therefore, we must do….
+**Therefore** &mdash; What is it THERE FOR? All of Chapter eleven expresses what grace has brought about. The outcast has been included. Therefore, we must do&hellip;.
 
-**Brethren** – He speaks to those that have been blood bought and born again. Not, the Israel of Isaac, but of the spiritual Israel. 
+**Brethren** &mdash; He speaks to those that have been blood bought and born again. Not, the Israel of Isaac, but of the spiritual Israel. 
 
-**Mercies of God** – It is by the mercy of God that we would be hearing such a plea. Had it not been for God’s mercy shown on the road to Damascus, Paul could not make such a plea. He does not make the plea because he is better than everyone, but because of God’s mercy is he qualified to make such a plea.
+**Mercies of God** &mdash; It is by the mercy of God that we would be hearing such a plea. Had it not been for God&apos;s mercy shown on the road to Damascus, Paul could not make such a plea. He does not make the plea because he is better than everyone, but because of God&apos;s mercy is he qualified to make such a plea.
 
-**Bodies** – In the mortal body we must glorify God. Not just someday and for now do the best that we can. …We should live soberly, righteously, and godly, in this present world.—Titus 2:12
+**Bodies** &mdash; In the mortal body we must glorify God. Not just someday and for now do the best that we can. &hellip;We should live soberly, righteously, and godly, in this present world.&mdash;Titus 2:12
 
-**Living Sacrifice** – The flesh must be crucified. Our will must be crucified. We offer alive, but God thoroughly will purge us as long as we remain on the altar.
+**Living Sacrifice** &mdash; The flesh must be crucified. Our will must be crucified. We offer alive, but God thoroughly will purge us as long as we remain on the altar.
 
-**Holy** – Our lives ought to be light to those that wander in the darkness.
+**Holy** &mdash; Our lives ought to be light to those that wander in the darkness.
 
-**Acceptable unto God** – fully agreeable; well pleasing In this age full of men pleasers, we must seek our approval from God. What does He think about a direction you take? To be accepted by this world is to be rejected by Him. We cannot be agreeable with the flesh and this world and at the same time be agreeable to God. There must be a clear line of alliance defined. Who will you side with?
+**Acceptable unto God** &mdash; fully agreeable; well pleasing In this age full of men pleasers, we must seek our approval from God. What does He think about a direction you take? To be accepted by this world is to be rejected by Him. We cannot be agreeable with the flesh and this world and at the same time be agreeable to God. There must be a clear line of alliance defined. Who will you side with?
 
-**Reasonable service** – His yoke is easy, but any requirement God could make of us would pale in greatness to what He has provided for us.
+**Reasonable service** &mdash; His yoke is easy, but any requirement God could make of us would pale in greatness to what He has provided for us.
 
-**Conformed** – Conform to the same pattern; fashion self according to; 
+**Conformed** &mdash; Conform to the same pattern; fashion self according to; 
 
-**Transformed** – metamorphosis; change; This is the miraculous work of God.
+**Transformed** &mdash; metamorphosis; change; This is the miraculous work of God.
 
-**Renewing of your Mind** – Our mind is made new by the Word. Replace our carnal thoughts with What saith the Lord.
+**Renewing of your Mind** &mdash; Our mind is made new by the Word. Replace our carnal thoughts with What saith the Lord.
 
-**Good, Acceptable, & Perfect Will of God** – This is not God’s three wills, but three adjectives of God’s one sovereign will. He is not double-minded (or triple-minded for that matter).
+**Good, Acceptable, & Perfect Will of God** &mdash; This is not God&apos;s three wills, but three adjectives of God&apos;s one sovereign will. He is not double-minded (or triple-minded for that matter).
 
 ### God's Perfect Will
 
 Paul's Great Plea for Personal Consecration to God, in view of His mercies. Paul teaches desiring the perfect will of God for each believer.
 
-Instructions are given for the Believer to follow. This chapter is so rich, a lifetime could be devoted to its study. Let us complete our introduction to Romans 12 with a simple list of the different thoughts presented in Romans 12. They are categorized respectively: 1) God’s gifts to man, and 2) man’s return responsibility to God for what God has given.
+Instructions are given for the Believer to follow. This chapter is so rich, a lifetime could be devoted to its study. Let us complete our introduction to Romans 12 with a simple list of the different thoughts presented in Romans 12. They are categorized respectively: 1) God&apos;s gifts to man, and 2) man&apos;s return responsibility to God for what God has given.
 
 ## Verse 1
 
@@ -99,7 +99,7 @@ We must present ourselves ALIVE to God!
 
 **GOD HAS GIVEN SO MUCH TO HIS PEOPLE**: Grace Given, Dealt to every man the measure of faith, made One Body in Christ, Gifts, Prophecy, rewards according to faith, Ministry, Teaching, Exhorting, etc.
 
-**GOD’s PEOPLE ARE RESPONSIBLE TO ACT ACCORDINGLY**: Think Soberly, Giving with Simplicity, Ruling with Diligence, Show mercy with Cheerfulness, Let Love be without Dissimulation, Abhor that which is evil, Cleave to that which is good, Kindly Affectioned, Brotherly Love, In Honor Preferring one Another, not Slothful in Business, Fervent in Spirit, Serving the Lord, Rejoicing in hope, Patient in Tribulation, Continuing Instant in Prayer, Distributing to the necessity of Saints, Given to Hospitality, Bless them which Persecute You, bless and Curse Not, Rejoice with them that do rejoice, and weep with them that weep, Be of the same mind one toward another, etc.
+**GOD&apos;s PEOPLE ARE RESPONSIBLE TO ACT ACCORDINGLY**: Think Soberly, Giving with Simplicity, Ruling with Diligence, Show mercy with Cheerfulness, Let Love be without Dissimulation, Abhor that which is evil, Cleave to that which is good, Kindly Affectioned, Brotherly Love, In Honor Preferring one Another, not Slothful in Business, Fervent in Spirit, Serving the Lord, Rejoicing in hope, Patient in Tribulation, Continuing Instant in Prayer, Distributing to the necessity of Saints, Given to Hospitality, Bless them which Persecute You, bless and Curse Not, Rejoice with them that do rejoice, and weep with them that weep, Be of the same mind one toward another, etc.
 
 > Romans 12:1 [Amplified Bible] &mdash; I appeal to you therefore, brethren, and beg of you in view of [all] the mercies of God, to make a decisive dedication of your bodies [presenting all your members and faculties] as a living sacrifice, holy (devoted, consecrated) and well pleasing to God, which is your reasonable (rational, intelligent) service and spiritual worship.
 
@@ -128,7 +128,7 @@ Successful Christians:
 2. They have a sound work habits
 3. They esteem others before themselves
 4. They keep their self-respect by being loyal to God and His holy word
-5. They do things God’s way, understanding that it always the best way
+5. They do things God&apos;s way, understanding that it always the best way
 6. They are very cooperative (finding what God wants in any situation and doing it)
 7. They listen to others (and in return they are heard)
 8. They are enthusiastic about every endeavor that they are faced with
@@ -138,10 +138,10 @@ Successful Christians:
 12. They use any failure as a stepping stone for success
 13. They set their mind (on things above, not on the things of this earth)
 14. They find a place to rest their mind (in fasting and praying)
-15. They have skill – they are instant in season and out of season
+15. They have skill &mdash; they are instant in season and out of season
 16. They give God the glory for they have accomplished
 17. They check their motives
-18. And then they – Start Again!!!
+18. And then they &mdash; Start Again!!!
 
 ### Renewing of Your Mind
 
@@ -159,7 +159,7 @@ The world uses the principles of God to become successful for their own gain. If
 
 Winning souls for the kingdom, what a joy and privilege (Proverbs 11:30) 
 
-Receive our ideas through prayer – what does that have to do with Romans? 
+Receive our ideas through prayer &mdash; what does that have to do with Romans? 
 
 Why do I want to be a successful Christian? Success is learning how to lead others to Christ. We are to pattern our lives after Christ. 
 
@@ -245,14 +245,14 @@ Our act of aggression as Christians is an act of prayer.
 Do we pray until we weep within our souls for other people? The battle is within our souls. The Love that we show to others is not show the Lords hate but his love. Now our weapons are not the same weapons as those used in traditional warfare, but they are more powerful. 
 If you were to die tomorrow, what would you do? And the answer to that question is an indicator of weather we are spiritual or carnal. 
 Defeat brings disgrace to Christ. Am I recognizing his authority in my life? 
-We are called to a different kind of warfare. A warfare of peace, love, joy… 
+We are called to a different kind of warfare. A warfare of peace, love, joy&hellip; 
 II Corinthians 10:4
 The Stronghold is the mind, 
-Christ is our example, while being crucified and etc… he forgave 
+Christ is our example, while being crucified and etc&hellip; he forgave 
 II Corinthians 2:14
 Romans 8:29 If I do not yield to his plan, it will not become successful
 By doing the word of God, we can have an affect on everyone that we come into contact with. 
-Romans 2:4 – People react better to good better than bad…
+Romans 2:4 &mdash; People react better to good better than bad&hellip;
 What not said, is sometimes more important than what people do say. 
 
 ## Conclusion to Romans 12

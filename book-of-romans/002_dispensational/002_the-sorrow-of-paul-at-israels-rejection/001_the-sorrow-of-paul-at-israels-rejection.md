@@ -1,6 +1,6 @@
 # The Sorrow of the Apostle at Israel's Rejection (9:1-5)
 
-Romans chapter nine talks about Paul’s sorrow for the Jews. We find out that not all of Abraham’s seed were the children of promise. 
+Romans chapter nine talks about Paul&apos;s sorrow for the Jews. We find out that not all of Abraham&apos;s seed were the children of promise. 
 
 > Romans 9:7,8&mdash;&hellip; Neither, because they are the seed of Abraham, are they all children: but, In Isaac shall thy seed be called. 8 That is, They which are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed.
 
@@ -23,9 +23,9 @@ This chapter talks about the calling of the Gentiles, and the rejection of the J
 
 **Paul carried the burden!** His Sorrow was intense - Great heaviness, Continual, Self-Sacrificing
 
-Paul has experienced great heaviness in sorrowing over Israel’s condition as a whole. Paul comes to the place that he would even be willing to be accursed from Christ that his brethren might be found in Christ. This is a selfless declaration, but the proposition is not even possible. The sinner’s light in their darkness is the justified, sanctified, holy life of Believers that walk consistently in Christ and their own salvation is in Christ alone. 
+Paul has experienced great heaviness in sorrowing over Israel&apos;s condition as a whole. Paul comes to the place that he would even be willing to be accursed from Christ that his brethren might be found in Christ. This is a selfless declaration, but the proposition is not even possible. The sinner&apos;s light in their darkness is the justified, sanctified, holy life of Believers that walk consistently in Christ and their own salvation is in Christ alone. 
 
-Paul’s proclamation is reminiscent of Moses in Exodus 32:32,33.
+Paul&apos;s proclamation is reminiscent of Moses in Exodus 32:32,33.
 
 > Exodus 32:32,33&mdash; Yet now, if thou wilt forgive their sin--; and if not, blot me, I pray thee, out of thy book which thou hast written. 33 And the LORD said unto Moses, Whosoever hath sinned against me, him will I blot out of my book.
 

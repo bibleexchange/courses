@@ -1,4 +1,4 @@
-# Helpers of the Weak, Not Judges – Ch. 14
+# Helpers of the Weak, Not Judges &mdash; Ch. 14
 
 Romans chapter fourteen talks about how you should treat a weak brother.  We need to help those that are weak in their flesh.  We see the need to be charitable.  We need to live for God, all that we do needs to be unto God.  We should not judge one another, for one day every man will give an account of his own life.
 
@@ -15,14 +15,14 @@ It carries the very ideas of disease and impotence. Those weak in faith are like
 
 ## Weak Brother in Context.
 1.
-a. Eating – for meat destroy not the work of God! v. 20 In I Corinthians 8 Paul had to deal with the same issue with the Corinthian church. This may sound trivial and non-religious of a dispute to the modern Christian, but The Layman’s Bible Commentary gives insight into this controversy.
+a. Eating &mdash; for meat destroy not the work of God! v. 20 In I Corinthians 8 Paul had to deal with the same issue with the Corinthian church. This may sound trivial and non-religious of a dispute to the modern Christian, but The Layman&apos;s Bible Commentary gives insight into this controversy.
 
 It was a different kind of religious question in the Roman Empire. The fact is in a Roman market you could hardly find a steak or a roast or any kind of meat that had not come from some animal slaughtered in a heathen temple. The animal would be killed as a sacrifice; then the priests (who, numerous though they were, could not possibly eat all the animals the people offered) would sell the meat through retail outlets. This being the major source of meats on the market, the Christian shopper was faced with a problem: in buying and eating this meat, am I or am I not helping out the heathen worship?
 
-b. Servants – Who are you to judge another man’s servant?
-c. Judgment – Every man must give account to God and not to another.
-d. Days – The spirit of the law questions not did you remember the day, but whether or not you did or did not as unto the Lord?
-e. Brothers – Let us not be a reason for someone else’s failure. Let us be encouragers of their faith.
+b. Servants &mdash; Who are you to judge another man&apos;s servant?
+c. Judgment &mdash; Every man must give account to God and not to another.
+d. Days &mdash; The spirit of the law questions not did you remember the day, but whether or not you did or did not as unto the Lord?
+e. Brothers &mdash; Let us not be a reason for someone else&apos;s failure. Let us be encouragers of their faith.
 
 ## Weak Brother in Contrast
 
@@ -32,7 +32,7 @@ How can I love you?
 Romans chapter 14:
 
 Conduct indicates character.
-Romans 14: Is designed to designate the difficult…
+Romans 14: Is designed to designate the difficult&hellip;
 Roman rule, there were a lot of Gods in Rome at this time. And when they sacrificed to a God, they only used part of the animal and the rest of it was sold on the open market.
 They worshipped days. They fasted and feasted on certain days. And they were putting more importance on days and not the Christ.
 We are to love the heart of men, and reach out to the heart of men.
@@ -43,8 +43,8 @@ In order for us to teach someone the difference between right and wrong, we firs
 Romans 8:3, 4
 God loves me regardless of how much I hate him.
 Now they thought they were not defiling themselves, by not eating the meat that might have been sacrificed to idols.
-Christ’s love is perfect, and is perfectly given.
-But we really don’t know how to love; we need his nature to truly love like we should.
+Christ&apos;s love is perfect, and is perfectly given.
+But we really don&apos;st know how to love; we need his nature to truly love like we should.
 It is in love that we are going to draw them to you, to Christ.
 Romans 14:14
 They have all theses principles that they are trying to follow. But they did not understand that Jesus did away with the ceremonial laws.
@@ -102,7 +102,7 @@ No man can help another, without first helping himself understand that principle
 How can God help us?
 I resist God (We have these personal attitudes) (Not my problem but theirs)
 When I work against my brother I work against God. (if
-I consider my desires and plans more important than God. (I consider my plans before I consider God’s plans)
+I consider my desires and plans more important than God. (I consider my plans before I consider God&apos;s plans)
 
 I cannot love others without the help of God.
 Unless I love my brother, than I have missed the mark.
@@ -118,7 +118,7 @@ by an unchanged life
 seldom goes beyond words
 
 
-Unless there is power behind it, it will wear out. – the pendulum, God’s laws are true.
+Unless there is power behind it, it will wear out. &mdash; the pendulum, God&apos;s laws are true.
 If your  
 
 First ineffective faith, than weak faith

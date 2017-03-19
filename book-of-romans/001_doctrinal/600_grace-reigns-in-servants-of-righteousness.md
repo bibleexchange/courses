@@ -1,18 +1,18 @@
 # Grace Reigns in Servants of Righteousness 	Ch. 6
 
-In Chapter six, Paul clearly establishes the relationship that the Believer has with sin and the conclusion that sin no longer having dominion over the Believer that the Believer should not continue in sin. Paul answers the question “Shall we sin?” by asking and answering two similar but different questions.
+In Chapter six, Paul clearly establishes the relationship that the Believer has with sin and the conclusion that sin no longer having dominion over the Believer that the Believer should not continue in sin. Paul answers the question &quot;Shall we sin?&quot; by asking and answering two similar but different questions.
 
 - Verses 1-14	Shall we continue in sin, that grace may abound?
 - Verses 15-23	Shall we sin, because we are not under the law, but under grace?
 
 Paul proves by inspiration of God that there is no good reason to sin! There is no scenario where sinning is appropriate or beneficial.
 
-## Grace Abounds in our Walking in the Newness of Christ’s Life Vs. 1-14
+## Grace Abounds in our Walking in the Newness of Christ&apos;s Life Vs. 1-14
 
 QUESTION:  vs. 1 Shall we continue in sin, that grace may abound?  
 ANSWER: vs. 2 God forbid. How shall we, that are dead to sin, live any longer therein?  
 
-Paul teaches that to live in sin if we are dead sin is a paradox—an impossibility. You are either dead to sin or you are alive to sin! When the rescue team checks for vitals, the victim’s heart is either pumping blood or his heart has stopped. If we are crucified in Christ, God does not raise again that old carnal man! God raises us up in NEWNESS of Life.
+Paul teaches that to live in sin if we are dead sin is a paradox&mdash;an impossibility. You are either dead to sin or you are alive to sin! When the rescue team checks for vitals, the victim&apos;s heart is either pumping blood or his heart has stopped. If we are crucified in Christ, God does not raise again that old carnal man! God raises us up in NEWNESS of Life.
 
 ### How Can WE Being Dead...?	v. 1-6
 
@@ -68,7 +68,7 @@ We can find a concise illustration of this in 2 Corinthians 1:10
 
 #### 2. How do we become dead to sin?
 
-We who are: Baptized into Christ’s death, Crucified with Christ, Dead to Sin.
+We who are: Baptized into Christ&apos;s death, Crucified with Christ, Dead to Sin.
 
 > Romans 6:1-6 &mdash;What shall we say then? Shall we continue in sin, that grace may abound? 2 God forbid. How shall we, that are dead to sin, live any longer therein? 3  Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death? 4 Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life. 5 For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection: 6 Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin.
 
@@ -143,13 +143,13 @@ The Believer is "dead to sin". This is a matter of fact and a truth.
 
 What does it mean to be dead to sin? Or what is the result of being dead to sin?
 
-Paul presents to us the picture of death and draws the parallel between Christ’s death and resurrection and the spiritual death and resurrection of the Believer.
+Paul presents to us the picture of death and draws the parallel between Christ&apos;s death and resurrection and the spiritual death and resurrection of the Believer.
 
 Let us consider this parallels of spiritual and physical death:
 
 ##### Dead Men Do Not React.
 
-People grab a hold of concepts such as the Believer’s death to sin and run with it. They say, “I am dead,” but when the heat is turned on and the pressure increases beyond reason heard are the cries of self and the flesh. If we are dead then we shouldn’t feel anything in regards to the temptation of sin, and shouldn’t react hotly to pressure situations. Dead men don’t react and don’t have any feeling.
+People grab a hold of concepts such as the Believer&apos;s death to sin and run with it. They say, &quot;I am dead,&quot; but when the heat is turned on and the pressure increases beyond reason heard are the cries of self and the flesh. If we are dead then we shouldn&apos;st feel anything in regards to the temptation of sin, and shouldn&apos;st react hotly to pressure situations. Dead men don&apos;st react and don&apos;st have any feeling.
 
 ##### Dead Men Do Not Feed their Flesh.
 
@@ -195,7 +195,7 @@ NOT THE SAME!
 
 <!--
 ===============================================================================
-The Believer’s situation is similar, but not exact. The Believer’s situation is similar in that in being crucified with Christ, he no longer contains that old life (2 Cor. 4:7). All things have become new, as an infant child just born, perfect. The Believer’s situation extends beyond the condition of natural death in that he is dead to sin, but alive to righteousness.
+The Believer&apos;s situation is similar, but not exact. The Believer&apos;s situation is similar in that in being crucified with Christ, he no longer contains that old life (2 Cor. 4:7). All things have become new, as an infant child just born, perfect. The Believer&apos;s situation extends beyond the condition of natural death in that he is dead to sin, but alive to righteousness.
 
 
 
@@ -255,9 +255,9 @@ The Believer is not the devil's victim, but the Believer is given the victory ov
 
 **c. Take Authority Over Your Mind in Jesus Name**
 
-“LET not sin…”There is a power in God (His Grace) that enables man to become dead to sin and live right. The Believer must exercise his faith diligently in God’s provision that the Believer is no longer under the dominion of sin.
+&quot;LET not sin&hellip;&quot;There is a power in God (His Grace) that enables man to become dead to sin and live right. The Believer must exercise his faith diligently in God&apos;s provision that the Believer is no longer under the dominion of sin.
 
-“Self-control” is required of saints. A diligent work is required of Believers in order to remain under grace and out from under the curse of the law. Notice the words of action demanded of the saints in these verses: reckon ye also yourselves… Let not sin therefore reign in your mortal body…Neither yield ye your members as instruments of unrighteousness unto sin: but yield yourselves unto God….
+&quot;Self-control&quot; is required of saints. A diligent work is required of Believers in order to remain under grace and out from under the curse of the law. Notice the words of action demanded of the saints in these verses: reckon ye also yourselves&hellip; Let not sin therefore reign in your mortal body&hellip;Neither yield ye your members as instruments of unrighteousness unto sin: but yield yourselves unto God&hellip;.
 We overcome sin by the word of God...Doing what he says. Yielding yourselves to God means that you find the root cause of your sin and remove it from your life. Is the root cause anger....then repent and turn to God.  Let Him help you with it, by doing what the word instructs us to do.
 
 #### CONCLUSION:14 For sin shall not have dominion over you: for ye are not under the law, but under grace.  
@@ -274,7 +274,7 @@ We overcome sin by the word of God...Doing what he says. Yielding yourselves to 
 
 > Romans 6:15&mdash;What then? shall we sin, because we are not under the law, but under grace? God forbid.  
 
-The saint is relieved of a master when he is crucified to sin with Christ, but truly the saint changes master. Lordship of the  Believer’s life, belongs to Christ. We are free from sin, but this also means we are bound to righteousness.
+The saint is relieved of a master when he is crucified to sin with Christ, but truly the saint changes master. Lordship of the  Believer&apos;s life, belongs to Christ. We are free from sin, but this also means we are bound to righteousness.
 
 Sin is the slave trap of Satan; righteousness is the service of Christ. If ye sin ye are the servants of Satan, and not the servants of God.You cannot serve sin and be a servant to God.
 
@@ -286,7 +286,7 @@ Grace is unmerited favor (the riches of God opened to us!).
 
 2. Grace reigns through righteousness.
 
-(Romans 5:21) God’s grace doesn’t help us serve sin, but enables us to serve God. God’s servants are to be sanctified—separated from sin and separated unto God.
+(Romans 5:21) God&apos;s grace doesn&apos;st help us serve sin, but enables us to serve God. God&apos;s servants are to be sanctified&mdash;separated from sin and separated unto God.
 
 - Psalm 84:11 The Lord will GIVE grace
 - Genesis 6:8 & 19:19 Noah & Lot -- FOUND grace in the eyes of the Lord (b/c actively searching for it.)
@@ -303,18 +303,18 @@ Grace is unmerited favor (the riches of God opened to us!).
 - Simon Peter
 - Saul of Tarsus
 
-### To Whom You Yield to – sin or God –his servant you are. Vs. 16
+### To Whom You Yield to &mdash; sin or God &mdash;his servant you are. Vs. 16
 
 The Christian life is voluntary, but having voluntarily yielded ourselves to God, we are his SERVANTS and therefore obligated at servants are to their master. Service to God is not voluntary!
 
 ### You were servants to sin, but now are servants of righteousness vs.  17 -19
 
-“Old habits die hard”. Having changed our object of servitude from sin and self to God, we must be vigilant in our effort to serve our Master faithfully. We are instructed to do some things.
+&quot;Old habits die hard&quot;. Having changed our object of servitude from sin and self to God, we must be vigilant in our effort to serve our Master faithfully. We are instructed to do some things.
 
 - Reckon yourself dead to sin, but alive to God. (6:11)
 - Let not sin reign in your mortal body. (6:12)
-- Yield not your members to sin—not even the smallest member. Do not volunteer the slightest aid to promoting the devil’s cause. (6:13)
-- Yield yourselves unto God—sanctify yourself wholly to God.(6:13)
+- Yield not your members to sin&mdash;not even the smallest member. Do not volunteer the slightest aid to promoting the devil&apos;s cause. (6:13)
+- Yield yourselves unto God&mdash;sanctify yourself wholly to God.(6:13)
 - Remember the shame of Sin! (6:21)
 
 What fruit had ye? What is the value of your service? It is the wage you earn. The Christian ought to be ashamed of his old life and service to sin, for sin makes a mockery of every man.

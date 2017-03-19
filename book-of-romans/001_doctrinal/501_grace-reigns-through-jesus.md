@@ -1,14 +1,14 @@
-# Grace Reigns "THROUGH OUR LORD JESUS CHRIST” 	Ch. 5
+# Grace Reigns "THROUGH OUR LORD JESUS CHRIST&quot; 	Ch. 5
 
 ## Introduction
 
 A person has access into the grace of God and therefore justification by faith in God's provision.
 
-The very opportunity for faith to receive this provision is possible as a result of God's love and grace demonstrated in Christ’s Atoning death.
+The very opportunity for faith to receive this provision is possible as a result of God's love and grace demonstrated in Christ&apos;s Atoning death.
 
 We were shut out by the law in its judgment on sin, but access to and good a standing in the grace of God, is gained by faith in Jesus Christ. 
 
-Paul is emphasizing in this Chapter the role of our Lord Jesus Christ in the Believer’s justification and them having favor with God or “grace.” 
+Paul is emphasizing in this Chapter the role of our Lord Jesus Christ in the Believer&apos;s justification and them having favor with God or &quot;grace.&quot; 
 
 So who get's the credit for salvation? Jesus!
 
@@ -22,7 +22,7 @@ When a man places his faith in Christ and in His atonement for their sin, that p
 
 SCRIPTURES ON ABOUNDING: Proverbs 28:20; Romans 5:20: 15:13; 2 Corinthians 8:7; 9:8; Philippians 1:9; 4:17; 1 Thessalonians 3:12; 4:1; 2 Peter 1:5-8
 
-> Romans 5:1 ¶ Therefore being justified by faith, we have peace with God through our Lord Jesus Christ: 2 By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God. 3 And not only so, but we glory in tribulations also: knowing that tribulation worketh patience; 4 And patience, experience; and experience, hope: 5 And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.
+> Romans 5:1  Therefore being justified by faith, we have peace with God through our Lord Jesus Christ: 2 By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God. 3 And not only so, but we glory in tribulations also: knowing that tribulation worketh patience; 4 And patience, experience; and experience, hope: 5 And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.
 
 ### We have been Justified through His blood (saved)
 
@@ -58,11 +58,11 @@ ILLUSTRATION: William Wilberforce, (We have received an abundance of His Grace)
 
 ### Motivated by Love Vs. 6 
 
-All of the preceding blessings (justification, peace, access, etc.) are possible because, “When we were yet without strength, in due time Christ died for the ungodly.” It is the Blood of Jesus Christ that satisfied the Law and His Love was the motivation for His action.
+All of the preceding blessings (justification, peace, access, etc.) are possible because, &quot;When we were yet without strength, in due time Christ died for the ungodly.&quot; It is the Blood of Jesus Christ that satisfied the Law and His Love was the motivation for His action.
 
 ### Uncommon Love Vs.7,8 
 
-Man’s “love” is self concerned and limited. For those that are religious and do good things you might find some to die and for those that are kind to others and generous, you might have an easier time finding someone to die , but Christ died not for those who appeared to have value and worth, but he died for the offenders, trespassers. He died for SINNERS. 
+Man&apos;s &quot;love&quot; is self concerned and limited. For those that are religious and do good things you might find some to die and for those that are kind to others and generous, you might have an easier time finding someone to die , but Christ died not for those who appeared to have value and worth, but he died for the offenders, trespassers. He died for SINNERS. 
 
 #### Scarcely for a Righteous Man Will One Die---  coldness.
 
@@ -135,7 +135,7 @@ Reconciliation has to do with man's relationship with God.
  
 > 21 For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.
 
-## Through Christ’s Atonement Grace Reigns (The Blood) (Vs. 11-21)
+## Through Christ&apos;s Atonement Grace Reigns (The Blood) (Vs. 11-21)
 
 ### We Joy in God Through Jesus, the provider of Atonement vs. 11
 
@@ -145,7 +145,7 @@ The facts that God is Love and Christ remains righteous is not enough alone to j
 
 In verse 11 through 18, Paul draws a contrast of the Reign of Sin and the Reign of Grace.
 
-### Sin Imputed & Sin’s Reign		Vs. 12-14
+### Sin Imputed & Sin&apos;s Reign		Vs. 12-14
 
 > Ro 5:12-14&mdash;Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned: 13 (For until the law sin was in the world: but sin is not imputed when there is no law. 14 Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam's transgression, who is the figure of him that was to come.
  
@@ -153,10 +153,10 @@ In verse 11 through 18, Paul draws a contrast of the Reign of Sin and the Reign 
 
 > Romans 5:15-18&mdash; But not as the offence, so also is the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, hath abounded unto many. 16 And not as it was by one that sinned, so is the gift: for the judgment was by one to condemnation, but the free gift is of many offences unto justification. 17 For if by one man's offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.) 18 Therefore as by the offence of one judgment came upon all men to condemnation; even so by the righteousness of one the free gift came upon all men unto justification of life. 19 For as by one man's disobedience many were made sinners, so by the obedience of one shall many be made righteous. 20 Moreover the law entered, that the offence might abound. But where sin abounded, grace did much more abound: 21 That as sin hath reigned unto death, even so might grace reign through righteousness unto eternal life by Jesus Christ our Lord.
 
-## Conclusion – “By Jesus”			Vs. 19-21
+## Conclusion &mdash; &quot;By Jesus&quot;			Vs. 19-21
 
-Just as sin reigns unto death, Grace reigns through Righteousness unto eternal LIFE. Just as the Law has authority over those that break the law, so Grace has power and authority over the righteous. (They have received this position of righteousness by the abounding of God’s grace.) Just as believer’s have the power and authority to reign in life they shall have the power and authority to reign in eternity.
-Adam’s sin abounded by the abiding condemnation of the law and reigned unto death. God’s Abounding Grace reigns through His Abiding Righteousness by Jesus Christ our Lord unto life
+Just as sin reigns unto death, Grace reigns through Righteousness unto eternal LIFE. Just as the Law has authority over those that break the law, so Grace has power and authority over the righteous. (They have received this position of righteousness by the abounding of God&apos;s grace.) Just as believer&apos;s have the power and authority to reign in life they shall have the power and authority to reign in eternity.
+Adam&apos;s sin abounded by the abiding condemnation of the law and reigned unto death. God&apos;s Abounding Grace reigns through His Abiding Righteousness by Jesus Christ our Lord unto life
 
 This is GRACE- Love as seen in the death of Christ for the ungodly. Love as seen in the life of Christ for those whom He has saved through His death.
 
@@ -171,8 +171,8 @@ Paul draws a powerful contrast of the reign of sin and the reign of grace:
 		<th colspan="2">Contrasts in Romans Chapter Five</th>	
 	</tr>
 	<tr>
-		<th>Sin’s Reign</th>	
-		<th>Christ’s Reign</th>
+		<th>Sin&apos;s Reign</th>	
+		<th>Christ&apos;s Reign</th>
 	</tr>
 	<tr>
 		<td>Sin</td>	
@@ -211,7 +211,7 @@ Paul draws a powerful contrast of the reign of sin and the reign of grace:
 		<td>Saved</td>
 	</tr>
 	<tr>
-		<td>Sin’s Reign</td>	
+		<td>Sin&apos;s Reign</td>	
 		<td>Grace Abounding</td>
 	</tr>
 </table>
