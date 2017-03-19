@@ -1,4 +1,4 @@
-# A Living Sacrifice - Ch. 12
+# Chapter 12: A Living Sacrifice
 
 ## Introduction
 
@@ -6,7 +6,7 @@
 
 Romans chapters 12-16 complete the final section of this book. This section is particularly practical in its instruction. We see the righteousness of God applied to the daily life of the Believer.
 
-Romans chapter twelve deals with the Christian’s duties, which ultimately leads to a surrendered life.  The church is compared to the human body.  There should be unity among the body, if there is no unity, the body will not function properly.  This chapter also deals with the different duties of the church.  This chapter ends with the Christian spirit.  We are not to be overcome with evil but with good. 
+Romans chapter twelve deals with the Christian’s duties, which ultimately leads to a surrendered life.  The church is compared to the human body.  There should be unity among the body, if there is no unity, the body will not function properly.  This chapter also deals with the different duties of the church.  This chapter ends with the Christian spirit.  We are not to overcome but not with evil but we are to overcome with good. 
 
 ### Word Studies
 
@@ -44,17 +44,35 @@ Paul's Great Plea for Personal Consecration to God, in view of His mercies. Paul
 
 Instructions are given for the Believer to follow. This chapter is so rich, a lifetime could be devoted to its study. Let us complete our introduction to Romans 12 with a simple list of the different thoughts presented in Romans 12. They are categorized respectively: 1) God’s gifts to man, and 2) man’s return responsibility to God for what God has given.
 
-**GOD HAS GIVEN SO MUCH TO HIS PEOPLE**: Grace Given, Dealt to every man the measure of faith, made One Body in Christ, Gifts, Prophecy, rewards according to faith, Ministry, Teaching, Exhorting, etc.
-
-**GOD’s PEOPLE ARE RESPONSIBLE TO ACT ACCORDINGLY**: Think Soberly, Giving with Simplicity, Ruling with Diligence, Show mercy with Cheerfulness, Let Love be without Dissimulation, Abhor that which is evil, Cleave to that which is good, Kindly Affectioned, Brotherly Love, In Honor Preferring one Another, not Slothful in Business, Fervent in Spirit, Serving the Lord, Rejoicing in hope, Patient in Tribulation, Continuing Instant in Prayer, Distributing to the necessity of Saints, Given to Hospitality, Bless them which Persecute You, bless and Curse Not, Rejoice with them that do rejoice, and weep with them that weep, Be of the same mind one toward another, etc.
-
 ## Verse 1
 
 > 1 I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.
 
+#### The Sacrifice
+
+"present your bodies" - not the soul only but the body as well. "With the spirit worship God but wiht the body sin. -- ought not be. 
+
+Mind, hands, feet, eyes, ears, hands, the intellect, ambitions
+
+#### The Nature of the Sacrifice
+
 We must present ourselves ALIVE to God!
 
-What are the "mercies of God" to which Paul refers?
+1. Sacrifice 
+
+a free will offering, it will cost you something, 
+
+<! RECOVER FROM NOTES: -- david bought ---- threshing floor -->
+
+2. Living
+
+3. Holy
+
+4 Acceptable
+
+#### The Reasonableness of the Sacrifice
+
+### What are the "mercies of God" to which Paul refers?
 
 1. Justification - including pardon, removal from sins, trespasses never to be remembered, a right standing in Christ - being made the righteousness of God in Him.
 
@@ -74,17 +92,36 @@ What are the "mercies of God" to which Paul refers?
 
 9. Confidence in God's Faithfulness - confirmed by His revealed plans for Israel.
 
+### Reasonable Service
+
+
+**GOD HAS GIVEN SO MUCH TO HIS PEOPLE**: Grace Given, Dealt to every man the measure of faith, made One Body in Christ, Gifts, Prophecy, rewards according to faith, Ministry, Teaching, Exhorting, etc.
+
+**GOD’s PEOPLE ARE RESPONSIBLE TO ACT ACCORDINGLY**: Think Soberly, Giving with Simplicity, Ruling with Diligence, Show mercy with Cheerfulness, Let Love be without Dissimulation, Abhor that which is evil, Cleave to that which is good, Kindly Affectioned, Brotherly Love, In Honor Preferring one Another, not Slothful in Business, Fervent in Spirit, Serving the Lord, Rejoicing in hope, Patient in Tribulation, Continuing Instant in Prayer, Distributing to the necessity of Saints, Given to Hospitality, Bless them which Persecute You, bless and Curse Not, Rejoice with them that do rejoice, and weep with them that weep, Be of the same mind one toward another, etc.
+
+> Romans 12:1 [Amplified Bible] &mdash; I appeal to you therefore, brethren, and beg of you in view of [all] the mercies of God, to make a decisive dedication of your bodies [presenting all your members and faculties] as a living sacrifice, holy (devoted, consecrated) and well pleasing to God, which is your reasonable (rational, intelligent) service and spiritual worship.
+
+- A Right Attitude is Essential Acts 1:14
+- Ask - for it is a gift Acts 10:45
+- Fast and Pray Acts 9:9-17
+- Obedience Acts 5:32
+
 ## Verse 2
 
 > 2 And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.
 
-What becomes the motivating center of a Christians life? THE WILL OF GOD.
+### What becomes the motivating center of a Christians life? 
+
+THE WILL OF GOD.
 
 Renewing of your mind.  The whole "mind" must become the object of the Spirit's renewing power.  The entire mind must come under the spirits control.
 
-Real Salvation = Practical holiness – Wearing His righteousness and thus daily purifying ourselves 
+### Real Salvation = Practical holiness
+
+Wearing His righteousness and thus daily purifying ourselves 
 
 Successful Christians:
+
 1. They have a sound foundation (which is the Word of God)
 2. They have a sound work habits
 3. They esteem others before themselves
@@ -104,7 +141,11 @@ Successful Christians:
 17. They check their motives
 18. And then they – Start Again!!!
 
-Being not conformed to the world:
+### Renewing of Your Mind
+
+The renewing of our mind happens through the Word of God. 2 Timothy 2:15; Psalm 119:105
+
+### Being not conformed to the world:
 
 >   10 But the Lord is the true God, he is the living God, and an everlasting king: at his wrath the earth shall tremble, and the nations shall not be able to abide his indignation. 11 Thus shall ye say unto them, The gods that have not made the heavens and the earth, even they shall perish from the earth, and from under these heavens.12 He hath made the earth by his power, he hath established the world by his wisdom, and hath stretched out the heavens by his discretion. 13 When he uttereth his voice, there is a multitude of waters in the heavens, and he causeth the vapours to ascend from the ends of the earth; he maketh lightnings with rain, and bringeth forth the wind out of his treasures.
 
