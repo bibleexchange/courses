@@ -1,0 +1,36 @@
+Doctrine 2
+
+1) CREATE SECTIONS(3 total)
+2) Create chapters for each section (13 total)
+
+Front = #1
+The Ministry of the Holy Ghost = #2
+The Gifts of the Holy Ghost = #3
+
+(NULL,#1,'Cover','1'),
+(NULL,#2,'Sanctification','1'),
+(NULL,#2,'The Baptism with the Holy Ghost','2'),
+(NULL,#3,'Introduction to the Gifts of the Holy Ghost','1'),
+(NULL,#3,'Word of Wisdom','2'),
+(NULL,#3,'Word of Knowledge','3'),
+(NULL,#3,'Discerning of Spirits','4'),
+(NULL,#3,'Gift of Faith','5'),
+(NULL,#3,'Gifts of Healing','6'),
+(NULL,#3,'Working of Miracles','7'),
+(NULL,#3,'Prophecy','8'),
+(NULL,#3,'Diverse Kinds of Tongues','9'),
+(NULL,#3,'Interpretation of Tongues','10');
+
+echo > cover.html
+echo > sanctification.html
+echo > the-baptism-with-the-holy-ghost.html
+echo > introduction-to-the-gifts-of-the-holy-ghost.html
+echo > word-of-wisdom.html
+echo > word-of-knowledge.html
+echo > discerning-of-spirits.html
+echo > gift-of-faith.html
+echo > gifts-of-healing.html
+echo > working-of-miracles.html
+echo > prophecy.html
+echo > diverse-kinds-of-tongues.html
+echo > interpretation-of-tongues.html

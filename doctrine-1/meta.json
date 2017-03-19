@@ -1,0 +1,50 @@
+{
+	"title": "Doctrine 1",
+	"name": "doctrine-1",
+	"description": "",
+	"keywords": ["bride", "revelation"],
+	"author": "Rev. James R. Reynolds Sr. and Other D.B.I Teachers",
+	"sections": [],
+	"trans": {
+		"title": [{
+			"lang": "swa",
+			"text": "Mafundisho 1"
+		}],
+		"001_cover.md": [{
+			"lang": "swa",
+			"file": "001_cover.md"
+		}],
+		"002_meaning-of-doctrine.md": [{
+			"lang": "swa",
+			"file": "002_meaning-of-doctrine.md"
+		}],
+		"03_need-for-doctrine.md": [{
+			"lang": "swa",
+			"file": "003_need-for-doctrine.md"
+		}],
+		"05_creation-of-man.md": [{
+			"lang": "swa",
+			"file": "05_creation-of-man.md"
+		}],
+		"06_original-condition-of-man.md": [{
+			"lang": "swa",
+			"file": "06_original-condition-of-man.md"
+		}],
+		"14_nature-of-angels.md": [{
+			"lang": "swa",
+			"file": "14_nature-of-angels.md"
+		}],
+		"15_office-of-angels.md": [{
+			"lang": "swa",
+			"file": "15_office-of-angels.md"
+		}],
+		"16_record-of-angels.md": [{
+			"lang": "swa",
+			"file": "16_record-of-angels.md"
+		}],
+		"17_conclusiong.md": [{
+			"lang": "swa",
+			"file": "017_conclusion.md"
+		}]
+	}
+}
