@@ -5,16 +5,16 @@ Bible exchange: An User Interface for Bible Related Libraries
  2. Deliverance Center
 
  Course: A Collection of Paths of Study
- 1. The Holy Bible -> ['Genesis','Exodus',...]
- 2. Deliverance Center -> ['Church History 101','Personal Evangelism',...]
+ 1. The Holy Bible -> ['Genesis','Exodus',&hellip;]
+ 2. Deliverance Center -> ['Church History 101','Personal Evangelism',&hellip;]
 
  Course: A Collection of Lessons
-1. The Holy Bible [0] -> Genesis -> ['Chapter 1','Chapter 2',...]
-2. The Holy Bible [0] -> Church History 101 -> ['Introduction','Ephesus',...]
+1. The Holy Bible [0] -> Genesis -> ['Chapter 1','Chapter 2',&hellip;]
+2. The Holy Bible [0] -> Church History 101 -> ['Introduction','Ephesus',&hellip;]
 
 Lesson: A Collection of Steps
-1. The Holy Bible [0] -> Genesis -> Chapter 1 -> ['verse 1','verse 2',...]
-2. The Holy Bible [0] -> Church History 101 -> Introduction -> ['Audio to Hear','Text to Read','Questions',...]
+1. The Holy Bible [0] -> Genesis -> Chapter 1 -> ['verse 1','verse 2',&hellip;]
+2. The Holy Bible [0] -> Church History 101 -> Introduction -> ['Audio to Hear','Text to Read','Questions',&hellip;]
 
 Step: Steps Can be Cross Referenced with Other Steps (in other Libraries even).
 Properties: Properties will be a required text and 2 optional properties: link to image and OEMBED compliant url

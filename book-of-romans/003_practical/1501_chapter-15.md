@@ -1,10 +1,10 @@
 
 # A Call for Unity &mdash; Ch. 15
-Believers are to receive one another, as Christ received the Gentiles - to God's glory.  The first section of this chapter describes Christian relationships, with Christ as the perfect example of them.  Paul's personal message to the Romans begins in Verse 14.
+Believers are to receive one another, as Christ received the Gentiles - to God's glory. The first section of this chapter describes Christian relationships, with Christ as the perfect example of them. Paul's personal message to the Romans begins in Verse 14.
 
-Put Verse 1 & 2 into your own words.  Compare with Chapter 14, Verse 19.
+Put Verse 1 & 2 into your own words. Compare with Chapter 14, Verse 19.
 
-Romans chapter fifteen talks about living an unselfish life.  Those that are strong are to help the weak.  We are to not live to please ourselves but to please God, to put others before us.  This chapter ends with Paul&apos;s missionary journeys.
+Romans chapter fifteen talks about living an unselfish life. Those that are strong are to help the weak. We are to not live to please ourselves but to please God, to put others before us. This chapter ends with Paul&apos;s missionary journeys.
 
 
 The fifteenth chapter of Romans has a strong feeling of conclusion. As is Paul&apos;s style in this book, he repeats concepts already presented but more directly and personally. He prescribes the following instructions to his readers:
@@ -64,7 +64,7 @@ Verse 3:		We should use Christ as our example "For even Christ pleased not himse
 
 How can the Scripture be a source of encouragement for leading the Christian life?
 
-Verse 4:		Note these 4 words - learning,  patience,  comfort,  and hope.
+Verse 4:		Note these 4 words - learning, patience, comfort, and hope.
 
 		We can be comforted in time of need by reading the Scriptures.
 		We can also look forward in Hope.
@@ -113,12 +113,12 @@ Verse 14:	Full of goodness.
 		Able to admonish one another.
 
 		Although Paul had never been in Rome, he kept track of believers throughout the
-		whole Roman world.  Rom. 1:8  (their faith was proclaimed throughout the whole world).
+		whole Roman world. Rom. 1:8 (their faith was proclaimed throughout the whole world).
 
 
 What does Paul refer to himself as?
 
-Verses 15 - 19:	A minister of Jesus Christ to the Gentiles.  Preaching the Word in the power of the Spirit.
+Verses 15 - 19:	A minister of Jesus Christ to the Gentiles. Preaching the Word in the power of the Spirit.
 		With signs and wonders as the result.
 
 
@@ -135,15 +135,15 @@ Verses 20 -23:	Hindered - Paul did not wish to build on another man's foundation
 
 How are the Christians in Macedonia and Achaia concerned for the poor among the Christians at Jerusalem?
 
-Verse 26:	They were to contribute to the poor.  Paul himself together with other brethren took
+Verse 26:	They were to contribute to the poor. Paul himself together with other brethren took
 		this offering back to Jerusalem, to seal in person unto this fruit of the blessed gospel!
 
 
 What spiritual principal is Paul teaching the Romans by relating this news?
 
-It was an act of love on the part of the Gentile Saints.  It was a fulfilling of our Lord's words:
+It was an act of love on the part of the Gentile Saints. It was a fulfilling of our Lord's words:
 
-"If ye know these things, blessed are ye if ye do them."  By this shall all men know that ye are my disciples if ye have love one to another.
+"If ye know these things, blessed are ye if ye do them." By this shall all men know that ye are my disciples if ye have love one to another.
 
 
 In Verse 30 we once again see the trinity.
@@ -153,8 +153,8 @@ In Verse 30 we once again see the trinity.
 	- Your prayers to God for me.
 
 
-CONCLUSION:  
+CONCLUSION: 
 
-The beautiful benediction of Verse 33, "The God of peace be with you all," shows how fully at peace was the apostle's heart, and how fully in God's will!  Also his overflowing love for the Saints.
+The beautiful benediction of Verse 33, "The God of peace be with you all," shows how fully at peace was the apostle's heart, and how fully in God's will! Also his overflowing love for the Saints.
 
-The motive and power behind Christian unity is Christ's example of love and service and sacrifice.  To have such harmony among Christians, we need to pray as Paul did for the Lord's enabling.  Paul's sense of commission did not make him independent of his fellow Christians.
+The motive and power behind Christian unity is Christ's example of love and service and sacrifice. To have such harmony among Christians, we need to pray as Paul did for the Lord's enabling. Paul's sense of commission did not make him independent of his fellow Christians.

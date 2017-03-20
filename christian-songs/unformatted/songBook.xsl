@@ -15,18 +15,18 @@
  </xsl:template>
  
  <xsl:template match="title">
-	  <h2><xsl:apply-templates/></h2>
+	 <h2><xsl:apply-templates/></h2>
 </xsl:template>
 <xsl:template match="line">
-	  <h4><xsl:apply-templates/></h4>
+	 <h4><xsl:apply-templates/></h4>
 </xsl:template>
 
 <xsl:template match="verse">
-	  <h3>Verse:</h3><xsl:apply-templates/>
+	 <h3>Verse:</h3><xsl:apply-templates/>
 </xsl:template>
 
 <xsl:template match="chorus">
-	  <h3>Chorus:</h3><xsl:apply-templates/>
+	 <h3>Chorus:</h3><xsl:apply-templates/>
 </xsl:template>
 
  </xsl:stylesheet>

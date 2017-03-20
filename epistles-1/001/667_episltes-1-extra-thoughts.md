@@ -23,7 +23,7 @@
  the same anointing teacheth you of all things, and is truth, and
  is no lie, and even as it hath taught you, ye shall abide in
  him.
- </blockquote> <h6> American Tract Society Dictionary:  </h6> <p> PAUL
+ </blockquote> <h6> American Tract Society Dictionary: </h6> <p> PAUL
  </p> <p> The distinguished "apostle of the Gentiles;" also called SAUL, a
  Hebrew name. He is first called Paul in Ac 13:12; and as some
  think, assumed this Roman name according to a common custom of
@@ -231,7 +231,7 @@
  </blockquote> <p> And I knew such a man, (whether in the body, or out of the body,
  I cannot tell: God knoweth;)
  </p> <p> 4 How that he was caught up into paradise, and heard unspeakable
- words, which it is not lawful for a man to utter.  </p> <p> 5 Of such an one will I glory: yet of myself I will not glory,
+ words, which it is not lawful for a man to utter. </p> <p> 5 Of such an one will I glory: yet of myself I will not glory,
  but in mine infirmities.
  </p> <p> 6 For though I would desire to glory, I shall not be a fool; for
  I will say the truth: but now I forbear, lest any man should
@@ -270,7 +270,7 @@
  ministry(Acts 9:19-20).
  </p> <p> Digging Deep
  </p> <blockquote> 
- Luke 6:48—He is like a man which built an house, and digged
+ Luke 6:48&mdash;He is like a man which built an house, and digged
  deepâ€¦
  </blockquote> <p> This wise builder struck the rock before he laid the foundation.
  God is not to be found on the surface. [Shifting Standards -
@@ -289,7 +289,7 @@
  </blockquote> <p> All Fleshly desires being put to death!
  </p> <p> Luke 16:3 Then the steward said within himself, What shall I do?
  for my lord taketh away from me the stewardship: I cannot dig;
- to beg I am ashamed. I am resolved…(DIG, DIG, DIG, DIG)
+ to beg I am ashamed. I am resolved&hellip;(DIG, DIG, DIG, DIG)
  </p> <p> While the foolish build on thoughts that are deviating from the
  Truth, </p> <p> The wise seek only the truth.
  </p> <p> There must not be any change from the foundation.

@@ -1,10 +1,10 @@
 ## General Characteristics of the Book
 
 A.	It has been said the skill of an artist may lie in what he leaves ___.
-An amateur crowds everything in.  We can see this with Mark.
+An amateur crowds everything in. We can see this with Mark.
 
-1.	There is nothing about the _________  ____________.
-No reference to ______  _________ is made in the whole 	Gospel.
+1.	There is nothing about the _________ ____________.
+No reference to ______ _________ is made in the whole 	Gospel.
 
 a.	No one is interested in the pedigree of a _________.
 
@@ -21,34 +21,34 @@ a.	_______________ are not important as children.
 a.	 A _________________ has no kingdom and frames
 no laws.
 
-5.	There are no _______________  ______________
-from the prophets.  Only one in 1:2.  Matthew quotes on
+5.	There are no _______________ ______________
+from the prophets. Only one in 1:2. Matthew quotes on
 every page.
-6.	No ____________  ____________ are used.  Jesus is
-never called “King” except in derision.  Matthew says, “They
-shall call His name ‘Emanuel’ “ (God with us)
+6.	No ____________ ____________ are used. Jesus is
+never called &quot;King&quot; except in derision. Matthew says, &quot;They
+shall call His name &apos;Emanuel&apos; &quot; (God with us)
 
 a.	Mark calls Him ____________ where others call
 Him Lord.
 
-(1)	Matthew - “Lord, save us; we perish”
+(1)	Matthew - &quot;Lord, save us; we perish&quot;
 
-(2)	Mark - “Master, carest thou not that we
-perish?”
+(2)	Mark - &quot;Master, carest thou not that we
+perish?&quot;
 7.	There is no statement that His _______ is ___________
-at death.  In John 19:30 He said, “It is finished.”
+at death. In John 19:30 He said, &quot;It is finished.&quot;
 
 a.	A _____________ does not say when his work is
 done.
 
-8.	There is no _____________________ in Mark.  The other
+8.	There is no _____________________ in Mark. The other
 Gospels have lengthy openings, but none in Mark.
 
 a.	A _________________ has no introduction.
 
 B.	Key Verse - _______________
 
-C.	Key Word - “______________” also translated 	“_______________” 	“__________” and “_____________”
+C.	Key Word - &quot;______________&quot; also translated 	&quot;_______________&quot; 	&quot;__________&quot; and &quot;_____________&quot;
 
 1.	Used ____ times in the book.
 
@@ -59,7 +59,7 @@ Mark, Luke and John together.
 
 1.	__________ of those times are in __________.
 
-a.	The ___________ is to bear the “Good News”
+a.	The ___________ is to bear the &quot;Good News&quot;
 E.	_____ out of the ________ chapters of Mark begin with the word
 __________.
 
@@ -78,23 +78,23 @@ a.	The ____________
 
 b.	The ___________ growing secretly
 
-c.	The ___________  _________
+c.	The ___________ _________
 
-d.	The ____________  _____________
+d.	The ____________ _____________
 
 3.	There is nothing about the householder or the marriage of
-the “king’s son” or the “talents”.
+the &quot;king&apos;s son&quot; or the &quot;talents&quot;.
 
 H.	Miracles
 
 1.	They have a ____________ place in Mark as parables
 have in Matthew.
 
-a.	A king speaks, a ___________  _____________.
+a.	A king speaks, a ___________ _____________.
 
-b.	 Mark describes more of Jesus’ _____________
-more than he records Christ’s’ parables.
+b.	 Mark describes more of Jesus&apos; _____________
+more than he records Christ&apos;s&apos; parables.
 
 c.	________ miracles are given in Mark in detail.
 
-I.	Jesus is portrayed as the _____________ but _____________   ___________of Jehovah and we find _______________ 	ministering unto Him.
+I.	Jesus is portrayed as the _____________ but _____________ ___________of Jehovah and we find _______________ 	ministering unto Him.

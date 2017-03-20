@@ -1,7 +1,7 @@
 # The Pattern Church
 TEXT: Acts 2:41-47
 
-> **Acts 2:41** Then they that gladly received his word were baptized: and the same day there were added unto them about three thousand souls. 42 ¶ And they continued stedfastly in the apostles' doctrine and fellowship, and in breaking of bread, and in prayers. 43 And fear came upon every soul: and many wonders and signs were done by the apostles. 44 And all that believed were together, and had all things common; 45 And sold their possessions and goods, and parted them to all men, as every man had need. 46 And they, continuing daily with one accord in the temple, and breaking bread from house to house, did eat their meat with gladness and singleness of heart,  47 Praising God, and having favour with all the people. And the Lord added to the church daily such as should be saved.
+> **Acts 2:41** Then they that gladly received his word were baptized: and the same day there were added unto them about three thousand souls. 42 And they continued stedfastly in the apostles' doctrine and fellowship, and in breaking of bread, and in prayers. 43 And fear came upon every soul: and many wonders and signs were done by the apostles. 44 And all that believed were together, and had all things common; 45 And sold their possessions and goods, and parted them to all men, as every man had need. 46 And they, continuing daily with one accord in the temple, and breaking bread from house to house, did eat their meat with gladness and singleness of heart, 47 Praising God, and having favour with all the people. And the Lord added to the church daily such as should be saved.
 
 The early church is our model and they key to our effectiveness if bound up in truth and how we handle it.
 
@@ -23,7 +23,7 @@ Their emotions were involved. "They GLADLY received His Word."
 
 Asmenos -- gladly, delightedly, with pleasure
 
-> Luke 8:13  They on the rock are they, which, when they hear, receive the word with joy; and these have no root, which for a while believe, and in time of temptation fall away.
+> Luke 8:13 They on the rock are they, which, when they hear, receive the word with joy; and these have no root, which for a while believe, and in time of temptation fall away.
 <!-- -->
 > James 1:21 Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls.
 
@@ -67,7 +67,7 @@ They did not want to displease Him.
 
 ### The Cause
 
-> vs. 43 ...and many wonders and signs were done by the apostles.
+> vs. 43 &hellip;and many wonders and signs were done by the apostles.
 
 #### Many Wonders - "Tevas"
 
@@ -83,19 +83,19 @@ Wonders appeal to imagination, but signs appeal to the understanding.
 
 ### In Faith
 
-> ...that believed...
+> &hellip;that believed&hellip;
 
 ### In Spirit
 
-> ...were together...
+> &hellip;were together&hellip;
 
 ### In Charity
 
-> ...had all things common;
+> &hellip;had all things common;
 
 ## Results of Truth
 
-> vs. 47 ...And the Lord added to the church daily such as should be saved.
+> vs. 47 &hellip;And the Lord added to the church daily such as should be saved.
 
 ### It is Confirmed
 
@@ -115,4 +115,4 @@ increase
 
 > John 8:32 And ye shall know the truth, and the truth shall make you free.
 
-SAVED - SOZO ... heal, preserve, make whole
+SAVED - SOZO &hellip; heal, preserve, make whole

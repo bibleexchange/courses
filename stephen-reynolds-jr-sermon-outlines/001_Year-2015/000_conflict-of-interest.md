@@ -28,13 +28,13 @@ from 1166; a master; hence, a husband, or (figuratively) owner
 	
 	a. Gifts from Friends 
 
-> Genesis 14:21-23 --  And the king of Sodom said unto Abram, Give me the persons, and take the goods to thyself.  22 And Abram said to the king of Sodom, I have lift up mine hand unto the LORD, the most high God, the possessor of heaven and earth,  23 That I will not take from a thread even to a shoelatchet, and that I will not take any thing that is thine, lest thou shouldest say, <u>I have made Abram rich</u>:
+> Genesis 14:21-23 -- And the king of Sodom said unto Abram, Give me the persons, and take the goods to thyself. 22 And Abram said to the king of Sodom, I have lift up mine hand unto the LORD, the most high God, the possessor of heaven and earth, 23 That I will not take from a thread even to a shoelatchet, and that I will not take any thing that is thine, lest thou shouldest say, <u>I have made Abram rich</u>:
 
 Give God the Glory! 
 
 	b. Self-Dealing (On both sides of a deal.) (Corpse On Bench)
 
-> Genesis 21:8-12 -- And the child grew, and was weaned: and Abraham made a great feast the same day that Isaac was weaned.  9 ¶ And Sarah saw the son of Hagar the Egyptian, which she had born unto Abraham, mocking.  10 Wherefore she said unto Abraham, Cast out this bondwoman and her son: for the son of this bondwoman shall not be heir with my son, even with Isaac.  11 And the thing was very grievous in Abraham's sight because of his son.  12 And God said unto Abraham, Let it not be grievous in thy sight because of the lad, and because of thy bondwoman; in all that Sarah hath said unto thee, hearken unto her voice; for in Isaac shall thy seed be called.
+> Genesis 21:8-12 -- And the child grew, and was weaned: and Abraham made a great feast the same day that Isaac was weaned. 9 And Sarah saw the son of Hagar the Egyptian, which she had born unto Abraham, mocking. 10 Wherefore she said unto Abraham, Cast out this bondwoman and her son: for the son of this bondwoman shall not be heir with my son, even with Isaac. 11 And the thing was very grievous in Abraham's sight because of his son. 12 And God said unto Abraham, Let it not be grievous in thy sight because of the lad, and because of thy bondwoman; in all that Sarah hath said unto thee, hearken unto her voice; for in Isaac shall thy seed be called.
 
 Take sides with God against ourself.
 
@@ -62,4 +62,4 @@ Joshua 14:14 -- Hebron therefore became the inheritance of Caleb the son of Jeph
 
 SANCTIFY THE SERVICE
 
-### vs. 38, Consume...the stones...
+### vs. 38, Consume&hellip;the stones&hellip;

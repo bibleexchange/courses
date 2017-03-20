@@ -17,7 +17,7 @@ Upon Christ&apos;s entry into Jerusalem, fault was found with the loud proclaima
 
 > Luke 19:40&mdash;And he answered and said unto them, I tell you that, if these should hold their peace, the stones would immediately cry out.
 
-The truth of God and His claims must be spoken. If men are brought to silence, other things must become vocal to testify for Jehovah. In a time when the anti-christ has successfully burried away in caves, mountains and the wilderness all human testimony for God, the heavens speak and the angels whom the anti-christ cannot touch  become preachers in the darkest hour of judgment.
+The truth of God and His claims must be spoken. If men are brought to silence, other things must become vocal to testify for Jehovah. In a time when the anti-christ has successfully burried away in caves, mountains and the wilderness all human testimony for God, the heavens speak and the angels whom the anti-christ cannot touch become preachers in the darkest hour of judgment.
 
 This is in keeping with order of things already gone by. The angels testified just before Christ&apos;s first coming and they will again just before His second coming. The angels will testify and preach to all those that dwell on the earth.
 
@@ -38,7 +38,7 @@ This is definitely an angel (a Heavenly messenger) that is proclaiming the messa
 
 Of old, angels were employed for the giving of the law, the heralding of Christ's coming and in the judgment time they are conspicuously everywhere taking part in the Divine administrations with regard to our world. But, in the dispensation under which we now are, the charge of preaching and witnessing for God and the declaring of His Word is the ministry of the Church. The preaching of the Gospel is in the hands of men.
 
-It is now the duty of the Church to preach the Gospel of Jesus Christ to all who will believe. Angels are ministers to the heirs of salvation, but not the preachers of the Gospel of Christ to a world lost in sin. The disciples (Acts 5:19), Philip (Acts 8:26), Cornelius (Acts 10:3), and Paul at sea (Acts 27:3) all benefited from the ministry of angels which enabled them to fulfill their  own responsibility in preaching of the Word of God. It is not presently the duty of angels to proclaim the Word of Truth, but is the Believer's present duty and privilege.
+It is now the duty of the Church to preach the Gospel of Jesus Christ to all who will believe. Angels are ministers to the heirs of salvation, but not the preachers of the Gospel of Christ to a world lost in sin. The disciples (Acts 5:19), Philip (Acts 8:26), Cornelius (Acts 10:3), and Paul at sea (Acts 27:3) all benefited from the ministry of angels which enabled them to fulfill their own responsibility in preaching of the Word of God. It is not presently the duty of angels to proclaim the Word of Truth, but is the Believer's present duty and privilege.
 
 ##The Position of his Pulpit
 
@@ -85,7 +85,7 @@ Though it is the same Gospel being proclaimed&hellip;
 
 > Revelation 14:7&mdash;Saying with a loud voice, Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters.
 
-&hellip; yet its manner of delivery has changed. It is no longer the meek and entreating voice beseeching  men to be reconciled to God, but a great thundering form the sky demanding of the nations to fear God. The reason given for the change in delivery is the fact:
+&hellip; yet its manner of delivery has changed. It is no longer the meek and entreating voice beseeching men to be reconciled to God, but a great thundering form the sky demanding of the nations to fear God. The reason given for the change in delivery is the fact:
 
 > &hellip:the hour of His judgment is come&hellip;
 

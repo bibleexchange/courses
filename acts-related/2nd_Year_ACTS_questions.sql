@@ -42,7 +42,7 @@ INTRODUCTION STUDY QUESTIONS
 <p>9. What will happen if we try in our own power to perform the acts spoke of in the book of Acts? </p> 
 <p><u>If we try to accomplish these things in our own power, we will fail </u></p> 
 
-<p>10. Complete the following statement: <i>The four gospels showed us how the foundation of that house was laid; The book of Acts shows us...</i> </p> 
+<p>10. Complete the following statement: <i>The four gospels showed us how the foundation of that house was laid; The book of Acts shows us&hellip;</i> </p> 
 <p><i><u>how the superstructure began to be raised, </u></i></p> 
  
  
@@ -92,7 +92,7 @@ INTRODUCTION STUDY QUESTIONS
 <p>6. What will happen if we try in our own power to perform the acts spoke of in the book of Acts? </p> 
 <p><u>If we try to accomplish these things in our own power, we will fail </u></p> 
 
-<p>7. Complete the following statement: <i>The four gospels showed us how the foundation of that house was laid; The book of Acts shows us...</i> </p> 
+<p>7. Complete the following statement: <i>The four gospels showed us how the foundation of that house was laid; The book of Acts shows us&hellip;</i> </p> 
 <p><i><u>how the superstructure began to be raised, </u></i></p> 
  
 <p>8. In light of Acts 1:2-9, Whose ministry is the central theme of ACTS? </p> 

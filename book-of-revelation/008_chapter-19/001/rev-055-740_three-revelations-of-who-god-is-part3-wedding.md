@@ -34,7 +34,7 @@ To understand who the Bride is, we need to observe the different classes of pers
 
 These are considered blessed to a) witness the marriage and to b) participate in the banquet.
 
-The Bride is not merely going to witness a marriage or eat a celebratory feast, but she is  one of the two reasons for the grand day! She is the Bridegroom's heart's desire and the one He has chosen to unite with as one. (Amos 3:3; 2 Corinthians 6:14)
+The Bride is not merely going to witness a marriage or eat a celebratory feast, but she is one of the two reasons for the grand day! She is the Bridegroom's heart's desire and the one He has chosen to unite with as one. (Amos 3:3; 2 Corinthians 6:14)
 
 ### The Preparation of the Lamb's Wife
 

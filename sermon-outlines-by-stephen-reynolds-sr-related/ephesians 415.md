@@ -97,7 +97,7 @@ We need to be a body fitly joined together.
 David could not build the house of God according to his design and likes, but it had to be according to God's design. 
 
 
-1Ch 15:1 ¶ And David made him houses in the city of David, and prepared a place for the ark of God, and pitched for it a tent.
+1Ch 15:1 And David made him houses in the city of David, and prepared a place for the ark of God, and pitched for it a tent.
 
 1 Chronicles 16:1 So they brought the ark of God, and set it in the midst of the tent that David had pitched for it: and they offered burnt sacrifices and peace offerings before God.
  
@@ -208,7 +208,7 @@ Examples of Creativity/Invention/Imagination in the Bible:
 
 1. Genesis - God made everything out of nothing - fig leaves of Adam and Eve - Joseph's plan to save Egypt and his Family
 2. Exodus - The Ark Moses was placed in.
-3. Leviticus -  (this is exclusively a book of laws and yet...) 
+3. Leviticus - (this is exclusively a book of laws and yet&hellip;) 
 4. Numbers - a scarlet cord in Rahab's window
 5. Deuteronomy - 
 6. Joshua -

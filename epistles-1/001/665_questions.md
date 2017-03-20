@@ -103,9 +103,9 @@ How long did Paul stay in Corinth?</h2> <h2> Give a brief summary of what took p
 
 <h1> Syllabus
  </h1> <p> What is the *Class Name*?
- </p> <p> The  </p> <p> What does this course involve?
- </p> <p> You will be  </p> <p> How is this Course Divided?
- </p> <p> This course is divided into  </p> <h4> Section 1:
+ </p> <p> The </p> <p> What does this course involve?
+ </p> <p> You will be </p> <p> How is this Course Divided?
+ </p> <p> This course is divided into </p> <h4> Section 1:
  </h4> <h4> Section 2:
  </h4>
 
@@ -143,7 +143,7 @@ How long did Paul stay in Corinth?</h2> <h2> Give a brief summary of what took p
 <h1> QUIZ
  </h1> <p> Section 1 - Genesis [16]
  </p> <h4> What does â€˜Pentateuch' &amp; â€˜Torah' mean? [2]
- </h4> <p> Pentateuch means  </p>
+ </h4> <p> Pentateuch means </p>
 
 <h1> QUIZ
  </h1> <p> Section 2 - Exodus [14]

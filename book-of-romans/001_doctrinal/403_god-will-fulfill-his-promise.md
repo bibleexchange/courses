@@ -5,17 +5,17 @@
 
 ### The Promise to Abraham, vs.18-22
 
-Abraham was given the promise of God. God promised Abraham he would have a son. Also, the Messiah would be a son of Abraham. Jesus fulfilled prophecy and was born according to his natural lineage as a descendant of Abraham.  
+Abraham was given the promise of God. God promised Abraham he would have a son. Also, the Messiah would be a son of Abraham. Jesus fulfilled prophecy and was born according to his natural lineage as a descendant of Abraham. 
 
 ### The Promise of Justification, vs. 23,24
 
-> Romans 4:23  Now it was not written for his sake alone, that it was imputed to him; 24 But for us also, to whom it shall be imputed, &hellip;
+> Romans 4:23 Now it was not written for his sake alone, that it was imputed to him; 24 But for us also, to whom it shall be imputed, &hellip;
 
 ### The Condition of Justification, vs. 24
 
 > Romans 4:24b-25 &hellip;if we believe on him that raised up Jesus our Lord from the dead; 25 Who was delivered for our offences, and was raised again for our justification.
 
-A person receives justification from God by faith -- "if we believe...".
+A person receives justification from God by faith -- "if we believe&hellip;".
 
 Conditional Promises
 - Mark 9:23
@@ -33,7 +33,7 @@ Conditional Promises
 
 Abraham believed the promise of God. Against hope believed in hope. Abraham believed in the promise of God regardless of the circumstances. Sarah was about 90 and Abraham was more than 100 years old. There was no natural way possible for them to have a child. Abraham staggered not at the promise of God.
 
-> Romans 4:20  He staggered not at the promise of God through unbelief; but was strong in faith, giving glory to God;
+> Romans 4:20 He staggered not at the promise of God through unbelief; but was strong in faith, giving glory to God;
 
 Justification is a Divine activity. Man cannot justify himself any more than Abraham could produce a son. Justification is a work of God bestowed by grace in response to faith. 
 
@@ -48,7 +48,7 @@ The following arguments are presented:
 ### 1.	Justification/Righteousness is by faith.
 ### 2.	Justification/Righteousness is not obtained by works.
 ### 3.	Justification/Righteousness is not acquired by circumcision.
-### 4.	You cannot gain Justification/Righteousness through adherence of the law.  4:13-17
+### 4.	You cannot gain Justification/Righteousness through adherence of the law. 4:13-17
 ### 5.	Abraham&apos;s faith shows us an example that we must follow.
 ### 6.	Paul reasoned that Justification/Righteousness by faith is the only way to please God.
 
@@ -67,7 +67,7 @@ The true distinction, therefore, between the Protestant and the Catholic view of
 
 R.C. Sproul quote:
 
-Rome set forth their doctrine -- and still does -- that God will never declare a person just until that person actually, under divine scrutiny, is found to be just...when God looks at us, he will not say that we are just until he sees that we really are just.
+Rome set forth their doctrine -- and still does -- that God will never declare a person just until that person actually, under divine scrutiny, is found to be just&hellip;when God looks at us, he will not say that we are just until he sees that we really are just.
 Rome teaches that we cannot be just without grace, that we will never become just without faith, and that we will never become just without the assistance of Christ. We need faith, we need grace, and we need Jesus. We need the righteousness of Christ infused or poured into our soul, but you must cooperate with that grace to such a degree that we will in fact become righteous. If we die with any impurity in our soul, thereby lacking complete righteousness, we will not go to heaven. If no mortal sin is present in our life, we will go to purgatory, which is the place of purging. The point of the purging is to get rid of the dross so that we become completely pure. It may take three years or three million years, but the object of purgatory is to make us righteous so that we can be admitted into God's heaven.
 
 Part of the reason for this belief, that justification is rooted in an inherent righteousness in the sinner, comes from something unfortunate in church history. In the early centuries, when the Greek language passed away from the central attention of the church fathers and Latin became the dominant language, many scholars read only the Latin Bible, not the Greek bible, and they borrowed the Roman or Latin word for justification, iustificare, from which we get the English work justification. The Latin verb ficare means "to make" or "to shape" or "to do." Isutus means "righteousness" or "justice," so iustificare literally means "to make righteous," which we believe is what happens in sanctification, not in justification.

@@ -12,7 +12,7 @@
 
 ### Summary
 
-Romans chapter eight deals with the influence of the &quot;Law of the Spirit of Life&quot; over the Believer.  
+Romans chapter eight deals with the influence of the &quot;Law of the Spirit of Life&quot; over the Believer. 
 
 ### Christ in Us and Us in Christ
 
@@ -34,7 +34,7 @@ The deliverance Paul cried for in 7:24 is announced in 8:1. The quality of life 
 Sin brought bondage, but the Law of the Spirit of life in Christ Jesus has worked great liberty! ** OUR POSITION IN CHRIST includes freedom from condemnation.**
 
 The first of the most needed messages of the bible!!!
-&quot;the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death&quot;                       Ro 8:1&mdash;There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.                                                                                                                       2&mdash;For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.
+&quot;the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death&quot; Ro 8:1&mdash;There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit. 2&mdash;For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.
 
 ### They Walk not after the Flesh but after the Spirit
 
@@ -54,13 +54,13 @@ To walk after the flesh is to not trust Christ as Savior and not follow him as L
 
 To walk after the Spirit, is to walk where He leads. This will require self-denial and involves a process of maturity.
 
-In Galatians 5:16-26,  The "Fruit of the Spirit" are constrasted with the "Works of the Flesh".
+In Galatians 5:16-26, The "Fruit of the Spirit" are constrasted with the "Works of the Flesh".
 
 #### TESTIMONIES: 
 
-1. Simeon Didn&apos;st Miss his Appointment - Luke 2:25-27  &hellip;he came by the Spirit into the temple
+1. Simeon Didn&apos;st Miss his Appointment - Luke 2:25-27 &hellip;he came by the Spirit into the temple
 2. Born of the Spirit - John 3:8 &hellip; thou hearest the sound thereof, but canst not tell whence it cometh&hellip; (the flesh is predictable)
-3. Unlearned, Yet Wise &mdash;  Acts 4:13
+3. Unlearned, Yet Wise &mdash; Acts 4:13
 4. Barnabas Saw Paul differently than the Others &mdash; Acts 9:26-27
 5. God Set Paul&apos;s Travel Plans - Acts 16:6-9
 6. Living Another Life &mdash; Philippians 1:21
@@ -95,11 +95,11 @@ The Antitype
 <!-- -->
 > Colossians 3:16&mdash;Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
 
-#### The  Nature of the &quot;Law of the Spirit of Life&quot;
+#### The Nature of the &quot;Law of the Spirit of Life&quot;
 
 Provides justification where the old law only condemned. Works liberty where the old law only worked bondage. It is a stronger law doing what the old law could not do in its weakness. (SANCTIFICATION, HOLINESS, RIGHTEOUSNESS) Christ was been made flesh and identified with the sinful. The old law could only stand from a distance as a school master with a pointed finger. This law works righteousness in the Believer; the old law could only identify unrighteousness. This life is subject to the law of God, whereas the flesh is not and cannot be for it is an enemy of God.
 
-####  The Fulfilling of this "Law of the Spirit of Life.&quot;
+#### The Fulfilling of this "Law of the Spirit of Life.&quot;
 
 > Romans 8:4&mdash;That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.
 
@@ -107,7 +107,7 @@ It is fulfilled in the one that walks not after the flesh, but after the Spirit.
 
 > James 1:25&mdash;But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed.
 
-This is to be contrasted with confused theology around us ...
+This is to be contrasted with confused theology around us &hellip;
 
 > ILLUSTRATION&mdash;:It is said that on his retreat from Greece after his great military expedition there, King Xerxes boarded a Phoenician ship along with a number of his Persian troops. But a fearful storm came up, and the captain told Xerxes there was no hope unless the ship's load was substantially lightened. The king turned to his fellow Persians on deck and said, "It is on you that my safety depends. Now let some of you show your regard for your king." A number of the men bowed to Xerxes and threw themselves overboard! Lightened of its load, the ship made it safely to harbor. Xerxes immediately ordered that a golden crown be given to the pilot for preserving the king's life -- then ordered the man beheaded for causing the loss of so many Persian lives!
 
@@ -125,11 +125,11 @@ The spiritual mind produces life: A Mind Focused on Truth will Have Faith, A Min
 
 #### It Makes a Difference What, How and How Much You Think
 
-It makes a difference what you think.         	Motive                                                                                                                                                                                            It makes a difference how you think.          	Mindset                                                                                                  It makes a difference what you dwell on.		Meditation
+It makes a difference what you think. 	Motive It makes a difference how you think. 	Mindset It makes a difference what you dwell on.		Meditation
 
 - Are we spiritually or carnally minded?
 
-> Luke 10:40&mdash;But Martha was cumbered about much serving, and came to him, and said, Lord, dost thou not care that my sister hath left me to serve alone? bid her therefore that she help me. 41 And Jesus answered and said unto her, Martha, Martha, thou art careful and troubled about many things:  42 But one thing is needful: and Mary hath chosen that good part, which shall not be taken away from her.
+> Luke 10:40&mdash;But Martha was cumbered about much serving, and came to him, and said, Lord, dost thou not care that my sister hath left me to serve alone? bid her therefore that she help me. 41 And Jesus answered and said unto her, Martha, Martha, thou art careful and troubled about many things: 42 But one thing is needful: and Mary hath chosen that good part, which shall not be taken away from her.
 
 The peace of God will rule in a mind steadfast on Him.
 
@@ -157,7 +157,7 @@ The peace of the Believer is oftened threated by the Believer failing to look to
 
 <!-- -->
 
-> Romans 8:11 But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you.                     
+> Romans 8:11 But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you. 
 
 #### The Holy Ghost dwelling in you
 
@@ -178,30 +178,30 @@ A.	Be obedient to the Word in all things
 
 > 1 John 5:7,8&mmdash;For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one. 8 And there are three that bear witness in earth, the spirit, and the water, and the blood: and these three agree in one.
 <!-- -->
-> Romans 8:1&mdash;There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.                                                                                                                                            
+> Romans 8:1&mdash;There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit. 
 <!-- -->
-> Col 3:16&mdash;Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.                     
+> Col 3:16&mdash;Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord. 
 <!-- -->
-> John 14:23&mdash;Jesus answered and said unto him, If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him.                                                 
+> John 14:23&mdash;Jesus answered and said unto him, If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him. 
 <!-- -->
 >John 15:7&mdash;If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you.
  
-B.	Be subject to the Spirit in all things&mdash;FOLLOW                                                            
+B.	Be subject to the Spirit in all things&mdash;FOLLOW 
 
-Submission is requires action. Stay, Go, Believe ...
+Submission is requires action. Stay, Go, Believe &hellip;
 
 C.	Be led by the Spirit in all things&mdash;WALK WITH HIM
 
-> Romans 8:28&mdash;And we know that all things work together for good to them that love God, to them who are the called according to his purpose.                                                                                                                                 
+> Romans 8:28&mdash;And we know that all things work together for good to them that love God, to them who are the called according to his purpose. 
 <!-- -->
-> Romans 14:17&mdash;For the kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost.                                                                                                                                                                               <!-- -->                                                                                                                                                                                   > Romans 14:19&mdash;Let us therefore follow after the things which make for peace, and things wherewith one may edify another.
+> Romans 14:17&mdash;For the kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost. <!-- --> > Romans 14:19&mdash;Let us therefore follow after the things which make for peace, and things wherewith one may edify another.
 
 D. Through a Disciplined Prayer life & a Dedicated Mind to the Spirit God will Fulfill His Righteousness in Us
 
-> Ro 8:2&mdash;For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.   4&mdash;That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.
-                                                                                                                                               > Romans 1:5&mdash;By whom we have received grace and apostleship, for obedience to the faith among all nations, for his name:                                                                                                                                                      
-                                                                                                                                                > Romans 16:26&mdash;But now is made manifest, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith:    
-                                                                                                                                                
-                                                                                                                                              > 2 Corinthians 10:5&mdash;Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;
-                                                                                                                                              
-Romans eight sets forth that part in our salvation which is exercised by the third person of the Godhead, the blessed Holy Ghost.  Without Christ's work on the cross there would be no salvation, and without the presence and constant operation of the Holy Ghost, there would be no application of that salvation to us. Righteousness in life is possible through power of the Holy Ghost.
+> Ro 8:2&mdash;For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death. 4&mdash;That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.
+ > Romans 1:5&mdash;By whom we have received grace and apostleship, for obedience to the faith among all nations, for his name: 
+ > Romans 16:26&mdash;But now is made manifest, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith: 
+ 
+ > 2 Corinthians 10:5&mdash;Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;
+ 
+Romans eight sets forth that part in our salvation which is exercised by the third person of the Godhead, the blessed Holy Ghost. Without Christ's work on the cross there would be no salvation, and without the presence and constant operation of the Holy Ghost, there would be no application of that salvation to us. Righteousness in life is possible through power of the Holy Ghost.

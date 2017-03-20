@@ -8,7 +8,7 @@
 
 ## Other Side
 
-> Romans 9:19&mdash;Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will? 20 Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus? 21  Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?
+> Romans 9:19&mdash;Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will? 20 Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus? 21 Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?
 
 ## General
 
@@ -18,7 +18,7 @@
 <!-- -->
 > 1 Chronicles 21:10&mdash;Go and tell David, saying, Thus saith the LORD, I offer thee three things: choose thee one of them, that I may do it unto thee. 11 So Gad came to David, and said unto him, Thus saith the LORD, Choose thee 12 Either three years' famine; or three months to be destroyed before thy foes, while that the sword of thine enemies overtaketh thee; or else three days the sword of the LORD, even the pestilence, in the land, and the angel of the LORD destroying throughout all the coasts of Israel. Now therefore advise thyself what word I shall bring again to him that sent me.
 <!-- -->
->  Psalm 25:12&mdash;What man is he that feareth the LORD? him shall he teach in the way that he shall choose.
+> Psalm 25:12&mdash;What man is he that feareth the LORD? him shall he teach in the way that he shall choose.
 <!-- -->
 > Psalm 84:10&mdash;For a day in thy courts is better than a thousand. I had rather be a doorkeeper in the house of my God, than to dwell in the tents of wickedness.
 <!-- -->
@@ -54,11 +54,11 @@
 <!-- -->
 ## Invitations/Opportunity to Make a Choice (the invitation is genuine)
 
->  Ex 32:26 Then Moses stood in the gate of the camp, and said, Who is on the LORD'S side? let him come unto me. And all the sons of Levi gathered themselves together unto him.
+> Ex 32:26 Then Moses stood in the gate of the camp, and said, Who is on the LORD'S side? let him come unto me. And all the sons of Levi gathered themselves together unto him.
 <!-- -->
 > John 1:11 He came unto his own, and his own received him not.
 <!-- -->
-> Genesis 2:16-17&mdash;And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat: {thou...: Heb. eating thou shalt eat} 17 But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die. 
+> Genesis 2:16-17&mdash;And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat: {thou&hellip;: Heb. eating thou shalt eat} 17 But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die. 
 <!-- -->
 > Isaiah 1:18&mdash;Come now, and let us reason together, saith the LORD: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool.
 <!-- -->
@@ -101,7 +101,7 @@
 
 ## It is God's Will that All Would be Saved
 
-> 1 Timothy 2:3-6&mdash;For this is good and acceptable in the sight of God our Saviour;  4 Who will have all men to be saved, and to come unto the knowledge of the truth. 5 For there is one God, and one mediator between God and men, the man Christ Jesus; 6 Who gave himself a ransom for all, to be testified in due time.
+> 1 Timothy 2:3-6&mdash;For this is good and acceptable in the sight of God our Saviour; 4 Who will have all men to be saved, and to come unto the knowledge of the truth. 5 For there is one God, and one mediator between God and men, the man Christ Jesus; 6 Who gave himself a ransom for all, to be testified in due time.
 <!-- -->
 >
 <!-- -->

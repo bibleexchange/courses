@@ -13,10 +13,10 @@
 
 ##Who are the Powers?
 
-1. Self			- 1 Corinthians 13:4 Vaunteth not itself...self promotion
+1. Self			- 1 Corinthians 13:4 Vaunteth not itself&hellip;self promotion
 2. The World	- 2 Timothy 4:10 -- Having loved this present world
 3. Satan		- Luke 22:31 he may sift you as wheat:
-3. God			- Jeremiah 23:1 Woe to those scatter...sheep of **my pasture**!
+3. God			- Jeremiah 23:1 Woe to those scatter&hellip;sheep of **my pasture**!
 
 ##What is the "Balance of Power"
 
@@ -61,21 +61,21 @@ Prepare to die daily! (Not, "I've made my sacrifice".)
 
 "I didn't see it coming." That is why it is called a DECEPTION. Safeguard your soul through MEEKNESS.
 
->1Co 16:16  ...submit yourselves unto ... every one that helpeth with us, and laboureth.
+>1Co 16:16 &hellip;submit yourselves unto &hellip; every one that helpeth with us, and laboureth.
 <!---->
->Eph 5:21 ¶ Submitting yourselves one to another in the fear of God.
+>Eph 5:21 Submitting yourselves one to another in the fear of God.
 <!---->
 >Eph 5:22 Wives, submit yourselves unto your own husbands, as unto the Lord.
 <!---->
->Heb 13:17 Obey them that have the rule over you, and submit yourselves:...
+>Heb 13:17 Obey them that have the rule over you, and submit yourselves:&hellip;
 <!---->
 > Jas 4:7 Submit yourselves therefore to God. Resist the devil, and he will flee from you.
 <!---->
-> 1Pe 2:13 ¶  Submit yourselves to every ordinance of man for the Lord's sake: whether it be to the king, as supreme;
+> 1Pe 2:13 Submit yourselves to every ordinance of man for the Lord's sake: whether it be to the king, as supreme;
 <!---->
-> 1Pe 5:5 ¶ Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble.
+> 1Pe 5:5 Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble.
 <!---->
->  Jas 5:16 Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.
+> Jas 5:16 Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.
 
 ##CONCLUSION
 

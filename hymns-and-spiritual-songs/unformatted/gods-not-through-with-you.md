@@ -1,4 +1,4 @@
-# God’s Not Through With You
+# God&apos;s Not Through With You
 
 ##VERSE 1
 

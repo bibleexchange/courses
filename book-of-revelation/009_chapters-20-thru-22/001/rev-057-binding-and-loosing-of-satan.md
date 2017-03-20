@@ -4,7 +4,7 @@ text: Revelation 20:1-3, 7-10
 
 ##Satan Sealed in a Bottomless Pit (vs. 1-3)
 
-Re 20:1 ¶ And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand.
+Re 20:1 And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand.
 2 And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,
 3 And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till the thousand years should be fulfilled: and after that he must be loosed a little season.
 

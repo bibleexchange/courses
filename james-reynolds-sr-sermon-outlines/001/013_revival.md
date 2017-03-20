@@ -7,7 +7,7 @@ Text: Habakkuk 3:1-2
 ## INTRODUCTION
 
 Habakkuk is offering a prayer, "upon Shigonoth" = (Psalm 70 Introduction) in Habakkuk's prayer he is singing a song--this is a beautiful happening, a beautiful prayer.
-"Oh, Lord, I have heard thy speech..." He had heard the sentence of judgment on Israel for her wickedness.
+"Oh, Lord, I have heard thy speech&hellip;" He had heard the sentence of judgment on Israel for her wickedness.
 "Revive Thy Work!" Before judgment came the prophet is crying for revival. We live in a parallel time; JUDGMENT IS COMING! There ought to be a cry in our hearts for REVIVAL! REVIVE, RESTORE. God wants us to have revival more than we want it. God's Word challenges us to promote, live, and teach revival. Where has the stirring that we have seen lately come from? Just because God wants to send revival? No. He responds to the cry in our hearts. God is looking for a people that are hungry.
 Just before a rain storm the leaves turn upside down. Farmers would say, "They are calling for rain." If God responds to leaves how much more will he respond to "knees?"
 What is revival? Webster's--revival means to bring back to use, restoration, to vigour, life, vitality, and activity. (there is a lot of motion and emotion today, but there is more to it than that)

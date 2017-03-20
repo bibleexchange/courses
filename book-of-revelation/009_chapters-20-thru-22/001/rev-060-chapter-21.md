@@ -50,7 +50,7 @@ There are many awesome advantages to this new arrangement:
 
 ## A Tour of New Jerusalem (vs. 9-27)
 
-> 9 ¶ And there came unto me one of the seven angels which had the seven vials full of the seven last plagues, and talked with me, saying, Come hither, 
+> 9 And there came unto me one of the seven angels which had the seven vials full of the seven last plagues, and talked with me, saying, Come hither, 
 
 I will shew thee the bride, the Lamb's wife.
 
@@ -105,7 +105,7 @@ ALL MAY BE SAVED
  18 And the building of the wall of it was of jasper: and the city was pure gold, like unto clear glass.
  19 And the foundations of the wall of the city were garnished with all manner of precious stones. 
 
-> In the heavenly city we have harmony, not monotony; variety, not sameness; unity, not uniformity. The stones are not arranged in the order of the high priest’s breastplate, but according to their various shades of colour, beginning from the foundation.&mdash;Ellicott's Commentary for English Readers 
+> In the heavenly city we have harmony, not monotony; variety, not sameness; unity, not uniformity. The stones are not arranged in the order of the high priest&apos;s breastplate, but according to their various shades of colour, beginning from the foundation.&mdash;Ellicott's Commentary for English Readers 
 
 NOTE: The following are merely educated guesses as to the actual gems referred to in Revelation 21.
 

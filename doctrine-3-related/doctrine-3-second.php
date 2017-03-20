@@ -395,65 +395,65 @@ return array (
 <h1>'.trans('doctrine-3.Essence of God').'</h1>
 <p>'.trans('doctrine-3.Meaning of ESSENCE: The core substance of anything; the ultimate nature of something; the crucial element; the inherent&#44; unchanging nature of a thing or a class of things.').'</p>
 <p>'.trans('doctrine-3.Who and what is God?&#44;').'</p>
-<blockquote>'.trans('doctrine-3.God is a Spirit&#44; infinite&#44; eternal&#44; and unchangeable in His being&#44; wisdom&#44; power&#44; holiness&#44; justice&#44; goodness&#44; and truth.   Westminister Catechism').'</blockquote>
-<blockquote>'.trans('doctrine-3.God is the infinite and perfect Spirit in whom all things have their source&#44; support and end.  James Strong').'</blockquote>
+<blockquote>'.trans('doctrine-3.God is a Spirit&#44; infinite&#44; eternal&#44; and unchangeable in His being&#44; wisdom&#44; power&#44; holiness&#44; justice&#44; goodness&#44; and truth. Westminister Catechism').'</blockquote>
+<blockquote>'.trans('doctrine-3.God is the infinite and perfect Spirit in whom all things have their source&#44; support and end. James Strong').'</blockquote>
 <p>'.trans('doctrine-3.Some of the major descriptions of God in the Scripture are: a SPIRIT (John 4:24)&#44; LIGHT (I John 1:5)&#44; LOVE (I John 4:16) and FIRE (Deut. 4:24&#44; Heb. 12:29).').'</p>
 <h2>'.trans('doctrine-3.God is Spirit').'</h2>
 <blockquote>'.trans('doctrine-3.God is a Spirit: and they that worship Him must worship Him in spirit and in truth.- John 4:24').'</blockquote>
 <h3>'.trans('doctrine-3.God is not Material').'</h3>
 <h4>'.trans('doctrine-3.Without material form or substance').'</h4>
 <h4>'.trans('doctrine-3.Does not have the limitations of a physical body').'</h4>
-<blockquote>'.trans('doctrine-3.Behold my hands and my feet&#44; that it is I myself: handle me&#44; and see; for a spirit hath not flesh and bones&#44; as ye see me have.   Luke 24:37').'</blockquote>
+<blockquote>'.trans('doctrine-3.Behold my hands and my feet&#44; that it is I myself: handle me&#44; and see; for a spirit hath not flesh and bones&#44; as ye see me have. Luke 24:37').'</blockquote>
 <h3>'.trans('doctrine-3.Anthropomorphic Representations of God').'</h3>
 <p>'.trans('doctrine-3.Anthropomorphic means having to do with human beings. Man is only capable of expressing God in human terms. When we try to bring the infinite within the apprehension of the finite&#44; we cannot perfectly describe the infinite.').'</p>
 <h4>'.trans('doctrine-3.Scriptural examples of God represented with body parts').'</h4>
-<h5>'.trans('doctrine-3.Hands   Is. 65:2&#44; Heb. 1:3').'</h5>
-<h5>'.trans('doctrine-3.Feet   Gen. 3: 8&#44; Ps. 8:6').'</h5>
-<h5>'.trans('doctrine-3.Eyes   I Kings 8:29&#44; II Chron. 16:9').'</h5>
-<h5>'.trans('doctrine-3.Ears   Neh. 1:6&#44; Ps. 34:15').'</h5>
-<h5>'.trans('doctrine-3.Fingers   Ps. 8:3').'</h5>
-<h5>'.trans('doctrine-3.Flesh and Blood   Luke 24:39').'</h5>
+<h5>'.trans('doctrine-3.Hands Is. 65:2&#44; Heb. 1:3').'</h5>
+<h5>'.trans('doctrine-3.Feet Gen. 3: 8&#44; Ps. 8:6').'</h5>
+<h5>'.trans('doctrine-3.Eyes I Kings 8:29&#44; II Chron. 16:9').'</h5>
+<h5>'.trans('doctrine-3.Ears Neh. 1:6&#44; Ps. 34:15').'</h5>
+<h5>'.trans('doctrine-3.Fingers Ps. 8:3').'</h5>
+<h5>'.trans('doctrine-3.Flesh and Blood Luke 24:39').'</h5>
 <p>'.trans('doctrine-3.Compare to Gen. 1:14&#44; Heb. 11:3').'</p>
 <h3>'.trans('doctrine-3.God is Invisible (to Natural Man)').'</h3>
 <h4>'.trans('doctrine-3.No man can see god and live').'</h4>
-<blockquote>'.trans('doctrine-3.And He said&#44; thou canst not see my face: for there shall no man see me and live.   Ex. 33:20').'</blockquote>
+<blockquote>'.trans('doctrine-3.And He said&#44; thou canst not see my face: for there shall no man see me and live. Ex. 33:20').'</blockquote>
 <h4>'.trans('doctrine-3.No man hath seen God at any time').'</h4>
-<blockquote>'.trans('doctrine-3.John 1:18   No man hath seen God at any time; the only begotten Son&#44; which is in the bosom of the Father&#44; he hath declared Him.').'</blockquote>
-<blockquote>'.trans('doctrine-3.1 Timothy 6:16   Who only hath immortality&#44; dwelling in the light which no man can approach unto; whom no man hath seen&#44; nor can see: to whom be honour and power everlasting. Amen.').'</blockquote>
+<blockquote>'.trans('doctrine-3.John 1:18 No man hath seen God at any time; the only begotten Son&#44; which is in the bosom of the Father&#44; he hath declared Him.').'</blockquote>
+<blockquote>'.trans('doctrine-3.1 Timothy 6:16 Who only hath immortality&#44; dwelling in the light which no man can approach unto; whom no man hath seen&#44; nor can see: to whom be honour and power everlasting. Amen.').'</blockquote>
 <h4>'.trans('doctrine-3.The invisible God').'</h4>
-<blockquote>'.trans('doctrine-3.Colossians 1:15   Who is the image of the invisible God&#44; the firstborn of every creature:').'</blockquote>
+<blockquote>'.trans('doctrine-3.Colossians 1:15 Who is the image of the invisible God&#44; the firstborn of every creature:').'</blockquote>
 <h3>'.trans('doctrine-3.God is Alive').'</h3>
-<blockquote>'.trans('doctrine-3.Joshua 3:10   And Joshua said&#44; Hereby ye shall know that the living God is among you&#44;... ').'</blockquote>
-<blockquote>'.trans('doctrine-3.I Samuel 17:26   ...for who is this uncircumcised Philistine that he should defy the armies of the living God?').'</blockquote>
-<blockquote>'.trans('doctrine-3.Matthew 16:16   And Simon Peter answered and said&#44; Thou art the Christ&#44; the Son of the living God.').'</blockquote>
-<blockquote>'.trans('doctrine-3.I Thessalonians 1:9   For they themselves shew of us what manner of entering in we had unto you&#44; and how ye turned to God from idols to serve the living and true God;').'</blockquote>
+<blockquote>'.trans('doctrine-3.Joshua 3:10 And Joshua said&#44; Hereby ye shall know that the living God is among you&#44;&hellip; ').'</blockquote>
+<blockquote>'.trans('doctrine-3.I Samuel 17:26 &hellip;for who is this uncircumcised Philistine that he should defy the armies of the living God?').'</blockquote>
+<blockquote>'.trans('doctrine-3.Matthew 16:16 And Simon Peter answered and said&#44; Thou art the Christ&#44; the Son of the living God.').'</blockquote>
+<blockquote>'.trans('doctrine-3.I Thessalonians 1:9 For they themselves shew of us what manner of entering in we had unto you&#44; and how ye turned to God from idols to serve the living and true God;').'</blockquote>
 <h4>'.trans('doctrine-3.The idols of the heathen are dead').'</h4>
 <h4>'.trans('doctrine-3.Life implies feeling&#44; power and activity').'</h4>
 <h4>'.trans('doctrine-3.God is the source of all life').'</h4>
 <h3>'.trans('doctrine-3.God is a Person').'</h3>
 <h4>'.trans('doctrine-3.Characteristics of personality').'</h4>
-<h5>'.trans('doctrine-3.Intellect   Knowledge').'</h5>
+<h5>'.trans('doctrine-3.Intellect Knowledge').'</h5>
 <p>'.trans('doctrine-3.Gen. 18:19&#44; Ex. 3:7&#44; Acts 15:18').'</p>
-<h5>'.trans('doctrine-3.Sensibility   Feeling').'</h5>
+<h5>'.trans('doctrine-3.Sensibility Feeling').'</h5>
 <p>'.trans('doctrine-3.Gen. 6:6&#44; Ps. 103: 8:13&#44; John 3:16').'</p>
-<h5>'.trans('doctrine-3.Volition   Will').'</h5>
+<h5>'.trans('doctrine-3.Volition Will').'</h5>
 <p>'.trans('doctrine-3.Gen. 3:15&#44; Ps. 115:3&#44; John 6:38').'</p>
 <h4>'.trans('doctrine-3.Qualities of personality').'</h4>
-<h5>'.trans('doctrine-3.Speaking   Gen. 1:3').'</h5>
-<h5>'.trans('doctrine-3.Seeing   Gen. 11:5').'</h5>
-<h5>'.trans('doctrine-3.Hearing   Ps. 94:9').'</h5>
-<h5>'.trans('doctrine-3.Being angry   Deut. 1:37').'</h5>
-<h5>'.trans('doctrine-3.Jealous   Ex. 20:5').'</h5>
-<h5>'.trans('doctrine-3.Compassionate   Ps. 114:4').'</h5>
+<h5>'.trans('doctrine-3.Speaking Gen. 1:3').'</h5>
+<h5>'.trans('doctrine-3.Seeing Gen. 11:5').'</h5>
+<h5>'.trans('doctrine-3.Hearing Ps. 94:9').'</h5>
+<h5>'.trans('doctrine-3.Being angry Deut. 1:37').'</h5>
+<h5>'.trans('doctrine-3.Jealous Ex. 20:5').'</h5>
+<h5>'.trans('doctrine-3.Compassionate Ps. 114:4').'</h5>
 <h2>'.trans('doctrine-3.God is Infinite').'</h2>
 <p>'.trans('doctrine-3.Without boundaries&#44; limitless&#44; immeasurably great or large').'</p>
 <h3>'.trans('doctrine-3.The Immensity of God').'</h3>
 <h4>'.trans('doctrine-3.He contains space; He is not contained by -it').'</h4>
-<blockquote>'.trans('doctrine-3.But will God indeed dwell on the earth? behold&#44; the heaven and heaven of heavens cannot contain thee; how much less this house that I have builded?   I Kings 8:27"But who is able to build him an house&#44; seeing the heaven and heaven of heavens cannot contain him? who am I then&#44; that I should build him an house&#44; save only to burn sacrifice before him?   II Chron. 2:6"Can any hide himself in secret places that I shall not see him? saith the LORDo not I fill heaven and earth? saith the LOR  Jer. 23:24').'</blockquote>
+<blockquote>'.trans('doctrine-3.But will God indeed dwell on the earth? behold&#44; the heaven and heaven of heavens cannot contain thee; how much less this house that I have builded? I Kings 8:27"But who is able to build him an house&#44; seeing the heaven and heaven of heavens cannot contain him? who am I then&#44; that I should build him an house&#44; save only to burn sacrifice before him? II Chron. 2:6"Can any hide himself in secret places that I shall not see him? saith the LORDo not I fill heaven and earth? saith the LOR Jer. 23:24').'</blockquote>
 <h4>'.trans('doctrine-3.God is everywhere present Ps. 139: 7-10').'</h4>
 <h3>'.trans('doctrine-3.The eternity of God').'</h3>
 <h4>'.trans('doctrine-3.Without beginning or ending').'</h4>
-<blockquote>'.trans('doctrine-3.And Abraham planted a grove in Beersheba&#44; and called there on the name of the LORD&#44; the everlasting God.   Gen. 21:33 Before the mountains were brought forth&#44; or ever thou hadst formed the earth and the world&#44; even from everlasting to everlasting&#44; thou art God.   Ps. 90:2"But Thou art the same&#44; and Thy years have no end.   Ps. 1027"').'</blockquote>
+<blockquote>'.trans('doctrine-3.And Abraham planted a grove in Beersheba&#44; and called there on the name of the LORD&#44; the everlasting God. Gen. 21:33 Before the mountains were brought forth&#44; or ever thou hadst formed the earth and the world&#44; even from everlasting to everlasting&#44; thou art God. Ps. 90:2"But Thou art the same&#44; and Thy years have no end. Ps. 1027"').'</blockquote>
 <h4>'.trans('doctrine-3.God is the cause of time').'</h4>
 <h2>'.trans('doctrine-3.God is Self-Existent').'</h2>
 <h3>'.trans('doctrine-3.God has the ground of His existence in').'</h3>
@@ -461,10 +461,10 @@ return array (
 <h4>'.trans('doctrine-3.Man&apos;s ground of existence is outside himself').'</h4>
 <h4>'.trans('doctrine-3.God is not dependent upon anything outside of Himself for His existence').'</h4>
 <h3>'.trans('doctrine-3.God has life in Himself').'</h3>
-<blockquote>'.trans('doctrine-3.And God said unto Moses&#44; I AM THAT I AM: and he said&#44; Thus shalt thou say unto the children of Israel&#44; I AM hath sent me unto you.   Ex. 3:14').'</blockquote>
+<blockquote>'.trans('doctrine-3.And God said unto Moses&#44; I AM THAT I AM: and he said&#44; Thus shalt thou say unto the children of Israel&#44; I AM hath sent me unto you. Ex. 3:14').'</blockquote>
 <blockquote>'.trans('doctrine-3.For as the Father hath life in Himself; so hath He given to the Son to have life in Himself; John #$#REF').'</blockquote>
 <blockquote>'.trans('doctrine-3.God not only exists from eternity&#44; but also exists from Himself." Dr. R.A. Torrey').'</blockquote>
-<blockquote>'.trans('doctrine-3.He is "the first Cause&#44; Himself uncaused."  Thomas Aquinas').'</blockquote>
+<blockquote>'.trans('doctrine-3.He is "the first Cause&#44; Himself uncaused." Thomas Aquinas').'</blockquote>
 <p>'.trans('doctrine-3.Exodus 3:14; Exodus 6:3; John 5:26; Acts 17:24-28').'</p>',
 
 '237'=>'
@@ -675,33 +675,33 @@ return array (
 <h1>'.trans('doctrine-3.THE WORK OF CHRIST').'</h1>
 <h2>'.trans('doctrine-3.The ministry of Christ').'</h2>
 <h3>'.trans('doctrine-3.Jesus had compassion on the sick and healed all that came unto Him.').'</h3>
-<blockquote>'.trans('doctrine-3.Acts 10:38   How God anointed Jesus of Nazareth with the Holy Ghost and with power: who went about doing good&#44; and healing all that were oppressed of the devil; for God was with him.').'</blockquote>
+<blockquote>'.trans('doctrine-3.Acts 10:38 How God anointed Jesus of Nazareth with the Holy Ghost and with power: who went about doing good&#44; and healing all that were oppressed of the devil; for God was with him.').'</blockquote>
 <h3>'.trans('doctrine-3.Teaching and preaching the Word of God.').'</h3>
-<blockquote>'.trans('doctrine-3.Matthew 4:23   And Jesus went about all Galilee&#44; teaching in their synagogues&#44; and preaching the gospel of the kingdom&#44; and healing all manner of sickness and all manner of disease among the people.').'</blockquote>
+<blockquote>'.trans('doctrine-3.Matthew 4:23 And Jesus went about all Galilee&#44; teaching in their synagogues&#44; and preaching the gospel of the kingdom&#44; and healing all manner of sickness and all manner of disease among the people.').'</blockquote>
 <h3>'.trans('doctrine-3.Bringing deliverance to the captives.').'</h3>
-<blockquote>'.trans('doctrine-3.Luke 4:18   The Spirit of the Lord is upon me&#44; because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted&#44; to preach deliverance to the captives&#44; and recovering of sight to the blind&#44; to set at liberty them that are bruised&#44;').'</blockquote>
-<blockquote>'.trans('doctrine-3.Matthew 8:16   When the even was come&#44; they brought unto him many that were possessed with devils: and he cast out the spirits with his word&#44; and healed all that were sick:').'</blockquote>
+<blockquote>'.trans('doctrine-3.Luke 4:18 The Spirit of the Lord is upon me&#44; because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted&#44; to preach deliverance to the captives&#44; and recovering of sight to the blind&#44; to set at liberty them that are bruised&#44;').'</blockquote>
+<blockquote>'.trans('doctrine-3.Matthew 8:16 When the even was come&#44; they brought unto him many that were possessed with devils: and he cast out the spirits with his word&#44; and healed all that were sick:').'</blockquote>
 <h2>'.trans('doctrine-3.The redemptive work of Christ').'</h2>
 <p>'.trans('doctrine-3.The most important work of Christ was to purchase redemption for man through His death upon the cross. The Word became flesh for the purpose of dying for lost humanity. ').'</p>
 <h3>'.trans('doctrine-3.The death of Christ').'</h3>
 <h4>'.trans('doctrine-3.Satisfied the penalty of sin according to the Law of God.').'</h4>
-<blockquote>'.trans('doctrine-3.Romans 6:23   For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.').'</blockquote>
-<blockquote>'.trans('doctrine-3.1 Corinthians 15:3   For I delivered unto you first of all that which I also received&#44; how that Christ died for our sins according to the scriptures;').'</blockquote>
+<blockquote>'.trans('doctrine-3.Romans 6:23 For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.').'</blockquote>
+<blockquote>'.trans('doctrine-3.1 Corinthians 15:3 For I delivered unto you first of all that which I also received&#44; how that Christ died for our sins according to the scriptures;').'</blockquote>
 <h4>'.trans('doctrine-3.Appeased the judgment of God through the sacrifice of the Divine blood of the Lamb of God.').'</h4>
-<blockquote>'.trans('doctrine-3.Romans 3:25   Whom God hath set forth to be a propitiation through faith in his blood&#44; to declare his righteousness for the remission of sins that are past&#44; through the forbearance of God;').'</blockquote>
+<blockquote>'.trans('doctrine-3.Romans 3:25 Whom God hath set forth to be a propitiation through faith in his blood&#44; to declare his righteousness for the remission of sins that are past&#44; through the forbearance of God;').'</blockquote>
 <p>'.trans('doctrine-3.The Greek word here rendered propitiation refers to the Mercy seat. The Mercy seat is the place where the High priest sprinkled the blood of a lamb on the Day of Atonement to satisfy the wrath of God against the sins of the people. Jesus became our Mercy seat when He offered Himself as the pure spotless Lamb of God and shedding His blood as the supreme sacrifice for the sin of humanity.').'</p>
 <h4>'.trans('doctrine-3.Defeated the power of death.').'</h4>
-<blockquote>'.trans('doctrine-3.Matthew 12:40   For as Jonas was three days and three nights in the whale&apos;s belly; so shall the Son of man be three days and three nights in the heart of the earth.').'<p></p>
-<p>'.trans('doctrine-3.Hebrews 2:14   For as much then as the children are partakers of flesh and blood&#44; he also himself likewise took part of the same; that through death he might destroy him that had the power of death&#44; that is&#44; the devil;').'</p></blockquote>
+<blockquote>'.trans('doctrine-3.Matthew 12:40 For as Jonas was three days and three nights in the whale&apos;s belly; so shall the Son of man be three days and three nights in the heart of the earth.').'<p></p>
+<p>'.trans('doctrine-3.Hebrews 2:14 For as much then as the children are partakers of flesh and blood&#44; he also himself likewise took part of the same; that through death he might destroy him that had the power of death&#44; that is&#44; the devil;').'</p></blockquote>
 <p>'.trans('doctrine-3.Jesus went into the region of the dead to defeat death. Death could not hold the Son of God. Jesus defeated the devil that had the power of death. Jesus stripped the devil of his power and authority and took the keys of death away from the devil. ').'</p>
-<blockquote>'.trans('doctrine-3.Revelation 1:18   I am he that liveth&#44; and was dead; and&#44; behold&#44; I am alive for evermore&#44; Amen; and have the keys of hell and of death.').'</blockquote>
+<blockquote>'.trans('doctrine-3.Revelation 1:18 I am he that liveth&#44; and was dead; and&#44; behold&#44; I am alive for evermore&#44; Amen; and have the keys of hell and of death.').'</blockquote>
 <h3>'.trans('doctrine-3.The resurrection of Christ').'</h3>
 <p>'.trans('doctrine-3.The resurrection of Christ is the event that separates Jesus from other religious leaders and false messiahs. Buddah&#44; Mohamed&#44; Sun Myung Moon and other false messiahs are in the grave. There is an empty tomb in Jerusalem where Jesus lay for three days&#44; but when the three days were fulfilled Christ arose victorious over death&#44; hell and the grave. ').'</p>
 <h2>'.trans('doctrine-3.The continued intercession of Christ').'</h2>
-<blockquote>'.trans('doctrine-3.Romans 8:34   Who is he that condemneth? It is Christ that died&#44; yea rather&#44; that is risen again&#44; who is even at the right hand of God&#44; who also maketh intercession for us.').'</blockquote>
+<blockquote>'.trans('doctrine-3.Romans 8:34 Who is he that condemneth? It is Christ that died&#44; yea rather&#44; that is risen again&#44; who is even at the right hand of God&#44; who also maketh intercession for us.').'</blockquote>
 <p>'.trans('doctrine-3.Jesus ascended back to heaven and is at the right hand of the Father who ever lives to make intercession for us. The Scripture tells us that Jesus our Great High Priest is still interceding for us in heaven.').'</p>
 <p>'.trans('doctrine-3.The Old Testament high priest interceded for the people on the Day of Atonement sprinkling the blood of a lamb on the Mercy Seat for the sins of the people. Jesus offered Himself once shedding His Divine blood for the sins of humanity. The blood of Jesus still has the power to make the vilest sinner clean. The Father views the justified saint through the redemptive work of Christ. Jesus is still our Great High Priest.').'</p>
-<blockquote>'.trans('doctrine-3.Hebrews 7:25   Wherefore he is able also to save them to the uttermost that come unto God by him&#44; seeing he ever liveth to make intercession for them.').'</blockquote>',
+<blockquote>'.trans('doctrine-3.Hebrews 7:25 Wherefore he is able also to save them to the uttermost that come unto God by him&#44; seeing he ever liveth to make intercession for them.').'</blockquote>',
 
 '244'=>'
 <h1>'.trans('doctrine-3.The Person of the Holy Ghost').'</h1>
@@ -831,49 +831,49 @@ return array (
 <p>'.trans('doctrine-3.Anything that contradicts the word of God is in error. It is very important that we know what we believe and we understand why we believe it. Our beliefs must be based on the Bible or they are merely the ideas of men. When the ideas of men contradict the Bible they are wrong. ').'</p>
 <p>'.trans('doctrine-3.The bible is infallible and the perfect word of God. Scripture must agree with scripture. We cannot take one verse out of the bible and make a doctrine out of it. So in order to have sound doctrine we must compare scripture with scripture. The ideas that are presented here are backed with scripture and agree with the whole word of God.').'</p>
 <h2>'.trans('doctrine-3.THERE ARE THREE IN HEAVEN').'</h2>
-<blockquote>'.trans('doctrine-3.1 Jo 5:7   For there are three that bear record in heaven&#44; the Father&#44; the Word&#44; and the Holy Ghost: and these three are one.').'</blockquote>
+<blockquote>'.trans('doctrine-3.1 Jo 5:7 For there are three that bear record in heaven&#44; the Father&#44; the Word&#44; and the Holy Ghost: and these three are one.').'</blockquote>
 <h2>'.trans('doctrine-3.JESUS WAS SENT BY THE FATHER').'</h2>
 <p>'.trans('doctrine-3.It is evident I hope that one cannot send himself. To be sent is to have directions from someone else. Jesus was sent by the Father with a purpose and a mission.').'</p>
-<blockquote>'.trans('doctrine-3.John 5:36  But I have greater witness than that of John: for the works which the Father hath given me to finish&#44; the same works that I do&#44; bear witness of me&#44; that the Father hath sent me.').'</blockquote> 
-<blockquote>'.trans('doctrine-3.John 5:37  And the Father himself&#44; which hath sent me&#44; hath borne witness of me. Ye have neither heard his voice at any time&#44; nor seen his shape.').'</blockquote> 
-<blockquote>'.trans('doctrine-3.John 5:30   I can of mine own self do nothing: as I hear&#44; I judge: and my judgment is just; because I seek not mine own will&#44; but the will of the Father which hath sent me.').'</blockquote>
-<blockquote>'.trans('doctrine-3.John 6:39  And this is the Father&apos;s will which hath sent me&#44; that of all which he hath given me I should lose nothing&#44; but should raise it up again at the last day.').'</blockquote>
-<blockquote>'.trans('doctrine-3.John 6:44   No man can come to me&#44; except the Father which hath sent me draw him: and I will raise him up at the last day.').'</blockquote> 
-<blockquote>'.trans('doctrine-3.John 6:57  As the living Father hath sent me&#44; and I live by the Father: so he that eateth me&#44; even he shall live by me.').'</blockquote>
-<blockquote>'.trans('doctrine-3.John 8:16   And yet if I judge&#44; my judgment is true: for I am not alone&#44; but I and the Father that sent me.').'</blockquote>
-<blockquote>'.trans('doctrine-3.John 8:18   I am one that bear witness of myself&#44; and the Father that sent me beareth witness of me.').'</blockquote>
-<blockquote>'.trans('doctrine-3.John 8:29  And he that sent me is with me: the Father hath not left me alone; for I do always those things that please him.').'</blockquote>
-<blockquote>'.trans('doctrine-3.John 8:42  Jesus said unto them&#44; If God were your Father&#44; ye would love me: for I proceeded forth and came from God; neither came I of myself&#44; but he sent me.').'</blockquote>
-<blockquote>'.trans('doctrine-3.John 12:49   For I have not spoken of myself; but the Father which sent me&#44; he gave me a commandment&#44; what I should say&#44; and what I should speak.').'</blockquote>
-<blockquote>'.trans('doctrine-3.John 14:24  He that loveth me not keepeth not my sayings: and the word which ye hear is not mine&#44; but the Father&apos;s which sent me.').'</blockquote>
-<blockquote>'.trans('doctrine-3.John 17:21  That they all may be one; as thou&#44; Father&#44; art in me&#44; and I in thee&#44; that they also may be one in us: that the world may believe that thou hast sent me.').'</blockquote>
-<blockquote>'.trans('doctrine-3.John 17:25  O righteous Father&#44; the world hath not known thee: but I have known thee&#44; and these have known that thou hast sent me.').'</blockquote>
-<blockquote>'.trans('doctrine-3.John 20:21  Then said Jesus to them again&#44; Peace be unto you: as my Father hath sent me&#44; even so send I you.').'</blockquote>
+<blockquote>'.trans('doctrine-3.John 5:36 But I have greater witness than that of John: for the works which the Father hath given me to finish&#44; the same works that I do&#44; bear witness of me&#44; that the Father hath sent me.').'</blockquote> 
+<blockquote>'.trans('doctrine-3.John 5:37 And the Father himself&#44; which hath sent me&#44; hath borne witness of me. Ye have neither heard his voice at any time&#44; nor seen his shape.').'</blockquote> 
+<blockquote>'.trans('doctrine-3.John 5:30 I can of mine own self do nothing: as I hear&#44; I judge: and my judgment is just; because I seek not mine own will&#44; but the will of the Father which hath sent me.').'</blockquote>
+<blockquote>'.trans('doctrine-3.John 6:39 And this is the Father&apos;s will which hath sent me&#44; that of all which he hath given me I should lose nothing&#44; but should raise it up again at the last day.').'</blockquote>
+<blockquote>'.trans('doctrine-3.John 6:44 No man can come to me&#44; except the Father which hath sent me draw him: and I will raise him up at the last day.').'</blockquote> 
+<blockquote>'.trans('doctrine-3.John 6:57 As the living Father hath sent me&#44; and I live by the Father: so he that eateth me&#44; even he shall live by me.').'</blockquote>
+<blockquote>'.trans('doctrine-3.John 8:16 And yet if I judge&#44; my judgment is true: for I am not alone&#44; but I and the Father that sent me.').'</blockquote>
+<blockquote>'.trans('doctrine-3.John 8:18 I am one that bear witness of myself&#44; and the Father that sent me beareth witness of me.').'</blockquote>
+<blockquote>'.trans('doctrine-3.John 8:29 And he that sent me is with me: the Father hath not left me alone; for I do always those things that please him.').'</blockquote>
+<blockquote>'.trans('doctrine-3.John 8:42 Jesus said unto them&#44; If God were your Father&#44; ye would love me: for I proceeded forth and came from God; neither came I of myself&#44; but he sent me.').'</blockquote>
+<blockquote>'.trans('doctrine-3.John 12:49 For I have not spoken of myself; but the Father which sent me&#44; he gave me a commandment&#44; what I should say&#44; and what I should speak.').'</blockquote>
+<blockquote>'.trans('doctrine-3.John 14:24 He that loveth me not keepeth not my sayings: and the word which ye hear is not mine&#44; but the Father&apos;s which sent me.').'</blockquote>
+<blockquote>'.trans('doctrine-3.John 17:21 That they all may be one; as thou&#44; Father&#44; art in me&#44; and I in thee&#44; that they also may be one in us: that the world may believe that thou hast sent me.').'</blockquote>
+<blockquote>'.trans('doctrine-3.John 17:25 O righteous Father&#44; the world hath not known thee: but I have known thee&#44; and these have known that thou hast sent me.').'</blockquote>
+<blockquote>'.trans('doctrine-3.John 20:21 Then said Jesus to them again&#44; Peace be unto you: as my Father hath sent me&#44; even so send I you.').'</blockquote>
 <h2>'.trans('doctrine-3.JESUS DID NOT COME IN HIS OWN NAME').'</h2>
 <p>'.trans('doctrine-3.Jesus came in the name of the Father').'</p>
-<blockquote>'.trans('doctrine-3.John 5:30   I can of mine own self do nothing: as I hear&#44; I judge: and my judgment is just; because I seek not mine own will&#44; but the will of the Father which hath sent me.').'</blockquote>
-<blockquote>'.trans('doctrine-3.John 8:42  Jesus said unto them&#44; If God were your Father&#44; ye would love me: for I proceeded forth and came from God; neither came I of myself&#44; but he sent me.').'</blockquote>
-<blockquote>'.trans('doctrine-3.John 14:24  He that loveth me not keepeth not my sayings: and the word which ye hear is not mine&#44; but the Father&apos;s which sent me.').'</blockquote>
-<blockquote>'.trans('doctrine-3.John 5:43   I am come in my Father&apos;s name&#44; and ye receive me not: if another shall come in his own name&#44; him ye will receive.').'</blockquote>
+<blockquote>'.trans('doctrine-3.John 5:30 I can of mine own self do nothing: as I hear&#44; I judge: and my judgment is just; because I seek not mine own will&#44; but the will of the Father which hath sent me.').'</blockquote>
+<blockquote>'.trans('doctrine-3.John 8:42 Jesus said unto them&#44; If God were your Father&#44; ye would love me: for I proceeded forth and came from God; neither came I of myself&#44; but he sent me.').'</blockquote>
+<blockquote>'.trans('doctrine-3.John 14:24 He that loveth me not keepeth not my sayings: and the word which ye hear is not mine&#44; but the Father&apos;s which sent me.').'</blockquote>
+<blockquote>'.trans('doctrine-3.John 5:43 I am come in my Father&apos;s name&#44; and ye receive me not: if another shall come in his own name&#44; him ye will receive.').'</blockquote>
 <h2>'.trans('doctrine-3.NO MAN ONE HAS SEEN OR HEARD THE FATHER').'</h2>
 <p>'.trans('doctrine-3.No one has seen or heard the Father&#44; but men have seen and heard God. They saw Jesus&#44; the son of the Father. Jesus is just as much God as the Father&#44; but he is not the Father. There is a difference.').'</p>
-<blockquote>'.trans('doctrine-3.John 5:37  And the Father himself&#44; which hath sent me&#44; hath borne witness of me. Ye have neither heard his voice at any time&#44; nor seen his shape.').'</blockquote>
-<blockquote>'.trans('doctrine-3.John 1:18  No man hath seen God at any time; the only begotten Son&#44; which is in the bosom of the Father&#44; he hath declared him.').'</blockquote>
+<blockquote>'.trans('doctrine-3.John 5:37 And the Father himself&#44; which hath sent me&#44; hath borne witness of me. Ye have neither heard his voice at any time&#44; nor seen his shape.').'</blockquote>
+<blockquote>'.trans('doctrine-3.John 1:18 No man hath seen God at any time; the only begotten Son&#44; which is in the bosom of the Father&#44; he hath declared him.').'</blockquote>
 <h2>'.trans('doctrine-3.THE FATHER AND THE SON ARE ONE').'</h2>
 <blockquote>'.trans('doctrine-3.John 10:30 I and my Father are one.').'</blockquote>
-<blockquote>'.trans('doctrine-3.John 17:21  That they all may be one; as thou&#44; Father&#44; art in me&#44; and I in thee&#44; that they also may be one in us: that the world may believe that thou hast sent me.').'</blockquote>
-<blockquote>'.trans('doctrine-3.John 17:11  And now I am no more in the world&#44; but these are in the world&#44; and I come to thee. Holy Father&#44; keep through thine own name those whom thou hast given me&#44; that they may be one&#44; as we are.').'</blockquote>
+<blockquote>'.trans('doctrine-3.John 17:21 That they all may be one; as thou&#44; Father&#44; art in me&#44; and I in thee&#44; that they also may be one in us: that the world may believe that thou hast sent me.').'</blockquote>
+<blockquote>'.trans('doctrine-3.John 17:11 And now I am no more in the world&#44; but these are in the world&#44; and I come to thee. Holy Father&#44; keep through thine own name those whom thou hast given me&#44; that they may be one&#44; as we are.').'</blockquote>
 <h2>'.trans('doctrine-3.THE FATHER HAS HIS OWN NAME').'</h2>
-<blockquote>'.trans('doctrine-3.John 17:11  And now I am no more in the world&#44; but these are in the world&#44; and I come to thee. Holy Father&#44; keep through thine own name those whom thou hast given me&#44; that they may be one&#44; as we are.').'</blockquote>
+<blockquote>'.trans('doctrine-3.John 17:11 And now I am no more in the world&#44; but these are in the world&#44; and I come to thee. Holy Father&#44; keep through thine own name those whom thou hast given me&#44; that they may be one&#44; as we are.').'</blockquote>
 <h2>'.trans('doctrine-3.THE FATHER AND THE SON HAVE SEPARATE WILLS').'</h2>
 <p>'.trans('doctrine-3.This does not mean that they ever disagree. Both are all-knowing and sinless. They have the same desires&#44; the same heart. When Jesus came to the earth he subjected his will to the Father. He came as a servant.').'</p>
-<blockquote>'.trans('doctrine-3.John 5:30   I can of mine own self do nothing: as I hear&#44; I judge: and my judgment is just; because I seek not mine own will&#44; but the will of the Father which hath sent me').'</blockquote>
-<blockquote>'.trans('doctrine-3.Matthew 26:39   And he went a little further&#44; and fell on his face&#44; and prayed&#44; saying&#44; O my Father&#44; if it be possible&#44; let this cup pass from me: nevertheless not as I will&#44; but as thou wilt.').'</blockquote>
-<blockquote>'.trans('doctrine-3.Matthew 26:42  He went away again the second time&#44; and prayed&#44; saying&#44; O my Father&#44; if this cup may not pass away from me&#44; except I drink it&#44; thy will be done.').'</blockquote> 
- <blockquote>'.trans('doctrine-3.Luke 22:42  Saying&#44; Father&#44; if thou be willing&#44; remove this cup from me: nevertheless not my will&#44; but thine&#44; be done.').'</blockquote>
+<blockquote>'.trans('doctrine-3.John 5:30 I can of mine own self do nothing: as I hear&#44; I judge: and my judgment is just; because I seek not mine own will&#44; but the will of the Father which hath sent me').'</blockquote>
+<blockquote>'.trans('doctrine-3.Matthew 26:39 And he went a little further&#44; and fell on his face&#44; and prayed&#44; saying&#44; O my Father&#44; if it be possible&#44; let this cup pass from me: nevertheless not as I will&#44; but as thou wilt.').'</blockquote>
+<blockquote>'.trans('doctrine-3.Matthew 26:42 He went away again the second time&#44; and prayed&#44; saying&#44; O my Father&#44; if this cup may not pass away from me&#44; except I drink it&#44; thy will be done.').'</blockquote> 
+ <blockquote>'.trans('doctrine-3.Luke 22:42 Saying&#44; Father&#44; if thou be willing&#44; remove this cup from me: nevertheless not my will&#44; but thine&#44; be done.').'</blockquote>
 <h2>'.trans('doctrine-3.THE FATHER POSSESES A SON AND THE SON POSSESES A FATHER').'</h2> 
-<p>'.trans('doctrine-3.There is a father-son relationship between Jesus and the Father. When Jesus says my Father  that shows possession. It is His Father&#44; not any father&#44; but His Father. When the Father says my son  he is showing that he has a son').'</p>
-<blockquote>'.trans('doctrine-3.Matthew 7:21  Not every one that saith unto me&#44; Lord&#44; Lord&#44; shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.').'</blockquote>
+<p>'.trans('doctrine-3.There is a father-son relationship between Jesus and the Father. When Jesus says my Father that shows possession. It is His Father&#44; not any father&#44; but His Father. When the Father says my son he is showing that he has a son').'</p>
+<blockquote>'.trans('doctrine-3.Matthew 7:21 Not every one that saith unto me&#44; Lord&#44; Lord&#44; shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.').'</blockquote>
 <blockquote>'.trans('doctrine-3.Matthew 10:32 Whosoever therefore shall confess me before men&#44; him will I confess also before my Father which is in heaven.').'</blockquote>
 <blockquote>'.trans('doctrine-3.Matthew 10:33 But whosoever shall deny me before men&#44; him will I also deny before my Father which is in heaven.').'</blockquote>
 <blockquote>'.trans('doctrine-3.Matthew 11:27 All things are delivered unto me of my Father: and no man knoweth the Son&#44; but the Father; neither knoweth any man the Father&#44; save the Son&#44; and he to whomsoever the Son will reveal him. Matthew 12:50 For whosoever shall do the will of my Father which is in heaven&#44; the same is my brother&#44; and sister&#44; and mother.Matthew 15:13 But he answered and said&#44; Every plant&#44; which my heavenly Father hath not planted&#44; shall be rooted up.').'</blockquote>
@@ -1049,7 +1049,7 @@ return array (
 <h2>'.trans('doctrine-3.The Holy Spirit is God').'</h2>
 <h3>'.trans('doctrine-3.Scripture refers to The Holy Spirit as God -- Acts 5:3-4').'</h3>
 <h3>'.trans('doctrine-3.The Holy Spirit is ascribed the attributes of Deity -- Acts 1:8&#44; Rom. 15:19&#44; I Cor. 2:11&#44; I John 5:6').'</h3>
-<p>'.trans('doctrine-3.Each Person of The Godhead active in creation 1. Father â€“ Gen. 1:1 2. Son â€“ John 1:1-2 3. Holy Spirit â€“ Gen. 1:2').'</p>',
+<p>'.trans('doctrine-3.Each Person of The Godhead active in creation 1. Father â€&quot; Gen. 1:1 2. Son â€&quot; John 1:1-2 3. Holy Spirit â€&quot; Gen. 1:2').'</p>',
 
 '250'=>'
 <h1>'.trans('doctrine-3.The Trinity in Type').'</h1>
@@ -1130,9 +1130,9 @@ return array (
 '252'=>'
  <h1>'.trans('doctrine-3.GLOSSARY FOR DOCTRINE III').'</h1>
  <h2>'.trans('doctrine-3.anthropomorphic').'</h2>
- <p>'.trans('doctrine-3.anthropo- pref. Human being;morpho- or morph- pref. 1. Form; shape; structure. 2. Morpheme; -ic suff. 1. Of&#44; relating to&#44; or characterized by. 2. Having a valence higher than that of a specified element in compounds or ions named with adjectives ending in -ous. 3. One relating to or characterized by.   The American Heritage Dictionary&#44; 3RD Edition.Thus&#44; of&#44; or having to do with&#44; the shape or structure of human beings.').'</p>
+ <p>'.trans('doctrine-3.anthropo- pref. Human being;morpho- or morph- pref. 1. Form; shape; structure. 2. Morpheme; -ic suff. 1. Of&#44; relating to&#44; or characterized by. 2. Having a valence higher than that of a specified element in compounds or ions named with adjectives ending in -ous. 3. One relating to or characterized by. The American Heritage Dictionary&#44; 3RD Edition.Thus&#44; of&#44; or having to do with&#44; the shape or structure of human beings.').'</p>
  <h2>'.trans('doctrine-3.essence').'</h2>
- <p>'.trans('doctrine-3.n. 1. The intrinsic or indispensable properties that serve to characterize or identify something. 2. The most important ingredient; the crucial element. 3. The inherent&#44; unchanging nature of a thing or class of things. 4.a. An extract that has the fundamental properties of a substance in concentrated form. b. Such an extract in a solution of alcohol. c. A perfume or scent. 5. One that has or shows an abundance of a quality as if highly concentrated. 6. Something that exists&#44; especially a spiritual or incorporeal entity.   The American Heritage Dictionary&#44; 3RD Edition.').'</p>
+ <p>'.trans('doctrine-3.n. 1. The intrinsic or indispensable properties that serve to characterize or identify something. 2. The most important ingredient; the crucial element. 3. The inherent&#44; unchanging nature of a thing or class of things. 4.a. An extract that has the fundamental properties of a substance in concentrated form. b. Such an extract in a solution of alcohol. c. A perfume or scent. 5. One that has or shows an abundance of a quality as if highly concentrated. 6. Something that exists&#44; especially a spiritual or incorporeal entity. The American Heritage Dictionary&#44; 3RD Edition.').'</p>
  <p>'.trans('doctrine-3.es-sence That which underlies all outward manifestation; the reality itself&#44; whether material or immaterial; the substratum of anything; that in which the qualities inhere. Source unknown. ').'</p>'
 
 );

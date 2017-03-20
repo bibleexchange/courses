@@ -12,7 +12,7 @@ Ilikuwa kweli kwa kutaka, kwani walikuwa na uhuru za uchaguzi.
 
 ## Mtu wa mwanzo aliumbwa bila dhambi (mwanzo 1:31) na bila hatia za ubaya (mwanzo 2:17; 3-5-7).
  
-> Mwanzo 1:31:· Very-mead (Kiebrania) Kuzidi Mwenye, very 	||  Good-towb (Kiebrania) Mwema, mwenye uzuri, mrembo. 
+> Mwanzo 1:31:· Very-mead (Kiebrania) Kuzidi Mwenye, very 	|| Good-towb (Kiebrania) Mwema, mwenye uzuri, mrembo. 
 
 ## Mtu wa mwanzo alipewa elimu kubwa. Mwanzo 2:14,20; Waebrania 2:6-9.
 

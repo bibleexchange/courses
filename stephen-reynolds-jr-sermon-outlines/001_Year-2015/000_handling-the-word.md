@@ -10,7 +10,7 @@ What is the Bible and what should we do with it? Modern Christianity tends to a 
 
 In the Margin, Sidelined, An Afterthought
 
-**Philosophy driven Christianity** is a shortcut that comes with a price. "Follow your heart" - "It's okay, everyone else is doing it" - "If it feels good, its ok" - "God understands your heart, even if you miss the mark" - "Name it and claim it" - “God helps those who help themselves.”
+**Philosophy driven Christianity** is a shortcut that comes with a price. "Follow your heart" - "It's okay, everyone else is doing it" - "If it feels good, its ok" - "God understands your heart, even if you miss the mark" - "Name it and claim it" - &quot;God helps those who help themselves.&quot;
 
 	- The Emergent Church
 	- Purpose Driven Life
@@ -22,7 +22,7 @@ In the Margin, Sidelined, An Afterthought
 
 > Isa 59:14 And judgment is turned away backward, and justice standeth afar off: for truth is fallen in the street, and equity cannot enter.
 
-> 2 Th 2:10 ... they received not the love of the truth, that they might be saved.
+> 2 Th 2:10 &hellip; they received not the love of the truth, that they might be saved.
 
 > Ps 51:6 Behold, thou desirest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom.
 
@@ -40,7 +40,7 @@ The sidelining of the Word hasn't been entirely on purpose. The agenda of the sp
 
 > Ex 17:14 And the LORD said unto Moses, Write this for a memorial in a book, and rehearse it in the ears of Joshua: for I will utterly put out the remembrance of Amalek from under heaven.
 
-> Isa 30:8 ¶ Now go, write it before them in a table, and note it in a book, that it may be for the time to come for ever and ever:
+> Isa 30:8 Now go, write it before them in a table, and note it in a book, that it may be for the time to come for ever and ever:
 
 As a Divine Record it testifies for truth which depending on how we respond to truth, will be a witness for or against us.
 
@@ -48,7 +48,7 @@ As a Divine Record it testifies for truth which depending on how we respond to t
 
 > Jeremiah 2:8&mdash;The priests said not, Where is the LORD? and they that handle the law knew me not: the pastors also transgressed against me, and the prophets prophesied by Baal, and walked after things that do not profit.
 
-**...they that handle the law knew me not:...**
+**&hellip;they that handle the law knew me not:&hellip;**
 
 > John 5:39&mdash;Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.
 
@@ -58,7 +58,7 @@ As a Divine Record it testifies for truth which depending on how we respond to t
 
 Heeding the Words of this book will bring you closer to God and through mixing faith with its promises we are receive the righteousness of God.
 
-> 2 Timothy 2:19 ¶ Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity.
+> 2 Timothy 2:19 Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity.
 
 ### A Covenant Filled with Promises
 
@@ -72,7 +72,7 @@ Heeding the Words of this book will bring you closer to God and through mixing f
 
 ### Memorize It & Believe It
 
-Ps 119:11 ¶ Thy word have I hid in mine heart, that I might not sin against thee. (to hoard; to keep in place; "hide it so as to preserve it place")
+Ps 119:11 Thy word have I hid in mine heart, that I might not sin against thee. (to hoard; to keep in place; "hide it so as to preserve it place")
 
 Receive it. Its for me. It involves me and effects me. Take it to heart and make it part of me.
 
@@ -80,7 +80,7 @@ Receive it. Its for me. It involves me and effects me. Take it to heart and make
 
 Good study habits are a bulwark (a defensive wall) against be led into error. Our approach to Bible study should not be similar to our approach to a textbook, but our study of God's word should be considered an act of worship --- not of knowledge of the God of truth.
 
-Acts 17:10-11&mdash; And the brethren immediately sent away Paul and Silas by night unto **Berea**: who coming thither went into the synagogue of the Jews. 11  These were more noble than those in Thessalonica, in that they received the word with all readiness of mind, and searched the scriptures daily, whether those things were so.
+Acts 17:10-11&mdash; And the brethren immediately sent away Paul and Silas by night unto **Berea**: who coming thither went into the synagogue of the Jews. 11 These were more noble than those in Thessalonica, in that they received the word with all readiness of mind, and searched the scriptures daily, whether those things were so.
 
 ### Share It
 
@@ -92,7 +92,7 @@ Ephesians 4:15 But speaking the truth in love, may grow up into him in all thing
 
 > "The Jesus that men want to see is not the Jesus they really need to see." &mdash;G. Campbell Morgan
 
-> Malachi 2:1-2,7&mdash; ...priests, this commandment is for you. 2 If ye will not hear, and if ye will not lay it to heart, to give glory unto my name, saith the LORD of hosts, I will even send a curse upon you, ...  v.7  For the priest's lips should keep knowledge, and they should seek the law at his mouth: for he is the messenger of the LORD of hosts.
+> Malachi 2:1-2,7&mdash; &hellip;priests, this commandment is for you. 2 If ye will not hear, and if ye will not lay it to heart, to give glory unto my name, saith the LORD of hosts, I will even send a curse upon you, &hellip; v.7 For the priest's lips should keep knowledge, and they should seek the law at his mouth: for he is the messenger of the LORD of hosts.
 
 -----------------------------
 
@@ -122,16 +122,16 @@ The key to victory, peace and liberty is not IN us! It is in God. We sanctify ou
 
 Everything matters to God. God's ministers are to be sanctified.
 
->  Romans 15:16&mdash;That I should be the minister of Jesus Christ to the Gentiles, ministering the gospel of God, that the offering up of the Gentiles might be acceptable, being sanctified by the Holy Ghost.
+> Romans 15:16&mdash;That I should be the minister of Jesus Christ to the Gentiles, ministering the gospel of God, that the offering up of the Gentiles might be acceptable, being sanctified by the Holy Ghost.
 
 Are the ministers we expose our hidden man to, ministering light?
 
 Our song is to be a testimony of an experience with God. 
 
 ---------------
-God’s not dead, [no] He is alive 
-God’s not dead, [no] He is alive 
-God’s not dead, [no] He is alive
+God&apos;s not dead, [no] He is alive 
+God&apos;s not dead, [no] He is alive 
+God&apos;s not dead, [no] He is alive
 
 I feel him in my hands 
 I feel him in my feet 
@@ -165,7 +165,7 @@ OBVIOUS: Irreverence in Christian song is never acceptable worship.
 **The Drinking Song**
 If you feel too serious and kind of blue, I've got a suggestion, just the thing for you! It's a little unconventional, but so much fun, That you won't even mind when people think you're dumb! Just come to the party God is throwing right now, We can all lighten up and show the pagans how Christians have more fun and keep everyone guessing, Since the Holy Ghost sent us the Toronto blessing! 
 
-...the Holy Ghost's got me, and I'm out of control! Now I'm just a party animal grazing at God's trough, I'm a Jesus junkie, and I can't get enough! I'm an alcoholic for that great New Wine, 'Cause the Holy Ghost is pouring, and I'm drinking all the time! Now I laugh like an idiot and bark like a dog, If I don't sober up, I'll likely hop like a frog! ....
+&hellip;the Holy Ghost's got me, and I'm out of control! Now I'm just a party animal grazing at God's trough, I'm a Jesus junkie, and I can't get enough! I'm an alcoholic for that great New Wine, 'Cause the Holy Ghost is pouring, and I'm drinking all the time! Now I laugh like an idiot and bark like a dog, If I don't sober up, I'll likely hop like a frog! &hellip;.
 
 ----------------
 

@@ -10,7 +10,7 @@ Paul gives his credentials:
 
 #### Paul
 
-Paul was born Saul about 1 AD in Tarsus.  Saul is a Hebrew name meaning &quot;demanded; prayed for.&quot; Paul is a Latin name meaning &quot;small; little.&quot; The changing of Saul&apos;s name to Paul is not explained in the Scripture but is simply and matter-of-factly stated in Acts 13:9. There is an undeniable connection between Paul&apos;s Gentile name and his strongly Gentile ministry. (I Timothy 2:7)
+Paul was born Saul about 1 AD in Tarsus. Saul is a Hebrew name meaning &quot;demanded; prayed for.&quot; Paul is a Latin name meaning &quot;small; little.&quot; The changing of Saul&apos;s name to Paul is not explained in the Scripture but is simply and matter-of-factly stated in Acts 13:9. There is an undeniable connection between Paul&apos;s Gentile name and his strongly Gentile ministry. (I Timothy 2:7)
 Saul&apos;s hometown of Tarsus was a great center of learning in the ancient world likened to the cities of Athens and Alexandria, but Saul was raised in Jerusalem under the tutelage of the great teacher Gamaliel, a Pharisee and a member of the Sanhedrin. (Acts 22:3) Gamaliel was a doctor of the Jewish law. (Acts 5:34) It was under the mastery of this great rabbi that Paul was infused with a great zeal for Jewish Law which led to his persecution of Christians. Saul eventually became a member of the Sanhedrin and was also a Pharisee. Saul&apos;s training also made him an expert on Jewish Law. He was well-equipped to answer later on his Christian ministry any accusation or question of the Jews.
 Tarsus was particularly favored by the Roman Empire. Jewish citizens of Tarsus could receive Roman citizenship. Saul of Tarsus was a Roman citizen. The privileges of Roman citizenship included the right to vote, the right to have a legal trial, the right to appeal lower court decision at the higher court levels and in cases of alleged treason the right to be tried in Rome. A Roman citizen could not be tortured, whipped or condemned to death unless convicted of treason. In Acts 22, Paul&apos;s Roman citizenship prevented his death and even a scourging.
 
@@ -18,7 +18,7 @@ Tarsus was particularly favored by the Roman Empire. Jewish citizens of Tarsus c
 
 Paul, a free-born Roman citizen chooses to identify himself as a doulos or &quot;bond-servant&quot; of Jesus Christ. A &quot;bond-servant&quot; is one bound to another by honorable ties for life. The New American Standard Bible Greek Lexicon includes the following statement in its definition of &quot;doulos&quot;: &quot;devoted to another to the disregard of one's own interests.&quot;
 The writers of the New Testament used the title &quot;servant&quot; often as a name by which they expected to be known. Christ commanded His disciples in Mark 10:44, &quot;And whosoever of you will be the chiefest, shall be servant of all.&quot; Paul&apos;s writing of Romans was with great authority not because of his credentials, but because of His Master Whose ambassador he was. Paul made his plea known based on Christ&apos;s Lordship and the blessing of the Believer&apos;s voluntary service to Him. Paul&apos;s heart and spirit rang in trueness with John the Baptist&apos;s declaration and was a world apart from the theologians and &quot;Doctors of Divinity&quot; who strive for masteries. John the Baptist declared speaking of Christ in John 3:30, &quot;He must increase, but I must decrease.&quot; The heart of a true servant exalts its Lord and not itself.
-A teacher asked, &quot;How can you tell if you have a servant attitude?&quot; &quot;By the way you react when you are treated like one,&quot; was the reply.  As a servant of the master, you must be willing to take all that the Master has taken (John 15:18; 17:14).  Sometimes we might have to wash windows, or even someone&apos;s feet. Christ wants more than just words (John 13:5-17). If you want to be great in the Kingdom, learn to be the servant of all!
+A teacher asked, &quot;How can you tell if you have a servant attitude?&quot; &quot;By the way you react when you are treated like one,&quot; was the reply. As a servant of the master, you must be willing to take all that the Master has taken (John 15:18; 17:14). Sometimes we might have to wash windows, or even someone&apos;s feet. Christ wants more than just words (John 13:5-17). If you want to be great in the Kingdom, learn to be the servant of all!
 Paul is a slave to the &quot;savior&quot; (not the &quot;king&quot;). He tells us more in chapter 12.
 
 #### Called to be an Apostle
@@ -33,7 +33,7 @@ An apostle is one who has been SENT FORTH as a messenger or representative of an
 
 ##### &quot;Unto the Gospel of God&quot;
 
-Paul was a &quot;preacher of the Gospel&quot;. He was a separated messenger with a special Message. The Gospel is a mystery (Mark 4:11; I Tim. 3:9,16; Col. 2:2; 4:3; Eph. 1:9) and a Divine revelation.  (Acts 9).
+Paul was a &quot;preacher of the Gospel&quot;. He was a separated messenger with a special Message. The Gospel is a mystery (Mark 4:11; I Tim. 3:9,16; Col. 2:2; 4:3; Eph. 1:9) and a Divine revelation. (Acts 9).
 
 Absolute consecration is spoken of in these words. Paul was set apart to preach one message and only one message. Paul did not declare a message that exalted himself nor did he do a work to further his position in the eyes of men. Paul declares that his purpose in life was the Gospel of God, and so should this be our purpose as ministers of the Gospel.
 
@@ -43,10 +43,10 @@ Absolute consecration is spoken of in these words. Paul was set apart to preach 
 
 Paul&apos;s message is the Gospel. The Gospel does not originate from Paul and is wholly concerned with Jesus Christ: our Lord, seed of David, Son of God, resurrected.
 
-#### Preached by His Apostles          	vs. 1,5
-#### Promised &quot;by his prophets&quot;         vs. 2 (Isa. 53:11; Jer. 23:6; 33:16)
+#### Preached by His Apostles 	vs. 1,5
+#### Promised &quot;by his prophets&quot; vs. 2 (Isa. 53:11; Jer. 23:6; 33:16)
 #### Made of the Seed of David			vs. 3
-#### Revealed through the Holy Ghost    vs. 4
+#### Revealed through the Holy Ghost vs. 4
 
 NOTE: The Gospel does not rest on the incarnation, but on the resurrection of Christ.
 
@@ -94,7 +94,7 @@ Notice the italics in this clause. The Greek word translated &quot;called&quot; 
 
 #### Grace to you and peace from God our Father, and the Lord Jesus Christ.
 
-This is a common greeting of Paul in his epistles. The title &quot;Jesus Christ our Lord&quot; or &quot;Lord Jesus Christ&quot; is used ten times in Romans. Jesus is the personal name as Savior. Matt. 1:21. Christ is &quot;God&apos;s anointed one&quot; Lord denotes He is Lord of all things in heaven and earth (Acts 10:36).  Jesus Christ our Lord is the Master of every situation!
+This is a common greeting of Paul in his epistles. The title &quot;Jesus Christ our Lord&quot; or &quot;Lord Jesus Christ&quot; is used ten times in Romans. Jesus is the personal name as Savior. Matt. 1:21. Christ is &quot;God&apos;s anointed one&quot; Lord denotes He is Lord of all things in heaven and earth (Acts 10:36). Jesus Christ our Lord is the Master of every situation!
 
 
 
@@ -119,11 +119,11 @@ Verses 8-15 express Paul&apos;s personal feelings for the Roman saints.
 
 The whole world is in reference to the domain of the Roman Empire which often referred to itself as the whole world. It was Augustus who made the decree at the birth of Christ that the whole world should be taxed, which was in reference to the dominions of Rome.
 
-The faith of the saints in Rome was spoken of throughout the entire Empire. These Roman Christians are the "Beloved of God", "Called to be saints",  and recipients of the grace and peace "from God our Father, and the Lord Jesus Christ. Their testimony bears out that they are separated unto God and represent the King of Glory. What a treasure a good testimony is! Paul stands on the battleground in prayer that their faith and testimony would continue.
+The faith of the saints in Rome was spoken of throughout the entire Empire. These Roman Christians are the "Beloved of God", "Called to be saints", and recipients of the grace and peace "from God our Father, and the Lord Jesus Christ. Their testimony bears out that they are separated unto God and represent the King of Glory. What a treasure a good testimony is! Paul stands on the battleground in prayer that their faith and testimony would continue.
 
 ### He has a great desire to visit the Roman saints and impart spiritual gifts unto them because of his motive to see the church established. Vs. 10,11,12
 
-Rome was strategic, but Paul is led by the Spirit and not statistics. It is probable that Paul realized the strategic value of building up the church in the capital city of the Roman Empire, but Paul was a caliber of minister that would invest as heavily in a city no one ever heard of. He was blessed to hear that there were saints in Rome and desired to visit them to do his part to strengthen the church there.  
+Rome was strategic, but Paul is led by the Spirit and not statistics. It is probable that Paul realized the strategic value of building up the church in the capital city of the Roman Empire, but Paul was a caliber of minister that would invest as heavily in a city no one ever heard of. He was blessed to hear that there were saints in Rome and desired to visit them to do his part to strengthen the church there. 
 
 It is logical that a Revival in the city of Rome would have impact on the entire Empire, but the truth is, anywhere God manifests is power could potentially turn the world on his head.
 

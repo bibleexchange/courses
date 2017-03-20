@@ -70,7 +70,7 @@ John was searching while the established religious were full.
 
 Not Having it all Figured Out is an opportunity for God to do what He does best!
 
-2Co 3:12 ¶ Seeing then that we have such hope, we use **great plainness of speech***:
+2Co 3:12 Seeing then that we have such hope, we use **great plainness of speech***:
  13 And not as Moses, which put a vail over his face, that the children of Israel could not stedfastly look to the end of that which is abolished:
  14 But their minds were blinded: for until this day remaineth the same vail untaken away in the reading of the old testament; which vail is done away in Christ.
  15 But even unto this day, when Moses is read, the vail is upon their heart.

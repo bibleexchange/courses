@@ -32,7 +32,7 @@ The special blessing promised to those who hear and keep the sayings of Revelati
 
 > Revelation 1:3&mdash;Blessed is he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time is at hand.
 
->  Revelation 22:7&mdash;Behold, I come quickly: blessed is he that keepeth the sayings of the prophecy of this book.
+> Revelation 22:7&mdash;Behold, I come quickly: blessed is he that keepeth the sayings of the prophecy of this book.
 
 Is there another Book that is so intense, emphatic, constant or having so much good in it to be gained and ill to be avoided?
 
@@ -58,7 +58,7 @@ See the stress, Urgency, Importance. This Book is very important to us.
 
 ## The Effects of This Revelation (v. 11)
 
->  Revelation 22:11 He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still.
+> Revelation 22:11 He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still.
 
 There are two schools of thought here --
 

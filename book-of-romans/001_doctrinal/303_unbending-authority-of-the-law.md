@@ -15,7 +15,7 @@ Who is a sinner? We have proven both Jew and Gentile to be under sin as ALL are 
 ### The witness of creation &mdash; 1:20
 ### The witness of conscience &mdash; 2:15
 ### The witness of commandment &mdash; 3:19
-                                                  
+ 
 ## The indictment is read from the Scriptures. &mdash; vs. 10-18
 
 ### According to the rules of the court the indictment had to be written.

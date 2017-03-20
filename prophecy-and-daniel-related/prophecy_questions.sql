@@ -15,12 +15,12 @@
 <h2>What is prophecy?</h2>
 <h3>The telling of history before it happens.</h3>
 <h2>What is meant by prophecy being two-fold?</h2>
-<h3>It is predictive—foresight; foretelling</h3>
-<h3>It is descriptive—insight; forthtelling</h3>
+<h3>It is predictive&mdash;foresight; foretelling</h3>
+<h3>It is descriptive&mdash;insight; forthtelling</h3>
 <h2>Is prophecy reasoned discourse?</h2>
 <h3>No it is the utterance of the Holy Ghost.</h3>
 <h2>Give verbatim II Peter 1:21.</h2>
-<h3>2 Peter 1:21—For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost.</h3>
+<h3>2 Peter 1:21&mdash;For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost.</h3>
 <h2>Why do we study prophecy?</h2>
 <h3>That we may know God&apos;s plan.</h3>
 <h3>That we may understand the future.</h3>
@@ -32,7 +32,7 @@
 <h2>To whom is prophecy written?</h2>
 <h3>Prophecy is written to Jews Gentiles and the Church.</h3>
 <h2>Give verbatim I Cor. 10:32.</h2>
-<h3>I Cor. 10:32—Give none offence neither to the Jews nor to the Gentiles nor to the church of God:</h3>
+<h3>I Cor. 10:32&mdash;Give none offence neither to the Jews nor to the Gentiles nor to the church of God:</h3>
 /*---------------------------------------------------------------*/
 <h1>Quiz 1</h1>
 <h2>1. What type of a book is the Bible?</h2>
@@ -46,8 +46,8 @@
 <h2>5. What is prophecy?</h2>
 <p>The telling of history before it happens.</p>
 <h2>6. What is meant by prophecy being two-fold?</h2>
-<p>1. It is predictive—foresight; foretelling</p>
-<p>2. It is descriptive—insight; forthtelling</p>
+<p>1. It is predictive&mdash;foresight; foretelling</p>
+<p>2. It is descriptive&mdash;insight; forthtelling</p>
 <p>7. Is prophecy reasoned discourse?</p>
 <p>No it is the utterance of the Holy Ghost.</p>
 <h2>8. Why do we study prophecy?</h2>
@@ -59,7 +59,7 @@
 <p>2. It must have been made known prior to its fulfillment.</p>
 <p>3. It must have a clear detailed fulfillment.</p>
 <p>10. Give verbatim I Cor. 10:32.</p>
-<p>I Cor. 10:32—Even as I please all men in all things not seeking mine own profit but the profit of many that they may be saved.</p>
+<p>I Cor. 10:32&mdash;Even as I please all men in all things not seeking mine own profit but the profit of many that they may be saved.</p>
 /*--------------------------------------------------------*/
 <h2>Quiz 1</h2>
 <h2>1. What type of a book is the Bible?</h2>
@@ -73,8 +73,8 @@
 <h2>5. What is prophecy?</h2>
 <p>The telling of history before it happens.</p>
 <h2>6. What is meant by prophecy being two-fold?</h2>
-<p>1. It is predictive—foresight; foretelling</p>
-<p>2. It is descriptive—insight; forthtelling</p>
+<p>1. It is predictive&mdash;foresight; foretelling</p>
+<p>2. It is descriptive&mdash;insight; forthtelling</p>
 <p>7. Is prophecy reasoned discourse?</p>
 <p>No it is the utterance of the Holy Ghost.</p>
 <h2>8. Why do we study prophecy?</h2>
@@ -86,7 +86,7 @@
 <p>2. It must have been made known prior to its fulfillment.</p>
 <p>3. It must have a clear detailed fulfillment.</p>
 <p>10. Give verbatim I Cor. 10:32.</p>
-<p>I Cor. 10:32—Even as I please all men in all things not seeking mine own profit but the profit of many that they may be saved.</p>
+<p>I Cor. 10:32&mdash;Even as I please all men in all things not seeking mine own profit but the profit of many that they may be saved.</p>
 <h2>Quiz 2</h2>
 <h2>1. What is the first recorded age prophetic of?</h2>
 <p>The first recorded age is prophetic of every other age.</p>
@@ -101,7 +101,7 @@
 <p>3. Instruments Invented</p>
 <p>4. Discoveries Made</p>
 <p>4. Who were the two classes of people under the Age of Separation?</p>
-<p>Cainites—the worldy &amp; Sethites—the Godly</p>
+<p>Cainites&mdash;the worldy &amp; Sethites&mdash;the Godly</p>
 <h2>5. What was the warning of judgment an act of?</h2>
 <p>The warning was an act of grace.</p>
 <h2>6. What was the Ark a type of?</h2>
@@ -135,7 +135,7 @@
 <p>9. Is prophecy confined to certain books in the Bible?</p>
 <p>No it is not confined to just certain books of the Bible.</p>
 <h2>10. What is the first recorded prophecy in the Bible?</h2>
-<p>Genesis 3:15—And I will put enmity between thee and the woman and between thy seed and her seed; it shall bruise thy head and thou shalt bruise his heel.</p>
+<p>Genesis 3:15&mdash;And I will put enmity between thee and the woman and between thy seed and her seed; it shall bruise thy head and thou shalt bruise his heel.</p>
 <p></p>
 <p></p>
 <h2>Quiz 4</h2>
@@ -153,7 +153,7 @@
 <h2>7. Explain what Zionism is.</h2>
 <p>It is a nationally attempted restoration of Israel. It is a restoration in unbelief.</p>
 <p>8. Into how many classes of people has the seed of Abraham been divided?</p>
-<p>Into two classes: Isaac or Ishmael—Promise or Flesh.</p>
+<p>Into two classes: Isaac or Ishmael&mdash;Promise or Flesh.</p>
 <h2>9. What are the results of His coming? (Name at least 4)</h2>
 <p>Change in the animal world.</p>
 <p>Earth full of the knowledge of the Lord.</p>
@@ -163,7 +163,7 @@
 <p>Israel will be re-gathered and restored</p>
 <h2>10. What does the valley of dry bones speak of? The whole house of Israel.</h2>
 <p></p>
-<h2>QUIZ 5 – Daniel Chapters 1 &amp; 2</h2>
+<h2>QUIZ 5 &mdash; Daniel Chapters 1 &amp; 2</h2>
 <h6>1) Tell what you know about the truth of the book of Daniel.</h6>
 <p>Daniel was divinely inspired to write it and it is prominently prophetic.</p>
 <h6>2) Who was a contemporary of Daniel? Ezekiel was a contemporary of Daniel.</h6>
@@ -227,8 +227,8 @@
 <h2>5. What is prophecy?</h2>
 <p>The telling of history before it happens.</p>
 <h2>6. What is meant by prophecy being two-fold?</h2>
-<p>1. It is predictive—foresight; foretelling</p>
-<p>2. It is descriptive—insight; forthtelling</p>
+<p>1. It is predictive&mdash;foresight; foretelling</p>
+<p>2. It is descriptive&mdash;insight; forthtelling</p>
 <p>7. Is prophecy reasoned discourse?</p>
 <p>No it is the utterance of the Holy Ghost.</p>
 <h2>8. Why do we study prophecy?</h2>
@@ -240,7 +240,7 @@
 <p>2. It must have been made known prior to its fulfillment.</p>
 <p>3. It must have a clear detailed fulfillment.</p>
 <p>10. Give verbatim I Cor. 10:32.</p>
-<p>I Cor. 10:32—Even as I please all men in all things not seeking mine own profit but the profit of many that they may be saved.</p>
+<p>I Cor. 10:32&mdash;Even as I please all men in all things not seeking mine own profit but the profit of many that they may be saved.</p>
 <h2>Quiz 2</h2>
 <h2>1. What is the first recorded age prophetic of?</h2>
 <p>The first recorded age is prophetic of every other age.</p>
@@ -255,7 +255,7 @@
 <p>3. Instruments Invented</p>
 <p>4. Discoveries Made</p>
 <p>4. Who were the two classes of people under the Age of Separation?</p>
-<p>Cainites—the worldy &amp; Sethites—the Godly</p>
+<p>Cainites&mdash;the worldy &amp; Sethites&mdash;the Godly</p>
 <h2>5. What was the warning of judgment an act of?</h2>
 <p>The warning was an act of grace.</p>
 <h2>6. What was the Ark a type of?</h2>
@@ -289,7 +289,7 @@
 <p>9. Is prophecy confined to certain books in the Bible?</p>
 <p>No it is not confined to just certain books of the Bible.</p>
 <h2>10. What is the first recorded prophecy in the Bible?</h2>
-<p>Genesis 3:15—And I will put enmity between thee and the woman and between thy seed and her seed; it shall bruise thy head and thou shalt bruise his heel.</p>
+<p>Genesis 3:15&mdash;And I will put enmity between thee and the woman and between thy seed and her seed; it shall bruise thy head and thou shalt bruise his heel.</p>
 <p></p>
 <p></p>
 <h2>Quiz 4</h2>
@@ -307,7 +307,7 @@
 <h2>7. Explain what Zionism is.</h2>
 <p>It is a nationally attempted restoration of Israel. It is a restoration in unbelief.</p>
 <p>8. Into how many classes of people has the seed of Abraham been divided?</p>
-<p>Into two classes: Isaac or Ishmael—Promise or Flesh.</p>
+<p>Into two classes: Isaac or Ishmael&mdash;Promise or Flesh.</p>
 <h2>9. What are the results of His coming? (Name at least 4)</h2>
 <p>Change in the animal world.</p>
 <p>Earth full of the knowledge of the Lord.</p>
@@ -337,7 +337,7 @@
 <h3>3. Instruments Invented</h3>
 <h3>4. Discoveries Made</h3>
 <h2>4. Who were the two classes of people under the Age of Separation?</h2>
-<h3>Cainites—the worldy &amp; Sethites—the Godly</h3>
+<h3>Cainites&mdash;the worldy &amp; Sethites&mdash;the Godly</h3>
 <h2>5. What was the warning of judgment an act of?</h2>
 <h3>The warning was an act of grace.</h3>
 <h2>6. What was the Ark a type of?</h2>
@@ -356,7 +356,7 @@
 <h3>When he is gone it will come</h3>
 <h1 id='_Future'>The Future</h1>
 <h2>Human Attempts to Know the Future</a></h2>
-<p>Attempts to know the future are found in all peoples. It is a natural desire in the heart of man to know the future. Astrology attempts to interpret the motion of heavenly bodies as signs of the future and astrologers are sometimes called stargazers. Astrology should not be confused with Astronomy which is based on scientific facts. (The Lord Himself will give a sign… Isa. 7:14)</p>
+<p>Attempts to know the future are found in all peoples. It is a natural desire in the heart of man to know the future. Astrology attempts to interpret the motion of heavenly bodies as signs of the future and astrologers are sometimes called stargazers. Astrology should not be confused with Astronomy which is based on scientific facts. (The Lord Himself will give a sign&hellip; Isa. 7:14)</p>
 <p>Divination, Witchcraft, Sorcerers, Enchanters, Necromancers, Spiritism</p>
 /*---------------------------*/
 <h2>Quiz 2</h2>
@@ -373,7 +373,7 @@
 <p>3. Instruments Invented</p>
 <p>4. Discoveries Made</p>
 <p>4. Who were the two classes of people under the Age of Separation?</p>
-<p>Cainites—the worldy &amp; Sethites—the Godly</p>
+<p>Cainites&mdash;the worldy &amp; Sethites&mdash;the Godly</p>
 <h2>5. What was the warning of judgment an act of?</h2>
 <p>The warning was an act of grace.</p>
 <h2>6. What was the Ark a type of?</h2>
@@ -399,11 +399,11 @@
 <h3>Astronomy is based on scientific fact and the observation of stars and other heavenly bodies.</h3>
 <h2>5. Tell something about each of the following: Divination, witchcraft, 
 sorcerers, necromancers, spiritism.</h2>
-<h3>·Divination – foretelling of future events</h3>
-<h3>·Witchcraft – interaction with evil spirits</h3>
-<h3>·Sorcerers – demon possession and control</h3>
-<h3>·Necromancers –communicate with the dead in attempt to tell the future</h3>
-<h3>·Spiritism – communicating with spirits of the dead by phenomena</h3>
+<h3>·Divination &mdash; foretelling of future events</h3>
+<h3>·Witchcraft &mdash; interaction with evil spirits</h3>
+<h3>·Sorcerers &mdash; demon possession and control</h3>
+<h3>·Necromancers &mdash;communicate with the dead in attempt to tell the future</h3>
+<h3>·Spiritism &mdash; communicating with spirits of the dead by phenomena</h3>
 <h2>6. Is man simply a creature of time?</h2>
 <h3>No he is an endless being and more than just a creature of time.</h3>
 <h2>7. What is man?</h2>
@@ -417,7 +417,7 @@ sorcerers, necromancers, spiritism.</h2>
 <h2>11. Is prophecy confined to certain books in the Bible?</h2>
 <h3>No it is not confined to just certain books of the Bible.</h3>
 <h2>12. What is the first recorded prophecy in the Bible?</h2>
-<h3>Genesis 3:15—And I will put enmity between thee and the woman and between thy seed and her seed; it shall bruise thy head and thou shalt bruise his heel.</h3>
+<h3>Genesis 3:15&mdash;And I will put enmity between thee and the woman and between thy seed and her seed; it shall bruise thy head and thou shalt bruise his heel.</h3>
 /*-----------------------------------*/
 <h2>Quiz 3</h2>
 <h2>1. What is the natural desire in the hearts of men?</h2>
@@ -439,7 +439,7 @@ sorcerers, necromancers, spiritism.</h2>
 <p>9. Is prophecy confined to certain books in the Bible?</p>
 <p>No it is not confined to just certain books of the Bible.</p>
 <h2>10. What is the first recorded prophecy in the Bible?</h2>
-<p>Genesis 3:15—And I will put enmity between thee and the woman and between thy seed and her seed; it shall bruise thy head and thou shalt bruise his heel.</p>
+<p>Genesis 3:15&mdash;And I will put enmity between thee and the woman and between thy seed and her seed; it shall bruise thy head and thou shalt bruise his heel.</p>
 
 
 
@@ -462,11 +462,11 @@ sorcerers, necromancers, spiritism.</h2>
 <h2>8. Why will God allow the Great Tribulation?</h2>
 <h3>God will allow the Great Tribulation on account of Israel&apos;s apostasy.</h3>
 <h2>9. To whom did God promise the land of Palestine?</h2>
-<h3>To the Jews—Abraham and his seed through Isaac.</h3>
+<h3>To the Jews&mdash;Abraham and his seed through Isaac.</h3>
 <h2>10. Explain what Zionism is.</h2>
 <h3>It is a nationally attempted restoration of Israel. It is a restoration in unbelief.</h3>
 <h2>11. Into how many classes of people has the seed of Abraham been divided?</h2>
-<h3>Into two classes: Isaac or Ishmael—Promise or Flesh.</h3>
+<h3>Into two classes: Isaac or Ishmael&mdash;Promise or Flesh.</h3>
 <h2>12. Is there any hope of Israel&apos;s restoration?</h2>
 <h3>Yes it absolutely will happen they return to the Lord and obey Him.</h3>
 <h2>13. What is the key to their blessing and glory? </h2>
@@ -496,7 +496,7 @@ sorcerers, necromancers, spiritism.</h2>
 <h2>7. Explain what Zionism is.</h2>
 <p>It is a nationally attempted restoration of Israel. It is a restoration in unbelief.</p>
 <p>8. Into how many classes of people has the seed of Abraham been divided?</p>
-<p>Into two classes: Isaac or Ishmael—Promise or Flesh.</p>
+<p>Into two classes: Isaac or Ishmael&mdash;Promise or Flesh.</p>
 <h2>9. What are the results of His coming? (Name at least 4)</h2>
 <p>Change in the animal world.</p>
 <p>Earth full of the knowledge of the Lord.</p>
@@ -506,7 +506,7 @@ sorcerers, necromancers, spiritism.</h2>
 <p>Israel will be re-gathered and restored</p>
 <h2>10. What does the valley of dry bones speak of? The whole house of Israel.</h2>
 <p></p>
-<h2>QUIZ 5 – Daniel Chapters 1 &amp; 2</h2>
+<h2>QUIZ 5 &mdash; Daniel Chapters 1 &amp; 2</h2>
 <h6>18) Tell what you know about the truth of the book of Daniel.</h6>
 <p>Daniel was divinely inspired to write it and it is prominently prophetic.</p>
 <h6>19) Who was a contemporary of Daniel? Ezekiel was a contemporary of Daniel.</h6>
@@ -563,7 +563,7 @@ sorcerers, necromancers, spiritism.</h2>
 
 
 /* SQ 5 */
-<h2>Study Questions 5 – Daniel Chapters 1 &amp; 2</h2>
+<h2>Study Questions 5 &mdash; Daniel Chapters 1 &amp; 2</h2>
 <h6>1) Tell what you know about the truth of the book of Daniel.</h6>
 <p>Daniel was divinely inspired to write it and it is prominently prophetic.</p>
 <h6>2) Who was a contemporary of Daniel? Ezekiel was a contemporary of Daniel.</h6>
@@ -585,7 +585,7 @@ sorcerers, necromancers, spiritism.</h2>
 <h6>13) What were the two languages used in Daniel and why are two languages used?</h6>
 <p>What concerns gentiles is written in Aramaic and what is written concerning Jews is written in Hebrew.</p>
 <h6>14) Who is the book all about?    The book is all about Daniel</h6>
-<h6>15) What is the book likened to? It is like a diary—Daniel&apos;s diary.</h6>
+<h6>15) What is the book likened to? It is like a diary&mdash;Daniel&apos;s diary.</h6>
 <h6>16) What does Daniel mean what was his name changed to and what is its meaning? Daniel means God is my change. His name was changed to Belteshazzar meaning Bell: protector of life.</h6>
 <h6>17) What does Hananiah mean what was his name changed to and what is its meaning?</h6>
 <h6>Hananiah means Jehovah is gracious. His name was changed to Shadrach meaning command of Aku (moon god)</h6>
@@ -596,8 +596,8 @@ sorcerers, necromancers, spiritism.</h2>
 <h6>20) What was the test Daniel and his friends were put to?</h6>
 <h6>For 10 days they were to not eat the king&apos;s meat and wine but pulse and water.</h6>
 <h6>21) What were the results after the test?</h6>
-<h6>1.In the face—character comes out in fire</h6>
-<p>2. In the head—God made them ten times better!</p>
+<h6>1.In the face&mdash;character comes out in fire</h6>
+<p>2. In the head&mdash;God made them ten times better!</p>
 <h6>22) What was the King&apos;s distress?     He was troubled about the future and his dream.</h6>
 <h6>23) What was the King&apos;s desire? To know the dream and its interpretation.</h6>
 <h6>24) What was the King&apos;s dilemma?</h6>
@@ -612,10 +612,10 @@ sorcerers, necromancers, spiritism.</h2>
 <h6>31) What was the dream Nebuchadnezzar had in detail?</h6>
 <h6>There were two main features: 1) an image and 2) a stone.</h6>
 <h6>32) What was the dream in design?</h6>
-<h6>Give by God to Nebuchadnezzar concerning the last days—all about kingdoms.</h6>
+<h6>Give by God to Nebuchadnezzar concerning the last days&mdash;all about kingdoms.</h6>
 <h6>33) What was the dream in destiny?There was to be a procession of empires with each following empire less than the previous.</h6>
 /*--------------------------------------------------------------------*/
-<h2>QUIZ 5 – Daniel Chapters 1 &amp; 2</h2>
+<h2>QUIZ 5 &mdash; Daniel Chapters 1 &amp; 2</h2>
 <h6>1) Tell what you know about the truth of the book of Daniel.</h6>
 <p>Daniel was divinely inspired to write it and it is prominently prophetic.</p>
 <h6>2) Who was a contemporary of Daniel? Ezekiel was a contemporary of Daniel.</h6>
@@ -654,7 +654,7 @@ sorcerers, necromancers, spiritism.</h2>
 
 
 /* SQ 6 */
-<h2  >Study Questions 6</h2>
+<h2 >Study Questions 6</h2>
 <h2>1.What was Nebuchadnezzar&apos;s decree concerning the image that he had made?</h2>
 <h3>When music played all were to fall down and worship the golden image or be burned.</h3>
 <h2>2.Why did he make the image? The downfall of his kingdom had been foretold therefore he sought to strengthen it and it was out of pride the image was of himself.</h2>
@@ -772,13 +772,13 @@ sorcerers, necromancers, spiritism.</h2>
 <p>15. Can man know the future? (Explain your answer.)</p>
 <p>Through the Bible and the Holy Ghost but never apart from them.</p>
 <h2>16. What is the first recorded prophecy in the Bible?</h2>
-<p>Genesis 3:15—And I will put enmity between thee and the woman and between thy seed and her seed; it shall bruise thy head and thou shalt bruise his heel.</p>
+<p>Genesis 3:15&mdash;And I will put enmity between thee and the woman and between thy seed and her seed; it shall bruise thy head and thou shalt bruise his heel.</p>
 <h2>17. Tell what you know about the truth of the book of Daniel.</h2>
 <p>Daniel was divinely inspired to write it and it is prominently prophetic.</p>
 <p></p>
 <p>18. Who was a contemporary of Daniel? Ezekiel was a contemporary of Daniel.</p>
 <p></p>
-<h2>19. What is the book likened to? It is like a diary—Daniel&apos;s diary.</h2>
+<h2>19. What is the book likened to? It is like a diary&mdash;Daniel&apos;s diary.</h2>
 <h2>20. Why is the hook of Daniel different from the other prophetic books?</h2>
 <p>In Daniel God is not speaking to His own people.</p>
 <h2>21. What were the two languages used in Daniel and why are two languages used?</h2>

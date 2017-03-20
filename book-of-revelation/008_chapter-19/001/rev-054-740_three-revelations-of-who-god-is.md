@@ -22,15 +22,15 @@ It is not God's fault humanity does not truly KNOW Him. It is the fault of our l
 
 Will I believe God is Who He says He is? Will I take Him at His Word? Will I pattern my life on the foundation of a faith that says, "God is True and Faithful?"
 
-Today that faith is  developed and tested, but one day it will be rewarded!
+Today that faith is developed and tested, but one day it will be rewarded!
 
 Blinded very young, hymn-writer Francis Jane Crosby (1820-1915) began writing poetry as young girl. At the age of eight she wrote these words: 
 
-<blockquote class="quote">Oh, what a happy soul am I! Although I cannot see,<br> I am resolved that in this world, contented I will be.<br> How many blessings I enjoy that other people don’t;<br> To weep and sigh because I am blind, I cannot, and I won’t.</blockquote>
+<blockquote class="quote">Oh, what a happy soul am I! Although I cannot see,<br> I am resolved that in this world, contented I will be.<br> How many blessings I enjoy that other people don&apos;t;<br> To weep and sigh because I am blind, I cannot, and I won&apos;t.</blockquote>
 
-Once a well-intentioned Scottish minister remarked to her: “I think it is a great pity that the master, when He showed so many gifts upon you, did not give you sight.” She responded, “Do you know that if at birth I had been able to make one petition to my Creator, it would have been that I should be born blind?”
-“Why?” asked the surprised minister.
-“Because, when I get to heaven, the first face that shall ever gladden my sight will be that of my Savior.”
+Once a well-intentioned Scottish minister remarked to her: &quot;I think it is a great pity that the master, when He showed so many gifts upon you, did not give you sight.&quot; She responded, &quot;Do you know that if at birth I had been able to make one petition to my Creator, it would have been that I should be born blind?&quot;
+&quot;Why?&quot; asked the surprised minister.
+&quot;Because, when I get to heaven, the first face that shall ever gladden my sight will be that of my Savior.&quot;
 
 In her hymn "My Savior First of All", she wrote&hellip;
 
@@ -78,13 +78,13 @@ v.6 the voice of a great multitude, and as the voice of many waters, and as the 
 
 ### He is the Words of the Song
 
-...saying, Alleluia; Salvation, and glory, and honour, and power, unto the Lord our God:
+&hellip;saying, Alleluia; Salvation, and glory, and honour, and power, unto the Lord our God:
 
 #### Alleluia/Hallelujah
 
 The Hebrew word "halal" [STRONG's 01984] in relation to God means to be clear of sound or color or to shine. Therefore, it means to make a show, to boast or to celebrate. 'Halal' can be found in 140 verses in the O.T.
 
-"Halal" [Hallelujah] is common in the Psalms where it is mostly translated "Praise Ye the LORD"  (Psalm 105:45; 106:1; 106:48; 111:1; 112:1; 113:1; 146:1; 148:1; 149:1; 150:1).
+"Halal" [Hallelujah] is common in the Psalms where it is mostly translated "Praise Ye the LORD" (Psalm 105:45; 106:1; 106:48; 111:1; 112:1; 113:1; 146:1; 148:1; 149:1; 150:1).
 
 > Psalm 150:1&mdash;Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power.
 
@@ -120,10 +120,10 @@ The Lamb will be Wed
  
 <bookmark id="third"/>
 ## The Lion Who will Return in Judgment (vs. 11-21)
-> 11 ¶ And I saw heaven opened, and behold a white horse; and he that sat upon him was called Faithful and True, and in righteousness he doth judge and make war.
+> 11 And I saw heaven opened, and behold a white horse; and he that sat upon him was called Faithful and True, and in righteousness he doth judge and make war.
 
 ### The Mystery of His Name
- 12  His eyes were as a flame of fire, and on his head were many crowns; and he had a name written, that no man knew, but he himself.
+ 12 His eyes were as a flame of fire, and on his head were many crowns; and he had a name written, that no man knew, but he himself.
  
  (to his enemies: you don't even know me! (contrast on the cross, the sign written over His head! Mt 27:29 And when they had platted a crown of thorns, they put it upon his head, and a reed in his right hand: and they bowed the knee before him, and mocked him, saying, Hail, King of the Jews!
  Mt 27:37 And set up over his head his accusation written, THIS IS JESUS THE KING OF THE JEWS.)

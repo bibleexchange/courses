@@ -36,7 +36,7 @@ BOTH FROM THE SAME ROOTS: 2095 & 32
 
 ((OFFICE & FUNCTION: Mother, Motherly -- Prophet, Prophesy -- Leader, Lead))
 
--  to lead; to bring, drive, induce:--be, bring (forth), carry, (let) go, keep, lead away, be open.
+- to lead; to bring, drive, induce:--be, bring (forth), carry, (let) go, keep, lead away, be open.
 
 ### The Gospel and its Effects is Illustrated in the life of the Believer
 
@@ -52,7 +52,7 @@ We make clear distinction between the Gospel and the life of the Evangelist. The
 
 > HOUSE CAUGHT ON FIRE == HOME BIBLE STUDY THAT NIGHT & MEAL == "That night we experienced the Gospel" As the Body of Christ, they brought His presence and His family into our home when we needed His presence and His people the most.
 
-BECAUSE ...
+BECAUSE &hellip;
 
 ### The Gospel is first to be Believed (Experienced)
 
@@ -61,20 +61,20 @@ BECAUSE ...
 
 ### The Gospel is first to be Believed then Shared
 
-> Charles Spurgeon (mid-1800’s) was known for his bold evangelistic style of preaching. In fact, he is credited (along with George Whitfield, Charles Finney, and others) with the “altar call” or “invitation” moment that became popular in many churches. On one occasion a woman challenged him, saying she didn’t like his way of evangelism. As he talked to her, he asked **how she shared with Christ others** and over the course of the conversation she had to admit that **she really didn’t**. To that, Spurgeon answered, **“Well, I like my way better than yours.”**
+> Charles Spurgeon (mid-1800&apos;s) was known for his bold evangelistic style of preaching. In fact, he is credited (along with George Whitfield, Charles Finney, and others) with the &quot;altar call&quot; or &quot;invitation&quot; moment that became popular in many churches. On one occasion a woman challenged him, saying she didn&apos;t like his way of evangelism. As he talked to her, he asked **how she shared with Christ others** and over the course of the conversation she had to admit that **she really didn&apos;t**. To that, Spurgeon answered, **&quot;Well, I like my way better than yours.&quot;**
 
 How is the Believer to Share?
 
 #### "I have responded to a Divine call to action and you can as well."
 
->  John 3:11 Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness.
+> John 3:11 Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness.
 
 - Is it merely an Academic debate for you that Jesus died to save sinners? 
 - Or, is the Gospel a **CALL to ACTION** to you?
 
 #### Speak the Truth In Love
 
->  Ephesians 4:15 But speaking the truth in love, may grow up into him in all things, which is the head, even Christ: 
+> Ephesians 4:15 But speaking the truth in love, may grow up into him in all things, which is the head, even Christ: 
 
 ##### Truth is the Word, Doctrine "simply what the Bible says"
 
@@ -96,10 +96,10 @@ NOT A SERMON ??? "Preaching Not Sermonizing"
 ##### LOVE
 
 AT LEAST 6 *STYLES* OF EVANGELIZING: 
-1. Direct Style   Peter- Acts 2
+1. Direct Style Peter- Acts 2
 2. Intellectual Style Paul- Acts 17 
-3. Testimonial Style  Blind man- John 9
-4. Interpersonal Style  Matthew - Luke 5:29 (Generally a warm personality, conversational, friendship-oriented)
+3. Testimonial Style Blind man- John 9
+4. Interpersonal Style Matthew - Luke 5:29 (Generally a warm personality, conversational, friendship-oriented)
 5. Invitational Style Woman at the Well- John 4 "Come and See"
 6. Serving Style Dorcas- Acts 9:36 
 
@@ -116,9 +116,9 @@ Ephesians 4:15 -- AGAPE -- Same as John 15:9 "As the Father hath loved me, so ha
 
 ### When Preached, Often Accompanied by Signs
 
-> Mt 4:23 ¶ And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people.
+> Mt 4:23 And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people.
 
-> Mt 9:35 ¶ And Jesus went about all the cities and villages, teaching in their synagogues, and preaching the gospel of the kingdom, and healing every sickness and every disease among the people.
+> Mt 9:35 And Jesus went about all the cities and villages, teaching in their synagogues, and preaching the gospel of the kingdom, and healing every sickness and every disease among the people.
 
 > Mt 11:5 The blind receive their sight, and the lame walk, the lepers are cleansed, and the deaf hear, the dead are raised up, and the poor have the gospel preached to them.
 
@@ -156,17 +156,17 @@ Before we can even get our "style" right. Whose message am I spreading?
 
 God's desired response to the Gospel is that all men would "repent" and "believe".
 
-> Matthew 3:2 ...And [John the Baptist] saying, Repent ye: for the kingdom of heaven is at hand.
+> Matthew 3:2 &hellip;And [John the Baptist] saying, Repent ye: for the kingdom of heaven is at hand.
 
-Now after that John was put in prison...
+Now after that John was put in prison&hellip;
 
-> Mark 1:15 Christ presented the "gospel of the kingdom" as "... The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel."
+> Mark 1:15 Christ presented the "gospel of the kingdom" as "&hellip; The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel."
 
 ### Timeless, Everlasting
 
->  Re 13:8 And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world.
+> Re 13:8 And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world.
 
->  Lu 24:44 And he said unto them, These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me.
+> Lu 24:44 And he said unto them, These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me.
 
 > Mark 1:4 John did baptize in the wilderness, and preach the baptism of repentance for the remission of sins.
 

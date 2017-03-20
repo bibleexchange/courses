@@ -15,5 +15,5 @@ Be ready for a fresh word.
 
 Some experiences harder than others, but EVERY ONE shall be salted with fire.
 
-Not everyone will respond the same way, but  everyone is given the opportunity to respond in worship to God.
+Not everyone will respond the same way, but everyone is given the opportunity to respond in worship to God.
 

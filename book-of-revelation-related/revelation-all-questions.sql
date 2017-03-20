@@ -83,7 +83,7 @@ Questions Chapter 2 tHE sEVEN CHURCHES
 */
 
 
-Study Questions 2 – The Seven Churches
+Study Questions 2 &mdash; The Seven Churches
 
 1.	To whom were the seven letters addressed?
 Unto the angels/messengers of the seven churches of Asia.
@@ -99,7 +99,7 @@ Laodicea
  
 
 3.	What do these churches have to do with us?
-These churches are representative of the Church’s entire history divided into seven ages.
+These churches are representative of the Church&apos;s entire history divided into seven ages.
 
 4.	What do the letters reveal in regard to the ministry?
 Ministerial responsibility, distinction, protection and authority.
@@ -114,7 +114,7 @@ Smyrna, meaning crushed, was an age of full of persecution.
 9.	What was the complaint against the church of Pergamos?
 Evil deeds and evil doctrine.
 10.	What was the complaint against the church of Thyatira?
-Wicked seducers allowed to teach and seduce God’s servants.
+Wicked seducers allowed to teach and seduce God&apos;s servants.
 11.	What was the complaint against the church of Sardis?
 Having a name that they lived, but were dead.
 
@@ -134,9 +134,9 @@ Buy of Me gold, white linen, and eyesalve.
 4.	White Raiment & will not blot out Name, 3:5
 5.	Willl be made a pillar in the temple of my God, written upon him the name of my God, and the name of the city of my God, and my new name., 3:12
 6.	Sit with Chris on His Throne, 3:21
-7.	Shall inherit all things, God will be His God and he Shall be God’s Son, 21:7
+7.	Shall inherit all things, God will be His God and he Shall be God&apos;s Son, 21:7
  
-Quiz 2 – The Seven Churches
+Quiz 2 &mdash; The Seven Churches
 
 1.	To whom were the seven letters addressed?
 Unto the angels/messengers of the seven churches of Asia.
@@ -180,7 +180,7 @@ Buy of Me gold, white linen, and eyesalve.
 4.	White Raiment & will not blot out Name, 3:5
 5.	Willl be made a pillar in the temple of my God, written upon him the name of my God, and the name of the city of my God, and my new name., 3:12
 6.	Sit with Chris on His Throne, 3:21
-7.	Shall inherit all things, God will be His God and he Shall be God’s Son, 21:7
+7.	Shall inherit all things, God will be His God and he Shall be God&apos;s Son, 21:7
  
 
 
@@ -220,7 +220,7 @@ throne.</h3>
 <h2>What were the colors of the four horses?</h2>
 <h3>A white horse, A red horse, A black horse, and A pale horse</h3>
 <h2>Tell what these colors signify?</h2>
-<h3>white –Righteous Judgment, red –War, black –Famine, pale –Death</h3>
+<h3>white &mdash;Righteous Judgment, red &mdash;War, black &mdash;Famine, pale &mdash;Death</h3>
 <h2>Tell what happened under the fifth seal.</h2>
 <h3>Souls under the altar slain for the Word of God.</h3>
 <h2>Tell what happened under the sixth seal.</h2>

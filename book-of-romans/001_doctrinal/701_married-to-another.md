@@ -45,7 +45,7 @@ Death dissolves the legal obligation of the marriage. The sinner can be free fro
 
 1. &quot;Know ye not &quot; The old life is baptized into His death 6:3
 2. &quot;Know ye not&quot; The old service is broken off, destroyed through Christ. 6:16
-3. &quot;Know ye not&quot; The old union is impossible with the new union with Christ.  7:1
+3. &quot;Know ye not&quot; The old union is impossible with the new union with Christ. 7:1
 
 ### The Service of the Union with Jesus Christ
 

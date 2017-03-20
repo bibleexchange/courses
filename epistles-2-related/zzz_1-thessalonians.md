@@ -12,7 +12,7 @@
 
 3. Paul sent word back, instructing Silas and Timothy to come to him in Athens (see Ac 17:15).
 
-4. Timothy rejoined Paul at Athens and was sent back to Thessalonica (see 3:1–5). Since Silas is not mentioned, it has been conjectured that he went back to Philippi when Timothy went to Thessalonica (3:1–2).
+4. Timothy rejoined Paul at Athens and was sent back to Thessalonica (see 3:1&mdash;5). Since Silas is not mentioned, it has been conjectured that he went back to Philippi when Timothy went to Thessalonica (3:1&mdash;2).
 
 5. Paul moved on to Corinth (see Ac 18:1).
 
@@ -22,7 +22,7 @@
 
 8. About six months later (a.d. 51/52) he sent 2 Thessalonians in response to confusion that had arisen concerning the second coming of Christ.
 
-## vs. 1 From ... To ... Because ...
+## vs. 1 From &hellip; To &hellip; Because &hellip;
 
 ### From: Paul, Silas, Timothy
 
@@ -36,14 +36,14 @@ Paul wrote this epistle from Corinth shortly after the church was birthed there,
 
 What kind of place was Thessalonica for the new converts? Thessalonica was a bustling seaport city at the head of the Thermaic Gulf. It was an important communication and trade center, located at the junction of the great Egnatian Way and the road leading north to the Danube. It was the largest city in Macedonia and was also the capital of its province.
 
-The background of the Thessalonian church is found in Ac 17:1–9. Since Paul began his ministry there in the Jewish synagogue, it is reasonable to assume that the new church included some Jews. However, 1:9–10; Ac 17:4 seem to indicate that the church was largely Gentile in membership.
+The background of the Thessalonian church is found in Ac 17:1&mdash;9. Since Paul began his ministry there in the Jewish synagogue, it is reasonable to assume that the new church included some Jews. However, 1:9&mdash;10; Ac 17:4 seem to indicate that the church was largely Gentile in membership.
 
 ### Because: The Reason for Writing this Epistle
 
-(READ Acts 17:1-10) Paul had to leave Thessalonica suddenly after being there only a short time. The new Christians had little to know support in Paul's departure. Paul’s purpose in writing this letter was to ENCOURAGE the new converts: 
-- Do not be moved [to shake; disturbed; that is, be REMOVED from Christ] because of afflictions (3:3–5)
--  Instruction in how to live out their new Faith: walking to please God (4:1–12)
--  Both the Living and the Dead have Great Assurance in the Return of Christ (4:13–18).
+(READ Acts 17:1-10) Paul had to leave Thessalonica suddenly after being there only a short time. The new Christians had little to know support in Paul's departure. Paul&apos;s purpose in writing this letter was to ENCOURAGE the new converts: 
+- Do not be moved [to shake; disturbed; that is, be REMOVED from Christ] because of afflictions (3:3&mdash;5)
+- Instruction in how to live out their new Faith: walking to please God (4:1&mdash;12)
+- Both the Living and the Dead have Great Assurance in the Return of Christ (4:13&mdash;18).
 
 ## vs. 2-5 What You Received Was Real
 

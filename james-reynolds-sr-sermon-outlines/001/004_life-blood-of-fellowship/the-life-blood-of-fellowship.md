@@ -41,13 +41,13 @@ A break in our fellowship within the household if faith, should cause us to care
 
 ## The Basis of our Fellowship
 
-> "If we walk in the light..."
+> "If we walk in the light&hellip;"
 
 What does it mean to walk in the light or darkness? Light reveals/discovers and darkness hides.
 
 1. Light reveals/discovers
 
->  Ephesians 5:13&mdash;But all things that are reproved are made manifest by the light: for whatsoever doth make manifest is light. 
+> Ephesians 5:13&mdash;But all things that are reproved are made manifest by the light: for whatsoever doth make manifest is light. 
 
 2. Darkness Hides
 
@@ -57,7 +57,7 @@ When Adam and Eve sinned, they hid themselves. Sin and its Darkness makes a pers
 - **Pretending**
 - **Window Dressing**
 
-If something is done to pretend to be dealing with an issue or problem, rather than actually dealing with it, it is window dressing. ‘perform a deed only for the sake of appearance’.
+If something is done to pretend to be dealing with an issue or problem, rather than actually dealing with it, it is window dressing. &apos;perform a deed only for the sake of appearance&apos;.
 
 - **Excusing Ourselves While Blaming Others**
 
@@ -69,9 +69,9 @@ Walking in the light is the opposite of walking in the darkness.
 
 ## The Standard of our Fellowship
 
-> "...as He is in the light.."
+> "&hellip;as He is in the light.."
 
-> 1 John 1:5&mdash;...God is light, and in him is no darkness at all.
+> 1 John 1:5&mdash;&hellip;God is light, and in him is no darkness at all.
 
 *God is the standard of our fellowship and NOT ONE ANOTHER.* If we are walking in DARKNESS yet say we have fellowship with God, **we LIE**.
 
@@ -83,9 +83,9 @@ Walking in the light is the opposite of walking in the darkness.
 
 SURETY: a person who takes responsibility for another's performance of an undertaking, for example their appearing in court or the payment of a debt.
 
-No matter how badly we have failed in the past ...
+No matter how badly we have failed in the past &hellip;
 
-> "...and the blood of Jesus Christ his Son cleanseth us from all sin."
+> "&hellip;and the blood of Jesus Christ his Son cleanseth us from all sin."
 
 ### The Light Reveals the Problem; the Blood Cleanses the Problem.
 

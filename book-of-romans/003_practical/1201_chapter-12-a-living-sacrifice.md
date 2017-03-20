@@ -6,7 +6,7 @@
 
 Romans chapters 12-16 complete the final section of this book. This section is particularly practical in its instruction. We see the righteousness of God applied to the daily life of the Believer.
 
-Romans chapter twelve deals with the Christian&apos;s duties, which ultimately leads to a surrendered life.  The church is compared to the human body.  There should be unity among the body, if there is no unity, the body will not function properly.  This chapter also deals with the different duties of the church.  This chapter ends with the Christian spirit.  We are not to overcome but not with evil but we are to overcome with good. 
+Romans chapter twelve deals with the Christian&apos;s duties, which ultimately leads to a surrendered life. The church is compared to the human body. There should be unity among the body, if there is no unity, the body will not function properly. This chapter also deals with the different duties of the church. This chapter ends with the Christian spirit. We are not to overcome but not with evil but we are to overcome with good. 
 
 ### Word Studies
 
@@ -80,7 +80,7 @@ We must present ourselves ALIVE to God!
 
 2. Identification - taken out of Adam by death with Christ - dead to sin and the law - we now become identified with Christ.
 
-3.  Under Grace - Fruit unto God - unto sanctification, made possible.
+3. Under Grace - Fruit unto God - unto sanctification, made possible.
 
 4. The Spirit Indwelling - the spirit witnesses of Sonship and Heirship.
 
@@ -116,7 +116,7 @@ We must present ourselves ALIVE to God!
 
 THE WILL OF GOD.
 
-Renewing of your mind.  The whole "mind" must become the object of the Spirit's renewing power.  The entire mind must come under the spirits control.
+Renewing of your mind. The whole "mind" must become the object of the Spirit's renewing power. The entire mind must come under the spirits control.
 
 ### Real Salvation = Practical holiness
 
@@ -149,11 +149,11 @@ The renewing of our mind happens through the Word of God. 2 Timothy 2:15; Psalm 
 
 ### Being not conformed to the world:
 
->   10 But the Lord is the true God, he is the living God, and an everlasting king: at his wrath the earth shall tremble, and the nations shall not be able to abide his indignation. 11 Thus shall ye say unto them, The gods that have not made the heavens and the earth, even they shall perish from the earth, and from under these heavens.12 He hath made the earth by his power, he hath established the world by his wisdom, and hath stretched out the heavens by his discretion. 13 When he uttereth his voice, there is a multitude of waters in the heavens, and he causeth the vapours to ascend from the ends of the earth; he maketh lightnings with rain, and bringeth forth the wind out of his treasures.
+> 10 But the Lord is the true God, he is the living God, and an everlasting king: at his wrath the earth shall tremble, and the nations shall not be able to abide his indignation. 11 Thus shall ye say unto them, The gods that have not made the heavens and the earth, even they shall perish from the earth, and from under these heavens.12 He hath made the earth by his power, he hath established the world by his wisdom, and hath stretched out the heavens by his discretion. 13 When he uttereth his voice, there is a multitude of waters in the heavens, and he causeth the vapours to ascend from the ends of the earth; he maketh lightnings with rain, and bringeth forth the wind out of his treasures.
 
 > John 1:9&mdash;That was the true Light, which lighteth every man that cometh into the world.
 
->  Hebrews 9:14 How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?
+> Hebrews 9:14 How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?
 
 The world uses the principles of God to become successful for their own gain. If we use the principles of God to become successful not for us but for Him and His kingdom; how much more of value is that. 
 
@@ -166,7 +166,7 @@ Why do I want to be a successful Christian? Success is learning how to lead othe
 
 ## Verses 3-8
 
->  3 For I say, through the grace given unto me, to every man that is among you, not to think of himself more highly than he ought to think; but to think soberly, according as God hath dealt to every man the measure of faith. 4 For as we have many members in one body, and all members have not the same office: 5 So we, being many, are one body in Christ, and every one members one of another. 6 Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith; 7 Or ministry, let us wait on our ministering: or he that teacheth, on teaching; 8 Or he that exhorteth, on exhortation: he that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness.
+> 3 For I say, through the grace given unto me, to every man that is among you, not to think of himself more highly than he ought to think; but to think soberly, according as God hath dealt to every man the measure of faith. 4 For as we have many members in one body, and all members have not the same office: 5 So we, being many, are one body in Christ, and every one members one of another. 6 Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith; 7 Or ministry, let us wait on our ministering: or he that teacheth, on teaching; 8 Or he that exhorteth, on exhortation: he that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness.
 
 What attitudes should the Christian have toward himself and toward his fellow Christians?
 
@@ -177,67 +177,67 @@ What is the one possessing a gift supposed to do with it? The various gifts are 
 
 FAITH - For the receiving and using of these gifts, there is the necessity of faith for operation.
 
-The possession of a gift is of no use unless it is put to use.  It is the whole-hearted exercise of the gifts, when it is given, that is urged by the apostles. Gifts are a directly given of the Spirit.
+The possession of a gift is of no use unless it is put to use. It is the whole-hearted exercise of the gifts, when it is given, that is urged by the apostles. Gifts are a directly given of the Spirit.
 
 
 ## Verse 9
 
->  9 Let love be without dissimulation. Abhor that which is evil; cleave to that which is good.
+> 9 Let love be without dissimulation. Abhor that which is evil; cleave to that which is good.
 
 ## Verse 10
 
 
->  10 Be kindly affectioned one to another with brotherly love; in honour preferring one another;
+> 10 Be kindly affectioned one to another with brotherly love; in honour preferring one another;
 
 ## Verse 11
 
 
->  11 Not slothful in business; fervent in spirit; serving the Lord;
+> 11 Not slothful in business; fervent in spirit; serving the Lord;
 
 ## Verse 12
 
 
->  12 Rejoicing in hope; patient in tribulation; continuing instant in prayer;
+> 12 Rejoicing in hope; patient in tribulation; continuing instant in prayer;
 
 ## Verse 13
 
 
->  13 Distributing to the necessity of saints; given to hospitality.
+> 13 Distributing to the necessity of saints; given to hospitality.
 
 ## Verse 14
 
 
->  14 Bless them which persecute you: bless, and curse not.
+> 14 Bless them which persecute you: bless, and curse not.
 
 ## Verse 15
 
 
->  15 Rejoice with them that do rejoice, and weep with them that weep.
+> 15 Rejoice with them that do rejoice, and weep with them that weep.
 
 ## Verse 16
 
 
->  16 Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits.
+> 16 Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits.
 
 ## Verse 17
 
 
->  17 Recompense to no man evil for evil. Provide things honest in the sight of all men.
+> 17 Recompense to no man evil for evil. Provide things honest in the sight of all men.
 
 ## Verse 18
 
 
->  18 If it be possible, as much as lieth in you, live peaceably with all men.
+> 18 If it be possible, as much as lieth in you, live peaceably with all men.
 
 ## Verse 19
 
 
->  19 Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord.
+> 19 Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord.
 
 ## Verses 20-21
 
 
->  20 Therefore if thine enemy hunger, feed him; if he thirst, give him drink: for in so doing thou shalt heap coals of fire on his head. 21 Be not overcome of evil, but overcome evil with good. 
+> 20 Therefore if thine enemy hunger, feed him; if he thirst, give him drink: for in so doing thou shalt heap coals of fire on his head. 21 Be not overcome of evil, but overcome evil with good. 
 
 Romans 12:20 is an aggressive stance. It is not a defensive stance. 
 To overcome is to defeat the enemy. Those that speak evil, and do evil; we are in a warfare for that persons soul. 
@@ -257,6 +257,6 @@ What not said, is sometimes more important than what people do say.
 
 ## Conclusion to Romans 12
 
-Being a Christian involves every area of a persons life.  Mind and body are yielded to God in moral surrender as a spiritual offering.  By his attitude and actions toward other Christians he is to demonstrate the fact that he is a fellow-member with them in the body of Christ.  In his relationship with the sinner, he is to act in love and leave to God the avenging of evil.
+Being a Christian involves every area of a persons life. Mind and body are yielded to God in moral surrender as a spiritual offering. By his attitude and actions toward other Christians he is to demonstrate the fact that he is a fellow-member with them in the body of Christ. In his relationship with the sinner, he is to act in love and leave to God the avenging of evil.
 
 

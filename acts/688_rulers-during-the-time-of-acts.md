@@ -4,7 +4,7 @@
 <td><i>Chapter</i></td>
 <td>1</td>
 <td>8</td>
-<td>13  28</td></tr><tr>
+<td>13 28</td></tr><tr>
 <td>Jerusalem</td>
 <td>Judea &amp; Samaria</td>
 <td>Uttermost Parts of Earth</td></tr><tr>

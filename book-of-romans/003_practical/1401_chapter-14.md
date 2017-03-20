@@ -1,6 +1,6 @@
 # Helpers of the Weak, Not Judges &mdash; Ch. 14
 
-Romans chapter fourteen talks about how you should treat a weak brother.  We need to help those that are weak in their flesh.  We see the need to be charitable.  We need to live for God, all that we do needs to be unto God.  We should not judge one another, for one day every man will give an account of his own life.
+Romans chapter fourteen talks about how you should treat a weak brother. We need to help those that are weak in their flesh. We see the need to be charitable. We need to live for God, all that we do needs to be unto God. We should not judge one another, for one day every man will give an account of his own life.
 
 
 Paul instructs how to receive a weak brother. There is a need for grace in our hearts to the weak, and often we must make a space of mercy for the ignorant. Let us consider a weak brother from Romans chapter fourteen.
@@ -119,7 +119,7 @@ seldom goes beyond words
 
 
 Unless there is power behind it, it will wear out. &mdash; the pendulum, God&apos;s laws are true.
-If your  
+If your 
 
 First ineffective faith, than weak faith
 

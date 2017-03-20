@@ -1,13 +1,13 @@
 <h1>Galatians</h1>
 <h2>Introduction to Galatians</h2>
 <h3>The Writer</h3>
-<blockquote>1:1—"Paul an apostle (by Jesus Christ and God the Father, who raised Him from the dead).</blockquote>
-<blockquote>6:11—"I have written unto you with my own hand"</blockquote>
+<blockquote>1:1&mdash;"Paul an apostle (by Jesus Christ and God the Father, who raised Him from the dead).</blockquote>
+<blockquote>6:11&mdash;"I have written unto you with my own hand"</blockquote>
 <h3>The Purpose of the Writing</h3>
 <blockquote>1:2 "Unto the Churches of Galatia."</blockquote>
 <blockquote>1:6 "Removed from Him."</blockquote>
 <blockquote>1:7 "Some that trouble you and would pervert the Gospel of Christ."</blockquote>
-<blockquote>3:1 "…who hath bewitched you that ye should not obey the truth."</blockquote>
+<blockquote>3:1 "&hellip;who hath bewitched you that ye should not obey the truth."</blockquote>
 <blockquote>4:8-11, 16-17, 20 "They zealously affect you."</blockquote>
 <blockquote>4:11 (I am afraid for you)</blockquote>
 <blockquote>4:20 "I am perplexed for you."</blockquote>
@@ -90,10 +90,10 @@
 <p>It is dangerous to project anything into your mind that is not in the Bible.</p>
 <h4>Subtle 3:1</h4>
 <p>Whatever comes by revelation of the Spirit will agree with the Bible.</p>
-<p>"not after man…but after the revelation of Jesus Christ."</p>
+<p>"not after man&hellip;but after the revelation of Jesus Christ."</p>
 <h3>A Revelation of Christ in Paul</h3>
 <p>God's interest in His Son equals the interest He has for every one in the world.</p>
-<blockquote>John 3:16—For God so loved the world that He gave His only begotten Son that whosoever believeth in Him should not perish but have everlasting life.</blockquote>
+<blockquote>John 3:16&mdash;For God so loved the world that He gave His only begotten Son that whosoever believeth in Him should not perish but have everlasting life.</blockquote>
 <p>Communicate the same gospel that they can have the same revelation 2:2, 5; 3:5; 4:19, 30; 5:3</p>
 <p>"I went in to Arabia" 1:17</p>
 <h2>Doctrinal Declarations (Ch. 3 &amp; 4)</h2>
@@ -113,7 +113,7 @@
 <p>Gal. 3:13"Christ hath redeemed us from the curse of the Law."</p>
 <h3>The Cross was a part of the curse</h3>
 <h4>Through the cross the penalties of the broken law have been removed.</h4>
-<p>Thorns also, …shall it bring forth to thee.</p>
+<p>Thorns also, &hellip;shall it bring forth to thee.</p>
 <p>Gen. 2:21-23</p>
 <p>When God formed a bride for Adam, God took from Adam's side.</p>
 <p>From out of the riven side of the body of Christ, He will take a rib and form a bride.</p>
@@ -134,9 +134,9 @@
 <h5>Grace positions the full matured in a higher position like His son.</h5>
 <h2>Practical Declarations (Ch. 5 &amp; 6)</h2>
 <p>Marks of the Spiritual Christian Gal. 6:17</p>
-<blockquote>Galatians 6:17 …I bear in my body the marks of the Lord Jesus.</blockquote>
+<blockquote>Galatians 6:17 &hellip;I bear in my body the marks of the Lord Jesus.</blockquote>
 <h3>Holiness</h3>
-<blockquote>Galatians 5:13 …use not liberty for an occasion to the flesh,…</blockquote>
+<blockquote>Galatians 5:13 &hellip;use not liberty for an occasion to the flesh,&hellip;</blockquote>
 <blockquote>Galatians 5:16 This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.</blockquote>
 <blockquote>Galatians 5:22,23 But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, 23 Meekness, temperance: against such there is no law.</blockquote>
 <blockquote>Galatians 5:24 And they that are Christ's have crucified the flesh with the affections and lusts.</blockquote>
@@ -145,10 +145,10 @@
 <p>Holiness will produce happiness John 13:17; Psa. 16:11</p>
 <h3>The cross is that which comes to us as a result of obeying Christ.</h3>
 <p>To carry the cross means to be attached to the person of Christ.</p>
-<h3>The desire to see the honor of God advanced—To be like Christ.</h3>
+<h3>The desire to see the honor of God advanced&mdash;To be like Christ.</h3>
 <p>Absolutely nothing brings more honor to the Lord than for His people to become like Him.</p>
-<blockquote>Gal. 3:27—For as many of you as have been baptized into Christ have put on Christ.</blockquote>
-<blockquote>4:19—My little children, of whom I travail in birth again until Christ be formed in you,</blockquote>
-<blockquote>5:24—And they that are Christ's have crucified the flesh with the affections and lusts.</blockquote>
-<blockquote>6:18—Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen.</blockquote>
-<blockquote>Luke 22:42—"Not my will, but Thine, be done."</blockquote>
+<blockquote>Gal. 3:27&mdash;For as many of you as have been baptized into Christ have put on Christ.</blockquote>
+<blockquote>4:19&mdash;My little children, of whom I travail in birth again until Christ be formed in you,</blockquote>
+<blockquote>5:24&mdash;And they that are Christ's have crucified the flesh with the affections and lusts.</blockquote>
+<blockquote>6:18&mdash;Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen.</blockquote>
+<blockquote>Luke 22:42&mdash;"Not my will, but Thine, be done."</blockquote>

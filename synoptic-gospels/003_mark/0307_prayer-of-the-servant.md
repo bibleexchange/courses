@@ -16,7 +16,7 @@ a.	 He ________________ the 12
 
 b.	 That they might be ________ Him.
 
-(1)	 He wants us _______  ________.
+(1)	 He wants us _______ ________.
 
 (2)	________________ with Him.
 

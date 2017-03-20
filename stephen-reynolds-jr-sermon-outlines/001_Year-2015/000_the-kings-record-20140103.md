@@ -10,7 +10,7 @@ After 70 Years of Captivity in Babylon, A group of the Jews were allowed to Retu
 
 ##I. God's Word is with Authority (God's Word is His Will)
 NO MATTER WHAT MEN MAY SAY:
-> 2 Timothy 2:19 Nevertheless the foundation of God standeth sure,...
+> 2 Timothy 2:19 Nevertheless the foundation of God standeth sure,&hellip;
 
 > Matthew 24:35 Heaven and earth shall pass away, but my words shall not pass away.
 
@@ -39,9 +39,9 @@ Come down from that Wall Nehemiah and Discuss this with us!
 God Keeps Good Books
 The Only Record that Counts is God's
 
->  Ezra 6:1-3a, 7 Then Darius the king made a decree, and search was made in the house of the rolls, where the treasures were laid up in Babylon. 2 And there was found at Achmetha, in the palace that is in the province of the Medes, a roll, and therein was a record thus written: 3 In the first year of Cyrus the king the same Cyrus the king made a decree concerning the house of God at Jerusalem, **Let the house be builded**,..
+> Ezra 6:1-3a, 7 Then Darius the king made a decree, and search was made in the house of the rolls, where the treasures were laid up in Babylon. 2 And there was found at Achmetha, in the palace that is in the province of the Medes, a roll, and therein was a record thus written: 3 In the first year of Cyrus the king the same Cyrus the king made a decree concerning the house of God at Jerusalem, **Let the house be builded**,..
 
 God Always Has the Last Word
 
 DARIUS' DECREE
-> Ezra 6:7 Let the work of this house of God alone;...
+> Ezra 6:7 Let the work of this house of God alone;&hellip;

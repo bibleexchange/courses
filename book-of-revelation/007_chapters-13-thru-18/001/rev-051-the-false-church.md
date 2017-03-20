@@ -39,7 +39,7 @@ She sits with overwhelming control of the one-world government that is evil and 
 
 ###She is Clothed (vs. 4)
 
-The Bride of Christ is dressed in fine linen clean and white which is the righteousness of saints (Revelation 19:8). This woman is dressed in  the attire of a harlot.
+The Bride of Christ is dressed in fine linen clean and white which is the righteousness of saints (Revelation 19:8). This woman is dressed in the attire of a harlot.
 
 ####She is arrayed in purple which is the color of royalty. This woman is not truly royal, but is a hypocrite.
 

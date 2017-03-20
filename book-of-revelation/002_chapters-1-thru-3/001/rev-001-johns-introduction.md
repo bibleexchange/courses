@@ -33,12 +33,12 @@ Verse 1 says this revelation of Jesus Christ "which God GAVE unto Him" was in tu
 ### It is a Prophecy
 "To show unto His servants things which must come to pass shortly." This is a key to this book. v. 3 "The words of this prophecy" Ch. 4:1 "I will show thee things which must (come) be hereafter." Revelation is essentially a book of prophecy rather than history.
 ### It is Symbolic
-1:1 says "...he sent and signified it by his angel unto his servant John." "Signified" is the Greek word "Semaino" meaning to give a sign or to express or reveal by signs. God in his infinite wisdom has chosen to use the language of symbolism and imagery to communicate this Revelation.
+1:1 says "&hellip;he sent and signified it by his angel unto his servant John." "Signified" is the Greek word "Semaino" meaning to give a sign or to express or reveal by signs. God in his infinite wisdom has chosen to use the language of symbolism and imagery to communicate this Revelation.
 How can we unlock the symbolism of this book? Mainly by comparing scripture with scripture (2 Peter 1:20) do we understand its symbolism. This Revelation is profoundly positioned as the last book of the Bible. It not only contains prophecy of last things, but it is in its nature a climax to all Biblical revelation. We in part find understanding of the symbolism in Revelation by understanding previously given symbolism.
 Some examples include: 1) The Four Living Creatures Ezekiel 1:5; Revelation 4:6 2) The 7 Churches of Asia were both literal and symbolic. As the New Testament Epistles were relevant to a first century Church so they are still relevant today. 3) Water of Life John 4:14; Revelation 21:6
 This Revelation with all its symbolism was given to John by God's "angel". John himself was puzzled as to the role of this "angel" and eventually falls at his feet in 22:8 to worship him. In verse 9, the angel rebuked him saying he was only a "fellow servant" and that John must only "worship God". The Believer must keep in constant remembrance amidst all the majesty of God's Grace that all the glory belongs to God and we are just "His messengers".
 ## The Scribe of this Book (1:2)
-> Revelation 1:1 ...unto His servant John 2 Who bare record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw.
+> Revelation 1:1 &hellip;unto His servant John 2 Who bare record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw.
 ### The Apostle John (Some believe another John.)
 ### He bare record (1:2; John 1:1-14)
 ### He gave witness (I John 1:1-3; 20:31)

@@ -12,7 +12,7 @@
 
 ### Summary
 
-Romans chapter eight deals with the influence of the &quot;Law of the Spirit of Life&quot; over the Believer.  The end result of salvation through Jesus Christ will redeem a life which was once condemned by God unto a life glorified by God. God&apos;s  intentions for the Christian is to glorify them with Christ. The Holy Ghost is active in the Believer&apos;s life producing God ordained results. Those in Christ are no longer condemned, but are in a path and process of the Glory of God.
+Romans chapter eight deals with the influence of the &quot;Law of the Spirit of Life&quot; over the Believer. The end result of salvation through Jesus Christ will redeem a life which was once condemned by God unto a life glorified by God. God&apos;s intentions for the Christian is to glorify them with Christ. The Holy Ghost is active in the Believer&apos;s life producing God ordained results. Those in Christ are no longer condemned, but are in a path and process of the Glory of God.
 
 > Romans 8:29-30&mdash;For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren. 30 Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.
 
@@ -39,4 +39,4 @@ What Does it Mean to be in Christ?
 
 To be in Christ is to be grafted into the True Vine. His life flows into us and what it is His is ours. God the Father views those in His Son as He views the only Begotten&mdash;heirs of God. In Christ, we do not struggle against the flesh and sin alone, and have not received alone the remission of sin, but have received Christ Himself. The Believer is in Christ and Christ is in them.
 
-> Romans 11:16-18&mdash;For if the firstfruit be holy, the lump is also holy: and if the root be holy, so are the branches. 17 And if some of the branches be broken off, and thou, being a wild olive tree, wert graffed in among them, and with them partakest of the root and fatness of the olive tree;  18 Boast not against the branches. But if thou boast, thou bearest not the root, but the root thee.
+> Romans 11:16-18&mdash;For if the firstfruit be holy, the lump is also holy: and if the root be holy, so are the branches. 17 And if some of the branches be broken off, and thou, being a wild olive tree, wert graffed in among them, and with them partakest of the root and fatness of the olive tree; 18 Boast not against the branches. But if thou boast, thou bearest not the root, but the root thee.

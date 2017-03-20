@@ -5,7 +5,7 @@ Matthew 6:9-13
 
 ###vs. 5 Don't Be Like the Hypocrites
 
-###vs.6  Pray in Secret to Your Father
+###vs.6 Pray in Secret to Your Father
 
 ###vs.7 Vain Repetition (heard for their much speaking)
 
@@ -36,7 +36,7 @@ How do we make our approach to God? As confidently and yet more reverently than 
 
 How I USE His name is a testimony of what He means to me. Some may carelessly address him, "Dear Dad..". But, He is more than a DAD to me!
 
-"HIS NAME" - Jehovah (self-existent), Jehovah-M’Kaddesh (Sanctifier),  Jehovah-jireh (Provider), Jehovah (Rophe), Jesus (Jehovah Saves).
+"HIS NAME" - Jehovah (self-existent), Jehovah-M&apos;Kaddesh (Sanctifier), Jehovah-jireh (Provider), Jehovah (Rophe), Jesus (Jehovah Saves).
 
 <!---
 /////////////////////////////////////////////////////////////
@@ -71,7 +71,7 @@ There is a profound and powerful truth in this request: *Give us this day our da
 ##The Debt of Sin and the Need for Forgiveness (God doesn't just forget) - CONFESSION & FORGIVENESS
 >12 And forgive us our debts, as we forgive our debtors.
 
-Something owed, a due, morally: a fault [1 John 1:9 - if we confess...]
+Something owed, a due, morally: a fault [1 John 1:9 - if we confess&hellip;]
 
 vs. 14,15 God wont' forgive and unforgiving person
 

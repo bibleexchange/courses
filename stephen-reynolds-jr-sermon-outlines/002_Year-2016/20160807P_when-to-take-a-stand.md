@@ -1,6 +1,6 @@
 # When to Take a Stand (Controversial Christians)
 
-TEXT:  1 Samuel 17:17-29-31
+TEXT: 1 Samuel 17:17-29-31
 
 > And David said, What have I now done? Is there not a cause?
 
@@ -26,7 +26,7 @@ Taking a Stand, May Appear Out of Line on the Surface and will usually be critic
 
 ### Aren't We called to be peacemakers?
 
->  **Matthew 5:9 **Blessed are the peacemakers: for they shall be called the children of God.
+> **Matthew 5:9 **Blessed are the peacemakers: for they shall be called the children of God.
 
 We are not called to be divisive or controversial, but are called to be peacemakers. Sometimes action and a proclamation is the only way to make peace and not passivity.
 
@@ -36,9 +36,9 @@ It will usually cost us something and the question will be asked, "Is it worth t
 
 ### Aren't we to be Slow to Speak and Slow to Anger?
 
->  **Psalm 37:8** Cease from anger, and forsake wrath: fret not thyself in any wise to do evil. ("heavy breathing")
+> **Psalm 37:8** Cease from anger, and forsake wrath: fret not thyself in any wise to do evil. ("heavy breathing")
 
->  **James 1:19** ¶ Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:
+> **James 1:19** Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:
 
 Righteous anger is a reaction of anger over mistreatment, insult, or malice. Not "I have a right to be angry", but "I have a responsibility to be angry."
 
@@ -48,7 +48,7 @@ We often allow action we would never endorse by our passiveness.
 
 ### Aren't We Called to Unity?
 
->  **Psalm 133:1 Behold**, how good and how pleasant it is for brethren to dwell together in unity!
+> **Psalm 133:1 Behold**, how good and how pleasant it is for brethren to dwell together in unity!
 
 Recognize that our fellowship is in the truth. If there is no truth, there can be no Christian unity. Light cannot fellowship with darkness.
 
@@ -64,7 +64,7 @@ The Believer is burdened with a responsibility to not just respond to offenses t
 
 ### It is a Good Work
 
->  1** Peter 3:15-17** &mdash;15 But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear: Having a good conscience; that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conversation in Christ. 17 For it is better, if the will of God be so, that ye suffer for well doing, than for evil doing.
+> 1** Peter 3:15-17** &mdash;15 But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear: Having a good conscience; that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conversation in Christ. 17 For it is better, if the will of God be so, that ye suffer for well doing, than for evil doing.
 
 There will always be resistance no matter what you do.
 

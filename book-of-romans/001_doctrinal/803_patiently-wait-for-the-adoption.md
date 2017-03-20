@@ -4,7 +4,7 @@
 
 ### Summary of Romans 8
 
-**Those in Christ ...**
+**Those in Christ &hellip;**
 
 - Are No Longer Condemned, vs. 1-9
 - Have Received the Spirit of Adoption, vs. 10-16
@@ -18,7 +18,7 @@
 <!-- -->
 ## Patiently Wait for the Adoption, vs. 17-25
 
->  17 And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together. 18 For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us. 19 For the earnest expectation of the creature waiteth for the manifestation of the sons of God. 20 For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope,  21 Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God. 22 For we know that the whole creation groaneth and travaileth in pain together until now. 23 And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body. 24 For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for? 25 But if we hope for that we see not, then do we with patience wait for it.
+> 17 And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together. 18 For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us. 19 For the earnest expectation of the creature waiteth for the manifestation of the sons of God. 20 For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope, 21 Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God. 22 For we know that the whole creation groaneth and travaileth in pain together until now. 23 And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body. 24 For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for? 25 But if we hope for that we see not, then do we with patience wait for it.
 
 ### Christian Maturity
 
@@ -170,7 +170,7 @@ Although there was no official Jewish law of adoption we can see the principles 
 
 - Abraham and his servant Eliezer (Genesis 15:2-4)
 - Moses in Pharoah's House (Exodus 2:10)
-- Genubath was brought into Pharoah's Household  among the sons of Pharoah (1 Kings 11:20)
+- Genubath was brought into Pharoah's Household among the sons of Pharoah (1 Kings 11:20)
 - Esther was raised in her uncle's home (Esther 2:7)
 
 #### Adoption in Relation to the New Testament
@@ -225,11 +225,11 @@ Sharing the relationship with the Father as a son, the Believer receives the pri
 
 
 What the Christian can look forward to.
-8:17	If children - than heirs.     We have legal inheritance rights.
+8:17	If children - than heirs. We have legal inheritance rights.
 8:14 speaks of adult sons.
 8:17 speaks of born ones - those who are born of the Word and of the Spirit.
 Iv. HOPE OF SUFFERING
-Sufferings in comparison to glory.  (If we suffer we shall also reign)
+Sufferings in comparison to glory. (If we suffer we shall also reign)
 8:18	The Glory revealed (in) us.
 8:19	"Creature waiteth"		Earnest expectation within.
 
@@ -240,14 +240,14 @@ Hope and faith is part of Christian living.
 (God has a vast plan, reaching on into eternity, and "hope" lies ahead for creation.)
 8:21	"The creature shall be delivered."
 From bondage of corruption (although we are new creatures in Christ, yet God has left our bodies as a link with the present creation)
-8:24 &mdash; 25  Hope - something you know will transpire in your soul.
-		- Patience - wait for it.     (Good things come hard in life)
-8:26 Holy Spirit helpeth our infirmities.       Our divine helper;   Spirit - breath of God
-1.  Prayer - (spirit prays) understood by God.                                                                                               2.  According to His will - the spirit knows how to pray.
-8:27	Jesus our intercessor.     - Go between -     Mediator                                                                                                 8:28	Providential Care.  "All things work together for good"  to them that are called.
-Called does not mean invited.  "the called" are seen to be a company whose mark is neither religious response nor intellectual apprehending, but the electing grace of God.
-Called according to His purpose                                           God is infinite; man, a bit of dust
-God has a purpose, (a fixed intention)                                                                                        It will come to pass.
+8:24 &mdash; 25 Hope - something you know will transpire in your soul.
+		- Patience - wait for it. (Good things come hard in life)
+8:26 Holy Spirit helpeth our infirmities. Our divine helper; Spirit - breath of God
+1. Prayer - (spirit prays) understood by God. 2. According to His will - the spirit knows how to pray.
+8:27	Jesus our intercessor. - Go between - Mediator 8:28	Providential Care. "All things work together for good" to them that are called.
+Called does not mean invited. "the called" are seen to be a company whose mark is neither religious response nor intellectual apprehending, but the electing grace of God.
+Called according to His purpose God is infinite; man, a bit of dust
+God has a purpose, (a fixed intention) It will come to pass.
 
 
 
@@ -274,7 +274,7 @@ The results of the suffering Hebrews 12:11; 1 Peter 5:10
 
 #### The Creature Waits for the Manifestation of the Sons of God (vs. 19-22)
 
-19 For the earnest expectation of the creature waiteth for the manifestation of the sons of God. 20 For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope,  21 Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God. 22 For we know that the whole creation groaneth and travaileth in pain together until now. 
+19 For the earnest expectation of the creature waiteth for the manifestation of the sons of God. 20 For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope, 21 Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God. 22 For we know that the whole creation groaneth and travaileth in pain together until now. 
 
 God has a vast plan and Hope lies ahead for Creation. In bondage because sin is in the world, but there will be a deliverance!
 
@@ -302,14 +302,14 @@ The work is not complete yet in the Believer.
 ##### Sonship - Manifested Sons
 
 1. The meaning of Manifested Son&apos;s
-a.  Manifested---apokalupsis,  ap-ok-al'-oop-sis                                                                                 
+a. Manifested---apokalupsis, ap-ok-al'-oop-sis 
 Disclosure:--appearing, coming, lighten, be revealed, revelation, To take off the cover. 
 b. It is a Revelation
 i. They are now hidden &mdash; in obscurity
 1. Like Israel in Egypt
 2. There is a time for Revelation
 3. Longing for something better
-c.    It is a Maturing
+c. It is a Maturing
 i. A growing up					Eph.4:13-15
 1. We are children by faith		Gal. 3:26
 2. We need to grow up			Gal. 4:1-3
@@ -319,16 +319,16 @@ i. First to the Overcomer			I Pt.1:3-5
 ii. Then to Creation				Rom.8:20-22
 1. The Time of the Manifesting of the Son&apos;s of God
 I. Appointed of the Father			Gal.4:2
-1. In these last days                      		 I Pt. 1:4-5
+1. In these last days 		 I Pt. 1:4-5
 2. Not according to man&apos;s desire		
 3. Not according to the flesh
 a. No fleshly revelation
 b. No fleshly prophecy
-c.   No fleshly preaching
+c. No fleshly preaching
 d. No fleshly praying
-e.   No fleshly living
+e. No fleshly living
 4. Not a premature birth
-a.     Not a fleshly birth
+a. Not a fleshly birth
 b. Not a child of the flesh
 5. According to the truth
 a. In respect of conception (normal &mdash; sound doctrine)
@@ -345,17 +345,17 @@ B. To Reveal His Son in us by His Spirit
 C. To have many Son&apos;s like His only Son
 D. To have more Son&apos;s like Jesus
 1. To be same in Nature			II Pt. 1:4
-a. Righteousness       Rom.1:17; 5:21; 6:16; Eph. 4:24
-b. Holiness    Ro1:4;6:19,22; IThes.3:13;4:7;	He12:10,14
+a. Righteousness Rom.1:17; 5:21; 6:16; Eph. 4:24
+b. Holiness Ro1:4;6:19,22; IThes.3:13;4:7;	He12:10,14
 2. To be same in obedience
-a. Wisdom                                    Rom.14:33; 	I Cor. 1:30
-b. Sanctification                        II Thes. 2:13;  I Pt. 1:2
+a. Wisdom Rom.14:33; 	I Cor. 1:30
+b. Sanctification II Thes. 2:13; I Pt. 1:2
 Eph 4:13&mdash;Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ: 
 B. From slavery to Sonship						8:15-23
-Ro 8:15 For ye have not received the spirit of bondage (Slavery)again to fear; but ye have received the Spirit of adoption,(  whereby we cry, Abba, Father.
-1397.  douleia  douleia,  doo-li'-ah  (slavery)
-5206.  uioyesia  huiothesia,  hwee-oth-es-ee'-ah (the placing as a son)
-a. Requirements for Sonship				    	12-18
+Ro 8:15 For ye have not received the spirit of bondage (Slavery)again to fear; but ye have received the Spirit of adoption,( whereby we cry, Abba, Father.
+1397. douleia douleia, doo-li'-ah (slavery)
+5206. uioyesia huiothesia, hwee-oth-es-ee'-ah (the placing as a son)
+a. Requirements for Sonship				 	12-18
 b. Perfect through Sufferings 					8:17
 c. Conformed to the Image of His Son				8:28-30
 d. God&apos;s Eternal Purpose					8:28-30
@@ -372,7 +372,7 @@ D. Redemption of the Body						8:23
 
 
 
-1Peter 1:4&mdash;To an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you,  5&mdash;Who are kept by the power of God through faith unto salvation ready to be revealed in the last time. (The signs surround us; we are in the &quot;last time.&quot;)
+1Peter 1:4&mdash;To an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you, 5&mdash;Who are kept by the power of God through faith unto salvation ready to be revealed in the last time. (The signs surround us; we are in the &quot;last time.&quot;)
 
 Ephesians 4:13&mdash;Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:
 

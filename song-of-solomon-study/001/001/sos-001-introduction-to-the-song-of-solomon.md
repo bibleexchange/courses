@@ -4,7 +4,7 @@
 
 ## The Language of this Book
 
-We will introduce you to the book and give some background information, but before you begin to study this book, and or listen to these messages you should read the book in it’s entirety at least three times. Pre-reading the book will greatly benefit you in following in this study of this wonderful book called the Song of Solomon.
+We will introduce you to the book and give some background information, but before you begin to study this book, and or listen to these messages you should read the book in it&apos;s entirety at least three times. Pre-reading the book will greatly benefit you in following in this study of this wonderful book called the Song of Solomon.
 
 Many Christians live their entire lives without reading Song of Solomon. They know it is in the Bible, but they appear to be ashamed of its presence. It is a beautiful book and nothing to be ashamed of rightly interpreted and rightly understood.
 
@@ -37,7 +37,7 @@ READ: <a href="/bible/search?q=Song of Solomon 5:2-6" target="_BLANK">Song of So
 Somethings a loving husband and wife share with each other, are not shared with anyone else. God has some great things He wants to share with us, but we have to get close enough so He can share them with us.
 
 He desires to share divine secrets in the Spirit with those He truly Loves! <a href="/bible/search?q=John 15:15" target="_BLANK">John 15:15</a>
-                          
+ 
 ### Love Him Our Best
 
 He loves us, but how is our love for Him? We want to love Him with ALL, but if we are honest we often do hold reservations. What could be more important than having time for the Lord?
@@ -86,7 +86,7 @@ I believe there are too many discrepancies created when we try to make the entir
 
 Is the Church and the Bride the same thing? Is there a difference between the Church and the Bride? What is the difference?
 
-The Church is the Body of Christ and the Bride is only a part of that Body. The Bride is a fragment of the Church, like the rib that was taken out of Adam’s side).  
+The Church is the Body of Christ and the Bride is only a part of that Body. The Bride is a fragment of the Church, like the rib that was taken out of Adam&apos;s side). 
 The Bride will be taken out of the great Body of the Church. <a href="/bible/search?q=Acts 15:14" target="_BLANK">Acts 15:14</a>; <a href="/bible/search?q=Genesis 5:24" target="_BLANK">Genesis 5:24</a>; <a href="/bible/search?q=Luke 12:35-38" target="_BLANK">Luke 12:35-38</a>; <a href="/bible/search?q=1 Thessalonians 3:13" target="_BLANK">1 Thessalonians 3:13</a>; <a href="/bible/search?q=Matthew 25:1-13" target="_BLANK">Matthew 25:1-13</a>; <a href="/bible/search?q=Revelation 19:9" target="_BLANK">Revelation 19:9</a>
 
-> Genesis 2:22  And the rib, which the LORD God had taken from man, made he a woman, and brought her unto the man.
+> Genesis 2:22 And the rib, which the LORD God had taken from man, made he a woman, and brought her unto the man.

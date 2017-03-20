@@ -24,7 +24,7 @@ Mt 5:48 Be ye therefore perfect, even as your Father which is in heaven is perfe
 
 Isaiah 5:20&mdash; Woe unto them that call evil good, and good evil; that put darkness for light, and light for darkness; that put bitter for sweet, and sweet for bitter!
 
-Ps 119:68 ¶ Thou art good, and doest good; teach me thy statutes.
+Ps 119:68 Thou art good, and doest good; teach me thy statutes.
 
 NO GOODNESS APART FROM GOD. Goodness is God's fingerprint.
 

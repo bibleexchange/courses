@@ -1,4 +1,4 @@
-<img src="http://bible.exchange/images/eagle.png" style=""  id="coverEagle"/>
+<img src="http://bible.exchange/images/eagle.png" style="" id="coverEagle"/>
 
 #### Third Year Cirriculum
 

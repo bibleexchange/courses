@@ -18,7 +18,7 @@ Revelation 19:11-21 is about the battle of the Great Day of the Lord. (Zephaniah
 
 ### Violence
 
-**Words of Battle**: ... white horse ... judge and make war ... vesture dipped in blood... armies ... sharp sword, ...smite ... rule ... rod of iron ... treadeth ... fierceness and wrath .. eat the flesh ... make war...beast was taken, and with him the false prophet...These both were cast alive into a lake of fire burning with brimstone...slain with the sword
+**Words of Battle**: &hellip; white horse &hellip; judge and make war &hellip; vesture dipped in blood&hellip; armies &hellip; sharp sword, &hellip;smite &hellip; rule &hellip; rod of iron &hellip; treadeth &hellip; fierceness and wrath .. eat the flesh &hellip; make war&hellip;beast was taken, and with him the false prophet&hellip;These both were cast alive into a lake of fire burning with brimstone&hellip;slain with the sword
 
 ### Vengeance
 
@@ -30,7 +30,7 @@ Read: Deut. 32:35; Psalm 94:1; Romans 12:19; Romans 3:5
 
 <!-- -->
 
-> Psalms 94:1 ¶ O LORD God, to whom vengeance belongeth; O God, to whom vengeance belongeth, shew thyself.
+> Psalms 94:1 O LORD God, to whom vengeance belongeth; O God, to whom vengeance belongeth, shew thyself.
 
 <!-- -->
 
@@ -63,7 +63,7 @@ Even deeper than the sense of carrying out a "grudge" is the sense that Scriptur
 
 ### Verse 12 His Eyes, Crowns and Name
 
->12  His eyes were as a flame of fire, and on his head were many crowns; and he had a name written, that no man knew, but he himself.
+>12 His eyes were as a flame of fire, and on his head were many crowns; and he had a name written, that no man knew, but he himself.
 
 #### His Eyes were a Flame of Fire
 
@@ -80,14 +80,14 @@ John saw that the name was written, but did not and could not record it as he wa
 ### Verse 13 Reputation, Purpose and Position of Christ
 
 #### His Reputation
-> ...And he was clothed with a vesture.
+> &hellip;And he was clothed with a vesture.
 
-His moral character or reputation is seen. He is not naked. He and all those in Heavenly places are clothed. Those who serve the devil are naked. (Mark 5:15 "legion"; Acts 19:16 "Sons of Sceva")  
+His moral character or reputation is seen. He is not naked. He and all those in Heavenly places are clothed. Those who serve the devil are naked. (Mark 5:15 "legion"; Acts 19:16 "Sons of Sceva") 
 
 He is clothed with a long inner garment (Rev. 1:13) and an outer garment ("vesture").
 
 #### His Purpose
-> ... dipped in blood:...
+> &hellip; dipped in blood:&hellip;
 
 The blood in this context is not His own, but are the bloodstains of His enemies. We see here the marks of a veteran mighty in battle. This is He who fought for Israel as He fought from Heaven against Egyptians, Canaanites, Philistines and many others. Remember what happened to Dagon? (1 Samuel 5:1-7)
 
@@ -96,7 +96,7 @@ The blood in this context is not His own, but are the bloodstains of His enemies
 He is in our text wearing the "same garments" as then! He is coming in the same capacity for the same purpose and with the same invincible power.
 
 #### His Position
-> ...and his name is called The Word of God. (John 1:1)
+> &hellip;and his name is called The Word of God. (John 1:1)
 
 In our text, He is not coming at this time as a lamb to save, but as "the Word of God" / Judge. He will judge the world by His Word. Three names are given here indicating his position:
 
@@ -125,7 +125,7 @@ Compare with 2 Kings 6:17 and Psalm 68:17;
 
 - His Army will Include 10,000's of His Saints
 
-Jude 1:14,15&mdash;And Enoch also, the seventh from Adam, prophesied of these, saying, Behold, the Lord cometh with ten thousands of his saints, 15 ¶ To execute judgment upon all, and to convince all that are ungodly among them of all their ungodly deeds which they have ungodly committed, and of all their hard speeches which ungodly sinners have spoken against him.
+Jude 1:14,15&mdash;And Enoch also, the seventh from Adam, prophesied of these, saying, Behold, the Lord cometh with ten thousands of his saints, 15 To execute judgment upon all, and to convince all that are ungodly among them of all their ungodly deeds which they have ungodly committed, and of all their hard speeches which ungodly sinners have spoken against him.
 
 Saints from all ages of time, make up the armies of the sky. Notice that the Bride goes to Heaven in a Battle (Revelation 12:7) and then comes again in a battle (Revelation 19:14).
 
@@ -175,7 +175,7 @@ Revelation 16 told us that the location of this great battle would be in Armaged
 
 Revelation 17:14 describes the kings of the earth as making war with the lamb, but the Lamb and those that are with Him overcome them.
 
-> Revelation 17:14 ¶ These [the ten kings of the earth] shall make war with the Lamb, and the Lamb shall overcome them: for he is Lord of lords, and King of kings: and they that are with him are called, and chosen, and faithful.
+> Revelation 17:14 These [the ten kings of the earth] shall make war with the Lamb, and the Lamb shall overcome them: for he is Lord of lords, and King of kings: and they that are with him are called, and chosen, and faithful.
 
 ### An Invitation to this Battle
 

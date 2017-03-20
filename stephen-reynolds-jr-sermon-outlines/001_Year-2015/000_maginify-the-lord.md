@@ -19,7 +19,7 @@
 
 The word "magnify' means literally "to make great," and then, to make great in the view of the mind, or to regard and treat as great. "To Make Large" "Boast" "Promote"
 
-To magnify, or exalt, “do not mean that we can add any thing to the glory of the name or nature of God; but that 
+To magnify, or exalt, &quot;do not mean that we can add any thing to the glory of the name or nature of God; but that 
 - we should show forth, and publicly celebrate his majesty and greatness."
 - bring attention to His goodness!
 
@@ -39,7 +39,7 @@ To Whom do we Give the Credit?
 
 ### Somebody TESTIFY
 
-v.4 "he Heard me and delivered ..."
+v.4 "he Heard me and delivered &hellip;"
 v. 6 THIS POOR MAN CRIED
 v.8 "taste and see that the Lord is good"
 v.17 "delivereth them out of all their troubles"
@@ -60,7 +60,7 @@ Blessed be the Rock, Of my Salvation
 
 #### Moses' Song
 
-> Exodus 15:1 ¶ Then sang Moses and the children of Israel this song unto the LORD, and spake, saying, I will sing unto the LORD, for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea. 2 The LORD is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father's God, and I will exalt him.
+> Exodus 15:1 Then sang Moses and the children of Israel this song unto the LORD, and spake, saying, I will sing unto the LORD, for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea. 2 The LORD is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father's God, and I will exalt him.
 
 #### Bro. McLain "America, Make God Great Again!"
 
@@ -70,7 +70,7 @@ Blessed be the Rock, Of my Salvation
 
 #### Gentile Believers were Filled with the Holy Ghost
 
->  Ac 10:46-47&mdash;For they heard them speak with tongues, and magnify God. Then answered Peter, Ac 10:47 Can any man forbid water, that these should not be baptized, which have received the Holy Ghost as well as we?
+> Ac 10:46-47&mdash;For they heard them speak with tongues, and magnify God. Then answered Peter, Ac 10:47 Can any man forbid water, that these should not be baptized, which have received the Holy Ghost as well as we?
 
 ## The Invitation to Magnify God, v. 2
 
@@ -88,7 +88,7 @@ TESTIMONIES:
 
 - Horatio Spafford "It is Well"
 
-This hymn was written after traumatic events in Spafford's life. The first was the death of his son at the age of 2 and the Great Chicago Fire of 1871, which ruined him financially. he sent the family ahead to Europe while he was delayed on business. While crossing the Atlantic, the ship sank rapidly after a collision with a sea vessel, the Loch Earn, and all four of Spafford's daughters died. His wife Anna survived and sent him the now famous telegram, "Saved alone …". 
+This hymn was written after traumatic events in Spafford's life. The first was the death of his son at the age of 2 and the Great Chicago Fire of 1871, which ruined him financially. he sent the family ahead to Europe while he was delayed on business. While crossing the Atlantic, the ship sank rapidly after a collision with a sea vessel, the Loch Earn, and all four of Spafford's daughters died. His wife Anna survived and sent him the now famous telegram, "Saved alone &hellip;". 
 
 The Spaffords later had three more children. On February 11, 1880, their son, Horatio Goertner Spafford, died at the age of four, of scarlet fever. Their Presbyterian church regarded their tragedy as DIVINE PUNISHMENT. "What had the Spaffords done that God could visit such misfortunes upon them?" In response, the Spaffords left the church Horatio has help start and started a new fellowship, dubbed "the Overcomers" by American press. Who ultimoately mooved to Jerusalem, the fellowhsip there grew to a couple hundred and they worked with the poor and needy.
 

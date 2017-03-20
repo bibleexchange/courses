@@ -389,7 +389,7 @@
 <w s="G1715" m="robinson:PREP 8">before</w>
 <w s="G3450" m="robinson:P-1GS 9">me</w>,
 <w s="G3739" m="robinson:R-GSM 11">whose</w>
-<w s="G3588 G5266" m="robinson:T-GSN robinson:N-GSN 21 22">shoe’s</w>
+<w s="G3588 G5266" m="robinson:T-GSN robinson:N-GSN 21 22">shoe&apos;s</w>
 <w s="G3588 G2438" m="robinson:T-ASM robinson:N-ASM 19 20">latchet</w>
 <w s="G1473" m="robinson:P-1NS 12">I</w>
 <w s="G1510" m="robinson:V-PXI-1S 14">am</w>
@@ -605,7 +605,7 @@
 <w s="G2258" m="robinson:V-IXI-3S 1">was</w>
 <w s="G406" m="robinson:N-NSM 2">Andrew</w>,
 <w s="G4613" m="robinson:N-GSM 5">Simon</w>
-<w s="G4074" m="robinson:N-GSM 6">Peter’s</w>
+<w s="G4074" m="robinson:N-GSM 6">Peter&apos;s</w>
 <w s="G3588 G80" m="robinson:T-NSM robinson:N-NSM 3 4">brother</w>.
 </v><v id="41" bcv="JHN.1.41">
 <w s="G3778" m="robinson:D-NSM 2">He</w>
@@ -1001,7 +1001,7 @@
 <w s="G2250" m="robinson:N-APF 24">days</w>.
 </v></p><p><v id="13" bcv="JHN.2.13">¶
 <w s="G2532" m="robinson:CONJ 1">And</w>
-<w s="G2453" m="robinson:A-GPM 7">the Jews’</w>
+<w s="G2453" m="robinson:A-GPM 7">the Jews&apos;</w>
 <w s="G3957" m="robinson:ARAM 5">passover</w>
 <w s="G2258" m="robinson:V-IXI-3S 3">was</w>
 <w s="G1451" m="robinson:ADV 2">at hand</w>,
@@ -1040,7 +1040,7 @@
 <w s="G3588 G1016" m="robinson:T-APM robinson:N-APM 15 16">the oxen</w>;
 <w s="G2532" m="robinson:CONJ 17">and</w>
 <w s="G1632" m="robinson:V-AAI-3S 20">poured out</w>
-<w s="G3588 G2855" m="robinson:T-GPM robinson:N-GPM 18 19">the changers’</w>
+<w s="G3588 G2855" m="robinson:T-GPM robinson:N-GPM 18 19">the changers&apos;</w>
 <w s="G3588 G2772" m="robinson:T-ASN robinson:N-ASN 21 22">money</w>,
 <w s="G2532" m="robinson:CONJ 23">and</w>
 <w s="G390" m="robinson:V-AAI-3S 26">overthrew</w>
@@ -1057,7 +1057,7 @@
 <w s="G4160" m="robinson:V-PAM-2P 11">make</w>
 <w s="G3361" m="robinson:PRT-N 10">not</w>
 <w s="G3450" m="robinson:P-1GS 16">my</w>
-<w s="G3588 G3962" m="robinson:T-GSM robinson:N-GSM 14 15">Father’s</w>
+<w s="G3588 G3962" m="robinson:T-GSM robinson:N-GSM 14 15">Father&apos;s</w>
 <w s="G3588 G3624" m="robinson:T-ASM robinson:N-ASM 12 13">house</w>
 <w s="G3624" m="robinson:N-ASM 17">an house</w>
 <w s="G1712" m="robinson:N-GSN 18">of merchandise</w>.</wj>
@@ -1283,7 +1283,7 @@
 <w s="G1208" m="robinson:ADV 20">the second time</w>
 <w s="G1519" m="robinson:PREP 14">into</w>
 <w s="G846" m="robinson:P-GSM 19">his</w>
-<w s="G3588 G3384" m="robinson:T-GSF robinson:N-GSF 17 18">mother’s</w>
+<w s="G3588 G3384" m="robinson:T-GSF robinson:N-GSF 17 18">mother&apos;s</w>
 <w s="G3588 G2836" m="robinson:T-ASF robinson:N-ASF 15 16">womb</w>,
 <w s="G2532" m="robinson:CONJ 22">and</w>
 <w s="G1080" m="robinson:V-APN 23">be born</w>?
@@ -1635,7 +1635,7 @@
 <w s="G3326" m="robinson:PREP 8">between</w>
 <add>some</add>
 <w s="G1537" m="robinson:PREP 4">of</w>
-<w s="G2491" m="robinson:N-GSM 7">John’s</w>
+<w s="G2491" m="robinson:N-GSM 7">John&apos;s</w>
 <w s="G3588 G3101" m="robinson:T-GPM robinson:N-GPM 5 6">disciples</w>
 <w s="G3326" m="robinson:PREP 8">and</w>
 <w s="G2453" m="robinson:A-GPM 9">the Jews</w>
@@ -1717,7 +1717,7 @@
 <w s="G5479" m="robinson:N-DSF 17">greatly</w>
 <w s="G1223" m="robinson:PREP 19">because</w>
 <w s="G3588 G5456" m="robinson:T-ASF robinson:N-ASF 20 21">of the</w>
-<w s="G3588 G3566" m="robinson:T-GSM robinson:N-GSM 22 23">bridegroom’s</w>
+<w s="G3588 G3566" m="robinson:T-GSM robinson:N-GSM 22 23">bridegroom&apos;s</w>
 <w s="G5456" m="robinson:N-ASF 21">voice</w>:
 <w s="G3778" m="robinson:D-NSF 24">this</w>
 <w s="G1699" m="robinson:S-1NSF 29">my</w>
@@ -1881,7 +1881,7 @@
 <w s="G2501" m="robinson:N-PRI 15">Joseph</w>.
 </v><v id="6" bcv="JHN.4.6">
 <w s="G1161" m="robinson:CONJ 2">Now</w>
-<w s="G2384" m="robinson:N-PRI 6">Jacob’s</w>
+<w s="G2384" m="robinson:N-PRI 6">Jacob&apos;s</w>
 <w s="G4077" m="robinson:N-NSF 4">well</w>
 <w s="G2258" m="robinson:V-IXI-3S 1">was</w>
 <w s="G1563" m="robinson:ADV 3">there</w>.
@@ -3440,7 +3440,7 @@
 <w s="G2064" m="robinson:V-2RAI-1S 2">am come</w>
 <w s="G1722" m="robinson:PREP 3">in</w>
 <w s="G3450" m="robinson:P-1GS 8">my</w>
-<w s="G3588 G3962" m="robinson:T-GSM robinson:N-GSM 6 7">Father’s</w>
+<w s="G3588 G3962" m="robinson:T-GSM robinson:N-GSM 6 7">Father&apos;s</w>
 <w s="G3588 G3686" m="robinson:T-DSN robinson:N-DSN 4 5">name</w>,
 <w s="G2532" m="robinson:CONJ 9">and</w>
 <w s="G2983" m="robinson:V-PAI-2P 11">ye receive</w>
@@ -3626,7 +3626,7 @@
 <w s="G3588 G3101" m="robinson:T-GPM robinson:N-GPM 5 6">disciples</w>,
 <w s="G406" m="robinson:N-NSM 8">Andrew</w>,
 <w s="G4613" m="robinson:N-GSM 11">Simon</w>
-<w s="G4074" m="robinson:N-GSM 12">Peter’s</w>
+<w s="G4074" m="robinson:N-GSM 12">Peter&apos;s</w>
 <w s="G3588 G80" m="robinson:T-NSM robinson:N-NSM 9 10">brother</w>,
 <w s="G3004" m="robinson:V-PAI-3S 1">saith</w>
 <w s="G846" m="robinson:P-DSM 2">unto him</w>,
@@ -4156,7 +4156,7 @@
 <w s="G1161" m="robinson:CONJ 2">And</w>
 <w s="G5124" m="robinson:D-NSN 1">this</w>
 <w s="G2076" m="robinson:V-PXI-3S 3">is</w>
-<w s="G3962" m="robinson:N-GSM 9">the Father’s</w>
+<w s="G3962" m="robinson:N-GSM 9">the Father&apos;s</w>
 <w s="G3588 G2307" m="robinson:T-NSN robinson:N-NSN 4 5">will</w>
 <w s="G3992" m="robinson:V-AAP-GSM 7">which hath sent</w>
 <w s="G3165" m="robinson:P-1AS 8">me</w>,
@@ -4741,7 +4741,7 @@
 <w s="G846" m="robinson:P-ASM 19">him</w>.
 </v><v id="2" bcv="JHN.7.2">
 <w s="G1161" m="robinson:CONJ 2">Now</w>
-<w s="G2453" m="robinson:A-GPM 7">the Jews’</w>
+<w s="G2453" m="robinson:A-GPM 7">the Jews&apos;</w>
 <w s="G3588 G1859" m="robinson:T-NSF robinson:N-NSF 4 5">feast</w>
 <w s="G3588 G4634" m="robinson:T-NSF robinson:N-NSF 8 9">of tabernacles</w>
 <w s="G2258" m="robinson:V-IXI-3S 1">was</w>
@@ -6144,7 +6144,7 @@
 <w s="G611" m="robinson:V-ADI-3P 1">They answered</w>
 <w s="G846" m="robinson:P-DSM 2">him</w>,
 <w s="G2070" m="robinson:V-PXI-1P 5">We be</w>
-<w s="G11" m="robinson:N-PRI 4">Abraham’s</w>
+<w s="G11" m="robinson:N-PRI 4">Abraham&apos;s</w>
 <w s="G4690" m="robinson:N-NSN 3">seed</w>,
 <w s="G2532" m="robinson:CONJ 6">and</w>
 <w s="G1398" m="robinson:V-RAI-1P 8">were</w>
@@ -6201,7 +6201,7 @@
 <w s="G1492" m="robinson:V-RAI-1S 1">I know</w>
 <w s="G3754" m="robinson:CONJ 2">that</w>
 <w s="G2075" m="robinson:V-PXI-2P 5">ye are</w>
-<w s="G11" m="robinson:N-PRI 4">Abraham’s</w>
+<w s="G11" m="robinson:N-PRI 4">Abraham&apos;s</w>
 <w s="G4690" m="robinson:N-NSN 3">seed</w>;
 <w s="G235" m="robinson:CONJ 6">but</w>
 <w s="G2212" m="robinson:V-PAI-2P 7">ye seek</w>
@@ -6249,7 +6249,7 @@
 <wj>
 <w s="G1487" m="robinson:COND 14">If</w> ye
 <w s="G2258" m="robinson:V-IXI-2P 18">were</w>
-<w s="G11" m="robinson:N-PRI 17">Abraham’s</w>
+<w s="G11" m="robinson:N-PRI 17">Abraham&apos;s</w>
 <w s="G5043" m="robinson:N-NPN 15">children</w>,
 <w s="G4160" m="robinson:V-IAI-2P 23">ye would do</w>
 <w s="G3588 G2041" m="robinson:T-APN robinson:N-APN 19 20">the works</w>
@@ -6415,7 +6415,7 @@
 <w s="G1537" m="robinson:PREP 3">of</w>
 <w s="G3588 G2316" m="robinson:T-GSM robinson:N-GSM 4 5">God</w>
 <w s="G191" m="robinson:V-PAI-3S 10">heareth</w>
-<w s="G3588 G2316" m="robinson:T-GSM robinson:N-GSM 8 9">God’s</w>
+<w s="G3588 G2316" m="robinson:T-GSM robinson:N-GSM 8 9">God&apos;s</w>
 <w s="G3588 G4487" m="robinson:T-APN robinson:N-APN 6 7">words</w>:
 <w s="G5210" m="robinson:P-2NP 13">ye</w>
 <w s="G1223" m="robinson:PREP 11">therefore</w>
@@ -7116,7 +7116,7 @@
 <w s="G1161" m="robinson:CONJ 11">but</w>
 <w s="G2249" m="robinson:P-1NP 10">we</w>
 <w s="G2070" m="robinson:V-PXI-1P 14">are</w>
-<w s="G3588 G3475" m="robinson:T-GSM robinson:N-GSM 12 13">Moses’</w>
+<w s="G3588 G3475" m="robinson:T-GSM robinson:N-GSM 12 13">Moses&apos;</w>
 <w s="G3101" m="robinson:N-NPM 15">disciples</w>.
 </v><v id="29" bcv="JHN.9.29">
 <w s="G2249" m="robinson:P-1NP 1">We</w>
@@ -7707,7 +7707,7 @@
 <w s="G1722" m="robinson:PREP 5">in</w>
 <w s="G3588 G2411" m="robinson:T-DSN robinson:N-DSN 6 7">the temple</w>
 <w s="G1722" m="robinson:PREP 8">in</w>
-<w s="G3588 G4672" m="robinson:T-GSM robinson:N-GSM 11 12">Solomon’s</w>
+<w s="G3588 G4672" m="robinson:T-GSM robinson:N-GSM 11 12">Solomon&apos;s</w>
 <w s="G3588 G4745" m="robinson:T-DSF robinson:N-DSF 9 10">porch</w>.
 </v><v id="24" bcv="JHN.10.24">
 <w s="G3767" m="robinson:CONJ 2">Then</w>
@@ -7746,7 +7746,7 @@
 <w s="G4160" m="robinson:V-PAI-1S 14">do</w>
 <w s="G1722" m="robinson:PREP 15">in</w>
 <w s="G3450" m="robinson:P-1GS 20">my</w>
-<w s="G3588 G3962" m="robinson:T-GSM robinson:N-GSM 18 19">Father’s</w>
+<w s="G3588 G3962" m="robinson:T-GSM robinson:N-GSM 18 19">Father&apos;s</w>
 <w s="G3588 G3686" m="robinson:T-DSN robinson:N-DSN 16 17">name</w>,
 <w s="G5023" m="robinson:D-NPN 21">they</w>
 <w s="G3140" m="robinson:V-PAI-3S 22">bear witness</w>
@@ -7819,7 +7819,7 @@
 <add>them</add>
 <w s="G1537" m="robinson:PREP 14">out of</w>
 <w s="G3450" m="robinson:P-1GS 19">my</w>
-<w s="G3588 G3962" m="robinson:T-GSM robinson:N-GSM 17 18">Father’s</w>
+<w s="G3588 G3962" m="robinson:T-GSM robinson:N-GSM 17 18">Father&apos;s</w>
 <w s="G3588 G5495" m="robinson:T-GSF robinson:N-GSF 15 16">hand</w>.</wj>
 </v><v id="30" bcv="JHN.10.30">
 <wj>
@@ -8870,7 +8870,7 @@
 <w s="G3588 G3101" m="robinson:T-GPM robinson:N-GPM 26 27">disciples</w>.
 </v></p><p><v id="55" bcv="JHN.11.55">¶
 <w s="G1161" m="robinson:CONJ 2">And</w>
-<w s="G2453" m="robinson:A-GPM 7">the Jews’</w>
+<w s="G2453" m="robinson:A-GPM 7">the Jews&apos;</w>
 <w s="G3957" m="robinson:ARAM 5">passover</w>
 <w s="G2258" m="robinson:V-IXI-3S 1">was</w>
 <w s="G1451" m="robinson:ADV 3">nigh at hand</w>:
@@ -8991,7 +8991,7 @@
 <w s="G3588 G3101" m="robinson:T-GPM robinson:N-GPM 5 6">disciples</w>,
 <w s="G2455" m="robinson:N-NSM 8">Judas</w>
 <w s="G2469" m="robinson:N-NSM 10">Iscariot</w>,
-<w s="G4613" m="robinson:N-GSM 9">Simon’s</w>
+<w s="G4613" m="robinson:N-GSM 9">Simon&apos;s</w>
 <add>son</add>,
 <w s="G3195" m="robinson:V-PAP-NSM 12">which should</w>
 <w s="G3860" m="robinson:V-PAN 14">betray</w>
@@ -9069,7 +9069,7 @@
 <w s="G2064" m="robinson:V-2AAI-3P 12">they came</w>
 <w s="G3756" m="robinson:PRT-N 13">not</w>
 <w s="G1223" m="robinson:PREP 14">for</w>
-<w s="G3588 G2424" m="robinson:T-ASM robinson:N-ASM 15 16">Jesus’</w>
+<w s="G3588 G2424" m="robinson:T-ASM robinson:N-ASM 15 16">Jesus&apos;</w>
 <w s="G1223" m="robinson:PREP 14">sake</w>
 <w s="G3440" m="robinson:ADV 17">only</w>,
 <w s="G235" m="robinson:CONJ 18">but</w>
@@ -9156,7 +9156,7 @@
 <w s="G2064" m="robinson:V-PNI-3S 9">cometh</w>,
 <w s="G2521" m="robinson:V-PNP-NSM 10">sitting</w>
 <w s="G1909" m="robinson:PREP 11">on</w>
-<w s="G3688" m="robinson:N-GSF 13">an ass’s</w>
+<w s="G3688" m="robinson:N-GSF 13">an ass&apos;s</w>
 <w s="G4454" m="robinson:N-ASM 12">colt</w>.
 </v><v id="16" bcv="JHN.12.16">
 <w s="G5023" m="robinson:D-APN 1">These things</w>
@@ -9811,7 +9811,7 @@
 <w s="G3588 G2588" m="robinson:T-ASF robinson:N-ASF 9 10">the heart</w>
 <w s="G2455" m="robinson:N-GSM 11">of Judas</w>
 <w s="G2469" m="robinson:N-GSM 13">Iscariot</w>,
-<w s="G4613" m="robinson:N-GSM 12">Simon’s</w>
+<w s="G4613" m="robinson:N-GSM 12">Simon&apos;s</w>
 <add>son</add>,
 <w s="G2443" m="robinson:CONJ 14">to</w>
 <w s="G3860" m="robinson:V-2AAS-3S 16">betray</w>
@@ -9857,7 +9857,7 @@
 <w s="G2532" m="robinson:CONJ 7">and</w>
 <w s="G756" m="robinson:V-ADI-3S 8">began</w>
 <w s="G3538" m="robinson:V-PAN 9">to wash</w>
-<w s="G3588 G3101" m="robinson:T-GPM robinson:N-GPM 12 13">the disciples’</w>
+<w s="G3588 G3101" m="robinson:T-GPM robinson:N-GPM 12 13">the disciples&apos;</w>
 <w s="G3588 G4228" m="robinson:T-APM robinson:N-APM 10 11">feet</w>,
 <w s="G2532" m="robinson:CONJ 14">and</w>
 <w s="G1591" m="robinson:V-PAN 15">to wipe</w>
@@ -10022,7 +10022,7 @@
 <w s="G2532" m="robinson:CONJ 13">also</w>
 <w s="G3784" m="robinson:V-PAI-2P 15">ought</w>
 <w s="G3538" m="robinson:V-PAN 17">to wash</w>
-<w s="G240" m="robinson:C-GPM 16">one another’s</w>
+<w s="G240" m="robinson:C-GPM 16">one another&apos;s</w>
 <w s="G3588 G4228" m="robinson:T-APM robinson:N-APM 18 19">feet</w>.</wj>
 </v><v id="15" bcv="JHN.13.15">
 <wj>
@@ -10161,7 +10161,7 @@
 <w s="G2258" m="robinson:V-IXI-3S 1">there was</w>
 <w s="G345" m="robinson:V-PNP-NSM 3">leaning</w>
 <w s="G1722" m="robinson:PREP 8">on</w>
-<w s="G3588 G2424" m="robinson:T-GSM robinson:N-GSM 11 12">Jesus’</w>
+<w s="G3588 G2424" m="robinson:T-GSM robinson:N-GSM 11 12">Jesus&apos;</w>
 <w s="G3588 G2859" m="robinson:T-DSM robinson:N-DSM 9 10">bosom</w>
 <w s="G1520" m="robinson:A-NSM 4">one</w>
 <w s="G846" m="robinson:P-GSM 7">of his</w>
@@ -10186,7 +10186,7 @@
 <w s="G1161" m="robinson:CONJ 2">then</w>
 <w s="G1968" m="robinson:V-2AAP-NSM 1">lying</w>
 <w s="G1909" m="robinson:PREP 4">on</w>
-<w s="G3588 G2424" m="robinson:T-GSM robinson:N-GSM 7 8">Jesus’</w>
+<w s="G3588 G2424" m="robinson:T-GSM robinson:N-GSM 7 8">Jesus&apos;</w>
 <w s="G3588 G4738" m="robinson:T-ASN robinson:N-ASN 5 6">breast</w>
 <w s="G3004" m="robinson:V-PAI-3S 9">saith</w>
 <w s="G846" m="robinson:P-DSM 10">unto him</w>,
@@ -10449,7 +10449,7 @@
 <wj>
 <w s="G1722" m="robinson:PREP 1">In</w>
 <w s="G3450" m="robinson:P-1GS 6">my</w>
-<w s="G3588 G3962" m="robinson:T-GSM robinson:N-GSM 4 5">Father’s</w>
+<w s="G3588 G3962" m="robinson:T-GSM robinson:N-GSM 4 5">Father&apos;s</w>
 <w s="G3588 G3614" m="robinson:T-DSF robinson:N-DSF 2 3">house</w>
 <w s="G1526" m="robinson:V-PXI-3P 9">are</w>
 <w s="G4183" m="robinson:A-NPF 8">many</w>
@@ -10636,7 +10636,7 @@
 <w s="G4100" m="robinson:V-PAM-2P 20">believe</w>
 <w s="G3427" m="robinson:P-1DS 21">me</w>
 <w s="G1223" m="robinson:PREP 16">for</w>
-<w s="G3588 G2041" m="robinson:T-APN robinson:N-APN 17 18">the very works’</w>
+<w s="G3588 G2041" m="robinson:T-APN robinson:N-APN 17 18">the very works&apos;</w>
 <w s="G846" m="robinson:P-APN 19">sake</w>.</wj>
 </v><v id="12" bcv="JHN.14.12">
 <wj>
@@ -10888,7 +10888,7 @@
 <w s="G3756" m="robinson:PRT-N 15">not</w>
 <w s="G1699" m="robinson:S-1NSM 17">mine</w>,
 <w s="G235" m="robinson:CONJ 18">but</w>
-<w s="G3962" m="robinson:N-GSM 22">the Father’s</w>
+<w s="G3962" m="robinson:N-GSM 22">the Father&apos;s</w>
 <w s="G3992" m="robinson:V-AAP-GSM 20">which sent</w>
 <w s="G3165" m="robinson:P-1AS 21">me</w>.</wj>
 </v><v id="25" bcv="JHN.14.25">
@@ -11206,7 +11206,7 @@
 <w s="G1473" m="robinson:P-1NS 12">I</w>
 <w s="G5083" m="robinson:V-RAI-1S 18">have kept</w>
 <w s="G3450" m="robinson:P-1GS 17">my</w>
-<w s="G3588 G3962" m="robinson:T-GSM robinson:N-GSM 15 16">Father’s</w>
+<w s="G3588 G3962" m="robinson:T-GSM robinson:N-GSM 15 16">Father&apos;s</w>
 <w s="G3588 G1785" m="robinson:T-APF robinson:N-APF 13 14">commandments</w>,
 <w s="G2532" m="robinson:CONJ 19">and</w>
 <w s="G3306" m="robinson:V-PAI-1S 20">abide</w>
@@ -11411,7 +11411,7 @@
 <w s="G5213" m="robinson:P-2DP 5">unto you</w>
 <w s="G1223" m="robinson:PREP 6">for</w>
 <w s="G3450" m="robinson:P-1GS 9">my</w>
-<w s="G3588 G3686" m="robinson:T-ASN robinson:N-ASN 7 8">name’s sake</w>,
+<w s="G3588 G3686" m="robinson:T-ASN robinson:N-ASN 7 8">name&apos;s sake</w>,
 <w s="G3754" m="robinson:CONJ 10">because</w>
 <w s="G1492" m="robinson:V-RAI-3P 12">they know</w>
 <w s="G3756" m="robinson:PRT-N 11">not</w>
@@ -12813,14 +12813,14 @@
 <w s="G846" m="robinson:P-ASF 7">it</w>,
 <w s="G2532" m="robinson:CONJ 8">and</w>
 <w s="G3817" m="robinson:V-AAI-3S 9">smote</w>
-<w s="G3588 G749" m="robinson:T-GSM robinson:N-GSM 11 12">the high priest’s</w>
+<w s="G3588 G749" m="robinson:T-GSM robinson:N-GSM 11 12">the high priest&apos;s</w>
 <w s="G1401" m="robinson:N-ASM 13">servant</w>,
 <w s="G2532" m="robinson:CONJ 14">and</w>
 <w s="G609" m="robinson:V-AAI-3S 15">cut off</w>
 <w s="G846" m="robinson:P-GSM 16">his</w>
 <w s="G1188" m="robinson:A-ASN 20">right</w>
 <w s="G3588 G5621" m="robinson:T-ASN robinson:N-ASN 17 18">ear</w>.
-<w s="G3588 G1401" m="robinson:T-DSM robinson:N-DSM 24 25">The servant’s</w>
+<w s="G3588 G1401" m="robinson:T-DSM robinson:N-DSM 24 25">The servant&apos;s</w>
 <w s="G3686" m="robinson:N-NSN 23">name</w>
 <w s="G2258" m="robinson:V-IXI-3S 21">was</w>
 <w s="G3124" m="robinson:N-NSM 26">Malchus</w>.
@@ -12946,7 +12946,7 @@
 <add>one</add>
 <w s="G1537" m="robinson:PREP 12">of</w>
 <w s="G5127" m="robinson:D-GSM 18">this</w>
-<w s="G3588 G444" m="robinson:T-GSM robinson:N-GSM 16 17">man’s</w>
+<w s="G3588 G444" m="robinson:T-GSM robinson:N-GSM 16 17">man&apos;s</w>
 <w s="G3588 G3101" m="robinson:T-GPM robinson:N-GPM 13 14">disciples</w>?
 <w s="G3004" m="robinson:V-PAI-3S 19">He saith</w>,
 <w s="G1510" m="robinson:V-PXI-1S 22">I am</w>
@@ -13600,7 +13600,7 @@
 <w s="G630" m="robinson:V-AAS-2S 15">go</w>,
 <w s="G1488" m="robinson:V-PXI-2S 17">thou art</w>
 <w s="G3756" m="robinson:PRT-N 16">not</w>
-<w s="G3588 G2541" m="robinson:T-GSM robinson:N-GSM 19 20">Cæsar’s</w>
+<w s="G3588 G2541" m="robinson:T-GSM robinson:N-GSM 19 20">Cæsar&apos;s</w>
 <w s="G5384" m="robinson:A-NSM 18">friend</w>:
 <w s="G3956" m="robinson:A-NSM 21">whosoever</w>
 <w s="G4160" m="robinson:V-PAP-NSM 25">maketh</w>
@@ -13842,7 +13842,7 @@
 <w s="G3588 G3384" m="robinson:T-NSF robinson:N-NSF 8 9">mother</w>,
 <w s="G2532" m="robinson:CONJ 11">and</w>
 <w s="G846" m="robinson:P-GSM 16">his</w>
-<w s="G3588 G3384" m="robinson:T-GSF robinson:N-GSF 14 15">mother’s</w>
+<w s="G3588 G3384" m="robinson:T-GSF robinson:N-GSF 14 15">mother&apos;s</w>
 <w s="G3588 G79" m="robinson:T-NSF robinson:N-NSF 12 13">sister</w>,
 <w s="G3137" m="robinson:N-NSF 17">Mary</w> the
 <add>wife</add>
@@ -14136,7 +14136,7 @@
 <w s="G3588 G2424" m="robinson:T-ASM robinson:N-ASM 14 15">Jesus</w>
 <w s="G3767" m="robinson:CONJ 2">therefore</w>
 <w s="G1223" m="robinson:PREP 3">because</w>
-<w s="G2453" m="robinson:A-GPM 7">of the Jews’</w>
+<w s="G2453" m="robinson:A-GPM 7">of the Jews&apos;</w>
 <w s="G3588 G3904" m="robinson:T-ASF robinson:N-ASF 4 5">preparation</w>
 <add>day</add>;
 <w s="G3754" m="robinson:CONJ 8">for</w>
@@ -14874,7 +14874,7 @@
 <w s="G3588 G2962" m="robinson:T-NSM robinson:N-NSM 20 21">the Lord</w>,
 <w s="G1241" m="robinson:V-AMI-3S 25">he girt</w>
 <add>his</add>
-<w s="G1903" m="robinson:N-ASF 24">fisher’s coat</w>
+<w s="G1903" m="robinson:N-ASF 24">fisher&apos;s coat</w>
 <add>unto him</add>, (<w s="G1063" m="robinson:CONJ 27">for</w>
 <w s="G2258" m="robinson:V-IXI-3S 26">he was</w>
 <w s="G1131" m="robinson:A-NSM 28">naked</w>,)
@@ -15499,7 +15499,7 @@
 <w s="G2076" m="robinson:V-PXI-3S 11">is</w>
 <w s="G1451" m="robinson:ADV 12">from</w>
 <w s="G2419" m="robinson:N-PRI 13">Jerusalem</w>
-<w s="G4521" m="robinson:N-GSN 14">a sabbath day</w>’<w s="G2192" m="robinson:V-PAP-ASN 15">s</w>
+<w s="G4521" m="robinson:N-GSN 14">a sabbath day</w>&apos;<w s="G2192" m="robinson:V-PAP-ASN 15">s</w>
 <w s="G3598" m="robinson:N-ASF 16">journey</w>.
 </v><v id="13" bcv="ACT.1.13">
 <w s="G2532" m="robinson:CONJ 1">And</w>
@@ -16468,7 +16468,7 @@
 <w s="G1161" m="robinson:CONJ 2">And</w>
 <w s="G4342" m="robinson:V-PAP-NPM 3">they continued stedfastly</w>
 <w s="G3588 G1322" m="robinson:T-DSF robinson:N-DSF 4 5">in</w>
-<w s="G3588 G652" m="robinson:T-GPM robinson:N-GPM 6 7">the apostles’</w>
+<w s="G3588 G652" m="robinson:T-GPM robinson:N-GPM 6 7">the apostles&apos;</w>
 <w s="G1322" m="robinson:N-DSF 5">doctrine</w>
 <w s="G2532" m="robinson:CONJ 8">and</w>
 <w s="G3588 G2842" m="robinson:T-DSF robinson:N-DSF 9 10">fellowship</w>,
@@ -16576,7 +16576,7 @@
 <w s="G5560" m="robinson:A-NSM 4">lame</w>
 <w s="G1537" m="robinson:PREP 5">from</w>
 <w s="G846" m="robinson:P-GSM 8">his</w>
-<w s="G3384" m="robinson:N-GSF 7">mother’s</w>
+<w s="G3384" m="robinson:N-GSF 7">mother&apos;s</w>
 <w s="G2836" m="robinson:N-GSF 6">womb</w>
 <w s="G941" m="robinson:V-IPI-3S 10">was carried</w>,
 <w s="G3739" m="robinson:R-ASM 11">whom</w>
@@ -16740,7 +16740,7 @@
 <w s="G1909" m="robinson:PREP 16">in</w>
 <w s="G3588 G4745" m="robinson:T-DSF robinson:N-DSF 17 18">the porch</w>
 <w s="G2564" m="robinson:V-PPP-DSF 20">that is called</w>
-<w s="G4672" m="robinson:N-GSM 21">Solomon’s</w>,
+<w s="G4672" m="robinson:N-GSM 21">Solomon&apos;s</w>,
 <w s="G1569" m="robinson:A-NPM 22">greatly wondering</w>.
 </v></p><p><v id="12" bcv="ACT.3.12">¶
 <w s="G1161" m="robinson:CONJ 2">And</w>
@@ -17640,7 +17640,7 @@
 <add>them</add>
 <w s="G5087" m="robinson:V-IAI-3P 2">down</w>
 <w s="G3844" m="robinson:PREP 3">at</w>
-<w s="G3588 G652" m="robinson:T-GPM robinson:N-GPM 6 7">the apostles’</w>
+<w s="G3588 G652" m="robinson:T-GPM robinson:N-GPM 6 7">the apostles&apos;</w>
 <w s="G3588 G4228" m="robinson:T-APM robinson:N-APM 4 5">feet</w>:
 <w s="G1161" m="robinson:CONJ 9">and</w>
 <w s="G1239" m="robinson:V-IPI-3S 8">distribution was made</w>
@@ -17677,7 +17677,7 @@
 <w s="G5087" m="robinson:V-AAI-3S 9">laid</w>
 <add>it</add>
 <w s="G3844" m="robinson:PREP 10">at</w>
-<w s="G3588 G652" m="robinson:T-GPM robinson:N-GPM 13 14">the apostles’</w>
+<w s="G3588 G652" m="robinson:T-GPM robinson:N-GPM 13 14">the apostles&apos;</w>
 <w s="G3588 G4228" m="robinson:T-APM robinson:N-APM 11 12">feet</w>.
 </v></p></c><c id="5">
 <p><v id="1" bcv="ACT.5.1">
@@ -17710,7 +17710,7 @@
 <w s="G5087" m="robinson:V-AAI-3S 20">and laid</w>
 <add>it</add>
 <w s="G3844" m="robinson:PREP 15">at</w>
-<w s="G3588 G652" m="robinson:T-GPM robinson:N-GPM 18 19">the apostles’</w>
+<w s="G3588 G652" m="robinson:T-GPM robinson:N-GPM 18 19">the apostles&apos;</w>
 <w s="G3588 G4228" m="robinson:T-APM robinson:N-APM 16 17">feet</w>.
 </v><v id="3" bcv="ACT.5.3">
 <w s="G1161" m="robinson:CONJ 2">But</w>
@@ -17899,7 +17899,7 @@
 <w s="G537" m="robinson:A-NPM 18">all</w>
 <w s="G3661" m="robinson:ADV 17">with one accord</w>
 <w s="G1722" m="robinson:PREP 19">in</w>
-<w s="G4672" m="robinson:N-GSM 22">Solomon’s</w>
+<w s="G4672" m="robinson:N-GSM 22">Solomon&apos;s</w>
 <w s="G3588 G4745" m="robinson:T-DSF robinson:N-DSF 20 21">porch</w>.
 </v><v id="13" bcv="ACT.5.13">
 <w s="G1161" m="robinson:CONJ 2">And</w>
@@ -18175,7 +18175,7 @@
 <w s="G1014" m="robinson:V-PNI-2P 21">intend</w>
 <w s="G1863" m="robinson:V-2AAN 22">to bring</w>
 <w s="G5127" m="robinson:D-GSM 29">this</w>
-<w s="G3588 G444" m="robinson:T-GSM robinson:N-GSM 27 28">man’s</w>
+<w s="G3588 G444" m="robinson:T-GSM robinson:N-GSM 27 28">man&apos;s</w>
 <w s="G3588 G129" m="robinson:T-ASN robinson:N-ASN 25 26">blood</w>
 <w s="G1909" m="robinson:PREP 23">upon</w>
 <w s="G2248" m="robinson:P-1AP 24">us</w>.
@@ -18950,7 +18950,7 @@
 <w s="G846" m="robinson:P-GSM 9">his</w>
 <w s="G80" m="robinson:N-DPM 8">brethren</w>;
 <w s="G2532" m="robinson:CONJ 10">and</w>
-<w s="G2501" m="robinson:N-PRI 18">Joseph’s</w>
+<w s="G2501" m="robinson:N-PRI 18">Joseph&apos;s</w>
 <w s="G3588 G1085" m="robinson:T-NSN robinson:N-NSN 15 16">kindred</w>
 <w s="G1096" m="robinson:V-2ADI-3S 12">was made</w>
 <w s="G5318" m="robinson:A-NSN 11">known</w>
@@ -19061,7 +19061,7 @@
 <w s="G397" m="robinson:V-2API-3S 12">nourished</w> up
 <w s="G1722" m="robinson:PREP 15">in</w>
 <w s="G846" m="robinson:P-GSM 20">his</w>
-<w s="G3588 G3962" m="robinson:T-GSM robinson:N-GSM 18 19">father’s</w>
+<w s="G3588 G3962" m="robinson:T-GSM robinson:N-GSM 18 19">father&apos;s</w>
 <w s="G3588 G3624" m="robinson:T-DSM robinson:N-DSM 16 17">house</w>
 <w s="G5140" m="robinson:A-APM 14">three</w>
 <w s="G3376" m="robinson:N-APM 13">months</w>:
@@ -19070,7 +19070,7 @@
 <w s="G1620" m="robinson:V-APP-ASM 1">when</w>
 <w s="G846" m="robinson:P-ASM 3">he</w>
 <w s="G1620" m="robinson:V-APP-ASM 1">was cast out</w>,
-<w s="G5328" m="robinson:N-PRI 8">Pharaoh’s</w>
+<w s="G5328" m="robinson:N-PRI 8">Pharaoh&apos;s</w>
 <w s="G3588 G2364" m="robinson:T-NSF robinson:N-NSF 6 7">daughter</w>
 <w s="G397" m="robinson:V-AMI-3S 10">took</w>
 <w s="G846" m="robinson:P-ASM 5">him</w>
@@ -19744,7 +19744,7 @@
 <w s="G846" m="robinson:P-GPM 13">their</w>
 <w s="G3588 G2440" m="robinson:T-APN robinson:N-APN 11 12">clothes</w>
 <w s="G3844" m="robinson:PREP 14">at</w>
-<w s="G3494" m="robinson:N-GSM 17">a young man’s</w>
+<w s="G3494" m="robinson:N-GSM 17">a young man&apos;s</w>
 <w s="G3588 G4228" m="robinson:T-APM robinson:N-APM 15 16">feet</w>,
 <w s="G2564" m="robinson:V-PPP-GSM 18">whose name was</w>
 <w s="G4569" m="robinson:N-GSM 19">Saul</w>.
@@ -20042,7 +20042,7 @@
 <w s="G3754" m="robinson:CONJ 5">that</w>
 <w s="G1223" m="robinson:PREP 6">through</w>
 <w s="G3588 G1936" m="robinson:T-GSF robinson:N-GSF 7 8">laying on</w>
-<w s="G3588 G652" m="robinson:T-GPM robinson:N-GPM 11 12">of the apostles’</w>
+<w s="G3588 G652" m="robinson:T-GPM robinson:N-GPM 11 12">of the apostles&apos;</w>
 <w s="G3588 G5495" m="robinson:T-GPF robinson:N-GPF 9 10">hands</w>
 <w s="G40" m="robinson:A-ASN 17">the Holy</w>
 <w s="G3588 G4151" m="robinson:T-ASN robinson:N-ASN 14 15">Ghost</w>
@@ -20727,7 +20727,7 @@
 <w s="G3958" m="robinson:V-2AAN 12">suffer</w>
 <w s="G5228" m="robinson:PREP 8">for</w>
 <w s="G3450" m="robinson:P-1GS 11">my</w>
-<w s="G3588 G3686" m="robinson:T-GSN robinson:N-GSN 9 10">name’s sake</w>.</wj>
+<w s="G3588 G3686" m="robinson:T-GSN robinson:N-GSN 9 10">name&apos;s sake</w>.</wj>
 </v><v id="17" bcv="ACT.9.17">
 <w s="G1161" m="robinson:CONJ 2">And</w>
 <w s="G367" m="robinson:N-NSM 3">Ananias</w>
@@ -21499,7 +21499,7 @@
 <w s="G575" m="robinson:PREP 21">from</w>
 <w s="G3588 G2883" m="robinson:T-GSM robinson:N-GSM 22 23">Cornelius</w>
 <w s="G1331" m="robinson:V-AAP-NPM 24">had made enquiry</w>
-<w s="G4613" m="robinson:N-GSM 27">for Simon’s</w>
+<w s="G4613" m="robinson:N-GSM 27">for Simon&apos;s</w>
 <w s="G3588 G3614" m="robinson:T-ASF robinson:N-ASF 25 26">house</w>,
 <w s="G2532" m="robinson:CONJ 15">and</w>
 <w s="G2186" m="robinson:V-2AAI-3P 28">stood</w>
@@ -22234,7 +22234,7 @@
 <w s="G2532" m="robinson:CONJ 19">and</w>
 <w s="G1525" m="robinson:V-2AAI-1P 20">we entered</w>
 <w s="G1519" m="robinson:PREP 21">into</w>
-<w s="G3588 G435" m="robinson:T-GSM robinson:N-GSM 24 25">the man’s</w>
+<w s="G3588 G435" m="robinson:T-GSM robinson:N-GSM 24 25">the man&apos;s</w>
 <w s="G3588 G3624" m="robinson:T-ASM robinson:N-ASM 22 23">house</w>:
 </v><v id="13" bcv="ACT.11.13">
 <w s="G5037" m="robinson:PRT 2">And</w>
@@ -22807,7 +22807,7 @@
 </v><v id="14" bcv="ACT.12.14">
 <w s="G2532" m="robinson:CONJ 1">And</w>
 <w s="G1921" m="robinson:V-2AAP-NSF 2">when she knew</w>
-<w s="G3588 G4074" m="robinson:T-GSM robinson:N-GSM 5 6">Peter’s</w>
+<w s="G3588 G4074" m="robinson:T-GSM robinson:N-GSM 5 6">Peter&apos;s</w>
 <w s="G3588 G5456" m="robinson:T-ASF robinson:N-ASF 3 4">voice</w>,
 <w s="G455" m="robinson:V-AAI-3S 11">she opened</w>
 <w s="G3756" m="robinson:PRT-N 10">not</w>
@@ -22926,7 +22926,7 @@
 <w s="G2532" m="robinson:CONJ 14">and</w>,
 <w s="G3982" m="robinson:V-AAP-NPM 15">having made</w>
 <w s="G986" m="robinson:N-ASM 16">Blastus</w>
-<w s="G3588 G935" m="robinson:T-GSM robinson:N-GSM 21 22">the king’s</w>
+<w s="G3588 G935" m="robinson:T-GSM robinson:N-GSM 21 22">the king&apos;s</w>
 <w s="G3588 G2846" m="robinson:T-GSM robinson:N-GSM 19 20">chamberlain</w>
 <w s="G3982" m="robinson:V-AAP-NPM 15">their friend</w>,
 <w s="G154" m="robinson:V-IMI-3P 23">desired</w>
@@ -22936,7 +22936,7 @@
 <w s="G3588 G5561" m="robinson:T-ASF robinson:N-ASF 29 30">country</w>
 <w s="G5142" m="robinson:V-PPN 27">was nourished</w>
 <w s="G575" m="robinson:PREP 31">by</w>
-<w s="G937" m="robinson:A-GSF 33">the king’s</w>
+<w s="G937" m="robinson:A-GSF 33">the king&apos;s</w>
 <add>country</add>.
 </v><v id="21" bcv="ACT.12.21">
 <w s="G1161" m="robinson:CONJ 2">And</w>
@@ -23399,7 +23399,7 @@
 <w s="G3588 G2307" m="robinson:T-APN robinson:N-APN 27 28">will</w>.
 </v><v id="23" bcv="ACT.13.23">
 <w s="G575" m="robinson:PREP 4">Of</w>
-<w s="G5127" m="robinson:D-GSM 1">this man’s</w>
+<w s="G5127" m="robinson:D-GSM 1">this man&apos;s</w>
 <w s="G3588 G4690" m="robinson:T-GSN robinson:N-GSN 5 6">seed</w>
 <w s="G1453" m="robinson:V-AAI-3S 9">hath</w>
 <w s="G3588 G2316" m="robinson:T-NSM robinson:N-NSM 2 3">God</w>
@@ -24004,7 +24004,7 @@
 <w s="G5560" m="robinson:A-NSM 10">a cripple</w>
 <w s="G1537" m="robinson:PREP 11">from</w>
 <w s="G846" m="robinson:P-GSM 14">his</w>
-<w s="G3384" m="robinson:N-GSF 13">mother’s</w>
+<w s="G3384" m="robinson:N-GSF 13">mother&apos;s</w>
 <w s="G2836" m="robinson:N-GSF 12">womb</w>,
 <w s="G3739" m="robinson:R-NSM 16">who</w>
 <w s="G3763" m="robinson:ADV 17">never</w>
@@ -25440,7 +25440,7 @@
 <w s="G3588 G2374" m="robinson:T-NPF robinson:N-NPF 15 16">the doors</w>
 <w s="G455" m="robinson:V-API-3P 12">were opened</w>,
 <w s="G2532" m="robinson:CONJ 18">and</w>
-<w s="G3956" m="robinson:A-GPM 19">every one’s</w>
+<w s="G3956" m="robinson:A-GPM 19">every one&apos;s</w>
 <w s="G3588 G1199" m="robinson:T-NPN robinson:N-NPN 20 21">bands</w>
 <w s="G447" m="robinson:V-API-3S 22">were loosed</w>.
 </v><v id="27" bcv="ACT.16.27">
@@ -26046,7 +26046,7 @@
 <w s="G2476" m="robinson:V-APP-NSM 1">stood</w>
 <w s="G1722" m="robinson:PREP 5">in</w>
 <w s="G3319" m="robinson:A-DSN 6">the midst</w>
-<w s="G3588 G697" m="robinson:T-GSM robinson:N-GSM 7 8">of Mars’</w>
+<w s="G3588 G697" m="robinson:T-GSM robinson:N-GSM 7 8">of Mars&apos;</w>
 <w s="G697" m="robinson:N-GSM 9">hill</w>,
 <w s="G5346" m="robinson:V-IXI-3S 10">and said</w>,
 <add>Ye</add>
@@ -26102,7 +26102,7 @@
 <w s="G3761" m="robinson:ADV 1">Neither</w>
 <w s="G2323" m="robinson:V-PPI-3S 5">is worshipped</w>
 <w s="G5259" m="robinson:PREP 2">with</w>
-<w s="G444" m="robinson:N-GPM 4">men’s</w>
+<w s="G444" m="robinson:N-GPM 4">men&apos;s</w>
 <w s="G5495" m="robinson:N-GPF 3">hands</w>,
 <w s="G4326" m="robinson:V-PNP-NSM 6">as though he needed</w>
 <w s="G5100" m="robinson:X-GSN 7">any thing</w>,
@@ -26192,7 +26192,7 @@
 <w s="G5480" m="robinson:N-DSN 14">graven</w>
 <w s="G5078" m="robinson:N-GSF 15">by art</w>
 <w s="G2532" m="robinson:CONJ 16">and</w>
-<w s="G444" m="robinson:N-GSM 18">man’s</w>
+<w s="G444" m="robinson:N-GSM 18">man&apos;s</w>
 <w s="G1761" m="robinson:N-GSF 17">device</w>.
 </v><v id="30" bcv="ACT.17.30">
 <w s="G3767" m="robinson:CONJ 3">And</w>
@@ -26388,7 +26388,7 @@
 <w s="G2064" m="robinson:V-2AAI-3S 4">and entered</w>
 <w s="G1519" m="robinson:PREP 5">into</w>
 <w s="G5100" m="robinson:X-GSM 7">a certain</w>
-<add>man’s</add>
+<add>man&apos;s</add>
 <w s="G3614" m="robinson:N-ASF 6">house</w>,
 <w s="G3686" m="robinson:N-DSN 8">named</w>
 <w s="G2459" m="robinson:N-GSM 9">Justus</w>,
@@ -26823,7 +26823,7 @@
 <w s="G1161" m="robinson:CONJ 10">And</w>
 <w s="G2036" m="robinson:V-2AAI-3P 11">they said</w>,
 <w s="G1519" m="robinson:PREP 12">Unto</w>
-<w s="G2491" m="robinson:N-GSM 14">John’s</w>
+<w s="G2491" m="robinson:N-GSM 14">John&apos;s</w>
 <w s="G908" m="robinson:N-ASN 15">baptism</w>.
 </v><v id="4" bcv="ACT.19.4">
 <w s="G1161" m="robinson:CONJ 2">Then</w>
@@ -27282,7 +27282,7 @@
 <w s="G2532" m="robinson:CONJ 15">and</w>
 <w s="G708" m="robinson:N-ASM 16">Aristarchus</w>,
 <w s="G3110" m="robinson:N-APM 17">men of Macedonia</w>,
-<w s="G3588 G3972" m="robinson:T-GSM robinson:N-GSM 19 20">Paul’s</w>
+<w s="G3588 G3972" m="robinson:T-GSM robinson:N-GSM 19 20">Paul&apos;s</w>
 <w s="G4898" m="robinson:N-APM 18">companions in travel</w>,
 <w s="G3729" m="robinson:V-AAI-3P 7">they rushed</w>
 <w s="G3661" m="robinson:ADV 9">with one accord</w>
@@ -27456,7 +27456,7 @@
 <w s="G2793" m="robinson:V-PAI-1P 3">we are in danger</w>
 <w s="G1458" m="robinson:V-PPN 4">to be called in question</w>
 <w s="G4012" m="robinson:PREP 6">for</w>
-<w s="G4594" m="robinson:ADV 8">this day’s</w>
+<w s="G4594" m="robinson:ADV 8">this day&apos;s</w>
 <w s="G4714" m="robinson:N-GSF 5">uproar</w>,
 <w s="G5225" m="robinson:V-PAP-GSN 11">there being</w>
 <w s="G3367" m="robinson:A-GSN 9">no</w>
@@ -28038,7 +28038,7 @@
 <w s="G3956" m="robinson:A-DPM 24">are sanctified</w>.
 </v><v id="33" bcv="ACT.20.33">
 <w s="G1937" m="robinson:V-AAI-1S 7">I have coveted</w>
-<w s="G3762" m="robinson:A-GSM 6">no man’s</w>
+<w s="G3762" m="robinson:A-GSM 6">no man&apos;s</w>
 <w s="G694" m="robinson:N-GSN 1">silver</w>,
 <w s="G2228" m="robinson:PRT 2">or</w>
 <w s="G5553" m="robinson:N-GSN 3">gold</w>,
@@ -28105,7 +28105,7 @@
 <w s="G2532" m="robinson:CONJ 6">and</w>
 <w s="G1968" m="robinson:V-2AAP-NPM 7">fell</w>
 <w s="G1909" m="robinson:PREP 8">on</w>
-<w s="G3588 G3972" m="robinson:T-GSM robinson:N-GSM 11 12">Paul’s</w>
+<w s="G3588 G3972" m="robinson:T-GSM robinson:N-GSM 11 12">Paul&apos;s</w>
 <w s="G3588 G5137" m="robinson:T-ASM robinson:N-ASM 9 10">neck</w>,
 <w s="G2705" m="robinson:V-IAI-3P 13">and kissed</w>
 <w s="G846" m="robinson:P-ASM 14">him</w>,
@@ -28260,7 +28260,7 @@
 <add>day</add>
 <w s="G3588" m="robinson:T-NPM 5">we that were</w>
 <w s="G4012" m="robinson:PREP 6">of</w>
-<w s="G3588 G3972" m="robinson:T-ASM robinson:N-ASM 7 8">Paul’s company</w>
+<w s="G3588 G3972" m="robinson:T-ASM robinson:N-ASM 7 8">Paul&apos;s company</w>
 <w s="G1831" m="robinson:V-2AAP-NPM 4">departed</w>,
 <w s="G2064" m="robinson:V-2AAI-3P 9">and came</w>
 <w s="G1519" m="robinson:PREP 10">unto</w>
@@ -28306,7 +28306,7 @@
 <w s="G4314" m="robinson:PREP 3">unto</w>
 <w s="G2248" m="robinson:P-1AP 4">us</w>,
 <w s="G142" m="robinson:V-AAP-NSM 6">he took</w>
-<w s="G3588 G3972" m="robinson:T-GSM robinson:N-GSM 9 10">Paul’s</w>
+<w s="G3588 G3972" m="robinson:T-GSM robinson:N-GSM 9 10">Paul&apos;s</w>
 <w s="G3588 G2223" m="robinson:T-ASF robinson:N-ASF 7 8">girdle</w>,
 <w s="G5037" m="robinson:PRT 12">and</w>
 <w s="G1210" m="robinson:V-AAP-NSM 11">bound</w>
@@ -29502,7 +29502,7 @@
 <w s="G3936" m="robinson:V-RAP-NPM-C 3">stood by</w>
 <w s="G2036" m="robinson:V-2AAI-3P 4">said</w>,
 <w s="G3058" m="robinson:V-PAI-2S 9">Revilest thou</w>
-<w s="G3588 G2316" m="robinson:T-GSM robinson:N-GSM 7 8">God’s</w>
+<w s="G3588 G2316" m="robinson:T-GSM robinson:N-GSM 7 8">God&apos;s</w>
 <w s="G3588 G749" m="robinson:T-ASM robinson:N-ASM 5 6">high priest</w>?
 </v><v id="5" bcv="ACT.23.5">
 <w s="G5037" m="robinson:PRT 2">Then</w>
@@ -29589,7 +29589,7 @@
 <w s="G2532" m="robinson:CONJ 5">and</w>
 <w s="G3588 G1122" m="robinson:T-NPM robinson:N-NPM 7 8">the scribes</w>
 <add>that were</add>
-<w s="G3588 G5330" m="robinson:T-GPM robinson:N-GPM 11 12">of the Pharisees’</w>
+<w s="G3588 G5330" m="robinson:T-GPM robinson:N-GPM 11 12">of the Pharisees&apos;</w>
 <w s="G3588 G3313" m="robinson:T-GSN robinson:N-GSN 9 10">part</w>
 <w s="G450" m="robinson:V-2AAP-NPM 6">arose</w>,
 <w s="G1264" m="robinson:V-INI-3P 13">and strove</w>,
@@ -29737,8 +29737,8 @@
 <w s="G846" m="robinson:P-ASM 33">him</w>.
 </v><v id="16" bcv="ACT.23.16">
 <w s="G1161" m="robinson:CONJ 2">And when</w>
-<w s="G3972" m="robinson:N-GSM 7">Paul’s</w>
-<w s="G3588 G79" m="robinson:T-GSF robinson:N-GSF 5 6">sister’s</w>
+<w s="G3972" m="robinson:N-GSM 7">Paul&apos;s</w>
+<w s="G3588 G79" m="robinson:T-GSF robinson:N-GSF 5 6">sister&apos;s</w>
 <w s="G3588 G5207" m="robinson:T-NSM robinson:N-NSM 3 4">son</w>
 <w s="G191" m="robinson:V-AAP-NSM 1">heard</w>
 <w s="G3588 G1749" m="robinson:T-ASN robinson:N-ASN 8 9">of their lying in wait</w>,
@@ -30082,7 +30082,7 @@
 <w s="G846" m="robinson:P-ASM 12">him</w>
 <w s="G5442" m="robinson:V-PMN 18">to be kept</w>
 <w s="G1722" m="robinson:PREP 13">in</w>
-<w s="G3588 G2264" m="robinson:T-GSM robinson:N-GSM 16 17">Herod’s</w>
+<w s="G3588 G2264" m="robinson:T-GSM robinson:N-GSM 16 17">Herod&apos;s</w>
 <w s="G3588 G4232" m="robinson:T-DSN robinson:N-DSN 14 15">judgment hall</w>.
 </v></p></c><c id="24">
 <p><v id="1" bcv="ACT.24.1">
@@ -30544,7 +30544,7 @@
 <w s="G5347" m="robinson:N-ASM 9">Festus</w>
 <w s="G2983" m="robinson:V-2AAI-3S 4">came</w>
 <w s="G1240" m="robinson:N-ASM 5">into</w>
-<w s="G3588 G5344" m="robinson:T-NSM robinson:N-NSM 6 7">Felix’ room</w>:
+<w s="G3588 G5344" m="robinson:T-NSM robinson:N-NSM 6 7">Felix&apos; room</w>:
 <w s="G5037" m="robinson:PRT 11">and</w>
 <w s="G3588 G5344" m="robinson:T-NSM robinson:N-NSM 16 17">Felix</w>,
 <w s="G2309" m="robinson:V-PAP-NSM 10">willing</w>
@@ -30714,7 +30714,7 @@
 <w s="G1510" m="robinson:V-PXI-1S 10">I</w>
 <w s="G2476" m="robinson:V-RAP-NSM 9">stand</w>
 <w s="G1909" m="robinson:PREP 5">at</w>
-<w s="G2541" m="robinson:N-GSM 8">Cæsar’s</w>
+<w s="G2541" m="robinson:N-GSM 8">Cæsar&apos;s</w>
 <w s="G3588 G968" m="robinson:T-GSN robinson:N-GSN 6 7">judgment seat</w>,
 <w s="G3757" m="robinson:ADV 11">where</w>
 <w s="G3165" m="robinson:P-1AS 12">I</w>
@@ -30790,7 +30790,7 @@
 <w s="G2250" m="robinson:N-APF 4">days</w>,
 <w s="G3588 G5347" m="robinson:T-NSM robinson:N-NSM 7 8">Festus</w>
 <w s="G394" m="robinson:V-2AMI-3S 11">declared</w>
-<w s="G3588 G3972" m="robinson:T-ASM robinson:N-ASM 14 15">Paul’s</w>
+<w s="G3588 G3972" m="robinson:T-ASM robinson:N-ASM 14 15">Paul&apos;s</w>
 <w s="G2596" m="robinson:PREP 13">cause</w>
 <w s="G3588 G935" m="robinson:T-DSM robinson:N-DSM 9 10">unto the king</w>,
 <w s="G3004" m="robinson:V-PAP-NSM 16">saying</w>,
@@ -30963,7 +30963,7 @@
 <w s="G435" m="robinson:N-DPM 23">men</w>
 <w s="G3588 G4172" m="robinson:T-GSF robinson:N-GSF 28 29">of the city</w>,
 <w s="G2596" m="robinson:PREP 25">at</w>
-<w s="G3588 G5347" m="robinson:T-GSM robinson:N-GSM 32 33">Festus’</w>
+<w s="G3588 G5347" m="robinson:T-GSM robinson:N-GSM 32 33">Festus&apos;</w>
 <w s="G2753" m="robinson:V-AAP-GSM 31">commandment</w>
 <w s="G3588 G3972" m="robinson:T-NSM robinson:N-NSM 35 36">Paul</w>
 <w s="G71" m="robinson:V-API-3S 34">was brought forth</w>.
@@ -31171,7 +31171,7 @@
 <w s="G2658" m="robinson:V-AAN 13">to come</w>.
 <w s="G4012" m="robinson:PREP 14">For</w>
 <w s="G3739" m="robinson:R-GSF 15">which</w>
-<w s="G1680" m="robinson:N-GSF 16">hope’s sake</w>,
+<w s="G1680" m="robinson:N-GSF 16">hope&apos;s sake</w>,
 <w s="G935" m="robinson:N-VSM 18">king</w>
 <w s="G67" m="robinson:N-VSM 19">Agrippa</w>,
 <w s="G1458" m="robinson:V-PPI-1S 17">I am accused</w>
@@ -31648,7 +31648,7 @@
 <w s="G3686" m="robinson:N-DSN 19">named</w>
 <w s="G2457" m="robinson:N-DSM 20">Julius</w>,
 <w s="G1543" m="robinson:N-DSM 18">a centurion</w>
-<w s="G4575" m="robinson:A-GSF 22">of Augustus’</w>
+<w s="G4575" m="robinson:A-GSF 22">of Augustus&apos;</w>
 <w s="G4686" m="robinson:N-GSF 21">band</w>.
 </v><v id="2" bcv="ACT.27.2">
 <w s="G1161" m="robinson:CONJ 2">And</w>
@@ -31982,7 +31982,7 @@
 <w s="G1537" m="robinson:PREP 11">there shall be</w>
 <w s="G2071" m="robinson:V-FXI-3S 10">no</w>
 <w s="G1063" m="robinson:CONJ 7">loss of</w>
-<add>any man’s</add>
+<add>any man&apos;s</add>
 <w s="G3762" m="robinson:A-NSF 9">life</w>
 <w s="G5216" m="robinson:P-2GP 12">among</w>
 <w s="G4133" m="robinson:ADV 13">you</w>,
@@ -32286,7 +32286,7 @@
 <w s="G3588 G2949" m="robinson:T-GPN robinson:N-GPN 23 24">of the waves</w>.
 </v><v id="42" bcv="ACT.27.42">
 <w s="G1161" m="robinson:CONJ 2">And</w>
-<w s="G4757" m="robinson:N-GPM 3">the soldiers’</w>
+<w s="G4757" m="robinson:N-GPM 3">the soldiers&apos;</w>
 <w s="G1012" m="robinson:N-NSF 4">counsel</w>
 <w s="G1096" m="robinson:V-2ADI-3S 5">was</w>
 <w s="G2443" m="robinson:CONJ 6">to</w>
@@ -32919,7 +32919,7 @@
 <w s="G3956" m="robinson:A-GSF 15">all</w>
 <w s="G3954" m="robinson:N-GSF 16">confidence</w>,
 <w s="G209" m="robinson:ADV 17">no man forbidding him</w>.
-</v></p></c></book><book id="ROM"><id id="ROM"> Paul’s Letter to the Romans
+</v></p></c></book><book id="ROM"><id id="ROM"> Paul&apos;s Letter to the Romans
 </id><h>Romans
 </h><toc level="1">THE EPISTLE OF PAUL THE APOSTLE TO THE ROMANS
 </toc><toc level="2">Romans
@@ -34573,7 +34573,7 @@
 <w s="G2532" m="robinson:CONJ 16">neither yet</w>
 <w s="G3588 G3500" m="robinson:T-ASF robinson:N-ASF 17 18">the deadness</w>
 <w s="G3588 G3388" m="robinson:T-GSF robinson:N-GSF 19 20">of</w>
-<w s="G4564" m="robinson:N-GSF 21">Sara’s</w>
+<w s="G4564" m="robinson:N-GSF 21">Sara&apos;s</w>
 <w s="G3388" m="robinson:N-GSF 20">womb</w>:
 </v><v id="20" bcv="ROM.4.20">
 <w s="G1252" m="robinson:V-API-3S 8">He staggered</w>
@@ -34878,7 +34878,7 @@
 <w s="G1909" m="robinson:PREP 14">after</w>
 <w s="G3588 G3667" m="robinson:T-DSN robinson:N-DSN 15 16">the similitude</w>
 <w s="G3588 G3847" m="robinson:T-GSF robinson:N-GSF 17 18">of</w>
-<w s="G76" m="robinson:N-PRI 19">Adam’s</w>
+<w s="G76" m="robinson:N-PRI 19">Adam&apos;s</w>
 <w s="G3847" m="robinson:N-GSF 18">transgression</w>,
 <w s="G3739" m="robinson:R-NSM 20">who</w>
 <w s="G2076" m="robinson:V-PXI-3S 21">is</w>
@@ -34944,7 +34944,7 @@
 <w s="G1063" m="robinson:CONJ 2">For</w>
 <w s="G1487" m="robinson:COND 1">if</w>
 <w s="G3900" m="robinson:N-DSN 6">by</w>
-<w s="G1520" m="robinson:A-GSM 5">one man’s</w>
+<w s="G1520" m="robinson:A-GSM 5">one man&apos;s</w>
 <w s="G3900" m="robinson:N-DSN 6">offence</w>
 <w s="G3588 G2288" m="robinson:T-NSM robinson:N-NSM 7 8">death</w>
 <w s="G936" m="robinson:V-AAI-3S 9">reigned</w>
@@ -34994,7 +34994,7 @@
 <w s="G5618" m="robinson:ADV 1">as</w>
 <w s="G1223" m="robinson:PREP 3">by</w>
 <w s="G1520" m="robinson:A-GSM 7">one</w>
-<w s="G444" m="robinson:N-GSM 8">man’s</w>
+<w s="G444" m="robinson:N-GSM 8">man&apos;s</w>
 <w s="G3588 G3876" m="robinson:T-GSF robinson:N-GSF 4 5">disobedience</w>
 <w s="G4183" m="robinson:A-NPM 12">many</w>
 <w s="G2525" m="robinson:V-API-3P 10">were made</w>
@@ -36369,7 +36369,7 @@
 <w s="G5101" m="robinson:I-NSM 1">Who</w>
 <w s="G1458" m="robinson:V-FAI-3S 2">shall lay any thing to the charge</w>
 <w s="G1588" m="robinson:A-GPM 4">of</w>
-<w s="G2316" m="robinson:N-GSM 5">God’s</w>
+<w s="G2316" m="robinson:N-GSM 5">God&apos;s</w>
 <w s="G1588" m="robinson:A-GPM 4">elect</w>?
 <add>It is</add>
 <w s="G2316" m="robinson:N-NSM 6">God</w>
@@ -37000,7 +37000,7 @@
 <p><v id="1" bcv="ROM.10.1">
 <w s="G80" m="robinson:N-VPM 1">Brethren</w>,
 <w s="G1699" m="robinson:S-1GSF 6">my</w>
-<w s="G2588" m="robinson:N-GSF 7">heart’s</w>
+<w s="G2588" m="robinson:N-GSF 7">heart&apos;s</w>
 <w s="G2107" m="robinson:N-NSF 4">desire</w>
 <w s="G2532" m="robinson:CONJ 8">and</w>
 <w s="G3588 G1162" m="robinson:T-NSF robinson:N-NSF 9 10">prayer</w>
@@ -37027,7 +37027,7 @@
 </v><v id="3" bcv="ROM.10.3">
 <w s="G1063" m="robinson:CONJ 2">For</w> they
 <w s="G50" m="robinson:V-PAP-NPM 1">being ignorant of</w>
-<w s="G3588 G2316" m="robinson:T-GSM robinson:N-GSM 4 5">God’s</w>
+<w s="G3588 G2316" m="robinson:T-GSM robinson:N-GSM 4 5">God&apos;s</w>
 <w s="G1343" m="robinson:N-ASF 6">righteousness</w>,
 <w s="G2532" m="robinson:CONJ 7">and</w>
 <w s="G2212" m="robinson:V-PAP-NPM 11">going about</w>
@@ -37805,7 +37805,7 @@
 <add>they are</add>
 <w s="G27" m="robinson:A-NPM 12">beloved</w>
 <w s="G1223" m="robinson:PREP 13">for</w>
-<w s="G3588 G3962" m="robinson:T-APM robinson:N-APM 14 15">the fathers’</w>
+<w s="G3588 G3962" m="robinson:T-APM robinson:N-APM 14 15">the fathers&apos;</w>
 <w s="G1223" m="robinson:PREP 13">sakes</w>.
 </v><v id="29" bcv="ROM.11.29">
 <w s="G1063" m="robinson:CONJ 2">For</w>
@@ -38310,7 +38310,7 @@
 <w s="G2532" m="robinson:CONJ 4">also</w>:
 <w s="G1063" m="robinson:CONJ 8">for</w>
 <w s="G1526" m="robinson:V-PXI-3P 10">they are</w>
-<w s="G2316" m="robinson:N-GSM 9">God’s</w>
+<w s="G2316" m="robinson:N-GSM 9">God&apos;s</w>
 <w s="G3011" m="robinson:N-NPM 7">ministers</w>,
 <w s="G4342" m="robinson:V-PAP-NPM 14">attending continually</w>
 <w s="G1519" m="robinson:PREP 11">upon</w>
@@ -38502,7 +38502,7 @@
 <w s="G1488" m="robinson:V-PXI-2S 3">art</w>
 <w s="G4771" m="robinson:P-2NS 1">thou</w>
 <w s="G2919" m="robinson:V-PAP-NSM 5">that judgest</w>
-<w s="G245" m="robinson:A-ASM 6">another man’s</w>
+<w s="G245" m="robinson:A-ASM 6">another man&apos;s</w>
 <w s="G3610" m="robinson:N-ASM 7">servant</w>?
 <w s="G2398" m="robinson:A-DSM 9">to his own</w>
 <w s="G2962" m="robinson:N-DSM 10">master</w>
@@ -38594,7 +38594,7 @@
 <w s="G1437" m="robinson:COND 18">or</w>
 <w s="G599" m="robinson:V-PAS-1P 20">die</w>,
 <w s="G2070" m="robinson:V-PXI-1P 23">we are</w>
-<w s="G3588 G2962" m="robinson:T-GSM robinson:N-GSM 21 22">the Lord’s</w>.
+<w s="G3588 G2962" m="robinson:T-GSM robinson:N-GSM 21 22">the Lord&apos;s</w>.
 </v><v id="9" bcv="ROM.14.9">
 <w s="G1063" m="robinson:CONJ 3">For</w>
 <w s="G1519" m="robinson:PREP 1">to</w>
@@ -38679,7 +38679,7 @@
 <w s="G4625" m="robinson:N-ASN 16">an occasion to fall</w>
 <w s="G3588 G80" m="robinson:T-DSM robinson:N-DSM 13 14">in</w>
 <add>his</add>
-<w s="G80" m="robinson:N-DSM 14">brother’s way</w>.
+<w s="G80" m="robinson:N-DSM 14">brother&apos;s way</w>.
 </v><v id="14" bcv="ROM.14.14">
 <w s="G1492" m="robinson:V-RAI-1S 1">I know</w>,
 <w s="G2532" m="robinson:CONJ 2">and</w>
@@ -39173,7 +39173,7 @@
 <w s="G3361" m="robinson:PRT-N 10">lest</w>
 <w s="G3618" m="robinson:V-PAS-1S 14">I should build</w>
 <w s="G1909" m="robinson:PREP 11">upon</w>
-<w s="G245" m="robinson:A-ASM 12">another man’s</w>
+<w s="G245" m="robinson:A-ASM 12">another man&apos;s</w>
 <w s="G2310" m="robinson:N-ASM 13">foundation</w>:
 </v><v id="21" bcv="ROM.15.21">
 <w s="G235" m="robinson:CONJ 1">But</w>
@@ -39322,7 +39322,7 @@
 <w s="G1223" m="robinson:PREP 5">for the</w>
 <w s="G3588 G2962" m="robinson:T-GSM robinson:N-GSM 6 7">Lord</w>
 <w s="G2424" m="robinson:N-GSM 9">Jesus</w>
-<w s="G5547" m="robinson:N-GSM 10">Christ’s</w>
+<w s="G5547" m="robinson:N-GSM 10">Christ&apos;s</w>
 <w s="G1223" m="robinson:PREP 5">sake</w>,
 <w s="G2532" m="robinson:CONJ 11">and</w>
 <w s="G1223" m="robinson:PREP 12">for</w>
@@ -39520,7 +39520,7 @@
 <w s="G782" m="robinson:V-ADM-2P 7">Salute</w>
 <w s="G3588" m="robinson:T-APM 8">them which are</w>
 <w s="G1537" m="robinson:PREP 9">of</w>
-<w s="G711" m="robinson:N-GSM 11">Aristobulus’</w>
+<w s="G711" m="robinson:N-GSM 11">Aristobulus&apos;</w>
 <add>household</add>.
 </v><v id="11" bcv="ROM.16.11">
 <w s="G782" m="robinson:V-ADM-2P 1">Salute</w>
@@ -39787,7 +39787,7 @@
 <w s="G281" m="robinson:HEB 13">Amen</w>.
 </v></p><s>Written to the Romans from Corinthus,
 <add>and sent</add> by Phebe servant of the church at Cenchrea.
-</s></c></book><book id="1CO"><id id="1CO"> Paul’s First Letter to the Corinthians
+</s></c></book><book id="1CO"><id id="1CO"> Paul&apos;s First Letter to the Corinthians
 </id><h>1 Corinthians
 </h><toc level="1">THE FIRST EPISTLE OF PAUL THE APOSTLE TO THE CORINTHIANS
 </toc><toc level="2">1 Corinthians
@@ -40330,7 +40330,7 @@
 <w s="G1722" m="robinson:PREP 10">with</w>
 <w s="G3981" m="robinson:A-DPM 11">enticing</w>
 <w s="G3056" m="robinson:N-DPM 14">words</w>
-<w s="G442" m="robinson:A-GSF 12">of man’s</w>
+<w s="G442" m="robinson:A-GSF 12">of man&apos;s</w>
 <w s="G4678" m="robinson:N-GSF 13">wisdom</w>,
 <w s="G235" m="robinson:CONJ 15">but</w>
 <w s="G1722" m="robinson:PREP 16">in</w>
@@ -40490,7 +40490,7 @@
 <w s="G3756" m="robinson:PRT-N 4">not</w>
 <w s="G1722" m="robinson:PREP 5">in</w>
 <w s="G3056" m="robinson:N-DPM 9">the words</w>
-<w s="G442" m="robinson:A-GSF 7">which man’s</w>
+<w s="G442" m="robinson:A-GSF 7">which man&apos;s</w>
 <w s="G4678" m="robinson:N-GSF 8">wisdom</w>
 <w s="G1318" m="robinson:A-DPM 6">teacheth</w>,
 <w s="G235" m="robinson:CONJ 10">but</w>
@@ -40679,10 +40679,10 @@
 <w s="G4904" m="robinson:A-NPM 4">labourers together</w>
 <w s="G2316" m="robinson:N-GSM 1">with God</w>:
 <w s="G2075" m="robinson:V-PXI-2P 9">ye are</w>
-<w s="G2316" m="robinson:N-GSM 5">God’s</w>
+<w s="G2316" m="robinson:N-GSM 5">God&apos;s</w>
 <w s="G1091" m="robinson:N-NSN 6">husbandry</w>,
 <add>ye are</add>
-<w s="G2316" m="robinson:N-GSM 7">God’s</w>
+<w s="G2316" m="robinson:N-GSM 7">God&apos;s</w>
 <w s="G3619" m="robinson:N-NSF 8">building</w>.
 </v><v id="10" bcv="1CO.3.10">
 <w s="G2596" m="robinson:PREP 1">According to</w>
@@ -40734,7 +40734,7 @@
 <w s="G5528" m="robinson:N-ASM 14">hay</w>,
 <w s="G2562" m="robinson:N-ASF 15">stubble</w>;
 </v><v id="13" bcv="1CO.3.13">
-<w s="G1538" m="robinson:A-GMS 1">Every man’s</w>
+<w s="G1538" m="robinson:A-GMS 1">Every man&apos;s</w>
 <w s="G3588 G2041" m="robinson:T-NSN robinson:N-NSN 2 3">work</w>
 <w s="G1096" m="robinson:V-FDI-3S 5">shall be made</w>
 <w s="G5318" m="robinson:A-NSN 4">manifest</w>:
@@ -40748,13 +40748,13 @@
 <w s="G2532" m="robinson:CONJ 14">and</w>
 <w s="G3588 G4442" m="robinson:T-NSN robinson:N-NSN 20 21">the fire</w>
 <w s="G1381" m="robinson:V-FAI-3S 22">shall try</w>
-<w s="G1538" m="robinson:A-GSM 15">every man’s</w>
+<w s="G1538" m="robinson:A-GSM 15">every man&apos;s</w>
 <w s="G3588 G2041" m="robinson:T-NSN robinson:N-NSN 16 17">work</w>
 <w s="G3697" m="robinson:A-NSN 18">of what sort</w>
 <w s="G2076" m="robinson:V-PXI-3S 19">it is</w>.
 </v><v id="14" bcv="1CO.3.14">
 <w s="G1487" m="robinson:COND 1">If</w>
-<w s="G5100" m="robinson:X-GSM 2">any man’s</w>
+<w s="G5100" m="robinson:X-GSM 2">any man&apos;s</w>
 <w s="G3588 G2041" m="robinson:T-NSN robinson:N-NSN 3 4">work</w>
 <w s="G3306" m="robinson:V-PAI-3S 5">abide</w>
 <w s="G3739" m="robinson:R-ASN 7">which</w>
@@ -40763,7 +40763,7 @@
 <w s="G3408" m="robinson:N-ASM 9">a reward</w>.
 </v><v id="15" bcv="1CO.3.15">
 <w s="G1487" m="robinson:COND 1">If</w>
-<w s="G5100" m="robinson:X-GSM 2">any man’s</w>
+<w s="G5100" m="robinson:X-GSM 2">any man&apos;s</w>
 <w s="G3588 G2041" m="robinson:T-NSN robinson:N-NSN 3 4">work</w>
 <w s="G2618" m="robinson:V-2FPI-3S 5">shall be burned</w>,
 <w s="G2210" m="robinson:V-FPI-3S 6">he shall suffer loss</w>:
@@ -40888,11 +40888,11 @@
 </v><v id="23" bcv="1CO.3.23">
 <w s="G1161" m="robinson:CONJ 2">And</w>
 <w s="G5210" m="robinson:P-2NP 1">ye</w>
-<w s="G5547" m="robinson:N-GSM 3">are Christ’s</w>;
+<w s="G5547" m="robinson:N-GSM 3">are Christ&apos;s</w>;
 <w s="G1161" m="robinson:CONJ 5">and</w>
 <w s="G5547" m="robinson:N-NSM 4">Christ</w>
 <add>is</add>
-<w s="G2316" m="robinson:N-GSM 6">God’s</w>.
+<w s="G2316" m="robinson:N-GSM 6">God&apos;s</w>.
 </v></p></c><c id="4">
 <p><v id="1" bcv="1CO.4.1">
 <w s="G3049" m="robinson:V-PNM-3S 3">Let</w>
@@ -40929,7 +40929,7 @@
 <w s="G5216" m="robinson:P-2GP 8">you</w>,
 <w s="G2228" m="robinson:PRT 10">or</w>
 <w s="G5259" m="robinson:PREP 11">of</w>
-<w s="G442" m="robinson:A-GSF 12">man’s</w>
+<w s="G442" m="robinson:A-GSF 12">man&apos;s</w>
 <w s="G2250" m="robinson:N-GSF 13">judgment</w>:
 <w s="G235" m="robinson:CONJ 14">yea</w>,
 <w s="G350" m="robinson:V-PAI-1S 17">I judge</w>
@@ -41073,7 +41073,7 @@
 <add>are</add>
 <w s="G3474" m="robinson:A-NPM 2">fools</w>
 <w s="G1223" m="robinson:PREP 3">for</w>
-<w s="G5547" m="robinson:N-ASM 4">Christ’s sake</w>,
+<w s="G5547" m="robinson:N-ASM 4">Christ&apos;s sake</w>,
 <w s="G1161" m="robinson:CONJ 6">but</w>
 <w s="G5210" m="robinson:P-2NP 5">ye</w>
 <add>are</add>
@@ -41277,7 +41277,7 @@
 <w s="G5100" m="robinson:X-ASF 17">one</w>
 <w s="G2192" m="robinson:V-PAN 20">should have</w>
 <w s="G3588" m="robinson:T-GSM 18">his</w>
-<w s="G3962" m="robinson:N-GSM 19">father’s</w>
+<w s="G3962" m="robinson:N-GSM 19">father&apos;s</w>
 <w s="G1135" m="robinson:N-ASF 16">wife</w>.
 </v><v id="2" bcv="1CO.5.2">
 <w s="G2532" m="robinson:CONJ 1">And</w>
@@ -41816,7 +41816,7 @@
 <w s="G3588 G4151" m="robinson:T-DSN robinson:N-DSN 14 15">spirit</w>,
 <w s="G3748" m="robinson:R-NPN 17">which</w>
 <w s="G2076" m="robinson:V-PXI-3S 18">are</w>
-<w s="G3588 G2316" m="robinson:T-GSM robinson:N-GSM 19 20">God’s</w>.
+<w s="G3588 G2316" m="robinson:T-GSM robinson:N-GSM 19 20">God&apos;s</w>.
 </v></p></c><c id="7">
 <p><v id="1" bcv="1CO.7.1">
 <w s="G1161" m="robinson:CONJ 2">Now</w>
@@ -42169,7 +42169,7 @@
 <add>being</add>
 <w s="G1401" m="robinson:N-NSM 6">a servant</w>,
 <w s="G2076" m="robinson:V-PXI-3S 9">is</w>
-<w s="G2962" m="robinson:N-GSM 8">the Lord’s</w>
+<w s="G2962" m="robinson:N-GSM 8">the Lord&apos;s</w>
 <w s="G558" m="robinson:N-NSM 7">freeman</w>:
 <w s="G3668" m="robinson:ADV 10">likewise</w>
 <w s="G2532" m="robinson:CONJ 11">also</w>
@@ -42178,7 +42178,7 @@
 <add>being</add>
 <w s="G1658" m="robinson:A-NSM 13">free</w>,
 <w s="G2076" m="robinson:V-PXI-3S 16">is</w>
-<w s="G5547" m="robinson:N-GSM 17">Christ’s</w>
+<w s="G5547" m="robinson:N-GSM 17">Christ&apos;s</w>
 <w s="G1401" m="robinson:N-NSM 15">servant</w>.
 </v><v id="23" bcv="1CO.7.23">
 <w s="G59" m="robinson:V-API-2P 2">Ye are bought</w>
@@ -42668,7 +42668,7 @@
 <w s="G1108" m="robinson:N-ASF 8">knowledge</w>
 <w s="G2621" m="robinson:V-PNP-ASM 11">sit at meat</w>
 <w s="G1722" m="robinson:PREP 9">in</w>
-<w s="G1493" m="robinson:N-DSN 10">the idol’s temple</w>,
+<w s="G1493" m="robinson:N-DSN 10">the idol&apos;s temple</w>,
 <w s="G3618" m="robinson:V-FPI-3S 18">shall</w>
 <w s="G3780" m="robinson:PRT-I 12">not</w>
 <w s="G3588 G4893" m="robinson:T-NSF robinson:N-NSF 13 14">the conscience</w>
@@ -43100,7 +43100,7 @@
 <w s="G5124" m="robinson:D-ASN 1">this</w>
 <w s="G4160" m="robinson:V-PAI-1S 3">I do</w>
 <w s="G1223" m="robinson:PREP 4">for</w>
-<w s="G3588 G2098" m="robinson:T-ASN robinson:N-ASN 5 6">the gospel’s sake</w>,
+<w s="G3588 G2098" m="robinson:T-ASN robinson:N-ASN 5 6">the gospel&apos;s sake</w>,
 <w s="G2443" m="robinson:CONJ 7">that</w>
 <w s="G1096" m="robinson:V-2ADS-1S 10">I might be</w>
 <w s="G4791" m="robinson:A-NSM 8">partaker</w>
@@ -43478,7 +43478,7 @@
 <w s="G3756" m="robinson:PRT-N 9">ye</w>
 <w s="G1410" m="robinson:V-PNI-2P 10">cannot</w>
 <w s="G3348" m="robinson:V-PAN 13">be partakers</w>
-<w s="G2962" m="robinson:N-GSM 12">of the Lord’s</w>
+<w s="G2962" m="robinson:N-GSM 12">of the Lord&apos;s</w>
 <w s="G5132" m="robinson:N-GSF 11">table</w>,
 <w s="G2532" m="robinson:CONJ 14">and</w>
 <w s="G5132" m="robinson:N-GSF 15">of the table</w>
@@ -43512,7 +43512,7 @@
 <w s="G1438" m="robinson:F-3GSM 3">his own</w>,
 <w s="G235" m="robinson:CONJ 5">but</w>
 <w s="G1538" m="robinson:A-NSM 9">every man</w>
-<w s="G2087" m="robinson:A-GSM 8">another’s</w>
+<w s="G2087" m="robinson:A-GSM 8">another&apos;s</w>
 <add>wealth</add>.
 </v><v id="25" bcv="1CO.10.25">
 <w s="G3956" m="robinson:A-ASN 1">Whatsoever</w>
@@ -43530,7 +43530,7 @@
 <w s="G1063" m="robinson:CONJ 2">For</w>
 <w s="G3588 G1093" m="robinson:T-NSF robinson:N-NSF 4 5">the earth</w>
 <add>is</add>
-<w s="G2962" m="robinson:N-GSM 3">the Lord’s</w>,
+<w s="G2962" m="robinson:N-GSM 3">the Lord&apos;s</w>,
 <w s="G2532" m="robinson:CONJ 6">and</w>
 <w s="G3588 G4138" m="robinson:T-NSN robinson:N-NSN 7 8">the fulness</w>
 <w s="G846" m="robinson:P-GSF 9">thereof</w>.
@@ -43573,7 +43573,7 @@
 <w s="G1063" m="robinson:CONJ 19">for</w>
 <w s="G3588 G1093" m="robinson:T-NSF robinson:N-NSF 21 22">the earth</w>
 <add>is</add>
-<w s="G2962" m="robinson:N-GSM 20">the Lord’s</w>,
+<w s="G2962" m="robinson:N-GSM 20">the Lord&apos;s</w>,
 <w s="G2532" m="robinson:CONJ 23">and</w>
 <w s="G3588 G4138" m="robinson:T-NSN robinson:N-NSN 24 25">the fulness</w>
 <w s="G846" m="robinson:P-GSF 26">thereof</w>:
@@ -43591,7 +43591,7 @@
 <w s="G2919" m="robinson:V-PPI-3S 17">judged</w>
 <w s="G5259" m="robinson:PREP 18">of</w>
 <w s="G243" m="robinson:A-GSF 19">another</w>
-<add>man’s</add>
+<add>man&apos;s</add>
 <w s="G4893" m="robinson:N-GSF 20">conscience</w>?
 </v><v id="30" bcv="1CO.10.30">
 <w s="G1161" m="robinson:CONJ 2">For</w>
@@ -43944,7 +43944,7 @@
 <w s="G2076" m="robinson:V-PXI-3S 8">is</w>
 <w s="G3756" m="robinson:PRT-N 7">not</w>
 <w s="G5315" m="robinson:V-2AAN 11">to eat</w>
-<w s="G2960" m="robinson:A-ASN 9">the Lord’s</w>
+<w s="G2960" m="robinson:A-ASN 9">the Lord&apos;s</w>
 <w s="G1173" m="robinson:N-ASN 10">supper</w>.
 </v><v id="21" bcv="1CO.11.21">
 <w s="G1063" m="robinson:CONJ 2">For</w>
@@ -44067,7 +44067,7 @@
 <w s="G5124" m="robinson:D-ASN 11">this</w>
 <w s="G3588 G4221" m="robinson:T-ASN robinson:N-ASN 9 10">cup</w>,
 <w s="G2605" m="robinson:V-PAI-2P 17">ye do shew</w>
-<w s="G3588 G2962" m="robinson:T-GSM robinson:N-GSM 15 16">the Lord’s</w>
+<w s="G3588 G2962" m="robinson:T-GSM robinson:N-GSM 15 16">the Lord&apos;s</w>
 <w s="G3588 G2288" m="robinson:T-ASM robinson:N-ASM 13 14">death</w>
 <w s="G891" m="robinson:PREP 18">till</w>
 <w s="G2064" m="robinson:V-2AAS-3S 21">he come</w>.
@@ -44120,7 +44120,7 @@
 <w s="G1438" m="robinson:F-3DSM 8">to himself</w>,
 <w s="G3361" m="robinson:PRT-N 12">not</w>
 <w s="G1252" m="robinson:V-PAP-NSM 13">discerning</w>
-<w s="G3588 G2962" m="robinson:T-GSM robinson:N-GSM 16 17">the Lord’s</w>
+<w s="G3588 G2962" m="robinson:T-GSM robinson:N-GSM 16 17">the Lord&apos;s</w>
 <w s="G3588 G4983" m="robinson:T-ASN robinson:N-ASN 14 15">body</w>.
 </v><v id="30" bcv="1CO.11.30">
 <w s="G1223" m="robinson:PREP 1">For</w>
@@ -45815,7 +45815,7 @@
 <w s="G536" m="robinson:N-NSF 7">the firstfruits</w>;
 <w s="G1899" m="robinson:ADV 9">afterward</w>
 <w s="G3588" m="robinson:T-NPM 10">they that are</w>
-<w s="G5547" m="robinson:N-GSM 11">Christ’s</w>
+<w s="G5547" m="robinson:N-GSM 11">Christ&apos;s</w>
 <w s="G1722" m="robinson:PREP 12">at</w>
 <w s="G846" m="robinson:P-GSM 15">his</w>
 <w s="G3588 G3952" m="robinson:T-DSF robinson:N-DSF 13 14">coming</w>.
@@ -46683,7 +46683,7 @@
 <w s="G281" m="robinson:HEB 10">Amen</w>.
 </v></p><s>The first
 <add>epistle</add> to the Corinthians was written from Philippi by Stephanas, and Fortunatus, and Achaicus, and Timotheus.
-</s></c></book><book id="2CO"><id id="2CO">Paul’s Second Lettor to the Corinthians
+</s></c></book><book id="2CO"><id id="2CO">Paul&apos;s Second Lettor to the Corinthians
 </id><h>2 Corinthians
 </h><toc level="1">THE SECOND EPISTLE OF PAUL THE APOSTLE TO THE CORINTHIANS
 </toc><toc level="2">2 Corinthians
@@ -47339,7 +47339,7 @@
 <w s="G3588 G5174" m="robinson:T-ASF robinson:N-ASF 4 5">Troas</w>
 <w s="G1519" m="robinson:PREP 6">to</w>
 <add>preach</add>
-<w s="G3588 G5547" m="robinson:T-GSM robinson:N-GSM 9 10">Christ’s</w>
+<w s="G3588 G5547" m="robinson:T-GSM robinson:N-GSM 9 10">Christ&apos;s</w>
 <w s="G3588 G2098" m="robinson:T-ASN robinson:N-ASN 7 8">gospel</w>,
 <w s="G2532" m="robinson:CONJ 11">and</w>
 <w s="G2374" m="robinson:N-GSF 12">a door</w>
@@ -47764,7 +47764,7 @@
 <w s="G1438" m="robinson:F-3APM 23">ourselves</w>
 <w s="G4314" m="robinson:PREP 24">to</w>
 <w s="G3956" m="robinson:A-ASF 25">every</w>
-<w s="G444" m="robinson:N-GPM 27">man’s</w>
+<w s="G444" m="robinson:N-GPM 27">man&apos;s</w>
 <w s="G4893" m="robinson:N-ASF 26">conscience</w>
 <w s="G1799" m="robinson:ADV 28">in the sight of</w>
 <w s="G3588 G2316" m="robinson:T-GSM robinson:N-GSM 29 30">God</w>.
@@ -47814,7 +47814,7 @@
 <w s="G5216" m="robinson:P-2GP 12">your</w>
 <w s="G1401" m="robinson:N-APM 11">servants</w>
 <w s="G1223" m="robinson:PREP 13">for</w>
-<w s="G2424" m="robinson:N-ASM 14">Jesus’ sake</w>.
+<w s="G2424" m="robinson:N-ASM 14">Jesus&apos; sake</w>.
 </v><v id="6" bcv="2CO.4.6">
 <w s="G3754" m="robinson:CONJ 1">For</w>
 <w s="G3588 G2316" m="robinson:T-NSM robinson:N-NSM 2 3">God</w>,
@@ -47902,7 +47902,7 @@
 <w s="G1519" m="robinson:PREP 6">unto</w>
 <w s="G2288" m="robinson:N-ASM 7">death</w>
 <w s="G1223" m="robinson:PREP 9">for</w>
-<w s="G2424" m="robinson:N-ASM 10">Jesus’ sake</w>,
+<w s="G2424" m="robinson:N-ASM 10">Jesus&apos; sake</w>,
 <w s="G2443" m="robinson:CONJ 11">that</w>
 <w s="G3588 G2222" m="robinson:T-NSF robinson:N-NSF 13 14">the life</w>
 <w s="G2532" m="robinson:CONJ 12">also</w>
@@ -48349,7 +48349,7 @@
 <w s="G1189" m="robinson:V-PNI-1P 11">we pray</w>
 <add>you</add>
 <w s="G5228" m="robinson:PREP 12">in</w>
-<w s="G5547" m="robinson:N-GSM 13">Christ’s stead</w>,
+<w s="G5547" m="robinson:N-GSM 13">Christ&apos;s stead</w>,
 <w s="G2644" m="robinson:V-2APM-2P 14">be ye reconciled</w>
 <w s="G3588 G2316" m="robinson:T-DSM robinson:N-DSM 15 16">to God</w>.
 </v><v id="21" bcv="2CO.5.21">
@@ -49753,7 +49753,7 @@
 <w s="G3982" m="robinson:V-2RAI-3S 7">trust</w>
 <w s="G1438" m="robinson:F-3DSM 8">to himself</w>
 <w s="G1511" m="robinson:V-PXN 10">that he is</w>
-<w s="G5547" m="robinson:N-GSM 9">Christ’s</w>,
+<w s="G5547" m="robinson:N-GSM 9">Christ&apos;s</w>,
 <w s="G3049" m="robinson:V-PNM-3S 12">let him</w>
 <w s="G575" m="robinson:PREP 14">of</w>
 <w s="G1438" m="robinson:F-3GSM 15">himself</w>
@@ -49764,12 +49764,12 @@
 <w s="G2531" m="robinson:ADV 17">as</w>
 <w s="G846" m="robinson:P-NSM 18">he</w>
 <add>is</add>
-<w s="G5547" m="robinson:N-GSM 19">Christ’s</w>,
+<w s="G5547" m="robinson:N-GSM 19">Christ&apos;s</w>,
 <w s="G2532" m="robinson:CONJ 21">even</w>
 <w s="G3779" m="robinson:ADV 20">so</w>
 <add>are</add>
 <w s="G2249" m="robinson:P-1NP 22">we</w>
-<w s="G5547" m="robinson:N-GSM 23">Christ’s</w>.
+<w s="G5547" m="robinson:N-GSM 23">Christ&apos;s</w>.
 </v><v id="8" bcv="2CO.10.8">
 <w s="G1063" m="robinson:CONJ 3">For</w>
 <w s="G1437" m="robinson:COND 1">though</w>
@@ -49919,7 +49919,7 @@
 <w s="G280" m="robinson:A-APN 4">measure</w>,
 <add>that is</add>,
 <w s="G1722" m="robinson:PREP 6">of</w>
-<w s="G245" m="robinson:A-DPM 7">other men’s</w>
+<w s="G245" m="robinson:A-DPM 7">other men&apos;s</w>
 <w s="G2873" m="robinson:N-DPM 8">labours</w>;
 <w s="G1161" m="robinson:CONJ 10">but</w>
 <w s="G2192" m="robinson:V-PAP-NPM 11">having</w>
@@ -49946,7 +49946,7 @@
 <w s="G3756" m="robinson:PRT-N 6">not</w>
 <w s="G2744" m="robinson:V-ADN 13">to boast</w>
 <w s="G1722" m="robinson:PREP 7">in</w>
-<w s="G245" m="robinson:A-DSM 8">another man’s</w>
+<w s="G245" m="robinson:A-DSM 8">another man&apos;s</w>
 <w s="G2583" m="robinson:N-DSM 9">line of things</w>
 <w s="G2092" m="robinson:A-APN 12">made ready</w>
 <w s="G1519" m="robinson:PREP 10">to</w>
@@ -50675,7 +50675,7 @@
 <w s="G1722" m="robinson:PREP 11">in</w>
 <w s="G4730" m="robinson:N-DPF 12">distresses</w>
 <w s="G5228" m="robinson:PREP 13">for</w>
-<w s="G5547" m="robinson:N-GSM 14">Christ’s sake</w>:
+<w s="G5547" m="robinson:N-GSM 14">Christ&apos;s sake</w>:
 <w s="G1063" m="robinson:CONJ 16">for</w>
 <w s="G3752" m="robinson:CONJ 15">when</w>
 <w s="G770" m="robinson:V-PAS-1S 17">I am weak</w>,
@@ -51145,7 +51145,7 @@
 </v></p><s>The second
 <add>epistle</add> to the Corinthians was written from Philippi,
 <add>a city</add> of Macedonia, by Titus and Lucas.
-</s></c></book><book id="GAL"><id id="GAL"> Paul’s Letter to the Galatians
+</s></c></book><book id="GAL"><id id="GAL"> Paul&apos;s Letter to the Galatians
 </id><h>Galatians
 </h><toc level="1">THE EPISTLE OF PAUL THE APOSTLE TO THE GALATIANS
 </toc><toc level="2">Galatians
@@ -51353,7 +51353,7 @@
 <w s="G391" m="robinson:N-ASF 5">conversation</w>
 <w s="G4218" m="robinson:PRT 6">in time past</w>
 <w s="G1722" m="robinson:PREP 7">in</w>
-<w s="G3588 G2454" m="robinson:T-DSM robinson:N-DSM 8 9">the Jews’ religion</w>,
+<w s="G3588 G2454" m="robinson:T-DSM robinson:N-DSM 8 9">the Jews&apos; religion</w>,
 <w s="G3754" m="robinson:CONJ 10">how that</w>
 <w s="G5236" m="robinson:N-ASF 12">beyond measure</w>
 <w s="G1377" m="robinson:V-IAI-1S 13">I persecuted</w>
@@ -51366,7 +51366,7 @@
 <w s="G2532" m="robinson:CONJ 1">And</w>
 <w s="G4298" m="robinson:V-IAI-1S 2">profited</w>
 <w s="G1722" m="robinson:PREP 3">in</w>
-<w s="G3588 G2454" m="robinson:T-DSM robinson:N-DSM 4 5">the Jews’ religion</w>
+<w s="G3588 G2454" m="robinson:T-DSM robinson:N-DSM 4 5">the Jews&apos; religion</w>
 <w s="G5228" m="robinson:PREP 6">above</w>
 <w s="G4183" m="robinson:A-APM 7">many</w>
 <w s="G4915" m="robinson:N-APM 8">my equals</w>
@@ -51389,7 +51389,7 @@
 <w s="G3165" m="robinson:P-1AS 8">me</w>
 <w s="G1537" m="robinson:PREP 9">from</w>
 <w s="G3450" m="robinson:P-1GS 12">my</w>
-<w s="G3384" m="robinson:N-GSF 11">mother’s</w>
+<w s="G3384" m="robinson:N-GSF 11">mother&apos;s</w>
 <w s="G2836" m="robinson:N-GSF 10">womb</w>,
 <w s="G2532" m="robinson:CONJ 13">and</w>
 <w s="G2564" m="robinson:V-AAP-NSM 14">called</w>
@@ -51458,7 +51458,7 @@
 <w s="G1487" m="robinson:COND 7">save</w>
 <w s="G2385" m="robinson:N-ASM 9">James</w>
 <w s="G3588 G80" m="robinson:T-ASM robinson:N-ASM 10 11">the</w>
-<w s="G3588 G2962" m="robinson:T-GSM robinson:N-GSM 12 13">Lord’s</w>
+<w s="G3588 G2962" m="robinson:T-GSM robinson:N-GSM 12 13">Lord&apos;s</w>
 <w s="G80" m="robinson:N-ASM 11">brother</w>.
 </v><v id="20" bcv="GAL.1.20">
 <w s="G1161" m="robinson:CONJ 2">Now</w>
@@ -51608,7 +51608,7 @@
 <w s="G2316" m="robinson:N-NSM 14">God</w>
 <w s="G2983" m="robinson:V-PAI-3S 17">accepteth</w>
 <w s="G3756" m="robinson:PRT-N 16">no</w>
-<w s="G444" m="robinson:N-GSM 15">man’s</w>
+<w s="G444" m="robinson:N-GSM 15">man&apos;s</w>
 <w s="G4383" m="robinson:N-ASN 13">person</w>:)
 <w s="G1063" m="robinson:CONJ 19">for</w>
 <w s="G3588" m="robinson:T-NPM 20">they who</w>
@@ -52122,7 +52122,7 @@
 <w s="G3676" m="robinson:CONJ 5">Though</w>
 <add>it be</add>
 <w s="G3676" m="robinson:CONJ 5">but</w>
-<w s="G444" m="robinson:N-GSM 6">a man’s</w>
+<w s="G444" m="robinson:N-GSM 6">a man&apos;s</w>
 <w s="G1242" m="robinson:N-ASF 8">covenant</w>, yet
 <add>if it be</add>
 <w s="G2964" m="robinson:V-RPP-ASF 7">confirmed</w>,
@@ -52354,10 +52354,10 @@
 <w s="G1487" m="robinson:COND 1">if</w>
 <w s="G5210" m="robinson:P-2NP 3">ye</w>
 <add>be</add>
-<w s="G5547" m="robinson:N-GSM 4">Christ’s</w>,
+<w s="G5547" m="robinson:N-GSM 4">Christ&apos;s</w>,
 <w s="G686" m="robinson:PRT 5">then</w>
 <w s="G2075" m="robinson:V-PXI-2P 9">are ye</w>
-<w s="G11" m="robinson:N-PRI 7">Abraham’s</w>
+<w s="G11" m="robinson:N-PRI 7">Abraham&apos;s</w>
 <w s="G4690" m="robinson:N-NSN 8">seed</w>,
 <w s="G2532" m="robinson:CONJ 10">and</w>
 <w s="G2818" m="robinson:N-NPM 13">heirs</w>
@@ -53128,7 +53128,7 @@
 </v><v id="24" bcv="GAL.5.24">
 <w s="G1161" m="robinson:CONJ 2">And</w>
 <w s="G3588" m="robinson:T-NPM 1">they that are</w>
-<w s="G3588 G5547" m="robinson:T-GSM robinson:N-GSM 3 4">Christ’s</w>
+<w s="G3588 G5547" m="robinson:T-GSM robinson:N-GSM 3 4">Christ&apos;s</w>
 <w s="G4717" m="robinson:V-AAI-3P 7">have crucified</w>
 <w s="G3588 G4561" m="robinson:T-ASF robinson:N-ASF 5 6">the flesh</w>
 <w s="G4862" m="robinson:PREP 8">with</w>
@@ -53176,7 +53176,7 @@
 <w s="G3985" m="robinson:V-APS-2S 23">be tempted</w>.
 </v><v id="2" bcv="GAL.6.2">
 <w s="G941" m="robinson:V-PAM-2P 4">Bear ye</w>
-<w s="G240" m="robinson:C-GPM 1">one another’s</w>
+<w s="G240" m="robinson:C-GPM 1">one another&apos;s</w>
 <w s="G3588 G922" m="robinson:T-APN robinson:N-APN 2 3">burdens</w>,
 <w s="G2532" m="robinson:CONJ 5">and</w>
 <w s="G3779" m="robinson:ADV 6">so</w>
@@ -53416,7 +53416,7 @@
 <w s="G3588 G4151" m="robinson:T-GSN robinson:N-GSN 9 10">spirit</w>.
 <w s="G281" m="robinson:HEB 13">Amen</w>.
 </v></p><s>Unto the Galatians written from Rome.
-</s></c></book><book id="EPH"><id id="EPH"> Paul’s Letter to the Ephesians
+</s></c></book><book id="EPH"><id id="EPH"> Paul&apos;s Letter to the Ephesians
 </id><h>Ephesians
 </h><toc level="1">THE EPISTLE OF PAUL THE APOSTLE TO THE EPHESIANS
 </toc><toc level="2">Ephesians
@@ -54887,7 +54887,7 @@
 <w s="G2531" m="robinson:ADV 9">as</w>
 <w s="G3588 G2316" m="robinson:T-NSM robinson:N-NSM 11 12">God</w>
 <w s="G1722" m="robinson:PREP 13">for</w>
-<w s="G5547" m="robinson:N-DSM 14">Christ’s sake</w>
+<w s="G5547" m="robinson:N-DSM 14">Christ&apos;s sake</w>
 <w s="G5483" m="robinson:V-ADI-3S 15">hath forgiven</w>
 <w s="G5213" m="robinson:P-2DP 16">you</w>.
 </v></p></c><c id="5">
@@ -55696,7 +55696,7 @@
 <w s="G1722" m="robinson:PREP 12">in</w>
 <w s="G861" m="robinson:N-DSF 13">sincerity</w>. Amen.
 </v></p><s>Written from Rome unto the Ephesians by Tychicus.
-</s></c></book><book id="PHP"><id id="PHP"> Paul’s Letter to the Philippians
+</s></c></book><book id="PHP"><id id="PHP"> Paul&apos;s Letter to the Philippians
 </id><h>Philippians
 </h><toc level="1">THE EPISTLE OF PAUL THE APOSTLE TO THE PHILIPPIANS
 </toc><toc level="2">Philippians
@@ -56514,7 +56514,7 @@
 <w s="G3756" m="robinson:PRT-N 7">not</w>
 <w s="G3588" m="robinson:T-APN 8">the things which are</w>
 <w s="G2424" m="robinson:N-GSM 11">Jesus</w>
-<w s="G3588 G5547" m="robinson:T-GSM robinson:N-GSM 9 10">Christ’s</w>.
+<w s="G3588 G5547" m="robinson:T-GSM robinson:N-GSM 9 10">Christ&apos;s</w>.
 </v><v id="22" bcv="PHP.2.22">
 <w s="G1161" m="robinson:CONJ 2">But</w>
 <w s="G1097" m="robinson:V-PAI-2P 5">ye know</w>
@@ -57338,7 +57338,7 @@
 <w s="G3122" m="robinson:ADV 6">chiefly</w>
 <w s="G3588" m="robinson:T-NPM 8">they that are</w>
 <w s="G1537" m="robinson:PREP 9">of</w>
-<w s="G2541" m="robinson:N-GSM 11">Caesar’s</w>
+<w s="G2541" m="robinson:N-GSM 11">Caesar&apos;s</w>
 <w s="G3614" m="robinson:N-GSF 12">household</w>.
 </v><v id="23" bcv="PHP.4.23">
 <w s="G3588 G5485" m="robinson:T-NSF robinson:N-NSF 1 2">The grace</w>
@@ -57353,7 +57353,7 @@
 <w s="G3956" m="robinson:A-GPM 9">all</w>.
 <w s="G281" m="robinson:HEB 11">Amen</w>.
 </v></p><s>It was written to the Philippians from Rome by Epaphroditus.
-</s></c></book><book id="COL"><id id="COL"> Paul’s Letter to the Colossians
+</s></c></book><book id="COL"><id id="COL"> Paul&apos;s Letter to the Colossians
 </id><h>Colossians
 </h><toc level="1">THE EPISTLE OF PAUL THE APOSTLE TO THE COLOSSIANS
 </toc><toc level="2">Colossians
@@ -57777,7 +57777,7 @@
 <w s="G3588 G4561" m="robinson:T-DSF robinson:N-DSF 19 20">flesh</w>
 <w s="G5228" m="robinson:PREP 22">for</w>
 <w s="G846" m="robinson:P-GSM 25">his</w>
-<w s="G3588 G4983" m="robinson:T-GSN robinson:N-GSN 23 24">body’s</w>
+<w s="G3588 G4983" m="robinson:T-GSN robinson:N-GSN 23 24">body&apos;s</w>
 <w s="G5228" m="robinson:PREP 22">sake</w>,
 <w s="G3739" m="robinson:R-NSN 26">which</w>
 <w s="G2076" m="robinson:V-PXI-3S 27">is</w>
@@ -58305,7 +58305,7 @@
 <w s="G1495" m="robinson:N-NSF 20">idolatry</w>:
 </v><v id="6" bcv="COL.3.6">
 <w s="G1223" m="robinson:PREP 1">For</w>
-<w s="G3739" m="robinson:R-APN 2">which things’</w>
+<w s="G3739" m="robinson:R-APN 2">which things&apos;</w>
 <w s="G1223" m="robinson:PREP 1">sake</w>
 <w s="G3588 G3709" m="robinson:T-NSF robinson:N-NSF 4 5">the wrath</w>
 <w s="G3588 G2316" m="robinson:T-GSM robinson:N-GSM 6 7">of God</w>
@@ -58737,7 +58737,7 @@
 <w s="G5209" m="robinson:P-2AP 2">you</w>,
 <w s="G2532" m="robinson:CONJ 7">and</w>
 <w s="G3138" m="robinson:N-NSM 8">Marcus</w>,
-<w s="G3588 G431" m="robinson:T-NSM robinson:N-NSM 9 10">sister’s son</w>
+<w s="G3588 G431" m="robinson:T-NSM robinson:N-NSM 9 10">sister&apos;s son</w>
 <w s="G921" m="robinson:N-GSM 11">to Barnabas</w>, (<w s="G4012" m="robinson:PREP 12">touching</w>
 <w s="G3739" m="robinson:R-GSM 13">whom</w>
 <w s="G2983" m="robinson:V-2AAI-2P 14">ye received</w>
@@ -58883,7 +58883,7 @@
 <w s="G5216" m="robinson:P-2GP 14">you</w>.
 <w s="G281" m="robinson:HEB 15">Amen</w>.
 </v></p><s>Written from Rome to the Colossians by Tychicus and Onesimus.
-</s></c></book><book id="1TH"><id id="1TH"> Paul’s First Letter to the Thessalonians
+</s></c></book><book id="1TH"><id id="1TH"> Paul&apos;s First Letter to the Thessalonians
 </id><h>1 Thessalonians
 </h><toc level="1">THE FIRST EPISTLE OF PAUL THE APOSTLE TO THE THESSALONIANS
 </toc><toc level="2">1 Thessalonians
@@ -60208,7 +60208,7 @@
 <w s="G26" m="robinson:N-DSF 7">love</w>
 <w s="G1223" m="robinson:PREP 8">for</w>
 <w s="G846" m="robinson:P-GPM 11">their</w>
-<w s="G3588 G2041" m="robinson:T-ASN robinson:N-ASN 9 10">work’s</w>
+<w s="G3588 G2041" m="robinson:T-ASN robinson:N-ASN 9 10">work&apos;s</w>
 <w s="G1223" m="robinson:PREP 8">sake</w>.
 <add>And</add>
 <w s="G1514" m="robinson:V-PAM-2P 12">be at peace</w>
@@ -60357,7 +60357,7 @@
 <w s="G281" m="robinson:HEB 10">Amen</w>.
 </v></p><s>The first
 <add>epistle</add> unto the Thessalonians was written from Athens.
-</s></c></book><book id="2TH"><id id="2TH"> Paul’s Second Letter to the Thessalonians
+</s></c></book><book id="2TH"><id id="2TH"> Paul&apos;s Second Letter to the Thessalonians
 </id><h>2 Thessalonians
 </h><toc level="1">THE SECOND EPISTLE OF PAUL THE APOSTLE TO THE THESSALONIANS
 </toc><toc level="2">2 Thessalonians
@@ -61000,7 +61000,7 @@
 </v><v id="8" bcv="2TH.3.8">
 <w s="G3761" m="robinson:ADV 1">Neither</w>
 <w s="G5315" m="robinson:V-2AAI-1P 4">did we eat</w>
-<w s="G5100" m="robinson:X-GSM 6">any man’s</w>
+<w s="G5100" m="robinson:X-GSM 6">any man&apos;s</w>
 <w s="G740" m="robinson:N-ASM 3">bread</w>
 <w s="G1432" m="robinson:ADV 2">for nought</w>;
 <w s="G235" m="robinson:CONJ 7">but</w>
@@ -61164,7 +61164,7 @@
 <w s="G281" m="robinson:HEB 11">Amen</w>.
 </v></p><s>The second
 <add>epistle</add> to the Thessalonians was written from Athens.
-</s></c></book><book id="1TI"><id id="1TI"> Paul’s First Letter to Timothy
+</s></c></book><book id="1TI"><id id="1TI"> Paul&apos;s First Letter to Timothy
 </id><h>1 Timothy
 </h><toc level="1">THE FIRST EPISTLE OF PAUL THE APOSTLE TO TIMOTHY
 </toc><toc level="2">1 Timothy
@@ -62000,7 +62000,7 @@
 <w s="G3868" m="robinson:V-PNM-2S 7">refuse</w>
 <w s="G952" m="robinson:A-APM 3">profane</w>
 <w s="G2532" m="robinson:CONJ 4">and</w>
-<w s="G1126" m="robinson:A-APM 5">old wives’</w>
+<w s="G1126" m="robinson:A-APM 5">old wives&apos;</w>
 <w s="G3454" m="robinson:N-APM 6">fables</w>,
 <w s="G1161" m="robinson:CONJ 9">and</w>
 <w s="G1128" m="robinson:V-PAM-2S 8">exercise</w>
@@ -62261,7 +62261,7 @@
 <w s="G3580" m="robinson:V-AAI-3S 8">she have lodged strangers</w>,
 <w s="G1487" m="robinson:COND 9">if</w>
 <w s="G3538" m="robinson:V-AAI-3S 12">she have washed</w>
-<w s="G40" m="robinson:A-GPM 10">the saints’</w>
+<w s="G40" m="robinson:A-GPM 10">the saints&apos;</w>
 <w s="G4228" m="robinson:N-APM 11">feet</w>,
 <w s="G1487" m="robinson:COND 13">if</w>
 <w s="G1884" m="robinson:V-AAI-3S 15">she have relieved</w>
@@ -62434,7 +62434,7 @@
 <w s="G3367" m="robinson:A-DSM 3">no man</w>,
 <w s="G3366" m="robinson:CONJ 5">neither</w>
 <w s="G2841" m="robinson:V-PAM-2S 6">be partaker of</w>
-<w s="G245" m="robinson:A-DPF 8">other men’s</w>
+<w s="G245" m="robinson:A-DPF 8">other men&apos;s</w>
 <w s="G266" m="robinson:N-DPF 7">sins</w>:
 <w s="G5083" m="robinson:V-PAM-2S 11">keep</w>
 <w s="G4572" m="robinson:F-2ASM 9">thyself</w>
@@ -62449,7 +62449,7 @@
 <w s="G3631" m="robinson:N-DSM 4">wine</w>
 <w s="G1223" m="robinson:PREP 7">for</w>
 <w s="G4675" m="robinson:P-2GS 10">thy</w>
-<w s="G3588 G4751" m="robinson:T-ASM robinson:N-ASM 8 9">stomach’s</w>
+<w s="G3588 G4751" m="robinson:T-ASM robinson:N-ASM 8 9">stomach&apos;s</w>
 <w s="G1223" m="robinson:PREP 7">sake</w>
 <w s="G2532" m="robinson:CONJ 11">and</w>
 <w s="G4675" m="robinson:P-2GS 14">thine</w>
@@ -62457,7 +62457,7 @@
 <w s="G769" m="robinson:N-APF 15">infirmities</w>.
 </v><v id="24" bcv="1TI.5.24">
 <w s="G5100" m="robinson:X-GPM 1">Some</w>
-<w s="G444" m="robinson:N-GPM 2">men’s</w>
+<w s="G444" m="robinson:N-GPM 2">men&apos;s</w>
 <w s="G3588 G266" m="robinson:T-NPF robinson:N-NPF 3 4">sins</w>
 <w s="G1526" m="robinson:V-PXI-3P 6">are</w>
 <w s="G4271" m="robinson:A-NPF 5">open beforehand</w>,
@@ -62832,7 +62832,7 @@
 <w s="G4675" m="robinson:P-2GS 11">thee</w>.
 <w s="G281" m="robinson:HEB 12">Amen</w>.
 </v></p><s>The first to Timothy was written from Laodicea, which is the chiefest city of Phrygia Pacatiana.
-</s></c></book><book id="2TI"><id id="2TI"> Paul’s Second Letter to Timothy
+</s></c></book><book id="2TI"><id id="2TI"> Paul&apos;s Second Letter to Timothy
 </id><h>2 Timothy
 </h><toc level="1">THE SECOND EPISTLE OF PAUL THE APOSTLE TO TIMOTHY
 </toc><toc level="2">2 Timothy
@@ -63271,7 +63271,7 @@
 <w s="G5278" m="robinson:V-PAI-1S 4">I endure</w>
 <w s="G3956" m="robinson:A-APN 3">all things</w>
 <w s="G1223" m="robinson:PREP 5">for</w>
-<w s="G1588" m="robinson:A-APM 7">the elect’s</w>
+<w s="G1588" m="robinson:A-APM 7">the elect&apos;s</w>
 <w s="G1223" m="robinson:PREP 5">sakes</w>,
 <w s="G2443" m="robinson:CONJ 8">that</w>
 <w s="G846" m="robinson:P-NPM 10">they</w>
@@ -63452,7 +63452,7 @@
 <w s="G37" m="robinson:V-RPP-NSN 12">sanctified</w>,
 <w s="G2532" m="robinson:CONJ 13">and</w>
 <w s="G2173" m="robinson:A-NSN 14">meet for</w>
-<w s="G3588 G1203" m="robinson:T-DSM robinson:N-DSM 15 16">the master’s</w>
+<w s="G3588 G1203" m="robinson:T-DSM robinson:N-DSM 15 16">the master&apos;s</w>
 <w s="G2173" m="robinson:A-NSN 14">use</w>,
 <add>and</add>
 <w s="G2090" m="robinson:V-RPP-NSN 21">prepared</w>
@@ -64093,7 +64093,7 @@
 <w s="G281" m="robinson:HEB 13">Amen</w>.
 </v></p><s>The second
 <add>epistle</add> unto Timotheus, ordained the first bishop of the church of the Ephesians, was written from Rome, when Paul was brought before Nero the second time.
-</s></c></book><book id="TIT"><id id="TIT"> Paul’s Letter to Titus
+</s></c></book><book id="TIT"><id id="TIT"> Paul&apos;s Letter to Titus
 </id><h>Titus
 </h><toc level="1">THE EPISTLE OF PAUL THE APOSTLE TO TITUS
 </toc><toc level="2">Titus
@@ -64111,7 +64111,7 @@
 <w s="G2596" m="robinson:PREP 8">according to</w>
 <w s="G4102" m="robinson:N-ASF 9">the faith</w>
 <w s="G1588" m="robinson:A-GPM 10">of</w>
-<w s="G2316" m="robinson:N-GSM 11">God’s</w>
+<w s="G2316" m="robinson:N-GSM 11">God&apos;s</w>
 <w s="G1588" m="robinson:A-GPM 10">elect</w>,
 <w s="G2532" m="robinson:CONJ 12">and</w>
 <w s="G1922" m="robinson:N-ASF 13">the acknowledging</w>
@@ -64278,7 +64278,7 @@
 <w s="G3361" m="robinson:PRT-N 10">not</w>,
 <w s="G5484" m="robinson:ADV 14">for</w>
 <w s="G150" m="robinson:A-GSN 12">filthy</w>
-<w s="G2771" m="robinson:N-GSN 13">lucre’s</w>
+<w s="G2771" m="robinson:N-GSN 13">lucre&apos;s</w>
 <w s="G5484" m="robinson:ADV 14">sake</w>.
 </v><v id="12" bcv="TIT.1.12">
 <w s="G5100" m="robinson:X-NSM 2">One</w>
@@ -64785,7 +64785,7 @@
 <w s="G3956" m="robinson:A-GPM 16">all</w>.
 <w s="G281" m="robinson:HEB 18">Amen</w>.
 </v></p><s>It was written to Titus, ordained the first bishop of the church of the Cretians, from Nicopolis of Macedonia.
-</s></c></book><book id="PHM"><id id="PHM">Paul’s Letter to Philemon
+</s></c></book><book id="PHM"><id id="PHM">Paul&apos;s Letter to Philemon
 </id><p sfm="mt">THE EPISTLE OF PAUL THE APOSTLE TO PHILEMON
 </p><c id="1">
 <p><v id="1" bcv="PHM.1.1">
@@ -64902,7 +64902,7 @@
 <w s="G433" m="robinson:V-PAP-ASN 10">that which is convenient</w>,
 </v><v id="9" bcv="PHM.1.9">Yet
 <w s="G1223" m="robinson:PREP 1">for</w>
-<w s="G3588 G26" m="robinson:T-ASF robinson:N-ASF 2 3">love’s</w>
+<w s="G3588 G26" m="robinson:T-ASF robinson:N-ASF 2 3">love&apos;s</w>
 <w s="G1223" m="robinson:PREP 1">sake</w>
 <w s="G3870" m="robinson:V-PAI-1S 5">I</w>
 <w s="G3123" m="robinson:ADV 4">rather</w>
@@ -67221,7 +67221,7 @@
 <w s="G2398" m="robinson:A-GPM 13">his own</w>
 <w s="G266" m="robinson:N-GPF 14">sins</w>,
 <w s="G1899" m="robinson:ADV 17">and then</w>
-<w s="G3588 G2992" m="robinson:T-GSM robinson:N-GSM 19 20">for the people’s</w>:
+<w s="G3588 G2992" m="robinson:T-GSM robinson:N-GSM 19 20">for the people&apos;s</w>:
 <w s="G1063" m="robinson:CONJ 22">for</w>
 <w s="G5124" m="robinson:D-ASN 21">this</w>
 <w s="G4160" m="robinson:V-AAI-3S 23">he did</w>
@@ -67574,7 +67574,7 @@
 <w s="G2192" m="robinson:V-PAP-NSF 16">that had</w>
 <w s="G3131" m="robinson:HEB 18">manna</w>,
 <w s="G2532" m="robinson:CONJ 19">and</w>
-<w s="G2" m="robinson:N-PRI 22">Aaron’s</w>
+<w s="G2" m="robinson:N-PRI 22">Aaron&apos;s</w>
 <w s="G3588 G4464" m="robinson:T-NSF robinson:N-NSF 20 21">rod</w>
 <w s="G985" m="robinson:V-AAP-NSF 24">that budded</w>,
 <w s="G2532" m="robinson:CONJ 25">and</w>
@@ -68388,7 +68388,7 @@
 </v><v id="28" bcv="HEB.10.28">
 <w s="G5100" m="robinson:X-NSM 2">He that</w>
 <w s="G114" m="robinson:V-AAP-NSM 1">despised</w>
-<w s="G3475" m="robinson:N-GSM 4">Moses’</w>
+<w s="G3475" m="robinson:N-GSM 4">Moses&apos;</w>
 <w s="G3551" m="robinson:N-ASM 3">law</w>
 <w s="G599" m="robinson:V-PAI-3S 12">died</w>
 <w s="G5565" m="robinson:ADV 5">without</w>
@@ -68951,7 +68951,7 @@
 <w s="G3756" m="robinson:PRT-N 16">not</w>
 <w s="G5399" m="robinson:V-AOI-3P 17">afraid</w>
 <w s="G3588 G1297" m="robinson:T-ASN robinson:N-ASN 18 19">of</w>
-<w s="G3588 G935" m="robinson:T-GSM robinson:N-GSM 20 21">the king’s</w>
+<w s="G3588 G935" m="robinson:T-GSM robinson:N-GSM 20 21">the king&apos;s</w>
 <w s="G1297" m="robinson:N-ASN 19">commandment</w>.
 </v><v id="24" bcv="HEB.11.24">
 <w s="G4102" m="robinson:N-DSF 1">By faith</w>
@@ -68962,7 +68962,7 @@
 <w s="G3004" m="robinson:V-PPN 6">to be called</w>
 <w s="G5207" m="robinson:N-NSM 7">the son</w>
 <w s="G2364" m="robinson:N-GSF 8">of</w>
-<w s="G5328" m="robinson:N-PRI 9">Pharaoh’s</w>
+<w s="G5328" m="robinson:N-PRI 9">Pharaoh&apos;s</w>
 <w s="G2364" m="robinson:N-GSF 8">daughter</w>;
 </v><v id="25" bcv="HEB.11.25">
 <w s="G138" m="robinson:V-2AMP-NSM 2">Choosing</w>
@@ -70429,7 +70429,7 @@
 <w s="G538" m="robinson:V-PAP-NSM 13">deceiveth</w>
 <w s="G846" m="robinson:P-GSM 15">his own</w>
 <w s="G2588" m="robinson:N-ASF 14">heart</w>,
-<w s="G5127" m="robinson:D-GSM 16">this man’s</w>
+<w s="G5127" m="robinson:D-GSM 16">this man&apos;s</w>
 <w s="G3588 G2356" m="robinson:T-NSF robinson:N-NSF 18 19">religion</w>
 <add>is</add>
 <w s="G3152" m="robinson:A-NSM 17">vain</w>.
@@ -70910,7 +70910,7 @@
 <w s="G906" m="robinson:V-PAI-1P 9">we put</w>
 <w s="G3588 G5469" m="robinson:T-APM robinson:N-APM 4 5">bits</w>
 <w s="G1519" m="robinson:PREP 6">in</w>
-<w s="G3588 G2462" m="robinson:T-GPM robinson:N-GPM 2 3">the horses’</w>
+<w s="G3588 G2462" m="robinson:T-GPM robinson:N-GPM 2 3">the horses&apos;</w>
 <w s="G3588 G4750" m="robinson:T-APN robinson:N-APN 7 8">mouths</w>,
 <w s="G4314" m="robinson:PREP 10">that</w>
 <w s="G846" m="robinson:P-APM 13">they</w>
@@ -72048,7 +72048,7 @@
 <w s="G678" m="robinson:ADV 6">without respect of persons</w>
 <w s="G2919" m="robinson:V-PAP-ASM 7">judgeth</w>
 <w s="G2596" m="robinson:PREP 8">according to</w>
-<w s="G1538" m="robinson:A-GSM 10">every man’s</w>
+<w s="G1538" m="robinson:A-GSM 10">every man&apos;s</w>
 <w s="G2041" m="robinson:N-ASN 11">work</w>,
 <w s="G390" m="robinson:V-2APM-2P 19">pass</w>
 <w s="G5550" m="robinson:N-ASM 18">the time</w>
@@ -72402,7 +72402,7 @@
 <w s="G2937" m="robinson:N-DSF 5">ordinance</w>
 <w s="G442" m="robinson:A-DSF 4">of man</w>
 <w s="G1223" m="robinson:PREP 6">for</w>
-<w s="G3588 G2962" m="robinson:T-ASM robinson:N-ASM 7 8">the Lord’s sake</w>:
+<w s="G3588 G2962" m="robinson:T-ASM robinson:N-ASM 7 8">the Lord&apos;s sake</w>:
 <w s="G1535" m="robinson:CONJ 9">whether it be</w>
 <w s="G935" m="robinson:N-DSM 10">to the king</w>,
 <w s="G5613" m="robinson:ADV 11">as</w>
@@ -72809,7 +72809,7 @@
 <w s="G1487" m="robinson:COND 2">if</w>
 <w s="G3958" m="robinson:V-PAO-2P 4">ye suffer</w>
 <w s="G1223" m="robinson:PREP 5">for</w>
-<w s="G1343" m="robinson:N-ASF 6">righteousness’ sake</w>,
+<w s="G1343" m="robinson:N-ASF 6">righteousness&apos; sake</w>,
 <w s="G3107" m="robinson:A-NPM 7">happy</w>
 <add>are ye</add>:
 <w s="G1161" m="robinson:CONJ 9">and</w>
@@ -73171,7 +73171,7 @@
 <w s="G5463" m="robinson:V-PAM-2P 8">rejoice</w>,
 <w s="G2526" m="robinson:ADV 2">inasmuch as</w>
 <w s="G2841" m="robinson:V-PAI-2P 3">ye are partakers</w>
-<w s="G3588 G5547" m="robinson:T-GSM robinson:N-GSM 5 6">of Christ’s</w>
+<w s="G3588 G5547" m="robinson:T-GSM robinson:N-GSM 5 6">of Christ&apos;s</w>
 <w s="G3804" m="robinson:N-DPN 7">sufferings</w>;
 <w s="G2443" m="robinson:CONJ 9">that</w>,
 <w s="G1722" m="robinson:PREP 11">when</w>
@@ -73222,7 +73222,7 @@
 <w s="G2555" m="robinson:A-NSM 11">an evildoer</w>,
 <w s="G2228" m="robinson:PRT 12">or</w>
 <w s="G5613" m="robinson:ADV 13">as</w>
-<w s="G244" m="robinson:N-NSM 14">a busybody in other men’s matters</w>.
+<w s="G244" m="robinson:N-NSM 14">a busybody in other men&apos;s matters</w>.
 </v><v id="16" bcv="1PE.4.16">
 <w s="G1161" m="robinson:CONJ 2">Yet</w>
 <w s="G1487" m="robinson:COND 1">if</w>
@@ -73325,7 +73325,7 @@
 <w s="G3366" m="robinson:CONJ 1">Neither</w>
 <w s="G5613" m="robinson:ADV 2">as</w>
 <w s="G2634" m="robinson:V-PAP-NPM 3">being lords over</w>
-<add>God’s</add>
+<add>God&apos;s</add>
 <w s="G3588 G2819" m="robinson:T-GPM robinson:N-GPM 4 5">heritage</w>,
 <w s="G235" m="robinson:CONJ 6">but</w>
 <w s="G1096" m="robinson:V-PNP-NPM 8">being</w>
@@ -74142,7 +74142,7 @@
 <w s="G5268" m="robinson:N-NSN 6">ass</w>
 <w s="G5350" m="robinson:V-ANP-NSN 11">speaking</w>
 <w s="G1722" m="robinson:PREP 8">with</w>
-<w s="G444" m="robinson:N-GSM 9">man’s</w>
+<w s="G444" m="robinson:N-GSM 9">man&apos;s</w>
 <w s="G5456" m="robinson:N-DSF 10">voice</w>
 <w s="G2967" m="robinson:V-AAI-3S 12">forbad</w>
 <w s="G3913" m="robinson:N-ASF 16">the madness</w>
@@ -74599,7 +74599,7 @@
 <w s="G1519" m="robinson:PREP 20">for</w>
 <w s="G165" m="robinson:N-GSM 22">ever</w>.
 <w s="G281" m="robinson:HEB 23">Amen</w>.
-</v></p></c></book><book id="1JN"><id id="1JN"> John’s First Letter
+</v></p></c></book><book id="1JN"><id id="1JN"> John&apos;s First Letter
 </id><p sfm="mt">THE FIRST EPISTLE GENERAL OF JOHN
 </p><c id="1">
 <p><v id="1" bcv="1JN.1.1">
@@ -75010,7 +75010,7 @@
 <w s="G863" m="robinson:V-RPI-3P 5">are forgiven you</w>
 <w s="G1223" m="robinson:PREP 9">for</w>
 <w s="G846" m="robinson:P-GSN 12">his</w>
-<w s="G3588 G3686" m="robinson:T-ASN robinson:N-ASN 10 11">name’s</w>
+<w s="G3588 G3686" m="robinson:T-ASN robinson:N-ASN 10 11">name&apos;s</w>
 <w s="G1223" m="robinson:PREP 9">sake</w>.
 </v><v id="13" bcv="1JN.2.13">
 <w s="G1125" m="robinson:V-PAI-1S 1">I write</w>
@@ -75564,7 +75564,7 @@
 <w s="G4190" m="robinson:A-NPN 22">evil</w>,
 <w s="G1161" m="robinson:CONJ 25">and</w>
 <w s="G846" m="robinson:P-GSM 28">his</w>
-<w s="G3588 G80" m="robinson:T-GSM robinson:N-GSM 26 27">brother’s</w>
+<w s="G3588 G80" m="robinson:T-GSM robinson:N-GSM 26 27">brother&apos;s</w>
 <w s="G1342" m="robinson:A-NPN 29">righteous</w>.
 </v></p><p><v id="13" bcv="1JN.3.13">
 <w s="G2296" m="robinson:V-PAM-2P 2">Marvel</w>
@@ -75637,7 +75637,7 @@
 <w s="G1161" m="robinson:CONJ 2">But</w>
 <w s="G3739" m="robinson:R-NSM 1">whoso</w>
 <w s="G2192" m="robinson:V-PAS-3S 4">hath</w>
-<w s="G3588 G2889" m="robinson:T-GSM robinson:N-GSM 7 8">this world’s</w>
+<w s="G3588 G2889" m="robinson:T-GSM robinson:N-GSM 7 8">this world&apos;s</w>
 <w s="G3588 G979" m="robinson:T-ASM robinson:N-ASM 5 6">good</w>,
 <w s="G2532" m="robinson:CONJ 9">and</w>
 <w s="G2334" m="robinson:V-PAS-3S 10">seeth</w>
@@ -76560,7 +76560,7 @@
 <w s="G575" m="robinson:PREP 4">from</w>
 <w s="G3588 G1497" m="robinson:T-GPN robinson:N-GPN 5 6">idols</w>.
 <w s="G281" m="robinson:HEB 7">Amen</w>.
-</v></p></c></book><book id="2JN"><id id="2JN"> John’s Second Letter
+</v></p></c></book><book id="2JN"><id id="2JN"> John&apos;s Second Letter
 </id><p sfm="mt">THE SECOND EPISTLE OF JOHN
 </p><c id="1">
 <p><v id="1" bcv="2JN.1.1">
@@ -76586,7 +76586,7 @@
 <w s="G3588 G225" m="robinson:T-ASF robinson:N-ASF 23 24">the truth</w>;
 </v><v id="2" bcv="2JN.1.2">
 <w s="G1223" m="robinson:PREP 1">For</w>
-<w s="G3588 G225" m="robinson:T-ASF robinson:N-ASF 2 3">the truth’s sake</w>,
+<w s="G3588 G225" m="robinson:T-ASF robinson:N-ASF 2 3">the truth&apos;s sake</w>,
 <w s="G3588" m="robinson:T-ASF 4">which</w>
 <w s="G3306" m="robinson:V-PAP-ASF 5">dwelleth</w>
 <w s="G1722" m="robinson:PREP 6">in</w>
@@ -76798,7 +76798,7 @@
 <w s="G782" m="robinson:V-PNI-3S 1">greet</w>
 <w s="G4571" m="robinson:P-2AS 2">thee</w>.
 <w s="G281" m="robinson:HEB 10">Amen</w>.
-</v></p></c></book><book id="3JN"><id id="3JN"> John’s Third Letter
+</v></p></c></book><book id="3JN"><id id="3JN"> John&apos;s Third Letter
 </id><p sfm="mt">THE THIRD EPISTLE OF JOHN
 </p><c id="1">
 <p><v id="1" bcv="3JN.1.1">
@@ -76879,7 +76879,7 @@
 <w s="G1063" m="robinson:CONJ 2">Because that</w>
 <w s="G5228" m="robinson:PREP 1">for</w>
 <w s="G846" m="robinson:P-GSM 5">his</w>
-<w s="G3588 G3686" m="robinson:T-GSN robinson:N-GSN 3 4">name’s sake</w>
+<w s="G3588 G3686" m="robinson:T-GSN robinson:N-GSN 3 4">name&apos;s sake</w>
 <w s="G1831" m="robinson:V-2AAI-3P 6">they went forth</w>,
 <w s="G2983" m="robinson:V-PAP-NPM 8">taking</w>
 <w s="G3367" m="robinson:A-ASN 7">nothing</w>
@@ -77015,7 +77015,7 @@
 <w s="G5384" m="robinson:A-APM 19">the friends</w>
 <w s="G2596" m="robinson:PREP 20">by</w>
 <w s="G3686" m="robinson:N-ASN 21">name</w>.
-</v></p></c></book><book id="JUD"><id id="JUD"> Jude’s Letter
+</v></p></c></book><book id="JUD"><id id="JUD"> Jude&apos;s Letter
 </id><p sfm="mt">THE GENERAL EPISTLE OF JUDE
 </p><c id="1">
 <p><v id="1" bcv="JUD.1.1">
@@ -77336,7 +77336,7 @@
 <w s="G5246" m="robinson:A-APN 15">great swelling</w>
 <add>words</add>,
 <w s="G2296" m="robinson:V-PAP-NPM 16">having</w>
-<w s="G4383" m="robinson:N-APN 17">men’s persons</w>
+<w s="G4383" m="robinson:N-APN 17">men&apos;s persons</w>
 <w s="G2296" m="robinson:V-PAP-NPM 16">in admiration</w>
 <w s="G5484" m="robinson:ADV 19">because of</w>
 <w s="G5622" m="robinson:N-GSF 18">advantage</w>.
@@ -77679,7 +77679,7 @@
 <w s="G4151" m="robinson:N-DSN 3">the Spirit</w>
 <w s="G1722" m="robinson:PREP 4">on</w>
 <w s="G2250" m="robinson:N-DSF 7">the</w>
-<w s="G2960" m="robinson:A-DSF 6">Lord’s</w>
+<w s="G2960" m="robinson:A-DSF 6">Lord&apos;s</w>
 <w s="G2250" m="robinson:N-DSF 7">day</w>,
 <w s="G2532" m="robinson:CONJ 8">and</w>
 <w s="G191" m="robinson:V-AAI-1S 9">heard</w>
@@ -77993,7 +77993,7 @@
 <w s="G2532" m="robinson:CONJ 6">and</w>
 <w s="G1223" m="robinson:PREP 7">for</w>
 <w s="G3450" m="robinson:P-1GS 10">my</w>
-<w s="G3588 G3686" m="robinson:T-ASN robinson:N-ASN 8 9">name’s</w>
+<w s="G3588 G3686" m="robinson:T-ASN robinson:N-ASN 8 9">name&apos;s</w>
 <w s="G1223" m="robinson:PREP 7">sake</w>
 <w s="G2872" m="robinson:V-RAI-2S 11">hast laboured</w>,
 <w s="G2532" m="robinson:CONJ 12">and</w>
@@ -78189,7 +78189,7 @@
 <w s="G2730" m="robinson:V-PAI-2S 7">thou dwellest</w>,
 <add>even</add>
 <w s="G3699" m="robinson:ADV 8">where</w>
-<w s="G3588 G4567" m="robinson:T-GSM robinson:N-GSM 11 12">Satan’s</w>
+<w s="G3588 G4567" m="robinson:T-GSM robinson:N-GSM 11 12">Satan&apos;s</w>
 <w s="G3588 G2362" m="robinson:T-NSM robinson:N-NSM 9 10">seat</w>
 <add>is</add>:
 <w s="G2532" m="robinson:CONJ 13">and</w>
@@ -80440,7 +80440,7 @@
 <w s="G1799" m="robinson:ADV 15">before</w>
 <w s="G3588 G2316" m="robinson:T-GSM robinson:N-GSM 16 17">God</w>
 <w s="G1537" m="robinson:PREP 11">out</w>
-<w s="G3588 G32" m="robinson:T-GSM robinson:N-GSM 13 14">of the angel’s</w>
+<w s="G3588 G32" m="robinson:T-GSM robinson:N-GSM 13 14">of the angel&apos;s</w>
 <w s="G5495" m="robinson:N-GSF 12">hand</w>.
 </v><v id="5" bcv="REV.8.5">
 <w s="G2532" m="robinson:CONJ 1">And</w>
@@ -81302,7 +81302,7 @@
 <w s="G2983" m="robinson:V-2AAI-1S 2">I took</w>
 <w s="G3588 G974" m="robinson:T-ASN robinson:N-ASN 3 4">the little book</w>
 <w s="G1537" m="robinson:PREP 5">out</w>
-<w s="G3588 G32" m="robinson:T-GSM robinson:N-GSM 8 9">of the angel’s</w>
+<w s="G3588 G32" m="robinson:T-GSM robinson:N-GSM 8 9">of the angel&apos;s</w>
 <w s="G3588 G5495" m="robinson:T-GSF robinson:N-GSF 6 7">hand</w>,
 <w s="G2532" m="robinson:CONJ 10">and</w>
 <w s="G2719" m="robinson:V-2AAI-1S 11">ate</w>
@@ -82551,7 +82551,7 @@
 <w s="G5505" m="robinson:A-NPF 17">thousand</w>,
 <w s="G2192" m="robinson:V-PAP-NPF 18">having</w>
 <w s="G846" m="robinson:P-GSM 23">his</w>
-<w s="G3588 G3962" m="robinson:T-GSM robinson:N-GSM 21 22">Father’s</w>
+<w s="G3588 G3962" m="robinson:T-GSM robinson:N-GSM 21 22">Father&apos;s</w>
 <w s="G3588 G3686" m="robinson:T-ASN robinson:N-ASN 19 20">name</w>
 <w s="G1125" m="robinson:V-RPP-ASN 24">written</w>
 <w s="G1909" m="robinson:PREP 25">in</w>
@@ -85593,7 +85593,7 @@
 <w s="G1166" m="robinson:V-FAI-1S 27">I will shew</w>
 <w s="G4671" m="robinson:P-2DS 28">thee</w>
 <w s="G3588 G3565" m="robinson:T-ASF robinson:N-ASF 29 30">the bride</w>,
-<w s="G3588 G721" m="robinson:T-GSN robinson:N-GSN 31 32">the Lamb’s</w>
+<w s="G3588 G721" m="robinson:T-GSN robinson:N-GSN 31 32">the Lamb&apos;s</w>
 <w s="G3588 G1135" m="robinson:T-ASF robinson:N-ASF 33 34">wife</w>.
 </v><v id="10" bcv="REV.21.10">
 <w s="G2532" m="robinson:CONJ 1">And</w>
@@ -85928,7 +85928,7 @@
 <w s="G3588" m="robinson:T-NPM 16">they</w>
 <w s="G1125" m="robinson:V-RPP-NPM 17">which are written</w>
 <w s="G1722" m="robinson:PREP 18">in</w>
-<w s="G3588 G721" m="robinson:T-GSN robinson:N-GSN 23 24">the Lamb’s</w>
+<w s="G3588 G721" m="robinson:T-GSN robinson:N-GSN 23 24">the Lamb&apos;s</w>
 <w s="G3588 G975" m="robinson:T-DSN robinson:N-DSN 19 20">book</w>
 <w s="G3588 G2222" m="robinson:T-GSF robinson:N-GSF 21 22">of life</w>.
 </v></p></c><c id="22">

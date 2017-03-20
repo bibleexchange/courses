@@ -2,7 +2,7 @@
 
 Paul knows a genuine Gospel is the seed for a move of God.
 
-1. Gather some verses related to this question.         
+1. Gather some verses related to this question. 
 <BR>
 <BR>
 <BR>

@@ -1,6 +1,6 @@
 # Overcome with Desire - (James 1:13-15; Psalm 27:4)
 
-> Jas 1:13 ¶ Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:  14 But every man is tempted, when he is drawn away of his own lust, and enticed. 15 Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death.
+> Jas 1:13 Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man: 14 But every man is tempted, when he is drawn away of his own lust, and enticed. 15 Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death.
 <!-- -->
 > Ps 27:4 One thing have I desired of the LORD, that will I seek after; that I may dwell in the house of the LORD all the days of my life, to behold the beauty of the LORD, and to enquire in his temple.
 
@@ -27,7 +27,7 @@ desire n. a strong feeling of wanting to have something or wishing for something
 
 ## Solomon
 
->  1Ki 5:10 ¶ So Hiram gave Solomon cedar trees and fir trees according to all his desire.
+> 1Ki 5:10 So Hiram gave Solomon cedar trees and fir trees according to all his desire.
 
 ## Nehemiah
 
@@ -55,7 +55,7 @@ What am I allowing to CONDITION me to desire? (Advertising, Messaging, "ILLUST. 
 
 God made us with our senses and desires. Sin perverts them and the influence of Christ redeems and restores them.
 
->  Ps 139:14 I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.
+> Ps 139:14 I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.
 
 -------------------------
 
@@ -63,7 +63,7 @@ If you could just take that tenacity you use to serve the devil and turn it towa
 
 ## How to Defeat an Evil Desire?
 
-> Pr 23:6 ¶ Eat thou not the bread of him that hath an evil eye, neither desire thou his dainty meats:
+> Pr 23:6 Eat thou not the bread of him that hath an evil eye, neither desire thou his dainty meats:
 
 If Desire is a sympton, don't band-aid, hide, cover up the sympton. It's a red flag something is wrong of great impact. **Seek Deliverance -- Go After It!!!**
 
@@ -73,7 +73,7 @@ If Desire is a sympton, don't band-aid, hide, cover up the sympton. It's a red f
 
 ### Instead of your heart, let God's Word GUIDE us:
 
-> 2 Timothy 2:22 ¶ Flee also youthful lusts: but follow righteousness, faith, charity, peace, with them that call on the Lord out of a pure heart.
+> 2 Timothy 2:22 Flee also youthful lusts: but follow righteousness, faith, charity, peace, with them that call on the Lord out of a pure heart.
 
 ### Nail it to the cross. Confront your heart with the sacrifice of Christ's innocence.
 
@@ -88,7 +88,7 @@ The best defense is a good offense. Substitute negative desires with that which 
 
 ### DESIRING what is right, begins with DENYING yourself.
 
-> Mt 16:24 ¶ Then said Jesus unto his disciples, If any man will come after me, let him deny himself, and take up his cross, and follow me.
+> Mt 16:24 Then said Jesus unto his disciples, If any man will come after me, let him deny himself, and take up his cross, and follow me.
 
 ### The School of Christ
 

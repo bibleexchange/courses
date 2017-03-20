@@ -14,11 +14,11 @@ The Gentiles, not following after righteousness (righteousness by the Law), atta
 
 > Matthew 5:6&mdash;Blessed are they which do hunger and thirst after righteousness: for they shall be filled.
 
->  Romans 1:17&mdash;For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith.
+> Romans 1:17&mdash;For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith.
 
->  Romans 3:22&mdash;Even the righteousness of God which is by faith of Jesus Christ unto all and upon all them that believe: for there is no difference:
+> Romans 3:22&mdash;Even the righteousness of God which is by faith of Jesus Christ unto all and upon all them that believe: for there is no difference:
 
->  Php 3:9&mdash;And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith:
+> Php 3:9&mdash;And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith:
 
 - FAITH
 
@@ -46,13 +46,13 @@ Israel did not seek it by faith.
 
 Stumbled over the rock of offense. - Stumbled over Jesus -
 
-NOTE:   The only way to have Christ in your life is to believe on Him.  Otherwise he is a "rock of offense".  He offended the leaders of Israel by exposing sin.
+NOTE: The only way to have Christ in your life is to believe on Him. Otherwise he is a "rock of offense". He offended the leaders of Israel by exposing sin.
 
 What is the message of the Gospel that is open to all?
 
 "And whosoever believeth on him shall not be ashamed."
 
-God's mercy is illustrated by His dealings with both Jew and Gentile.  Humility and awe are the proper attitudes for both Jew and Gentile who experience the mercy and kindness of God.
+God's mercy is illustrated by His dealings with both Jew and Gentile. Humility and awe are the proper attitudes for both Jew and Gentile who experience the mercy and kindness of God.
 
 Whether a man is a Jew or a Gentile, his salvation depends upon more or less than what he thinks and does with Jesus.
 
@@ -69,7 +69,7 @@ Why is Christ a stumblingstone to the sinner today?
 
 - The Jew First, The Gospel is FOR the Jew
 
-> Romans 1:16  For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.
+> Romans 1:16 For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.
 <!--->
 > Romans 2:9 Tribulation and anguish, upon every soul of man that doeth evil, of the Jew first, and also of the Gentile;
 <!--->
@@ -85,16 +85,16 @@ The first persecution of Christians organised by the Roman government took place
 
 > Acts 9:1&mdash;And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest, 2 And desired of him letters to Damascus to the synagogues, that if he found any of this way, whether they were men or women, he might bring them bound unto Jerusalem.
 
-SMITH's BIBLE DICTIONARY: The Pharisees were a religious party or school among the Jews at the time of Christ, so called from the Hebrew word perushim, "separated." The chief sects among the Jews were the PHARISEES, the SADDUCEES and the ESSENES, who may be described respectively as the Formalists, the Freethinkers and the Puritans. ... Christ's teaching was in some respects thoroughly antagonistic to theirs. He denounced them in the bitterest language. (Matthew 15:7,8; 23:5,13,14,15,23; Mark 7:6; Luke 11:42-44 compare with Mr 7:1-5; 11:29; 12:19,20; Lu 6:28,37-42)
+SMITH's BIBLE DICTIONARY: The Pharisees were a religious party or school among the Jews at the time of Christ, so called from the Hebrew word perushim, "separated." The chief sects among the Jews were the PHARISEES, the SADDUCEES and the ESSENES, who may be described respectively as the Formalists, the Freethinkers and the Puritans. &hellip; Christ's teaching was in some respects thoroughly antagonistic to theirs. He denounced them in the bitterest language. (Matthew 15:7,8; 23:5,13,14,15,23; Mark 7:6; Luke 11:42-44 compare with Mr 7:1-5; 11:29; 12:19,20; Lu 6:28,37-42)
 
-1. The first portion of the Talmud is The MISHNA or "second law," which was given by Moses ORALLY to explain and complete the written Law given to Moses on Mount Sinai.  It eventually came to be esteemed far above the sacred text.
+1. The first portion of the Talmud is The MISHNA or "second law," which was given by Moses ORALLY to explain and complete the written Law given to Moses on Mount Sinai. It eventually came to be esteemed far above the sacred text.
 
 2. The Pharisees, upon the Pretence of maintaining the Law of God intact, multiplied minute precepts and distinctions to such an extent that the whole life of the Israelite was hemmed in and burdened on every side by instructions so numerous and trifling that the law was almost if not wholly lost sight of. These "traditions" as they were called, had long been gradually accumulating.
 - Detailed washings before they could eat bread,
 - bathing when they returned from the market;
 - How they washed cups, pots, brazen vessels
 - fastings demanded twice in the week,
-- and extensions of the law of the Sabbath, which must have converted God's gracious ordinance of the Sabbath's rest into a burden and a pain.  Mt 12:1-13; Mr 3:1-6; Lu 18:10-17
+- and extensions of the law of the Sabbath, which must have converted God's gracious ordinance of the Sabbath's rest into a burden and a pain. Mt 12:1-13; Mr 3:1-6; Lu 18:10-17
 
 3. Jesus taught that true piety consisted not in forms, but in substance, not in outward observances, but in an inward spirit. The whole system of Pharisaic piety led to exactly opposite conclusions. Mt 6:2,6,16;
 
@@ -120,7 +120,7 @@ Finally, instead of endeavoring to fulfill the great end of the dispensation who
 
 - The Pharisees: Minute Prescriptions added to the Law
 
-> Acts 23:6  But when Paul perceived that the one part were Sadducees, and the other Pharisees, he cried out in the council, Men and brethren, I am a Pharisee, the son of a Pharisee: of the hope and resurrection of the dead I am called in question.
+> Acts 23:6 But when Paul perceived that the one part were Sadducees, and the other Pharisees, he cried out in the council, Men and brethren, I am a Pharisee, the son of a Pharisee: of the hope and resurrection of the dead I am called in question.
 <!-- -->
 > Ac 26:5 Which knew me from the beginning, if they would testify, that after the most straitest sect of our religion I lived a Pharisee.
 <!-- -->
@@ -138,7 +138,7 @@ They had a zeal of God, but were missing important truth -- The Righteousness of
 
 ### The Jews' Path to God, vs. 12-15
 
-> 12  For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him. 13 For whosoever shall call upon the name of the Lord shall be saved. 14 How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher? 15 And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!
+> 12 For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him. 13 For whosoever shall call upon the name of the Lord shall be saved. 14 How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher? 15 And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!
 
 ### The Jew's Rejection of the Gospel, v. 16-21
 

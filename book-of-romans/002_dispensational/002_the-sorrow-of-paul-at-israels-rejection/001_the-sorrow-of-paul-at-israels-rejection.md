@@ -35,27 +35,27 @@ Paul has great sorrow for unbelieving Israel. Their unbelief is especially dishe
 
 Paul lays out the Jews spiritual heritage as being eight-fold. To the Jew Pertains:
 
-1.   **ADOPTION** - privilege of adoption  -  sonship 
+1. **ADOPTION** - privilege of adoption - sonship 
 
-God had chosen Israel over Ishmael. ... The Jewish legend of Isaac and Ishamael's argument over circumcision ...
+God had chosen Israel over Ishmael. &hellip; The Jewish legend of Isaac and Ishamael's argument over circumcision &hellip;
 
-2.   **GLORY** - Shekinah presence of God
+2. **GLORY** - Shekinah presence of God
 
-3.   **COVENANTS** - Promises of God made to Israel
+3. **COVENANTS** - Promises of God made to Israel
 
-4.   **LAW** - Law given at Sinai
+4. **LAW** - Law given at Sinai
 
-5.   **SERVICE** - Authorized worship as ordained by God
+5. **SERVICE** - Authorized worship as ordained by God
 
-6.   **PROMISES** - Promise of God are (yea and amen) to them that believe
+6. **PROMISES** - Promise of God are (yea and amen) to them that believe
 
 The Jew had the promises of God, they even trusted in the law but they overlooked Christ.
 
-7.   **FATHERS** - Relationship to the Father (Fathers of the flesh)
+7. **FATHERS** - Relationship to the Father (Fathers of the flesh)
 
-8.   **MESSIAH OF ISRAEL**
+8. **MESSIAH OF ISRAEL**
 
-The written word  Rom. 3:2  oracles of God committed unto them. Rom. 9:5  Christ came in the flesh
+The written word Rom. 3:2 oracles of God committed unto them. Rom. 9:5 Christ came in the flesh
 
 There are over 400 prophecies concerning Christ in the Old Testament that were fulfilled in the New Testament.
 

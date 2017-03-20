@@ -19,7 +19,7 @@ Stories are everywhere. You hear them on the radio, read them in books, and hear
 * Ehud the judge
 * Deborah and Barak
 * Gideon
-* Jephthah’s Vow
+* Jephthah&apos;s Vow
 * Samson
 * The life of King Saul
 * How David met Abigail

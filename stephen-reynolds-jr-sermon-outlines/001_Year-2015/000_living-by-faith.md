@@ -1,12 +1,12 @@
 # Living By Faith
 
-> "... just shall live by his faith ..." [H0530] Habakkuk 2:4
+> "&hellip; just shall live by his faith &hellip;" [H0530] Habakkuk 2:4
 
 > Romans 1:17 For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith.
 
 ## What Does a Life Without Faith Look Like?
 
-Loren Eiseley:...
+Loren Eiseley:&hellip;
 
 "Man is the Cosmic Orphan. He is the only creature in the universe who asks, "Why?" Other animals have instincts to guide them, but man has learned to ask questions. "Who am I?" man asks. "Why am I here? Where am I going?" Since the Enlightenment, when **he threw off the shackles of religion**, man has tried to answer these questions without reference to God. But **the answers that came back were not exhilarating, but dark and terrible**. 
 
@@ -23,9 +23,9 @@ Life without Faith in God, concludes with death. No matter what happens in the m
 We are prisoners who await our execution. 
 Having no higher purpose, significance or value.
 
-Advances in sciences like medicine...no permanent value because the universe is DOOMED. Life is absurd. We work and sacrifice to accomplish things that will not deter the outcome -- and ever expanding universe that will eventually just cease to exist with no memory or proof it had ever existed.
+Advances in sciences like medicine&hellip;no permanent value because the universe is DOOMED. Life is absurd. We work and sacrifice to accomplish things that will not deter the outcome -- and ever expanding universe that will eventually just cease to exist with no memory or proof it had ever existed.
 
-A life without faith in God, cannot meaningfully answer our greatest questions: Why Am I here? What is the Meaning and purpose of my life? AT best we can agree to a level of "SELF DELUSION"...let's PRETEND it all has meaning (evening though we know it doesn't) and fool ourselves.
+A life without faith in God, cannot meaningfully answer our greatest questions: Why Am I here? What is the Meaning and purpose of my life? AT best we can agree to a level of "SELF DELUSION"&hellip;let's PRETEND it all has meaning (evening though we know it doesn't) and fool ourselves.
 
 ## What Does the Life of Faith Look Like?
 
@@ -41,7 +41,7 @@ Hebrews 11:
 
 2. v.5 Enoch was translated
 
-**How horrible the world is... Enoch escaped it even bypassing the grave by faith.**
+**How horrible the world is&hellip; Enoch escaped it even bypassing the grave by faith.**
 
 3. v.7 Noah Prepared an Ark and Became heir of Righteousness
 
@@ -116,21 +116,21 @@ D.	#4: The System Of Doctrine And Morality Peculiar To Christianity:
 
 ### emuwn - h0525 (5 verses)
 
-"... in Whom is no faith ..." Deuteronomy 32:20
-"... but a faithful ambassador is health ..."  Proverbs 13:17
-"... a faithful witness ..."  Proverbs 14:5
-"... a faithful man..." Proverbs 20:6
-"... which keepeth the truth may enter in ..."  Isaiah 26:2
+"&hellip; in Whom is no faith &hellip;" Deuteronomy 32:20
+"&hellip; but a faithful ambassador is health &hellip;" Proverbs 13:17
+"&hellip; a faithful witness &hellip;" Proverbs 14:5
+"&hellip; a faithful man&hellip;" Proverbs 20:6
+"&hellip; which keepeth the truth may enter in &hellip;" Isaiah 26:2
 
 ### emuwnah - H0530 (49 verses)
 
-"... his hands were steady ..." Exodus 17:12
-"... God of truth and without iniquity ..." Deuteronomy 32:4 
-"... his faithfulness and his righteousness ..." 1 Samuel 26:23 
-"... they dealt faithfully ..." 2 Kings 12:15
-"... ordain in their set office ..." 1 Chronicles 9:22
-"... his works are done in truth ..." Psalm 33:4
-"... just shall live by his faith ..." [H0530] Habakkuk 2:4
+"&hellip; his hands were steady &hellip;" Exodus 17:12
+"&hellip; God of truth and without iniquity &hellip;" Deuteronomy 32:4 
+"&hellip; his faithfulness and his righteousness &hellip;" 1 Samuel 26:23 
+"&hellip; they dealt faithfully &hellip;" 2 Kings 12:15
+"&hellip; ordain in their set office &hellip;" 1 Chronicles 9:22
+"&hellip; his works are done in truth &hellip;" Psalm 33:4
+"&hellip; just shall live by his faith &hellip;" [H0530] Habakkuk 2:4
 
 <!--
 Resources:
@@ -142,7 +142,7 @@ Resources:
 -------------------
 
 Add to your faith
-2Pe 1:5 ¶ And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;
+2Pe 1:5 And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;
 
 Work of Faith
 
@@ -150,7 +150,7 @@ Power of Faith
 
 # The Life of Faith
 
-> "... just shall live by his faith ..." [H0530] Habakkuk 2:4
+> "&hellip; just shall live by his faith &hellip;" [H0530] Habakkuk 2:4
 
 > Romans 1:17 For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith.
 

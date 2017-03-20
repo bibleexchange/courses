@@ -21,7 +21,7 @@
 
 Our lives can often be dramatically changed with the arrival of a single piece of information. **The knowledge that Christ imparts results in LIFE for those Who FOLLOW Him**.
 
-## **WHAT IS IT?**:  The Meaning of "Light of Life" Jesus Promised
+## **WHAT IS IT?**: The Meaning of "Light of Life" Jesus Promised
 
 ### Light
 
@@ -59,14 +59,14 @@ This is the intent of the GOSPEL:
 
 > **Psalm 36:9** For with thee is the fountain of life: in thy light shall we see light.
 
-> **ILLUSTRATION:** Romeo and Juliet (LOVE, the very source of life) In the famous balcony scene of Act 2, Romeo first sees Juliet as the sun itself, as the ultimate source of life: “But soft, what light through yonder window breaks? / It is the east and **Juliet is the sun**!" 
+> **ILLUSTRATION:** Romeo and Juliet (LOVE, the very source of life) In the famous balcony scene of Act 2, Romeo first sees Juliet as the sun itself, as the ultimate source of life: &quot;But soft, what light through yonder window breaks? / It is the east and **Juliet is the sun**!" 
 
 No Man Can illuminate his own soul; all understanding must come from above.
 
 - **As the Sun gives light to the moon**, The moon has no light of its own. It reflects the sun's light. At any time, half of the Earth and half of the moon are lit by the sun. The other half is in shadow!
 - Without the sun, the earth would be in complete darkness. (On Earth we get about 1,200 watts per square meter)
  
-> **John 1:1-4** ¶ In the beginning was the Word, and the Word was with God, and the Word was God. 2 The same was in the beginning with God. 3 All things were made by him; and without him was not any thing made that was made. 4 In him was life; and the life was the light of men.
+> **John 1:1-4** In the beginning was the Word, and the Word was with God, and the Word was God. 2 The same was in the beginning with God. 3 All things were made by him; and without him was not any thing made that was made. 4 In him was life; and the life was the light of men.
 
 By the LOGOS/Jesus the world was created.
 
@@ -78,11 +78,11 @@ By the LOGOS/Jesus the world was created.
 
 His light is PERFECT:
 
-> 1Jo 1:5 ¶ This then is the message which we have heard of him, and declare unto you, that God is light, and in him is **no darkness at all**.
+> 1Jo 1:5 This then is the message which we have heard of him, and declare unto you, that God is light, and in him is **no darkness at all**.
 
 ## **HOW DO I GET IT**?: Having the Light of Life
 
-... He that **FOLLOWETH** Me shall ...
+&hellip; He that **FOLLOWETH** Me shall &hellip;
 
 ### **Stop** Following the OLD and Follow Me
 

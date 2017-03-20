@@ -2,7 +2,7 @@
 
 Text: Revelation 22:1-5
 
-> Revelation 22:1 ¶ And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb. 2 In the midst of the street of it, and on either side of the river, was there the tree of life, which bare twelve manner of fruits, and yielded her fruit every month: and the leaves of the tree were for the healing of the nations. 3 And there shall be no more curse: but the throne of God and of the Lamb shall be in it; and his servants shall serve him: 4 And they shall see his face; and his name shall be in their foreheads. 5 And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light: and they shall reign for ever and ever.
+> Revelation 22:1 And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb. 2 In the midst of the street of it, and on either side of the river, was there the tree of life, which bare twelve manner of fruits, and yielded her fruit every month: and the leaves of the tree were for the healing of the nations. 3 And there shall be no more curse: but the throne of God and of the Lamb shall be in it; and his servants shall serve him: 4 And they shall see his face; and his name shall be in their foreheads. 5 And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light: and they shall reign for ever and ever.
 
 > John 14:1-3&mdash;Let not your heart be troubled: ye believe in God, believe also in me. 2 In my Father's house are many mansions: if it were not so, I would have told you. I go to prepare a place for you. 3 And if I go and prepare a place for you, I will come again, and receive you unto myself; that where I am, there ye may be also.
 
@@ -66,7 +66,7 @@ Heaven is a beautiful place (notice our text).
 
 ## Who Will Go to Heaven?
 
-Matthew 5:3  the poor in spirit
+Matthew 5:3 the poor in spirit
 Romans 8:17
 Revelation 22:14
 
@@ -96,13 +96,13 @@ Heaven is a mystery now, but not then!
 
 > John 14:6&mdash;Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.
 
-## Hymn: THERE’S NO DISAPPOINTMENT IN HEAVEN
+## Hymn: THERE&apos;s NO DISAPPOINTMENT IN HEAVEN
 
 **Words**: Frederick M. Lehman, 1914; he wrote these words in Chicago, Illinois, while suffering financial reverses.
 
 **Music**: Frederick Lehman, harmony by his daughter Claudia L. Mays
 
-“There’s no disappointment in heaven,
+&quot;There&apos;s no disappointment in heaven,
  No weariness, sorrow or pain;
 No hearts that are bleeding and broken,
  No song with a minor refrain.
@@ -110,27 +110,27 @@ The clouds of our earthly horizon
  Will appear in the sky,
 For all will be sunshine and gladness,
  With never a tear nor a sigh.
-We’ll never pay rent for our mansion,
+We&apos;ll never pay rent for our mansion,
  The taxes will never come due;
 Our garments will never grow threadbare,
  But always be fadeless and new.
-We’ll never be hungry nor thirsty,
+We&apos;ll never be hungry nor thirsty,
  Nor languish in poverty there,
 For all the rich bounties of heaven
  His sanctified children will share.
-There’ll never be crepe on the door-knob,
+There&apos;ll never be crepe on the door-knob,
  No funeral train in the sky;
 No graves on the hillside of glory,
  For there we shall never more die.
 The old will be young there forever,
  Transformed in a moment of time;
-Immortal we’ll stand in his likeness
+Immortal we&apos;ll stand in his likeness
  The stars and the sun to outshine.
-I’m bound for the beautiful city
+I&apos;m bound for the beautiful city
  My Lord has prepared for His own;
 Where all the redeemed of all ages
- Sing “Glory” around the white throne;
+ Sing &quot;Glory&quot; around the white throne;
 Sometimes I grow homesick for heaven,
  And the glories I there shall behold,
 What a joy it will be when My Savior I see,
- In that beautiful city of gold!”
+ In that beautiful city of gold!&quot;

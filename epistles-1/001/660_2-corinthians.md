@@ -32,17 +32,17 @@
 <p>Sanctification begins at Salvation not something that starts later.</p>
 <p>You don't gradually become saved.</p>
 <h4>"He will yet deliver us"</h4>
-<p>Glorify Himself in us--II Thess. 1:12—That the name of our Lord Jesus Christ may be glorified in you, and ye in him, according to the grace of our God and the Lord Jesus Christ.</p>
+<p>Glorify Himself in us--II Thess. 1:12&mdash;That the name of our Lord Jesus Christ may be glorified in you, and ye in him, according to the grace of our God and the Lord Jesus Christ.</p>
 <blockquote>II Cor. 3:18 -But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the Lord.</blockquote>
-<blockquote>John 12:26—If any man serve me, let him follow me; and where I am, there shall also my servant be: if any man serve me, him will my Father honour.</blockquote>
+<blockquote>John 12:26&mdash;If any man serve me, let him follow me; and where I am, there shall also my servant be: if any man serve me, him will my Father honour.</blockquote>
 <h3>Prayer is necessary to help. 1:11</h3>
 <h4>Prayer is the key that unlocks the door.</h4>
 <h4>1Prayer is a priceless treasure.</h4>
 <h4>1Prayer changes things.</h4>
 <h4>1Prayer has eternal benefits.</h4>
 <h4>1Consistent prayer is the hardest work you will ever do.</h4>
-<blockquote>II Cor. 5:20—Now then we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ's stead, be ye reconciled to God.</blockquote>
-<blockquote>21—For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.</blockquote>
+<blockquote>II Cor. 5:20&mdash;Now then we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ's stead, be ye reconciled to God.</blockquote>
+<blockquote>21&mdash;For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.</blockquote>
 <h3>A good conscience with no hidden motives is expressed. 1:12-24; 2:1-5</h3>
 <h2>The trustworthiness of the messenger affects the trustworthiness of the message. 1:15-20</h2>
 <h3>The power to be established even through adversity is of the Holy Ghost. 1:22, 23</h3>
@@ -55,10 +55,10 @@
 <h3>The apostle's motive was correction not vengeance. 2:6</h3>
 <h3>The apostle's aim was to judge by Christian love. 2:8</h3>
 <h3>The apostle's words. 2:10 "I forgive also"</h3>
-<h3>The apostle's knowledge of the enemy's devices gained-through many hard learning experiences. 2:11; Heb. 5:8—"Learned obedience by the things He suffered."</h3>
+<h3>The apostle's knowledge of the enemy's devices gained-through many hard learning experiences. 2:11; Heb. 5:8&mdash;"Learned obedience by the things He suffered."</h3>
 <h3>The apostles concern for Corinth effected his spirit to preach in Troas even though the Lord opened the door for him. 2:12, 13</h3>
 <h3>The apostle's testimony 2:14-17</h3>
-<blockquote>II Cor. 2:14—Now thanks be unto God, which always causeth us to triumph in Christ, and maketh manifest the savour of his knowledge by us in every place.</blockquote>
+<blockquote>II Cor. 2:14&mdash;Now thanks be unto God, which always causeth us to triumph in Christ, and maketh manifest the savour of his knowledge by us in every place.</blockquote>
 <h2>The apostle's ministry 3:1-7:16</h2>
 <h3>"Epistles of Christ" 3:3</h3>
 <h4>1Written with the Spirit of the living God. 3:3</h4>
@@ -92,5 +92,5 @@
 <p>(In battle) 13:Paul declared war on anybody who opposed the authority of God's Word.</p>
 <h3>D"Examine yourselves" 13:5</h3>
 <h2>VIIBe encouraged and then encourage others. 13:11-14</h2>
-<blockquote>II Cor. 13:11—Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you.</blockquote>
-<blockquote>II Cor. 1:4—Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God.</blockquote>
+<blockquote>II Cor. 13:11&mdash;Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you.</blockquote>
+<blockquote>II Cor. 1:4&mdash;Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God.</blockquote>

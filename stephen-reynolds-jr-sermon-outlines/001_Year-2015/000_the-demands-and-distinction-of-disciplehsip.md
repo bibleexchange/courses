@@ -56,10 +56,10 @@ Means a willingness to receive and respond to rebuke.
 
 >(2 Timothy 4:2) Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine.
 
-Never loose the ability to receive  and make corrections.
+Never loose the ability to receive and make corrections.
 
 ILLUSTRATION: We always called him tv.
 
 ###Having God's Favor (It makes a difference who you follow.)
 
->(John 9:24-30)... 28 Then they reviled him, and said, Thou art his disciple; but we are Moses' disciples. ... 30 The man answered and said unto them, Why herein is a marvellous thing, that ye know not from whence he is, and yet he hath opened mine eyes.
+>(John 9:24-30)&hellip; 28 Then they reviled him, and said, Thou art his disciple; but we are Moses' disciples. &hellip; 30 The man answered and said unto them, Why herein is a marvellous thing, that ye know not from whence he is, and yet he hath opened mine eyes.

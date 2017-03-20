@@ -15,11 +15,11 @@ TEXT: I Peter 2:2; Genesis 44:1-12
 
 > John 16:13-14 -- Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, that shall he speak: and he will shew you things to come. 14 He shall glorify me: for he shall receive of mine, and shall shew it unto you.
 
-> Genesis 43:23a And he said, Peace be to you, fear not: your God, and the God of your father, hath given you treasure in your sacks:...
+> Genesis 43:23a And he said, Peace be to you, fear not: your God, and the God of your father, hath given you treasure in your sacks:&hellip;
 
 ###C. The Sacks Teach Us About the Spiritual Experience of the Christian.
 
-> Genesis 44:1 And he commanded the steward of his house, saying, Fill the men's sacks with food, as much as they can carry, and put every man's money in his sack's mouth. (I Cor. 6:19 Know ye not your body is the temple...)
+> Genesis 44:1 And he commanded the steward of his house, saying, Fill the men's sacks with food, as much as they can carry, and put every man's money in his sack's mouth. (I Cor. 6:19 Know ye not your body is the temple&hellip;)
 
 ###D. The Silver Cup Teaches Us About the Influence of the Spirit on the Christian -- GIFTS and FRUIT.
 (It is one object - a silver cup - that is placed by the steward in Benjamin's sack, but it represents the MANY spiritual Gifts.)
@@ -50,7 +50,7 @@ These Gifts God has given to the church are NECESSARY and not OPTIONAL.
 
 ###E. It is the Responsibility of the Christian to Seek Earnestly the Best Gift.
 
-> 1 Corinthians 12:31a But covet earnestly the best gifts:...
+> 1 Corinthians 12:31a But covet earnestly the best gifts:&hellip;
 
 > Hebrews 6:1,2 -- Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God, 2 Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.
 

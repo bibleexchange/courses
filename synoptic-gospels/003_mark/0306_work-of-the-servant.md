@@ -1,7 +1,7 @@
 B.	The Servant Working
 
 1.	There is _____________, _____________ service of the
-servant recorded in this Gospel.  
+servant recorded in this Gospel. 
 
 a. 	And He did this - And He said that
 
@@ -18,11 +18,11 @@ a. 	And He did this - And He said that
 
 a.	He selected 4 __________________ to become
 
-4 ___________  _____  ________.
+4 ___________ _____ ________.
 
 b.	They were to turn all the practical ____________
 
-and ___________ over for ________  _______.
+and ___________ over for ________ _______.
 
 c.	Mark _________
 
@@ -34,19 +34,19 @@ and our ____________.
 
 3.	He worked with _____________________.
 
-a.	Mark tells us Jesus...
+a.	Mark tells us Jesus&hellip;
 
-(1)	...took the little ______________ in His arms
+(1)	&hellip;took the little ______________ in His arms
 
-(2)	...was grieved
+(2)	&hellip;was grieved
 
-(3)	...sighed
+(3)	&hellip;sighed
 
-(4)	...loved
+(4)	&hellip;loved
 
-(5)	...was angry
+(5)	&hellip;was angry
 
-(6)	...was touched with the _____________
+(6)	&hellip;was touched with the _____________
 of our infirmities.
 
 4.	This is a Gospel of ____________________.

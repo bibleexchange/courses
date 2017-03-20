@@ -6,7 +6,7 @@ text: Revelation 20:11-15
 
 A Great White Throne and Him that Sat on It
 
-> 11 ¶ And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them.
+> 11 And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them.
 
 Compare this Throne with details given in Revelation 4 (vs. 11). 
 1. chapter Four described the throne of God just as the judgments of God on the earth were to begin. That throne was set in Heaven, but in Revelation 20 we are not told where this is set.
@@ -20,7 +20,7 @@ Compare this Throne with details given in Revelation 4 (vs. 11).
 5.the first had beforre it a glassy sea. Here nothing celestial is visible.
 
 6. The first had singing and joyful exultation, the giving of praises to God and the lamb and rewards for righteousness. Here is no song or voice of gladness. 
-  
+ 
 ## The Standard of Proof of this Court (vs. 12)
 
 The amount of evidence which a plaintiff or prosecuting attorney must present in a trial in order to win is called the standard of proof. Different cases require different standards of proof depending on what is at stake. 

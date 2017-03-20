@@ -223,9 +223,9 @@ table#romans-outline th.subtle { background-color:#d9d9d9; font-weight:normal;}
  <td class="plain-hdr" colspan="2" rowspan="8"> Benediction <br/> and <br /> Doxology</td>
 </tr>
 <tr class="c12">
-  <td> Slave to sin</td>
-  <td colspan="5">Slave to God</td>
-  <td colspan="2">Slave Serving God</td>
+ <td> Slave to sin</td>
+ <td colspan="5">Slave to God</td>
+ <td colspan="2">Slave Serving God</td>
 </tr>
 
 <tr>
@@ -247,16 +247,16 @@ table#romans-outline th.subtle { background-color:#d9d9d9; font-weight:normal;}
 </tr>
 
 <tr>
-  <th class="subtle">Need of</th>
-  <th class="subtle" colspan="2">Way of</th>
-  <th class="subtle" >Life of</th>
-  <th class="subtle"colspan="2">Scope of</th>
-  <th class="subtle" colspan="2">Service of</th>
+ <th class="subtle">Need of</th>
+ <th class="subtle" colspan="2">Way of</th>
+ <th class="subtle" >Life of</th>
+ <th class="subtle"colspan="2">Scope of</th>
+ <th class="subtle" colspan="2">Service of</th>
 </tr>
 <tr class="c48">
-  <td> Deadliness of sin</td>
-  <td colspan="2"> Design of Grace</td>
-  <td colspan="5"> Demonstrations of Salvation Power Given &ndash; Promises Fulfilled &ndash; Empathy Pursued</td>
+ <td> Deadliness of sin</td>
+ <td colspan="2"> Design of Grace</td>
+ <td colspan="5"> Demonstrations of Salvation Power Given &ndash; Promises Fulfilled &ndash; Empathy Pursued</td>
 </tr>
 
 </tbody></table>

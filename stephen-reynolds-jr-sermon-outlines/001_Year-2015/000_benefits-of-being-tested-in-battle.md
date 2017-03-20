@@ -38,7 +38,7 @@ The Key is our FAITH and not our SUFFERING. (Pain Alone will not strengthen you.
 
 ## II. The Answer is not in You, but That is Ok.
 
-> It is not in me...
+> It is not in me&hellip;
 
 - Once felt invincible, unwise in the battle. -- Had all the answers.
 - The NOVICE wins the first fight and is in more danger than before.

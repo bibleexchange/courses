@@ -15,27 +15,27 @@ TEXT: 2 Corinthians 4:1-7
 
 #### Some Have not this Treasure: "They Have Their portion in this life"
 
-1.  Rich Young Ruler
+1. Rich Young Ruler
 
 > Lu 18:22 Now when Jesus heard these things, he said unto him, Yet lackest thou one thing: sell all that thou hast, and distribute unto the poor, and thou shalt have treasure in heaven: and come, follow me. 23 And when he heard this, he was very sorrowful: for he was very rich.
 
 2. Lot
-...Set his tent toward Sodom.
+&hellip;Set his tent toward Sodom.
 Didn't necessarily love Sodom, but he didn't hate it either!
 
 3. Demas 
-...The apostle had confidence in Demas.
+&hellip;The apostle had confidence in Demas.
 
 > **Colossians 4:14** Luke, the beloved physician, and Demas, greet you.
 > **Philemon 1:24** Marcus, Aristarchus, Demas, Lucas, my fellowlabourers.
 <!-- -->
-> 2 Timothy 4:10 For Demas hath forsaken me, having loved this present world, and is departed unto Thessalonica;...
+> 2 Timothy 4:10 For Demas hath forsaken me, having loved this present world, and is departed unto Thessalonica;&hellip;
 
 LIVING: Not necessarily gain, but the threat to life he would find at Rome.
 
 #### Some have this Treasure: The Victory of Contentment, Satisfied with Jesus
 
-"I do not place my portion in earthly treasures, but in beholding God's face" >>> I shall be satisfied ...with they likeness <<<
+"I do not place my portion in earthly treasures, but in beholding God's face" >>> I shall be satisfied &hellip;with they likeness <<<
 
 > 2 Corinthians 4:6 The light of the knowledge of the glory of God in the face of Jesus Christ.
 
@@ -63,11 +63,11 @@ Luke 12:21-40 "The Lifestyle of the Believer---**Living to a Higher Purpose**"
 
 In earthen vessels. This refers to the apostles and ministers of religion, as weak and feeble; as having bodies decaying and dying; as fragile, and liable to various accidents, and as being altogether unworthy to hold a treasure so invaluable; as if valuable diamonds and gold were placed in vessels of earth of coarse composition, easily broken, and liable to decay.
 
-> 1  ¶ We are troubled on every side, yet not distressed; we are perplexed, but not in despair; 9 Persecuted, but not forsaken; cast down, but not destroyed; 2 Always bearing about in the body the dying of the Lord Jesus 3 Death worketh in us us, but life in you
+> 1 We are troubled on every side, yet not distressed; we are perplexed, but not in despair; 9 Persecuted, but not forsaken; cast down, but not destroyed; 2 Always bearing about in the body the dying of the Lord Jesus 3 Death worketh in us us, but life in you
 
 ## Conclusion
 
 #### Why?
 
-> ...that the excellency of the power may be of God, and not of us
+> &hellip;that the excellency of the power may be of God, and not of us
 My treasure is in heaven and I shall be satisfied to see Jesus.

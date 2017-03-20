@@ -19,7 +19,7 @@ The Reign begins with the Second Coming of Christ and will last exactly 1,000 li
 3. It takes place after the tribulation.
 4. It takes place before the Wrath of God is poured out on the earth.
 
-Simply said, Premillennialists can be either Pre-tribulation, Mid-tribulation,  Post Tribulation, Pre-Wrath or even "we don't know when" Rapturists. One thing is agreed upon, the Rapture will take place.
+Simply said, Premillennialists can be either Pre-tribulation, Mid-tribulation, Post Tribulation, Pre-Wrath or even "we don't know when" Rapturists. One thing is agreed upon, the Rapture will take place.
 
 Many premillennialists believe that God will fulfill many unfilled promises to Israel during the Reign.
 
@@ -29,13 +29,13 @@ Many premillennialists believe that God will fulfill many unfilled promises to I
 
 Amillennism (Greek a- "no" + "millennialism) is the rejection of the belief that Christ will have a 1000 year long physical reign on the earth. The Reign began in Heaven with Christ's resurrection and will last an undetermined number of years, but does end at the Second Coming of Christ. The Reign is characterized as strictly spiritual and accomplished through conversion of the lost. The Tribulation will be a brief period of suffering at the end of the Reign and before Christ's Second Coming. The Tribulation does not last any definite number of years, but it is definitely brief in relation to the time-line of all history. The rapture takes place as part of Christ's Second Coming at the conclusion of the Tribulation period.
 
-[Covenant theologians, Lutherans, a minority of Baptists, Catholics, most Presbyterian and Reformed churches, Hank Hanegraff, and R.C. Sproul. Even as early as Justin Martyr’s time (138-165 A.D.) he said genuine Christians disagreed on the literal millennium. Even in the early church both groups accepted each other in Christ. ]
+[Covenant theologians, Lutherans, a minority of Baptists, Catholics, most Presbyterian and Reformed churches, Hank Hanegraff, and R.C. Sproul. Even as early as Justin Martyr&apos;s time (138-165 A.D.) he said genuine Christians disagreed on the literal millennium. Even in the early church both groups accepted each other in Christ. ]
 
 ### Postmillennialism
 
 Postmillenialism views Second Coming of Christ as happening after a golden age of Christian prosperity. The Reign begins when a majority of the of the population is converted (reference: Matthew 24:14). The Reign lasts for an indefinite time until Christ's Second Coming and not a literal 1000 years (1000 years is interpreted simply as "a long period of time"). Like in Amillennialism the Reign is a spiritual and not physical one. The Tribulation will be a brief period that takes place before Jesus' Second Coming. The Rapture takes place as part of the Second Coming of Christ.
 
-As similar as Amillennialism  and Postmillenialism are, its difficult to tell them apart. Both emphasize a non-literal interpretation and deny the Reign taking place literally on earth. One major difference is that Postmillenialism holds that the Reign is happening right now and that the world will increasingly get better as we approach Christ's return. Christ will return after Christians and not Christ have well established God's Kingdom on the earth.
+As similar as Amillennialism and Postmillenialism are, its difficult to tell them apart. Both emphasize a non-literal interpretation and deny the Reign taking place literally on earth. One major difference is that Postmillenialism holds that the Reign is happening right now and that the world will increasingly get better as we approach Christ's return. Christ will return after Christians and not Christ have well established God's Kingdom on the earth.
 
 ## Who will take Part in this Administration? (vs. 4,5)
 

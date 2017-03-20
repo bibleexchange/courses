@@ -75,7 +75,7 @@
 <h4><br clear=all style='page-break-before:always'>What is the difference between faith and belief?</h4>
 
 <p>Faith is a Divine activity. (Eph. 6:17; John 6:44; Rom. 10:17) Believing is a human action. God expects us to respond to the faith he has placed in us and He commands us to believe. (Mark 5:36) When God draws men, he is looking for something in him for we cannot respond properly to God unless we have faith. Hebrews 12:2&#8212;Jesus the author and finisher of our faith. He helps us to believe.</p>
-<p>John 1:1 &#8220;Word&#8221; logos [3056]  &#224;written Word, living Word (natural essence). The Holy Bible and Christ, the living Word, are logos.</p>
+<p>John 1:1 &#8220;Word&#8221; logos [3056] &#224;written Word, living Word (natural essence). The Holy Bible and Christ, the living Word, are logos.</p>
 <p>Rom. 10:17 &#8220;Word&#8221; rhema [4487] &#224;spoken Word (supernatural essence); Rhema refers to a special Word spoken by the Spirit to you. It is the revealed Word of God.</p>
 
 <h4>What is the difference between repentance and faith concerning salvation?</h4>

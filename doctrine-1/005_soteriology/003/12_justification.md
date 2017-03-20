@@ -319,7 +319,7 @@ That is, faith is an energetic principle; as well as, a receptive attitude. Fait
 
 <p>Neema maana yote ya kwanza fadhili, ao hali ya wema akihini mwa Mungu </p>
 
-<p>Neema iliitwa wema na fadhilisafi bila thsawabu&#8221; ao  fadhili ambao haistailiwe&#8221;. Neema haiwegi kukopa deni. Ile Mungu ametoa, ameyatowa kama karama; hatuwezi kulipa kwa ajili ya hiyo. (warumi 6:23) Kazi ya kikristo siyo malipo kwa ajili ya neema la Mungu; Kazi ni njia ya kikristo ya kuonyesha utauwa na upendo kwa Mungu Tumemupenda, kwani yeye alitupenda mbele (Iyohana 4:19).</p>
+<p>Neema iliitwa wema na fadhilisafi bila thsawabu&#8221; ao fadhili ambao haistailiwe&#8221;. Neema haiwegi kukopa deni. Ile Mungu ametoa, ameyatowa kama karama; hatuwezi kulipa kwa ajili ya hiyo. (warumi 6:23) Kazi ya kikristo siyo malipo kwa ajili ya neema la Mungu; Kazi ni njia ya kikristo ya kuonyesha utauwa na upendo kwa Mungu Tumemupenda, kwani yeye alitupenda mbele (Iyohana 4:19).</p>
 
 <p>Neema ni jinsi ya Mungu kutumika kuhusu dhambi bagaire kabisa ya swaliza kustaili&#8221; hama kutokustaili&#8221;. Neema siyo kamwe kumtunza mtu jinsi amestaili, hama kumtunza vizuri zaidi kuliko amestaili.</p>
 
@@ -483,7 +483,7 @@ That is, faith is an energetic principle; as well as, a receptive attitude. Fait
 <h3>Imani imeamusha.</h3>
 
 <p>Imani haripokee tu bila kutenda, lakini imetumia kwa kutenda ile ambayo mungu ametoa. Imani ni tena yenye kutegemea roho (angalia katika warumi 10:9,10; linganisha mathayo 15:19 na Mathali 4:23)</p>
-<p>Imani imeamba matendo. Maandiko yamezungumzia kuhusu  kazi za imani.&#8221;</p>
+<p>Imani imeamba matendo. Maandiko yamezungumzia kuhusu kazi za imani.&#8221;</p>
 <p>wagalatia 5:6 &#8211; Imani itendayo.</p>
 <p>Awathesaloni 1:3 &#8211; Kazi ya imani </p>
 

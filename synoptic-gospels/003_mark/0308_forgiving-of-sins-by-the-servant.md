@@ -14,7 +14,7 @@ radios.
 
 a.	They brought him who was sick of the palsy.
 
-b.	Sometimes we need others to help  _______ us to 	Jesus.
+b.	Sometimes we need others to help _______ us to 	Jesus.
 (1)	These friends knew where Jesus was.
 
 (2)	Choose your friends wisely.

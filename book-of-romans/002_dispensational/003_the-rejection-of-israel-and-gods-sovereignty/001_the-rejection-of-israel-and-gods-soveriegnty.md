@@ -4,19 +4,19 @@
 
 The majority of Israel has missed the point. Christ is the fulfillment of the law, but Israel stumbles over him as if a stone and hold to their laws and religion. They think they are the children of God because they are the children of Abraham and Isaac and that they are the ones to whom the law was revealed.
 
-The fact that the Jews as a nation rejected the Messiah (Christ) raises the question "Did the Word of God fail?"  "Did God fail to carry out His promises"?  How does Paul answer these questions?  In these next verses Paul is confident that Israel's rejection of the gospel is not unanimous and not permanent&mdash;God is able to graft back in again!
+The fact that the Jews as a nation rejected the Messiah (Christ) raises the question "Did the Word of God fail?" "Did God fail to carry out His promises"? How does Paul answer these questions? In these next verses Paul is confident that Israel's rejection of the gospel is not unanimous and not permanent&mdash;God is able to graft back in again!
 
-The real Israel is the elect, not a natural seed.  We see the plan of God as it unfolds. Not everyone that is born a part of the nationality of Israel are a part of Spiritual Israel. The children of the Israel are only children of the flesh, but the children of the promise are the children of God. (John 3:6 "born of the Spirit"). The New Testament Church is referred to as &quot;the Israel of God&quot; (Galatians 6:16) because of their faith in God and His Son, Jesus Christ&mdash;not because of their family lineage.
+The real Israel is the elect, not a natural seed. We see the plan of God as it unfolds. Not everyone that is born a part of the nationality of Israel are a part of Spiritual Israel. The children of the Israel are only children of the flesh, but the children of the promise are the children of God. (John 3:6 "born of the Spirit"). The New Testament Church is referred to as &quot;the Israel of God&quot; (Galatians 6:16) because of their faith in God and His Son, Jesus Christ&mdash;not because of their family lineage.
 
 > Romans 9:6-10&mdash;Not as though the word of God hath taken none effect. For they are not all Israel, which are of Israel: 7 Neither, because they are the seed of Abraham, are they all children: but, In Isaac shall thy seed be called. 8 That is, They which are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed. 9 For this is the word of promise, At this time will I come, and Sara shall have a son. 10 And not only this; but when Rebecca also had conceived by one, even by our father Isaac;
 
-> Romans 10:1  Brethren, my heart's desire and prayer to God for Israel is, that they might be saved. 2 For I bear them record that they have a zeal of God, but not according to knowledge. 3 For they being ignorant of God's righteousness, and going about to establish their own righteousness, have not submitted themselves unto the righteousness of God. 4 For Christ is the end of the law for righteousness to every one that believeth.
+> Romans 10:1 Brethren, my heart's desire and prayer to God for Israel is, that they might be saved. 2 For I bear them record that they have a zeal of God, but not according to knowledge. 3 For they being ignorant of God's righteousness, and going about to establish their own righteousness, have not submitted themselves unto the righteousness of God. 4 For Christ is the end of the law for righteousness to every one that believeth.
 
 ## Election or Predestination is Not of Works of Him that Calleth, v. 11-13
 
 Election is mentioned in verse eleven.
 
-> Romans 9:11-13&mdash;(For the children being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calleth;) 12  It was said unto her, The elder shall serve the younger. 13 As it is written, Jacob have I loved, but Esau have I hated.
+> Romans 9:11-13&mdash;(For the children being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calleth;) 12 It was said unto her, The elder shall serve the younger. 13 As it is written, Jacob have I loved, but Esau have I hated.
 
 Election or predestination is not an unrighteous act for God may justify whom He may and condemn whom he desires. All the good works of men cannot make them children of the promise, but that condition is dependent upon God showing mercy.
 
@@ -72,11 +72,11 @@ Compare with JEREMIAH 18 "Go Down to the Potter's House
 
 > Romans 9:22&mdash; What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:
 
-- Hypothetical "B"  vs.23-24
+- Hypothetical "B" vs.23-24
 
 > Romans 9:23&mdash;And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory,
 
-Note well the word afore.  For the whole process of our salvation is viewed from that blessed future day when we shall enter, through divine mercy, into that glory which God afore appointed us. 24 Even us, whom he hath called, not of the Jews only, but also of the Gentiles?
+Note well the word afore. For the whole process of our salvation is viewed from that blessed future day when we shall enter, through divine mercy, into that glory which God afore appointed us. 24 Even us, whom he hath called, not of the Jews only, but also of the Gentiles?
 
 2 Timothy 2:20-21
 1 Peter 5:8
@@ -101,7 +101,7 @@ In the Bible, the city of Jezreel has a long, violent history. The wife of King 
 
 The Jezreel Valley is now a beautiful farmland, where wheat, cotton, corn, and sunflowers are grown, and herds of sheep and cattle graze. The Valley of Jezreel is also called "The Valley of Megiddo" (Meggido is found within the valley of Jezreel. Meggido means to slaughter or cut off.) and some believe it may be the scene of the battle of Armageddon, according to a passage in Revelation that says "they assembled them at the place that in Hebrew is called Armageddon" (Revelation 16:16-21). The word Armageddon is a combination of the word har, meaning mountain or mountain range, and mgiddown, which in English is "Megiddo."
 
-The word "Jezreel" is constructed of two Hebrew words meaning "to sow" and "mighty" or "Almighty" and in combination the meaning is "God will sow."  Jezreel is the name Hosea gave to his oldest son in 1:4 which was prophetic. He represented the righteous seed that was and would be sown in Israel.
+The word "Jezreel" is constructed of two Hebrew words meaning "to sow" and "mighty" or "Almighty" and in combination the meaning is "God will sow." Jezreel is the name Hosea gave to his oldest son in 1:4 which was prophetic. He represented the righteous seed that was and would be sown in Israel.
 
 - The sentences in the latter part of this verse are very abrupt, but exceedingly expressive; leaving out those words supplied by the translators: I will say to NOT MY PEOPLE, THOU MY PEOPLE; and they shall say, MY GOD.
 
@@ -109,7 +109,7 @@ The word "Jezreel" is constructed of two Hebrew words meaning "to sow" and "migh
 
 ### Verse 26
 
-Here we see the Gentile people.  God's infinite grace takes up those who were once called "dogs" (Matthew 15:26) and gives them a heavenly calling "Called to be children of the living God."
+Here we see the Gentile people. God's infinite grace takes up those who were once called "dogs" (Matthew 15:26) and gives them a heavenly calling "Called to be children of the living God."
 
 > Hosea 1:10-1&mdash;Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God. 11 Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great shall be the day of Jezreel.
 
@@ -123,7 +123,7 @@ Verse 27:	Here the apostle quotes another prophet, Isaiah. Isa. 10:22 - concerni
 
 ### Verse 28
 
-The ways of God are not our ways.  He waits long - He forbears - He is silent: then suddenly puts into execution an eternally formed purpose.
+The ways of God are not our ways. He waits long - He forbears - He is silent: then suddenly puts into execution an eternally formed purpose.
 
 "Cut short in righteousness."
 
@@ -137,4 +137,4 @@ Verse 29:	This verse is a quote from Isaiah 1:9 shows that if God had not interv
 
 > Isaiah 1:9&mdash;Except the LORD of hosts had left unto us a very small remnant, we should have been as Sodom, and we should have been like unto Gomorrah.
 
->  2 Thessalonians 2:7&mdash; For the mystery of iniquity doth already work: only he who now letteth will let, until he be taken out of the way.
+> 2 Thessalonians 2:7&mdash; For the mystery of iniquity doth already work: only he who now letteth will let, until he be taken out of the way.

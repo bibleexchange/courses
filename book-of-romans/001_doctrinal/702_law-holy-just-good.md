@@ -40,7 +40,7 @@ In Romans 7:7-13, Paul establishes the goodness of God&apos;s Law and the wicked
 
 ### Question: Is the Law Sin?
 
-> Romans 7:7  What shall we say then? Is the law sin? 
+> Romans 7:7 What shall we say then? Is the law sin? 
 
 Why Would Paul Ask this question? Paul had written in verse 6 that the law was something he was delivered from. This would seem to infer that the law is "bad".
 
@@ -50,9 +50,9 @@ Why Would Paul Ask this question? Paul had written in verse 6 that the law was s
 
 ### Short Answer: No, The Law has a Good Purpose
 
-> vs. 7 ... God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet. 
+> vs. 7 &hellip; God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet. 
 
-The main theme of chapter seven is the believer&apos;s relation to the law.  The believer is united with Christ &quot;the new husband.&quot;  When we are born we are bound to the law like as a marriage.  To be free from the law, because the law will never die or change we must die.  We become dead to the law by the body of Christ, which allows us to marry him that is raised from the dead, even Jesus Christ.  We are delivered from the law to serve God in the newness of the Spirit, and not in the oldness of the letter.
+The main theme of chapter seven is the believer&apos;s relation to the law. The believer is united with Christ &quot;the new husband.&quot; When we are born we are bound to the law like as a marriage. To be free from the law, because the law will never die or change we must die. We become dead to the law by the body of Christ, which allows us to marry him that is raised from the dead, even Jesus Christ. We are delivered from the law to serve God in the newness of the Spirit, and not in the oldness of the letter.
 
 Serving in the oldness of the letter of the law did not make Paul righteous but rather exposed his unrighteousness, but it was not the cause of his sin. The Law, like a schoolmaster, taught him what was sin. By society's standards, Paul was not guilty unless he followed through on his lust, but the law communicated God's standards which by result exposed the depravity of his heart. "Thou shalt not covet" (v.7). How can I be told not to "want" something that is in my nature? The law requires exact and complete obedience without exception. In the light of the law of a Holy God, sin is utterly and completely exposed wherever it can be found. 
 
@@ -66,7 +66,7 @@ The law reveals the fact of sin
 
 > I Thessalonians 4:5&mdash;Not in the lust of concupiscence, even as the Gentiles which know not God:
 
-What would be the results of a world without law? The law is representative of order, security, stability, faithfulness, uniformity, equality.  Absence of the law produces chaos, with its attendant evils. If the laws of nature were to stop what would be the results?  The End of the world.  
+What would be the results of a world without law? The law is representative of order, security, stability, faithfulness, uniformity, equality. Absence of the law produces chaos, with its attendant evils. If the laws of nature were to stop what would be the results? The End of the world. 
 
 ### Sin Brought Death
 
@@ -76,18 +76,18 @@ What would be the results of a world without law? The law is representative of o
 
 Paul personifies sin and in so doing abstracts sin from the person. The sword of the spirit is cutting a discerning division so that we might see we can be free from sin! If sin is characterized as a fiend waiting to pounce and take advantage of someone, then that someone can given the right situation, deny that sin. The murderer is within the sinner. But, if sin is merely the automatic reactions of nature, how can righteous judgment be made?
 
-What was the opportunity that sin took advantage of? The law defines the sinner as DEAD in his sins. Being DEAD, the rebellion of sin takes advantage to work more death ... "wrought in me all manner of concupiscence."
+What was the opportunity that sin took advantage of? The law defines the sinner as DEAD in his sins. Being DEAD, the rebellion of sin takes advantage to work more death &hellip; "wrought in me all manner of concupiscence."
 
 ### For without the law sin was dead. 
 
-The Law is like a plumb-line: It shows where and what we are in the sight of God.  It is intended to awaken the sinner to his need for Christ. The Law then becomes the conductor to Christ in order that we may be justified by faith.
+The Law is like a plumb-line: It shows where and what we are in the sight of God. It is intended to awaken the sinner to his need for Christ. The Law then becomes the conductor to Christ in order that we may be justified by faith.
 
 #### 9 For I was alive without the law once: but when the commandment came, sin revived, and I died. 
 
-The law reveals the  power of sin. Under the law, a man becomes condemned to death because of sin.
+The law reveals the power of sin. Under the law, a man becomes condemned to death because of sin.
 
-Romans 7:5 describes the state of a Jew as in the flesh serving sin which considered as being under  law -- cursed.
-      
+Romans 7:5 describes the state of a Jew as in the flesh serving sin which considered as being under law -- cursed.
+ 
 Deuteronomy 27:26; 28:15; Ps 119:21; Jer 11:3; Ga 3:10
 - The curses were proclaimed principally to secure obedience to the commandments.
 - The curses were never meant to destroy the individual but produce repentance.
@@ -100,12 +100,12 @@ The end result for Paul was that he who vigorously followed the law and served i
  
 The law reveals the deceitfulness of sin. 11
 
-Sin takes advantage of us and deceives us,  The law of God is known in different ways: the ceremonial laws, the social laws, natural laws,  moral laws and health laws.
+Sin takes advantage of us and deceives us, The law of God is known in different ways: the ceremonial laws, the social laws, natural laws, moral laws and health laws.
 
 The Jews believed you had to keep all of those laws to become holy. By the time of Paul's ministry, the rabbis had summed up all of the Old Testament law into 613 commandments. It is impossible to keep them all, especially since they had strained at the laws beyond the intention of God.
 
 The law reveals the effect of sin. The effect of all sin is a spiritual death. The outcome of dying physically with unrepented sin is eternal separation from God.
-Through the inability to fulfill the law the sinner becomes condemned to death under the law.   A commandment cannot give life, but it can convict you of sin through the sentence of death and cause you to  repent and seek Eternal life through Jesus Christ our Lord.
+Through the inability to fulfill the law the sinner becomes condemned to death under the law. A commandment cannot give life, but it can convict you of sin through the sentence of death and cause you to repent and seek Eternal life through Jesus Christ our Lord.
 
 ### 12 Wherefore the law is holy, and the commandment holy, and just, and good. 
 
@@ -121,16 +121,16 @@ The Law itself is "Holy and Righteous and Good"
 
 #### that sin by the commandment might become exceeding sinful.
 
-The law reveals the sinfulness of sin.	  	     12-13
+The law reveals the sinfulness of sin.	 	 12-13
 - The Law is Holy, Just and good, so as the standard, the plumb-line, the commandment shows us where and what we are in the sight of God; sin is shown for what it is &quot;exceeding sinful&quot;. Far off from the mark that God has set for us in Christ.
 - The law is intended to convict the sinner of sin and only through Christ find repentance.
-- The law condemns, convicts, constrains and conducts an awakened sinner to Christ.   Rom. 3:19,23; 7:8-11; 8:3; Gal.3:19-24  (Judge, warden, executioner, conductor)
+- The law condemns, convicts, constrains and conducts an awakened sinner to Christ. Rom. 3:19,23; 7:8-11; 8:3; Gal.3:19-24 (Judge, warden, executioner, conductor)
 
-Sin can hide in  society of men comparing one with another or else judging merely by the dictates of there own heart, but in the light of Perfect Holiness, sin becomes "exceedingly sinful".
+Sin can hide in society of men comparing one with another or else judging merely by the dictates of there own heart, but in the light of Perfect Holiness, sin becomes "exceedingly sinful".
 
-<!--     //////////////////////////////////////////////  -->
-<!--     //////////////////////////////////////////////  -->
-<!--     //////////////////////////////////////////////  -->
+<!-- ////////////////////////////////////////////// -->
+<!-- ////////////////////////////////////////////// -->
+<!-- ////////////////////////////////////////////// -->
 
 ILLUSTRATION: Henry Ironside and young Indian man on Law and Grace
 

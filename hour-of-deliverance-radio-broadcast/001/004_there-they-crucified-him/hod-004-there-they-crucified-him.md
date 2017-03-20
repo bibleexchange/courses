@@ -27,7 +27,7 @@ Message originally preached under the Gospel tent May 9, 1991 in Wilson, North C
 
 8. Mark A. Reynolds singing, "Jesus is My Hightower".
 
-9. Veronica Reynolds (Morin) singing, "Sin will take You Farther". (Song written by  Harold McWhorter. Copyright: Homeward Bound Music (BMI). 
+9. Veronica Reynolds (Morin) singing, "Sin will take You Farther". (Song written by Harold McWhorter. Copyright: Homeward Bound Music (BMI). 
 
 10. Mark A. Reynolds singing, "Praise the Lord".
 

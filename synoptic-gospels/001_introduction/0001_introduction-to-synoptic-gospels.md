@@ -78,7 +78,7 @@ All the Gospels are bound up with the Promises of the Messiah. We can see these 
 
 ### The Jew -
 
-Had special training. Steeped in the OT scriptures and the prophets. Matthew writes especially for them. If the Jew was to be impressed, it would have to be by one of his own race His teacher must be a man versed in the OT and in the customs of the Jews. They must know that this Jesus came to fulfill the prophecies of the OT. Over and over we read in Matthew - &#8220;That it might be fulfilled...as was spoken by Jeremiah the prophet.&#8221; We see the same type of person today. They dwell in prophecies fulfilled and unfulfilled. They seek to know what the prophets have spoken and how it came to pass.
+Had special training. Steeped in the OT scriptures and the prophets. Matthew writes especially for them. If the Jew was to be impressed, it would have to be by one of his own race His teacher must be a man versed in the OT and in the customs of the Jews. They must know that this Jesus came to fulfill the prophecies of the OT. Over and over we read in Matthew - &#8220;That it might be fulfilled&hellip;as was spoken by Jeremiah the prophet.&#8221; We see the same type of person today. They dwell in prophecies fulfilled and unfulfilled. They seek to know what the prophets have spoken and how it came to pass.
 
 ### The Roman -
 The master of the world at this time. Mark writes for them. Romans knew nothing about Old Testament Scripture. They were not interested in prophecy being fulfilled. Vitally concerned over a remarkable leader who had appeared in Palestine. They wanted to know if he really possessed extraordinary powers. Likes the straightforward message of Mark. 1,375 times &#8220;and&#8221; is used. Mark is filled with deeds not with words. Clearly it is the Gospel of the Ministry of Christ. The Romans in Jesus&#8217; day were as average business men of today. He was not concerned at first about the genealogy of a king, but with a God &#8220;who is able&#8221;, a God who can meet man&#8217;s every need. Mark is the business man&#8217;s Gospel.
@@ -95,7 +95,7 @@ John is writing to all men that they might believe that Jesus is the Christ. Chr
 ### Matthew
 
 Right at the entrance - The book of the generation of Jesus Christ, the Son of David, the Son of Abraham. (Matt. 1:1) This shows His covenant position as Son of Abraham, and His royal position as Son of David. (Psa. 132:11) Matthew is presenting Christ as King He gives the royal genealogy in the first 17 verses. A king is not chosen by popular ballot, but by birth.
-King of Kings (28:18-20) The king commanding and commissioning His disciples. The Messiah is still on the earth. &#8220;All power is given unto me in heaven and in earth. Go ye therefore, and teach all nations...to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world.&#8221; (28:18-20)
+King of Kings (28:18-20) The king commanding and commissioning His disciples. The Messiah is still on the earth. &#8220;All power is given unto me in heaven and in earth. Go ye therefore, and teach all nations&hellip;to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world.&#8221; (28:18-20)
 
 ### Mark
 
@@ -113,7 +113,7 @@ No earthly genealogy, but a heavenly one. &#8220;In the beginning was the Word, 
 
 ### Last verse -
 
-&#8220;And there are also many other things...&#8221; (21:25) Truly, never a man spake like this man (7:46), for He is the very son of God.&#8221; Shows Christ&#8217;s eternal nature, no beginning - no ending; He is the Son of God.
+&#8220;And there are also many other things&hellip;&#8221; (21:25) Truly, never a man spake like this man (7:46), for He is the very son of God.&#8221; Shows Christ&#8217;s eternal nature, no beginning - no ending; He is the Son of God.
 
 ## JOHN&#8217;S DIFFERENCES (Why John is not included in the Synoptic Gospels)
 

@@ -1,7 +1,7 @@
 # The Eternal Perspective
 Psalm 90:1-17
 
-## Introduction -  
+## Introduction - 
 
 ### What is Perspective?
 
@@ -33,12 +33,12 @@ A "Healthy Perspective" is a matter of accuracy (getting the whole picture/ all 
 - If we are not STANDING in just the right place, how we see something or the opinions we form about something will be inaccurately affected.
 - If we are standing in just the right place, how we see something or the opinions we form about something will be accurately affected.
 
->  Proverbs 11:14&mdash;Where no counsel is, the people fall: but in the multitude of counsellors there is safety.
+> Proverbs 11:14&mdash;Where no counsel is, the people fall: but in the multitude of counsellors there is safety.
 
 #### Healthy vs. Hurt Perspective
 
->  ADVICE: Never make a major decision tired, hungry or stressed. 
->  ILLUSTRATION: Position of Hurt -- > DR
+> ADVICE: Never make a major decision tired, hungry or stressed. 
+> ILLUSTRATION: Position of Hurt -- > DR
 
 Our perspective more often than not does not allow us to see the whole picture. We must therefore TRUST, RELY ON HE WHO DOES! Even after it is all said and time because before and after TIME God is!
 
@@ -52,7 +52,7 @@ Our perspective more often than not does not allow us to see the whole picture. 
 							<!-- ////////////////////////// -->
 ## The Eternal Perspective of a "Life & Time", vs. 1-9
 
->  3 Thou turnest man to destruction; and sayest, Return, ye children of men.<to destruction: "dying man to the small dust"> 4 For a thousand years in thy sight are but as yesterday when it is past, and as a watch in the night. 5 Thou carriest them away as with a flood; they are as a sleep: in the morning they are like grass which groweth up. 6 In the morning it flourisheth, and groweth up; in the evening it is cut down, and withereth. 7 ¶ For we are consumed by thine anger, and by thy wrath are we troubled. 8 Thou hast set our iniquities before thee, our secret sins in the light of thy countenance. 9 For all our days are passed away in thy wrath: we spend our years as a tale that is told. 10 The days of our years are threescore years and ten; and if by reason of strength they be fourscore years, yet is their strength labour and sorrow; for it is soon cut off, and we fly away.
+> 3 Thou turnest man to destruction; and sayest, Return, ye children of men.<to destruction: "dying man to the small dust"> 4 For a thousand years in thy sight are but as yesterday when it is past, and as a watch in the night. 5 Thou carriest them away as with a flood; they are as a sleep: in the morning they are like grass which groweth up. 6 In the morning it flourisheth, and groweth up; in the evening it is cut down, and withereth. 7 For we are consumed by thine anger, and by thy wrath are we troubled. 8 Thou hast set our iniquities before thee, our secret sins in the light of thy countenance. 9 For all our days are passed away in thy wrath: we spend our years as a tale that is told. 10 The days of our years are threescore years and ten; and if by reason of strength they be fourscore years, yet is their strength labour and sorrow; for it is soon cut off, and we fly away.
 
 
 ### Eternity of God & The Frailty of Man, v.1-10
@@ -71,7 +71,7 @@ Our perspective more often than not does not allow us to see the whole picture. 
 
 **The Eternal Perspective on Time is that the clock/calendar/schedule is not king -- GOD IS.**
 
->  John 1:4 In him was life; and the life was the light of men.
+> John 1:4 In him was life; and the life was the light of men.
 
 							<!-- ////////////////////////// -->
 							<!-- ////////////////////////// -->
@@ -79,7 +79,7 @@ Our perspective more often than not does not allow us to see the whole picture. 
 							<!-- ////////////////////////// -->
 ## The Eternal Perspective on "God's Anger", v. 11-12
 
-> 11 Who knoweth the power of thine anger? even according to thy fear, so is thy wrath. 12 ¶ So teach us to number our days, that we may apply our hearts unto wisdom.
+> 11 Who knoweth the power of thine anger? even according to thy fear, so is thy wrath. 12 So teach us to number our days, that we may apply our hearts unto wisdom.
 
 
 
@@ -89,9 +89,9 @@ Our perspective more often than not does not allow us to see the whole picture. 
 							<!-- ////////////////////////// -->
 ## The Eternal Perspective on "Service to God/Ministry/Church", THE PREFACE, 13-17
 
-> 1 ¶ <<A Prayer of Moses the man of God.>> 
+> 1 <<A Prayer of Moses the man of God.>> 
 
 CHALDEAN manuscripts: "A prayer which Moses the prophet of the Lord prayed when the people of Israel had sinned in the wilderness."
 
-> 13 Return, O LORD, how long? and let it repent thee concerning thy servants.  14 O satisfy us early with thy mercy; that we may rejoice and be glad all our days. 15 Make us glad according to the days wherein thou hast afflicted us, and the years wherein we have seen evil. 16 Let thy work appear unto thy servants, and thy glory unto their children. 17 And let the beauty of the LORD our God be upon us: and establish thou the work of our hands upon us; yea, the work of our hands establish thou it.
+> 13 Return, O LORD, how long? and let it repent thee concerning thy servants. 14 O satisfy us early with thy mercy; that we may rejoice and be glad all our days. 15 Make us glad according to the days wherein thou hast afflicted us, and the years wherein we have seen evil. 16 Let thy work appear unto thy servants, and thy glory unto their children. 17 And let the beauty of the LORD our God be upon us: and establish thou the work of our hands upon us; yea, the work of our hands establish thou it.
 

@@ -32,11 +32,11 @@ Study questions 1 Introduction*/
 <question><text><english>What is the connection between theology and religion? </english><swahili>Kuna uhusiano gani kati ya theolojia na dini?</swahili></text><hint></hint><answer><english>Theology is knowledge of God&#44; and religion is the practice of what we know. </english><swahili></swahili></question>
 <question><text><english>What is the difference between a doctrine and a dogma?</english><swahili>Kuna tofauti gani kati ya Mafundisho ya Biblia na mapokeo ya wanadamu (dogma)?</swahili></text><hint></hint><answer><english>Dogma is man&rsquo;s statement of the truth set forth in a creed; while&#44; doctrine is the fundamental truths of the Bible arranged in a systematic form. </english><swahili></swahili></question>
 <question><text><english>What connection does doctrine have with the truth found in the Word of God? </english><swahili>Kuna uhusiano gani kati ya Mafundisho ya Biblia na ukweli unaopatikana katika neno la Mungu?</swahili></text><hint></hint><answer><english>That is exactly what doctrine is: the truths found in the word of God arranged in a systematic form. </english><swahili></swahili></question>
-<question><text><english>What connection does doctrine have with Salvation?</english><swahili>Kwa uhusiano gani kati Mafundisho ya Biblia na wokovu?  Toa Maandiko kuthibitisha.</swahili></text><hint></hint><answer><english>Give a Scripture reference. Correct doctrinal knowledge is essential to salvation. I Timothy 4:16 </english><swahili></swahili></question>
+<question><text><english>What connection does doctrine have with Salvation?</english><swahili>Kwa uhusiano gani kati Mafundisho ya Biblia na wokovu? Toa Maandiko kuthibitisha.</swahili></text><hint></hint><answer><english>Give a Scripture reference. Correct doctrinal knowledge is essential to salvation. I Timothy 4:16 </english><swahili></swahili></question>
 <question><text><english>What connection does doctrine have with development of Christian character?</english><swahili>Kwa uhusiano gani kati ya Mafundisho ya Biblia na maeudeleo ya tabia ya Mkristo?</swahili></text><hint></hint><answer><english>Doctrinal knowledge is essential to the full development of Christian character. </english><swahili></swahili></question>
-<question><text><english>Give verbatim I Tim. 4:16. Take heed unto thyself&#44; and unto the doctrine; continue in them: for in doing this thou shalt both save thyself&#44; and them that hear thee. </english><swahili>Andika neno kwa neno  I Timotheo 4:16.</swahili></text><hint></hint><answer><english>1 Timothy 4:16&mdash;Take heed unto thyself&#44; and unto the doctrine; continue in them: for in doing this thou shalt both save thyself&#44; and them that hear thee.</english><swahili></swahili></question>
-<question><text><english>Give verbatim II Tim. 2:15.</english><swahili>Andika neno kwa neno  II Timotheo 2:15.</swahili></text><hint></hint><answer><english>Study to shew thyself approved unto God&#44; a workman that needeth not to be ashamed&#44; rightly dividing the word of truth. </english><swahili></swahili></question>
-<question><text><english>Give verbatim II Tim. 3:16. </english><swahili>Andika neno kwa neno  II Timotheo 3:16.</swahili></text><hint></hint><answer><english>All scripture is given by inspiration of God&#44; and is profitable for doctrine&#44; for reproof&#44; for correction&#44; for instruction in righteousness : </english><swahili></swahili>
+<question><text><english>Give verbatim I Tim. 4:16. Take heed unto thyself&#44; and unto the doctrine; continue in them: for in doing this thou shalt both save thyself&#44; and them that hear thee. </english><swahili>Andika neno kwa neno I Timotheo 4:16.</swahili></text><hint></hint><answer><english>1 Timothy 4:16&mdash;Take heed unto thyself&#44; and unto the doctrine; continue in them: for in doing this thou shalt both save thyself&#44; and them that hear thee.</english><swahili></swahili></question>
+<question><text><english>Give verbatim II Tim. 2:15.</english><swahili>Andika neno kwa neno II Timotheo 2:15.</swahili></text><hint></hint><answer><english>Study to shew thyself approved unto God&#44; a workman that needeth not to be ashamed&#44; rightly dividing the word of truth. </english><swahili></swahili></question>
+<question><text><english>Give verbatim II Tim. 3:16. </english><swahili>Andika neno kwa neno II Timotheo 3:16.</swahili></text><hint></hint><answer><english>All scripture is given by inspiration of God&#44; and is profitable for doctrine&#44; for reproof&#44; for correction&#44; for instruction in righteousness : </english><swahili></swahili>
 </questions>
 ----------------------------------------another location from ----------------------------------------
 <h1>,"<span lang=""en"">",Study Questions 1 - Introduction ,"</span><span lang=""swa"">",Maswali Ya Kujifunza 1 - Utangulizi,</span>,</h1>
@@ -50,15 +50,15 @@ Study questions 1 Introduction*/
 <h3>,"<span lang=""en"">", Dogma is man�s statement of the truth set forth in a creed; while&#44; doctrine is the fundamental truths of the Bible arranged in a systematic form. ,"</span><span lang=""swa"">",,</span>,</h3>
 <h2>,"<span lang=""en"">",5. What connection does doctrine have with the truth found in the Word of God? ,"</span><span lang=""swa"">",Kuna uhusiano gani kati ya Mafundisho ya Biblia na ukweli unaopatikana katika neno la Mungu?,</span>,</h2>
 <h3>,"<span lang=""en"">",That is exactly what doctrine is: the truths found in the word of God arranged in a systematic form. ,"</span><span lang=""swa"">",,</span>,</h3>
-<h2>,"<span lang=""en"">",6. What connection does doctrine have with Salvation?,"</span><span lang=""swa"">",Kwa uhusiano gani kati Mafundisho ya Biblia na wokovu?  Toa Maandiko kuthibitisha.,</span>,</h2>
+<h2>,"<span lang=""en"">",6. What connection does doctrine have with Salvation?,"</span><span lang=""swa"">",Kwa uhusiano gani kati Mafundisho ya Biblia na wokovu? Toa Maandiko kuthibitisha.,</span>,</h2>
 <h3>,"<span lang=""en"">", Give a Scripture reference. Correct doctrinal knowledge is essential to salvation. I Timothy 4:16 ,"</span><span lang=""swa"">",,</span>,</h3>
 <h2>,"<span lang=""en"">",7. What connection does doctrine have with development of Christian character?,"</span><span lang=""swa"">",Kwa uhusiano gani kati ya Mafundisho ya Biblia na maeudeleo ya tabia ya Mkristo?,</span>,</h2>
 <h3>,"<span lang=""en"">",Doctrinal knowledge is essential to the full development of Christian character. ,"</span><span lang=""swa"">",,</span>,</h3>
-<h2>,"<span lang=""en"">",8. Give verbatim I Tim. 4:16. Take heed unto thyself&#44; and unto the doctrine; continue in them: for in doing this thou shalt both save thyself&#44; and them that hear thee. ,"</span><span lang=""swa"">",Andika neno kwa neno  I Timotheo 4:16.,</span>,</h2>
+<h2>,"<span lang=""en"">",8. Give verbatim I Tim. 4:16. Take heed unto thyself&#44; and unto the doctrine; continue in them: for in doing this thou shalt both save thyself&#44; and them that hear thee. ,"</span><span lang=""swa"">",Andika neno kwa neno I Timotheo 4:16.,</span>,</h2>
 <h3>,"<span lang=""en"">","1 Timothy 4:16&mdash;Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee.","</span><span lang=""swa"">",,</span>,</h3>
-<h2>,"<span lang=""en"">",9. Give verbatim II Tim. 2:15.,"</span><span lang=""swa"">",Andika neno kwa neno  II Timotheo 2:15.,</span>,</h2>
+<h2>,"<span lang=""en"">",9. Give verbatim II Tim. 2:15.,"</span><span lang=""swa"">",Andika neno kwa neno II Timotheo 2:15.,</span>,</h2>
 <h3>,"<span lang=""en"">", Study to shew thyself approved unto God&#44; a workman that needeth not to be ashamed&#44; rightly dividing the word of truth. ,"</span><span lang=""swa"">",,</span>,</h3>
-<h2>,"<span lang=""en"">",10. Give verbatim II Tim. 3:16. ,"</span><span lang=""swa"">",Andika neno kwa neno  II Timotheo 3:16.,</span>,</h2>
+<h2>,"<span lang=""en"">",10. Give verbatim II Tim. 3:16. ,"</span><span lang=""swa"">",Andika neno kwa neno II Timotheo 3:16.,</span>,</h2>
 <h3>,"<span lang=""en"">",All scripture is given by inspiration of God&#44; and is profitable for doctrine&#44; for reproof&#44; for correction&#44; for instruction in righteousness : ,"</span><span lang=""swa"">",,</span>,</h3>
 <h1>,"<span lang=""en"">",Quiz 1 - Introduction,"</span><span lang=""swa"">",Maswali Ya Kujifunza 1 - Utangulizi,</span>,</h1>
 <h2>,"<span lang=""en"">",1. What is the meaning of Doctrine?,"</span><span lang=""swa"">",Nini maana ya Mafundisho ya Biblia?,</span>,</h2>
@@ -106,7 +106,7 @@ Study questions 1 Introduction*/
 (NULL, ##, 'What is the most tragic fact connected with man?','The most tragic even connected with man is his fall into sin. ', 5, NULL, 1, 1, 0, 0),
 (NULL, ##, 'What does Genesis 3:1-6 reveal?','It reveals that the first man fell. ', 5, NULL, 1, 1, 0, 0),
 (NULL, ##, 'What were the steps in the fall?','Listening to slanders about God. Doubting God&rsquo;s Word and His love. Looking at what God has forbidden. Lusting for what God has prohibited.', 5, NULL, 1, 1, 0, 0),
-(NULL, ##, 'Name the two trees of destiny in Genesis 2?','a) the tree of life.  b) the tree of knowledge of good and evil.', 5, NULL, 1, 1, 0, 0),
+(NULL, ##, 'Name the two trees of destiny in Genesis 2?','a) the tree of life. b) the tree of knowledge of good and evil.', 5, NULL, 1, 1, 0, 0),
 (NULL, ##, 'Why was the forbidden tree placed in the garden?','It was placed in the garden as a test for man. ', 5, NULL, 1, 1, 0, 0),
 (NULL, ##, 'What agent did Satan employ in the temptation?','Satan employed the agent of a serpent in the temptation. ', 5, NULL, 1, 1, 0, 0),
 (NULL, ##, 'What was the outstanding characteristic of the agent?','The serpent was more subitl than any other beast. ', 5, NULL, 1, 1, 0, 0),
@@ -143,7 +143,7 @@ Study questions 1 Introduction*/
 (NULL, ##, 'What does conversion mean? ','Conversion means a change of mind&#44; direction and character. ', 5, NULL, 1, 1, 0, 0),
 (NULL, ##, 'How is conversion to be distinguished from salvation? ','Conversion describes the human or manward side of salvation. ', 5, NULL, 1, 1, 1, 1),
 (NULL, ##, 'Is conversion entirely a matter of human effort? ','Conversion is not entirely a matter of human effort; it requires the aid and ability of God. ', 5, NULL, 1, 1, 0, 0),
-(NULL, ##, 'Which comes first&#44; regeneration or conversion? ','Regeneration and conversion are simulations. [Regeneration – cause / Conversion – effect &lt;Working together&gt; ]', 5, NULL, 1, 1, 0, 0),
+(NULL, ##, 'Which comes first&#44; regeneration or conversion? ','Regeneration and conversion are simulations. [Regeneration &mdash; cause / Conversion &mdash; effect &lt;Working together&gt; ]', 5, NULL, 1, 1, 0, 0),
 
 
 /* SQ: 5 */
@@ -179,7 +179,7 @@ Study questions 1 Introduction*/
 (NULL, ##, 'Why does man need righteousness?','because man must appear before God and heaven clothed in the garment of a perfectly righteous character. (Rev. 19:8) ', 5, NULL, 1, 1, 1, 1),
 (NULL, ##, 'Righteousness is imputed; but is it also imparted?','Righteousness is imputed in justification and imparted in regeneration.. ', 5, NULL, 1, 1, 1, 1),
 (NULL, ##, 'What is a <i>propitiation</i>?','that which secures God&rsquo;s favor for the undeserving. ', 5, NULL, 1, 1, 1, 1),
-(NULL, ##, 'Why did Christ die? (To save…and secure what?) ','Christ died in order to save us from God&rsquo;s righteous wrath and to secure His favor. ', 5, NULL, 1, 1, 0, 0),
+(NULL, ##, 'Why did Christ die? (To save&hellip;and secure what?) ','Christ died in order to save us from God&rsquo;s righteous wrath and to secure His favor. ', 5, NULL, 1, 1, 0, 0),
 (NULL, ##, 'What are the sinners&rsquo; garments considered to be in the eyes of God?','defiled and tattered; &ldquo;filthy rags&rdquo;; in the eyes of God. ', 5, NULL, 1, 1, 0, 0),
 (NULL, ##, 'Why was the death of Jesus a perfect act of righteousness?','it satisfied God&rsquo;s Law. ', 5, NULL, 1, 1, 1, 1),
 (NULL, ##, 'In speaking of the provision of righteousness&#44; what does <i>imputation</i>mean?','Reckoning Christ&rsquo;s righteousness to our account. ', 5, NULL, 1, 1, 0, 0),
@@ -244,11 +244,11 @@ Studying Questions ___________________________________
 <p>,"<span lang=""en"">",<u>Justification means to be set in right relationship with God. </u>,"</span><span lang=""swa"">",,</span>,</p>
 <p>,"<span lang=""en"">",7. What does regeneration mean?,"</span><span lang=""swa"">",Ni nini maana ya kutakaswa?,</span>,</p>
 <p>,"<span lang=""en"">",<u>Regeneration is being born into the family of God. </u>,"</span><span lang=""swa"">",,</span>,</p>
-<p>,"<span lang=""en"">",8. What does sanctification mean?,"</span><span lang=""swa"">",Masharti ya wokovu ni yapi?  Toa maelezo.,</span>,</p>
+<p>,"<span lang=""en"">",8. What does sanctification mean?,"</span><span lang=""swa"">",Masharti ya wokovu ni yapi? Toa maelezo.,</span>,</p>
 <p>,"<span lang=""en"">",<u>Sanctification is being separated from sin and unto God. </u>,"</span><span lang=""swa"">",,</span>,</p>
 <p>,"<span lang=""en"">",9. What is meant by the �conditions of salvation�?,"</span><span lang=""swa"">",,</span>,</p>
 <p>,"<span lang=""en"">",<u>God�s requirements in the man whom He accepts for Christ�s sake and on whom He freely bestows the blessings of the gospel of grace. </u>,"</span><span lang=""swa"">",,</span>,</p>
-<p>,"<span lang=""en"">",10. What are the conditions of salvation? Give references.,"</span><span lang=""swa"">",Je imani ya kielimu inatosha kwa wokovu?  Toa maelezo.,</span>,</p>
+<p>,"<span lang=""en"">",10. What are the conditions of salvation? Give references.,"</span><span lang=""swa"">",Je imani ya kielimu inatosha kwa wokovu? Toa maelezo.,</span>,</p>
 <p>,"<span lang=""en"">",<u>Repentance &mdash; Faith &mdash; Confession. </u>,"</span><span lang=""swa"">",,</span>,</p>
 <p>,"<span lang=""en"">",<u>�Mark 1:15; Acts 22:16; 16:31; Romans 10:9&#44;10; Hebrews 11:6; Acts 8: 13&#44;21 </u>,"</span><span lang=""swa"">",,</span>,</p>
 <p>,"<span lang=""en"">",11. What is the difference between repentance and faith?,"</span><span lang=""swa"">",Ni kitu gani hutela imani?,</span>,</p>

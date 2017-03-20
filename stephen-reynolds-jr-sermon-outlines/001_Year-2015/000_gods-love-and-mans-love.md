@@ -1,9 +1,9 @@
 # God's Love Poured Out
 
-> Romans 5:5 And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us. 6 ¶ For when we were yet without strength, in due time Christ died for the ungodly. 7 For scarcely for a righteous man will one die: yet peradventure for a good man some would even dare to die. 8 But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.
+> Romans 5:5 And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us. 6 For when we were yet without strength, in due time Christ died for the ungodly. 7 For scarcely for a righteous man will one die: yet peradventure for a good man some would even dare to die. 8 But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.
 
 ## I. The Pouring Out of God's Love By the Holy Ghost **v.5**
-> 5 ...the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us. 
+> 5 &hellip;the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us. 
 
 ### "LOVE" of God -- AGAPE 
 
@@ -17,7 +17,7 @@ affection or benevolence; a love-feast:--(feast of) charity(-ably), dear, love.
 
 #### 1. THE REASON & POWER of this Love: This is How we can Love God
 
->  1 John 4:19&mdash;We love him, because he first loved us.
+> 1 John 4:19&mdash;We love him, because he first loved us.
 
 #### 2. THE SECRET of this Love: This is a Love Worthy of God (it springs from Him)
 
@@ -63,7 +63,7 @@ yet peradventure for a good man some would even dare to die.
 8 But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.
 
 **The Condition of those for Whom Christ Died**
-6 ¶ For when we were yet without strength, in due time Christ died for the ungodly. 
+6 For when we were yet without strength, in due time Christ died for the ungodly. 
 
 #### 1. Without Strength - dying
 

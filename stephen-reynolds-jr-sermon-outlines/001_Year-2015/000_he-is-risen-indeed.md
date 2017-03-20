@@ -27,7 +27,7 @@ Paul wrote this letter to correct erroneous views in the church at Corinth conce
 
 Paul implores them as a father.
 
-> 1 Corinthians 4:14 ¶ I write not these things to shame you, but as my beloved sons **I warn you**. 15 For though ye have ten thousand instructors in Christ, yet have ye not many fathers: for in Christ Jesus I have begotten you through the gospel. 16 Wherefore I beseech you, be ye followers of me. 17 ¶ For this cause have I sent unto you Timotheus, who is my beloved son, and faithful in the Lord, who shall bring you into remembrance of my ways which be in Christ, as I teach every where in every church.
+> 1 Corinthians 4:14 I write not these things to shame you, but as my beloved sons **I warn you**. 15 For though ye have ten thousand instructors in Christ, yet have ye not many fathers: for in Christ Jesus I have begotten you through the gospel. 16 Wherefore I beseech you, be ye followers of me. 17 For this cause have I sent unto you Timotheus, who is my beloved son, and faithful in the Lord, who shall bring you into remembrance of my ways which be in Christ, as I teach every where in every church.
 
 Error Concerning Christ's resurrection is a present concern today:
 
@@ -35,7 +35,7 @@ Error Concerning Christ's resurrection is a present concern today:
 
 ##vs. 1-4 Christ died, was buried, rose again
 
-1Co 15:1 ¶ Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand; 2 By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain. 3 For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures; 4 And that he was buried, and that he rose again the third day **according to the scriptures**:
+1Co 15:1 Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand; 2 By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain. 3 For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures; 4 And that he was buried, and that he rose again the third day **according to the scriptures**:
 
 Denial is nothing NEW!
 
@@ -70,7 +70,7 @@ Most of what we know about the Resurrection of Jesus was written by Paul, Mark, 
 
 ## vs. 12-19 Resurrection is the Crux of Christianity
 
--  "I have friends who I am quite sure are Christians who do not believe in the bodily resurrection,” says the Reverend N. T. Wright, "
+- "I have friends who I am quite sure are Christians who do not believe in the bodily resurrection,&quot; says the Reverend N. T. Wright, "
 
 > Romans 10:9 That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.
 

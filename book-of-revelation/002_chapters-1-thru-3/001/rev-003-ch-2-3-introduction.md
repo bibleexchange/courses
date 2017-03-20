@@ -22,19 +22,19 @@ Angel means messenger, Rev. 22:8-9
 > I Thessalonians 5:12-13-- And we beseech you, brethren, to know them which labour among you, and are over you in the Lord, and admonish you; 13 And to esteem them very highly in love for their work's sake. And be at peace among yourselves.
 
 ### It Is A Revelation of Ministerial Protection
-> Revelation 2:1--...He that holdeth the seven stars...
+> Revelation 2:1--&hellip;He that holdeth the seven stars&hellip;
 #### Keeps for Himself, John 10:27-28
 > John 10:27-28-- My sheep hear my voice, and I know them, and they follow me: 28 And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand.
 #### Keeps from the Enemy, II Tim. 4:16-18
 > 2 Timothy 4:16-18--At my first answer no man stood with me, but all men forsook me: I pray God that it may not be laid to their charge. 17 Notwithstanding the Lord stood with me, and strengthened me; that by me the preaching might be fully known, and that all the Gentiles might hear: and I was delivered out of the mouth of the lion. 18 And the Lord shall deliver me from every evil work, and will preserve me unto his heavenly kingdom: to whom be glory for ever and ever. Amen.
 
 ### It Is A Revelation of Ministerial Authority
-> Revelation 2:1--...In His right hand...
+> Revelation 2:1--&hellip;In His right hand&hellip;
 #### The place of authority, Luke 22:69
 #### It is delegated authority, Luke 9:1
 #### They are His representatives, II Cor. 5:20
 ## Directed To The Churches
-> Revelation 2:1--...Who walketh in the midst of the seven golden candlesticks...
+> Revelation 2:1--&hellip;Who walketh in the midst of the seven golden candlesticks&hellip;
 ### Seven is the number of completeness
 #### To the whole Church
 #### To the whole Age
@@ -49,13 +49,13 @@ Angel means messenger, Rev. 22:8-9
 #### Ephesus,Smyrna, Pergamos, Thyatira, Sardis, Philadelphia, Laodicea
 #### He wrote the Gospel of John, the three Epistles and Revelation, Not addressed to the churches as such
 ### Seven distinct parts in each letter
-#### An address -- "Unto the church in..."
-#### A citation -- "These things saith He..."
+#### An address -- "Unto the church in&hellip;"
+#### A citation -- "These things saith He&hellip;"
 #### A statement of knowledge -- "I Know thy works"
-#### A description of moral status -- "Thou art..."
-#### A personal application to the individual -- "he that hath an ear..."
+#### A description of moral status -- "Thou art&hellip;"
+#### A personal application to the individual -- "he that hath an ear&hellip;"
 #### A command -- "Remember", "Repent" etc.
-#### A promise -- "To him that overcometh will I..."
+#### A promise -- "To him that overcometh will I&hellip;"
 ### Out of the seven, Christ finds fault with five
 #### One of these He finds nothing to commend (Laodicea)
 #### Two alone pass inspection (Pergamos and Philadelphia)

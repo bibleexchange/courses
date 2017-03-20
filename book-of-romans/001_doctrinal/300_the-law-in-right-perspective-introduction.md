@@ -8,7 +8,7 @@ Justification is by faith without the deeds of the Law. The Law is: an advantage
 
 > Romans 3:27<br /> Where is boasting then? <br />It is excluded. By what law? of works? <br />Nay: but by the law of faith. <br />28 Therefore we conclude that a man is justified <br />by faith without the deeds of the law.
 
-###  In Chapter 3, we have five principles concerning the Law:
+### In Chapter 3, we have five principles concerning the Law:
 
 #### In Chapter 1
 
@@ -43,7 +43,7 @@ Though we can find the same word &quot;law&quot; used in 52 verses in Romans, Pa
 - Romans 2:12-13,17,18,20,23,25,26 : The Jews had the Law of Moses and the Gentiles did not. The Jews boasted and rested in the law given through Moses and because of the keeping of the deeds of this Law.
 - Romans 2:14-15 : The Gentiles did have a law in their heart or their conscience
 - Romans 3:27 : Law of faith.
-- Romans 7:2  : Law of her husband
+- Romans 7:2 : Law of her husband
 - Romans 7:22 : Law of God
 - Romans 7:23 : Law of Sin
 - Romans 8:2 : Law of the Spirit of life in Christ Jesus
@@ -51,7 +51,7 @@ Though we can find the same word &quot;law&quot; used in 52 verses in Romans, Pa
 
 Moses was used as an oracle of God, but he was not the only nor the last of God&apos;s messengers. Ultimately, he was only trailblazer for the Living Word! The law in our conscience or the law given through Moses are both abstractions of the Law of God. God gave his eternal principles to Moses and God desires his will, his law, his prescriptions to be hidden in the heart of every person and realized in their life.
 
->  Romans 3:28 Therefore we conclude that a man is justified by faith without the deeds of the law.
+> Romans 3:28 Therefore we conclude that a man is justified by faith without the deeds of the law.
 
 A man can be justified in the eyes of God without the deeds of the law of Moses (thief on the cross). A man is never justified if he is contrary to the mind of God.
 
@@ -70,7 +70,7 @@ Justification by faith is a doctrine of equality of all men which the Jews despi
 ### The Advantage IS they had first received the oracles of God.
 	&quot;Yes the Jew has an advantage, but it is not what you think!&quot; 
 
-Oracle literally means utterance and is used here to refer to the Words or utterances of God proclaimed through the prophets and preserved in the Holy Scriptures. The Jews had received the prophecies of the Messiah and therefore had an advantage of increased revelation of Messiah that the Gentiles did not have.  The advantage the Jew had was the very thing that condemns him as many still continue to reject Jesus as the Messiah.
+Oracle literally means utterance and is used here to refer to the Words or utterances of God proclaimed through the prophets and preserved in the Holy Scriptures. The Jews had received the prophecies of the Messiah and therefore had an advantage of increased revelation of Messiah that the Gentiles did not have. The advantage the Jew had was the very thing that condemns him as many still continue to reject Jesus as the Messiah.
 
 > John 1:11&mdash;He came unto his own, and his own received him not.
 

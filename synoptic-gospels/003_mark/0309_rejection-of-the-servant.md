@@ -1,10 +1,10 @@
 E.	The Servant Rejected
 
-1.	Even before Mark sets forth Christ’s claim to be King of the
+1.	Even before Mark sets forth Christ&apos;s claim to be King of the
 Kingdom, he reveals the way the servant is to be received.
 
 2.	Jesus tells His disciples He is to be _______________
-by the elders, chief priests and scribes.  Mark 8:31
+by the elders, chief priests and scribes. Mark 8:31
 
 a.	He is to be delivered by _________________
 Mark 9:31
@@ -12,7 +12,7 @@ Mark 9:31
 b.	He is to be put to death by the _____________
 Mark 10:32-45
 
-c.	He is to rise again the ________  _______
+c.	He is to rise again the ________ _______
 Mark 9:31
 
 3.	It is said Jesus was sold for ____________ pieces of

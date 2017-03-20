@@ -2,7 +2,7 @@
 
 ## Man was created a perfect being.
 
-The record of Scripture plainly describes that man was not created a simple cell that evolved or any other such theory&#44; but was created perfectly complete and mature. There were no flaws in God’s design.
+The record of Scripture plainly describes that man was not created a simple cell that evolved or any other such theory&#44; but was created perfectly complete and mature. There were no flaws in God&apos;s design.
 
 ## Man was created a free moral agent.
 
@@ -12,7 +12,7 @@ The sin in the garden was volitional on the part of man. It was completely volun
 
 ## Original man was created sinless (Genesis 1:31) and innocent of evil. (Genesis 2:17; 3:5-7)
  
-> Genesis 1:31 <i>very &mdash; </i>mead (Hebrew) superlative; exceeding; very 	||  <i>good &mdash; </i>towb (Hebrew) good; best; beautiful 
+> Genesis 1:31 <i>very &mdash; </i>mead (Hebrew) superlative; exceeding; very 	|| <i>good &mdash; </i>towb (Hebrew) good; best; beautiful 
 
 ## The original man was endued with lofty intellectual faculties. Genesis 2:19&#44; 20; Hebrews 2:6-9	
 

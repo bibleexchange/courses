@@ -43,7 +43,7 @@ Forbidden to preach in Asia.
 ### Mysia. (16:7) 
 Suffered not to go to Bithynia by the Holy Spirit
 ### Troas. (16:9) 
-Paul is learning to follow the leading of the Spirit. A vision of the Macedonian call—a man saying"Come over and help us."
+Paul is learning to follow the leading of the Spirit. A vision of the Macedonian call&mdash;a man saying"Come over and help us."
 ### Samothracia, Neapolis and then Philippi. (16:11-13,23-37)
 Prayer meeting at the river side. New convert is Lydia. Paul cast out a devil out of a woman. Paul and Silas beaten and cast into prison. Paul and Silas sing and praise at the midnight hour. Everyone's bands were loosed. The jailer was saved. Paul being a Roman asked them to come to him. Paul was asked to leave.
 ### Amphipolis, Apollonia and then Thessalonica (17:1-5,13)

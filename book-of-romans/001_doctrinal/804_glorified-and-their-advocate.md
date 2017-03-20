@@ -4,7 +4,7 @@
 
 ### Summary of Romans 8
 
-**Those in Christ ...**
+**Those in Christ &hellip;**
 
 - Are No Longer Condemned, vs. 1-9
 - Have Received the Spirit of Adoption, vs. 10-16
@@ -27,7 +27,7 @@ Spirit - "pneuma" - a current of air, breath (blast) or a breeze
  
 ### Jesus Our Intercessor, v. 27
  
->  27 And he that searcheth the hearts knoweth what is the mind of the Spirit, because he maketh intercession for the saints according to the will of God.
+> 27 And he that searcheth the hearts knoweth what is the mind of the Spirit, because he maketh intercession for the saints according to the will of God.
 
 "go between"
 
@@ -39,11 +39,11 @@ Hebrews 7:25; 1 John 2:1;
 
 ### God's Purpose Wins!
 
->  28&mdash;And we know that all things work together for good to them that love God, to them who are the called according to his purpose. 
+> 28&mdash;And we know that all things work together for good to them that love God, to them who are the called according to his purpose. 
  
 God providentially cares for his people - "the called".
 
-These called are not just "invited" but are "appointed, or a saint". Here "the called" are marked by the electing grace of God. "Called according to His purpose".  As God is sovereign, if God has a purpose ("fixed intention"), it will come to pass.
+These called are not just "invited" but are "appointed, or a saint". Here "the called" are marked by the electing grace of God. "Called according to His purpose". As God is sovereign, if God has a purpose ("fixed intention"), it will come to pass.
 
 What is God's major purpose in the life of the Christian?
 
@@ -67,11 +67,11 @@ Eternal Glory. A glory revealed in us -- the Glory of God.
 
 ## Have God as Their Advocate, vs. 31-39
 
-The end of the chapter deals with the Christian&apos;s Hope, which is; &quot;If God be for us who can be against us.&quot;  And that we are more than conquerors and that all things work together for good. The sufferings we go through are to teach us our motives.
+The end of the chapter deals with the Christian&apos;s Hope, which is; &quot;If God be for us who can be against us.&quot; And that we are more than conquerors and that all things work together for good. The sufferings we go through are to teach us our motives.
 
 ### The Accuser of the Saints
 
-> 31 What shall we then say to these things? If God be for us, who can be against us? 32 He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things? 33 Who shall lay any thing to the charge of God&apos;s elect? It is God that justifieth.  34 Who is he that condemneth? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us.  
+> 31 What shall we then say to these things? If God be for us, who can be against us? 32 He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things? 33 Who shall lay any thing to the charge of God&apos;s elect? It is God that justifieth. 34 Who is he that condemneth? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us. 
 
 1. Someone Must Produce Charges
 
@@ -107,11 +107,11 @@ If the law has been broken ("all have sinned") then justice demands punishment. 
 
 ### The Power of God's Love
 
-> 35 Who shall separate us from the love of Christ? shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?  36 As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter.  37 Nay, in all these things we are more than conquerors through him that loved us.  38 For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,  39 Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord. 
-  
+> 35 Who shall separate us from the love of Christ? shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword? 36 As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter. 37 Nay, in all these things we are more than conquerors through him that loved us. 38 For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, 39 Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord. 
+ 
 - The Nature of It - 1 John 4:8; Not a fickel love, but constant; 1 John 3:1 "manner" "strange" "foreign" "different"
 - The Means of It- 1 John 4:9 -- He is the Mediator, God's love was manifested to us
-- The Object of It  - John 3:16 -- US
+- The Object of It - John 3:16 -- US
 - The Assurance of It - "I am persuaded"
 
 Unaffected by the Extreme Conditions - Neither death nor life" Romans 14:8; Phil. 1:20,21
@@ -149,7 +149,7 @@ Persuaded -- knowing it versus be persuaded of it. a difference
 
 Note: Paul in his experiences, had been through all the trials and tests.
 
-Persuaded - His mind  his conscience and heart and whole being were sublimely committed to God. 
+Persuaded - His mind his conscience and heart and whole being were sublimely committed to God. 
 
 The Christian is a conqueror. Overcomes the enemy and gains by the conflict! Our victories increase our faith.
 

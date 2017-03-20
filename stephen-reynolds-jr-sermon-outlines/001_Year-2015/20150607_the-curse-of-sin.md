@@ -17,7 +17,7 @@ No. 6 of 8 visions
 
 This prophecy was to guide Israel after the captivity in Babylon and to a restoration of fellowship with God. Everything had been brought down to a smoldering ember. God's word by His prophets was given to REVIVE the flame.
 
-Zechariah 5:1 ¶ Then I turned, and lifted up mine eyes, and looked, and behold a flying roll. 2 And he said unto me, What seest thou? And I answered, I see a flying roll; the length thereof is twenty cubits, and the breadth thereof ten cubits. 3 Then said he unto me, This is the curse that goeth forth over the face of the whole earth: for every one that stealeth shall be cut off as on this side according to it; and every one that sweareth shall be cut off as on that side according to it. 4 I will bring it forth, saith the LORD of hosts, and it shall enter into the house of the thief, and into the house of him that sweareth falsely by my name: and it shall remain in the midst of his house, and shall consume it with the timber thereof and the stones thereof.
+Zechariah 5:1 Then I turned, and lifted up mine eyes, and looked, and behold a flying roll. 2 And he said unto me, What seest thou? And I answered, I see a flying roll; the length thereof is twenty cubits, and the breadth thereof ten cubits. 3 Then said he unto me, This is the curse that goeth forth over the face of the whole earth: for every one that stealeth shall be cut off as on this side according to it; and every one that sweareth shall be cut off as on that side according to it. 4 I will bring it forth, saith the LORD of hosts, and it shall enter into the house of the thief, and into the house of him that sweareth falsely by my name: and it shall remain in the midst of his house, and shall consume it with the timber thereof and the stones thereof.
 
 What Do You See?
 - A Flying Roll
@@ -25,7 +25,7 @@ What Do You See?
 - A message in writing (permanent) from God (important)
 - Flying over the wholeearth --- universally applicable
 
-This is...
+This is&hellip;
 - The Curse that Goeth forth over the face of the WHOLE EARTH
 - for every one that stealeth shall be cut off as on this side according to it;
 - And every one that sweareth shall be cut off as on that side according to it.

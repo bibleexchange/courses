@@ -73,10 +73,10 @@ h6:before{ content: counter(h6,decimal) ") ";}
 
 /*Embedded Outline Autonumbering */
 .emb-outline{ counter-reset: h1;}
-.emb-outline h1{ counter-increment: h1;	counter-reset: h2;  text-align:left; padding:0; margin-left:3em; page-break-before:avoid; }
+.emb-outline h1{ counter-increment: h1;	counter-reset: h2; text-align:left; padding:0; margin-left:3em; page-break-before:avoid; }
 .emb-outline h2{ counter-increment: h2;	counter-reset: h3; font-weight:normal; font-size:1em; margin-bottom:0;}
-.emb-outline h3{ counter-increment: h3;	counter-reset: h4;  font-weight:normal;}
-.emb-outline h4{ counter-increment: h4;	counter-reset: h5;  font-weight:normal;}
+.emb-outline h3{ counter-increment: h3;	counter-reset: h4; font-weight:normal;}
+.emb-outline h4{ counter-increment: h4;	counter-reset: h5; font-weight:normal;}
 .emb-outline h5{ counter-increment: h5;	counter-reset: h6; font-weight:normal;}
 .emb-outline h6{ counter-increment: h6; font-weight:normal;}
 .emb-outline h1:before{ content: counter(h1,none) " ";}
@@ -87,8 +87,8 @@ h6:before{ content: counter(h6,decimal) ") ";}
 .emb-outline h6:before{ content: counter(h6,none);}
 
 .emb-outline {border-left-style:solid; border-left-width:.1em; margin-left:3.5em; margin-top:1em; margin-bottom:2em; padding-left:1em; }
-.emb-outline h1 {font-size:1em;  margin-top:1.5em; padding:0; text-align:left; margin-left:2em;}
-.emb-outline h1 +  h1 {padding:0; margin-top:0; }
+.emb-outline h1 {font-size:1em; margin-top:1.5em; padding:0; text-align:left; margin-left:2em;}
+.emb-outline h1 + h1 {padding:0; margin-top:0; }
 
 /*title page */
 #title-page {padding:4em 2em 4.75em 1em; border-style:double; border-width:5px; height:11in;}
@@ -96,11 +96,11 @@ h6:before{ content: counter(h6,decimal) ") ";}
 #title-page h2 {text-align:left; font-size:1.75em; margin-top:0; margin-left:10em; margin-bottom:10em; text-indent:0;}
 #title-page h3 {text-align:right; font-weight:bold; }
 #title-page h4 {text-align:right; }
-#title-page  img {width:541; height:475; position: absolute; margin-left:2em; margin-top:11em;}
+#title-page img {width:541; height:475; position: absolute; margin-left:2em; margin-top:11em;}
 #title-page h1:before, #title-page h2:before, #title-page h3:before, #title-page h4:before { content: counter(h1,none) "";}
 
 /*table of contents page */
-#toc-page h1 {text-align:center; margin-bottom:2em; text-indent:0; font-size:2em;  margin-left:0; padding-left;0; padding-top:1.5em;	text-align:center;	page-break-before:always;}
+#toc-page h1 {text-align:center; margin-bottom:2em; text-indent:0; font-size:2em; margin-left:0; padding-left;0; padding-top:1.5em;	text-align:center;	page-break-before:always;}
 #toc-page h2 {text-align:center; margin-bottom:2em; text-indent:0; font-size:1.5em; margin-left:0; padding-left;0;}
 #toc-page h1:before, #toc-page h2:before, #toc-page h3:before, #toc-page h4:before { content: counter(h1,none) "";}
 
@@ -127,5 +127,5 @@ h1, .first {	page-break-before:always;	padding-top:0;}
 .questions-page h1 {padding-top:0;}
 .noPrint {display:none;}
 table {page-break-inside:avoid;}
-  * {text-shadow: none !important; color: #000 !important; background: transparent !important; box-shadow: none !important; }
+ * {text-shadow: none !important; color: #000 !important; background: transparent !important; box-shadow: none !important; }
 }

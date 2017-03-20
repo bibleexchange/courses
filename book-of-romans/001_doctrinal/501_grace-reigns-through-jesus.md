@@ -22,7 +22,7 @@ When a man places his faith in Christ and in His atonement for their sin, that p
 
 SCRIPTURES ON ABOUNDING: Proverbs 28:20; Romans 5:20: 15:13; 2 Corinthians 8:7; 9:8; Philippians 1:9; 4:17; 1 Thessalonians 3:12; 4:1; 2 Peter 1:5-8
 
-> Romans 5:1  Therefore being justified by faith, we have peace with God through our Lord Jesus Christ: 2 By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God. 3 And not only so, but we glory in tribulations also: knowing that tribulation worketh patience; 4 And patience, experience; and experience, hope: 5 And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.
+> Romans 5:1 Therefore being justified by faith, we have peace with God through our Lord Jesus Christ: 2 By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God. 3 And not only so, but we glory in tribulations also: knowing that tribulation worketh patience; 4 And patience, experience; and experience, hope: 5 And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.
 
 ### We have been Justified through His blood (saved)
 
@@ -38,11 +38,11 @@ SCRIPTURES ON ABOUNDING: Proverbs 28:20; Romans 5:20: 15:13; 2 Corinthians 8:7; 
 
 ILLUSTRATION: William Wilberforce, (We have received an abundance of His Grace)
 
-> Young William Wilberforce was discouraged one night in the early 1790s after another defeat in his 10 year battle against the slave trade in England. Tired and frustrated, he opened his Bible and began to leaf through it. A small piece of paper fell out and fluttered to the floor. It was a letter written by John Wesley shortly before his death. Wilberforce read it again: "Unless the divine power has raised you up... I see not how you can go through your glorious enterprise in opposing that (abominable practice of slavery), which is the scandal of religion, of England, and of human nature. Unless God has raised you up for this very thing, you will be worn out by the opposition of men and devils. But if God be for you, who can be against you? Are all of them together stronger than God? Oh, be not weary of well-doing. Go on in the name of God, and in the power of His might." 
+> Young William Wilberforce was discouraged one night in the early 1790s after another defeat in his 10 year battle against the slave trade in England. Tired and frustrated, he opened his Bible and began to leaf through it. A small piece of paper fell out and fluttered to the floor. It was a letter written by John Wesley shortly before his death. Wilberforce read it again: "Unless the divine power has raised you up&hellip; I see not how you can go through your glorious enterprise in opposing that (abominable practice of slavery), which is the scandal of religion, of England, and of human nature. Unless God has raised you up for this very thing, you will be worn out by the opposition of men and devils. But if God be for you, who can be against you? Are all of them together stronger than God? Oh, be not weary of well-doing. Go on in the name of God, and in the power of His might." 
 
 ### We have the Holy Ghost given unto us
 
-> Romans 5:5 ....the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.
+> Romans 5:5 &hellip;.the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.
 
 > 2 Corinthians 1:22&mdash;Who hath also sealed us, and given the earnest of the Spirit in our hearts.
 
@@ -64,15 +64,15 @@ All of the preceding blessings (justification, peace, access, etc.) are possible
 
 Man&apos;s &quot;love&quot; is self concerned and limited. For those that are religious and do good things you might find some to die and for those that are kind to others and generous, you might have an easier time finding someone to die , but Christ died not for those who appeared to have value and worth, but he died for the offenders, trespassers. He died for SINNERS. 
 
-#### Scarcely for a Righteous Man Will One Die---  coldness.
+#### Scarcely for a Righteous Man Will One Die--- coldness.
 
-> 7 For scarcely for a righteous man will one die:... 
+> 7 For scarcely for a righteous man will one die:&hellip; 
 
 Principled but "Cold" reasoning-- Does he deserve my substitution? (MERIT OF MORAL CHARACTER but nothing endearing about the person.)
 
 #### Peradventure for a good Man Some would Dare to Die--- warmth.
 
-> ...yet peradventure for a good man some would even dare to die. 
+> &hellip;yet peradventure for a good man some would even dare to die. 
 
 I really like this person, "He's a good man. He has been good to others. ENDEARING."
 
@@ -82,7 +82,7 @@ God's Love was demonstrated to those neither RIGHTEOUS nor GOOD.
 
 > 8 But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.
 
-In our place ...
+In our place &hellip;
 
 > Romans 6:23&mdash;For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.
 

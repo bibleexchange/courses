@@ -6,7 +6,7 @@ TEXT: Leviticus 17:10-11; Hebrews 9:12-14
 
 > Leviticus 17:10-11&mdsash;And whatsoever man there be of the house of Israel, or of the strangers that sojourn among you, that eateth any manner of blood; I will even set my face against that soul that eateth blood, and will cut him off from among his people. 11 **For the life of the flesh is in the blood**: and I have given it to you upon the altar to make an atonement for your souls: for it is the blood that maketh an atonement for the soul.
 
-Heb 9:12 Neither by the blood of goats and calves, but **by his own blood** he entered in once into the holy place, having obtained eternal redemption for us.  13 For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh: 14 How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?
+Heb 9:12 Neither by the blood of goats and calves, but **by his own blood** he entered in once into the holy place, having obtained eternal redemption for us. 13 For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh: 14 How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?
 
 ## INTRODUCTION: The Bible is a Bloody Book
 
@@ -20,13 +20,13 @@ Why does the Bible Emphasize the Blood? Why is it so Important?
 
 ### The Secret to the Favor of God is in the Blood
 
-...*I will even set my face against that soul that eateth blood*...
+&hellip;*I will even set my face against that soul that eateth blood*&hellip;
 
 God is making a strong and serious point. As the the master teacher, he is giving Israel a shadow of a fuller revelation to come.
 
 ### The Life is in the Blood (Leviticus 17:10-11)
 
-*For the life of the flesh is in the blood*...
+*For the life of the flesh is in the blood*&hellip;
 
 Without the Blood, there can be no life. When the blood fails to reach the cells in the body, even in that partial way, those cells begin to die.
 
@@ -34,7 +34,7 @@ Every cell in the body, is dependent on the continual flow of the blood.
 
 ### The Atonement is in the Blood
 
-... *it is the blood that maketh an atonement for the soul*.
+&hellip; *it is the blood that maketh an atonement for the soul*.
 
 ATONEMENT: to cover; to purge; to cleanse; to pardon; to reconcile;
 
@@ -66,7 +66,7 @@ Not the miracles, the teachings, the personal self-sacrifice of our lord through
 
 > Hebrews 4:12 For the word of God is quick, and powerful, and sharper than any two-edged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.
 
-> Philippians 2:6 Who, being in the form of God, thought it not robbery to be equal with God: 7 But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men:  8 And being found in fashion as a man, he humbled himself, and became obedient unto death, even **the death of the cross**.
+> Philippians 2:6 Who, being in the form of God, thought it not robbery to be equal with God: 7 But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men: 8 And being found in fashion as a man, he humbled himself, and became obedient unto death, even **the death of the cross**.
 
 Do We Want a Bloodless Bible?
 

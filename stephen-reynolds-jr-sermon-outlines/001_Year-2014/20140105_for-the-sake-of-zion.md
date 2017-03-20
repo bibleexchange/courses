@@ -7,7 +7,7 @@ Many have fallen out of love with **Christianity** and because of the actions an
 
 > ILLUSTRATION: On the Slopes of Long Peak Colorado, a 400 year old tree that withstood 400 passing years of lightening, winds, earthquakes and floods and finally brought down by a bunch of tiny beetles.
 
->  Isaiah 61:3  **trees of righteousness**
+> Isaiah 61:3 **trees of righteousness**
 
 The Statue of Liberty in New York's Harbor has stood as a symbol of freedom and hope to immigrants believing in idea that America was a land of opportunity. What America IS is one thing (dirty city streets, struggling economies, corruption and infightings), but what these immigrants were in love with was the IDEA of America which something altogether different.--They caught a vision of what America could be!
 
@@ -26,7 +26,7 @@ Some of the Descriptions
 
 > Isaiah 4:5 -- And the LORD will create upon every dwelling place of mount Zion, and upon her assemblies, a cloud and smoke by day, and the shining of a flaming fire by night: for upon all the glory shall be a defence.
 
->  Hebrews 11:10 For he looked for a city which hath foundations, whose builder and maker is God.
+> Hebrews 11:10 For he looked for a city which hath foundations, whose builder and maker is God.
 
 ###B. vs. 2 The Sinner Sinner Sees and Wants What We Have
 Experiencing the Truth Makes Men Free
@@ -41,11 +41,11 @@ Forsaken, Desolate = Hephzibah, Beulah ("My Delight is in her", "Married")
 
 ##II. The Work of Zion (6-7,10-11)
 **vs. 11 His REWARD is WITH Him, and his WORK BEFORE Him.**
-God has Set Watchmen...Where? ON THE WALLS: vision, insight, clear view (Not the Mayans, but the Christians!)
+God has Set Watchmen&hellip;Where? ON THE WALLS: vision, insight, clear view (Not the Mayans, but the Christians!)
 
 ##A. A Work For Us To Do
 
-> ILLUSTRATION: It means something when someone who has paid the price, says it. I asked Sis. Meadows who is 92 years old, Has God ever failed you?  God has never failed me.
+> ILLUSTRATION: It means something when someone who has paid the price, says it. I asked Sis. Meadows who is 92 years old, Has God ever failed you? God has never failed me.
 
 vs. 6 Luke 18:1 Men ought always to pray. -- To the end that the RESTORATION would be hastened.
 
@@ -58,7 +58,7 @@ vs. 6 Luke 18:1 Men ought always to pray. -- To the end that the RESTORATION wou
 ##B. A Work in Us (12)
 
 God is still preparing a people that will love and follow Him fully. 
->  Luke 1:17 ...**a people prepared for the Lord**.
+> Luke 1:17 &hellip;**a people prepared for the Lord**.
 
 > ILLUSTRATION: Tanzanite is a rare and beautiful gemstone purple and blue in color only found in the Hills near Mt. Kilimanjaro in Tanzania. In its rough state it is reddish brown in color and requires heat of 600 degrees Celsius to BRING OUT the blue violet.
 
@@ -77,7 +77,7 @@ God is still preparing a people that will love and follow Him fully.
 
 Unused Thoughts:
 
->  Isaiah 61:3 To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called **trees of righteousness**, the planting of the LORD, that he might be glorified.
+> Isaiah 61:3 To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called **trees of righteousness**, the planting of the LORD, that he might be glorified.
 
 GEORGE WASHINGTON, Who lead America in the Revolutionary War and then served as her first President, old and tired retired from public service to his home in Mt. Vernon. Years had gone by and congress still hadn't released the funds for giving backpay to the Revolutionary War veterans. Years of complaints and protest hadn't convinced Congress that it was vital these soldiers be paid. George Washington gave of his own money to the soldiers and then came out of the quiet of his seclusion and traveled to compel congress to pay its soldiers. He stood before Congress beginning to speak "Forgive me as I put on my spectacles, for I have not only grown gray but have gone blind in the service of my country."; There was not a single argument made in Congress that day against President Washington.
 

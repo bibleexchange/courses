@@ -8,11 +8,11 @@
 "body":"Who Built the Ark?",
 "type":"MULTIPLE_CHOICE",
 "options": [
-  {"display":"Joseph", "value":0},
-  {"display":"Aaron", "value":0},
-  {"display":"Noah", "value":1},
-  {"display":"Paul", "value":0}
-  ]
+ {"display":"Joseph", "value":0},
+ {"display":"Aaron", "value":0},
+ {"display":"Noah", "value":1},
+ {"display":"Paul", "value":0}
+ ]
 },
 
 {

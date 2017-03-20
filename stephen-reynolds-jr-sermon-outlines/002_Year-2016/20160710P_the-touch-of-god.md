@@ -1,6 +1,6 @@
 # The Touch of God
 
->  Revelation 1:17&mdash;And when I saw him, I fell at his feet as dead. And he laid his right hand upon me, saying unto me, Fear not; I am the first and the last:
+> Revelation 1:17&mdash;And when I saw him, I fell at his feet as dead. And he laid his right hand upon me, saying unto me, Fear not; I am the first and the last:
 
 ## INTRODUCTION
 
@@ -20,7 +20,7 @@ Escaping the judgment of God.
 
 The deputy being persuaded and Sorcerer Blinded
 
->  **Ac 13:11** And now, behold, the hand of the Lord is upon thee, and thou shalt be blind, not seeing the sun for a season. And immediately there fell on him a mist and a darkness; and he went about seeking some to lead him by the hand.
+> **Ac 13:11** And now, behold, the hand of the Lord is upon thee, and thou shalt be blind, not seeing the sun for a season. And immediately there fell on him a mist and a darkness; and he went about seeking some to lead him by the hand.
 
 ## CHOSEN FOR SERVICE/TO LEAD
 
@@ -56,8 +56,8 @@ When the minstrel played, the hand of the Lord came upon him.
 
 > Ezr 7:6 This Ezra went up from Babylon; and he was a ready scribe in the law of Moses, which the LORD God of Israel had given: and the king granted him all his request, according to the hand of the LORD his God upon him.
 
-PRAYING DOWN THE WIND ...
+PRAYING DOWN THE WIND &hellip;
 
-> [HUDSON TAYLOR] I was nearly wrecked when I was going out to China the first time. Our vessel was becalmed, and gradually drifting upon the coast of New Guinea. We could see the savages on the shore. They had kindled a fire, and were evidently expecting a good supper that night. .... We had been becalmed for several weeks, with never a breeze, or any sign of one. In a few minutes we would be among the coral reefs. We would be at the mercy of those savages, and they didn't look as if they had much mercy. ... "Well," I said, " there is one thing we haven't done yet. Let the Christians on board pray about it." ... I went to my cabin, and told the Lord that I was just on my way to China; that He had sent me; and that I couldn't get there if I was shipwrecked and killed; and then I was going on to ask Him for a breeze, but I felt so confident about it that I couldn't ask Him. ... Writing of this and similar experiences later, Hudson Taylor said: “Thus God encouraged me, ere landing on China’s shores, to bring every variety of need to Him in prayer, and to expect that He would honor the name of the Lord Jesus and give the help which each emergency required.”
+> [HUDSON TAYLOR] I was nearly wrecked when I was going out to China the first time. Our vessel was becalmed, and gradually drifting upon the coast of New Guinea. We could see the savages on the shore. They had kindled a fire, and were evidently expecting a good supper that night. &hellip;. We had been becalmed for several weeks, with never a breeze, or any sign of one. In a few minutes we would be among the coral reefs. We would be at the mercy of those savages, and they didn't look as if they had much mercy. &hellip; "Well," I said, " there is one thing we haven't done yet. Let the Christians on board pray about it." &hellip; I went to my cabin, and told the Lord that I was just on my way to China; that He had sent me; and that I couldn't get there if I was shipwrecked and killed; and then I was going on to ask Him for a breeze, but I felt so confident about it that I couldn't ask Him. &hellip; Writing of this and similar experiences later, Hudson Taylor said: &quot;Thus God encouraged me, ere landing on China&apos;s shores, to bring every variety of need to Him in prayer, and to expect that He would honor the name of the Lord Jesus and give the help which each emergency required.&quot;
 
 > **James 5:16** Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.

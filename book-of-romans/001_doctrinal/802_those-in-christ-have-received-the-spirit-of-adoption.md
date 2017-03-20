@@ -4,7 +4,7 @@
 
 ### Summary of Romans 8: 
 
-**Those in Christ ...**
+**Those in Christ &hellip;**
 
 - Are No Longer Condemned, vs. 1-9
 - Have Received the Spirit of Adoption, vs. 10-16
@@ -146,7 +146,7 @@ A Believer that is half in and half out is the product of the flesh and not allo
 
 We can learn alot from Jehoshaphat in 2 Chronicles 20.
 
->  2 Chronicles 20:3-4&mdash;And Jehoshaphat feared, and set himself to seek the Lord, and proclaimed a fast throughout all Judah. 4 And Judah gathered themselves together, to ask help of the Lord: even out of all the cities of Judah they came to seek the Lord.
+> 2 Chronicles 20:3-4&mdash;And Jehoshaphat feared, and set himself to seek the Lord, and proclaimed a fast throughout all Judah. 4 And Judah gathered themselves together, to ask help of the Lord: even out of all the cities of Judah they came to seek the Lord.
 
 The King prayed and all Judah stood before the Lord.
 
@@ -158,15 +158,15 @@ The Spirit of God came upon Jahaziel and he spoke to Judah.
 
 <!-- -->
 
-> 2 Chronicles 20:26&mdash; ¶And on the fourth day they assembled themselves in the valley of Berachah; for there they blessed the Lord: therefore the name of the same place was called, The valley of Berachah, unto this day.*n11
+> 2 Chronicles 20:26&mdash; And on the fourth day they assembled themselves in the valley of Berachah; for there they blessed the Lord: therefore the name of the same place was called, The valley of Berachah, unto this day.*n11
 
 Berachah is the "Valley of Blessings ("blessing" is "Berakhah" in Hebrew).
 
-> 2 Chronicles 20:32-33&mdash; And he walked in the way of Asa his father, and departed not from it, doing that which was right in the sight of the Lord.  33 Howbeit the high places were not taken away: for as yet the people had not prepared their hearts unto the God of their fathers.
+> 2 Chronicles 20:32-33&mdash; And he walked in the way of Asa his father, and departed not from it, doing that which was right in the sight of the Lord. 33 Howbeit the high places were not taken away: for as yet the people had not prepared their hearts unto the God of their fathers.
 
 Jehoshaphat joined himself in league with a sinner.
 
-> 35 ¶And after this did Jehoshaphat king of Judah join himself with Ahaziah king of Israel, who did very wickedly: 36 And he joined himself with him to make ships to go to Tarshish: and they made the ships in Ezion&mdash;geber. 37 Then Eliezer the son of Dodavah of Mareshah prophesied against Jehoshaphat, saying, Because thou hast joined thyself with Ahaziah, the Lord hath broken thy works. And the ships were broken, that they were not able to go to Tarshish. 
+> 35 And after this did Jehoshaphat king of Judah join himself with Ahaziah king of Israel, who did very wickedly: 36 And he joined himself with him to make ships to go to Tarshish: and they made the ships in Ezion&mdash;geber. 37 Then Eliezer the son of Dodavah of Mareshah prophesied against Jehoshaphat, saying, Because thou hast joined thyself with Ahaziah, the Lord hath broken thy works. And the ships were broken, that they were not able to go to Tarshish. 
 
 ##### Jesus
 

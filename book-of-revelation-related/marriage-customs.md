@@ -35,7 +35,7 @@ The Gospel message has been laid out and discussed for over 2000 years.
 
 On the Day of Pentecost they drank the wine that He sent.
 
-Acts 2:15-18&mdash;Ac 2:15 For these are not drunken, as ye suppose, seeing it is but the third hour of the day. 16 But this is that which was spoken by the prophet Joel;  17 And it shall come to pass in the last days, saith God, I will pour out of my Spirit upon all flesh: and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams: 18 And on my servants and on my handmaidens I will pour out in those days of my Spirit; and they shall prophesy:
+Acts 2:15-18&mdash;Ac 2:15 For these are not drunken, as ye suppose, seeing it is but the third hour of the day. 16 But this is that which was spoken by the prophet Joel; 17 And it shall come to pass in the last days, saith God, I will pour out of my Spirit upon all flesh: and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams: 18 And on my servants and on my handmaidens I will pour out in those days of my Spirit; and they shall prophesy:
 
 ##At this Point the Groom and Bride were officially betrothed.
 

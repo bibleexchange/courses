@@ -60,9 +60,9 @@
 <p>The book of Ephesians is like the chambers of God's grace. These chambers are intimate experiences which God brings us into with Himself. Intimacy with God does not involve just one experience, but many. Notice the word is plural - chambers and not chamber.</p>
 <blockquote>Song of Solomon 1:4 "The King hath brought me into His chambers."</blockquote>
 <h5>The chamber of salvation and redemption</h5>
-<h6>The father planned it—thought it 1:4-6</h6>
-<h6>The son paid for it—bought it 1:7-12; 2:13</h6>
-<h6>The Holy Spirit applies it—wrought it 1:13, 14; 4:30</h6>
+<h6>The father planned it&mdash;thought it 1:4-6</h6>
+<h6>The son paid for it&mdash;bought it 1:7-12; 2:13</h6>
+<h6>The Holy Spirit applies it&mdash;wrought it 1:13, 14; 4:30</h6>
 <p>Total redemption is the most glorious work of God. To make the world, He spoke the Word. To redeem the world, He sent His only Son to shed His blood on a cruel cross and arise the third day morning from death, hell, and the grave and ascend forty days later to the throne and sat down at the Father's right hand and sent the Holy Ghost to lead us and guide us into all truth from Chamber to Chamber!</p>
 <h5>The chamber of power or baptism</h5>
 <p>Eph. 1:13, 14, 19; 2:18; 3:7, 16, 20; Luke 24:4; Acts 1:8; I Cor. 12:13</p>
@@ -98,7 +98,7 @@
 <p>This is the work of the Son 1:7-12 Heb. 13:12 To redeem us with His own blood To forgive us of sin 1:7, 8 To abound toward us in grace 1:12 We should be to the praise of His glory</p>
 <p>The work of the Apostle 1:15-23 Watch for the souls of men. Pray for the souls of men. Before salvation and after God will and must reveal Himself to every believer.</p>
 <p>The work of the Believer is to receive revelation. "Who believe" 1:19</p>
-<p>The work of the Church 1:23"His body" Full of Him -"The fullness of Him that filleth all in all. Functioning by Him. 1)The church is Christ's body that He works through 1:23 and 2)The church is a Holy temple in the Lord 2:21 The church is part of the mystery of Christ.3:4-10 "To the faithful" 1:1, "A perfect man" 4:13, "Unto the measure of the stature of the fullness of Christ." 4:13, "The new man" 4:24, "A glorious church" 5:27, and The great mystery is Christ and His bride 5:32 Rev. 3:20—"If any man hear" The whole Church will not listen now, but they will be brought to a place to listen. Rev. 12:14 A Church within a Church, Called out from the called out ones, Individuals that will hear. Overcome as He overcame - Rev. 3:21 Putting on the whole armor of God and fighting from the victory He gives by faith in the promises not for a victory of our own doing in our strength alone. Eph. 6:10-18; Rom. 8:37-39; I Cor. 15:57; II Cor.2:14</p>
+<p>The work of the Church 1:23"His body" Full of Him -"The fullness of Him that filleth all in all. Functioning by Him. 1)The church is Christ's body that He works through 1:23 and 2)The church is a Holy temple in the Lord 2:21 The church is part of the mystery of Christ.3:4-10 "To the faithful" 1:1, "A perfect man" 4:13, "Unto the measure of the stature of the fullness of Christ." 4:13, "The new man" 4:24, "A glorious church" 5:27, and The great mystery is Christ and His bride 5:32 Rev. 3:20&mdash;"If any man hear" The whole Church will not listen now, but they will be brought to a place to listen. Rev. 12:14 A Church within a Church, Called out from the called out ones, Individuals that will hear. Overcome as He overcame - Rev. 3:21 Putting on the whole armor of God and fighting from the victory He gives by faith in the promises not for a victory of our own doing in our strength alone. Eph. 6:10-18; Rom. 8:37-39; I Cor. 15:57; II Cor.2:14</p>
 <h6>"Ye were sealed with the Holy Spirit of promise" 1:13</h6>
 <p>Baptism requires salvation through the blood. (1:13, 7)</p>
 <p>The baptism of the Spirit is the earnest of our inheritance. (1:14)</p>
@@ -152,7 +152,7 @@
 <p>We must share it. 3:1 "For this cause" 3:2 "If ye have heard" 3:4 "Ye may understand" 3:13 "That ye faint not"</p>
 <p>We pray continually that God reveals it. 3:14 "For this cause I bow my knees"</p>
 <p>1:15,16 "Cease not" 6:18"Praying always"</p>
-<p>"To make all men see." Make—to shine so that all men can see 3:9; 5461 photizo"make" to shed rays, to shine. Eph. 5:8, 14; 6:6; John 9:5; Phil. 2:15; John 1:4-9</p>
+<p>"To make all men see." Make&mdash;to shine so that all men can see 3:9; 5461 photizo"make" to shed rays, to shine. Eph. 5:8, 14; 6:6; John 9:5; Phil. 2:15; John 1:4-9</p>
 <p>Men must see not from the point of limited vision, limited aim and limited action, but from God's point of view.</p>
 <p>In Christ, In God. II Cor. 4:18Col. 3:1-3; Eph. 1:10; 2:13, 18; 3:9, 11; 4:13; 6:10, 11, 19</p>
 <h5>Riches of His unsearchable glory 3:14-16, 21</h5>
@@ -167,7 +167,7 @@
 <h6>The source of spiritual strength is"by His Spirit" 3:16</h6>
 <h6>The purpose for strength is to give Christ permanent residence. 3:17</h6>
 <p>a)That Christ may dwell in your heart b)This is secured"by faith" c)"Rooted" - Like a tree d)"Grounded" - Like a house on a foundation e)"In love" permanent relationship f)"May be able to comprehend"</p>
-<p>Apprehend - to lay hold of with the mind—A strong mind</p>
+<p>Apprehend - to lay hold of with the mind&mdash;A strong mind</p>
 <p>Love passing knowledge 3:19 - a sound mind II Tim. 1:7</p>
 <h2>What God Expects of Us (Ch. 4 - 6)</h2>
 <h3>Duties follow doctrine 4:1-32</h3>

@@ -36,4 +36,4 @@ God left it, he gave it life, it is a HOLY THING -- What is left!
 All the Devil Lacks is the Opportunity
 
 ## God of the Hills Only?
-1Ki 20:22 ¶ And the pr
+1Ki 20:22 And the pr

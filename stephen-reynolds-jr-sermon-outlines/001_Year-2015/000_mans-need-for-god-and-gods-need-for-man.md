@@ -10,7 +10,7 @@ With more frequent violence in militant Islam and battle lines drawn over doctri
 - humanist chaplain at Harvard University wrote "Good without God"
 - Neruroscientist Sam Harris in his "The End of Faith" it is not merely religious extremism that is the greatest problem confronting civilization, but it is rather faith itself.
 
-I won't try to defend religion so much tonight as combat the most dangerous inference of these statement....that, for whatever reasons, man does not NEED God.
+I won't try to defend religion so much tonight as combat the most dangerous inference of these statement&hellip;.that, for whatever reasons, man does not NEED God.
 
 But not only does man severly need God, but God also in another sense needs man.
 
@@ -49,7 +49,7 @@ God's need is born not out of a shortcoming in the Divine God, but out of His LO
 
 ### He Has Born Our Need
 
-> John 4:4 ¶ And he must needs go through Samaria.
+> John 4:4 And he must needs go through Samaria.
 
 ### The Donkey
 

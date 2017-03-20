@@ -9,12 +9,12 @@ Paul proves by inspiration of God that there is no good reason to sin! There is 
 
 ## Grace Abounds in our Walking in the Newness of Christ&apos;s Life Vs. 1-14
 
-QUESTION:  vs. 1 Shall we continue in sin, that grace may abound?  
-ANSWER: vs. 2 God forbid. How shall we, that are dead to sin, live any longer therein?  
+QUESTION: vs. 1 Shall we continue in sin, that grace may abound? 
+ANSWER: vs. 2 God forbid. How shall we, that are dead to sin, live any longer therein? 
 
 Paul teaches that to live in sin if we are dead sin is a paradox&mdash;an impossibility. You are either dead to sin or you are alive to sin! When the rescue team checks for vitals, the victim&apos;s heart is either pumping blood or his heart has stopped. If we are crucified in Christ, God does not raise again that old carnal man! God raises us up in NEWNESS of Life.
 
-### How Can WE Being Dead...?	v. 1-6
+### How Can WE Being Dead&hellip;?	v. 1-6
 
 Paul describes the Believers relationship to sin as being "dead" to it.
 
@@ -28,7 +28,7 @@ Summary:
 
 Salvation is a complete remedy (free from the penalty and power of sin) for the whole man (body, soul spirit).
 
-God's plan of salvation does not stop at Justification (remedying the Believer's relationship to the law), but continues on in Sanctification (restoring man's walk with God) which climaxes in Perfection (salvation completed). Salvation in the Bible is an awesome word that includes all the redemptive acts and processes of God: predestination, justification, redemption, regeneration, grace, propitiation,  imputation, impartation, forgiveness, sanctification, glorification and perfection.
+God's plan of salvation does not stop at Justification (remedying the Believer's relationship to the law), but continues on in Sanctification (restoring man's walk with God) which climaxes in Perfection (salvation completed). Salvation in the Bible is an awesome word that includes all the redemptive acts and processes of God: predestination, justification, redemption, regeneration, grace, propitiation, imputation, impartation, forgiveness, sanctification, glorification and perfection.
 
 > Romans 8:29-30&mdash;For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren. 30 Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.
 
@@ -36,9 +36,9 @@ The New Testament describes Salvation in three tenses: Present, Past & Future.
 
 <table class='table-default'>
  <tr>
-  <th>Past</th>
-  <th>Present</th>
-  <th>Future</th>
+ <th>Past</th>
+ <th>Present</th>
+ <th>Future</th>
  </tr>
 <tr>
 	<td>Have been saved: finished in the past</td>
@@ -70,7 +70,7 @@ We can find a concise illustration of this in 2 Corinthians 1:10
 
 We who are: Baptized into Christ&apos;s death, Crucified with Christ, Dead to Sin.
 
-> Romans 6:1-6 &mdash;What shall we say then? Shall we continue in sin, that grace may abound? 2 God forbid. How shall we, that are dead to sin, live any longer therein? 3  Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death? 4 Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life. 5 For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection: 6 Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin.
+> Romans 6:1-6 &mdash;What shall we say then? Shall we continue in sin, that grace may abound? 2 God forbid. How shall we, that are dead to sin, live any longer therein? 3 Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death? 4 Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life. 5 For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection: 6 Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin.
 
 ##### a. The Matter of this Death
 
@@ -94,48 +94,48 @@ The Believer is "dead to sin". This is a matter of fact and a truth.
 
 <table>
  <tr>
-  <td width=738 colspan=2 style='width:6.15in;border:solid black 1.0pt;
-  background:#A6A6A6;padding:0in 5.75pt 0in 5.75pt'>
-  <p class=MsoNormal align=center style='text-align:center'><b><span
-  style='font-size:12.0pt'>We are Identified with Christ Through His Death</span></b></p>
-  </td>
+ <td width=738 colspan=2 style='width:6.15in;border:solid black 1.0pt;
+ background:#A6A6A6;padding:0in 5.75pt 0in 5.75pt'>
+ <p class=MsoNormal align=center style='text-align:center'><b><span
+ style='font-size:12.0pt'>We are Identified with Christ Through His Death</span></b></p>
+ </td>
  </tr>
  <tr>
-  <td width=369 valign=top style='width:221.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0in 5.75pt 0in 5.75pt'>
-  <p class=MsoNormal><span style='font-size:12.0pt'>He died a natural death</span></p>
-  </td>
-  <td width=369 valign=top style='width:221.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0in 5.75pt 0in 5.75pt'>
-  <p class=MsoNormal><span style='font-size:12.0pt'>We die a spiritual death</span></p>
-  </td>
+ <td width=369 valign=top style='width:221.4pt;border:solid black 1.0pt;
+ border-top:none;padding:0in 5.75pt 0in 5.75pt'>
+ <p class=MsoNormal><span style='font-size:12.0pt'>He died a natural death</span></p>
+ </td>
+ <td width=369 valign=top style='width:221.4pt;border-top:none;border-left:
+ none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+ padding:0in 5.75pt 0in 5.75pt'>
+ <p class=MsoNormal><span style='font-size:12.0pt'>We die a spiritual death</span></p>
+ </td>
  </tr>
  <tr>
-  <td width=369 valign=top style='width:221.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0in 5.75pt 0in 5.75pt'>
-  <p class=MsoNormal><span style='font-size:12.0pt'>He died FOR the sins of the
-  whole world</span></p>
-  </td>
-  <td width=369 valign=top style='width:221.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0in 5.75pt 0in 5.75pt'>
-  <p class=MsoNormal><span style='font-size:12.0pt'>We die TO sin</span></p>
-  </td>
+ <td width=369 valign=top style='width:221.4pt;border:solid black 1.0pt;
+ border-top:none;padding:0in 5.75pt 0in 5.75pt'>
+ <p class=MsoNormal><span style='font-size:12.0pt'>He died FOR the sins of the
+ whole world</span></p>
+ </td>
+ <td width=369 valign=top style='width:221.4pt;border-top:none;border-left:
+ none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+ padding:0in 5.75pt 0in 5.75pt'>
+ <p class=MsoNormal><span style='font-size:12.0pt'>We die TO sin</span></p>
+ </td>
  </tr>
  <tr>
-  <td width=369 valign=top style='width:221.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0in 5.75pt 0in 5.75pt'>
-  <p class=MsoNormal><span style='font-size:12.0pt'>He died by way of
-  expiation, suffering, satisfying the Holiness of God</span></p>
-  </td>
-  <td width=369 valign=top style='width:221.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0in 5.75pt 0in 5.75pt'>
-  <p class=MsoNormal><span style='font-size:12.0pt'>We die by way of
-  mortification of the carnal nature, killing the flesh, crucifying the self
-  life.</span></p>
-  </td>
+ <td width=369 valign=top style='width:221.4pt;border:solid black 1.0pt;
+ border-top:none;padding:0in 5.75pt 0in 5.75pt'>
+ <p class=MsoNormal><span style='font-size:12.0pt'>He died by way of
+ expiation, suffering, satisfying the Holiness of God</span></p>
+ </td>
+ <td width=369 valign=top style='width:221.4pt;border-top:none;border-left:
+ none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+ padding:0in 5.75pt 0in 5.75pt'>
+ <p class=MsoNormal><span style='font-size:12.0pt'>We die by way of
+ mortification of the carnal nature, killing the flesh, crucifying the self
+ life.</span></p>
+ </td>
  </tr>
 </table>
 
@@ -205,16 +205,16 @@ This is a dual condition where the Believer having been crucified, his spirit is
 
 * baptized into Jesus Christ THEREFORE baptized into his death
 * buried with him by baptism into death:
-* as Christ was raised up from the dead ... so we also should walk in newness of life.
+* as Christ was raised up from the dead &hellip; so we also should walk in newness of life.
 * We have been planted together in the likeness of his death,
 * we shall be also in the likeness of his resurrection:
 * our old man is crucified with him, that the body of sin might be destroyed,
 
 - Mastery
 
-... that henceforth we should not serve sin.
+&hellip; that henceforth we should not serve sin.
 
->  Romans 8:37&mdash;Nay, in all these things we are more than conquerors through him that loved us.
+> Romans 8:37&mdash;Nay, in all these things we are more than conquerors through him that loved us.
 
 <!-- left off -->
 
@@ -258,9 +258,9 @@ The Believer is not the devil's victim, but the Believer is given the victory ov
 &quot;LET not sin&hellip;&quot;There is a power in God (His Grace) that enables man to become dead to sin and live right. The Believer must exercise his faith diligently in God&apos;s provision that the Believer is no longer under the dominion of sin.
 
 &quot;Self-control&quot; is required of saints. A diligent work is required of Believers in order to remain under grace and out from under the curse of the law. Notice the words of action demanded of the saints in these verses: reckon ye also yourselves&hellip; Let not sin therefore reign in your mortal body&hellip;Neither yield ye your members as instruments of unrighteousness unto sin: but yield yourselves unto God&hellip;.
-We overcome sin by the word of God...Doing what he says. Yielding yourselves to God means that you find the root cause of your sin and remove it from your life. Is the root cause anger....then repent and turn to God.  Let Him help you with it, by doing what the word instructs us to do.
+We overcome sin by the word of God&hellip;Doing what he says. Yielding yourselves to God means that you find the root cause of your sin and remove it from your life. Is the root cause anger&hellip;.then repent and turn to God. Let Him help you with it, by doing what the word instructs us to do.
 
-#### CONCLUSION:14 For sin shall not have dominion over you: for ye are not under the law, but under grace.  
+#### CONCLUSION:14 For sin shall not have dominion over you: for ye are not under the law, but under grace. 
 
 <!-- ####################################### -->
 <!-- ####################################### -->
@@ -272,9 +272,9 @@ We overcome sin by the word of God...Doing what he says. Yielding yourselves to 
 
 ### The Story of Grace Vs. 15
 
-> Romans 6:15&mdash;What then? shall we sin, because we are not under the law, but under grace? God forbid.  
+> Romans 6:15&mdash;What then? shall we sin, because we are not under the law, but under grace? God forbid. 
 
-The saint is relieved of a master when he is crucified to sin with Christ, but truly the saint changes master. Lordship of the  Believer&apos;s life, belongs to Christ. We are free from sin, but this also means we are bound to righteousness.
+The saint is relieved of a master when he is crucified to sin with Christ, but truly the saint changes master. Lordship of the Believer&apos;s life, belongs to Christ. We are free from sin, but this also means we are bound to righteousness.
 
 Sin is the slave trap of Satan; righteousness is the service of Christ. If ye sin ye are the servants of Satan, and not the servants of God.You cannot serve sin and be a servant to God.
 
@@ -291,7 +291,7 @@ Grace is unmerited favor (the riches of God opened to us!).
 - Psalm 84:11 The Lord will GIVE grace
 - Genesis 6:8 & 19:19 Noah & Lot -- FOUND grace in the eyes of the Lord (b/c actively searching for it.)
 
-> Barnes "THE argument commenced in this chapter is ... to show that the scheme of justification which God had adopted does not lead men to sin, but, on the contrary, to holiness."
+> Barnes "THE argument commenced in this chapter is &hellip; to show that the scheme of justification which God had adopted does not lead men to sin, but, on the contrary, to holiness."
 
 3. The Grace of God is the **Divine Influence** upon the heart and its reflection in the life.
 
@@ -307,7 +307,7 @@ Grace is unmerited favor (the riches of God opened to us!).
 
 The Christian life is voluntary, but having voluntarily yielded ourselves to God, we are his SERVANTS and therefore obligated at servants are to their master. Service to God is not voluntary!
 
-### You were servants to sin, but now are servants of righteousness vs.  17 -19
+### You were servants to sin, but now are servants of righteousness vs. 17 -19
 
 &quot;Old habits die hard&quot;. Having changed our object of servitude from sin and self to God, we must be vigilant in our effort to serve our Master faithfully. We are instructed to do some things.
 
@@ -325,24 +325,24 @@ What fruit had ye? What is the value of your service? It is the wage you earn. T
 
 <table class='table-default'>
  <tr>
-  <th>Servants of Sin</th>
-  <th style="border-left:none;">Servants of Righteousness</th>
+ <th>Servants of Sin</th>
+ <th style="border-left:none;">Servants of Righteousness</th>
  </tr>
  <tr>
-  <td>Free from righteousness</td>
-  <td style="border-left:none;">Free from sin</td>
+ <td>Free from righteousness</td>
+ <td style="border-left:none;">Free from sin</td>
  </tr>
  <tr>
-  <td>Fruit to be ashamed of</td>
-  <td style="border-left:none;">Fruit that Glorifies God,Holiness</td>
+ <td>Fruit to be ashamed of</td>
+ <td style="border-left:none;">Fruit that Glorifies God,Holiness</td>
  </tr>
  <tr>
-  <td>death</td>
-  <td style="border-left:none;">Everlasting life</td>
+ <td>death</td>
+ <td style="border-left:none;">Everlasting life</td>
  </tr>
  <tr>
-  <td>Wages of sin is death</td>
-  <td style="border-left:none;">Gift of God is eternal life through: Jesus Christ <b><u>our LORD</u></b>.
-  </td>
+ <td>Wages of sin is death</td>
+ <td style="border-left:none;">Gift of God is eternal life through: Jesus Christ <b><u>our LORD</u></b>.
+ </td>
  </tr>
 </table>

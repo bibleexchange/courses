@@ -42,7 +42,7 @@ the book of life of the Lamb slain from the foundation of the world.
 
 ###Standing on Mount Sion
 
-<blockquote>Psalm 87&mdash;His foundation is in the holy mountains.  2 The LORD loveth the gates of Zion more than all the dwellings of Jacob.  3 Glorious things are spoken of thee, O city of God. Selah.  4 I will make mention of Rahab and Babylon to them that know me: behold Philistia, and Tyre, with Ethiopia; this man was born there.  5 And of Zion it shall be said, This and that man was born in her: and the highest himself shall establish her.  6 The LORD shall count, when he writeth up the people, that this man was born there. Selah. 7 As well the singers as the players on instruments shall be there: all my springs are in thee.</blockquote>
+<blockquote>Psalm 87&mdash;His foundation is in the holy mountains. 2 The LORD loveth the gates of Zion more than all the dwellings of Jacob. 3 Glorious things are spoken of thee, O city of God. Selah. 4 I will make mention of Rahab and Babylon to them that know me: behold Philistia, and Tyre, with Ethiopia; this man was born there. 5 And of Zion it shall be said, This and that man was born in her: and the highest himself shall establish her. 6 The LORD shall count, when he writeth up the people, that this man was born there. Selah. 7 As well the singers as the players on instruments shall be there: all my springs are in thee.</blockquote>
 
 Matthew 21:5 and John 12:15 say to Tell the daughter of Sion that her King is coming to her! Hebrews 12:22 says the Believer has not come to a smoking and burning physical mountain that cannot be touched but unto Mount Sion the City of the Living God.
 
@@ -56,7 +56,7 @@ Zion is called both the city of David (1 Kings 8:1; 1 Chronicles 11:5; 2 Chronic
 
 Mount Zion is also the highest and southernmost mount of Jerusalem, rising about twenty-five hundred feet above the Mediterranean, but Scripture emphasizes Mount Zion more as a Spiritual concept and less as a physical place. Mount Zion is most importantly understood as the people of God.
 
-<blockquote>Psalm 48:2&mdash;Beautiful for situation, the joy of the whole earth, is mount Zion, on the sides of the north, the city of the great King. 12 Walk about Zion, and go round about her: tell the towers thereof.  13 Mark ye well her bulwarks, consider her palaces; that ye may tell it to the generation following. 14 For this God is our God for ever and ever: he will be our guide even unto death.</blockquote>
+<blockquote>Psalm 48:2&mdash;Beautiful for situation, the joy of the whole earth, is mount Zion, on the sides of the north, the city of the great King. 12 Walk about Zion, and go round about her: tell the towers thereof. 13 Mark ye well her bulwarks, consider her palaces; that ye may tell it to the generation following. 14 For this God is our God for ever and ever: he will be our guide even unto death.</blockquote>
 
 ##The 144,000 (vs. 1-2)
 

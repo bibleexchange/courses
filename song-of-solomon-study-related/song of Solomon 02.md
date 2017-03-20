@@ -20,7 +20,7 @@ The main focal point of this book is Christ and His Bride.
 
 •	This lady that Solomon tries to seduce will not let him, and she will not even look upon him. She will not be seduced by his popularity, by his position or by his prosperity.
 
-“She has a single eye to one little shepherd boy that is out on the hillside, and she loves him beyond anything that Solomon can offer to her.”
+&quot;She has a single eye to one little shepherd boy that is out on the hillside, and she loves him beyond anything that Solomon can offer to her.&quot;
 
 
 **Song of Solomon 1:7**
@@ -40,7 +40,7 @@ The main focal point of this book is Christ and His Bride.
 **I Kings 1:1-4** 
  	
 
-> Now king David was old and stricken in years; and they covered him with clothes, but he gat no heat. {stricken...: Heb. entered into days}
+> Now king David was old and stricken in years; and they covered him with clothes, but he gat no heat. {stricken&hellip;: Heb. entered into days}
  	Wherefore his servants said unto him, Let there be sought for my lord the king a young virgin: and let her stand before the king, and let her cherish him, and let her lie in thy bosom, that my lord the king may get heat.
 So they sought for a fair damsel throughout all the coasts of Israel, and found Abishag a Shunammite, and brought her to the king.
 And the damsel was very fair, and cherished the king, and ministered to him: but the king knew her not.
@@ -113,15 +113,15 @@ Solomon was a very wealthy king.
 
 **Yet all the material wealth does not appeal to the young maiden**
 
- Solomon as the king reigning on the throne with all of his riches and finery of life **in the background** of the story speaks of the world and all it’s riches making it’s appeal for the soul, drawing, attracting and seducing.
+ Solomon as the king reigning on the throne with all of his riches and finery of life **in the background** of the story speaks of the world and all it&apos;s riches making it&apos;s appeal for the soul, drawing, attracting and seducing.
 The shepherd boy speaks of the One that is the Shepherd of the soul. 
 
 **Only in Jesus can we be totally satisfied**. She has a satisfied dissatisfied feeling. She had just enough to want more. She has been near him but not near enough to satisfy her
 
 **HEAVENLY THINGS**
-In this study we are not speaking of earthly things, but of Heavenly things—of Christ and His Bride.
+In this study we are not speaking of earthly things, but of Heavenly things&mdash;of Christ and His Bride.
 
-The king’s position in the spiritual aspect is used in relationship to the Bridegroom throughout the Song.
+The king&apos;s position in the spiritual aspect is used in relationship to the Bridegroom throughout the Song.
 
 #Christ and His Bride
 
@@ -134,11 +134,11 @@ The king’s position in the spiritual aspect is used in relationship to the Bri
 
 > And he spake three thousand proverbs: and his songs were **a thousand and five**
 
-•	Out the thousand and five we have but five. All the things that the LORD has wanted us to have have been preserved in the Bible. There is nothing lost that He wanted us to have, nor is there anything in the Bible that He didn’t want us to have.
+•	Out the thousand and five we have but five. All the things that the LORD has wanted us to have have been preserved in the Bible. There is nothing lost that He wanted us to have, nor is there anything in the Bible that He didn&apos;t want us to have.
 
-###  The Author of the Song
+### The Author of the Song
 
-“The Song of Songs which is Solomon’s”
+&quot;The Song of Songs which is Solomon&apos;s&quot;
 
 1.	The Heavenly Solomon 
 The earthly Solomon is the writer but not the author.
@@ -215,12 +215,12 @@ and it cannot and will not be broken.
 
 •	We are talking about the One that has authored this book rather than the writer.
 
-•	The Song of songs by the Heavenly Solomon expressing His feeling toward the little maiden and the expressions of that maiden’s feelings toward Him.
+•	The Song of songs by the Heavenly Solomon expressing His feeling toward the little maiden and the expressions of that maiden&apos;s feelings toward Him.
 
 •	The intent of this song reaches beyond the human comprehension. It is not vulgar, but is beautiful
 
-###  The Greatest of Songs
-“The Song of Song’s which is Solomon’s”
+### The Greatest of Songs
+&quot;The Song of Song&apos;s which is Solomon&apos;s&quot;
 
 **Revelation 17:14**
 
@@ -232,7 +232,7 @@ and it cannot and will not be broken.
 
 > And after the second veil, the tabernacle which is called the Holiest of all;
 
-**Nehemiah  9:6** 
+**Nehemiah 9:6** 
 
 
 > Thou, even thou, art LORD alone; thou hast made heaven, the heaven of heavens, with all their host, the earth, and all things that are therein, the seas, and all that is therein, and thou preservest them all; and the host of heaven worshippeth thee.
@@ -245,21 +245,21 @@ and it cannot and will not be broken.
 
 
 *THIRD HEAVEN
-   EXPLAINED
+ EXPLAINED
 
 FIRST HEAVEN
 •	The Atmosphere is called Heaven.
 SECOND HEAVEN
 •	The Outerspace is called the Heavens.
 THIRD HEAVEN
-•	God’s throne is called Heaven of heavens.
+•	God&apos;s throne is called Heaven of heavens.
 
 As there is a place above all other places, 
 this is a song that is above all other songs.
 
 **This song is not just an expression of human feeling, but is the expression of the Eternal Son in relationship to those who love Him and He is calling them to Himself**.
 
-###  The Ineffable Song
+### The Ineffable Song
 
 
 
@@ -274,11 +274,11 @@ The carnal mind cannot understand it.
 ** II Timothy 3:16**
 
 
-> All scripture is given by inspiration of God, and is profitable for doctrine, for  reproof, for correction, for instruction in righteousness:
+> All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:
 
 2.	Unspeakable Song
 
-“Joy unspeakable and full of glory.” [song]
+&quot;Joy unspeakable and full of glory.&quot; [song]
 
 
 **I Kings 10:7** 
@@ -288,7 +288,7 @@ The carnal mind cannot understand it.
 
 > That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus.
 
-###  The Pre-eminent Song
+### The Pre-eminent Song
 
 **Isaiah 6:1**
 
@@ -299,20 +299,20 @@ The carnal mind cannot understand it.
 
 
 > And he is the head of the body, the church: who is the beginning, the firstborn from the dead; that in all things he might have the preeminence.
-   
+ 
 
 ##A Song of Love 
 
 This is a Love Song of Christ and His Bride 
 
-Divine   -        The Bridegroom is Jesus and He is expressing Himself.
+Divine - The Bridegroom is Jesus and He is expressing Himself.
 
-Maiden -        The Bride is in love with Jesus and His Word and she responds with true expressions.
+Maiden - The Bride is in love with Jesus and His Word and she responds with true expressions.
 
-###  A Love Song--(deep expression- true love-real love)
+### A Love Song--(deep expression- true love-real love)
 The words of the Bridegroom are revealed by the Spirit.
 
-2.  The response of the young maiden.
+2. The response of the young maiden.
 
 
 
@@ -320,40 +320,40 @@ The words of the Bridegroom are revealed by the Spirit.
 	a.	Let Him Kiss me
  
 
-     “Let him kiss me with the kisses of his mouth:”
+ &quot;Let him kiss me with the kisses of his mouth:&quot;
 The Bride never mentions the name of the Bridegroom but describes Him as 
 		O thou whom my soul loveth
-			 Her Beloved  and the King                                
+			 Her Beloved and the King 
 
-                         1).  Let Him
-                          She has a singleness of eye
- kiss-  The seal of a Close Relationship  single eye- can’t see any one else
+ 1). Let Him
+ She has a singleness of eye
+ kiss- The seal of a Close Relationship single eye- can&apos;t see any one else
 
-         	True Love has a single eye- she is totally separated from the world
+ 	True Love has a single eye- she is totally separated from the world
 
- Vs.2 “ Let him”
+ Vs.2 &quot; Let him&quot;
 
-              1:2 “for thy love”
-              1:7 “Whom my soul loveth” embraced by only Him
-              She has one love and there is no other that has her attention.  
-              She is totally committed to Him.
+ 1:2 &quot;for thy love&quot;
+ 1:7 &quot;Whom my soul loveth&quot; embraced by only Him
+ She has one love and there is no other that has her attention. 
+ She is totally committed to Him.
 
-     Note:  He will not embrace you while you embrace the world.
+ Note: He will not embrace you while you embrace the world.
 God is a jealous God and He wants you for Himself.
 
 Talk about the one you love 
 God is looking for an expression from her that He is it.
 The first-The last-and He is the only one.
 
-               b.  Let Him kiss me
-                           her lover is absent and she has an inner longing for Him
+ b. Let Him kiss me
+ her lover is absent and she has an inner longing for Him
 
  The great love of the maiden and the expression of her desire.
 
-                     The cry of the soul:
-                         Oh to be in His presence                                 
-                             To be near Him
-                                 To feel His embrace in your soul
+ The cry of the soul:
+ Oh to be in His presence 
+ To be near Him
+ To feel His embrace in your soul
 Though Jesus is absent from us yet He is near at hand
 
 Ps. 110:1; Acts 2:33; 7:55-56; Eph. 1:20; Col.3:1
@@ -378,23 +378,23 @@ Hebrews 10
 
 > Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God. 
 
-The touch of  His presence totally satisfies our needs.
-          Burdens?                    Trial?
-          Pressure?                    Torment?
-          Problems?
+The touch of His presence totally satisfies our needs.
+ Burdens? Trial?
+ Pressure? Torment?
+ Problems?
 He kisses away all our troubles and our problems.
 Get closer to Him.
 
-         3.  The kisses of His mouth
-                    a. Let Him kiss me
-                          The love, in the song of her lover, expressed to her, in the fact that she so desired His kisses.
+ 3. The kisses of His mouth
+ a. Let Him kiss me
+ The love, in the song of her lover, expressed to her, in the fact that she so desired His kisses.
 **Psalms 2:12** 
 
 > Kiss the Son, lest he be angry, and ye perish from the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him.
 
  Do you know what the kisses mean in the bible?
 
-        				1) The kiss of Reconciliation  
+ 				1) The kiss of Reconciliation 
 Those that were separated from their family setting, when they came back they received a kiss and restores us into fellowship.
 
 **2 Samuel 14:33** 
@@ -404,20 +404,20 @@ Those that were separated from their family setting, when they came back they re
 **Lu 15:20** 
 
 > And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him. 
-Lu 15:24 For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry.                      
+Lu 15:24 For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry. 
 
-                       2) Kiss of Acceptance 
+ 2) Kiss of Acceptance 
 
 He accepts us as we accept Him.
-                    
-        			   3)  Kiss of an Expression of Real Love.
+ 
+ 			 3) Kiss of an Expression of Real Love.
 The Spirit of God touching our lives, the Graces of God being made manifest in our hearts.
 
-					b.	Song 1:2 ¶ Let him kiss me with the kisses of his mouth:
+					b.	Song 1:2 Let him kiss me with the kisses of his mouth:
 The expression of real love, real intimate feelings.
 Living and moving with Him in the Spirit.- a realm most do not understand.
 
-                         1.) Demands a close relationship to Him.  
+ 1.) Demands a close relationship to Him. 
 To receive the kisses of the Lord you have got to be close.
 Nothing demands our attention as much as Jesus.
 
@@ -426,17 +426,17 @@ Re 2:4 Nevertheless I have somewhat against thee, because thou hast left thy fir
 
 An expression among foreigners ---to kiss their own hand.
 
-IT’S NOT THE BRIDE IT IS THE BRIDEGROOM
+IT&apos;s NOT THE BRIDE IT IS THE BRIDEGROOM
 
-###  A Song of Deep Love
+### A Song of Deep Love
 
-**Song 1:2**  
+**Song 1:2** 
 
 > Let him kiss me with the kisses of his mouth: --- for thy love is better than wine.
 
 
-               1. The Tokens of His love --- better than wine
- The Wine  is a Type of prosperity and of all desirable things
+ 1. The Tokens of His love --- better than wine
+ The Wine is a Type of prosperity and of all desirable things
 
 Love is not just in word it is in deed.
  
@@ -471,10 +471,10 @@ And on my servants and on my handmaidens I will pour out in those days of my Spi
 > And be not drunk with wine, wherein is excess; but be filled with the Spirit;
 
 The Love of the Saviour warms strengthens and comforts you.
-					a. His love brings Joy     
-       His love cheers us.
-        His love strengthens us for coming trials and as His Bride.
-         His love excels all  Joy.
+					a. His love brings Joy 
+ His love cheers us.
+ His love strengthens us for coming trials and as His Bride.
+ His love excels all Joy.
 
  **Ne 8:10** 
 
@@ -482,7 +482,7 @@ The Love of the Saviour warms strengthens and comforts you.
 
 If you're going to be in the bride you will have to be embraced by Jesus, It will take all of His Love in you, for you to make it or your strength will run out.
 
-					b.  His love brings Pleasure	
+					b. His love brings Pleasure	
 **Ps 16:11** 
 
 > Thou wilt shew me the path of life: in thy presence is fulness of joy; at thy right hand there are pleasures for evermore.
@@ -515,34 +515,34 @@ Jesus answered and said unto him, If a man love me, he will keep my words: and m
 
 
 THIS IS NOT A NATURAL EXPERIENCE
-A TIME IN THE SPIRIT WHERE FOOD  LOOSES IT’S ATTRACTION AND TIME IS LOST.
+A TIME IN THE SPIRIT WHERE FOOD LOOSES IT&apos;s ATTRACTION AND TIME IS LOST.
 
 The Bride is calling out to Him, but He is calling out to her. She is not where she should be, and He is drawing and calling her. He is making overtures to her. Let us get our cup filled not with wine, but with His love.
 
 **Matthew 5:6**	 
 
-> They that hunger and thirst… [a craving in our heart]
+> They that hunger and thirst&hellip; [a craving in our heart]
 
 **Psalms 42:1**
 
 
 > As the hart panteth after the water brooks, so panteth my soul after thee, O God. 
 
-The Bride is going to thirst after Him. She is not going to thirst after all the things He could give, but **Him**—**His love**, His presence—are better than wine. 
+The Bride is going to thirst after Him. She is not going to thirst after all the things He could give, but **Him**&mdash;**His love**, His presence&mdash;are better than wine. 
 
 God wants to manifest Himself in us and through us in a measure that this old world has never seen before.
 
 How much of His presence do you have?
 
  
-If you have enough to be satisfied than you do not have enough—
+If you have enough to be satisfied than you do not have enough&mdash;
 
 WE NEED MORE.
 
-Is all that we have a ‘church affair’?
+Is all that we have a &apos;church affair&apos;?
 
 Are we only satisfying the natural and glorifying the flesh and not glorifying God?
 
-                                     DRAW NEAR TO HIM    
+ DRAW NEAR TO HIM 
 
 Let Him develop His love in our hearts so that we can really love Him the way we ought to love Him.

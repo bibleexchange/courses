@@ -12,7 +12,7 @@
 
 ### Israel's Rejection is not Universal, vs. 1-10
 
-> Romans 11:1  I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin.
+> Romans 11:1 I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin.
  2 God hath not cast away his people which he foreknew. Wot ye not what the scripture saith of Elias? how he maketh intercession to God against Israel, saying,
  3 Lord, they have killed thy prophets, and digged down thine altars; and I am left alone, and they seek my life.
  4 But what saith the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to the image of Baal.
@@ -33,11 +33,11 @@
 
 > Ex 4:8 And it shall come to pass, if they will not believe thee, neither hearken to the voice of the first sign, that they will believe the voice of the latter sign. Ex 4:9 And it shall come to pass, if they will not believe also these two signs, neither hearken unto thy voice, that thou shalt take of the water of the river, and pour it upon the dry land: and the water which thou takest out of the river shall become blood upon the dry land. 
 
-> Mr 9:23  Jesus said unto him, If thou canst believe, all things are possible to him that believeth.
+> Mr 9:23 Jesus said unto him, If thou canst believe, all things are possible to him that believeth.
 <!-- -->
->  Joh 3:12 If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you of heavenly things?
+> Joh 3:12 If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you of heavenly things?
 <!-- -->
->  Joh 5:47 But if ye believe not his writings, how shall ye believe my words?
+> Joh 5:47 But if ye believe not his writings, how shall ye believe my words?
 <!-- -->
 > Joh 8:24 I said therefore unto you, that ye shall die in your sins: for if ye believe not that I am he, ye shall die in your sins.
 <!-- -->
@@ -71,20 +71,20 @@
 
 Christ as the head of the church (Eph. 1:22) and his Church?? chosen in Him.
 
-1586.  eklegomai  eklegomai,  ek-leg'-om-ahee 
+1586. eklegomai eklegomai, ek-leg'-om-ahee 
 middle voice from 1537 and 3004 (in its primary sense); to select:--make choice, choose (out), chosen. 
 
 1586 found in 19 verses. 
 
 > Mark 13:20&mdash;&hellip;the elect's sake <eklektos>, whom <hos> he hath chosen <eklegomai>, he hath shortened <koloboo> the days <hemera>&hellip;
 
-##  Chosen for Service
+## Chosen for Service
 
 > Luke 6:13 And when it was day, he called unto him his disciples: and of them he chose twelve, whom also he named apostles;
 
 > John 6:70 Jesus answered them, Have not I chosen you twelve, and one of you is a devil?
 
-> John 13:18  I speak not of you all: I know whom I have chosen: but that the scripture may be fulfilled, He that eateth bread with me hath lifted up his heel against me.
+> John 13:18 I speak not of you all: I know whom I have chosen: but that the scripture may be fulfilled, He that eateth bread with me hath lifted up his heel against me.
 
 > Ac 1:2 Until the day in which he was taken up, after that he through the Holy Ghost had given commandments unto the apostles whom he had chosen:
 
@@ -94,7 +94,7 @@ middle voice from 1537 and 3004 (in its primary sense); to select:--make choice,
 
 >Ac 15:7 And when there had been much disputing, Peter rose up, and said unto them, Men and brethren, ye know how that a good while ago God made choice among us, that the Gentiles by my mouth should hear the word of the gospel, and believe.
 
-> Ac 15:22  Then pleased it the apostles and elders, with the whole church, to send chosen men of their own company to Antioch with Paul and Barnabas; namely, Judas surnamed Barsabas, and Silas, chief men among the brethren:
+> Ac 15:22 Then pleased it the apostles and elders, with the whole church, to send chosen men of their own company to Antioch with Paul and Barnabas; namely, Judas surnamed Barsabas, and Silas, chief men among the brethren:
 
 <!-- -->
 
@@ -126,13 +126,13 @@ Heb 10:14 For by one offering he hath perfected for ever them that are sanctifie
 
 ## Scriptures
 
-> Ephesians 1:1&mdash;...to the saints which are at Ephesus, and to the faithful in Christ Jesus: ...  3 ... 4 According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love: 5 Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will, 6 To the praise of the glory of his grace, wherein he hath made us accepted in the beloved.
- 7 ...  8 ...  9 ... 10 That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him: 11 In whom also we have obtained an inheritance, being predestinated according to the purpose of him who worketh all things after the counsel of his own will:
- 12 ...  13 ... after that ye believed, ye were sealed with that holy Spirit of promise, 14 Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.
+> Ephesians 1:1&mdash;&hellip;to the saints which are at Ephesus, and to the faithful in Christ Jesus: &hellip; 3 &hellip; 4 According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love: 5 Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will, 6 To the praise of the glory of his grace, wherein he hath made us accepted in the beloved.
+ 7 &hellip; 8 &hellip; 9 &hellip; 10 That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him: 11 In whom also we have obtained an inheritance, being predestinated according to the purpose of him who worketh all things after the counsel of his own will:
+ 12 &hellip; 13 &hellip; after that ye believed, ye were sealed with that holy Spirit of promise, 14 Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.
 
 <!-- -->
 
->  Matthew 22:14&mdash;For many are called, but few are chosen.
+> Matthew 22:14&mdash;For many are called, but few are chosen.
  
 <!-- -->
 
@@ -173,8 +173,8 @@ Can Jesus fail to do the Father's will?
 
 - God's Mercy
 
->  Ps 13:5 But I have trusted in thy mercy; my heart shall rejoice in thy salvation.
+> Ps 13:5 But I have trusted in thy mercy; my heart shall rejoice in thy salvation.
 <!-- -->
->  Ps 89:2 For I have said, Mercy shall be built up for ever: thy faithfulness shalt thou establish in the very heavens.
+> Ps 89:2 For I have said, Mercy shall be built up for ever: thy faithfulness shalt thou establish in the very heavens.
 <!-- -->
->   Jas 5:11 Behold, we count them happy which endure. Ye have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy.
+> Jas 5:11 Behold, we count them happy which endure. Ye have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy.

@@ -1,9 +1,9 @@
 # Conclusion to the Study of Romans
-Romans chapter sixteen deals with Paul sending greetings to the Roman church.  Priscilia and Aquilia, who were Paul&apos;s helpers, are mentioned in this chapter.  Paul gives warnings in this chapter.  Satan is defeated and The Mystery of Christ is revealed, through the Word
+Romans chapter sixteen deals with Paul sending greetings to the Roman church. Priscilia and Aquilia, who were Paul&apos;s helpers, are mentioned in this chapter. Paul gives warnings in this chapter. Satan is defeated and The Mystery of Christ is revealed, through the Word
 ## Paul&apos;s Salutations &mdash; Ch. 16:1-16
-In this final chapter is shown to us the personal side of Paul. He speaks as one does to friends and not only a leader or pastor. This sixteenth chapter is often neglected by many.  It is by far the most extensive, intimate, and particular of all the words of loving greeting in Paul's marvelous letters.  No one can afford to miss this wonderful outpouring of the heart of our Apostle toward the Saints whom he so love - which means all the real Church of God.
+In this final chapter is shown to us the personal side of Paul. He speaks as one does to friends and not only a leader or pastor. This sixteenth chapter is often neglected by many. It is by far the most extensive, intimate, and particular of all the words of loving greeting in Paul's marvelous letters. No one can afford to miss this wonderful outpouring of the heart of our Apostle toward the Saints whom he so love - which means all the real Church of God.
 
-Each name listed in Pauls closing remarks undoubtedly has a story of courage, love and devotion to the Lord Jesus Christ.  Of the twenty-four to whom Paul sends special greetings, six are women, indicating the position and importance of women among the Christian group at Rome.
+Each name listed in Pauls closing remarks undoubtedly has a story of courage, love and devotion to the Lord Jesus Christ. Of the twenty-four to whom Paul sends special greetings, six are women, indicating the position and importance of women among the Christian group at Rome.
 
 Paul recommends a sister:
 Phebe, our sister, which is a servant of the church at Cenchrea
