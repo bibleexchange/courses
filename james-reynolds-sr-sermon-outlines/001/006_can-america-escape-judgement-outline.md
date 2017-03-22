@@ -1,5 +1,6 @@
 # Can America Escape Judgment?
-[by Rev. James R. Reynolds, Sr.]
+
+A sermon outline of Rev. James R. Reynolds, Sr.
 
 > Isaiah 1:4&mdash;Ah sinful nation, a people laden with iniquity, a seed of evildoers, children that are corrupters: they have forsaken the Lord, they have provoked the Holy One of Israel unto anger, they are gone away backward.
 

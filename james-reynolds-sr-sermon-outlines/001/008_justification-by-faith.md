@@ -1,4 +1,7 @@
 # Justification By Faith
+
+A sermon outline of Rev. James R. Reynolds, Sr.
+
 Romans 3:26-31
 
 	## I. Declares God&apos;s Righteousness&mdash;v.26

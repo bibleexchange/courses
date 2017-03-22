@@ -1,5 +1,5 @@
-
 # A Call for Unity &mdash; Ch. 15
+
 Believers are to receive one another, as Christ received the Gentiles - to God's glory. The first section of this chapter describes Christian relationships, with Christ as the perfect example of them. Paul's personal message to the Romans begins in Verse 14.
 
 Put Verse 1 & 2 into your own words. Compare with Chapter 14, Verse 19.

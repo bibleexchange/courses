@@ -1,5 +1,7 @@
 # Heaven Opened
 
+A sermon outline of Rev. James R. Reynolds, Sr.
+
 > Revelation 19:11&mdash;And **I saw heaven opened**, and behold a white horse; and he that sat upon him was called Faithful and True, and in righteousness he doth judge and make war.
 
 > Joh 1:51 And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see **heaven open**, and the angels of God ascending and descending upon the Son of man.

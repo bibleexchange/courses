@@ -1,4 +1,7 @@
 # The Pattern Church
+
+A sermon outline of Rev. James R. Reynolds, Sr.
+
 TEXT: Acts 2:41-47
 
 > **Acts 2:41** Then they that gladly received his word were baptized: and the same day there were added unto them about three thousand souls. 42 And they continued stedfastly in the apostles' doctrine and fellowship, and in breaking of bread, and in prayers. 43 And fear came upon every soul: and many wonders and signs were done by the apostles. 44 And all that believed were together, and had all things common; 45 And sold their possessions and goods, and parted them to all men, as every man had need. 46 And they, continuing daily with one accord in the temple, and breaking bread from house to house, did eat their meat with gladness and singleness of heart, 47 Praising God, and having favour with all the people. And the Lord added to the church daily such as should be saved.
@@ -48,7 +51,7 @@ Acts 8:3; 10:22; 12:12; 16:15; 20:20; 21:8; 28:30-31
 
 #### In the Streets
 
-> Luke 14:21 So that servant came, and shewed his lord these things. Then the master of the house being angry said to his servant, Go out quickly into the streets and lanes of the city, and bring in hither the poor, and the maimed, and the halt, and the blind. 
+> Luke 14:21 So that servant came, and shewed his lord these things. Then the master of the house being angry said to his servant, Go out quickly into the streets and lanes of the city, and bring in hither the poor, and the maimed, and the halt, and the blind.
 
 ## Reverence for Truth
 
