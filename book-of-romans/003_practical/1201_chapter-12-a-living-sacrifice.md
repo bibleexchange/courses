@@ -96,7 +96,6 @@ We must present ourselves ALIVE to God!
 
 ### Reasonable Service
 
-
 **GOD HAS GIVEN SO MUCH TO HIS PEOPLE**: Grace Given, Dealt to every man the measure of faith, made One Body in Christ, Gifts, Prophecy, rewards according to faith, Ministry, Teaching, Exhorting, etc.
 
 **GOD&apos;s PEOPLE ARE RESPONSIBLE TO ACT ACCORDINGLY**: Think Soberly, Giving with Simplicity, Ruling with Diligence, Show mercy with Cheerfulness, Let Love be without Dissimulation, Abhor that which is evil, Cleave to that which is good, Kindly Affectioned, Brotherly Love, In Honor Preferring one Another, not Slothful in Business, Fervent in Spirit, Serving the Lord, Rejoicing in hope, Patient in Tribulation, Continuing Instant in Prayer, Distributing to the necessity of Saints, Given to Hospitality, Bless them which Persecute You, bless and Curse Not, Rejoice with them that do rejoice, and weep with them that weep, Be of the same mind one toward another, etc.
@@ -112,11 +111,104 @@ We must present ourselves ALIVE to God!
 
 > 2 And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.
 
-### What becomes the motivating center of a Christians life? 
+### Being not conformed to the world:
 
-THE WILL OF GOD.
+&quot;conformed&quot; [suschematizo] to fashion alike; to conform to the same pattern; like a stamped image
 
-Renewing of your mind. The whole "mind" must become the object of the Spirit's renewing power. The entire mind must come under the spirits control.
+&quot;this world&quot; : this age (&quot;aion&quot; [GREEK] &mdash; a period of time)
+
+Marked by spiritual or moral characteristics.
+
+#### 1. The Believer and his Lifestyle is to be Remarkably Different than the World
+
+- **In Doctrine and Religion**
+
+For the Believer, doctrine and religion are matters of God's written will (the Scriptures) and not matters of opinion and personal preference. 
+
+> 1 Corinthians 2:12&ndash;13 &mdash; 12 Now we have received, not the spirit of the world, but the spirit which is of God; that we might know the things that are freely given to us of God. 13 Which things also we speak, not in the words which man’s wisdom teacheth, but which the Holy Ghost teacheth; comparing spiritual things with spiritual.
+
+<!-- -->
+
+> 1 Timothy 6:3-5 &mdash; 3 If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness; 4 He is proud, knowing nothing, but doting about questions and strifes of words, whereof cometh envy, strife, railings, evil surmisings, 5 Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw thyself.
+
+<!-- -->
+
+> John 17:17-21&mdash; 17 Sanctify them through thy truth: thy word is truth. 18  As thou hast sent me into the world, even so have I also sent them into the world. 19  And for their sakes I sanctify myself, that they also might be sanctified through the truth. 20  Neither pray I for these alone, but for them also which shall believe on me through their word; 21  That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me. 
+
+- **In Lifestyle**
+
+The Believer has God-given direction on Marriage (union and divorce), family relationships, child-raising, and even the selection of friends.
+
+> Ephesians 6:1-9&mdash;  1 Children, obey your parents in the Lord: for this is right. 2 Honour thy father and mother; (which is the first commandment with promise;) 3 That it may be well with thee, and thou mayest live long on the earth. 4 And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord. 5 Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ;  6 Not with eyeservice, as menpleasers; but as the servants of Christ, doing the will of God from the heart; 7 With good will doing service, as to the Lord, and not to men: 8 Knowing that whatsoever good thing any man doeth, the same shall he receive of the Lord, whether he be bond or free. 9 And, ye masters, do the same things unto them, forbearing threatening: knowing that your Master also is in heaven; neither is there respect of persons with him.
+
+<!-- -->
+
+> 1 Coritnhians 15:33-34&mdash;Be not deceived: evil communications corrupt good manners. 34 Awake to righteousness, and sin not; for some have not the knowledge of God: I speak this to your shame.
+
+- **In Entertainment**
+
+1. Will this activity violate my conscience?
+
+>  Romans 14:22-23&mdash; Hast thou faith? have it to thyself before God. Happy is he that condemneth not himself in that thing which he alloweth.  23 And he that doubteth is damned if he eat, because he eateth not of faith: for whatsoever is not of faith is sin. 
+
+2. Will my doing this activity cause weaker Christians to lose their faith or will it set a bad example of Christian behavior for others? (1 Corinthians 10:23-33)
+
+> 1 Corinthians 10:32-33 &mdash;32 Give none offence, neither to the Jews, nor to the Gentiles, nor to the church of God: 33 Even as I please all men in all things, not seeking mine own profit, but the profit of many, that they may be saved. 
+
+3. Will this activity place me under evil influences?
+
+> 1 Samuel 28:7&mdash;Then said Saul unto his servants, Seek me a woman that hath a familiar spirit, that I may go to her, and enquire of her. And his servants said to him, Behold, there is a woman that hath a familiar spirit at Endor.
+
+<!-- -->
+
+>  1 Corinthians 6:19-20&mdash;What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own? 20 For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God’s. 
+
+- **In Civil Matters**
+
+The Christian must be obedient to civil authority although others might take their obligation to authority lightly. 
+
+> Mark 12:17&mdash;And Jesus answering said unto them, Render to Caesar the things that are Caesar's, and to God the things that are God's. And they marvelled at him.
+<!-- -->
+> Romans 13:1&mdash;Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God
+
+- **Materialism**
+
+&quot;Materialism is the preoccupation with material things rather than intellectual or spiritual things.&quot;
+
+> 1 John 2:15&mdash; Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him.
+
+<!-- -->
+
+> Matthew 19:21&mdash;Jesus said unto him, If thou wilt be perfect, go and sell that thou hast, and give to the poor, and thou shalt have treasure in heaven: and come and follow me. 
+
+Materialism is not necessarily having things or even just wanting nice things, bug it is an obesession with the desire for and care of stuff&mdash; it is allowing things to have me. Beware of the DECEITFULNESS of riches.
+
+> Mark 4:19&mdash;And the cares of this world, and the deceitfulness of riches, and the lusts of other things entering in, choke the word, and it becometh unfruitful. 
+
+
+#### 2. Which Image is Making its mark on us?
+
+- The world uses the principles of God to become successful for their own gain. We are to use the principles of God to become successful not for us but for Him and His kingdom.
+
+- Winning Favor or Winning souls for the kingdom? (Proverbs 11:30) 
+
+- How do we receive our ideas? As the World does or through Prayer? 
+
+- The measure of success
+
+Why do I want to be a successful Christian? Success is learning how to lead others to Christ. We are to pattern our lives after Christ. 
+
+### Be Transformed
+
+"transformed&quot; [metamorphoo] to transform ("metamorphose"):--change, transfigure, transform
+
+Contrasted with "conformed"/"suschematizo" (which is an outward, surface, shallow imposing and stamping which begins outward), "transform"/"metamorphoo" is a change that begins inward and ripples outward.
+
+> Matthew 17:1&ndash;2&mdash;And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart,2 And was transfigured before them: and his face did shine as the sun, and his raiment was white as the light. 
+<!-- -->
+> Matthew Henry's Commentary &mdash;The work of the Holy Ghost first begins in the understanding, and is carried on to the will, affections, and conversation, till there is a change of the whole man into the likeness of God, in knowledge, righteousness, and true holiness. Thus, to be godly, is to give up ourselves to God.
+
+What becomes the motivating center of a Christians life? THE WILL OF GOD.
 
 ### Real Salvation = Practical holiness
 
@@ -141,28 +233,36 @@ Successful Christians:
 15. They have skill &mdash; they are instant in season and out of season
 16. They give God the glory for they have accomplished
 17. They check their motives
-18. And then they &mdash; Start Again!!!
 
 ### Renewing of Your Mind
 
-The renewing of our mind happens through the Word of God. 2 Timothy 2:15; Psalm 119:105
+1. The Renewing of our Mind happens through the Word of God. 
 
-### Being not conformed to the world:
+> 2 Timothy 2:15&mdash;Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.
+<!-- -->
+> Psalm 119:9&mdash;Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word.
+<!-- -->
+> Psalm 119:105&mdash;Thy word is a lamp unto my feet, and a light unto my path. 
 
-> 10 But the Lord is the true God, he is the living God, and an everlasting king: at his wrath the earth shall tremble, and the nations shall not be able to abide his indignation. 11 Thus shall ye say unto them, The gods that have not made the heavens and the earth, even they shall perish from the earth, and from under these heavens.12 He hath made the earth by his power, he hath established the world by his wisdom, and hath stretched out the heavens by his discretion. 13 When he uttereth his voice, there is a multitude of waters in the heavens, and he causeth the vapours to ascend from the ends of the earth; he maketh lightnings with rain, and bringeth forth the wind out of his treasures.
+2. The Rewing of Our Mind is a Work of the Holy Spirit
 
-> John 1:9&mdash;That was the true Light, which lighteth every man that cometh into the world.
+The whole "mind" must be under the Spirit's renewing power. The entire mind must come under the spirits control.
 
-> Hebrews 9:14 How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?
+> Ephesians 5:17-20&mdash;17Wherefore be ye not unwise, but understanding what the will of the Lord is. 18 And be not drunk with wine, wherein is excess; but be filled with the Spirit; 19 Speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord; 20 Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ;
 
-The world uses the principles of God to become successful for their own gain. If we use the principles of God to become successful not for us but for Him and His kingdom; how much more of value is that. 
+3. The Renewed Mind is the Mind of Christ
 
-Winning souls for the kingdom, what a joy and privilege (Proverbs 11:30) 
+Not just a different mind or another mind, but the work of God in us produces the mind of Christ.
 
-Receive our ideas through prayer &mdash; what does that have to do with Romans? 
-
-Why do I want to be a successful Christian? Success is learning how to lead others to Christ. We are to pattern our lives after Christ. 
-
+> Philippians 2:5&mdash;Let this mind be in you, which was also in Christ Jesus:
+<!-- -->
+> 1 Corinthians 2:14-16&mdash;14But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned. 15 But he that is spiritual judgeth all things, yet he himself is judged of no man. 16 For who hath known the mind of the Lord, that he may instruct him? But we have the mind of Christ. 
+<!-- -->
+> Luke 19:10&mdash;For the Son of man is come to seek and to save that which was lost. 
+<!-- -->
+>2 Timothy 1:7&mdash;For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.
+<!-- -->
+>John 8:50&mdash;And I seek not mine own glory: there is one that seeketh and judgeth.
 
 ## Verses 3-8
 
@@ -178,7 +278,6 @@ What is the one possessing a gift supposed to do with it? The various gifts are 
 FAITH - For the receiving and using of these gifts, there is the necessity of faith for operation.
 
 The possession of a gift is of no use unless it is put to use. It is the whole-hearted exercise of the gifts, when it is given, that is urged by the apostles. Gifts are a directly given of the Spirit.
-
 
 ## Verse 9
 
