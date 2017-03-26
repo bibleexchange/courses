@@ -185,7 +185,6 @@ Materialism is not necessarily having things or even just wanting nice things, b
 
 > Mark 4:19&mdash;And the cares of this world, and the deceitfulness of riches, and the lusts of other things entering in, choke the word, and it becometh unfruitful. 
 
-
 #### 2. Which Image is Making its mark on us?
 
 - The world uses the principles of God to become successful for their own gain. We are to use the principles of God to become successful not for us but for Him and His kingdom.
@@ -207,32 +206,6 @@ Contrasted with "conformed"/"suschematizo" (which is an outward, surface, shallo
 > Matthew 17:1&ndash;2&mdash;And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart,2 And was transfigured before them: and his face did shine as the sun, and his raiment was white as the light. 
 <!-- -->
 > Matthew Henry's Commentary &mdash;The work of the Holy Ghost first begins in the understanding, and is carried on to the will, affections, and conversation, till there is a change of the whole man into the likeness of God, in knowledge, righteousness, and true holiness. Thus, to be godly, is to give up ourselves to God.
-
-What becomes the motivating center of a Christians life? THE WILL OF GOD.
-
-### Real Salvation = Practical holiness
-
-Wearing His righteousness and thus daily purifying ourselves 
-
-Successful Christians:
-
-1. They have a sound foundation (which is the Word of God)
-2. They have a sound work habits
-3. They esteem others before themselves
-4. They keep their self-respect by being loyal to God and His holy word
-5. They do things God&apos;s way, understanding that it always the best way
-6. They are very cooperative (finding what God wants in any situation and doing it)
-7. They listen to others (and in return they are heard)
-8. They are enthusiastic about every endeavor that they are faced with
-9. They are a friend (and in return they have friends)
-10. They are sincere
-11. They set goals (both small and large goals)
-12. They use any failure as a stepping stone for success
-13. They set their mind (on things above, not on the things of this earth)
-14. They find a place to rest their mind (in fasting and praying)
-15. They have skill &mdash; they are instant in season and out of season
-16. They give God the glory for they have accomplished
-17. They check their motives
 
 ### Renewing of Your Mind
 
@@ -263,6 +236,34 @@ Not just a different mind or another mind, but the work of God in us produces th
 >2 Timothy 1:7&mdash;For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.
 <!-- -->
 >John 8:50&mdash;And I seek not mine own glory: there is one that seeketh and judgeth.
+
+### Will of God
+
+What becomes the motivating center of a Christians life? THE WILL OF GOD.
+
+Real Salvation = Practical holiness
+
+Wearing His righteousness and thus daily purifying ourselves 
+
+Successful Christians:
+
+1. They have a sound foundation (which is the Word of God)
+2. They have a sound work habits
+3. They esteem others before themselves
+4. They keep their self-respect by being loyal to God and His holy word
+5. They do things God&apos;s way, understanding that it always the best way
+6. They are very cooperative (finding what God wants in any situation and doing it)
+7. They listen to others (and in return they are heard)
+8. They are enthusiastic about every endeavor that they are faced with
+9. They are a friend (and in return they have friends)
+10. They are sincere
+11. They set goals (both small and large goals)
+12. They use any failure as a stepping stone for success
+13. They set their mind (on things above, not on the things of this earth)
+14. They find a place to rest their mind (in fasting and praying)
+15. They have skill &mdash; they are instant in season and out of season
+16. They give God the glory for they have accomplished
+17. They check their motives
 
 ## Verses 3-8
 
