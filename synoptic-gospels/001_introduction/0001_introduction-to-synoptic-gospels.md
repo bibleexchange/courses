@@ -4,7 +4,7 @@
 
 ### Synoptic
 
-Synoptic is a term for the gospels of Matthew, Mark and Luke which present a synopsis of the same series of events, whereas in John&#8217;s gospel the narrative and discourses are different.
+The Synoptic Gosples are those Gospels that are similar and in many instances the same. Synoptic is a term for the gospels of Matthew, Mark and Luke which present a synopsis of the same series of events, whereas in John&#8217;s gospel the narrative and discourses are different.
 
 ### Synopsis
 
@@ -18,6 +18,7 @@ The first three gospels give a synopsis of Christ&#8217;s life. The Synoptic Gos
 ## GOD&apos;S REVELATION (Four Key Words)
 
 We find in the Gospels, &#8220;Him of whom Moses in the law, and prophets, did write, Jesus.&#8221; (John 1:45), but we can find Him infinitely more beautiful in person than any prophet&#8217;s vision of Him. We must know Him for ourselves.
+
 The Gospels are a center point of the Bible &#8211; the prophets have said things that lead us to our Lord&#8217;s time on earth looking to the cross. The Epistles that follow proceed from it, looking back. Notice where the four Gospels are placed. They stand at the close of the Old Testament and at the opening of the New Testament, before the Epistles
 
 ### Preparation
@@ -25,6 +26,7 @@ The Gospels are a center point of the Bible &#8211; the prophets have said thing
 The OT making ready for the coming of the Messiah.
 
 ### Manifestation
+
 The four Gospels of Christ; enters into the world, ministers to the world, dies
 for the world, and rises out of the world.
 
