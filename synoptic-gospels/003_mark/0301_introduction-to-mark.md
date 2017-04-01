@@ -1,77 +1,67 @@
-# Introduction to Mark
+Mark
+====
 
-I.	The Author
+## The Author
 
-A.	Mark
+### Mark
 
-1.	There is _____ reference to its author, but most agree it was
-John Mark. 
+#### There is no reference to its author, but most agree it was John Mark.  
 
-a.	John is his _________ or ________ name.
+##### John is his Jewish or Hebrew name.
 
-b.	Mark is his _________ or ________ name.
+##### Mark is his Roman or Latin name.
 
-c.	He was the son of Mary and the ___________
-of Barnabas. 
+##### He was the son of Mary and the cousin of Barnabas.  
 
-(1)	Mary was a woman of money because she
-supposedly owned her home and kept
-slaves.
+Mary was a woman of money because she supposedly owned her home and kept slaves.
 
-2.	Mark was converted by _____________ who called him
-&quot;______ ___________&quot; in I Peter 5:13.
+#### Mark was converted by Peter who called him &quot;my son&quot; in I Peter 5:13
 
-3.	Mark accompanied ___________ and _______________
-to Antioch. 
+#### Mark accompanied Paul and Barnabas to Antioch.  
 
-a.	Some feel some trouble here because Mark left 
-( Acts 12:25, 13:5) but it was resolved because he 	was later with Paul at Rome (Col. 4:10) and Paul
-during his last Roman imprisonment, asks Timothy
-to come to him and to bring Mark also (II Tim. 4:11)
+##### Some feel some trouble here because Mark left  
 
-4.	Mark was probably written around _________ AD
+(Acts 12:25, 13:5)but it was resolved because he was later with Paul at Rome (Col. 4:10)  and Paul during his last Roman imprisonment, asks Timothy to come to him and to bring Mark also (II Tim. 4:11)
 
-II.	The Purpose
+#### Mark was probably written around 50 AD
 
-A.	We can see the purpose of the book in the key verse.
+## The Purpose
 
-1.	Mark ___________
+### We can see the purpose of the book in the key verse.
 
-B.	Mark presents a ___________________.
-III.	The People
+#### Mark 10:45
 
-A.	Mark is writing to the ________________.
+### Mark presents a servant.
 
-1.	Unlike Matthew, Mark was not trying to prove certain
-statements and prophecies concerning ____________ the
-Messiah.
+## The People
 
-2.	The _____________ were more concerned with 	___________ than _____________ so Mark&apos;s gospel is full of ____________.
+### Mark is writing to the Romans.
 
-3.	The _______________ were people of _____________
-rather than _________________.
+#### Unlike Matthew, Mark was not trying to prove certain statements and prophecies concerning Jesus the Messiah.
 
-4.	 Mark presents Christ as the mighty _______________
-rather than a profound thinker.
+#### The Romans were more concerned with deeds than words so Mark’s gospel is full of action.
 
-5.	 He presents Jesus as the man who conquers by ________.
+#### The Romans were people of action rather than thought.
 
-6.	So we have the __________ and ___________ record,
-with ____________ ________________ and much
-______________ and accomplishment.
-B.	Characteristics of a Roman
+#### Mark presents Christ as the mighty worker rather than a profound thinker.
 
-1.	The Roman was __________________ than the Jew.
+#### He presents Jesus as the man who conquers by doing.
 
-a.	His strong point was his strong __________ 	_________.
+#### So we have the vivid and rapid record, with little discourse and much movement and accomplishment.
 
-b.	His religion must be ______________.
+### Characteristics of a Roman
 
-c.	He would have no interest in tracing beliefs back into 	the __________.
-d.	Legal ___________________ and ______________ 	of prophecies would leave him cold and hard hearted.
+The Roman was different than the Jew.
 
-e.	 One writer said a Roman might say, &quot;I know nothing 	of your scriptures, and care nothing for your peculiar notions; but I would be glad to hear a plain story of 	the life this man Jesus lived. Tell me _________ ______ _________. Let me ________ Him just as He was.&quot;
+- His strong point was his strong common sense.
 
+- His religion must be practiced.
+
+- He would have no interest in tracing beliefs back into the past.
+
+- Legal geaneologies and fulfillment of prophecies would leave him cold and hard hearted.
+
+- One writer said a Roman might say, &quot;I know nothing of your scriptures, and care nothing for your peculiar notions; but I would be glad to hear a plain story of the life this man Jesus lived. Tell me what He did.  Let me see Him just as He was.&quot;
 
 ## Outline of Our Study of Mark
 

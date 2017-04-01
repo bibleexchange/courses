@@ -1,29 +1,24 @@
-C.	The Servant At Prayer
+# The Servant At Prayer
 
-1.	Mark ____________
+## Mark 1:35
 
-a.	Then they went on working.
+> Mark 1:35&mdash;And in the morning, rising up a great while before day, he went out, and departed into a solitary place, and there prayed.
 
-b.	If the Son of God needed to ________ before He
-undertook His work, how much more should we.
+- Then they went on working.
 
-c.	Some of the lack of success and _____________
-is because we fail at this point.
+- If the Son of God needed to pray before He undertook His work, how much more should we.
 
-2.	Mark ____________
+- Some of the lack of success and victory is because we fail at the point of prayer.
 
-a.	 He ________________ the 12
 
-b.	 That they might be ________ Him.
+## Mark 3:14, 15
 
-(1)	 He wants us _______ ________.
+> Mark 3:14&mdash;And he ordained twelve, that they should be with him, and that he might send them forth to preach,
 
-(2)	________________ with Him.
+### Have Communion with Christ &hellip;
 
-(3)	Make time to be in His _______________.
+He ordained the 12 That they might be with Him. He wants us with Him to have Communion with Him. We must make time to be in His presence and enjoy God
 
-(4)	__________ God
+###  &hellip; Then Go Forth and Preach
 
-c.	Then go ___________ and _____________.
-
-(1)	Mark 3:14,15
+>  Mark 3:15&mdash;And to have power to heal sicknesses, and to cast out devils: 

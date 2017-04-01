@@ -1,53 +1,37 @@
-B.	The Servant Working
+# The Servant Working
 
-1.	There is _____________, _____________ service of the
-servant recorded in this Gospel. 
+#### There is continuous, unbroken service of the servant recorded in this Gospel.  
 
-a. 	And He did this - And He said that
+###  And He did this - And He said that
 
-* He ____________ men, they were in darkness
+- He taught men, they were in darkness
+- He cheered men, they were without hope
+- He healed men, they were sick and suffering
+- He freed men, they were under the power of Satan
+- He cleansed men, they are sinful
 
-* He ____________ men, they were without hope
+#### He called His disciples.
 
-* He ____________ men, they were sick and suffering
-* He ____________ men, they were under the power of Satan
+He selected 4 fishermen to become 4 fishers of men. They were to turn all the practical knowledge and skill over for God's use.
 
-* He ____________ men, they are sinful
+> Mark 1:18 &mdash; And straightway they forsook their nets, and followed him.
 
-2.	He _________________ His disciples.
+Mark wrote the disciples &quot;straightway&quot; followed Christ. Too often we allow too much time between the call and our coming.
 
-a.	He selected 4 __________________ to become
+#### He worked with compassion.
 
-4 ___________ _____ ________.
+Mark tells us Jesus&hellip;
 
-b.	They were to turn all the practical ____________
+- &hellip;took the little children in His arms
 
-and ___________ over for ________ _______.
+- &hellip;was grieved
 
-c.	Mark _________
+- &hellip;sighed
 
-(1)	Straightway they forsook their nets, and
-followed Him.
+- &hellip;loved
 
-(2)	Too often too much time between the ______
-and our ____________.
+- &hellip;was angry
 
-3.	He worked with _____________________.
+- &hellip;was touched with the feelings of our infirmities.
 
-a.	Mark tells us Jesus&hellip;
-
-(1)	&hellip;took the little ______________ in His arms
-
-(2)	&hellip;was grieved
-
-(3)	&hellip;sighed
-
-(4)	&hellip;loved
-
-(5)	&hellip;was angry
-
-(6)	&hellip;was touched with the _____________
-of our infirmities.
-
-4.	This is a Gospel of ____________________.
- 
+#### This is a Gospel of compassion.

@@ -1,13 +1,13 @@
-A.	The Sonship of The Servant
+# The Sonship of The Servant
 
-1.	_________ by Mark
+## Stated by Mark
 
-a.	Mark 1:1
+> Mark 1:1&mdash;The beginning of the gospel of Jesus Christ, the Son of God;
 
-2.	_______________ by John
+## Supported by John
 
-a.	John 1:28
+> John 1:28&mdash;In the beginning was the Word, and the Word was with God, and the Word was God.
 
-3.	___________ by the Father
+## Settled by the Father
 
-a.	Mark 1:9-11
+> Mark 1:9-11&mdash;And it came to pass in those days, that Jesus came from Nazareth of Galilee, and was baptized of John in Jordan. 10  And straightway coming up out of the water, he saw the heavens opened, and the Spirit like a dove descending upon him: 11  And there came a voice from heaven, saying, Thou art my beloved Son, in whom I am well pleased.

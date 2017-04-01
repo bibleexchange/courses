@@ -1,29 +1,31 @@
+# Forgiving of Sins by the Servant
 
-D.	The Servant Forgives Sin
+## Mark 1:40
 
-1.	Mark 1:40
+Cleansed the leper
 
-a.	Cleansed the ___________
+> Mark 1:40&mdash;And there came a leper to him, beseeching him, and kneeling down to him, and saying unto him, If thou wilt, thou canst make me clean. 
 
-2.	Mark 2:1
+## Mark 2:1
 
-a.	News spread, even without the newspapers or
-radios.
+News spread, even without the newspapers or radios.
 
-3.	Mark 2:3,4
+> Mark 2:1&mdash;And again he entered into Capernaum after some days; and it was noised that he was in the house. 
 
-a.	They brought him who was sick of the palsy.
+## Mark 2:3,4
 
-b.	Sometimes we need others to help _______ us to 	Jesus.
-(1)	These friends knew where Jesus was.
+> Mark 2:3,4&mdash; And they come unto him, bringing one sick of the palsy, which was borne of four. 4  And when they could not come nigh unto him for the press, they uncovered the roof where he was: and when they had broken it up, they let down the bed wherein the sick of the palsy lay. 
 
-(2)	Choose your friends wisely.
+They brought him who was sick of the palsy. Sometimes we need others to help  bring us to  Jesus.
 
-(a)	Prov. 14:7
+These friends knew where Jesus was. Choose your friends wisely.
 
-4.	Mark 2:7
+> Proverbs 14:7&mdash;Go from the presence of a foolish man, when thou perceivest not in him the lips of knowledge.
 
-a.	Not only the healer of the body but the __________
-of the soul.
+## Mark 2:7
 
-b.	________ God can forgive sin.
+> Mark 2:7&mdash;Why doth this man thus speak blasphemies? who can forgive sins but God only?
+
+- Jesus is not only the healer of the body but the healer of the soul.
+
+- Only God can forgive sin.

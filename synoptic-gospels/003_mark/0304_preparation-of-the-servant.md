@@ -1,143 +1,117 @@
-## The Preparation of the Servant
+## Preparation of the Servant
 
-1.	Jesus
+### The Servant Prepared
 
-a.	 Prepared _______ years before entered into
-public ministry.
+#### Jesus
 
-2.	Life
+##### Prepared thirty years before entered into public ministry.
 
-a.	The plant sends it&apos;s _______ into the soil before
-it brings forth the flower and leaf for all to see.
+#### Life
 
-3.	Moses
-a.	________ years in the desert before he entered
-into his great work.
+##### The plant sends it’s roots into the soil before it brings forth the flower and leaf for all to see.
 
-4.	David
+#### Moses
 
-a.	___________ years old when made king.
+##### Fourty years in the desert before he entered into his great work.
 
-5.	John the Baptist
+#### David
 
-a.	_______ years before entered into ministry.
+##### Thirty years old when made king.
 
-6.	Getting ready for our life&apos;s work is of tremendous
-______________. Sometimes God uses much time
-in preparing us.
+#### John the Baptist
 
-B.	Preparation by John the Forerunner
+##### Thirty years before entered into ministry.
 
-1.	Mark begins with _________ the Baptist making ready
-for the coming of the Messiah.
+#### Getting ready for our life’s work is of tremendous importance. Sometimes God uses much time in preparing us.
 
-a.	 John&apos;s coming was in fulfillment of a Messianic
-prophesy 1:2
+### Preparation by John the Forerunner
 
-(1)	Malachi 3:1 Isaiah 40:3
+#### Mark begins with John the Baptist making ready for the coming of the Messiah.
 
-2.	God does not always choose the kind of men we would
-select.
+#####  John’s coming was in fulfillment of a Messianic prophesy 1:2
 
-a.	John the Baptist
+###### Malachi 3:1   Isaiah 40:3
 
-(1)	Clothed with ____________ ________
-and with a __________ of a skin about his
-loins.
+#### God does not always choose the kind of men we would select.
 
-(2)	His food __________ and wild _________.
+##### John the Baptist
 
-b.	God often picks the __________ things to confound 	the wise and the _________ things to confound the things that are mighty.
+###### Clothed with camel's hair and with a girdle of a skin about his loins.
 
-(1)	I Cor. 1:27-29
+###### His food locusts and wild honey.
 
-3.	No doubt some would have chosen the herald for Christ
-as one of ______ ________, university trained, a man
-of _______ ________________, eloquent and a success.
+##### God often picks the foolish things to confound the wise and the weak things to confound the things that are mighty.
+
+###### I Cor. 1:27-29
+
+#### No doubt some would have chosen the herald for Christ as one of high birth, university trained, a man of wide reputation, eloquent and a success.
+
 Not so with God!
 
-a.	John was of _____________ birth, _________ 	known, did not graduate from an accredited ___________, and was dressed like a 	_________ _________.
+##### John was of humble birth, little known, did not graduate from an accredited college, and was dressed like a desert hermit.
 
-4.	But, as they went before kings to repair the roads so John
-went before The King to prepare the hearts. His message
-as startling as his appearance.
+#### But, as they went before kings to repair the roads so John went before The King to prepare the hearts. His messag was startling as his appearance.
 
-a.	&quot;Prepare ye the way of the Lord, make His paths
-straight.&quot;
+##### “Prepare ye the way of the Lord, make His paths straight.”
 
-b.	A true revival is always a revival of ______________.
+##### A true revival is always a revival of righteousness.
 
-C.	Preparation by Baptism
+### Preparation by Baptism
 
-1.	John hesitated to _______________ Jesus.
+#### John hesitated to baptise Jesus.
 
-a.	Matt. 3:14 &quot;I have need to be _______________
-of Thee, and comest Thou to me?&quot;
+##### Matt. 3:14  “I have need to be baptized of Thee, and comest Thou to me?”
 
-2.	Jesus was __________________ with John&apos;s baptism in
-obedience to an appointed ordinance.
+#### Jesus was baptized with John’s baptism in obedience to an appointed ordinance.
 
-a.	Matt. 3:15 &quot;Thus it becometh us to __________
-all righteousness.&quot;
+##### Matt. 3:15  “Thus it becometh us to fulfill all righteousness.”
 
-b.	Christ was the ______________ of righteousness.
+##### Christ was the example of righteousness.
 
-D.	Preparation By The Holy Spirit
+### Preparation By The Holy Spirit
 
-1.	Mark __________
+#### Mark 1:10
 
-a.	In any service for God, we need the _______ ______
-to __________ and give us ___________.
+##### In any service for God, we need the Holy Ghost to prepare and give us power.
 
-2.	Acts 10:38
+#### Acts 10:38
 
+##### God appointed Jesus of Nazareth
 
-a.	God ________________ Jesus of Nazareth
+### Preparation By A Divine Call
 
-E.	Preparation By A Divine Call
+#### Mark 1:11
 
-1.	Mark __________
+##### “There came a voice from heaven.”
 
-a.	&quot;There came a ___________ from __________.&quot;
+#### Mark 9:7
 
-2.	Mark __________
+##### “This is my Beloved Son, hear him.”
 
-a.	&quot;This is my Beloved Son, _______ _______.&quot;
+### Preparation By Testing
 
-F.	Preparation By Testing
+#### Mark 1:12
 
-1.	Mark _____________
+##### “And immediately the spirit driveth him into the wilderness to be tempted of the devil.”
 
-a.	&quot;And immediately the spirit driveth him ______
-__________ ______________ to be tempted
-of the devil.&quot;
+###### Driveth = servant Mark 1:12
 
-(1)	Driveth = _____________ Mark 1:12
+###### Led up = king Matt. 4:1
 
-(2)	Led up = _____________ Matt. 4:1
+##### Out of the experience of the baptism comes the test.
 
-b.	Out of the experience of the baptism comes the test.
+##### It was a divine appointment, not an accident or evil fate. We would never develop without the trial.
 
-c.	It was a ___________ _________________,
-not an accident or evil fate. We would never develop
-without the trial.
+##### James 1:12
 
-d.	James 1:12
+###### “Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love Him.”
 
-(1)	&quot;Blessed is the man that _______________
-_______________: for when he is tried, he
-shall receive the crown of life, which the Lord
-hath promised to them that love Him.&quot;
+#### We do not need to run into temptation of our own accord.  
 
-3.	We do not need to run into ________________ of our
-own accord. 
+##### Jesus was led or driven by the spirit.
 
-a.	Jesus was ________ or __________ by the spirit.
+#### We must walk the path that is set before us.  If it is through a trial, we must pray “thy will be done”.
 
-4.	We must walk the path that is set before us. If it is through
-a trial, we must pray &quot;______ ________ _____ _______&quot;.
+#### I Cor. 10:13
 
-5.	I Cor. 10:13
-
-a.	&quot;But God is _____________, who will not suffer you
-to be tempted above that ye are able&hellip;&quot;
+##### “But God is faithful, who will not suffer you to be tempted above that ye are able...”
