@@ -284,6 +284,9 @@ The possession of a gift is of no use unless it is put to use. It is the whole-h
 
 > 9 Let love be without dissimulation. Abhor that which is evil; cleave to that which is good.
 
+
+dissimulation: concealment of one's thoughts, feelings, or character; pretense.
+
 ## Verse 10
 
 
