@@ -71,7 +71,6 @@ The possession of a gift is of no use unless it is put to use. It is the whole-h
 
 ## Verses 20-21
 
-
 > 20 Therefore if thine enemy hunger, feed him; if he thirst, give him drink: for in so doing thou shalt heap coals of fire on his head. 21 Be not overcome of evil, but overcome evil with good. 
 
 Romans 12:20 is an aggressive stance. It is not a defensive stance. 
