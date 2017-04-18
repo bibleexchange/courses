@@ -19,6 +19,10 @@ The possession of a gift is of no use unless it is put to use. It is the whole-h
 
 > 9 Let love be without dissimulation. Abhor that which is evil; cleave to that which is good.
 
+meaning of dissimulation: concealment of one's thoughts, feelings, or character; pretense.
+
+> 2 Corinthians 6:6
+
 ## Verse 10
 
 
@@ -93,4 +97,26 @@ What not said, is sometimes more important than what people do say.
 
 Being a Christian involves every area of a persons life. Mind and body are yielded to God in moral surrender as a spiritual offering. By his attitude and actions toward other Christians he is to demonstrate the fact that he is a fellow-member with them in the body of Christ. In his relationship with the sinner, he is to act in love and leave to God the avenging of evil.
 
+CROSS REFERENCES: 
 
+- v. 1: Ps 50:13-14; Ro 6:13,16,19; 1Co 6:13,20; 2Co 10:1; Heb 10:20; 1Pe 2:5
+v. 2. - Eph 1:18; 4:23; 5:10,17; Col 1:21-22; 3:10; 1Th 4:3; 1Pe 1:14; 1Jo 2:15
+ 3 - Pr 25:27; Ec 7:16; Ro 1:5; 11:20; 15:15; 1Co 3:10; 12:7,11; 15:10; Ga 2:9; Eph 3:2,7-8; 4:7
+ 4 - 1Co 12:12; Eph 4:16
+ 5-1Co 10:17; 12:20,27; Eph 1:23; 4:25
+ 6 -Ac 11:27; Ro 12:3; 1Co 12:4,10,28; 13:2; 14:1,6,29,31; 1Pe 4:10-11
+ 7 -Ac 13:1; Ga 6:6; Eph 4:11; 1Ti 5:17
+ 8 -Mt 6:1-3; Ac 15:32; 20:28; 1Co 14:3; 2Co 8:2; 9:7; 1Ti 5:17; Heb 13:7,24; 1Pe 5:2
+ 9 -Ps 34:14; 36:4; 97:10; Am 5:15; 1Ti 1:5; 1Pe 1:22
+ 10 -Php 2:3; Heb 13:1; 1Pe 1:22; 2:17; 3:8; 5:5; 2Pe 1:7
+ 11 - Proverbs 13:4 Proverbs 10:4 Galatians 6:9 1 Corinthians 15:58 Proverbs 12:24 2 Timothy 2:15 2 Peter 3:14 2 Peter 1:10 Ecclesiastes 9:10 Proverbs 11:27 James 1:12 
+ 12 -Lu 10:20; 18:1; 21:19; Ac 2:42; 12:5; Ro 5:2; 15:3; Eph 6:18; Php 3:1; 4:4; Col 4:2; 1Th 5:16-17; 1Ti 6:11; Heb 3:6; 10:36; 12:1; Jas 1:4; 5:7; 1Pe 2:19-20; 4:13
+ 13 -1Co 16:1; 2Co 9:1,12; 1Ti 3:2; Tit 1:8; Heb 6:10; 13:2,16; 1Pe 4:9; 1Jo 3:17
+ 14 -Mt 5:44; Lu 6:28; 23:34; Ac 7:60; 1Co 4:12; 1Pe 2:23; 3:9
+ 15 -1Co 12:26
+ 16 -Ps 131:1-2; Pr 3:7; 26:12; Isa 5:21; Jer 45:5; Ro 11:25; 15:5; 1Co 1:10; Php 2:2; 3:16; 1Pe 3:8
+ 17 -Pr 20:22; Mt 5:39; Ro 14:16; 2Co 8:21; 1Th 5:15; 1Pe 3:9
+ 18 -Mr 9:50; Ro 14:19; Heb 12:14
+ 19 - Le 19:18; De 32:35; Pr 24:29; Ro 12:17; Heb 10:30
+ 20 - Ex 23:4-5; Pr 25:21-22; Mt 5:44
+ 21 - Ephesians 6:11 1 John 3:8 1 Corinthians 15:57 Philippians 4:13 1 John 5:4 Revelation 12:11 1 Peter 5:8 
