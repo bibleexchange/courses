@@ -48,6 +48,8 @@ Instructions are given for the Believer to follow. This chapter is so rich, a li
 
 > 1 I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.
 
+cross references: Ps 50:13-14; Ro 6:13,16,19; 1Co 6:13,20; 2Co 10:1; Heb 10:20; 1Pe 2:5
+
 #### The Sacrifice
 
 "present your bodies" - not the soul only but the body as well. "With the spirit worship God but wiht the body sin. -- ought not be. 
@@ -110,6 +112,8 @@ We must present ourselves ALIVE to God!
 ## Verse 2
 
 > 2 And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.
+
+cross references: Eph 1:18; 4:23; 5:10,17; Col 1:21-22; 3:10; 1Th 4:3; 1Pe 1:14; 1Jo 2:15
 
 ### Being not conformed to the world:
 
