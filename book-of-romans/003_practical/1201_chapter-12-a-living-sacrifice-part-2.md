@@ -112,8 +112,11 @@ cross references: Mr 9:50; Ro 14:19; Heb 12:14
 
 cross references: Le 19:18; De 32:35; Pr 24:29; Ro 12:17; Heb 10:30
 
+<<<<<<< HEAD
 ## Verses 20-21
 
+=======
+>>>>>>> origin/master
 > 20 Therefore if thine enemy hunger, feed him; if he thirst, give him drink: for in so doing thou shalt heap coals of fire on his head. 21 Be not overcome of evil, but overcome evil with good. 
 
 cross references:  v. 20 - Ex 23:4-5; Pr 25:21-22; Mt 5:44
