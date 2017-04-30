@@ -112,15 +112,13 @@ cross references: Mr 9:50; Ro 14:19; Heb 12:14
 
 cross references: Le 19:18; De 32:35; Pr 24:29; Ro 12:17; Heb 10:30
 
-<<<<<<< HEAD
 ## Verses 20-21
 
-=======
->>>>>>> origin/master
 > 20 Therefore if thine enemy hunger, feed him; if he thirst, give him drink: for in so doing thou shalt heap coals of fire on his head. 21 Be not overcome of evil, but overcome evil with good. 
 
 cross references:  v. 20 - Ex 23:4-5; Pr 25:21-22; Mt 5:44
- v. 21 - Ephesians 6:11 1 John 3:8 1 Corinthians 15:57 Philippians 4:13 1 John 5:4 Revelation 12:11 1 Peter 5:8 
+
+v. 21 - Ephesians 6:11 1 John 3:8 1 Corinthians 15:57 Philippians 4:13 1 John 5:4 Revelation 12:11 1 Peter 5:8 
 
 Romans 12:20 is an aggressive stance. It is not a defensive stance. 
 To overcome is to defeat the enemy. Those that speak evil, and do evil; we are in a warfare for that persons soul. 
