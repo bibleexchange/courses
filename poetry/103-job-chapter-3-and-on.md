@@ -9,9 +9,7 @@ It is helpful to remember while studying the book of Job that it is a written in
 
 Some repetition 
 
-### It Confronki'
-o9o-p-[-p[=
- >},kn;\'ts the Perplexity of Suffering
+### It Confronts the Perplexity of Suffering
 
 Job 3 begins to paint clearly Job's perplexity.
 
@@ -87,7 +85,9 @@ Job wishes for an end.
 ============================================
                                     
 # Chapter 4: Eliphaz’s Answer to Job
+
 Job 4:1 Then Eliphaz the Temanite answered and said,
+
 Job 42:7 And it was so… the LORD said to Eliphaz the Temanite,  
 When they got going Job wished they never started.   2:12-13   13:5
 (it should be your wisdom just to be silent in times like this)
@@ -96,11 +96,15 @@ What did Eliphaz answer?
 Job’s need?            Heart Soul  Mind
 Job’s pain?
 No       Job’s words.      4:4     Thy words
+
 v. 2     Can we talk to you?
           Commune with thee?
           Without you being grieved?
+
 Ps 69:26 For they persecute him whom thou hast smitten; and they talk to the grief of those whom thou hast wounded. 
+
 La 3:33 For he doth not afflict willingly nor grieve the children of men.
+
 V.4     Thy words have helped others.    ----    (words can help)
                                                                    Eph. 4:15   Speak the truth in love
 v. 5     Trouble comes on you Job and you faint.
