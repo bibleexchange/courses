@@ -1,6 +1,12 @@
-# A Call for Unity &mdash; Ch. 15
+# Laboring for Unity &mdash; Ch. 15
+
+## Introduction
 
 Believers are to receive one another, as Christ received the Gentiles - to God's glory. The first section of this chapter describes Christian relationships, with Christ as the perfect example of them. Paul's personal message to the Romans begins in Verse 14.
+
+The Work of Unity in the Body is the work of God.
+
+## Receive Another with Christ as Our Example, vs. 1-13
 
 Put Verse 1 & 2 into your own words. Compare with Chapter 14, Verse 19.
 
@@ -22,39 +28,6 @@ The fifteenth chapter of Romans has a strong feeling of conclusion. As is Paul&a
 - Joy and Peace through the Holy Ghost are prerequisites to abounding in hope.
 
 - Being full of goodness, admonish one another.
-
-- Paul explains that he is called to minister the Gospel especially to the Gentiles.
-
-
-v. 23-23 Paul restates again his desire and intention to visit the church at Rome and his itinerary. He must first go to Spain and collect an offering for the saints at Jerusalem. He would then bring the offering to Jerusalem, after which he intends to visit Roman.
-
-It is interesting to note that there is somewhat a controversy over Romans 15:14&mdash;16:27. The question is as follows, &quot;Where did Romans originally end.&quot; Many old manuscripts do not contain this passage, and at the same time most do in one way or another. Some have it placed at the end of chapter fourteen and others both at the end of chapter fourteen and at the end of the book. This bears no influence of compromising the texts integrity, but can be logically in a hypothetical manner explained. Someone copying the letter and desiring to disperse it amongst many different churches could have left off the parts personal to the church at Rome.
-
-
-Romans 15:
-Consists of two parts, he reviews back to the former chapter and enforces it some, and he uses the example of Christ, the two chapters intermingle.
-He again talks about the strong bearing the weak Christians, We are to not only look at our own interests but rather more look at others interests.
-In business I have to be careful not to cheat my customers, → the same application falls to the Christians spiritual life.
-Chapter 15: talks about the conduct of a Christian
-He didn&apos;st suffer for himself, so as much we are to suffer for Christ&apos;s sake, for Christ
-If we don&apos;st see a change in others, there is something.
-The strong ought to bear the infirmities of the weak. We ought to not please ourself but Christ.
-Are we fully persuaded?
-The strong person has something more than the weaker person has? They have more faith.
-We have a right to exercise and do what we want, but if it doesn&apos;st please the Lord we should lay it down.
-The &quot;Theme of chapter 15&quot;: → Doing for others
-
-
-
-
-ROMANS CHAPTER 15
-
-
-
-
-
-
-
 
 Why should the Christian be concerned with others instead of himself?
 
@@ -100,7 +73,7 @@ As you read Verses 1 - 13 can you see the trinity?
 
 
 
-
+## Paul's Priestly Ministry to the Gentiles, vs. 14-21
 
 
 Paul's great "Priestly Ministry" of the Gospel to the Gentiles Verses 14 - 21.
@@ -124,6 +97,13 @@ Verses 15 - 19:	A minister of Jesus Christ to the Gentiles. Preaching the Word i
 
 What plans does Paul now have concerning Rome?
 
+- Paul explains that he is called to minister the Gospel especially to the Gentiles.
+
+
+v. 23-23 Paul restates again his desire and intention to visit the church at Rome and his itinerary. He must first go to Spain and collect an offering for the saints at Jerusalem. He would then bring the offering to Jerusalem, after which he intends to visit Roman.
+
+It is interesting to note that there is somewhat a controversy over Romans 15:14&mdash;16:27. The question is as follows, &quot;Where did Romans originally end.&quot; Many old manuscripts do not contain this passage, and at the same time most do in one way or another. Some have it placed at the end of chapter fourteen and others both at the end of chapter fourteen and at the end of the book. This bears no influence of compromising the texts integrity, but can be logically in a hypothetical manner explained. Someone copying the letter and desiring to disperse it amongst many different churches could have left off the parts personal to the church at Rome.
+
 Verses 20 -23:	Hindered - Paul did not wish to build on another man's foundation (work).
 		Here laborers have hindered.
 
@@ -145,7 +125,6 @@ It was an act of love on the part of the Gentile Saints. It was a fulfilling of 
 
 "If ye know these things, blessed are ye if ye do them." By this shall all men know that ye are my disciples if ye have love one to another.
 
-
 In Verse 30 we once again see the trinity.
 
 	- For the Lord Jesus Christ's sake.
@@ -153,7 +132,7 @@ In Verse 30 we once again see the trinity.
 	- Your prayers to God for me.
 
 
-CONCLUSION: 
+## Conclusion
 
 The beautiful benediction of Verse 33, "The God of peace be with you all," shows how fully at peace was the apostle's heart, and how fully in God's will! Also his overflowing love for the Saints.
 
