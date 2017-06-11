@@ -55,7 +55,9 @@ an early convert to Christianity - was imprisoned with Paul - was a missionary
 9. Urbanus - male - a fellow worker in Christ
 10. Stachys - male - beloved
 11. Apelles - male - approved in Christ - someone who matured
-12. Aristobulus - male - greetings to an unknown number of those who are in Aristobulus’ household.
+12. Aristobulus
+
+- male - greetings to an unknown number of those who are in Aristobulus’ household.
 Note that Aristobulus is not greeted. Does this mean that he is not a Christian? He is probably not
 greeted because he is dead. Possible that he was the grandson of Herod the Great - the brother of
 Agrippa I. He may have lived in Rome as a private person and was a friend of the Emperor
@@ -63,14 +65,21 @@ Claudius. He may have died in 45 or 48 A.D. A more remote possibility is that he
 Herod of Chalcis and ruler of Armenia Minor - who may or may not have been a part of this
 household in Rome. It is possible that this household, after the death of Aristobulus, had
 connections with the imperial household of Rome and was still known by his name.
+
 13. Herodian - male - probably a slave or a freedman of the Herod family - Jewish.
 14. Narcissus - male - not greeted - but his household is greeted.
 15. Tryphaena - female - twin sister of Tryphosa? Name means “dainty” - a worker
 16. Tryphosa - female - twin sister of Tryphaena? Name means “delicate” - a worker
 17. Persis - female - meaning “Persian woman” - a typical Greek slave name - she is beloved and a
 hard worker.
-18. Rufus - male - son of Simon the Cyrene who carried the cross of Jesus and later trusted in Him as
+18. Rufus
+
+male - son of Simon the Cyrene who carried the cross of Jesus and later trusted in Him as
 his savior. Was the brother of Alexander (Mark 15:21). An outstanding Christian.
+
+Mark 15:21  And they compel one Simon a Cyrenian, who passed by, coming out of the country, the father of Alexander and Rufus, to bear his cross.
+Romans 16:13  Salute Rufus chosen in the Lord, and his mother and mine.
+
 19. Rufus’ mother - female - unnamed - was like a mother to Paul
 20. Asyncritus - male - Greek
 21. Phlegon - male - Greek
