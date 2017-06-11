@@ -1,22 +1,38 @@
 Romans 16: 
 
-Priscilla and Aquilla
-
-> Acts 18:1-3&mdash; After these things Paul departed from Athens, and came to Corinth; 2 And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them. [0]
-3 And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers. 
-
-
-Romans 16 - Those listed there…
 General listing:
+
 1. Phoebe - female - deacon - probably a business woman - has social position, independence - was a
 great help to Paul and others - is entrusted to take the letter from Paul to Rome - from Corinth.
-2. Prisca (Priscilla) - female - wife of Aquila - was involved with Paul in ministry and with husband in
+
+2. Priscilla and Aquilla
+
+Prisca (Priscilla) - female - wife of Aquila - was involved with Paul in ministry and with husband in
 teaching ministry - church meets in her home - of six times the two are mentioned, Priscilla is
 mentioned 4 times first. Acts 18:2,18,26; Romans 16:3, 1 Corinthians 16:19; 2 Timothy 4:19
-3. Aquila - male - husband of Prisca - they were originally from Rome - (Acts 18) then driven out by
+
+Aquila - male - husband of Prisca - they were originally from Rome - (Acts 18) then driven out by
 the Emperor Claudius (52 A.D.) and traveled to Corinth where they made tents with Paul. Then
 they went to Ephesus then Corinth then Rome.
+
+> Acts 18:1-3&mdash; After these things Paul departed from Athens, and came to Corinth; 2 And found a certain Jew named **Aquila**, born in Pontus, lately come from Italy, with his wife **Priscilla**; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them. 3 And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers. 
+
+> Acts 18:18&mdash;And Paul after this tarried there yet a good while, and then took his leave of the brethren, and sailed thence into Syria, and with him **Priscilla** and **Aquila**; having shorn his head in Cenchrea: for he had a vow. 
+
+> Acts 18:26 &mdash; And he began to speak boldly in the synagogue: whom when **Aquila** and **Priscilla** had heard, they took him unto them, and expounded unto him the way of God more perfectly. 
+
+> Romans 16:3&mdash; Greet **Priscilla** and **Aquila** my helpers in Christ Jesus: 
+
+> 1 Corinthians 16:19&mdash;19 The churches of Asia salute you. **Aquila** and **Priscilla** salute you much in the Lord, with the church that is in their house. 
+
+> 2 Timothy 4:19 &mdash; 19 Salute **Prisca** and **Aquila**, and the household of Onesiphorus.
+
 4. Epaenetus - male - Paul’s first Asian convert
+
+Achaia -- Epaenetus, who is the firstfruits of Achaia 
+
+
+
 5. Mary - female - hard worker
 6. Andronicus - Greek - may have been part of Greek Jewish community in Jerusalem (Acts 6) - was
 an early convert to Christianity - was imprisoned with Paul - was a missionary
@@ -69,14 +85,18 @@ slave names (who bothered naming slaves). The brother of Quartus
 Corinth which reads “Erastus, commissioner for public works, laid this pavement at his own
 expense.”
 37. Quartus - male - brother of Tertius - see above.
-In addition to the named/unnamed above there are 6 groups mentioned:
+
+## In addition to the named/unnamed above there are 6 groups mentioned:
+
 1. The church in Priscilla and Aquila’s home
 2. The household of Aristobulus
 3. The household of Narcissus
 4. The brethren with the 5 Greek guys
 5. The saints with Philologus and company
-6. The whole church in Corith
-General accounting of those listed:
+6. The whole church in Corinth
+
+## General accounting of those listed:
+
 Number of women: 9
 Number of men: 28
 Number of people in Rome: 29 / male = 20 / female = 9
