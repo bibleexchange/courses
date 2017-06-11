@@ -2,18 +2,16 @@ Romans 16:
 
 General listing:
 
-1. Phoebe - female - deacon - probably a business woman - has social position, independence - was a
+1. Phoebe 
+
+female - deacon - probably a business woman - has social position, independence - was a
 great help to Paul and others - is entrusted to take the letter from Paul to Rome - from Corinth.
 
 2. Priscilla and Aquilla
 
 Prisca (Priscilla) - female - wife of Aquila - was involved with Paul in ministry and with husband in
 teaching ministry - church meets in her home - of six times the two are mentioned, Priscilla is
-mentioned 4 times first. Acts 18:2,18,26; Romans 16:3, 1 Corinthians 16:19; 2 Timothy 4:19
-
-Aquila - male - husband of Prisca - they were originally from Rome - (Acts 18) then driven out by
-the Emperor Claudius (52 A.D.) and traveled to Corinth where they made tents with Paul. Then
-they went to Ephesus then Corinth then Rome.
+mentioned 3 times first. Acts 18:2,18,26; Romans 16:3, 1 Corinthians 16:19; 2 Timothy 4:19
 
 > Acts 18:1-3&mdash; After these things Paul departed from Athens, and came to Corinth; 2 And found a certain Jew named **Aquila**, born in Pontus, lately come from Italy, with his wife **Priscilla**; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them. 3 And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers. 
 
@@ -27,11 +25,27 @@ they went to Ephesus then Corinth then Rome.
 
 > 2 Timothy 4:19 &mdash; 19 Salute **Prisca** and **Aquila**, and the household of Onesiphorus.
 
+Aquila - male - husband of Prisca - they were originally from Rome - (Acts 18) then driven out by
+the Emperor Claudius (52 A.D.) and traveled to Corinth where they made tents with Paul. Then
+they went to Ephesus then Corinth then Rome.
+
 4. Epaenetus - male - Paul’s first Asian convert
 
 Achaia -- Epaenetus, who is the firstfruits of Achaia 
 
+> Romans 15:26 &mdash; For it hath pleased them of Macedonia and Achaia to make a certain contribution for the poor saints which are at Jerusalem
 
+Paul ministered in Achaia in Acts 18; Paul mentions Achai in Acts 19:21 (Macedonia and Achaia, (writes Romans from Corinth) then Jerusalem, then Rome) and their offering for the saints at Jerusalem.
+
+"First Fruits of Achaia" (compare Romans 16:5 and 1 Corinthians 16:15)
+
+(Acts 18, Paul's 3rd Missionary Journey) 
+
+> 1 Corinthians 16:15 &mdash; I beseech you, brethren, (ye know the house of Stephanas, that it is the firstfruits of Achaia, and that they have addicted themselves to the ministry of the saints,)
+
+"Macedonia and Achaia"
+
+It was then one of the two provinces (Macedonia being the other) into which Rome divided Greece when it fell under their dominion.
 
 5. Mary - female - hard worker
 6. Andronicus - Greek - may have been part of Greek Jewish community in Jerusalem (Acts 6) - was
