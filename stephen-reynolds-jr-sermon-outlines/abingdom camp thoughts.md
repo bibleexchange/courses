@@ -22,3 +22,11 @@ Psalm 17:14,15
 ## Samuel: I Hear You 1 Samuel 3:1-10
 
 ## Simple Obedience Versus Status Quo
+
+## Miscel
+
+Life begins at the cross
+Come home ,- prodigal son
+John 10:10
+Abundant Life
+Change of season - pleasure of the sin
