@@ -1,4 +1,4 @@
-# Lesson #1: Introduction to the Study of the Tabernacle
+# Lesson #0.0: Introduction to the Study of the Tabernacle
 
 TEXT: Exodus 25:8,9; Revelation 21:3
 

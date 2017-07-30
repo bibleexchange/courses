@@ -1,4 +1,4 @@
-# Lesson #2: Understanding Biblical Typology
+# Lesson #0.1: Understanding Biblical Typology
 
 <img src="abraham-sacrifices-isaac.jpg" style="width:400x"/>
 
