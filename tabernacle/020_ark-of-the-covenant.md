@@ -1,1 +1,154 @@
 # Lesson #2 Ark of the Covenant, Exodus 25:10-16
+
+<img src="ark-of-covenant.jpg" />
+
+## I. What Happened to the Ark of the Covenant?
+
+The Ark of the Covenant Disappeared at the time of Jeremiah when the Babylonians besieged Jerusalem. The Babylonians destroyed the temple.
+
+<<<<
+
+A Church in Ethiopia Claims to have it under guard and lock.
+
+**In the Hill Golgotha? (Ron Wayatt**
+
+An attempt was made some few years ago to excavate towards the direction of this chamber. This resulted in widespread Moslem unrest and rioting. They stand a great deal to lose if the Ark is revealed - for it will prove to the whole world that there really was a Holy Temple, and thus, that the Jews really do have a claim to the Temple Mount. (The official position of the Islamic Wakf, the body that governs over the Temple Mount, is that there never was a Holy Temple, and that the Jews have no rights whatsoever to the place).
+
+>>>>>>
+
+Scripture describes many articles taken by the Babylonians back to Babylon. 
+
+> 2 Kings 25:8-16 &mdash; 2Ki 25:8 ¶ And in the fifth month, on the seventh day of the month, which is the nineteenth year of king Nebuchadnezzar king of Babylon, came Nebuzaradan, captain of the guard, a servant of the king of Babylon, unto Jerusalem: 9 And he burnt the house of the LORD, and the king's house, and all the houses of Jerusalem, and every great man's house burnt he with fire. 10 And all the army of the Chaldees, that were with the captain of the guard, brake down the walls of Jerusalem round about. 11 Now the rest of the people that were left in the city, and the fugitives that fell away to the king of Babylon, with the remnant of the multitude, did Nebuzaradan the captain of the guard carry away. 12 But the captain of the guard left of the poor of the land to be vinedressers and husbandmen. 13 And the pillars of brass that were in the house of the LORD, and the bases, and the brasen sea that was in the house of the LORD, did the Chaldees break in pieces, and carried the brass of them to Babylon. 14 And the pots, and the shovels, and the snuffers, and the spoons, and all the vessels of brass wherewith they ministered, took they away. 15 And the firepans, and the bowls, and such things as were of gold, in gold, and of silver, in silver, the captain of the guard took away. 16 The two pillars, one sea, and the bases which Solomon had made for the house of the LORD; the brass of all these vessels was without weight.
+
+Conspicuously missing are the major items like the ark of the covenant, the table of shewbread, and the altar of incense. The Bible does not mention what happened to these. (The Apocrypha states that Jeremiah hid these in a cave.)
+
+- The Shekinah Glory left Jerusalem just prior to the Babylonian invasion.
+
+(The English transliteration of a Hebrew word meaning "dwelling" or "settling" and denotes the dwelling or settling of the divine presence of God. ... This term does not occur in the Bible, and is from rabbinic literature.)
+
+The Ark of the Covenant was in Jerusalem just before the Babylonians destroyed Jerusalem.
+
+> Ezekial 10:4 &mdash; Then the glory of the LORD went up from the cherub, and stood over the threshold of the house; and the house was filled with the cloud, and the court was full of the brightness of the LORD'S glory.
+<!-- -->
+> Ezekial 10:18 &mdash; Then the glory of the LORD departed from off the threshold of the house, and stood over the cherubims.
+<!-- -->
+> Ezekial 11:23 &mdash; And the glory of the LORD went up from the midst of the city, and stood upon the mountain which is on the east side of the city.
+<!-- -->
+
+- Is this Holy Chest significant without the Shekinah Glory?
+
+## II. How Significant is the Ark of the Covenant?
+
+- The Focal point of O.T. worship was the Ark of the Covenant. 
+
+> 1 Chronicles 28:2,3,6 &mdash; Then David the king stood up upon his feet, and said, Hear me, my brethren, and my people: As for me, I had in mine heart to build an house of rest for the ark of the covenant of the LORD, and for the footstool of our God, and had made ready for the building: 3 But God said unto me, Thou shalt not build an house for my name, because thou hast been a man of war, and hast shed blood. 6 And he said unto me, Solomon thy son, he shall build my house and my courts: for I have chosen him to be my son, and I will be his father.
+<!-- -->
+> Psalm 132:7-8 &mdash;We will go into his tabernacles: we will worship at his footstool. 8 Arise, O LORD, into thy rest; thou, and the ark of thy strength.
+<!-- -->
+> Psalm 99:5 &mdash; Exalt ye the LORD our God, and worship at his footstool; for he is holy.
+<!-- -->
+
+- Placing feet over something demonstrates authority over it.
+
+>  Psalm 110:1 &mdash; The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.
+
+<!-- -->
+
+>  Matthew 22:44 &mdash; The LORD said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool? [Mark 12:36; Luke 20:43; Acts 2:35; Hebrews 1:13; Hebrews 10:13]
+
+<!-- -->
+
+> James 2:3 &mdash; And ye have respect to him that weareth the gay clothing, and say unto him, Sit thou here in a good place; and say to the poor, Stand thou there, or sit here under my footstool:
+
+<!-- -->
+
+- The End of Stephen's Sermon
+
+> Acts 7:44-60 &mdash; Our fathers had the tabernacle of witness in the wilderness, as he had appointed, speaking unto Moses, that he should make it according to the fashion that he had seen. 45 Which also our fathers that came after brought in with Jesus into the possession of the Gentiles, whom God drave out before the face of our fathers, unto the days of David; 46 Who found favour before God, and desired to find a tabernacle for the God of Jacob. 47 But Solomon built him an house. 48 Howbeit the most High dwelleth not in temples made with hands; as saith the prophet, **49 Heaven is my throne, and earth is my footstool: what house will ye build me? saith the Lord: or what is the place of my rest?** 50 Hath not my hand made all these things?
+ 51 ¶ Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers did, so do ye. 52 Which of the prophets have not your fathers persecuted? and they have slain them which shewed before of the coming of the Just One; of whom ye have been now the betrayers and murderers: 53 Who have received the law by the disposition of angels, and have not kept it. 54 ¶ When they heard these things, they were cut to the heart, and they gnashed on him with their teeth. 55 But he, being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God, 56 And said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God. 57 Then they cried out with a loud voice, and stopped their ears, and ran upon him with one accord, 58 And cast him out of the city, and stoned him: and the witnesses laid down their clothes at a young man's feet, whose name was Saul.
+ 59 And they stoned Stephen, calling upon God, and saying, Lord Jesus, receive my spirit. 60 And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.
+
+- Where is the House that ye build unto me?
+
+> Isa 66:1 ¶ Thus saith the LORD, The heaven is my throne, and the earth is my footstool: where is the house that ye build unto me? and where is the place of my rest?
+
+<!-- -->
+
+> "The Jews gloried much in their temple. But what satisfaction can the Eternal Mind take in a house made with men's hands?" -- Matthew Henry
+
+God dwells, not in temples made with hands. The Temple and the Ark were illustrative and a part of God's revelation of Himself, but they were not the WHOLE revelation.
+
+> Matthew 5:34,35 &mdash; But I say unto you, Swear not at all; neither by heaven; for it is God's throne: 35 Nor by the earth; for it is his footstool: neither by Jerusalem; for it is the city of the great King.
+
+The idea here is, that God was so glorious that even the earth itself could be regarded only as his footstool. God is much greater than a piece of furniture could ever be.
+
+## III. What was the Ark of the Covenant like? (Exodus 25:10-16)
+
+> Exodus 25:10 ¶ And they shall make &hellip;
+
+### 1. An Ark 
+
+In the English Bible we find 3 "arks" in 200 verses. 
+
+- Noah's Ark in Genesis 6-9
+- Moses' Ark of Bulrushes in Exodus 2:3,5
+- Ark of the Covenant (of Testimony, of God, of the Lord, of God's Strength) in Exodus 25:10-16 & 26:33-34 & 30:6,26 & Psalm 132:8
+
+All three ARKS are closely connected with the message of Salvation as the primary purpose of each ark was keep safe and preserve.
+
+The word 'Ark' when referring to Noah's ark or the ark of bullrushes that Moses was placed into is the hebrew word 'teebah'. The word used for the Ark of the Covenant is 'arown'. 
+
+STRONG'S 08392. tebah perhaps of foreign derivation; a box:--ark. (Noah's Ark, Moses' Ark of Bulrushes)
+
+STRONG'S 0727.  'arown  (from 717 in the sense of gathering); a box:--ark, chest, coffin. 
+
+### 2. Of Shittim Wood 
+
+<img src="acacia.jpg" style="float:left; width: 200px; margin: 15px;"/>
+
+Sticks of wood from the shittah tree which probably was an acacia (known for its scourging thorns). The Shittah tree was one of a few trees available in the wilderness that Israel travelled and the wood is dense and extremely strong, making it a great option for any type of wooden construction.
+
+> “Because of the slow growth of the tree, the wood is hard and dense. The heartwood is dark red-brown and attractive when polished. This wood is resistant to decay because the tree deposits in the heartwood many waste substances which are preservatives and render the wood unpalatable to insects making the wood dense and difficult to be penetrated by water and other decay agents.” -- Old Dominium University, "Bible Plants"
+
+Acacia wood is mentioned only in connection with the tabernacle and was used for all the structural features of the tabernacle:
+- the ark and its poles, 
+- the table of showbread and its poles, 
+- the brazen altar and its poles, 
+- and the incense altar and its poles, 
+- all the poles for the hanging of the curtains as well as the supports [boards]. 
+
+### 3. two cubits and a half shall be the length thereof, and a cubit and a half the breadth thereof, and a cubit and a half the height thereof. 
+
+The Ark's Size was approximately: 52 inches Long × 31 inches high × 31 inches wide. Weight approximately 200 lb to 300 lb.
+
+### 4. 11 And thou shalt overlay it with pure gold, within and without shalt thou overlay it, and shalt make upon it a crown of gold round about. 
+
+### 5. 12 And thou shalt cast four rings of gold for it, and put them in the four corners thereof; and two rings shall be in the one side of it, and two rings in the other side of it. 13 And thou shalt make staves of shittim wood, and overlay them with gold. 14 And thou shalt put the staves into the rings by the sides of the ark, that the ark may be borne with them. 15 The staves shall be in the rings of the ark: they shall not be taken from it. 
+
+### 6. 16 And thou shalt put into the ark the testimony which I shall give thee.
+
+The Scripture presents this article of the tabernacle as two pieces: 1) The Ark & 2) The Mercy Seat. The Ark was the lower section and a chest or crate while the Mercy seat was the upper section and was a lid over the chest.
+
+The Ark was not an empty box!
+
+> Hebrews 9:1-5 &mdash; Heb 9:1 ¶ Then verily the first covenant had also ordinances of divine service, and a worldly sanctuary. 2 For there was a tabernacle made; the first, wherein was the candlestick, and the table, and the shewbread; which is called the sanctuary. 3 And after the second veil, the tabernacle which is called the Holiest of all; 4 Which had the golden censer, and the ark of the covenant overlaid round about with gold, wherein was the golden pot that had manna, and Aaron's rod that budded, and the tables of the covenant; 5 And over it the cherubims of glory shadowing the mercyseat; of which we cannot now speak particularly.
+
+- Jar of Mannah (God's Love and Provision, Truth)
+- Tables of the Law (God's Will)
+- Aaron's Rod that Budded (God's Leadership)
+
+### 7. Location of the Ark in the Tabernacle
+
+> Le 16:1 ¶ And the LORD spake unto Moses after the death of the two sons of Aaron, when they offered before the LORD, and died; 2 And the LORD said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy place within the vail before the mercy seat, which is upon the ark; that he die not: for I will appear in the cloud upon the mercy seat.
+
+Only once a year on the Day of Atonement (Yom Kuppur) could the High Priest enter beyond the veil into the Holiest of Holies where the Ark was kept. The Holiest of Holies was a 10 cubit square room which housed the most important furniture of the Tabernacle &mdash; the ark of the covenant.
+
+<img src="tabernacle-layout.jpg" style="width: 400px;"/>
+
+### 8. The Ark on the Move
+
+> Joshua 3:1-4 & mdash; 1And Joshua rose early in the morning; and they removed from Shittim, and came to Jordan, he and all the children of Israel, and lodged there before they passed over. 2And it came to pass after three days, that the officers went through the host; 3And they commanded the people, saying, When ye see the ark of the covenant of the LORD your God, and the priests the Levites bearing it, then ye shall remove from your place, and go after it. 4Yet there shall be a space between you and it, about two thousand cubits by measure: come not near unto it, that ye may know the way by which ye must go: for ye have not passed this way heretofore.
+
+- 1 Samuel 5-7 The Philistine Temple of Dagon
+- 2 Samuel 6 David's New Cart & Uzzah
+- 1 Kings 8 In Solomon's Temple Only the Tables of Stone mentioned as being inside
