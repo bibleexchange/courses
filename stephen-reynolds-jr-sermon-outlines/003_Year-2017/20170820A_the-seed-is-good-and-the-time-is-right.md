@@ -1,4 +1,5 @@
 # The Seed is Good and the Time is Right
+Looking for s return
 
 > Ecclesiastes 11:1-6 Cast thy bread upon the waters: for thou shalt find it after many days. 2 Give a portion to seven, and also to eight; for thou knowest not what evil shall be upon the earth. 3 If the clouds be full of rain, they empty themselves upon the earth: and if the tree fall toward the south, or toward the north, in the place where the tree falleth, there it shall be. 4 He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap. 5 As thou knowest not what is the way of the spirit, nor how the bones do grow in the womb of her that is with child: even so thou knowest not the works of God who maketh all. **6 In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both shall be alike good.**
 
@@ -17,10 +18,13 @@
 - Speak the Word - The Power in Speaking the Word
 - Live the Word
 - "CAST UPON THE WATERS"
-- Invest in people
+- Invest in people, relationships
+> And let us not be weary in well doing: for in due season we shall reap, if we faint not.
+Galatians 6:9
 
 ## The Time is Right
 
 - don't listen to the wind
 - morning vs evening, still sow
+The barn, storehouse barren, wishing someone else has laid something up. Sow
 - don't die with seed in your hand (tree)
