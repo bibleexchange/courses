@@ -6,8 +6,8 @@
 
 1. vs. 1,2,6  THE COUNSEL: NOT HOARDING, BUT SOWING, careful investment
 2. vs. 3 2 **Lessons**: From the Cloud=LIBERALITY; From the Trees=DEATH
-3. vs. 4
-4.  Uncertainity
+3. vs. 4. Regard the clouds = not reap
+4.  Vs. 5 Uncertainity, so much we don't understand our know
 
 ## The Seed Is Good
 
@@ -17,5 +17,10 @@
 - Speak the Word - The Power in Speaking the Word
 - Live the Word
 - "CAST UPON THE WATERS"
+- Invest in people
 
 ## The Time is Right
+
+- don't listen to the wind
+- morning vs evening, still sow
+- don't die with seed in your hand (tree)
