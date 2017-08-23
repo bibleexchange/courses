@@ -26,5 +26,5 @@ Galatians 6:9
 
 - don't listen to the wind
 - morning vs evening, still sow
-The barn, storehouse barren, wishing someone else has laid something up. Sow
+The barn, storehouse barren, wishing someone else has laid something up. Sow. EATING FROM GRANDPA'S GARDEN AS A CHILD, ONION
 - don't die with seed in your hand (tree)
