@@ -25,6 +25,8 @@ Galatians 6:9
 ## The Time is Right
 
 - don't listen to the wind
+Upon the water - like when the  Nile overflowed it's Banks and you can't see where it will land. We can be over calculating
+
 - morning vs evening, still sow
 The barn, storehouse barren, wishing someone else has laid something up. Sow. EATING FROM GRANDPA'S GARDEN AS A CHILD, ONION
 - don't die with seed in your hand (tree)
