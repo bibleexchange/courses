@@ -10,7 +10,7 @@
 
 We must be aware of the importance of a solid foundation. It's right only when the foundation is right.
 
-> ILLUSTRATION: The tower of Pisa has been leaning so long -- nearly 840 years -- that it's natural to assume it will defy gravity forever. But the famous structure has been in danger of collapsing almost since its first brick was laid. It began leaning shortly after construction began in **1173**. Builders had only reached the third of the tower's planned eight stories when its foundation began to settle unevenly on soft soil composed of mud, sand and clay. As a result, the structure listed slightly to the north. Laborers tried to compensate by making the columns and arches of the third story on the sinking northern side slightly taller. (by 2001)
+> ILLUSTRATION: The tower of Pisa has been leaning so long -- nearly 840 years -- that it's natural to assume it will defy gravity forever. But the famous structure has been in danger of collapsing almost since its first brick was laid. It began leaning shortly after construction began in **1173**. Builders had only reached the third of the tower's planned eight stories when its foundation began to settle unevenly on soft soil composed of mud, sand and clay. As a result, the structure leaned slightly to the north. Laborers tried to compensate by making the columns and arches of the third story on the sinking northern side slightly taller. (by 2001)
 
 ## The Situation - The Moral Support has Seemingly Been Destroyed
 
