@@ -92,7 +92,7 @@ In the English Bible we find 3 "arks" in 200 verses.
 
 - Noah's Ark in Genesis 6-9
 - Moses' Ark of Bulrushes in Exodus 2:3,5
-- Ark of the Covenant (of Testimony, of God, of the Lord, of God's Strength) in Exodus 25:10-16 & 26:33-34 & 30:6,26 & Psalm 132:8
+- Ark of the Covenant (of Testimony, of God, of the Lord, of God's Strength) in Exodus 25:10-16 & 26:33-34 & 30:6,26 & Psalm 132:8)
 
 All three ARKS are closely connected with the message of Salvation as the primary purpose of each ark was keep safe and preserve.
 
@@ -137,17 +137,11 @@ The Ark was not an empty box!
 - Tables of the Law (God's Will)
 - Aaron's Rod that Budded (God's Leadership)
 
-### 7. Location of the Ark in the Tabernacle
+### 7. The Ark on the Move
 
-> Le 16:1 ¶ And the LORD spake unto Moses after the death of the two sons of Aaron, when they offered before the LORD, and died; 2 And the LORD said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy place within the vail before the mercy seat, which is upon the ark; that he die not: for I will appear in the cloud upon the mercy seat.
+- "Go After It"
 
-Only once a year on the Day of Atonement (Yom Kuppur) could the High Priest enter beyond the veil into the Holiest of Holies where the Ark was kept. The Holiest of Holies was a 10 cubit square room which housed the most important furniture of the Tabernacle &mdash; the ark of the covenant.
-
-<img src="tabernacle-layout.jpg" style="width: 400px;"/>
-
-### 8. The Ark on the Move
-
-> Joshua 3:1-4 & mdash; 1And Joshua rose early in the morning; and they removed from Shittim, and came to Jordan, he and all the children of Israel, and lodged there before they passed over. 2And it came to pass after three days, that the officers went through the host; 3And they commanded the people, saying, When ye see the ark of the covenant of the LORD your God, and the priests the Levites bearing it, then ye shall remove from your place, and go after it. 4Yet there shall be a space between you and it, about two thousand cubits by measure: come not near unto it, that ye may know the way by which ye must go: for ye have not passed this way heretofore.
+> Joshua 3:1-4 & mdash; 1 And Joshua rose early in the morning; and they removed from Shittim, and came to Jordan, he and all the children of Israel, and lodged there before they passed over. 2 And it came to pass after three days, that the officers went through the host; 3 And they commanded the people, saying, When ye see the ark of the covenant of the LORD your God, and the priests the Levites bearing it, then ye shall remove from your place, and go after it. 4 Yet there shall be a space between you and it, about two thousand cubits by measure: come not near unto it, that ye may know the way by which ye must go: for ye have not passed this way heretofore.
 
 - 1 Samuel 5-7 The Philistine Temple of Dagon
 - 2 Samuel 6 David's New Cart & Uzzah

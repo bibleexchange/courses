@@ -99,3 +99,43 @@ He is Righteous & He makes her righteous!
 > Isaiah 62:3-5 &mdash; 3 Thou shalt also be a crown of glory in the hand of the LORD, and a royal diadem* in the hand of thy God. 4 Thou shalt no more be termed Forsaken; neither shall thy land any more be termed Desolate: but thou shalt be called Hephzibah, and thy land Beulah: for the LORD delighteth in thee, and thy land shall be married. 5 For as a young man marrieth a virgin, so shall thy sons marry thee: and as the bridegroom rejoiceth over the bride, so shall thy God rejoice over thee.
 
 A Vision for Holiness Sees There is no greater Pleasure than for God to rejoice over me. 
+
+
+
+<!--
+
+A Vision for Holiness, Isaiah 61:10
+I.	Catching the Vision (SEEING MORE)
+•	Blind, Drunk on the World (like Ephraim seeing LESS)
+Isaiah 28:7 — … they are swallowed up of wine,  … they err in vision, they stumble in judgment.
+•	Things LENT this week 
+Beginning to Look alot like each other :) | Daily & Multiple times during the day for WORSHIP and the WORD | Ministry of Preachers & Teachers | Mindfulness of God's Presence | Dress Code & Modesty
+
+•	Seeing More (Tyler and and Cardboard Box)
+But things LENT   that you would take a hold of the vision | The Cause must be Holiness unto the Lord (separate, other, different, THE TOUCH OF GOD UPON IT, UNCOMMON)
+
+•	The Bible Relates People and God in many different Ways:
+Creator and Creature | Savior (Deliverer) and Sinner/Saints/Captive | Friend | Father and Children | Great High Priest and Priests | There is no more important Relationship than God as THE BRIDEGROOM and His people as THE BRIDE
+II.	A Vision for the Holiness of God (Groom)
+•	GOD IS HOLY  Isaiah 6:3 — …, Holy, holy, holy,
+Without a vision for the Holiness of God, we have no MOTIVATION for worship. Apart from God, the word 'HOLY' has no meaning. 
+•	God is desirable as a Groom & is DECKED with ORNAMENTS
+Psalm 29:2 — Give unto the LORD the glory due unto his name; worship the LORD in the beauty of holiness.
+III.	A Vision for the Holiness of God's People (Bride)
+The Groom WILL Have His Bride (ENGAGEMENT)
+He has saved us for a PURPOSE. Restoring an unbroken fellowship. His Desire is for HER! | He is Righteous & He makes her righteous! | be ye holy for I am holy
+The Bride Eliminates All Other Competition
+•	The Bride Sees the Groom as FAR Superior to any other Competitor for her Affection | She sees him as unlike any other
+•	… and so she Eliminates the possibility that there is some competition: HE IS MINE, I AM HIS.  | … I'm taken!
+The Bride sees her Beloved with Eyes of Love
+•	My Beloved (don’t lose the PRECIOUSNESS, TENDERNESS)
+•	He can do no wrong! | Guard Your Heart, Preserve your sensitivity to God's presence
+•	LOVE is COMMITMENT (not some wishy washy emotion)
+The Bride Adorns Herself with Jewels
+ADORN: The Work | WORK is heart expression
+•	Nothing she can do to make herself his Bride but in accepting his LOVE she is compelled to express her own love.
+•	The Jewels are provided By Him!!! (Work Out What God works in)
+What is her motivation? => What does He like
+
+
+ -->
