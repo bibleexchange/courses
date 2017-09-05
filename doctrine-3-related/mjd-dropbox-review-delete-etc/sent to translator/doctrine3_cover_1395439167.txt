@@ -1,0 +1,9 @@
+<div id="title" class="chapter"><img src="/dbi/images/eagle.png" style=""  id="coverEagle"/>
+##0002###Third Year 
+##0003###TEXTBOOK 
+##0004###Doctrine 3
+##0005###Theology, Christology, Pneumatology, Trinity
+##0006###DELIVERANCE BIBLE INSTITUTE of MOSHI
+##0007###Moshi, Kilimanjaro, Tanzania 
+##0008###DELIVERANCE BIBLE INSTITUTE 
+##0009###Portland, Maine, USA
