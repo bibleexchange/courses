@@ -14,18 +14,39 @@ Made with a talent of gold, the Candlestick weighed about 75-110 lbs. and would 
 
 Gold is a type for Divinity. 
 
-> Psalm 45:9,13 &mdash;
+> Psalm 45:9,13 &mdash; 9 Kings' daughters were among thy honourable women: upon thy right hand did stand the queen in gold of Ophir. 13 The king's daughter is all glorious within: her clothing is of wrought gold.
 <!-- -->
-> Revelation 3:18 &mdash;
+> Revelation 3:18 &mdash; I counsel thee to buy of me gold tried in the fire, that thou mayest be rich; and white raiment, that thou mayest be clothed, and that the shame of thy nakedness do not appear; and anoint thine eyes with eyesalve, that thou mayest see.
 <!-- -->
-> Job 23:10 &mdash;
+> Job 23:10 &mdash; But he knoweth the way that I take: when he hath tried me, I shall come forth as gold.
 
 ## Christ, The True Light
 
+> John 8:12 &mdash; Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.
+<!-- -->
+> John 9:5 &mdash; As long as I am in the world, I am the light of the world.
+<!-- -->
+> John 1:9 &mdash; That was the true Light, which lighteth every man that cometh into the world.
+<!-- -->
+> 2 Corinthians 4:6 &mdash; For God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ.
 
-John 8:12; 9:5; John 1:9; 2 Corinthians 4:6
+## The Church, The Light
 
-## The Church, (SEE NOTES)
+> Matthew 5:14 &mdash; Ye are the light of the world. A city that is set on an hill cannot be hid.
+<!---->
+> Ephesians 5:8 &mdash; For ye were sometimes darkness, but now are ye light in the Lord: walk as children of light:
+
+- A Relative Picture is Seen in Revelation Chapter 1
+
+> Revelation 1:12 &mdash; And I turned to see the voice that spake with me. And being turned, I saw seven golden candlesticks;
+<!---->
+> Revelation 1:13 &mdash; And in the midst of the seven candlesticks one like unto the Son of man, clothed with a garment down to the foot, and girt about the paps with a golden girdle.
+<!---->
+> Revelation 1:20 &mdash; The mystery of the seven stars which thou sawest in my right hand, and the seven golden candlesticks. The seven stars are the angels of the seven churches: and the seven candlesticks which thou sawest are the seven churches.
+
+Study carefully Revelation 1 and you will find a relative picture with Jesus defining the 7 candlesticks as the seven churches (in Asia).
+
+SEE NOTES.......
 
 ## The Holy Spirit
 
