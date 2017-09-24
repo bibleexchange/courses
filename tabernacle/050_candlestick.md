@@ -46,7 +46,7 @@ Gold is a type for Divinity.
 
 Study carefully Revelation 1 and you will find a relative picture with Jesus defining the 7 candlesticks as the seven churches (in Asia).
 
-SEE NOTES.......
+These seven churches represent the whole church from Pentecost to the Rapture. In Revelation 1, we have a marvelous picture of the Glorified Christ in the midst of His Church. As High Priest, He is there to trim teh wicks and replenish wih the oil of the Holy Ghost.
 
 ## The Holy Spirit
 
@@ -57,7 +57,11 @@ The Holy Spirit is seen in both oil and the fire.
 
 ## The Word
 
-(see notes)
+> Psalm 119:105, 130 &mdash; 105 Thy word is a lamp unto my feet, and a light unto my path.130 The entrance of thy words giveth light; it giveth understanding unto the simple.
+
+<!-- -->
+
+> 2 Peter 1:29A &mdash; 
 
 ## The Light
 
