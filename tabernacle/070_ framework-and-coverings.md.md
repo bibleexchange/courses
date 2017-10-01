@@ -89,11 +89,15 @@ The two sets of five curtains each, coupled together, may illustrate the two gre
 
 ### A. The Ransom Price
 
-> Exodus 30:11-16
+The Silver was brought by command of God. Everything else was a free-will offering, but not so of the silver foundation (**see Exodus 30:11-16; 38:25-28**). The silver brought amounted to over $200,000. It was the "Atonement Money of the People." In the day of Israel's numbering every man's name who went down in the Book of Numbers brought half a shekel as a ransom for His soul. The Atonement silver is a type of Redemption provided through Christ.
 
-> Exodus 38:25-28
+> 1 Peter 1:18,19 &mdash; Forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers; 19 But with the precious blood of Christ, as of a lamb without blemish and without spot:
 
-The Silver was brought by command of God. ..... SEE NOTES ......
+<!-- -->
+
+> Acts 20:28 &mdash; Take heed therefore unto yourselves, and to all the flock, over the which the Holy Ghost hath made you overseers, to feed the church of God, which he hath purchased with his own blood.
+
+Jesus Christ has given Himself as a ransom for us. We must bring his precious blood and offer it to God as a ransom price for our souls. One sum was named and commanded by God as a ransom price, no more, no less was accepted. Only the blood of Jesus Christ will God accept as a ransom price for the soul &mdash; nothing else will work.
 
 ### B. Typical Meaning of the Boards
 
@@ -109,10 +113,22 @@ A foundational truth of Christianity is that Christ on earth was both Divine and
 
 #### c. The Boards were United by "the middle bar". This hidden bar ran rought the midst of the boards, holding them closely together.
 
-..... SEE NOTES ......
+This bar is typical of one LIFE (Galatians 20:20) and one SPIRIT (Ephesians 4:3) which unite the Body in Christ.
 
-#### d. Divine Glory and Beauty given for earthly glory. 
+> Ephesians 2:21,22 &mdash; In whom all the building fitly framed together groweth unto an holy temple in the Lord: 22 In whom ye also are builded together for an habitation of God through the Spirit.
 
-> Ezekiel 16:14 &mdash; 
+<!-- -->
+
+> 1 Corinthians 12:13 &mdash; For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit.
+
+#### d. We may liken the individual boards to an individual Believer.
+
+Those boards were once stately acacia trees planted in the earth, now they are in a different state. The ax has been applied to them. They have been cut down, cleansed, stripped down of their natural beauty and covered with gold. This process speaks to us of the redemption and regeneration of a soul. Each board may represent one once a sinner, now saved by grace. Once part of the old creation, but they have been made to bow and own their lost condition and their earthly glory has been brought to dust.
+
+> Ezekiel 16:14 &mdash; And thy renown went forth among the heathen for thy beauty: for it was perfect through my comeliness, which I had put upon thee, saith the Lord GOD.
+
+They are cut down, that they may be of service to God.
+
+The boards overlaid with gold speaks of the Believer hidden in God. Hidden so that Christ may have pre-eminence. Divine glory and beauty given for eartly glory.
 
 (31-37 "The Veil" covered in next lesson.)
