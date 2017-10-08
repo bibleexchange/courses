@@ -4,8 +4,7 @@ import './index.css';
 import App from './App';
 import registerServiceWorker from './registerServiceWorker';
 import { BrowserRouter } from 'react-router-dom'
-
-const data = {t:"dasdfasdf"}
+import data from './db.json'
 
 ReactDOM.render((
   <BrowserRouter>

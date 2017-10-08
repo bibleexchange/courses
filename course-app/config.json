@@ -1,4 +1,9 @@
 {
 "ignore": ["bin",".git","course-app","bible_files"],
-"courseRoot": "../../"
+"courseRoot": "../",
+"outputDBTo":"./src/db.json",
+"lessonsURLPath":"https://githubusercontent.com/raw/",
+"lessonsPath":"./src/bin/lessons",
+"fileBlackList":["meta.json","be-notebook.json"],
+"extensionsWhiteList":[".md",".html",".doc",".ppt",".txt",".json",".pdf"]
 }
