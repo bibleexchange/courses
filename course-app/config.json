@@ -1,0 +1,4 @@
+{
+"ignore": ["bin",".git","course-app","bible_files"],
+"courseRoot": "../../"
+}
