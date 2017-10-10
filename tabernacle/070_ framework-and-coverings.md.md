@@ -130,5 +130,3 @@ Those boards were once stately acacia trees planted in the earth, now they are i
 They are cut down, that they may be of service to God.
 
 The boards overlaid with gold speaks of the Believer hidden in God. Hidden so that Christ may have pre-eminence. Divine glory and beauty given for eartly glory.
-
-(31-37 "The Veil" covered in next lesson.)
