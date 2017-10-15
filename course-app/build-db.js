@@ -105,8 +105,7 @@ function saveLessonFile(fileObject){
         case ".pdf":
           fileObject.content = "<a href='"+fileObject.link+"''>Follow this link to "+fileObject.link+"</a>"
         default:
-         fileObject.content = fs.readFileSync(fileObject.pathToFile)
-         
+         fileObject.content = fs.readFileSync(fileObject.pathToFile, "utf8")
     }
 
     fs.writeFileSync(config.lessonsPath+"/"+fileObject.uuid+".json", JSON.stringify(fileObject))
@@ -133,6 +132,6 @@ function getFileMeta(pathToFile,fileName){
         link: pathToFile.replace("../", config.lessonsURLPath)
       }
       UUID = UUID + 1
-console.log(data.link)
+
       return data
 }

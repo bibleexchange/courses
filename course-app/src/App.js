@@ -4,6 +4,7 @@ import './App.css';
 import { Switch, Route } from 'react-router-dom'
 import Home from './Components/Home'
 import Course from './Components/Course'
+import Lesson from './Components/Lesson'
 
 class App extends Component {
   render() {
@@ -22,6 +23,10 @@ class App extends Component {
 
       <Route exact path='/course/:courseId' render={(props => (
         <Course {...props} data={this.props.data}/>
+      ))}/>
+
+      <Route exact path='/course/:courseId/:lessonId' render={(props => (
+        <Lesson {...props} data={this.props.data}/>
       ))}/>
 
 		</Switch>
