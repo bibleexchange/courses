@@ -2,6 +2,8 @@
 
 ## Introduction
 
+<!-- add from the printed notes thoughts on the WISDOM of the tabernacle -->
+
 > Exodus 26:34-35 &mdash; And thou shalt put the mercy seat upon the ark of the testimony in the most holy place. 35 And thou shalt set the table without the vail, and the candlestick over against the table on the side of the tabernacle toward the south: and thou shalt put the table on the north side.
  
 <img src="tabernacle-layout2.jpg" />
