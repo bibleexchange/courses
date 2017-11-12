@@ -1,50 +1,38 @@
 {
+	"uuid": "e79375ca-ab0d-4100-bc1e-fc5c72d6ba4d",
 	"title": "Doctrine 1",
 	"name": "doctrine-1",
 	"description": "",
-	"keywords": ["bride", "revelation"],
+	"keywords": ["doctrine", "bible"],
 	"author": "Rev. James R. Reynolds Sr. and Other D.B.I Teachers",
-	"sections": [],
-	"trans": {
-		"title": [{
-			"lang": "swa",
-			"text": "Mafundisho 1"
-		}],
-		"001_cover.md": [{
-			"lang": "swa",
-			"file": "001_cover.md"
-		}],
-		"002_meaning-of-doctrine.md": [{
-			"lang": "swa",
-			"file": "002_meaning-of-doctrine.md"
-		}],
-		"03_need-for-doctrine.md": [{
-			"lang": "swa",
-			"file": "003_need-for-doctrine.md"
-		}],
-		"05_creation-of-man.md": [{
-			"lang": "swa",
-			"file": "05_creation-of-man.md"
-		}],
-		"06_original-condition-of-man.md": [{
-			"lang": "swa",
-			"file": "06_original-condition-of-man.md"
-		}],
-		"14_nature-of-angels.md": [{
-			"lang": "swa",
-			"file": "14_nature-of-angels.md"
-		}],
-		"15_office-of-angels.md": [{
-			"lang": "swa",
-			"file": "15_office-of-angels.md"
-		}],
-		"16_record-of-angels.md": [{
-			"lang": "swa",
-			"file": "16_record-of-angels.md"
-		}],
-		"17_conclusiong.md": [{
-			"lang": "swa",
-			"file": "017_conclusion.md"
-		}]
-	}
+	"sections": [{
+			"id": "001_front-matter",
+			"title": "Front Matter"
+		},
+		{
+			"id": "002_meaning-need-and-a-system-of-doctrine",
+			"title": "Meaning, Need, and a System of Doctrine"
+		},
+		{
+			"id": "003_anthropology",
+			"title": "Antropology: The Doctrine of Man"
+		},
+		{
+			"id": "004_harmartiology",
+			"title": "Harmartiology: The Doctrine of Sin"
+		},
+		{
+			"id": "005_soteriology",
+			"title": "Soteriology: The Doctrine of Salvation"
+		},
+		{
+			"id": "006_angelology",
+			"title": "Angelology: The Doctrine of Angels"
+		},
+		{
+			"id": "007_addendum",
+			"title": "Addendum"
+		}
+	]
+
 }
