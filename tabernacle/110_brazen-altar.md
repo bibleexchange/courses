@@ -104,7 +104,40 @@ For the presumptous sinner and hyprocrite, the atonement of Jesus provides no sh
 
 ## Vessels of the Altar
 
+> Exodus 27:3 &mdash; And thou shalt make his pans to receive his ashes, and his shovels, and his basins, and his fleshhooks, and his firepans: all the vessels thereof thou shalt make of brass.
+
+All of the vessels of the altar were made of Brass &mdash; a type of judgment.
+
+- The **Pans** to receive the ashes
+- The **Shovels** to remove the fire from the Brazen Altar to censers.
+- The **Basins** to Receive the Blood from the sacrifice offered.
+- The **Flesh Hooks** for placing the pieces of the offering in order on the altar and arranging them so as to be consumed.
+- The **Censers**  or **Fire Pans** were used to hold the burning coals from the Altar of the Burnt Offering to be carried to the Altar of Incense in the Holy Place.
+
 ## Grate of the Altar
+
+> Exodus 27:4,5 &mdash; 4 And thou shalt make for it a grate of network of brass; and upon the net shalt thou make four brazen rings in the four corners thereof. 5 And thou shalt put it under the compass of the altar beneath, that the net may be even to the midst of the altar. 
+
+The Brazen Altar was hollow, but on the inside half way from the top was a grating or network of Brass upon which the sacrifices were laid. The grating was the exact height of the Mercy Seat. There can be no mercy ministered to us apart from the blood sacrifice. The vilest sinner can obtain mercy through the blood. Even The moralist, if they reject the blood, can claim no mercy.
 
 ## Fire of the Altar
 
+- The fire on the Altar was first kindled by God.
+
+> Leviticus 9:24 &mdash; 
+
+- Strange Fire is a Counterfeit fire that emanates from some other source than God. Divine Fire consumes all such other fires!
+
+Nadab and Abihu offered strange fire in Leviticus 10:1,2.
+
+- It was never to go out as a type of Christ our continual sacrifice.
+
+> Leviticus 6:12,13 &mdash; 
+
+- Fire is a symbol of God's Holiness. 
+
+Fire symbolical of God's Holiness is expressed in 3 ways:
+
+1. APPROVAL - Exodus 3:3; Lev. 9:24; 1 Kings 18:38; Acts 2:3
+2. PURIFICATION - Mal. 3:2,3; Matthew 3:11,12
+3. CONDEMNATION - Genesis 19:24
