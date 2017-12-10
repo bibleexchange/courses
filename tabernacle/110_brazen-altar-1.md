@@ -10,9 +10,13 @@ The Brazen Altar was the foundation of the whole worship of Israel. There was no
 
 ## Names Given to the Altar
 
-1. The Brazen Altar, Exodus 38:30
-2. "The Altar" by way of pre-eminance, Exodus 29:12
-3. Altar of Burnt Offering, Exodus 35:16
+1. Altar of Shittim Wood, Exodus 27:1
+2. The Brazen/Bronze Altar, Exodus 38:30
+3. "The Altar" by way of pre-eminance, Exodus 29:12
+4. Altar of Burnt Offering, Exodus 35:16
+5. The Altar that is by the Door of the Tabernacle, Leviticus 1:5
+6. My Altar, The Table of the Lord, Malachi 1:7; Lev. 21:6,22
+7. Altar of the Lord, Malachi 2:13
 
 ## Materials Used in the Construction of the Altar
 
@@ -62,82 +66,10 @@ Bronze typifies the divine character of Christ who took upon Himself the fire of
 
 > Matthew 27:46 &mdash; And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is to say, My God, my God, why hast thou forsaken me? 
 
+continued next: 
+
 ## Dimensions of the Altar
-
-The Altar of Burnt Offering was seven and a half feet in length and breadth and four and a half feet in height. It was twice the length and height of the Ark of the Covenant. In fact, it had capacity enough to contain all the other vessels of the sanctuary. This is rich in meaning: within one great sacrifice on the cross every blessing is comprehended.
-
-> Romans 8:32 &mdash; He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things? 
-
 ## Horns of the Altar
-
-- Might
-
-In Exodus 27:2, the horns are mentioned which are symbol of prevailing might and strength. 
-
-- The Gospels Influence
-
-These horns pointed in every direction, signifying and presenting salvation to the four corners of the earth (north, south, east, west).
-
-> Mark 16:15 &mdash; And he said unto them, Go ye into all the world, and preach the gospel to every creature.
-
-- For Binding the Sacrifice
-
-Sacrifices were bound to the altar before slain, but it was not nails but love that held Christ on the cross!
-
-> Psalm 118:27 &mdash; God is the LORD, which hath shewed us light: bind the sacrifice with cords, even unto the horns of the altar
-
-> John 10:18 &mdash; No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father.
-
-- Refuge for the Sincere
-
-> 1 Kings 1:50 &mdash; And Adonijah feared because of Solomon, and arose, and went, and caught hold on the horns of the altar. 
-
-> 1 Kings 2:28 &mdash; Then tidings came to Joab: for Joab had turned after Adonijah, though he turned not after Absalom. And Joab fled unto the tabernacle of the LORD, and caught hold on the horns of the altar.
-
-Typical of the poor sinner, who flees for refuge to lay hold of the Gospel. 
-
-Also we find a solemn lesson in Exodus 21:14.
-
-> Exodus 21:14 &mdash; But if a man come presumptuously upon his neighbor, to slay him with guile; thou shalt take him from mine altar, that he may die.
-
-For the presumptous sinner and hyprocrite, the atonement of Jesus provides no shelter while he so continues.
-
 ## Vessels of the Altar
-
-> Exodus 27:3 &mdash; And thou shalt make his pans to receive his ashes, and his shovels, and his basins, and his fleshhooks, and his firepans: all the vessels thereof thou shalt make of brass.
-
-All of the vessels of the altar were made of Brass &mdash; a type of judgment.
-
-- The **Pans** to receive the ashes
-- The **Shovels** to remove the fire from the Brazen Altar to censers.
-- The **Basins** to Receive the Blood from the sacrifice offered.
-- The **Flesh Hooks** for placing the pieces of the offering in order on the altar and arranging them so as to be consumed.
-- The **Censers**  or **Fire Pans** were used to hold the burning coals from the Altar of the Burnt Offering to be carried to the Altar of Incense in the Holy Place.
-
 ## Grate of the Altar
-
-> Exodus 27:4,5 &mdash; 4 And thou shalt make for it a grate of network of brass; and upon the net shalt thou make four brazen rings in the four corners thereof. 5 And thou shalt put it under the compass of the altar beneath, that the net may be even to the midst of the altar. 
-
-The Brazen Altar was hollow, but on the inside half way from the top was a grating or network of Brass upon which the sacrifices were laid. The grating was the exact height of the Mercy Seat. There can be no mercy ministered to us apart from the blood sacrifice. The vilest sinner can obtain mercy through the blood. Even The moralist, if they reject the blood, can claim no mercy.
-
 ## Fire of the Altar
-
-- The fire on the Altar was first kindled by God.
-
-> Leviticus 9:24 &mdash; 
-
-- Strange Fire is a Counterfeit fire that emanates from some other source than God. Divine Fire consumes all such other fires!
-
-Nadab and Abihu offered strange fire in Leviticus 10:1,2.
-
-- It was never to go out as a type of Christ our continual sacrifice.
-
-> Leviticus 6:12,13 &mdash; 
-
-- Fire is a symbol of God's Holiness. 
-
-Fire symbolical of God's Holiness is expressed in 3 ways:
-
-1. APPROVAL - Exodus 3:3; Lev. 9:24; 1 Kings 18:38; Acts 2:3
-2. PURIFICATION - Mal. 3:2,3; Matthew 3:11,12
-3. CONDEMNATION - Genesis 19:24
