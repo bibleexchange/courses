@@ -1,4 +1,4 @@
-# Lesson #0.2: Overview and Outline of the Study of the Tabernacle
+# Overview and Outline of the Study of the Tabernacle
 
 God speaks out of the glory cloud on Mount Sinai and speaks to Moses these instructions.
 

@@ -8,7 +8,7 @@ The Ark of the Covenant and the Mercy Seat are the only furniture in the Holiest
 
 Only once a year on the Day of Atonement (Yom Kuppur) could the High Priest enter beyond the veil into the Holiest of Holies where the Ark was kept. The Holiest of Holies was a 10 cubit square room which housed the most important furniture of the Tabernacle &mdash; the ark of the covenant.
 
-<img src="tabernacle-layout.jpg" style="width: 400px;"/>
+![Tabernacle Layout](tabernacle-layout.jpg "Tabernacle Layout")
 
 The Holy of Holies is a Type for God's Throne room in Heaven.
 

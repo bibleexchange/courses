@@ -1,6 +1,6 @@
 # Lesson #2 Ark of the Covenant, Exodus 25:10-16
 
-<img src="ark-of-covenant.jpg" />
+![Ark of the Covenant](ark-of-covenant.jpg "Ark of the Covenant")
 
 ## I. What Happened to the Ark of the Covenant?
 

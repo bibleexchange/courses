@@ -1,6 +1,8 @@
-# Lesson #0.0: Introduction to the Study of the Tabernacle
+# Introduction to the Study of the Tabernacle
 
 TEXT: Exodus 25:8,9; Revelation 21:3
+
+![Tabernacle Layout](tabernacle-layout.jpg "Tabernacle Layout")
 
 ## The Context of and leading up to Exodus 25
 

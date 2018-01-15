@@ -1,6 +1,6 @@
-# Lesson #0.1: Understanding Biblical Typology
+# Understanding Biblical Typology
 
-<img src="abraham-sacrifices-isaac.jpg" style="width:400x"/>
+![Abraham Sacrifices Isaac](abraham-sacrifices-isaac.jpg "Abraham Sacrifices Isaac")
 
 > THEOPEDIA.com "Typology is a method of biblical interpretation whereby an element found in the Old Testament is seen to prefigure one found in the New Testament. The initial one is called the type and the fulfillment is designated the antitype. Either type or antitype may be a person, thing, or event, but often the type is messianic and frequently related to the idea of salvation. The use of Biblical typology enjoyed greater popularity in previous centuries, although even now it is by no means ignored as a hermeneutic."
 

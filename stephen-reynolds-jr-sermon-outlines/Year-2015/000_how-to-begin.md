@@ -1,24 +1,24 @@
-#An Excellent Beginning
+# An Excellent Beginning
 
 >Matthew 11:25-30&mdash;At that time Jesus answered and said, I thank thee, O Father, Lord of heaven and earth, because thou hast hid these things from the wise and prudent, and hast revealed them unto babes. 26 Even so, Father: for so it seemed good in thy sight. 27 All things are delivered unto me of my Father: and no man knoweth the Son, but the Father; neither knoweth any man the Father, save the Son, and he to whomsoever the Son will reveal him. 28 Come unto me, all ye that labour and are heavy laden, and I will give you rest. 29 Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls. 30 For my yoke is easy, and my burden is light.
 
-##Introduction
+## Introduction
 
-###Context
+### Context
 
-####vs. 1-6	John's Two Disciples "Are you the Christ"
-####vs. 7-15 Speaking to the Multitude About John
-####vs. 16-24 Comparing His Generation
+#### vs. 1-6	John's Two Disciples "Are you the Christ"
+#### vs. 7-15 Speaking to the Multitude About John
+#### vs. 16-24 Comparing His Generation
 
-####vs. 25-30 Revelation for the Infant Believer
+#### vs. 25-30 Revelation for the Infant Believer
 
-###Who were these 'babes' Christ mentioned?
+### Who were these 'babes' Christ mentioned?
 
 nepos a baby, (not speaking yet), immature Christian
 
-####In Matthew, John and His Disciples
+#### In Matthew, John and His Disciples
 
-####In Luke, The 70
+#### In Luke, The 70
 
 
 In Luke 10 (vs 21 prayed the same prayer Matthew 11:25) Christ's prayer is preceded by:
@@ -31,11 +31,11 @@ In Luke 10 (vs 21 prayed the same prayer Matthew 11:25) Christ's prayer is prece
 
 > rejoice, because your names are written in heaven.
 
-####Remember Peter (didn't really know what he was doing "Thou art the Christ")
+#### Remember Peter (didn't really know what he was doing "Thou art the Christ")
 
 >Mt 16:17 And Jesus answered and said unto him, Blessed art thou, Simon Barjona: for flesh and blood hath not revealed it unto thee, but my Father which is in heaven.
 
-###What does the Bible say about Spiritual Babes?
+### What does the Bible say about Spiritual Babes?
 
 >Psalm 8:2&mdash;Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger.
 
@@ -43,7 +43,7 @@ In Luke 10 (vs 21 prayed the same prayer Matthew 11:25) Christ's prayer is prece
 
 <blockquote class="quote">Understanding is the reward of faith. Therefore seek not to understand that thou mayest believe, but believe that thou mayest understand. --Augustine</blockquote>
 
-##A Peculiar Choice: Hide it from the Wise, Reveal it to the Babe (25)
+## A Peculiar Choice: Hide it from the Wise, Reveal it to the Babe (25)
 
 Revelation comes from God. It is God's to hide or manifest. He Chooses in mercy and wisdom to reveal truth even to spiritually immature.
 
@@ -52,7 +52,7 @@ Prudent - sunetos - mentally put together, able to comprehend -->have it all fig
 
 <blockquote class="quote">Faith in God makes great optimists. Over in Burma, Judson was lying in a foul jail with 32 lbs. of chains on his ankles, his feet bound to a bamboo pole. A fellow prisoner said, "Dr. Judson, what about the prospect of the conversion of the heathen?", with a sneer on his face. His instant reply was, "The prospects are just as bright as the promises of God." </blockquote>
 
-##A Simple Reason - The Babe is Hungry - Stay Hungry! (26-27)
+## A Simple Reason - The Babe is Hungry - Stay Hungry! (26-27)
 
 God Has seen it as good.
 
@@ -62,11 +62,11 @@ They are not hid from the other BECAUSE they are prudent and wise, so much as th
 
 John was searching while the established religious were full.
 
-##An Engraved Invitation - Rest and Learn (28-29)
+## An Engraved Invitation - Rest and Learn (28-29)
 
 >Matthew 11:28 Come unto me, all ye that labour and are heavy laden, and I will give you rest. 29 Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls. 30 For my yoke is easy, and my burden is light.
 
-##Conclusion
+## Conclusion
 
 Not Having it all Figured Out is an opportunity for God to do what He does best!
 

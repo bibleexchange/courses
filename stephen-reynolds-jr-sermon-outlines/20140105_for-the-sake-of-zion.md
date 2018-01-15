@@ -1,8 +1,9 @@
-#For the Sake of Zion 
-<!--20140105 Sun Am Antioch House of Prayer Abingdon, VA Pastor Jason Nunley-->
-##Text: Isaiah 62:1-12
+<h1> For the Sake of Zion</h1>
 
-##FOUNDATION
+<!--20140105 Sun Am Antioch House of Prayer Abingdon, VA Pastor Jason Nunley-->
+Text: Isaiah 62:1-12
+
+## FOUNDATION
 Many have fallen out of love with **Christianity** and because of the actions and words of Believers have found themselves drawing away from God. It seems as though the garment of the Body of Christ is stained and her influencing lessening. WHY WOULD THEY WANT IT?
 
 > ILLUSTRATION: On the Slopes of Long Peak Colorado, a 400 year old tree that withstood 400 passing years of lightening, winds, earthquakes and floods and finally brought down by a bunch of tiny beetles.
