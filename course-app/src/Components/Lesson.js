@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom'
+var MarkdownIt = require('markdown-it'),
+md = new MarkdownIt();
 
 class Lesson extends Component {
 
@@ -14,7 +16,6 @@ class Lesson extends Component {
 			lesson: section.lessons.find(this.findLesson, this)
 		}
 
-    console.log(this.state)
 	}
 
   render() {
@@ -22,11 +23,19 @@ class Lesson extends Component {
     let course = this.state.course
     let lesson = this.state.lesson
 
+    let content = lesson.content
+
+    if(lesson.type === ".md"){
+
+      content = md.render(content);
+      console.log(content)
+    }
+
     return (
       <div>
         <h1>{course.title}</h1>
 			
-        <div dangerouslySetInnerHTML={{ __html: lesson.content}} />
+        <div dangerouslySetInnerHTML={{ __html: content}} />
       </div>
     );
   }

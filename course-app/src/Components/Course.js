@@ -11,11 +11,11 @@ console.log(course)
       <div>
         <hr />
         <p>{this.props.id} ({this.props.lessons.length} lessons)</p>
-
+        <ol>
         {this.props.lessons.map(function(les, key){
-          return <h2 key={key}>{les.uuid}. <Link to={"/course/"+course.id+"/"+sectionIndex+"/"+les.uuid}>{les.fileName}</Link></h2>
+          return <li key={key}><Link to={"/course/"+course.id+"/"+sectionIndex+"/"+les.uuid}>{les.fileName}</Link></li>
         })}
-
+        </ol>
       </div>
     );
   }
