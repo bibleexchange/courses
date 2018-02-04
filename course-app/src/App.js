@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import { Switch, Route } from 'react-router-dom'
 import Home from './Components/Home'
@@ -12,7 +11,6 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Welcome to the Bible exchange Courses Repository</h1>
         </header>		
 
@@ -25,7 +23,7 @@ class App extends Component {
         <Course {...props} data={this.props.data}/>
       ))}/>
 
-      <Route exact path='/course/:courseId/:lessonId' render={(props => (
+      <Route exact path='/course/:courseId/:sectionId/:lessonId' render={(props => (
         <Lesson {...props} data={this.props.data}/>
       ))}/>
 

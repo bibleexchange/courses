@@ -3,9 +3,7 @@
 const path = require('path');
 const chalk = require('chalk');
 const fs = require('fs-extra');
-
 const config = require('./config.json')
-
 const files = getFiles(config.courseRoot)
 const directories = getDirectories(config.courseRoot, config.ignore)
 
