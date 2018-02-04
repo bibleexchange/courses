@@ -1,87 +1,55 @@
 ## THE PREPARATION OF THE KINGS DISCIPLES (16:13-17:13)
 
- A. Peter&#8217;s revelation of Christ - 16:13-17:13
+### Peter's revelation of Christ (16:13-17:13)
 
- 1. Thou art the Christ
+One of life's most important questions is "Who do men say that I, the Son of man, am?" (Matt. 16:13).
 
- 2. The Son of the living God
+Who is he to you personally? Savior? Healer? Deliverer?
 
- 3. Revealed by the Father
+Peter answered, "Thou art the Christ the Son of the living God."
 
- B. The keys of the Kingdom - 16:18-19
+This was revealed to him by the Father.
 
- 1. Jesus is the Rock - I Cor. 3:10-11, I Pet. 2: 6
+### The keys of the Kingdom (16:18-19)
 
- 2. Peter - &#8220;Cephas&#8221; was a small stone
+Peter (Cephas) was a small stone, but Jesus is the Rock. Peter is not the rock, Catholics will claim this scripture, But Peter is a small stone, Cephas meaning a small stone, but Jesus was the rock (I Corinthians 3:10, 11; I Peter 2:6).
 
- 3. Binding and loosing
+Keys represent authority.
 
- C. Christ&#8217;s death forthtold - 16:20-28
+Peter even though he received the revelation he didn't understand completely.
 
- 1. Peter&#8217;s lack of understanding
+### Christ's death forthtold (16:20-28)
 
- 2. Peter rebuked
+Peter had a lack of understanding, and was rebuked by Jesus.
 
- 3. Taking up the cross
+Jesus told the disciples that they needed to take up the cross.
 
- D. The transfiguration of Christ - 17:1-9
+Who was Jesus referring to in Matthew 16:28? Some believe that is was John the beloved. It is commonly believed that John did not see death but was like Enoch was.
 
- 1. His face did shine as the sun
+### The transfiguration of Christ (17:1-9)
 
- 2. His raiment was white as the light
+#### His face did shine as the sun
 
- 3. The appearance of Moses and Elijah
+#### His raiment was white as the light
 
- 4. The Father&#8217;s witness of the Son :
- &#8220;This is my beloved Son, in whom I am well pleased;
- hear ye Him.&#8221; - v. 5
+#### The appearance of Moses and Elijah
 
- E. John the Baptist&#8217;s prophetic fulfilment - 17:10-13
+Moses could not enter into the Promised Land, because of unbelief. But where is Moses now? He is standing on the Promised Land. 
 
- F. Healing of demoniac son - 17:10-13
+#### The Father's witness of the Son (17:5)
 
- 1. The disciples lack of faith
+> "This is my beloved Son, in whom I am well pleased; hear ye Him."
 
- 2. The need for prayer and fasting
+### John the Baptist's prophetic fulfilment (17:10-13)
 
- G. Jesus Explains His death to the disciples - 17:22-23
+### Healing of demoniac son (17:10-13)
 
- H. The tribute money supplied - 17:24-27
+#### The disciples lack of faith
 
+#### The need for prayer and fasting
 
-=====
-from MKB notes:
+There is a need in the ministry for prayer and fasting. Is it easy? No. Does the flesh enjoy it? No. Is it necessary? Yes.
 
-Matthew 16:12 &mdash; talking about the doctrine of the Pharisees and Sadducees
-16:13 
-Peter&apos;s revelation of Christ, 
-Peter is not the rock, Catholics will claim this scripture, But Peter is a small stone, Cephas meaning a small stone, but Jesus was the rock
-I Corinthians 3:10, 11
-I Peter 2:6
-vs. 19
-Keys represent authority; 
-Peter even though he received the revelation he didn&apos;t understand completely 
-16:28 &mdash; Who might that be referring to? John the beloved
-It is commonly believed that John did not see death but was like Enoch was
- 
-Matthew 17: 
-Moses could not enter into the Promised Land, because of unbelief; where is Moses now, he is standing on the Promised Land. 
-We believe that the Jesus Only doctrine is a false doctrine. 
-17:8 &mdash; this one of the scriptures that they use to base their doctrine on
-Jesus believes that there is only one God, Ê
-Manifested as the Father in creation, The Son in regeneration, The Holy Ghost in sanctification 
-Basically people fall into error when they take one scripture by itself, like the boy who looked through at the parade through the knothole, he didn&apos;t see the parade
-How do they explain the interaction between the father and the son, they somehow believe he separated from himself &mdash; this is not an exact quote, not creditable enough to base on
-There is a world of false doctrine out there. 
- 
-There is a need in the ministry for &quot;Prayer and Fasting&quot; 
-Is it easy &mdash; no, Does the flesh enjoy it &mdash; no, Is it necessary - yes
- 
-Will we preach the truth in the face of going to jail? 
- 
-Matthew 18:
- 
-Romans 6:
-Get rid of that which causes you to stumble. 
- 
-There is power in agreement, 
+### Jesus Explains His death to the disciples (17:22-23)
+
+### The tribute money supplied (17:24-27)

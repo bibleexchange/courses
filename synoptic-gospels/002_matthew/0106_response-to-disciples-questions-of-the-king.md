@@ -1,36 +1,29 @@
-## RESPONSE TO THE DISCIPLES QUESTIONS OF THE KING - 18:1-35
+## RESPONSE TO THE DISCIPLES QUESTIONS OF THE KING (18:1-35)
 
+### The child used to teach the disciples (18:1-10)
 
- A. The child used to teach the disciples - 18:1-10
+The disciples asked a question: "Who is the greatest in the kingdom of heaven?"
 
- 1. Disciples question: &#8220;Who is the greatest in the kingdom
- of heaven?&#8221;
+Jesus answered that they needed to be converted and come as children. He who humbles himself as a child is greatest in the kingdom of heaven.
 
- 2. The need to be converted and come as children
+#### Warning against offending a child
 
- 3. He who humbles himself as a child is greatest in the
- kingdom of heaven
+#### Cut off that which causes offence
 
- 4. Warning against offending a child
+#### Despise not one of these little ones
 
- 5. Cut off that which causes offence
+### Parable of the lost sheep (18:11-14)
 
- 6. Despise not one of these little ones
+### Instruction concerning a brother that has sinned against us (18:15-17)
 
- B. Parable of the lost sheep - 18:11-14
+### Binding and loosing (18:18)
 
- C. Instruction concerning a brother that has sinned against us -
- 18:15-17
+### Power of unity (18:19-20)
 
- D. Binding and loosing - 18:18
+Two or three must agree.
 
- E. Power of unity - 18:19-20
+Jesus is in the midst of two or three gathered together in his name.
 
- 1. If two shall agree
+### The extent of forgiveness (18:21-22)
 
- 2. Jesus in the midst of two or three gathered together
- in his name.
-
- F. The extent of forgiveness - 18:21-22
-
- G. The parable of the unmerciful servant - 18:23-35 
+### The parable of the unmerciful servant (18:23-35) 

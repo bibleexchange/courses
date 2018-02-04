@@ -1,235 +1,107 @@
 ## THE POWER OF THE KING. (8:1-11:1)
- A. Demonstration of the King&#8217;s power. - 8:1- 9:34.
- 1. Great multitudes followed Him.
- 2. A leper healed. - 8:2-4.
- 3. Centurion&#8217;s servant healed. - 8:5-13.
- a. Speak the Word only, and my servant shall be healed.
- b. A man of great faith.
 
- 4. Peter&#8217;s wife mother healed - 8:14-15
+### Demonstration of the King's power (8:1- 9:34)
 
- 5. Ministry of healing - 8:16-17
+Great multitudes followed Him.
 
- a. Cast out the spirits with His Word.
+#### He healed a leper (8:2-4)
 
- b. Healed all that were sick
-
- 6. The tempest stilled - 8:18-27
-
- a. The command to depart to the other side
-
- b. The unbelief of the disciples
-
- c. The winds and sea obey Jesus
-
- 7. Demoniacs of Gadara healed - 8:28-34
-
- 8. Palsied man healed - 9:1-8
-
- 9. Call of Matthew - 9:9
-
- 10. Sinners called to repentance - 9:10-13
-
- 11. Question of John&#8217;s disciples - 9:14-15
-
- 12. Parables of new and old - 9:16-17
-
- 13. Raising of Jarius&#8217; daughter - 9:18-19, 23-26
-
- 14. Touching His garment - 9:20-22
-
- 15. Two blind men healed - 9:27-31
-
- 16. Dumb demoniacs healed - 9:32-34.
-
- B. Delegation of the King&#8217;s power - 9:35-11:1
-
- 1. Galilean ministry - 9:35-36
-
- a. Teaching in their synagogues
-
- b. Preaching the Gospel of the Kingdom
-
- c. Healing the sick
-
- 2. Laborers of His harvest - 9:37-38
-
- 3. Sending forth of the Twelve - 10:1-11:1
-
- a. To Israel - 10:6
-
- b. Preach the Kingdom of Heaven is at hand - 10:7
-
- c. Heal the sick - 10:8
+#### He healed a centurion's servant (8:5-13)
  
- ========
- from other outline:
+The centurion was a man of great faith.
+
+#### He healed Peter's mother-in-law (8:14-15)
+
+#### He healed many (8:16-17)
+
+##### He cast out the spirits with His Word
+
+##### He healed all that were sick
+
+#### He stilled the storm (8:18-27)
+
+The disciples did not believe.
+
+The winds and sea obeyed Jesus.
+
+#### He healed the demoniacs of Gadara (8:28-34)
+
+#### He healed the palsied man (9:1-8)
+
+#### He called Matthew (9:9)
+
+#### He came to call sinners to repentance (9:10-13)
+
+#### He was questioned by John's disciples (9:14-15)
+
+#### He gave parables of the new and the old (9:16-17)
+
+#### He raised Jarius' daughter (9:18-19, 23-26)
+
+#### He healed the woman that touched His garment (9:20-22)
+
+#### He healed two blind men (9:27-31)
+
+#### He healed the mute demoniacs (9:32-34)
+
+### Delegation of the King's power (9:35-11:1)
+
+#### He commanded His disciples to pray for laborers (9:35-38)
+
+Jesus was ministering in Galilee, and He was moved with compassion for the people. He told the disciples to pray because many laborers were needed.
+
+His power is worked through open vessels (those yielded to Him). He wants us to be laborers. He is looking for those who will move in the Spirit.
+
+#### He sent forth the Twelve (10:1-11:1)
  
+He was organizing His kingdom. A King must have subjects. The twelve disciples were the King's Cabinet.
+
+He wants to reflect His light through human instruments and vessels. We are the light of the world, but He is the source of that light. Jesus still has a great love for the world, but He still needs man to carry it. Spiritual ideas cannot walk alone throughout the world and be of any value. They must be clothed with humility. We must serve as hearts, brains, hands, and feet to carry the Gospel.
+
+> Romans 10:14-15 How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher? And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!
+
+##### He sent them with power (10:1)
+
+##### He sent ordinary men (10:2-4)
+
+Where did Jesus find the first members of His cabinet? Not in the temple, among doctors or priests, or in the colleges of Jerusalem, but He found them on the sea shore mending their nets.
+
+The disciples had to come to the place that they realized they were sinners. People who think they are well are self-righteous.
  
+God calls the foolish to confound the wise (I Cor. 1:27).
 
- IX. The King&#8217;s Power Chapters 9,10
+Matthew 10:2-4 is one of the most important lists of "Who's Who" in the world.
 
- A. ___________ the leper
+These men were given a work to do that would make winning battles and founding empires seem of small consequence.
 
- B. Centurions servant _____________ 
+##### He sent them to Israel (10:5-6)
 
- C. __________ Mother-in-law
+##### He sent them with a mission (10:7-10)
 
- D. Cast out spirits with His _______and healed all that were _______.
+###### Preach the kingdom of Heaven is at hand
 
- E. Part of the _________ to pay
+The word "kingdom" is used 55 times in Matthew, and the phrase "Kingdom of Heaven" occurs 35 times. Of fifteen parables in Matthew, twelve start with "the kingdom of heaven is like..."
 
- F. _______________ Jesus into a storm
+###### Heal the sick
 
- G. ___________ than evil power
+###### Cleanse the leper
 
- H. Went into His own city and __________ man sick of the palsy
+###### Raise the dead
 
- I. __________ Matthew
+###### Cast out devils
 
- J. _________ to the sick and sinners
+###### Freely ye have received, freely give
 
- K. ___________ woman with issue of blood
-
- L. Brought the rulers daughter back from the dead
-
- M. Brought _________ to two blind men
-
- N. ________ _______ a devil from a dumb man and he spake
-
- Ended all of these by a _____________ vs. 36 - 38
-
- His __________ is worked through open ____________.
-
- Those ______________ to Him.
-
- He wants us to be laborers.
-
- He is looking for those who will move in the ____________.
-
-
- X. The King&#8217;s Cabinet - Chapter 10
-
- A. Matt. 10:1 He gave them power.
-
- B. He was organizing His ____
- cabinet___.
-
- C. A King must have ___
- _laws
- ________.
-
- 1. He wants to reflect His light through human __
- _life
- ________
- and _______________.
-
- a. &#8220;Ye are the _____
- light
- _____ of the world&#8221;
- He is the ______
- source
- _______ of that light.
-
- 2. Jesus still has a great ___
- love
- __________ for the world.
-
- a. He still needs ___
- man
- ______ to carry it.
-
- 3. Spiritual ideas cannot walk alone throughout the world
- and be of any __
- _value
- __________. They must be clothed
- with _
- humility
- ___who will serve as _________ and _______,
- __________ and __________ to carry them.
-
- Ro 10:14 How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher?
- 15 And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!
- (KJV)
- Romans 10:14,15
-
- B. Where did Jesus find the first members of His cabinet?
-
- 1. Not in the __________
-
- 2. Not among _________ or __________
-
- 3. Not in the ____________ of Jerusalem
-
- 4. He found them on the ________________ mending their
- nets.
-
- 5. He did call some as __________ but all had to come to
- the place that they realized they were ____________.
-
- a. Most well of are ______ - ________________.
- I Cor. 1:27 ______________ to _____________
- the wise.
-
-
-
- C. One of the most important lists of &#8220;Who&#8217;s Who&#8221; in the world.
-
- 1. Matthew 10:2-4
-
- 2. These men were given a work to do that would make
- winning battles and founding empires seem of ________
- consequence.
+###### Go by faith
  
- 
- =====================
- more form other outline:
- 
- 
+Do not be attached to the things of this life.
 
+##### He sent them with a warning (10:11-23)
 
- XI. The King&#8217;s Commission - Chapter 10
+###### They would be rejected (10:11-15)
 
- A. Mission
+###### They would be persecuted (10:16-23) 
 
- 1. _____ unto the lost sheep of Israel
+##### He sent them with instruction (10:24-39)
 
- 2. _________ the kingdom of Heaven is at hand
-
- 3. _________ the sick
-
- 4. ____________ the leper
-
- 5. __________ the dead
-
- 6. ________ ________ devils
-
- 7. _________ ye have ______________,
- _________ give
-
- 8. _____ by _________
- not attached to the things of this life
-
- 9. warns of ____________________ vs. 11-15
-
- 10. warns of ____________________ vs. 16 - 23 
-
- 11. more __________________
-
- 12. ________________
-
-
-
-
-
- XII. The Kingdom of Heaven
-
- A. Kingdom = __________ times in Matthew
-
- B. Kingdom of Heaven = __________ times
-
- 1. Kingdom of God in the other Gospels
-
- C. Of ______ parables in Matthew, _______ start with the
-
- ___________ of ______________ is like&hellip;
+##### He sent them with a promise of rewards (10:40-42)
