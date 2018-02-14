@@ -1,7 +1,7 @@
-####Mwaka wa pili Second Year
-####Kitabu Textbook
+####Mwaka wa pili
+####Kitabu
 
-# WARUMI ROMANS
-##Injili ilifafanuliwa The Gospel Explained
+# WARUMI
+##Injili ilifafanuliwa
 
 <img src="https://bible.exchange/assets/img/be_logo.png" id="be-logo"/>
