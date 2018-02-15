@@ -1,127 +1,110 @@
-# Imani,Neema na kuhesabiwa haki;War 4
- Faith, Grace & Justification &mdash; Romans 4
+# Imani, Neema, na kuhesabiwa haki (War. 4)
 
-KUHESABIWA HAKI NI KWA IMANI AMBAYO NI KWA NEEMAJUSTIFICATION IS OF FAITH THAT IT MIGHT BE BY GRACE
+KUHESABIWA HAKI NI KWA IMANI AMBAYO NI KWA NEEMA
 
-##Utangulizi;kuhesabiwa haki kwa neema kwa njia ya imani;Introduction &mdash; &quot;Justification By Grace Through Faith&quot;
+## Utangulizi&mdash;&quot;kuhesabiwa haki kwa neema kwa njia ya imani&quot;
 
-Kazi ya sheria katika kuhesabiwa haki ni ile inayoleta kuijua dhambi.Mtu haihesabiwa haki kwa njia ya matendo sheria.Kwasababu kuhesabiwa haki inachukua nafasi katika muumini kwa neema kwa njia ya imani;The role of the law in justification is that it brings the knowledge of sin. A person is not justified through the works of the law. For justification takes place in the case of the Believer &quot;by grace through faith&quot;.
+Kazi ya sheria katika kuhesabiwa haki ni ile inayoleta kuijua dhambi. Mtu haihesabiwa haki kwa njia ya matendo sheria. Kwasababu kuhesabiwa haki inachukua nafasi katika muumini kwa neema kwa njia ya imani.
 
-Kwa Neema zawadi ya uzima wa milele imetolewa bure kwa ulimwengu wote ni kwa njia ya imani ambayo zawadi hupokelewa.Mungu amefanya ya kwanza kuondoka kwenye ukombozi na kwa ajili ya ule mpango kuwa wamanufaa kwangu,lazima nichague kupokea zawadi kwa imani.(Neema ya Mungu husaidiana na asili ya mapenzi huru ya Mungu aliyoyatoa kwa mwanadamu.)By Grace a gift of eternal life is freely offered to the entire world and it is through faith that gift is received. God made the first move in the plan of redemption and for that plan to be effective in me, I must choose to receive that gift through faith. (God&apos;s grace is resistible by the nature of the free will given by God to man.)
+Kwa Neema zawadi ya uzima wa milele imetolewa bure kwa ulimwengu wote ni kwa njia ya imani ambayo zawadi hupokelewa. Mungu amefanya ya kwanza kuondoka kwenye ukombozi na kwa ajili ya ule mpango kuwa wamanufaa kwangu, lazima nichague kupokea zawadi kwa imani. (Neema ya Mungu husaidiana na asili ya mapenzi huru ya Mungu aliyoyatoa kwa mwanadamu.)
 
-> Waefeso 2:8 Kwa maana mmeokolewa kwa neema, kwa njia ya imani; ambayo hiyo haikutokana na nafsi zenu, ni kipawa cha Mungu;
-Ephesians 2:8&mdash;For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:
+> Waefeso 2:8&mdash;Kwa maana mmeokolewa kwa neema, kwa njia ya imani; ambayo hiyo haikutokana na nafsi zenu, ni kipawa cha Mungu;
 
-> Warumi 4:16 Kwa hiyo ilitoka katika imani, iwe kwa njia ya neema, ili kwamba ile ahadi iwe imara kwa wazao wote; si kwa wale wa torati tu, ila na kwa wale wa imani ya Ibrahimu; aliye baba yetu sisi sote;
-Romans 4:16&mdash;Therefore it is of faith, that it might be by grace; to the end the promise might be sure to all the seed; not to that only which is of the law, but to that also which is of the faith of Abraham; who is the father of us all.
+> War. 4:16&mdash;Kwa hiyo ilitoka katika imani, iwe kwa njia ya neema, ili kwamba ile ahadi iwe imara kwa wazao wote; si kwa wale wa torati tu, ila na kwa wale wa imani ya Ibrahimu; aliye baba yetu sisi sote;
 
-Kuhesabiwa haki kwa njia ya imani imeonyeshwa katika maisha ya Ibrahimu.Justification by Faith is Demonstrated in the life of Abraham.
+Kuhesabiwa haki kwa njia ya imani imeonyeshwa katika maisha ya Ibrahimu.
 
-<!-- -- -- -->
-<!-- -- -- -->
-<!-- -- -- -->
-## Abrahimu alihesabiwa haki kwa njia ya imani na sio kwa matendo.mstr wa 8;I. Abraham was justified by Faith and not by Works. &mdash; Vs. 1&mdash;8
+## Abrahimu alihesabiwa haki kwa njia ya imani na sio kwa matendo (mst. 1-8)
 
-> War 4:3Ibrahimu alimwamini Mungu, ikahesabiwa kwake kuwa haki.
-Romans 4:3&mdash;&hellip;Abraham believed God, and it was counted unto him for righteousness.
+> War. 4:3&mdash;&hellip;Ibrahimu alimwamini Mungu, ikahesabiwa kwake kuwa haki.
 
-### A.Paulo anaelezea swali la wayahhudi Paul is Addressing a Question of the Jews
+### Paulo anaelezea swali la wayahhudi
 
-#### 1. Kwa nini Paulo anaongelea kuhusu Ibrahimu?Why is Paul talking about Abraham?
+#### Kwa nini Paulo anaongelea kuhusu Ibrahimu?
 
-##### a. Wayahudi walihusiana na Ibrahimu kwa undaniThe Jews Relate Deeply to Abraham
+##### Wayahudi walihusiana na Ibrahimu kwa undani
 
-Abrahamu alirejewa kama baba yetu katika mistr ya 1,12,17.Abrahamu alikuwa baba yetu kama alivyofungamana katika mwili,baba wa tohara,baba wa imani yetu,baba wa mataifa(hii ilikuwa ni ahadi ya Mungu kwake).Abraham is referenced as &quot;our father&quot; in verses 1,12 and 17. Abraham was our Father as pertaining to flesh, the Father of circumcision, Father of our faith, and Father of nations (This was the promise of God to Him).
+Abrahamu alirejewa kama baba yetu katika mistr ya 1, 12, na 17. Abrahamu alikuwa baba yetu kama alivyofungamana katika mwili, baba wa tohara, baba wa imani yetu, baba wa mataifa (hii ilikuwa ni ahadi ya Mungu kwake).
 
-Wayahudi walikuwa wameshikiliwa katika uhusiano wao na Abrahamu;(wana wa Abrahamu kimwili;)kama dhamana yao kwa uzima wa milele.Wayahudi waliweka faraja kubwa kwa Abrahimu baba wa taifa lao hii ni swali la kiyahudi,Paulo analielezea:The Jews were holding to their relationship to Abraham (&quot;abraham&apos;s children according to the flesh&quot;) as their guarantee to eternal life. The Jews placed great confidence in Abraham the Father of their nation and it is the Jewish questions, Paul is addressing:
+Wayahudi walikuwa wameshikiliwa katika uhusiano wao na Abrahamu (&quot;wana wa Abrahamu kimwili&quot;) kama dhamana yao kwa uzima wa milele. Wayahudi waliweka faraja kubwa kwa Abrahimu baba wa taifa lao hii ni swali la kiyahudi, Paulo analielezea:
 
-&mdash; Ni nini kuhusu Ibrahimu Baba yetu?What about Abraham our Father?
-&mdash; Ni agano gani la tohara lililotolewa kwa Abrahimu,lisilo tufanya sisi kuwa haki?What about the covenant of circumcision given to Abraham, doesn&apos;t that make us righteous?
+&mdash;Ni nini kuhusu Ibrahimu Baba yetu?
 
-##### b. maandiko yasemaje?What saith the Scripture?
+&mdash;Ni agano gani la tohara lililotolewa kwa Abrahimu, lisilo tufanya sisi kuwa haki?
 
-> War 4:3 Kwa ajili ya nini ambacho maandiko yanasema? Romans 4:3 &mdash;For what saith the scripture? &hellip;
+##### Maandiko yasemaje?
 
-War sura ya 4 inashughulika na haki ya Ibrahimu;.Ibrahimu ni mfano wa kuhesabiwa kwa neema kupitia ya imani.Paulo anatumia maisha ya Ibrahimu kama YALIVYOONYESHWA KATIKA MAANDIKO MATAKATIFU kuelezea fundisho la haki kwa njia ya imani.Katika sura sura zote mbili ya 3 na ya4 Paulo anautoa ukweli kwamba yeye hahubiri injili ya kushindanisha maandiko ya (Agano la kale),bali za ni injili ambayo mwendelezo wa kusudi la Mungu la milele.Romans chapter 4 deals with &quot;Abraham&apos;s Righteousness&quot;. Abraham is an example of justification by grace through faith. Paul uses Abraham&apos;s life as recorded in SCRIPTURE to explain the doctrine of righteousness by faith. In both Chapter 3 and Chapter 4, Paul is bringing out the truth that he is not teaching a Gospel that is in competition with the Scriptures (Old Testament), but rather a Gospel that is a continuation of God&apos;s Eternal Purpose.
+> War. 4:3&mdash;Maana maandiko yasemaje?&hellip;
 
-1.katika sura ya 3,Paulo anathibitisha kwamba imani haipuki sheria bali zaidi ya hapo inaithibitisha.1. In chapter 3, Paul affirms that faith does not void the Law but rather establishes it.
-2.Katika sura ya 4 ahadi iliotolewa kwa Ibrahimu haikuwa kwa njia ya sheria(tohara0 bali kwa njia ya haki ya imani.2. In chapter 4, the promise given to Abraham was not through the Law (circumcision) but through the righteousness of faith.
+War sura ya 4 inashughulika na haki ya Ibrahimu. Ibrahimu ni mfano wa kuhesabiwa kwa neema kupitia ya imani. Paulo anatumia maisha ya Ibrahimu kama YALIVYOONYESHWA KATIKA MAANDIKO MATAKATIFU kuelezea fundisho la haki kwa njia ya imani. Katika sura sura zote mbili ya 3 na ya4 Paulo anautoa ukweli kwamba yeye hahubiri injili ya kushindanisha maandiko ya (Agano la kale), bali za ni injili ambayo mwendelezo wa kusudi la Mungu la milele.
 
-#### 2.Swali ni nini?2. What is the Question?
+1. katika sura ya 3, Paulo anathibitisha kwamba imani haipuki sheria bali zaidi ya hapo inaithibitisha.
+2. Katika sura ya 4 ahadi iliotolewa kwa Ibrahimu haikuwa kwa njia ya sheria (tohara) bali kwa njia ya haki ya imani.
+
+#### Swali ni nini?
 
 **Swali**: Basi, tusemeje juu ya Ibrahimu, baba yetu kwa jinsi ya mwili?
-mstr wa 1&mdash; **Question**:
-What shall we say then that Abraham our father, as pertaining to the flesh, hath found? v.1
+(mst. 1)
 
-**Jibu**:Kwa maana ahadi ile ya kwamba atakuwa mrithi wa ulimwengu alipewa Ibrahimu na uzao wake, si kwa sheria bali kwa haki aliyohesabiwa kwa imani.mst 13.
-&mdash; **Answer**:
-For the promise, that he should be the heir of the world, was not to Abraham, or to his seed, through the law, but through the righteousness of faith. v.13
+**Jibu**: Kwa maana ahadi ile ya kwamba atakuwa mrithi wa ulimwengu alipewa Ibrahimu na uzao wake, si kwa sheria bali kwa haki aliyohesabiwa kwa imani (mst. 13).
 
-Mungu anatumia mfano wa Ibarahimu kuwaelezea wakristo wakiyahudi jinsi gani watu wanaweza kuhesabiwa haki na Mungu.God is using the example of Abraham to explain to the Jewish Christians how men are justified&mdash;&mdash;declared righteous/just by God.
+Mungu anatumia mfano wa Ibarahimu kuwaelezea wakristo wakiyahudi jinsi gani watu wanaweza kuhesabiwa haki na Mungu.
 
-Paulo alikuwa anatumia maandiko kama mamlaka ya kukanushia maswali ya wayahudi.Hivyo wa kristo leo wangetumia neno la Mungu kama mamlaka ya mwisho kuyajibia maswali.Paul was using the Scripture as the authority to refute the questions of the Jews. So should the Christian today look to the Word of God as the final authority in settling questions.
+Paulo alikuwa anatumia maandiko kama mamlaka ya kukanushia maswali ya wayahudi. Hivyo wa kristo leo wangetumia neno la Mungu kama mamlaka ya mwisho kuyajibia maswali.
 
-### B.Kabla ya Torati kutolewa,Ibrahimu alihesabiwa kama mweye haki! mmstr.4B. Before the Torah was Given, Abraham was counted as righteous! vs. 1&mdash;4
+### Kabla ya Torati kutolewa, Ibrahimu alihesabiwa kama mweye haki! (mst. 4)
 
-Musa ambayo alienziwa na wayahudi kama mwandishi wa Torati aliyeitwa kama shahidi kwenye kuhesabiwa haki kwa Ibrahimu kwa njia ya imani.Moses who was esteemed by the Jews as the writer of the Torah is called as a witness to the justification of Abraham by faith.
+Musa ambayo alienziwa na wayahudi kama mwandishi wa Torati aliyeitwa kama shahidi kwenye kuhesabiwa haki kwa Ibrahimu kwa njia ya imani.
 
-> Mwanzo 15:6 Akamwamini Bwana, naye akamhesabia jambo hili kuwa haki.
-Genesis 15:6 &mdash And he believed in the LORD; and he counted it to him for righteousness.
+> Mwanzo 15:6&mdash;Akamwamini BWANA, naye akamhesabia jambo hili kuwa haki.
 
-Hichi ndicho kifungu ambacho wayahudi wangekielewa vizuri zaidi.Paulo anayatumia maandiko yao wenyewe kuwahubiria wayahudi kuhesabiwa haki kwa njia imani.Neno kuhesabiwa linabeba maana ileile kwa kiebrania kama linavyosema katika Kigriki.Haki iliwekwa katika hesabu yake kwa njia ya imani.Hii ndio maana ya kuhesabiwa haki. This is a passage the Jews would have been well familiar with. Paul is using their own Scriptures to preach to the Jews justification by faith. The word counted carries the same meaning in Hebrew as it does on Greek. Righteousness was put to his account by faith. This is the meaning of Justification.
+Hichi ndicho kifungu ambacho wayahudi wangekielewa vizuri zaidi. Paulo anayatumia maandiko yao wenyewe kuwahubiria wayahudi kuhesabiwa haki kwa njia imani. Neno kuhesabiwa linabeba maana ileile kwa kiebrania kama linavyosema katika Kigriki. Haki iliwekwa katika hesabu yake kwa njia ya imani. Hii ndio maana ya kuhesabiwa haki.
 
-Kabla ya torati kwa Musa na kwa mda mrefu hata kabla hata musa kuzaliwa,Ibrahimu alikuwa amekwisha hesabiwa haki kwa imani kama ilivyo kwa wakristo wa leo.Mungu alimpa Ibrahimu ahadi;yeye alimwamini Mungu ikahesabiwa kwake kuwa haki.Before the Torah was given to Moses and long before Moses was even born, Abraham was justified by faith the same way the Christians are today. God gave Abraham a promise; he believed God and it was counted unto him for righteousness.
+Kabla ya torati kwa Musa na kwa mda mrefu hata kabla hata musa kuzaliwa, Ibrahimu alikuwa amekwisha hesabiwa haki kwa imani kama ilivyo kwa wakristo wa leo. Mungu alimpa Ibrahimu ahadi; yeye alimwamini Mungu ikahesabiwa kwake kuwa haki.
 
-> War 4:4 Lakini kwa mtu afanyaye kazi, ujira wake hauhesabiwi kuwa ni neema, bali kuwa ni deni.
-Romans 4:4 Now to him that worketh is the reward not reckoned of grace, but of debt.
+War. 4:4
 
-What does God OWE humanity? Judgment. Keeping the Law does not obligate God to justify the sinner. It is a gift and it is by grace not &quot;debt&quot;.
+Je, Mungu anawapa wanadamu nini? Hukumu. Kuweka Sheria hakumamuru Mungu kuhalalisha mwenye dhambi. Ni zawadi na ni kwa neema si &quot;deni.&quot;
 
-### C.Mungu humhesabia haki mtu asiye mcha.mstr.5C. God justifies the ungodly. v. 5
+### Mungu humhesabia haki mtu asiye mcha (mst. 5)
 
-Wale wasio zaliwa mara ya pili ni wenye dhambi na wapagani.Mwenye kutubu hutangazwa kuwa mwenye haki na Mungu kupitia damu ya Yesu.Wapagani hawana lolote la kufanya kwa ajili ya kuupata wokovu.watahesabiwa haki kwa neema tu kwa njia ya imani;.Those who are not born&mdash;again are sinners and ungodly. The repentant sinner is declared righteous by God through the blood of Jesus. The ungodly do nothing to earn their salvation. They are justified &quot;by grace alone through faith alone&quot;.
+Wale wasio zaliwa mara ya pili ni wenye dhambi na wapagani. Mwenye kutubu hutangazwa kuwa mwenye haki na Mungu kupitia damu ya Yesu. Wapagani hawana lolote la kufanya kwa ajili ya kuupata wokovu. Watahesabiwa haki kwa neema tu kwa njia ya imani.
 
-KUMBUKA:Mungu anadai imani na haghairi neema ya Mungu.Mashariti ya kuhesabiwa haki kwa matendo iko katika ushindani pamoja na neema ya Mungu ambao ni wema wake ambao ulikusudiwa tu kwasababu ya wema wa Mungu.Sharti la kuhesabiwa haki ni itikio la imani.Imani kikwelii inahitajika na kuhesabiwa haki kwetu bado ni kwa ajili ya utukufu wa Mungu kama yeye alivyotupa karama ya imani ambayo kwa hiyo twaweza kuitikia neema yake.kuhesabiwa haki ni kwa neema na pia ni shariti:kwa neema kwa njia ya imani. NOTE: God requiring faith does not cancel God&apos;s grace. A justification conditional by works is in competition with the grace of God which is His goodness extended only for the reason that God is good. The condition to justification is a response of faith. Faith is absolutely required and our justification is still to the glory of God as it He Who has given to us the gift of faith with which we may respond to His grace. Justification is by grace and is conditional: by grace through faith.
+KUMBUKA: Mungu anadai imani na haghairi neema ya Mungu. Mashariti ya kuhesabiwa haki kwa matendo iko katika ushindani pamoja na neema ya Mungu ambao ni wema wake ambao ulikusudiwa tu kwasababu ya wema wa Mungu. Sharti la kuhesabiwa haki ni itikio la imani. Imani kikwelii inahitajika na kuhesabiwa haki kwetu bado ni kwa ajili ya utukufu wa Mungu kama yeye alivyotupa karama ya imani ambayo kwa hiyo twaweza kuitikia neema yake. Kuhesabiwa haki ni kwa neema na pia ni shariti: kwa neema kwa njia ya imani.
 
-### D.ushuhuda wa Daudi mstr.6;8D. David&apos;s Testimony vs. 6&mdash;8
+### Ushuhuda wa Daudi (mst. 6-8)
 
-Paulo anatoa ushuhuda kutoka kwa Daudi unaosaidia ujumbe wa kuhesabiwa haki kwa imani.Paul brings testimony from David to support the message of justification by faith.
+Paulo anatoa ushuhuda kutoka kwa Daudi unaosaidia ujumbe wa kuhesabiwa haki kwa imani.
 
-Daudi alienziwa na wayahudi kama mfalme wao mkuu.Nukuu hii kutoka Zaburi huthibitisha kwamba watu huhesabiwa haki kwa imani tu na sio kwa matendo.David was esteemed by the Jews as their great king. This quotation from the Psalms confirms that men are only justified by faith and not works.
+Daudi alienziwa na wayahudi kama mfalme wao mkuu. Nukuu hii kutoka Zaburi huthibitisha kwamba watu huhesabiwa haki kwa imani tu na sio kwa matendo.
 
-> Zabr 32:1-2Heri aliyesamehewa dhambi, Na kusitiriwa makosa yake.
- 2 Heri Bwana asiyemhesabia upotovu, Ambaye rohoni mwake hamna hila.
-Psalms 32:1&mdash;2&mdash;A Psalm of David, Maschil. Blessed is he whose transgression is forgiven, whose sin is covered. Blessed is the man unto whom the LORD imputeth not iniquity, and in whose spirit there is no guile.
+> Zab. 32:1-2&mdash;Heri aliyesamehewa dhambi, Na kusitiriwa makosa yake. Heri BWANA asiyemhesabia upotovu, Ambaye rohoni mwake hamna hila.
 
-Daudi alikuwa anamshukuru Mungu kwamba dhambi zake zilikuwa zimesamehewa na hakuhesabiwa dhambi tena.Ikiwa dhambi haikuwa ndani yake na kusamehewa hii humaaniisha yeye akihifadhiwa katika uhusiano sahihi na Mungu.David was thanking God that His sin was forgiven and the sin was not put to his account. If sin was not imputed to him and his sin was forgiven this means he was restored to a right relationship with God.
+Daudi alikuwa anamshukuru Mungu kwamba dhambi zake zilikuwa zimesamehewa na hakuhesabiwa dhambi tena. Ikiwa dhambi haikuwa ndani yake na kusamehewa hii humaaniisha yeye akihifadhiwa katika uhusiano sahihi na Mungu.
 
-Kuhesabiwa haki nitendo la kimungu la kuwekwa katika uhusiano sahihi na Mungu.Daudi hakujipatia kuhesabiwa haki,bali alipokea kwa imani.Justification is the Divine action of being placed in a right relationship with God. David did not earn justification, but it was received by faith.
+Kuhesabiwa haki nitendo la kimungu la kuwekwa katika uhusiano sahihi na Mungu. Daudi hakujipatia kuhesabiwa haki,bali alipokea kwa imani.
 
-<!-- -- -- -->
-<!-- -- -- -->
-<!-- -- -- -->
-## 11.Abrahamu alikuwa amehesabiwa haki kwa neema nasio kwa tohara;mstr 9;17II. Abraham was justified by Grace and not Circumcision. &mdash; Vs 9&mdash;17
+## Abrahamu alikuwa amehesabiwa haki kwa neema nasio kwa tohara (mst. 9-17)
 
-Wayahudi walitazamia tohara na sheria kama chanzo cha haki yao.Ibrahimu alihesabiwa haki kabla ya agano la tohara.Alihesabiwa kuwa mwenye haki katika sura 15 na alikuwa na umri miaka 86 katika sura ya 16 wakati Ishimaili alipozaliwa.Mwanzo 17:24 inatoa habari ya kutahiriwa Ibrahimu akiwa umri wa miaka 99.Inaweka wazi kwamba yeyealihesabiwa kabla ya kutahiriwa.Kifungu hiki kinawaambia wayahudi kwamba Ibrahimu alihesabiwa haki kabla ya kupokea agano la tohara.The Jews looked to circumcision and the Law as their source of righteousness. Abraham was justified before he received the covenant of circumcision. He was counted as righteous in chapter 15 and he was 86 in chapter 16 when Ishmael was born. Genesis 17:24 records Abraham was circumcised when he was 99 years old. It is quite clear that he was justified before he was circumcised. This passage is telling the Jews that Abraham was counted as righteous before he received the covenant of circumcision.
+Wayahudi walitazamia tohara na sheria kama chanzo cha haki yao. Ibrahimu alihesabiwa haki kabla ya agano la tohara. Alihesabiwa kuwa mwenye haki katika sura 15 na alikuwa na umri miaka 86 katika sura ya 16 wakati Ishimaili alipozaliwa. Mwanzo 17:24 inatoa habari ya kutahiriwa Ibrahimu akiwa umri wa miaka 99. Inaweka wazi kwamba yeyealihesabiwa kabla ya kutahiriwa. Kifungu hiki kinawaambia wayahudi kwamba Ibrahimu alihesabiwa haki kabla ya kupokea agano la tohara.
 
-Tohara haikumhesabia Ibrahimu haki.Tohara ilikuwa imetolewa kama ishara ya ahadi.Ilikuwa imetolewa kama mhuri wa haki ya imani.Ni alama ya kuindoa sehemu ya mwili.Hakuna nguvu ya haki katika tendo la kimwili.Hii kwa uhalisi ni kazi ya Mungu mara nyingi katika njia hiyo hiyo ubatizo ni alama ya kazi kamili.Circumcision did not justify Abraham. Circumcision was given as a sign of the promise. It was given as a seal of the righteousness of faith. It is a symbol of the cutting away of the flesh. There is no power of righteousness in a physical action. This is merely a sign of the work of God in much the same way that baptism is a sign of a completed work.
+Tohara haikumhesabia Ibrahimu haki. Tohara ilikuwa imetolewa kama ishara ya ahadi. Ilikuwa imetolewa kama mhuri wa haki ya imani. Ni alama ya kuindoa sehemu ya mwili. Hakuna nguvu ya haki katika tendo la kimwili. Hii kwa uhalisi ni kazi ya Mungu mara nyingi katika njia hiyo hiyo ubatizo ni alama ya kazi kamili.
 
-Abrahamu alihesabiwa kuwa mwenye haki kwa ujumla mbali na sheria.Yeye alihesabiwa kabla sheria kutolewa hili ni onyesho la mbali kwamba yeye hangeweza kuhesabiwa haki kwa sheriaAbraham was counted as righteous by Grace totally separate from the Law. He was justified before the Law was given. This is further indication that he could not have been justified by the Law.
+Abrahamu alihesabiwa kuwa mwenye haki kwa ujumla mbali na sheria. Yeye alihesabiwa kabla sheria kutolewa hili ni onyesho la mbali kwamba yeye hangeweza kuhesabiwa haki kwa sheria.
 
-Abrahimu kwa vyovyote hangeweza kujipatia haki kwa kuishika sheria kwa kuwa ilikuwa bado hijatolewa na Musa.Wayahudi huweka msisitizo kwenye sana katika sheria;Paulo anawaonyesha kwamba,sheria haina la kufanya na Ibarahimu kuwa mwenye haki.Abraham could not have earned any justification through keeping the Law since it had not yet been given to Moses. The Jews put so much emphasis on the Law; Paul is showing them that the Law had nothing to do with Abraham being counted as righteous.
+Abrahimu kwa vyovyote hangeweza kujipatia haki kwa kuishika sheria kwa kuwa ilikuwa bado hijatolewa na Musa. Wayahudi huweka msisitizo kwenye sana katika sheria; Paulo anawaonyesha kwamba, sheria haina la kufanya na Ibarahimu kuwa mwenye haki.
 
-Sheria inaleta kuitambua dhambi.mstr.15 inasema mahali ambapo hakuna sheria hakuna uasi inarejea kwenye ukweli kwamba ikiwa hakuna sheria basi hakuna kuivunja sheria.Hii pia lazima inarejea kwenye sheria ya maadili kama ilivyo kwa sheria Musa.
-Ibrahimu alikuwa amehesabiwa kwa imani kwa njia ya neema.mstr.16 Ikiwa hakuhesabiwa haki kwa matendo ya sheria na njia mbadala ni ile alipotangazwa kuwa mwenye haki kwa neema ya Mungu.Hakujipatia haki kwa uwezo wake mwenyewe;Itolewa pasipo kusitahili kwasababu ya imani yake.The Law gives knowledge of sin. &mdash; V.15 For where there is no law there is no transgression refers to the fact that if there were no law then there would be no law to break. This also must have reference to the moral law as well as Moses Law.
-Abraham was justified by faith through grace. V.16 If he was not justified by the works of the law then the only alternative is that he was declared righteous by the grace of God. He did not earn justification; it was given to him without merit because of his faith.
+Sheria inaleta kuitambua dhambi (mst. 15). Inasema mahali ambapo hakuna sheria hakuna uasi inarejea kwenye ukweli kwamba ikiwa hakuna sheria basi hakuna kuivunja sheria. Hii pia lazima inarejea kwenye sheria ya maadili kama ilivyo kwa sheria Musa.
 
-Aliipokea ahadi mbayo yeye alipaswa kuwa mrithi wa ulimwengu kwa njia ya haki ya imani.mstr.13 haki ya imani iko kwenye urejeo wa kuhesabiwa haki kwa imani.Kuhesabiwa haki ni tangazo la kuwaa haki kwa imani.Abrahamu hakufanya lolote ilikupokea ahadi;ilitolewa kwake kwa neema.He received the promise that he should be the heir of the world through the righteousness of faith. &mdash; V. 13 The righteousness of faith is in reference to justification by faith. Justification is the declaration of righteousness by faith. Abraham did nothing to receive the promise; it was given to him by grace.
+Ibrahimu alikuwa amehesabiwa kwa imani kwa njia ya neema (mst. 16). Ikiwa hakuhesabiwa haki kwa matendo ya sheria na njia mbadala ni ile alipotangazwa kuwa mwenye haki kwa neema ya Mungu. Hakujipatia haki kwa uwezo wake mwenyewe;Itolewa pasipo kusitahili kwasababu ya imani yake.
 
-Ahadi ilikuwa ni kumfanya kuwa taifa kubwa na kwa kupitia uzao wake mataifa yote ya dunia yangebarikiwa.Mwanzo 12:1-3 huu ni unabii wa taifa la Israel ambyo ingeendelea kutoka Kwa Abrahamu.Hata hivyo umuhimu ni ahadi ya Masiha ambayo angekuja kutoa wokovu kwa wote wayahudi na wamataifa.The promise was to make of him a great nation and from his seed would all nations of the world be blessed. &mdash; Gen. 12:1&mdash;3 This is a prophecy of the nation of Israel that would descend from Abraham. Even more important it is a promise of the Messiah that would come to provide salvation to all both Jew and Gentile.
+Aliipokea ahadi mbayo yeye alipaswa kuwa mrithi wa ulimwengu kwa njia ya haki ya imani (mst. 13). Haki ya imani iko kwenye urejeo wa kuhesabiwa haki kwa imani. Kuhesabiwa haki ni tangazo la kuwaa haki kwa imani .Abrahamu hakufanya lolote ilikupokea ahadi; ilitolewa kwake kwa neema.
 
-Wayahudi walitazamia urithi wa kidunia.katika mawazo ya wayahudi wengi,masiha angekuja kuwapindua warumi na kkuthibitisha taifa la Israel.Paulo anawaonyesha toleo la haki lillilopo sio kwa ajili ya wayahudi tu bali kwa ulimwengu wote kupitia Yesu Mesiha.The Jew looked for an earthly inheritance. In the minds of most of the Jews, the Messiah would overthrow the Romans and re&mdash;establish the nation of Israel. Paul is showing them the provision of righteousness available not just to the Jew, but to the entire world through Jesus the Messiah.
+Ahadi ilikuwa ni kumfanya kuwa taifa kubwa na kwa kupitia uzao wake mataifa yote ya dunia yangebarikiwa (Mwanzo 12:1-3). Huu ni unabii wa taifa la Israel ambyo ingeendelea kutoka Kwa Abrahamu.Hata hivyo umuhimu ni ahadi ya Masiha ambayo angekuja kutoa wokovu kwa wote wayahudi na wamataifa.
+
+Wayahudi walitazamia urithi wa kidunia. Katika mawazo ya wayahudi wengi, masiha angekuja kuwapindua warumi na kkuthibitisha taifa la Israel. Paulo anawaonyesha toleo la haki lillilopo sio kwa ajili ya wayahudi tu bali kwa ulimwengu wote kupitia Yesu Mesiha.
 
 <!--
-
 Kuchunguza na kumlika:Review and glean:
 
 A.IMANI AMBAYO INAWEZAKA KWA NEEMA sur ya 4:1-25	A.	IT IS OF FAITH THAT IT MIGHT BE BY GRACE &mdash; 4:1&mdash;25

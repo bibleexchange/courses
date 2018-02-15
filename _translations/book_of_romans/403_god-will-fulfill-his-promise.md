@@ -1,88 +1,48 @@
-<!-- -->
-<!-- -->
-<!-- -->
-## III.Mungu atatimiza ahadi yake War 4:18-25
+## Mungu atatimiza ahadi yake (War. 4:18-25)
 
- III. God will Fulfill His Promise &mdash; Romans 4:18-25
+### Ahadi kwa Ibrahimu (mst. 18-22)
 
-### Ahadi kwa Ibrahimu mstr.18-22
+Abrahamu alipewa ahadi ya Mungu. Mungu alimwahidi kuwa atakuwa na mwana. Pia Mesiha angekuwa mwana wa Ibrahimu. Yesu alitimiza unabii na aliziwa kulingana na ukoo wa mababu wa Abrahamu.
 
-The Promise to Abraham, vs.18-22
+### Ahadi ya kkuhesabiwa haki (mst. 23, 24)
 
-Abrahamu alipewa ahadi ya Mungu.Mungu alimwahidi kuwa atakuwa na mwana.Pia Mesiha angekuwa mwana wa Ibrahimu.Yesu alitimiza unabii na aliziwa kulingana na ukoo wa mababu wa Abrahamu.Abraham was given the promise of God. God promised Abraham he would have a son. Also, the Messiah would be a son of Abraham. Jesus fulfilled prophecy and was born according to his natural lineage as a descendant of Abraham. 
+### Shariti la kuhesabiwa haki (mst. 24)
 
-### Ahadi ya kkuhesabiwa haki mstr.23,24The Promise of Justification, vs. 23,24
-
-> War 4:23 Walakini haikuandikwa kwa ajili yake tu kwamba ilihesabiwa kwake;
- 24 bali na kwa ajili yetu sisi mtakaohesabiwa vivyo hivyo, sisi tunaomwamini yeye aliyemfufua Yesu Bwana wetu katika wafu;
-Romans 4:23 Now it was not written for his sake alone, that it was imputed to him; 24 But for us also, to whom it shall be imputed, &hellip;
-
-### Shariti la kuhesabiwa haki,mstr24.The Condition of Justification, vs. 24
-
->War 4:24b-25  bali na kwa ajili yetu sisi mtakaohesabiwa vivyo hivyo, sisi tunaomwamini yeye aliyemfufua Yesu Bwana wetu katika wafu;
- 25 ambaye alitolewa kwa ajili ya makosa yetu, na kufufuliwa ili mpate kuhesabiwa haki.
-Romans 4:24b-25 &hellip;if we believe on him that raised up Jesus our Lord from the dead; 25 Who was delivered for our offences, and was raised again for our justification.
-
-Mtu hupokea kuhesabiwa haki kutoka kwa Mungu kwa imani--"kama tunaamini"A person receives justification from God by faith -- "if we believe&hellip;".
+Mtu hupokea kuhesabiwa haki kutoka kwa Mungu kwa imani&mdash;"kama tunaamini&hellip;"
 
 Ahadi zenye mashariti
-- Mark 9:23
-- Yohn 5:47
-- Yohn 8:24 "usiamini"
-- Yohn 10:38
-- Yohn 11:40
-- Yohn 12:47 (kuvutia)
-- Mndo 8:37 (shariti la wokovu)
-- War 10:9
+
+- Marko 9:23
+- Yoh. 5:47
+- Yoh. 8:24 "usiamini"
+- Yoh. 10:38
+- Yoh. 11:40
+- Yoh. 12:47 (kuvutia)
+- Mdo. 8:37 (shariti la wokovu)
+- War. 10:9
 - 1 Wathesl 4:14
-- 2 Tim 2:8-13 (Mungu hubakia mwaminifu)
+- 2 Tim. 2:8-13 (Mungu hubakia mwaminifu)
 
+### Ujasiri wa imani na kitendo cha kimungu cha kuhesabiwa
 
--Conditional Promises
-- Mark 9:23
-- John 5:47
-- John 8:24 "believe not"
-- John 10:38
-- John 11:40
-- John 12:47 (interesting)
-- Acts 8:37 (condition of salvation)
-- Romans 10:9
-- 1 Thessalonians 4:14
-- 2 Timothy 2:8-13 (God remaineth faithful)
+Abrahamu aliamini ahadi ya Mungu.Dhidi ya tumaini aliamini katika tumaini. Abrahamu aliamini ahadi ya Mungu bila kujali hali. Sara alikuwa na miaka karibia 90 na Ibrahimu alikuwa ni miaka zaidi ya 100. Hapakuwa na njia ya asili ya wao kujipatia mtoto.Abrahimu alikuwa hajakata tamaa kwa ahadi ya Mungu (mst. 20).
 
-### ujasiri wa imani na kitendo cha kimungu cha kuhesabiwaThe Courage of Faith & the the Divine Action of Justification
+Kuhesabiwa haki ni kazi ya kimungu. Mtu hawezi kujihesabia haki mwenyewe zaidi ya kule Ibrahimu kupata mwana. Kuhesabiwa haki ni kazi ya Mungu inayotolewa kwa neema katika kuitikia kwa imani. 
 
-Abrahamu aliamini ahadi ya Mungu.Dhidi ya tumaini aliamini katika tumaini.Abrahamu aliamini ahadi ya Mungu bila kujali hali.Sara alikuwa na miaka karibia 90 na Ibrahimu alikuwa ni miaka zaidi ya 100.Hapakuwa na njia ya asili ya wao kujipatia mtoto.Abrahimu alikuwa hajakata tamaa kwa ahadi ya Mungu. mstr.20 Abraham believed the promise of God. Against hope believed in hope. Abraham believed in the promise of God regardless of the circumstances. Sarah was about 90 and Abraham was more than 100 years old. There was no natural way possible for them to have a child. Abraham staggered not at the promise of God.
+**IKIWA TUTAMWAMINI**
 
-> War 4;20 hakukata tamaa katika ahadi ya Mungu kupitia kutokuamini;lakini alikuwa imara katika imani kumpa Munugu utukufu;Romans 4:20 He staggered not at the promise of God through unbelief; but was strong in faith, giving glory to God;
+> War. 4:24&mdash;bali na kwa ajili yetu sisi mtakaohesabiwa vivyo hivyo, sisi tunaomwamini yeye aliyemfufua Yesu Bwana wetu katika wafu;
 
-Kuhesabiwa haki ni kazi ya kimungu.Mtu hawezi kujihesabia haki mwenyewe zaidi ya kule Ibrahimu kupata mwana.Kuhesabiwa haki ni kazi ya Mungu inayotolewa kwa neema katika kuitikia kwa imaniJustification is a Divine activity. Man cannot justify himself any more than Abraham could produce a son. Justification is a work of God bestowed by grace in response to faith. 
-
-**IKIWA TUTAMWAMINI** **IF WE BELIEVE ON HIM**
-
-> War 4:24 bali na kwa ajili yetu sisi mtakaohesabiwa vivyo hivyo, sisi tunaomwamini yeye aliyemfufua Yesu Bwana wetu katika wafu;
-Romans 4:24&mdash;But for us also, to whom it shall be imputed, if we believe on him that raised up Jesus our Lord from the dead;
-
-## Hitimisho 
-##Conclusion
+## Hitimisho
 
 Zifuatazo ni hoja zilizo tolewa:
-The following arguments are presented:
-### 1.	Kuhessabiwa haki/haki ni kwa imani.
-### 2.	Kuhessabiwa haki/haki haipatikani kwa matendo.
-### 3.	Kuhessabiwa haki/haki haihitaji tohara.
 
-
-### 1.	Justification/Righteousness is by faith.
-### 2.	Justification/Righteousness is not obtained by works.
-### 3.	Justification/Righteousness is not acquired by circumcision.
-### 4.	Huwezi kujipatia kuhesabiwa haki/kwa njia ya ufuasi wa sheria. 4:13-17
-### 5.	Imani ya Abrahimu inatuonyesha mfano ambao lazima tuufuate.
-### 6.	Paulo alitoa hoja kwamba kuhesabiwa haki/haki kwa imani ndio njia pekee ya kumpendeza Mungu.
-
-### 4.	You cannot gain Justification/Righteousness through adherence of the law. 4:13-17
-### 5.	Abraham&apos;s faith shows us an example that we must follow.
-### 6.	Paul reasoned that Justification/Righteousness by faith is the only way to please God.
+1. Kuhessabiwa haki/haki ni kwa imani.
+2. Kuhessabiwa haki/haki haipatikani kwa matendo.
+3. Kuhessabiwa haki/haki haihitaji tohara.
+4. Huwezi kujipatia kuhesabiwa haki/kwa njia ya ufuasi wa sheria (4:13-17).
+5. Imani ya Abrahimu inatuonyesha mfano ambao lazima tuufuate.
+6. Paulo alitoa hoja kwamba kuhesabiwa haki/haki kwa imani ndio njia pekee ya kumpendeza Mungu.
 
 <!--
 =========================
@@ -113,5 +73,4 @@ Neno la kigiriki ambalo tunashughulika nalo hapa katika kifungu cha warumi ni ne
 Katika mifano rahisi,hii humaanisha haki pekee inayo tosheleza kwa kusimama mbele za hukumu ya Mungu ni haki ya Kristo.In simple terms, this means that the only righteousness sufficient for us to stand before the judgment of God is the righteousness of Christ.
 
 Ndondoo kutoka kwa Warumi (Maoni ya maelezo ya mt.Andrew)chimbuko la R.CExcerpt from Romans (St. Andrew's Expositional Commentary) by R.C. Sproul
-
 -->

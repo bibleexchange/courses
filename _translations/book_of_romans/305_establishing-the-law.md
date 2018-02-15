@@ -1,14 +1,11 @@
-## Kuthibitishwa kwa sheria(mst.31) The Establishing of the Law (v. 31)
+## Kuthibitishwa kwa sheria (mst.31)
 
-> Kuhesabiwa haki ni kwa imani nasio matendo ya sheria.Sheria: ni faida kwao wanaoijua (mst.1-2),uhalisi katika asili yake (mst.3-8),haipindiki katika mamlaka yake (mst.9-19),inakusudi la kipekee (mst.20-30),haiepukiki bali imethibitishwa katika mioyo yetu.(mst.31).*faith without the deeds of the Law. The Law is: an advantage to those who know it (vs. 1-2), absolute in its nature (vs. 3-8), unbending in its authority (vs. 9-19), has a distinct purpose (vs. 20-30), and is not made void, but rather is established	by our faith. (v. 31).*
+> *Kuhesabiwa haki ni kwa imani nasio matendo ya sheria. Sheria: ni faida kwao wanaoijua (mst. 1-2), uhalisi katika asili yake (mst. 3-8), haipindiki katika mamlaka yake (mst. 9-19), inakusudi la kipekee (mst. 20-30), haiepukiki bali imethibitishwa katika mioyo yetu (mst. 31).*
 
-<!-- -->
+Kuhesabiwa haki kwa imani huthibitisha sheria.
 
-Kuhesabiwa haki kwa imani huthibitisha sheria.Justification by faith establishes the Law.
+Kuhesabiwa haki sio kinyume cha sheria ya Musa. Wokovu kwa imani katika Kristo Yesu umekithi haja ya sheria ya Mungu. Yesu kwa ukamilifu amekamilisha au kuthibitisha uhitaji wa sheria. Kuna rejea pia hapa ya sheria ya maadili. Imani haipuki sheria ya maadili ya Mungu. Sheria ya sherehe imekamilishwa na Kristo. Hatuhitaji tena sadaka ya mbuzi na mafahalikumtolea Mungu, wala kushika sheria za sikukuu. Sheria ya maadili ya Mungu haibadiliki. Kuhesabiwa haki haikomeshi sheria ya maadili ya Mungu.
 
-Kuhesabiwa haki sio kinyume cha sheria ya Musa.Wokovu kwa imani katika Kristo Yesu umekithi haja ya sheria ya Mungu.Yesu kwa ukamilifu amekamilisha au kuthibitisha uhitaji wa sheria.Kuna rejea pia hapa ya sheria ya maadili.Imani haipuki sheria ya maadili ya Mungu.Sheria ya sherehe imekamilishwa na Kristo.Hatuhitaji tena sadaka ya mbuzi na mafahalikumtolea Mungu,wala kushika sheria za sikukuu.Sheria ya maadili ya Mungu haibadiliki.Kuhesabiwa haki haikomeshi sheria ya maadili ya Mungu.Justification by faith is not against the Law of Moses. Salvation by faith in Christ satisfied the Law of God. Jesus completely fulfilled or established the demands of the Law. There is also a reference here the moral law. Faith does not void the moral law of God.
-The ceremonial law has been fulfilled in Christ. We no longer need to offer goats and bulls to God, nor keep the ceremonial law. The moral law of God does not change. Justification by faith does not abolish the moral law of God. 
+Sheria ya imani haifanyi sheria isitumike au kuepukika, bali huithibitisha. Imani haiondoi wala kuharibu sheria, bali kuiboresha.
 
-Sheria ya imani haifanyi sheria isitumike au kuepukika,bali huithibitisha.Imani haiondoi wala kuharibu sheria,bali kuiboresha.The law of faith does not make the law useless or void, but establishes it. Faith does not remove or destroy the law, but excels the law. 
-
-Sheria huleta kuijuwa dhambi kwa mtu,na huyo mtu ambaye ameitambua hali yake awezekuhesabiwa haki kwa imani.Pasipo sheria mtu hangeweza kuijua dhambi,na kwa hiyo hangekuwa na hitaji kwa ajili ya kuhesabiwa haki,ukombozi au malipizi ya dhambi.Sheria ambayo kwa mara ya kwanza ilivunjwa imethibitishwa kwa njia ya imani katika kazi iliomalizika ya Kristo kwa maana kwa njia ya haki yake IMETOSHELEZA.The law brings the knowledge of sin to a man, and that man who has recognized his condition may be justified by faith. Without the law that man would have no knowledge of sin, and therefore would see no need for justification, redemption, or atonement. The law which was once broken is established through faith in the finished work of Christ. For through His righteousness it is SATISFIED..
+Sheria huleta kuijuwa dhambi kwa mtu, na huyo mtu ambaye ameitambua hali yake awezekuhesabiwa haki kwa imani. Pasipo sheria mtu hangeweza kuijua dhambi, na kwa hiyo hangekuwa na hitaji kwa ajili ya kuhesabiwa haki, ukombozi au malipizi ya dhambi. Sheria ambayo kwa mara ya kwanza ilivunjwa imethibitishwa kwa njia ya imani katika kazi iliomalizika ya Kristo kwa maana kwa njia ya haki yake IMETOSHELEZA.
