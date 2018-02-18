@@ -1,300 +1,99 @@
 ## THE PRESENTATION OF THE KING. (1:1-4:11)
 
- A. The Coming of the King. - 1:1-2:23.
+### The Coming of the King. - 1:1-2:23.
 
- A. Matthew is the gospel of the ___________________
- 1. God&#8217;s _____________ One
- 2. The ___________________
- 3. The one of whom __________ and the ____________
- wrote
+#### Matthew is the gospel of the Messiah
 
- a. His goings forth have been&hellip;from everlasting
- Micah 5:2
+##### God's anointed one
 
- 4. The __________ that was to be born
+##### The deliverer
 
- 5. The son given of whom ___________ speaks
+##### The one of whom Moses and the prophets wrote
 
- a. Isa. 9:6
+His goings forth have been&hellip;from everlasting (Micah 5:2).
 
- B. All __________ and __________________ of time tell of
+##### The child that was to be born
 
- Christ&#8217;s birthplace and &#8220;birthday&#8221;.
+##### The son given of whom Isaiah speaks (Isa. 9:6)
 
- 1. Jesus was born in ___________________ of Judea
+#### All maps and calendars of time tell of Christ's birthplace and "birthday."
 
- a. Micah 5:2
+Jesus was born in Bethlehem of Judea in the days of Herod the King (Micah 5:2, Matt. 2:1).
 
- b. Matt. 2:1
+The Gospel does not begin with "once upon a time," but it begins with "Bethlehem of Judah."
 
- C. In the days of Herod the King
+The time is definite. History knows Herod. 
 
- 1. FACT -
- a. Not out of imagination
- b. Given names and places
- c. Christianity is a historical religion
+Matthew sets this record in the solid foundation of history. We are not building our faith on a myth. This was not done in a corner, but in the broad day, and it is not afraid of the geographers map or the historian's pen.
 
+#### The story of the birth of Jesus
 
- D. The Gospel does not begin with
+In Luke, Jesus' earthly life began in a stable. His cradle was a manger. His family and associates were humble people. He came as a helpless babe. It showed how human our Lord was.
 
- &#8220;__________ __________ _____ _________&#8221;
+In Matthew Jesus was heralded by an archangel, welcomed by an angel choir, and worshipped by earth's wisest philosophers. It shows how divine our Lord was.
 
- It begins with
+The "Begats" and "Sons of" are for a purpose.
 
- &#8220;____________________ of ____________&#8221;
+Matthew gives His genealogy from Abraham and David. It shows Him as a Jew. He has royal decent. He is the King, the Messiah, and the Promised Ruler of Israel.
 
- 1. The time is __________________
+Luke gives His genealogy backwards to Adam. It shows Him as a man. He was of the race of human lineage, the ideal man, and born of woman. Luke contains the most about Mary.
 
- a. History knows Herod Salvation: ________ - &#8220;Ye must be born again.&#8221; John 3:7
+He descended from a royal family, As king He claims rulership in our lives. As a man, he knows our sorrows and is aquatinted with our grief.
 
- Holiness: ________ - &#8220;Without holiness, no man shall see the Lord.&#8221; Heb. 12:14 Perfection:
+### The Kingly Line
 
- ________ - &#8220;Be ye therefore perfect.&#8221; Matt. 5:48
+#### Twelve ways He is like a King in Matthew
 
- 2. Matthew sets this record in the solid foundation of
+1. A king's name&mdash;"They shall call His name Emmanuel"
+ (1:23)
+2. A king's position&mdash;"Out of thee shall come a Governor, that shall rule my people Israel." (2:6)
+3. A king's announcement&mdash;"Prepare ye the way of the Lord, make His paths straight." (3:3)
+4. A king's coronation&mdash;"This is my beloved Son, in whom I am well pleased." (3:17)
+5. A king's due respect&mdash;"Thou shalt worship the Lord God, and Him only shalt thou serve." (4:10)
+6. A king's proclamation&mdash;"And He opened His mouth and taught them" (5:2)
+7. A king's loyalty&mdash;"He that is not with me is against me, and he that gathereth not with me, scattereth abroad." (12:30)
+8. A king's enemies&mdash;"From that time forth began Jesus to show unto his disciples, how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes." (16:21)
+9. A king's love&mdash;"The Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many. (20:28)
+10. A king's glory&mdash;"When the Son of man shall come&hellip;then shall the King say unto them&hellip;Come, ye blessed of My Father, inherit the kingdom." (27:31, 34)
+11. A king's sacrifice&mdash;"And they crucified Him&hellip;and set up over His head, this accusation written, This is Jesus, king of the Jews." (27:35, 37)
+12. A king's victory&mdash;"He is not here; for he is risen, as He said." (28:6)
 
- _____________. We are not building our faith on
+### Wise Men Still Seek Him
 
- a myth. This was not done in a corner, but in the
+#### Only Matthew tells of the visit of the wise men from the east.
 
- broad day, and it is not afraid of the geographers
+They came inquiring "Where is he that is born King of the Jews." Mark, Luke and John are silent about the wise men. They are not recording the birth of a King.
 
- _________ or the historian&#8217;s _________.
+Herod did not want to worship (2:8).
 
+The wise men looked up. They did not look to maps or man. No man can come except the Spirit draw him (2:9).
 
- The story of the birth of Jesus -
+They saw, humbled themselves, worshipped, and gave of themselves (2:11).
 
- In __________ -
+The first time the word "God" is used in the book of Matthew is in 2:12. The wise men realized this was not just another man, but that this was God. They met Jesus Christ. We are not to serve the old master or ruler, but Jesus became their King (2:12).
 
- ____________ life began in a stable
+They left different. They departed another way.
 
- His _____________ was a manger
+### The forerunner of the King (3:1-12)
 
- His _____________ and associates were humble
+The King must be announced.
 
- people
+John the Baptist was the voice (Isa. 40:3, Matt. 3:2, 3).
 
- He came as a ______________________
+John the Baptist was the forerunner of Christ. There are forerunners yet to come still, with the same power and anointing as Elijah, or John the Baptist. 
 
- ** How human our Lord was
+John the Baptist's ministry was a short ministry (Luke 3:13).
 
- In ___________-
+It was the duty of the herald to go before the king. As a Roman officer before his ruler they commanded that the roads be repaired over which his master would travel.
 
- Heralded by an _________________
+We see the King stepping forth from His private and personal life to public ministry.
 
- Welcomed by an ___________ ____________
+### The baptism of Jesus (3:13-17)
 
- Worshipped by earth&#8217;s _________ _______________
+"This is my beloved Son in whom I am well pleased."
 
- ** How divine was our Lord
+### The temptation of Jesus (4:1-11)
 
- &#8220;Begats&#8221; and &#8220;Sons of &#8220; are for a purpose -
+Jesus was led of the spirit into the wilderness to be tempted of the devil, and Christ said "it is written," and the devil had to leave.
 
- Matthew to Abraham and David as Jew
-
- Royal decent - the King - the Messiah
-
- The Promised Ruler of Israel
-
- Luke to Adam as Man
-
- Race of human lineage, the ideal man, born of woman
-
- Luke contains the most about Mary
-
- **He descended from a royal family, As king he claims 
- ___________ in our lives. As a man, he knows our 
- ______________ and is aquatinted with our _____________.
-
- IV. The Kingly Line
-
- A. Twelve ways He is like a King in Matthew
-
- 1. A ____________ name -
-
- &#8220;They shall call His name Emmanuel&#8221; 1:23
-
- 2. A ____________ position -
-
- &#8220;Out of thee shall come a Governor, that shall rule my
- people Israel.&#8221; 2:6
-
- 3. A ____________ announcement -
-
- &#8220;Prepare ye the way of the Lord, make His paths
- straight.&#8221; 3:3
-
- 4. A _____________ coronation -
- &#8220;This is my beloved Son, in whom I am well pleased.&#8221;
- 3:17
-
-
- 5. A ______________ due respect -
-
- &#8220;Thou shalt worship the Lord God, and Him only shalt
- thou serve.&#8221; 4:10
-
- 6. A _____________ proclamation -
-
- &#8220;And He opened His mouth and taught them&#8221; 5:2
-
- 7. A _____________ loyalty -
-
- &#8220;He that is not with me is against me, and he that
- gathereth not with me, scattereth abroad.&#8221; 12:30
-
- 8. A _____________ enemies -
-
- &#8220;From that time forth began Jesus to show unto His
- disciples, how that He must go unto Jerusalem, and
- suffer many things of the elders and chief priests and
- scribes.&#8221; 16:21
-
- 9. A _____________ love -
-
- &#8220;The Son of man came not to be ministered unto, but to
- minister, and to give His life a ransom for many. 20:28
-
- 10. A _____________ glory -
-
- &#8220;When the Son of man shall come&hellip;then shall the King
- say unto them&hellip;Come, ye blessed of My Father, inherit
- the kingdom. &#8220; 27:31,34
-
- 11. A ______________ sacrifice -
-
- &#8220;And they crucified Him&hellip;and set up over His head, this
- accusation written, This is Jesus, King of the Jews.&#8221;
- 27:35,37
-
- 12. A ______________ victory -
- &#8220;He is not here; for He is risen, as He said.&#8221; 28:6
-
- V. Wise Men Still Seek Him
-
- A. Only Matthew tells of the visit of the ________ ________ from the east.
-
- 1. They came inquiring &#8220;Where is he that is born King of the ________.&#8221;
-
- 2. Mark, Luke and John are silent about the wise men. They are not recording the birth of a King.
-
- 3. Matthew 2
-
- vs. 8 Herod did not want to
- __________________
-
- vs. 9 Looked ______ - not to maps or man
- No man can come except the Spirit
- draw him.
-
- vs. 11 They _________
- They _____________ _________________
- They ___________________
- They ________ _____ ______________
-
- vs. 12 The first time _________ is said.
- Realized this was not just another man. 
- This was
- God
- , they met Jesus Christ.
- Saw __________________
- Not to serve ________ master, ruler, king
- __________ became their _________
-
-
- *** They left _______________________
- They went home saved
- They left, departed ________________ ________
-
-
-
-
-
- B. The forerunner of the King. - 3:1-12.
-
- C. The baptism of Jesus. - 3:13-17.
-
- D. The temptation of Jesus. - 4:1-11.
-
-
-
-
-
-
-
-
-
-
-
-================================================================
-from other outline:
-
- VI. Proclamation of the Kingdom
-
- A. The King must be announced
-
- 1. John the Baptist
-
- a. The _________ 
- Isa. 40:3
- Matt. 3:2,3
-
- 2. It was the duty of the herald to go before the king.
- As a Roman officer before his ruler they commanded
- that the roads be repaired over which his master
- would travel.
-
-=============
-from mkb notes:
-
-John the Baptist fulfilled the coming of the Lord. 
-That great and dreadful day of the Lord&apos;s coming. It was a great and dreadful day because it will be great for the people that the Lord is coming for and dreadful for those that he is not. 
-Father&apos;s hearts à to the children & Children&apos;s hearts à to the fathers
- Old New New Old
-John the Baptist was the forerunner of Christ
-This New Age Doctrine is just a new face on a old false doctrine. 
-To many people today just want a warm fuzzy feeling. They have no vision, they have no foundation, they have no substance. 
-There are forerunners yet to come still, with the same power and anointing as Elijah, or John the Baptist. 
-Why is John the Baptist so Great. Prophesied he would be great, ordained of God, &hellip;
-John the Baptist&apos;s ministry was a short ministry. 
-Luke 3:13
-Jesus was led of the spirit into the wilderness to be tempted of the devil, and Christ just said it is written, and the devil had to leave
-Did you know that Christ had throne rights?
-God is a God of order and he is very precise and exact&hellip;
-The people that sat in darkness saw a great light
-Repentance is turning away from sin, a total turnaround. 
-To have the peace of God in your heart you cannot put a price on that. 
-Jesus went teaching in their synagogues and preaching in their
-Somebody said, when I teach I tell when I preach I yell
-Teaching; Preaching: Healing &mdash; they go together
-
-=============
-
-
- B. We see the King stepping forth
-
- 1. From His private and personal life to ___________
- _______________
-
- a. Matt. 4
- 4 = world
-
- 2. Baptized
-
- a. &#8220;This is my beloved Son in whom I as well pleased.&#8221;
-
- 3. Tried
-
- a. Led ________ immediately into the wilderness
-
- b. Went through trial as a King
-
- c. We are children of the King
-
- d. Satan offered a &#8220;short cut&#8221; to the end
- Only be obeying God&#8217;s way will we really gain the
- goal.
- Eve - Satan offered her a short cut to &#8220;be like God&#8221;
- She took it, where did it lead her?
-
- e. I Cor 10:13
+He went through trial as a King. Satan offered a "short-cut" to the end. Only by obeying God's way will we really gain the goal. Eve was offered her a short-cut to "be like God," and she took it. Where did it lead her? (I Cor. 10:13)

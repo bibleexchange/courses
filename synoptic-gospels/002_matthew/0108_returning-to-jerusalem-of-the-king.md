@@ -1,70 +1,44 @@
-## RETURNING TO JERUSALEM OF THE KING - 20:17-21:46
+## RETURNING TO JERUSALEM OF THE KING (20:17-21:46)
 
- A. Crucifixion again foretold - 20:17-19
+### Crucifixion again foretold (20:17-19)
 
- B. A mother&#8217;s request - 20:20-24
+### A mother's request (20:20-24)
 
- C. Christ the ministering servant - 20:25-28
+### Christ the ministering servant (20:25-28)
 
+#### We are to follow Christ's example
 
- 1. We are to follow Christ&#8217;s example
+#### Gave His life a ransom for many
 
- 2. Gave His life a ransom for many
+### Two blind men healed (20:29-34)
 
- D. Two blind men healed - 20:29-34
+### The Triumphal Entry (21:1-11)
 
- E. The Triumphal Entry - 21:1-11
+The two disciples brought an ass and a colt.
 
- G. Chief priests and scribes displeased - 21:15-17
+This parade could not have been compared in magnificence to any procession that has attended the coronation of a king, or the inauguration of a president; but it meant much more for the world. 
 
- 1. At Jesus wonderful works
+This was the first public recognition of His rights Messiah and King. He offered Himself as Messiah only to be
+rejected and killed. How great is the love of God!
 
- 2. The response of the people
+The people spread garments and branches to carpet the highway. They cried our Psalms and when people asked them who He was they replied, "This is Jesus the prophet of Nazareth of Galilee."
 
- H. Fig tree cursed - 21:18-22
+After the crowd has dispersed, some may have thought that nothing was accomplished in making Him King. His hour had not yet come. Christ must be Savior first and then come as King of kings and Lord of lords.
 
- 1. Because it was barren
+### Chief priests and scribes displeased (21:15-17)
 
- 2. The power of prayer
+### Fig tree cursed (21:18-22)
 
- I. Opposers silenced - 21:23-27
+### Opposers silenced (21:23-27)
 
- J. Parable of the two sons - 21: 28-32
+### Parable of the two sons (21:28-32)
 
- K. Parable of the vineyard - 21:33-46
+### Parable of the vineyard (21:33-46)
 
- 1. Wicked husbandmen
+We see Christ came unto His own, and His own received Him not. There's a difference in being rejected by an enemy or being rejected by a friend. It's even more severe when it is someone you love or family.
 
- 2. Punishment of the wicked
- 
- ========
- 
- from other outline:
- 
- XIV. The Triumph of The King
+The Kingdom was offered first to the rightful heirs, the children of Israel, the Jews. They refused the offer, rejected the King, and finally crucified Him.
 
- A. The triumphal entry into ___________________
- Matt. 21
+Jesus announced that the Kingdom shall be taken away from the Jews and given to another nation (21:43).
 
- 1. The two disciples brought an ass and a colt.
-
- B. This &#8220;parade&#8221; could not have been compared in magnificence
- to any procession that has attended the coronation of a king, or
- the inauguration of a president; but it meant much more for the
- world. 
-
- C. This was the first ___________ recognition of His rights as
- Messiah-King. He offered Himself as Messiah only to be
- ________________ and _______________. The love of God!
-
- D. The people spread garments and branches to carpet the
- highway. They cried our Psalms and when people asked them who
- He was they replied, &#8220;This is Jesus the prophet of Nazareth of
- Galilee.&#8221;
-
- E. After the crowd has dispersed, some may have thought that
- nothing was accomplished in making Him King. 
- His hour has _______ ________ ________.
- Christ must be _____________ first and then come as
- _________ ____ ________ and _______ ___ ________.
-
+The announcement offended the rulers and they sought to kill Him (21:46).
