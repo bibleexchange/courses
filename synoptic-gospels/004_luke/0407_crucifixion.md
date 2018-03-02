@@ -10,7 +10,7 @@ The superscription is different in each Gospel:
 
 - **Matthew** - "set up over His head His accusation written, 'THIS IS JESUS THE KING OF THE JEWS'" (Matt 27:37). Matthew was showing that Jesus is the Messiah to the end.
 - **Mark** - "His accusation was written over, 'THE KING OF THE JEWS'" (Mark 15:26). A servant’s title is brief.
-- **Luke** - "Was written over Him in letters of Greek, and Latin, and Hebrew,... (no accusation) 'THIS IS THE KING OF THE JEWS'" (Luke 23:37). A perfect man leaves no doubt as to who He is.
+- **Luke** - "Was written over Him in letters of Greek, and Latin, and Hebrew,... (no accusation) 'THIS IS THE KING OF THE JEWS'" (Luke 23:38). A perfect man leaves no doubt as to who He is.
 
 Luke omits the verses “My God, My God, why hast Thou forsaken me?” (Matthew 27:46, Mark 15:34) because a perfect man has God with Him always.
 
