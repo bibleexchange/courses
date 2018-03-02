@@ -6,7 +6,7 @@ class Section extends Component {
    
     let course = this.props.course
     let sectionIndex = this.props.index
-console.log(course)
+
     return (
       <div>
         <hr />
