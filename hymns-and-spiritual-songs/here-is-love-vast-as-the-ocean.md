@@ -24,17 +24,17 @@ Shed for us His precious blood
 Who His love will not remember?
 Who can cease to sing His praise?
 He can never be forgotten
-Throughout Heaven’s eternal days
+Throughout Heaven&apos;s eternal days
 
 ## Verse 2
 
 On the Mount of Crucifixion
 Fountains opened deep and wide
-Through the floodgates of God’s mercy
+Through the floodgates of God&apos;s mercy
 Flowed a vast and gracious tide
 Grace and love, like mighty rivers
 Poured incessant from above
-And Heaven’s peace and perfect justice
+And Heaven&apos;s peace and perfect justice
 Kissed a guilty world in love
 
 [chorus]

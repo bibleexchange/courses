@@ -1,0 +1,19 @@
+{
+  "name": "course-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "markdown-it": "^8.4.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.14"
+  },
+  "scripts": {
+    "start": "node build-db.js && react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "build-db": "node build-db.js"
+  }
+}

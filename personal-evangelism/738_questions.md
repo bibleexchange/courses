@@ -1,5 +1,5 @@
 Study Questions One
-Introduction & The Seven Elements in the Sinner’s Prayer (pgs. 2-5)
+Introduction & The Seven Elements in the Sinner&apos;s Prayer (pgs. 2-5)
 
 1.What is the purpose of this study?
 The purpose of this study is to prompt, encourage and equip each individual Christian to do personal work that souls will be saved, GOD will be glorified and Christian Soul-Winners will receive a reward.
@@ -31,13 +31,13 @@ the glorious power of his grace is manifested in saving a soul.
 9.When we are baptized in the Holy Ghost, what do we receive power to be? Acts 1:8
 Witnesses for the Lord
 
-10.On the day of Pentecost after the outpouring of the Holy Ghost on the 120, what were the results of Peter’s preaching to those who gathered? Acts 2:41 
+10.On the day of Pentecost after the outpouring of the Holy Ghost on the 120, what were the results of Peter&apos;s preaching to those who gathered? Acts 2:41 
  3000 were saved
 
 11.S_________________ is the work of God; therefore, s_________-w_______________is the work of the Believer. (Salvation / soul-winning)
 
 12.What does the Lord say concerning every Christian? 
-We must bear fruit—souls. 
+We must bear fruit&mdash;souls. 
 
 
 Study Questions One, continued
@@ -45,14 +45,14 @@ Study Questions One, continued
 13.What did the Lord command us in Mark 16:15?
 Go ye into all the world, and preach the gospel to every creature.
 
-14.Though we are “planted, rooted and grounded in Jesus Christ,” what is vital to maintaining our spiritual life and strength?
-We must bear fruit — point others to the way of life.
+14.Though we are &quot;planted, rooted and grounded in Jesus Christ,&quot; what is vital to maintaining our spiritual life and strength?
+We must bear fruit &mdash; point others to the way of life.
 
 15.John 15:2 - Every branch in me that beareth not fruit he ____________ ____________: and 
 
 every branch that beareth fruit, he _____________ _____, that it may bring forth more fruit. (taketh away / purgeth it)
 
-(16-22). Give the seven basic elements in the sinner’s prayer that need to be understood and believed by the one praying and give the sense of what they mean.
+(16-22). Give the seven basic elements in the sinner&apos;s prayer that need to be understood and believed by the one praying and give the sense of what they mean.
 
 16.Acknowledge 
 God, be merciful to me a sinner.
@@ -77,11 +77,11 @@ I thank You, Jesus, for saving my soul!
 
 23.Salvation is a spiritual birth that you as a believer can witness if you f_______________ t________ b__________________ p__________________. (follow the biblical pattern)
 
-24.In leading someone in the sinner’s prayer, keep the words s____________, but make sure 
+24.In leading someone in the sinner&apos;s prayer, keep the words s____________, but make sure 
 
 they understand and believe these basic c___________________. (simple / concepts)
 Quiz One
-Introduction & The Seven Elements in the Sinner’s Prayer (pgs. 2-5)
+Introduction & The Seven Elements in the Sinner&apos;s Prayer (pgs. 2-5)
 
 1.What is the purpose of this study?
 The purpose of this study is to prompt, encourage and equip each individual Christian to do personal work that souls will be saved, GOD will be glorified and Christian Soul-Winners will receive a reward.
@@ -111,12 +111,12 @@ Witnesses for the Lord
 
 every branch that beareth fruit, he _____________ _____, that it may bring forth more fruit. (taketh away / purgeth it)
 
-10.Give the seven basic elements in the Sinner’s Prayer.
-Acknowledge - Request - Confession – Invitation – Acceptance – Commitment - Thanksgiving
+10.Give the seven basic elements in the Sinner&apos;s Prayer.
+Acknowledge - Request - Confession &mdash; Invitation &mdash; Acceptance &mdash; Commitment - Thanksgiving
 
 BONUS: 
 
-In leading someone in the sinner’s prayer, keep the words s____________, but make sure 
+In leading someone in the sinner&apos;s prayer, keep the words s____________, but make sure 
 
 they understand and believe these basic c___________________. (simple / concepts)
 
@@ -130,14 +130,14 @@ The Soul Winner Receiving & Following (pgs. 9-20)
 It is witnessing one-on-one, reaching out to the individual.
 
 3.What form of evangelism do men respond more readily to and why?
-They are more likely to respond to personal evangelism. Because of men’s tendency to hold back, the personal touch is more effective in reaching their heart.
+They are more likely to respond to personal evangelism. Because of men&apos;s tendency to hold back, the personal touch is more effective in reaching their heart.
 
 4.What is the ultimate need in personal soul-winning?
 It is a consistent life that bears witness to the truth and power of the Gospel.
 
 5.We are _____________________ for Christ. (ambassadors)
 
-6.To be a Christian is to be a “______________ of ______________”. (follower / Christ)
+6.To be a Christian is to be a &quot;______________ of ______________&quot;. (follower / Christ)
 
 7.Every born-again believer that continues on in __________, _________ and __________and 
 
@@ -160,10 +160,10 @@ Knowing or having truth; having truth stored and not in motion.
 12.Give the definition of evangelistic.
 Going and carrying the truth; making the truth known.
 
-13.The personal worker’s dedication should be to what three things?
+13.The personal worker&apos;s dedication should be to what three things?
 a.The Lord 	b. The task 	 c. The person
 Study Questions Two, continued
-14.Paul’s lifetime dedication is summed up in 10 charges from II Timothy 4:1-8. List them.
+14.Paul&apos;s lifetime dedication is summed up in 10 charges from II Timothy 4:1-8. List them.
 
 a.Preach the Word
 b.Be instant in season and out of season
@@ -191,17 +191,17 @@ a.Live like it		b. Talk like it		c. Dress like it
 19.Write out James 1:27
 Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world.
 
-20.You’ll never backslide over one experience, it is a _________________. (Process)
+20.You&apos;ll never backslide over one experience, it is a _________________. (Process)
 
-21.If you neglect your Christian experience, don’t pray through and get victory over strongholds, what will happen?
+21.If you neglect your Christian experience, don&apos;t pray through and get victory over strongholds, what will happen?
  You will backslide.
 
 22.Win a ___________, not an ______________________! (soul / argument)
 
 23.What are three things a successful worker will produce and give a brief explanation of each?
-An Impression – make an impression on them to gain their interest
-Expression – vitally experience the Word in your heart; vitally express it from the heart.
-Possession – get them to possess Christ
+An Impression &mdash; make an impression on them to gain their interest
+Expression &mdash; vitally experience the Word in your heart; vitally express it from the heart.
+Possession &mdash; get them to possess Christ
 
 24.What are the three types of prayer?
 a. Personal Prayer	b. Group Prayer		c. Interceding Prayer
@@ -214,7 +214,7 @@ You need experience to fish and win souls. You need patience to fish and to win 
 27.In what way is salvation more than believing in something? What does it take to be a Christian?
 It is receiving Christ. One must have Christ.
 
-28. Write out the acrostic given in the notes using the word “H-A-V-E”.
+28. Write out the acrostic given in the notes using the word &quot;H-A-V-E&quot;.
 Heaven Accepted Vicariously Effected
 
 29.Salvation involves the whole man. What three parts make up man?
@@ -230,12 +230,12 @@ q____________________. (plan/approach/questions)
 
 32.Have you ever about ________________ a ________________? (becoming/Christian)
 
-33.If someone was to ask you, “__________________________?” what would you say?
+33.If someone was to ask you, &quot;__________________________?&quot; what would you say?
 (What is a Christian?)
 
 34.Would it be all right if ______________________________ what the Bible says a Christian is? (I showed you)
 
-35.Wouldn’t you like to r___________ J __________ as your S _____________?” (receive Jesus as your Savior)
+35.Wouldn&apos;t you like to r___________ J __________ as your S _____________?&quot; (receive Jesus as your Savior)
 
 36.How do we test the sinner in our witnessing?
 We test them with the Word of God.
@@ -248,8 +248,8 @@ The Soul Winner Receiving & Following (pgs. 9-20)
 
 2.What is the ultimate need in personal soul-winning?
 It is a consistent life that bears witness to the truth and power of the Gospel.
-3.To be a Christian is to be a “f______________ of C______________”. (follower / Christ)
-4.The personal worker’s dedication should be to what three things?
+3.To be a Christian is to be a &quot;f______________ of C______________&quot;. (follower / Christ)
+4.The personal worker&apos;s dedication should be to what three things?
 a.The Lord 	b. The task 	 c. The person
 
 5.Dedication is an u___________________love and a s_______________desire to help other people. (unselfish / spiritual)
@@ -273,11 +273,11 @@ q____________________. (plan/approach/questions)
 12.Are you interested in spiritual things?
 
 13.Have you ever about ________________ a ________________? (becoming/Christian)
-14.If someone was to ask you, “__________________________?” what would you say?
+14.If someone was to ask you, &quot;__________________________?&quot; what would you say?
 (What is a Christian?)
 15.Would it be all right if ______________________________ what the Bible says a Christian is? (I showed you)
 
-16.Wouldn’t you like to r___________ J __________ as your S _____________?” (receive Jesus as your Savior)
+16.Wouldn&apos;t you like to r___________ J __________ as your S _____________?&quot; (receive Jesus as your Savior)
 
 Study Questions Three
 Elements to Success in Personal Soul-Winning (pgs. 25-30)
@@ -299,12 +299,12 @@ Elements to Success in Personal Soul-Winning (pgs. 25-30)
 Elements to Success in Personal Soul-Winning (pgs. 23-28)
 
 1.Define tact.
-“The mental ability of doing and saying the right thing at the right time to bring about the right results.”
+&quot;The mental ability of doing and saying the right thing at the right time to bring about the right results.&quot;
 
 2.How important is contact?
 A man may have all the tact in the world, but it will be useless unless he gets into contact with men
 are evil. Eph. 5:16b
-3-5.List three things that salt does that can be directly related to the Believer’s influence in the world.
+3-5.List three things that salt does that can be directly related to the Believer&apos;s influence in the world.
 Salt not only can hurt and heal, but it is also a preservative.
 6-8.Give the three reasons why you should know how to handle the Bible?
 To show men that they are sinners.
@@ -325,8 +325,8 @@ The days are few. Job 10:20
 The harvest is great. Matt. 9:37
 The laborers are few. Matt. 9:37
 The days
-13.Why must the soul-winner be thoroughly convinced of the sinner’s present danger?
-If we are not truly convinced our neighbor’s house is on fire, we will not do the necessary things to get them out of their home.
+13.Why must the soul-winner be thoroughly convinced of the sinner&apos;s present danger?
+If we are not truly convinced our neighbor&apos;s house is on fire, we will not do the necessary things to get them out of their home.
 
 14.How should the soul-winner see the sinner?
 See all men as they can be in Christ and not just as they are as sinners.
@@ -393,7 +393,7 @@ He must be a Christian
 He must be led by the Spirit.
 He must be a man of prayer.
 He must be concerned for souls.
-He must have confidence in the power of God’s Word.
+He must have confidence in the power of God&apos;s Word.
 7-11.What does repentance involve? 5 Things.
 Confession of sin.
 Confession even to man if he has been wronged in the sinning.
@@ -403,10 +403,10 @@ Turning to God
 
 Respond to the following DIFFICULTIES that often hinder sinners:
 
-13. “I have no feeling; I do not feel as though I want to be a Christian.”
-14.Those who say, “I am seeking, but I cannot find God.”
-15.“I would like to be a Christian, but I cannot forgive my enemies.”
-“I must become better before I can become a Christian.”
+13. &quot;I have no feeling; I do not feel as though I want to be a Christian.&quot;
+14.Those who say, &quot;I am seeking, but I cannot find God.&quot;
+15.&quot;I would like to be a Christian, but I cannot forgive my enemies.&quot;
+&quot;I must become better before I can become a Christian.&quot;
 
 Study Questions Five
 The Soul Winner Giving & Leading, Part 2 (pgs.40-47)
@@ -424,33 +424,33 @@ The Soul Winner Giving & Leading, Part 2 (pgs.40-47)
 
 The Soul Winner Giving & Leading, Part 2 (pgs.38-53)
 
-1.What needs to be emphasized with the self-righteous concerning a man’s hope in heaven?
+1.What needs to be emphasized with the self-righteous concerning a man&apos;s hope in heaven?
 Show them that salvation is by faith in Christ and not in good works.
 2.List at least 4 possible causes of backsliding:
 Mistreatment or Inconsistencies of Christians, Temptations of Satan, Misunderstandings, Materialism and Worldliness, Wrong Motives, Mind Battles
-3.How would you respond to “The Fearful and Despairing”: “I am afraid I will be persecuted if I become a Christian.”?
+3.How would you respond to &quot;The Fearful and Despairing&quot;: &quot;I am afraid I will be persecuted if I become a Christian.&quot;?
 
 
 
 4.What will you need a great deal of to deal with those afraid of future failure because of past failures?
 
 
-5.How would you respond to “The Fearful and Despairing”: “I have committed the unpardonable sin.”
+5.How would you respond to &quot;The Fearful and Despairing&quot;: &quot;I have committed the unpardonable sin.&quot;
 
 
-6.It is so important to show the OJBECTOR the WORD OF GOD. So what do you do with a person that says “The Bible is full of contradictions.”?
+6.It is so important to show the OJBECTOR the WORD OF GOD. So what do you do with a person that says &quot;The Bible is full of contradictions.&quot;?
 
 
-7.How should you deal with those that say “There are too many hypocrites in the Church.”
-It’s true, admit it. Help them to see there is no use staying in the world for there are more hypocrites there.It is unfair and inaccurate to take the poorest of Christian examples and judge the entire structure of Christianity by them.
+7.How should you deal with those that say &quot;There are too many hypocrites in the Church.&quot;
+It&apos;s true, admit it. Help them to see there is no use staying in the world for there are more hypocrites there.It is unfair and inaccurate to take the poorest of Christian examples and judge the entire structure of Christianity by them.
 
-8.How should you answer one who says ‘The Bible is too hard in its demands.”
-Sin is a hard taskmaster, but Jesus is a GREAT SAVIOR! I John 5:3—For this is the love of God, that we keep his commandments: and his commandments are not grievous. Matthew 11:30—For my yoke is easy, and my burden is light.
+8.How should you answer one who says &apos;The Bible is too hard in its demands.&quot;
+Sin is a hard taskmaster, but Jesus is a GREAT SAVIOR! I John 5:3&mdash;For this is the love of God, that we keep his commandments: and his commandments are not grievous. Matthew 11:30&mdash;For my yoke is easy, and my burden is light.
 
 9.What are the 2 kinds of Skeptics? Explain the difference.
-The Sincere Skeptic and the Insincere Skeptic.The insincere skeptic is more rebellious than he is skeptical. He is not seeking to know what is right, but is in opposition to the truth and fighting God. Sincere Skeptic If they are a sincere skeptic, they should be willing to hear all sides of an argument. A skeptic habitually doubts all accepted beliefs. The skeptic’s problem is that he does not trust anything but what his own intelligence can figure.
+The Sincere Skeptic and the Insincere Skeptic.The insincere skeptic is more rebellious than he is skeptical. He is not seeking to know what is right, but is in opposition to the truth and fighting God. Sincere Skeptic If they are a sincere skeptic, they should be willing to hear all sides of an argument. A skeptic habitually doubts all accepted beliefs. The skeptic&apos;s problem is that he does not trust anything but what his own intelligence can figure.
 10.What is the greatest sin according to the notes?
-The greatest sin is to resist the Holy Spirit and reject Jesus Christ as the Son of the Living God. He is man’s ONLY hope. To reject Christ is to reject our only opportunity for salvation.Final Exam
+The greatest sin is to resist the Holy Spirit and reject Jesus Christ as the Son of the Living God. He is man&apos;s ONLY hope. To reject Christ is to reject our only opportunity for salvation.Final Exam
 
 Study Questions Six
 The Soul Winner Giving & Leading, Part 3 (pgs.50-57)
@@ -502,20 +502,20 @@ Final Exam
 25.Witnesses for the Lord
 26.Give the seven basic elements in the 
 27.
-28.Sinner’s Prayer
+28.Sinner&apos;s Prayer
 29.
 30..
 31.
-32.Acknowledge - Request - Confession – Invitation – Acceptance
-33. – Commitment - Thanksgiving
+32.Acknowledge - Request - Confession &mdash; Invitation &mdash; Acceptance
+33. &mdash; Commitment - Thanksgiving
 34.To be a Christian is to be 
 35.
 36.a
-37. “f______________ of C______________”. 
+37. &quot;f______________ of C______________&quot;. 
 38.
 39.(follower / Christ)
 40.
-41.The personal worker’s dedication should be to what three things?
+41.The personal worker&apos;s dedication should be to what three things?
 42.The Lord 
 43.b. The task 
 44. c. The person
@@ -551,17 +551,17 @@ Final Exam
 74.
 75.(becoming/Christian)
 76.
-77.If someone was to ask you, “__________________________?” what would you say?
+77.If someone was to ask you, &quot;__________________________?&quot; what would you say?
 78.
 79.(What is a Christian?)
 80.Would it be all right if ______________________________ what the Bible says a Christian is? 
 81.
 82.(I showed you)
 83.
-84.Wouldn’t you like to r__________
+84.Wouldn&apos;t you like to r__________
 85.
 86._ J
-87. __________ as your S _____________?” 
+87. __________ as your S _____________?&quot; 
 88.
 89.(
 90.
@@ -573,7 +573,7 @@ Final Exam
 96.
 97.fine tact.
 98.
-99.“The mental ability of doing and saying the right thing at the right time to bring about the right results.”
+99.&quot;The mental ability of doing and saying the right thing at the right time to bring about the right results.&quot;
 100.
 101.How important is contact?
 102.
@@ -638,7 +638,7 @@ Final Exam
 161. be a man of prayer. 
 162.
 163.d)must
-164. be concerned for souls. e) He must have confidence in the power of God’s Word.
+164. be concerned for souls. e) He must have confidence in the power of God&apos;s Word.
 165.
 166.What does repentance involve? 5 Things.
 167.
@@ -664,7 +664,7 @@ Final Exam
 187.What 
 188.
 189.is the greatest sin according to the notes?
-190.The greatest sin is to resist the Holy Spirit and reject Jesus Christ as the Son of the Living God. He is man’s ONLY hope. To reject Christ is to reject our only opportunity for 
+190.The greatest sin is to resist the Holy Spirit and reject Jesus Christ as the Son of the Living God. He is man&apos;s ONLY hope. To reject Christ is to reject our only opportunity for 
 191.
 192.salvation.
 193.
@@ -675,49 +675,49 @@ Final Exam
 198.Page 3 of 3
 199.
 200.Respond to the following DIFFICULT STATEMENTS from sinners:
-201. “I have no feeling; I do not feel as though I want to be a Christian.”
+201. &quot;I have no feeling; I do not feel as though I want to be a Christian.&quot;
 202.
-203.Those who say, “I am seeking, but I cannot find God.”
+203.Those who say, &quot;I am seeking, but I cannot find God.&quot;
 204.
-205.“I would like to be a Christian, but I cannot forgive my
-206. enemies.”
+205.&quot;I would like to be a Christian, but I cannot forgive my
+206. enemies.&quot;
 207.
-208.“I must become better before I can become a Christian.”
+208.&quot;I must become better before I can become a Christian.&quot;
 209.
-210.What needs to be emphasized with the self-righteous concerning a man’s hope in heaven?
+210.What needs to be emphasized with the self-righteous concerning a man&apos;s hope in heaven?
 211.
-212.How would you respond to “The Fearful and Despairing”: “I am afraid I will be persecuted if I become
-213. a Christian.”?
-214.How would you respond to “The Fearful and Despairing”: “I have committed the unpardonable 
+212.How would you respond to &quot;The Fearful and Despairing&quot;: &quot;I am afraid I will be persecuted if I become
+213. a Christian.&quot;?
+214.How would you respond to &quot;The Fearful and Despairing&quot;: &quot;I have committed the unpardonable 
 215.
 216.sin.
 217.
-218.”
+218.&quot;
 219.
-220.It is so important to show the OJBECTOR the WORD OF GOD. So what do you do with a person that says “The Bible is full of contradictions.”?
-221.How should you deal with those that say “There are too many hypocrites in the 
+220.It is so important to show the OJBECTOR the WORD OF GOD. So what do you do with a person that says &quot;The Bible is full of contradictions.&quot;?
+221.How should you deal with those that say &quot;There are too many hypocrites in the 
 222.
 223.Church.
 224.
-225.”
-226.It’s true, admit it. Help them to see there is no use staying in the world for there are more hypocrites 
+225.&quot;
+226.It&apos;s true, admit it. Help them to see there is no use staying in the world for there are more hypocrites 
 227.
 228.there.It
 229. is unfair and inaccurate to take the poorest of 
 230.
 231.Christian examples and judge the entire structure of Christianity by them.
-232.How should you answer one who says ‘The Bible is too hard in its 
+232.How should you answer one who says &apos;The Bible is too hard in its 
 233.
 234.demands.
 235.
-236.”
+236.&quot;
 237.
-238.Sin is a hard taskmaster, but Jesus is a GREAT SAVIOR! I John 5:3—
+238.Sin is a hard taskmaster, but Jesus is a GREAT SAVIOR! I John 5:3&mdash;
 239.
 240.For
 241. this is the love of God, that we kee
 242.
-243.p his commandments: and his commandments are not grievous. Matthew 11:30—
+243.p his commandments: and his commandments are not grievous. Matthew 11:30&mdash;
 244.
 245.For
 246. my yoke is easy, and my burden is light.

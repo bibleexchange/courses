@@ -1,0 +1,9 @@
+The Persistent Widow
+Lu 18:1 And he spake a parable unto them to this end, that men ought always to pray, and not to faint; 2 Saying, There was in a city a judge, which feared not God, neither regarded man: 3 And there was a widow in that city; and she came unto him, saying, Avenge me of mine adversary. 4 And he would not for a while: but afterward he said within himself, Though I fear not God, nor regard man; 5 Yet because this widow troubleth me, I will avenge her, lest by her continual coming she weary me. 6 And the Lord said, Hear what the unjust judge saith. 7 And shall not God avenge his own elect, which cry day and night unto him, though he bear long with them? Lu 18:8 I tell you that he will avenge them speedily. Nevertheless when the Son of man cometh, shall he find faith on the earth?
+1. Men ought always to pray and not to faint.
+2. We should always pray the prayer of faith persistently.
+3. God will avenge His own elect which cry day and night unto Him. 
+Lu 18:5 Yet because this widow troubleth me, I will avenge her, lest by her continual coming she weary me. upwpiazw hupopiazo, hoop-o-pee-ad'-zo to hit under the eye (buffet or disable an antagonist as a pugilist), (figuratively) to tease or annoy (into compliance), subdue (one's passions):--keep under, weary. 
+Power of persistence - continual coming - cry day and night unto Him
+Though He bear long with you.
+1Ch 16:11 Seek the LORD and his strength, seek his face continually. Jer 29:13 And ye shall seek me, and find me, when ye shall search for me with all your heart. Eph 6:18 Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints; Col 4:2 Continue in prayer, and watch in the same with thanksgiving; 1Th 5:17 Pray without ceasing.

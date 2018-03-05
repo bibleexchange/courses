@@ -1,6 +1,6 @@
 # Structure of this Book
 
-## Section One:  Revelation of The Bride
+## Section One: Revelation of The Bride
 
 ### The Bride of Christ
 ### The Body of Christ
@@ -9,7 +9,7 @@
 ### The Rapture
 ### The Seventieth Week
 
-## Section Two:  Types of The Bride
+## Section Two: Types of The Bride
 
 ### Eve is a Type of the Bride
 ### Rebekah is a Type of the Bride

@@ -1,5 +1,7 @@
 # Heaven Opened
 
+A sermon outline of Rev. James R. Reynolds, Sr.
+
 > Revelation 19:11&mdash;And **I saw heaven opened**, and behold a white horse; and he that sat upon him was called Faithful and True, and in righteousness he doth judge and make war.
 
 > Joh 1:51 And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see **heaven open**, and the angels of God ascending and descending upon the Son of man.
@@ -24,8 +26,8 @@ God opening up and sharing those thing which are His with us.
 
 > The afternoon after he was saved. Finney and a friend were engaged in removing the books and furniture to another office. We were very busy in this, and had but little conversation all the afternoon. He was at peace and everything appeared to be going right.
 
-... **as soon as I was left alone in the new office, I would try to pray again**--
-... **although I no longer had any concern about my soul**, still, I would continue to pray.
+&hellip; **as soon as I was left alone in the new office, I would try to pray again**--
+&hellip; **although I no longer had any concern about my soul**, still, I would continue to pray.
 
 Just at dark his friend went to his home. Finney accompanied him to the door; and as I closed the door and turned around,
 
@@ -49,7 +51,7 @@ I fell down at His feet and poured out my soul to Him. I wept aloud like a child
 >Genesis 7:11&mdash;In the six hundredth year of Noah's life, in the second month, the seventeenth day of the month, the same day were all the fountains of the great deep broken up, and the windows of heaven were opened.
 
 #### Sodom and Gomorrah
->Genesis 19:24 ¶ Then the LORD rained upon Sodom and upon Gomorrah brimstone and fire from the LORD out of heaven;
+>Genesis 19:24 Then the LORD rained upon Sodom and upon Gomorrah brimstone and fire from the LORD out of heaven;
 
 ### B. Obedience
 
@@ -62,7 +64,7 @@ The heavens had been closed for 400 years. No open vision or revelation from God
 
 God promised a blessing if in the new land they continued to hearken diligently unto God's voice, God would open up his good treasure!
 
-> Deuteronomy 28:1,12&mdash; ¶ And it shall come to pass, if thou shalt hearken diligently unto the voice of the LORD thy God 12&mdash;The LORD shall **open unto thee his good treasure**, the heaven to give the rain unto thy land in his season, and to bless all the work of thine hand: and thou shalt lend unto many nations, and thou shalt not borrow.
+> Deuteronomy 28:1,12&mdash; And it shall come to pass, if thou shalt hearken diligently unto the voice of the LORD thy God 12&mdash;The LORD shall **open unto thee his good treasure**, the heaven to give the rain unto thy land in his season, and to bless all the work of thine hand: and thou shalt lend unto many nations, and thou shalt not borrow.
 
 ### C.Prayer
 

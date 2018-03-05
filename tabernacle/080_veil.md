@@ -1,0 +1,147 @@
+# Lesson #8 The Veil, Exodus 26:31-33
+
+> Exodus 26:31-37 &mdash; 31 ¶ And thou shalt make a vail of blue, and purple, and scarlet, and fine twined linen of cunning work: with cherubims shall it be made: 32 And thou shalt hang it upon four pillars of shittim wood overlaid with gold: their hooks shall be of gold, upon the four sockets of silver. 33 And thou shalt hang up the vail under the taches, that thou mayest bring in thither within the vail the ark of the testimony: and the vail shall divide unto you between the holy place and the most holy. 34 And thou shalt put the mercy seat upon the ark of the testimony in the most holy place. 35 And thou shalt set the table without the vail, and the candlestick over against the table on the side of the tabernacle toward the south: and thou shalt put the table on the north side. 36 And thou shalt make an hanging for the door of the tent, of blue, and purple, and scarlet, and fine twined linen, wrought with needlework. 37 And thou shalt make for the hanging five pillars of shittim wood, and overlay them with gold, and their hooks shall be of gold: and thou shalt cast five sockets of brass for them.
+
+## Introduction
+
+### A. Veil on Woman
+
+The use of the veil on woman is much more general in use in modern times (due to the spread of Islam) than in ancient times. In ancient times,  the veil was adopted for the most part only in exceptional cases by Jews.
+
+- It was used by betrothed maidens in the presence of their future husbands, especially at the time of the wedding:
+
+> Ruth 3:15 &mdash; Also he said, Bring the vail that thou hast upon thee, and hold it. And when she held it, he measured six measures of barley, and laid it on her: and she went into the city.
+<!-- -->
+> Song of Solomon 5:7 &mdash; The watchmen that went about the city found me, they smote me, they wounded me; the keepers of the walls took away my veil from me.
+<!-- -->
+> Genesis 24:65 &mdash; For she had said unto the servant, What man is this that walketh in the field to meet us? And the servant had said, It is my master: therefore she took a vail, and covered herself.
+
+- Also used by women of loose character for purposes of concealment as in Tamar in her deception of Judah in Genesis 38:14.
+
+- Among the Jews of the New Testament age it appears (not absolutely a fact) to have been customary for the women to cover their heads (not necessarily their faces) when engaged in public worship. (1 Corinthians 11:2-16)
+ 
+### B. Moses Veiled
+
+> Exodus 33:18 &mdash; And he said, I beseech thee, shew me thy glory.
+
+Moses prayed "Show me Thy glory" and the Lord invited Moses to stand near Him. (This was a hazard, last time in chapter 32 the people sinned when Moses went up into the mount.)
+
+> Ex 34:28-35 &mdash; And he was there with the LORD forty days and forty nights; he did neither eat bread, nor drink water. And he wrote upon the tables the words of the covenant, the ten commandments. 29 And it came to pass, when Moses came down from mount Sinai with the two tables of testimony in Moses' hand, when he came down from the mount, that Moses wist not that the skin of his face shone while he talked with him. 30 And when Aaron and all the children of Israel saw Moses, behold, the skin of his face shone; and they were afraid to come nigh him. 31 And Moses called unto them; and Aaron and all the rulers of the congregation returned unto him: and Moses talked with them. 32 And afterward all the children of Israel came nigh: and he gave them in commandment all that the LORD had spoken with him in mount Sinai. 33 And till Moses had done speaking with them, he put a vail on his face. 34 But when Moses went in before the LORD to speak with him, he took the vail off, until he came out. And he came out, and spake unto the children of Israel that which he was commanded. 35 And the children of Israel saw the face of Moses, that the skin of Moses' face shone: and Moses put the vail upon his face again, until he went in to speak with him.
+
+- The radiance in Moses 
+
+Was this glory the original condition of man at creation? Adam and Eve walked with God, unaware of their nakedness.
+
+- The Glory of God's Law 
+
+> 2 Cor 3:7 &mdash; But if the ministration of death, written and engraven in stones, was glorious, so that the children of Israel could not stedfastly behold the face of Moses for the glory of his countenance; which glory was to be done away: [was glorious = came into being with glory]
+
+In veiling himself missed became a type and figure of his own dispensation.
+
+- Moses Veiled
+
+> 2 Corinthians 3:13 &mash; And not as Moses, which put a vail over his face, that the children of Israel could not stedfastly look to the end of that which is abolished:
+
+Not just to hide the brightness from which they shrank (As in Exodus 34:33, Moses veils himself AFTER he speaks the Word of God.), but so they wouldn't see the glory fade Paul wrote that Moses put the veil over his face that they might not see the end, the fading away of that transitory glory. 
+
+For the Jew, it was as though it were permanent and unfading.
+
+The end .... Romans 10:4; 1Timothy 1:5 -- aim or intention, it's abolished : brought to nought
+
+No attempt should be made to conceal the gospel anymore! No disguise 2 Cor 2:17 
+
+John 16:33-34 the holy ghost discloses not conceals
+
+Hebrews 6:19 Hebrews 10:20
+
+The children of Israel could not bear to look on the glory, even though it was perishing and evanescent. The English rendering, "which glory was to be done away," ( in the act of passing away)
+
+## The Antitype of the Veil
+
+The ultimate fulfillment of the type of the Veil of the Tabernacle is the Man Christ Jesus. Hebrews 10 speaks of the Veil as the "His flesh". The Veil is a clearly established type in Scripture.
+
+> Hebrews 10:19,20 &mdash; Heb 10:19 ¶ Having therefore, brethren, boldness to enter into the holiest by the blood of Jesus, 20 By a new and living way, which he hath consecrated for us, through the veil, that is to say, his flesh;
+
+> Mark 15:38 &mdash; And the veil of the temple was rent in twain from the top to the bottom.
+
+- Willingly ignorant that the veil has already been torn away.
+
+2 Cor 3:15 ,16 &mdash; But even unto this day, when Moses is read, the vail is upon their heart. 16 Nevertheless when it shall turn to the Lord, the vail shall be taken away.
+
+## I. The Materials for the Curtains of the Veil
+
+Blue, purple, and scarlet on  backdrop of fine twined linen of cunning work with cherubim's. The humanity of Jesus in His perfection was the "cunning work" of God. He was God's great masterpiece. The cherubim speak to us of glorified humanity: humanity in its highest state of perfection. (Some regard the cherubim as a high order of angelic beings.)
+
+It is not clear how thick the tabernacle veil was, but the veil that was used in Herod's temple during Jesus' day  was reported by Josephus as being 4 inches thick, was renewed every year, and that horses tied to each side could not pull it apart. Early rabbinic literature (The Mishnah) states that the Temple veil was as thick as a man’s hand. Jewish writings also state that the veil required 60 men to handle it and it would require the strength of a yoke of oxen pulling in opposite directions to rend it.****
+
+This veil served as a great barrier between the Holy Presence of God and His people.
+
+> Levitucs 16:1 ¶ And the LORD spake unto Moses after the death of the two sons of Aaron, when they offered before the LORD, and died; 2 And the LORD said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy place within the vail before the mercy seat, which is upon the ark; that he die not: for I will appear in the cloud upon the mercy seat.
+
+## II. Three-fold Support of the Veil
+
+(Pillars, Hooks, Sockets)
+
+> Exodus 26:32 &mdash; And thou shalt hang it upon four pillars of shittim wood overlaid with gold: their hooks shall be of gold, upon the four sockets of silver.
+
+### A. Pillars
+
+4 pillars in number. There are 4 records given us a divenly inspired revelation of Christ's life, death, resurrection and ascension in the gospels. 
+
+The 4 pillars may also illustrate the truth found in 1 Corinthians 1:30
+
+> 1 Corinthians 1:30 &mdash; But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:
+
+Pillars made of acacia wood overlaid with gold. The person of Christ in His human and Divine natures.
+
+### B. Hooks of Gold
+
+Divine righteousness.
+
+### C. Sockets of Silver
+
+These are a figure of redemption. The redemptive work of Christ is the foundation for all.
+
+## III. The Position of the Veil
+
+The veil was positioned between the Holy Place and the Holiest of All. The Veil shut off the Most Holy Place from everyone except the High Priest who could enter the Holiest of All once a year on the day of Atonement (Leviticus 16). When the High Priest did enter, it was with great solemnity and seriousness. The Bells round about the High Priests clothing signaled he was still alive while he ministered in the Most Holy Place to the anxiously waiting nation outside.
+
+Christ fulfills the type of the Day of Atonement both as the Great High Priest and the sacrifice. 
+
+## IV. The Rending of the Temple Veil, Matthew 27:50-51
+
+> Matthew 27:50,51 &mdash; Jesus, when he had cried again with a loud voice, yielded up the ghost. 51 And, behold, the veil of the temple was rent in twain from the top to the bottom; and the earth did quake, and the rocks rent;
+
+### A. Jesus Uttered 2 Loud Cries from the Cross
+
+#### 1. First, An Agonizing Cry of Abandonment
+
+> Matthew 27:46 &mdash; And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is to say, My God, my God, why hast thou forsaken me? 
+
+#### 2. Second, A Cry of Victory
+
+> Matthew 27:50 &mdash; Jesus, when he had cried again with a loud voice, yielded up the ghost.
+<!-- -->
+>  John 19:30 When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost.
+
+It was this second loud cry, the cry of a conqueror ("It is finished!"), that rent the veil. The victory was evident by the supernatural loudness of the dying Christ's voice. The great work of redemption was completed. Since the fall in the garden, all creation waited for this moment and now with a stroke of the Divine finger "the veil was rent in twain from the top to the bottom".
+
+A way of access to the holy presence of God was provided that all may enter in. The rending of the veil was a sign for what the victory actually was. This tearing of the veil was an interpretation of what happened in the spiritual realm when Christ made His last cry from the cross.  Through the rending of the veil and the record of that rending, the Holy Spirit is signifying that the way into the holy of holies is now made manifest.
+
+### B. The Veil's Service was Complete 
+
+It was about 3 o'clock, the hour of the beginning of the Evening Sacrifice and the priests were ministering before the Veil. The rending of the Veil exposed the absence of the Skekinah Glory. God no longer dwelt between the Cherubims for the Glory now rested in the True Tabernacle, Jesus Christ.
+
+On the day of Pentecost the Glory of God rested within the Living Temple of God as the Holy Ghost filled the individual Believers.
+
+The reign of the Law ended in these Believers and Grace reigned. To the eye of faith only was He manifested (the crowd was confused by what they saw). The type of the Veil was fulfilled in Jesus Christ our Great High Priest who had entered into heaven with His own blood to appear before God for us and the Holy Ghost was sent as the indwelling presence and glory of God.
+
+> Hebrews 9:12-14 &mdash; Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption for us. 13 For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh: 14 How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?
+
+<!-- -->
+
+> Hebrews 4:14-16 &mdash; Seeing then that we have a great high priest, that is passed into the heavens, Jesus the Son of God, let us hold fast our profession. 15 For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are, yet without sin. 16 Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need.
+
+<!-- -->
+
+> Hebrews 7:25 &mdash; Wherefore he is able also to save them to the uttermost that come unto God by him, seeing he ever liveth to make intercession for them.

@@ -1,5 +1,3 @@
-@en
-
 <p>The Doctrine of Angels</p>
 <h1>Angelology</h1>
 
@@ -44,57 +42,3 @@
 
 <h4>Cherubim</h4>
 <p>The most frequently mentioned class of angels is the cherubim. Cherubim serve in the presence of God and guard the house of God. Cherubim were portrayed on the Ark of the Covenant and on the walls of Solomon&#8217;s Temple as standing on both sides of God beside the mercy seat.</p>
-
-@sw
-
-
-
-<p>Mafundisho kuhusu Malaika</p>
-<h1>Angelology</h1>
-
-<p>Isaya 6:2; Mathayo 1:20,24; I Wathesalonika 4:16; yuda ; Ufunuo 12:7</p>
-<!---->
-<h2>Asili (maumbile ) ya malaika</h2>
-
-
-<h3>Ishara Kuhusu hali</h3>
-
-<p>Mafasirio ya kebrania kuhusu malaika ni msimamizi wa Mungu wa hali juu ya mtu, kwa muda atoae mijumbe, kwa muda, alindae watu wa Mungu.</p>
-
-
-<h4>Waliumbwa viumbe</h4>
-<p>Malaika aliumbwa na wana mwanzo fulani. Haweko wa maisha la milele jinsi ya Mungu. Waliumbwa na Mungu na wana kuwa wa mfalme.</p>
-<p>Idadi yao haijulikane kwa usahihi, walakini sababu hawazai wala kufa, idadi yao ya leo ni kama mwanzo wakati waliumbwa, waebrania 12&#160;:2 imeonyesha idadi ya malaika kama &#8220;haihesabulik&#233;&#8221; haihesabulike maana ni wengi kwa kuhesabuliwa. Katika maandiko ya Mathayo 26&#160;:53, imesema ya kua angewaita legoni kumina wawili ya malaika kwa kumsaidia.</p>
-<p>Legoni moja inna wa helfu sita&#160;; lejoni kumi na wawili ingekuwa elfusabini na wawili ya malaika. </p>
-
-<p>Luka 20&#160;:36&#8212;Wala hawawezi kufa tena&#160;; kwa sababu huwa sawa sawa na malaika, nao ni wana wa Mungu, kwa vile walivyo wa ufufuo.</p>
-
-<h4>Viumbe vya kiroho</h4>
-
-<p>Zaburi 104:4&#8212;Amewafanya malaika yake kuwa roho&#160;; wahudumu wake kuwa moto yenye mwali:</p>
-
-<p>Japo malaika wana majina ya wanawume, kama vile, Michael na Gabriel, malaika niviumbe vya kiroho na siyo wakiume wa kike. Malaika hawaai wala kuwa na jamaa. Katika maandiko ya Marko 12&#160;:25, wametueleza ya kuwa wakati wakristo wataingizana mbinguni, watakuwa kama malaika kwa maana ya kuwa hawakaoa wala kupewa kwa ndoa.</p>
-<p>Malaika kamwe siye watu, lakini waliumbwa kama malaika. Hakuna maandiko imeonyesha hata siku moja ya kuwa watu nao wamekuwa malaika. Tena, japo wameweza kuonekana kama watu, hawana miili ya kimutu. Kuna mifano mengi yenye kuandikwa katika Biblia kuhusu malaika wenye kuonekana kama watu.</p>
-
-<p>Mwaloni ni Gideone malaika aliketi chini. &#9;&#9;Wamuzi 6&#160;:11,12.</p>
-<p>Zakaria malaika aliongea n zakaria.&#9;&#9;&#9;Zakaria 1&#160;:9</p>
-<p>Zakaria malaika alimtokea &#9;&#9;&#9;&#9;Luka 1&#160;:11</p>
-<p>Miriamu aliona katika malaika.&#9;&#9;&#9;Luka 1&#160;:29</p>
-<p>Tuliagizwa kupokea wageni kwa </p>
-<p>sababu tuliweza kupokea malaika bila kufahamu. &#9;Waebrnia 13&#160;:2</p>
-
-<h4>Wenye mamlaka, lakini yenye misho. </h4>
-<h4>Malaika ni viumbe vyenye mamlaka, walakini mamlaka yao ina mwisho. Malaika moja aliua elfu mya moja ya assyriani katika usiku moja. (2 wafalme 19:35) Malaika mwengine alitumwa na Mungu kuiharibu gerusalemu, lakini akuyamaliza uharibifu katika Ikumbu kumbu la torati 21:15. Hiyo maandiko imeonyesha mamlaka na mwisho ya malaika. Walikuwa na mamlaka ya kuharibu muji mizima, walkin wakatin mungu aliwa ambia kuacha, wapshwa kuacha. Malaika hawezi kutenda bila kumtegemea Mungu. Haki shetani (&#8216;malaika ambae alitupwa&#8217; hama &#8216;Ibilisi&#8217;) alihitaji ruhusa tutokea kwa Mungu ili amtendee yobo na jamaa yake. </h4>
-<h4>Malaika haweko mahali pote, hawana mamlaka zote, wala hawana ufahamu wote. Malaika watahutumiwa na watu wa Mungu (I wakorinto 6:3) Malaika walikuwa na nia ya kuyajua maana ya injili (I Petro 1:12), hii imeonyesha ya kuwa uelevu wao una mwisho.</h4>
-
-<h3>Haina</h3>
-<h3>Kuna daraja fulani ya malaika.</h3>
-
-<h4>Malaika mkuu.</h4>
-<p>Malaika mkuu ni malaika wa hakwa ya juu zaidi. Michael ameitwa malaika mkuu katika maandiko ya Yuda 9. I wathesalonika 4&#160;:16 imesema ya kuwa wakati kristo atarudi, atatanguliwa nasauti ya malaika mkuu.</p>
-
-<h4>Serafina</h4>
-<p>Waserafina wametajua tu katika kitabu cha Isaya 6&#160;:2-6. Jina serafina imetoa picha ya mwali (sawa na rangi ya mutuba). Isaya amewafasiria kama wamekuwa na mabawa sita&#160;: mawili yenye kutanda uso, mawili miguu, na mawili ya kuruka nayo. Milango imetetemeka kwa sauti ya kulia kwao. &#171;&#160;Mtakatifu, mtakatifu, ni mfalme wa majeshi&#160;: ulimwengu zima imejaa na sifa yako. Malaika moja ambae alitumia kamba, alichukuwa makaa yenye moto kwa madhobahu na aliyagua midono ya Isaya. Hiyi ni dalili ya maondolea ya dhambi ya Isaya. </p>
-
-<h4>Makerubi</h4>
-<p>Haina ya malaika imeandikwa kila mara. Materubi wametoa huduma yao mbele ya Mungu na wameihinda myumba ya Mungu. Makerubi walichukuliwa picha kwenye sanduku la Agano na kwenye kiambaza ya hekalu ya sulemane kama ni wenye kusimama kwa upande ambili ya Mungu kando kando ya kiti cha rehema.</p>

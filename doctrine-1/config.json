@@ -1,0 +1,17 @@
+{
+	"uuid":"e79375ca-ab0d-4100-bc1e-fc5c72d6ba4d",
+	"title": "Doctrine 1",
+	"name": "doctrine-1",
+	"description": "",
+	"keywords": ["doctrine", "bible"],
+	"author": "Rev. James R. Reynolds Sr. and Other D.B.I Teachers",
+	"sections": [
+		{"id":"001_front-matter", "title":"Front Matter"},
+		{"id":"002_meaning-need-and-a-system-of-doctrine", "title":"Meaning, Need, and a System of Doctrine"},
+		{"id":"003_anthropology", "title":"Antropology: The Doctrine of Man"},
+		{"id":"004_harmartiology", "title":"Harmartiology: The Doctrine of Sin"},
+		{"id":"005_soteriology", "title":"Soteriology: The Doctrine of Salvation"},
+		{"id":"006_angelology", "title":"Angelology: The Doctrine of Angels"},
+		{"id":"007_addendum", "title":"Addendum"}
+	]
+}

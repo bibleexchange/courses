@@ -199,7 +199,7 @@
 <p>Kama hatujishuhulishi na wokovu wa Roho za watu tutang&#8217;olewa. anapaswa Mizizi ya kila Mkristo inapaswa kuwa ndani yake Yesu Kristo ila tutakufa kiroho kama hatutatoa ushuhuda wake. </p>
 <p>Waefeso 3:17 &#9;Kristo na akae mioyoni mwenu kwa imani mkiwa na shina na msingi wenu katika upendo.</p>
 <p>Wokolosai 2:7 &#9;Wenye shina na wenye waliojengwa katika yeye; mmefanywa imara kwa imani, kama mlivyofundishwa: mkazidi kutoa shukrani.</p>
-<p>Yohana 15:2 &#9;Kila tawi lisilozaa ndani yangu huliondoa na kila tawi lizaalo hulisafisha ili lizidi kuzaa matunda.... &#9;&#9;&#9;&#9; </p>
+<p>Yohana 15:2 &#9;Kila tawi lisilozaa ndani yangu huliondoa na kila tawi lizaalo hulisafisha ili lizidi kuzaa matunda&hellip;. &#9;&#9;&#9;&#9; </p>
 <p>Njia Saba Atumiazo</p>
 <p>Mwenye dhambi</p>
 <p>Katika Sala Yake.</p>

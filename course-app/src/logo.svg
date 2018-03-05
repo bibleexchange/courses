@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" x="0" y="0" width="116.64" height="144" viewBox="0, 0, 291.6, 360">
+  <g id="bible">
+    <path d="M143.853,26.96 L13.858,49.882 L25.266,114.582" fill-opacity="0" stroke="#1FCC87" stroke-width="9"/>
+    <path d="M141.415,13.134 L167.209,22.892 L146.291,40.787 z" fill-opacity="0" stroke="#1FCC87" stroke-width="9"/>
+    <path d="M184.184,19.849 L226.288,12.425 L260.43,206.052" fill-opacity="0" stroke="#FA703F" stroke-width="9"/>
+    <path d="M274.257,203.614 L264.499,229.408 L246.604,208.49 z" fill-opacity="0" stroke="#FA703F" stroke-width="9"/>
+    <path d="M267.541,246.382 L278.95,311.082 L148.955,334.003" fill-opacity="0" stroke="#0FB6CE" stroke-width="9"/>
+    <path d="M151.393,347.83 L125.599,338.072 L146.517,320.177 z" fill-opacity="0" stroke="#0FB6CE" stroke-width="9"/>
+    <path d="M108.418,341.151 L66.313,348.575 L32.171,154.947" fill-opacity="0" stroke="#FFC31F" stroke-width="9"/>
+    <path d="M18.345,157.385 L28.103,131.591 L45.998,152.509 z" fill-opacity="0" stroke="#FFC31F" stroke-width="9"/>
+  </g>
+  <g id="cross">
+    <path d="M157.349,161.473 L179.176,285.259 L162.69,288.166 L140.863,164.38 L147.617,154.823 L157.349,161.473 z" fill-opacity="0" stroke="#00C97C" stroke-width="9"/>
+    <path d="M141.688,72.834 L151.812,130.248 L145.007,140.055 L135.374,133.146 L125.25,75.733 L141.688,72.834 z" fill-opacity="0" stroke="#29B6CE" stroke-width="9"/>
+    <path d="M160.929,136.093 L220.025,125.673 L222.924,142.111 L163.827,152.531 L154.124,145.9 L160.929,136.093 z" fill-opacity="0" stroke="#FDC31F" stroke-width="9"/>
+    <path d="M69.676,151.968 L128.773,141.548 L138.406,148.456 L131.671,157.986 L72.575,168.406 L69.676,151.968 z" fill-opacity="0" stroke="#FA703F" stroke-width="9"/>
+  </g>
+</svg>

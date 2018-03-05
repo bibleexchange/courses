@@ -1,0 +1,38 @@
+
+<h1>Names&#44; Offices&#44; and Attributes of Christ</h1>
+<h2>The Names of Christ</h2>
+<h3>Jesus</h3>
+<p>Jesus is the Greek transliteration of the Hebrew name Joshua" which means "Jehovah is salvation". Some try to erroneously claim that since Jesus is a Greek rendition of a Hebrew name that it is not the true name of the Christ. The devil hates the name of Jesus. There has been much personal testimony of the power of the name of Jesus to heal the sick&#44; raise the dead and to cast out devils. This writer has seen the demons flee at the name of Jesus spoken in English&#44; Spanish&#44; and Swahili; the demons know the power of the name of Jesus.</p>
+<blockquote>Mark 16:17 And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues;</blockquote>
+<blockquote>Philippians 2:10 That at the name of Jesus every knee should bow&#44; of things in heaven&#44; and things in earth&#44; and things under the earth;</blockquote>
+<blockquote>Acts 4:10 Be it known unto you all&#44; and to all the people of Israel&#44; that by the name of Jesus Christ of Nazareth&#44; whom ye crucified&#44; whom God raised from the dead&#44; even by him doth this man stand here before you whole.</blockquote>
+<blockquote>Acts 4:12 Neither is there salvation in any other: for there is none other name under heaven given among men&#44; whereby we must be saved.</blockquote>
+<h3>The Word</h3>
+<p>The Apostle John particularly uses the Word in reference to Christ who is the eternal living Word of God. Jesus not only spoke the Word; He is the Word that was made flesh&#44; ascended to heaven&#44; is seated at the right hand of the throne of God&#44; and is coming back in power.</p>
+<blockquote>Revelation 19:13 And he was clothed with a vesture dipped in blood: and his name is called The Word of God.</blockquote>
+<h3>Son of God</h3>
+<p>The use of the Son of God refers to the Divine nature of Christ. Joseph was not the father of Jesus: the Scripture tells us plainly that Jesus was conceived of the Holy Ghost. The living eternal word took upon Him the form of man that He might redeem man. Remember that Jesus existed before He was born of the virgin Mary; Nebuchadnezzar declared the form fourth man in the fire is like the Son of God. </p>
+<p>Peter received a revelation from the Father of who Jesus is.</p>
+<blockquote>Matthew 16:16 And Simon Peter answered and said&#44; Thou art the Christ&#44; the Son of the living God.</blockquote>
+<h3>Son of Man</h3>
+<p>This refers to the humanity of Christ. Jesus was God manifested in the flesh.</p>
+<h3>Son of David</h3>
+<p>This has reference to the royalty of Christ as King and rightful heir to the throne of David. Jesus is a direct descendent of King David as listed in the genealogies of both Matthew and Luke. The accounts follow from the line of Joseph who was not the natural father&#44; but would have been the legal line of succession to the throne. The prophets declared the messiah would come from the lineage of David and the throne of David would be established forever.</p>
+<blockquote>Isaiah 11:1 And there shall come forth a rod out of the stem of Jesse&#44; and a Branch shall grow out of his roots:</blockquote>
+<blockquote>2Samuel 7:16 And thine house and thy kingdom shall be established for ever before thee: thy throne shall be established for ever.</blockquote>
+<h3>Lord</h3>
+<p>The Greek word Kurios rendered Lord is used to refer to a lord ruler or master. Jesus is the King of kings and Lord of lords.</p> 
+<h3>Christ</h3>
+<p>Christ is the Greek from of the Hebrew Word "Messiah" which literally means the anointed one. Jesus is the Messiah.</p>
+<h2>The Offices of Christ</h2>
+<h3>Prophet</h3>
+<p>Jesus not only spoke for God as a prophet; He spoke as God thus completely fulfilling the office of a prophet.</p>
+<h3>Priest</h3>
+<p>Jesus offered Himself as the supreme sacrifice for our sin&#44; and ever lives to make intercession for the saints of God. He is our great high priest.</p>
+<blockquote>Hebrews 7:25 Wherefore he is able also to save them to the uttermost that come unto God by him&#44; seeing he ever liveth to make intercession for them.<p></p>
+<p>Hebrews 9:14 How much more shall the blood of Christ&#44; who through the eternal Spirit offered himself without spot to God&#44; purge your conscience from dead works to serve the living God?</p></blockquote>
+<h3>King</h3>
+<p>Jesus was the legal heir to the throne of David and is seated now on the right hand of the throne of God. Jesus is the King of kings.</p>
+<h2>The Attributes of Christ</h2>
+<p>Jesus is God and has the same moral and non moral attributes as God the Father. Christ the man limited Himself to a human body while He was on the earth&#44; but the resurrected&#44; exalted Christ must have the same attributes as God the Father. Anything less would make Jesus less than God. The glorified Christ is not limited to a physical body. Jesus must be omnipresent like the Father and the Holy Ghost. Jesus said that He would be in the midst of the saints that are gathered together in His name. </p>
+<blockquote>Matthew 18:20 ï¿½ For where two or three are gathered together in my name&#44; there am I in the midst of them.</blockquote>
