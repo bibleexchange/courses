@@ -99,7 +99,7 @@ Msihukumu kwa macho bali ifanyeni hukumu ya haki (Yoh. 7:24).
 
 #### Maamuzi mawili ya mwanadamu (7:13-14)
 
-##### Mlngo mwembamba uendao uzimani
+##### Mlango mwembamba uendao uzimani
 
 Hii ndiyo njia iendayo kwenye ufalme.
 

@@ -17,7 +17,7 @@ Wanafunzi waliposhuka pwani wakaona huko moto wa makaa na juu yake pametiwa sama
 
 ## Yesu anatoa maelekezo machache kwa Petro (21:15-24)
 
-\#9Bwana wa upendo
+\#9 Bwana wa upendo
 ==================
 
 Muujiza wa mafuriko ya samaki zaidi ya kujaza nyavu za wavuvi wengine. Watu wote hawa walimshangaa Yesu wakati safari ilipokuwa ngumu, ghafla tunaona Yesu kwa mara nyingine akiwatosheleza kwa kila walichohitaji. Yesu anaingilia katika mfululizo wa kawaida wa matukio kwaajili ya watu wazuri waliomkana. Upendo usio na kikomo!

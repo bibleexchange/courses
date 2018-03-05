@@ -24,16 +24,16 @@ Kupitia kitabu cha Yohana tunaona matukio mengi tofauti yenye nguvu ya asili yal
 
 <b>Bwana wa msaada</b>
 
-	<ul>
-		<li><b>#1 Ubora</b> Aligeuza maji kuwa divai</li>
-		<li><b>#2 Nafsi</b> Alitakasa Hekalu</li>
-		<li><b>#3 Umbali na nafasi</b> Aliponya mwana wa mtu mwenye cheo</li>
-		<li><b>#4 Wakati</b> Aliponya mtu muhimu</li>
-		<li><b>#5 Uwingi</b> Alilisha watu 5,000</li>
-		<li><b>#6 Sheria ya asili</b> Alitembea juu ya maji</li>
-		<li><b>#7 Bahati mbaya</b> Aliponya mtu kipofu</li>
-		<li><b>#8 Kifo</b> Alimfufua Lazaro</li>
-		<li><b>#9 Upendo</b> Alisaidia wanafunzi kuvua samaki wengi</li>
+<ul>
+	<li><b>#1 Ubora</b> Aligeuza maji kuwa divai</li>
+	<li><b>#2 Nafsi</b> Alitakasa Hekalu</li>
+	<li><b>#3 Umbali na nafasi</b> Aliponya mwana wa mtu mwenye cheo</li>
+	<li><b>#4 Wakati</b> Aliponya mtu muhimu</li>
+	<li><b>#5 Uwingi</b> Alilisha watu 5,000</li>
+	<li><b>#6 Sheria ya asili</b> Alitembea juu ya maji</li>
+	<li><b>#7 Bahati mbaya</b> Aliponya mtu kipofu</li>
+	<li><b>#8 Kifo</b> Alimfufua Lazaro</li>
+	<li><b>#9 Upendo</b> Alisaidia wanafunzi kuvua samaki wengi</li>
 </ul>
 
 Miujiza ilioandikwa ni ushahidi wa vitu vya kujengea kweli za kiroho. Kuna ishara tisa za kuahirishwa katika Yohana zinazo thibitisha kuwa Yesu ni Bwana vitu ambavyo tunakabiliana kila siku. Yesu alifanya ishara zingine nyingi (Yohana 20:30), Lakini kweli hizi zimechukuliwa kufundishia kweli za kiroho.

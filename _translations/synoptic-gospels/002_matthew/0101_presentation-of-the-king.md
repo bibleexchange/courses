@@ -1,6 +1,6 @@
 ## THE PRESENTATION OF THE KING (1:1-4:11)
 
-## UFUNZO WA MFALME (1:1-4:11)
+## UWAKILISHAJI WA MFALME (1:1-4:11)
 
 ### The Coming of the King (1:1-2:23)
 
@@ -12,7 +12,7 @@
 
 ##### God's anointed one
 
-#### Yeye ni mtu aliyetiwa mafuta wa Mungu
+#### Mpakwa mafuta wa Mungu
 
 ##### The deliverer
 
@@ -20,7 +20,7 @@
 
 ##### The one of whom Moses and the prophets wrote
 
-##### Yeye ndiye ambaye Musa na manabii waliandika
+##### Yeye ndiye ambaye Musa na manabii walimwandika
 
 His goings forth have been&hellip;from everlasting (Micah 5:2).
 
@@ -28,7 +28,7 @@ Ambaye matokeo yake yamekuwa&hellip;tangu milele (Mik. 5:2)
 
 ##### The child that was to be born
 
-##### Alikuwa Mtoto atakazaliwa
+#####Mtoto atakayezaliwa
 
 ##### The son given of whom Isaiah speaks (Isa. 9:6)
 
@@ -44,7 +44,7 @@ Yesu alipozaliwa katika Bethlehemu ya Uyahudi zamani za mfalme Herode (Mik. 5:2,
 
 The Gospel does not begin with "once upon a time," but it begins with "Bethlehem of Judah."
 
-Injili haianza na "mara moja kwa wakati," lakini inakuanza na "Bethlehemu ya Yuda."
+Injili haikuanza  "mara moja kwa wakati," lakini inakuanza na "Bethlehemu ya Yuda."
 
 The time is definite. History knows Herod.
 
@@ -52,14 +52,13 @@ Wakati ni wazi. Historia inamjua Herode.
 
 Matthew sets this record in the solid foundation of history. We are not building our faith on a myth. This was not done in a corner, but in the broad day, and it is not afraid of the geographers map or the historian's pen.
 
-Mathayo huweka rekodi hii katika msingi imara wa historia. Hatujenga imani yetu juu ya hadithi. Hii haikufanyika kona, lakini katika siku pana. Haogopi ramani ya geographers au kalamu ya mwanahistoria.
+Mathayo huweka rekodi hii katika msingi imara wa historia. Hakutujenga imani yetu juu ya hadithi. Hii haikufanyika siri, bali katika siku kuu. Haogopi ramani ya mwana jiografia au kalamu ya mwanahistoria.
 
 #### The story of the birth of Jesus
 
 #### Hadithi ya kuzaliwa kwa Yesu
 
-In Luke, Jesus' earthly life began in a stable. His cradle was a manger. His family and associates were humble people. He came as a helpless babe. It showed how human our Lord was.
-
+In Luke, Jesus' earthly life began in a stable. His cradle was a manger. His family and associates were humble people. He came as a helpless babe. It showed how human our Lord was
 In Matthew Jesus was heralded by an archangel, welcomed by an angel choir, and worshipped by earth's wisest philosophers. It shows how divine our Lord was.
 
 The "Begats" and "Sons of" are for a purpose.

@@ -36,13 +36,13 @@ Pepo na bahari zilimtii Yesu.
 
 #### Alitoa mfano wa kipya na chakavu (9:16-17)
 
-#### Alimfufua binti wa Jumbe mmoja (9:18-19, 23-26)
+#### Alimfufua binti wa Akida mmoja (9:18-19, 23-26)
 
 #### Alimponya mwanamke aliyegusa upindo wa vazi lake (9:20-22)
 
 #### Aliponya vipofu wawili (9:27-31)
 
-#### Alimponya aliyekuwa na pepo bubu (9:32-34)
+#### Alimponya bubu aliyekuwa na pepo  (9:32-34)
 
 ### Mgawanyo wa nguvu za mfalme (9:35-11:1)
 
@@ -51,7 +51,7 @@ Pepo na bahari zilimtii Yesu.
 Yesu alitoa huduma Galilaya, na aliwahurumia makutano. Aliwaambia wanafunzi
 waombe kwakuwa watenda kazi wengi walihitajika.
 
-Nguvu yake ilitembeakwa wale walionyenyekea kwake. Anatutaka sisi tuwe wtenda kazi. Anawatafuta wale watakaotembea katika roho.
+Nguvu yake ilitembea kwa wale walionyenyekea kwake. Anatutaka sisi tuwe wtenda kazi. Anawatafuta wale watakaotembea katika roho.
 
 #### Aliwatuma wale kumi na wawili (10:1-11:1)
 
@@ -63,7 +63,7 @@ mkuu kwa ulimwengu lakini bado mwanadamu abebe hilo. Mawazo ya kiroho hayawezi k
 ulimwengu na kuwa na thamani yeyote. Lazima yavaliwe na unyenyekevu. Lazima
 tutumike kwa moyo, akili, mikono na miguu kupeleka injili.
 
-> Warumi 10:14:15 Basi wamwiteje yeye wasiye mwamini? N wamwaminije yeye wasiymsikia? Tena wamsikieje pasipo muhubiri? Tena wahubirije wasipopelekwa? Kama ilivyoandikwa ni mizuri kama nini miguu yao wahubirio habari ya mema.
+> Warumi 10:14:15 Basi wamwiteje yeye wasiye mwamini? Na wamwaminije yeye wasiyemsikia? Tena wamsikieje pasipo muhubiri? Tena wahubirije wasipopelekwa? Kama ilivyoandikwa ni mizuri kama nini miguu yao wahubirio habari ya mema.
 
 ##### Aliwatuma hao kwa nguvu (10:1)
 
