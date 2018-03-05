@@ -54,7 +54,7 @@ He descended from a royal family, As king He claims rulership in our lives. As a
 7. A king's loyalty&mdash;"He that is not with me is against me, and he that gathereth not with me, scattereth abroad." (12:30)
 8. A king's enemies&mdash;"From that time forth began Jesus to show unto his disciples, how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes." (16:21)
 9. A king's love&mdash;"The Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many. (20:28)
-10. A king's glory&mdash;"When the Son of man shall come&hellip;then shall the King say unto them&hellip;Come, ye blessed of My Father, inherit the kingdom." (27:31, 34)
+10. A king's glory&mdash;"When the Son of man shall come&hellip;then shall the King say unto them&hellip;Come, ye blessed of My Father, inherit the kingdom." (25:31, 34)
 11. A king's sacrifice&mdash;"And they crucified Him&hellip;and set up over His head, this accusation written, This is Jesus, king of the Jews." (27:35, 37)
 12. A king's victory&mdash;"He is not here; for he is risen, as He said." (28:6)
 

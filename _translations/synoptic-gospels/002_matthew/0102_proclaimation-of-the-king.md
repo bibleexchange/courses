@@ -18,15 +18,15 @@
 
 Yesu alienda kufundisha na kuhubiri katika masinagogi yao. Mafundisho, mahubiri, na uponyaji: huenda pamoja.
 
-liponya kila aina ya magonjwa, kotoa mapepo, na makutano walimfuata yeye.
+Aliponya kila aina ya magonjwa, kotoa mapepo, na makutano walimfuata yeye.
 
 ### Fundisho mlimani (5:1-7 :29)
 
 Kila ufalme lazima uwe na sheria zake na viwango vya kujiongoza. Hii ni katiba (mwongozo) wa ufalme.  Yesu alitangaza hakuja kutengua torati ila kuikamilisha.
 
-Kurekebisha ule mwanzo wa nje na kutengeneza mwanzo na kosa mwishowe. Yesu huanza na ndani na kutengeneza nje. Njia pekee ya kuwa na maisha mazuri ni kuwa na moyo safi.
+Kurekebisha ule mwanzo wa nje na kutengeneza mwanzo na kosa mwishowe. Yesu huanzia ndani na kutengeneza nje. Njia pekee ya kuwa na maisha mazuri ni kuwa na moyo safi.
 
-Juu ya mlima watu wengi wanapata Baraka za Mungu. Yesu alishughulika sheria iliyoleta maisha haki , ambayo ingeleta Baraka.
+Juu ya mlima watu wengi wanapata Baraka za Mungu. Yesu alishughulika na sheria iliyoleta maisha ya haki , ambayo yangeleta Baraka.
 
 Mzizi wa sheria hii ni huruma. Upendo hutawala badala ya sheria.
 
