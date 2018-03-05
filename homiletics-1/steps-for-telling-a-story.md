@@ -56,12 +56,13 @@ Stories are everywhere. You hear them on the radio, read them in books, and hear
 
 Make sure the story is good for the audience that you are talking to. Most stories in the Bible will work for all people, but some may not be best for children, such as the story of Judah and Tamar.
 
-
 ## Try the story
 
 Now that you have chosen your story, you need to get familiar with it. Read it several times so that you will know that main characters and the plot. After you feel like you understand the basic idea of the story, you should tell it to someone to make sure it is a story that you will enjoy telling and that you know the basic parts of the story. You do not have to memorize every part and you should not worry about how you present the story to your listener at this time.
 
 ## Envision the story with present-day feelings and concerns
+
+
 
 ## Find the scenes of the story
 
