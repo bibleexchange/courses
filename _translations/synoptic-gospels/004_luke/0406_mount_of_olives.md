@@ -20,7 +20,7 @@ Aliwaambia wanafunzi Wake kuomba na kujiondoa mwenyewe na kuomba.
 
 “His sweat was as it were great drops of blood falling down to the ground”
 
-"Hari yake ikawa kama matone ya damu yakidondoka nchini."
+"jasho lake likawa kama matone ya damu yakidondoka nchini."
 
 His disciples were sleeping for sorrow.
 
@@ -28,4 +28,4 @@ Wanafunzi wake walikuwa wamelala kwa huzuni.
 
 Soldiers came and Judas betrayed Him with a kiss.
 
-Askari walikuja na Yuda akamsaliti kwa busu.
+Askari walikuja na Yuda akamsaliti kwa kumbusu.

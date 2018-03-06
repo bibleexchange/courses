@@ -1,6 +1,6 @@
 ## Teaching and Instruction
 
-## Kufundisha na Mafundisho
+## Kufundisha na kuelekeza
 
 Luke capters 10 through 21 contains mostly the words of Jesus.
 
@@ -8,11 +8,11 @@ Luka sura ya 10 hadi 21 ina zaidi maneno ya Yesu.
 
 The phrase “And He said unto them” is used in Matthew three times, in Mark nineteen times, and in Luke thirty-four times.
 
-Maneno "Kisha akawaambia" hutumiwa katika Mathayo mara tatu, katika Marko mara kumi na tisa, na katika Luka thelathini na nne mara.
+Maneno "Kisha akawaambia" limetmika  katika Mathayo mara tatu, katika Marko mara kumi na tisa, na katika Luka mara thelathini na nne.
 
 The perfect man says what Jesus says.
 
-Mtu mkamilifu anasema nini Yesu anasema.
+Mtu mkamilifu anasema kile Yesu anasema.
 
 > “And they overcame him by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto death.”&mdash;Rev. 12:10
 

@@ -20,11 +20,11 @@
 
 #### This book is addressed to a man named Theophilus (1:3)
 
-#### Kitabu hiki kiliandikwa kwa mtu mmoja aitwaye Theophilus (1:3)
+#### Kitabu hiki kiliandikwa kwa mtu mmoja aitwaye Theophilo (1:3)
 
 The name Theophilus means “Lover of God” or “Loved of God.” He was probably a man of upper class because the title “Most Excellent” was generally applied only to officials or to members of the aristocracy.
 
-Jina la Theophilus linamaanisha "Mpenzi wa Mungu" au "mmoja aliyependwa na Mungu." Anaweza kuwa mtu wa juu kwa sababu cheo "mtukufu" kilikuwa kinatumika tu kwa viongozi au wanachama wa hali ya juu ya kijamii.
+Jina la Theophilo linamaanisha "Mpenzi wa Mungu" au "mmoja aliyependwa na Mungu." Anaweza kuwa mtu wa juu kwa sababu cheo "mtukufu" kilikuwa kinatumika tu kwa viongozi au wanachama wa hali ya juu ya kijamii.
 
 #### The author, Luke, is referred to by name three times only
 
@@ -64,7 +64,7 @@ Luka iliandikwa kabla ya Mathayo na Marko. Luka labda aliandikwa mwaka mmoja kab
 
 #### Luke was written for the Greeks
 
-#### Luka iliandikwa kwa Wagiriki
+#### Luka kiliandikwa kwa Wagiriki
 
 #### The Greeks were different from the Jews and Romans
 
@@ -84,7 +84,7 @@ Luka iliandikwa kabla ya Mathayo na Marko. Luka labda aliandikwa mwaka mmoja kab
 
 #### Luke, as a well educated Greek and doctor, would be well suited for this task
 
-#### Kwa sababu Luka alikuwa Kigiriki aliyejifunza vizuri na daktari, angeweza kufaa kwa kazi hii
+#### Kwa sababu Luka alijifunza Kigiriki  vizuri na kuwa daktari, angeweza kufaa kwa kazi hii
 
 ### The Presentation
 
@@ -92,7 +92,7 @@ Luka iliandikwa kabla ya Mathayo na Marko. Luka labda aliandikwa mwaka mmoja kab
 
 #### Luke presents Jesus as the ideal or perfect man
 
-#### Luka anatoa Yesu kama mtu bora au mkamilifu
+#### Luka anamsema Yesu kama mtu bora au mkamilifu
 
 Only Luke tells us of:
 
@@ -104,9 +104,9 @@ Only Luke tells us of:
 Luka peke yake anatuambia kuhusu:
 
 - Wakati Bwana wetu alipoona jiji la Yerusalemu na kulilia juu yake (19:41)
-- Wakati yeye jasho kama ilikuwa matone ya damu (22:44)
+- Wakati  jasho lake lilikuwa kama matone ya damu (22:44)
 - Wakati alionyesha rehema kwa mwizi aliyekufa msalabani (23:39-43)
-- Wakati akawaongoza mpaka Bethania, akainua mikono yake akawabariki (24:50)
+- Wakati akiwaongoza mpaka Bethania, akainua mikono yake akawabariki (24:50)
 
 ##### We see Jesus as the perfect man in the introduction
 
@@ -122,7 +122,7 @@ Kuanzishwa kwa Injili ya Yohana inaonyesha mandhari ya Yesu kuwa Mwana wa Mungu.
 
 Luke, as a simple story about men, presents Jesus as a man in its introduction.
 
-Luka, kama hadithi rahisi kuhusu wanaume, hutoa Yesu kama mtu katika utangulizi.
+Luka, kama hadithi rahisi kuhusu watu, hutoa Yesu kama mtu katika utangulizi.
 
 >“There was in the days of Herod, the king of Judea, a certain priest named Zechariah...”&mdash;Luke 1:5
 
@@ -162,15 +162,15 @@ Mathayo aliandika kuhusu historia ya familia ya mfalme. Huko tunaona Yosefu aliz
 
 Luke has the genealogy of a perfect man. Here we see Joseph as the son of Heli.
 
-Luka inaonyesha historia ya familia ya mtu mkamilifu. Hapa tunamwona Yosefu kama mwana wa Heli.
+Luka inaonyesha historia ya familia ya mtu mkamilifu. Hapa tunamwona Yusufu kama mwana wa Heli.
 
 He could not be the son of two men, so it is supposed that Joseph was His son-in-law and Heli was Mary's father.
 
-Hakuweza kuwa mwana wa wanaume wawili, hivyo inadaiwa kuwa Heli alikuwa baba wa Maria na Yosefu alikuwa mkwewe.
+Hakuweza kuwa mwana wa watu wawili, hivyo inadaiwa kuwa Heri alikuwa baba wa Maria na Yusufu alikuwa mkwewe.
 
 Matthew started from Abraham and came down to Joseph, but Luke starts from Joseph and goes up to Adam and God. He is traced through Adam because He is the father of all humanity. 
 
-Mathayo alianza kutoka kwa Ibrahimu na alikuja kwa Yosefu, lakini Luka anaanza kutoka kwa Yosefu na kwenda kwa Adamu na Mungu. Anatajwa kupitia Adamu kwa sababu yeye ndiye baba wa binadamu wote.
+Mathayo alianza kutoka kwa Ibrahimu na alikuja kwa Yusufu, lakini Luka anaanza kutoka kwa Yusufu na kwenda kwa Adamu na Mungu. Anatajwa kupitia Adamu kwa sababu yeye ndiye baba wa binadamu wote.
 
 How do we attain to this perfect man? There is only one way, Adam was the son of God, so we must become the sons of God.
 
@@ -185,14 +185,14 @@ Tunawezaje kuwa kama mtu huyu mkamilifu? Kuna njia moja pekee, Adamu alikuwa mwa
 - Only Luke tells of Jesus’ visit to the temple when He was a youth
 - It gives us the fullest account of His birth
 
-- Ina mengi kuhusu Maria
+- kuna mengi kuhusu Maria
 - Luka tu anaelezea juu ya ziara ya wachungaji
 - Luka tu anasema juu ya ziara ya Yesu kwenye hekalu alipokuwa kijana
-- Inatupa akaunti kamili ya kuzaliwa kwake
+- Inatupa mwongozo kamili ya kuzaliwa kwake
 
 #### Luke begins his account a great deal further in the past than the other Synoptic Gospels
 
-#### Luka anaanza akaunti yake mengi zaidi katika siku za nyuma kuliko Maandiko mengine ya Synoptic
+#### Luka anaanza mjadala wake mwingi zaidi katika siku za nyuma kuliko Maandiko mengine ya muhtasari
 
 We learn about His childhood:
 
@@ -203,7 +203,7 @@ Tunajifunza kuhusu utoto wake:
 - No record of unhealthy or supernatural growth
 
 - Yesu alikua kwa kawaida (2:40, 52)
-- Alipokuwa mtoto, alikuwa amtii Yosefu na Maria (2:51)
+- Alipokuwa mtoto, alikuwa anamtii Yusufu na Maria (2:51)
 - Hakuna kumbukumbu ya ukuaji mbaya au isiyo ya kawaida
 
 We see Him kneeling in prayer, and that He knew agony and suffering.
@@ -216,7 +216,7 @@ Miujiza mitano kati ya sita katika kitabu hicho ilikuwa miujiza ya uponyaji.
 
 Only Luke tells of the healing of Malchus’ ear (22:51).
 
-Luka tu anaelezea kuhusu uponyaji wa sikio la Malchus (22:51).
+Luka tu anaelezea kuhusu uponyaji wa sikio la Malko (22:51).
 
 ### We can see Luke is also for the outcast of the earth.
 
@@ -234,7 +234,7 @@ Luka tu anatuambia kuhusu:
 - Msamaria mwema (10:30)
 - Mtoza ushuru (18:13)
 - Mwana mpotevu (15:11-24)
-- Zakeo (19:2)
+- Zakayo (19:2)
 
 ### Luke is the writer that has much to say about womanhood
 
@@ -255,8 +255,8 @@ Kuheshimu kwake wanawake na watoto huonekana katika:
 - Daughters of Jerusalem (23:27, 28)
 
 - Mwanamke huyu amenipaka miguu Yake (7:46)
-- Mwanamke mwenye suala la damu na binti wa mtawala (8:42)
-- Jinsi Yesu anamtoa mtoto wa mwanamke (9:38-42)
+- Mwanamke mwenye tatizo la damu na binti wa mtawala (8:42)
+- Jinsi Yesu anamfungua mtoto wa mwanamke (9:38-42)
 - Martha na Maria waliwakemea kwa huruma (10:38-42)
 - Binti za Yerusalemu (23:27, 28)
 
@@ -286,4 +286,4 @@ Luka 17:13
 
 #### The prodigal son’s father
 
-#### Baba ya mtoto wa mjara
+#### Baba wa mwana mpotevu

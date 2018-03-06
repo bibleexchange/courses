@@ -8,15 +8,15 @@ Luka peke yake anasema juu ya Yesu kumtazama Petro, na jinsi Petro alivyokwenda 
 
 It was the ultimate betrayal to the perfect man.
 
-Ilikuwa kusaliti kamili kwa mtu mkamilifu.
+Ilikuwa usaliti kamili kwa mtu mkamilifu.
 
 Only Luke gives the name Calvary, which is the Gentile name for Golgotha.
 
-Luka pekee anampa jina Kalvari, ambalo ni jina la Mataifa kwa Golgotha.
+Luka pekee anatupa jina Kalvari, ambalo ni jina la Mataifa kwa Golgotha.
 
 The superscription is different in each Gospel:
 
-Ujumbe msalabani ni tofauti katika kila Injili:
+Ujumbe msalabani ni wa tofauti katika kila Injili:
 
 - **Matthew** - "set up over His head His accusation written, 'THIS IS JESUS THE KING OF THE JEWS'" (Matt 27:37). Matthew was showing that Jesus is the Messiah to the end.
 - **Mark** - "His accusation was written over, 'THE KING OF THE JEWS'" (Mark 15:26). A servant’s title is brief.
@@ -24,7 +24,7 @@ Ujumbe msalabani ni tofauti katika kila Injili:
 
 - **Mathayo** - "Wakaweka juu ya kichwa chake mashitaka yake, yaliyoandikwa HUYU NI YESU, MFALME WA WAYAHUDI." (Mat. 27:37). Mathayo alikuwa akionyesha kwamba Yesu ndiye Masihi hadi mwisho.
 - **Marko** - "Palikuwa na anwani ya mashitaka yake iliyoandikwa juu, MFALME WA WAYAHUDI." (Marko 15:26). Jina la mtumishi ni fupi.
-- **Luka** - "'Na juu yake palikuwa na anwani; (hakuna mashtaka) HUYU NDIYE MFALME WA WAYAHUDI." (Luka 23:38). Mtu mkamilifu anaacha bila shaka kama yeye ni nani.
+- **Luka** - "'Na juu yake palikuwa na anwani; (hakuna mashtaka) HUYU NDIYE MFALME WA WAYAHUDI." (Luka 23:38). Mtu mkamilifu akaachwa bila shaka  yeye alikuwa ni nani.
 
 Luke omits the phrase “My God, My God, why hast Thou forsaken me?” (Matthew 27:46, Mark 15:34) because a perfect man has God with Him always.
 

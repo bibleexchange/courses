@@ -28,4 +28,4 @@
 
 We must go where He says to go, where He will be.
 
-Lazima tuende pale ambako anasema kwenda, ambako atakuwa.
+Lazima tuende pale ambako anasema tuenda, naye atakuwepo.
