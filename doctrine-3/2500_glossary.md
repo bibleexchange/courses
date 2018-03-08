@@ -1,4 +1,4 @@
-# GLOSSARY FOR DOCTRINE III
+# Glossary for Doctrine III
 
 ## anthropomorphic
 

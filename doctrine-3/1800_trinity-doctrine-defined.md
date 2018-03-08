@@ -6,17 +6,17 @@ In reference to God it describes The Three in One
 
 ## The phrase Triune God is also used to describe the Trinity
 
-### Refers to the Tri -- unity of God
+### Refers to the tri-unity of God
 
 ### Three Persons within One God
 
-### The Scriptural word Godhead is also used to refer to The Three Persons within One God
+### The Scriptural word Godhead is also used to refer to the three persons within One God
 
-> For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse:(Rom 1:20)
+> For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse:&mdash;Romans 1:20
 
-## Within the One God are Three distinct Persons: The Father, The Son, and The Holy Ghost.
+## Within the One God are Three distinct Persons: The Father, The Son, and The Holy Ghost
 
-### They are co--eternal
+### They are co-eternal
 
 ### They are equal in power
 
@@ -32,12 +32,12 @@ In reference to God it describes The Three in One
 
 ## This is a scripturally revealed doctrine
 
-> I John 5:7 For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.
+> For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.&mdash;I John 5:7
 
 ## We can See Each Person of The Godhead active in Creation
 
-### Father -- Gen. 1:1
+### Father (Gen. 1:1)
 
-### Son -- John 1:1-2
+### Son (John 1:1-2)
 
-### Holy Spirit -- Gen. 1:2
+### Holy Spirit (Gen. 1:2)

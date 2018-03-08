@@ -1,6 +1,6 @@
 # The Trinity is Illustrated throughout creation
 
-## Man is created in God's image -- Gen. 1:26
+## Man is created in God's image (Gen. 1:26)
 
 ### One man composed of body, soul, and spirit
 
@@ -8,7 +8,7 @@
 
 ## In creation are many examples of three in one
 
-### The Trinity is illustrated in time.
+### The Trinity is illustrated in time
 
 #### Past
 
@@ -16,31 +16,31 @@
 
 #### Future
 
-### The Trinity is Illustrated in Light.
+### The Trinity is Illustrated in Light
 
 #### Ultra-violet
 
-Invisible to the eye
+It is invisible to the eye.
 
-No man hath seen God the Father -- John 1:18
+No man hath seen God the Father (John 1:18).
 
 #### Visible light
 
-The Son has been seen by man
+The Son has been seen by man.
 
-God is made known to man through The Son
+God is made known to man through the Son.
 
 #### Caloric element of light
 
-That which is felt as warmth
+That which is felt as warmth.
 
-The Holy Spirit is felt, but not seen
+The Holy Spirit is felt, but not seen.
 
-### The Trinity is illustrated in Geometry.
+### The Trinity is illustrated in Geometry
 
 Geometry is made up of three basic elements: point, line and plane.
 
-### The Trinity is illustrated in Matter.
+### The Trinity is illustrated in Matter
 
 #### Motion
 
