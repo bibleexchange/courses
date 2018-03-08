@@ -2,7 +2,7 @@
 
 #### Kuna muendelezo, huduma ya mtumishi isiyovunjika inachukuliwa katika Injili hii.
 
-###  Naye hufanya hivi - Naye husema kwamba
+### Naye hufanya hivi - Naye husema kwamba
 
 - Aliwafundisha watu, tulikuwa gizani
 - Aliwatia watu moyo, hatukuwa na tumaini

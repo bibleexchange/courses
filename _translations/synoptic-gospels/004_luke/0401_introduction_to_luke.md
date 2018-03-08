@@ -40,7 +40,7 @@ Luka iliandikwa kabla ya Mathayo na Marko. Luka labda aliandikwa mwaka mmoja kab
 - Walipenda falsafa
 - Walipendezwa sana na mtu wa kimwili
 
-#### Kwa sababu Luka alijifunza Kigiriki  vizuri na kuwa daktari, angeweza kufaa kwa kazi hii
+#### Kwa sababu Luka alijifunza Kigiriki vizuri na kuwa daktari, angeweza kufaa kwa kazi hii
 
 ### Uwasilishaji
 
@@ -49,7 +49,7 @@ Luka iliandikwa kabla ya Mathayo na Marko. Luka labda aliandikwa mwaka mmoja kab
 Luka peke yake anatuambia kuhusu:
 
 - Wakati Bwana wetu alipoona jiji la Yerusalemu na kulilia juu yake (19:41)
-- Wakati  jasho lake lilikuwa kama matone ya damu (22:44)
+- Wakati jasho lake lilikuwa kama matone ya damu (22:44)
 - Wakati alionyesha rehema kwa mwizi aliyekufa msalabani (23:39-43)
 - Wakati akiwaongoza mpaka Bethania, akainua mikono yake akawabariki (24:50)
 

@@ -42,7 +42,7 @@ Pepo na bahari zilimtii Yesu.
 
 #### Aliponya vipofu wawili (9:27-31)
 
-#### Alimponya bubu aliyekuwa na pepo  (9:32-34)
+#### Alimponya bubu aliyekuwa na pepo (9:32-34)
 
 ### Mgawanyo wa nguvu za mfalme (9:35-11:1)
 

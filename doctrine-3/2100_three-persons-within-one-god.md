@@ -1,19 +1,35 @@
+# Three Persons within One God
 
-<h1>Three Persons within One God</h1>
-<h2>The Father is God</h2>
-<h3>One God and Father of allâ€¦-- Eph 4:6&#44; I Cor. 8:6</h3>
-<h3>Jesus referred to The Father as God -- John 20:17</h3>
-<h3>The Father has life in Himself -- John 5:2</h3>
-<h3>Scripture refers to The Father as God -- Phil. 2:11&#44; I Peter 1:2</h3>
-<h3>The Father is ascribed the attributes of Deity -- John 1:18&#44; John 20:17&#44; Mt. 18:19</h3>
-<h2>The Son is God</h2>
-<h3>The Word that became flesh is God -- John 1:1</h3>
-<h3>Jesus is The I Am -- John 8:58</h3>
-<h3>The Mighty God -- Is. 9:6-7</h3>
-<h3>The Great God -- Titus 2:13</h3>
-<h3>In Jesus dwelt the fullness of The Godhead bodily -- Col. 2:9</h3>
-<h3>Alpha and Omega -- Rev. 1:8</h3>
-<h2>The Holy Spirit is God</h2>
-<h3>Scripture refers to The Holy Spirit as God -- Acts 5:3-4</h3>
-<h3>The Holy Spirit is ascribed the attributes of Deity -- Acts 1:8&#44; Rom. 15:19&#44; I Cor. 2:11&#44; I John 5:6</h3>
-<p>Each Person of The Godhead active in creation 1. Father â€&quot; Gen. 1:1 2. Son â€&quot; John 1:1-2 3. Holy Spirit â€&quot; Gen. 1:2</p>
+## The Father is God
+
+### One God and Father of all -- Eph 4:6, I Cor. 8:6
+
+### Jesus referred to The Father as God -- John 20:17
+
+### The Father has life in Himself -- John 5:2
+
+### Scripture refers to The Father as God -- Phil. 2:11, I Peter 1:2
+
+### The Father is ascribed the attributes of Deity -- John 1:18, John 20:17, Mt. 18:19
+
+## The Son is God
+
+### The Word that became flesh is God -- John 1:1
+
+### Jesus is The I Am -- John 8:58
+
+### The Mighty God -- Is. 9:6-7
+
+### The Great God -- Titus 2:13
+
+### In Jesus dwelt the fullness of The Godhead bodily -- Col. 2:9
+
+### Alpha and Omega -- Rev. 1:8
+
+## The Holy Spirit is God
+
+### Scripture refers to The Holy Spirit as God -- Acts 5:3-4
+
+### The Holy Spirit is ascribed the attributes of Deity -- Acts 1:8, Rom. 15:19, I Cor. 2:11, I John 5:6
+
+Each Person of The Godhead active in creation 1. Father - Gen. 1:1 2. Son - John 1:1-2 3. Holy Spirit - Gen. 1:2

@@ -2,7 +2,7 @@
 
 Luka sura ya 10 hadi 21 ina zaidi maneno ya Yesu.
 
-Maneno "Kisha akawaambia" limetmika  katika Mathayo mara tatu, katika Marko mara kumi na tisa, na katika Luka mara thelathini na nne.
+Maneno "Kisha akawaambia" limetmika katika Mathayo mara tatu, katika Marko mara kumi na tisa, na katika Luka mara thelathini na nne.
 
 Mtu mkamilifu anasema kile Yesu anasema.
 

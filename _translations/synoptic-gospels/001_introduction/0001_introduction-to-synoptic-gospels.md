@@ -1,8 +1,8 @@
 # Utangulizi wa injili ya kimuhtasari
 
-##Ufafanuzi
+## Ufafanuzi
 
-### kimuhtasari
+### Kimuhtasari
 
 Injili za kimuhtasari ni zile injili ambazo zinafanana na mifano mingi iko sawa. Muhtasari ni makubaliano kwa injiliza Mathayo, Marko, na Luka ambayo muhtasari huu una mfuatano wa matukio yanayofanana, yanayo patikana katika injili ya Yohana kwa hadithi na maongezi tofauti.
 
@@ -30,7 +30,7 @@ Kuja kwa Mesia.
 
 Injili nne za Kristo; zilipenya Ulimwenguni, wahudumu wa ulimwengu, walifia ulimwenguni, na kufufuka ulimwenguni.
 
-###  Kutwaaliwa
+### Kutwaaliwa
 
 Katika Matendo na Nyaraka tunaona jinsi Bwana Yesu alivyopokelewa, alitolewa na kuyatoa maisha yake mwenyewe. 
 
@@ -100,7 +100,7 @@ Yohana aliandika kwa watu wote ambaye waliweza kuamini kuwa Yesu ni Kristo. Kris
 
 ## Funguo za Injili
 
-###  Mathayo 
+### Mathayo 
 
 Haki ya kupendeza - Kitabu cha ukoo wa Yesu Kristo, Mwana wa Daudi, Mwana wa Ibrahim (Mat 1:1). Hii inaonyesha nafasi ya agano kama Mwana wa Ibrahim. Na nafasi ya Ufalme wake kama Mwana wa Daudi (Zab 132:11). Mathayo anamwakilisha Yesu kama Mfalme anatupatia kuwa Yeye ni ukoo wa Kifalme katika mistari 17 ya kwanza. Mfalme hachaguliwi kwa kura nyingi, ila kwa kuzaliwa.
 
