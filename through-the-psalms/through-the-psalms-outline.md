@@ -54,7 +54,7 @@ Psalm is a composite work containing multiple authors. Some psalms name their au
 
 ## Classification of Psalms
 
-1. **Lament Psalms** contain a cry for deliverance or defense and are addressed directly to God. 
+1. **Psalms of Lament** contain a cry for deliverance or defense and are addressed directly to God. 
  - They may be individual (Chapters 5-7, 13, 17, 22, 25, 26, 28, 31, 35, 36, 38, 39, 42, 43, 51, 54-57, 59, 61, 63, 64, 69-71, 86, 88, 102, 109, 120, 130, 140-143). 
  - Or national (Chapters 12, 44, 58, 60, 74, 77, 79, 80, 82, 83, 85, 90, 94, 106, 108, 123, 126, 137).
 
@@ -62,7 +62,7 @@ Psalm is a composite work containing multiple authors. Some psalms name their au
 - They may be individual (Chapters 3, 4, 11, 16, 23, 27, 62, 121, 131)
 - or national (Chapters 115, 125, 129).
 
-3. **Songs of Thanksgiving** express public thanksgiving for what God has done or in anticipation of what He will do. 
+3. **Psalms of Thanksgiving** express public thanksgiving for what God has done or in anticipation of what He will do. 
 - They may be individual (Chapters 9, 10, 30, 32, 34, 40, 41, 92, 107, 116, 138), 
 - or national (Chapters 65-68, 118, 124).
 
@@ -71,15 +71,15 @@ Psalm is a composite work containing multiple authors. Some psalms name their au
 - a cause for praise (usually for God’s attributes or deeds), and 
 - a conclusion (Chapters 8, 19, 29, 33, 100, 103, 104, 111, 113, 114, 117, 135, 136, 145 – 150)
 
-5. **Enthronement Psalms** of the Divine Kingdom contain the expression “the Lord reigns” (or, in the case of Psalm 98, “the Lord, the King”), and speak of the rule of God over all the earth. They are prophetic of Christ’s kingly rule (Chapters 47, 93, 96 – 99).
+5. **Psalms of Enthronement** of the Divine Kingdom contain the expression “the Lord reigns” (or, in the case of Psalm 98, “the Lord, the King”), and speak of the rule of God over all the earth. They are prophetic of Christ’s kingly rule (Chapters 47, 93, 96 – 99).
 
-6. **Songs of Zion** extol Zion, or Jerusalem, for its exalted role as the abode of God’s glory and as the religious and political capital of the nation (Chapters 15, 24, 46, 48, 50, 76, 81, 84, 87, 95, 122, 134). The Pilgrim Psalms (see below), are sometimes included here, but they do not really constitute a distinct literary type. 
+6. **Psalms of Zion** extol Zion, or Jerusalem, for its exalted role as the abode of God’s glory and as the religious and political capital of the nation (Chapters 15, 24, 46, 48, 50, 76, 81, 84, 87, 95, 122, 134). The Pilgrim Psalms (see below), are sometimes included here, but they do not really constitute a distinct literary type. 
 
-7. **Royal Psalms** concern the reign of the king, either historical or messianic, or both (Chapters 2, 18, 20, 21, 45, 72, 89, 101, 110, 132, 144).
+7. **Psalms of Royalty** concern the reign of the king, either historical or messianic, or both (Chapters 2, 18, 20, 21, 45, 72, 89, 101, 110, 132, 144).
 
-8. **Wisdom Psalms** emphasize the traditional teaching of the wise men of Israel: meditation of the law, the way of the righteous versus the way of the wicked, and the necessity of practical righteousness (Chapters 1, 14, 37, 49, 52, 53, 73, 75, 91, 112, 119, 127, 128, 133, 139).
+8. **Psalms of Wisdom** emphasize the traditional teaching of the wise men of Israel: meditation of the law, the way of the righteous versus the way of the wicked, and the necessity of practical righteousness (Chapters 1, 14, 37, 49, 52, 53, 73, 75, 91, 112, 119, 127, 128, 133, 139).
 
-9. **Historical Psalms** trace the history of God’s saving activity on behalf of Israel (Chapters 78, 105).
+9. **Psalms of History** trace the history of God’s saving activity on behalf of Israel (Chapters 78, 105).
 
 ## Other categories, identified strictly for content, overlap with the above. These include the following:
 
@@ -147,3 +147,9 @@ Psalm is organized into five books or collections. They were probably collected 
 |pentateuch	    | Genesis      | Exodus       | Leviticus    | Numbers      |Deuteronomy   |
 
 The five-fold arrangement has long been recognized, but no universally accepted explanation exists. The most common explanation is the early Jewish tradition that judged the five books to be an imitation of the five books of Moses.
+
+1. 1-41 — Genesis — concerning man and his relationship with God. All blessing is bound up in obedience. Closes with a Benediction and double Amen.
+2. 42-72 — Exodus — concerning Israel as a nation. The counsels of God concerning Israel’s ruin, redeemer, and redemption. Closes with a Benediction and double Amen.
+3. 73-89 — Leviticus — concerning God’s sanctuary. Closes with a Benediction and double Amen.
+4. 90-106 — Numbers — concerning Israel in relation to the nations. Closes with a Benediction, Amen, and Hallelujah.
+5. 107-150 — Deuteronomy — concerning God and His Word. Closes with five psalms, each beginning and ending with “Hallelujah”.

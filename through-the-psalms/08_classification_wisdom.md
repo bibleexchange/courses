@@ -1,0 +1,1 @@
+8. **Psalms of Wisdom** emphasize the traditional teaching of the wise men of Israel: meditation of the law, the way of the righteous versus the way of the wicked, and the necessity of practical righteousness (Chapters 1, 14, 37, 49, 52, 53, 73, 75, 91, 112, 119, 127, 128, 133, 139).
