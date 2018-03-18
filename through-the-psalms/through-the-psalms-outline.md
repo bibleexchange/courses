@@ -7,52 +7,52 @@
 
 ## General
 
-- The book was originally titled Tehillim, which means “praise songs” in Hebrew. The English title of “Psalms” originated from the Septuagint’s Greek title Psalmoi, also meaning “songs of praise.”
-- the writing of the book spans one thousand years. 
+- The book was originally titled Tehillim, which means “praises” in Hebrew. The English title of “Psalms” is derived from a transliteration of the Septuagint’s Greek title Psalmoi, also meaning “songs of praise.”
 - The poetry was often set to music—but not always.
-- In such a collection of hymns, a widely divergent range of dates is inevitable: from the oldest, the Psalm of Moses (90), to a number of postexilic psalms, or a period of about one thousand years (1400 – 400 B.C.), to the late sixth or early fifth century B.C. post-Exilic period (Psalm 126).
+- the writing of the book spans about 1200 years. In such a collection of hymns, a widely divergent range of dates is inevitable: from the oldest, the Psalm of Moses (90), to a number of postexilic psalms, or a period of about one thousand years (1400 – 400 B.C.), to the late sixth or early fifth century B.C. post-Exilic period (Psalm 126). The entire O.T. canon was established by 400 B.C..
+- Psalms is the most quoted Old Testment book in the New Testatment. Of the 287 quotes taken from the Old Testament found in the New Testament, 116 of them are from the book of Psalms. 
+- Martin Luther influenced a transition from the priest-dominated  worship  of  the  Catholic  Church  to congregationial singing. Luther believed the congregation should take a more active role in the singing but one roadblock to this was the complexity and difficulty of the current liturgy for the common person. He used the book of Psalm as the foundation and authority for his musical reforms which included writing songs which were paraphases of Scripture in common language. An example can be taken from Martin Luther's "From Depths of Woe I Cry to Thee" (1483-1546, #329 In the Lutheran Hymnal) inspired by Psalm 130.
+
+verse 1. From depths of woe I cry to Thee, Lord, hear me, I implore Thee.
+Bend down Thy gracious ear to me, My prayer let come before Thee.
+If Thou rememberest each misdeed, If each should have its rightful meed,
+Who may abide Thy presence?
+
+> Psalm 130 &mdash;Out of the depths have I cried unto thee, O Lord. 2 Lord, hear my voice: let thine ears be attentive to the voice of my supplications. 3 If thou, Lord, shouldest mark iniquities, O Lord, who shall stand? 4 But there is forgiveness with thee, that thou mayest be feared. 5 I wait for the Lord, my soul doth wait, and in his word do I hope. 6 My soul waiteth for the Lord more than they that watch for the morning: I say, more than they that watch for the morning. 7 Let Israel hope in the Lord: for with the Lord there is mercy, and with him is plenteous redemption. 8 And he shall redeem Israel from all his iniquities.
 
 ## Authorship
 
-Psalms is a composite work containing multiple authors. Some psalms name their author in the first line or title. 
+Inspired by God. 2 Samuel 23:2; Matthew 22:43; Luke 24:44; Acts 1:16; 2 Timothy 3:16
+
+Psalm is a composite work containing multiple authors. Some psalms name their author in the first line or title. 
 
 - Moses wrote 1 (Psalm 90). 
-- David wrote 73 
+- David wrote 73 (1-41 and 32 others)
+- Solomon wrote 2 to 3 (Psalms 72, 127);
 - Asaph wrote 3 (Psalms 50, 73-83) 
-- Sons of Korah wrote 10 (Psalms 42, 44-49, 84, 85, 87) (likely performers rather than authors)
-- Solomon wrote 2 (Psalms 72, 127);
-- Ethan the Ezrahite wrote 1 (Psalm 89)
+- Sons of Korah wrote 10 (Psalms 42, 44-49, 84, 85, 87) ("Sons of Korah" were possibly performers rather than authors)
 - Heman the Ezrahite wrote 1 (Psalm 88) 
-- Sixty-one psalms are anonymous
+- Ethan the Ezrahite wrote 1 (Psalm 89)
+- 61 psalms are anonymous
 
 ## Psalms of David's Life
 
-- Psalm 59 &mdash; 1 Samuel 19:11
-- Psalm 56 &mdash; 1 Samuel 21:10–15
-- Psalm 34 &mdash; 1 Samuel 21:10–22:2
-- Psalm 52 &mdash; 1 Samuel 22:9
-
-Psalms Based on Incidents in David’s Life
-Psalm	Incident in David’s Life	References
-3	David flees from and battles Absalom	2 Samuel 15–17
-7	The words of Cush, a Benjaminite (persecution by Saul?)	Unknown
-18	David delivered from enemies and from Saul	2 Samuel 22
-30	Dedication of the temple	Nothing in David’s lifetime; see 1 Kings 8:63
-34	David delivered from danger by feigning madness in the presence of King Achish of Gath	1 Sam. 21:12–22:1
-51	Nathan confronts David about his adultery with Bathsheba	2 Samuel 11–12
-52	Doeg the Edomite tells Saul that David went to the house of Ahimelech	1 Sam. 22:9–19
-54	The Ziphites tell Saul that David is hiding among them	1 Sam. 23:19
-56	The Philistines seize David in Gath	1 Sam. 21:10–11
-57	David flees from Saul into a cave	1 Sam. 22:1 or 24:3
-59	Saul sends men to watch David’s house in order to kill him	1 Sam. 19:11
-60	David’s victory over Transjordan	2 Sam. 8:1–14
-63	David in the desert of Judah	2 Samuel 15–17?; 1 Sam. 23:14–15?
-142	David flees from Saul into a cave	Same as Psalm 57
+- Psalm 7 &mdash; The words of Cush, a Benjaminite (persecution by Saul?)
+- Psalm 59 &mdash; Saul sends men to watch David’s house in order to kill him	1 Sam. 19:11
+- Psalm 34 &mdash; David delivered from danger by feigning madness in the presence of King Achish of Gath	1 Sam. 21:10–22:2
+- Psalm 56 &mdash; The Philistines seize David in Gath	1 Sam. 21:10–15
+- Psalm 52 &mdash; Doeg the Edomite tells Saul that David went to the house of Ahimelech	1 Sam. 22:9–19
+- Psalm 57 &mdash; David flees from Saul into a cave	1 Sam. 22:1 or 24:3
+- Psalm 142 &mdash; David flees from Saul into a cave	1 Sam. 22:1 or 24:3
+- Psalm 54 &mdash; The Ziphites tell Saul that David is hiding among them	1 Sam. 23:19
+- Psalm 60 &mdash; David’s victory over Transjordan	2 Sam. 8:1–14
+- Psalm 51 &mdash; Nathan confronts David about his adultery with Bathsheba	2 Samuel 11–12
+- Psalm 3 &mdash; David flees from and battles Absalom	2 Samuel 15–17
+- Psalm 63 &mdash; David in the desert of Judah	2 Samuel 15–17?; 1 Sam. 23:14–15?
+- Psalm 18 &mdash; David delivered from enemies and from Saul	2 Samuel 22
+- Psalm 30 &mdash; Dedication of the temple	Nothing in David’s lifetime; see 1 Kings 8:63
 
 ## Classification of Psalms
-
-
-- pilgrim: include the title “a song of ascent” and were used on pilgrimages “going up” to Jerusalem for three annual festivals. 
 
 1. **Lament Psalms** contain a cry for deliverance or defense and are addressed directly to God. 
  - They may be individual (Chapters 5-7, 13, 17, 22, 25, 26, 28, 31, 35, 36, 38, 39, 42, 43, 51, 54-57, 59, 61, 63, 64, 69-71, 86, 88, 102, 109, 120, 130, 140-143). 
@@ -95,6 +95,10 @@ Psalm	Incident in David’s Life	References
 
 The psalms include unique Hebrew terms. The word Selah, found seventy-one times, is most likely a musical notation added by worship leaders after the Israelites incorporated the psalm into public worship. Scholars do not know the meaning of maskil, found in thirteen psalms. 
 
+The titles before many of the psalms are probably not to be considered inspired, as they were likely added to the text after David and the original writers composed the psalms. However, in trying to understand a particular psalm, some consideration ought to be given to them. These titles are very ancient. In the Hebrew Bible, if a psalm has a title, the title is actually the first verse of the psalm. Therefore, while they may not be original to the text, they are very ancient notes.
+
+Because the titles are so old, it sometimes can be difficult to discern much from them. Sometimes the title tells us to whom the psalm is dedicated. “To the chief Musician” is a common dedication (Ps 18). Often, the author is indicated, as is the case with Psalm 90, which is “A Prayer of Moses the man of God.” Sometimes the occasion for the psalm is mentioned, as it is with Psalm 18. These notes are very helpful in interpreting the psalm. For example, David wrote, “I will call upon the LORD, who is worthy to be praised, So shall I be saved from mine enemies” (Ps 18:3). The title to the psalm tells us who the enemy was: Saul. 
+
 Occasionally, a psalm appears with instructions for the song leader. These and others can refer to melodies used with the given psalm or perhaps to suggestions for liturgical use. For example, we see instructions such as:
 
 -  “For the director of music” (occurring in fifty-five psalms; 
@@ -102,11 +106,36 @@ Occasionally, a psalm appears with instructions for the song leader. These and o
 -  “To the tune of ‘The Doe of the Morning’ ” (Psalm 22); 
 -  “To the tune of ‘Do Not Destroy’ ” (Psalms 57–59, 75). 
 
+One also finds musical terms in the titles. Much discussion persists over these terms, as very little is known about them. Some terms may indicate a tune that was known in ancient times (e.g. Ps 9, 22). Other titles mention the kind of instruments to be played with the particular song (Ps 4, 5).
+
 The identification of many of the technical words in the superscriptions is dubious. The headings include names for types of psalms (“a psalm”), musical terms (“to the chief musician”), melody indicators (“upon Shoshannim”, 45), and liturgical indicators (“for the Sabbath day”, 92). Fourteen psalms contain historical superscriptions that give some brief mention of the occasion on which the psalm was written (Chapters 3, 7, 18, 30, 34, 51, 52, 54, 56, 57, 59, 60, 63, 142).
 
 ## Organization
 
-The psalms are organized into five books or collections. They were probably collected gradually, as corporate worship forms developed along with temple worship. It is likely that by the time of Ezra, the books of the Psalter were organized into their final form. Each section concludes with a doxology, with the entire Psalter capped by Psalm 150, a grand doxology.
+### Psalms is a collection of smaller collections
+
+ > Psalm 72:20 &mdash; The prayers of David the son of Jesse are ended.
+
+Psalms were usually gathered in smaller collections occording to common themes, or words or style. From this great collection of psalms the Holy Ghost guided a subselection of 150 for Scripture. The fact the book of Psalms is collection of selections made form other collections is highlighted in Psalm 72:20. We find other psalms also written by David even after Psalm 72 (86,101,103,108). 
+
+Different groups had different collections of psalms and when they were put together some duplicates were allowed to remain. There are resulting "doublet" psalms: Psalm 14 and Psalm 53; Psalm 105:1-15 and 1 Chronicles 16:8-22;  
+
+### Within the Book of Psalms can be Found Smaller Collections
+
+Short sets of Psalms were often used for various occasions. 
+
+Psalms 113-118 are called the  "Hallel Psalms" or "Praise Psalms" as they start with "praise the LORD" and ends with "praise the LORD". The Hallel were sung at the 3 great Jewish festivals: 1. Dedication 2. New Moon 3. Passover. The Hallel are what Jesus sang with His disciples at the Last Supper - Matthew 26:30.
+
+### Psalms Not Included in the Book of Psalms
+
+- Moses' song of Deliverance &mdash; Exodus 15:1-18
+- Deborah's song of praise &mdash; Judges 5
+- David's lament over Saul and Jonathan &mdash; 2 Samuel 1:19-27
+- Hezekiah's Praise for Deliverance &mdash; 1 Samuel 38:9-20
+
+### Psalm is Organized into 5 Books
+
+Psalm is organized into five books or collections. They were probably collected gradually, as corporate worship forms developed along with temple worship. It is likely that by the time of Ezra, the books of the Psalter were organized into their final form. Each section concludes with a doxology, with the entire Psalter capped by Psalm 150, a grand doxology. (doxology: a hymn or form of words containing an ascription of praise to God.)
 
 |     Book      |      1st     |      2nd     |      3rd     |      4th     |      5th     |
 |-------------  |------------- | -------------|------------- | -------------|------------- |
@@ -117,4 +146,4 @@ The psalms are organized into five books or collections. They were probably coll
 |content	    | personal     | devotional   | liturg./hist.| general      |prophetic/natu|
 |pentateuch	    | Genesis      | Exodus       | Leviticus    | Numbers      |Deuteronomy   |
 
-The five-fold arrangement has long been recognized, but no explanation for its origin has proved satisfactory. The most common is the early Jewish tradition that judged the five books to be an imitation of the five books of Moses.
+The five-fold arrangement has long been recognized, but no universally accepted explanation exists. The most common explanation is the early Jewish tradition that judged the five books to be an imitation of the five books of Moses.
