@@ -14,7 +14,7 @@ Irenaeus accepted this Gospel and it is quite certain that Justin Martyr used it
 
 ## The Purpose of the Gospel
 
-The purpose of John is stated internally in the Gospel; John 20:30,31 explains that the Gospel is an account of signs that proved that Jesus was the Messiah. The goal of John was that men might believe upon reading the accounts given within its pages.
+The purpose of John is stated internally in the Gospel; John 20:30, 31 explains that the Gospel is an account of signs that proved that Jesus was the Messiah. The goal of John was that men might believe upon reading the accounts given within its pages.
 
 Throughout the book we find the three key thoughts given here in John 20:30, 31; those thoughts are signs, believing, and life. We see many signs in the book of John that prove that Jesus was the Son of God, these signs produced faith (believing) in Him and His work, and the result was that those that believed received eternal life.
 
