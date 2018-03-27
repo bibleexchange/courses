@@ -50,7 +50,7 @@ The King James translators rendered the Greek word autos as the neutral pronoun 
 
 ### The Holy Ghost commands.
 
-> Acts 6:16 -- Now when they had gone throughout Phrygia and the region of Galatia, and were forbidden of the Holy Ghost to preach the word in Asia,
+> Acts 16:16 -- Now when they had gone throughout Phrygia and the region of Galatia, and were forbidden of the Holy Ghost to preach the word in Asia,
 
 ### The Holy Ghost testifies.
 

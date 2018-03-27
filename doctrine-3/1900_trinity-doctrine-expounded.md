@@ -4,7 +4,7 @@ The word trinity means three who are one. It is the idea that God is three perso
 
 Anything that contradicts the word of God is in error. It is very important that we know what we believe and we understand why we believe it. Our beliefs must be based on the Bible or they are merely the ideas of men. When the ideas of men contradict the Bible they are wrong.
 
-The bible is infallible and the perfect word of God. Scripture must agree with scripture. We cannot take one verse out of the bible and make a doctrine out of it. So in order to have sound doctrine we must compare scripture with scripture. The ideas that are presented here are backed with scripture and agree with the whole word of God.
+The bible is infallible and the perfect word of God. Scripture must agree with scripture. We cannot take one verse out of the Bible and make a doctrine out of it. So in order to have sound doctrine we must compare scripture with scripture. The ideas that are presented here are backed with scripture and agree with the whole word of God.
 
 ## There Are Three in Heaven
 

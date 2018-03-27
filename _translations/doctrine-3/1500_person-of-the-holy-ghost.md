@@ -1,50 +1,58 @@
 # Nafsi ya Roho Mtakatifu 
 
-Somo la Roho Mtakatifu hurejewa kama mafundisho kuhusu Roho. "Pneuma" ni neno la kigirirki kwa ajili ya "Roho"na Ology"ni somo la jambo maalumu. Manenno ya Kiingereza "roho"na "mzimu" ni maelezo ya neno la kigirigi "Pneuma" .Watafasiri wa mfalme Yakobo walitumia maneno yote mawili kutafasiri neno moja la kigiriki "pneuma" ambalo kwa halisi humaanisha upepo au pumzi.Karama za Roho zimekwisha malizwa katika mafundisho sehemu ya pili kwa hiyo hazitajadiliwa tena katika kozi hii
+Somo la Roho Mtakatifu hurejewa kama mafundisho kuhusu Roho. "Pneuma" ni neno la kigirirki kwa ajili ya "Roho" na "Ology" ni somo la jambo maalumu. Manenno ya Kiingereza "roho" na "mzimu" ni maelezo ya neno la kigirigi "Pneuma." Watafasiri wa mfalme Yakobo walitumia maneno yote mawili kutafasiri neno moja la kigiriki "pneuma" ambalo kwa halisi humaanisha upepo au pumzi. Karama za Roho zimekwisha malizwa katika mafundisho sehemu ya pili kwa hiyo hazitajadiliwa tena katika kozi hii.
 
-## Roho Mtakatifu hurejewa kama nafsi ya tatu ya utatu mtakatifu.
-### Roho mtakatifu sio wa tatu katika uwezo au nafasi.
+## Roho Mtakatifu hurejewa kama nafsi ya tatu ya utatu mtakatifu
 
-### Roho ni sawa na Baba na Mwana.
+### Roho mtakatifu sio wa tatu katika uwezo au nafasi
 
-## Roho Mtakatifu humiliki tabia ya nafsi.
+### Roho ni sawa na Baba na Mwana
 
-### Roho Mtakatifu huelezewa kama mwenye ufahamu.
+## Roho Mtakatifu humiliki tabia ya nafsi
 
-> Romans 8:27 -- And he that searcheth the hearts knoweth what is the mind of the Spirit, because he maketh intercession for the saints according to the will of God.
+### Roho Mtakatifu huelezewa kama mwenye ufahamu
 
-### Roho Mtakatifu ana mapenzi.
-> I Corinthians 12:11 -- But all these worketh that one and the selfsame Ghost, dividing to every man severally as he will.
+> Na yeye aichunguzaye mioyo aijua nia ya Roho ilivyo, kwa kuwa huwaombea watakatifu kama apendavyo Mungu.&mdash;Rum. 8:27
 
-hii haimaanishi kwamba mapenzi ya Roho Mtakatifu sio sawa na Baba na Mwana.
+### Roho Mtakatifu ana mapenzi
 
-### Roho Mtakatifu aweza kuhuzunishwa.
+> lakini kazi hizi zote huzitenda Roho huyo mmoja, yeye yule, akimgawia kila mtu peke yake kama apendavyo yeye.&mdash;1 Kor. 12:11
 
-> Ephesians 4:30 -- And grieve not the Holy Ghost of God, whereby ye are sealed unto the day of redemption.
+Hii haimaanishi kwamba mapenzi ya Roho Mtakatifu sio sawa na Baba na Mwana.
 
-## Roho Mtakatifu anayo majukumu binafsi yanayoelezwa kumhusu.
-### Roho Mtakatifu huufunua ukweli.The Holy Ghost reveals truth.
+### Roho Mtakatifu aweza kuhuzunishwa
 
-> II Peter 1:21 -- For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost.
+> Wala msimhuzunishe yule Roho Mtakatifu wa Mungu; ambaye kwa yeye mlitiwa muhuri hata siku ya ukombozi.&mdash;Efe. 4:30
 
-### Roho Mtakatifu ni mwalimu.
-> John 14:26 -- But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.
+## Roho Mtakatifu anayo majukumu binafsi yanayoelezwa kumhusu
 
-### Roho Mtakatifu hushuhudia.
-> Romans 8:16 -- The Ghost itself beareth witness with our spirit, that we are the children of God:
+### Roho Mtakatifu huufunua ukweli
 
-### Roho mtakatifu huwaombea watakatifu wa Mungu.
+> Maana unabii haukuletwa po pote kwa mapenzi ya mwanadamu; bali wanadamu walinena yaliyotoka kwa Mungu, wakiongozwa na Roho Mtakatifu.&mdash;II Pet. 1:21
 
-> Romans 8:26 -- Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered.
+### Roho Mtakatifu ni mwalimu
+
+> Lakini huyo Msaidizi, huyo Roho Mtakatifu, ambaye Baba atampeleka kwa jina langu, atawafundisha yote, na kuwakumbusha yote niliyowaambia.&mdash;Yoh. 14:26
+
+### Roho Mtakatifu hushuhudia
+
+> Roho mwenyewe hushuhudia pamoja na roho zetu, ya kuwa sisi tu watoto wa Mungu;&mdash;Rum. 8:16
+
+### Roho mtakatifu huwaombea watakatifu wa Mungu
+
+> Kadhalika Roho naye hutusaidia udhaifu wetu, kwa maana hatujui kuomba jinsi itupasavyo, lakini Roho mwenyewe hutuombea kwa kuugua kusikoweza kutamkwa.&mdash:Rum. 8:26
 
 Watakatifu wa mfalme Yakobo huelezea neno la Kigiriki autos kama kama kiwakilishi huru chenyewe cha weza kugeuza wazo la kifumbatio cha jinsia ya Roho.Lazima tumfahamu Roho Mtakatifu kama ni nafasi na sio kitu.
-### Roho Mtakatifu huzungumza.
-> Revelation 2:7 -- He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God.
 
-### Roho Mtakatifu huamru.
+### Roho Mtakatifu huzungumza
 
-> Acts 6:16 -- Now when they had gone throughout Phrygia and the region of Galatia, and were forbidden of the Holy Ghost to preach the word in Asia,
+> Yeye aliye na sikio, na alisikie neno hili ambalo Roho ayaambia makanisa. Yeye ashindaye, nitampa kula matunda ya mti wa uzima, ulio katika bustani ya Mungu.&mdash;Ufu. 2:7
 
-### Roho Mtakatifu hutoa ushuhuda.
+### Roho Mtakatifu huamru
 
-> John 15:26 -- But when the Comforter is come, whom I will send unto you from the Father, even the Spirit of truth, which proceedeth from the Father, he shall testify of me:
+> Wakapita katika nchi ya Frigia na Galatia, wakikatazwa na Roho Mtakatifu, wasilihubiri lile neno katika Asia.&mdash;Mdo. 16:6
+
+### Roho Mtakatifu hutoa ushuhuda
+
+> Lakini ajapo huyo Msaidizi, nitakayewapelekea kutoka kwa Baba, huyo Roho wa kweli atokaye kwa Baba, yeye atanishuhudia.&mdash;Yoh. 15:26
+
