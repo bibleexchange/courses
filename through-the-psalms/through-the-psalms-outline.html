@@ -1,0 +1,1215 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><style>body {
+  max-width: 980px;
+  border: 1px solid #ddd;
+  outline: 1300px solid #fff;
+  margin: 16px auto;
+}
+
+body .markdown-body
+{
+  padding: 45px;
+}
+
+@font-face {
+  font-family: fontawesome-mini;
+  src: url(data:font/woff;charset=utf-8;base64,d09GRgABAAAAAAzUABAAAAAAFNgAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAABbAAAABwAAAAcZMzaOEdERUYAAAGIAAAAHQAAACAAOQAET1MvMgAAAagAAAA+AAAAYHqhde9jbWFwAAAB6AAAAFIAAAFa4azkLWN2dCAAAAI8AAAAKAAAACgFgwioZnBnbQAAAmQAAAGxAAACZVO0L6dnYXNwAAAEGAAAAAgAAAAIAAAAEGdseWYAAAQgAAAFDgAACMz7eroHaGVhZAAACTAAAAAwAAAANgWEOEloaGVhAAAJYAAAAB0AAAAkDGEGa2htdHgAAAmAAAAAEwAAADBEgAAQbG9jYQAACZQAAAAaAAAAGgsICJBtYXhwAAAJsAAAACAAAAAgASgBD25hbWUAAAnQAAACZwAABOD4no+3cG9zdAAADDgAAABsAAAAmF+yXM9wcmVwAAAMpAAAAC4AAAAusPIrFAAAAAEAAAAAyYlvMQAAAADLVHQgAAAAAM/u9uZ4nGNgZGBg4ANiCQYQYGJgBEJuIGYB8xgABMMAPgAAAHicY2Bm42OcwMDKwMLSw2LMwMDQBqGZihmiwHycoKCyqJjB4YPDh4NsDP+BfNb3DIuAFCOSEgUGRgAKDgt4AAB4nGNgYGBmgGAZBkYGEAgB8hjBfBYGCyDNxcDBwMTA9MHhQ9SHrA8H//9nYACyQyFs/sP86/kX8HtB9UIBIxsDXICRCUgwMaACRoZhDwA3fxKSAAAAAAHyAHABJQB/AIEAdAFGAOsBIwC/ALgAxACGAGYAugBNACcA/wCIeJxdUbtOW0EQ3Q0PA4HE2CA52hSzmZDGe6EFCcTVjWJkO4XlCGk3cpGLcQEfQIFEDdqvGaChpEibBiEXSHxCPiESM2uIojQ7O7NzzpkzS8qRqnfpa89T5ySQwt0GzTb9Tki1swD3pOvrjYy0gwdabGb0ynX7/gsGm9GUO2oA5T1vKQ8ZTTuBWrSn/tH8Cob7/B/zOxi0NNP01DoJ6SEE5ptxS4PvGc26yw/6gtXhYjAwpJim4i4/plL+tzTnasuwtZHRvIMzEfnJNEBTa20Emv7UIdXzcRRLkMumsTaYmLL+JBPBhcl0VVO1zPjawV2ys+hggyrNgQfYw1Z5DB4ODyYU0rckyiwNEfZiq8QIEZMcCjnl3Mn+pED5SBLGvElKO+OGtQbGkdfAoDZPs/88m01tbx3C+FkcwXe/GUs6+MiG2hgRYjtiKYAJREJGVfmGGs+9LAbkUvvPQJSA5fGPf50ItO7YRDyXtXUOMVYIen7b3PLLirtWuc6LQndvqmqo0inN+17OvscDnh4Lw0FjwZvP+/5Kgfo8LK40aA4EQ3o3ev+iteqIq7wXPrIn07+xWgAAAAABAAH//wAPeJyFlctvG1UUh+/12DPN1B7P3JnYjj2Ox4/MuDHxJH5N3UdaEUQLqBIkfQQioJWQ6AMEQkIqsPGCPwA1otuWSmTBhjtps2ADWbJg3EpIXbGouqSbCraJw7kzNo2dRN1cnXN1ZvT7zuuiMEI7ncizyA0URofRBJpCdbQuIFShYY+GZRrxMDVtih5TwQPHtXDFFSIKoWIbuREBjLH27Ny4MsbVx+uOJThavebgVrNRLAiYx06rXsvhxLgWx9xpfHdrs/ekc2Pl2cpPCVEITQpwbj8VQhfXSq2m+Wxqaq2D73Kne5e3NjHqQNj3CRYlJlgUl/jRNP+2Gs2pNYRQiOnmUaQDqm30KqKiTTWPWjboxnTWpvgxjXo0KrtZXAHt7hwIz0YVcj88JnKlJKi3NPAwLyDwZudSmJSMMJFDYaOkaol6XtESx3Gt1VTytdZJ3DCLeaVhVnCBH1fycHTxFXwPX+l2e3d6H/TufGGmMTLTnbSJUdo00zuBswMO/nl3YLeL/wnu9/limCuD3vC54h5NBVz6Li414AI8Vx3iiosKcQXUbrvhFFiYb++HN4DaF4XzFW0fIN4XDWJ3a3XQoq9V8WiyRmdsatV9xUcHims1JloH0YUa090G3Tro3mC6c01f+YwCPquINr1PTaCP6rVTOOmf0GE2dBc7zWIhji3/5MchSuBHgDbU99RMWt3YUNMZMJmx92YP6NsHx/5/M1yvInpnkIOM3Z8fA3JQ2lW1RFC1KaBPDFXNAHYYvGy73aYZZZ3HifbeuiVZCpwA3oQBs0wGPYJbJfg60xrKEbKiNtTe1adwrpBRwlAuQ3q3VRaX0QmQ9a49BTSCuF1MLfQ6+tinOubRBZuWPNoMevGMT+V41KitO1is3D/tpMcq1JHZqDHGs8DoYGDkxJgKjHROeTCmhZvzPm9pod+ltKm4PN7Dyvvldlpsg8D+4AUJZ3F/JBstZz7cbFRxsaAGV6yX/dkcycWf8eS3QlQea+YLjdm3yrOnrhFpUyKVvFE4lpv4bO3Svx/6F/4xmiDu/RT5iI++lko18mY1oX+5UGKR6kmVjM/Zb76yfHtxy+h/SyQ0lLdpdKy/lWB6szatetQJ8nZ80A2Qt6ift6gJeavU3BO4gtxs/KCtNPVibCtYCWY3SIlSBPKXZALXiIR9oZeJ1AuMyxLpHIy/yO7vSiSE+kZvk0ihJ30HgHfzZtEMmvV58x6dtqns0XTAW7Vdm4HJ04OCp/crOO7rd9SGxQAE/mVA9xRN+kVSMRFF6S9JFGUtthkjBA5tFCWc2l4V43Ex9GmUP3SI37Jjmir9KqlaDJ4S4JB3vuM/jzyH1+8MuoZ+QGzfnvPoJb96cZlWjMcKLfgDwB7E634JTY+asjsPzS5CiVnEWY+KsrsIN5rn3mAPjqmQBxGjcGKB9f9ZxY3mYC2L85CJ2FXIxKKyHk+dg0FHbuEc7D5NzWUX32WxFcWNGRAbvwSx0RmIXVDuYySafluQBmzA/ssqJAMLnli+WIC90Gw4lm85wcp0qjArEDPJJV/sSx4P9ungTpgMw5gVC1XO4uULq0s3v1rqLi0vX/z65vlH50f8T/RHmSPTk5xxWBWOluMT6WiOy+tdvWxlV/XQb3o3c6Ssr+r6I708GsX9/nzp1tKFh0s3v7m4vAy/Hnb/KMOvc1wump6Il48K6mGDy02X9Yd65pa+nQIjk76lWxCkG8NBCP0HQS9IpAAAeJxjYGRgYGBhcCrq214Qz2/zlUGenQEEzr/77oug/zewFbB+AHI5GJhAogBwKQ0qeJxjYGRgYH3/P46BgZ0BBNgKGBgZUAEPAE/7At0AAAB4nGNngAB2IGYjhBsYBAAIYADVAAAAAAAAAAAAAFwAyAEeAaACCgKmAx4DggRmAAAAAQAAAAwAagAEAAAAAAACAAEAAgAWAAABAAChAAAAAHiclZI7bxQxFIWPd/JkUYQChEhIyAVKgdBMskm1QkKrRETpQiLRUczueB/K7HhlOxttg8LvoKPgP9DxFxANDR0tHRWi4NjrPIBEgh1p/dm+vufcawNYFWsQmP6e4jSyQB2fI9cwj++RE9wTjyPP4LYoI89iWbyLPIe6+Bh5Hs9rryMv4GbtW+RF3EhuRa7jbrIbeQkPkjdUETOLnL0Kip4FVvAhco1RXyMnSPEz8gzWxE7kWTwUp5HnsCLeR57HW/El8gJWa58iL+JO7UfkOh4l9yMv4UnyEtvQGGECgwF66MNBooF1bGCL1ELB/TYU+ZBRlvsKQ44Se6jQ4a7hef+fh72Crv25kp+8lNWGmeKoOI5jJLb1aGIGvb6TjfWNLdkqdFvJw4l1amjlXtXRZqRN7lSRylZZyhBqpVFWmTEXgWfUrpi/hZOQXdOd4rKuXOtEWT3k5IArPRzTUU5tHKjecZkTpnVbNOnt6jzN8240GD4xtikvZW56043rPMg/dS+dlOceXoR+WPbJ55Dsekq1lJpnypsMUsYOdCW30o103Ytu/lvh+5RWFLfBjm9/N8hJntPhvx92rnoE/kyHdGasGy754kw36vsVf/lFeBi+0COu+cfgQr42G3CRpeLoZ53gmfe3X6rcKt5oVxnptHR9JS8ehVUd5wvvahN2uqxOOpMXapibI5k7Zwbt4xBSaTfoKBufhAnO/uqNcfK8OTs0OQ6l7JIqFjDhYj5WcjevCnI/1DDiI8j4ndWb/5YzDZWh79yomWXeXj7Nnw70/2TIeFPTrlSh89k1ObOSRVZWZfgF0r/zJQB4nG2JUQuCQBCEd07TTg36fb2IyBaLd3vWaUh/vmSJnvpgmG8YcmS8X3Shf3R7QA4OBUocUKHGER5NNbOOEvwc1txnuWkTRb/aPjimJ5vXabI+3VfOiyS15UWvyezM2xiGOPyuMohOH8O8JiO4Af+FsAGNAEuwCFBYsQEBjlmxRgYrWCGwEFlLsBRSWCGwgFkdsAYrXFhZsBQrAAA=) format('woff');
+}
+
+@font-face {
+  font-family: octicons-anchor;
+  src: url(data:font/woff;charset=utf-8;base64,d09GRgABAAAAAAYcAA0AAAAACjQAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAABMAAAABwAAAAca8vGTk9TLzIAAAFMAAAARAAAAFZG1VHVY21hcAAAAZAAAAA+AAABQgAP9AdjdnQgAAAB0AAAAAQAAAAEACICiGdhc3AAAAHUAAAACAAAAAj//wADZ2x5ZgAAAdwAAADRAAABEKyikaNoZWFkAAACsAAAAC0AAAA2AtXoA2hoZWEAAALgAAAAHAAAACQHngNFaG10eAAAAvwAAAAQAAAAEAwAACJsb2NhAAADDAAAAAoAAAAKALIAVG1heHAAAAMYAAAAHwAAACABEAB2bmFtZQAAAzgAAALBAAAFu3I9x/Nwb3N0AAAF/AAAAB0AAAAvaoFvbwAAAAEAAAAAzBdyYwAAAADP2IQvAAAAAM/bz7t4nGNgZGFgnMDAysDB1Ml0hoGBoR9CM75mMGLkYGBgYmBlZsAKAtJcUxgcPsR8iGF2+O/AEMPsznAYKMwIkgMA5REMOXicY2BgYGaAYBkGRgYQsAHyGMF8FgYFIM0ChED+h5j//yEk/3KoSgZGNgYYk4GRCUgwMaACRoZhDwCs7QgGAAAAIgKIAAAAAf//AAJ4nHWMMQrCQBBF/0zWrCCIKUQsTDCL2EXMohYGSSmorScInsRGL2DOYJe0Ntp7BK+gJ1BxF1stZvjz/v8DRghQzEc4kIgKwiAppcA9LtzKLSkdNhKFY3HF4lK69ExKslx7Xa+vPRVS43G98vG1DnkDMIBUgFN0MDXflU8tbaZOUkXUH0+U27RoRpOIyCKjbMCVejwypzJJG4jIwb43rfl6wbwanocrJm9XFYfskuVC5K/TPyczNU7b84CXcbxks1Un6H6tLH9vf2LRnn8Ax7A5WQAAAHicY2BkYGAA4teL1+yI57f5ysDNwgAC529f0kOmWRiYVgEpDgYmEA8AUzEKsQAAAHicY2BkYGB2+O/AEMPCAAJAkpEBFbAAADgKAe0EAAAiAAAAAAQAAAAEAAAAAAAAKgAqACoAiAAAeJxjYGRgYGBhsGFgYgABEMkFhAwM/xn0QAIAD6YBhwB4nI1Ty07cMBS9QwKlQapQW3VXySvEqDCZGbGaHULiIQ1FKgjWMxknMfLEke2A+IJu+wntrt/QbVf9gG75jK577Lg8K1qQPCfnnnt8fX1NRC/pmjrk/zprC+8D7tBy9DHgBXoWfQ44Av8t4Bj4Z8CLtBL9CniJluPXASf0Lm4CXqFX8Q84dOLnMB17N4c7tBo1AS/Qi+hTwBH4rwHHwN8DXqQ30XXAS7QaLwSc0Gn8NuAVWou/gFmnjLrEaEh9GmDdDGgL3B4JsrRPDU2hTOiMSuJUIdKQQayiAth69r6akSSFqIJuA19TrzCIaY8sIoxyrNIrL//pw7A2iMygkX5vDj+G+kuoLdX4GlGK/8Lnlz6/h9MpmoO9rafrz7ILXEHHaAx95s9lsI7AHNMBWEZHULnfAXwG9/ZqdzLI08iuwRloXE8kfhXYAvE23+23DU3t626rbs8/8adv+9DWknsHp3E17oCf+Z48rvEQNZ78paYM38qfk3v/u3l3u3GXN2Dmvmvpf1Srwk3pB/VSsp512bA/GG5i2WJ7wu430yQ5K3nFGiOqgtmSB5pJVSizwaacmUZzZhXLlZTq8qGGFY2YcSkqbth6aW1tRmlaCFs2016m5qn36SbJrqosG4uMV4aP2PHBmB3tjtmgN2izkGQyLWprekbIntJFing32a5rKWCN/SdSoga45EJykyQ7asZvHQ8PTm6cslIpwyeyjbVltNikc2HTR7YKh9LBl9DADC0U/jLcBZDKrMhUBfQBvXRzLtFtjU9eNHKin0x5InTqb8lNpfKv1s1xHzTXRqgKzek/mb7nB8RZTCDhGEX3kK/8Q75AmUM/eLkfA+0Hi908Kx4eNsMgudg5GLdRD7a84npi+YxNr5i5KIbW5izXas7cHXIMAau1OueZhfj+cOcP3P8MNIWLyYOBuxL6DRylJ4cAAAB4nGNgYoAALjDJyIAOWMCiTIxMLDmZedkABtIBygAAAA==) format('woff');
+}
+
+.markdown-body {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  color: #333333;
+  overflow: hidden;
+  font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  word-wrap: break-word;
+}
+
+.markdown-body a {
+  background: transparent;
+}
+
+.markdown-body a:active,
+.markdown-body a:hover {
+  outline: 0;
+}
+
+.markdown-body b,
+.markdown-body strong {
+  font-weight: bold;
+}
+
+.markdown-body mark {
+  background: #ff0;
+  color: #000;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.markdown-body sub,
+.markdown-body sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+.markdown-body sup {
+  top: -0.5em;
+}
+.markdown-body sub {
+  bottom: -0.25em;
+}
+
+.markdown-body h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+.markdown-body img {
+  border: 0;
+}
+
+.markdown-body hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0;
+}
+
+.markdown-body pre {
+  overflow: auto;
+}
+
+.markdown-body code,
+.markdown-body kbd,
+.markdown-body pre,
+.markdown-body samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+
+.markdown-body input {
+  color: inherit;
+  font: inherit;
+  margin: 0;
+}
+
+.markdown-body html input[disabled] {
+  cursor: default;
+}
+
+.markdown-body input {
+  line-height: normal;
+}
+
+.markdown-body input[type="checkbox"] {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.markdown-body table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.markdown-body td,
+.markdown-body th {
+  padding: 0;
+}
+
+.markdown-body .codehilitetable {
+  border: 0;
+  border-spacing: 0;
+}
+
+.markdown-body .codehilitetable tr {
+  border: 0;
+}
+
+.markdown-body .codehilitetable pre,
+.markdown-body .codehilitetable div.codehilite {
+  margin: 0;
+}
+
+.markdown-body .linenos,
+.markdown-body .code,
+.markdown-body .codehilitetable td {
+  border: 0;
+  padding: 0;
+}
+
+.markdown-body td:not(.linenos) .linenodiv {
+  padding: 0 !important;
+}
+
+.markdown-body .code {
+  width: 100%;
+}
+
+.markdown-body .linenos div pre,
+.markdown-body .linenodiv pre,
+.markdown-body .linenodiv {
+  border: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  -webkit-border-top-left-radius: 3px;
+  -webkit-border-bottom-left-radius: 3px;
+  -moz-border-radius-topleft: 3px;
+  -moz-border-radius-bottomleft: 3px;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+.markdown-body .code div pre,
+.markdown-body .code div {
+  border: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  -webkit-border-top-right-radius: 3px;
+  -webkit-border-bottom-right-radius: 3px;
+  -moz-border-radius-topright: 3px;
+  -moz-border-radius-bottomright: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+
+.markdown-body * {
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.markdown-body input {
+  font: 13px Helvetica, arial, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 1.4;
+}
+
+.markdown-body a {
+  color: #4183c4;
+  text-decoration: none;
+}
+
+.markdown-body a:hover,
+.markdown-body a:focus,
+.markdown-body a:active {
+  text-decoration: underline;
+}
+
+.markdown-body hr {
+  height: 0;
+  margin: 15px 0;
+  overflow: hidden;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.markdown-body hr:before,
+.markdown-body hr:after {
+  display: table;
+  content: " ";
+}
+
+.markdown-body hr:after {
+  clear: both;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  line-height: 1.1;
+}
+
+.markdown-body h1 {
+  font-size: 30px;
+}
+
+.markdown-body h2 {
+  font-size: 21px;
+}
+
+.markdown-body h3 {
+  font-size: 16px;
+}
+
+.markdown-body h4 {
+  font-size: 14px;
+}
+
+.markdown-body h5 {
+  font-size: 12px;
+}
+
+.markdown-body h6 {
+  font-size: 11px;
+}
+
+.markdown-body blockquote {
+  margin: 0;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body ol ol,
+.markdown-body ul ol {
+  list-style-type: lower-roman;
+}
+
+.markdown-body ul ul ol,
+.markdown-body ul ol ol,
+.markdown-body ol ul ol,
+.markdown-body ol ol ol {
+  list-style-type: lower-alpha;
+}
+
+.markdown-body dd {
+  margin-left: 0;
+}
+
+.markdown-body code,
+.markdown-body pre,
+.markdown-body samp {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 12px;
+}
+
+.markdown-body pre {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body kbd {
+  background-color: #e7e7e7;
+  background-image: -moz-linear-gradient(#fefefe, #e7e7e7);
+  background-image: -webkit-linear-gradient(#fefefe, #e7e7e7);
+  background-image: linear-gradient(#fefefe, #e7e7e7);
+  background-repeat: repeat-x;
+  border-radius: 2px;
+  border: 1px solid #cfcfcf;
+  color: #000;
+  padding: 3px 5px;
+  line-height: 10px;
+  font: 11px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  display: inline-block;
+}
+
+.markdown-body>*:first-child {
+  margin-top: 0 !important;
+}
+
+.markdown-body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+.markdown-body .headeranchor-link {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  display: block;
+  padding-right: 6px;
+  padding-left: 30px;
+  margin-left: -30px;
+}
+
+.markdown-body .headeranchor-link:focus {
+  outline: none;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  position: relative;
+  margin-top: 1em;
+  margin-bottom: 16px;
+  font-weight: bold;
+  line-height: 1.4;
+}
+
+.markdown-body h1 .headeranchor,
+.markdown-body h2 .headeranchor,
+.markdown-body h3 .headeranchor,
+.markdown-body h4 .headeranchor,
+.markdown-body h5 .headeranchor,
+.markdown-body h6 .headeranchor {
+  display: none;
+  color: #000;
+  vertical-align: middle;
+}
+
+.markdown-body h1:hover .headeranchor-link,
+.markdown-body h2:hover .headeranchor-link,
+.markdown-body h3:hover .headeranchor-link,
+.markdown-body h4:hover .headeranchor-link,
+.markdown-body h5:hover .headeranchor-link,
+.markdown-body h6:hover .headeranchor-link {
+  height: 1em;
+  padding-left: 8px;
+  margin-left: -30px;
+  line-height: 1;
+  text-decoration: none;
+}
+
+.markdown-body h1:hover .headeranchor-link .headeranchor,
+.markdown-body h2:hover .headeranchor-link .headeranchor,
+.markdown-body h3:hover .headeranchor-link .headeranchor,
+.markdown-body h4:hover .headeranchor-link .headeranchor,
+.markdown-body h5:hover .headeranchor-link .headeranchor,
+.markdown-body h6:hover .headeranchor-link .headeranchor {
+  display: inline-block;
+}
+
+.markdown-body h1 {
+  padding-bottom: 0.3em;
+  font-size: 2.25em;
+  line-height: 1.2;
+  border-bottom: 1px solid #eee;
+}
+
+.markdown-body h2 {
+  padding-bottom: 0.3em;
+  font-size: 1.75em;
+  line-height: 1.225;
+  border-bottom: 1px solid #eee;
+}
+
+.markdown-body h3 {
+  font-size: 1.5em;
+  line-height: 1.43;
+}
+
+.markdown-body h4 {
+  font-size: 1.25em;
+}
+
+.markdown-body h5 {
+  font-size: 1em;
+}
+
+.markdown-body h6 {
+  font-size: 1em;
+  color: #777;
+}
+
+.markdown-body p,
+.markdown-body blockquote,
+.markdown-body ul,
+.markdown-body ol,
+.markdown-body dl,
+.markdown-body table,
+.markdown-body pre,
+.markdown-body .admonition {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.markdown-body hr {
+  height: 4px;
+  padding: 0;
+  margin: 16px 0;
+  background-color: #e7e7e7;
+  border: 0 none;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding-left: 2em;
+}
+
+.markdown-body ul ul,
+.markdown-body ul ol,
+.markdown-body ol ol,
+.markdown-body ol ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body li>p {
+  margin-top: 16px;
+}
+
+.markdown-body dl {
+  padding: 0;
+}
+
+.markdown-body dl dt {
+  padding: 0;
+  margin-top: 16px;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.markdown-body dl dd {
+  padding: 0 16px;
+  margin-bottom: 16px;
+}
+
+.markdown-body blockquote {
+  padding: 0 15px;
+  color: #777;
+  border-left: 4px solid #ddd;
+}
+
+.markdown-body blockquote>:first-child {
+  margin-top: 0;
+}
+
+.markdown-body blockquote>:last-child {
+  margin-bottom: 0;
+}
+
+.markdown-body table {
+  display: block;
+  width: 100%;
+  overflow: auto;
+  word-break: normal;
+  word-break: keep-all;
+}
+
+.markdown-body table th {
+  font-weight: bold;
+}
+
+.markdown-body table th,
+.markdown-body table td {
+  padding: 6px 13px;
+  border: 1px solid #ddd;
+}
+
+.markdown-body table tr {
+  background-color: #fff;
+  border-top: 1px solid #ccc;
+}
+
+.markdown-body table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+.markdown-body img {
+  max-width: 100%;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.markdown-body code,
+.markdown-body samp {
+  padding: 0;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  margin: 0;
+  font-size: 85%;
+  background-color: rgba(0,0,0,0.04);
+  border-radius: 3px;
+}
+
+.markdown-body code:before,
+.markdown-body code:after {
+  letter-spacing: -0.2em;
+  content: "\00a0";
+}
+
+.markdown-body pre>code {
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  word-break: normal;
+  white-space: pre;
+  background: transparent;
+  border: 0;
+}
+
+.markdown-body .codehilite {
+  margin-bottom: 16px;
+}
+
+.markdown-body .codehilite pre,
+.markdown-body pre {
+  padding: 16px;
+  overflow: auto;
+  font-size: 85%;
+  line-height: 1.45;
+  background-color: #f7f7f7;
+  border-radius: 3px;
+}
+
+.markdown-body .codehilite pre {
+  margin-bottom: 0;
+  word-break: normal;
+}
+
+.markdown-body pre {
+  word-wrap: normal;
+}
+
+.markdown-body pre code {
+  display: inline;
+  max-width: initial;
+  padding: 0;
+  margin: 0;
+  overflow: initial;
+  line-height: inherit;
+  word-wrap: normal;
+  background-color: transparent;
+  border: 0;
+}
+
+.markdown-body pre code:before,
+.markdown-body pre code:after {
+  content: normal;
+}
+
+/* Admonition */
+.markdown-body .admonition {
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  position: relative;
+  border-radius: 3px;
+  border: 1px solid #e0e0e0;
+  border-left: 6px solid #333;
+  padding: 10px 10px 10px 30px;
+}
+
+.markdown-body .admonition table {
+  color: #333;
+}
+
+.markdown-body .admonition p {
+  padding: 0;
+}
+
+.markdown-body .admonition-title {
+  font-weight: bold;
+  margin: 0;
+}
+
+.markdown-body .admonition>.admonition-title {
+  color: #333;
+}
+
+.markdown-body .attention>.admonition-title {
+  color: #a6d796;
+}
+
+.markdown-body .caution>.admonition-title {
+  color: #d7a796;
+}
+
+.markdown-body .hint>.admonition-title {
+  color: #96c6d7;
+}
+
+.markdown-body .danger>.admonition-title {
+  color: #c25f77;
+}
+
+.markdown-body .question>.admonition-title {
+  color: #96a6d7;
+}
+
+.markdown-body .note>.admonition-title {
+  color: #d7c896;
+}
+
+.markdown-body .admonition:before,
+.markdown-body .attention:before,
+.markdown-body .caution:before,
+.markdown-body .hint:before,
+.markdown-body .danger:before,
+.markdown-body .question:before,
+.markdown-body .note:before {
+  font: normal normal 16px fontawesome-mini;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  line-height: 1.5;
+  color: #333;
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.markdown-body .admonition:before {
+  content: "\f056\00a0";
+  color: 333;
+}
+
+.markdown-body .attention:before {
+  content: "\f058\00a0";
+  color: #a6d796;
+}
+
+.markdown-body .caution:before {
+  content: "\f06a\00a0";
+  color: #d7a796;
+}
+
+.markdown-body .hint:before {
+  content: "\f05a\00a0";
+  color: #96c6d7;
+}
+
+.markdown-body .danger:before {
+  content: "\f057\00a0";
+  color: #c25f77;
+}
+
+.markdown-body .question:before {
+  content: "\f059\00a0";
+  color: #96a6d7;
+}
+
+.markdown-body .note:before {
+  content: "\f040\00a0";
+  color: #d7c896;
+}
+
+.markdown-body .admonition::after {
+  content: normal;
+}
+
+.markdown-body .attention {
+  border-left: 6px solid #a6d796;
+}
+
+.markdown-body .caution {
+  border-left: 6px solid #d7a796;
+}
+
+.markdown-body .hint {
+  border-left: 6px solid #96c6d7;
+}
+
+.markdown-body .danger {
+  border-left: 6px solid #c25f77;
+}
+
+.markdown-body .question {
+  border-left: 6px solid #96a6d7;
+}
+
+.markdown-body .note {
+  border-left: 6px solid #d7c896;
+}
+
+.markdown-body .admonition>*:first-child {
+  margin-top: 0 !important;
+}
+
+.markdown-body .admonition>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* progress bar*/
+.markdown-body .progress {
+  display: block;
+  width: 300px;
+  margin: 10px 0;
+  height: 24px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  background-color: #ededed;
+  position: relative;
+  box-shadow: inset -1px 1px 3px rgba(0, 0, 0, .1);
+}
+
+.markdown-body .progress-label {
+  position: absolute;
+  text-align: center;
+  font-weight: bold;
+  width: 100%; margin: 0;
+  line-height: 24px;
+  color: #333;
+  text-shadow: 1px 1px 0 #fefefe, -1px -1px 0 #fefefe, -1px 1px 0 #fefefe, 1px -1px 0 #fefefe, 0 1px 0 #fefefe, 0 -1px 0 #fefefe, 1px 0 0 #fefefe, -1px 0 0 #fefefe, 1px 1px 2px #000;
+  -webkit-font-smoothing: antialiased !important;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.markdown-body .progress-bar {
+  height: 24px;
+  float: left;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  background-color: #96c6d7;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, .5), inset 0 -1px 0 rgba(0, 0, 0, .1);
+  background-size: 30px 30px;
+  background-image: -webkit-linear-gradient(
+    135deg, rgba(255, 255, 255, .4) 27%,
+    transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%,
+    transparent 77%, transparent
+  );
+  background-image: -moz-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+  background-image: -ms-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+  background-image: -o-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+  background-image: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+}
+
+.markdown-body .progress-100plus .progress-bar {
+  background-color: #a6d796;
+}
+
+.markdown-body .progress-80plus .progress-bar {
+  background-color: #c6d796;
+}
+
+.markdown-body .progress-60plus .progress-bar {
+  background-color: #d7c896;
+}
+
+.markdown-body .progress-40plus .progress-bar {
+  background-color: #d7a796;
+}
+
+.markdown-body .progress-20plus .progress-bar {
+  background-color: #d796a6;
+}
+
+.markdown-body .progress-0plus .progress-bar {
+  background-color: #c25f77;
+}
+
+.markdown-body .candystripe-animate .progress-bar{
+  -webkit-animation: animate-stripes 3s linear infinite;
+  -moz-animation: animate-stripes 3s linear infinite;
+  animation: animate-stripes 3s linear infinite;
+}
+
+@-webkit-keyframes animate-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 60px 0;
+  }
+}
+
+@-moz-keyframes animate-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 60px 0;
+  }
+}
+
+@keyframes animate-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 60px 0;
+  }
+}
+
+.markdown-body .gloss .progress-bar {
+  box-shadow:
+    inset 0 4px 12px rgba(255, 255, 255, .7),
+    inset 0 -12px 0 rgba(0, 0, 0, .05);
+}
+
+/* Multimarkdown Critic Blocks */
+.markdown-body .critic_mark {
+  background: #ff0;
+}
+
+.markdown-body .critic_delete {
+  color: #c82829;
+  text-decoration: line-through;
+}
+
+.markdown-body .critic_insert {
+  color: #718c00 ;
+  text-decoration: underline;
+}
+
+.markdown-body .critic_comment {
+  color: #8e908c;
+  font-style: italic;
+}
+
+.markdown-body .headeranchor {
+  font: normal normal 16px octicons-anchor;
+  line-height: 1;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.headeranchor:before {
+  content: '\f05c';
+}
+
+.markdown-body .task-list-item {
+  list-style-type: none;
+}
+
+.markdown-body .task-list-item+.task-list-item {
+  margin-top: 3px;
+}
+
+.markdown-body .task-list-item input {
+  margin: 0 4px 0.25em -20px;
+  vertical-align: middle;
+}
+
+/* Media */
+@media only screen and (min-width: 480px) {
+  .markdown-body {
+    font-size:14px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .markdown-body {
+    font-size:16px;
+  }
+}
+
+@media print {
+  .markdown-body * {
+    background: transparent !important;
+    color: black !important;
+    filter:none !important;
+    -ms-filter: none !important;
+  }
+
+  .markdown-body {
+    font-size:12pt;
+    max-width:100%;
+    outline:none;
+    border: 0;
+  }
+
+  .markdown-body a,
+  .markdown-body a:visited {
+    text-decoration: underline;
+  }
+
+  .markdown-body .headeranchor-link {
+    display: none;
+  }
+
+  .markdown-body a[href]:after {
+    content: " (" attr(href) ")";
+  }
+
+  .markdown-body abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
+
+  .markdown-body .ir a:after,
+  .markdown-body a[href^="javascript:"]:after,
+  .markdown-body a[href^="#"]:after {
+    content: "";
+  }
+
+  .markdown-body pre {
+    white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+
+  .markdown-body pre,
+  .markdown-body blockquote {
+    border: 1px solid #999;
+    padding-right: 1em;
+    page-break-inside: avoid;
+  }
+
+  .markdown-body .progress,
+  .markdown-body .progress-bar {
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+
+  .markdown-body .progress {
+    border: 1px solid #ddd;
+  }
+
+  .markdown-body .progress-bar {
+    height: 22px;
+    border-right: 1px solid #ddd;
+  }
+
+  .markdown-body tr,
+  .markdown-body img {
+    page-break-inside: avoid;
+  }
+
+  .markdown-body img {
+    max-width: 100% !important;
+  }
+
+  .markdown-body p,
+  .markdown-body h2,
+  .markdown-body h3 {
+    orphans: 3;
+    widows: 3;
+  }
+
+  .markdown-body h2,
+  .markdown-body h3 {
+    page-break-after: avoid;
+  }
+}
+</style><title>through-the-psalms-outline</title></head><body><article class="markdown-body"><p>&nbsp;<br />
+<div class="fancy"><span>Deliverance Center House of Prayer</span></div></p>
+<h1 id="introduction-to-the-book-of-psalms"><a name="user-content-introduction-to-the-book-of-psalms" href="#introduction-to-the-book-of-psalms" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Introduction to the Book of Psalms</h1>
+<p class="fancy"><span>March 11, 2018</span></p>
+
+<h2 id="general"><a name="user-content-general" href="#general" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>General</h2>
+<ul>
+<li>The book was originally titled Tehillim, which means “praises” in Hebrew. The English title of “Psalms” is derived from a transliteration of the Septuagint’s Greek title Psalmoi, also meaning “songs of praise.”</li>
+<li>The poetry was often set to music—but not always.</li>
+<li>the writing of the book spans about 1200 years. In such a collection of hymns, a widely divergent range of dates is inevitable: from the oldest, the Psalm of Moses (90), to a number of postexilic psalms, or a period of about one thousand years (1400 – 400 B.C.), to the late sixth or early fifth century B.C. post-Exilic period (Psalm 126). The entire O.T. canon was established by 400 B.C..</li>
+<li>Psalms is the most quoted Old Testment book in the New Testatment. Of the 287 quotes taken from the Old Testament found in the New Testament, 116 of them are from the book of Psalms. </li>
+<li>Martin Luther influenced a transition from the priest-dominated  worship  of  the  Catholic  Church  to congregationial singing. Luther believed the congregation should take a more active role in the singing but one roadblock to this was the complexity and difficulty of the current liturgy for the common person. He used the book of Psalm as the foundation and authority for his musical reforms which included writing songs which were paraphases of Scripture in common language. An example can be taken from Martin Luther&rsquo;s &ldquo;From Depths of Woe I Cry to Thee&rdquo; (1483-1546, #329 In the Lutheran Hymnal) inspired by Psalm 130.</li>
+</ul>
+<p>verse 1. From depths of woe I cry to Thee, Lord, hear me, I implore Thee.<br />
+Bend down Thy gracious ear to me, My prayer let come before Thee.<br />
+If Thou rememberest each misdeed, If each should have its rightful meed,<br />
+Who may abide Thy presence?</p>
+<blockquote>
+<p>Psalm 130 &mdash;Out of the depths have I cried unto thee, O Lord. 2 Lord, hear my voice: let thine ears be attentive to the voice of my supplications. 3 If thou, Lord, shouldest mark iniquities, O Lord, who shall stand? 4 But there is forgiveness with thee, that thou mayest be feared. 5 I wait for the Lord, my soul doth wait, and in his word do I hope. 6 My soul waiteth for the Lord more than they that watch for the morning: I say, more than they that watch for the morning. 7 Let Israel hope in the Lord: for with the Lord there is mercy, and with him is plenteous redemption. 8 And he shall redeem Israel from all his iniquities.</p>
+</blockquote>
+<h2 id="authorship"><a name="user-content-authorship" href="#authorship" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Authorship</h2>
+<p>Inspired by God. 2 Samuel 23:2; Matthew 22:43; Luke 24:44; Acts 1:16; 2 Timothy 3:16</p>
+<p>Psalm is a composite work containing multiple authors. Some psalms name their author in the first line or title. </p>
+<ul>
+<li>Moses wrote 1 (Psalm 90). </li>
+<li>David wrote 73 (1-41 and 32 others)</li>
+<li>Solomon wrote 2 to 3 (Psalms 72, 127);</li>
+<li>Asaph wrote 3 (Psalms 50, 73-83) </li>
+<li>Sons of Korah wrote 10 (Psalms 42, 44-49, 84, 85, 87) (&ldquo;Sons of Korah&rdquo; were possibly performers rather than authors)</li>
+<li>Heman the Ezrahite wrote 1 (Psalm 88) </li>
+<li>Ethan the Ezrahite wrote 1 (Psalm 89)</li>
+<li>61 psalms are anonymous</li>
+</ul>
+<h2 id="psalms-of-davids-life"><a name="user-content-psalms-of-davids-life" href="#psalms-of-davids-life" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Psalms of David&rsquo;s Life</h2>
+<ul>
+<li>Psalm 7 &mdash; The words of Cush, a Benjaminite (persecution by Saul?)</li>
+<li>Psalm 59 &mdash; Saul sends men to watch David’s house in order to kill him   1 Sam. 19:11</li>
+<li>Psalm 34 &mdash; David delivered from danger by feigning madness in the presence of King Achish of Gath   1 Sam. 21:10–22:2</li>
+<li>Psalm 56 &mdash; The Philistines seize David in Gath  1 Sam. 21:10–15</li>
+<li>Psalm 52 &mdash; Doeg the Edomite tells Saul that David went to the house of Ahimelech    1 Sam. 22:9–19</li>
+<li>Psalm 57 &mdash; David flees from Saul into a cave    1 Sam. 22:1 or 24:3</li>
+<li>Psalm 142 &mdash; David flees from Saul into a cave   1 Sam. 22:1 or 24:3</li>
+<li>Psalm 54 &mdash; The Ziphites tell Saul that David is hiding among them   1 Sam. 23:19</li>
+<li>Psalm 60 &mdash; David’s victory over Transjordan 2 Sam. 8:1–14</li>
+<li>Psalm 51 &mdash; Nathan confronts David about his adultery with Bathsheba 2 Samuel 11–12</li>
+<li>Psalm 3 &mdash; David flees from and battles Absalom  2 Samuel 15–17</li>
+<li>Psalm 63 &mdash; David in the desert of Judah 2 Samuel 15–17?; 1 Sam. 23:14–15?</li>
+<li>Psalm 18 &mdash; David delivered from enemies and from Saul   2 Samuel 22</li>
+<li>Psalm 30 &mdash; Dedication of the temple Nothing in David’s lifetime; see 1 Kings 8:63</li>
+</ul>
+<h2 id="classification-of-psalms"><a name="user-content-classification-of-psalms" href="#classification-of-psalms" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Classification of Psalms</h2>
+<ol>
+<li>
+<p><strong>Lament Psalms</strong> contain a cry for deliverance or defense and are addressed directly to God. <br />
+ - They may be individual (Chapters 5-7, 13, 17, 22, 25, 26, 28, 31, 35, 36, 38, 39, 42, 43, 51, 54-57, 59, 61, 63, 64, 69-71, 86, 88, 102, 109, 120, 130, 140-143). <br />
+ - Or national (Chapters 12, 44, 58, 60, 74, 77, 79, 80, 82, 83, 85, 90, 94, 106, 108, 123, 126, 137).</p>
+</li>
+<li>
+<p><strong>Psalms of confidence</strong> include a lament, but the ideas of security, peace, joy, and confidence predominate. <br />
+- They may be individual (Chapters 3, 4, 11, 16, 23, 27, 62, 121, 131)<br />
+- or national (Chapters 115, 125, 129).</p>
+</li>
+<li>
+<p><strong>Songs of Thanksgiving</strong> express public thanksgiving for what God has done or in anticipation of what He will do. <br />
+- They may be individual (Chapters 9, 10, 30, 32, 34, 40, 41, 92, 107, 116, 138), <br />
+- or national (Chapters 65-68, 118, 124).</p>
+</li>
+<li>
+<p><strong>Psalms of Praise</strong> are constructed around three key elements: <br />
+- a call to praise or introduction, <br />
+- a cause for praise (usually for God’s attributes or deeds), and <br />
+- a conclusion (Chapters 8, 19, 29, 33, 100, 103, 104, 111, 113, 114, 117, 135, 136, 145 – 150)</p>
+</li>
+<li>
+<p><strong>Enthronement Psalms</strong> of the Divine Kingdom contain the expression “the Lord reigns” (or, in the case of Psalm 98, “the Lord, the King”), and speak of the rule of God over all the earth. They are prophetic of Christ’s kingly rule (Chapters 47, 93, 96 – 99).</p>
+</li>
+<li>
+<p><strong>Songs of Zion</strong> extol Zion, or Jerusalem, for its exalted role as the abode of God’s glory and as the religious and political capital of the nation (Chapters 15, 24, 46, 48, 50, 76, 81, 84, 87, 95, 122, 134). The Pilgrim Psalms (see below), are sometimes included here, but they do not really constitute a distinct literary type. </p>
+</li>
+<li>
+<p><strong>Royal Psalms</strong> concern the reign of the king, either historical or messianic, or both (Chapters 2, 18, 20, 21, 45, 72, 89, 101, 110, 132, 144).</p>
+</li>
+<li>
+<p><strong>Wisdom Psalms</strong> emphasize the traditional teaching of the wise men of Israel: meditation of the law, the way of the righteous versus the way of the wicked, and the necessity of practical righteousness (Chapters 1, 14, 37, 49, 52, 53, 73, 75, 91, 112, 119, 127, 128, 133, 139).</p>
+</li>
+<li>
+<p><strong>Historical Psalms</strong> trace the history of God’s saving activity on behalf of Israel (Chapters 78, 105).</p>
+</li>
+</ol>
+<h2 id="other-categories-identified-strictly-for-content-overlap-with-the-above-these-include-the-following"><a name="user-content-other-categories-identified-strictly-for-content-overlap-with-the-above-these-include-the-following" href="#other-categories-identified-strictly-for-content-overlap-with-the-above-these-include-the-following" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Other categories, identified strictly for content, overlap with the above. These include the following:</h2>
+<ol>
+<li>
+<p><strong>Messianic Psalms</strong> are prophetic in some way of the Messiah. They include psalms in which the righteous man’s character is a type of Christ (34:20; 69:4, 9), the righteous man’s experience foreshadows Christ’s experience (22), the existing king’s ideals and calling will be fulfilled in Christ, the ultimate King (Chapters 2, 45, 72), Christ’s work is prophesied with no contemporary reference (only 110), or the enthronement of Christ as universal King over the earth is predicted (Chapters 47, 93, 96 – 99).</p>
+</li>
+<li>
+<p><strong>Imprecatory Psalms</strong> contain an imprecation or prayer for retributive justice to fall on one’s enemy (Chapters 35, 55, 58, 59, 69, 83, 109, 137, 140). These may be justified by remembering that the Israelites were building a political kingdom and, as long as evil men triumphed over them, God’s rule was thwarted. The psalmists were concerned primarily with the glory of God, and at the very least, they did put the matter into God’s hands for His just dealing. These prayers are actually in the same spirit as the petition “Thy kingdom come” (Matt. 6:10), because the coming of God’s kingdom includes the destruction of the wicked (see the note on Psalm 109).</p>
+</li>
+<li>
+<p><strong>Pilgrim Psalms</strong> Song of Ascents is a title given to fifteen of the Psalms, 120–134, each starting with the ascription Shir Hama&rsquo;aloth. They are also variously called Gradual Psalms, Songs of Degrees, Songs of Steps or Pilgrim Songs. Four of them (122, 124, 131 and 133) are linked in their ascriptions to David, and one (127) to Solomon. Psalms of Ascents were sung by pilgrims journeying up to Jerusalem for the three annual feasts of Passover, Pentecost, and Tabernacles.</p>
+</li>
+<li>
+<p><strong>Acrostic Psalms</strong> are those in which each verse begins with a consecutive letter of the Hebrew alphabet (Chapters 9, 10, 25, 34, 37, 111, 112, 119, 145). Psalm 119 is in a class by itself with eight verses for each letter of the alphabet.</p>
+</li>
+</ol>
+<h2 id="peculiar-language"><a name="user-content-peculiar-language" href="#peculiar-language" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Peculiar Language</h2>
+<p>The psalms include unique Hebrew terms. The word Selah, found seventy-one times, is most likely a musical notation added by worship leaders after the Israelites incorporated the psalm into public worship. Scholars do not know the meaning of maskil, found in thirteen psalms. </p>
+<p>The titles before many of the psalms are probably not to be considered inspired, as they were likely added to the text after David and the original writers composed the psalms. However, in trying to understand a particular psalm, some consideration ought to be given to them. These titles are very ancient. In the Hebrew Bible, if a psalm has a title, the title is actually the first verse of the psalm. Therefore, while they may not be original to the text, they are very ancient notes.</p>
+<p>Because the titles are so old, it sometimes can be difficult to discern much from them. Sometimes the title tells us to whom the psalm is dedicated. “To the chief Musician” is a common dedication (Ps 18). Often, the author is indicated, as is the case with Psalm 90, which is “A Prayer of Moses the man of God.” Sometimes the occasion for the psalm is mentioned, as it is with Psalm 18. These notes are very helpful in interpreting the psalm. For example, David wrote, “I will call upon the LORD, who is worthy to be praised, So shall I be saved from mine enemies” (Ps 18:3). The title to the psalm tells us who the enemy was: Saul. </p>
+<p>Occasionally, a psalm appears with instructions for the song leader. These and others can refer to melodies used with the given psalm or perhaps to suggestions for liturgical use. For example, we see instructions such as:</p>
+<ul>
+<li>“For the director of music” (occurring in fifty-five psalms; </li>
+<li>“To the tune of ‘Lilies’” (similar references found in Psalms 45, 60, 69, 80)</li>
+<li>“To the tune of ‘The Doe of the Morning’ ” (Psalm 22); </li>
+<li>“To the tune of ‘Do Not Destroy’ ” (Psalms 57–59, 75). </li>
+</ul>
+<p>One also finds musical terms in the titles. Much discussion persists over these terms, as very little is known about them. Some terms may indicate a tune that was known in ancient times (e.g. Ps 9, 22). Other titles mention the kind of instruments to be played with the particular song (Ps 4, 5).</p>
+<p>The identification of many of the technical words in the superscriptions is dubious. The headings include names for types of psalms (“a psalm”), musical terms (“to the chief musician”), melody indicators (“upon Shoshannim”, 45), and liturgical indicators (“for the Sabbath day”, 92). Fourteen psalms contain historical superscriptions that give some brief mention of the occasion on which the psalm was written (Chapters 3, 7, 18, 30, 34, 51, 52, 54, 56, 57, 59, 60, 63, 142).</p>
+<h2 id="organization"><a name="user-content-organization" href="#organization" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Organization</h2>
+<h3 id="psalms-is-a-collection-of-smaller-collections"><a name="user-content-psalms-is-a-collection-of-smaller-collections" href="#psalms-is-a-collection-of-smaller-collections" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Psalms is a collection of smaller collections</h3>
+<blockquote>
+<p>Psalm 72:20 &mdash; The prayers of David the son of Jesse are ended.</p>
+</blockquote>
+<p>Psalms were usually gathered in smaller collections occording to common themes, or words or style. From this great collection of psalms the Holy Ghost guided a subselection of 150 for Scripture. The fact the book of Psalms is collection of selections made form other collections is highlighted in Psalm 72:20. We find other psalms also written by David even after Psalm 72 (86,101,103,108). </p>
+<p>Different groups had different collections of psalms and when they were put together some duplicates were allowed to remain. There are resulting &ldquo;doublet&rdquo; psalms: Psalm 14 and Psalm 53; Psalm 105:1-15 and 1 Chronicles 16:8-22;  </p>
+<h3 id="within-the-book-of-psalms-can-be-found-smaller-collections"><a name="user-content-within-the-book-of-psalms-can-be-found-smaller-collections" href="#within-the-book-of-psalms-can-be-found-smaller-collections" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Within the Book of Psalms can be Found Smaller Collections</h3>
+<p>Short sets of Psalms were often used for various occasions. </p>
+<p>Psalms 113-118 are called the  &ldquo;Hallel Psalms&rdquo; or &ldquo;Praise Psalms&rdquo; as they start with &ldquo;praise the LORD&rdquo; and ends with &ldquo;praise the LORD&rdquo;. The Hallel were sung at the 3 great Jewish festivals: 1. Dedication 2. New Moon 3. Passover. The Hallel are what Jesus sang with His disciples at the Last Supper - Matthew 26:30.</p>
+<h3 id="psalms-not-included-in-the-book-of-psalms"><a name="user-content-psalms-not-included-in-the-book-of-psalms" href="#psalms-not-included-in-the-book-of-psalms" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Psalms Not Included in the Book of Psalms</h3>
+<ul>
+<li>Moses&rsquo; song of Deliverance &mdash; Exodus 15:1-18</li>
+<li>Deborah&rsquo;s song of praise &mdash; Judges 5</li>
+<li>David&rsquo;s lament over Saul and Jonathan &mdash; 2 Samuel 1:19-27</li>
+<li>Hezekiah&rsquo;s Praise for Deliverance &mdash; 1 Samuel 38:9-20</li>
+</ul>
+<h3 id="psalm-is-organized-into-5-books"><a name="user-content-psalm-is-organized-into-5-books" href="#psalm-is-organized-into-5-books" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Psalm is Organized into 5 Books</h3>
+<p>Psalm is organized into five books or collections. They were probably collected gradually, as corporate worship forms developed along with temple worship. It is likely that by the time of Ezra, the books of the Psalter were organized into their final form. Each section concludes with a doxology, with the entire Psalter capped by Psalm 150, a grand doxology. (doxology: a hymn or form of words containing an ascription of praise to God.)</p>
+<table>
+<thead>
+<tr>
+<th>Book</th>
+<th>1st</th>
+<th>2nd</th>
+<th>3rd</th>
+<th>4th</th>
+<th>5th</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td># of Psalms</td>
+<td>41</td>
+<td>31</td>
+<td>17</td>
+<td>17</td>
+<td>44</td>
+</tr>
+<tr>
+<td>reference</td>
+<td>1-41</td>
+<td>42-72</td>
+<td>73-89</td>
+<td>90-106</td>
+<td>107-150</td>
+</tr>
+<tr>
+<td>doxology</td>
+<td>41:13</td>
+<td>72:18,19</td>
+<td>89:52</td>
+<td>106:48</td>
+<td>150</td>
+</tr>
+<tr>
+<td>theme</td>
+<td>humanity</td>
+<td>deliverance</td>
+<td>sanctuary</td>
+<td>reign of God</td>
+<td>house of God</td>
+</tr>
+<tr>
+<td>content</td>
+<td>personal</td>
+<td>devotional</td>
+<td>liturg./hist.</td>
+<td>general</td>
+<td>prophetic/natu</td>
+</tr>
+<tr>
+<td>pentateuch</td>
+<td>Genesis</td>
+<td>Exodus</td>
+<td>Leviticus</td>
+<td>Numbers</td>
+<td>Deuteronomy</td>
+</tr>
+</tbody>
+</table>
+<p>The five-fold arrangement has long been recognized, but no universally accepted explanation exists. The most common explanation is the early Jewish tradition that judged the five books to be an imitation of the five books of Moses.</p></article></body></html>

@@ -88,4 +88,5 @@ Hakuna rejea kwa uzao wake ni katika Injili yote.
 
 ##### Miujiza ishirini tunaipata katika Marko kwa undani.
 
-### Yesu anaelezwa kama mnyenyekevu lakini mtu mkamilifu wa Yehova na tunapata malaika wanahudum kwake. 
+### Yesu anaelezwa kama mnyenyekevu lakini mtu mkamilifu wa Yehova na tunapata malaika wanahudum kwake.
+ 

@@ -24,7 +24,7 @@ Petro alikuwa na ukosefu wa ufahamu, na Yesu akamkemea.
 
 Yesu aliwaambia wanafunzi kwamba walihitaji kuchukua msalaba.
 
-Yesu alikuwa akimzungumzia nani katika Mathayo 16:28? Baadhi wanaamini kuwa ni Yohana mpendwa. Kwa kawaida tunaamini kwamba Yohana hakuona kifo lakini alikuwa kama  alikuwa Hekoko
+Yesu alikuwa akimzungumzia nani katika Mathayo 16:28? Baadhi wanaamini kuwa ni Yohana mpendwa. Kwa kawaida tunaamini kwamba Yohana hakuona kifo lakini alikuwa kama alikuwa Hekoko
 
 ### Ubadilishaji wa Kristo (17:1-9)
 

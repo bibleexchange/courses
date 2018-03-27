@@ -1,7 +1,0 @@
-
- <h1>GLOSSARY FOR DOCTRINE III</h1>
- <h2>anthropomorphic</h2>
- <p>anthropo- pref. Human being;morpho- or morph- pref. 1. Form; shape; structure. 2. Morpheme; -ic suff. 1. Of&#44; relating to&#44; or characterized by. 2. Having a valence higher than that of a specified element in compounds or ions named with adjectives ending in -ous. 3. One relating to or characterized by. The American Heritage Dictionary&#44; 3RD Edition.Thus&#44; of&#44; or having to do with&#44; the shape or structure of human beings.</p>
- <h2>essence</h2>
- <p>n. 1. The intrinsic or indispensable properties that serve to characterize or identify something. 2. The most important ingredient; the crucial element. 3. The inherent&#44; unchanging nature of a thing or class of things. 4.a. An extract that has the fundamental properties of a substance in concentrated form. b. Such an extract in a solution of alcohol. c. A perfume or scent. 5. One that has or shows an abundance of a quality as if highly concentrated. 6. Something that exists&#44; especially a spiritual or incorporeal entity. The American Heritage Dictionary&#44; 3RD Edition.</p>
- <p>es-sence That which underlies all outward manifestation; the reality itself&#44; whether material or immaterial; the substratum of anything; that in which the qualities inhere. Source unknown. </p>

@@ -114,4 +114,4 @@ Sio hivyo kwa Mungu!
 
 #### I Kor. 10:13
 
-#####  "Lakini Mungu ni mwaqminifu, Nani awezaye kuteswa kwa kujaribiwa."
+##### "Lakini Mungu ni mwaqminifu, Nani awezaye kuteswa kwa kujaribiwa."

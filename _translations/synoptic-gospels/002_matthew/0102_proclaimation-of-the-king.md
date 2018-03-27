@@ -22,7 +22,7 @@ Aliponya kila aina ya magonjwa, kotoa mapepo, na makutano walimfuata yeye.
 
 ### Fundisho mlimani (5:1-7 :29)
 
-Kila ufalme lazima uwe na sheria zake na viwango vya kujiongoza. Hii ni katiba (mwongozo) wa ufalme.  Yesu alitangaza hakuja kutengua torati ila kuikamilisha.
+Kila ufalme lazima uwe na sheria zake na viwango vya kujiongoza. Hii ni katiba (mwongozo) wa ufalme. Yesu alitangaza hakuja kutengua torati ila kuikamilisha.
 
 Kurekebisha ule mwanzo wa nje na kutengeneza mwanzo na kosa mwishowe. Yesu huanzia ndani na kutengeneza nje. Njia pekee ya kuwa na maisha mazuri ni kuwa na moyo safi.
 

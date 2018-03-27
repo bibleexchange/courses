@@ -22,7 +22,7 @@ Maria alikuwa ni mwanamke mwenye pesa kwsababu alijaribu kuwa na nyumba yake na 
 ##### shida na raha hapa kwasababu Marko ameachwa (Matendo 12:25, 13:5) lakini walisuluhishwa kwasababu walionekana baadaye na Paulo huko Rumi (Col. 4:10) na wakati wa Paulo kuwekwa gerezani mara ya mwisho huko Rumi, anamwomba Timotheo kuja kwake na kumleta Marko pia (II Tim. 4:11) 
 
 #### Yawezekana Marko aliandika kati ya 50 AD
-  
+
 ### Tunaweza kuona makusudi ya kitabu katika mstari wa ufunguo
 
 #### Marko 10:45
