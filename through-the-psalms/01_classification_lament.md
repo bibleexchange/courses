@@ -41,6 +41,8 @@ Chapters 5-7, 13, 17, 22, 25, 26, 28, 31, 35, 36, 38, 39, 42, 43, 51, 54-57, 59,
 
 (Read Psalm 13)
 
+In these psalms of lament we find many questions addressed to God.
+
 > Psalm 13:1 &mdash; How long wilt thou forget me, O Lord? for ever? how long wilt thou hide thy face from me?
 
 How is this different from the grumbling against him, of the Israelites when they journeyed from Egypt to the Promised Land?

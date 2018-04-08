@@ -54,7 +54,7 @@ Psalm is a composite work containing multiple authors. Some psalms name their au
 
 ## Classification of Psalms
 
-1. **Psalms of Lament** contain a cry for deliverance or defense and are addressed directly to God. 
+1. **Psalms of Lament** contain a cry for deliverance or defense and questions that are addressed directly to God. 
  - They may be individual (Chapters 5-7, 13, 17, 22, 25, 26, 28, 31, 35, 36, 38, 39, 42, 43, 51, 54-57, 59, 61, 63, 64, 69-71, 86, 88, 102, 109, 120, 130, 140-143). 
  - Or national (Chapters 12, 44, 58, 60, 74, 77, 79, 80, 82, 83, 85, 90, 94, 106, 108, 123, 126, 137).
 
