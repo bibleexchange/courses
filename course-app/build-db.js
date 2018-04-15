@@ -7,6 +7,14 @@ const config = require('./config.json')
 const files = getFiles(config.courseRoot)
 const directories = getDirectories(config.courseRoot, config.ignore)
 
+if (!fs.existsSync(config.binPath)) {
+    fs.mkdirSync(config.binPath);
+}
+
+if (!fs.existsSync(config.lessonsPath)) {
+    fs.mkdirSync(config.lessonsPath);
+}
+
 let data = {
 	files,
 	directories,
