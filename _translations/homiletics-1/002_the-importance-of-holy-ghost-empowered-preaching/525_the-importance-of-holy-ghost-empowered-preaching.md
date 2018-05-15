@@ -52,7 +52,7 @@ Wafalme walipakwa mafuta na manabii wa Mungu. Hii ilikuwa ni ishara kwamba wamep
 
 > I Wafalme 19:16&mdash;Na Yehu mwana wa Nimshi mtie mafuta awe Mfalme wa Israeli; na Elisha mwana wa Shafati wa Abel-Mehola mtie mafuta awe Nabii mahali pako.
 
-Katika Maandiko nabii Elisha anaagizwa na Mungu ampake mafuta Yehu awe Mfalme naye Elisha apakwe mafuta ili awe Nabii mahali pake. Mafuta haya yalimwagwa juu ya Manabii kama alama ya Roho Mtakatifu akiwa amemwagwa katika maisha yao. Manabii waliongea kama kipaza sauti cha Mungu. Mungu aliongea kwa midomo ya Manabii; hawakusema mawazo yao wenyewe walipotabiri ila walifanya hivyo Mungu alipozungumza kupitia kwao. Biblia inatumia maneno: &quot;Neno la Bwana,&quot; katika kuelezea Mungu alivyofikisha ujumbe kwa kuwatumia Manabii wake (Yeremia 44:22).
+Katika Maandiko nabii Elisha anaagizwa na Mungu ampake mafuta Yehu awe Mfalme naye Elisha apakwe mafuta ili awe Nabii mahali pake. Mafuta haya yalimwagwa juu ya Manabii kama alama ya Roho Mtakatifu akiwa amemwagwa katika maisha yao. Manabii waliongea kama kipaza sauti cha Mungu. Mungu aliongea kwa midomo ya Manabii; hawakusema mawazo yao wenyewe walipotabiri ila walifanya hivyo Mungu alipozungumza kupitia kwao. Biblia inatumia maneno: &quot;Neno la Bwana,&quot; katika kuelezea Mungu alivyofikisha ujumbe kwa kuwatumia Manabii wake (Yeremia 44:24).
 
 #### Katika Agano la kale Makuhani walipakwa mafuta
 
@@ -64,7 +64,9 @@ Makuhani hawa walipaswa kuwa Watakatifu katika Bwana. Walipakwa mafuta pia. Hii 
 
 > Luka 4:18, 19&mdash;Roho wa Bwana yu juu yangu, kwa maana amenitia mafuta kuwahubiri maskini habari njema. Amenituma kuwatangazia wafungwa kufunguliwa kwao, Na vipofu kupata kuona tena, Kuwaacha huru walioteswa, Na kutangaza mwaka wa Bwana uliokubaliwa. 
 
-> Waebrania 1:9&mdash;Umependa haki, umechukia maasi; kwa hiyo Mungu, Mungu wako, amekutia mafuta, mafuta ya shangwe kupita wenzio. 
+> Waebrania 1:9&mdash;Umependa haki, umechukia maasi; kwa hiyo Mungu, Mungu wako, amekutia mafuta, mafuta ya shangwe kupita wenzio.
+
+> Matendo 10:38&mdash;habari za Yesu wa Nazareti, jinsi Mungu alivyomtia mafuta kwa Roho Mtakatifu na nguvu naye akazunguka huko na huko, akitenda kazi njema na kuponya wote walioonewa na Ibilisi; kwa maana Mungu alikuwa pamoja naye.
 
 Mwana wa Mungu alipewa nguvu na Roho Mtakatifu kuihubiri Injili. Tunahitaji kuongezewa kupakwa mafuta kiasi gani ili tukaihubiri Injili? 
 

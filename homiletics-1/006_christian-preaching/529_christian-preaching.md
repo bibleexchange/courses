@@ -33,19 +33,19 @@ Paul told Timothy to preach the Word. Preaching then by definition should be lim
 
 ### The extent of Christian preaching
 
-#### BE CAREFUL&mdash;Do not attempt to preach too much at one time.
+#### BE CAREFUL&mdash;Do not attempt to preach too much at one time
 
 #### BE CLEAR&mdash;You need to keep the sermon to one main thought
 
 #### BE CONSERVATIVE&mdash;You should leave something for the next time
 
-A sermon does not have to be eternal to be Divine!
+A sermon does not have to be eternal to be divine!
 
 ### The authority of Christian preaching
 
 #### PREACH THE WORD!
 
-You are delivering God’s Word and not some newspaper article. Preach out of the conviction resulting from the Divine Testimony of Scripture. The absolute belief in the inspiration of the Bible is necessary for strong conviction for its truths. We preach what we preach because it is right and we know it is right because God said it! If the foundation of your sermon is the Almanac or Encyclopedia , your message no matter how logical will lack authority . The Divine inspiration of the Bible is what gives Christian preaching its authority .
+You are delivering God’s Word and not some newspaper article. Preach out of the conviction resulting from the divine testimony of Scripture. The absolute belief in the inspiration of the Bible is necessary for strong conviction for its truths. We preach what we preach because it is right and we know it is right because God said it! If the foundation of your sermon is the Almanac or Encyclopedia , your message no matter how logical will lack authority. The Divine inspiration of the Bible is what gives Christian preaching its authority.
 
 > I Timothy 4:2&mdash;Preach the word ; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine.
 
@@ -69,9 +69,9 @@ There are different types of sermons that are effective in different settings:
 
 2. Topical&mdash;Founded on the theme or topic of the text.
 
-3. Textual-Topical&mdash;The sermon is treated textually and expressed topically.
+<!--3. Textual-Topical&mdash;The sermon is treated textually and expressed topically.
 
-4. Textual-Inferential&mdash;The sermon is drawn from inferences out of the text.
+4. Textual-Inferential&mdash;The sermon is drawn from inferences out of the text.-->
 
 5. Expository&mdash;The sermon exposes or explains the text in its richness of meaning.
 
@@ -157,7 +157,7 @@ Organization and proper outlining will ensure that the hearers will be able to f
 
 #### A reasoned discourse presents the facts of God’s Word
 
-Compare Scripture with Scripture and interpret each text within its context. God’s Word is The Final Authority and standard for all principles of life. Clearly and sensibly communicate. You need to make sense because the people need to be able to follow you while you are preaching. Present Truth in a simple logical order. Share truth step by step and progressively build as the sermon continues.
+Compare Scripture with Scripture and interpret each text within its context. God’s Word is the final authority and standard for all principles of life. Clearly and sensibly communicate. You need to make sense because the people need to be able to follow you while you are preaching. Present truth in a simple logical order. Share truth step by step and progressively build as the sermon continues.
 
 ## The Mission of Preaching
 

@@ -32,7 +32,7 @@ A preacher without the anointing is next to worthless. There are too many dead a
 
 ### What is meant by a call of God?
 
-It is an inner conviction given by the Holy Ghost and confirmed by the Word of God and the body of Christ. The Holy Ghost will speak to your heart. Paul spoke of the Holy Ghost bearing witness with his conscience (Romans 9:1). God will burn His call upon your heart. The Word of God will strengthen this conviction. God will speak to you through His Word. Other Spirit filled Christians will bear witness of the call. The Holy Ghost spoke to the early church to Separate Paul and Barnabas for the work that God had called them to do (Acts 13:1-3). The call of God will be confirmed by the Body of Christ. James, Peter and John recognized the call of God upon Paul’s life (Galatians 2:9).
+It is an inner conviction given by the Holy Ghost and confirmed by the Word of God and the body of Christ. The Holy Ghost will speak to your heart. Paul spoke of the Holy Ghost bearing witness with his conscience (Romans 9:1). God will burn His call upon your heart. The Word of God will strengthen this conviction. God will speak to you through His Word. Other Spirit filled Christians will bear witness of the call. The Holy Ghost spoke to the early church to Separate Paul and Barnabas for the work that God had called them to do (Acts 13:1-3). The call of God will be confirmed by the Body of Christ. James, Peter, and John recognized the call of God upon Paul’s life (Galatians 2:9).
 
 ### Preaching the Gospel is a calling
 
@@ -62,7 +62,7 @@ The success of a preacher is measured in souls saved and lives that have been ch
 
 ### You will teach by example
 
-The people that you preach to will look to you as their example. If people see that the preacher is not given to prayer then they will not Pray much either.
+The people that you preach to will look to you as their example. If people see that the preacher is not given to prayer then they will not pray much either.
 
 ### The power of God comes through prayer
 
@@ -78,7 +78,7 @@ It is essential that the preacher live a clean life. The Old Testament Priests w
 
 ### The preacher must keep a good testimony
 
-A preacher that does not live a Godly example will have no effect preaching to others to live a Godly life. The Word tells us that we are living Epistles, read and known by all men (II Corinthians 3:2). For example, if people see the preacher always losing his temper and becoming angry they will not listen when that preacher tells them not to get mad. People will not respect a man that does not live a Godly life.
+A preacher that does not live a Godly example will have no effect preaching to others to live a Godly life. The Word tells us that we are living epistles, read and known by all men (II Corinthians 3:2). For example, if people see the preacher always losing his temper and becoming angry they will not listen when that preacher tells them not to get mad. People will not respect a man that does not live a Godly life.
 
 ## He must be fit for service
 

@@ -32,7 +32,7 @@ Mhubiri asiyekuwa na upatanisho ni karibu na kitu kisichokuwa na thamani. Wako w
 
 ### Ni nini maana yake wito wa Mungu? 
 
-Ni ukubali wa ndani anaopewa mwanadamu na Roho Mtakatifu ambo huthibitishwa kwa Neno la Mungu na Mwili wa Kristo. Roho Mtakatifu ataongea na moyo wako. Paulo alizungumza kuhusu Roho Mtakatifu kushuhudia pamoja na dhamiri yake (Warumi 9:1). Mungu atawasha wito wake katika moyo wako. Neno la Mungu litaimarisha kukubali kwako. Mungu ataongea na wewe kwa Neno lake. Wakristo wengine waliojazwa Roho Mtakatifu watashuhudia wito wako. Roho Mtakatifu aliongea na kanisa la mwanzo kuwatenga Paulo na Barnaba kwa ajili ya kazi ambayo Mungu alikuwa amewaita waifanye (Matendo 13:1-3). Wito wa Mungu utathibitishwa kwa Mwili wa Kristo. Yakobo, Petro na Yohana walitambua wito wa Mungu kwa maisha ya Paulo (Wagalatia 2:9).
+Ni ukubali wa ndani anaopewa mwanadamu na Roho Mtakatifu ambo huthibitishwa kwa Neno la Mungu na Mwili wa Kristo. Roho Mtakatifu ataongea na moyo wako. Paulo alizungumza kuhusu Roho Mtakatifu kushuhudia pamoja na dhamiri yake (Warumi 9:1). Mungu atawasha wito wake katika moyo wako. Neno la Mungu litaimarisha kukubali kwako. Mungu ataongea na wewe kwa Neno lake. Wakristo wengine waliojazwa Roho Mtakatifu watashuhudia wito wako. Roho Mtakatifu aliongea na kanisa la mwanzo kuwatenga Paulo na Barnaba kwa ajili ya kazi ambayo Mungu alikuwa amewaita waifanye (Matendo 13:1-3). Wito wa Mungu utathibitishwa kwa Mwili wa Kristo. Yakobo, Petro, na Yohana walitambua wito wa Mungu kwa maisha ya Paulo (Wagalatia 2:9).
 
 ### Kuihubiri Injili ni wito 
 
