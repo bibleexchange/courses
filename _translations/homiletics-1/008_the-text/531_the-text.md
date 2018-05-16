@@ -220,7 +220,7 @@ Kila kipande kinapaswa kuipeleka mada hatua moja mbele kukaribia kilele. Siyo la
 1) Uchambuzi sahihi ili kuamua mgawanyo wa maandishi na, 
 2) Mada katika mgawanyo inapaswa kuelezwa kwa lugha sahihi inayoeleweka. &quot;mafanikio yanayotegemea muungano wa uchambuzi wa mawazo katika akili ya mhubiri&quot; &mdash; James Pattison.
  
-Neno usanisi maana ni mchanganyiko au kuweka pamoja; kuunganisha sehemu ili kupata kitu kimoja; kinyume cha uchambuzi [ Ufafasnuzi unaopatikana katika kamusi ya Webster.], tenganisha vipande vya taarifa kwa lengo la kuweka sehemu zilizochambuliwa kama zilivyokuwa mwanzoni. Kunapaswa kuwepo na uendelezaji wa wazo.
+Neno usanifu maana ni mchanganyiko au kuweka pamoja; kuunganisha sehemu ili kupata kitu kimoja; kinyume cha uchambuzi [ Ufafasnuzi unaopatikana katika kamusi ya Webster.], tenganisha vipande vya taarifa kwa lengo la kuweka sehemu zilizochambuliwa kama zilivyokuwa mwanzoni. Kunapaswa kuwepo na uendelezaji wa wazo.
 
 3. Kutambua tabia. Mfumo wa kuandika kwa mada huhakikisha uchangamfu na mchanganyiko wa maoni katika somo. Mhubiri anashikiliwa ndani ya maneno katika andiko njia inayohakikisha msingi imara wa Biblia &mdash; lakini huruhusu pia uhuru wa kuwaza. Usikae usahau kwamba mamlaka ya mhubiri yanatoka katika lile Neno
 
@@ -239,7 +239,7 @@ Ufunuo 3:21 &mdash; Yeye ashindaye, nitampa kuketi nami katika kiti cha enzi, ka
 
 Maana yake inapaswa kuwa wazi, inayoelezeka na kueleweka kwa urahisi kwa waumini. Maana sahihi ya taarifa za Biblia siyo kitu cha kukisia bila ushahidi wenye maelezo. Maelezo yeyote mazuri hayatapingana na ukweli wowote wa Biblia katika mstari huo au mstari mwingine wa Maandiko. Maandishi ya maelezo yanapaswa kuwa ni ukamilisho wa wazo. Kwa lugha rahisi kila kilichomo katika maandishi kinapaswa kuwa cha maana na kinachoelezeka kuonesha nia ya taarifa hiyo. 
 
-Mafanikio mengi ya mfumo wa maandishi wa somo hutegemea uwezo wa akili ya mhubiri. Ni lazima mhubiri awe na uwezo wa kuonesha kiasi cha kutosha ukweli uliopo. Akili yenye uwezo wa kuchambua na kukubali ubishi ndio iliyobora kwa ajili ya mafundisho ya aina hii. Mafundisho ya namna hii huwa na mafanikio makubwa &quot;kwa wakati mmoja huchambua, hupima, ni ya ubishi na kurudia rudia hali ambayo inavuta usikilizaji wenye heshima.&quot;- Pattison.-->
+Mafanikio mengi ya mfumo wa maandishi wa somo hutegemea uwezo wa akili ya mhubiri. Ni lazima mhubiri awe na uwezo wa kuonesha kiasi cha kutosha ukweli uliopo. Akili yenye uwezo wa kuchambua na kukubali ubishi (mjadala) ndio iliyobora kwa ajili ya mafundisho ya aina hii. Mafundisho ya namna hii huwa na mafanikio makubwa &quot;kwa wakati mmoja huchambua, hupima, ni ya ubishi (mjadala) na kurudia rudia hali ambayo inavuta usikilizaji wenye heshima.&quot;- Pattison.-->
 
 ###	Hotuba ya kutumia mada 
 
@@ -269,7 +269,7 @@ Mafundisho ya somo huinua vilele vinavyofuatana hadi kufikia hatima yenye maelez
 
 ##### Hushawishi
 
-Uwezekano wa kuwepo mabishano unapaswa kuwepo katika kila hotuba. Busara haitakiwi iachwe kwa ajili ya ubishi. 
+Uwezekano wa kuwepo majadiliano unapaswa kuwepo katika kila hotuba. Busara haitakiwi iachwe kwa ajili ya ubishi (mjadala). 
 
 ##### Endelevu
 
