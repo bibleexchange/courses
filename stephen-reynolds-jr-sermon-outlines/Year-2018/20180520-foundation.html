@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<!-- saved from url=(0071)file:///C:/Users/Deliverance/AppData/Local/Temp/MarkdownPadPreview.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>20180520-foundation</title>
+
+<style type="text/css">
+/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+img {
+  max-width: 100%
+}
+</style>
+<!--<base href="file:\\\D:\www\courses\stephen-reynolds-jr-sermon-outlines\Year-2018\">--><base href=".">
+</head>
+<body>
+<h1>The Foundation is Laid - Build On It</h1>
+<h2>Introduction</h2>
+<p>We must be aware of the importance of a solid foundation. It's right only when the foundation is right.</p>
+<blockquote>
+<p>ILLUSTRATION: The tower of Pisa has been leaning so long -- around 845 years -- it's natural to assume it will defy gravity forever.</p>
+<p>Pisa got its name in 600 BC from a Greek word meaning “marshy land.” Tower of Pisa stands at 185 feet and until 1990 was leaning at about a 10 degree angle and had been falling by a rate of about 1/16th of in per year. The famous structure has been in danger of collapsing almost since its first brick was laid. It began leaning shortly after construction began in <strong>1173</strong>. Builders had only reached the third of the tower's planned eight stories when its foundation began to settle unevenly on soft soil composed of mud, sand and clay. As a result, the structure leaned slightly to the north. Laborers tried to compensate by making the columns and arches of the third story on the sinking northern side slightly taller.</p>
+<p>Corrections to the foundation beginning in the 1990's were completed June 2007 effectively straightening the tower by 18 inches which had been 15 feet off its vertical. "If we had not stepped in the tower would have collapsed between 2030 and 2040," said Salvatore Settis, the president of the committee. </p>
+</blockquote>
+<p>We must be sure we build on the foundation that is been laid by God.</p>
+<blockquote>
+<p>1 Cor. 3:1-23</p>
+</blockquote>
+<h2>Take Heed that We Build</h2>
+<h3>Are Ye not Carnal? vs. 1-4</h3>
+<blockquote>
+<p>1 Corinthians 3:1-4 — And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ. 2 I have fed you with milk, and not with meat: for hitherto ye were not able to bear it, neither yet now are ye able. 3 For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men? 4 For while one saith, I am of Paul; and another, I am of Apollos; are ye not carnal?</p>
+</blockquote>
+<ul>
+<li>Carnality and Spirituality are in direct conflict</li>
+<li>envying, strife, and division are how men walk "walk as men" v.3</li>
+<li>Divisions on the lines of personality are carnal. "I am of Paul; ... I am of Apollos".</li>
+<li>Walking "AS MEN" produces a life built on UNFAITHFUL  and FALSE foundations.</li>
+</ul>
+<h3>Who Then is Paul and Apollos? vs.5-9a</h3>
+<blockquote>
+<p>1 Corinthians 3:5-9a —  5 ¶ Who then is Paul, and who is Apollos, but ministers by whom ye believed, even as the Lord gave to every man? 6 I have planted, Apollos watered; but God gave the increase. 7 So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase. 8 Now he that planteth and he that watereth are one: and every man shall receive his own reward according to his own labour. 9 For we are labourers together with God:</p>
+</blockquote>
+<ol>
+<li><strong>MINISTERS</strong> and not <strong>LORDS</strong> by whom you have believed. v.5</li>
+</ol>
+<p>MINISTER: to run on errands; an attendant, a waiter; specially, a Christian teacher and pastor; deacon, servant. </p>
+<ol>
+<li>We Planted and Watered BUT its God that gave the increase. vs. 5,6, 7</li>
+</ol>
+<blockquote>
+<p>"They gave it to you as God gave it to them"</p>
+</blockquote>
+<p>SO ... are not "anything" but its God.</p>
+<ol>
+<li>Paul and Apollos are not in conflict with another. Yet schisms have developed around them as if they were. <strong>IMMATURE</strong> v.8,9</li>
+</ol>
+<p>We are laborers together with God.</p>
+<h3>Other False Foundations</h3>
+<ul>
+<li>Denominational lines</li>
+<li>Labels</li>
+<li>Experience</li>
+</ul>
+<h2>Take Heed of the Foundation, vs. 9-11, 16-20</h2>
+<blockquote>
+<p>ye are God's husbandry, ye are God's building.
+10 According to the grace of God which is given unto me, as a wise masterbuilder, I have laid the foundation, and another buildeth thereon. But let every man take heed how he buildeth thereupon. 11 ¶ For other foundation can no man lay than that is laid, which is Jesus Christ.</p>
+<p>16 ¶ Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you? 17 If any man defile the temple of God, him shall God destroy; for the temple of God is holy, which temple ye are. 18 ¶ Let no man deceive himself. If any man among you seemeth to be wise in this world, let him become a fool, that he may be wise. 19 For the wisdom of this world is foolishness with God. For it is written, He taketh the wise in their own craftiness. 20 And again, The Lord knoweth the thoughts of the wise, that they are vain. </p>
+</blockquote>
+<p><strong>How firm a foundation</strong>, ye saints of the Lord,
+is laid for your faith in His excellent Word!
+What more can He say than to you He hath said,
+who unto the Savior for refuge have fled?</p>
+<p>The Lord's Throne is In Heaven - --- He is Still Watching ---</p>
+<ul>
+<li>his eyes behold, try the children of men, The Lord trieth the righteous,</li>
+</ul>
+<p>Build Your Life on the Word.</p>
+<ul>
+<li>BUT the wicked 'his soul hateth'</li>
+<li>The Righteous Lord loveth righteousness.</li>
+</ul>
+<p>God is intensely aware of our faith and righteousness. Are we intensely aware that YES IT MATTERS TO GOD?</p>
+<h2>Take Heed of How We Build</h2>
+<blockquote>
+<p>"let every man take heed how he buildeth thereupon" v.10</p>
+<p>"When the time comes to die, make sure that all you have to do is die!" ~Jim Elliot" </p>
+<p>12 Now if any man build upon this foundation gold, silver, precious stones, wood, hay, stubble; 13 Every man's work shall be made manifest: for the day shall declare it, because it shall be revealed by fire; and the fire shall try every man's work of what sort it is. 14 If any man's work abide which he hath built thereupon, he shall receive a reward. 15 If any man's work shall be burned, he shall suffer loss: but he himself shall be saved; yet so as by fire. 16 ¶ Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you? 17 If any man defile the temple of God, him shall God destroy; for the temple of God is holy, which temple ye are. 18 ¶ Let no man deceive himself. If any man among you seemeth to be wise in this world, let him become a fool, that he may be wise. 19 For the wisdom of this world is foolishness with God. For it is written, He taketh the wise in their own craftiness. 20 And again, The Lord knoweth the thoughts of the wise, that they are vain. </p>
+</blockquote>
+<ul>
+<li>Take Heed What You Build With v.12 (gold, silver, precious stones, wood, hay, stubble)</li>
+<li>Every Work Will Be Revealed, v.13 (revealed by fire "what sort it is")</li>
+<li>The Test Will be If It Survives the Fire of God's Holiness, v. 14</li>
+</ul>
+<blockquote>
+<p>Psalms 119:133 — Order my steps in thy word: and let not any iniquity have dominion over me.</p>
+</blockquote>
+<ul>
+<li>All that is not of Christ will be destroyed v.15</li>
+</ul>
+<p>Forgiven but your invention will fail</p>
+<blockquote>
+<p>Psalm 99:8 Thou answeredst them, O Lord our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions.</p>
+</blockquote>
+<p>We should pray "Take Vengeance on my inventions"</p>
+<p>Our Works and Holiness of God ... FORGIVENESS AND RETRIBUTION</p>
+<p>Vengeance : which divinely dogs all sin; God's Vengeance is not selfish retaliation (as man's will be) but is the just response to sin</p>
+<p>Brought to nought</p>
+<p>How remarkable to consider these two acts laid side by side --- forgave &amp; took vengeance</p>
+<p>## Conclusion</p>
+<blockquote>
+<p>21 ¶ Therefore let no man glory in men. For all things are yours; 22 Whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come; all are yours; 23 And ye are Christ's; and Christ is God's.</p>
+</blockquote>
+
+
+
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->
+</body></html>
