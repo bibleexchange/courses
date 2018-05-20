@@ -4,7 +4,7 @@
 
 ### KUTUNGA WAZO
 
-Neno wazo limetokana na neno la Kigiriki EIDO, ambalo maana yake ni kuona na kwa hiyo kufahamu neno linalooana na wazo ni msimamo, ambalo linatokana na tendo la kuumba. Ufafanuzi mmojawapo wa neno kuumba ni kutengeneza picha katika akili. Mawazo na mafikira ni lazima yaweze kuelezwa kwa maneno. Kuhubiri kunahusu mawasiliano yanayohusu msimamo wa Biblia. Njia hiyo ya mawasiliano ni wazi kwamba ni neno linalotamkwa. 
+Neno wazo limetokana na neno la Kigiriki EIDO, ambalo maana yake ni kuona na kwa hiyo kufahamu neno linalooana na wazo ni msimamo, ambalo linatokana na tendo la kuumba. Ufafanuzi mmojawapo wa neno kuumba ni kutengeneza picha katika akili. Mawazo na fikira ni lazima yaweze kuelezwa kwa maneno. Kuhubiri kunahusu mawasiliano yanayohusu msimamo wa Biblia. Njia hiyo ya mawasiliano ni wazi kwamba ni neno linalotamkwa. 
 
 ### MAWASILIANO MAZURI YANAHITAJI KUWEPO NA MADA MOJA
  

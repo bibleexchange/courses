@@ -6,15 +6,15 @@ Sehemu hii itaangalia mbinu mbalimbali za kutoa hotuba. Hatupendi sote tuingie k
 
 ### Usijaribu kumuiga mhubiri mwingine
  
-Usijaribu kuwa mtu tofauti. Baadhi ya watu hujaribu kuiga matendo na miondoko ya wahubiri wengine au hujaribu kuiga sauti ya mhubiri mashuhuri kwa kudhania kwamba kufanya hivyo watakuwa na Roho sahihi na yenye kuvutia. Hii siyo njia sahihi ya kulihubiri Neno la Mungu. Njia sahihi ya kuhubiri ni kuuacha muonekano wako uwe kwa Roho Mtakatifu.
+Usijaribu kuwa mtu tofauti. Baadhi ya watu hujaribu kuiga matendo na miondoko ya wahubiri wengine au hujaribu kuiga sauti ya mhubiri mashuhuri kwa kudhania kwamba kufanya hivyo watakuwa na Roho sahihi na yenye kuvutia. Hii siyo njia sahihi ya kulihubiri Neno la Mungu. Njia sahihi ya kuhubiri ni kuuacha tabia na mazoea wako uwe kwa Roho Mtakatifu.
 
 ### Unapaswa kuonekana asilia katika mimbari
 
 Usijaribu kulazimisha kitu kisichokuwa asilia kionekana. Usirushe mkono wako ili kuonekana ukifanya chochote. Acha mikono yako ifanye mambo yanayoonekana ya asili, ikiwa imelegea na siyo migumu au iliyolazimishwa. Mhubiri anaweza kupiga kelele na kuruka ruka kuhusu kinachohubiriwa na upako utampatia nguvu na mamlaka pia yatakuwepo katika sauti lakini tumia sauti yako binafsi kila mara uwapo katika mimbari. (Unahubiri Injili siyo kwamba unafanya maigizo.)
 
-### Mungu atautumia muonekano wako
+### Mungu atautumia tabia na mazoea wako
  
-Muonekano wa mhubiri utakuwa dhahiri katika mimbari. Mungu atakutumia kama ulivyo kulitangaza Neno lake. 
+Tabia na mazoea ya mhubiri utakuwa dhahiri katika mimbari. Mungu atakutumia kama ulivyo kulitangaza Neno lake. 
 
 ## Epuka Tabia za Kuchanganyikiwa ambazo zitakupotezea ule ujumbe
 
@@ -72,7 +72,7 @@ Ni sawa kutumia mikono wakati unapohubiri. Unahubiri Neno ambalo liko hai; huhit
 
 ## Kupeleka mkono huku au kule kunaweza kukakuongezea uwezo wako wa kufikisha ujumbe
  
-Mzungumzaji mzuri huonesha kwa mikono yake wakati anapoongea. Lengo letu katika kuhubiri ni kumzidi mhamasishaji yeyote ijapokuwa tunataka kutumia kila njia iwezekanayo kuupeleka ukweli wa Neno la Mungu kwa watu. Iache mikono yako ifanye kile kitakachoweka uzito katika ujumbe. Hupendi kurusha rusha mikono bila kuwa na lengo au sababu. Kwa watu wengine matumizi ya vitendo vya kuonesha kwa mikono wanapoongea ni jambo la kawaida kwao wakati kwa wengine itaonekana wanajilazimisha kuchora chora kwa mikono yao. Unalazimika kukumbuka kwamba wewe utaendelea kuwa wewe, lakini siyo vibaya kujieleza kwa kupeleka peleka mikono. 
+Mzungumzaji mzuri huonesha kwa mikono yake wakati anapoongea. Lengo letu katika kuhubiri ni kumzidi mhamasishaji yeyote, ijapokuwa tunataka kutumia kila njia iwezekanayo kuupeleka ukweli wa Neno la Mungu kwa watu. Iache mikono yako ifanye kile kitakachoweka uzito katika ujumbe. Hupendi kurusha rusha mikono bila kuwa na lengo au sababu. Kwa watu wengine matumizi ya vitendo vya kuonesha kwa mikono wanapoongea ni jambo la kawaida kwao wakati kwa wengine itaonekana wanajilazimisha kuchora chora kwa mikono yao. Unalazimika kukumbuka kwamba wewe utaendelea kuwa wewe, lakini siyo vibaya kujieleza kwa kupeleka peleka mikono. 
 
 ### Kufanya matendo fulani kunaweza kukasaidia kuchora wazo lako
  

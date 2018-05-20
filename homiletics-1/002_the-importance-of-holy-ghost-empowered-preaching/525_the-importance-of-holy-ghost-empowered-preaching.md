@@ -52,7 +52,7 @@ The kings were anointed with oil by the prophets of God. This was a sign that th
 
 > I Kings 19:16&mdash;And Jehu the son of Nimshi shalt thou anoint to be king over Israel: and Elisha the son of Shaphat of Abelmeholah shalt thou anoint to be prophet in thy room .
 
-In this Scripture Elijah is instructed by God to anoint Jehu to be king and to anoint Elisha to be his replacement as prophet. The anointing oil was poured upon the prophets as a sign of the Holy Ghost being poured out upon their lives. The prophets spoke as the very mouthpiece of God. God spoke through the prophets; they did not speak their own thoughts when they were prophesying but only as God spoke through them. The Bible uses the phrase: “the Word of the Lord,” to refer to God revealing His messages to His prophets (Jeremiah 44:22).
+In this Scripture Elijah is instructed by God to anoint Jehu to be king and to anoint Elisha to be his replacement as prophet. The anointing oil was poured upon the prophets as a sign of the Holy Ghost being poured out upon their lives. The prophets spoke as the very mouthpiece of God. God spoke through the prophets; they did not speak their own thoughts when they were prophesying but only as God spoke through them. The Bible uses the phrase: “the Word of the Lord,” to refer to God revealing His messages to His prophets (Jeremiah 44:24).
 
 #### The Old Testament priests were anointed with oil
 
@@ -65,6 +65,8 @@ The priests were to be Holy unto the Lord. They were also anointed with oil. Thi
 > Luke 4:18, 19&mdash;The Spirit of the Lord is upon me, because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted, to preach deliverance to the captives, and recovering of sight to the blind, to set at liberty them that are bruised, To preach the acceptable year of the Lord .
 
 > Hebrews 1:9&mdaash;Thou hast loved righteousness, and hated iniquity; therefore God, even thy God, hath anointed thee with the oil of gladness above thy fellows.
+
+> Acts 10:38&mdash;How God anointed Jesus of Nazareth with the Holy Ghost and with power: who went about doing good, and healing all that were oppressed of the devil; for God was with him.
 
 The Son of God was empowered by the Holy Ghost to preach the Gospel. How much more do we need the anointing of God to preach the Gospel?
 

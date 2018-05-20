@@ -69,9 +69,9 @@ Zipo hotuba mbalimbali zinazofaa kutokana na muonekano wa eneo:
 
 2. Ki mada&mdash;Msingi wake ni dhamira au somo la habari.
 
-3. Kwa kifungu cha Maandiko-Ki mada&mdash;Somo hutibiwa kwa kifungu cha Maandiko na kuelezwa dhamira. 
+<!--3. Kwa kifungu cha Maandiko-Ki mada&mdash;Somo hutibiwa kwa kifungu cha Maandiko na kuelezwa dhamira. 
 
-4. Kwa kifungu cha Maandiko-Kwa kilichotolewa wazo&mdash;Somo linatokana na kilichomo ndani ya taarifa iliyoandikwa.
+4. Kwa kifungu cha Maandiko-Kwa kilichotolewa wazo&mdash;Somo linatokana na kilichomo ndani ya taarifa iliyoandikwa.-->
 
 5. Kwa kutafuta undani&mdash;Somo huonesha au kueleza maandishi katika utajiri wake kwa maana
 

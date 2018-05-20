@@ -72,7 +72,7 @@ It is okay to use hand movements while you are preaching You are preaching a liv
 
 ### Body movements can add to the effectiveness of the message
 
-A good speaker will illustrate with his hands while he is speaking. Our goal as a preacher is to be more than just a motivational speaker. Yet we also want to use every means possible to communicate the truth of the word of God. Let your movements be as such which adds to the message. You don’t just want to flail your arms aimlessly with no motive or reason. To some people the use of hand gestures while they are talking comes natural to them, while to others it will seem unnatural to illustrate with their hands. You need to remember to always be you, but it is also okay to learn to express yourself through body motions.
+A good speaker will illustrate with his hands while he is speaking. Our goal as a preacher is to be more than just a motivational speaker, yet we also want to use every means possible to communicate the truth of the Word of God. Let your movements be as such which adds to the message. You don’t just want to flail your arms aimlessly with no motive or reason. To some people the use of hand gestures while they are talking comes natural to them, while to others it will seem unnatural to illustrate with their hands. You need to remember to always be you, but it is also okay to learn to express yourself through body motions.
 
 ### Action can also help to illustrate your point
 
