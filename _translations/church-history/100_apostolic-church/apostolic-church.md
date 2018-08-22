@@ -16,17 +16,19 @@ Wanikolaiti ni watu wale waliotaka kuwatawala na kuwashindakwa nguvu raia. Neno 
 
 ## Nguvu za kanisa.
 
-### Walipokea nguvu siku Roho Mtakatifu alipowashukia. Mdo1:8
+### Walipokea nguvu siku Roho Mtakatifu alipowashukia (Mdo. 1:8)
 
 ### Matokeo ya uwepo wa Roho Mtakatifu.
 
 #### Kuangaza
 
-Roho Mtakatifu aliangaza fikra za watu wakajuamambo ambayo hawakuwa na uwezo wa kuyatambua hapo zamani (Yoh. 12:16, 1 Kor. 2:14).
+Roho Mtakatifu aliangaza fikra za watu wakajuamambo ambayo hawakuwa na uwezo wa kuyatambua hapo zamani (Luka 24:45; Yoh. 12:16; Yoh. 16:13; 1 Kor. 2:14).
 
 #### Nguvu
 
-Roho Mtakatifu aliwapatia nguvu za kuhubiri nakutenda miujiza (Mdo. 4:22, 6:15).
+Roho Mtakatifu aliwapatia nguvu za kuhubiri nakutenda miujiza (Marko 16:20; Mdo. 6:15).
+
+#### Kuendelea
 
 Roho Mtakatifu alikuja siku ya Pentekoste na atakuwepo mpakakanisa litakapoweza kujitegeme (Kwa wakati wote kanisalitakapokuwepo hapa na Roho Mtakatifu atakuwepo kama vile alivyoshuka siku yaPentekoste) (Mdo. 2:39).
 
@@ -44,7 +46,7 @@ Wanachama wa mwanzo katika Kanisawalikuwa wote ni Wayahudi na walikuwa hawajafah
 
 ### Petro alikuwa ndiye Msemaji wao (Mdo. 2:14, 38—42)
 
-### Yakobo alikuwa mzee mwandamizi au mchungaji (Mdo. 12:17, 15:6—13, 21:18)
+### Yakobo, ndugu wa Yesu, alikuwa mzee mwandamizi au mchungaji (Mdo. 15:6—13, 21:18)
 
 ## Kanuni za Kanisa
 
@@ -80,6 +82,10 @@ Petroalihubiri injili katika nyumba ya Kornelio na hapo ndipo Mataifa mengineyal
 
 Yesu alikutanana Sauli katika barabara iendayo Dameski. Akiwa njiani alianguka na akageukamara akawa mhubiri shupavu kwa Wayahudi na Mataifa mengine (Mdo. 9:19—22). Jinala Sauli lilibadilishwa likawa Paulo. Huyu Paulo akawa mtume mmoja mkakamavu sana kwa mataifa.
 
+### Safari za umishonari za Paulo
+
+Paulo alifanya safari nyingi zakueneza injili na alianzisha makanisa huko Filipi, Tesaloniki, Berea, Athene, na Korinto. Aliyaunda yale makanisa saba ya Asia moja kwa moja au kwa njiaisiyokuwa rasmi (Mdo. 19:10). Makanisa hayo yalianzishwa katikamateso makubwa (2 Kor. 11:23—28).
+
 ## Kanisa katika Mataifa
 
 ### Baraza la Yerusalemu katika mwaka wa 48 baada ya Kristo (Mdo. 15:5—20)
@@ -99,10 +105,6 @@ Paulaliitwa akawe Mtume (War. 1:1). Yeye alikuwa ni mtume kwa ajiliya mataifa. A
 #### Yakobo (Mdo 15:13—20)
 
 Yakobo alikuwa mdogo wake Yesu. Huyu anatakiwa asichanganywe na mtume Yakoboambaye aliuawa na Herode katika Matendo 12. " Na akamuua Yakobo nduguye Yohana kwa upanga" (Mdo. 12:2). Yakobo alikuwa mzee kiongozi aumchungaji wa kanisa la Yerusalemu. Yeye alitambua mataifa mengine kama sehemu ya mwili wa Kristo. Historia inaonesha kwamba Yakobo alikufa shahidi mwaka 62 baada ya Kristo.
-
-#### Safari za misioni za Paulo
-
-Paulo alifanya safari nyingi zakueneza injili na alianzisha makanisa huko Filipi, Tesaloniki, Berea, Athene, na Korinto. Aliyaunda yale makanisa saba ya Asia moja kwa moja au kwa njiaisiyokuwa rasmi (Mdo. 19:10). Makanisa hayo yalianzishwa katikamateso makubwa (2 Kor. 11:23—28).
 
 #### Mtume Yohane
 

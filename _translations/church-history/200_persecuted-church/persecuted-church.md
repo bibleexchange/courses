@@ -6,13 +6,13 @@ Hii inazindua kipindi ambachokanisa liligandamizwa chini ya utawala wa kipagani 
 
 ## Mateso na Smirna
 
-Smirna maana yake ni iliyopondwa. Hii inatokana na neno la msingi manemane. Mmea wa manemane inabidi upondwe pondwe ili utoe harufu yake ya marashi matamu (2:8—11).
+Smirna maana yake ni iliyopondwa. Hii inatokana na neno la msingi manemane. Mmea wa manemane inabidi upondwe pondwe ili utoe harufu yake ya marashi matamu (Ufunuo 2:8—11).
 
 ### Injili inasimulia "taabu na umaskini"
 
 Huu alikuwa ni wakati wa mateso makali kwa kanisa. Watu ambaohawakuawa walilazimika kwenda mafichoni na huko walivumilia umaskini na maishaya taabu.
 
-### "Kufuru yao isemayo ni Wayahudihali siyo kweli bali ni sinagogi la shetani" (2:9)
+### "Kufuru yao isemayo ni Wayahudihali siyo kweli bali ni sinagogi la shetani" (Ufunuo 2:9)
 
 Wafuasi wa dhehebu la Yuda walilipinga kanisa. Wafuasi waYuda ni wale waliotaka kuzirudisha sheria na mila za Kiyahudi. Yesu aliwafichuaWayahudi hao bandia kama watu wa sinagogi la shetani.
 
@@ -68,43 +68,37 @@ Kustawi kwa Ukristo kulisababisha biashara iliyokuwa na faidakubwa ya kutengenez
 
 Hili lilikuwa ni jaribio la kuuondoa Ukristo katika uso wa duniahii. Inasemekana Diocletiani alijenga mnara ulioandikwa: Kwa kumbukumbuya kufukuzwa ushirikiana unaoitwa Ukristo. Wakristo wengiwalichomwa moto wakiwa hai kwa sababu ya ushuhuda wao. Wakristo walitupiwawanyama wakali ambao waliwararua na kuwala katika viwanja vya michezo. Wanyamahawa walikinai milo wa nyama za wanadamu na kuacha kuwashambulia. Askari waliochoka kuua watu wasiokuwa na hatia na wala hawakuwa na silaha walitupapanga zao mbali.
 
-## Viongozi wa makanisayaliyoteseka
+## Mashahidi muhimu na viongozi wa makanisa ya liyoteseka
 
 ### Inyasi 
 
 Inyasi alikuwa askari wa Antiokia huko Syria. Huyu likuwa ni mwanafunzi wa mtume Yohane aliyekuwa mhubiri shupavu wa injili.
 
+Inyasi alitupiwa wanyama wakali wamrarue katika kiwanja cha Coliseum. Akisimama katika uwanja huo wakati wanyama wakali wanamsogelea, Inyasi alisali ifuatavyo, "Nakushukuru ee Bwaba kwa kuwa wewe umenitoa mimi ilinitukuke. Mimi ni punje ya Mungu ambaye nitasagiwa katikati ya meno ya wanyamawakali ili niwe mkate mtakatifu wa Bwana."
+
 ### Shahidi Yustini 
 
 Shahidi Yustini alikuwa mwanafalsafa ambaye aliendeleakufundisha baada ya kuingia Ukristo. Aliandika vitabu vingi ambavyo vipo hadileo na vinatupatia taarifa nyingi za kipindi hicho. Mojawapo ya kazi zakemuhimu ni _Mazungumzo na Trypho_ maandiko yanayopinga madai yamuafaka na dini ya Yuda (Ufunuo 2:9).
+
+Yustini shahidi alikatwa kichwa huko Roma mwaka 165 baada ya Kristo. Maneno yake ya mwisho yalikuwa, "Mimi ni Mkristo, nimewekwa huru na Kristo na kwa wema wakeKristo ninapokea pigo hili kwa tumaini moja."
 
 ### Polikarpi
 
 Polikarpi alikuwa askari wa Smirna katika Asia ndogo. Alifundishwa akiwa kijana na Mtume Yohane. Alikuwa mhudumu wa shupavu katikakizazi chake.
 
+Polikarpi akajibu, "Miakathemanini na sita nimemtumikia Kristo na hajanitendea kosa lolote; ni kwa ninibasi nimkufuru mfalme wangu na ambaye ameniokoa? Unanitishia kwa moto unaowakakwa saa moja na kuacha; lakini hujui moto wa hukumu ujao, na pia hufahamu motowa adhabu ya milele. Leta chochote kama utakavyo."
+
 ### Ireneusi
 
-Ireneusi alikuwa mwanafunzi wa Polikarpi. Baadayealikuwa askofu wa Lionsi (huko Gaul) mwaka 177 baada ya Kristo. Alisisitizakanuni za msingi za Ukristo ambazo zilipingwa na Waagnosti. Baadhi ya maandikoyake yapo hadi leo.
+Ireneusi alikuwa mwanafunzi wa Polikarpi. Baadayealikuwa askofu wa Lionsi (huko Gaul) mwaka 177 baada ya Kristo. Alisisitizakanuni za msingi za Ukristo ambazo zilipingwa na Waagnosti.
 
-## Mashahidi muhimu.
+### Origin
+
+### Tertullian
 
 ### Simeoni
 
 Simeoni alikuwa kiongozi wa kanisa la Jerusalem baada ya Yakobo. Alisulubiwa msalabani kwa amri ya Gavana wa Kirumi wa Palestina mwaka 107 baada ya Kristo wakati wa utawala wa Trajani.
-
-### Inyasi
-
-Inyasi alitupiwa wanyama wakali wamrarue katika kiwanja cha Coliseum. Akisimama katika uwanja huo wakati wanyama wakali wanamsogelea, Inyasi alisali ifuatavyo, "Nakushukuru ee Bwaba kwa kuwa wewe umenitoa mimi ilinitukuke. Mimi ni punje ya Mungu ambaye nitasagiwa katikati ya meno ya wanyamawakali ili niwe mkate mtakatifu wa Bwana."
-
-### Polikarpi
-
-Polikarpi aliagizwa na mtawala wa Roma amkane Kristo naakatishiwa kwamba atachomwa moto akiwa hai na yeye Polikarpi akajibu, "Miakathemanini na sita nimemtumikia Kristo na hajanitendea kosa lolote; ni kwa ninibasi nimkufuru mfalme wangu na ambaye ameniokoa? Unanitishia kwa moto unaowakakwa saa moja na kuacha; lakini hujui moto wa hukumu ujao, na pia hufahamu motowa adhabu ya milele. Leta chochote kama utakavyo."
-
-Baada yakusema hayo alichomwa moto hadi kufa huko Smirna mwaka 155 baada ya Kristo.
-
-### Shahidi Yustini
-
-Yustini shahidi alikatwa kichwa huko Roma mwaka 167 baada ya Kristo. Maneno yake ya mwisho yalikuwa, "Mimi ni Mkristo, nimewekwa huru na Kristo na kwa wema wakeKristo ninapokea pigo hili kwa tumaini moja."
 
 ### Blandina
 

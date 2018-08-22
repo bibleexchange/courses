@@ -8,11 +8,11 @@
 
 ### They left their first love
 
-The loss of a love relationship with Jesus resulted in a loss of the love of the souls of men. There was no missionary effort. Jesus commissioned the Church to go into the entire world and preach the Gospel. The early church made no effort to evangelize theworld.
+The loss of a love relationship with Jesus resulted in a loss of the love of the souls of men. There was no missionary effort. Jesus commissioned the Church to go into the entire world and preach the Gospel. The early church made no effort to evangelize the world.
 
 ### They hated the deeds of the Nicolaitanes
 
-Nicolaitanes refers to those who wanted to rule or conquer the laity. This comes from two Greek words Niko whichmeans to conquer or overthrow and Laos which means the people or laity.
+Nicolaitanes refers to those who wanted to rule or conquer the laity. This comes from two Greek words Niko which means to conquer or overthrow and Laos which means the people or laity.
 
 ## The Church's Enduement
 
@@ -22,11 +22,13 @@ Nicolaitanes refers to those who wanted to rule or conquer the laity. This comes
 
 #### Illuminating
 
-The Holy Spirit illuminated their minds to understand what they were not able to understand before (John 12:16, I Cor. 2:14).
+The Holy Spirit illuminated their minds to understand what they were not able to understand before (Luke 24:45; John 12:16; John 16:13; I Cor. 2:14).
 
 #### Empowering
 
-The Holy Spirit empowered them to preach and to work miracles (Acts 4:22, 6:15).
+The Holy Spirit empowered them to preach and to work miracles (Mark 16:20; Acts 6:15).
+
+#### Abiding
 
 The Holy Spirit came on the Day of Pentecost and will abide until the Church is raptured (As long as the Church is here the Holy Spirit will be here in the manner in which He came on the Day of Pentecost) (Acts 2:39).
 
@@ -36,7 +38,7 @@ The Holy Spirit came on the Day of Pentecost and will abide until the Church is 
 
 ## The Church's membership
 
-The original members were all Jews. They didn't yet understand that the Gospel was for the Gentiles, as well (Acts 11:1—18).
+The original members were all Jews. They didn't yet understand that the Gospel was also for the Gentiles (Acts 11:1—18).
 
 ## The Church's Government
 
@@ -44,7 +46,7 @@ The original members were all Jews. They didn't yet understand that the Gospel w
 
 ### Peter was the spokesman (Acts 2:14, 38—42)
 
-### James became the presiding elder or pastor (Acts 12:17, 15:6—13, 21:18)
+### James, the brother of Jesus, became the presiding elder or pastor (Acts 15:6—13, 21:18)
 
 ## The Church's Doctrines
 
@@ -52,7 +54,7 @@ The original members were all Jews. They didn't yet understand that the Gospel w
 
 ### The Resurrection of Christ (Acts 2:30—32)
 
-### The Return of Christ (Acts 1:9—11, I Thess. 4:15—17)
+### The Return of Christ (Acts 1:9—11; I Thess. 4:15—17)
 
 ## The Church's Defect
 
@@ -70,27 +72,31 @@ Saul was a leader in persecuting the Christians (Acts 8:3). He was the one that 
 
 ### Philip's preaching
 
-He established a church in Samaria (Acts 8:14—17). This church was recognized by the Apostles. This was the first church outside of Judaism. He also founded churches in Gaza, Joppa and Caesarea (Acts 8:40).
+He established a church in Samaria (Acts 8:14—17). This church was recognized by the Apostles. This was the first church outside of Judaism. He also founded churches in Gaza, Joppa, and Caesarea (Acts 8:40).
 
 ### Peter's preaching
 
 Peter preached the Gospel in Cornelius' house. The Gentiles received the Holy Ghost while Peter was preaching (Acts 10:44—48).
 
-### Saul's Conversion
+### Saul's conversion
 
 Jesus confronted Saul on the road to Damascus. He became a powerful preacher to both Jews and Gentiles (Acts 9:19—22). Saul's name was changed to Paul. Paul became the mighty apostle to the Gentiles.
+
+### Paul's missionary journeys
+
+Paul took several missionary journeys to spread the Gospel. Paul established churches at Philippi, Thessalonica, Berea, Athens, and Corinth. He formed the seven churches of Asia either directly or indirectly (Acts 19:10). The churches were established though much suffering (II Cor. 11:23—28).
 
 ## The Church among the Gentiles
 
 ### The Council at Jerusalem AD 48 (Acts 15:5—20)
 
-The Apostles called a council of elders together to settle the question of whether the Gentiles should keep theceremonial Law of Moses. Some of the people were insisting that the Gentilesbe circumcised (vs. 5). The council concluded that the ceremonial Law was not binding on the Gentiles.
+The Apostles called a council of elders together to settle the question of whether the Gentiles should keep the ceremonial Law of Moses. Some of the people were insisting that the Gentilesbe circumcised (vs. 5). The council concluded that the ceremonial Law was not binding on the Gentiles.
 
 ### The leaders of the Church (Gal. 2:9)
 
 #### The Apostle Peter
 
-The Apostle Peter was the spokesman among the Apostles. He assisted James at the Jerusalem Church. History records Peter wasmartyred in Rome about AD 67.
+The Apostle Peter was the spokesman among the Apostles. He assisted James at the Jerusalem Church. History records Peter was martyred in Rome about AD 67.
 
 #### The Apostle Paul (Romans 11:13)
 
@@ -99,10 +105,6 @@ Paul was called to be an Apostle (Rom. 1:1). He was the Apostle to the Gentiles.
 #### James (Acts 15:13—20)
 
 James was the younger brother of theLord. He is not to be confused with the Apostle James who was killed by Herod in Acts 12. "And he killed James the brother of John with the sword" (Acts 12:2). James was the presiding elder or pastor of the Jerusalem church. He recognized the Gentiles as part of the body of Christ. History records James was martyred around AD 62.
-
-#### The Missionary Journeys of Paul
-
-Paul took several missionary journeys to spread the Gospel. Paul established churches at Philippi, Thessalonica, Berea, Athens, and Corinth. He formed the seven churches of Asia either directly or indirectly. — Acts 19:10 The churches were established though much suffering. — II Cor. 11:23—28
 
 #### The Apostle John
 
@@ -116,7 +118,7 @@ John was the youngest of the Apostles. He arose as a leader after the death of t
 
 The city caught on fire which caused the gold to melt between the bricks. Soldiers took apart the temple brick by brick to retrieve the gold. This event fulfilled the prophecy of Jesus concerning the temple.
 
-> Mark 13:2&mdash;And Jesus answering said unto him, Seest thou these great buildings? there shallnot be left one stone upon another, that shall not be thrown down.
+> Mark 13:2&mdash;And Jesus answering said unto him, Seest thou these great buildings? there shall not be left one stone upon another, that shall not be thrown down.
 
 #### The animal sacrifices ceased when the temple was destroyed
 
