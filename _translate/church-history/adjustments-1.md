@@ -26,5 +26,4 @@ If we study the history of the church, we will understand much about how this tr
 
 200:93 The proconsul pleaded with him to say, "Away with the atheists!" (meaning the Christians), so that they could let him go free. Polycarp turned to the crowd that was watching and motioned to them while saying, "Away with the atheists!" Because he would not recant his Christian beliefs, he was burned alive in Smyrna in AD 155. Polycarp was the last link to the Apostolic Church.
 
-900:97 The Gnostics believed in "secret knowledge" that only some believers would receive, but Ireneus reminded them that the Apostles taught in the open and not in secret.
-
+200:97 The Gnostics believed in "secret knowledge" that only some believers would receive, but Ireneus reminded them that the Apostles taught in the open and not in secret.

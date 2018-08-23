@@ -22,74 +22,152 @@ Remember, the word _Nicolaitanes_ means "to rule over the laity." This Scripture
 
 ### Constantine's Cross
 
-He battled Maxentius for the throne at theBattle of Milvan Bridge (AD 312). Constantine was outnumbered by the army ofMaxentius who also wanted the throne. The winner of this battle would be thenext Emperor of Rome. Constantine claimed to have a vision of a cross, inscribed with the words, "In this sign conquer." Constantine made this cross the symbol of his army, and had it placed on the shields of his men. Archeological evidence shows us this cross was the Egyptian ankh which is a cross with a loop on top. The ankh is the symbol for the sun God Ra. Baal is the sun God that was worshipped in the O.T. Constantine won the battle and became the Emperor of Rome. He was used of the devil to combine Christianity with baal worship. The cross he stood for was not the cross of Christianity, but the ankh of baal worship.
+He battled Maxentius for the throne at theBattle of Milvan Bridge (AD 312). Constantine was outnumbered by the army ofMaxentius who also wanted the throne. The winner of this battle would be the next Emperor of Rome. Constantine claimed to have a vision of a cross, inscribed with the words, "In this sign conquer." Constantine made this cross the symbol of his army, and had it placed on the shields of his men. Archaeological evidence shows us this cross was the Egyptian ankh which is a cross with a loop on top. The ankh is the symbol for the sun God Ra. Baal is the sun God that was worshiped in the O.T. Constantine won the battle and became the Emperor of Rome. He was used of the devil to combine Christianity with Baal worship. The cross he stood for was not the cross of Christianity, but the ankh of Baal worship.
 
 ### Constantine made a profession of faith and a supposed conversion to Christianity
 
 Many Christian historians have doubted the sincerity of his profession. Constantine continued to worship the sun God under the guise of Christianity. This mixing of paganism with Christianity would later become Roman Catholicism.
 
-### Edict of Toleration. AD 313 (Edict of Constantine). An Edict is an official decree or document. This Edict granted freedom to all religions in the Empire ending the Roman persecution of Christianity. It restored to Christians property that had been seized during Diocletian's reign. Satan changed his tactics from persecution to infiltration.
+### Edict of Toleration (Edict of Constantine) (AD 313) 
 
-### Constantine was the first historical pope. Constantine took the title of Pontifex Maximus, which is still the official title of the pope today. Peter was not the first pope. Paul's greeting to the Roman Church does not mention Peter as being there in Rome. — Romans 16:1—15 Don't you think if Peter was there leading the Roman Church as the Catholics claim he was that Paul would have made mention of him in his greeting to the Roman Church. The book of Acts places Peter in Jerusalem when the church began. Peter was at the council of Jerusalem in AD 48. He was in Jerusalem not Rome.
+An _edict_ is an official decree or document. This edict granted freedom to all religions in the empire ending the Roman persecution of Christianity. It restored to Christians property that had been seized during Diocletian's reign. Satan changed his tactics from persecution to infiltration.
+
+### Constantine was the first historical pope
+
+Constantine took the title of Pontifex Maximus, which is still the official title of the pope today. Peter was not the first pope. Paul's greeting to the Roman Church does not mention Peter as being there in Rome (Romans 16:1—15). Don't you think if Peter was there leading the Roman Church as the Catholics claim he was that Paul would have made mention of him in his greeting to the Roman Church. The book of Acts places Peter in Jerusalem when the church began. Peter was at the council of Jerusalem in AD 48. He was in Jerusalem not Rome.
 
 ## Results of Toleration of the Church
 
-### The persecution of Christians ended. Many people were deceived, and accepted another gospel of compromise. Christianity that flourished under persecution became worldly under government acceptance.
+### The persecution of Christians ended
 
-### Churches seized during persecution were restored. New churches were built. The Roman basilica became the pattern for elegant church buildings. The Basilica was a courtroom in the shape of a rectangle divided into isles by rows of pillars with a semi-circular platform at one end with seats for the officials. This is still the pattern today in theRoman Catholic Church. An example of this style of architecture is St. Peter'sBasilica in Rome.
+Many people were deceived, and accepted another gospel of compromise. Christianity that flourished under persecution became worldly under government acceptance.
 
-### The official sacrifices ceased. The Roman citizens were no longer required to make sacrifices to pagan gods.
+### Churches seized during persecution were restored
 
-### Churches were supported by the state. The temples of the God s had been supported by the public treasury. This money was now given to the churches and theclergy.
+New churches were built. The Roman basilica became the pattern for elegant church buildings. The Basilica was a courtroom in the shape of a rectangle divided into isles by rows of pillars with a semi-circular platform at one end with seats for the officials. This is still the pattern today in theRoman Catholic Church. An example of this style of architecture is St. Peter's Basilica in Rome.
 
-### Clergy received special privileges. The Clergy became a wealthy class. Men desired these positions for the monetary gain and power associated with the position. Salvation was no longer a requirement to be part of the Clergy. Evil men were ruling the Roman Church.
+### The official sacrifices ceased
 
-### Baal worship was introduced into the Church. Pergamos means married. The church became married to paganism. Baal worship of the sun God would become the false worship of the Roman Catholic Church. According to tradition Nimrod established the pagan cult of baal worship. Semiramis Nimrod's mother who would marry her son became the "queen of heaven". Nimrod was supposed to have been reincarnated into baal, the sun God.
+The Roman citizens were no longer required to make sacrifices to pagan gods.
 
-#### Baal the sun God and Ashteroth "the queen of heaven" were worshipped in the Old Testament. — Judges 2:13, 10:16, I Sam. 7:14, 12:Cakes were made tothe "queen of heaven"— Jer. 7:18, 44:17—1 You can see the parallel between the cakes and the catholic wafer. Mary is still referred to as the queen ofheaven in the Roman Catholic Church today.
+### Churches were supported by the state
 
-#### Incense was also used in baal worship and is used today in Roman Catholicism.
+The temples of the God s had been supported by the public treasury. This money was now given to the churches and the clergy.
 
-#### Mother — infant idols (statues) became the representation of this pagan cult of baal worship. The catholic statues of Mary and the baby Jesus lookexactly like these ancient pagan idols. The idols even had halos which were a pagan symbol of the sun God. Today in the Roman Catholic Church youcan find statues of Mary and the baby Jesus adorned with these pagan halos. The artifacts of these ancient idols show the connection between baal worship and Roman Catholicism.
+We see a progression of the church's relationship to the state:
 
-#### The cult spread around the world. This false religion was taken with thepeople after the dispersion of Babel. This idol worship spread from empire toempire and was passed down throughout the ages. The following Empires worshipped baal the sun God and the queen of heaven. Each Empire changed thereligion slightly, yet the common worship of the queen of heaven was stillevident.
+1. Church < State
+2. Church = State
+3. Church > State
 
-Egypt — Isis and Horus the sun God.
+### Clergy received special privileges
 
-Babylon — Ishtar and Marduk.
+The Clergy became a wealthy class. Men desired these positions for the monetary gain and power associated with the position.
 
-Persia — Astarte
+### Baal worship was introduced into the Church
 
-Greece — Aphrodite and Zeus.
+Pergamos means married. The church became married to paganism. Baal worship of the sun God would become the false worship of the Roman Catholic Church. According to tradition Nimrod established the pagan cult of Baal worship. Semiramis Nimrod's mother who would marry her son became the "queen of heaven". Nimrod was supposed to have been reincarnated into Baal, the sun God.
 
-Rome — Venus and Jupiter.
+#### Baal the sun God and Ashteroth "the queen of heaven" were worshiped in the Old Testament (Judges 2:13, 10:16; I Sam. 12:10)
 
-Ephesus — Diana
+Cakes were made to the "queen of heaven" (Jer. 7:18, 44:17—18). You can see the parallel between the cakes and the catholic wafer. Mary is still referred to as the queen of heaven in the Roman Catholic Church today.
 
-## Fall of the Western Roman Empire.
+#### Incense was also used in Baal worship and is used today in Roman Catholicism
 
-### Constantine chose the Greek city of Byzantium for the new Capital and renamed it Constantinople. — AD 330. This increased the influence of the Roman bishop.The capital was now far away from Rome and the Empire was already in collapse. After Constantine's death the Roman bishop became the Pope.
+#### Mother-infant idols (statues) became the representation of this pagan cult of Baal worship
 
-### The division of the Empire soon followed the building of the new capital. One Emperor could no longer protect his vast domain. The Adriatic Sea formed a natural barrier between the two divisions of the Empire. In AD 395 The Empire was split into the Eastern and Western Empires.
+The catholic statues of Mary and the baby Jesus look exactly like these ancient pagan idols. The idols even had halos which were a pagan symbol of the sun God. Today in the Roman Catholic Church you can find statues of Mary and the baby Jesus adorned with these pagan halos. The artifacts of these ancient idols show the connection between Baal worship and Roman Catholicism.
 
-### The Western Empire with Rome as its Capital survived until AD 476.
+#### The cult spread around the world
 
-### The Eastern Empire with Constantinople as its Capital survived until AD 1453.This would become the Holy Roman Empire of the Middle Ages.(AD 500 - 1500)
+This false religion was taken with the people after the dispersion of Babel. This idol worship spread from empire to empire and was passed down throughout the ages. The following Empires worshiped Baal the sun God and the queen of heaven. Each Empire changed the religion slightly, yet the common worship of the queen of heaven was still evident.
 
-## Christian Leaders of the Period
+* Egypt — Isis and Horus the sun God
+* Babylon — Ishtar and Marduk
+* Persia — Astarte
+* Greece — Aphrodite and Zeus
+* Rome — Venus and Jupiter
+* Ephesus — Diana
 
-### Athanius (AD 296-373)
+## Fall of the Western Roman Empire
 
-He was a defender of the faith in the Arian controversy. Arius the leader of this false teaching did not believein the Biblical doctrine of The Trinity. He became bishop of Alexandria in AD 325. He was exiled five times for his stand against Rome.
+### Constantine chose the Greek city of Byzantium for the new Capital and renamed it Constantinople (AD 330) 
 
-### John Chrysostom (AD 345-407)
+This increased the influence of the Roman bishop.The capital was now far away from Rome and the Empire was already in collapse. After Constantine's death the Roman bishop became the Pope.
+
+### The division of the Empire soon followed the building of the new capital
+
+One Emperor could no longer protect his vast domain. The Adriatic Sea formed a natural barrier between the two divisions of the Empire. In AD 395 The Empire was split into the Eastern and Western Empires.
+
+### The Western Empire with Rome as its Capital survived until AD 476
+
+### The Eastern Empire with Constantinople as its Capital survived until AD 1453
+
+This would become the Holy Roman Empire of the Middle Ages (AD 500&ndash;1500).
+
+## Christian leaders of the period
+
+### Athanius (AD 296&ndash;373)
+
+He was a defender of the faith in the Arian controversy. Arius the leader of this false teaching did not believe in the Biblical doctrine of The Trinity. He became bishop of Alexandria in AD 325. {++In AD 367 he wrote a letter recognizing the N. T. cannon that we use today.++} He was exiled five times for his stand against Rome.
+
+### John Chrysostom (AD 345&ndash;407)
 
 He was referred to as "the golden mouth," because of his eloquence as a speaker. He was a mighty preacher, a statesman, and an able expositor of the Bible. He became bishop of Constantinople in AD 398. He was banished for his stand for truth, and he died in exile.
 
 ### Augustine (AD 354-430)
 
-He became bishop of Hippo in North Africa in AD 39. He was a Chief defender of the faith in the Pelagian Controversy. This false teaching was promoted by Pelegius who did not believein original sin. Augustine developed a reputation as a preacher, teacher, and writer.
+{++Augustine said, "Our hearts are restless until they find rest in you."++} He became bishop of Hippo in North Africa in AD 395. He was a Chief defender of the faith in the Pelagian Controversy. This false teaching was promoted by Pelegius who did not believe in original sin. Augustine developed a reputation as a preacher, teacher, and writer. {++He was involved in the major controversies of his day (i.e. Donatism and Pelagianism).++}
 
-### Even though these men were a part of the Roman Church, they stood for the faith.
+{++
+## Key events of the period
 
-The exiles of these men indicate they were not popular with the Roman Church leaders. The Roman Church would eventually force out anyone that opposed their pagan lies.
+### The Council of Nicea (AD 325)
+
+In the New Testament, especially the Gospel of John, we see that Jesus is equal with the Father, but there are not exact details given about the relationship between them. The question was, how could a person worship both Jesus and the Father and still be a monotheist (a person who believes in and worships only one god)?
+
+Arius, who was an elder in Alexandria, began preaching in AD 318 that Jesus was not God at all, but that He was a celestial servant of God. This was his answer to the question about monotheism. Alexander, Arius' bishop, countered that if God cannot change, and if He has always been a Father, then that means He must have always had a Son.
+
+This religious debate got the attention of Constantine, because riots had started because of it. In AD 325 Constantine called a council in Nicea to solve the debate started by Arius. More than 300 bishops attended.
+
+The bishops created a statement of faith, which, after some additions made during another council in Constantinople in 381, became known as the Nicene Creed. All but two bishops signed the statement of faith, and they were exiled along with Arius. Following is the complete text of the creed:
+++}
+
+> I believe in one God,  
+> the Father almighty,  
+> maker of heaven and earth,  
+> of all things visible and invisible.  
+> I believe in one Lord Jesus Christ,  
+> the Only Begotten Son of God,  
+> born of the Father before all ages.  
+> God from God, Light from Light,  
+> true God from true God,  
+> begotten, not made, consubstantial with the Father;  
+> through him all things were made.  
+> For us men and for our salvation  
+> he came down from heaven,  
+> and by the Holy Spirit was incarnate of the Virgin Mary,  
+> and became man.  
+> For our sake he was crucified under Pontius Pilate,  
+> he suffered death and was buried,  
+> and rose again on the third day  
+> in accordance with the Scriptures.  
+> He ascended into heaven  
+> and is seated at the right hand of the Father.  
+> He will come again in glory  
+> to judge the living and the dead  
+> and his kingdom will have no end.  
+> I believe in the Holy Spirit, the Lord, the giver of life,  
+> who proceeds from the Father and the Son,  
+> who with the Father and the Son is adored and glorified,  
+> who has spoken through the prophets.  
+> I believe in one, holy, catholic and apostolic Church.  
+> I confess one Baptism for the forgiveness of sins  
+> and I look forward to the resurrection of the dead  
+> and the life of the world to come. Amen.
+
+(https://www.britannica.com/topic/Nicene-Creed accessed on 2018/08/23)
+
+{++
+The creed says that Jesus is "light from light." How could you separate light from the sun? In the same way, how could you separate God (the Father) from God (the Son)?
+++}
