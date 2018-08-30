@@ -54,40 +54,17 @@ The Roman citizens were no longer required to make sacrifices to pagan gods.
 
 The temples of the God s had been supported by the public treasury. This money was now given to the churches and the clergy.
 
-We see a progression of the church's relationship to the state:
-
-1. Church < State
-2. Church = State
-3. Church > State
-
 ### Clergy received special privileges
 
 The Clergy became a wealthy class. Men desired these positions for the monetary gain and power associated with the position.
 
-### Baal worship was introduced into the Church
+### Some parts of pagan worship was adopted by the church
 
-Pergamos means married. The church became married to paganism. Baal worship of the sun God would become the false worship of the Roman Catholic Church. According to tradition Nimrod established the pagan cult of Baal worship. Semiramis Nimrod's mother who would marry her son became the "queen of heaven". Nimrod was supposed to have been reincarnated into Baal, the sun God.
+{++
+Over time, there were some practices from the pagan Roman culture that became a part of the church. Some of the Roman gods are similar to the saints that the Catholic church prays to. Some people see similarity between the images and statues of Mary holding baby Jesus the Roman statues depicting Fortuna and Jupiter. There are some Christians who do not like to celebrate Christmas because the holiday has its roots in the pagan Roman holiday of Saturnalia.
 
-#### Baal the sun God and Ashteroth "the queen of heaven" were worshiped in the Old Testament (Judges 2:13, 10:16; I Sam. 12:10)
-
-Cakes were made to the "queen of heaven" (Jer. 7:18, 44:17—18). You can see the parallel between the cakes and the catholic wafer. Mary is still referred to as the queen of heaven in the Roman Catholic Church today.
-
-#### Incense was also used in Baal worship and is used today in Roman Catholicism
-
-#### Mother-infant idols (statues) became the representation of this pagan cult of Baal worship
-
-The catholic statues of Mary and the baby Jesus look exactly like these ancient pagan idols. The idols even had halos which were a pagan symbol of the sun God. Today in the Roman Catholic Church you can find statues of Mary and the baby Jesus adorned with these pagan halos. The artifacts of these ancient idols show the connection between Baal worship and Roman Catholicism.
-
-#### The cult spread around the world
-
-This false religion was taken with the people after the dispersion of Babel. This idol worship spread from empire to empire and was passed down throughout the ages. The following Empires worshiped Baal the sun God and the queen of heaven. Each Empire changed the religion slightly, yet the common worship of the queen of heaven was still evident.
-
-* Egypt — Isis and Horus the sun God
-* Babylon — Ishtar and Marduk
-* Persia — Astarte
-* Greece — Aphrodite and Zeus
-* Rome — Venus and Jupiter
-* Ephesus — Diana
+Some people will say that Constantine started the Roman Catholic Church, but it must be remembered that traditions and beliefs of what the Catholic Church is in our day evolved over many years from what the church was in Constantine's time.
+++}
 
 ## Fall of the Western Roman Empire
 
@@ -120,9 +97,30 @@ He was referred to as "the golden mouth," because of his eloquence as a speaker.
 {++Augustine said, "Our hearts are restless until they find rest in you."++} He became bishop of Hippo in North Africa in AD 395. He was a Chief defender of the faith in the Pelagian Controversy. This false teaching was promoted by Pelegius who did not believe in original sin. Augustine developed a reputation as a preacher, teacher, and writer. {++He was involved in the major controversies of his day (i.e. Donatism and Pelagianism).++}
 
 {++
+### Ambrose
+
+Ambrose was governor of Milan. When the bishop of Milan died in AD 374, a riot broke out over who should be the next bishop. Ambrose stepped in to try to calm things down, and people in the crowd cried out that he should be bishop, even though he hadn't yet been baptized. He protested, but eventual became bishop.
+
+When the emperor Theodosius had a stadium of people killed, Ambrose excommunicated him. Theodosius did repentance by putting on sackcloth and kneeling before Ambrose seeking forgiveness. This was a beginning of the government being submissive to the church.
+++}
+We see a progression of the church's relationship to the state:
+
+1. Church < State
+2. Church = State
+3. Church > State
+{++
+
+### Jerome
+
+Jerome (also known as Eusebius) translated the Bible into Latin in AD 405. This translation became known as the _Vulgate_ from the Latin word _vulgus_, which means "common."
+
+### Patrick (AD 390)
+
+Patrick was a missionary from England to Ireland. He brought Christianity to Ireland, and the church in Ireland developed outside the hierarchical system of Rome. Ireland did not become Catholic until the 1100s.
+
 ## Key events of the period
 
-### The Council of Nicea (AD 325)
+### The Council of Nicea (AD 325—460)
 
 In the New Testament, especially the Gospel of John, we see that Jesus is equal with the Father, but there are not exact details given about the relationship between them. The question was, how could a person worship both Jesus and the Father and still be a monotheist (a person who believes in and worships only one god)?
 
@@ -170,4 +168,38 @@ The bishops created a statement of faith, which, after some additions made durin
 
 {++
 The creed says that Jesus is "light from light." How could you separate light from the sun? In the same way, how could you separate God (the Father) from God (the Son)?
+
+### The First Council at Ephesus (AD 431)
+
+The Council of Nicea resolved that Jesus was both God and man, but there were still questions about the nature of Jesus. How much of Him was God and how much was man? Did He have two minds? Could Jesus have sinned because of the human side? Two church leaders gave answers to these types of questions. They were Nestorius and Cyril.
+
+#### Nestorius
+
+Nestorius was the bishop of Constantinople. He was a heresy hunter who tried to stop doctrines like Arianism from spreading.
+
+Nestorius received the attention of other church leaders when he refused to use the word _Theotokos_, which means "Mother of God." He believed if the Son of God always existed, then He could not be born. He preferred the word _Christotokos_, which means "Mother of Christ." Nestorius also disliked _Theotokos_ because of the emphasis that Apollinarianism placed on this word. Apollinarianism taught that Jesus had no human soul, but was divine God wrapped in human flesh.
+
+He believed that Christ possessed two natures, but was still one person. He emphasized a distinction between these two natures, especially in the suffering of Christ. He said that it was only the human nature that suffered when Christ suffered, and not the divine nature.
+
+#### Cyril
+
+Cyril was the bishop of Alexandria. While Nestorius emphasized more of the human nature of Christ, Cyril emphasized more of His divine nature. He believed that Nestorius' emphasis of the two natures of Christ was harming the idea of the unity of Christ. If only the human nature of Christ suffered, then Christ was not an effective high priest, since it was only through divine suffering that Christ could atone for the sins of humanity.
+
+#### The decision of the council
+
+Because Nestorius did not want to use the name _Mother of God_ for Mary, he was falsely accused by Cyril that he did not believe that Jesus was God. After some heated letters between them, a council of bishops was called to settle the debate.
+
+The council was largely motivated by politically factors. The Second Ecumenical Council of 381 declared that the bishop of Constantinople would be second only to the Roman bishop (the pope). This angered some of the other bishops, including Cyril. So even though there were some legitimate questions about the doctrines of Nestorius, the council was also called because of jealousy of his position.
+
+The council decided against Nestorius and he was exiled as a heretic. Even though he was exiled, people continued to believe his doctrine and Nestorianism still exists today as a branch of Christianity.
+
+While their were some differences of doctrine between Cyril and Nestorius, much of their disagreement lay in how they emphasized certain parts of the doctrine of Christ and also from how they defined and used different words and phrases. They both were concerned with defending the faith against heresy. While it is impossible to know, we can't but wonder what agreement they might have come to if they had talked together about their ideas. 
+
+Though Nestorius was always considered a heretic, the Council of Chalcedon made decisions about the doctrine of Christ that closer to the ideas of Nestorius. Nestorius was also correct about how the name _Mother of God_ would exalt Mary to a position that was more than she deserved. Over many years, we see the tradition of the Roman Catholic Church move Mary into the place where she is almost considered divine.
+
+### The Council of Chalcedon (AD 451)
+
+This council was the final ecumenical council dealing with the dual-nature of Jesus. In it, it was declared that Christ is "acknowledged in two natures, without confusion, without change, without division, without separation... the characteristic property of each nature being preserved, and coming together to form one person."
+
+It was the first council in which the pope played a major role, and the last that both East and West would regard as official.
 ++}

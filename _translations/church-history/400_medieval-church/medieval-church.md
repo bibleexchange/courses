@@ -2,13 +2,13 @@
 
 (476 — 1473 baada yaKristo) Toka anguko la Roma hadi anguko la Konstatinopo.
 
-## Kanisa la zama za enzi kati lilifanana tabia naThiatira (2:18&ndash;21)
+## Kanisa la zama za enzi kati lilifanana tabia naThiatira (2:18&ndash;29)
 
 ### "Sadaka ya kutolewa misa daima" ilikuwa sehemu ya kubembeleza kwa kipindi hiki
 
 Kanunimuhimu ya Katoliki ya Roma inatamka kwamba Kristo aliweka Ekaristi kama sakramenti ya upatanisho au utaratibu wa kazi.
 
-"Muathirika niyule yule … ila njia ya kumtoa sadaka ni tofauti. Na kwa kuwa katika sadakahii takatifu inayoadhimishwa katika misa ni Kristo yule aliyejitoa mwenyewesiku moja altareni kwenye msalaba kwa kumwaga damu; amechukuliwa na kutolewabila umwagaji wa damu sadaka hii ni upatanisho wa kweli" (Doctrinadess. Missae sacrificio c.2 kama inayotajwa katika Kateksimu ya Kanisa Katoliki 1367) [Kristo aliiweka Ekaristi] Alifanya hivi ili kuendelezasadaka ya msalaba katika karne zote mpaka atakaporudi tena. (Katekisimuya mwaka 1992 ya Kanisa Katoliki la Roma).
+"Muathirika niyule yule … ila njia ya kumtoa sadaka ni tofauti. Na kwa kuwa katika sadakahii takatifu inayoadhimishwa katika misa ni Kristo yule aliyejitoa mwenyewesiku moja altareni kwenye msalaba kwa kumwaga damu; amechukuliwa na kutolewabila umwagaji wa damu sadaka hii ni upatanisho wa kweli" (Doctrinadess. Missae sacrificio c.2 kama inayotajwa katika Kateksimu ya Kanisa Katoliki 1367) [Kristo aliiweka Ekaristi]. Alifanya hivi ili kuendelezasadaka ya msalaba katika karne zote mpaka atakaporudi tena. (Katekisimuya mwaka 1992 ya Kanisa Katoliki la Roma).
 
 Thiatira maanayake sadaka ya misa kutolewa daima. Hii inahusisha misa ya Kanisa la Katolikiau adhimisho la Ekaristi. Misa iligeuka kuwa sadaka ya kutolewa daima kwawalio hai na wafu. Kanuni ya Kanisa Katoliki au adhimisho la Roma linadaikwamba mkate na divai hugeuka mwili na damu halisi ya Yesu na ni lazimaitolewe milele hadi atakaporudi ili kuwepo na ondoleo la dhambi. Ingawawangeweza kusema kwamba misa siyo "sadaka ya kutolewa daima" ama "kuwakilishamilele" kwa mwili na damu ya Kristo wao katika hali halisi wanashutumuukamilifu na mamlaka ya kazi ya Kristo msalabani kwa kuhitaji kazi zaidi. Kwaimani tunapokea upatanisho wa kazi ya Kristo kwa sababu kwa kujitolea kufailitosha.. Kuendelea kuadhimisha karamu ya Bwana siyo kazi ya upatanisho auutaratibu wa kazi ila ni sherehe ya kumbukumbu na tendo la utii. Yesu alijitoamara moja tu basi (Ebr. 7:27) na kifo chake na ufufuko vinakumbukwakatika Komunio. Hakuna utaratibu wa kazi hiyo ambao ni wa lazima mbele zaidi yahuduma ya Kristo katika msalaba.
 
@@ -70,6 +70,19 @@ Roma iliweza kuwashauri watawala wa Ulaya kuongoza vita hivyo vyakidini. Wakatol
 
 #### Askariwalishindwa kuichukua nchi takatifu kutoka udhibiti wa waislam
 
+{++}
+
+| Mashariki                      | Magharibi                       |
+| ------------------------------ | ------------------------------- |
+| Walizungumza Kigiriki          | Walizungumza Kilatini           |
+| Wakuhani wao waliweza kuolewa  | Makuhani wao hawakuweza kuolewa |
+| Wakuhani wao walikuwa na ndevu | Makuhani wao hawakuwa na ndevu  |
+| Imani ya Nicene inasema Roho anakuja "kutoka kwa Baba"           | Ya kuongeza "na Mwana" (Inaitwa "Maneno ya Filioque") |
+| Walikuwa na sherehe tofauti za Misa                             ||
+| Walikuwa na tofauti za Mafundisho                               ||
+
+{++}
+
 ## Kanisa la Zama za Enzi za kati
 
 ### Kulikuwapo na mabaki ya vikundi ambavyo havikuwa sehemu ya kanisa Katoliki
@@ -90,4 +103,4 @@ Yohane Wykliffe (1330—1384) alikuwa mtu wa kwanza kutafsiri Biblia kwa kiinger
 
 #### Yohane Huss
 
-Yohane Huss (1369—1315) alikuwa msomi wamaandiko ya Wykliffe na alisimamia ukweli wa neno la Mungu. Alikataa kabisamamlaka ya Papa na uongo wa Waroma. Alihukumiwa kama muasi na alichomwa katikamchi kwa amri ya Baraza la kanisa Katoliki.
+Yohane Huss (1369—1415) alikuwa msomi wamaandiko ya Wykliffe na alisimamia ukweli wa neno la Mungu. Alikataa kabisamamlaka ya Papa. Alihukumiwa kama muasi na alichomwa katikamchi kwa amri ya Baraza la kanisa Katoliki.

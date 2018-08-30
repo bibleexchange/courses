@@ -54,42 +54,9 @@ Raia wa Roma waliacha kutoa matoleo za sadaka kwa miungu wa kipagani.
 
 Mahekalu ya miungu pia yalikuwa yakipata misaada kutoka katika hazina ya umma. Makanisa na wachungaji wake walipokea fedha kutoka serikalini.
 
-Tunaona maendeleo ya uhusiano wa kanisa na serikali:
-
-1. Kanisa < Serikali
-2. Kanisa = Serikali
-3. Kanisa > Serikali
-
-
-
 ### Wachungaji walikuwa wakipewa marupurupu
 
-Makuhani akawa darasa tajiri. Wanaume walipenda nafasi hizi kwa faida ya fedha na nguvu zinazohusiana na nafasi hiyo. 
-
-### Ibada za miungu kama baali ziliingizwa kanisani
-
-Pergamo maana yake aliyeolewa. Kanisa liliolewa na upagani. Kuabudu mungu—juabaali ikawa ndio ibada ya uongo katika kanisa Katoliki la Roma. Kwakuzingatia mila mtawala Nimrodi akaanzisha rasmi ibada za kipagani za baaliza kuabudu mungu—jua. Mama yake Nimrodi aliolewa na mwanaye Nimrodi ili awe "malkiawa mbingu." Nimrod aliyedaiwa kupata mwili wa kimungu alitegemewa kugeukaBaali yule mungu—jua.
-
-#### Baali yule mungu—jua na Ashterati "malkia wa mbingu" walikuwa wakiabudiwa katika agano la Kale (Waamuzi 2:13, 10:16; I Sam. 12:10)
-
-Keki zilitengenezwa kwa ajili ya "malkia wambinguni" (Yer. 7:18, 44:17 —18). Unaweza kulinganisha kufanana kwa keki hizona komunyo za kanisa Katoliki. Maria bado anaelezewa kama malkia wa mbingunikatika Kanisa Katoliki mpaka leo.
-
-#### Ubani ulitumiwa katika ibada za Baali na leo unatumiwa pia naukatoliki wa Roma
-
-#### Sanamu za mama na watoto wadogo ziliwakilisha mila za ibada zakipagani za Baali
-
-Sanamu za kikatoliki za Maria na mtoto Yesu zinafananakabisa na hizi sanamu za zamani kipagani. Sanamu hizi zina duara la mwangazaunaoizunguka picha kitu ambacho ni alama ya kipagani ya mungu—jua. Leo katikakanisa la Katoliki la Roma unaweza kukuta sanamu ya Maria na mtoto Yesu zikiwazimepambwa na mwangaza wa duara ambao ni alama ya kipagani. Vifaa hivi vyakipagani vinaonesha uhusiano uliopo kati ya ibada za Baali na Ukatoliki waRoma.
-
-#### Mila hii ilisambaa duniani kote
-
-Dini hii ya uongo ilichipuakatikati ya watu baada utawanyikaji uliotokea pale Babeli. Kuabudu vitukulienea toka himaya moja hadi nyingine na umepokelewa katika nyakatimbalimbali. Himaya zifuatazo ziliabudu mungu—jua —Baali na malkia wa mbingu.Kila himaya ilibadilisha dini hiyo kidogo lakini kwa kawaida ya kuabudu malkiawa mbingu ilikuwa wazi. Himaya hizo ni kama
-
-* Misri — Isisi na Horusi mungu—jua
-* Babeli— Ishtari na Marduki
-* Persia — Astarte
-* Ugiriki — Afrodite na Zeusi
-* Roma — Venasi na Jupita
-* Efeso — Diana
+Makuhani akawa darasa tajiri. Wanaume walipenda nafasi hizi kwa faida ya fedha na nguvu zinazohusiana na nafasi hiyo.
 
 ## Kuanguka kwa utawala waKirumi wa Magharibi
 
@@ -121,6 +88,11 @@ Huyu anajulikana kama "mdomo wa dhahabu" kwa sababu aliwezakuongea kwa ufasaha w
 
 Alikuwa Askofu wa Hippo huko Afrika Kaskazini mwaka 395 BK. Yeye ndiye mtetezi Mkuu wa ubishani wa Pelagia. Mafundisho haya yauongo yalipambwa na Pelagio ambaye hakuamini dhambi ya asili. Augustinoalijenga jina lake kama mhubiri, mwalimu na mwandishi.
 
+Tunaona maendeleo ya uhusiano wa kanisa na serikali:
+
+1. Kanisa < Serikali
+2. Kanisa = Serikali
+3. Kanisa > Serikali
 
 {Nicene Creed}
 
