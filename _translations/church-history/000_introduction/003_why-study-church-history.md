@@ -1,5 +1,15 @@
 ### Kwanini tujifunze Historia ya kanisa?
 
+#### Historia ya Kanisa inatusaidia kuelewa kile tunachoamini
+
+Ukiingia  kanisa la Kiprotestanti popote ulimwenguni, utasalimiwa na huduma inayofanana na nyingine  yeyote uliyowahi  kuhudhuria. Kutakuwa na tofauti za mtindo, lakini utatarajia sala ya ufunguzi, wakati wa kuimba, sadaka, na kuhubiri Mara nyingi hizi zitakuwa katika utaratibu sawa. Hakuna mahali popote katika Biblia hutolewa orodha ya jinsi ya kuongoza huduma ya kanisa, sasa imekuwaje wote tumekuwa na mfumo sawa?
+
+Ni kwa sababu mengi ya yale tunayofanya na kuamini kama Wakristo yameumbwa na zaidi ya miaka elfu mbili ya mila, ingawa mara nyingi hatujagundua. Mila mara nyingi huonekana kuwa jambo baya katika makanisa ya Kiprotestanti. Tunapenda kuamini tunafanya mambo sawasawa na Paulo na mitume wengine walifanya katika Agano Jipya, lakini hakuna mahali pa Biblia tunaona kwamba Paulo alikuwa amevaa suti na tai siku ya Jumapili (kwa kweli, Jumapili kufanywa kama siku rasmi kwa wakristo kuabudu imetokana na mila na sio katika Biblia).
+
+Mila ya kanisa inaweza kuwa jambo jema. Watu wengi wamejifunza Biblia, kuomba, na kujadili mafundisho na mawazo mengi kuhusu jinsi kanisa linapaswa kuishi. Hatupaswi "kurejesha gurudumu," na kujifunza masomo haya yote, lakini tunaweza kujifunza kutokana na kile ambacho watu hawa wamepitisha kwa njia ya mila. Hatuamini kwamba mila ni bora zaidi kuliko Maandiko, lakini tunaamini kwamba mila hutusaidia kuelewa Biblia.
+
+Tukisoma historia ya kanisa, tutaelewa mengi kuhusu namna hii mila ilivyoingia. Tujifunze historia au la, tutaathiriwa na historia. Ushawishi utatoka kwenye utamaduni unaotuzunguka sisi, hitimisho tunayofikiria kwa siri, na hadithi ambazo tulisimuliwa. Hatari ni kwamba bila kujifunza kwa ufahamu wa jinsi tulivyokuwa, tunaweza kufikia hitimisho baya.
+
 #### Somo la historia ya kanisa linatuwezesha kuutambua urithi wetu
 
 Wanaume wengi na wanawake walikwishajitoa mhanga maisha yao katika jitihada zaokueneza ujumbe wa neno la Mungu. Neno la Mungu limehubiriwa katika mazingiramagumu sana na wakati mwingine yanayoogopesha.

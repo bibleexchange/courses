@@ -8,7 +8,7 @@ We have record of events of the first church period from the Bible, which we bel
 
 ## Persecution and Smyrna
 
-_Smyrna_ means "crushed." It comes from the root word myrrh, the myrrh plant had to be crushed in order to emit its sweet fragrance (Revelation 2:8—11). {++ It is said that when Polycarp died in the flames, that there was a pleasant aroma.++}
+_Smyrna_ means "crushed." It comes from the root word myrrh, the myrrh plant had to be crushed in order to emit its sweet fragrance (Revelation 2:8—11). It is said that when Polycarp died in the flames, that there was a pleasant aroma.
 
 ### The Scripture describes "tribulation and poverty"
 
@@ -38,7 +38,7 @@ New gods were accepted by the heathen culture of Rome. Christians could not cond
 
 ### Idol worship was interwoven with life
 
-Images stood in many houses to receive adoration. Sacrifices were made to gods at festivals. Images were worshiped at civil ceremonies. Christians who took no part in such idolatry were not fitting in with the pagan society. {++Because Christians did not participate in the public pagan worship ceremonies, many people did not think that they worshiped at all and that they were atheists.++}
+Images stood in many houses to receive adoration. Sacrifices were made to gods at festivals. Images were worshiped at civil ceremonies. Christians who took no part in such idolatry were not fitting in with the pagan society. Because Christians did not participate in the public pagan worship ceremonies, many people did not think that they worshiped at all and that they were atheists.
 
 ### Emperor worship
 
@@ -50,7 +50,7 @@ In the first century Christians had been considered a sect of Judaism, an allowe
 
 ### Secret meetings
 
-The Christians started to meet in secret to protect themselves from persecution. The secret meetings of Christians aroused suspicion. They were accused of meeting in secret to plan an overthrow of the Empire. {++Because of the Lord's Supper and talk about eating the body of Christ, some people thought that they were cannibals.++}
+The Christians started to meet in secret to protect themselves from persecution. The secret meetings of Christians aroused suspicion. They were accused of meeting in secret to plan an overthrow of the Empire. Because of the Lord's Supper and talk about eating the body of Christ, some people thought that they were cannibals.
 
 ### Equality in the church
 
@@ -80,21 +80,21 @@ Ignatius was thrown to the wild beasts in the Coliseum. Standing in the arena as
 
 ### Justin Martyr
 
-{++Justin Martyr was a philosopher who became a Christian after meeting an elderly man who explained how Jesus fulfilled Old Testament prophecies. He was one of the first apologists, which is someone who uses reason and logic to defend his faith.++} He wrote several books which are still in existence that give us much information about this period. One of his prominent works is _Dialogue with Trypho_, a treatise refuting the Judiazers (Rev. 2:9).
+Justin Martyr was a philosopher who became a Christian after meeting an elderly man who explained how Jesus fulfilled Old Testament prophecies. He was one of the first apologists, which is someone who uses reason and logic to defend his faith. He wrote several books which are still in existence that give us much information about this period. One of his prominent works is _Dialogue with Trypho_, a treatise refuting the Judiazers (Rev. 2:9).
 
-{++He once wrote, "You can kill us, but cannot do us any real harm."++} He was beheaded in Rome in AD 165. His last words were, "I am a Christian, having been freed by Christ, and by the grace of Christ, I partake of the same hope."
+He once wrote, "You can kill us, but cannot do us any real harm." He was beheaded in Rome in AD 165. His last words were, "I am a Christian, having been freed by Christ, and by the grace of Christ, I partake of the same hope."
 
 ### Polycarp
 
-Polycarp was bishop of Smyrna at Asia Minor. He was taught as a youth by the Apostle John. {++When the police came to arrest him, he treated them as guests. He fed them and asked for an hour to pray, but he took two hours.++}
+Polycarp was bishop of Smyrna at Asia Minor. He was taught as a youth by the Apostle John. When the police came to arrest him, he treated them as guests. He fed them and asked for an hour to pray, but he took two hours.
 
-{++They brought Polycarp to the proconsul, who threatened to burn him alive with fire if he would not deny Christ.++} Polycarp answered, "Eighty and six years have I served Christ, and He has done me no wrong; how then can I blaspheme my King who has saved me? You threaten the fire that burns for an hour and then is quenched; but you know not of the fire of the judgment to come, and not of the fire of the eternal punishment. Bring what you will."
+They brought Polycarp to the proconsul, who threatened to burn him alive with fire if he would not deny Christ. Polycarp answered, "Eighty and six years have I served Christ, and He has done me no wrong; how then can I blaspheme my King who has saved me? You threaten the fire that burns for an hour and then is quenched; but you know not of the fire of the judgment to come, and not of the fire of the eternal punishment. Bring what you will."
 
-{++The proconsul pleaded with him to say, "Away with the atheists!" (meaning the Christians), so that they could let him go free. Polycarp turned to the crowd that was watching and motioned to them while saying, "Away with the atheists!" Because he would not recant his Christian beliefs, he was burned alive in Smyrna in AD 155. Polycarp was the last link to the Apostolic Church.++}
+The proconsul pleaded with him to say, "Away with the atheists!" (meaning the Christians), so that they could let him go free. Polycarp turned to the crowd that was watching and motioned to them while saying, "Away with the atheists!" Because he would not recant his Christian beliefs, he was burned alive in Smyrna in AD 155. Polycarp was the last link to the Apostolic Church.
 
 ### Ireneus
 
-Ireneus was a student of Polycarp. He became bishop of Lyons (in Gaul) in AD 177. He stressed the fundamental Christian doctrines which were facing opposition from the Gnostics. {++The Gnostics believed in "secret knowledge" that only some believers would receive, but Ireneus reminded them that the Apostles taught in the open and not in secret.++} Some of his writings still survive today.
+Ireneus was a student of Polycarp. He became bishop of Lyons (in Gaul) in AD 177. He stressed the fundamental Christian doctrines which were facing opposition from the Gnostics. The Gnostics believed in "secret knowledge" that only some believers would receive, but Ireneus reminded them that the Apostles taught in the open and not in secret. Some of his writings still survive today.
 
 ### Origin
 

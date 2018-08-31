@@ -1,12 +1,14 @@
-# Mbili: Kanisa la Mateso
+# Mbili: Kanisa la Mateso (Mwaka wa 100—313 BK) 
 
-(Mwaka wa 100—313 baada ya Kristo) kuanzia kukamilishwa AganoJipya hadi kutolewa Hati ya Constantino.
+Kuanzia kukamilishwa Agano Jipya hadi kutolewa Hati ya Constantino.
 
 Hii inazindua kipindi ambachokanisa liligandamizwa chini ya utawala wa kipagani wa Roma. Kinyume namategemeo hayakutokeza marashi matamu kwa Mungu kwa kuwa katika karne hizombili kulikuwa na mashahidi kuuliwa mfululizo. Kutolewa kwa Hati ya Kostantinokutajadiliwa zaidi katika kipindi cha Kanisa la Kifalme.
 
+Tuna kumbukumbu za matukio ya kipindi cha kanisa la kwanza kutoka kwa Biblia, ambayo tunaamini yametutia moyo. Hatuna kumbukumbu za kibiblia za wakati wowote wa kanisa. Hii ina maana kwamba si kila tunachokisoma ni kweli. Watu wawili wanaweza kushuhudia tukio moja nabado wakatoa taarifa  tofauti kabisa kuhusu jambo hilo. Historia ni ngumu kwa sababu vyanzo vinaweza kuwa kweli au visiwe kweli. Kuna msemo unasema, "historia imeandikwa na washindi." Hii ni kwa sababu wale walioshindwa vita walishakufa, na hawakuweza kuandika ukweli wao wenyewe wa kile kilichotokea.
+
 ## Mateso na Smirna
 
-Smirna maana yake ni iliyopondwa. Hii inatokana na neno la msingi manemane. Mmea wa manemane inabidi upondwe pondwe ili utoe harufu yake ya marashi matamu (Ufunuo 2:8—11).
+Smirna maana yake ni iliyopondwa. Hii inatokana na neno la msingi manemane. Mmea wa manemane inabidi upondwe pondwe ili utoe harufu yake ya marashi matamu (Ufunuo 2:8—11). Inasemekana kwamba wakati Polycarp alikufa katika moto, kwamba kulikuwa na harufu nzuri.
 
 ### Injili inasimulia "taabu na umaskini"
 
@@ -36,7 +38,7 @@ Miungu wapya walikubalika chini ya utawala uliotukuza utamaduni wa kuabudumiungu
 
 ### Ibada za kuabudu sanamu ziliingizwa katika maisha ya jamii
 
-Sanamu zilijengwa katika nyumba nyingi na kutukuzwa. Mapicha yaliabudiwa kama miungu katika sherehe rasmi na shughuli nyingine za jamii. Wakristo ambao hawakukubalikushirikishwa katika ibada hizo za kipagani hawakuishi kwa amani na jamii hiyoya watu wasioamini Mungu.
+Sanamu zilijengwa katika nyumba nyingi na kutukuzwa. Mapicha yaliabudiwa kama miungu katika sherehe rasmi na shughuli nyingine za jamii. Wakristo ambao hawakukubalikushirikishwa katika ibada hizo za kipagani hawakuishi kwa amani na jamii hiyoya watu wasioamini Mungu. Kwa sababu Wakristo hawakushiriki katika sherehe ya ibada ya kipagani, watu wengi hawakufikiri kwamba waliabudu wakati wote na kwamba hawakuamini Mungu.
 
 ### Kuabudu Mfalme
 
@@ -44,11 +46,11 @@ Wakristo hawakubali wazo la kuabudu mfalme. Wakristo walimzungumzia Mfalme mwing
 
 ### Katika karne ya kwanza dini ya Yuda ilikuwa dhehebu rasmi iliyokuwaimeruhusiwa kuwepo katika himaya ya Kirumi
 
-Ukristo ulihesabiwa kama sehemu ya dini hiyo ya Yuda ambayo ilikuwa imeruhusiwa. Baada ya Yerusalemukuharibiwa mwaka wa 70 baada ya Kristo, Ukristo ulisimama peke yake bilakulindwa na sheria.
+Ukristo ulihesabiwa kama sehemu ya dini hiyo ya Yuda ambayo ilikuwa imeruhusiwa. Baada ya Yerusalemukuharibiwa mwaka wa 70 BK, Ukristo ulisimama peke yake bilakulindwa na sheria.
 
 ### Mikutano ya siri
 
-Wakristo walianza kufanya mikutano yao kwa siri ili kujilindawasikamatwe na asikofu wa ufalme na kuteswa. Mikutano hiyo ya siri iliwatiawasiwasi sana watawala. Wakristo walishutumiwa kwamba mikutano yao ya siri ilikuwa ni ya kupanga kuuangusha Ufalme wa Kirumi uliokuwa madarakani.
+Wakristo walianza kufanya mikutano yao kwa siri ili kujilindawasikamatwe na asikofu wa ufalme na kuteswa. Mikutano hiyo ya siri iliwatiawasiwasi sana watawala. Wakristo walishutumiwa kwamba mikutano yao ya siri ilikuwa ni ya kupanga kuuangusha Ufalme wa Kirumi uliokuwa madarakani. Kwa sababu ya Mlo wa Bwana na kuzungumza juu ya kula mwili wa Kristo, watu wengine walidhani kuwa walikuwa wachanga.
 
 ### Usawa katika kanisa
 
@@ -62,9 +64,9 @@ Kustawi kwa Ukristo kulisababisha biashara iliyokuwa na faidakubwa ya kutengenez
 
 ### Kanisa lilipitia katika vipindi kumi vya mateso makali chini yautawala wa Ufalme wa Kirumi
 
-"Nanyi mtakuwa na dhiki kwa siku kumi" (Ufunuo 2:10). Ukristo ulipigwa marufuku karne ya kwanza na ya pili. Kulikuwa namateso makali miaka ya mwanzo ya karne ya nne hadi mwaka wa 313 baada ya Kristowakati Hati ya Constantino ilipotolewa.
+"Nanyi mtakuwa na dhiki kwa siku kumi" (Ufunuo 2:10). Ukristo ulipigwa marufuku karne ya kwanza na ya pili. Kulikuwa namateso makali miaka ya mwanzo ya karne ya nne hadi mwaka wa 313 BKwakati Hati ya Constantino ilipotolewa.
 
-### Katika mwaka wa 303 baada ya Kristo Mfalme Diocletiani alianzishakipindi cha mateso makali sana kwa wakristo yaliyojulikana kama "Mateso Makuu"
+### Katika mwaka wa 303 BK Mfalme Diocletiani alianzishakipindi cha mateso makali sana kwa wakristo yaliyojulikana kama "Mateso Makuu"
 
 Hili lilikuwa ni jaribio la kuuondoa Ukristo katika uso wa duniahii. Inasemekana Diocletiani alijenga mnara ulioandikwa: Kwa kumbukumbuya kufukuzwa ushirikiana unaoitwa Ukristo. Wakristo wengiwalichomwa moto wakiwa hai kwa sababu ya ushuhuda wao. Wakristo walitupiwawanyama wakali ambao waliwararua na kuwala katika viwanja vya michezo. Wanyamahawa walikinai milo wa nyama za wanadamu na kuacha kuwashambulia. Asikofu waliochoka kuua watu wasiokuwa na hatia na wala hawakuwa na silaha walitupapanga zao mbali.
 
@@ -78,19 +80,21 @@ Inyasi alitupiwa wanyama wakali wamrarue katika kiwanja cha Coliseum. Akisimama 
 
 ### Shahidi Yustini 
 
-Shahidi Yustini alikuwa mwanafalsafa ambaye aliendeleakufundisha baada ya kuingia Ukristo. Aliandika vitabu vingi ambavyo vipo hadileo na vinatupatia taarifa nyingi za kipindi hicho. Mojawapo ya kazi zakemuhimu ni _Mazungumzo na Trypho_ maandiko yanayopinga madai yamuafaka na dini ya Yuda (Ufunuo 2:9).
+Shahidi Yustini alikuwa mwanafalsafa aliyekuwa Mkristo baada ya kukutana na mtu mzee ambaye alielezea jinsi Yesu alivyotimiza unabii wa Agano la Kale. Alikuwa mmoja wa watetezi wa kwanza, ambaye ni mtu aliyetumia sababu na mantiki ili kulinda imani yake. Aliandika vitabu vingi ambavyo vipo hadileo na vinatupatia taarifa nyingi za kipindi hicho. Mojawapo ya kazi zakemuhimu ni _Mazungumzo na Trypho_ maandiko yanayopinga madai yamuafaka na dini ya Yuda (Ufunuo 2:9).
 
-Yustini shahidi alikatwa kichwa huko Roma mwaka 165 baada ya Kristo. Maneno yake ya mwisho yalikuwa, "Mimi ni Mkristo, nimewekwa huru na Kristo na kwa wema wakeKristo ninapokea pigo hili kwa tumaini moja."
+Aliandika mara moja, "Unaweza kutuua, lakini huwezi  kutudhuru." Yustini shahidi alikatwa kichwa huko Roma mwaka 165 BK. Maneno yake ya mwisho yalikuwa, "Mimi ni Mkristo, nimewekwa huru na Kristo na kwa wema wakeKristo ninapokea pigo hili kwa tumaini moja."
 
 ### Polikarpi
 
-Polikarpi alikuwa asikofu wa Smirna katika Asia ndogo. Alifundishwa akiwa kijana na Mtume Yohane. Alikuwa mhudumu wa shupavu katikakizazi chake.
+Polikarpi alikuwa asikofu wa Smirna katika Asia ndogo. Alifundishwa akiwa kijana na Mtume Yohane. Alikuwa mhudumu wa shupavu katikakizazi chake. Wakati polisi walipokuja kumkamata, aliwapokea kama wageni. Aliwapa chakula na kuomba muda wa lisaa wa kuomba, lakini alitumia masaa mawili.
 
-Polikarpi akajibu, "Miakathemanini na sita nimemtumikia Kristo na hajanitendea kosa lolote; ni kwa ninibasi nimkufuru mfalme wangu na ambaye ameniokoa? Unanitishia kwa moto unaowakakwa saa moja na kuacha; lakini hujui moto wa hukumu ujao, na pia hufahamu motowa adhabu ya milele. Leta chochote kama utakavyo."
+Walimleta Polycarp kwa mtawala, ambaye alitishia kumchoma akiwa hai kwa moto kama hatamkana Kristo. Polikarpi akajibu, "Miakathemanini na sita nimemtumikia Kristo na hajanitendea kosa lolote; ni kwa ninibasi nimkufuru mfalme wangu na ambaye ameniokoa? Unanitishia kwa moto unaowakakwa saa moja na kuacha; lakini hujui moto wa hukumu ujao, na pia hufahamu motowa adhabu ya milele. Leta chochote kama utakavyo."
+
+Mtawala huyo alimsihi akisema, "Akae mbali na wasioamini Mungu!" (akimaanisha Wakristo), ili waweze kumruhusu awe huru. Polycarp aliugeukia umati uliokuwa unatazama huku akisema kaa mbali na wasioamini kwa sababu hakuweza kupingana na imani yake ya kikristo, aliteketezwa akiwa hai huko Smyrna mwaka wa 155 BK. Polycarp ilikuwa kiungo cha mwisho kwa Kanisa la Mitume.
 
 ### Ireneusi
 
-Ireneusi alikuwa mwanafunzi wa Polikarpi. Baadayealikuwa askofu wa Lionsi (huko Gaul) mwaka 177 baada ya Kristo. Alisisitizakanuni za msingi za Ukristo ambazo zilipingwa na Waagnosti.
+Ireneusi alikuwa mwanafunzi wa Polikarpi. Baadayealikuwa askofu wa Lionsi (huko Gaul) mwaka 177 BK. Alisisitizakanuni za msingi za Ukristo ambazo zilipingwa na Waagnosti. Wagnostiki waliamini "maarifa ya siri" ambayo waamini wachache tu wangepokea, lakini Irene aliwakumbusha kwamba Mitume walifundishwa waziwazi na si kwa siri. Baadhi ya maandiko yake bado yanakuja leo.
 
 ### Origin
 
@@ -98,7 +102,7 @@ Ireneusi alikuwa mwanafunzi wa Polikarpi. Baadayealikuwa askofu wa Lionsi (huko 
 
 ### Simeoni
 
-Simeoni alikuwa kiongozi wa kanisa la Jerusalem baada ya Yakobo. Alisulubiwa msalabani kwa amri ya Gavana wa Kirumi wa Palestina mwaka 107 baada ya Kristo wakati wa utawala wa Trajani.
+Simeoni alikuwa kiongozi wa kanisa la Jerusalem baada ya Yakobo. Alisulubiwa msalabani kwa amri ya Gavana wa Kirumi wa Palestina mwaka 107 BK wakati wa utawala wa Trajani.
 
 ### Blandina
 
@@ -106,7 +110,7 @@ Blandina alikuwa msichana Mkristo aliyekuwa mtumwa ambayealiteswa tangu asubuhi 
 
 ### Perpetua na Felista
 
-Alikuwa ni mwanamke mwadilifuwa Kartago, Perpetua na mtumwa wake Felisita waliuawa na wanyama wakali mwaka 203 baada ya Kristo.
+Alikuwa ni mwanamke mwadilifuwa Kartago, Perpetua na mtumwa wake Felisita waliuawa na wanyama wakali mwaka 203 BK.
 
 ## Uundajiwa kanuni za agano Jipya
 
@@ -114,7 +118,7 @@ Neno _kanuni_ lina maana "ya fimbo, sheria, au kifaa cha kupimia."
 
 Inahusu vitabu vya Biblia ambavyovinatumbuliwa kama vifaa vya utukufu wa Mungu kwa asili yake (vilivyopumuliwana Mungu) na vikajumlishwa katika Biblia kama sehemu yake.
 
-Hakuna tarehe maalumu ambazo zinatambuliwa kama rasmi ambazo rasimu ya Agano Jipya ilipatikana lakini haiwezi ikawekwa mapema zaidi yamwaka wa 300 baada ya Kristo.
+Hakuna tarehe maalumu ambazo zinatambuliwa kama rasmi ambazo rasimu ya Agano Jipya ilipatikana lakini haiwezi ikawekwa mapema zaidi yamwaka wa 300 BK.
 
 ## Mafundisho ya uwongoyalizuka kipindi hiki
 
