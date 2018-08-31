@@ -60,19 +60,25 @@ Kanuni za imani zilikuwa ni kikwazo katika kuieneza Injilindani ya mataifa ya ki
 
 ### William Carey (Uhindi)
 
-Carey ni baba wa Umisionari wa kisasa. Aliunda jumuiya yakwanza ya wamisionari. Yeye alikuwa ndiye mmisionari wa kwanza aliyesafiri nchiza ng'ambo kwa lengo la kueneza injili kwa mataifa ya kipagani. Huyu ndiye mmisionariwa kwanza kufika nchini Uhindi.
+William Carey (1761&ndash;1834) ni baba wa Umisionari wa kisasa. Alikuwa Mwingereza mwenye maskini. Kwa mara ya, alitembea kilomita 13 kila Jumapili kuhubiri kanisani. Alijaribu kuwashawishi watu kwenda kuhubiri katika nchi nyingine, lakini wakasema, "Ikiwa Mungu anataka kuokoa wapagani, atafanya hivyo, bila msaada wako au wangu."
+
+Alikwenda kwa Uhindi kwa 1793. Huyu ndiye misionariwa kisasa kwanza aliwasili nchini India. Huko, hakuona waongofu kwa miaka saba. Hakuwa na muda mwingi akilaani dini ya Hindu, lakini badala yake alitumia wakati wake akizungumza juu ya Yesu, kifo chake, na Ufufuo Wake. Yeye alikuwa ndiye mmisionari wa kwanza aliyesafiri nchiza ng'ambo kwa lengo la kueneza injili kwa mataifa ya kipagani. Huyu ndiye mmisionariwa kwanza kufika nchini Uhindi. Maneno mazuri ya yake ni, "Anatarajia mambo makuu kutoka kwa Mungu, jaribu mambo makuu kwa Mungu."
 
 ### Adoniramu Judsoni (Burma)
 
-Judsoni alikuwa mmisionari wa kwanza kutoka Amerika kwendakueneza injili nchi za mbali. Alifika nchini ya Burma mwaka 1812 kuhubiriinjili. Alitafsiri Biblia kamili kwa lugha ya Burma.
 
-### Daudi Livingstone(Afrika)
 
-Anaelezwa kama mtafuta njia barani Afrika. Alijitoleakusafiri hadi ndani kabisa ya bara la Afrika ambako hakukuwa na mzungu yeyotealiyekwisha fika huko kabla yake. Alifungua vituo vya misheni na alifanyamengi kuinadi injili barani Afrika.
+### Daudi Livingstone (Afrika)
+
+Anaelezwa kama mtafuta njia barani Afrika. Alijitoleakusafiri hadi ndani kabisa ya bara la Afrika ambako hakukuwa na mzungu yeyotealiyekwisha fika huko kabla yake. Alitumikia miongoni mwa watu wa Tswana kwa miaka kumi, lakini aliona mtu mmoja tu aliyebadilishwa. Alifungua vituo vya misheni na alifanyamengi kuinadi injili barani Afrika.
 
 ### Hadsoni Taylor (Uchina)
 
-Alianzisha kituo cha Misioni ndani ya Uchina na kikundichake kilihubiri injili hadi katikati ya nchi hiyo. Aliwaweka wamisionari 849 vituoni na kuanzisha vituo vya wamisionari 205.
+Alianzisha kituo cha Misioni ndani ya Uchina na kikundichake kilihubiri injili hadi katikati ya nchi hiyo. Alikua ndevu, alikua nywele zake kwa muda mrefu, na yeye kusuka nywele zake, ambao ulikuwa mtindo wa wanaume nchini China wakati huo.
+
+Aliwaweka wamisionari 849 vituoni, kuanzisha vituo vya wamisionari 205, na jamii yake ya umishonari ilikuwa na waongofu 125,000 kwa Ukristo.
+
+**Majadiliano**: Je, wamishonari husaidia au kuumiza watu wa ndani?
 
 ## Uamsho wa Mtaa wa Azuza
 

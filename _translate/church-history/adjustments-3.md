@@ -104,3 +104,12 @@ On August 23 the king decided that all the Huguenots should be killed, and on Au
 
 500:173
 **Discussion**: When is it good to separate from others that believe different than you? Should we fellowship with people who believe differently than us?
+
+600:69
+He got married on February 5, 1812, and within two weeks they were sailing for India from the United States. They started the trip working under the Congregationalists, but because Adoniram thought that the Congregationalists were wrong about baptism, he convinced his with and another partner that was with them to become Baptists. He sent a letter of resignation when they arrived in India. The partner took the letter back, and went to try to raise money from the Baptists.
+
+The government of India would not let them stay, and William Carey suggested that they should go to Burma. When they arrived in Burma, they started learning the language, opened a school for girls, and translated the New Testament. It was six years before they had their first convert. Adoniram spent two years in prison. Adoniram's wife, Ann, died at age 36. Judson established 63 churches, mostly among the Karen tribe.
+
+600:79
+He said that, "It is not their denationalization, but their Christianization that we seek."
+

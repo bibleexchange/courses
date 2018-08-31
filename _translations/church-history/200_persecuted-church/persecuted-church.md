@@ -48,7 +48,7 @@ Ukristo ulihesabiwa kama sehemu ya dini hiyo ya Yuda ambayo ilikuwa imeruhusiwa.
 
 ### Mikutano ya siri
 
-Wakristo walianza kufanya mikutano yao kwa siri ili kujilindawasikamatwe na askari wa ufalme na kuteswa. Mikutano hiyo ya siri iliwatiawasiwasi sana watawala. Wakristo walishutumiwa kwamba mikutano yao ya siri ilikuwa ni ya kupanga kuuangusha Ufalme wa Kirumi uliokuwa madarakani.
+Wakristo walianza kufanya mikutano yao kwa siri ili kujilindawasikamatwe na asikofu wa ufalme na kuteswa. Mikutano hiyo ya siri iliwatiawasiwasi sana watawala. Wakristo walishutumiwa kwamba mikutano yao ya siri ilikuwa ni ya kupanga kuuangusha Ufalme wa Kirumi uliokuwa madarakani.
 
 ### Usawa katika kanisa
 
@@ -66,15 +66,15 @@ Kustawi kwa Ukristo kulisababisha biashara iliyokuwa na faidakubwa ya kutengenez
 
 ### Katika mwaka wa 303 baada ya Kristo Mfalme Diocletiani alianzishakipindi cha mateso makali sana kwa wakristo yaliyojulikana kama "Mateso Makuu"
 
-Hili lilikuwa ni jaribio la kuuondoa Ukristo katika uso wa duniahii. Inasemekana Diocletiani alijenga mnara ulioandikwa: Kwa kumbukumbuya kufukuzwa ushirikiana unaoitwa Ukristo. Wakristo wengiwalichomwa moto wakiwa hai kwa sababu ya ushuhuda wao. Wakristo walitupiwawanyama wakali ambao waliwararua na kuwala katika viwanja vya michezo. Wanyamahawa walikinai milo wa nyama za wanadamu na kuacha kuwashambulia. Askari waliochoka kuua watu wasiokuwa na hatia na wala hawakuwa na silaha walitupapanga zao mbali.
+Hili lilikuwa ni jaribio la kuuondoa Ukristo katika uso wa duniahii. Inasemekana Diocletiani alijenga mnara ulioandikwa: Kwa kumbukumbuya kufukuzwa ushirikiana unaoitwa Ukristo. Wakristo wengiwalichomwa moto wakiwa hai kwa sababu ya ushuhuda wao. Wakristo walitupiwawanyama wakali ambao waliwararua na kuwala katika viwanja vya michezo. Wanyamahawa walikinai milo wa nyama za wanadamu na kuacha kuwashambulia. Asikofu waliochoka kuua watu wasiokuwa na hatia na wala hawakuwa na silaha walitupapanga zao mbali.
 
 ## Mashahidi muhimu na viongozi wa makanisa ya liyoteseka
 
 ### Inyasi 
 
-Inyasi alikuwa askari wa Antiokia huko Syria. Huyu likuwa ni mwanafunzi wa mtume Yohane aliyekuwa mhubiri shupavu wa injili.
+Inyasi alikuwa asikofu wa Antiokia huko Syria. Huyu likuwa ni mwanafunzi wa mtume Yohane aliyekuwa mhubiri shupavu wa injili.
 
-Inyasi alitupiwa wanyama wakali wamrarue katika kiwanja cha Coliseum. Akisimama katika uwanja huo wakati wanyama wakali wanamsogelea, Inyasi alisali ifuatavyo, "Nakushukuru ee Bwaba kwa kuwa wewe umenitoa mimi ilinitukuke. Mimi ni punje ya Mungu ambaye nitasagiwa katikati ya meno ya wanyamawakali ili niwe mkate mtakatifu wa Bwana."
+Inyasi alitupiwa wanyama wakali wamrarue katika kiwanja cha Coliseum. Akisimama katika uwanja huo wakati wanyama wakali wanamsogelea, Inyasi alisali ifuatavyo, "Nakushukuru ee Bwana kwa kuwa wewe umenitoa mimi ilinitukuke. Mimi ni punje ya Mungu ambaye nitasagiwa katikati ya meno ya wanyamawakali ili niwe mkate mtakatifu wa Bwana."
 
 ### Shahidi Yustini 
 
@@ -84,7 +84,7 @@ Yustini shahidi alikatwa kichwa huko Roma mwaka 165 baada ya Kristo. Maneno yake
 
 ### Polikarpi
 
-Polikarpi alikuwa askari wa Smirna katika Asia ndogo. Alifundishwa akiwa kijana na Mtume Yohane. Alikuwa mhudumu wa shupavu katikakizazi chake.
+Polikarpi alikuwa asikofu wa Smirna katika Asia ndogo. Alifundishwa akiwa kijana na Mtume Yohane. Alikuwa mhudumu wa shupavu katikakizazi chake.
 
 Polikarpi akajibu, "Miakathemanini na sita nimemtumikia Kristo na hajanitendea kosa lolote; ni kwa ninibasi nimkufuru mfalme wangu na ambaye ameniokoa? Unanitishia kwa moto unaowakakwa saa moja na kuacha; lakini hujui moto wa hukumu ujao, na pia hufahamu motowa adhabu ya milele. Leta chochote kama utakavyo."
 

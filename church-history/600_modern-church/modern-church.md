@@ -32,15 +32,15 @@ The world was his parish. He preached to thousands of people in the open air. He
 
 ### Jonathan Edwards (1703&mdash;1758)
 
-He became a pastor in Northampton, MA at the age of 17. In 1741 he read his famous sermon entitled "Sinners in the Hands of an Angry God" to his congregation. Great conviction fell on the congregation while they were preaching and revival spread throughout New England.
+He became a pastor in Northampton, Massachusetts at the age of 17. In 1741 he read his famous sermon entitled "Sinners in the Hands of an Angry God" to his congregation. Great conviction fell on the congregation while they were preaching and revival spread throughout New England.
 
 ## The Second Great Awakening (1820's)
 
 This was another mighty move of God revival fires spread also into England.
 
-### Charles Finney was in the forefront of a great American revival
+### Charles Finney
 
-In the early 1820's Finney preached Gospel meetings in NY that stirred a second flame of revival fires. Finney was a man of faith and a fiery evangelist of the Gospel. Finney has been referred to as "America's foremost evangelist."
+Charles Finney was in the forefront of a great American revival. In the early 1820's Finney preached Gospel meetings in NY that stirred a second flame of revival fires. Finney was a man of faith and a fiery evangelist of the Gospel. Finney has been referred to as "America's foremost evangelist."
 
 ### D. L. Moody
 
@@ -60,19 +60,25 @@ Doctrinal beliefs formerly hindered the evangelizing of heathen nations. The Cal
 
 ### William Carey (India)
 
-Carey is the father of the modern missionary movement. He formed the first missionary society. He was the first modern missionary that went to a foreign country for the purpose of evangelizing a heathen nation. He was the first missionary to India.
+William Carey (1761&ndash;1834) is the father of the modern missionary movement. He was a poor Englishman. For a time, he walked 8 miles each Sunday to preach to a church. He tried to convince people to go preach in other countries, but they said, "If God wants to save the heathen, He will do so, without your help or mine."
+
+He sailed for India in 1793. He was the first modern missionary to India. There, he saw no converts for seven years. He did not spend much time condemning the Hindu religion, but instead spent his time speaking about Jesus, His death, and His Resurrection. He was the first modern missionary that went to a foreign country for the purpose of evangelizing a heathen nation. He also formed the first missionary society. A famous saying of his is, "Expect great things from God; attempt great things for God."
 
 ### Adoniram Judson (Burma)
 
-Judson was the first American oversees missionary. He went to Burma in 1812 to preach the Gospel. He translated the entire Bible into Burmese.
+{++He got married on February 5, 1812, and within two weeks they were sailing for India from the United States. They started the trip working under the Congregationalists, but because Adoniram thought that the Congregationalists were wrong about baptism, he convinced his with and another partner that was with them to become Baptists. He sent a letter of resignation when they arrived in India. The partner took the letter back, and went to try to raise money from the Baptists.
+
+The government of India would not let them stay, and William Carey suggested that they should go to Burma. When they arrived in Burma, they started learning the language, opened a school for girls, and translated the New Testament. It was six years before they had their first convert. Adoniram spent two years in prison. Adoniram's wife, Ann, died at age 36. Judson established 63 churches, mostly among the Karen tribe.++}
 
 ### David Livingstone (Africa)
 
-He is referred to as the pathfinder of Africa. He pioneered the interior of Africa were white man had never gone before. He established missionary stations and did much to promote the Gospel in Africa.
+He is referred to as the pathfinder of Africa. He pioneered the interior of Africa were white man had never gone before. He ministered among the Tswana people for ten years, but he saw only one convert. He established missionary stations and did much to promote the Gospel in Africa.
 
 ### Hudson Taylor (China)
 
-He founded China Inland Mission a Missionary group that concentrated on spreading the Gospel far into the interior of China. He planted 849 missionaries and started 205 mission stations.
+He founded China Inland Mission a Missionary group that concentrated on spreading the Gospel far into the interior of China. He grew a beard and wore his hair long in a ponytail, which was the style of men in China at the time. He also wore the clothes of the native people of China. {++He said that, "It is not their denationalization, but their Christianization that we seek."++} He planted 849 missionaries, started 205 mission stations, and his missionary society had 125,000 converts to Christianity.
+
+**Discussion**: Are missionaries helpful or harmful to local people?
 
 ## The Azusa Street Revival
 

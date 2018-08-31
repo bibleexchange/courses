@@ -1,4 +1,4 @@
-# Saba: Kanisa la Laodeshia
+# Saba: Kanisa la Baada ya Kisasa
 
 (Kuanzia mwaka wa 1950 wa Kristohadi leo)
 
@@ -22,11 +22,7 @@ Maneno _Wainjilishaji wapya_ lilikuwa ni maneno yaliyoshirikishwa kuelezea wale 
 
 Wainjlishaji wapyawanaamini kwamba kuna makosa katika Biblia. Wengine wanakataa Umungu wa Kristo. Wamewekea dhambi muafaka kisha wakaingiza mambo ya kidunia katika vituvinavyomhusu Mungu.
 
-### Billy Graham akawa ndiye msemaji wa wimbi hili la uhuru na muafaka
-
-Aliwatakawapendao uhuru na maelewano wadhamini matamasha ya kidini kwa ushirika pamojana wasiopenda mabadiliko. Alianzisha sera ya kuchanganya injili pamoja na mamboya dunia zaidi kuliko kuyatenganisha na injili ya Mungu. Kulikuwa na wanamzikiwa kidunia ambao waliimba nyimbo za injili kuburudisha watu katika mikutano yakidini. Kulikuwa na uhusiano wa karibu na Wakatoliki katika mikutano hiyo yakidini. Amekuwa akiueleza Ukatoliki kama ndugu zetu wa Katoliki.
-
-## Kanisa la waongo na karisma
+## Kanisa la karisma
 
 Roho ya ukarismatiki wa kisasa niya uongo.
 
@@ -39,8 +35,6 @@ Yesu alikwishaonya kwamba watatokea waongo watakaojiita Kristo katika siku za mw
 Yesualisema watakwepo manabii wa uongo ambao watadanganya wengi. Kati yawanakarismatiki wa siku hizi kuna manabii wengi wa uongo. Wanaondoa tendo laupako wa mafuta unaofanywa na Roho Mtakatifu na kutumia lugha ya ushawishi nakufanya kazi hiyo chini ya nguvu za giza.
 
 ### Vuguvugu la ukarismatiki lilianzia ndani ya Kanisa Katoliki
-
-Lilielezwakama uamsho wa karismatiki na ukapata mwanzo wake ndani ya ukatoliki wa Roma.Huu ulikuwa ni ulaghai uliodhihirika wa kuongea kwa ndimi nyingi kwa wale ambaowalikuwa bado wanaamini kanuni ya uwongo ya Kiroma. Hii ni roho ya uwongo yakidini.
 
 ## Kanisa la anasa na rushwa
 

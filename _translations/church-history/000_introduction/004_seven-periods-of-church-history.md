@@ -16,7 +16,7 @@ MWANZO: Tangu sikuya Pentekoste mwaka wa 30 baada ya Kristo
 
 MWISHO: Hadikukamilishwa kwa Agano Jipya kwenye mwaka wa 100 BK
 
-Kipindi cha kwanzatutakachojifunza ni kipindi cha Mitume ambacho kina uwiano na kanisa la Efeso. Neno Efeso maana yake ni inayovutia. Efeso inaelezewa kama kanisa la mfano.Yesu anayatia makanisa moyo na kuyapa yote maagizo. Yesu anasema mambo mazuri sana kuyahusu makanisa na maelezo yake ni ya kuvutia (Ufunuo 2:1&ndash;7). Yesuanakemea kanisa hili na kuwaambia kwamba kanisa limeacha upendo wake wa kwanza. Kanisa la mwanzo halikuwa na mwelekeo wa kimisionari. Kulikuwa hakuna upendokwa roho za wanadamu. Mungu aliruhusu mateso kwa walioamini na matokeo yake walitawanyika na kusambaza Injili katika eneo kubwa.
+Kipindi cha kwanzatutakachojifunza ni kipindi cha Mitume ambacho kina uwiano na kanisa la Efeso. Neno Efeso maana yake ni inayovutia. Efeso inaelezewa kama kanisa la mfano. Yesu anayatia makanisa moyo na kuyapa yote maagizo. Yesu anasema mambo mazuri sana kuyahusu makanisa na maelezo yake ni ya kuvutia (Ufunuo 2:1&ndash;7). Yesuanakemea kanisa hili na kuwaambia kwamba kanisa limeacha upendo wake wa kwanza. Kanisa la mwanzo halikuwa na mwelekeo wa kimisionari. Kulikuwa hakuna upendokwa roho za wanadamu. Mungu aliruhusu mateso kwa walioamini na matokeo yake walitawanyika na kusambaza Injili katika eneo kubwa.
 
 ### KANISALA MATESO — Smirna — "lililopondwa"
 
@@ -30,7 +30,7 @@ Kipindi chamateso kina uwiano na kanisa la Smirna. Neno Smirna maana yake iliyog
 
 MWANZO: Kuanzia kutolewa kwa Hatiya Constantino mwaka 313 baadaya Kristo
 
-MWISHO: Hadi anguko la Roma mwaka 476 ya Kristo.
+MWISHO: Hadi anguko la Roma mwaka 476 ya Kristo
 
 Neno la Ufalmelinahusiana na mfalme au mtawala. Kipindi cha kifalme kina uwiano na kanisa la Pergamo. Hiki ni kipindi ambacho mfalme alikuwa na ushawishi mkubwa sana ndani kanisa. Neno Pergamo maana yake ni lililoolewa. Hiki ni kipindi ambacho kanisalilianza kuelewana na wasioamini. Kanisa liliolewa na upagani. Jina la kanisa hili linaelezea hali muafaka iliyokuwepo wakati huo. Huu upagani baadayeuligeuka ukawa kanisa la Katoliki la Roma. Hatutajifunza historia ya kanisa Katoliki ila tutaangalia jinsi gani hali hiyo ilivyoathiri kanisa la kweli.
 
@@ -46,7 +46,7 @@ Zipo semi nyingiza kihistoria ambazo zitatumika katika somo hili. Zama za enzi z
 
 MWANZO: Tangu anguko la Constantinipomwaka 1453 baada ya Kristo
 
-MWISHO: Hadi mwisho wavita vya miaka 30 mwaka 1678 — Baada ya Kristo.
+MWISHO: Hadi mwisho wavita vya miaka 30 mwaka 1678 — Baada ya Kristo
 
 Kipindi hikikina uwiano na kanisa la Sardi. Neno Sardi maana yake ni mabaki. Bado kulikuwana waliobaki wakimhudumia Mungu. Yesu aliwaambia waimarishe vitu vilivyobakia.Huu ni wakati ambao Mungu aliwatumia watu kama Martin Luther kusimamia nakupigana na wimbi la ukatoliki na walihubiri kwamba wenye haki wataishi kwaimani yao. Mungu aliamsha wanaume katika eneo lote la Ulaya ili wakulirudisheneno la Mungu kanisani. Kipindi cha Zama za Enzi za Kati kilikuwa cha giza. Hata dunia inakikumbuka kipindi hicho kama enzi za giza. Mungu aliwasha taa yake.Mwanga huo ndio ulioiondoa Ulaya katika enzi za giza.
 
@@ -54,15 +54,15 @@ Kipindi hikikina uwiano na kanisa la Sardi. Neno Sardi maana yake ni mabaki. Bad
 
 MWANZO: Kuanzia mwisho wa vita ya miaka30 mwaka 1678 baada ya Kristo
 
-MWISHO: Hadi katikakarne ya ishirini miaka ya 1950 baada ya Kristo.
+MWISHO: Hadi katikakarne ya ishirini miaka ya 1950 baada ya Kristo
 
 Kipindi chakisasa kinao uhusiano na kanisa la Philadelfia. Neno Philadelfia maana yake niupendo wa kindugu. Hiki ni kipindi cha uamsho wa hali ya juu na umisionariulioenea sehemu nyingi. Hadi kufikia kipindi hiki kulikuwa hakuna jitihadamahususi zilizofanyika za kuieneza Injili duniani kote. Wakati huu ndio DavidLivingstone alianzisha vituo vingi vya umisionari katika bara la Afrika.
 
-### KANISA LA LAODESHI— Laodikia — "utawala wa watu"
+### KANISA LA BAADA YA KISASA — Laodikia — "utawala wa watu"
 
-MWANZO: Kwanzia karne ya ishirini miakaya 1950 baada ya Kristo.
+MWANZO: Kwanzia karne ya ishirini miakaya 1950 baada ya Kristo
 
-MWISHO: Hadi siku yaleo.
+MWISHO: Hadi siku yaleo
 
 Tunatumia jinala Biblia kukielezea kipindi hiki. Neno Laodikia lina maana ya utawala wa watu.Siku hizi makanisa mengi yanaendeshwa na watu na siyo wachungaji. Kipindi hikikinaelezwa vizuri zaidi katika jina lake — utawala wa watu. Yesu alilielezeakanisa hili kama ambalo ni vuguvugu. Hali halisi ya kanisa hili kwa ujumla kama liko vuguvugu kali.
 
@@ -82,4 +82,4 @@ KANISA LILILOTENGENEZWA — Sardi — Mabaki
 
 KANISA LA KISASA — Philadelfia — upendo wa kindugu
 
-KANISA LALAODESHI — Laodeshia — utawala wa walei — watu
+KANISA BAADA YA KISASA — Laodeshia — utawala wa walei — watu

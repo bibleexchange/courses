@@ -58,7 +58,7 @@ END: To the Twentieth Century AD 1950's
 
 The Modern period corresponds to the Philadelphia church. The word _Philadelphia_ means "brotherly love." This was a period of great revivals and missionary outreach. Up until this time there was never a concentrated effort to reach the world with the Gospel. It takes a great love of souls to travel to a foreign land and preach the Gospel. It was during this time that David Livingstone set up many missionary stations on the continent of Africa.
 
-#### THE LAODICEAN CHURCH&mdash;Laodicea&mdash;&quot;rule by the people&quot;
+#### THE POSTMODERN CHURCH&mdash;Laodicea&mdash;&quot;rule by the people&quot;
 
 START: From the Twentieth Century AD 1950's
 
@@ -76,4 +76,4 @@ We will study each of these periods individually. This chapter was only an overv
 4. THE MEDIEVAL CHURCH&mdash;Thyatira&mdash; continual sacrifice
 5. THE REFORMED CHURCH&mdash;Sardis&mdash;remnant
 6. THE MODERN CHURCH&mdash;Philadelphia&mdash;brotherly love
-7. THE LAODICEAN CHURCH&mdash;Laodicea&mdash;rule by the laity/people
+7. THE POSTMODERN CHURCH&mdash;Laodicea&mdash;rule by the laity/people
