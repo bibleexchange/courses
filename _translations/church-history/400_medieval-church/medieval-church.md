@@ -40,6 +40,8 @@ Kipindi cha karne ya 5 mpaka ya 15 huitwa kipindi cha karne ya 5 mpaka karne ya 
 
 Kulikuwa na umakini naushirikina ulioijaza nchi. Washenzi walivamia Ulaya na kuua watu wengi. Palitokea pia vifo vilivyotokana na ugonjwa wa mtoki ambao ulienea katika baralote.
 
+**Mazungumzo**: Je, Mungu bado hutumia hukumu ili kuwaadhibu watu?
+
 #### Mwangawa neno la Mungu ulipotea katika jamii
 
 Enzi za zama za giza zililetwa na kuondolewa kwa Biblia mikononimwa watu. Kanisa Katoliki lilifundisha kwamba ni wachungaji tu ndio wanaowezakuitafsiri Biblia. Watu wa kawaida walikatazwa kusoma Biblia, Biblia ilikuwakatika lugha yake ya mwanzo au katika lugha ya Kilatini ambayo ni watuwachache waliokuwa wanaielewa hata kama walitaka kujisomea wenyewe.
@@ -70,7 +72,9 @@ Roma iliweza kuwashauri watawala wa Ulaya kuongoza vita hivyo vyakidini. Wakatol
 
 #### Askariwalishindwa kuichukua nchi takatifu kutoka udhibiti wa waislam
 
-{++}
+### Mgawanyo wa mashariki-magharibi
+
+Orodha zifuatazo zinaonyesha baadhi ya tofauti kati ya makanisa ya mashariki na magharibi:
 
 | Mashariki                      | Magharibi                       |
 | ------------------------------ | ------------------------------- |
@@ -81,7 +85,7 @@ Roma iliweza kuwashauri watawala wa Ulaya kuongoza vita hivyo vyakidini. Wakatol
 | Walikuwa na sherehe tofauti za Misa                             ||
 | Walikuwa na tofauti za Mafundisho                               ||
 
-{++}
+Papa Leo IX alimtaka Michaeli, baraza la Constantinopo, kutengana naye. Papa alituma wawakilishi kwa Constantinopo, lakini Mikaeli alikataa kukutana naye. Wawakilishi walimkataa Mikaeli kuongea naye na yeye kukataa kuongea nao.
 
 ## Kanisa la Zama za Enzi za kati
 
@@ -99,8 +103,34 @@ Walipata jina lao kumuenzi kiongozi wao aliyeitwa Perto Waldoambaye alitafsiri B
 
 #### Yohane Wykliffe
 
-Yohane Wykliffe (1330—1384) alikuwa mtu wa kwanza kutafsiri Biblia kwa kiingereza. Anakumbukwa kama nyota ya asubuhi wa mageuzi. Alipingana sana na kanisa katoliki na akayakataa mamlaka ya Papa. Huyuangeuawa na kanisa katoliki kama mabwenyenye wa Uingereza hawakumpatia ulinzi. Mahubiri ya Wykliffe na tafsiri ya Biblia iliandalia njia ya mageuzi. Wakatoliki walimchukia sana Wyklif kiasi kwamba alipokufa waliutoa mwili wakekaburini miaka mingi baada ya kuzikwa na kuudhihaki.
+Yohane Wykliffe (1330—1384) alikuwa mtu wa kwanza kutafsiri Biblia kwa kiingereza. Anakumbukwa kama nyota ya asubuhi wa mageuzi. Alikuwa na wafuasi, waliyekuwa wanaitwa _lollards_, ikiwa na maana ya "wahubiri maskini." Alipingana sana na kanisa katoliki na akayakataa mamlaka ya Papa. Huyuangeuawa na kanisa katoliki kama mabwenyenye wa Uingereza hawakumpatia ulinzi. Mahubiri ya Wykliffe na tafsiri ya Biblia iliandalia njia ya mageuzi. Wakatoliki walimchukia sana Wyklif kiasi kwamba alipokufa waliutoa mwili wakekaburini miaka mingi baada ya kuzikwa na kuudhihaki. Zifuatazo ni baadhi ya mambo aliyoyauliza juu ya kanisa:
+
+* Haki za kasani kwa wagonjwa na utajiri
+* Kuuza mali za kanisaa
+* Ibada ya Watakatifu na vifaa vilivyo tumika
+* Mamlaka ya papa
+* Kugeuka asili ya mwili na damu ya Yesu katika ushirika Mtakatifu.
 
 #### Yohane Huss
 
-Yohane Huss (1369—1415) alikuwa msomi wamaandiko ya Wykliffe na alisimamia ukweli wa neno la Mungu. Alikataa kabisamamlaka ya Papa. Alihukumiwa kama muasi na alichomwa katikamchi kwa amri ya Baraza la kanisa Katoliki.
+Yohane Huss (1369—1415) alikuwa msomi wamaandiko ya Wykliffe na alisimamia ukweli wa neno la Mungu. Alikataa kabisamamlaka ya papa. Alisisitiza kwamba Kristo pekee ndiye alikuwa kichwa cha kanisa na Mungu pekee ndiye asameheaye dhambi. Alipopelekwa mbele ya baraza kwenda kuulizwa maswali kuhusu imani yake, alisema, "Mimi sikuwa mhudumu mkuu dhahabu hujionyesha kutokana na ukweli." Alihukumiwa kama muasi na alichomwa katikamchi kwa amri ya Baraza la Kanisa Kikatoliki.
+
+#### Bonifasi
+
+Bonifasi alizaliwa katika 680 BK. Jina lake alilozaliwa nayo lilikuwa _Winfred_. Alifundishwa kama mtauwa wa Benedicto, na alitumia maisha yake mengi kama mmishenari kwa Wajerumani.
+
+Wahenga walisema kwamba ukichukua shoka kuuendea mti uliyesimama kuusulubu kwa  ngurumo ya mungu, ile radi itaupiga mti na utaanguka chini.
+
+#### Charlemagne
+
+Charlemagne alichukua kiti cha enzi 771 BK. Siku ya Christmas miaka 800, papa alimwita yeye mtawala. Tena alikuwa mtawala wa Wakristo. Bado maswali yalikuwepo juu ya kanisa au serikali ndiyo itakayekuwa na kiongozi mkuu.
+
+#### Anselm
+
+Anselm alizaliwa kati ya 1033 BK. Mwaka 1903 William II, mwana wa William mshindi, alimfanya Anselm kuwa Mkuu wa maaskofu wa Canterbury, lakini alitaka kuweka nguvu kwa kumtaja CLergy. Anselm alikataa kumwachia William mamlaka haya, na yaliyotokea, yeye alitumia muda wake uhamishoni.
+
+Henry I, kaka wa William wa II, alichukua nafasi baada ya kaka yake kufa, na alimwomba Anselm kurudi. Anselm hakuwa kiongozi kwa muda mrefu, angalau, na alienda kuishi uhamishoni tena. Aliweza kuandika mengi kwa kipindi hiki huko uhamishoni. 
+
+#### Thomasi Aquinas
+
+Thomasi Aquinas alizalwa 1225 BK. Yawezekana alikuwa mwanatheolojia mkuu wa zama za kati. Yeye alisema sababu (zilizohusu wana falsafa wa zaman) katika theolojia yake.

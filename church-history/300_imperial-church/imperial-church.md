@@ -58,13 +58,11 @@ The temples of the God s had been supported by the public treasury. This money w
 
 The Clergy became a wealthy class. Men desired these positions for the monetary gain and power associated with the position.
 
-### Some parts of pagan worship was adopted by the church
+### Some parts of pagan worship were adopted by the church
 
-{++
 Over time, there were some practices from the pagan Roman culture that became a part of the church. Some of the Roman gods are similar to the saints that the Catholic church prays to. Some people see similarity between the images and statues of Mary holding baby Jesus the Roman statues depicting Fortuna and Jupiter. There are some Christians who do not like to celebrate Christmas because the holiday has its roots in the pagan Roman holiday of Saturnalia.
 
 Some people will say that Constantine started the Roman Catholic Church, but it must be remembered that traditions and beliefs of what the Catholic Church is in our day evolved over many years from what the church was in Constantine's time.
-++}
 
 ## Fall of the Western Roman Empire
 
@@ -86,7 +84,7 @@ This would become the Holy Roman Empire of the Middle Ages (AD 500&ndash;1500).
 
 ### Athanius (AD 296&ndash;373)
 
-He was a defender of the faith in the Arian controversy. Arius the leader of this false teaching did not believe in the Biblical doctrine of The Trinity. He became bishop of Alexandria in AD 325. {++In AD 367 he wrote a letter recognizing the N. T. cannon that we use today.++} He was exiled five times for his stand against Rome.
+He was a defender of the faith in the Arian controversy. Arius the leader of this false teaching did not believe in the Biblical doctrine of The Trinity. He became bishop of Alexandria in AD 325. In AD 367 he wrote a letter recognizing the N. T. cannon that we use today. He was exiled five times for his stand against Rome.
 
 ### John Chrysostom (AD 345&ndash;407)
 
@@ -94,21 +92,19 @@ He was referred to as "the golden mouth," because of his eloquence as a speaker.
 
 ### Augustine (AD 354-430)
 
-{++Augustine said, "Our hearts are restless until they find rest in you."++} He became bishop of Hippo in North Africa in AD 395. He was a Chief defender of the faith in the Pelagian Controversy. This false teaching was promoted by Pelegius who did not believe in original sin. Augustine developed a reputation as a preacher, teacher, and writer. {++He was involved in the major controversies of his day (i.e. Donatism and Pelagianism).++}
+Augustine said, "Our hearts are restless until they find rest in you." He became bishop of Hippo in North Africa in AD 395. He was a Chief defender of the faith in the Pelagian Controversy. This false teaching was promoted by Pelegius who did not believe in original sin. Augustine developed a reputation as a preacher, teacher, and writer. 
 
-{++
 ### Ambrose
 
 Ambrose was governor of Milan. When the bishop of Milan died in AD 374, a riot broke out over who should be the next bishop. Ambrose stepped in to try to calm things down, and people in the crowd cried out that he should be bishop, even though he hadn't yet been baptized. He protested, but eventual became bishop.
 
 When the emperor Theodosius had a stadium of people killed, Ambrose excommunicated him. Theodosius did repentance by putting on sackcloth and kneeling before Ambrose seeking forgiveness. This was a beginning of the government being submissive to the church.
-++}
+
 We see a progression of the church's relationship to the state:
 
 1. Church < State
 2. Church = State
 3. Church > State
-{++
 
 ### Jerome
 
@@ -129,7 +125,6 @@ Arius, who was an elder in Alexandria, began preaching in AD 318 that Jesus was 
 This religious debate got the attention of Constantine, because riots had started because of it. In AD 325 Constantine called a council in Nicea to solve the debate started by Arius. More than 300 bishops attended.
 
 The bishops created a statement of faith, which, after some additions made during another council in Constantinople in 381, became known as the Nicene Creed. All but two bishops signed the statement of faith, and they were exiled along with Arius. Following is the complete text of the creed:
-++}
 
 > I believe in one God,  
 > the Father almighty,  
@@ -166,7 +161,6 @@ The bishops created a statement of faith, which, after some additions made durin
 
 (https://www.britannica.com/topic/Nicene-Creed accessed on 2018/08/23)
 
-{++
 The creed says that Jesus is "light from light." How could you separate light from the sun? In the same way, how could you separate God (the Father) from God (the Son)?
 
 ### The First Council at Ephesus (AD 431)
@@ -189,7 +183,9 @@ Cyril was the bishop of Alexandria. While Nestorius emphasized more of the human
 
 Because Nestorius did not want to use the name _Mother of God_ for Mary, he was falsely accused by Cyril that he did not believe that Jesus was God. After some heated letters between them, a council of bishops was called to settle the debate.
 
-The council was largely motivated by politically factors. The Second Ecumenical Council of 381 declared that the bishop of Constantinople would be second only to the Roman bishop (the pope). This angered some of the other bishops, including Cyril. So even though there were some legitimate questions about the doctrines of Nestorius, the council was also called because of jealousy of his position.
+The council was largely motivated by political factors. The Second Ecumenical Council of 381 declared that the bishop of Constantinople would be second only to the Roman bishop (the pope). This angered some of the other bishops, including Cyril. So even though there were some legitimate questions about the doctrines of Nestorius, the council was also called because of jealousy of his position.
+
+Baraza liliathirika sana na mambo ya kisiasa. 
 
 The council decided against Nestorius and he was exiled as a heretic. Even though he was exiled, people continued to believe his doctrine and Nestorianism still exists today as a branch of Christianity.
 
@@ -199,7 +195,10 @@ Though Nestorius was always considered a heretic, the Council of Chalcedon made 
 
 ### The Council of Chalcedon (AD 451)
 
-This council was the final ecumenical council dealing with the dual-nature of Jesus. In it, it was declared that Christ is "acknowledged in two natures, without confusion, without change, without division, without separation... the characteristic property of each nature being preserved, and coming together to form one person."
+This council was the final ecumenical council dealing with the dual-nature of Jesus. In it, it was declared that Christ is "acknowledged in two natures, without confusion, without change, without division, without separation... the characteristic property of each nature being preserved, and coming together to form one person." Following is the full text of the definition made at Chalcedon:
+
+> Therefore, following the holy fathers, we all with one accord teach men to acknowledge one and the same Son, our Lord Jesus Christ, at once complete in Godhead and complete in manhood, truly God and truly man, consisting also of a reasonable soul and body; of one substance with the Father as regards his Godhead, and at the same time of one substance with us as regards his manhood; like us in all respects, apart from sin; as regards his Godhead, begotten of the Father before the ages, but yet as regards his manhood begotten, for us men and for our salvation, of Mary the Virgin, the God-bearer; one and the same Christ, Son, Lord, Only-begotten, recognized in two natures, without confusion, without change, without division, without separation; the distinction of natures being in no way annulled by the union, but rather the characteristics of each nature being preserved and coming together to form one person and subsistence, not as parted or separated into two persons, but one and the same Son and Only-begotten God the Word, Lord Jesus Christ; even as the prophets from earliest times spoke of him, and our Lord Jesus Christ himself taught us, and the creed of the fathers has handed down to us.
+
+(https://www.monergism.com/definition-council-chalcedon-451-ad accessed on 2018/09/03)
 
 It was the first council in which the pope played a major role, and the last that both East and West would regard as official.
-++}

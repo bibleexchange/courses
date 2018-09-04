@@ -66,9 +66,9 @@ He sailed for India in 1793. He was the first modern missionary to India. There,
 
 ### Adoniram Judson (Burma)
 
-{++He got married on February 5, 1812, and within two weeks they were sailing for India from the United States. They started the trip working under the Congregationalists, but because Adoniram thought that the Congregationalists were wrong about baptism, he convinced his with and another partner that was with them to become Baptists. He sent a letter of resignation when they arrived in India. The partner took the letter back, and went to try to raise money from the Baptists.
+He got married on February 5, 1812, and within two weeks they were sailing for India from the United States. They started the trip working under the Congregationalists, but because Adoniram thought that the Congregationalists were wrong about baptism, he convinced his wife and another partner that was with them to become Baptists. He sent a letter of resignation when they arrived in India. The partner took the letter back, and went to try to raise money from the Baptists.
 
-The government of India would not let them stay, and William Carey suggested that they should go to Burma. When they arrived in Burma, they started learning the language, opened a school for girls, and translated the New Testament. It was six years before they had their first convert. Adoniram spent two years in prison. Adoniram's wife, Ann, died at age 36. Judson established 63 churches, mostly among the Karen tribe.++}
+The government of India would not let them stay, and William Carey suggested that they should go to Burma. When they arrived in Burma, they started learning the language, opened a school for girls, and translated the New Testament. It was six years before they had their first convert. Adoniram spent two years in prison. Adoniram's wife, Ann, died at age 36. Judson established 63 churches, mostly among the Karen tribe.
 
 ### David Livingstone (Africa)
 

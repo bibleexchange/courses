@@ -66,7 +66,9 @@ Alikwenda kwa Uhindi kwa 1793. Huyu ndiye misionariwa kisasa kwanza aliwasili nc
 
 ### Adoniramu Judsoni (Burma)
 
+Aliolewa 5 Februari, 1812, na ndani ya wiki mbili walikuwa katika mashua kuelekea Uhindi kutoka Marekani. Walianza safari ya kufanya kazi kwa Kanisa la Congregational, lakini kwa sababu Adoniram alifikiri kuwa Kanisa la Congregational lilikuwa baya kuhusu ubatizo, alimshawishi mkewe na mshirika mwingine aliyekuwa pamoja nao kuwa Wabatisti. Alipeleka barua ya kujiuzulu walipofika Uhindi. Mshirika huyo alichukua barua hiyo, na akajaribu kuongeza fedha kutoka kwa Wabatisti.
 
+Serikali ya Uhindi haikuwaacha wapate kukaa huko, na William Carey alipendekeza kuwa wanapaswa kwenda Burma. Walipofika Burma, walianza kujifunza lugha, walifungua shule kwa wasichana, na walitafsiri Agano Jipya. Ilikuwa miaka sita kabla ya kuwa na Mkristo wao wa kwanza kubadilisha. Adoniram alitumia miaka miwili jela. Ann, mke wa Adoniram alikufa akiwa na umri wa miaka 36. Judson alianzisha makanisa 63, hasa kati ya kabila la Karen.
 
 ### Daudi Livingstone (Afrika)
 

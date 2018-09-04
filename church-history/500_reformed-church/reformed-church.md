@@ -68,13 +68,11 @@ Luther was secluded to Wartburg Castle for one year. He was arrested and confine
 
 #### Ulrich Zwingli (1484&ndash;1531) in Switzerland
 
-{++Zwingli became pastor of the main church in Zurich on January 1, 1519. He said he would preach through the Gospel of Matthew instead of using the lectionary. In 1522 some of his church members ate meat during lent, and he supported them by preaching on freedom. Under him priests got married, images were removed from the church, and the Mass was replaced by a simple service that emphasized preaching.++} He published works against the Catholics. {++Besides being a pastor, he was also a sort of civil leader.++} He was killed in civil war and John Calvin carried on the work.
+Zwingli became pastor of the main church in Zurich on January 1, 1519. He said he would preach through the Gospel of Matthew instead of using the lectionary. In 1522 some of his church members ate meat during lent, and he supported them by preaching on freedom. Under him priests got married, images were removed from the church, and the Mass was replaced by a simple service that emphasized preaching. He published works against the Catholics. Besides being a pastor, he was also a sort of civil leader. He was killed in civil war and John Calvin carried on the work.
 
 #### John Calvin (1509&ndash;1564) in France and Switzerland
 
-{++
-Around AD 133 John Calvin broke from Catholicism, left his homeland of France, and settled in Switzerland as an exile. In 1536 he published the first edition of _The Institutes of the Christian Religion_.
-++}
+Around AD 1533 John Calvin broke from Catholicism, left his homeland of France, and settled in Switzerland as an exile. In 1536 he published the first edition of _The Institutes of the Christian Religion_.
 
 Calvin was an outspoken preacher and author who preached salvation by faith. He stressed the authority of Scripture. Calvin taught the predestination of the elect. {++He said, "You cannot manipulate God or put him in your debt. He saves you; you cannot do it for yourself." Calvin's doctrine of predestination is contrasted by Arminianism, which is based on the belief that any man can be saved if they believe.++}
 
@@ -92,7 +90,6 @@ He wrote a book called _Justification by faith_ (1512) and preached salvation by
 
 The protestants in France were called Huguenots. The Huguenots were greatly persecuted by the Roman Catholic Church. Twenty thousand Protestants were killed by the Catholics in one day on Aug. 24, 1572, on what was referred to as the "St. Bartholomew's Day Massacre." Many protestant leaders were killed in this massacre. Five-hundred thousand Protestants fled the country for their own safety.
 
-{++
 #### Anabaptists (1525) in Switzerland
 
 To try to stop confrontation, Germany was divided into states based on religion. Some states were Catholic and others were Lutheran. This was because at this time, people treated the church and the government as if they were united.
@@ -100,7 +97,6 @@ To try to stop confrontation, Germany was divided into states based on religion.
 This was also true in other parts of Europe. In Switzerland, a group of Christians were not happy that the authority of Rome was just replaced with another ruling religious government (namely the leadership of Zurich). They wanted a brotherhood instead of a powerful institution. They practiced democracy in the congregation. Everyone could speak for God, and not only bishops and councils.
 
 This group also focused on individual salvation. On January 21, 1525, this group met and baptized each other. This was against the teaching of the official church of Zurich, which promoted infant baptism. These people became known as _Anabaptists_, which means "re-baptizers," because they had been already baptized as infants.
-++}
 
 ### Reformers in England & Scotland
 
@@ -130,9 +126,9 @@ Initially known as "reformed priests," the Jesuits traveled with their elected S
 
 Before being dispersed on various missions for Pope Paul III, the pope established a papal bull _Regiminimilitantis Ecclesiae_ (Latin for "To the Government of the Church Militant") declaring official approval of the Jesuits who are still in existence today. The Jesuits led a counter reformation against the Protestants.
 
-{++
 ## Main events in this period
 
+{++
 ### Henry VIII's Act of Supremacy (1534)
 
 In 1521 Henry attacked Luther's view of the sacraments, and so the pope gave him the title "Defender of the Faith." It is almost humorous that the pope gave him this title, because in just a short time after, Henry would completely move away from the organization that gave him that title.
@@ -142,6 +138,7 @@ After the death of his brother, Henry married his sister-in-law, Catherine of Ar
 The pope would not grant him the annulment, and so Henry appointed Thomas Cramner archbishop of Canterbury. The new archbishop gave him the annulment that he was seeking. Henry declared that the king of England was the head of the church.
 
 Henry had two daughters. Mary was a Catholic, and Elisabeth was a Protestant.
+++}
 
 ### The Council of Trent (1545&ndash;1563)
 
@@ -150,9 +147,10 @@ The main purpose of the council was to address issues and questions raised by th
 * They made reform to the clergy. They decided that bishops could only hold office in one location, so that they could focus on their flock.
 * They declared that Scripture and tradition have equal authority.
 * They established the position of "infused righteousness" for justification. This means that God offers to the believer the opportunities and strength to be good, and it is up to the believer to respond.
-* They confirmed the seven sacraments, which are baptism, confirmation, the Eucharist, marriage, penance, extreme unction, and matrimony.
+* They confirmed the seven sacraments, which are baptism, confirmation, Eucharist, penance, extreme unction (anointing of the sick), holy orders, and matrimony.
 * They made clear the doctrine of the veneration of the saints. They claimed that the statues of the saints were not to be worshiped in themselves, but that there was a spiritual reality beyond the physical objects.
 
+{++
 ### St. Bartholomew's Day Massacre (1572)
 
 Protestantism was growing in France despite opposition from the government. The Huguenots were led by admiral Coligny, and they wanted religious freedom. The French Catholics were led by the Guise family, who believed in the French tradition of "on king, on faith, one law." In the decade leading up to the massacre, France had three religious wars. Both groups used violence to try to get their way.
@@ -170,4 +168,4 @@ CONCLUSION: God turned on the light.
 
 ### The light of the Word ended the Dark Ages
 
-{++**Discussion**: When is it good to separate from others that believe different than you? Should we fellowship with people who believe differently than us?++}
+**Discussion**: When is it good to separate from others that believe different than you? Should we fellowship with people who believe differently than us?

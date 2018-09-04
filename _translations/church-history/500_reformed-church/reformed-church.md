@@ -68,11 +68,13 @@ Maritini Lutheralitengwa akawekwa na mabwenyenye peke yake uhamishoni katika jum
 
 #### Urich Zwingli (1484—1531) huko Uswisi
 
-Alichapisha kitabu kupinga Wakatoliki. Aliuawa katika vita ya wenyewe kwa wenyewe kisha Yohane Kalvini akaendelea nakazi hiyo ya kuhubiri injli.
+Zwingli akawa mchungaji wa kanisa kuu katika Zurich tarehe 1/1/1519. Alisema atahubiri kupitia Injili ya Mathayo badala ya kutumia mtaala. Mwaka 1522 baadhi ya washirika wake wa kanisa walikula nyama wakati wa kwaresimas, na aliwaunga mkono kwa kuhubiri juu ya uhuru. Makuhani waliweza kuoa chini yake, sanamu ziliondolewa kanisani, na ibada ilifanywa kwa huduma rahisi ambazo zilihamasiha mahubiri. Alichapisha kitabu kupinga Wakatoliki. Badala ya kuwa mchungaji, pia yeye alichaguliwa kuwa kiongozi wa jamii. Aliuawa katika vita ya wenyewe kwa wenyewe kisha Yohane Kalvini akaendelea nakazi hiyo ya kuhubiri injli.
 
-#### Yohane Kalivini (1509—1564 ) huko Ufaransa na Uswizi
+#### Yohane Kalivini (1509—1564) huko Ufaransa na Uswizi
 
-Yohane Kalvini alikuwa ni mhubiri aliyekuwaa mwazi na mwandishi ambaye alihubiriukombozi kwa imani akisisitiza mamlaka ya Injili. Kalivini akafundisha kwamba kufanikiwa ni kwa wateule tu.
+Kuzunguka miaka ya AD 1533 Yohana Kalvini alijitoa kutoka Ukatoliki, aliiacha nchi yake ya Ufaransa, na kuishi Uswisi kama mhamiaji. Mwaka 1536 alichapa toleo la kwanza la _Katiba ya Sini ya Kikristo_.
+
+Yohane Kalvini alikuwa ni mhubiri aliyekuwaa mwazi na mwandishi ambaye alihubiriukombozi kwa imani akisisitiza mamlaka ya Injili. Kalivini akafundisha kwamba kufanikiwa ni kwa wateule tu. Alisema, "huwezi kumtenga Mungu au kumweka yeye katika deni lako. Yeye alikuokoa; usingeweza kufanya hinyo mwenyewe." Mfindisho ya Calvin ya Mungu kutujua tangu mwanzo ni ni kuimarika kwa Arminianism, ambaye walijikita juu ya imani ambayo mtu yeyote anaweza kuokolewa kama ataamini.
 
 | Kalvinism | Arminianism |
 | --------- | ----------- |
@@ -87,6 +89,14 @@ Yohane Kalvini alikuwa ni mhubiri aliyekuwaa mwazi na mwandishi ambaye alihubiri
 Aliandikakitabu kiitwacho Kustahili kwa sababu ya Imani mwaka 1512 naakahubiri ukombozi kwa imani. Yeye kamwe hakujitenga rasmi na Kanisa Katoliki.
 
 Waprotestanti wa Ufaransa waliitwa Wahuguenote. Wahuguenote hawa waliteswa sana na kanisa Katoliki la Roma. Tahehe 24 ya Agosti 1572 Waprotestanti elfu ishirini waliuawa kwa siku moja siku ambayo inakumbukwa kama siku ya mauaji, ya Mtakatifu Bartholomeo Viongozi wengi wa Waprostanti waliuawakatika mauaji hayo. Waprotestanti laki tano waliikimbia nchi kwa usalama wao.
+
+#### Waanabaptisti (1525) huko Uswisi
+
+Kujaribu kuzuia mgawanyo, Wajerumani walijigawanya katika nchi za kidini. Baadhi ya nchi zilikuwa Katoliki na zingine zilikuwa Lutherani. Hii ilikuwa ni kwasababu kwa wakati huu, watu walilichukulia kanisa na serikali kama ulikuwa muungano.
+
+Hii pia ilikuwa kweli katika sehemu zingine za Ulaya. Huuko Uswis, kundi la Wakristo hawakuwa na furaha kuwa mamlaka ya Rumi yalichukuliwa na mtawala mwingine wa kidini wa serikali (akiitwa kiongozi wa Swisland). Walitaka udugu badala ya nguvu ya idara. Walizoea demokrasia ya mkusanyiko. Kila moja anaweza kuzungumza kwa Mungu, siyo maaskofu pekee na wanabaraza.
+
+Kundi hili pia lililenga juu ya wokovu binafsi. Januari 21, 1525, kundi hili lilikutana na kubatizana. Hii ilikuwa kinyume cha mafundisho maalum ya kanisa la Swisland, ambayo walisisitiza ubatizo wa watoto. Hawa watu walikuja kujulikana kama _Waanabaptisti_, wakimaanisha "kubatizwa tena," kwasababu tayari walishabatizwa kama watoto.
 
 ### Wanamageuzi huko Uingereza na Uskochi
 
@@ -104,7 +114,7 @@ Yohane Bunyani alikuwa mhubirishupavu kati ya waasi. Alihubiri ukombozi kwa neem
 
 #### Yohane Knoksi (1510—1572) huko Uskochi
 
-Alisimama imara kupingana naukatoliki. Sala yake Knoksi iligeuka kuwa "Nipatie Uskochi au la nife." Alimpinga Malkia Maria wa Uskochi ambaye alikuwa mkatoliki. Aliliongoza Bunge kuharamishamisa ya katoliki mwaka 1560. Kanisa la kiprotestanti la Uskochi liitwalo kanisala Presbaiteriani liligeuzwa kuwa kanisa la dola mnamo mwaka 1567
+Alisimama imara kupingana naukatoliki. Sala yake Knoksi iligeuka kuwa "Nipatie Uskochi au la nife." Alikuwa mwanafunzi wa Kalvini. Alimpinga Malkia Maria wa Uskochi ambaye alikuwa mkatoliki. Aliliongoza Bunge kuharamishamisa ya katoliki mwaka 1560. Kanisa la kiprotestanti la Uskochi liitwalo kanisala Presbaiteriani liligeuzwa kuwa kanisa la dola mnamo mwaka 1567
 
 ### Wanamageuzi katika Dunia Mpya (Amerika)
 
@@ -116,8 +126,24 @@ Wayesuiti ambao mwanzoni walijulikanakama "wachungaji waliobadilishwa" walisafir
 
 Kabla ya kutawanywa sehemumbalimbali alizowatuma Papa Paulo III aliandika amri yake (Bula) iliyojulikanakama Regimini militalis Ecclesiae (Kwa kilatini maana yake; kwaserikali ya kijeshi ya kanisa) ikiwa ni tangazo lake kwamba amewakubaliWayesuiti ambao wanaendelea na shirika lao hilo hadi leo. Wayesuiti waliongozamapambano dhidi ya wanamageuzi kuwapinga Waprostestanti.
 
+## Matukio makuu katika kipindi hiki
+
+{++}
+
+### Baraza la Trent (1545&ndash;1563)
+
+Kusudi kuu la baraza lilikuwa kushughulikia masuala na maswali yaliyotolewa na wafuasi wa Kiprotestanti. Matendo ya wafuasi walilazimika Kanisa Katoliki kutambua kwamba kulikuwa na masuala katika kanisa ambalo lilihitaji kushughulikiwa. Baraza ya Trent ilifanyika katika hatua tatu kati ya 1545 na 1563. Kufuatia ni baadhi ya maamuzi na matokeo kutoka kwa baraza:
+
+* Walifanya mageuzi kwa wachungaji. Waliamua kuwa maaskofu wangeweza kushikilia ofisi moja tu, ili waweze kuzingatia makutaniko yao.
+* Walisema kwamba Maandiko na mila zina mamlaka sawa.
+* Waliweka nafasi ya "aliongoza utakatifu" kwa haki. Hii ina maana kwamba Mungu anampa mwamini fursa na nguvu ya kuwa nzuri, na ni kwa muumini kujibu.
+* Walithibitisha sakramenti saba, ambazo ni ubatizo, uthibitisho, Ekaristi, uvunjaji, unction kali (upako wa wagonjwa), amri takatifu, na ndoa.
+* Walisema wazi mafundisho ya ibada ya watakatifu. Walisema kwamba sanamu za watakatifu hawakupaswa kuabudu kwao wenyewe, bali kwamba kulikuwa na ukweli wa kiroho zaidi ya vitu vya kimwili.
+
 MWISHO: MUNGU ALIIANGAZA NURU YATAA YAKE
 
 ### Bibilia ilitafsiriwa katika lugha za wenyeji
 
 ### Nuru ya Neno la Mungu ilikomesha enzi za zama za giza
+
+**Majadiliano**: Je, lini kuwatenganisha nani na wengine ambao wanaamini tofauti na wewe? Je, tunapaswa kushirikiana na watu ambao wanaamini tofauti kuliko sisi?

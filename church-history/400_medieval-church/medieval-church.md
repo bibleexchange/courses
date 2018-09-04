@@ -72,11 +72,9 @@ Rome convinced political rulers of Europe to lead the Crusades. The Muslims were
 
 #### The crusaders failed to free the Holy Land from the dominion of the Mohammedans
 
-{++
 ### The East-West Schism
 
 The following chart shows some of the differences between the Eastern and Western churches:
-++}
 
 | East                | West                           |
 | ------------------- | ------------------------------ |
@@ -87,9 +85,7 @@ The following chart shows some of the differences between the Eastern and Wester
 | Different ceremonies for mass                       ||
 | Doctrinal differences                               ||
 
-{++
 Pope Leo IX wanted Michael, the patriarch of Constantinople, to submit to him. The pope sent representatives to Constantinople, but Michael refused to meet with them. The representatives excommunicated Michael, and he in turn excommunicated them.
-++}
 
 ## The Medieval Church was contrasted by saints
 
@@ -107,21 +103,20 @@ They were named after their leader Peter Waldo who had the Bible translated into
 
 #### John Wycliffe
 
-John Wycliffe (1330&ndash;1384) was the first to translate the Bible into English. He is referred to as _the Morning Star of the Reformation_. {++He had followers, which were called _lollards_, which means "poor preachers."++} He stood against the Roman Church, and rejected the authority of the pope. {++Following are some of the things he questioned about the church:
+John Wycliffe (1330&ndash;1384) was the first to translate the Bible into English. He is referred to as _the Morning Star of the Reformation_. He had followers, which were called _lollards_, which means "poor preachers." He stood against the Roman Church, and rejected the authority of the pope. Following are some of the things he questioned about the church:
 
 * The church's right to temporal power and wealth
 * The sale of indulgences
 * The worship of saints and relics
 * The pope's authority
-* Transubstantiation++}
+* Transubstantiation
 
 He would have been killed by the Catholics had it not been for the protection of the English nobles. Wycliffe's preaching and Bible translation prepared the way for the Reformation. The Catholics hated him so much his body was dug up and desecrated years after his death.
 
 #### John Huss
 
-John Huss (1369&ndash;1415) had been a reader of Wycliffe's writings and stood for the truth of the Word of God. He strongly opposed the authority of the pope. {++He insisted that Christ alone was the head of the church and that only God could forgive sins. When brought before a council to be questioned about his beliefs, he said, "I would not for a chapel full gold recede from the truth."++} He was condemned as a heretic and burned at the stake by a council of the Roman Catholic Church.
+John Huss (1369&ndash;1415) had been a reader of Wycliffe's writings and stood for the truth of the Word of God. He strongly opposed the authority of the pope. He insisted that Christ alone was the head of the church and that only God could forgive sins. When brought before a council to be questioned about his beliefs, he said, "I would not for a chapel full gold recede from the truth." He was condemned as a heretic and burned at the stake by a council of the Roman Catholic Church.
 
-{++
 #### Boniface
 
 Boniface was born in AD. His birth name was _Winfred_. He trained as a Benedictine monk, and he spent most of his life as a missionary to the Germans.
@@ -140,5 +135,4 @@ Henry I, the brother of William II, took over after his brother died, and he ask
 
 #### Thomas Aquinas
 
-Thomas Aquinas was born in AD 1225. He is possibly the greatest theologian of the Middle Ages. he introduced reason (based on ancient philosophers) into his theology.
-++}
+Thomas Aquinas was born in AD 1225. He is possibly the greatest theologian of the Middle Ages. He introduced reason (based on ancient philosophers) into his theology.
