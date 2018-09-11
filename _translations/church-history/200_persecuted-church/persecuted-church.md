@@ -8,7 +8,7 @@ Tuna kumbukumbu za matukio ya kipindi cha kanisa la kwanza kutoka kwa Biblia, am
 
 ## Mateso na Smirna
 
-Smirna maana yake ni iliyopondwa. Hii inatokana na neno la msingi manemane. Mmea wa manemane inabidi upondwe pondwe ili utoe harufu yake ya marashi matamu (Ufunuo 2:8—11). Inasemekana kwamba wakati Polycarp alikufa katika moto, kwamba kulikuwa na harufu nzuri.
+_Smirna_ maana yake ni iliyopondwa. Hii inatokana na neno la msingi manemane. Mmea wa manemane inabidi upondwe pondwe ili utoe harufu yake ya marashi matamu (Ufunuo 2:8—11). Inasemekana kwamba wakati Polycarp alikufa katika moto, kwamba kulikuwa na harufu nzuri.
 
 ### Injili inasimulia "taabu na umaskini"
 
@@ -32,7 +32,7 @@ Huu ni utabiri wa vipindi kumi vya mateso wakati wa Smirna. Kama barua hizi zili
 
 ## Sababu zilizofanya kuwepo na mateso chini ya utawala wa kifalme
 
-### Ibada za kipagani zilikuwepo kutokana na uwepo miungu wapya wakati ambapo Ukristo ulitambua kuabudiwa kwa Mungu mmoja tu wa kweli tu
+### Ibada za kipagani zilikuwepo kutokana na uwepo miungu wapya wakati ambapo Ukristo ulitambua kuabudiwa kwa Mungu mmoja tu wa kweli tu.
 
 Miungu wapya walikubalika chini ya utawala uliotukuza utamaduni wa kuabudu miungu wengi wa Roma. Wakristo walishindwa kuvumilia kuabudiwa kwa miungu wa uongo na walizikataa njia za kipagani.
 
@@ -102,7 +102,7 @@ Ireneusi alikuwa mwanafunzi wa Polikarpi. Baadaye alikuwa askofu wa Lionsi (huko
 
 ### Simeoni
 
-Simeoni alikuwa kiongozi wa kanisa la Jerusalem baada ya Yakobo. Alisulubiwa msalabani kwa amri ya Gavana wa Kirumi wa Palestina mwaka 107 BK wakati wa utawala wa Trajani.
+Simeoni alikuwa kiongozi wa kanisa la Yerusalemu baada ya Yakobo. Alisulubiwa msalabani kwa amri ya Gavana wa Kirumi wa Palestina mwaka 107 BK wakati wa utawala wa Trajani.
 
 ### Blandina
 

@@ -2,7 +2,7 @@
 
 (Mwaka wa 30—100 BK) Kutoka siku ya Penstekoste hadi kukamilishwa Agano Jipya
 
-## Efeso maana yake yenye kuvutia (Ufu. 2:1—7)
+## Efeso maana yake yenye inayovutia (Ufu. 2:1—7)
 
 ### Yesu alikuwa na mambo mazuri mengi aliyosema kuhusu kanisa hili
 
@@ -84,7 +84,7 @@ Yesu alikutana na Sauli katika barabara iendayo Dameski. Akiwa njiani alianguka 
 
 ### Safari za umishonari za Paulo
 
-Paulo alifanya safari nyingi zakueneza injili na alianzisha makanisa huko Filipi, Tesaloniki, Berea, Athene, na Korinto. Aliyaunda yale makanisa saba ya Asia moja kwa moja au kwa njia iliokuwa rasmi (Mdo. 19:10). Makanisa hayo yalianzishwa katika mateso makubwa (2 Kor. 11:23—28).
+Paulo alifanya safari nyingi za kueneza injili na alianzisha makanisa huko Filipi, Tesaloniki, Berea, Athene, na Korinto. Aliyaunda yale makanisa saba ya Asia moja kwa moja au kwa njia iliokuwa rasmi (Mdo. 19:10). Makanisa hayo yalianzishwa katika mateso makubwa (2 Kor. 11:23—28).
 
 ## Kanisa katika Mataifa
 

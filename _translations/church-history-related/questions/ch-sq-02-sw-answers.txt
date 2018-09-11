@@ -1,80 +1,82 @@
-﻿# Maswali ya kujifunza historia ya kanisa 2Zungushia duara swali sahihi
+﻿# Maswali ya kujifunza Historia ya Kanisa 2
 
-.
+Zungushia duara swali sahihi.
 
 ## Ni tukio gani la mwisho kwenye kipindi cha  Kanisa la mateso?
 
-* Ukamilifu wa Agano jipya
-* Siku ya Pentecoste
-* Hati ya kostantino
-* Anguko la Rumi
+1. Ukamilifu wa Agano jipya
+2. Siku ya Pentecoste
+3. Hati ya Kostantino
+4. Anguko la Rumi
 
 ### Hati ya Kostantino
 
-##  Neno "Simirina lina maanisha nini"?
+## Neno "Smirna" lina maanisha nini?
 
-* Iliosagwa
-* Inayovutia
-* Matengezo
-* Ilio olewa
+1. Iliyopondwa
+2. Inayovutia
+3. Mabaki
+4. Iliyoolewa
 
-### Iliogandamizwa
+### Iliyopondwa
 
-## Nani alikuwa kiongozi wa Kanisa la mateso??
+## Nani alikuwa kiongozi wa Kanisa la mateso?
 
-* Kostantino
-* Diocletian
-* Ignatio
-* Yohn
+1. Paulo
+2. Diocletiani
+3. Inyasi
+4. Yohn
 
-### Ignatio
+### Inyasi
 
 ## Nani alimfundisha Polycarp?
 
-* Petro
-* Ignatio
-* Yohan
-a* Yesu
+1. Petro
+2. Inyasi
+3. Yohana
+4. Yesu
 
 ### Yohana
 
 ## Kitu gani Wagnostics kwamba chaweza kutuokoa?
 
-* Damu ya yesu
-* Ubatizo
-* Maarifa ya siri
-* Mateso### Maarifa ya siri Jaza maneno yasiyowekwa mahali pake
+1. Damu ya Yesu
+2. Ubatizo
+3. Maarifa ya siri
+4. Mateso
 
-.
+### Maarifa ya siri 
 
-## **Simioni** alikuwa Yakobo’ mfanikishaji kama kichwa cha kanisa la Yerusalemu.
+Andika maana ya maneno mapya au yasiozoeleka.
 
-## **Polycarp** alikuwa asikofu wa Smyrna huko Asia ndogo.
+## **Simeoni** alikuwa kiongozi wa kanisa la Yerusalemu baada ya Yakobo
 
-## **Yustin Mfia dini** alikuwa mwana filosofia, na aliendelea kufundisha hata baada ya kuongoka kwake. 
+## **Polikarpi** alikuwa asikofu wa Smirna katika Asia ndogo.
 
-## **Blandina** alikuwa msichana mtumwa ambaye aliteswa toka asubuhi hadi usiku akitangaza : “Mimi ni mkristo,haijalishi uovu wowote ulioko miongoni mwetu.”
+## **Shahidi Yustini** alikuwa mwanafalsafa aliyekuwa Mkristo baada ya kukutana na mtu mzee ambaye alielezea jinsi Yesu alivyotimiza unabii wa Agano la Kale.
 
-## **Ignatio** alikuwa Askofu wa  Antiokia katika Siria.Jibu kweli au sio kweli
+## **Blandina** alikuwa msichana Mkristo aliyekuwa mtumwa ambaye aliteswa tangu asubuhi hadi usiku kisha akatamka, "mimi ni Mkristo na kat iyetu hakuna uovu unaotendwa."
 
-.
+## **Inyasi** alikuwa asikofu wa Antiokia huko Syria.
 
-## Ukristo ulikuwa mkarimu kwa miungu mipya walipo tiwa msisimko kwa kutengwa katika kuabudu Mungu moja wa kweli.
+Jibu kweli au sio kweli.
 
-### Sio kweli
+## Ukristo zilikuwepo kutokana na uwepo miungu wapya wakati ambapo Ibada za kipagani ulitambua kuabudiwa kwa Mungu mmoja tu wa kweli tu.
 
-## Kanisa lilipitia katika vipindi kumi na mbili vya mateso makali kutoka kwenye mikono ya watawala wa kirumi.
+**Sio kweli**
 
-### Sio kweli
+## Kanisa lilipitia katika vipindi kumi na mbili vya mateso makali chini ya utawala wa Ufalme wa Kirumi.
 
-## mnamo AD 303 mtawala Diocletian siku kumi mateso makali.
+**Sio kweli**
 
-### Kweli
+## Katika mwaka wa 303 BK Mfalme Diocletiani alianzisha kipindi cha mateso makali sana kwa wakristo yaliyojulikana kama "Mateso Makuu."
 
-## Neno kanuni humaanisha ufito,tawala au ushauri wa kupima.
+**Kweli**
 
-### Kweli
+## Neno _kanuni_ lina maana "ya fimbo, sheria, au kifaa cha kupimia."
+
+**Kweli**
 
 ## Kanisa halikutakaswa kutokana na mateso.
 
-### Sio kweli
+**Sio kweli**
