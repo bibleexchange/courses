@@ -76,7 +76,7 @@ He is referred to as the pathfinder of Africa. He pioneered the interior of Afri
 
 ### Hudson Taylor (China)
 
-He founded China Inland Mission a Missionary group that concentrated on spreading the Gospel far into the interior of China. He grew a beard and wore his hair long in a ponytail, which was the style of men in China at the time. He also wore the clothes of the native people of China. {++He said that, "It is not their denationalization, but their Christianization that we seek."++} He planted 849 missionaries, started 205 mission stations, and his missionary society had 125,000 converts to Christianity.
+He founded China Inland Mission a Missionary group that concentrated on spreading the Gospel far into the interior of China. He grew a beard and wore his hair long in a ponytail, which was the style of men in China at the time. He also wore the clothes of the native people of China. He said that, "It is not their denationalization, but their Christianization that we seek." He planted 849 missionaries, started 205 mission stations, and his missionary society had 125,000 converts to Christianity.
 
 **Discussion**: Are missionaries helpful or harmful to local people?
 

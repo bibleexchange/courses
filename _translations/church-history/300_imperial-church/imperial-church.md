@@ -4,47 +4,45 @@ Tangu kutolewa Hati ya Constantino mpaka angukola Roma.
 
 ## Mchanganyiko na Pergamos
 
-_Pergamo_ maana "yake aliyeolewa." Kanisa liliingiliwa na upagani na likaolewa na ulimwengu (Ufu. 2:12—17). Upagani huu ukawa ndio mwanzo wa kilichokuja kuitwa baadaye kanisa Katoliki la Roma.
+_Pergamo_ maana "yake linaishi kilipo kiti cha Shetani" (mst. 13)
 
-### "Anaishi kilipo kiti cha Shetani" (mst. 13)
-
-Kiti cha enzi cha Mfalme waWarumi kilikuwa Roma. Mapapa nao watatawala kutoka Roma. Mapapa waliketi katikakiti cha mamlaka cha shetani na kulitawala Kanisa Katoliki la Roma. Neno _kifalme_ maana yake ni utawala wa mtu mmoja ambaye ana nguvu kamili au mamlakayote.
+Kiti cha enzi cha Mfalme wa Warumi kilikuwa Roma. Mapapa nao watatawala kutoka Roma. Mapapa waliketi katika kiti cha mamlaka cha shetani na kulitawala Kanisa Katoliki la Roma. Neno _kifalme_ maana yake ni utawala wa mtu mmoja ambaye ana nguvu kamili au mamlaka yote.
 
 ### Kanuni ya Balaam (mst. 14)
 
-Balaam aliweka jiwe kubwa mbele ya Israeli. Alitoawazo la kuishauri Israeli itende dhambi (Hesabu 31:1). Maandikoyanasema kwamba aliwafundisha Wasraeli kula vitu vilivyotolewa sadaka kwamiungu na kunajisi. Maandiko pia yanazungumzia mambo yatakayotokea katika kipindi kanisa la Kifalme. Maandiko hayo yana maana ni kanuni za uongo ambazozinazomhusisha Balaam zitakazoenea sana wakati wa kipindi hiki cha kanisa. Ulaji wa vitu vilivyoandaliwa kuwaenzi miungu wa uongo inalihusu KanisaKatoliki la Roma kama komunio ambazo zililiwa na Wakatoliki na hutolewa kilawiki katika misa.
+Balaam aliweka jiwe kubwa mbele ya Israeli. Alitoa wazo la kuishauri Israeli itende dhambi (Hesabu 31:1). Maandiko yanasema kwamba aliwafundisha Wasraeli kula vitu vilivyotolewa sadaka kwamiungu na kunajisi. Maandiko pia yanazungumzia mambo yatakayotokea katika kipindi kanisa la Kifalme. Maandiko hayo yana maana ni kanuni za uongo ambazo zinazomhusisha Balaam zitakazoenea sana wakati wa kipindi hiki cha kanisa. Ulaji wa vitu vilivyoandaliwa kuwaenzi miungu wa uongo inalihusu Kanisa Katoliki la Roma kama komunio ambazo zililiwa na Wakatoliki na hutolewa kila wiki katika misa.
 
 ### Kanuni ya Wanikolaiti (mst. 5)
 
-Ikumbukwe kwamba Nikolaitani maana yake nitawala juu ya raia. Maandiko haya ni ya kuhusiana na wachungaji wa Kirumi ambaowaliwatawala raia kwa ukatili mkubwa.
+Ikumbukwe kwamba Nikolaitani maana yake nitawala juu ya raia. Maandiko haya ni ya kuhusiana na wachungaji wa Kirumi ambao waliwatawala raia kwa ukatili mkubwa.
 
 ## Konstantino
 
 ### Msalaba wa Konstantino
 
-Alipigana vita na Maksentiusi kugombea ufalmekatika mapigano ya Daraja la Milvani na mwaka 312 BK. Jeshi lake lilizidiwa nguvu na askari wa Maksentiusi ambaye aliutaka pia ufalme. Mshindi wa vitahii angekuwa mfalme ajaye wa Roma. Konsitantino alidai kuwa na maono ya msalabaulioandikwa maneno, "katika alama hii shinda vita." Konstantino alifanyaalama hii ya msalaba kuwa alama ya jeshi lake, na akaiweka katika ngao zaaskari wake. Waakiolojia wanathibitisha kwamba ushahidi unaonesha kwambamsalaba huu ulikuwa ni alama ya Kimisri ambayo ni msalaba wenye fundo juuyake. Alama hiyo ndiyo inayomtambulisha mungu—jua aitwaye Ra. Baali ndiyekimungu—jua kilichoabudiwa katika Agano la kale. Konstantino alishinda vita ilena akawa Mfalme wa Warumi. Alitumiwa na shetani kuuchanganya imani ya kikristona ya kimungu kiitwacho Baali. Msalaba aliosimamia haukuwa msalaba waukristo bali ni ile alama ya kimungu—jua Baali.
+Alipigana vita na Maksentiusi kugombea ufalme katika mapigano ya Daraja la Milvani na mwaka 312 BK. Jeshi lake lilizidiwa nguvu na askari wa Maksentiusi ambaye aliutaka pia ufalme. Mshindi wa vita hii angekuwa mfalme ajaye wa Roma. Konsitantino alidai kuwa na maono ya msalaba ulioandikwa maneno, "katika alama hii shinda vita." Konstantino alifanya alama hii ya msalaba kuwa alama ya jeshi lake, na akaiweka katika ngao za askari wake. Waakiolojia wanathibitisha kwamba ushahidi unaonesha kwamba msalaba huu ulikuwa ni alama ya Kimisri ambayo ni msalaba wenye fundo juu yake. Alama hiyo ndiyo inayomtambulisha mungu—jua aitwaye Ra. Baali ndiye kimungu—jua kilichoabudiwa katika Agano la kale. Konstantino alishinda vita ile na akawa Mfalme wa Warumi. Alitumiwa na shetani kuuchanganya imani ya kikristona ya kimungu kiitwacho Baali. Msalaba aliosimamia haukuwa msalaba waukristo bali ni ile alama ya kimungu—jua Baali.
 
 ### Konstantini alifanya muafaka wa imani na hii akachukuliwa kama aliyeingia ukristo
 
-Wanahistoria wengi wa kikristo walitilia shaka uaminifu wake. Konstantino aliendelea kuabudu kimungu—jua kwa kuulaghai ukristo. Mchanganyikohuu wa upagani na ukristo baadaye ukawa Ukatoliki wa Roma.
+Wanahistoria wengi wa kikristo walitilia shaka uaminifu wake. Konstantino aliendelea kuabudu kimungu—jua kwa kuulaghai ukristo. Mchanganyiko huu wa upagani na ukristo baadaye ukawa Ukatoliki wa Roma.
 
 ### Hati ya Uvumilivu (Hati ya Konstantini)  (313 BK)
 
-Hati ni amri rasmi au waraka maalumu. Hati hiiilitoa uhuru kwa dini zote katika Ufalme wa Kirumi na ikasimamisha mateso yoteya Warumi kwa Wakristo. Mali zote zilizokamatwa wakati wa utawala wa MfalmeDiokletiani zilirudishiwa wenyewe. Shetani alibadili mbinu kutoka mateso kwaWakristo ikawa mbinu mpya ni kujipenyeza.
+Hati ni amri rasmi au waraka maalumu. Hati hii ilitoa uhuru kwa dini zote katika Ufalme wa Kirumi na ikasimamisha mateso yote ya Warumi kwa Wakristo. Mali zote zilizokamatwa wakati wa utawala wa Mfalme Diokletiani zilirudishiwa wenyewe. Shetani alibadili mbinu kutoka mateso kwa Wakristo ikawa mbinu mpya ni kujipenyeza.
 
 ### Konstantino alikuwa papa wa kwanza katika Historia
 
-Konstantino alijichukulia jina la Pontifeksi Maksimoambalo hadi leo ndio jina rasmi la papa. Petro hakuwa papa wa kwanza. Salamuza Paulo kwa kanisa la Roma hazimtaji Petro kwamba alikuwa Roma (Warumi 16:1—15). Hudhani kwamba Petro angalikuwepo huko akiliongoza kanisa la Roma kamaWakatoliki wanavyodai Paulo angemtaja katika salamu zake kwa kanisa la Rumi. Kitabu cha Matendo kinamweka Petro Yerusalemu wakati kanisa lilipoanza. Petroalikuwa katika baraza la Yerusalemu na siyo Roma.
+Konstantino alijichukulia jina la Pontifeksi Maksimo ambalo hadi leo ndio jina rasmi la papa. Petro hakuwa papa wa kwanza. Salamu za Paulo kwa kanisa la Roma hazimtaji Petro kwamba alikuwa Roma (Warumi 16:1—15). Hudhani kwamba Petro angalikuwepo huko akiliongoza kanisa la Roma kama Wakatoliki wanavyodai Paulo angemtaja katika salamu zake kwa kanisa la Rumi. Kitabu cha Matendo kinamweka Petro Yerusalemu wakati kanisa lilipoanza. Petro alikuwa katika baraza la Yerusalemu na siyo Roma.
 
 ## Matokeo ya kuvumiliwa kwa kanisa
 
 ### Mateso kwa Wakristo yalikoma
 
-Watu wengiwalidanganywa na wakakubali injili nyingine ya muafaka. Ukristo uliostawikatika kipindi cha mateso uligeuka wa kidunia chini ya maelewano na serikali
+Watu wengi walidanganywa na wakakubali injili nyingine ya muafaka. Ukristo uliostawi katika kipindi cha mateso uligeuka wa kidunia chini ya maelewano na serikali
 
-### Makanisa yaliyokamatwa wakati wa mateso yalirudishiwahadhi yake
+### Makanisa yaliyokamatwa wakati wa mateso yalirudishiwa hadhi yake
 
-Majengo mapya ya kanisa yalijengwa. Kanisa la Roma liitwalo Basilikalikawa ndio jengo la mfano wa majengo ya kuvutia ya makanisa. Jengo la Basilikalilikuwa ni mahakama iliyokuwa na umbo la mstatili uliygawanywa katika safu yanguzo zenye jukwaa lililokuwa nusu mviringo upande mmoja na viti vya maofisavikiwepomwishoni mwa upande mmoja. Huu ndio mfumo uliopo bado mpaka leo katikakanisa Katoliki. Mfano wa usanifu wa majengo wa namna hii ni Basilika yaMtakatifu Petro huko Roma.
+Majengo mapya ya kanisa yalijengwa. Kanisa la Roma liitwalo Basilika likawa ndio jengo la mfano wa majengo ya kuvutia ya makanisa. Jengo la Basilika lilikuwa ni mahakama iliyokuwa na umbo la mstatili uliyogawanywa katika safu yanguzo zenye jukwaa lililokuwa nusu mviringo upande mmoja na viti vya maofisa vikiwepo mwishoni mwa upande mmoja. Huu ndio mfumo uliopo bado mpaka leo katika kanisa Katoliki. Mfano wa usanifu wa majengo wa namna hii ni Basilika ya Mtakatifu Petro huko Roma.
 
 ### Matoleo ya sadaka ambazo ni rasmi yalikoma
 
@@ -60,45 +58,45 @@ Makuhani akawa darasa tajiri. Wanaume walipenda nafasi hizi kwa faida ya fedha n
 
 ### Sehemu zingine za ibada ya kipagani zilikuwa sehemu ya kanisa
 
-Kwa kipindi kirefu, kulikuwa na matendo fulani ya mila za kipagani za Kirumi ambazo zikawa sehemu ya kanisa. Baadhi ya miungu ya kirumi inafanana na watakatifu ambao wakatoliki wanawaomba.baada ya watu huona ufanano kati ya sanamu ya Maria ikimshikilia mtoto Yesu sanamu za kirumi hufafanua Fortuna na Jupita. Kuna baadhi ya wakristo ambao hawapendi kusherehekea Krismas kwasababu sikukuu hii ina mizizi katika sikukuu za kipagani za kirumi za Satunalia.
+Kwa kipindi kirefu, kulikuwa na matendo fulani ya mila za kipagani za Kirumi ambazo zikawa sehemu ya kanisa. Baadhi ya miungu ya kirumi inafanana na watakatifu ambao wakatoliki wanawaomba. Baada ya watu huona ufanano kati ya sanamu ya Maria ikimshikilia mtoto Yesu sanamu za kirumi hufafanua Fortuna na Jupita. Kuna baadhi ya wakristo ambao hawapendi kusherehekea Krismas kwasababu sikukuu hii ina mizizi katika sikukuu za kipagani za kirumi za Satunalia.
 
 Baadhi ya watu watasema Konstantino alianzisha Kanisa la Kikatoliki, lakini lazima ikumbukwe kwamba mapokeo na imani za kile ambacho Kanisa la Kikatoliki liko kwa siku zetu za leo imehusishwa kwa zaidi ya miaka mingi kutoka ile hali ambayo kanisa lilikuwa nayo wakati wa Konstantino.
 
-## Kuanguka kwa utawala waKirumi wa Magharibi
+## Kuanguka kwa utawala wa Kirumi wa Magharibi
 
-### Mfalme Konstantino alichagua mji wa Ugriki uitwaoBaizantiamu kuwa mji wake mkuu na akauita Konstantinopo (330 BK)
+### Mfalme Konstantino alichagua mji wa Ugriki uitwao Baizantiamu kuwa mji wake mkuu na akauita Konstantinopo (330 BK)
 
-Hali hii ilimwongezea ushawishi askofu wa Roma. Sasa mji mkuu ukawa ukombali sana na Roma na ile Himaya ikiwa imeshaporomoka. Baada ya tu kifo chaKonstantino askofu wa Roma akawa Papa.
+Hali hii ilimwongezea ushawishi askofu wa Roma. Sasa mji mkuu ukawa ukombali sana na Roma na ile Himaya ikiwa imeshaporomoka. Baada  tu ya kifo cha Konstantino askofu wa Roma akawa Papa.
 
-### Kugawanywa kwa himaya hiyo kulifuatiwa na ujenziwa mji mkuu mwingine
+### Kugawanywa kwa himaya hiyo kulifuatiwa na ujenzi wa mji mkuu mwingine
 
-Mfalme mmoja peke yake hakuweza tena kulitawala eneo lotekwani lilikuwa kubwa mno. Bahari ya Adriati ikawa ndio mpaka wa asili kati yasehemu mbili za himaya hiyo. Mwaka wa 395 baada ya Kristo himaya ya Kirumiiligawanyika rasmi kuwa Himaya ya Mashariki na Himaya Magharibi.
+Mfalme mmoja peke yake hakuweza tena kulitawala eneo lote kwani lilikuwa kubwa mno. Bahari ya Adriati ikawa ndio mpaka wa asili kati ya sehemu mbili za himaya hiyo. Mwaka wa 395 baada ya Kristo himaya ya Kirumi iligawanyika rasmi kuwa Himaya ya Mashariki na Himaya Magharibi.
 
 ### Himaya ya Mashariki ilimokuwa Roma kama mji wake mkuu iliendelea kuwepo hadi mwaka 476 BK
 
 ### Himaya ya Mashariki iliyokuwa na Konstantinopo kama mji mkuu ilikuwepo hadi mwaka 1453 BK
 
-Hii ndio baadaye ikageuzwa kuwaHimaya Takatifu ya Roma ya Nyakati za Kati kuanzia mwaka 500 hadi mwaka wa 1500 BK.
+Hii ndio baadaye ikageuzwa kuwa Himaya Takatifu ya Roma ya Nyakati za Kati kuanzia mwaka 500 hadi mwaka wa 1500 BK.
 
 ## Viongozi wakuu wa Kikristo wa kipindi hiki
 
 ### Atanasi (296—373 BK)
 
-Alikuwa mlinzi wa imani katika ubishani wa Ariani. Ariaambaye aliongoza mafundisho ya uongo hakuamini kanuni ya Biblia ya Utatu. Alikuwa Askofu wa Alexandria tangu mwaka 325 baada ya Kristo. Alipelekwauhamishoni mara tano kwa sababu ya msimamo wake wa kupingana na uongozi waRoma. Mnamo 367 BK yeye aliandika barua kutambua kanuni za A. J. ambazo tunatumia leo.
+Alikuwa mlinzi wa imani katika ubishani wa Ariani. Aria ambaye aliongoza mafundisho ya uongo hakuamini kanuni ya Biblia ya Utatu. Alikuwa Askofu wa Alexandria tangu mwaka 325 baada ya Kristo. Alipelekwa uhamishoni mara tano kwa sababu ya msimamo wake wa kupingana na uongozi wa Roma. Mnamo 367 BK yeye aliandika barua kutambua kanuni za A. J. ambazo tunatumia leo.
 
-### Yohani Krisostomu (345—407 BK)
+### Yohana Krisostomu (345—407 BK)
 
-Huyu anajulikana kama "mdomo wa dhahabu" kwa sababu aliwezakuongea kwa ufasaha wa ajabu. Alikuwa mhubiri shupavu, kiongozi watu na mwenyeuwezo mzuri wa kuifafanua Biblia. Alikuwa askofu wa Konstantinopo mwaka 398 BK. Alifukuzwa nchini kutokana na msimamo wake wa kusema ukwelina alifia uhamishoni.
+Huyu anajulikana kama "mdomo wa dhahabu" kwa sababu aliweza kuongea kwa ufasaha wa ajabu. Alikuwa mhubiri shupavu, kiongozi watu na mwenye uwezo mzuri wa kuifafanua Biblia. Alikuwa askofu wa Konstantinopo mwaka 398 BK. Alifukuzwa nchini kutokana na msimamo wake wa kusema ukweli na alifia uhamishoni.
 
 ### Augustino (354—430 BK)
 
-Augustino alisema, "Mioyo yetu haina pumziko hadi imekupata wewe." Alikuwa Askofu wa Hippo huko Afrika Kaskazini mwaka 395 BK. Yeye ndiye mtetezi Mkuu wa ubishani wa Pelagia. Mafundisho haya yauongo yalipambwa na Pelagio ambaye hakuamini dhambi ya asili. Augustinoalijenga jina lake kama mhubiri, mwalimu na mwandishi. Yeye alijihusisha katika changamoto nyingi za siku zake (mfano wa Udonatismu na Upelagiasmu).
+Augustino alisema, "Mioyo yetu haina pumziko hadi imekupata wewe." Alikuwa Askofu wa Hippo huko Afrika Kaskazini mwaka 395 BK. Yeye ndiye mtetezi Mkuu wa ubishani wa Pelagia. Mafundisho haya ya uongo yalipambwa na Pelagio ambaye hakuamini dhambi ya asili. Augustino alijenga jina lake kama mhubiri, mwalimu na mwandishi. Yeye alijihusisha katika changamoto nyingi za siku zake (mfano wa Udonatismu na Upelagiasmu).
 
 ### Ambrosi
 
-Ambrosi alikuwa mtawala wa Milani. Wakati askofu wa Milani alipokufa mnamo mwaka BK 374, kutuliza ghasia juu ya nani angekuwa Askofu baadaye. Ambrosi alipiga hatua katika kujaribu kushusha vitu chini, na watu katika kusanyika walipiga kelele kwamba yeye angekuwa askofu, hata ingawa yeye alikuwa bado haja batizwa yeye alilalamika lakinni mwishowe akaja kuwa askofu.
+Ambrosi alikuwa mtawala wa Milani. Wakati askofu wa Milani alipokufa mnamo mwaka BK 374, kutuliza ghasia juu ya nani angekuwa Askofu baadaye. Ambrosi alipiga hatua katika kujaribu kushusha vitu chini, na watu katika kusanyiko walipiga kelele kwamba yeye angekuwa askofu, hata ingawa yeye alikuwa bado haja batizwa yeye alilalamika lakinni mwishowe akaja kuwa askofu.
 
-Wakati mtawala Theodosi kwenye uwanja wa watu waliouwawa, Ambrosi aliwasiliana naye. Theodosi alifanya toba kwa kuvaa mavazi ya magunia na kupiga magoti mbele ya askofu akiomba msamaha. Huu ulikuwa mwanzo wa serikali kunyenyekea mbele ya kanisa.
+Wakati mtawala Theodosi kwenye uwanja wa watu waliouawa, Ambrosi aliwasiliana naye. Theodosi alifanya toba kwa kuvaa mavazi ya magunia na kupiga magoti mbele ya askofu akiomba msamaha. Huu ulikuwa mwanzo wa serikali kunyenyekea mbele ya kanisa.
 
 Tunaona maendeleo ya uhusiano wa kanisa na serikali:
 
@@ -112,19 +110,19 @@ Yeromi (aliyejulikana kama Eusebio) alitafasiri Biblia kwenda Kilatini mnamo mwa
 
 ### Patriki (390 BK)
 
-Patriki alikuwa mmishenari kutoka Uingereza kwenda Ireland. Aliuleta ukiristo huko Ireland, na kanisa huko Ireland liliendelea kwa inje ya Utaratibu wa kirumi. Ireland haikuwa wakatoliki hadi 1100s.
+Patriki alikuwa mmishenari kutoka Uingereza kwenda Ireland. Aliuleta ukristo huko Ireland, na kanisa huko Ireland liliendelea kwa nje ya Utaratibu wa kirumi. Ireland haikuwa wakatoliki hadi 1100s.
 
 ## Matukio ya ufunguo wa kipindi
 
 ### Baraza la Nikia (325—460 BK)
 
-Katika Agano Jipya hasa hasa injili ya Yohana, tunaona kuwa Yesu yuko sawa na Baba, lakini hakuna habari za moja kwa moja kuwahusu uhusiano wao. Swali lilikuwa kwamba vipi mtu aweza kuwaabudu wote Yesu na Baba hata sasa bado kuna swali hili kwa (mtu wanaoamini kwa mungu moja na kumwabudu)?
+Katika Agano Jipya hasa hasa injili ya Yohana, tunaona kuwa Yesu yuko sawa na Baba, lakini hakuna habari za moja kwa moja kuhusu uhusiano wao. Swali lilikuwa kwamba vipi mtu aweza kuabudu wote Yesu na Baba hata sasa bado kuna swali hili kwa (mtu wanaoamini kwa mungu moja na kumwabudu)?
 
 Ario, aliyekuwa ni mzee katika Alexandria, alianza kuhubiri mnamo mwaka 318 BK kwamba Yesu hakuwa Mungu wakati wote, bali alikuwa ni mtumishi mdogo wa Mungu. Hili lilikuwa jibu lake kwa wana monotheism. Alexanda Askofu wa Ario alisema ikiwa Mungu habadiliki, na yeye siku zote amekuwa Baba basi hiyo humaanisha kuwa lazima siku zote awe na Mwana.
 
 Mjadala huu wa kidini ulimpata Constantino, kwa sababu vurugu zilianza kwa sababu hiyo. Mnamo mwaka 325 BK Constantino aliita baraza katika Nikia kutatua mjadala ulioibuliwa na Ario. Maasikofu zaidi ya 300 walihudhuria.
 
-Maasikofu walitengeneza maelezo ya imani, ambayo, baada ya nyogeza zingine zilizofanywa kipindicha Konstantinopo mnamo mwaka 381, ikajulikana kama shahada ya Nikia. Wote walitolewa pamoja na Ario ispokuwa Maasikofu wawili tuu walitia saini maelezo ya imani. Kifwatacho ni kifungu kamili cha shahada:
+Maaskofu walitengeneza maelezo ya imani, ambayo, baada ya nyogeza zingine zilizofanywa kipindi cha Konstantinopo mnamo mwaka 381, ikajulikana kama shahada ya Nikia. Wote walitolewa pamoja na Ario ispokuwa Maaskofu wawili tuu walitia saini maelezo ya imani. Kifwatacho ni kifungu kamili cha shahada:
 
 > Nasadiki kwa Mungu mmoja,  
 > Baba mwenyezi,  
@@ -135,7 +133,7 @@ Maasikofu walitengeneza maelezo ya imani, ambayo, baada ya nyogeza zingine ziliz
 > aliyezaliwa kwa Baba tangu milele yote.  
 > Mungu aliyetoka kwa Mungu, mwanga kwa mwanga,  
 > Mungu kweli kwa Mungu kweli,  
-> aliyezaliwa, bila kuumbwa, mwenye umungu mmoja na Baba:  
+> aliyezaliwa, bila kuumbwa, mwenye uungu mmoja na Baba:  
 > ambaye vitu vyote vimeumbwa naye.  
 > Alishuka kutoka mbinguni,  
 > kwa ajili yetu sisi wanadamu, na kwa ajili ya wokovu wetu.  
@@ -148,7 +146,7 @@ Maasikofu walitengeneza maelezo ya imani, ambayo, baada ya nyogeza zingine ziliz
 > akapaa mbinguni,  
 > amekaa kuume kwa Baba.  
 > Atakuja tena kwa utukufu,  
-> kuwahukumu wazima na wafu,  
+> kuwahukumu walio hai na wafu,  
 > nao ufalme wake hautakuwa na mwisho.  
 > Nasadiki kwa Roho Mtakatifu, Bwana mleta uzima:  
 > atokaye kwa Baba na Mwana.  
