@@ -1,4 +1,10 @@
-## Chapter 3 (The natural man's view of the weary round of life.)
+# Chapter 3 The Vanity of Life from the Naturalist's Perspective
+
+## Introduction
+
+- The natural man's view of the weary round of life.)
+
+- Naturalism is the "idea or belief that only natural (as opposed to supernatural or spiritual) laws and forces operate in the world.
 
 ### There is a Time for Everything, vs. 1-8
 

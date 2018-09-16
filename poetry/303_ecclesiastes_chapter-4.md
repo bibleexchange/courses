@@ -1,4 +1,4 @@
-## Chapter 4 (The Study of the Social Evils Apart from Faith)
+# Chapter 4 (The Study of the Social Evils Apart from Faith)
 
 ## Introduction
 
