@@ -90,6 +90,88 @@
 	- Write Your Own
 	- Traditional Set
 	- Customized by Preacher
+	
+-----
+# Order of Wedding Ceremony
+
+Music While guests arrive + Men and Joe enter with ME leading. + girls come together at back + Wed March
+
+Greeting ( Welcome, Prayer)
+Family and Friends, we are gathered here today in the presence of God as witnesses to the joining of JOSEPH and SEBRINA in marriage.
+Marriage is honorable before God and a holy institution; and so is not to be entered into lightly but with reverence.
+Into this SACRED TRUST these two people now come to be joined. 
+If any person can show just cause why they may not be joined together - let them speak now or forever hold their peace.
+-------------------------------------------------------------------------Please, pray with me...
+Singing
+ Sebrina’s dad wrote a special song for her and will now sing it to her.
+<<SEBRINA WILL SING A SURPRISE SONG TO DAD>>
+The Giving in Marriage
+Who gives this woman to be wed to this man?
+Wedding Challenge
+[GOSPEL PRESENTATION]
+Joseph and Sebrina share a common faith in Jesus Christ as their Lord and Savior. This relationship with Christ is central to their relationship with each other. This will be a faithful and enduring foundation for the life they are building together.
+They would like you to know Jesus as they do. All of us are born with a sin problem, missing our holy purpose. Sin weighs us down, defeats our dreams and separates us from God who is the creator of every good thing.
+Romans 6:23--For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. 
+You do not have to go another day at odds with God. Salvation is God’s free gift and Jesus will be your faithful Guide and Anchor. If you have any questions at all, please take someone aside (Joseph and Sebrina, myself and many other Believers present today) and just ask “TELL ME MORE.”
+============================================================================ 
+[WEDDING CHALLENGE]
+Joseph and Sebrina, by the help of God, I will challenge you briefly from Genesis 2 & Genesis 29. In both of these passages, we find the saying “Bone of my Bone” and “Flesh of My Flesh”.
+In Genesis 2, God had completed creating many magnificent creatures, Adam spent much time with them all naming each one, but Adam was still ALONE. God recognized this as a BAD THING.  While he is asleep, God performs surgery on Adam and takes out a rib, from which God forms Eve. Adam responds by saying “THIS is now bone of my bone, and flesh of my flesh.”
+In Genesis 29, Jacob was homeless and in the lowest point of his life. His brother hated him and so he is no the run.  He meets Rachel at well, who leave him standing -- probably nervous about bringing some stranger home to dad.
+But when her dad heard about Jacob, Laban ran full speed to great Jacob, “Surely thou art my bone and my flesh.” and Jacob didn’t have to sleep outside that night.
+THE CREDIT OF DESIGN goes entirely to God. God puts people together. He builds the families, he imparts the love, he ordains the times and seasons.
+But the Beautiful Union, you enter into today would never happen until you RECOGNIZED each other.
+1. ALWAYS RECOGNIZE its GOD’s DESIGN that brought you together and it will be your continued and MUTUAL commitment to his WILL that will KEEP you together.
+2. ALWAYS RECOGNIZE you are peers and equals in the most unequal of ways. Joseph you are responsible to lead as the spiritual head of your home. Sebrina you are responsible for the spiritual direction your home will take. Your very testimony of Godly living will sanctify your home.
+3. Finally, ALWAYS RECOGNIZE you belong to each other. Each other’s needs, wants, dreams, problems, issues, concerns. You share it all in common.
+Odds are there will challenges ahead, but always run toward each other, “Surely, thou art my bone and my flesh.”
+Wedding Vows
+[JOSEPH will make his vows to SEBRINA first.]
+Marriage is an institution ordained by God  and so is not to be entered into lightly, but after much consideration. 
+Joseph will you make your pledge to Sebrina, before God and these witnesses? [I WILL]
+[I WILL LEAD JOSEPH.]
+I, JOSEPH REYNOLDS, take you SEBRINA HEDRICK,  
+to be my lawfully wedded wife, 
+to have and to hold from this day forward, 
+for better or for worse, 
+for richer, for poorer, 
+in sickness and in health, 
+to love and to cherish, 
+keeping myself solely unto you 
+for as long as we both shall live
+
+Sebrina will you make your pledge to Joseph, before God and these witnesses?
+ [Sebrina will make her personal vow to Joseph.]
+I, SEBRINA HEDRICK take you JOSEPH REYNOLDS,,
+to be my lawfully wedded husband, 
+to have and to hold from this day forward, 
+for better or for worse, 
+for richer, for poorer, 
+in sickness and in health, 
+to love and to cherish, 
+keeping myself solely unto you 
+for as long as we both shall live
+
+Sand and Song
+While Kirk is singing, As a symbol of their two lives becoming one, Joseph and Sebrina will add the two colors of their lives to a gray foundation already poured which is God.
+Wedding Rings
+[Give Joseph the ring. Joseph starts the ring at the end of Sebrina’s Left ring finger. ]
+I  give you this ring as an eternal symbol and pledge of my love and commitment and devotion. With this ring I thee wed.
+[Give Sebrina the ring.  SEBRINA  starts the ring at the end of Joseph’s Left ring finger.  ]
+I  give you this ring as an eternal symbol and pledge of my love and commitment and devotion. With this ring I thee wed.
+<<< SEBRINA WILL SING TO JOSEPH. >>>
+Pronouncement
+[STEPHEN will pray for God’s blessing on the couple and then pronounce them husband and wife. ]
+Let us pray ...
+By the power vested in me by the call of Almighty God and His Son the Lord Jesus Christ,  I now pronounce you husband and wife. You may now kiss the bride.
+Introduction (exit)
+It is now my pleasure to present for the first time as husband and wife, JOSEPH and SEBRINA REYNOLDS.
+[Congregation applauds, recessional begins and if they haven’t already, STEPHEN motions for everyone to rise. ]
+WAIT FOR WEDDING PARTY TO BE GONE … 
+10. Announcements
+-- No Parking on Grass, Limited Parking, DEFER TO ELDERLY and those with Physical Limitations
+-- MEN: 100 Chairs Brought Up , Billy Mcalip Will direct in the barn
+
 
 
 
