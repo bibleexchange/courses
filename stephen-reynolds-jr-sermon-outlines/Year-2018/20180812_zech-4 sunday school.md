@@ -1,4 +1,8 @@
-# Cry, Grace, Grace Unto it, v. 7
+<style>body {max-width:700px;} h2 {color:red;}</style>
+
+# Understanding How God Works
+
+Cry, Grace, Grace Unto it, v. 7
 
 TEXT: Zechariah 4:1-14
 
@@ -134,7 +138,9 @@ Missionaries more interested in bringing a western culture to the heathen than a
 
 The PIPES
 
-## 
+## The Flow - Worldliness
+
+Eccl
 
 Gambling -cards -
 Swimming separate from girls
@@ -143,4 +149,8 @@ Language
 "Dangerously specific"
 
 
-> I John 2:15-17
+> I John 2:15-17 1Jo 2:15 Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him.
+ 16 For all that is in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world.
+ 17 And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever.
+
+> Jude 23 And others save with fear, pulling them out of the fire; hating even the garment spotted by the flesh.
