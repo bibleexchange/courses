@@ -1,7 +1,8 @@
 ## Chapter 5 (When You Go to God's House, The Vanity of Riches and The Conclusion to Increase)
 
+<!--
 ## Introduction
-
+-->
 
 
 ## When You Go to God's House, vs. 1-8
@@ -110,9 +111,6 @@ Ecclesiastes 5:19 Every man also to whom God hath given riches and wealth, and h
 
 #### The Unfaithful
 
-
-
-
 > Revelation 22:12 &mdash; And, behold, I come quickly; and my reward is with me, to give every man according as his work shall be.
 
 - 1. BLESSING
@@ -188,7 +186,6 @@ F. E. Marsh has enumerated some of these blessings:
 9. A peace that can never be disturbed (John 14:27). 
 10. A righteousness that can never be tarnished (2 Cor. 5:21). 
 11. A salvation that can never be canceled (Heb. 5:9).
-
 
 <!--
 
