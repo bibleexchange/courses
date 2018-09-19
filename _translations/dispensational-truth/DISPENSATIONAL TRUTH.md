@@ -11,16 +11,16 @@ Kiada
 
 Saba juu ya mpango (Dispensations) wa Historia 
 
-0. Utangulizi na ukweli na Mpango
-1. Mpango na Hatia
+0. Utangulizi na ukweli wa Mpango
+1. Mpango wa kutokuwwa na Hatia
 2. Mpango na Dhamiri
 3. Mpango wa Serikali za Binadamu
-4. Mpango na Ahadi
-5. Mpango na Sheria
+4. Mpango wa Ahadi
+5. Mpango wa Sheria
 6. Mpango wa Neema
 7. Mpango wa Haki
 
-# Utangulizi na Ukweli na Mpango (Dispensational)
+# Utangulizi na Ukweli wa Mpango (Dispensational)
 
 _Mpango_ (Dispsensation) ni neno ambalo linaonekana katika nyakati za Biblia mara nne, na pia tunaweza kulipata katika Agano jipya (I Wakoritho 9:17; Waefeso 1:10; 3:2; Wakolosai 1:25).
 
@@ -28,33 +28,33 @@ Neno hili kwa Kigiriki ni _oikonomia_ linaweza pia kupatikana kutafsiriwa kama:
 
 * "Uwakili" (Luka 16:2&ndash;4)
 * "Wakili" (Luka 12:42; 16:1, 8; I Wakoritho 4:1&ndash;2; Tito 1:7; I Petro 4:10)
-* "Waku" ya jiji (Rum. 16:23)
+* "Wakuu" wa jiji (Rum. 16:23)
 * "Magavana" (Wagalatia 4:2)
 
 Mpango ni ukalimani wa historia kama mfululizo wa mpango wa (dispensations) Kimungu.
 
-**Kipindi cha wakati ambapo utii wa mwanadamu ni kipimo katika heshima na ufunuo baadhi na vitu maalum na mapenzi ya Mungu.**
+**Kipindi cha wakati ambapo utii wa mwanadamu ulipimwa  katika heshima na ufunuo wa baadhi ya vitu maalum ya mapenzi ya Mungu.**
 
 * Darasa hili linahusu wanadamu wote?
 * Kwa nini Mungu anafunua mapenzi yake kwetu hatua kwa hatua?
 * Kwa nini Mungu humpa Mwanadamu mtihani kabla ajaponya?
 * Nini kusudi la Mungu la umelele?
 
-Ni **huruma** ya Mungu kufunua mapenzi yake kwa wanadamu hatua kwa hatua. Mungu hakuwa anahitaji binadamu katika uchanga wake na kama vile anavyo inahitaji sasa. Baada ya kuanguka binadamu walikuwa hawana uzoefu wa dhambi na kufaidika kwa dhamiri yake. Yeye humpima mwanadamu kwanza kulingana na dhamiri yake kabla ya kumpima kwa mujibu wa sheria ilioandikwa. Hii ni kwa hekima na huruma zake Mungu.
+Ni **huruma** ya Mungu kufunua mapenzi yake kwa wanadamu hatua kwa hatua. Mungu hakuwa anahitaji binadamu katika uchanga wake na kama vile anavyo hitaji sasa. Baada ya kuanguka binadamu walikuwa hawana uzoefu wa dhambi na kufaidika kwa dhamiri yake. Yeye humpima mwanadamu kwanza kulingana na dhamiri yake kabla ya kumpima kwa mujibu wa sheria ilioandikwa. Hii ni kwa hekima na huruma zake Mungu.
 
-Mungu wetu mtakatifu ndie mwenye hukumu ya mwisho, Mungu ametoa kwa kila mtu nafasi na mazingira ya kumtumikia Mungu: Paradiso ni mahali pazuri kama bustani safi, hii inaonyesha ni kwa jinsi gani dhambi sio zuri kuizoea, na hata katika utawala wa milenia Kristo kwa mapenzi halisi kutawala juu ya nchi katika haki. Wakati wa nyakati za mwisho, ikiwa watu wataendelea kutembea na uovu na uwaasi wao pamoja na kuwa kuna nafisi ya kutubu na kusafisha mienendo yetu. Mungu amekwisha andaa hukumu ya milele kwa watu wasio tubu.
+Mungu wetu mtakatifu ndie mwenye hukumu ya mwisho, Mungu ametoa kwa kila mtu nafasi na mazingira ya kumtumikia Mungu: Paradiso ni mahali pazuri kama bustani safi, hii inaonyesha ni kwa jinsi gani dhambi sio nzuri kuizoea, na hata katika utawala wa milenia Kristo kwa mapenzi halisi kutawala juu ya nchi katika haki. Wakati wa nyakati za mwisho, ikiwa watu wataendelea kutembea na uovu na uwaasi wao pamoja na kuwa kuna nafasi ya kutubu na kusafisha mienendo yetu. Mungu amekwisha andaa hukumu ya milele kwa watu wasio tubu.
 
-Ni katika wakati wote Mungu kushughulika na mwanadamu kwa njia tofauti. Somo la "Ukweli wa mpango (Dispensational) wa darasa hili ni utafiti wa makusudi ya Mungu ya milele. Ugunduzi wa kusudi la Mungu wa milele katika mambo yote kwa ajili ya binadamu na hasa watu wake ndilo lengo anajivuna na uchunguzi huu. Sisi kutafuta nje JINSI Mungu ameshughulika na ubinadamu katika historia yote na, Ameamua kufanya hivyo.
+Katika wakati wote Mungu kushughulika na mwanadamu kwa njia tofauti. Somo la "Ukweli wa mpango (Dispensational) wa darasa hili ni utafiti wa makusudi ya Mungu ya milele. Ugunduzi wa kusudi la Mungu wa milele katika mambo yote kwa ajili ya binadamu na hasa watu wake ndilo lengo anajivuna na uchunguzi huu. Sisi kutafuta  JINSI Mungu ameshughulika na ubinadamu katika historia yote na, Ameamua kufanya hivyo.
 
-Ni mapenzi ya Mungu kwamba mtu anaone mambo kutoka hatua kwa hatuwa ya Mungu na kupata maoni ya mpango huu, lakini mtu hawezi kufanya hivyo bila ya Roho Mtakatifu. Kila jambo moja lina mipango yake na majaribio mapya kwamba mwisho katika kushindwa hukumu kuwasababishia mtu mkubwa katika kipindi kila. Vipindi hivi ni alama mbali katika Maandiko na kushughulika na wajibu wa mtu na si dhambi.
+Ni mapenzi ya Mungu kwamba mtu aone mambo kutoka hatua kwa hatua ya Mungu na kupata maoni ya mpango huu, lakini mtu hawezi kufanya hivyo bila ya Roho Mtakatifu. Kial mpango ukweli ulikuwa na kipimo kipya na kuishia na hukumu pale mwanadamu alipopita katika kila kila mpango ukweli kwamba mwisho katika kushindwa hukumu kuwasababishia. Vipindi hivi ni alama mbali katika Maandiko na kushughulika na wajibu wa mtu na si dhambi.
 
 ## Kuna mipango Saba (Vipindi saba katika Historia)
 
-### Mpango wa Hatia
+### Mpango wa kutokuwa na Hatia
 
 Kutokana na uumbaji wa mwanadamu na kuanguka kwa mwanadamu.
 
-Adamu alitembea pamoja na Mungu katika baridi ya siku na alijua mapenzi ya Mungu ilikuwa amepewa moja kwa moja mpango kutoka kinywa cha Mungu mwenyewe. Alikuwa anaitajika kusikia na kutii sauti ya Mungu. Adamu hakuwa na maarifa wakati ule yakamba jinsi dhambi iko namna gani, lakini alitakiwa tu kulisikiliza neno lake Mungu. Hii ilikuwa ni moja ya mtihani ambayo Adamu alipewa. Lakini tendo moja tu ambalo liliwakosesha ni kula tunda na ikawapelekea kuingia hatiani.
+Adamu alitembea pamoja na Mungu katika kupunga kwa siku na alijua mapenzi ya Mungu aliyoyamepewa moja kwa moja kutoka katika kinywa cha Mungu mwenyewe. Alikuwa anaitajika kusikia na kutii sauti ya Mungu. Adamu hakuwa na maarifa wakati ule yakamba jinsi dhambi iko namna gani, lakini alitakiwa tu kulisikiliza neno lake Mungu. Hii ilikuwa ni moja ya mtihani ambayo Adamu alipewa. Lakini tendo moja tu ambalo liliwakosesha ni kula tunda na ikawapelekea kuingia hatiani.
 
 > Mwanzo 3:8 - Kisha wakasikia sauti ya Bwana Mungu, akitembea bustanini wakati wa jua kupunga: na Adamu na mkewe wakajificha kutoka mbele za Bwana, Mungu miongoni mwa miti ya bustani.
 
@@ -64,7 +64,7 @@ Kutoka anguko la mwanadamu na mafuriko
 
 Mwanzo 6:5 - BWANA akaona ya kuwa maovu ya mwanadamu ni makubwa duniani na kwamba kila kusudi analowaza moyoni mwake ni baya tu sikuzote.
 
-### Mpango wa Serikali za Binadamu (Self-mapenzi)
+### Mpango wa Serikali za Binadamu [mapenzi binafsi)
 
 Kutoka gharika na wito wa Abramu
 
@@ -86,7 +86,7 @@ Kutoka kurudi kwa Kristo Mbingu Mpya na Dunia
 
 ## Kuna mambo matatu katika vipindi mbali mbali kwenye Historia (au Zama)
 
-Katika nyakati hizo ni kipindi cha mabadiliko ya moja kwa moja na iliyotiwa alama au vurugu katika dunia na mabadiliko ya mwingine alama kuwashirikisha wenyeji wa dunia.
+Katika nyakati hizo ni kipindi cha mabadiliko ya moja kwa moja na yaliyotiwa alama au vurugu katika dunia na mabadiliko mengine yaliyotiwa alama yalihusisha makazi  ya dunia.
 
 1. Wakati wa Antediluvian&mdash;kipindi cha muda kabla ya mafuriko au gharika
 2. Wakati&mdash;Kutoka mafuriko ya utawala wa Milenia wa Kristo
@@ -94,12 +94,12 @@ Katika nyakati hizo ni kipindi cha mabadiliko ya moja kwa moja na iliyotiwa alam
 
 ## Kuna awamu saba katika dunia hii
 
-1. Huwalisi wa Dunia  
+1.  Dunia ya asili  
 Mwanzo 1:1- Katika mwanzo Mungu aliumba mbingu na nchi."
 2. Dunia –Yauwaribifu na kutoelewana  
-Mwanzo 1:2 "Nayo nchi ilikuwa ukiwa, tena utupu, na giza Lilikuwa juu ya uso wa vilindi vya maji,Roho ya Mungu ikatulia juu ya uso wa maji.  
+Mwanzo 1:2 "Nayo nchi ilikuwa ukiwa, tena utupu, na giza Lilikuwa juu ya uso wa vilindi vya maji, Roho ya Mungu ikatulia juu ya uso wa maji.  
 Kiyahudi - "Bohuw" - tupu, uharibifu, utupu
-3. Dunia ya (Bustani y Edeni)  
+3. Dunia ya (Bustani y Edeni)   
 Mwanzo 1:3–2:25 Kutengenezwa kwa Dunia na anguko la Adamu. Mwanzo 3
 4. Dunia ya ( mafuriko au gharika)  
 Mwanzo 1:3 Kutengenezwa kwa Dunia na mafuriko (Mwanzo 6–7).
@@ -107,7 +107,7 @@ Mwanzo 1:3 Kutengenezwa kwa Dunia na mafuriko (Mwanzo 6–7).
 Mwanzo 8:1- Kutoka mafuriko kwa ujio wa pili wa Kristo.
 6. Dunia na melinia  
 Kutoka ujio wa pili wa Kristo hadi mwisho wa Utawala wa Milenia wa Kristo (Ufunuo 20:1–6)
-7. Mbingu mpya na Dunia mpya  
+7. Mbingu mpya na Dunia mpya   
 Ufunuo 21:1 "Kisha nikaona mbingu mpya na dunia mpya kwanza
 mbingu na nchi ya kwanza zimekwisha kupita;"
 
@@ -115,14 +115,14 @@ Unabii unafumbua mpango wa Mungu kwa maisha ya Kanisa kushinda kwa kanisa zima k
 
 ## Mitazamo mitatu ya Dunia
 
-### Dunia halisi (Mwanzo 1:1)
+### Dunia ya asili (Mwanzo 1:1)
 
 #### Kipengele na wakati
 
-#### Imeundwa na Neno yake (Zaburi 33:6–9; 148:5; Yohana 1:1–3; Ebr. 1:2–3)
+#### Imeundwa kwa Neno lake (Zaburi 33:6–9; 148:5; Yohana 1:1–3; Ebr. 1:2–3)
 
 #### Elimu ya jiolojia kuchunguza na kubashiri juu ya mabaki ya nishati,
-lakini tuna uhakika wa Mungu na Neno Zaburi 27:14; Ebr. 11:3)
+lakini tuna uhakika wa Neno la Mungu Zaburi 27:14; Ebr. 11:3)
 
 #### Faida baada Mbingu (Mwanzo 1:1; Ayubu 38:1–4, 6, 7; Kol. 1:16)
 
@@ -138,9 +138,9 @@ lakini tuna uhakika wa Mungu na Neno Zaburi 27:14; Ebr. 11:3)
 * Dhambi yake na kiburi (Eze. 28:17; Isa. 14:12–13)
 * Madhara ya dhambi na Lusifa (Ufunuo 12:4–9)
 
-#### Madhara ya dhambi Mungu alikwisha uhukumu uflme wa Lusifa
+#### Madhara ya dhambi Mungu alikwisha uhukumu ufalme wa Lusifa
 
-Mwanzo 1:2—Dunia ilikuwa <Hyah "became"> ukiwa na utupu <"tohu na Bohu"> (Yer. 4:23)
+Mwanzo 1:2—Dunia ilikuwa ukiwa na utupu <"tohu na Bohu"> (Yer. 4:23)
 
 ### Dunia ilifanyika kwa Neno la Mungu (Mwanzo 1:3–25)
 
@@ -195,15 +195,15 @@ Ulimwengu: nafasi, na nafsi moja na wakati.
 
 ##### Jambo hili lina sehemu tatu (Nguvu na msisimko, na matukio)
 
-#### Maji ni kitu kimoja, kinajulikana katika aina tatu (Liquid, Ice, Steam)
+#### Maji ni kitu kimoja, kinajulikana katika aina tatu (kimiminika, barafu, mvuke)
 
 #### Jua liko moja (Mwanga, joto, moto)
 
 #### Mwanga una sehemu tatu za miozi
 
 1. Muhtasari wa miozi. Miozi itokanayo na Kimikali ambayo unaweza kushindwa kuonekana.
-2. Mwanga. Miozi ambayo unaweza kuonekana lakini kamwe haionekani.
-3. Miozi ya joto. Moizi hii
+2. Mionzi ya Mwanga. Mionzi ambayo unaweza kuonekana lakini kamwe haionekani.
+3. Mionzi ya joto. Moizi hii huwa inashuka ila haionekanagi
 
 ### Kusudi la Mungu ni la Umilele wote
 
@@ -213,7 +213,7 @@ Yeye ni Chanzo cha yote na mambo yatoka kwake na Kila kitu kitaondoka kwa mapenz
 
 Waefeso 3:11
 
-Ni muhimu kwa ajili yetu ili kuona jinsi gani Mungu wa milele ana taka, kuutekeleza kusudi lake, na lengo nalinakuwa muhimu kwa kuelewa kile yeye na hatima aliyokusudia (Warumi 8:29).
+Ni muhimu kwa ajili yetu ili kuona jinsi gani Mungu wa milele anataka, kutekeleza kusudi lake, na lengo linakuwa muhimu kwa kuelewa kile yeye na hatima aliyokusudia (Warumi 8:29).
 
 ### Makusudi matatu na mandhari katika umilele
 
@@ -252,18 +252,18 @@ Tunaona kukaa kwake na Baba katika kiti cha enzi.
 
 Yeye anashikilia ofisi ya Mfalme wa Mbinguni na Duniani.
 
-# Mpango wa Hatia
+# Mpango wa kutokuwa na Hatia
 
 * Nyakati za Antediluvia (nyakati tatu za mwanzo) hadi kutoka Uumbaji wa dunia (Mwanzo 1:3) na mafuriko.
 * Katika nyakati hii kulikuwa na mambo mbili mipango saba (Mpango wa Hatia na Mpango wa Dhamiri)
 
-## Mpango wa Hatia au mpango Edenic hadi kutoka uumbaji wa Adamu ya kufukuzwa kutoka Bustani ya Edeni na Muda wake haijulikani. It's duration is unknown.
+## Mpango wa kutokuwa na Hatia au mpango wa bustani ya  Edeni hadi kutoka uumbaji wa Adamu na kufukuzwa kutoka Bustani ya Edeni na Muda wake haijulikani. 
 
 ## Mtu aliumbwa na Mungu (Mwanzo 2:7; Isa. 42:5; Isa. 45:12)
 
-## Mtu aliumbwa katika Hatia (Mwanzo 1:27; 2:25)
+## Mtu aliumbwa kutokuwa na Hatia (Mwanzo 1:27; 2:25)
 
-## Mtu alikuwa heri na aliamuru kwa Mungu kwa kufanya kitu (Mwanzo 1:28)
+## Mtu alibarikiwa na aliamriwa na Mungu kwa kufanya kitu flani(Mwanzo 1:28)
 
 ## Wanadamu waliwekwa katika mazingira kamili
 
@@ -275,15 +275,15 @@ Mungu akamwagiza huyo mtu na aitunze (Mwanzo 2:15).
 
 ## Mtu mmoja alipewa na alitakiwa awe na utii kwa Mungu (Mwanzo 2:16–17)
 
-Maana ya "wakala wa bure na maadili" ni muda: haki ya kuchagu, ameumbwa kwa sura na kwa mfano wa Mungu, Adamu alikuwa amekwenda kinyume na agizo la Mungu nakuchaguwa njia yake mwenyewe wakati yeye hakubwa afanye dhambi na kupoteza uhuru wake katika kuchagua dhambi. Kuchagua haki huleta uhuru, lakini kuchagua dhambi huleta utumwa na mauti. Chini ya dhambi, shirika na maadili ya mtu ni kuchukuliwa mateka kwa mtu katika dhambi na mtumwa wa dhambi (Warumi 7:14–17, 2 Timotheo 2:26). Mwanadamu na ushirika wa maadili ni kuchaguwakuwa kabisa kumtumikia Kristo Yesu.
+Maana ya "wakala maadili huru"  haki ya kuchagu, ameumbwa kwa sura na kwa mfano wa Mungu, Adamu alikuwa amekwenda kinyume na agizo la Mungu na kuchaguwa njia yake mwenyewe wakati yeye hakuumbwa afanye dhambi na kupoteza uhuru wake katika kuchagua dhambi. Kuchagua haki huleta uhuru, lakini kuchagua dhambi huleta utumwa na mauti. Chini ya dhambi, shirika na maadili ya mtu ni kuchukuliwa mateka kwa mtu katika dhambi na mtumwa wa dhambi (Warumi 7:14–17, 2 Timotheo 2:26). Mwanadamu na ushirika wa maadili ni kuchagua kuwa kabisa kumtumikia Kristo.
 
 ## Majaribu na jaribio (Mwanzo 3:1–5)
 
 ### Shetani alikuwa chanzo cha majaribu (Mwanzo 3:1; Yakobo 1:12–15)
 
-Mungu aliruhusu majaribu lakini hakuweka majaribu hayo kwa watu.
+Mungu aliruhusu majaribu lakini hakuweka majaribu hayo kwa mwanadamu.
 
-### Shetani ana mamlaka ya kumjaribu, lakini hawezi kulazimisha kushawishi (Mwanzo 3:6)
+### Shetani ana mamlaka ya kujaribu, lakini hawezi kulazimisha kushawishi (Mwanzo 3:6)
 
 ### Shetani ambaye ni baba wa uongo hutumia uongo ili kuwadanganya watu (Mwanzo 3:4)
 
@@ -317,7 +317,7 @@ Kusudi la Shetani katika majaribu lilikuwa kuharibu kusudi la Mungu,
 kusudi katika uumbaji wa mtu hapa duniani, na kuwa
 taifa takatifu la Mungu.
 
-Katika kujitoa kwa majaribu na kwa kutotii yaharibiwa hatia yao na kuweka hofu ndani ya mioyo yao na kuvunja ushirika na Mungu. hii iliwachukua kutoka hali ya kutokuwa na hatia. Hivyo mwanadmu alijua dhambi ni nini na alijificha na uso wa Bwana.
+Katika kujitoa kwa majaribu na kwa kutotii yaharibiwa hatia yao na kuweka hofu ndani ya mioyo yao na kuvunja ushirika na Mungu. Hii iliwachukua kutoka hali ya kutokuwa na hatia. Hivyo mwanadmu alijua dhambi ni nini na alijificha na uso wa Bwana.
 
 ## Hatia ni hatua moja kutoka haki lakini haiwezi kuwa haki mpaka kupimwa
 
@@ -327,19 +327,19 @@ Adamu na Hawa walishindwa mtihani na hatua moja kutoka hatia ikawa hatua moja ya
 
 ## Mpango wa Kwanza (Hatia) kuishia katika hukumu na kufukuzwa (Mpango Edeni ulikuwa wa kipekee)
 
-Ndipo pakawa na sifa ya ukosefu wa dhambi nakuto kuwa na uwepo wa Mungu.
+Ndipo pakawa na sifa ya ukosefu wa dhambi na kutokuwa na uwepo wa Mungu.
 
-Mwanadamu akadai kwamba hana hatia na mazingira yalikuwa kamili naya kutosha na ulinzi salama,ili kuzuia dhambi lakini Edeni inathibitisha hii si kweli. Mtu na dhambi na wakati wa kufurahia hali ya kutokuwa na hatia kabisa na mazingira kamili. Mtu anaweza tu kushinda dhambi kwa njia ya neema ya Mungu.
+Mwanadamu akadai kwamba hana hatia na mazingira yalikuwa kamili naya kutosha na ulinzi salama, ili kuzuia dhambi lakini Edeni inathibitisha hii si kweli. Mtu na dhambi na wakati wa kufurahia hali ya kutokuwa na hatia kabisa na mazingira kamili. Mtu anaweza tu kushinda dhambi kwa njia ya neema ya Mungu.
 
 # Mpango na Dhamiri
 
 ## Kutoka kufukuzwa Bustani ya Edeni mpaka mafuriko ya wakati wa Nuhu
 
-Mwanadamu kwa matokeo ya dhambi, akapoteza ufahamu wake wa kumjuwa "Mungu na kwamatokeo hayo mwanadamu akaazi kutafuta ufahamu wake "macho yakafunguliwa." Dhamira yake akaaza kuzalisha hofu na kutazamia toba kwa Mungu wetu, lakini haiwezi kumuweka watu kutoka kufanya vibaya, kwa ajili ya dhamiri hiyo kutokana na nguvu hiyo.
+Mwanadamu kwa matokeo ya dhambi, akapoteza ufahamu wake wa kumjua "Mungu na kwa matokeo hayo mwanadamu akaanza kutafuta ufahamu wake "macho yakafunguliwa." Dhamiri yake ikaanza kuzalisha hofu na kutazamia toba kwa Mungu wetu, lakini haiwezi kumuweka mwanadamu kutoka kufanya vibaya, kwa ajili ya dhamiri hiyo kutokana na nguvu hiyo.
 
 ## Mwanadamu alikuwa na mwanzo nzuri zaidi katika wakati hule 
 
-Alikuwa na ahadi ya laana ya kuinuliwa. Hata hivyo baadaye miaka ya 1,536 kulingana na Mwanzo 6:11–13 nchi ilikuwa na rushwa na kujazwa na vurugu.
+Alikuwa na ahadi ya laana na kuinuliwa. Hata hivyo baadaye miaka 1536 kulingana na Mwanzo 6:11–13 nchi ilikuwa na rushwa na kujazwa na vurugu.
 
 ## Adamu na Hawa hawakuwa na watoto kabla ya kuanguka 
 
@@ -371,7 +371,7 @@ Na idadi ya familia yao lazima ilikuwa kubwa (Mwanzo 5:3–4)
 
 #### Kuna kanuni za kudumu katika Wagalatia 6:7–8 na 5:19–21 itakapokamilika katika Mwanzo 4:8
 
-#### Kaini inakuwa muuaji wa kwanza kama vile mwana wa kwanza katika kuzaliwa
+#### Kaini anakuwa muuaji wa kwanza kama vile mwana wa kwanza katika kuzaliwa
 
 #### Kanuni ya dhambi ya Shetani na ufalme wake ni katika kazi zake tangu mwanzo nazo ni Wivu Idara ya uovu na Kifo
 
@@ -421,9 +421,9 @@ Dhambi hufanya Mtu awe katika minyororo (Marko 5:1). Kwanza kuna watu wengi wame
 
 Nomad "kama vile kukaa hemani" rancher "na ya kuwa kama vile ng'ombe"; Ishara nyingine - Kilimo, Mifugo.
 
-#### Mst. 21 "Jubal" maana yake "Music" mara kwa mara ni mkondo
+#### Mst. 21 "Jubal" maana yake "Muziki" mara kwa mara ni mkondo
 
-"Baba wa wote utukunzwa na kinubi na kinanda."
+"Baba wa wote utukuzwa na kinubi na kinanda."
 
 Ishara nyingine – ni ishara kama vile miziki ya taratibu.
 
@@ -439,15 +439,15 @@ Ishara nyingine - silaha zaidi inayoua.
 
 Si Kuzaliwa – Waliozaliwa - Mauaji – Kujiua - Mauaji ya Kimbari – Kuuwa Mama – Kuuwa Baba
 
-### Mwanzo 5 inahusika na kuonyesha k iza cha kuazia Adamu mpaka Nuhu
+### Mwanzo 5 inahusika na kuonyesha kisa cha kuanzia Adamu mpaka Nuhu
 
 #### Inaonyesha pia uthibitisho wa laana "Na yeye mpaka kufukuzwa"
 
-#### Henoko alikuwa ikizingatia sheria ya Mungu (Mwanzo 5:21–24; Waebrania 11:5)
+#### Henoko alikuwa akizingatia sheria ya Mungu (Mwanzo 5:21–24; Waebrania 11:5)
 
 #### Henoko maana yake ni wakfu, maelekezo, nidhamu, ulianzishwa, kufahamiana na fumbo au siri.
 
-#### Henocho alikuwa ni wakizazi cha saba tangu Adamu
+#### Henoko alikuwa ni wakizazi cha saba tangu Adamu
 
 Yeye mara nyingi alikuwa akitafsiri wakati wa baba yake Yaredi. Henoko akaenda pamoja na Mungu baada ya Ufunuo.
 
@@ -457,7 +457,7 @@ Yaliyotafsiriwa kabla ya Hukumu.
 
 #### Methusela ni aina ya Kanisa
 
-Jina lake ni eneo la Kiebrania neno - "Wakati yeye ni mtu wa kwenda na pia kurudi"; Yeye aliishi mpaka wakati wa mafuriko (mst. 25) 187 miaka (mst. 28) 182 miaka (7:6) 600. Kutoka kuzaliwa Methusela mpaka mafuriko ilikuwa na miaka 969; Methusela akaishi miaka 969 (Mwanzo 5:27). Yeye alikuwa ishara.
+Jina lake ni eneo la Kiebrania neno - "Wakati yeye ni mtu wa kwenda na pia kurudi"; Yeye aliishi mpaka wakati wa mafuriko. Mst. 25 - 187 miaka. Mst. 28 - 182 miaka. Mwanzo 7:6 - 600 miaka. Kutoka kuzaliwa Methusela mpaka mafuriko ilikuwa na miaka 969; Methusela akaishi miaka 969 (Mwanzo 5:27). Yeye alikuwa ishara.
 
 #### Nuhu ni aina ya kuokolewa, kuhifadhiwa kwa njia ya Hukumu.
 
@@ -537,7 +537,7 @@ Deluge ilidumu 1 mwaka na siku 10. Nuhu alikuwa na umri wa miaka 601 wakati wa m
 
 ### Mungu alimuaru Nuhu baada ya mafuriko na "Toka Marikebu ya safina" na "Zaeni, mkaongezeke" (Mwanzo 8:16–17)
 
-### Nuhu alipo maliza kipinda cha mafuriko na Safina aliweza kujenga madhabahu kwa Bwana (Mwanzo 8:20)
+### Nuhu alipo maliza kipindi cha mafuriko na Safina aliweza kujenga madhabahu kwa Bwana (Mwanzo 8:20)
 
 ### Mungu alifanya agano na Nuhu ili Yeye hakutaka kuiaangamiza duniani tena kwa gharika (Mwanzo 8:21–22; 9:8–11)
 
@@ -547,11 +547,11 @@ Deluge ilidumu 1 mwaka na siku 10. Nuhu alikuwa na umri wa miaka 601 wakati wa m
 
 ### "Mkaijaze nchi" (Mwanzo 9:1)
 
-### Kila kitu kiko mikononi mwenu Nuhu (Mwanzo 9:2)
+### Kila kitu kiko mikononi mwake Nuhu (Mwanzo 9:2)
 
-### Huwezo wa kula nyama (Mwanzo 9:3)
+### Uwezo wa kula nyama (Mwanzo 9:3)
 
-### Damu, ulikatazwa kuwa kuliwa (Mwanzo 9:4)
+### Damu, Ilikatazwa kuliwa (Mwanzo 9:4)
 
 ### Adhabu ya kifo (Mwanzo 9:5–6)
 
@@ -605,11 +605,11 @@ Pia baba wa Nimrodi (Mwanzo 10:8–10). Jina lakelinamaanisha "waasi."
 
 ### Unabii juu ya Yafethi (Mwanzo 9:27)
 
-#### Yafethi maana ya "nzuri"
+#### Yafethi maana ya "Mzuri"
 
 #### Yafethi alikuwa baba wa mataifa mengine
 
-#### "Mungu alidhamiri kumuendeleza Yafethi"
+#### "Mungu atamkuza Yafethi"
 
 #### Walikuwa kama watu, walioenea nje kila mahali.
 
@@ -673,7 +673,7 @@ Mpango huu anapata jina lake kutokana na ahadi yake Mungu kwa Ibrahimu na uzao w
 
 Mtume Paulo, anaongea na dunia juu ya wapagani katika Warumi, kwenye sura hii ya kwanza unaweza kuona ilivyo kuwa kwa jinsi walivyobadili utukufu wa Mungu asiye na uharibifu kwa mfano wa sura ya binadamu aliye na uharibifu, na ya ndege na ya wanyama na ya vitambaavyo (Warumi 1:23).
 
-Miungu na mfumo huu wa binadamu wakuabudu sanamu uliweza kutokea katika Ugiriki, wale wa aina ya bestial katika mji wa Misri; na mbinu zote za ibada waliweza kuzitekeleza katika Roma. Nyoka na ibada ilikuwa ni kawaida katika Ukaldayo na pia katika Misri. 
+Miungu na mfumo huu wa binadamu wakuabudu sanamu uliweza kutokea katika Ugiriki, wale wa aina ya wanyama katika mji wa Misri; na mbinu zote za ibada waliweza kuzitekeleza katika Roma. Nyoka na ibada ilikuwa ni kawaida katika Ukaldayo na pia katika Misri. 
 
 Watu wa siku za Abrahamu walitokea kuwa na mawazo maouvu Mungu akamtumia mtu ili kupitia yeye jamii ya wakati ule iweze kupokea mbegu njema.
 
@@ -697,7 +697,7 @@ Watu wa siku za Abrahamu walitokea kuwa na mawazo maouvu Mungu akamtumia mtu ili
 
 ### Ibrahimu aliishi wapi? (Mwanzo 11:31)
 
-### Ni jambo gani tunaweza kujuwa kwa habari ya mji alio ishi na historia yake kidini?
+### Ni jambo gani tunaweza kujua kwa habari ya mji alio ishi na historia yake kidini?
 
 Mataifa na nchi. Walikuwa wakimwabudu mungu mwezi (Yoshua 24:2).
 
@@ -719,15 +719,14 @@ Mataifa na nchi. Walikuwa wakimwabudu mungu mwezi (Yoshua 24:2).
 
 > Mwanzo 12:1—Ondoka ... mpaka nchi
 
-Kwa watu wa Mungu pekee kulikuwa na mahali pekee. Inasemekana kwamba Myahudi ni mahali pamuujiza wa historia na Kanaani ni eneo la ajabu la kijiografia.
+Kwa watu wa Mungu pekee kulikuwa na mahali pekee. Inasemekana kwamba  Uyahudi ni mahali pamuujiza wa historia na Kanaani ni eneo la ajabu la kijiografia.
 
 ### Ni sehemu iliyo kuwa upande kati ya Frati na Nile na mabonde ya mto
 
 Ilikuwa kwenye njia ya biashara ya kimataifa kati ya Misri na Mesopotamia. Ni inajulikana kama daraja kati ya nchi ya kaskazini na kusini.
 
-### Ni sehemu yenye ukubwa
+### Ni sehemu yenye  ukubwa wake ulikuwa kutoka Dan hadi Bersheba - maili 155 urefu na upana ni maili 55
 
-Dan ya Beersheba. 155 maili kwa urefu na upana wa 55 maili.
 
 ### Ni hali ya hewa
 
@@ -739,7 +738,7 @@ Bahari ya Chumvi ni eneo lenye utajiri mkubwa wa Madini hayo yamekadiriwa kwamba
 
 ## Ibrahimu na Agano (Mwanzo 13:14–17; 15:5; 17:4–8)
 
-### Mbegu zitakuwa kama mavumbi ya nchi
+### uzao utakuwa kama mavumbi ya nchi
 
 ### Nyota za angani
 
@@ -749,9 +748,9 @@ Bahari ya Chumvi ni eneo lenye utajiri mkubwa wa Madini hayo yamekadiriwa kwamba
 
 ### Ibrahimu alikuwa na miaka mia moja wakati Isaka alizaliwa (Mwanzo 17:17)
 
-### Ni nini ilikuwa mmenyuko wa Ibrahimu kwa ahadi ya mwana? (Mwanzo 17:17)
+### Ni nini ilikuwa mwitikio wa Ibrahimu kwa ahadi ya mwana? (Mwanzo 17:17)
 
-### Ni nini ilikuwa mmenyuko Sara kwa ahadi ya mwana? (Mwanzo 18:12–15)
+### Ni nini ilikuwa mwitikio wa Sara kwa ahadi ya mwana? (Mwanzo 18:12–15)
 
 ### Nini maana ya Isaka? 
 
@@ -815,74 +814,74 @@ Kwa kutega kwa Uzuri.
 ### Roho kama Kristo
 
 * Katika kuwasamehe ndugu zake (Mwanzo 45:15)
-* Kwa kurudi mema kwa mabaya (Mwanzo 50:19–21)
+* Alilipiza mabaya kwa mema (Mwanzo 50:19–21)
 
 # Mpango wa Sheria
 
 ## Utangulizi
 
-### Muda wa mpango na Sheria
+### Kipindi cha mpango ukweli wa Sheria
 
 Muda wa Vipindi vitano vilikuwa ni vipindi vya wakati wa Kutoka kwa Kusulibiwa. Mpango wa Sheria kufunikwa na kipindi cha miaka 1718.
 
 Wagalatia 3:24-Basi, hiyo Sheria ilikuwa kama mlezi wetu kutuleta kwa Kristo, ili tuhesabiwe haki kwa imani (Warumi 10:4; Mat. 5:17; Matendo 13:39; Warumi 3:28, 31; 8:3, 4).
 
-### Divisheni Mgawanyo na mpango wa Sheria
+###  Mgawanyo na mpango wa Sheria
 
 Mpango huu imegawanywa katika masomo manne:
 
-1. Kwanza (Division) Sehemu - Kutoka kwa Utawala wa Sulemani
-2. Pili (Division) Sehemu - kutoka Idara ya Uingereza kwa wafungwa
-3. Tatu (Division) kutoka matengenezo ya mwisho wa Agano la Kale
-4. Nne Idara (Division) - mwanzo wa Agano Jipya kwa Kusulibiwa kwa Yesu Kristo
+1. Mgawanyo wa kwanza - Kutoka kwa Utawala wa Sulemani
+2. Mgawanyo wa pili - kutoka mgawanyo wa Ufalme hadi Utumwani 
+3. Mgawanyo wa tatu - kutoka matengenezo ya mwisho wa Agano la Kale
+4. Mgawanyo wa nne - mwanzo wa Agano Jipya kwa Kusulibiwa kwa Yesu Kristo
 
-### Maelezo ya Sheria ya Mungu
+!! ### Maelezo ya Sheria ya Mungu
 
 #### Amri au sheria 613 za Torati zikagawanywa katika makundi matatu makubwa:
 
-1. **Kwa njia ya kiroho Sheria** hii ni katika Amri kumi ambazo mtu aliambia jinsi ya kufanya maisha yake ya kiroho na jinsi ya kushughulika na wanadamu wenzake.
-2. **Sheria ya kiraia** hii inahusika na uendeshaji wa vyama vya kiraia na Mungu kama mkuu wa jamii hiyo.
-3. **Sherehe sheria** hii inajumuisha mambo ya dhabihu za wanyama na ukuhani, na sheria nyingine kuhusu hekalu na ibada.
+1. ** Sheria za kimaandiko** hii ni katika Amri kumi ambazo mtu aliambiwa jinsi ya kuishi maisha yake ya kiroho na jinsi ya kushughulika na wanadamu wenzake.
+2. **Sheria ya kiraia** hii inahusika na uendeshaji wa jamii  na Mungu kama mkuu wa jamii hiyo.
+3. **Sheria za sherehe** hii inajumuisha mambo ya dhabihu za wanyama na ukuhani, na sheria nyingine kuhusu hekalu na ibada.
 
-#### Sheria ya Mungu ilikuwa Agano na Israeli nakukubaliana kulituza na kuliweka
+#### Sheria ya Mungu ilikuwa Agano yna Israeli na kukubaliana kulitunza
 
-Sheria ilikuwa na agano kati ya Mungu na Israeli. Israeli waliahidi kufanya hivyo kwa Mungu kwa yote alioyamuru. Hii ilikuwa ni agano ambalo wana wa Israeli walikubali kuchunguza wakati huo akasema na Musa, "Wewe mwambie Bwana kwamba yote yeye akisema, sisi tutafanya."
+Sheria ilikuwa na agano kati ya Mungu na Israeli. Israeli waliahidi kufanya hivyo kwa Mungu kwa yote alioyaamuru. Hii ilikuwa ni agano ambalo wana wa Israeli walikubali kuyafanya atakayosema  Musa, "Wewe mwambie Bwana kwamba yote yeye akisema, sisi tutafanya."
 
 > Kutoka 19:8—Na watu wote wakiitika pamoja wakisema hayo yote aliyoyasema BWANA tutayatenda. Naye Musa akamwambia BWANA maneno ya hao watu.
 
-(Kutoka 24:3, 7; Kumb. 5:27; Josh. 1:16, II Wafalme 10:5, Yer. 18:12; 42:20)
+(Kutoka 24:3, 7; Kumb. 5:27; Yosh. 1:16; II Wafalme 10:5; Yer. 18:12; 42:20)
 
-> Yakobo 4:15—Badala ya kusema Bwana akipenda,tutakuwa hai na kufanya hivi au hivi.
+> Yakobo 4:15—Badala ya kusema Bwana akipenda, tutakuwa hai na kufanya hivi au hivi.
 
 (II Wathesalonike. 3:4)
 
-Sheria ya Mungu kwa Mara nyingi hueleweka kama "Agano na Musa" tangu mafundisho ya awali ambayo hutoka kwa Mungu na aliyopewa Musa juu ya Mlima Sinai katika kitabu cha Kutoka (Kutoka 19:1; Mat. 1:1–25).
+Sheria ya Mungu Mara nyingi hueleweka kama "Agano na Musa" tangu mafundisho ya awali ambayo hutoka kwa Mungu na aliyopewa Musa juu ya Mlima Sinai katika kitabu cha Kutoka (Kutoka 19:1; Mat. 1:1–25).
 
-Mpango wa Sheria ni jambo la wazi la muhimu kama mpango kamili wa Mungu kama watu wengine, na hata hivyo sheria mara nyingi kudharauliwa. Sheria ni rigid na unbending, na hii ni picha nyembamba zaidi na Mungu.
+Mpango wa Sheria ni jambo la wazi la muhimu kama mpango kamili wa Mungu kama watu wengine, na hata hivyo sheria mara nyingi kudharauliwa. Sheria ni thabiti na isiyovunjika, na hii ni picha nyembamba zaidi na Mungu.
 
-Sheria ingawa haikuwa mpango kamili wa Mungu, lakini ilikuwa kama (Tutor) "Shule na Mwalimu" (Wagalatia 3:24) kufundisha mtu ndicho Mungu anakitarajia kwa mtu. Kabla ya Sheria tulikuwa wa (kujua) lakini katika mpango wa neema, Mungu anatoa mtu "Jinsi yakujuwa" (ili kuwawezesha) (Warumi 8:3).
+Sheria ingawa haikuwa mpango kamili wa Mungu, lakini ilikuwa kama (Tutor) "Shule na Mwalimu" (Wagalatia 3:24) kumfundisha mtu ndicho ambacho Mungu anakitarajia kwa mtu. Kabla ya Sheria tulikuwa wa (kujua) lakini katika mpango wa neema, Mungu anatoa mtu "Jinsi yakujuwa" (ili kuwawezesha) (Warumi 8:3).
 
 ### Tamaa ya Israeli Chini ya mpango wa Sheria
 
-Israeli walitoa nadhiri vizuri lakini walikuwa kuvunjika hatuwa kwa hatuwa Walikuwa wakihusika na uovu wa mioyo yao na dhambi kama watu wa leo ambao kutangaza kwamba wanaweza kuweka amri kumi bila tatizo yoyote.
+Israeli walitoa nadhiri vizuri lakini walikuwa kuvunjika hatua kwa hatua Walikuwa wakihusika na uovu wa mioyo yao na dhambi kama watu wa leo ambao kutangaza kwamba wanaweza kuweka amri kumi bila tatizo lolote.
 
 > Yeremia 18:12—Wakasema, Hapana matumaini: lakini sisi tutafuata yetu wenyewe, na sisi kila mmoja kufanya mawazo ya moyo wake mbaya.
 
-> Yeremia 42:20—Maana mmetenda kwa hila juu ya nafsi zenu wenyewe; kwa kuwa mmenituma kwa Bwana,Mungu wetu,ukutufunulia sawasawa na yote atakayoyanena BWANA,Mungu wetu,nasi tutayatenda.
+> Yeremia 42:20—Maana mmetenda kwa hila juu ya nafsi zenu wenyewe; kwa kuwa mmenituma kwa Bwana, Mungu wetu, ukutufunulia sawasawa na yote atakayoyanena BWANA, Mungu wetu, nasi tutayatenda.
 
-Watu wa Israeli walishindwa jaribio hilo la mpango hule wa tano kama vile ule uliopita (dispensations) wa nne. Wao walibomoa Sheria ya Musa na kurudia. (Yeremia. 31:32; Ezekieli 16). Mungu aliwaambia kuwa walikuwa na moyo wa jiwe (Ezekieli 36:26; Zekaria 7:12).
+Watu wa Israeli walishindwa jaribio hilo la mpango hule wa tano kama vile ule uliopita wa nne. Wao walibomoa Sheria ya Musa na kuirudia. (Yeremia. 31:32; Ezekieli 16). Mungu aliwaambia kuwa walikuwa na moyo wa jiwe (Ezekieli 36:26; Zekaria 7:12).
 
-Kushindwa kwao kuliletea hukumu ya Mungu juu ya Israeli. Katika taifa lile waliweza kupata mateso na hukumu wakati wa kipindi kile cha tano. Miongoni mwa mambo mabaya yalikuwa:
+Kushindwa kwao kulileta hukumu ya Mungu juu ya Israeli. Katika taifa lile waliweza kupata mateso na hukumu wakati wa kipindi kile cha tano. Miongoni mwa mambo mabaya yaliwapata:
 
-* Mwashuri waliohamishwa
-* Babeli utumwani
-* Madhalimu Kigiriki
-* Madhalimu Kirumi
+* Waashuru utumwani
+* Utumwani Babeli 
+* Mateso Ugiriki
+* Mateso ya  Warumi
 * Israeli kwa muda ule waliondolewa kutoka nafasi yake ya baraka (Warumi 11), na kutawanyika kwao duniani kote kama matokeo ya kukataa ya Kristo
 
 Kutoka 19:1–8; II Wafalme 17:1–18; 25:1–11; Matendo 2:22–23; 7:51–52; Warumi 3:19–20; 10:5; Wagalatia 3:10
 
-## Sehemu (divisheni) ya kwanza ya Sheria: Kutoka kwa utawala wa Sulemani
+## Mgawanyo wa kwanza wa Sheria: Kutoka kwa utawala wa Sulemani
 
 ### Kipindi cha Utumwa
 
@@ -890,25 +889,25 @@ Kutoka 19:1–8; II Wafalme 17:1–18; 25:1–11; Matendo 2:22–23; 7:51–52; 
 
 #### Matukio katika maisha ya awali ya Musa
 
-##### Kuzaliwa, kupitishwa, kushindwa, na ndege wa Musa Mlawi (Kutoka 2:1–15)
+##### Kuzaliwa, kupitishwa, kushindwa, na Musakuwakimbia Walawi (Kutoka 2:1–15)
 
-##### Maisha ya Musa ilikuwa yamegawanywa katika vipindi vitatu vya miaka arobaini
+##### Maisha ya Musa yalikuwa yamegawanywa katika vipindi vitatu vya miaka arobaini
 
 ###### Miaka arobaini ya kwanza alikuwa katika kipindi cha Farao (Matendo 7:20–24)
 
-###### Pili muda wa miaka arobaini katika Midiani (Matendo 7:29–30)
+######  Kipindi cha miaka arobaini ya pili alikuwa Midiani (Matendo 7:29–30)
 
-###### Tatu kipindi cha miaka arobaini alikuwa akiongoza Israeli katika (kitabu cha kumbu 34:7)
+###### Kipindi cha miaka arobaini ya pili alikuwa akiongoza Israeli katika (kitabu cha kumbu 34:7)
 
 ### Kipindi cha Ukombozi
 
-#### Wito wa Musa pale Burning Bush (Kutoka 3:1–10)
+#### Wito wa Musa kwenye kichaka kilichowaka moto (Kutoka 3:1–10)
 
-#### Tume yake ya Kimungu (Kutoka 3:12–22; 4:1–9)
+#### Agizo la Mungu (Kutoka 3:12–22; 4:1–9)
 
-#### Haruni na Musakufanyajambo mpaka Farao kuwaachilia watu waende (Kutoka 4:27–31; 5:1–3)
+#### Haruni na Musa kufanyajambo mpaka Farao kuwaachilia watu waende (Kutoka 4:27–31; 5:1–3)
 
-#### Kusababisha Ishara Kumi (Kutoka 7–11)
+#### Kusababisha mapigo Kumi (Kutoka 7–11)
 
 #### Mwisho Tauni (Kutoka 11:5)
 
@@ -918,31 +917,31 @@ Kutoka 19:1–8; II Wafalme 17:1–18; 25:1–11; Matendo 2:22–23; 7:51–52; 
 
 ### Kipindi cha Nidhamu
 
-#### Idadi kwamba alipotoka Misri (Kutoka 12:37–38)
+#### Idadi waliotoka Misri (Kutoka 12:37–38)
 
-#### Sababu Mungu aliongoza watu kupitia jangwa (Kutoka 13:17–18)
+#### Sababu Mungu aliwaongoza watu kupitia jangwani (Kutoka 13:17–18)
 
-#### Bwana wakiongozwa na nguzo ya wingu na nguzo la moto (Kutoka 13:21–22)
+#### Bwana aliongiza nguzo ya wingu na nguzo ya moto (Kutoka 13:21–22)
 
-#### Masomo
+#### fundisho
 
 * Katika Bahari ya Shamu (Kutoka 14:15–18)
-* Kwa Mara (Kutoka 15:23–25)
-* Bila Manna (Kutoka 16:15)
-* Bila ya Maji nje yajiwe (Kutoka 17:5–6; 20:8–13)
-* Bila ya shaba nyoka (Kutoka 21:8–9) 
+* Pale Mara (Kutoka 15:23–25)
+*  Manna (Kutoka 16:15)
+* kapiga mwamba maji yakatoka (Kutoka 17:5–6; 20:8–13)
+* Kutengeneza nyoka wa shaba (Kutoka 21:8–9) 
 
-### Kipindi cha Sheria
+### Kipindi cha kufanya Sheria
 
-#### Kuwasili katika Sinai (Kutoka 19:1–2)
+#### Kufika katika Sinai (Kutoka 19:1–2)
 
-#### Sheria za Mungu na Majedwali ya Mawe (Kutoka 20:1–31:18)
+#### Sheria za Mungu na mbao za Mawe (Kutoka 20:1–31:18)
 
 #### Maandalizi na mkutano wa Hema (Kutoka 35:1–40:38)
 
 ### Kutangatanga Jangwani
 
-#### Kutuma wapelelezi ya (Hesabu 13:1–2)
+#### Kutuma wapelelezi  (Hesabu 13:1–2)
 
 #### Taarifa ya Yoshua na Kalebu (Hesabu 14:6–9)
 
@@ -950,13 +949,13 @@ Kutoka 19:1–8; II Wafalme 17:1–18; 25:1–11; Matendo 2:22–23; 7:51–52; 
 
 #### Kifo cha Musa (Kumbukumbu 34:1–7)
 
-### Kuidhibiti kuichukuwa Kanaani
+### Ushindi kuichukuwa Kanaani
 
-#### Uvamizi wa Ardhi (Yoshua 1:1–5:15)
+#### Kuivamia Nchi (Yoshua 1:1–5:15)
 
 #### Kuanguka kwa Yeriko (Yoshua 6)
 
-Sanduku linawakilisha ukamilifu wa roho. Tunaweza kuona jinsi kuta za Yeriko zilivyo weza kuangushwa kwa sababu Waisraeli (ndani zilizomo amri za Mungu), waliweza kutii neno la Mungu. Baadhi ya watu wanaweza kupiga kelele kama wanaweza kuisha katika utii na kufata neno la Mungu.
+Sanduku linawakilisha ukamilifu wa roho. Tunaweza kuona jinsi kuta za Yeriko zilivyo weza kuangushwa kwa sababu Waisraeli walilifuta sanduku (ndani ya sanduku walibeba  amri za Mungu), waliweza kutii neno la Mungu. Baadhi ya watu wanaweza kupiga kelele kama wanaweza kuisha katika utii na kufuata neno.
 
 #### Mapigano ya Ai (Yoshua 7–8)
 
@@ -972,23 +971,23 @@ Walivuka Yordani mahali fulani 1420 KK tena nchi ikatulia mahali fulani katika s
 
 Bwana si mwepesi wa hasira. Si kila mtu anaweza kwenda, si kila mtu anaenda na kuingia ndani (Nahumu 1:3).
 
-#### Idara ya nchi (Yoshua 13–22)
+#### Mgawanyo wa ardhi (Yoshua 13–22)
 
 #### Kifo cha Yoshua (Yoshua 23–24)
 
 ### Israeli Yadai Ufalme
 
-Baada ya kifo cha Yoshua, Israel inadai mfalme mwengine,Maamuzi kamwe hayawezi kuzalisha jambo linalopaswa kuwa, ni kwa sababu ya udhaifu wa mwili ,Katika Samweli 8, Samuel aliwafanya wana wake majaji,lakini walikuwa wadhaifu, na alichukua fedha na rushwa kwa hukumu fulani.
+Baada ya kifo cha Yoshua, Israel inadai mfalme mwingine, Maamuzi kamwe hayawezi kuzalisha jambo linalopaswa kuwa, ni kwa sababu ya udhaifu wa mwili, Katika Samweli 8, Samuel aliwafanya wana wake majaji, lakini walikuwa wadhaifu, na alichukua fedha na rushwa kwa hukumu fulani.
 
 #### Mfalme Sauli (40 miaka) (I Samweli 10:20–24; Matendo 13:21)
 
-Sauli alikuwa mfalme wa kwanza wa Israeli (I Samweli 10:1). Hii ni moja ya akaunti ilioandikwa, Sauli alikufa kama moja watu walio kufa bila kupakwa mafuta (Matendo 13:21). Wakati wa mwanzo wa utawala wa Sauli alikuwa mtu mwema, lakini baada ya muda tu, unaweza kupata mashaka na maneno ya unabii wake, na maonyesho yake mwenyewe ya dhabihu (I Samweli 16:13).
+Sauli alikuwa mfalme wa kwanza wa Israeli (I Samweli 10:1). Hii ni moja ya hesabu ilioandikwa, Sauli alikufa kama moja watu walio kufa bila kupakwa mafuta (Matendo 13:21). Wakati wa mwanzo wa utawala wa Sauli alikuwa mtu mwema, lakini baada ya muda tu, unaweza kupata mashaka na maneno ya unabii wake, na maonyesho yake mwenyewe ya dhabihu (I Samweli 16:13).
 
-Je, Mungu kutuma roho mbaya (I Samweli 16:23)? Kwa nji hii watu wanaokwenda njia zao wenyewe, Mungu anachukua mkono wake mbali nao na kuwaacha kwa muda, na mara nyingi inawabidi kupata kibali chakujaribiwa kwa mwanadamu. Mungu haitoi ruhusa isipokuwa kama tukivunja amri zake, na pia huwa kama majaribu kwetu, ili kuona ni nini ndani yetu. Sauli akatawala kwa kipindi cha muda mrefu, na roho mbaya.
+Je, Mungu anaweza kutuma roho mbaya? (I Samweli 16:23) Kwa nji hii watu wanaokwenda njia zao wenyewe, Mungu huweka mkono wake mbali nao na kuwaacha kwa muda, na mara nyingine huwa anaruhusu mtu kujaribiwa. Mungu hatoi ruhusa isipokuwa kama tukivunja amri zake, na pia huwa kama majaribu kwetu, ili kuona ni kitu gani kilicho ndani yetu. Sauli akatawala kwa kipindi cha muda mrefu, na roho mbaya.
 
 #### Daudi akapakwa mafuta kuwa Mfalme (I Samweli 16:13)
 
-Daudi alichaguliwa kuwa mfalme wa Israeli kwa Bwana ambayo ilikuwa mwanga mwema katika Historia ya Israeli (I Samweli 16:6). Samweli walidhani kwamba Eliabu alikuwa mmoja Mungu aliemchaguwa au kuwa mteule, yeye alikuwa ameonekana kwa mtazamo wa nje kama ndio mmoja ambae angechaguliwa, Mwanadamu inaonekana kwa mtazamo wa nje, lakini Mungu anaangalia moyo wa mtu ndani.
+Daudi alichaguliwa kuwa mfalme wa Israeli kwa Bwana ambayo ilikuwa mwanga mwema katika Historia ya Israeli (I Samweli 16:6). Samweli walidhani kwamba Eliabu alikuwa ni mmoja Mungu aliemchaguwa au kuwa mteule, yeye alikuwa ameonekana kwa mtazamo wa nje kama ndio mmoja ambae angechaguliwa, Mwanadamu hutazama kwa mtazamo wa nje, lakini Mungu anaangalia moyo wa mtu ndani.
 
 Daudi alichaguliwa kwa sababu yeye alikuwa na nguvu za Mungu, Hakuna bahati mbaya katika maisha yetu, Mungu ana mpango na sisi. Daudi alikuwa ni mtu ambae moyo wake ulimpenda Mungu, Alimpenda Mungu zaidi kuliko kitu kingine chochote.
 
@@ -1455,7 +1454,7 @@ Yeye mwisho kusudi katika mpango wa Mungu umetimia, ambapo haki Mfalme katika dh
 
 Kristo Mfalme kupitia Haki.
 
-Baada ya Miaka Saba ya saa Dhiki wakati hasira ya Mungu humwagwa katika hukumu ya kuleta watu katika toba, Kristo atarudi duniani, Atatawala kwa Haki juu ya nchi kwa miaka elfu moja. Hii ni utawala wa milenia wa Kristo. kiti wa nguvu yake itakuwa ya Yerusalemu Mpya, na watu wa Mungu, itahusishwa na Yeye katika utukufu wake (Angalia Isa. 2:1–4; Isa. 11, Matendo 15:14–17, Ufunuo 19:11–21; Ufunuo 20:1–6).
+Baada ya Miaka Saba ya saa Dhiki wakati hasira ya Mungu humwagwa katika hukumu ya kuleta watu katika toba, Kristo atarudi duniani, Atatawala kwa Haki juu ya nchi kwa miaka elfu moja. Hii ni utawala wa milenia wa Kristo. Kiti wa nguvu yake itakuwa ya Yerusalemu Mpya, na watu wa Mungu, itahusishwa na Yeye katika utukufu wake (Angalia Isa. 2:1–4; Isa. 11, Matendo 15:14–17, Ufunuo 19:11–21; Ufunuo 20:1–6).
 
 Shetani yamefunguliwa msimu kidogo, yeye anaona moyo ni urahisi kudanganywa na effortlessly unakusanya mataifa kwa vita dhidi ya Bwana na watakatifu wake, unaojulikana kama vita Armegedon na hii mpango mwisho kufunga, kama wengine wote, katika hukumu (Ufunuo 20:3; 7–8).
 
