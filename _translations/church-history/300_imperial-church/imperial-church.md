@@ -4,7 +4,9 @@ Tangu kutolewa Hati ya Constantino mpaka angukola Roma.
 
 ## Mchanganyiko na Pergamos
 
-_Pergamo_ maana "yake linaishi kilipo kiti cha Shetani" (mst. 13)
+_Pergamo_ maana yake aliyeolewa. Kanisa liliingiliwa na upagani na likaolewa na ulimwengu (Ufunuo2:12&ndash;17). Upagani huu ukawa ndio mwanzo wa kilichokuja kuitwa baadaye Kanisa Katoliki la Roma.
+
+### "yake linaishi kilipo kiti cha Shetani" (mst. 13)
 
 Kiti cha enzi cha Mfalme wa Warumi kilikuwa Roma. Mapapa nao watatawala kutoka Roma. Mapapa waliketi katika kiti cha mamlaka cha shetani na kulitawala Kanisa Katoliki la Roma. Neno _kifalme_ maana yake ni utawala wa mtu mmoja ambaye ana nguvu kamili au mamlaka yote.
 

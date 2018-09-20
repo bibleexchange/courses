@@ -143,3 +143,115 @@ Jibu kweli au sio kweli.
 ## Kanisa halikutakaswa kutokana na mateso.
 
 **Sio kweli**
+
+# Maswali ya kujifunza Historia ya Kanisa 3: Kanisa la Kifalme
+
+## Kanisa lipi lililoelezewa katika kitabu cha ufunuo kuhusiana na kipindi hiki?
+
+1. Efeso 
+2. Smirna 
+3. Thyatira
+4. **Pergamo**
+
+## Jinsi gani kuliwa kwa vitu vitu vilivyotolewa sadaka kwa sanamu (Uf. 2:14) husianisha na kipindi hiki?
+
+1. Kushika sabato
+2. Ukumbusho wa Kalivari 
+3. **Kanisa Katoliki la Roma komunio**
+4. Dhabihu ya chuvi ya kipagani
+
+## Ni ishara gani ambayo Constantine kwa kudhani aliiona angani?
+
+1. **Msalaba**
+2. Njiwa
+3. Upanga
+4. Upinde wa mvua
+
+## Kweli au si kweli? Mt. Petro alikuwa Papa wa kwanza.
+
+**Sikweli. Constantino alikuwa Papa wa kwanza wa kihistoria.**
+
+## Ni nini iliofanya kizuizi cha asili kati ya mashariki na magharibi ya utawala wa Roma?
+
+1. Bahari ya Mediterania
+2. Bahari Nyeusi
+3. Bahari Nyekundu
+4. **Bahari ya Adriati**
+
+## Kweli au Sio kweli? Yohana Krisostomu anajulikana kama "mdomo wa dhahabu" kwa sababu aliweza kuongea kwa ufasaha wa ajabu.
+
+**Kweli**
+
+## Ni nini ambayo Atanasi, Kristomu, na Augustino wanayo kwa pamoja?
+
+1. Wote waliheshimiwa na Kanisa la Katholiki tangu kipindi hiki
+2. Wote waliishi Ulaya
+3. **Wote walihamishwa tangu kipindi hiki**
+4. Wote walielezewa kama walikuwa na "midomo ya dhahabu"
+
+## Elezea uhusiano wa ukristo na upagani tangu kipindi hiki?
+
+1. **Kanisa liliingiliwa  na Upagani**
+2. Kanisa lilipingana na upagani
+3. Upagani ulikuwa umekomeshwa tangu kipindi hiki
+4. Upagani una ulinganifu na maandiko
+
+# Maswali ya kujifunza Historia ya Kanisa 4: Kanisa la zama za kati
+
+## Thiatira inamaanisha nini?
+
+1. Ilioolewa
+2. Kuhesabiwa haki
+3. **Kujitolea daima**
+4. Zawadi ya milele
+
+## Kulingana na Ufunuo 2:20 nani alikuwa ameshawishiwa na Yezebeli?
+
+1. Wamataifa
+2. Wenye dhambi
+3. **Watumishi wa Mungu**
+4. Wamishionari
+
+## Ni nini inayopelekea kufanya ushawishi katika Ufunuo 2:20?
+
+1. Mwanamke
+2. **Roho**
+3. Nyoka
+4. Punda
+
+## Kwa nini kipindi hiki kinaitwa zama za giza?
+
+1. Hapakuwepo na demokrasia
+2. Hapakuwepo na elimu
+3. Hapakuwepo na uhuru
+4. **Hapakuwepo na Biblia za lugha ya kawida**
+
+## Jaza nafasi ilioachwa. Isaya 9:19 Kwa sababu ya **hasira ya Bwana wa majeshi** inchi inateketea kabisa.
+
+## Jaza nafasi ilioachwa. **Kanisa Katoliki la Roma** lilikuwa na ushawishi mkubwa sana barani Ulaya tangu kipindi hiki.
+
+## Jaza nafasi ilioachwa. Mahakama maalumu iliundwa mwaka 1200 kushughulikia **waasi**.
+
+## Jaza nafasi ilioachwa. Vita hivi vilikuwa ni jaribio la kanisa Katoliki kuchukua **nchi takatifu** kutoka kwa Waislam.
+
+## Jaza nafasi ilioachwa. Yohane Wykliffe anakumbukwa kama **nyota ya asubuhi** wa mageuzi.
+
+## KWELI au SIO KWELI. Kwa imani tunapokea upatanisho wa kazi ya Kristo kwa sababu kwa kujitolea kufa ilitosha.
+
+**KWELI**
+
+## KWELI au SIOKWELI. Waalbigenes waliwekwa katika Albi, Ujerumani.
+
+**Siokweli. Waalbigenes waliwekwa Ufaransa.**
+
+## KWELI au SIOKWELI. Kila mtu katika kipindi hiki aliabudu na kuamini kama Kanisa la Romani Katholiki lilivyo fanya.
+
+**Siokweli. Kulikuwa na mabaki waliosimamaia maandiko kama mamlaka ya mwisho na sio neno la papa.**
+
+## KWELI au SIOKWELI. Waaldensi waliteswa sana na uongozi wa Kanisa Katoliki.
+
+**Kweli**
+
+## KWELI au SIOKWELI. Yohana Huss alikuwa amehukumiwa kama muasi na alitundikwa kutoka viunzi vya miti ya kunyongea watu na baraza la Kanisa la Romani Katholiki.
+
+**SIOKWELI. Alichomwa katika nguzo ya kuchomea watu.**

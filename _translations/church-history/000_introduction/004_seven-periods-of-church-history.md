@@ -26,7 +26,7 @@ MWISHO: Hadi kutolewakwa Hati ya Constantino mwaka 313 BK
 
 Kipindi chamateso kina uwiano na kanisa la Smirna. Neno Smirna maana yake iliyogandamizwa au iliyopondwa. Hiki ni kipindi cha mateso makuu kwa kanisa. Kanisa liligandamizwa mno chini ya Ufalme wa Kirumi.
 
-### KANISA LA KIFALME —Pergamo — "lililoolewa"
+### KANISA LA KIFALME — Pergamo — "lililoolewa"
 
 MWANZO: Kuanzia kutolewa kwa Hati ya Constantino mwaka 313 BK
 

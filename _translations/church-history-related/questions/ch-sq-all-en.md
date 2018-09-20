@@ -107,10 +107,8 @@ Circle the correct answer.
 
 1. The blood of Jesus
 2. Baptism
-3. Secret knowledge
+3. **Secret knowledge**
 4. Persecution
-
-### Secret knowledge
 
 Fill in the missing words.
 
@@ -145,3 +143,115 @@ Answer true or false.
 ## The church was unsanctified through persecution.
 
 **False**
+
+# Church History Study Questions 3: Imperial Church
+
+## Which of the Seven Churches described in the Book of Revelation correspond to this period?
+
+1. Ephesus 
+2. Smyrna
+3. Thyatira 
+4. **Pergamos**
+
+## How does eating things sacrificed to idols (Rev. 2:14) apply to this period?
+
+1. The Keeping of the Sabbath
+2. The Rememberance of Calvary
+3. **The Roman Catholic Wafer**
+4. The Pagan Salt Sacrifice
+
+## What sign did Constantine supposedly see in the sky?
+
+1. **A Cross**
+2. A Dove
+3. A Sword
+4. A Rainbow
+
+## True or False? St. Peter was the first pope.
+
+**False. Constantine was the first historical pope.**
+
+## What formed a natural barrier between The Eastern and Western Empires of Rome?
+
+1. The Mediterranean Sea
+2. The Black Sea
+3. The Red Sea
+4. **The Adriatic Sea**
+
+## True or False? John Chrysostom was referred to as “the golden mouth” because of his eloquence.
+
+**True**
+
+## What did Athanasius, Chrysostom, and Augustine have in common?
+
+1. All were honored by Catholic church during this period
+2. All lived in Europe
+3. **All were exiled during this period**
+4. All were described as having "golden mouths"
+
+## Describe the relationship of Christianity and paganism during this period?
+
+1. **The Church was infiltrated by Paganism**
+2. The church resisted paganism
+3. Paganism was abolished during this period
+4. Paganism is in harmony with Scripture
+
+# Church History Study Questions 4: Medieval Church
+
+## What does THYATIRA mean?
+
+1. Married
+2. Justified
+3. **Continual sacrifice**
+4. Eternal gift
+
+## According to Revelation 2:20 who was being seduced by Jezebel?
+
+1. Gentiles
+2. Sinners
+3. **Servants of God**
+4. Missionaries
+
+## What is doing the seducting in Revelation 2:20?
+
+1. A woman
+2. **A spirit**
+3. A serpent
+4. A donkey
+
+## Why is this period called the dark ages?
+
+1. No democracy
+2. No education
+3. No freedom
+4. **No Bibles in common language**
+
+## Fill in the blank. Isaiah 9:19 Through **the wrath of the LORD of hosts** is the land darkened,
+
+## Fill in the blank. **The Roman Catholic** church dominated Europe during this period.
+
+## Fill in the blank. The Inquisition was a special court set up in the 1200's to deal with the **heretics**.
+
+## Fill in the blank. The Holy Wars were an attempt by the Roman Church to retake **the Holy Land** from the Muslims.
+
+## Fill in the blank. John Wycliffe referred to as the **Morning Star** of the Reformation.
+
+## TRUE or FALSE. We by faith receive the atoning work of Christ because his sacrificial death was sufficient.
+
+**TRUE**
+
+## TRUE or FALSE. The Albigenes were located in Albi, Germany
+
+**False. Albigenes were located in France.**
+
+## TRUE or FALSE. Everyone in this period worshipped and believed as the Roman Catholic church did.
+
+**False. There was a remnant that held to the scripture as the supreme authority and not the word of the pope.**
+
+## TRUE or FALSE. The Waldensians were greatly persecuted by the Roman Church.
+
+**True**
+
+## TRUE or FALSE. John Huss was condemned as a heretic and was hung from a gallows by a council of the Roman Catholic Church.
+
+**FALSE. He was burned at the stake.**
