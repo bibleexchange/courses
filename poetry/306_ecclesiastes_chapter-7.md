@@ -1,6 +1,6 @@
 <style>h2 {color: red; font-weight: bold;} body {max-width: 800px;}</style>
 
-# Chapter 7 (Series of wise sayings and evil woman.)
+# Chapter 7 (Better and Balanced Living)
 
 ## Introduction to Chapter 7
 
@@ -41,7 +41,7 @@ In other words, while life under the sun is "vanity", how then should we live?
 
 The first half of chapter seven offers "counsel for better living" with a series of comparisons. His estimation of what is "better" may often sound strange, but it comes from who has learned from both experience as well as inspiration .
 
-- Death/Life and Mourning/Joy - Comparisons of which is Better (v.1-4):
+### 1. Death/Life and Mourning/Joy - Comparisons of which is Better (v.1-4):
 
 > 1 A good name is better than precious ointment; and the day of death than the day of one's birth. 2 It is better to go to the house of mourning, than to go to the house of feasting: for that is the end of all men; and the living will lay it to his heart. 3 Sorrow is better than laughter: for by the sadness of the countenance the heart is made better. 4 The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth.
 
@@ -64,7 +64,7 @@ The first half of chapter seven offers "counsel for better living" with a series
          a. Thus the heart of the wise is in the house of mourning
          b. While the heart of fools is in the house of mirth
 
-- The Wise and Fools / Right Spirit and Proud Spirit(v.5-7)
+### 2. The Wise and Fools (v.5-7)
 
 > 5 It is better to hear the rebuke of the wise, than for a man to hear the song of fools. 6 For as the crackling of thorns under a pot, so is the laughter of the fool: this also is vanity. 7 Surely oppression maketh a wise man mad; and a gift destroyeth the heart. 
 
@@ -75,41 +75,42 @@ A REBUKE OF THE WISE IS BETTER THAN THE SONG OF FOOLS (5-7)
       2. Oppression destroys a wise man's reason, and a bribe debases
          his heart
 
---
+### 3. THE END IS BETTER THAN THE BEGINNING (v.8a)
 
 	- Right Spirit
 
-8 Better is the end of a thing than the beginning thereof: and the patient in spirit is better than the proud in spirit. 9 Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools.
+> 8 Better is the end of a thing than the beginning thereof: and the patient in spirit is better than the proud in spirit. 9 Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools.
 
-THE END IS BETTER THAN THE BEGINNING (8a)
+
       1. Similar to what we have already seen regarding birth and death
          - cf. Ec 7:1
-      2. Not all that starts has an end; in the completion of a task one
-         finds satisfaction
+      2. Not all that starts has an end; in the completion of a task one finds satisfaction
 
 
-PATIENCE IS BETTER THAN PRIDE (8b-9)
+### 4. PATIENCE IS BETTER THAN PRIDE (8b-9)
       1. The patient in spirit is better than the proud in spirit
       2. Do not be hasty to be angry, for anger rests in the bosom of
          fools
 
-	- Wisdom = Life
+### 5. THE PRESENT IS BETTER THAN THE PAST (10)
 
-10 Say not thou, What is the cause that the former days were better than these? for thou dost not enquire wisely concerning this. 11 Wisdom is good with an inheritance: and by it there is profit to them that see the sun. 12 For wisdom is a defence, and money is a defence: but the excellency of knowledge is, that wisdom giveth life to them that have it. 13 Consider the work of God: for who can make that straight, which he hath made crooked? 14 In the day of prosperity be joyful, but in the day of adversity consider: God also hath set the one over against the other, to the end that man should find nothing after him.
+> 10 Say not thou, What is the cause that the former days were better than these? for thou dost not enquire wisely concerning this. 
 
-
---
-  G. THE PRESENT IS BETTER THAN THE PAST (10)
       1. We should not say "why were the former days better?"
       2. One is not wise in thinking in such a manner
 
-   H. WISDOM IS BETTER THAN WEALTH (11-12)
+### 6. WISDOM IS BETTER THAN WEALTH (11-12)
+
+> 11 Wisdom is good with an inheritance: and by it there is profit to them that see the sun. 12 For wisdom is a defence, and money is a defence: but the excellency of knowledge is, that wisdom giveth life to them that have it. 
+
       1. Wisdom along with an inheritance is good, and profitable for
          the living
-      2. Wisdom is a defense like money, but wisdom gives life to those
-         who have it
+      2. Wisdom is a defense like money, but wisdom gives life to those who have it (Wisdom = Life)
 
-   I. RESIGNATION IS BETTER THAN INDIGNATION (13-14)
+### 7. RESIGNATION IS BETTER THAN INDIGNATION (13-14)
+
+> 13 Consider the work of God: for who can make that straight, which he hath made crooked? 14 In the day of prosperity be joyful, but in the day of adversity consider: God also hath set the one over against the other, to the end that man should find nothing after him.
+
       1. There are some things of God we cannot change
       2. God has appointed both the day of prosperity and the day of
          adversity, so man is unable to determine what will happen after
@@ -118,7 +119,6 @@ PATIENCE IS BETTER THAN PRIDE (8b-9)
          a. In the day of prosperity be joyful
          b. In the day of adversity consider (e.g., what lessons might
             be learned)
---
 
 ## Counsel for Balanced Living (Chapter 7:15-29)
 
@@ -127,65 +127,83 @@ The second half of the chapter offers "counsel for balanced living."
 There are challenging and difficult statements which should be
 understood in their context, and in the context of the Bible as a whole. It appears the Preacher is mainly warning against extremism, and against the presumption that one can find the answer to every question in life.
 
-	- Why Do the Wicked Prosper?
+### A. DO THINGS IN MODERATION (15-22)
+
+Reading list on moderation: Proverbs 25:27; Isaiah 5:11; 1 Corinthians 8:9; 1 Corinthians 9:25; Galatians 5:13; Ephesians 5:1; Philippians 4:5. 
+
+#### 1. Why Do the Wicked Prosper?
 
 > 15 All things have I seen in the days of my vanity: there is a just man that perisheth in his righteousness, and there is a wicked man that prolongeth his life in his wickedness.
 
-	- Too Righteous? Too Wise? Too Wicked?
+If we really believe with them that they are getting ahead by sin, we are caught in their deception. 
+
+The prologing of life although may be IN wickedness but it is not because of it.
+
+Also, a life prologed in wickedness is space for repentance and not prologing the "inevitable". In Revelation 2:21, God had given even Jezebel space to repent.
+
+The truth is, The righteous don't ALWAYS prosper carnally, nor do the wicked ALWAYS suffer carnally. 
+
+Find the right balance of living: Avoid extremism in wickedness and foolishness, lest you die before your time.
+
+#### 2. Too Righteous? Too Wise? Too Wicked?
 
 > 16 Be not righteous over much; neither make thyself over wise: why shouldest thou destroy thyself ? 17 Be not over much wicked, neither be thou foolish: why shouldest thou die before thy time? 18 It is good that thou shouldest take hold of this; yea, also from this withdraw not thine hand: for he that feareth God shall come forth of them all. 19 Wisdom strengtheneth the wise more than ten mighty men which are in the city.
 
-	- What's that Mote in your eye? 
+Do not ever refrain from true righteousness and wisdom. Fearing God will help one escape extremism. Wisdom is a source of strength.
+
+Find the right balance of living: Avoid extremism in seeking to be righteous and wise, lest you destroy yourself. 
+
+#### 3. What's that in your eye? 
 
 > 20 For there is not a just man upon earth, that doeth good, and sinneth not. 21 Also take no heed unto all words that are spoken; lest thou hear thy servant curse thee: 22 For oftentimes also thine own heart knoweth that thou thyself likewise hast cursed others.
+
+##### a. Hypocrisy and Self-Righteousness
+
+Scripture on Hypocrisy: Matthew 23:27,28; Luke 6:41,46; Romans 2:1; Galatians 6:3; 1 John 4:20
+
+> Luke 6:41 &mdash; And why beholdest thou the mote that is in thy brother's eye, but perceivest not the beam that is in thine own eye?
 
 Where are you standing?
 
 > 1 Corinthians 10:12 &mdash; Wherefore let him that thinketh he standeth take heed lest he fall.
 
-Verse 15-22:
+##### b. Don't take to heart everything you hear
+ 
+ You may hear another curse you and yet you have likely cursed someone at sometime. 
 
- A. DO THINGS IN MODERATION (15-22)
-      1. The righteous don't always prosper, nor do the wicked always
-         suffer
-         a. Avoid extremism in seeking to righteous and wise, lest you
-            destroy yourself
-         b. Avoid extremism in wickedness and foolishness, lest you die
-            before your time
-      2. Don't refrain from true righteousness and wisdom
-         a. Fearing God will help one escape extremism
-         b. Wisdom is a source of strength
-         c. But no one is perfect
-      3. Don't take to heart everything you hear
-         a. You may hear another curse you
-         b. Yet you have likely cursed someone at sometime
+##### c. Remember in Humility your own failings.
 
+No man of his own strength is invincible or perfect even the wise.
 
-	- I've Tried and Failed
+### B. WISDOM ALONE IS NOT THE ANSWER (v. 23-29)
+
+#### 1. There are questions wisdom can't answer (v. 23-25)
 
 > 23 All this have I proved by wisdom: I said, I will be wise; but it was far from me. 24 That which is far off, and exceeding deep, who can find it out? 25 I applied mine heart to know, and to search, and to seek out wisdom, and the reason of things, and to know the wickedness of folly, even of foolishness and madness:
 
-	- The Sinner is at a Disadvantage (Victim)
+Some things are beyond one's ability to find. No matter how hard and long you search. The preacher testifies, "I've Tried and Failed.""
 
-> 26 And I find more bitter than death the woman, whose heart is snares and nets, and her hands as bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her. 
+#### 2. A wicked woman is certainly to be avoided (v.26)
 
-	- God Made Man Good, but Man is not Good
+> 26 And I find more bitter than death the woman, whose heart is snares and nets, and her hands as bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her.
+
+It is not that he has learning nothing in his search, but there are things that are clear as day Which he found out in his search for wisdom.
+
+The wicked woman is more bitter than death and the sinner is at a disadvantage with here.
+
+He who pleases God shall escape from her, but the sinner shall be taken by her
+
+#### 3. A Good A good man is hard to find
 
 > 27 Behold, this have I found, saith the preacher, counting one by one, to find out the account: 28 Which yet my soul seeketh, but I find not: one man among a thousand have I found; but a woman among all those have I not found. 29 Lo, this only have I found, that God hath made man upright; but they have sought out many inventions.
 
- B. WISDOM ALONE IS NOT THE ANSWER (23-29)
-      1. There are questions wisdom can't answer
-         a. Some things are beyond one's ability to find
-         b. No matter how hard and long you search
-      2. A wicked woman is certainly to be avoided
-         a. Which he found out in his search for wisdom
-         b. She is more bitter than death
-         c. He who pleases God shall escape from her, but the sinner
-            shall be taken by her
-      3. A good man is hard to find
-         a. In his search, he found only one in a thousand
-         b. A good woman was even rarer
-         c. God made man upright, but man has sought out many schemes
+God Made Man Good, but Man is not Good. In his search, the preacher found only one in a thousand. A good woman was even rarer. 
+
+- Goodness, Purity, Uprightness, Virtue
+- Why is there a scarcity of "goodness"?
+- Is there truly a disparity of "goodness" between man and woman?
+
+God made man upright, but man has sought out many schemes.
 
 ## Conclusion: Review Questions
 
