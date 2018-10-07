@@ -1,3 +1,5 @@
+<style>h2 {color: red; font-weight: bold;} body {max-width: 800px;}</style>
+
 # Gospel Memorials
 
 TEXT: Joshua 4:6-7 
@@ -9,6 +11,8 @@ TEXT: Joshua 4:6-7
 ## Introduction
 
 - The Human Memory
+
+Human memory is not as simple and direct a design and formerly thought. Memory is now understood to be the calculated sum of all the impressions in every area of our brains.
 
 When God designed the memory function in our brains, he created two complementary processes:
 
