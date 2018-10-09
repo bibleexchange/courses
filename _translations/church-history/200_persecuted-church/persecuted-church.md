@@ -32,7 +32,7 @@ Huu ni utabiri wa vipindi kumi vya mateso wakati wa Smirna. Kama barua hizi zili
 
 ## Sababu zilizofanya kuwepo na mateso chini ya utawala wa kifalme
 
-### Ibada za kipagani zilikuwepo kutokana na uwepo miungu wapya wakati ambapo Ukristo ulitambua kuabudiwa kwa Mungu mmoja tu wa kweli tu.
+### Ibada za kipagani zilikuwepo kutokana na uwepo miungu wapya wakati ambapo Ukristo ulitambua kuabudiwa kwa Mungu mmoja tu wa kweli tu
 
 Miungu wapya walikubalika chini ya utawala uliotukuza utamaduni wa kuabudu miungu wengi wa Roma. Wakristo walishindwa kuvumilia kuabudiwa kwa miungu wa uongo na walizikataa njia za kipagani.
 

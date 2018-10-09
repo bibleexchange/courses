@@ -38,7 +38,7 @@ Roho Mtakatifu alikuja siku ya Pentekoste na atakuwepo mpaka kanisa litakapoweza
 
 ## Uanachama katika Kanisa
 
-Wanachama wa mwanzo katika Kanisa walikuwa wote ni Wayahudi na walikuwa hawajafahamu kwamba injili ni kwa ajiliya mataifa pia (Mdo. 11:1—8).
+Wanachama wa mwanzo katika Kanisa walikuwa wote ni Wayahudi. Walikuwa hawajafahamu kwamba injili ni kwa ajiliya mataifa pia (Mdo. 11:1—8).
 
 ## Serikali ya Kanisa
 

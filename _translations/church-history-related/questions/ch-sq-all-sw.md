@@ -63,7 +63,7 @@ Jibu kweli au sio kweli.
 
 **Sio kweli**
 
-## Washirika wa kanisa la asili walikuwa Wa mataifa.
+## Wanachama wa mwanzo katika Kanisa walikuwa wote ni Wamataifa.
 
 **Sio kweli**
 
@@ -255,3 +255,178 @@ Jibu kweli au sio kweli.
 ## KWELI au SIOKWELI. Yohana Huss alikuwa amehukumiwa kama muasi na alitundikwa kutoka viunzi vya miti ya kunyongea watu na baraza la Kanisa la Romani Katholiki.
 
 **SIOKWELI. Alichomwa katika nguzo ya kuchomea watu.**
+
+# Maswali ya kujifunza Historia ya Kanisa 5: Kanisa la Matengenezo
+
+## Jina la kanisa ni nini "Sardi" inamaanisha nini?
+
+1. Kujua
+2. Kuomba
+3. Kurudishia
+4. **Mabaki**
+
+## Ni nini kwa wazi ili ileta Ulaya inje ya zama za Giza?
+
+1. Habari za kuaminika
+2. Elimu bora
+3. **Biblia za lugha za wenyeji**
+4. Wanasiasa wazuri
+
+## Nani aliebuni mashine ya kuandikia katika 1456?
+
+1. **Johann Gutenberg**
+2. Leonardo da Vinci
+3. Johann Fust
+4. Martin Luther
+
+## Ni kitabu gani cha kwanza kuchapwa kwa ile mashine?
+
+1. Mkulima's Almanac
+2. **Biblia ya kilatini**
+3. Mkate wetu wa kila siku
+4. 95 Maelezo ya hoja ya Luther
+
+## Ni jina gani walilopewa wale walio kanusha mamlaka ya Papa ya watu wote ulimwenguni?
+
+1. Orthodox
+2. Wayesuit
+3. **Waporostant**
+4. Wapentecoste
+
+## Jaza nafasi ilio achwa wazi. **Martin** **Luther** anachukuliwa kuwa ndiye Baba wa mageuzo.
+
+## Jaza nafasi ilio achwa wazi. Martin Luther aliweka tangazo lenye **Hoja** **95** katika lango kuu la kanisa la Askofu wa Wittenberg tarehe 31 Oktoba 1517.
+
+## Jaza sehemu zilizo achwa wazi. Waprotestanti wa Ufaransa waliitwa **Wahuguenote**.
+
+## Jaza nafasi ilio achwa wazi. Tahehe 24 ya Agosti 1572 Waprotestanti elfu ishirini waliuawa kwa siku moja siku ambayo inakumbukwa kama **siku** **ya** **mauaji** **ya** **Mtakatifu** **Bartholomeo**.
+
+## Jaza nafasi ilio achwa wazi. **Watawanyishi** walikuwa ni wale waliotaka kujitenga na kanisa la Anglikana. 
+
+## Jaza nafasi ilio achwa wazi. **Watakasaji** walikuwa ni wale waliotaka kanisa la Anglikana litakaswe.
+
+## KWELI au SIO KWELI. Yohane Knoksi aliongoza matengenezo katika Uskochi.
+
+**Kweli**
+
+## KWELI au SIO KWELI. Wapilgrim's walikuja katika dunia mpya (Amerika) ku laghai pamoja na wahindi.
+
+**Sio kweli. Walikuja kwa uhuru wa kidini kutoka mipango ya kanisa la Uingereza.**
+
+## KWELI au SIO KWELI. Mapatano ya Mayflower yaliwekewa msingi juu ya kanuni maalumu.
+
+**Sio kweli. Mapatano ya  Mayflower ya liwekewa msingi juu ya kanuni za kiBiblia. (mapatano ya  Mayflower ya likuwa katiba ya kwanza ya serikali ya dunia ya kwanza.)**
+
+## KWELI au SIO KWELI. Waislamu waliongoza idadi ya matengenezo dhidi ya Waporostant.
+
+**Sio kweli. WaYesuit waliongoza idadi ya matengenezo dhidi ya Waporotestant.**
+
+# Maswali ya kujifunza Historia ya Kanisa 6: Kanisa la kisasa
+
+## PHILADELPHIA ina maanisha nini?
+
+1. **Upendo wa kindugu**
+2. Huruma ya Mungu
+3. Uvumilivu wa tumaini
+4. Mji wa amani
+
+## Ni maneno yapi katika kundi la maneno yafuatayo ambayo ni maelezo bora kwa kipindi cha kanisa la kisasa?
+
+1. Umasikini, ibada
+2. Sanamu, uchoyo
+3. **Wamishionari, uamsho**
+4. Viwanda, pesa
+
+## Katika inchi gani mbili mwuamko kuu ulitokea mapema mnamo miaka ya 1700?
+
+1. Ufaransa na Uingereza
+2. **Uingereza na Amerika**
+3. Sweden na Amerika
+4. Ujerumani na Amerika
+
+## Ni akina nani ambao walikuwa viongozi wa mwuamko mkuu wa pili?
+
+1. **Finney, Moody, na Spurgeon**
+2. Knoxsi, Zwingli, na Smith
+3. Calvin, Erasmu, na Luther
+4. Wesley, Whitefield, na Moody
+
+## Kuelekea kwenye kipindi cha kanisa la kisasa ni mfumo gani wa imani kwa majivuno ulizuia uinjilisti kwa mataifa ya kipagani?
+
+1. Ibanda ya jumapili
+2. Ibada ya watoto wachanga
+3. Ekaristi ya Wakatoliki
+4. **Nadharia ya Kalivini**
+
+## Jaza nafasi ilio achwa wazi. **William** **Carey** ni baba wa Umisionari wa kisasa.
+
+## Jaza nafasi ilioachwa wazi. **David Livingstone** alikuwa ameitwa mtafuta njia barani Afrika.
+
+## Jaza nafasi ilioachwa wazi. Uamsho wa mtaa **Azusa** wa 1906 ulikuwa umwagikaji wenye nguvu wa Roho Mtakatifu katika Los Angelas California. 
+
+## Jaza nafasi ilioachwa wazi. Billy **Sunday** na Smith **Wigglesworth** walikuwa wahubiri wasio weza wa kipindi hiki. (majina yao walikuwa nani?)
+
+## Jaza nafasi ilioachwa wazi. Katika miaka ya 1950 Oral Roberts, A.A. Allen, na William Branham wote walihubiri mara kwa mara katika **Uamsho wa mahemani**.
+
+## Kweli au sio kweli. Adoniram Judson alikuwa mmishonari wa Afrika.
+
+**Sio kweli**
+
+## Kweli au Sio kweli. Hudson Taylor alikuwa mmishenari mkuu ila kamwe hakuanzisha wa mishenari wengine zaidi yake mwenyewe.
+
+**Sio kweli. Hudson Taylor alipanda wamishenari 849**
+
+## Kweli au sio kweli. Billy Sunday alisimama imara kupinga ulevi.
+
+**kweli**
+
+## Kweli au sio kweli. Smith Wigglesworth alikuwa Mtume wa Imani ambaye alikuwa na huduma kubwa ya uponyaji.
+
+**Kweli**
+
+# Maswali ya kujifunza Historia ya Kanisa 7: Kanisa la Baada ya Kisasa
+
+## Neno la LAODIKIA linamaanisha nini?
+
+1. Mafundisho ya mchanganyo
+2. Kurudi nyuma
+3. Kufanya mapatano na dhambi
+4. **Utawala wa watu**
+
+## Kwanini Yesu alisema angelitapika kanisa la Laodikia kutoka kinywani mwake?
+
+1. **Uvuguvugu**
+2. Ulevi
+3. Uasi
+4. Toba
+
+## Katika msitari gani wa ufunuo Yesu anaelezea kipindi cha kanisa hili kama u mnyonge, mwenye mashaka, maskini, kipofu, na uchi?
+
+1. **3:17**
+2. 3:22
+3. 4:9
+4. 3:12
+
+## Wainjilisti wapya husisitiza nini?
+
+1. Ruhusa ya maandiko matakatifu
+2. Kushuhudia wenye dhambi
+3. **Maelewano**
+4. Upako safi
+
+## Jaza nafasi ilioachwa wazi. Vuguvugu la ukarismatiki lilianzia ndani ya **Kanisa** **Katoliki**.
+
+## Jaza nafasi ilio achwa wazi. **Injili** **ya** **mafanikio** imeshaiondoa injili ya Yesu Kristo katika makanisa mengi ya kisasa.
+
+## KWELI au SIOKWELI. Kanisa la Baada ya Kisasa lilikuwa limeshinda.
+
+**SIOKWELI**
+
+## KWELI au SIOKWELI. Kanisa la Baada ya Kisasa linaendeshwa kwa sanduku la kura.
+
+**KWELI**
+
+
+## KWELI au SIOKWELI. Wainjlishaji wapya wanaamini kwamba kuna makosa katika Biblia na wengine wanakataa Umungu wa Kristo.
+
+**KWELI**

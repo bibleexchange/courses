@@ -38,11 +38,11 @@ Yesu alisema watakuwepo manabii wa uongo ambao watadanganya wengi. Kati ya wanak
 
 ## Kanisa la anasa na rushwa
 
-### Injili ya utajirisho imeshaiondoa injili ya Yesu Kristo katika makanisa mengi ya kisasa
+### Injili ya mafanikio imeshaiondoa injili ya Yesu Kristo katika makanisa mengi ya kisasa
 
-Wahubiri wengi wa injili wa kisasa wanafundisha mambo ya utajirisho wa kupata fedha na faida nyingine. Hili ni sawa na kusema itangaze ili unyakue kwa wengi wanaotangaza injili siku hizi.
+Wahubiri wengi wa injili wa kisasa wanafundisha mambo ya mafanikio wa kupata fedha na faida nyingine. Hili ni sawa na kusema itangaze ili unyakue kwa wengi wanaotangaza injili siku hizi.
 
-Msisitiko ni kuhusu utajirisho na upataji wa fedha. Maigizo yanatumika ili kujipatia fedha. Watu wanashauriwa kwa maneno kama, "Otesha mbegu yako kwa mategemeo ya kujipatia mavuno makubwa." Wanaambiwa wakitoa watabarikiwa mara mia. Wanaambiwa watamke watakavyo wabarikiwe na wategemee kupata hata gari la kifahari kama Cadillac. Ama wengine wanaambiwa wazitamkie pochi zao fedha wanazotaka ili kuzijaza pesa.
+Msisitiko ni kuhusu mafanikio na upataji wa fedha. Maigizo yanatumika ili kujipatia fedha. Watu wanashauriwa kwa maneno kama, "Otesha mbegu yako kwa mategemeo ya kujipatia mavuno makubwa." Wanaambiwa wakitoa watabarikiwa mara mia. Wanaambiwa watamke watakavyo wabarikiwe na wategemee kupata hata gari la kifahari kama Cadillac. Ama wengine wanaambiwa wazitamkie pochi zao fedha wanazotaka ili kuzijaza pesa.
 
 ### Wakristo wajinga wanakubaliana na kila mtindo mpya wanaoletewa bila kujali kama ni ukweli
 

@@ -58,7 +58,7 @@ God raised up torch bearers throughout the world to restore the light of the Gos
 
 Martin Luther is considered to be _the father of the Reformation_.
 
-He nailed 95 theses to the oak door of the Wittenberg Cathedral on Oct. 31, 151. The theses stated his position against the Roman Church. He refuted what he saw as false doctrine of the church and denied the infallibility of the pope. Printed copies quickly flooded Europe and helped to spark the light of the Reformation.
+He nailed 95 theses to the oak door of the Wittenberg Cathedral on Oct. 31, 1517. The theses stated his position against the Roman Church. He refuted what he saw as false doctrine of the church and denied the infallibility of the pope. Printed copies quickly flooded Europe and helped to spark the light of the Reformation.
 
 He burned the papal bull. Bull is derived from the Latin _bula_ which means "a seal." The name being applied to any document stamped with an official seal. In 1520, the pope sent Luther a bull accusing him of heresy. Luther burned the bull in the yard of the University of Wittenberg. Luther called it "the execrable bull of antichrist." This obviously did not go over well with the pope.
 

@@ -60,7 +60,7 @@ Doctrinal beliefs formerly hindered the evangelizing of heathen nations. The Cal
 
 ### William Carey (India)
 
-William Carey (1761&ndash;1834) is the father of the modern missionary movement. He was a poor Englishman. For a time, he walked 8 miles each Sunday to preach to a church. He tried to convince people to go preach in other countries, but they said, "If God wants to save the heathen, He will do so, without your help or mine."
+William Carey (1761&ndash;1834) was the father of the modern missionary movement. He was a poor Englishman. For a time, he walked 8 miles each Sunday to preach to a church. He tried to convince people to go preach in other countries, but they said, "If God wants to save the heathen, He will do so, without your help or mine."
 
 He sailed for India in 1793. He was the first modern missionary to India. There, he saw no converts for seven years. He did not spend much time condemning the Hindu religion, but instead spent his time speaking about Jesus, His death, and His Resurrection. He was the first modern missionary that went to a foreign country for the purpose of evangelizing a heathen nation. He also formed the first missionary society. A famous saying of his is, "Expect great things from God; attempt great things for God."
 
@@ -80,15 +80,15 @@ He founded China Inland Mission a Missionary group that concentrated on spreadin
 
 **Discussion**: Are missionaries helpful or harmful to local people?
 
-## The Azusa Street Revival
+## The Azusa Street Revival (1906)
 
-A mighty outpouring of the Holy Ghost in Los Angeles California at the turn of the 20th century. God was restoring Pentecost to the Church.
+The Azusa Street Revival was a mighty outpouring of the Holy Ghost in Los Angeles California at the turn of the 20th century. God was restoring Pentecost to the Church.
 
 ## The other notable preachers
 
 ### Billy Sunday
 
-Billy Sunday stood strong against alcohol and was a dynamic preacher of the Gospel
+Billy Sunday stood strong against alcohol and was a dynamic preacher of the Gospel.
 
 ### Smith Wigglesworth
 

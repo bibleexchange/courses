@@ -80,7 +80,7 @@ Alianzisha kituo cha Misioni ndani ya Uchina na kikundi chake kilihubiri injili 
 
 **Majadiliano**: Je, wamishonari husaidia au kuumiza watu wa ndani?
 
-## Uamsho wa Mtaa wa Azuza
+## Uamsho wa Mtaa wa Azuza (1906)
 
 Kuanza kwa karne ya 20 kulishuhudia mbubujiko wa Roho Mtakatifu huko Los Angeles katika California, Marekani. Mungu alikuwa analirudishia Kanisa Pentekoste upya.
 

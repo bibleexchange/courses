@@ -56,9 +56,9 @@ Mungu aliwainua waongoza njia duniani kote kuurudisha mwanga wa injili. Waprotes
 
 #### Martini Luther (1483—1546) huko Ujerumani
 
-Martini Luther anachukuliwa kuwa ndiye Muasisi wa mageuzo.
+Martini Luther anachukuliwa kuwa ndiye Baba wa mageuzo.
 
-Aliweka tangazo lenye hoja 95 katika lango kuu la kanisa la Askofu wa Wittenberg tarehe 31 oktoba 151. Hoja hizo zilionesha jinsi anavyopinga kanuni za Kanisa Katoliki. Alikana kile alichokiona kama mafundisho ya kanisa la uwongo na kukataa mamlaka ya papa. Nakala nyingi za tangazo lake hilo zilizochapishwa na zilienea haraka Ulaya na zikasaidia kuwasha moto mkali wa mageuzo.
+Aliweka tangazo lenye Hoja 95 katika lango kuu la kanisa la Askofu wa Wittenberg tarehe 31 Oktoba 1517. Hoja hizo zilionesha jinsi anavyopinga kanuni za Kanisa Katoliki. Alikana kile alichokiona kama mafundisho ya kanisa la uwongo na kukataa mamlaka ya papa. Nakala nyingi za tangazo lake hilo zilizochapishwa na zilienea haraka Ulaya na zikasaidia kuwasha moto mkali wa mageuzo.
 
 Aliichoma nembo ya Papa. Nembo ya Papa ni lakiri iliyoitwa kwa kilatini Bula. Neno hili la kilatini bula ambalo kwa kiingeraza ni bull linatokanana neno la kilatini lilitumiwa katika hati zote rasmi zilizokuwa na muhuri au lakiri yaani Nembo ya Papa. Mwaka 1520 papa alimtumia Martini Luther Bula (hati rasmi) ya kumtuhumu kwamba ameasi. Luther aliichoma hati hiyo na aliita "hati ya kuchukiza mno toka kwa mpinga Kristo." Jambo hili halikumpendeza papa.
 
@@ -88,7 +88,7 @@ Yohane Kalvini alikuwa ni mhubiri aliyekuwaa mwazi na mwandishi ambaye alihubiri
 
 Aliandika kitabu kiitwacho Kustahili kwa sababu ya Imani mwaka 1512 na akahubiri ukombozi kwa imani. Yeye kamwe hakujitenga rasmi na Kanisa Katoliki.
 
-Waprotestanti wa Ufaransa waliitwa Wahuguenote. Wahuguenote hawa waliteswa sana na kanisa Katoliki la Roma. Tahehe 24 ya Agosti 1572 Waprotestanti elfu ishirini waliuawa kwa siku moja siku ambayo inakumbukwa kama siku ya mauaji, ya Mtakatifu Bartholomeo Viongozi wengi wa Waprostanti waliuawa katika mauaji hayo. Waprotestanti laki tano waliikimbia nchi kwa usalama wao.
+Waprotestanti wa Ufaransa waliitwa Wahuguenote. Wahuguenote hawa waliteswa sana na kanisa Katoliki la Roma. Tahehe 24 ya Agosti 1572 Waprotestanti elfu ishirini waliuawa kwa siku moja siku ambayo inakumbukwa kama siku ya mauaji ya Mtakatifu Bartholomeo. Viongozi wengi wa Waprostanti waliuawa katika mauaji hayo. Waprotestanti laki tano waliikimbia nchi kwa usalama wao.
 
 #### Waanabaptisti (1525) huko Uswisi
 

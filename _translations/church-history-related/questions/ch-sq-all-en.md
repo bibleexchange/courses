@@ -116,7 +116,7 @@ Fill in the missing words.
 
 ## **Polycarp** was bishop of Smyrna at Asia Minor.
 
-## **Justin Martyr** was a philosopher who became a Christian after meeting an elderly man who explained how Jesus fulfilled Old Testament prophecies.
+## **Justin** **Martyr** was a philosopher who became a Christian after meeting an elderly man who explained how Jesus fulfilled Old Testament prophecies.
 
 ## **Blandina** was a Christian slave girl who was tortured from morning until night declared, "I am a Christian, and no evil is committed among us."
 
@@ -226,15 +226,15 @@ Answer true or false.
 3. No freedom
 4. **No Bibles in common language**
 
-## Fill in the blank. Isaiah 9:19 Through **the wrath of the LORD of hosts** is the land darkened,
+## Fill in the blank. Isaiah 9:19 Through **the** **wrath** **of** **the** **LORD** **of** **hosts** is the land darkened,
 
-## Fill in the blank. **The Roman Catholic** church dominated Europe during this period.
+## Fill in the blank. **The** **Roman** **Catholic** church dominated Europe during this period.
 
 ## Fill in the blank. The Inquisition was a special court set up in the 1200's to deal with the **heretics**.
 
-## Fill in the blank. The Holy Wars were an attempt by the Roman Church to retake **the Holy Land** from the Muslims.
+## Fill in the blank. The Holy Wars were an attempt by the Roman Church to retake **the** **Holy** **Land** from the Muslims.
 
-## Fill in the blank. John Wycliffe referred to as the **Morning Star** of the Reformation.
+## Fill in the blank. John Wycliffe referred to as the **Morning** **Star** of the Reformation.
 
 ## TRUE or FALSE. We by faith receive the atoning work of Christ because his sacrificial death was sufficient.
 
@@ -255,3 +255,178 @@ Answer true or false.
 ## TRUE or FALSE. John Huss was condemned as a heretic and was hung from a gallows by a council of the Roman Catholic Church.
 
 **FALSE. He was burned at the stake.**
+
+# Church History Study Questions 5: Reformed Church
+
+## What does the church name "Sardis" mean?
+
+1. Reknown
+2. Request
+3. Repairer
+4. **Remnant**
+
+## What really brought Europe out of the Dark Ages?
+
+1. Reliable facts
+2. Better education
+3. **Vernacular Bibles**
+4. Good politics
+
+## Who invented the printing press in 1456?
+
+1. **Johann Gutenberg**
+2. Leonardo da Vinci
+3. Johann Fust
+4. Martin Luther
+
+## What was the first book ever printed on that printing press?
+
+1. Farmer's Almanac
+2. **Latin Bible**
+3. Our Daily Bread
+4. Luther's 95 Thesis
+
+## What name was given to those who deny the universal authority of the pope?
+
+1. Orthodox
+2. Jesuit
+3. **Protestant**
+4. Pentecostal
+
+## Fill in the blank. **Martin** **Luther** is considered to be the father of the Reformation.
+
+## Fill in the blank. Martin Luther nailed **95** **theses** to the oak door of the Wittenberg Cathedral on Oct. 31, 1517.
+
+## Fill in the blank. The Protestants in France were called **Huguenots**.
+
+## Fill in the blank. Twenty thousand Protestants were killed by the Catholics in one day on Aug. 24, 1572, on what was referred to as the "**St.** **Bartholomew's** **Day** **Massacre**."
+
+## Fill in the blank. The people called **Separatists** were those we wanted to separate from the Church of England.
+
+Fill in the blank. The people called **Puritans** were those we wanted to purify from the Church of England. 
+
+## TRUE or FALSE. John Knox led the Reformation in Scotland.
+
+**True**
+
+## TRUE or FALSE. The Pilgrim's came to the New World (America) to trade with Indians.
+
+**False. They came for religious freedom from the oppression of the Church of England.**
+
+## TRUE or FALSE. The Mayflower Compact was based on scientific principles.
+
+**False. The Mayflower Compact based upon Biblical principals. (The Mayflower Compact was the first document of self-government of the New World.)**
+
+## TRUE or FALSE. Muslims led a counter Reformation against the Protestants.
+
+**False. The Jesuits led a counter reformation against the Protestants.**
+
+# Church History Study Questions 6: Modern Church
+
+## What does PHILADELPHIA mean?
+
+1. **Brotherly love**
+2. Mercy of God
+3. Patience of hope
+4. City of peace
+
+## Which of the following group of words best describes the Modern Church Period?
+
+1. Poverty, worship
+2. Idolatry, selfishness
+3. **Missions, revivals**
+4. Industry, money
+
+## In what two countries did the the Great Awakening take place in the early 1700's?
+
+1. France and England
+2. **England and America**
+3. Sweden and America
+4. Germany and America
+
+## Who were the leaders of The Second Great Awakening?
+
+1. **Finney, Moody, Spurgeon**
+2. Knox, Zwingli, Smith
+3. Calvin, Erasmus, Luther
+4. Wesley, Whitefield, Moody
+
+## Leading up to the Modern Church Period, what dogma largely hindered the evangelizing of heathen nations?
+
+1. Sunday Worship
+2. Infant Baptism
+3. Catholic Eucharist
+4. **Calvin's Predestination**
+
+## Fill in the blank. **William** **Carey** was the father of the modern missionary movement. 
+
+## Fill in the blank. **David** **Livingstone** was called the pathfinder of Africa.
+
+## Fill in the blank. The **Azusa** Street Revival was a mighty outpouring of the Holy Ghost in Los Angelas California.
+
+## Fill in the blank. Billy **Sunday** and Smith **Wigglesworth** were also notable preachers of this period. (What were their names?)
+
+## Fill in the blank. In the 1950's Oral Roberts, A.A. Allen, and William Branham all preached often in **Tent** **Revivals**.
+
+## True or False. Adoniram Judson was a missionary to Africa.
+
+**False. Adoniram Judson was a missionary to Burma.**
+
+## True or False. Hudson Taylor was a great missionary but never started other missionaries other than himself.
+
+**False. Hudson Taylor planted 849 missionaries, and started 205 mission stations.**
+
+## True or False. Billy Sunday preached strong against alcohol.
+
+**True**
+
+## True or False. Smith Wigglesworth was an Apostle of Faith who had a tremendous healing ministry.
+
+**True**
+
+# Church History Study Questions 7: Postmodern Church
+
+## What does the word LAODICEA mean?
+
+1. Mixture of doctrine
+2. Backsliding
+3. Compromise with sin
+4. **Rule by the people**
+
+## Why did Jesus say He would spew the Laodicean church out of His mouth?
+
+1. **Lukewarmness**
+2. Drunkenness
+3. Rebellion
+4. Repentance
+
+## In what verse in Revelations, did Jesus describe this church period as wretched, miserable, poor, blind, and naked?
+
+1. **3:17**
+2. 3:22
+3. 4:9
+4. 3:12
+
+## What do New Evangelicals emphasize?
+
+1. Inerrancy of scripture
+2. Witnessing to sinners
+3. **Compromise**
+4. Fresh anointing
+
+## Fill in the blank. The charismatic movement came out of the **Catholic** **Church**.
+
+## Fill in the blank. The **gospel** **of** **prosperity** has replaced the Gospel of Jesus Christ in many of our modern churches.
+
+## TRUE or FALSE. The Postmodern Church Period is over.
+
+**FALSE**
+
+## TRUE or FALSE. The Postmodern Church Period is run by the ballot box.
+
+**TRUE**
+
+
+## TRUE or FALSE. New Evangelicals believe there are errors in the Bible and some even denied Christ's Deity.
+
+**TRUE**
