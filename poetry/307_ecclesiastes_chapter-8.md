@@ -148,25 +148,18 @@ b. Again, there are wicked men to whom it happens according to the work of the r
 
 i. One might say that this question is even more troublesome, because in a very real sense, there are no just men and all can be seen as wicked in some way. Why goodness is shown to the undeserving is a question that looks to the remarkable mercy of God.
 
-### Ecclesiastes 8:15-17 (Live for the moment - and know there is more that what you can see.)
+### Ecclesiastes 8:15-17 (Live for the moment - and know there is more than what you can see.)
 
 > 15 Then I commended mirth, because a man hath no better thing under the sun, than to eat, and to drink, and to be merry: for that shall abide with him of his labour the days of his life, which God giveth him under the sun. 16 When I applied mine heart to know wisdom, and to see the business that is done upon the earth: (for also there is that neither day nor night seeth sleep with his eyes:) 17 Then I beheld all the work of God, that a man cannot find out the work that is done under the sun: because though a man labour to seek it out, yet he shall not find it; yea farther; though a wise man think to know it, yet shall he not be able to find it.
 
-#### 1. So I commended enjoyment: With the meaninglessness of life so plain to the Preacher, all he could counsel was to make the best of a bad situation and enjoy life the best way possible.
+#### 1. So I commended enjoyment: 
 
-#### 2. Then I saw all the work of God, that a man cannot find out the work that is done under the sun: Here Solomon begins to undermine his once-so-certain premise of life lived without an eternal perspective. He recognizes that man cannot find out the work of God in fullness; so what we see does not define what there actually is.
+With the meaninglessness of life so plain to the Preacher, all he could counsel was to make the best of a bad situation and enjoy life the best way possible.
 
-> The business that is done on earth, even though one sees no sleep day or night: "The very busyness of life worries us into asking where it is taking us, and what it means, if it does mean anything. We hardly need Qoheleth to point out that this is very question that defeats us." (Kidner)
+#### 2. Then I saw all the work of God, that a man cannot find out the work that is done under the sun: 
+
+Here Solomon begins to undermine his once-so-certain premise of life lived without an eternal perspective. He recognizes that man cannot find out the work of God in fullness; so what we see does not define what there actually is.
+
+> The business that is done on earth, even though one sees no sleep day or night: "The very busyness of life worries us into asking where it is taking us, and what it means, if it does mean anything. We hardly need Qoheleth to point out that this is the very question that defeats us." (Kidner)
 
 > He will not be able to find it: "His conclusion is that we must be content not to know everything. Neither hard work (toil), persistent endeavour (seeking), skill or experience (wisdom) will unravel the mystery. Wise men may make excessive claims; they too will be baffled." (Eaton)
-
-<!--
-# Chapter 9 (Like things happen to the righteous and the wicked, wisdom is pre-eminant and often unappreciated)
-
-# Chapter 10 (Various wise sayings, the contrast between wisdom and folly)
-
-# Chapter 11 (Benevolences and advice to the young.)
-
-# Chapter 12 (Description of old age, conclusion concerning the highest duty of man.)
-
--->
