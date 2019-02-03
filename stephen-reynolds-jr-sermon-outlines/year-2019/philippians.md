@@ -32,7 +32,7 @@ Paul and Silas first visited Philippi in Greece during Paul's second missionary 
 > Acts 16:11-15 &mdash; Therefore loosing from Troas, we came with a straight course to Samothracia, and the next day to Neapolis; 12 And from thence to Philippi, which is the chief city of that part of Macedonia, and a colony: and we were in that city abiding certain days. 13 And on the sabbath we went out of the city by a river side, where prayer was wont to be made; and we sat down, and spake unto the women which resorted thither. 14 And a certain woman named Lydia, a seller of purple, of the city of Thyatira, which worshipped God, heard us: whose heart the Lord opened, that she attended unto the things which were spoken of Paul. 15 And when she was baptized, and her household, she besought us, saying, If ye have judged me to be faithful to the Lord, come into my house, and abide there. And she constrained us.
 
 - Philippi consisted mostly of retired Roman Soldiers and their Families. Anyone born there was given automatic Roman citizenship. It was clearly a place where Roman citizenship and its benefits were understood and valued.
-- The riverside prayer meeting indicates a small Jewish population as there is evidently not enough Jews to build a synagogue (Jewish law required at least 10 Jewish men in a place in order to have a synagogue.)
+- The riverside prayer meeting indicates a small Jewish population as there is evidently not enough Jews to build a synagogue (Jewish law required at least 10 Jewish men in a place in order to have a synagogue.) Paul's usual custom to preach to the "Jews first" was interrupted as there was no synagogue in Philippi.
 - The Leadership of the Ladies at Phillippi is significant: Lydia hosts the church in her home (Acts 16:15), and Paul credits Euodias and Syntyche as having &quot;laboured with me in the gospel&quote;.
 - It was at Phillipi, Paul and Silas prayed for deliverance of a fortune telling slave girl. It was this deliverance that attracted the hatred of those who enslaved the girl and brought Paul and Silas to prison. (Acts 16:16-40)
 - Paul and Silas' imprisonment, resulted in the jailer's and his family's salvation.
@@ -53,11 +53,42 @@ Paul and Silas first visited Philippi in Greece during Paul's second missionary 
 
 > Philippians 1:1 &mdash; Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:
 
-Paul with Timothy's help and the Holy Spirit's inspiration wrote the letter of Philippians. Paul possible wrote this epistle about 10 years after his first visit to Philippi.
+Paul with Timothy's help and the Holy Spirit's inspiration wrote the letter of Philippians. Paul possibly wrote this epistle about 10 years after his first visit to Philippi. 
+
+Phillippians is written probably during Paul's 2 year House Arrest in Rome (Acts 29:14-31). Philippians 1:3,4 Paul mentions his bonds. He was under arrest as he had made his appeal to Ceasar and was waiting an audience. This was not in a dugeon, but he was under house arrest with 1 guard and was allowed visitors and was free to share the Gospel with them. Paul made his appeal to Ceasar not for his personal defence but so that "the Gentiles will hear the gospel."
+
+- Acts 16 - 2nd Missionary Journey with Silas: First Visit
+- Acts 20 - 3rd Missionary Journey: Second Visit
+- (No in Scripture) Possible 4th Missionary Journey (After Epistle written): Third Visit
+- (Acts ends with Paul waiting in Rome) Followed by Second Imprisonment in Rome and Martyrdom
+
+Paul is Hopeful and intends to visit: "I shall come shortly" (2:24). It is probable he died in Rome and didn't make it for a 3rd visit to Philippi, but Paul does recommend and send Timothy to them.
 
 #### "ALL"
 
-- "ALL" the saints points back to Paul's purpose of encouraging the Church. He makes it clear that the letter he is writing is intended for "All the saints." He is inferring that for the Christian church the only qualification that really matters is to be "saints in Christ Jesus." It is also interesting that he mentions "ALL" before he does "BISHOPS and DEACONS".
+- "ALL" the saints points back to Paul's purpose of encouraging the Church. 
+
+He makes it clear that the letter he is writing is intended for "All the saints." He is inferring that for the Christian church the only qualification that really matters is to be "saints in Christ Jesus." It is also interesting that he mentions "ALL" before he does "BISHOPS and DEACONS".
+
+> Galatians 3:28 &mdash; There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.
+
+- The Gospel is for All.
+
+John M. Mcaleb: 
+
+Of one the Lord has made the race, Thro’ one has come the fall;
+Where sin has gone must go His grace; The Gospel is for all.
+
+Say not the heathen are at home, Beyond we have no call,
+For why should we be blest alone? The Gospel is for all.
+
+Received ye freely, freely give, From every land they call;
+Unless they hear, they cannot live: The Gospel is for all.
+
+Refrain
+
+The blessèd Gospel is for all, The Gospel is for all;
+Where sin has gone must go His grace: The Gospel is for all.
 
 #### "SAINTS"
 
@@ -70,6 +101,8 @@ The saints are not a canonized list of names of dead people canonized by the Rom
 - Physically and spiritually pure
 - One set apart for Holy fellowship and service. "sanctified"
 
+> Col 1:12 ¶ Giving thanks unto the Father, which hath made us meet to be partakers of the inheritance of the saints in light:
+
 > Titus 2:12 &mdash; Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world;
 
 #### &quot;Grace be unto you and peace&quot;
@@ -79,11 +112,110 @@ The saints are not a canonized list of names of dead people canonized by the Rom
 
 ### Prayer for the Saints, vs. 3-11
 
-> 3 I thank my God upon every remembrance of you, 4 Always in every prayer of mine for you all making request with joy, 5 For your fellowship in the gospel from the first day until now; 6 Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ: 7 Even as it is meet for me to think this of you all, because I have you in my heart; inasmuch as both in my bonds, and in the defence and confirmation of the gospel, ye all are partakers of my grace. 8 For God is my record, how greatly I long after you all in the bowels of Jesus Christ. 9 And this I pray, that your love may abound yet more and more in knowledge and in all judgment; 10 That ye may approve things that are excellent; that ye may be sincere and without offence till the day of Christ.
-11 Being filled with the fruits of righteousness, which are by Jesus Christ, unto the glory and praise of God.
+> 3 I thank my God upon every remembrance of you, 4 Always in every prayer of mine for you all making request with joy, 5 For your fellowship in the gospel from the first day until now; 6 Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ: 7 Even as it is meet for me to think this of you all, because I have you in my heart; inasmuch as both in my bonds, and in the defence and confirmation of the gospel, ye all are partakers of my grace. 8 For God is my record, how greatly I long after you all in the bowels of Jesus Christ. 9 And this I pray, that your love may abound yet more and more in knowledge and in all judgment; 10 That ye may approve things that are excellent; that ye may be sincere and without offence till the day of Christ. 11 Being filled with the fruits of righteousness, which are by Jesus Christ, unto the glory and praise of God.
 
-- "Always" for you "All"
-- Kinds of things prayed for: ...
+Ephesians 6:18; 1 Timothy 2:1; Colossians 1:19; Romans 15:30; 1 Thessalonians 5:25
+
+> D. L Moody used to tell the story of a man who came to him and said, “When the Mexican war began I wanted to enlist. My mother, seeing I was resolved, said if I became a Christian I might go. She pleaded and prayed that I might become a Christian, but I wouldn’t. I said when the war was over I would become a Christian, but not till then.
+
+“All her pleading was in vain, and at last, when I was going away, she took out a watch and said: My son, your father left this to me when he died. Take it, and I want you to remember that every day at 12 o’clock your mother will be praying for you. Then she gave me her Bible, and marked out passages, and put a few different references in the fly-leaf. I took the watch and the Bible just because my mother gave them. I never intended to read the Bible.
+
+“I went off to Mexico, and one day while on a long, weary march, I took out my watch, and it was 12 o’clock. I had been gone four months, but I remembered that my mother at that hour was praying for me. Something prompted me to ask the officer to relieve me for a little while, and I stepped behind a tree away out on those plains of Mexico, and cried to the God of my mother to save me.”
+
+God saved him, and after the Mexican war was ended, he said, “I have enlisted again to see if I can do any good for my Master’s cause.”
+
+
+> The story is told about two wives who were doing their laundry in a laundry mat. They were both mending their husband’s pants.
+
+One wife said, “My husband is so miserable. Nothing goes right at work, and he can’t find anything good on television. Our home is a place of despair. When we go to church, the song leader is terrible and the pastor is an idiot.
+
+The other wife said “My husband is so excited.” He can’t wait to go to church. He loves the sermons. We laugh all the time and enjoy our family.
+
+It got very quiet in the laundry room as the women continued sewing the pants. One was patching the seat of the pants, and the other was patching the knees.`
+
+#### 1. The Motivation of His Prayer
+
+Prayer motivated by love
+
+- **Thankful**
+
+Thankful for You Upon Every Remembrance of You
+
+- **Desirous of Fellowship in the Gospel**
+
+In Every Prayer of Mine, **making request with joy** for your **fellowship in the Gospel** (from the first day until now)
+
+1 Thessalonians 5:11 -- Build Each Other Up
+
+Knowledge is increased by fellowship, love and truth. 1:7 &quot;Partakers of my grace&quot; 
+
+> Luke 19:15 &quot;gained by trading&quot; 
+
+- **Confident and Expecting**
+
+Confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ:
+
+Spiritual Prayer: Romans 8:26; 2 Corinthians 10:4
+Confident: Proverbs 15:29; Hebrews 4:16
+
+- **Common Trial: Common Blessing**
+
+Even as it is meet for me to think this of you all, because I have you in my heart; inasmuch as both in my bonds, and in the defence and confirmation of the gospel, **ye all are partakers of my grace**. 
+
+Having witnessed and benefited from their Christian Fruit, it is just and evident ye are "partakers of my grace" -- you are truly saved. To partake of this grace is to communicate the same you receive to others.
+
+"Have you in my heart" -- Paul is warmly attached to them.
+
+As they had fellowshipped and shared with Paul in his BONDS and in the WORK of the Gospel, they also will share in same favor of God.
+
+> 2 Timothy 2:12 &mdash; If we suffer, we shall also reign with him: if we deny him, he also will deny us: 
+> Romans 8:17 &mdash; And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.
+> 1 Peter 4:13 &mdash; But rejoice, inasmuch as ye are partakers of Christ's sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy.
+
+- **Personal Longing**
+
+I long after you all in the bowels of Jesus Christ. 
+
+#### 2. The Requests of His Prayer
+
+- **I pray your love may abound yet more and more in knowledge and in all judgment;**
+
+Perfection of love is produced by the increase of the knowledge of the Son of God, &quot;yet more and more in knowledge and in all judgment&quot; Phil. 3:10 &quot;That I may know Him&quot;
+
+Shows our perception advancing.
+
+Knowledge produces love but love produces greater knowledge.
+
+- **I pray ye may approve things that are excellent**
+
+Perfection of love produces the ability to discern.
+
+- **I pray that ye may be sincere and without offence till the day of Christ.** 
+
+The perfection of love produces purity.
+
+&quot;Sincere&quot; &mdash; judged by sunlight. Tested as genuine, Pure, &quot;Without offence&quot;
+
+- **I pray you are filled with the fruits of righteousness, which are by Jesus Christ, unto the glory and praise of God.**
+
+The perfection of love produces a fruitful life. 1:11 &quot;Being filled With the fruits of righteousness&quot;The nature of man must be changed by grace before he can bear fruit. &quot;Which are by Christ Jesus Unto the Glory and Praise of God&quot; Fruit is the Indication of the general character.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Purpose in the Trial: Furtherance of the Gospel, vs. 12-30
 
@@ -110,23 +242,6 @@ The saints are not a canonized list of names of dead people canonized by the Rom
 
 
 
-
-<h3>Always when in prayer requesting fellowship. 1:3-5</h3>
-<h3>Confidence in God&apos;s ultimate purpose. 1:6</h3>
-<h4>The grounds of his confidence. &quot;He which hath began&quot;</h4>
-<h4>The subject of His confidence.&quot;A good work in you&quot;</h4>
-<h4>The scope of His confidence. &quot;Will perform it until the day of Jesus Christ&quot;</h4>
-<h5>Perfection, full stature</h5>
-<h5>Till Christ is fully formed in you</h5>
-<h5>&quot;Perform&quot; fulfill, terminate, accomplish, finish and perfect</h5>
-<h3>Paul&apos;s prayer for the Philippians 1:7-11</h3>
-<h4>Perfection of love is produced by the increase of the knowledge of the Son of God, &quot;yet more and more in knowledge and in all judgment&quot; Phil. 3:10 &quot;That I may know Him&quot;</h4>
-<h4>Perfection of love produces the ability to discern. 1:10 &quot;Approve things that are excellent&quot;</h4>
-<h4>The perfection of love produces purity. &quot;Sincere&quot; &mdash; judged by sunlight. Tested as genuine, Pure, &quot;Without offence&quot;</h4>
-<h4>The perfection of love produces a fruitful life. 1:11 &quot;Being filled With the fruits of righteousness&quot;The nature of man must be changed by grace before he can bear fruit. &quot;Which are by Christ Jesus Unto the Glory and Praise of God&quot; Fruit is the Indication of the general character.</h4>
-<h4>Knowledge is increased by fellowship, love and truth. 1:7 &quot;Partakers of my grace&quot; Luke 19:15 &quot;gained by trading&quot; To partake of this grace is to communicate the same you receive to others.</h4>
-<h4>&quot;In all judgment&quot; shows our perception advancing</h4>
-<h4>&quot;Approving things that are excellent&quot; Knowledge produces love but love produces greater knowledge.</h4>
 <h3>The Gospel progressing in spite of persecution and false motives. 1:12-18</h3>
 <h3>Christ magnified by life or by death. 1:19-26</h3>
 <h3>Unity and humility enforced. 1:27-30</h3>
