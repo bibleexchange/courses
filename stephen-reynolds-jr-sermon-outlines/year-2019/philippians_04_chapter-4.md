@@ -2,19 +2,24 @@
 
 - JOY, PEACE
 
-## vs. 1-9
+## Exhortations, vs. 1-9
 
 ### Stand Fast in the Lord, v.1
 
 > Philippians 4 &mdash; 1 Therefore, my brethren dearly beloved and longed for, my joy and crown, so stand fast in the Lord, my dearly beloved. 
 
-- "my joy" , v.1
+#### A. "my joy" , v.1
+
+- "dearly beloved" belonging to Christ
+- 
 
 > 1 Thessalonians 2:19,20 &mdash; For what is our hope, or joy, or crown of rejoicing? Are not even ye in the presence of our Lord Jesus Christ at his coming? 20 For ye are our glory and joy.
 
-- "Rejoice in the Lord" Php 3:1; 4:4
-	-  Ps 33:1; Ps 97:12; Isa 41:16; Isa 61:10; Joe 2:23; Hab 3:18; Zec 10:7; Php 4:4
-	- Rejoicing in the Lord as a defence against quarreling and division in the church
+- Paul's 'incomplete joy' : Philippians 2:2
+
+#### B. "stand fast"
+
+**DO THIS HOW**
 
 ### Be of the Same Mind, v. 2, 3
 
@@ -36,14 +41,23 @@
 		- Paul probably knows what the situation is but he doesn't say as the issue doesn't matter ultimately as that they come together
 		- contrast wiht heresy and paul rebuking peter to his face
 		- 
+**DO THIS HOW**
 
 ### Rejoice in the Lord, v.4
 
 > 4 Rejoice in the Lord alway: and again I say, Rejoice.
 
+- "Rejoice in the Lord" Php 3:1; 4:4
+	-  Ps 33:1; Ps 97:12; Isa 41:16; Isa 61:10; Joe 2:23; Hab 3:18; Zec 10:7; Php 4:4
+	- Rejoicing in the Lord as a defence against quarreling and division in the church
+	
+**DO THIS HOW**
+
 ### Let Your Moderation Be Known, v.5
 
 > 5 Let your moderation be known unto all men. The Lord is at hand.
+
+**DO THIS HOW**
 
 ### Do Not Be Anxious, vs.6,7
 
@@ -52,16 +66,21 @@
 - Daniel 3:16; Matthew 6:25-33; 10:19; 
 - The key to "not being anxious" is in bringing your needs to God.
 
+**DO THIS HOW**
+
 ### Think on These Things, v.8
 
 > 8 Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.
 
 - Not just "think" on these things, but action begins with the thought.
 
+**DO THIS HOW**
+
 ### Do What You Know to Do, v.9
 
 > 9 Those things, which ye have both learned, and received, and heard, and seen in me, do: and the God of peace shall be with you.
 
+**DO THIS HOW**
 
 ## Christian Giving, vs. 10-19
 
