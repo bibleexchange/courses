@@ -6,6 +6,30 @@ Proverbs has two major sections (1-9 & 10-31), that compose seven different coll
 
 The first nine chapters are longer poems that deal with subjects in depth, and the rest of the book is composed of individual sentence sayings.
 
+<!--
+### What is a proverb?
+
+A proverb uses as few words as possible to communicate truth.
+
+As Cervantes, the 16th century novelist, put it, “Proverbs are short sentences, drawn from long experience.” from _Living Well_)
+
+Written by Solomon (1:1)
+
+Tremper Longman divides this section into 17 lectures. See How to Read Proverbs pg. 
+22 for list. Waltke gives only 14 (NICOT pg. 10)
+
+Collection I: Title with Preamble (1:1–7), Prologue (1:1–8:36), and Epilogue (9:1–18) (NICOT)
+
+Ch 10-31 individual proverbs
+
+How many sayings?
+
+### Kinds of sayings
+
+> Specifically, the following types of sayings are listed: maxims, proverbs, difficult sayings, words of the wise and enigmas. (How to read Proverbs, pg. 17)
+
+> In spite of the quibbles over the exact meaning of these words, they all clearly represent Hebrew words that are difficult to understand not because they have a secret meaning or a code, but because they are forms of writing that address their subject indirectly rather than spelling it out in cold, factual language. (How to Read, pg. 17)-->
+
 ## Proverbs is of the wisdom genre
 
 Not every passage in the Bible is read the same. For example we read Acts 17:1 (Now when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where was a synagogue of the Jews:) differently than we read Psalm 18:8 (There went up a smoke out of his nostrils, And fire out of his mouth devoured:). The first is an historical account of events, and the second is poetic and symbolic description of God. God does not literally have smoke coming out of His nose (He does not actually have a nose, either, since He is a spirit). The same way, we do not read Proverbs the same way we would Leviticus or one of the prophets.
@@ -33,6 +57,8 @@ In the book of Job, another wisdom book, Job's friends believe in a _retribution
 The preacher in Ecclesiastes 1:12&ndash;17 and the writer of Psalm 73 lament because the foolish and wicked seem to be doing just fine. 
 
 So if proverbs are not laws or promises, than what are they?
+
+<!--The second chapter of _Interpreting Wisdom_ has good thoughts on character-consequence nexus.-->
 
 ### Proverbs are principles
 
@@ -177,6 +203,10 @@ There are two in-depth uses of symbolism used throughout the first nine chapters
 
 #### Woman Wisdom
 
+She speaks in Proverbs 1:20-33 and chapter 8. She is also mentioned in 9:1-6, 11; 2:3-4; 4:7-9; 6:22; 7:4.
+
+<!--I believe that Woman Wisdom is a poetic personification of Yahweh's wisdom&mdash;_Fear_ pg. 27-->
+
 * She keeps good friends
   * righteousness (8:6)
   * truth (8:7)
@@ -188,16 +218,48 @@ There are two in-depth uses of symbolism used throughout the first nine chapters
   * pride
   * arrogance (8:7-8, 13)
 * She was one of the first things created (8:22-26, 8:30-31, 3:19)
+<!--("...She, better than anyone, knows how the world works, and thus she is capable of helping us navigate life"&mdash;_Fear_ pg. 20)-->
+* She does not tolerate rejection (1:24-27)
 
 #### Woman Folly
 
-Chapter 9:13-18
+She is mentioned in chapter 9:13-18.
+
+She is similar to the Strange Woman (5:8 and 7:22 are like 9:13-18. And 2:18-19, 5:5, and 7:27 are like 9:18). Both women start by calling out to the simple (9:4, 16). Both desire a relationship (come in with me). Both have prepared a meal (9:1-2, 17).
+
+###### Path of life
+
+There is a good way and a bad way.
+
+There are snares and dangers in the way.
 
 ## Proverbs was written as advice from a father to his son
 
 Writings of advice from a father to a son were common in the ancient near east.
 
 A surface reading the Proverbs and all its warnings about the "strange" women can give the impression that only women have issues with promiscuity, but when we remember that it was written to a young man then it makes sense of why the warnings are against people of the opposite gender. We could safely assume that if it was written by a mother to her daughter that there would be plenty of warnings of the "strange" man.
+
+<!--### To whom was the book written?
+
+#### Simple ones (1:4)
+
+Neither wise nor foolish, but unformed. Immature. They do not know, but they are teachable.
+
+#### Wise ones 
+
+Mature. 
+
+The writings will "increase learning" for them.
+
+####  Not for fools (1:7)
+
+They are excluded, or more correctly, they exclude themselves.
+
+#### The son (1:8,10,15)
+
+This is the actual person the book was originally written for.
+
+This was common in writings at the time. See How to Read pg. 24.-->
 
 <!--
 
