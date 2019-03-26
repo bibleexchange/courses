@@ -1,4 +1,4 @@
-# What kind of book is Proverbs?
+# Introduction to the Book of Proverbs
 
 ## Proverbs is not just a random collection of sayings
 
@@ -36,27 +36,27 @@ Not every passage in the Bible is read the same. For example we read Acts 17:1 (
 
 Before we talk about what makes a proverb unique, let's look at two verses of Proverbs that confuse some people:
 
-> Proverbs 26:4&mdash;Answer not a fool according to his folly, lest thou also be like unto him.
+> Proverbs 26:4—Answer not a fool according to his folly, lest thou also be like unto him.
 
-> Proverbs 26:5&mdash;Answer a fool according to his folly, lest he be wise in his own conceit.
+> Proverbs 26:5—Answer a fool according to his folly, lest he be wise in his own conceit.
 
 Why are these two Proverbs contradicting each other?
 
 ### Proverbs are different than laws
 
-A law is always the same. It does not change based on circumstances.
+A law is always the same. It does not change based on circumstances. Proverbs are different from laws because at some times they are good to follow, but at other times it is not wise to obey it. We need wisdom to know when to obey a Proverb. 
 
 ### Proverbs are different than promises
 
-What does Proverbs 22:6 mean if my children leave church? Why do some virtuous women have abusive husbands or disrespectful children? (Prov. 31:28)
+Proverbs 22:6 says that if you teach your children the right way, then they will never leave that way. But what does it mean if my children leave church? Why do some virtuous women have abusive husbands or disrespectful children? (Prov. 31:28)
 
 Proverbs is part of the biblical canon and also part of a collection of wisdom books. Reading the other wisdom books can give us insight about the application of Proverbs to life.
 
-In the book of Job, another wisdom book, Job's friends believe in a _retribution theology_, which means they believed that bad things only happen to bad people, and good things only happen to bad people. Thus, since Job's life was full of bad things, then he must be a terrible sinner. But we know from the story in chapters 1 and 2, that these events in Job's life were not because of sin.
+In the book of Job, which is another wisdom book, Job's friends believe in a _retribution theology_, which means they believed that bad things only happen to bad people, and good things only happen to good people. Since Job's life was full of bad things, they thought that he must be a really bad sinner. But we know from the story in chapters 1 and 2, that these events in Job's life were not because of sin.
 
-The preacher in Ecclesiastes 1:12&ndash;17 and the writer of Psalm 73 lament because the foolish and wicked seem to be doing just fine. 
+The preacher in Ecclesiastes 1:12–17 and the writer of Psalm 73 lament because the foolish and wicked seem to live good lives.
 
-So if proverbs are not laws or promises, than what are they?
+If proverbs are not laws or promises, than what are they?
 
 <!--The second chapter of _Interpreting Wisdom_ has good thoughts on character-consequence nexus.-->
 
@@ -68,71 +68,71 @@ So if proverbs are not laws or promises, than what are they?
 We still obey these principles, even though we may not see the exact results that we hope for.
 
 > On what grounds, then, could the sages so confidently assert the superiority of righteousness even though they were aware of righteous folk who suffered and of wicked folk who prospered? _In general_, the sages clearly believed that wise and righteous behavior did make life better and richer, though virtue did not _guarantee_ those consequences.
-> Van Leeuwan, Hebrew Studies 33 pg. 32
+> Van Leeuwan, Hebrew Studies 33, pg. 32
 
 > It is a mistake, though, to treat the proverb as a type of guarantee. That is not what proverbs do. Again, it is a genre issue. Proverbs are not in the business of giving promises. Rather, they encourage people toward attitudes and actions that will lead toward a desired goal, all other things being equal. It is more likely that a child will grow up to be wise if their parents train them in the Lord’s way. But perhaps that child will come under the negative influence of his or her peers (see, for instance, the advice given in 1:8-19).
 > —Tremper Longman, III
 
-Job's friends and the preacher of Ecclesiastes may hav had a wrong understanding of applying principles like these, but that does not make them wrong.
+Job's friends and the preacher of Ecclesiastes may have had a wrong understanding of applying principles like these, but that does not make the principles wrong.
 
 > The widespread dogmatic misuse of retributive sayings or concepts (Job 42:7; Luke 13:1-5; John 9:1-2; cf. Prov 26:7, 9) does not itself render the sayings dogmatic.
 > Raymond C. Van Leeuwan, WEALTH AND POVERTY: SYSTEM AND CONTRADICTION IN PROVERBS, Hebrew Studies vol. 33 pg. 29
 
 #### A proverb needs wisdom for proper application
 
-##### Right time
+##### Wisdom for the right time
 
 Ecclesiates teaches that there is a time for everything (3:1-8).
 
-> Proverbs 15:23&mdash;A man hath joy by the answer of his mouth:  
+> Proverbs 15:23—A man hath joy by the answer of his mouth:  
   And a word spoken in due season, how good is it!
 
-> Proverbs 25:11&mdash;A word fitly spoken  
+> Proverbs 25:11—A word fitly spoken  
 > Is like apples of gold in pictures of silver.
 
-> Proverbs 25:20&mdash;As he that taketh away a garment in cold weather,  
+> Proverbs 25:20—As he that taketh away a garment in cold weather,  
 > And as vinegar upon nitre, So is he that singeth songs to an heavy heart.
 
-##### Right circumstances
+##### Wisdom for right circumstances
 
 It is not only biblical proverbs that are based on circumstances, but contemporary English sayings are also situational:
 
-* ‘Many hands make light work’ vs ‘Too many cooks spoil the 
+* ‘Many hands make light work’ versus ‘Too many cooks spoil the 
 broth’ 
-* ‘He who hesitates is lost’ vs ‘Look before you leap’ 
-* ‘Out of sight, out of mind’ vs ‘Absence makes the heart 
+* ‘He who hesitates is lost’ versus ‘Look before you leap’ 
+* ‘Out of sight, out of mind’ versus ‘Absence makes the heart 
 grow fonder’ 
 
-The contrasting ideas found in Proverbs are not contradictions, but they provide a balanced understanding of wisdom that apply to the varieties of life situations.
+The contrasting ideas found in Proverbs are not contradictions, but they provide a balanced understanding of wisdom that applies to the varieties of life situations.
 
 Proverbs 18:22 says that he that "findeth a wife findeth a good thing," but 21:9 says that "It is better to dwell in a corner of the housetop, Than with a brawling woman in a wide house." So marriage is good... but only if you marry the right person.
 
 A proverb used wrongly can be dangerous. Proverbs 27:5 says that "Open rebuke is better than secret love", but that does not mean that we should rebuke every person every time we think they are doing something wrong.
 
-> Proverbs 26:7&mdash;The legs of the lame are not equal:  
+> Proverbs 26:7—The legs of the lame are not equal:  
 > So is a parable in the mouth of fools.
 
-> Proverbs 26:9&mdash;As a thorn goeth up into the hand of a drunkard,  
+> Proverbs 26:9—As a thorn goeth up into the hand of a drunkard,  
 > So is a parable in the mouth of fools.
 
 No single verse of Scripture gives us a complete view on any one subject. Compare one proverb with other proverbs and other Scriptures to get a better understanding of it.
 
-We have to read Proverbs with an understanding that there are things in life that are complex. From them we see that "The blessing of the LORD makes rich" (10:22) and aslo that "Violent men get riches" (11:16). It is often our habit to label something like riches as _bad_ because of the negative verses associated with them, but the "better-than" proverbs help us put a better perspective on it.
+We have to read Proverbs with an understanding that there are things in life that are complicated. From the proverbs we see that "The blessing of the LORD makes rich" (10:22) and also that "Violent men get riches" (11:16).
 
 #### Just because a proverb says something is better than something else, does not mean that the thing compared is inherently bad
 
 God will at times bless people with riches, but there are other blessings that He gives that are better than riches.
 
-> Proverbs 16:8&mdash;Better is a little with righteousness  
+> Proverbs 16:8—Better is a little with righteousness  
 > Than great revenues without right.
 
-> Proverbs 16:16&mdash;How much better is it to get wisdom than gold!  
+> Proverbs 16:16—How much better is it to get wisdom than gold!  
 > And to get understanding rather to be chosen than silver!
 
 > These "better-than" sayings set material wealth and poverty in an ultimate normative context which utterly reverses their usual worth. In a nutshell, poverty with righteousness is "better than" wealth with wickedness. Proverbs consistently insists that righteousness outweighs wealth, and wickedness renders wealth worthless. Wealth which may _appear_ as a blessing of the Creator is not intrinsically and invariably good. That depends upon whether wealth is subordinate to righteousness, justice, and wisdom. Material goods must be placed in a normative context which relates them one to another and prevents any particular good from becoming absolute at the expense of the norms which order and limit them all.
 > Van Leeuwan, Hebrew Studies 33 pg. 31
 
-> The editor-sages who structured Proverbs sought first to teach these basic "rules of life," thus the heavy emphasis on character-consequence patterns in both Proverbs 1&ndash;9 and 10&ndash;15. We must first learn the basic rules; the exceptions can come later.
+> The editor-sages who structured Proverbs sought first to teach these basic "rules of life," thus the heavy emphasis on character-consequence patterns in both Proverbs 1–9 and 10–15. We must first learn the basic rules; the exceptions can come later.
 > Van Leeuwan, Hebrew Studies 33 pg. 32
 
 #### There is injustice in the world
@@ -146,41 +146,41 @@ God will at times bless people with riches, but there are other blessings that H
 
 The source of this injustice is because we live in a fallen world (unlike the plan God had in Eden).
 
-God will judge in the end:
+There may be injustice now, but God will judge in the end:
 
-> Proverbs 10:30&mdash;The righteous shall never be removed:  
+> Proverbs 10:30—The righteous shall never be removed:  
 > But the wicked shall not inhabit the earth.
 
-See also 10:2; 11:4, 7, 18, 21, 23, 28;  12:7, 12; 15:25; 17:5; 19:17; 20:21; 21:6&ndash;7, 13; 22:8&ndash;9, 16; 24:20; 28:8, 10, 20, 22, 27.
+See also 10:2; 11:4, 7, 18, 21, 23, 28;  12:7, 12; 15:25; 17:5; 19:17; 20:21; 21:6–7, 13; 22:8–9, 16; 24:20; 28:8, 10, 20, 22, 27.
 
-We do not always see the fulfillment of judgment in this life, and so we must use faith, or "trust in the LORD with all [our] heart[s]" (3:5&ndash;6). This leads us to discus the spiritual nature of the book.
+We do not always see the fulfillment of judgment in this life, and so we must use faith, or "trust in the LORD with all [our] heart[s]" (3:5–6). This leads us to discus the spiritual nature of the book.
 
 ## Proverbs is a spiritual book
 
 It is true that Proverbs deals with a lot of practical things in life, but true wisdom is more than just knowledge or emotional intelligence.
 
-To Solomon, wisdom does not begin with a natural education, but it comes from God. The fear of the Lord is the beginning of knowledge (1:7). Solomon himself got his wisdom by asking God (1 Kings 3:5&ndash;12).
+To Solomon, wisdom does not begin with a natural education, but it comes from God. The fear of the Lord is the beginning of knowledge (1:7). Solomon himself got his wisdom by asking God (1 Kings 3:5–12).
 
-A constant reason for behaving righteously is because God hates wickedness and loves righteousness (11:1; 12:2, 15:8&ndash;9; 17:15; 20:10, 23; 21:3, 27; 28:9).
+A constant reason for behaving righteously is because God hates wickedness and loves righteousness (11:1; 12:2, 15:8–9; 17:15; 20:10, 23; 21:3, 27; 28:9).
 
 ## Proverbs is written in a poetic form
 
 ### Parallelism
 
-Hebrew poetry is different than English poetry, in that it does not use rhyming. The central characteristic of Hebrew poetry is parallelism, which is like a rhyming of ideas.
+The central characteristic of Hebrew poetry is parallelism, which is like a rhyming of ideas.
 
 #### Synomous parallelism
 
 This is when the second line repeats the idea in the first using slightly different language. It is for narrowing the thought or making it sharper. For example:
 
-> Proverbs 18:15&mdash;The heart of the prudent getteth knowledge;  
+> Proverbs 18:15—The heart of the prudent getteth knowledge;  
 > And the ear of the wise seeketh knowledge.
 
 #### Antithecal parallelism
 
 The second line contrasts the first, as in:
 
-> Proverbs 13:2&mdash;A man shall eat good by the fruit of his mouth:  
+> Proverbs 13:2—A man shall eat good by the fruit of his mouth:  
 > But the soul of the transgressors shall eat violence.
 
 A lot of sayings in chapters 10-15 are like this.
@@ -189,14 +189,14 @@ A lot of sayings in chapters 10-15 are like this.
 
 The second line continues the thought of the first line by addition.
 
-> Proverbs 14:7&mdash;Go from the presence of a foolish man,  
+> Proverbs 14:7—Go from the presence of a foolish man,  
 > When thou perceivest not in him the lips of knowledge.
 
 ### Anologies
 
 Proverbs uses a lot of symbolism or examples from natural life to illustrate and explain truth. Some of these are similies, which is a comparison of two things using _like_ or _as_, as in the following example:
 
-> Proverbs 16:24&mdash;Pleasant words are as an honeycomb,  
+> Proverbs 16:24—Pleasant words are as an honeycomb,  
 > Sweet to the soul, and health to the bones.
 
 There are two in-depth uses of symbolism used throughout the first nine chapters that depict both wisdom and folly.
@@ -205,7 +205,7 @@ There are two in-depth uses of symbolism used throughout the first nine chapters
 
 She speaks in Proverbs 1:20-33 and chapter 8. She is also mentioned in 9:1-6, 11; 2:3-4; 4:7-9; 6:22; 7:4.
 
-<!--I believe that Woman Wisdom is a poetic personification of Yahweh's wisdom&mdash;_Fear_ pg. 27-->
+<!--I believe that Woman Wisdom is a poetic personification of Yahweh's wisdom—_Fear_ pg. 27-->
 
 * She keeps good friends
   * righteousness (8:6)
@@ -218,7 +218,7 @@ She speaks in Proverbs 1:20-33 and chapter 8. She is also mentioned in 9:1-6, 11
   * pride
   * arrogance (8:7-8, 13)
 * She was one of the first things created (8:22-26, 8:30-31, 3:19)
-<!--("...She, better than anyone, knows how the world works, and thus she is capable of helping us navigate life"&mdash;_Fear_ pg. 20)-->
+<!--("...She, better than anyone, knows how the world works, and thus she is capable of helping us navigate life"—_Fear_ pg. 20)-->
 * She does not tolerate rejection (1:24-27)
 
 #### Woman Folly
@@ -275,7 +275,5 @@ Bland on the sentence literature:
 
 > In short, the truly wise one is the person who lives life focused not on self but on seeking God (Prov. 3:5–7). This quest naturally generates character, certain wisdom virtues like prudence, self-control, righteousness, and justice (1:3).20 In turn, these virtues orient and order life in community. They enable us to manifest right behavior toward others. While these principles are introduced in the first nine chapters of Proverbs, it is only later in the sentence literature of chapters 10–29 that the sages will attempt to flesh out these virtues into concrete behavior. The sentence literature is the sages’ attempt to put righteousness in working clothes.21 This is what wisdom offers moral education.
 > Proverbs and the Fromation of Character
-
-
 
 -->
