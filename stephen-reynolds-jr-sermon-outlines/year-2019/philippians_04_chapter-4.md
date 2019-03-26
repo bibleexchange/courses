@@ -102,16 +102,65 @@ He is an omnipresent help when called. Psalm 46:5 **HE will judge US and OTHERS*
 
 ### Do Not Be Anxious, vs.6,7
 
-6 Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God. 7 And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.
+> 6 Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God. 7 And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.
 
-- Daniel 3:16; Matthew 6:25-33; 10:19; 
-- The key to "not being anxious" is in bringing your needs to God.
-- Prayer and supplication
-- Let not your heart be troubled
+#### 1.Anxiety and the Believer
+
 - What does the Philippian church have to be anxious about?
-- Worry, fear, anxiety
+- Worry, fear, anxiety, distressing, handicapping, causing dysfunction
 
-**DO THIS HOW**
+> LEIGH ANN MARSHALL in her article "Depression, anxiety, and the church: A pastor’s wife tells her story of hope" wrote: "Since the garden, our world has been thoroughly and profoundly broken from the introduction of sin. This brokenness affects every part of our lives, from who we are, how we act, how we work, and how we relate to one another, to natural disasters and physical illness. As evangelicals, we are quick to see this universal bodily brokenness in cancer and heart disease, but when we approach mental illness, often our first response is to assume a lack of faith or inward transformation of the gospel. Why is this? ... More than 18 percent of Americans struggle with depression and anxiety, but the STIGMA and shame still holds strong in the church and even stronger for those who hold roles in ministry."
+
+> Ashley Layne in her article "The Unspoken Anxiety in the Church." "Often times with good intentions, mature Christians may sometimes give this verse [Philippians 4:6]to individuals suffering with anxiety. ... because anxiety is not tangible we may not believe that it actually exists or we simply don’t know the best strategy to combat it. But, to the individual experiencing it, it is real and it is difficult to get through. In this case, though intentions are pure, simply quoting a bible verse may not always be the best way to approach the situation when someone confides in you with their mental health struggle."
+ 
+> Anxiety disorders go beyond everyday stress and may sometimes involve feelings of excessive fear or worry. With anxiety, the body reacts as if danger is present when there is no actual threat. The body sounds all the alarms to the sympathetic nervous system to prepare for fight or flight, when in truth no harm is present. Approximately 44 million adults in the United States suffer from anxiety disorders and less than a 1/3 of those seek some kind of help. People do not seek out help because they feel ASHAMED or EMBARASSED.
+
+#### 2. "Careful for Nothing"
+	- **Daniel 3:16** "We are not careful" [we care not; decisive; not deliberating; minds made up, having no need to consider any further.]
+	- **Matthew 6:25-33** "Take no thought for your life," [be not anxiously careful; Adam Clarke :"Prudent care is never forbidden by our Lord, but only that anxious distracting solicitude, which, by dividing the mind, and drawing it different ways..."; Do not LOSE the comfort in the things which God gives.]
+	- **Matthew 10:19** "take no thought how or what ye shall speak" [Do not become anxious; God will inpsire you and you should be inspired! ]
+
+#### 3. How Do we Read and Do Philippians 4:6?
+
+- There being both anxiety that stems from a real circumstance particular to our mind as well as anxiety caused by something not as real but its effects being no less real, How do we avoid a reading of "condemnation" and "consternation" "Just be happy"?
+
+- Instead of merely a command you are disobeying, Read as: "Take Comfort. Be Encouraged in... Be Hopeful and Expecting in... Consider the many reasons to trust in God. Look at the promise, not on the problem."
+
+- The 3 Hebrew Children rested in the Sovereignty of God. (Isaiah 43:2) (Testifying on the street for the first time.) Also, they do not unnecessarily deliberate or delay. MOVE with God!
+- In Matthew 6, Jesus tells us to be MINDFUL of God's care and not to LINGER on what we cannot control. "Let not your heart be troubled, John 14:1"
+- In Matthew 10, Even when we have "good cause" to be nervous, Trust God above our own abilities.
+
+- A great key to "not being anxious" is in bringing your needs to God. There is great comfort in placing your care in God's hands. "by prayer and supplication with thanksgiving let your requests be made known unto God."
+
+> 1 Peter 5:7 &mdash; Casting all your care upon him; for he careth for you.
+
+> BUT GOD by Annie Johnson Flint
+
+I know not, but God knows; Oh, blessed rest from fear! 
+All my unfolding days To Him are plain and clear.
+
+Each anxious, puzzled "Why?" From doubt or dread that grows, 
+Finds answer in this thought; I know not, but He knows.
+
+I cannot, but God can; Oh, balm for all my care! 
+The burden that I drop His hand will lift and bear,
+
+Though eagle pinions tire -- I walk where once I ran -- 
+This is my strength, to know I cannot, but God can.
+
+I see not, but God sees; Oh, all-sufficient light! 
+My dark and hidden way To Him is always bright.
+
+My strained and peering eyes May close in restful ease, 
+And I in peace may sleep; I see not, but He sees.
+
+- Instead of rebuke, consider bringing HEALING to Each Other. "Bear Up, Comfort on another, Encourage one another" 1 Thessalonians 5:11; Hebrews 10:24,25 [Lazarus didn't believe himself out of the grave; Moses didn't preserve himself in the bulrushes; Jacob didn't fast for a vision at Bethel.]
+
+#### 4. By Prayer and supplication with Thanksgiving
+
+-  Prayer [GENERAL] - Solemn request to God.
+-  Supplication [SPECIAL] - A stronger term than the former. It is the mode of prayer peculiarly which arises from the sense of need, or want. "to avert evils and ills." [So Jacob, when fearing Esau (Ge 32:9-12);]
+- David began very often with tears, but ended with thanksgiving.
 
 ### Think on These Things, v.8
 
