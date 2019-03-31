@@ -32,14 +32,13 @@ data.directories.map(function(value, index){
 	let path = config.courseRoot+value
 
 	if (fs.existsSync(path + "/index.json") ){
+		//console.log("getting index.json for: " + path)
 	    let rawdata = fs.readFileSync(path + "/index.json");  
-	    sections = JSON.parse(rawdata).sections; 
+	    sec = JSON.parse(rawdata).sections; 
 
-	    sections.map(function(section){
-	    	section.lessons.map(function(lesson){
-	    		if(lesson.content === ""){
-	    			lesson.content = fs.readFileSync(lesson.pathToFile);
-	    		}
+	    sec.map(function(section){
+	    	return section.lessons.map(function(lesson){
+	    		return saveLessonFile(lesson)
 	    	})
 	    })
 
@@ -81,7 +80,7 @@ data.directories.map(function(value, index){
 	}
 	}
 	
-	data.courses[index] = {id: value, title, sections: sec}
+	data.courses[index] = {id: value, title:title, sections: sec}
 })
 
 
@@ -128,14 +127,20 @@ function capitalizeFirstLetters(str){
 
 function saveLessonFile(fileObject){
 
+	fileObject.uuid = getUUID()
+
     switch(fileObject.type){
         case ".pdf":
           fileObject.content = "<a href='"+fileObject.link+"''>Follow this link to "+fileObject.link+"</a>"
+         case "inline":
+	    	//lesson.content = fs.readFileSync(lesson.pathToFile, "utf8");
         default:
          fileObject.content = fs.readFileSync(fileObject.pathToFile, "utf8")
     }
 
     fs.writeFileSync(config.lessonsPath+"/"+fileObject.uuid+".json", JSON.stringify(fileObject))
+
+    return fileObject
 }
 
 function isATrueLesson(fileObject){
@@ -150,15 +155,17 @@ function getFileMeta(pathToFile,fileName){
 
     let type = fileName.substr(fileName.lastIndexOf('.'))
 
-   
       let data = {
-        uuid: UUID,
         pathToFile: pathToFile,
         fileName: fileName,
         type: type,
         link: pathToFile.replace("../", config.lessonsURLPath)
       }
-      UUID = UUID + 1
 
       return data
+}
+
+function getUUID(){
+	UUID = UUID + 1
+	return UUID
 }

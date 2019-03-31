@@ -90,8 +90,7 @@ class Lesson extends Component {
 
     let content = lesson.content
 
-    if(lesson.type === ".md"){
-console.log(content)
+    if(lesson.type === ".md" || lesson.type === "md" || lesson.type === "inline"){
       content = md.render(content);
       console.log(content)
     }
