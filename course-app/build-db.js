@@ -29,11 +29,20 @@ data.directories.map(function(value, index){
 	let title = capitalizeFirstLetters(value.replace(/-/g, " ").replace(/_/g, " "))
 	let sec = []
 	let sections = []
-	let path = config.courseRoot+value)
+	let path = config.courseRoot+value
 
-	if (fs.existsSync(path) {
+	if (fs.existsSync(path + "/index.json") ){
 	    let rawdata = fs.readFileSync(path + "/index.json");  
 	    sections = JSON.parse(rawdata).sections; 
+
+	    sections.map(function(section){
+	    	section.lessons.map(function(lesson){
+	    		if(lesson.content === ""){
+	    			lesson.content = fs.readFileSync(lesson.pathToFile);
+	    		}
+	    	})
+	    })
+
 	}else{
 		sections = getDirectories(path, [])
 
