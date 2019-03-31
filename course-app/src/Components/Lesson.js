@@ -40,8 +40,6 @@ class SmartParagraph extends React.Component {
 
 }
 
-export default SmartParagraph;
-
 var MarkdownIt = require('markdown-it')
 
 // full options list (defaults)

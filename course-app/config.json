@@ -1,5 +1,5 @@
 {
-"ignore": ["bin",".git","course-app","bible_files"],
+"ignore": ["bin",".git","course-app","bible_files",".ignore"],
 "courseRoot": "../",
 "outputDBTo":"./src/db.json",
 "lessonsURLPath":"https://githubusercontent.com/raw/",

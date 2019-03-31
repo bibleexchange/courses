@@ -28,7 +28,14 @@ let UUID = 1
 data.directories.map(function(value, index){
 	let title = capitalizeFirstLetters(value.replace(/-/g, " ").replace(/_/g, " "))
 	let sec = []
-	let sections = getDirectories(config.courseRoot+value, [])
+	let sections = []
+	let path = config.courseRoot+value)
+
+	if (fs.existsSync(path) {
+	    let rawdata = fs.readFileSync(path + "/index.json");  
+	    sections = JSON.parse(rawdata).sections; 
+	}else{
+		sections = getDirectories(path, [])
 
 	if(sections.length <= 0){
         lessons = []
@@ -63,7 +70,7 @@ data.directories.map(function(value, index){
 			sec.push({id:section, lessons : lessons })
 		})
 	}
-	
+	}
 	
 	data.courses[index] = {id: value, title, sections: sec}
 })
@@ -71,6 +78,11 @@ data.directories.map(function(value, index){
 
 fs.writeFile(config.outputDBTo,JSON.stringify(data) )
 //console.log(chalk.green('Database saved successfully.\n'), data)
+
+function loadJson(path){
+	console.log(path)
+	return false
+}
 
 function getFiles(dir){
     let fileList = [];

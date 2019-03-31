@@ -1,11 +1,18 @@
-Title: Stephen Reynolds Jr Sermon Outlines
-Description: Sermon outlines prepared and preached by Stephen Reynolds Jr.
-Image: <img src="http://bible.exchange/assets/img/eagle.gif" id="coverEagle" />
-Created: December 24, 2017
-Updated: December 24, 2017
-Editors: Stephen Reynolds Jr.
-Scripture: 1 Timothy 3:16
-Tags: outline, preaching, scripture, sermon
+__Title__: Stephen Reynolds Jr Sermon Outlines
+
+__Description__: Sermon outlines prepared and preached by Stephen Reynolds Jr.
+
+__Image__: <img src="http://bible.exchange/assets/img/eagle.gif" id="coverEagle" />
+
+__Created__: December 24, 2017
+
+__Updated__: December 24, 2017
+
+__Editors__: Stephen Reynolds Jr.
+
+__Scripture__: 1 Timothy 3:16
+
+__Tags__: outline, preaching, scripture, sermon
 
 - Sermons from 2014 and Before
   * 20140105_for-the-sake-of-zion.md
