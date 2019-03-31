@@ -9,10 +9,7 @@ class App extends Component {
   render() {
 
     return (
-      <div className="App">
-        <header className="App-header">
-          <h1 className="App-title">Welcome to the Bible exchange Courses Repository</h1>
-        </header>		
+      <div className="App">	
 
 		<Switch>
 		  <Route exact path='/' render={(props => (
@@ -28,7 +25,9 @@ class App extends Component {
       ))}/>
 
 		</Switch>
-
+        <header className="App-header">
+          <h1 className="App-title">From the Bible exchange Courses Repository</h1>
+        </header>
       </div>
     );
   }
