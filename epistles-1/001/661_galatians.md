@@ -1,20 +1,76 @@
-<h1>Galatians</h1>
-<h2>Introduction to Galatians</h2>
-<h3>The Writer</h3>
-<blockquote>1:1&mdash;"Paul an apostle (by Jesus Christ and God the Father, who raised Him from the dead).</blockquote>
-<blockquote>6:11&mdash;"I have written unto you with my own hand"</blockquote>
-<h3>The Purpose of the Writing</h3>
-<blockquote>1:2 "Unto the Churches of Galatia."</blockquote>
-<blockquote>1:6 "Removed from Him."</blockquote>
-<blockquote>1:7 "Some that trouble you and would pervert the Gospel of Christ."</blockquote>
-<blockquote>3:1 "&hellip;who hath bewitched you that ye should not obey the truth."</blockquote>
-<blockquote>4:8-11, 16-17, 20 "They zealously affect you."</blockquote>
-<blockquote>4:11 (I am afraid for you)</blockquote>
-<blockquote>4:20 "I am perplexed for you."</blockquote>
-<blockquote>5:7 "Ye did run well, who did hinder you?" The Judaisers are persuading the Galatians to come under the bondage of the ceremonial laws again.</blockquote>
-<h3>The Theme</h3>
-<p>Justification and Sanctification are not by the works of the Law, but by faith in Jesus Christ.</p>
-<p>A revelation of Jesus Christ through the Cross</p>
+# Epistle to the Galatians
+
+## 1. Introduction to the Epistle to the Galatians
+
+### The Outline
+
+- 1. **Introduction to Galatians**
+- 2. **Personal Declarations** (Ch. 1 &amp;2)
+
+Chapters 1 and 2 are generally personal in nature. Paul feels it necessary to establish the fact and premise of his own apostleship. Paul claims he was an apostle before he met the other apostles, they recognized him as an apostle and he even rebuked Peter to the face.
+
+- 3. **Doctrinal Declarations** (Ch. 3 &amp; 4)
+
+Chapters 3 and 4 are generally doctrinal in nature. The true children of God are the children of Abraham by faith who was saved by faith and not circumcision.
+
+- 4. **Practical Declarations** (Ch. 5 &amp; 6)
+
+Chapters 5 and 6 are generally practical in nature. You are in bondage if you live under the law, but you are free if you live above the law by faith. Obedience to the moral law of God is liberty.
+
+### The Writer
+
+- Paul is the writer of this epistle.
+> Galatians 1:1&mdash;"Paul an apostle (by Jesus Christ and God the Father, who raised Him from the dead).
+
+- Paul wrote at least the closing with his own hand.
+
+Paul generally dictated his letters as someone else wrote.
+
+Perhaps Paul has now in the conclusion taken the pen into his own hand and gave this summary and conclusion, or even more exceptionally he may have penned this entire epistle himself. 
+
+His reason for this statement is much clearer than the actual meaning of his statement. This action and Paul bringing attention to it in the epistle is to illustrate the importance of their needs he addresses and his personal commitment to them. This could be compared to writing a letter by hand in the modern time where it is much more common to email or text. Paul is presenting as special proof of his love for them in bringing attention to "how large a letter". 
+
+> Galatians 6:11&mdash;Ye see how large a letter I have written unto you with mine own hand.
+
+Also, compare with 1 Corinthians 16:21 ("The salutation of me Paul with mine own hand.")
+
+Translation comparison: "how large a letter I have written", "See what large letters I use",  "what large letters I am writing ", "what large letters I am writing", "what big letters I make when I write", "how large these letters are because I am writing with my own hand"
+
+"letters" (grammasin) Strong's Greek 1121: From grapho; a writing, i.e. A letter, note, epistle, book, etc.
+
+> There is a strange diversity of opinions concerning the apostle's meaning in this place. Some think he refers to the length of the epistle, others to the largeness of the letters in which this epistle is written, others to the inadequacy of the apostle's writing. -- ADAM CLARKE COMMENTARY
+
+- A. Size of Writing (Interpretation #1)
+
+"how many and how large."
+
+> ELLICOT: How large a letter.--Rather, in what large letters: i.e., characters. The exact significance of these words is somewhat enigmatic, and can only be matter of conjecture. Two points, however, are clear:--(1) The latter part of the Greek phrase means "in" or "with" letters--i.e., characters of hand-writing--and not "a letter," "an epistle," as it is taken in the Authorised version; (2) The former half of the phrase means "how large," strictly in respect of size.
+
+If the phrase is to be understood as meaning "size of letters", it is more likely he penned just the concluding section himself. As it does not seem likely the entire epistle was written with "letters of extraordinary size".
+
+- B. Length of Epistle  (Interpretation #2)
+
+Ordinarily it was only a brief "piece of writing" that he wrote with his own hand as a post script of authenticity. Here Paul has written long pieces, added one after another with painful effort. (Painful? as he rarely writes, but dictates.)
+
+To say that the apostle was unskilled in Greek, and especially in the Greek characters sounds absurd as he was born in Tarsus, a city which rivaled both Athens and Alexandria in philosophy, and in arts and sciences.
+
+### The Purpose of the Epistle
+
+- 1:2 "Unto the Churches of Galatia.
+- 1:6 "Removed from Him."
+- 1:7 "Some that trouble you and would pervert the Gospel of Christ."
+- 3:1 who hath bewitched you that ye should not obey the truth."
+- 4:8-11, 16-17, 20 "They zealously affect you."
+- 4:11 (I am afraid for you)
+- 4:20 "I am perplexed for you."
+- 5:7 "Ye did run well, who did hinder you?" The Judaisers are persuading the Galatians to come under the bondage of the ceremonial laws again.
+
+### The Theme
+
+Justification and Sanctification are not by the works of the Law, but by faith in Jesus Christ.
+
+A revelation of Jesus Christ through the Cross.
+
 <table>
 <tbody>
 <tr>
@@ -49,19 +105,9 @@
 <td>Glory of the Cross</td>
 <td>Life everlasting</td>
 <td>5:12-6:18; 6:8</td></tr></tbody></table>
-<h3>The Outline</h3>
-<div class="emb-outline">
-<h1></h1>
-<h2>Introduction to Galatians</h2>
-<p></p>
-<h2>Personal Declarations (Ch. 1 &amp;2)</h2>
-<p>Chapters 1 and 2 are generally personal in nature. Paul feels it necessary to establish the fact and premise of his own apostleship. Paul claims he was an apostle before he met the other apostles, they recognized him as an apostle and he even rebuked Peter to the face.</p>
-<h2>Doctrinal Declarations (Ch. 3 &amp; 4)</h2>
-<p>Chapters 3 and 4 are generally doctrinal in nature. The true children of God are the children of Abraham by faith who was saved by faith and not circumcision.</p>
-<h2>
-<span id="t##" class="english">Practical Declarations (Ch. 5 &amp; 6)</h2>
-<p>Chapters 5 and 6 are generally practical in nature. You are in bondage if you live under the law, but you are free if you live above the law by faith. Obedience to the moral law of God is liberty.</p></div>
-<h2>Personal Declarations (Ch. 1 &amp; 2)</h2>
+
+## 2. Personal Declarations (Ch. 1 &amp; 2)
+
 <h3>The Call of God (1:1-6)</h3>
 <h4>Paul's call came from the Lord</h4>
 <h5>Direct 1:1"By Jesus Christ"</h5>
@@ -96,7 +142,9 @@
 <blockquote>John 3:16&mdash;For God so loved the world that He gave His only begotten Son that whosoever believeth in Him should not perish but have everlasting life.</blockquote>
 <p>Communicate the same gospel that they can have the same revelation 2:2, 5; 3:5; 4:19, 30; 5:3</p>
 <p>"I went in to Arabia" 1:17</p>
-<h2>Doctrinal Declarations (Ch. 3 &amp; 4)</h2>
+
+## 3. Doctrinal Declarations (Ch. 3 &amp; 4)
+
 <h3>"Bewitched" Gal. 3:1</h3>
 <h4>The means of bewitching</h4>
 <h4>The power of this bewitching</h4>
@@ -132,9 +180,13 @@
 <h5>When a child of God reaches maturity he is placed as a son. Gal. 4:7, 19; Rom. 8:14-30; Eph. 4:13; Heb.2:10</h5>
 <p>4:5 (total release from the curse and bondages of breaking the law.) We need to stay completely out in front of the laws of God upholding and fulfilling each one. Ephesians 1:14</p>
 <h5>Grace positions the full matured in a higher position like His son.</h5>
-<h2>Practical Declarations (Ch. 5 &amp; 6)</h2>
-<p>Marks of the Spiritual Christian Gal. 6:17</p>
+
+## 4. Practical Declarations (Ch. 5 &amp; 6)
+
+Marks of the Spiritual Christian Gal. 6:17
+
 <blockquote>Galatians 6:17 &hellip;I bear in my body the marks of the Lord Jesus.</blockquote>
+
 <h3>Holiness</h3>
 <blockquote>Galatians 5:13 &hellip;use not liberty for an occasion to the flesh,&hellip;</blockquote>
 <blockquote>Galatians 5:16 This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.</blockquote>
