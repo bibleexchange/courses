@@ -6,22 +6,23 @@ import Course from './Components/Course'
 import Lesson from './Components/Lesson'
 
 class App extends Component {
+
   render() {
 
     return (
-      <div className="App">	
+      <div className="App">
 
 		<Switch>
 		  <Route exact path='/' render={(props => (
-        <Home {...props} data={this.props.data}/>
+        <Home {...props}/>
       ))}/>
 
       <Route exact path='/course/:courseId' render={(props => (
-        <Course {...props} data={this.props.data}/>
+        <Course {...this.props} router={props} />
       ))}/>
 
       <Route exact path='/course/:courseId/:sectionId/:lessonId' render={(props => (
-        <Lesson {...props} data={this.props.data}/>
+        <Lesson {...this.props} router={props}/>
       ))}/>
 
 		</Switch>
@@ -34,6 +35,3 @@ class App extends Component {
 }
 
 export default App;
-
-//		  <Route path='/roster' component={Roster}/>
-//		  <Route path='/schedule' component={Schedule}/>

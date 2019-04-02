@@ -9,6 +9,13 @@ const app = express();
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 
+//Enabling cors
+app.use(function(req, res, next) {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+  next();
+});
+
 // get all courses
 app.get('/api/v1/courses', (req, res) => {
   res.status(200).send({
@@ -46,9 +53,9 @@ app.post('/api/v1/courses', (req, res) => {
 //Get a Single Course
 
 app.get('/api/v1/courses/:id', (req, res) => {
-  const id = parseInt(req.params.id, 10);
+  const id = req.params.id;
   db.map((course) => {
-    if (todo.id === id) {
+    if (course.id === id) {
       return res.status(200).send({
         success: 'true',
         message: 'course retrieved successfully',
@@ -58,7 +65,7 @@ app.get('/api/v1/courses/:id', (req, res) => {
 });
  return res.status(404).send({
    success: 'false',
-   message: 'todo does not exist',
+   message: 'course does not exist',
   });
 });
 

@@ -39,7 +39,7 @@ data.directories.map(function(value, index){
 	    sec.map(function(section){
 	    	return section.lessons.map(function(lesson){
 	    		let objLesson = saveLessonFile(lesson)
-                return objLesson.uuid
+                return {id: objLesson.uuid, title: objLesson.title}
 	    	})
 	    })
 
@@ -55,7 +55,7 @@ data.directories.map(function(value, index){
             let fileObject = getFileMeta(fullFileName, f1)
             if (isATrueLesson(fileObject)){
                 saveLessonFile(fileObject)
-                lessons.push(fileObject.uuid)
+                lessons.push({id: fileObject.uuid, title: fileObject.title})
             }
         })
 
@@ -71,7 +71,7 @@ data.directories.map(function(value, index){
                 let fileObject = getFileMeta(fullFileName, f)
                 if (isATrueLesson(fileObject)){
                     saveLessonFile(fileObject)
-                    lessons.push(fileObject.uuid)
+                    lessons.push({id: fileObject.uuid, title: fileObject.title})
                 }
 
             })
@@ -138,6 +138,8 @@ function saveLessonFile(fileObject){
         default:
          fileObject.content = fs.readFileSync(fileObject.pathToFile, "utf8")
     }
+
+    fileObject.title = fileObject.fileName
 
     fs.writeFileSync(config.lessonsPath+"/"+fileObject.uuid+".json", JSON.stringify(fileObject))
     delete fileObject.content
