@@ -1,6 +1,8 @@
 import express from 'express';
-import db from './db/db';
+import db from './db/database';
 import bodyParser from 'body-parser';
+import graphqlHTTP from 'express-graphql'
+import { buildSchema } from 'graphql'
 
 // Set up the express app
 const app = express();
@@ -21,7 +23,7 @@ app.get('/api/v1/courses', (req, res) => {
   res.status(200).send({
     success: 'true',
     message: 'courses retrieved successfully',
-    courses: db
+    courses: db.getCourses()
   })
 });
 
@@ -37,37 +39,44 @@ app.post('/api/v1/courses', (req, res) => {
       message: 'description is required'
     });
   }
- const todo = {
-   id: db.length + 1,
-   title: req.body.title,
-   description: req.body.description
- }
- db.push(todo);
- return res.status(201).send({
-   success: 'true',
-   message: 'todo added successfully',
-   todo
- })
-});
+
+})
 
 //Get a Single Course
 
 app.get('/api/v1/courses/:id', (req, res) => {
   const id = req.params.id;
-  db.map((course) => {
-    if (course.id === id) {
       return res.status(200).send({
         success: 'true',
         message: 'course retrieved successfully',
-        course,
+        course: db.getCourse(id),
       });
-    } 
 });
- return res.status(404).send({
-   success: 'false',
-   message: 'course does not exist',
-  });
-});
+
+// Construct a schema, using GraphQL schema language
+var schema = buildSchema(`
+
+  input CourseInput {
+    id: Int,
+    title: String
+  }
+
+  type Course {
+    id: String,
+    title: String
+  }
+
+  type Query {
+    hello: String,
+    course(input:CourseInput): Course
+  }
+`);
+
+app.use('/graphql', graphqlHTTP({
+  schema: schema,
+  rootValue: db,
+  graphiql: true,
+}));
 
 const PORT = 5000;
 
