@@ -2,7 +2,6 @@
 
 /*
 to do:
-
 - create function to turn filename into a pretty title for lessons
 
 */
@@ -189,3 +188,90 @@ function prepareLesson(lesson, course_id){
 
     return lesson;
 }
+
+class LoadDb {
+
+    init(){
+        
+        this.config = require('../config.json')
+        this.data = {
+            files,
+            directories,
+            courses: []
+        }
+
+        this.lessons = []
+        this.sectionFile = []
+        this.UUID = 1
+
+        this.mapOverDirectories()
+    }
+
+    mapOverDirectories(){
+
+    this.data.directories.map(function(value, index){
+        let title = capitalizeFirstLetters(value.replace(/-/g, " ").replace(/_/g, " "))
+        let sec = []
+        let sections = []
+        let path = this.config.courseRoot+value
+
+        if (fs.existsSync(path + "/index.json") ){
+            //console.log("getting index.json for: " + path)
+            let rawdata = fs.readFileSync(path + "/index.json");  
+            sec = JSON.parse(rawdata).sections; 
+
+            sec.map(function(section){
+                return section.lessons.map(function(lesson){
+                    lesson = prepareLesson(lesson, value);
+                    //saveLessonFile(lesson)
+                    return lesson
+                })
+            })
+
+        }else{
+            sections = getDirectories(path, [])
+
+        if(sections.length <= 0){
+            lessons = []
+            sectionFile = getFiles(config.courseRoot+value)
+
+            sectionFile.map(function(f1){
+                let fullFileName = config.courseRoot+value+"/"+f1
+                let fileObject = getFileMeta(fullFileName, f1)
+                if (isATrueLesson(fileObject)){
+                    fileObject = prepareLesson(fileObject, value);
+                    //saveLessonFile(fileObject)
+                    lessons.push(fileObject)
+                }
+            })
+
+            sec = [{id: "",lessons: lessons}]
+
+        }else{
+            sections.map(function(section, i){
+                lessons = []
+                sectionFile = getFiles(config.courseRoot+value)
+
+                sectionFile.map(function(f){
+                    let fullFileName = config.courseRoot+value+"/"+f
+                    let fileObject = getFileMeta(fullFileName, f)
+                    if (isATrueLesson(fileObject)){
+                        fileObject = prepareLesson(fileObject, value);
+                        //saveLessonFile(fileObject)
+                        lessons.push(fileObject)
+                    }
+
+                })
+
+                sec.push({id:section, lessons : lessons })
+            })
+        }
+        }
+        
+    this.data.courses[index] = {id: value, title:title, sections: sec}
+})
+    }
+
+}
+
+export default loadDb
