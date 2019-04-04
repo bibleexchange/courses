@@ -1,5 +1,12 @@
 'use strict';
 
+/*
+to do:
+
+- create function to turn filename into a pretty title for lessons
+
+*/
+
 const path = require('path');
 const chalk = require('chalk');
 const fs = require('fs-extra');
@@ -38,8 +45,9 @@ data.directories.map(function(value, index){
 
 	    sec.map(function(section){
 	    	return section.lessons.map(function(lesson){
-	    		let objLesson = saveLessonFile(lesson)
-                return {id: objLesson.uuid, title: objLesson.title}
+	    		lesson = prepareLesson(lesson, value);
+                saveLessonFile(lesson)
+                return lesson
 	    	})
 	    })
 
@@ -54,8 +62,9 @@ data.directories.map(function(value, index){
             let fullFileName = config.courseRoot+value+"/"+f1
             let fileObject = getFileMeta(fullFileName, f1)
             if (isATrueLesson(fileObject)){
+                fileObject = prepareLesson(fileObject, value);
                 saveLessonFile(fileObject)
-                lessons.push({id: fileObject.uuid, title: fileObject.title})
+                lessons.push(fileObject)
             }
         })
 
@@ -70,8 +79,9 @@ data.directories.map(function(value, index){
                 let fullFileName = config.courseRoot+value+"/"+f
                 let fileObject = getFileMeta(fullFileName, f)
                 if (isATrueLesson(fileObject)){
+                    fileObject = prepareLesson(fileObject, value);
                     saveLessonFile(fileObject)
-                    lessons.push({id: fileObject.uuid, title: fileObject.title})
+                    lessons.push(fileObject)
                 }
 
             })
@@ -127,23 +137,8 @@ function capitalizeFirstLetters(str){
     }
 
 function saveLessonFile(fileObject){
-
-	fileObject.uuid = getUUID()
-
-    switch(fileObject.type){
-        case ".pdf":
-          fileObject.content = "<a href='"+fileObject.link+"''>Follow this link to "+fileObject.link+"</a>"
-         case "inline":
-	    	//lesson.content = fs.readFileSync(lesson.pathToFile, "utf8");
-        default:
-         fileObject.content = fs.readFileSync(fileObject.pathToFile, "utf8")
-    }
-
-    fileObject.title = fileObject.fileName
-
     fs.writeFileSync(config.lessonsPath+"/"+fileObject.uuid+".json", JSON.stringify(fileObject))
-    delete fileObject.content
-    return fileObject
+    return true
 }
 
 function isATrueLesson(fileObject){
@@ -171,4 +166,26 @@ function getFileMeta(pathToFile,fileName){
 function getUUID(){
 	UUID = UUID + 1
 	return UUID
+}
+
+function prepareLesson(lesson, course_id){
+
+    lesson.id = getUUID()
+
+    switch(lesson.type){
+        case ".pdf":
+          lesson.content = "<a href='"+lesson.link+"''>Follow this link to "+lesson.link+"</a>"
+         case "inline":
+            lesson.content = fs.readFileSync(lesson.pathToFile, "utf8");
+        default:
+         lesson.content = fs.readFileSync(lesson.pathToFile, "utf8")
+    }
+
+    lesson.title = lesson.fileName
+    lesson.course_id = course_id
+    fs.writeFileSync(config.lessonsPath+"/"+lesson.id+".json", JSON.stringify(lesson))
+
+    //return {id: lesson.uuid, title: lesson.title}
+
+    return lesson;
 }

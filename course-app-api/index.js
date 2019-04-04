@@ -2,7 +2,7 @@ import express from 'express';
 import db from './db/database';
 import bodyParser from 'body-parser';
 import graphqlHTTP from 'express-graphql'
-import { buildSchema } from 'graphql'
+import beSchema from './beSchema'
 
 // Set up the express app
 const app = express();
@@ -53,27 +53,8 @@ app.get('/api/v1/courses/:id', (req, res) => {
       });
 });
 
-// Construct a schema, using GraphQL schema language
-var schema = buildSchema(`
-
-  input CourseInput {
-    id: Int,
-    title: String
-  }
-
-  type Course {
-    id: String,
-    title: String
-  }
-
-  type Query {
-    hello: String,
-    course(input:CourseInput): Course
-  }
-`);
-
 app.use('/graphql', graphqlHTTP({
-  schema: schema,
+  schema: beSchema,
   rootValue: db,
   graphiql: true,
 }));
