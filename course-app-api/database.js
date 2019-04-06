@@ -1,19 +1,16 @@
-import db from './db';
+import db from './db/db';
 import fs from 'fs-extra'
-const config = require('../config.json')
-import {loadDb} from '../helpers/build-db'
+const config = require('./config.json')
+import {loadDb} from './helpers/build-db'
+import courses from './objects/courses/index'
 
 class database {
 	
 	constructor(){
 		this.cache = db;
 		this.config = config
-		this.source = false
-	}
-
-	loadSource(){
-		this.source = loadDb.init()
-
+		this.source = courses
+		console.log(courses)
 	}
 
 	courses(params){

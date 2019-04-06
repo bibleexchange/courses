@@ -1,5 +1,5 @@
 import express from 'express';
-import db from './db/database';
+import db from './database';
 import bodyParser from 'body-parser';
 import graphqlHTTP from 'express-graphql'
 import beSchema from './beSchema'

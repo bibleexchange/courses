@@ -37,3 +37,29 @@ var beSchema = buildSchema(`
 `);
 
 export default beSchema
+
+/*
+
+Course Data Design:
+
+Course
+
+  DataProperties: [
+    id
+    title
+  ]
+
+
+  ObjectProperties: [
+    editors: [people]
+    timeToComplete: {hours, precision}
+    prerequisites: [prereq_other_courses]
+    postCourse: [other_advanced_or_equal_courses]
+
+  ]
+
+
+
+
+
+*/

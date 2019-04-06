@@ -1,7 +1,6 @@
 /*
 to do:
 - create function to turn filename into a pretty title for lessons
-
 */
 
 const fs = require('fs-extra');
