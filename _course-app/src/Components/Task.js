@@ -24,7 +24,11 @@ class Task extends Component {
       return (<div>Waiting...</div>)
     }else{
     
-    let content = this.props.task.html
+    let body = null
+
+    if(this.props.task.html !== false && this.props.task.html !== "false"){
+      body = <div dangerouslySetInnerHTML={{ __html: this.props.task.html}} />
+    }
 
     return (
       <div>
@@ -35,7 +39,13 @@ class Task extends Component {
         <h1>{this.props.task.title}</h1>
 
         <hr />
-        <div dangerouslySetInnerHTML={{ __html: content}} />
+        {body}
+
+        {this.props.task.tasks.map(function(t){
+          if(t.html !== false){
+            return <div><h2>{t.title}</h2><div dangerouslySetInnerHTML={{ __html: t.html}} /></div>
+          }
+        })}
       </div>
     );
   }

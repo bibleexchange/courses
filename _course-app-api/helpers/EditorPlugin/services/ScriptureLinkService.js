@@ -1,6 +1,6 @@
-const VideoServiceBase = require("./VideoServiceBase");
+const HtmlElementServiceBase = require("./HtmlElementServiceBase");
 
-class BibleExchangeService extends VideoServiceBase {
+class ScriptureLinkService extends HtmlElementServiceBase {
 
   getDefaultOptions() {
     return { width: 640, height: 400, border:5 };
@@ -17,11 +17,11 @@ class BibleExchangeService extends VideoServiceBase {
 
   getVideoUrl(videoID) {
     let escapedVideoID = this.env.md.utils.escapeHtml(videoID);
-    return `http://bible.exchange/embed/bible/${escapedVideoID}`;
+    return `TESThttp://bible.exchange/embed/bible/${escapedVideoID}`;
     //return `/embed/bible/${escapedVideoID}`;
   }
 
 }
 
 
-module.exports = BibleExchangeService;
+module.exports = ScriptureLinkService;

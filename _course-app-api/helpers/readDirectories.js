@@ -2,8 +2,8 @@
 to do:
 - create function to turn filename into a pretty title for lessons
 */
-
-const fs = require('fs-extra');
+import config from '../config'
+import fs from 'fs-extra'
 
 class readDirectories {
 
@@ -13,7 +13,7 @@ class readDirectories {
 
     init(){
 
-        this.config = require('../config.json')
+        this.config = config
 
         if (!fs.existsSync(this.config.binPath)) {
             fs.mkdirSync(this.config.binPath);
@@ -24,7 +24,6 @@ class readDirectories {
         }
 
         this.data = {
-            files: this.getFiles(this.config.courseRoot),
             directories: this.getDirectories(this.config.courseRoot, this.config.ignore),
             courses: []
         }
@@ -55,49 +54,83 @@ class readDirectories {
             course = Object.assign(course, JSON.parse(rawdata)); 
         }else{
             
-            //get all file sin the courses root directory inorder to build tasks from them        
-            let files = this.getFiles(course.path)
+            //get all files in the courses root directory inorder to build tasks from them        
+            let files = this.scan(course.path)
  
-            files.map(function(f1){
-                let task = this.prepareTask(this.config.courseRoot+value+"/"+f1, course.id) 
+            files.map(function(file){
 
-                if (this.isATrueLesson(task.value, task.fileType)){
-                    course.tasks.push(task)
-                }
-            }, this)
+                if(file.type === "dir"){
+                    // If a Directory then its interpreted as 1 main task with subtasks
 
-            //get all child directories after the courses root directory to build tasks from them
-            let folders = this.getDirectories(course.path, [])
+                    let task1 = Object.assign({},this.prepareTask(file.path, course.id, false) )
+                    let files = this.getFiles(file.path)
 
-            folders.map(function(section, i){
+                    files.map(function(name){
+                        let subtask = this.prepareTask(file.path+"/"+name, course.id);
+                        
+                        if (this.isATrueLesson(subtask.value, subtask.fileType) ){
+                            task1.tasks.push(subtask)
+                        }
 
-                let task = this.prepareTask(this.config.courseRoot+section, course.id) 
+                    }, this)
 
-                let sectionFile = this.getFiles(this.config.courseRoot+value)
+                    course.tasks.push(task1)
 
-                sectionFile.map(function(f){
-                    let fullFileName = this.config.courseRoot+value+"/"+f
-                    console.log(fullFileName)
-                    let subtask = this.prepareTask(fullFileName, course.id);
+                }else if(file.type === "file"){
 
-                    if (this.isATrueLesson(subtask.value, subtask.fileType) ){
-                        task.tasks.push(subtask)
+                    let task2 = this.prepareTask(file.path, course.id)
+
+                    if (this.isATrueLesson(task2.value, task2.fileType)){
+                        course.tasks.push(task2)
                     }
 
-                }, this)
+                }
 
             }, this)
+
         }
-        
+
     this.data.courses[index] = course
 
     }, this)
+
+    //console.log(this.data.courses[4].tasks)
 
     return true
     }
 
     loadJson(path){
         return false
+    }
+
+    scan(dir){
+
+      let fileList = [];
+     
+      let ignoreThese = this.config.ignore
+
+        var files = fs.readdirSync(dir);
+        for(var i in files){
+             
+            let file = {
+                path: dir + "/" +files[i], 
+                type:null
+            }
+
+            if (!ignoreThese.includes(file.path) && file.path.charAt(0) !== "_" && !file.path.includes('related')){
+                
+                if(fs.statSync(dir+'/'+files[i]).isDirectory()){
+                    file.type = "dir"
+                }else{
+                    file.type = "file"
+                }
+
+                fileList.push(file);
+            }
+        }
+        return fileList;
+
+
     }
 
     getFiles(dir){
@@ -114,11 +147,14 @@ class readDirectories {
         return fileList;
     }
 
-    getDirectories(dir, ignoreThese){
+    getDirectories(dir){
+
         let fileList = [];
-     
+        let ignoreThese = this.config.ignore
+
         var files = fs.readdirSync(dir);
         for(var i in files){
+
             var name = files[i];
             if (fs.statSync(dir+'/'+files[i]).isDirectory() && !ignoreThese.includes(name) && name.charAt(0) !== "_" && !name.includes('related')){
                 fileList.push(name);
@@ -150,18 +186,34 @@ class readDirectories {
         return response
     }
 
-    prepareTask(path, courseId){
+    prepareTask(path, courseId, isAfile = true){
+
+        let title = path
+            .split("/")
+            .pop()
+            .split(".")[0]
+            .replace(/\-/g," ")
+            .replace(/\_/g," ")
+            .toUpperCase()
 
           let task = {
             id: this.getUUID(),
             courseId: courseId,
-            fileType: path.substr(path.lastIndexOf('.')).replace(".",""),
-            type: null,
-            value: {path: path},
-            tasks: []
+            tasks: [],
+            title: title
           }
 
-          task.type = "READ_" + task.fileType.toUpperCase() + "_FILE"
+          if(isAfile){
+            task.fileType = path.substr(path.lastIndexOf('.')).replace(".","")
+            task.value = {path: path}
+            task.type = "READ_" + task.fileType.toUpperCase() + "_FILE"
+
+          }else{
+            delete task.fileType
+            delete task.value
+            delete task.type
+          }
+
 
         return task;
     }

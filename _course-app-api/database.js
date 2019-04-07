@@ -1,8 +1,7 @@
 import fs from 'fs-extra'
 import {loadDb} from './helpers/build-db'
 import CourseRepository from './objects/course/CourseRepository'
-
-const config = require('./config.json')
+import config from './config'
 
 class database {
 	

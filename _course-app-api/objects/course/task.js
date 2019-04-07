@@ -1,6 +1,5 @@
 const fs = require('fs-extra');
-const config = require('../../config.json')
-
+import config from '../../config'
 
 var myMDPlugin = require("../../helpers/EditorPlugin/index");
 
@@ -32,38 +31,6 @@ var md = require('markdown-it')({
 md.use(myMDPlugin, {
   containerClassName: "video-embed"
 });
-
-
-
-var MarkdownIt = require('markdown-it')
-
-// full options list (defaults)
-var md = new MarkdownIt({
-  html:         true,        // Enable HTML tags in source
-  xhtmlOut:     false,        // Use '/' to close single tags (<br />).
-                              // This is only for full CommonMark compatibility.
-  breaks:       false,        // Convert '\n' in paragraphs into <br>
-  langPrefix:   'language-',  // CSS language prefix for fenced blocks. Can be
-                              // useful for external highlighters.
-  linkify:      false,        // Autoconvert URL-like text to links
-
-  // Enable some language-neutral replacement + quotes beautification
-  typographer:  false,
-
-  // Double + single quotes replacement pairs, when typographer enabled,
-  // and smartquotes on. Could be either a String or an Array.
-  //
-  // For example, you can use '«»„“' for Russian, '„“‚‘' for German,
-  // and ['«\xA0', '\xA0»', '‹\xA0', '\xA0›'] for French (including nbsp).
-  quotes: '“”‘’',
-
-  // Highlighter function. Should return escaped HTML,
-  // or '' if the source string is not changed and should be escaped externally.
-  // If result starts with <pre... internal wrapper is skipped.
-  highlight: function (/*str, lang*/) { return ''; }
-});
-
-
 
 const TaskTypes = {
 	READ_FILE: "READ_FILE",
@@ -184,14 +151,14 @@ class Task {
 		switch(this.type){
 
 			case TaskTypes.READ_FILE:
-				this.html = this.readFromFile()
-				break;
-
-			case TaskTypes.READ_MD_FILE:
 			case TaskTypes.READ_HTML_FILE:
 			case TaskTypes.READ_JSON_FILE:
 			case TaskTypes.READ_TXT_FILE:
 				this.html = this.readFromFile()
+				break;
+
+			case TaskTypes.READ_MD_FILE:
+				this.html = md.render(this.readFromFile())
 				break;
 			case TaskTypes.DISPLAY_TEXT:
 				this.html = "<p>Test html 2</p>"

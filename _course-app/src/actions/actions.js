@@ -159,6 +159,12 @@ function fetchTask(courseId, taskId) {
                     courseId
                     title
                     html
+                    tasks{
+                      id
+                      courseId
+                      title
+                      html
+                    }
                   }
                 }`
   let variables = {courseId: courseId, taskId: parseInt(taskId)}

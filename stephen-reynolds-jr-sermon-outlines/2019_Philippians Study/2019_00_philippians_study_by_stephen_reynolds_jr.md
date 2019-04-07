@@ -1,3 +1,7 @@
+@[be](Philippians 4:1)
+
+@[verse](Philippians 4:1)
+ 
 # Background to the Epistle to the Philippians
 
 ## The Purpose

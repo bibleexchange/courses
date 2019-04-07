@@ -2,7 +2,6 @@ function defaultUrlFilter(url, _videoID, _serviceName, _options) {
   return url;
 }
 
-
 class VideoServiceBase {
 
   constructor(name, options, env) {
