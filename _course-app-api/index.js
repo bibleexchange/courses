@@ -3,6 +3,7 @@ import db from './database';
 import bodyParser from 'body-parser';
 import graphqlHTTP from 'express-graphql'
 import beSchema from './beSchema'
+import cors from 'cors'
 
 // Set up the express app
 const app = express();
@@ -53,7 +54,7 @@ app.get('/api/v1/courses/:id', (req, res) => {
       });
 });
 
-app.use('/graphql', graphqlHTTP({
+app.use('/graphql', cors(), graphqlHTTP({
   schema: beSchema,
   rootValue: db,
   graphiql: true,

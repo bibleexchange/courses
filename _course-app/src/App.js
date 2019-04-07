@@ -3,7 +3,7 @@ import './App.css';
 import { Switch, Route } from 'react-router-dom'
 import Home from './Components/Home'
 import Course from './Components/Course'
-import Lesson from './Components/Lesson'
+import Task from './Components/Task'
 
 class App extends Component {
 
@@ -21,8 +21,8 @@ class App extends Component {
         <Course {...this.props} router={props} />
       ))}/>
 
-      <Route exact path='/course/:courseId/:sectionId/:lessonId' render={(props => (
-        <Lesson {...this.props} router={props}/>
+      <Route exact path='/course/:courseId/:taskId' render={(props => (
+        <Task {...this.props} router={props}/>
       ))}/>
 
 		</Switch>

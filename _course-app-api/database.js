@@ -1,31 +1,26 @@
-import db from './db/db';
 import fs from 'fs-extra'
-const config = require('./config.json')
 import {loadDb} from './helpers/build-db'
-import courses from './objects/courses/index'
+import CourseRepository from './objects/course/CourseRepository'
+
+const config = require('./config.json')
 
 class database {
 	
 	constructor(){
-		this.cache = db;
+
 		this.config = config
-		this.source = courses
-		console.log(courses)
 	}
 
 	courses(params){
-
 		if(params.search !== undefined){
-			return this.cache.filter(course => {
-				return course.title.toLowerCase().includes(params.search.toLowerCase())
-			})
+			return CourseRepository.where("title","===",params.search.toLowerCase()).get()
 		}else{
-			return this.cache;
+			return CourseRepository.all();
 		}
 		
 	}
 
-	getCourse(title){
+	getCourseByTitle(title){
 
 		let course = this.cache.filter(course => {
 			return course.id === title
@@ -34,8 +29,8 @@ class database {
 		return course[0]
 	}
 
-	getCourseByIndex(index){
-		return this.cache[index]
+	getCourseById(id){
+		return 
 	}
 
   hello(){
@@ -45,9 +40,9 @@ class database {
   course(params){
 
   	if (params.input.id !== undefined) {
-    	return this.getCourseByIndex(params.input.id)
+    	return CourseRepository.find(params.input.id)
 	}else if ( params.input.title !== undefined) {
-    	return this.getCourse(params.input.title)
+    	return CourseRepository.where("title", "===",params.input.title).first()
 	}else{
 	    return false
 	}
@@ -55,8 +50,8 @@ class database {
     
   }
 
-  lesson(params){
-  	return JSON.parse( this.readFile(this.config.lessonsPath+"/"+params.id+".json") )
+  task(params){
+  	return CourseRepository.findTask(params.input.courseId, params.input.taskId)
   }
 
   readFile(path){

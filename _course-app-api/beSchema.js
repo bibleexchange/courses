@@ -1,38 +1,44 @@
 import { buildSchema } from 'graphql'
+
+import {CourseSchema} from './objects/course/model'
+import {TaskSchema} from './objects/course/task'
+import {PersonSchema} from './objects/person/model'
+
 // Construct a schema, using GraphQL schema language
 var beSchema = buildSchema(`
 
-  type LessonType {
-    id: Int,
-    title: String,
-    content: String
-    pathToFile:String
-    type: String
-    link: String
-    course_id: String
-  }
-
-  type SectionType {
-    id: String
-    lessons: [LessonType]
-  }
-
+  type NodeType {
+    path: String
+  } 
+  
+`
++
+PersonSchema
++
+TaskSchema
++ 
+`
   input CourseInput {
-    id: Int,
+    id: String,
     title: String
   }
 
-  type CourseType {
-    id: String,
-    title: String,
-    sections: [SectionType]
+  input TaskInput {
+    courseId: String,
+    taskId: Int
   }
+
+`
++
+CourseSchema
++ 
+`
 
   type Query {
     hello: String,
     course(input:CourseInput): CourseType
     courses(search:String): [CourseType]
-    lesson(id:Int): LessonType
+    task(input:TaskInput): TaskType
   }
 `);
 

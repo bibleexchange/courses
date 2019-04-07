@@ -5,13 +5,15 @@ import {
   REQUEST_COURSE,
   RECEIVE_COURSE,
   SET_COURSES_ERROR,
-  SET_COURSE_ERROR
+  SET_COURSE_ERROR,
+  REQUEST_TASK,
+  RECEIVE_TASK
 } from '../actions/actions'
 
 const initialState = {
   courses:{isLoading:false, hasError:false, data:false},
   course:{isLoading:false, hasError:false, data:false},
-  lesson:{isLoading:false, hasError:false, data:false}
+  task:{isLoading:false, hasError:false, data:false}
 }
 
 const reducer = (state = initialState, action)=>{
@@ -56,6 +58,19 @@ const reducer = (state = initialState, action)=>{
       newState.course.data = action.data
       newState.course.lastUpdated = action.receivedAt
       break
+    
+      case REQUEST_TASK:
+        newState.task.isLoading = true
+        break
+
+
+      case RECEIVE_TASK:
+        newState.task.isLoading = false
+        newState.task.hasError = false
+        delete newState.task.error
+        newState.task.data = action.data
+        newState.task.lastUpdated = action.receivedAt
+        break
     }
 
   return newState
