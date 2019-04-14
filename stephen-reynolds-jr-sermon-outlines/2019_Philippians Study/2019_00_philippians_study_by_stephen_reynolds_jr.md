@@ -799,7 +799,7 @@ Ensample: Phil. 3:17; 1 Peter 5; 1 Thessalonians 1:7; 2 Thessalonians 3:9; 1 Tim
 
 - **DO**
 
-
+> James 4:17 &mdash; Therefore to him that knoweth to do good, and doeth it not, to him it is sin.
 
 - **AND THE GOD OF PEACE SHALL BE WITH YOU**
 
