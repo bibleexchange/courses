@@ -1,7 +1,7 @@
 @[be](Philippians 4:1)
 
 @[verse](Philippians 4:1)
- 
+
 # Background to the Epistle to the Philippians
 
 ## The Purpose
@@ -356,47 +356,47 @@ If you really FOLLOW Jesus, you'll stand out. - THEN:
 ## Esteem Each Other Better, vs. 3
 
 > 3 Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.
- 
+
 - Let NOTHING [NO THING] be down through STRIFE (factions/clicks/division) or VAINGLORY (extensive pride in one's achievements). 
 - We call each other "Brother" and "Sister" because we are a FAMILY.
- 
+
 ## Look on the Things of of Others, v.4 
- 
+
 > 4 Look not every man on his own things, but every man also on the things of others.
- 
+
  I'm a very private person and by extension of that not a very "nosy" one. This detail of my personality challenges me daily in obedience to this Word.
- 
+
 > Ga 6:2 Bear ye one another's burdens, and so fulfil the law of Christ.
- 
+
 "Look after each other."
- 
+
 ## The Pattern is Christ, v.5-11
- 
+
  >  5  Let this mind be in you, which was also in Christ Jesus: 6 Who, being in the form of God, thought it not robbery to be equal with God: 7 But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men: 8 And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross. 9 Wherefore God also hath highly exalted him, and given him a name which is above every name: 10 That at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth; 11 And that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.
- 
+
  - He Made Himself of No Reputation
  - He Took the Form of a Servant
  - He Humbled Himself in Obedience (even unto death)
- 
+
 ## Live in Obedience, v. 12,13
- 
+
  > 12 ¶ Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling. 13 For it is God which worketh in you both to will and to do of his good pleasure.
- 
+
  - Work Out What God Works In
  - Paul is not encouraging believers to live in a continuous condition of nervousness and anxiety. 
  - Fear: Carefulness, Reverance, Respect
  - Have we lost our sense of AWE for the Life in the Spirit?
-  
+
 ## Shine As Lights, v. 14-16
-  
+
  > 14 ¶ Do all things without murmurings and disputings: 15 That ye may be blameless and harmless, the sons of God, without rebuke, in the midst of a crooked and perverse nation, among whom ye shine as lights in the world; 
- 
+
  > 16 Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither laboured in vain.
- 
+
  - Paul is tenderly entreating them, "Please, Don't Be Like the World. You've received better than that."
- 
+
 ## Paul's Conclusion, v.17-30
- 
+
 Living examples of the Unity, Mind and Humility of Christ in His servants.
 
  > 17 Yea, and if I be offered upon the sacrifice and service of your faith, I joy, and rejoice with you all. 18 For the same cause also do ye joy, and rejoice with me. 19 But I trust in the Lord Jesus to send Timotheus shortly unto you, that I also may be of good comfort, when I know your state. 20 For I have no man likeminded, who will naturally care for your state. 21 For all seek their own, not the things which are Jesus Christ's. 22 But ye know the proof of him, that, as a son with the father, he hath served with me in the gospel. 23 Him therefore I hope to send presently, so soon as I shall see how it will go with me. 24 But I trust in the Lord that I also myself shall come shortly. 25 Yet I supposed it necessary to send to you Epaphroditus, my brother, and companion in labour, and fellowsoldier, but your messenger, and he that ministered to my wants. 26 For he longed after you all, and was full of heaviness, because that ye had heard that he had been sick. 27 For indeed he was sick nigh unto death: but God had mercy on him; and not on him only, but on me also, lest I should have sorrow upon sorrow. 28 I sent him therefore the more carefully, that, when ye see him again, ye may rejoice, and that I may be the less sorrowful. 29 Receive him therefore in the Lord with all gladness; and hold such in reputation: 30 Because for the work of Christ he was nigh unto death, not regarding his life, to supply your lack of service toward me.
@@ -592,7 +592,7 @@ He is an omnipresent help when called. Psalm 46:5 **HE will judge US and OTHERS*
 > LEIGH ANN MARSHALL in her article "Depression, anxiety, and the church: A pastor’s wife tells her story of hope" wrote: "Since the garden, our world has been thoroughly and profoundly broken from the introduction of sin. This brokenness affects every part of our lives, from who we are, how we act, how we work, and how we relate to one another, to natural disasters and physical illness. As evangelicals, we are quick to see this universal bodily brokenness in cancer and heart disease, but when we approach mental illness, often our first response is to assume a lack of faith or inward transformation of the gospel. Why is this? ... More than 18 percent of Americans struggle with depression and anxiety, but the STIGMA and shame still holds strong in the church and even stronger for those who hold roles in ministry."
 
 > Ashley Layne in her article "The Unspoken Anxiety in the Church." "Often times with good intentions, mature Christians may sometimes give this verse [Philippians 4:6]to individuals suffering with anxiety. ... because anxiety is not tangible we may not believe that it actually exists or we simply don’t know the best strategy to combat it. But, to the individual experiencing it, it is real and it is difficult to get through. In this case, though intentions are pure, simply quoting a bible verse may not always be the best way to approach the situation when someone confides in you with their mental health struggle."
- 
+
 > Anxiety disorders go beyond everyday stress and may sometimes involve feelings of excessive fear or worry. With anxiety, the body reacts as if danger is present when there is no actual threat. The body sounds all the alarms to the sympathetic nervous system to prepare for fight or flight, when in truth no harm is present. Approximately 44 million adults in the United States suffer from anxiety disorders and less than a 1/3 of those seek some kind of help. People do not seek out help because they feel ASHAMED or EMBARASSED.
 
 #### 2. "Careful for Nothing"
@@ -697,55 +697,115 @@ c. **BELIEVERS EXHORTED**
 
 The object of the apostle is to recommend holiness and righteousness to them in every point of view; and to show that the Gospel of Christ requires all its professors to have the mind that was in Christ, and to walk as he himself also walked. That they were not to attend to one branch of righteousness or virtue only, but to every thing by which they might bring honor to God, good to their fellow creatures, and credit to themselves.
 
-**Finally, brethren** - As for what remains - τὸ λοιπὸν to loipon- or as a final counsel or exhortation.
+**Finally, brethren** - As for what remains- or as a final counsel or exhortation.
 
-Whatsoever things are true - In this exhortation the apostle assumes that there were certain things admitted to be true, and pure, and good, in the world, which had not been directly revealed, or which were commonly regarded as such by the people of the world, and his object is to show them that such things ought to be exhibited by the Christian. Everything that was honest and just toward God and toward people was to be practiced by them, and they were in all things to be examples of the highest kind of morality. They were not to exhibit partial virtues; not to perform one set of duties to the neglect or exclusion of others; not to be faithful in their duties to God, and to neglect their duty to people, not to be punctual in their religious rites, and neglectful of the comment laws of morality; but they were to do everything that could be regarded as the fair subject of commendation, and that was implied in the highest moral character. The word true refers here to everything that was the reverse of falsehood. They were to be true to their engagements; true to their promises; true in their statements; and true in their friendships. They were to maintain the truth about God; about eternity; about the judgment; and about every man‘s character. Truth is a representation of things as they are; and they were constantly to live under the correct impression of objects. A man who is false to his engagements, or false in his statements and promises, is one who will always disgrace religion.
+a. **Whatsoever things are true**
 
-Whatsoever things are honest - σεμνὰ semnaProperly, venerable, reverend; then honorable, reputable. The word was originally used in relation to the gods, and to the things that pertained to them, as being worthy of honor or veneration - Passow. As applied to people, it commonly means grave, dignified, worthy of veneration or regard. In the New Testament it is rendered “grave” in 1 Timothy 3:8, 1 Timothy 3:11, and Titus 2:2, the only places where the word occurs except this; and the noun ( σεμνότης semnotēs) is rendered “honesty” in 1 Timothy 2:2, and “gravity” in 1 Timothy 3:4, and Titus 2:7. It occurs nowhere else in the New Testament. The word, therefore, does not express precisely what the word “honest” does with us, as confined to dealings or business transactions, but rather has reference to what was regarded as worthy of reputation or honor; what there was in the customs of society, in the respect due to age and rank, and in the contact of the world, that deserved respect or esteem. It includes indeed what is right in the transaction of business, but it embraces also much more, and means that the Christian is to show respect to all the venerable and proper customs of society, when they did not violate conscience or interfere with the law of God; compare 1 Timothy 3:7.
+<!-- copy paste
+In this exhortation the apostle assumes that there were certain things admitted to be true, and pure, and good, in the world, which had not been directly revealed, or which were commonly regarded as such by the people of the world, and his object is to show them that such things ought to be exhibited by the Christian. Everything that was honest and just toward God and toward people was to be practiced by them, and they were in all things to be examples of the highest kind of morality. A man who is false to his engagements, or false in his statements and promises, is one who will always disgrace religion.
 
-Whatsoever things are just - The things which are right between man and man. A Christian should be just in all his dealings. His religion does not exempt him from the strict laws which bind people to the exercise of this virtue, and there is no way by which a professor of religion can do more injury perhaps than by injustice and dishonesty in his dealings. It is to be remembered that the people of the world, in estimating a person‘s character, affix much more importance to the virtues of justice and honesty than they do to regularity in observing the ordinances of religion; and therefore if a Christian would make an impression on his fellow-men favorable to religion, it is indispensable that he manifest uncorrupted integrity in his dealings.
+Whatsoever things are true - Ὁσα - αληθη· All that is agreeable to unchangeable and eternal truth. Whether that which is to be learned from the nature and state of created things, or that which comes immediately from God by revelation.
+-->
 
-Whatsoever things are pure - Chaste - in thought, in feeling, and in the conversation between the sexes; compare the notes at 1 Timothy 5:2.
+b. **Whatsoever things are honest**
 
-Whatsoever things are lovely - The word used here means properly what is dear to anyone; then what is pleasing. Here it means what is amiable - such a temper of mind that one can love it; or such as to be agreeable to others. A Christian should not be sour, crabby, or irritable in his temper - for nothing almost tends so much to injure the cause of religion as a temper always chafed; a brow morose and stern; an eye that is severe and unkind, and a disposition to find fault with everything. And yet it is to be regretted that there are many persons who make no pretensions to piety, who far surpass many professors of religion in the virtue here commended. A sour and crabby temper in a professor of religion will undo all the good that he attempts to do.
-
-Whatsoever things are of good report - That is, whatsoever is truly reputable in the world at large. There are actions which all people agree in commending, and which in all ages and countries are regarded as virtues. courtesy, urbanity, kindness, respect for parents, purity between brothers and sisters, are among those virtues, and the Christian should be a pattern and an example in them all. His usefulness depends much more on the cultivation of these virtues than is commonly supposed.
-
-If there be any virtue - If there is anything truly virtuous. Paul did not suppose that he had given a full catalogue of the virtues which he would have cultivated. He, therefore, adds, that if there was anything else that had the nature of true virtue in it, they should be careful to cultivate that also. The Christian should be a pattern and an example of every virtue.
-
-And if there be any praise - Anything worthy of praise, or that ought to be praised.
-
-Think on these things - Let them be the object of your careful attention and study, so as to practice them. Think what they are; think on the obligation to observe them; think on the influence which they would have on the world around you.
-
-2. Whatsoever things are true - Ὁσα - αληθη· All that is agreeable to unchangeable and eternal truth. Whether that which is to be learned from the nature and state of created things, or that which comes immediately from God by revelation.
+<!-- copy paste
+Properly, "venerable, reverend; then honorable, reputable". The word was originally used in relation to the gods, and to the things that pertained to them, as being worthy of honor or veneration. As applied to people, it commonly means grave, dignified, worthy of veneration or regard. In the New Testament it is rendered “grave” in 1 Timothy 3:8, 1 Timothy 3:11, and Titus 2:2, the only places where the word occurs except this; and the noun ( σεμνότης semnotēs) is rendered “honesty” in 1 Timothy 2:2, and “gravity” in 1 Timothy 3:4, and Titus 2:7. It includes indeed what is right in the transaction of business, but it embraces also much more, and means that the Christian is to show respect to all the venerable and proper customs of society, when they did not violate conscience or interfere with the law of God; compare 1 Timothy 3:7.
 
 Whatsoever things are honest - Ὁσα σεμνα· Whatever is grave, decent, and venerable. Whatever becomes you as men, as citizens, and as Christians.
+-->
+
+c. **Whatsoever things are just**
+
+<!-- copy paste
+The things which are right between man and man. A Christian should be just in all his dealings. His religion does not exempt him from the strict laws which bind people to the exercise of this virtue, and there is no way by which a professor of religion can do more injury perhaps than by injustice and dishonesty in his dealings. It is to be remembered that the people of the world, in estimating a person‘s character, affix much more importance to the virtues of justice and honesty than they do to regularity in observing the ordinances of religion; and therefore if a Christian would make an impression on his fellow-men favorable to religion, it is indispensable that he manifest uncorrupted integrity in his dealings.
 
 Whatsoever things are just - Ὁσα δικαια· Whatsoever is agreeable to justice and righteousness. All that ye owe to God, to your neighbor, and to yourselves.
+-->
+
+d. **Whatsoever things are pure**
+
+<!-- copy paste
+Chaste - in thought, in feeling, and in the conversation between the sexes; compare the notes at 1 Timothy 5:2.
 
 Whatsoever things are pure - Ὁσα ἁγνα· Whatsoever is chaste. In reference to the state of the mind, and to the acts of the body.
+-->
+
+e. **Whatsoever things are lovely**
+
+<!-- copy paste
+The word used here means properly what is dear to anyone; then what is pleasing. Here it means what is amiable - such a temper of mind that one can love it; or such as to be agreeable to others. A Christian should not be sour, crabby, or irritable in his temper - for nothing almost tends so much to injure the cause of religion as a temper always chafed; a brow morose and stern; an eye that is severe and unkind, and a disposition to find fault with everything. And yet it is to be regretted that there are many persons who make no pretensions to piety, who far surpass many professors of religion in the virtue here commended. A sour and crabby temper in a professor of religion will undo all the good that he attempts to do.
 
 Whatsoever things are lovely - Ὁσα προσφιλη· Whatsoever is amiable on its own account and on account of its usefulness to others, whether in your conduct or conversation.
 
+-->
+
+f. **Whatsoever things are of good report**
+<!-- copy paste
+That is, whatsoever is truly reputable in the world at large. There are actions which all people agree in commending, and which in all ages and countries are regarded as virtues. courtesy, urbanity, kindness, respect for parents, purity between brothers and sisters, are among those virtues, and the Christian should be a pattern and an example in them all. His usefulness depends much more on the cultivation of these virtues than is commonly supposed.
+
 Whatsoever things are of good report - Ὁσα ευφημα· Whatsoever things the public agree to acknowledge as useful and profitable to men; such as charitable institutions of every kind, in which genuine Christians should ever take the lead.
+-->
+g. **If there be any virtue**
+<!-- copy paste
+If there is anything truly virtuous. Paul did not suppose that he had given a full catalogue of the virtues which he would have cultivated. He, therefore, adds, that if there was anything else that had the nature of true virtue in it, they should be careful to cultivate that also. The Christian should be a pattern and an example of every virtue.
 
 If there be any virtue - If they be calculated to promote the general good of mankind, and are thus praiseworthy;
+-->
+h. **And if there be any praise**
+<!-- copy paste
+Anything worthy of praise, or that ought to be praised.
+-->
+i. **Think on these things**
+
+<!-- copy paste
+Let them be the object of your careful attention and study, so as to practice them. Think what they are; think on the obligation to observe them; think on the influence which they would have on the world around you.
 
 Think on these things - Esteem them highly, recommend them heartily, and practice them fervently.
+-->
 
-Instead of ει τις επαινος, if there be any praise, several eminent MSS., as D*EFG, add επιστημης, of knowledge; and the Vulgate and the Itala have disciplinae, of discipline; but none of these appear to be an original reading.
-
-**DO THIS HOW**
+In contrast to the troubles all around us in the world and the ever increasting advance of evil.
 
 ### Do What You Know to Do, v.9
 
 > 9 Those things, which ye have both learned, and received, and heard, and seen in me, do: and the God of peace shall be with you.
 
-- SEEN IN ME DO
+> 5 Tips from "How Humans Learn: The Science and Stories Behind Effective College Teaching (West Virginia University Press, 2018) is an unusual book. Its author, Josh Eyle": 
+	“Anxiety of any kind,” Eyler writes, “reduces levels of student curiosity.” 
+	We are "learning" as a group only if we are "building knowledge together"
+	Positive emotions can enhance learning, while “unregulated negative emotions” impede it. (show concern and invest in each other)
+	- The brain gives more attention to situations it deems realistic. So "inauthentic" teaching situattions are  not as effective. For example, lecture.
+	- Grades consistently communicate to students that they fall short of an ideal, regardless of the degree to which they may have improved.
 
-Ensample: 1 Peter 5; Phil. 3:17; 1 Thessalonians 1:7; 2 Thessalonians 3:9; 1 Timothy 1:16; 1 Timothy 4:12; Titus 2:7; 1 Cor. 11:1; **1 Peter 2:21** 
+- **THOSE THINGS**
 
-**DO THIS HOW**
+which ye have:
+
+| english |  greek  | definition | cross-references |
+| --------- | ----------- | ------------- | ------------- |
+| learned | manthano | to learn; understand| Matt 9:13; 11:29; 24:32; John 7:15; Rom. 16:17; Eph. 4:20; **PHIL. 4:11**; Heb. 5:8 |
+| received | paralambano| associate with oneself; assume an office; take unto| Matt 2:13; 17:1; 24:40; John 1:11; 1 Cor. 11:23; 1 Cor. 15:1; Col. 2:6 |
+| heard | akouo | come to the ears, be reported, understand.| Matt. 7:24; Ephesians 1:13; Phil. 1:30; 2:26 |
+| seen | eido | to see (literally or figuratively); to know b/c you have seen; have knowledge | Rom. 1:11; 1 Cor. 2:2; Gal. 2:7 |
+
+- **SEEN IN ME**
+
+Thank God for Godly examples!
+
+> Philippians 3:17 &mdash; Brethren, be followers together of me, and mark them which walk so as ye have us for an ensample.
+
+Ensample: Phil. 3:17; 1 Peter 5; 1 Thessalonians 1:7; 2 Thessalonians 3:9; 1 Timothy 1:16; 1 Timothy 4:12; Titus 2:7; 1 Cor. 11:1; **1 Peter 2:21** 
+
+- **DO**
+
+
+
+- **AND THE GOD OF PEACE SHALL BE WITH YOU**
+
+God rewards obedience.
+
+Exodus 19:5; Ephesiasn 6:1-3;  Revelation 14:12; Hebrews 13:17;  Romans 2:6-8
+
 
 ## Christian Giving, vs. 10-19
 
