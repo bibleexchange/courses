@@ -729,15 +729,16 @@ d. **Whatsoever things are pure**
 Chaste - in thought, in feeling, and in the conversation between the sexes; compare the notes at 1 Timothy 5:2.
 
 Whatsoever things are pure - Ὁσα ἁγνα· Whatsoever is chaste. In reference to the state of the mind, and to the acts of the body.
+
 -->
 
 e. **Whatsoever things are lovely**
 
 <!-- copy paste
+
 The word used here means properly what is dear to anyone; then what is pleasing. Here it means what is amiable - such a temper of mind that one can love it; or such as to be agreeable to others. A Christian should not be sour, crabby, or irritable in his temper - for nothing almost tends so much to injure the cause of religion as a temper always chafed; a brow morose and stern; an eye that is severe and unkind, and a disposition to find fault with everything. And yet it is to be regretted that there are many persons who make no pretensions to piety, who far surpass many professors of religion in the virtue here commended. A sour and crabby temper in a professor of religion will undo all the good that he attempts to do.
 
 Whatsoever things are lovely - Ὁσα προσφιλη· Whatsoever is amiable on its own account and on account of its usefulness to others, whether in your conduct or conversation.
-
 -->
 
 f. **Whatsoever things are of good report**
