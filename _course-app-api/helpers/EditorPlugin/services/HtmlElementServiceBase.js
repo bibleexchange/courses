@@ -9,6 +9,26 @@ const graphQuery = {
   variables:{"token":null,"reference":"Philippians 4:2","notesPageSize":0,"myNotesPageSize":0,"myNoteID":null,"crossReferencesPageSize":0}
 }
 
+const request = async () => {
+    const response = await fetch("http://bible.exchange/graphql",{
+        method: "POST",
+        headers: {
+            "Authorization": "Bearer null", //+ auth.getToken(),
+            "Accept": "*/*",
+            "Content-Type": "application/json",
+        },
+
+        body: JSON.stringify({
+            query: graphQuery.query,
+            variables: graphQuery.variables,
+        })
+    } );
+
+    const json = await response.json();
+    console.log(json);
+    return json
+}
+
 class HtmlElementServiceBase {
 
   constructor(name, options, env) {
@@ -46,27 +66,25 @@ class HtmlElementServiceBase {
     let escapedServiceName = this.env.md.utils.escapeHtml(this.name);
     containerClassNames.push(this.env.options.serviceClassPrefix + escapedServiceName);
 
-    return this.getRequest(videoID, containerClassNames)
-  }
-
-  getRequest(videoID, containerClassNames){
-    return this.request(videoID, containerClassNames).then(function(json){
-
-        return `<blockquote class="${containerClassNames.join(" ")}">`
+    const data = request()
+    console.log(data)
+      return `<blockquote class="${containerClassNames.join(" ")}">`
            + `<span>${json.data.viewer.bibleVerse.reference}</span>`
            + `&mdash;`
            + `<span>${json.data.viewer.bibleVerse.body}</span>`
          + `</blockquote>`;
-      })
+
+    return data;
   }
 
-   request(videoID, containerClassNames){
-      return this.graphqlFetch(graphQuery.query, graphQuery.variables)
-      .then(function(response){return response.json()})
-      
-    }
+ async getRequest(videoID, containerClassNames){
 
-  graphqlFetch(query, variables){
+    var response = await this.graphqlFetch(graphQuery.query, graphQuery.variables);
+    return response
+
+  }
+
+  async graphqlFetch(query, variables){
   return fetch("http://bible.exchange/graphql",{
         method: "POST",
         headers: {
