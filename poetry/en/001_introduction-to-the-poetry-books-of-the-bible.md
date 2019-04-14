@@ -32,3 +32,7 @@ The rejection of wisdom begins with the rejection of God (Psalm 14:1) (_Fear_ pg
 The first paragraph of Kidner’s commentary deals with the nuances of the type of wisdom covered in Proverbs.
 
 Instruction, correction, and other related words. What do they mean?
+
+
+> And wisdom sayings are notorious for the use of apparently absolute assertions in order to make a general, “proverbial” point.
+> Moo, D. J. (2000). The letter of James (p. 84). Grand Rapids, MI; Leicester, England: Eerdmans; Apollos.
