@@ -702,67 +702,46 @@ The object of the apostle is to recommend holiness and righteousness to them in 
 a. **Whatsoever things are true**
 
 <!-- copy paste
-In this exhortation the apostle assumes that there were certain things admitted to be true, and pure, and good, in the world, which had not been directly revealed, or which were commonly regarded as such by the people of the world, and his object is to show them that such things ought to be exhibited by the Christian. Everything that was honest and just toward God and toward people was to be practiced by them, and they were in all things to be examples of the highest kind of morality. A man who is false to his engagements, or false in his statements and promises, is one who will always disgrace religion.
-
-Whatsoever things are true - Ὁσα - αληθη· All that is agreeable to unchangeable and eternal truth. Whether that which is to be learned from the nature and state of created things, or that which comes immediately from God by revelation.
+In this exhortation the apostle assumes that there were certain things admitted to be true, and pure, and good, in the world, which had not been directly revealed, or which were commonly regarded as such by the people of the world, and his object is to show them that such things ought to be exhibited by the Christian. Everything that was honest and just toward God and toward people was to be practiced by them, and they were in all things to be examples of the highest kind of morality. A man who is false to his engagements, or false in his statements and promises, is one who will always disgrace religion. Whatsoever things are true - Ὁσα - αληθη· All that is agreeable to unchangeable and eternal truth. Whether that which is to be learned from the nature and state of created things, or that which comes immediately from God by revelation.
 -->
 
 b. **Whatsoever things are honest**
 
-<!-- copy paste
-Properly, "venerable, reverend; then honorable, reputable". The word was originally used in relation to the gods, and to the things that pertained to them, as being worthy of honor or veneration. As applied to people, it commonly means grave, dignified, worthy of veneration or regard. In the New Testament it is rendered “grave” in 1 Timothy 3:8, 1 Timothy 3:11, and Titus 2:2, the only places where the word occurs except this; and the noun ( σεμνότης semnotēs) is rendered “honesty” in 1 Timothy 2:2, and “gravity” in 1 Timothy 3:4, and Titus 2:7. It includes indeed what is right in the transaction of business, but it embraces also much more, and means that the Christian is to show respect to all the venerable and proper customs of society, when they did not violate conscience or interfere with the law of God; compare 1 Timothy 3:7.
-
-Whatsoever things are honest - Ὁσα σεμνα· Whatever is grave, decent, and venerable. Whatever becomes you as men, as citizens, and as Christians.
--->
+<!-- copy paste Properly, "venerable, reverend; then honorable, reputable". The word was originally used in relation to the gods, and to the things that pertained to them, as being worthy of honor or veneration. As applied to people, it commonly means grave, dignified, worthy of veneration or regard. In the New Testament it is rendered “grave” in 1 Timothy 3:8, 1 Timothy 3:11, and Titus 2:2, the only places where the word occurs except this; and the noun ( σεμνότης semnotēs) is rendered “honesty” in 1 Timothy 2:2, and “gravity” in 1 Timothy 3:4, and Titus 2:7. It includes indeed what is right in the transaction of business, but it embraces also much more, and means that the Christian is to show respect to all the venerable and proper customs of society, when they did not violate conscience or interfere with the law of God; compare 1 Timothy 3:7.Whatsoever things are honest - Ὁσα σεμνα· Whatever is grave, decent, and venerable. Whatever becomes you as men, as citizens, and as Christians. -->
 
 c. **Whatsoever things are just**
 
 <!-- copy paste
-The things which are right between man and man. A Christian should be just in all his dealings. His religion does not exempt him from the strict laws which bind people to the exercise of this virtue, and there is no way by which a professor of religion can do more injury perhaps than by injustice and dishonesty in his dealings. It is to be remembered that the people of the world, in estimating a person‘s character, affix much more importance to the virtues of justice and honesty than they do to regularity in observing the ordinances of religion; and therefore if a Christian would make an impression on his fellow-men favorable to religion, it is indispensable that he manifest uncorrupted integrity in his dealings.
-
-Whatsoever things are just - Ὁσα δικαια· Whatsoever is agreeable to justice and righteousness. All that ye owe to God, to your neighbor, and to yourselves.
+The things which are right between man and man. A Christian should be just in all his dealings. His religion does not exempt him from the strict laws which bind people to the exercise of this virtue, and there is no way by which a professor of religion can do more injury perhaps than by injustice and dishonesty in his dealings. It is to be remembered that the people of the world, in estimating a person‘s character, affix much more importance to the virtues of justice and honesty than they do to regularity in observing the ordinances of religion; and therefore if a Christian would make an impression on his fellow-men favorable to religion, it is indispensable that he manifest uncorrupted integrity in his dealings.Whatsoever things are just - Ὁσα δικαια· Whatsoever is agreeable to justice and righteousness. All that ye owe to God, to your neighbor, and to yourselves.
 -->
 
 d. **Whatsoever things are pure**
 
 <!-- copy paste
-Chaste - in thought, in feeling, and in the conversation between the sexes; compare the notes at 1 Timothy 5:2.
-
-Whatsoever things are pure - Ὁσα ἁγνα· Whatsoever is chaste. In reference to the state of the mind, and to the acts of the body.
-
--->
+Chaste - in thought, in feeling, and in the conversation between the sexes; compare the notes at 1 Timothy 5:2.Whatsoever things are pure - Ὁσα ἁγνα· Whatsoever is chaste. In reference to the state of the mind, and to the acts of the body.-->
 
 e. **Whatsoever things are lovely**
 
-<!-- copy paste
-
-The word used here means properly what is dear to anyone; then what is pleasing. Here it means what is amiable - such a temper of mind that one can love it; or such as to be agreeable to others. A Christian should not be sour, crabby, or irritable in his temper - for nothing almost tends so much to injure the cause of religion as a temper always chafed; a brow morose and stern; an eye that is severe and unkind, and a disposition to find fault with everything. And yet it is to be regretted that there are many persons who make no pretensions to piety, who far surpass many professors of religion in the virtue here commended. A sour and crabby temper in a professor of religion will undo all the good that he attempts to do.
-
-Whatsoever things are lovely - Ὁσα προσφιλη· Whatsoever is amiable on its own account and on account of its usefulness to others, whether in your conduct or conversation.
--->
+<!-- copy paste The word used here means properly what is dear to anyone; then what is pleasing. Here it means what is amiable - such a temper of mind that one can love it; or such as to be agreeable to others. A Christian should not be sour, crabby, or irritable in his temper - for nothing almost tends so much to injure the cause of religion as a temper always chafed; a brow morose and stern; an eye that is severe and unkind, and a disposition to find fault with everything. And yet it is to be regretted that there are many persons who make no pretensions to piety, who far surpass many professors of religion in the virtue here commended. A sour and crabby temper in a professor of religion will undo all the good that he attempts to do.Whatsoever things are lovely - Ὁσα προσφιλη· Whatsoever is amiable on its own account and on account of its usefulness to others, whether in your conduct or conversation. -->
 
 f. **Whatsoever things are of good report**
 <!-- copy paste
-That is, whatsoever is truly reputable in the world at large. There are actions which all people agree in commending, and which in all ages and countries are regarded as virtues. courtesy, urbanity, kindness, respect for parents, purity between brothers and sisters, are among those virtues, and the Christian should be a pattern and an example in them all. His usefulness depends much more on the cultivation of these virtues than is commonly supposed.
-
-Whatsoever things are of good report - Ὁσα ευφημα· Whatsoever things the public agree to acknowledge as useful and profitable to men; such as charitable institutions of every kind, in which genuine Christians should ever take the lead.
+That is, whatsoever is truly reputable in the world at large. There are actions which all people agree in commending, and which in all ages and countries are regarded as virtues. courtesy, urbanity, kindness, respect for parents, purity between brothers and sisters, are among those virtues, and the Christian should be a pattern and an example in them all. His usefulness depends much more on the cultivation of these virtues than is commonly supposed. Whatsoever things are of good report - Ὁσα ευφημα· Whatsoever things the public agree to acknowledge as useful and profitable to men; such as charitable institutions of every kind, in which genuine Christians should ever take the lead.
 -->
 g. **If there be any virtue**
-<!-- copy paste
-If there is anything truly virtuous. Paul did not suppose that he had given a full catalogue of the virtues which he would have cultivated. He, therefore, adds, that if there was anything else that had the nature of true virtue in it, they should be careful to cultivate that also. The Christian should be a pattern and an example of every virtue.
 
-If there be any virtue - If they be calculated to promote the general good of mankind, and are thus praiseworthy;
+<!-- copy paste
+If there is anything truly virtuous. Paul did not suppose that he had given a full catalogue of the virtues which he would have cultivated. He, therefore, adds, that if there was anything else that had the nature of true virtue in it, they should be careful to cultivate that also. The Christian should be a pattern and an example of every virtue.If there be any virtue - If they be calculated to promote the general good of mankind, and are thus praiseworthy;
 -->
 h. **And if there be any praise**
+
 <!-- copy paste
 Anything worthy of praise, or that ought to be praised.
 -->
 i. **Think on these things**
 
 <!-- copy paste
-Let them be the object of your careful attention and study, so as to practice them. Think what they are; think on the obligation to observe them; think on the influence which they would have on the world around you.
-
-Think on these things - Esteem them highly, recommend them heartily, and practice them fervently.
+Let them be the object of your careful attention and study, so as to practice them. Think what they are; think on the obligation to observe them; think on the influence which they would have on the world around you.Think on these things - Esteem them highly, recommend them heartily, and practice them fervently.
 -->
 
 In contrast to the troubles all around us in the world and the ever increasting advance of evil.
