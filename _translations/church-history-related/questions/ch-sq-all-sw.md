@@ -2,17 +2,10 @@
 
 Zungushia duara jibu sahihi.
 
-## Ni nani ambayo ni mwamba anayetajwa katika Matayo 16:18?
-
-1. Petro
-2. **Yesu**
-3. Roho mtakatifu
-4. Yohana
-
 ## Neno la Kigiriki _Ekklesia_ lina maanisha nini?
 
 1. Watu wa Mungu
-2. **wale walioitwa pamoja**
+2. **Wale walioitwa pamoja**
 3. Wale waliooshwa kwa damu
 4. Wakristo
 
@@ -146,7 +139,7 @@ Jibu kweli au sio kweli.
 
 # Maswali ya kujifunza Historia ya Kanisa 3: Kanisa la Kifalme
 
-## Kanisa lipi lililoelezewa katika kitabu cha ufunuo kuhusiana na kipindi hiki?
+## Kanisa lipi lililoelezewa katika kitabu cha Ufunuo kuhusiana na kipindi hiki?
 
 1. Efeso 
 2. Smirna 
@@ -181,13 +174,6 @@ Jibu kweli au sio kweli.
 ## Kweli au Sio kweli? Yohana Krisostomu anajulikana kama "mdomo wa dhahabu" kwa sababu aliweza kuongea kwa ufasaha wa ajabu.
 
 **Kweli**
-
-## Ni nini ambayo Atanasi, Kristomu, na Augustino wanayo kwa pamoja?
-
-1. Wote waliheshimiwa na Kanisa la Katholiki tangu kipindi hiki
-2. Wote waliishi Ulaya
-3. **Wote walihamishwa tangu kipindi hiki**
-4. Wote walielezewa kama walikuwa na "midomo ya dhahabu"
 
 ## Elezea uhusiano wa ukristo na upagani tangu kipindi hiki?
 
@@ -226,15 +212,15 @@ Jibu kweli au sio kweli.
 3. Hapakuwepo na uhuru
 4. **Hapakuwepo na Biblia za lugha ya kawida**
 
-## Jaza nafasi ilioachwa. Isaya 9:19 Kwa sababu ya **hasira ya Bwana wa majeshi** inchi inateketea kabisa.
+## Jaza nafasi ilioachwa. Isaya 9:19 Kwa sababu ya **hasira** **ya** **Bwana** **wa** **majeshi** inchi inateketea kabisa.
 
-## Jaza nafasi ilioachwa. **Kanisa Katoliki la Roma** lilikuwa na ushawishi mkubwa sana barani Ulaya tangu kipindi hiki.
+## Jaza nafasi ilioachwa. **Kanisa** **Katoliki** **la** **Roma** lilikuwa na ushawishi mkubwa sana barani Ulaya tangu kipindi hiki.
 
 ## Jaza nafasi ilioachwa. Mahakama maalumu iliundwa mwaka 1200 kushughulikia **waasi**.
 
-## Jaza nafasi ilioachwa. Vita hivi vilikuwa ni jaribio la kanisa Katoliki kuchukua **nchi takatifu** kutoka kwa Waislam.
+## Jaza nafasi ilioachwa. Vita hivi vilikuwa ni jaribio la kanisa Katoliki kuchukua **nchi** **takatifu** kutoka kwa Waislam.
 
-## Jaza nafasi ilioachwa. Yohane Wykliffe anakumbukwa kama **nyota ya asubuhi** wa mageuzi.
+## Jaza nafasi ilioachwa. Yohane Wykliffe anakumbukwa kama **nyota** **ya** **asubuhi** wa mageuzi.
 
 ## KWELI au SIO KWELI. Kwa imani tunapokea upatanisho wa kazi ya Kristo kwa sababu kwa kujitolea kufa ilitosha.
 
@@ -290,7 +276,7 @@ Jibu kweli au sio kweli.
 
 1. Orthodox
 2. Wayesuit
-3. **Waporostant**
+3. **Waprotestant**
 4. Wapentecoste
 
 ## Jaza nafasi ilio achwa wazi. **Martin** **Luther** anachukuliwa kuwa ndiye Baba wa mageuzo.
@@ -313,7 +299,7 @@ Jibu kweli au sio kweli.
 
 **Sio kweli. Walikuja kwa uhuru wa kidini kutoka mipango ya kanisa la Uingereza.**
 
-## KWELI au SIO KWELI. Mapatano ya Mayflower yaliwekewa msingi juu ya kanuni maalumu.
+## KWELI au SIO KWELI. Mapatano ya Mayflower yaliwekewa msingi juu ya kanuni kisayansi.
 
 **Sio kweli. Mapatano ya  Mayflower ya liwekewa msingi juu ya kanuni za kiBiblia. (mapatano ya  Mayflower ya likuwa katiba ya kwanza ya serikali ya dunia ya kwanza.)**
 
@@ -360,13 +346,11 @@ Jibu kweli au sio kweli.
 
 ## Jaza nafasi ilio achwa wazi. **William** **Carey** ni baba wa Umisionari wa kisasa.
 
-## Jaza nafasi ilioachwa wazi. **David Livingstone** alikuwa ameitwa mtafuta njia barani Afrika.
+## Jaza nafasi ilioachwa wazi. **David** **Livingstone** alikuwa ameitwa mtafuta njia barani Afrika.
 
 ## Jaza nafasi ilioachwa wazi. Uamsho wa mtaa **Azusa** wa 1906 ulikuwa umwagikaji wenye nguvu wa Roho Mtakatifu katika Los Angelas California. 
 
 ## Jaza nafasi ilioachwa wazi. Billy **Sunday** na Smith **Wigglesworth** walikuwa wahubiri wasio weza wa kipindi hiki. (majina yao walikuwa nani?)
-
-## Jaza nafasi ilioachwa wazi. Katika miaka ya 1950 Oral Roberts, A.A. Allen, na William Branham wote walihubiri mara kwa mara katika **Uamsho wa mahemani**.
 
 ## Kweli au sio kweli. Adoniram Judson alikuwa mmishonari wa Afrika.
 
@@ -400,7 +384,7 @@ Jibu kweli au sio kweli.
 3. Uasi
 4. Toba
 
-## Katika msitari gani wa ufunuo Yesu anaelezea kipindi cha kanisa hili kama u mnyonge, mwenye mashaka, maskini, kipofu, na uchi?
+## Katika msitari gani wa Ufunuo Yesu anaelezea kipindi cha kanisa hili kama u mnyonge, mwenye mashaka, maskini, kipofu, na uchi?
 
 1. **3:17**
 2. 3:22

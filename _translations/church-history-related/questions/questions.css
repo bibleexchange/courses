@@ -6,8 +6,10 @@ body {
 }
 p {
 	margin-top: 1rem;
+	text-decoration: underline;
 }
 h1 {
+	font-size: 1.4rem;
 	page-break-before: always;
 	counter-reset: heading;
 	font-family: "Open Sans Condensed";
@@ -15,7 +17,7 @@ h1 {
 h2 {
 	font-weight: normal;
     font-size: 1rem;
-    margin-top: 2rem;
+    margin-top: 1.5rem;
     line-height: 1.5;
     text-indent: -2rem;
 	margin-left: 2rem;
@@ -23,10 +25,13 @@ h2 {
 h2::before {
 	counter-increment: heading;
 	content: counter(heading) ". ";
-	margin-right: .5rem;
+	margin-right: .2rem;
+}
+p + h2 {
+    margin-top: 1rem;
 }
 h2 + ol {
-	margin-top: .5rem;
+	margin-top: .3rem;
 }
 ol li {
 	list-style: upper-alpha;
