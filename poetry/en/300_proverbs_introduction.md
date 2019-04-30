@@ -32,9 +32,9 @@ How many sayings?
 
 ## Proverbs is of the wisdom genre
 
-Not every passage in the Bible is read the same. For example we read Acts 17:1 (Now when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where was a synagogue of the Jews:) differently than we read Psalm 18:8 (There went up a smoke out of his nostrils, And fire out of his mouth devoured:). The first is an historical account of events, and the second is poetic and symbolic description of God. God does not literally have smoke coming out of His nose (He does not actually have a nose, either, since He is a spirit). The same way, we do not read Proverbs the same way we would Leviticus or one of the prophets.
+Not every passage in the Bible is read the same. For example we read Acts 17:1 differently than we read Psalm 18:8. The first is an historical account of events, and the second is poetic and symbolic description of God. God does not literally have smoke coming out of His nose (He does not actually have a nose, either, since He is a spirit). The same way, we do not read Proverbs the same way we would Leviticus or one of the prophets.
 
-Before we talk about what makes a proverb unique, let's look at two verses of Proverbs that confuse some people:
+Before we talk about what makes a proverb unique, let's look at two verses from Proverbs that confuse some people:
 
 > Proverbs 26:4—Answer not a fool according to his folly, lest thou also be like unto him.
 
@@ -62,13 +62,12 @@ If proverbs are not laws or promises, than what are they?
 
 ### Proverbs are principles
 
-> Promises are always fulfilled 100 percent of the time. Principles state general truths.
-> https://www.thegospelcoalition.org/article/which-promises-are-for-me/
+> Promises are always fulfilled 100 percent of the time. Principles state general truths. [1]
 
 We still obey these principles, even though we may not see the exact results that we hope for.
 
 > On what grounds, then, could the sages so confidently assert the superiority of righteousness even though they were aware of righteous folk who suffered and of wicked folk who prospered? _In general_, the sages clearly believed that wise and righteous behavior did make life better and richer, though virtue did not _guarantee_ those consequences.
-> Van Leeuwan, Hebrew Studies 33, pg. 32
+> —Raymond C. Van Leeuwan [2]
 
 > It is a mistake, though, to treat the proverb as a type of guarantee. That is not what proverbs do. Again, it is a genre issue. Proverbs are not in the business of giving promises. Rather, they encourage people toward attitudes and actions that will lead toward a desired goal, all other things being equal. It is more likely that a child will grow up to be wise if their parents train them in the Lord’s way. But perhaps that child will come under the negative influence of his or her peers (see, for instance, the advice given in 1:8-19).
 > —Tremper Longman, III
@@ -76,7 +75,7 @@ We still obey these principles, even though we may not see the exact results tha
 Job's friends and the preacher of Ecclesiastes may have had a wrong understanding of applying principles like these, but that does not make the principles wrong.
 
 > The widespread dogmatic misuse of retributive sayings or concepts (Job 42:7; Luke 13:1-5; John 9:1-2; cf. Prov 26:7, 9) does not itself render the sayings dogmatic.
-> Raymond C. Van Leeuwan, WEALTH AND POVERTY: SYSTEM AND CONTRADICTION IN PROVERBS, Hebrew Studies vol. 33 pg. 29
+> —Raymond C. Van Leeuwan [3]
 
 #### A proverb needs wisdom for proper application
 
@@ -84,14 +83,7 @@ Job's friends and the preacher of Ecclesiastes may have had a wrong understandin
 
 Ecclesiates teaches that there is a time for everything (3:1-8).
 
-> Proverbs 15:23—A man hath joy by the answer of his mouth:  
-  And a word spoken in due season, how good is it!
-
-> Proverbs 25:11—A word fitly spoken  
-> Is like apples of gold in pictures of silver.
-
-> Proverbs 25:20—As he that taketh away a garment in cold weather,  
-> And as vinegar upon nitre, So is he that singeth songs to an heavy heart.
+Read Proverbs 15:23, 25:11, and 25:20.
 
 ##### Wisdom for right circumstances
 
@@ -107,13 +99,7 @@ The contrasting ideas found in Proverbs are not contradictions, but they provide
 
 Proverbs 18:22 says that he that "findeth a wife findeth a good thing," but 21:9 says that "It is better to dwell in a corner of the housetop, Than with a brawling woman in a wide house." So marriage is good... but only if you marry the right person.
 
-A proverb used wrongly can be dangerous. Proverbs 27:5 says that "Open rebuke is better than secret love", but that does not mean that we should rebuke every person every time we think they are doing something wrong.
-
-> Proverbs 26:7—The legs of the lame are not equal:  
-> So is a parable in the mouth of fools.
-
-> Proverbs 26:9—As a thorn goeth up into the hand of a drunkard,  
-> So is a parable in the mouth of fools.
+A proverb used wrongly can be dangerous. Proverbs 27:5 says that "Open rebuke is better than secret love," but that does not mean that we should rebuke every person every time we think they are doing something wrong. Read Proverbs 26:7 and 26:9.
 
 No single verse of Scripture gives us a complete view on any one subject. Compare one proverb with other proverbs and other Scriptures to get a better understanding of it.
 
@@ -121,19 +107,13 @@ We have to read Proverbs with an understanding that there are things in life tha
 
 #### Just because a proverb says something is better than something else, does not mean that the thing compared is inherently bad
 
-God will at times bless people with riches, but there are other blessings that He gives that are better than riches.
-
-> Proverbs 16:8—Better is a little with righteousness  
-> Than great revenues without right.
-
-> Proverbs 16:16—How much better is it to get wisdom than gold!  
-> And to get understanding rather to be chosen than silver!
+God will at times bless people with riches, but there are other blessings that He gives that are better than riches. Read Proverbs 16:8 and 16:16.
 
 > These "better-than" sayings set material wealth and poverty in an ultimate normative context which utterly reverses their usual worth. In a nutshell, poverty with righteousness is "better than" wealth with wickedness. Proverbs consistently insists that righteousness outweighs wealth, and wickedness renders wealth worthless. Wealth which may _appear_ as a blessing of the Creator is not intrinsically and invariably good. That depends upon whether wealth is subordinate to righteousness, justice, and wisdom. Material goods must be placed in a normative context which relates them one to another and prevents any particular good from becoming absolute at the expense of the norms which order and limit them all.
-> Van Leeuwan, Hebrew Studies 33 pg. 31
+> Van Leeuwan [4]
 
 > The editor-sages who structured Proverbs sought first to teach these basic "rules of life," thus the heavy emphasis on character-consequence patterns in both Proverbs 1–9 and 10–15. We must first learn the basic rules; the exceptions can come later.
-> Van Leeuwan, Hebrew Studies 33 pg. 32
+> Van Leeuwan [5]
 
 #### There is injustice in the world
 
@@ -157,11 +137,9 @@ We do not always see the fulfillment of judgment in this life, and so we must us
 
 ## Proverbs is a spiritual book
 
-It is true that Proverbs deals with a lot of practical things in life, but true wisdom is more than just knowledge or emotional intelligence.
+It is true that Proverbs deals with a lot of practical things in life, but true wisdom is more than just knowledge or emotional intelligence. To Solomon, wisdom does not begin with a natural education, but it comes from God. The fear of the Lord is the beginning of knowledge (1:7). Solomon himself got his wisdom by asking God (1 Kings 3:5–12).
 
-To Solomon, wisdom does not begin with a natural education, but it comes from God. The fear of the Lord is the beginning of knowledge (1:7). Solomon himself got his wisdom by asking God (1 Kings 3:5–12).
-
-A constant reason for behaving righteously is because God hates wickedness and loves righteousness (11:1; 12:2, 15:8–9; 17:15; 20:10, 23; 21:3, 27; 28:9).
+A constant reason for behaving righteously is because God hates wickedness and loves righteousness (11:1; 12:2; 15:8–9; 17:15; 20:10, 23; 21:3, 27; 28:9).
 
 ## Proverbs is written in a poetic form
 
@@ -169,14 +147,14 @@ A constant reason for behaving righteously is because God hates wickedness and l
 
 The central characteristic of Hebrew poetry is parallelism, which is like a rhyming of ideas.
 
-#### Synomous parallelism
+#### Synonymous parallelism
 
 This is when the second line repeats the idea in the first using slightly different language. It is for narrowing the thought or making it sharper. For example:
 
 > Proverbs 18:15—The heart of the prudent getteth knowledge;  
 > And the ear of the wise seeketh knowledge.
 
-#### Antithecal parallelism
+#### Antithetical parallelism
 
 The second line contrasts the first, as in:
 
@@ -185,16 +163,16 @@ The second line contrasts the first, as in:
 
 A lot of sayings in chapters 10-15 are like this.
 
-#### Sythetic parallelism (sometimes called step parallelism)
+#### Synthetic parallelism (sometimes called step parallelism)
 
 The second line continues the thought of the first line by addition.
 
 > Proverbs 14:7—Go from the presence of a foolish man,  
 > When thou perceivest not in him the lips of knowledge.
 
-### Anologies
+### Analogies
 
-Proverbs uses a lot of symbolism or examples from natural life to illustrate and explain truth. Some of these are similies, which is a comparison of two things using _like_ or _as_, as in the following example:
+Proverbs uses a lot of symbolism or examples from natural life to illustrate and explain truth. Some of these are similes, which is a comparison of two things using _like_ or _as_, as in the following example:
 
 > Proverbs 16:24—Pleasant words are as an honeycomb,  
 > Sweet to the soul, and health to the bones.
@@ -223,21 +201,27 @@ She speaks in Proverbs 1:20-33 and chapter 8. She is also mentioned in 9:1-6, 11
 
 #### Woman Folly
 
-She is mentioned in chapter 9:13-18.
-
-She is similar to the Strange Woman (5:8 and 7:22 are like 9:13-18. And 2:18-19, 5:5, and 7:27 are like 9:18). Both women start by calling out to the simple (9:4, 16). Both desire a relationship (come in with me). Both have prepared a meal (9:1-2, 17).
+She is mentioned in chapter 9:13-18. She is similar to the Strange Woman (5:8 and 7:22 are like 9:13-18. And 2:18-19, 5:5, and 7:27 are like 9:18). Both women start by calling out to the simple (9:4, 16). Both desire a relationship (come in with me). Both have prepared a meal (9:1-2, 17).
 
 ###### Path of life
 
-There is a good way and a bad way.
-
-There are snares and dangers in the way.
+There is a good way and a bad way. There are snares and dangers in the way.
 
 ## Proverbs was written as advice from a father to his son
 
 Writings of advice from a father to a son were common in the ancient near east.
 
 A surface reading the Proverbs and all its warnings about the "strange" women can give the impression that only women have issues with promiscuity, but when we remember that it was written to a young man then it makes sense of why the warnings are against people of the opposite gender. We could safely assume that if it was written by a mother to her daughter that there would be plenty of warnings of the "strange" man.
+
+[1] https://www.thegospelcoalition.org/article/which-promises-are-for-me/
+
+[2] Raymond C. Van Leeuwan, WEALTH AND POVERTY: SYSTEM AND CONTRADICTION IN PROVERBS, Hebrew Studies vol. 33, pg. 32
+
+[3] Van Leeuwan, Hebrew Studies 33 pg. 29
+
+[4] Van Leeuwan, Hebrew Studies 33 pg. 31
+
+[5] Van Leeuwan, Hebrew Studies 33 pg. 32
 
 <!--### To whom was the book written?
 

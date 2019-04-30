@@ -2,13 +2,6 @@
 
 Circle the correct answer.
 
-## Who is the rock mentioned in Matthew 16:18?
-
-1. Peter
-2. **Jesus**
-3. The Holy Spirit
-4. John
-
 ## What does the Greek word _Ekklesia_ mean?
 
 1. The people of God
@@ -182,13 +175,6 @@ Answer true or false.
 
 **True**
 
-## What did Athanasius, Chrysostom, and Augustine have in common?
-
-1. All were honored by Catholic church during this period
-2. All lived in Europe
-3. **All were exiled during this period**
-4. All were described as having "golden mouths"
-
 ## Describe the relationship of Christianity and paganism during this period?
 
 1. **The Church was infiltrated by Paganism**
@@ -303,7 +289,7 @@ Answer true or false.
 
 ## Fill in the blank. The people called **Separatists** were those we wanted to separate from the Church of England.
 
-Fill in the blank. The people called **Puritans** were those we wanted to purify from the Church of England. 
+## Fill in the blank. The people called **Puritans** were those we wanted to purify from the Church of England. 
 
 ## TRUE or FALSE. John Knox led the Reformation in Scotland.
 
@@ -365,8 +351,6 @@ Fill in the blank. The people called **Puritans** were those we wanted to purify
 ## Fill in the blank. The **Azusa** Street Revival was a mighty outpouring of the Holy Ghost in Los Angelas California.
 
 ## Fill in the blank. Billy **Sunday** and Smith **Wigglesworth** were also notable preachers of this period. (What were their names?)
-
-## Fill in the blank. In the 1950's Oral Roberts, A.A. Allen, and William Branham all preached often in **Tent** **Revivals**.
 
 ## True or False. Adoniram Judson was a missionary to Africa.
 
