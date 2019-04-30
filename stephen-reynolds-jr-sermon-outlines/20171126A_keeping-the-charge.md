@@ -79,7 +79,7 @@ Porters
 
 > John 10:1-3 &mdash; Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber.2 But he that entereth in by the door is the shepherd of the sheep. 3 To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out.
 
-> **ILLUSTRATION**: Tevye, Jewish Dairy Farmer, Changes happening all around him and new patterns developing .... "THERE IS NO OTHER HAND"
+> **ILLUSTRATION**: Tevye, Jewish Dairy Farmer, Changes happening all around him and new patterns developing .... "On the One hand ... on the other hand ... THERE IS NO OTHER HAND"
 
 - Zeal for the Things of God (the ward of the purification) Watchman on the wall -- **PRAY** --- **LEAD TO TRUE WORSHIP**
 
