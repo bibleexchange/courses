@@ -1,4 +1,3 @@
-
 MWAKA WA KWANZA
 KITABU CHA KIADA
 
@@ -610,7 +609,7 @@ Kila kitabu cha Biblia hutanguliza lengo moja la Biblia. Mungu ameonyesha mapenz
 
 ### Biblia ni Moja kwa Umbile
 
-Kila agano limeundwa kwa sehemu tatu kuu – historia, maagizo, na unabii.
+Kila agano limeundwa kwa sehemu tatu kuu: historia, maagizo, na unabii.
 
 Ipo Biblia moja yenye Agano Jipya na Agano la Kale. 
  
@@ -1025,7 +1024,7 @@ Zile desturi (Taarifa za Masoreti) zilizoandikwa na kuchapishwa mwishoni mwa enz
 
 Kuzikwa kwa Maandiko ya Waebrania. Walimu (Rabi) wa Kiyahudi waliziweka nakala za Maandiko Matakatifu katika heshima ya hadhi ya juu. Wakati andiko lolote lilipo zeeka au kuchujika na kuonekana halifai kwa matumizi lilipumzishwa kwa heshima kuu. Iliaminika kwamba ni bora zaidi kuzizika kwa heshima kuliko kuthubutu kuziacha ziangukue mikono isiyofaa au kudharauriwa. Hii ndio sababu ya kuwepo nakala nyingi za Agano la Kale zilizoandikwa.
 
-Ugawaji wa Maandiko ya Waebrania katika sura na aya mbalimbali. Kugawanywa kwa Maandiko katika Aya ni jambo lililofanyika mapema kabisa na familia ya Masoreti ya ben Asheri miaka ya 900 baada ya Kristo. Mfumo huu unagawanya vitabu 39 vya Agano la Kale (kama tunavyoona katika Biblia) katika aya 23,100. Maandiko ya Waebrania yamegawanywa katika ubeti. Mgawanyiko katika sura ulifanywa kwa mara ya kwanza na Kadinali Hugh wa Mtakatifu Cher mwaka 1244. 
+Ugawaji wa Maandiko ya Waebrania katika sura na aya mbalimbali. Kugawanywa kwa Maandiko katika Aya ni jambo lililofanyika mapema kabisa na familia ya Masoreti ya ben Asheri miaka ya 900 baada ya Kristo. Mfumo huu unagawanya vitabu 39 vya Agano la Kale (kama tunavyoona katika Biblia) katika aya 23,100. Maandiko ya Waebrania yamegawanywa katika ubeti. Mgawanyiko katika sura ulifanywa kwa mara ya kwanza na Kadinali Hugh wa Mtakatifu Cher mwaka 1244 BK. 
 
 ## Ugunduzi wa Kanuni ya Agano la Kale
 
