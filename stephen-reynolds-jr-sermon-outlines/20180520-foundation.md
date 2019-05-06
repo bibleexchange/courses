@@ -102,6 +102,6 @@ Brought to nought
 
 How remarkable to consider these two acts laid side by side --- forgave & took vengeance
 
- ## Conclusion
+## Conclusion
 
  > 21 ¶ Therefore let no man glory in men. For all things are yours; 22 Whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come; all are yours; 23 And ye are Christ's; and Christ is God's.
