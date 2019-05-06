@@ -9,7 +9,7 @@ The Proverbs talk about money and other kinds of wealth, such as fields, plentif
 By reading Proverbs, we can compile a list of what brings prosperity to people:
 
 * Wisdom (Proverbs 8:18, 21)
-* Hard work (Proverbs 14:4)
+* Hard work (Proverbs 14:4; 10:4; 12:11; 12:27)
 * God (Proverbs 10:22)
 * Righteousness (Proverbs 13:21&ndash;22, 25; 15:6)
 * Obedience (Proverbs 13:18)
@@ -77,7 +77,7 @@ Those that take advantage of the poor will be punished (22:16; 23:10-11).
 
 ### Save for the difficult times
 
-We need to make plans about how we will spend our finances (Proverbs 21:5). The ant is used as an example of saving for difficult times (Proverbs 6:6&ndash;11).
+We need to make plans about how we will spend our finances (Proverbs 21:5). The ant is used as an example of saving for difficult times (Proverbs 6:6&ndash;11). No one has to tell it what to do. It knows that winter is coming, and so it must gather food. The hard-worker does not need a leader, and in fact, he will likely become a leader (12:24). This hard work can keep you from becoming the slave of another. Jesus gave several stories of people who were given more authority because of their hard work. See also 10:5.
 
 ### Borrowing from others makes you a slave to them
 
@@ -107,6 +107,17 @@ Two things I ask:
 Proverbs 30:7-9
 
 <!--
+### Laziness leads to poverty (6:10&ndash;11)
+
+
+You don't work, you don't eat.
+
+> It is not riches the lazy person lacks; it is food, the necessity of life (cf. 19:15; 20:13; 23:21).  
+> Waltke, B. K. (2004). The Book of Proverbs, Chapters 1–15 (p. 339). Grand Rapids, MI: Wm. B. Eerdmans Publishing Co.
+
+Being lazy can ruin your reputation. People will not want to work with you. (10:26)
+
+***********************
 
 18:11 says that it's strength is in partially in his own mind. (Interestingly, the verse before this talks about the name of the Lord being a strong tower)
 

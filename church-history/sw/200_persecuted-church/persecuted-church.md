@@ -1,4 +1,4 @@
-# Mbili: Kanisa la Mateso (Mwaka wa 100—313 BK) 
+# Mbili: Kanisa la Mateso (100—313 BK) 
 
 Kuanzia kukamilishwa Agano Jipya hadi kutolewa Hati ya Constantino.
 
@@ -16,7 +16,7 @@ Huu ulikuwa ni wakati wa mateso makali kwa kanisa. Watu ambao hawakuawa walilazi
 
 ### "Kufuru yao isemayo ni Wayahudi hali siyo kweli bali ni sinagogi la shetani" (Ufunuo 2:9)
 
-Wafuasi wa dhehebu la Yuda walilipinga kanisa. Wafuasi wa Yuda ni wale waliotaka kuzirudisha sheria na mila za Kiyahudi. Yesu aliwafichua Wayahudi hao bandia kama watu wa sinagogi la shetani.
+Waebionaiti walilipinga kanisa. Waebionaiti ni wale waliotaka kuzirudisha sheria na mila za Kiyahudi.
 
 ### "Msiogope lolote ambalo litawafanya mteseke"
 
@@ -28,7 +28,7 @@ Wengi walifungwa kwa sababu za kuhubiri injili katika kipindi hiki. Kuwa Mkristo
 
 ### "...nanyi mtapata dhiki kwa muda wa siku kumi. Uwe mwaminifu hata kufa, nami nitakupa taji ya uzima." (2:10)
 
-Huu ni utabiri wa vipindi kumi vya mateso wakati wa Smirna. Kama barua hizi zilizohusu makanisa saba zinavyolinganishwa na matukio ya historia ya kanisa unaweza kuona utabiri wa mitume unavyojifunua Kulikuwa na vipindi kumi vya mateso makali kwa waliokuwa waamini katika mikono ya ufalme wa Kirumi. Wakristo wengi walijitolea hadi kufa ili injili ipate kinachoitwa taji la mashahidi.
+Hii ni unabii wa mateso ambayo Wakristo wangepitia. "Siku kumi" si kweli siku, lakini ni mfano wa kipindi cha mateso.
 
 ## Sababu zilizofanya kuwepo na mateso chini ya utawala wa kifalme
 
@@ -50,15 +50,15 @@ Ukristo ulihesabiwa kama sehemu ya dini hiyo ya Yuda ambayo ilikuwa imeruhusiwa.
 
 ### Mikutano ya siri
 
-Wakristo walianza kufanya mikutano yao kwa siri ili kujilinda wasikamatwe na asikofu wa ufalme na kuteswa. Mikutano hiyo ya siri iliwatia wasiwasi sana watawala. Wakristo walishutumiwa kwamba mikutano yao ya siri ilikuwa ni ya kupanga kuuangusha Ufalme wa Kirumi uliokuwa madarakani. Kwa sababu ya Mlo wa Bwana na kuzungumza juu ya kula mwili wa Kristo, watu wengine walidhani kuwa walikuwa wachanga.
+Wakristo walianza kufanya mikutano yao kwa siri ili kujilinda wasikamatwe. Mikutano hiyo ya siri iliwatia wasiwasi sana watawala. Wakristo walishutumiwa kwamba mikutano yao ya siri ilikuwa ni ya kupanga kuuangusha Ufalme wa Kirumi uliokuwa madarakani. Kwa sababu ya Mlo wa Bwana na kuzungumza juu ya kula mwili wa Kristo, watu wengine walidhani kuwa walikuwa wachanga.
 
 ### Usawa katika kanisa
 
-Wakristo waliwaona watu wote kuwa sawa, kwa hiyo waliharibu utaratibu wa jamii wa kuwatukuza mabwenyenye. Jambo hili lilikuwa ni kinyume na mila za jamii ya Kirumi.
+Wakristo waliwaona watu wote kuwa sawa, kwa hiyo waliharibu utaratibu wa jamii wa kutukuza sanamu za miungu. Jambo hili lilikuwa ni kinyume na mila za jamii ya Kirumi.
 
 ### Faida za kibiashara
 
-Kustawi kwa Ukristo kulisababisha biashara iliyokuwa na faida kubwa ya kutengeneza na kuuza sanamu na picha za ibada za kipagani kufa.Watengenezaji wakubwa wa vitu hivyo waliunga mkono kuteswa kwa wakristo (Mdo. 19:24—28).
+Kustawi kwa Ukristo kulisababisha biashara iliyokuwa na faida kubwa ya kutengeneza na kuuza sanamu na picha za ibada za kipagani kufa.Watengenezaji wakubwa wa vitu hivyo waliunga mkono kuteswa kwa wakristo (Mdo. 19:23—28).
 
 ## Hatua za mateso
 
@@ -68,19 +68,19 @@ Kustawi kwa Ukristo kulisababisha biashara iliyokuwa na faida kubwa ya kutengene
 
 ### Katika mwaka wa 303 BK Mfalme Diocletiani alianzisha kipindi cha mateso makali sana kwa wakristo yaliyojulikana kama "Mateso Makuu"
 
-Hili lilikuwa ni jaribio la kuuondoa Ukristo katika uso wa dunia hii. Inasemekana Diocletiani alijenga mnara ulioandikwa: Kwa kumbukumbu ya kufukuzwa ushirikiano unaoitwa Ukristo. Wakristo wengi walichomwa moto wakiwa hai kwa sababu ya ushuhuda wao. Wakristo walitupiwa wanyama wakali ambao waliwararua na kuwala katika viwanja vya michezo. Wanyama hawa walikinai milo wa nyama za wanadamu na kuacha kuwashambulia. Asikofu waliochoka kuua watu wasiokuwa na hatia na wala hawakuwa na silaha walitupa panga zao mbali.
+Hili lilikuwa ni jaribio la kuuondoa Ukristo katika uso wa dunia hii. Inasemekana Diocletiani alijenga mnara ulioandikwa: Kwa kumbukumbu ya kufukuzwa ushirikiano unaoitwa Ukristo. Wakristo wengi walichomwa moto wakiwa hai kwa sababu ya ushuhuda wao. Wakristo walitupiwa wanyama wakali ambao waliwararua na kuwala katika viwanja vya michezo.
 
 ## Mashahidi muhimu na viongozi wa makanisa ya liyoteseka
 
 ### Inyasi 
 
-Inyasi alikuwa asikofu wa Antiokia huko Syria. Huyu alikuwa ni mwanafunzi wa mtume Yohana aliyekuwa mhubiri shupavu wa injili.
+Inyasi alikuwa asikofu wa Antiokia huko Syria. Huyu alikuwa ni mwanafunzi wa mtume Yohana.
 
 Inyasi alitupiwa wanyama wakali wamrarue katika kiwanja cha Coliseum. Akisimama katika uwanja huo wakati wanyama wakali wanamsogelea, Inyasi alisali ifuatavyo, "Nakushukuru ee Bwana kwa kuwa wewe umenitoa mimi ilinitukuke. Mimi ni punje ya Mungu ambaye nitasagiwa katikati ya meno ya wanyama wakali ili niwe mkate mtakatifu wa Bwana."
 
 ### Shahidi Yustini 
 
-Shahidi Yustini alikuwa mwanafalsafa aliyekuwa Mkristo baada ya kukutana na mtu mzee ambaye alielezea jinsi Yesu alivyotimiza unabii wa Agano la Kale. Alikuwa mmoja wa watetezi wa kwanza, ambaye ni mtu aliyetumia sababu na mantiki ili kulinda imani yake. Aliandika vitabu vingi ambavyo vipo hadi leo na vinatupatia taarifa nyingi za kipindi hicho. Mojawapo ya kazi zake muhimu ni _Mazungumzo na Trypho_ maandiko yanayopinga madai ya muafaka na dini ya Yuda (Ufunuo 2:9).
+Shahidi Yustini alikuwa mwanafalsafa aliyekuwa Mkristo baada ya kukutana na mtu mzee ambaye alielezea jinsi Yesu alivyotimiza unabii wa Agano la Kale. Alikuwa mmoja wa watetezi wa kwanza, ambaye ni mtu aliyetumia sababu na mantiki ili kulinda imani yake. Aliandika vitabu vingi ambavyo vipo hadi leo na vinatupatia taarifa nyingi za kipindi hicho. Mojawapo ya kazi zake muhimu ni _Mazungumzo na Trypho_ maandishi ambayo hufundisha dhidi ya Waebionaiti (Ufunuo 2:9).
 
 Aliandika mara moja, "Unaweza kutuua, lakini huwezi  kutudhuru." Yustini shahidi alikatwa kichwa huko Roma mwaka 165 BK. Maneno yake ya mwisho yalikuwa, "Mimi ni Mkristo, nimewekwa huru na Kristo na kwa wema wake Kristo nina pokea pigo hili kwa tumaini moja."
 
@@ -90,15 +90,23 @@ Polikarpi alikuwa asikofu wa Smirna katika Asia ndogo. Alifundishwa akiwa kijana
 
 Walimleta Polycarp kwa mtawala, ambaye alitishia kumchoma akiwa hai kwa moto kama hatamkana Kristo. Polikarpi akajibu, "Miaka themanini na sita nimemtumikia Kristo na hajanitendea kosa lolote; ni kwa nini basi nimkufuru mfalme wangu na ambaye ameniokoa? Unanitishia kwa moto unaowaka kwa saa moja na kuacha; lakini hujui moto wa hukumu ujao, na pia hufahamu moto wa adhabu ya milele. Leta chochote kama utakavyo."
 
-Mtawala huyo alimsihi akisema, "Akae mbali na wasioamini Mungu!" (akimaanisha Wakristo), ili waweze kumruhusu awe huru. Polycarp aliugeukia umati uliokuwa unatazama huku akisema kaa mbali na wasio amini kwa sababu hakuweza kupingana na imani yake ya kikristo, aliteketezwa akiwa hai huko Smyrna mwaka wa 155 BK. Polycarp ilikuwa kiungo cha mwisho kwa Kanisa la Mitume.
+Mtawala huyo alimsihi akisema, "Akae mbali na wasioamini Mungu!" (akimaanisha Wakristo), ili waweze kumruhusu awe huru. Polycarp aliugeukia umati uliokuwa unatazama huku akisema, "Akae mbali na wasioamini Mungu!" Kwa sababu hakuweza kupingana na imani yake ya Kikristo, aliteketezwa akiwa hai huko Smyrna mwaka wa 155 BK. Polycarpi alikuwa kiungo cha mwisho kwa Kanisa la Mitume.
 
 ### Ireneusi
 
-Ireneusi alikuwa mwanafunzi wa Polikarpi. Baadaye alikuwa askofu wa Lionsi (huko Gaul) mwaka 177 BK. Alisisitiza kanuni za msingi za Ukristo ambazo zilipingwa na Waagnosti. Wagnostiki waliamini "maarifa ya siri" ambayo waamini wachache tu wangepokea, lakini Irene aliwakumbusha kwamba Mitume walifundishwa waziwazi na si kwa siri. Baadhi ya maandiko yake bado yanakuja leo.
+Ireneusi alikuwa mwanafunzi wa Polikarpi. Baadaye alikuwa askofu wa Lionsi (huko Gaul) mwaka 177 BK. Alisisitiza kanuni za msingi za Ukristo ambazo zilipingwa na Waagnosti. Wagnostiki waliamini "maarifa ya siri" ambayo waamini wachache tu wangepokea, lakini Ireneusi aliwakumbusha kwamba Mitume walifundishwa waziwazi na si kwa siri. Baadhi ya maandiko yake bado yanakuja leo.
 
-### Origin
+### Origen (185—254 BK)
 
-### Tertullian
+Origen alikuwa mwanadolijia, ambayo ina maana kwamba alisoma kutoka kwenye vyanzo vya kidunia, kama vile falsafa ya Kigiriki, na kutumia mawazo yao kwa kufikiri ya kidini.
+
+Aliamini kwamba kulikuwa na viwango vitatu vya maana ya Kibiblia: halisi, maadili, na ishara.
+
+### Tertullian (150—229 BK)
+
+Tertullian alisema "Je, Athens inafanya nini na Yerusalemu?" Alikuwa akisema kuwa mawazo ya falsafa (Athens) hawakuweza kuongeza chochote kwenye mafundisho ya Ukristo (Yerusalemu). Hii ilikuwa shambulio dhidi ya mwanadolijia.
+
+Aliamini kwamba mateso yalitoka kwa Mungu. Alidhani ilikuwa chombo kilichotenganisha waumini wa kweli kutoka kwa waongo.
 
 ### Simeoni
 
@@ -122,18 +130,28 @@ Hakuna tarehe maalumu ambazo zinatambuliwa kama rasmi ambazo rasimu ya Agano Jip
 
 ## Mafundisho ya uwongo yalizuka kipindi hiki
 
-### Wagnosti walifundisha kwamba watu wanaweza kuokolewa kwa elimu ya siri
+### Wagnosti
 
-Gnosis ni neno la Kigriki limaanishalo elimu.
+Wagnosti walifundisha kwamba watu wanaweza kuokolewa kwa elimu ya siri. Wanapata jina lao kutoka _Gnosis_, ambayo ni neno la Kigriki limaanishalo "elimu." Waliamini kwamba wokovu haukuwa uhuru kutoka kwa dhambi, lakini ilikuwa uhuru kutoka kwa ujinga.
 
-### Waebionaiti/Wayuda waliendeleza mila na sheria za Musa na walijaribu kushawishi wengine wafanye vile vile pia
+Waliamini kwamba Yehova alikuwa mungu mwovu aliyeumba ulimwengu huu kama gereza kwa roho za wanadamu. Kwao, ulimwengu wa asili ulikuwa uovu, na hivyo roho za wanadamu zinapaswa kuporoka hilo kwa ujuzi huu wa siri. Ujuzi huu hauwezi kuja kutoka ulimwenguni, lakini wao njia ya kupokea ni kwa njia ya kukataa mwenyewe. Hawatashiriki ujuzi huu na watu nje ya kikundi chao.
 
-## Hali ya kanisa
+### Waebionaiti
 
-### Kanisa lilitakaswa kwa mateso
+Waebionaiti waliendeleza mila na sheria za Musa na walijaribu kushawishi wengine wafanye vile vile pia. Walikuwa Wayahudi ambao walidhani kwamba Mataifa wanapaswa kubadili kwa Uyahudi. Wakamkataa Paulo kama mtume. Hawakuamini kwamba Yesu ni kimungu. Maandiko pekee ambayo walitumia kutoka Agano Jipya ni sura ya 3-28 ya Injili ya Mathayo. Hawakutumia sura mbili za kwanza za Injili, kwa sababu zinaonyesha Yesu kama Mwana wa Mungu.
 
-### Kulikuwepona umoja kati ya wanaoamini
+### Wamarcioni
 
-### Kanisa la mateso liliendelea kukua
+Walikuwa wafuasi wa Marcioni. Kikundi hiki kilikuwa kinyume cha Waebionaiti. Wao walitaka Wakristo kujitenga kabisa na chochote kinachohusiana na Wayahudi. Marcion aliunda kanuni ya Biblia ambayo ilikuwa na injili tu ya Luka (ambaye alikuwa Mataifa) na nyaraka 10 za Paulo (zilizobadilishwa ili kuondoa kumbukumbu za Uyahudi). Hakupenda Mungu wa Agano la Kale.
 
-Shetani alijaribu sana kuuharibu Ukristo kwa mateso lakini mateso hayo yaliupulizia upepo moto wa Ukristo kwa jinsi injili ilivyoenea ulimwenguni kote.
+### Wamontani
+
+Walikuwa wafuasi wa Montanus (150-170 BK). Hii ilikuwa kundi la kinabii ambalo liliamini kwamba Roho Mtakatifu alizungumza mambo mapya kwa kanisa. Waliamini kwamba wanachama wa Utatu walifanya kazi kwa nyakati tofauti:
+
+* Baba alifanya kazi katika nyakati za Agano la Kale
+* Mwana alifanya kazi katika nyakati za Agano Jipya
+* Roho Mtakatifu anafanya kazi leo
+
+### Wasabelliani (pia inajulikana kama Wamodali)
+
+Kundi hili liliamini kwamba kulikuwa na Mungu mmoja ambaye alikuwa na nafasi tatu (au fomu): Baba, Mwana, na Roho Mtakatifu.

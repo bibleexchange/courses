@@ -32,12 +32,7 @@ See also Proverbs 16:17, 19:1, 20:7, 20:11, 21:29, and 28:6.
 
 ## Righteousness
 
-The book of Proverbs is not just a list of natural and moralistic rules, but these rules were founded on religion and a belief in God. The whole of Israel's society and government was permeated by a belief in God. Because of this, righteousness is an important characteristic in the book of Proverbs.
-
-> Proverbs 10:6–7&mdash;Blessings are upon the head of the just:  
-> But violence covereth the mouth of the wicked.  
-> The memory of the just is blessed:  
-> But the name of the wicked shall rot.
+The book of Proverbs is not just a list of natural and moralistic rules, but these rules were founded on religion and a belief in God. The whole of Israel's society and government was permeated by a belief in God. Because of this, righteousness is an important characteristic in the book of Proverbs. Read Proverbs 10:6–7.
 
 ## Steadfastness/Perseverance
 
