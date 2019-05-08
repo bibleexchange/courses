@@ -1,9 +1,4 @@
-&nbsp;
-<div class="fancy"><span>Deliverance Center House of Prayer</span></div>
-
 # The Psalms of Lament
-
-<p class="fancy"><span>March 18, 2018</span></p>
 
 ## Introduction
 
@@ -23,6 +18,9 @@ As a verb to "lament" means to mourn, feel or express sorrow or regret.
 
 ## National Lament
 
+> In these psalms, Israel moves from articulation of hurt and anger, to submission of them to God, and finally to relinquishment.  
+> The Psalms and the Life of Faith p 99
+
 Chapters 12, 44, 58, 60, 74, 77, 79, 80, 82, 83, 85, 90, 94, 106, 108, 123, 126, 137.
 
 > Psalm 137:1 &mdash; By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.
@@ -30,6 +28,11 @@ Chapters 12, 44, 58, 60, 74, 77, 79, 80, 82, 83, 85, 90, 94, 106, 108, 123, 126,
 (Read Psalm 80:1-7)
 
 ## Individual Lament
+
+Most of them begin with the words "have mercy on me, O God."
+
+> Sometimes the psalm may include a protestation of innocence, e.g. ‘I wash my hands in innocence’ (Ps. 26:6) or a confession of sin, e.g. ‘For I know my transgressions, and my sin is ever before me’ (Ps. 51:3), though often neither is present.
+> Psalms, John Day, p 19
 
 Chapters 5-7, 13, 17, 22, 25, 26, 28, 31, 35, 36, 38, 39, 42, 43, 51, 54-57, 59, 61, 63, 64, 69-71, 86, 88, 102, 109, 120, 130, 140-143.
 
@@ -40,8 +43,6 @@ Chapters 5-7, 13, 17, 22, 25, 26, 28, 31, 35, 36, 38, 39, 42, 43, 51, 54-57, 59,
 ## Voicing Frustration to God
 
 (Read Psalm 13)
-
-In these psalms of lament we find many questions addressed to God.
 
 > Psalm 13:1 &mdash; How long wilt thou forget me, O Lord? for ever? how long wilt thou hide thy face from me?
 
