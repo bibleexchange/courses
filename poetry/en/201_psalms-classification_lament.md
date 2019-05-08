@@ -31,6 +31,8 @@ Chapters 12, 44, 58, 60, 74, 77, 79, 80, 82, 83, 85, 90, 94, 106, 108, 123, 126,
 
 Most of them begin with the words "have mercy on me, O God."
 
+In these psalms of lament we find many questions addressed to God.
+
 > Sometimes the psalm may include a protestation of innocence, e.g. ‘I wash my hands in innocence’ (Ps. 26:6) or a confession of sin, e.g. ‘For I know my transgressions, and my sin is ever before me’ (Ps. 51:3), though often neither is present.
 > Psalms, John Day, p 19
 
