@@ -98,13 +98,13 @@ Ireneusi alikuwa mwanafunzi wa Polikarpi. Baadaye alikuwa askofu wa Lionsi (huko
 
 ### Origen (185—254 BK)
 
-Origen alikuwa mwanadolijia, ambayo ina maana kwamba alisoma kutoka kwenye vyanzo vya kidunia, kama vile falsafa ya Kigiriki, na kutumia mawazo yao kwa kufikiri ya kidini.
+Origen alikuwa mwanadolijia, ambayo ina maana kwamba alisoma kutoka kwenye vyanzo vya kidunia, kama vile falsafa ya Kigiriki, na kutumia mawazo yao kwa kufikiria kidini.
 
 Aliamini kwamba kulikuwa na viwango vitatu vya maana ya Kibiblia: halisi, maadili, na ishara.
 
 ### Tertullian (150—229 BK)
 
-Tertullian alisema "Je, Athens inafanya nini na Yerusalemu?" Alikuwa akisema kuwa mawazo ya falsafa (Athens) hawakuweza kuongeza chochote kwenye mafundisho ya Ukristo (Yerusalemu). Hii ilikuwa shambulio dhidi ya mwanadolijia.
+Tertullian alisema "Je, Athene inafanya nini na Yerusalemu?" Alikuwa akisema kuwa mawazo ya falsafa (Athene) hawakuweza kuongeza chochote kwenye mafundisho ya Ukristo (Yerusalemu). Hii ilikuwa shambulio dhidi ya mwanadolijia.
 
 Aliamini kwamba mateso yalitoka kwa Mungu. Alidhani ilikuwa chombo kilichotenganisha waumini wa kweli kutoka kwa waongo.
 
@@ -132,21 +132,21 @@ Hakuna tarehe maalumu ambazo zinatambuliwa kama rasmi ambazo rasimu ya Agano Jip
 
 ### Wagnosti
 
-Wagnosti walifundisha kwamba watu wanaweza kuokolewa kwa elimu ya siri. Wanapata jina lao kutoka _Gnosis_, ambayo ni neno la Kigriki limaanishalo "elimu." Waliamini kwamba wokovu haukuwa uhuru kutoka kwa dhambi, lakini ilikuwa uhuru kutoka kwa ujinga.
+Wagnosti walifundisha kwamba watu wanaweza kuokolewa kwa ujuzi wa siri. Wanapata jina lao kutoka _Gnosis_, ambayo ni neno la Kigriki limaanishalo "ujuzi." Waliamini kwamba wokovu haukuwa uhuru kutoka dhambini, lakini ilikuwa uhuru kutoka kwa ujinga.
 
-Waliamini kwamba Yehova alikuwa mungu mwovu aliyeumba ulimwengu huu kama gereza kwa roho za wanadamu. Kwao, ulimwengu wa asili ulikuwa uovu, na hivyo roho za wanadamu zinapaswa kuporoka hilo kwa ujuzi huu wa siri. Ujuzi huu hauwezi kuja kutoka ulimwenguni, lakini wao njia ya kupokea ni kwa njia ya kukataa mwenyewe. Hawatashiriki ujuzi huu na watu nje ya kikundi chao.
+Waliamini kwamba Yehova alikuwa mungu mwovu aliyeumba ulimwengu huu kama gereza kwa roho za wanadamu. Kwao, ulimwengu wa asili ulikuwa uovu, na hivyo roho za wanadamu zinapaswa kuepuka hilo kwa ujuzi huu wa siri. Ujuzi huu hauwezi kuja kutoka ulimwenguni, lakini njia yao ya kupokea ni kwa njia ya kukataa mwenyewe. Hawatashiriki ujuzi huu na watu nje ya kikundi chao.
 
 ### Waebionaiti
 
-Waebionaiti waliendeleza mila na sheria za Musa na walijaribu kushawishi wengine wafanye vile vile pia. Walikuwa Wayahudi ambao walidhani kwamba Mataifa wanapaswa kubadili kwa Uyahudi. Wakamkataa Paulo kama mtume. Hawakuamini kwamba Yesu ni kimungu. Maandiko pekee ambayo walitumia kutoka Agano Jipya ni sura ya 3-28 ya Injili ya Mathayo. Hawakutumia sura mbili za kwanza za Injili, kwa sababu zinaonyesha Yesu kama Mwana wa Mungu.
+Waebionaiti waliendeleza mila na sheria za Musa na walijaribu kushawishi wengine wafanye vile vile pia. Walikuwa Wayahudi ambao walidhani kwamba Mataifa wanapaswa kubadilika kwa Uyahudi. Wakamkataa Paulo kama mtume. Hawakuamini kwamba Yesu ni uungu. Maandiko pekee ambayo walitumia kutoka Agano Jipya ni sura ya 3-28 ya Injili ya Mathayo. Hawakutumia sura mbili za kwanza za Injili, kwa sababu zinaonyesha Yesu kama Mwana wa Mungu.
 
 ### Wamarcioni
 
-Walikuwa wafuasi wa Marcioni. Kikundi hiki kilikuwa kinyume cha Waebionaiti. Wao walitaka Wakristo kujitenga kabisa na chochote kinachohusiana na Wayahudi. Marcion aliunda kanuni ya Biblia ambayo ilikuwa na injili tu ya Luka (ambaye alikuwa Mataifa) na nyaraka 10 za Paulo (zilizobadilishwa ili kuondoa kumbukumbu za Uyahudi). Hakupenda Mungu wa Agano la Kale.
+Walikuwa wafuasi wa Marcioni. Kikundi hiki kilikuwa kinyume cha Waebionaiti. Wao walitaka Wakristo kujitenga kabisa na chochote kinachohusiana na Wayahudi. Marcioni aliunda kanuni ya Biblia ambayo ilikuwa na injili tu ya Luka (ambaye alikuwa mtu wa Mataifa) na nyaraka kumi za Paulo (zilizobadilishwa ili kuondoa kumbukumbu za Uyahudi). Hakupenda Mungu wa Agano la Kale.
 
 ### Wamontani
 
-Walikuwa wafuasi wa Montanus (150-170 BK). Hii ilikuwa kundi la kinabii ambalo liliamini kwamba Roho Mtakatifu alizungumza mambo mapya kwa kanisa. Waliamini kwamba wanachama wa Utatu walifanya kazi kwa nyakati tofauti:
+Walikuwa wafuasi wa Montanusi (150-170 BK). Hii ilikuwa kundi la kinabii ambalo liliamini kwamba Roho Mtakatifu alizungumza mambo mapya kwa kanisa. Waliamini kwamba wanachama wa Utatu walifanya kazi kwa nyakati tofauti:
 
 * Baba alifanya kazi katika nyakati za Agano la Kale
 * Mwana alifanya kazi katika nyakati za Agano Jipya
@@ -154,4 +154,4 @@ Walikuwa wafuasi wa Montanus (150-170 BK). Hii ilikuwa kundi la kinabii ambalo l
 
 ### Wasabelliani (pia inajulikana kama Wamodali)
 
-Kundi hili liliamini kwamba kulikuwa na Mungu mmoja ambaye alikuwa na nafasi tatu (au fomu): Baba, Mwana, na Roho Mtakatifu.
+Kundi hili liliamini kwamba kulikuwa na Mungu mmoja ambaye alikuwa na nafasi tatu (au muundo): Baba, Mwana, na Roho Mtakatifu.

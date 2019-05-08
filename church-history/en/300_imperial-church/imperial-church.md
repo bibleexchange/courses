@@ -1,50 +1,42 @@
-# Three: The Imperial Church (AD 313—476)
+# Three: The Imperial Church (AD 313–476)
 
 From the Edict of Constantine to the Fall of Rome.
 
 ## Mixture and Pergamos
 
-_Pergamos_ means "married." The church was infiltrated by paganism, and became married to the world (Rev. 2:12—17). This infiltration of paganism would be the beginning of what would become the Roman Catholic Church.
-
-### "Dwellest where satan's seat is" (v. 13)
-
-The Emperor's throne was in Rome. The popes would rule out of Rome. The popes sat in satan's seat of authority to rule the Roman Catholic Church. The word _imperial_ means "autocratic rule," which is a ruler with absolute power or authority.
+_Pergamos_ means "married." The church was infiltrated by paganism, and became married to the world (Rev. 2:12—17). Church and state were also joined together.
 
 ### The doctrine of Balaam (v. 14)
 
-Balaam cast a stumbling block before Israel. He gave council to entice Israel to sin (Num. 31:1). The Scripture refers to him teaching Israel to eat things sacrificed to idols and to commit fornication. This Scripture is describing the events that would take place in the Imperial Church period. Balaam was already dead at the time when John received the Book of Revelation in AD 100. The Scripture is referring to the false doctrine spirit associated with Balaam that would be prevalent in this church period. The eating of things sacrificed to idols is in reference to the Roman Catholic wafer that was eaten by the Catholics and sacrificed each week in the mass.
+Balaam cast a stumbling block before Israel. He gave council to entice Israel to sin (Num. 31:16). The Scripture refers to him teaching Israel to eat things sacrificed to idols and to commit fornication. This Scripture is describing the events that would take place in the Imperial Church period. Balaam was already dead at the time when John received the Book of Revelation in AD 100. The Scripture is referring to the false doctrine spirit associated with Balaam that would be prevalent in this church period.
 
 ### Doctrine of Nicolaitans (v. 15)
 
-Remember, the word _Nicolaitanes_ means "to rule over the laity." This Scripture is in reference to the Romanist clergy who ruled harshly over the people.
+The Nicolaitans merged parts of Christianity with paganism.
 
 ## Constantine
 
 ### Constantine's Cross
 
-He battled Maxentius for the throne at theBattle of Milvan Bridge (AD 312). Constantine was outnumbered by the army ofMaxentius who also wanted the throne. The winner of this battle would be the next Emperor of Rome. Constantine claimed to have a vision of a cross, inscribed with the words, "In this sign conquer." Constantine made this cross the symbol of his army, and had it placed on the shields of his men. Archaeological evidence shows us this cross was the Egyptian ankh which is a cross with a loop on top. The ankh is the symbol for the sun God Ra. Baal is the sun God that was worshiped in the O.T. Constantine won the battle and became the Emperor of Rome. He was used of the devil to combine Christianity with Baal worship. The cross he stood for was not the cross of Christianity, but the ankh of Baal worship.
+He battled Maxentius for the throne at the Battle of Milvian Bridge (AD 312). Constantine was outnumbered by the army of Maxentius who also wanted the throne. The winner of this battle would be the next Emperor of Rome. Constantine claimed to have a vision of a cross, inscribed with the words, "In this sign conquer." The cross was the Greek letters _chi_ (Χ) and _rho_ (Ρ), which are the first two letters of the Greek word _Christos_ (ΧΡΙΣΤΟΣ), which is were we get our word "Christ." Constantine made this cross the symbol of his army, and had it placed on the shields of his men. Constantine won the battle and became the Emperor of Rome.
 
-### Constantine made a profession of faith and a supposed conversion to Christianity
+### Constantine made a profession of faith and converted to Christianity
 
-Many Christian historians have doubted the sincerity of his profession. Constantine continued to worship the sun God under the guise of Christianity. This mixing of paganism with Christianity would later become Roman Catholicism.
+Many Christian historians have doubted the sincerity of his profession.
 
 ### Edict of Toleration (Edict of Constantine) (AD 313) 
 
-An _edict_ is an official decree or document. This edict granted freedom to all religions in the empire ending the Roman persecution of Christianity. It restored to Christians property that had been seized during Diocletian's reign. Satan changed his tactics from persecution to infiltration.
-
-### Constantine was the first historical pope
-
-Constantine took the title of Pontifex Maximus, which is still the official title of the pope today. Peter was not the first pope. Paul's greeting to the Roman Church does not mention Peter as being there in Rome (Romans 16:1—15). Don't you think if Peter was there leading the Roman Church as the Catholics claim he was that Paul would have made mention of him in his greeting to the Roman Church. The book of Acts places Peter in Jerusalem when the church began. Peter was at the council of Jerusalem in AD 48. He was in Jerusalem not Rome.
+An _edict_ is an official decree or document. This edict granted freedom to all religions in the empire ending the Roman persecution of Christianity. It restored to Christians property that had been seized during Diocletian's reign.
 
 ## Results of Toleration of the Church
 
 ### The persecution of Christians ended
 
-Many people were deceived, and accepted another gospel of compromise. Christianity that flourished under persecution became worldly under government acceptance.
+Christianity that flourished under persecution became worldly under government acceptance.
 
 ### Churches seized during persecution were restored
 
-New churches were built. The Roman basilica became the pattern for elegant church buildings. The Basilica was a courtroom in the shape of a rectangle divided into isles by rows of pillars with a semi-circular platform at one end with seats for the officials. This is still the pattern today in theRoman Catholic Church. An example of this style of architecture is St. Peter's Basilica in Rome.
+New churches were built. The Roman basilica became the pattern for elegant church buildings. The basilica was a courtroom in the shape of a rectangle divided into isles by rows of pillars with a semi-circular platform at one end with seats for the officials. This is still the pattern today in the Roman Catholic Church. An example of this style of architecture is St. Peter's Basilica in Rome.
 
 ### The official sacrifices ceased
 
@@ -52,11 +44,11 @@ The Roman citizens were no longer required to make sacrifices to pagan gods.
 
 ### Churches were supported by the state
 
-The temples of the God s had been supported by the public treasury. This money was now given to the churches and the clergy.
+The temples of the gods had been supported by the public treasury. This money was now given to the churches and the clergy.
 
 ### Clergy received special privileges
 
-The Clergy became a wealthy class. Men desired these positions for the monetary gain and power associated with the position.
+The clergy became a wealthy class. Men desired these positions for the monetary gain and power associated with the position.
 
 ### Some parts of pagan worship were adopted by the church
 
@@ -68,7 +60,7 @@ Some people will say that Constantine started the Roman Catholic Church, but it 
 
 ### Constantine chose the Greek city of Byzantium for the new Capital and renamed it Constantinople (AD 330) 
 
-This increased the influence of the Roman bishop.The capital was now far away from Rome and the Empire was already in collapse. After Constantine's death the Roman bishop became the Pope.
+This increased the influence of the Roman bishop. The capital was now far away from Rome and the Empire was already in collapse.
 
 ### The division of the Empire soon followed the building of the new capital
 
@@ -84,13 +76,13 @@ This would become the Holy Roman Empire of the Middle Ages (AD 500&ndash;1500).
 
 ### Athanius (AD 296&ndash;373)
 
-He was a defender of the faith in the Arian controversy. Arius the leader of this false teaching did not believe in the Biblical doctrine of The Trinity. He became bishop of Alexandria in AD 325. In AD 367 he wrote a letter recognizing the N. T. cannon that we use today. He was exiled five times for his stand against Rome.
+He was a defender of the faith in the Arian controversy. Arius the leader of this false teaching did not believe in the Biblical doctrine of the Trinity. He became bishop of Alexandria in AD 325. In AD 367 he wrote a letter recognizing the New Testament cannon that we use today. He was exiled five times for his doctrine.
 
 ### John Chrysostom (AD 345&ndash;407)
 
-He was referred to as "the golden mouth," because of his eloquence as a speaker. He was a mighty preacher, a statesman, and an able expositor of the Bible. He became bishop of Constantinople in AD 398. He was banished for his stand for truth, and he died in exile.
+He was referred to as "the golden mouth," because of his eloquence as a speaker. He was a bold preacher, a statesman, and an able expositor of the Bible. He became bishop of Constantinople in AD 398. He was banished for his stand for truth, and he died in exile.
 
-### Augustine (AD 354-430)
+### Augustine (AD 354&ndash;430)
 
 Augustine said, "Our hearts are restless until they find rest in you." He became bishop of Hippo in North Africa in AD 395. He was a Chief defender of the faith in the Pelagian Controversy. This false teaching was promoted by Pelegius who did not believe in original sin. Augustine developed a reputation as a preacher, teacher, and writer. 
 
@@ -116,7 +108,7 @@ Patrick was a missionary from England to Ireland. He brought Christianity to Ire
 
 ## Key events of the period
 
-### The Council of Nicea (AD 325—460)
+### The Council of Nicea (AD 325–460)
 
 In the New Testament, especially the Gospel of John, we see that Jesus is equal with the Father, but there are not exact details given about the relationship between them. The question was, how could a person worship both Jesus and the Father and still be a monotheist (a person who believes in and worships only one god)?
 
@@ -163,6 +155,8 @@ The bishops created a statement of faith, which, after some additions made durin
 
 The creed says that Jesus is "light from light." How could you separate light from the sun? In the same way, how could you separate God (the Father) from God (the Son)?
 
+The council did not "create" the idea of the Trinity, since the Trinity was a part of church worship since the beginning (for example, it was used in the baptism rite). In Nicea they formed the vocabulary to describe what they already believed about God.
+
 ### The First Council at Ephesus (AD 431)
 
 The Council of Nicea resolved that Jesus was both God and man, but there were still questions about the nature of Jesus. How much of Him was God and how much was man? Did He have two minds? Could Jesus have sinned because of the human side? Two church leaders gave answers to these types of questions. They were Nestorius and Cyril.
@@ -183,9 +177,7 @@ Cyril was the bishop of Alexandria. While Nestorius emphasized more of the human
 
 Because Nestorius did not want to use the name _Mother of God_ for Mary, he was falsely accused by Cyril that he did not believe that Jesus was God. After some heated letters between them, a council of bishops was called to settle the debate.
 
-The council was largely motivated by political factors. The Second Ecumenical Council of 381 declared that the bishop of Constantinople would be second only to the Roman bishop (the pope). This angered some of the other bishops, including Cyril. So even though there were some legitimate questions about the doctrines of Nestorius, the council was also called because of jealousy of his position.
-
-Baraza liliathirika sana na mambo ya kisiasa. 
+The council was largely motivated by political factors. The Second Ecumenical Council of 381 declared that the bishop of Constantinople would be second only to the Roman bishop (the pope). This angered some of the other bishops, including Cyril, because it limited their power as bishops. So even though there were some legitimate questions about the doctrines of Nestorius, the council was also called because of jealousy of his position.
 
 The council decided against Nestorius and he was exiled as a heretic. Even though he was exiled, people continued to believe his doctrine and Nestorianism still exists today as a branch of Christianity.
 
@@ -193,12 +185,18 @@ While their were some differences of doctrine between Cyril and Nestorius, much 
 
 Though Nestorius was always considered a heretic, the Council of Chalcedon made decisions about the doctrine of Christ that closer to the ideas of Nestorius. Nestorius was also correct about how the name _Mother of God_ would exalt Mary to a position that was more than she deserved. Over many years, we see the tradition of the Roman Catholic Church move Mary into the place where she is almost considered divine.
 
+### The Council of Constantinople (AD 381)
+
+Some people did not believe that the Holy Spirit was God, because He did not speak for Himself. They said that He was not a person, but a spiritual force. This council was called to prove the divinity of the Spirit.
+
 ### The Council of Chalcedon (AD 451)
 
-This council was the final ecumenical council dealing with the dual-nature of Jesus. In it, it was declared that Christ is "acknowledged in two natures, without confusion, without change, without division, without separation... the characteristic property of each nature being preserved, and coming together to form one person." Following is the full text of the definition made at Chalcedon:
+This council was the final ecumenical council dealing with the dual-nature of Jesus. Its purpose was to finish the debate on the Trinity. In it, it was declared that Christ is "acknowledged in two natures, without confusion, without change, without division, without separation... the characteristic property of each nature being preserved, and coming together to form one person." Following is the full text of the definition made at Chalcedon:
 
 > Therefore, following the holy fathers, we all with one accord teach men to acknowledge one and the same Son, our Lord Jesus Christ, at once complete in Godhead and complete in manhood, truly God and truly man, consisting also of a reasonable soul and body; of one substance with the Father as regards his Godhead, and at the same time of one substance with us as regards his manhood; like us in all respects, apart from sin; as regards his Godhead, begotten of the Father before the ages, but yet as regards his manhood begotten, for us men and for our salvation, of Mary the Virgin, the God-bearer; one and the same Christ, Son, Lord, Only-begotten, recognized in two natures, without confusion, without change, without division, without separation; the distinction of natures being in no way annulled by the union, but rather the characteristics of each nature being preserved and coming together to form one person and subsistence, not as parted or separated into two persons, but one and the same Son and Only-begotten God the Word, Lord Jesus Christ; even as the prophets from earliest times spoke of him, and our Lord Jesus Christ himself taught us, and the creed of the fathers has handed down to us.
 
 (https://www.monergism.com/definition-council-chalcedon-451-ad accessed on 2018/09/03)
+
+Since Nicea, the church emphasized that Jesus shared nature with the Father, but now they added to this how Jesus also shared nature with man.
 
 It was the first council in which the pope played a major role, and the last that both East and West would regard as official.

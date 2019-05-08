@@ -1,6 +1,6 @@
-# Four: The Medieval Church
+# Four: The Medieval Church (AD 476—1453)
 
-(AD 476 — 1453) From the fall of Rome to the fall of Constantinople.
+From the fall of Rome to the fall of Constantinople.
 
 ## The Medieval Church was Characterized by Thyatira (2:18&ndash;29)
 
@@ -8,7 +8,7 @@
 
 Roman Catholic doctrine states that Christ instituted the Eucharist as an atoning or propitiatory work.
 
-"The victim is one and the same: …only the manner of offering is different. And since in this divine sacrifice which is celebrated in the Mass, the same Christ who offered himself once in a bloody manner on the altar of the cross is contained and offered in an unbloody manner… this sacrifice is truly propitiatory" (Doctrinade ss. Missae sacrificio, c. 2, quoted in Catechism of the CatholicChurch, 1367) [Christ instituted the Eucharist]. He did this in order to perpetuate the sacrifice of the Cross throughout the centuries until he should come again. (1992 Catechism of the Roman Catholic Church)
+"The victim is one and the same: …only the manner of offering is different. And since in this divine sacrifice which is celebrated in the Mass, the same Christ who offered himself once in a bloody manner on the altar of the cross is contained and offered in an unbloody manner… this sacrifice is truly propitiatory" (Doctrinade ss. Missae sacrificio, c. 2, quoted in Catechism of the Catholic Church, 1367) [Christ instituted the Eucharist]. He did this in order to perpetuate the sacrifice of the Cross throughout the centuries until he should come again. (1992 Catechism of the Roman Catholic Church)
 
 Thyatira means continual sacrifice. This refers to the Roman Catholic mass or Eucharistic celebration. The mass became a continual sacrifice for the living and the dead. Roman Catholic doctrine claims that the wafer and wine literally turn into the body and blood of Jesus and must be "perpetually offered" until His return for there to be atonement for sin. Although they would rather say that mass is not so much a "continual sacrifice" as a "perpetual re–presenting' of the blood and body of Christ, they in practice denounce the sufficiency and sovereignty of Christ's work on the cross in requiring any further work. We by faith receive the atoning work of Christ because his sacrificial death was sufficient. The keeping of the Lord's Supper is not an atoning work or propitiatory, but is a memorial feast and act of obedience. Jesus offered Himself once and for all (Heb. 7:27) and his death and resurrection are memorialized in communion. There is no propitiation necessary beyond Christ's ministry on the cross.
 

@@ -1,46 +1,38 @@
-# Tatu: Kanisa la Kifalme (313—476 BK)
+# Tatu: Kanisa la Kifalme (313–476 BK)
 
 Tangu kutolewa Hati ya Constantino mpaka angukola Roma.
 
 ## Mchanganyiko na Pergamos
 
-_Pergamo_ maana yake aliyeolewa. Kanisa liliingiliwa na upagani na likaolewa na ulimwengu (Ufunuo2:12&ndash;17). Upagani huu ukawa ndio mwanzo wa kilichokuja kuitwa baadaye Kanisa Katoliki la Roma.
-
-### "yake linaishi kilipo kiti cha Shetani" (mst. 13)
-
-Kiti cha enzi cha Mfalme wa Warumi kilikuwa Roma. Mapapa nao watatawala kutoka Roma. Mapapa waliketi katika kiti cha mamlaka cha shetani na kulitawala Kanisa Katoliki la Roma. Neno _kifalme_ maana yake ni utawala wa mtu mmoja ambaye ana nguvu kamili au mamlaka yote.
+_Pergamo_ maana yake aliyeolewa. Kanisa liliingiliwa na upagani na likaolewa na ulimwengu (Ufunuo2:12&ndash;17). Kanisa na serikali pia viliunganishwa pamoja.
 
 ### Kanuni ya Balaam (mst. 14)
 
-Balaam aliweka jiwe kubwa mbele ya Israeli. Alitoa wazo la kuishauri Israeli itende dhambi (Hesabu 31:1). Maandiko yanasema kwamba aliwafundisha Wasraeli kula vitu vilivyotolewa sadaka kwamiungu na kunajisi. Maandiko pia yanazungumzia mambo yatakayotokea katika kipindi kanisa la Kifalme. Maandiko hayo yana maana ni kanuni za uongo ambazo zinazomhusisha Balaam zitakazoenea sana wakati wa kipindi hiki cha kanisa. Ulaji wa vitu vilivyoandaliwa kuwaenzi miungu wa uongo inalihusu Kanisa Katoliki la Roma kama komunio ambazo zililiwa na Wakatoliki na hutolewa kila wiki katika misa.
+Balaam aliweka jiwe kubwa mbele ya Israeli. Alitoa wazo la kuishauri Israeli itende dhambi (Hesabu 31:16). Maandiko yanasema kwamba aliwafundisha Wasraeli kula vitu vilivyotolewa sadaka kwamiungu na kunajisi. Maandiko pia yanazungumzia mambo yatakayotokea katika kipindi kanisa la Kifalme. Maandiko hayo yana maana ni kanuni za uongo ambazo zinazomhusisha Balaam zitakazoenea sana wakati wa kipindi hiki cha kanisa.
 
-### Kanuni ya Wanikolaiti (mst. 5)
+### Kanuni ya Wanikolaiti (mst. 15)
 
-Ikumbukwe kwamba Nikolaitani maana yake nitawala juu ya raia. Maandiko haya ni ya kuhusiana na wachungaji wa Kirumi ambao waliwatawala raia kwa ukatili mkubwa.
+Wanikolai waliunganisha sehemu za Ukristo na upagani.
 
 ## Konstantino
 
 ### Msalaba wa Konstantino
 
-Alipigana vita na Maksentiusi kugombea ufalme katika mapigano ya Daraja la Milvani na mwaka 312 BK. Jeshi lake lilizidiwa nguvu na askari wa Maksentiusi ambaye aliutaka pia ufalme. Mshindi wa vita hii angekuwa mfalme ajaye wa Roma. Konsitantino alidai kuwa na maono ya msalaba ulioandikwa maneno, "katika alama hii shinda vita." Konstantino alifanya alama hii ya msalaba kuwa alama ya jeshi lake, na akaiweka katika ngao za askari wake. Waakiolojia wanathibitisha kwamba ushahidi unaonesha kwamba msalaba huu ulikuwa ni alama ya Kimisri ambayo ni msalaba wenye fundo juu yake. Alama hiyo ndiyo inayomtambulisha mungu—jua aitwaye Ra. Baali ndiye kimungu—jua kilichoabudiwa katika Agano la kale. Konstantino alishinda vita ile na akawa Mfalme wa Warumi. Alitumiwa na shetani kuuchanganya imani ya kikristona ya kimungu kiitwacho Baali. Msalaba aliosimamia haukuwa msalaba waukristo bali ni ile alama ya kimungu—jua Baali.
+Alipigana vita na Maksentiusi kugombea ufalme katika mapigano ya Daraja la Milviani na mwaka 312 BK. Jeshi lake lilizidiwa nguvu na askari wa Maksentiusi ambaye aliutaka pia ufalme. Mshindi wa vita hii angekuwa mfalme ajaye wa Roma. Konsitantino alidai kuwa na maono ya msalaba ulioandikwa maneno, "katika alama hii shinda vita." Msalaba ulikuwa barua za Kigiriki _chi_ (Χ) na _rho_ (Ρ), ambazo ni barua mbili za kwanza za neno la Kigiriki _Christos_ (ΧΡΙΣΤΟΣ), ambalo tulipata neno letu "Kristo." Konstantino alifanya alama hii ya msalaba kuwa alama ya jeshi lake, na akaiweka katika ngao za askari wake. Konstantino alishinda vita ile na akawa Mfalme wa Warumi.
 
 ### Konstantini alifanya muafaka wa imani na hii akachukuliwa kama aliyeingia ukristo
 
-Wanahistoria wengi wa kikristo walitilia shaka uaminifu wake. Konstantino aliendelea kuabudu kimungu—jua kwa kuulaghai ukristo. Mchanganyiko huu wa upagani na ukristo baadaye ukawa Ukatoliki wa Roma.
+Wanahistoria wengi wa kikristo walitilia shaka uaminifu wake.
 
 ### Hati ya Uvumilivu (Hati ya Konstantini)  (313 BK)
 
-Hati ni amri rasmi au waraka maalumu. Hati hii ilitoa uhuru kwa dini zote katika Ufalme wa Kirumi na ikasimamisha mateso yote ya Warumi kwa Wakristo. Mali zote zilizokamatwa wakati wa utawala wa Mfalme Diokletiani zilirudishiwa wenyewe. Shetani alibadili mbinu kutoka mateso kwa Wakristo ikawa mbinu mpya ni kujipenyeza.
-
-### Konstantino alikuwa papa wa kwanza katika Historia
-
-Konstantino alijichukulia jina la Pontifeksi Maksimo ambalo hadi leo ndio jina rasmi la papa. Petro hakuwa papa wa kwanza. Salamu za Paulo kwa kanisa la Roma hazimtaji Petro kwamba alikuwa Roma (Warumi 16:1—15). Hudhani kwamba Petro angalikuwepo huko akiliongoza kanisa la Roma kama Wakatoliki wanavyodai Paulo angemtaja katika salamu zake kwa kanisa la Rumi. Kitabu cha Matendo kinamweka Petro Yerusalemu wakati kanisa lilipoanza. Petro alikuwa katika baraza la Yerusalemu na siyo Roma.
+Hati ni amri rasmi au waraka maalumu. Hati hii ilitoa uhuru kwa dini zote katika Ufalme wa Kirumi na ikasimamisha mateso yote ya Warumi kwa Wakristo. Mali zote zilizokamatwa wakati wa utawala wa Mfalme Diokletiani zilirudishiwa wenyewe.
 
 ## Matokeo ya kuvumiliwa kwa kanisa
 
 ### Mateso kwa Wakristo yalikoma
 
-Watu wengi walidanganywa na wakakubali injili nyingine ya muafaka. Ukristo uliostawi katika kipindi cha mateso uligeuka wa kidunia chini ya maelewano na serikali
+Ukristo uliostawi katika kipindi cha mateso uligeuka wa kidunia chini ya maelewano na serikali
 
 ### Makanisa yaliyokamatwa wakati wa mateso yalirudishiwa hadhi yake
 
@@ -68,13 +60,13 @@ Baadhi ya watu watasema Konstantino alianzisha Kanisa la Kikatoliki, lakini lazi
 
 ### Mfalme Konstantino alichagua mji wa Ugriki uitwao Baizantiamu kuwa mji wake mkuu na akauita Konstantinopo (330 BK)
 
-Hali hii ilimwongezea ushawishi askofu wa Roma. Sasa mji mkuu ukawa ukombali sana na Roma na ile Himaya ikiwa imeshaporomoka. Baada  tu ya kifo cha Konstantino askofu wa Roma akawa Papa.
+Hali hii ilimwongezea ushawishi askofu wa Roma. Sasa mji mkuu ukawa ukombali sana na Roma na ile Himaya ikiwa imeshaporomoka.
 
 ### Kugawanywa kwa himaya hiyo kulifuatiwa na ujenzi wa mji mkuu mwingine
 
 Mfalme mmoja peke yake hakuweza tena kulitawala eneo lote kwani lilikuwa kubwa mno. Bahari ya Adriati ikawa ndio mpaka wa asili kati ya sehemu mbili za himaya hiyo. Mwaka wa 395 baada ya Kristo himaya ya Kirumi iligawanyika rasmi kuwa Himaya ya Mashariki na Himaya Magharibi.
 
-### Himaya ya Mashariki ilimokuwa Roma kama mji wake mkuu iliendelea kuwepo hadi mwaka 476 BK
+### Himaya ya Magharibi ilimokuwa Roma kama mji wake mkuu iliendelea kuwepo hadi mwaka 476 BK
 
 ### Himaya ya Mashariki iliyokuwa na Konstantinopo kama mji mkuu ilikuwepo hadi mwaka 1453 BK
 
@@ -82,15 +74,15 @@ Hii ndio baadaye ikageuzwa kuwa Himaya Takatifu ya Roma ya Nyakati za Kati kuanz
 
 ## Viongozi wakuu wa Kikristo wa kipindi hiki
 
-### Atanasi (296—373 BK)
+### Atanasi (296–373 BK)
 
-Alikuwa mlinzi wa imani katika ubishani wa Ariani. Aria ambaye aliongoza mafundisho ya uongo hakuamini kanuni ya Biblia ya Utatu. Alikuwa Askofu wa Alexandria tangu mwaka 325 baada ya Kristo. Alipelekwa uhamishoni mara tano kwa sababu ya msimamo wake wa kupingana na uongozi wa Roma. Mnamo 367 BK yeye aliandika barua kutambua kanuni za A. J. ambazo tunatumia leo.
+Alikuwa mlinzi wa imani katika ubishani wa Ariani. Aria ambaye aliongoza mafundisho ya uongo hakuamini kanuni ya Biblia ya Utatu. Alikuwa Askofu wa Alexandria tangu mwaka 325 baada ya Kristo. Mnamo 367 BK yeye aliandika barua kutambua kanuni za A. J. ambazo tunatumia leo. Alipelekwa uhamishoni mara tano kwa sababu ya mafundisho yake.
 
-### Yohana Krisostomu (345—407 BK)
+### Yohana Krisostomu (345–407 BK)
 
 Huyu anajulikana kama "mdomo wa dhahabu" kwa sababu aliweza kuongea kwa ufasaha wa ajabu. Alikuwa mhubiri shupavu, kiongozi watu na mwenye uwezo mzuri wa kuifafanua Biblia. Alikuwa askofu wa Konstantinopo mwaka 398 BK. Alifukuzwa nchini kutokana na msimamo wake wa kusema ukweli na alifia uhamishoni.
 
-### Augustino (354—430 BK)
+### Augustino (354–430 BK)
 
 Augustino alisema, "Mioyo yetu haina pumziko hadi imekupata wewe." Alikuwa Askofu wa Hippo huko Afrika Kaskazini mwaka 395 BK. Yeye ndiye mtetezi Mkuu wa ubishani wa Pelagia. Mafundisho haya ya uongo yalipambwa na Pelagio ambaye hakuamini dhambi ya asili. Augustino alijenga jina lake kama mhubiri, mwalimu na mwandishi. Yeye alijihusisha katika changamoto nyingi za siku zake (mfano wa Udonatismu na Upelagiasmu).
 
@@ -102,9 +94,9 @@ Wakati mtawala Theodosi kwenye uwanja wa watu waliouawa, Ambrosi aliwasiliana na
 
 Tunaona maendeleo ya uhusiano wa kanisa na serikali:
 
-1. Kanisa < Serikali
-2. Kanisa = Serikali
-3. Kanisa > Serikali
+1. Kanisa < Serikali (kanisa lilikuwa ndogo kuliko serikali)
+2. Kanisa = Serikali (kanisa lilikuwa sawa na serikali)
+3. Kanisa > Serikali (kanisa lilikuwa kubwa kuliko serikali)
 
 ### Yeromi
 
@@ -116,7 +108,7 @@ Patriki alikuwa mmishenari kutoka Uingereza kwenda Ireland. Aliuleta ukristo huk
 
 ## Matukio ya ufunguo wa kipindi
 
-### Baraza la Nikia (325—460 BK)
+### Baraza la Nikia (325–460 BK)
 
 Katika Agano Jipya hasa hasa injili ya Yohana, tunaona kuwa Yesu yuko sawa na Baba, lakini hakuna habari za moja kwa moja kuhusu uhusiano wao. Swali lilikuwa kwamba vipi mtu aweza kuabudu wote Yesu na Baba hata sasa bado kuna swali hili kwa (mtu wanaoamini kwa mungu moja na kumwabudu)?
 
@@ -124,7 +116,7 @@ Ario, aliyekuwa ni mzee katika Alexandria, alianza kuhubiri mnamo mwaka 318 BK k
 
 Mjadala huu wa kidini ulimpata Constantino, kwa sababu vurugu zilianza kwa sababu hiyo. Mnamo mwaka 325 BK Constantino aliita baraza katika Nikia kutatua mjadala ulioibuliwa na Ario. Maasikofu zaidi ya 300 walihudhuria.
 
-Maaskofu walitengeneza maelezo ya imani, ambayo, baada ya nyogeza zingine zilizofanywa kipindi cha Konstantinopo mnamo mwaka 381, ikajulikana kama shahada ya Nikia. Wote walitolewa pamoja na Ario ispokuwa Maaskofu wawili tuu walitia saini maelezo ya imani. Kifwatacho ni kifungu kamili cha shahada:
+Maaskofu walitengeneza maelezo ya imani, ambayo, baada ya nyogeza zingine zilizofanywa kipindi cha Konstantinopo mnamo mwaka 381, ikajulikana kama shahada ya Nikia. Wote walitolewa pamoja na Ario ispokuwa Maaskofu wawili tuu walikataa saini maelezo ya imani. Kifwatacho ni kifungu kamili cha shahada:
 
 > Nasadiki kwa Mungu mmoja,  
 > Baba mwenyezi,  
@@ -163,6 +155,8 @@ Maaskofu walitengeneza maelezo ya imani, ambayo, baada ya nyogeza zingine zilizo
 
 Shahada inasema Yesu ni "Nuru kutoka Nuru." Je unawezaje kutenga nuru na jua? Kwa mfano huo huo je unawezaje kumtenga Mungu (Baba) kutoka Mungu (Mwana)?
 
+Baraza haikujenga wazo la Utatu, tangu Utatu ilikuwa sehemu ya ibada ya kanisa tangu mwanzo (kwa mfano, ilitumika katika ibada ya ubatizo). Kwa Nicea waliunda msamiati kuelezea yale waliyoamini tayari kuhusu Mungu.
+
 ### Baraza la kwanza huko Efeso (431 BK)
 
 Baraza la Nikia liliamua kwamba Yesu alikuwa Mungu pia mwanadamu lakini kulibakia maswali kuhusu asili ya Yesu. Yeye ni Mungu kwa kiasi gani? Je, Yesu aliwahi kufanya dhambi kwa upande kibinadamu? Je, yeye ana akili mbili? Yesu angeweza kutenda dhambi kwa kuwa alikuwa mwanadamu? Viongozi wa wawili wa kanisa walitoa majibu kuhusu aina hizi za maswali. Walikuwa ni Nestorius na Cyril.
@@ -181,22 +175,28 @@ Cyril alikuwa askofu wa Alexandria. Wakati Nestorius alisisitiza zaidi nafsi wa 
 
 #### Uamuzi wa baraza
 
-Kwa sababu Nestorius hakutaka kutumia jina _Mama wa Mungu_ kwa Maria, alipigwa mashtaka na Cyril kwamba hakuamini kwamba Yesu alikuwa Mungu. Baada ya barua zenye hasira kati yao, baraza la maaskofu liliitwa kutatua mjadala huo.
+Kwa sababu Nestorius hakutaka kutumia jina _Mama wa Mungu_ kwa Maria, alitunguliwa mashtaka na Cyril kwamba hakuamini kwamba Yesu alikuwa Mungu. Baada ya barua zenye hasira kati yao, baraza la maaskofu liliitwa kutatua mjadala huo.
 
-Baraza lilivutia kwa kiasi kikubwa kwa sababu za kisiasa. Baraza la Pamoja la 381 liltangaza kwamba Askofu wa Constantinopo atakuwa askofu wa pili pekee wa Roma (papa). Hasira za baadhi za maaskofu wengine, akiwemo Cyril. Pamoja na hivyo kulikuwa na maswali kuhusu mafundisho ya Nestorius, baraza pia liliitwa kwasababu ya wivu wa madaraka yake.
+Baraza lilivutia kwa kiasi kikubwa kwa sababu za kisiasa. Baraza la Pamoja la 381 liltangaza kwamba Askofu wa Constantinopo atakuwa askofu wa pili pekee wa Roma (papa). Hasira za baadhi za maaskofu wengine, akiwemo Cyril, kwa sababu ilizuia nguvuu wao kama maaskofu. Pamoja na hivyo kulikuwa na maswali kuhusu mafundisho ya Nestorius, baraza pia liliitwa kwasababu ya wivu wa madaraka yake.
 
-Baraza liliamua kinyume cha Nestorius na alikuwa uhamishoni kama mrithi. pamojana hivyo alihamishwa, watu waliendelea kuamini mafundisho yake na Unestoria bado upo leo kama tawi la Ukristo.
+Baraza liliamua kinyume cha Nestorius na alikuwa uhamishoni kama mrithi. Pamojana hivyo alihamishwa, watu waliendelea kuamini mafundisho yake na Unestoria bado upo leo kama tawi la Ukristo.
 
-Japokuwa kulikuwa na baadhi ya tofauti ya mafundisho kati ya Cyril na Nestorius, kwa kiasi kidogo hawakukubaliana kw jinsi ya uhamasishaji wa baadhi ya sehemu ya mafundisho ya Kristo na maajabu ya makubaliano yangewea kuwepo kama wangekaa kuongea pamoja kuhusu mawazo yao. Wote wawili walikuwa na wasiwasi wa kulinda imani dhidi ya mafundisho ya uwongo. Wakati haiwezekani kujua, hatuwezi kushangaa makubaliano gani ambayo wangeweza kuja nao ikiwa walisema pamoja kuhusu mawazo yao.
+Japokuwa kulikuwa na baadhi ya tofauti ya mafundisho kati ya Cyril na Nestorius, kwa kiasi kidogo hawakukubaliana kw jinsi ya uhamasishaji wa baadhi ya sehemu ya mafundisho ya Kristo na maajabu ya makubaliano yangeweza kuwepo kama wangekaa kuongea pamoja kuhusu mawazo yao. Wote wawili walikuwa na wasiwasi wa kulinda imani dhidi ya mafundisho ya uwongo. Wakati haiwezekani kujua, hatuwezi kushangaa makubaliano gani ambayo wangeweza kuja nao ikiwa walisema pamoja kuhusu mawazo yao.
 
-Ingawa Nestorius mara zote alihusishwa mhamiaji, baraza la Kalsedoni lilifanya maamuzi kuhusu mafundisho ya Kristo ambayo yalikuwa karibu na mawazo ya Nestorius. Nestorius pia alikuwa sahihi kuhusu ni namna gani _Mama wa Mungu_ alimtukuza Maria katika nafasi ambayo ilikuwa ni zaidi ya udanganyifu. Kwa miaka mingi, tumeona mila ya Kanisa la Katoliki la Kirumi likimtoa Maria katika nafasi aliyokuwa zaidi wamejihusisha kwa kimungu.
+Ingawa Nestorius mara zote alihusishwa mhamiaji, baraza la Kalsedoni lilifanya maamuzi kuhusu mafundisho ya Kristo ambayo yalikuwa karibu na mawazo ya Nestorius. Nestorius pia alikuwa sahihi kuhusu ni namna gani _Mama wa Mungu_ walimtukuza Maria katika nafasi ambayo ilikuwa ni zaidi ya madai. Kwa miaka mingi, tumeona mila ya Kanisa la Katoliki la Kirumi likimtoa Maria katika nafasi aliyokuwa zaidi wamejihusisha kwa kimungu.
+
+### Baraza ya Konstantinople (381 BK)
+
+Watu wengine hawakuamini kwamba Roho Mtakatifu alikuwa Mungu, kwa sababu Yeye hakuzungumza yeye Mwenyewe. Walisema kwamba hakuwa nafsi, bali nguvu ya kiroho. Baraza hii iliitwa ili kuthibitisha uungu wa Roho.
 
 ### Baraza ya Chalcedon (451 BK)
 
-Huu ndio baraza la mwisho la makanisa yote yaliyokuwa kuhusu mbili-asili ya Yesu. Ndani yake, ilitangazwa kuwa Kristo ni "atambuliwe katika asili mbili, bila kuchanganyikiwa, kugeuzwa, kugawanywa, kutengwa... bali hulka ya kila asili ikihifadhiwa na kukubaliana katika mmoja na katika dutu moja, si kugawanywa au kutengwa kuwa wawili, bali mwana huyo mmoja." Kufuatia ni maandishi kamili ya imani iliyotolewa kwa Chalcedon:
+Hili ndio baraza la mwisho la makanisa yote yaliyokuwa kuhusu asili-mbili za Yesu. Kusudi lake lilikuwa kumaliza mjadala juu ya Utatu. Ndani yake, ilitangazwa kuwa Kristo ni "atambuliwe katika asili mbili, bila kuchanganyikiwa, kugeuzwa, kugawanywa, kutengwa... bali hulka ya kila asili ikihifadhiwa na kukubaliana katika mmoja na katika dutu moja, si kugawanywa au kutengwa kuwa wawili, bali mwana huyo mmoja." _Dutu_ maana "vifaa." Kufuatia ni maandishi kamili ya imani iliyotolewa kwa Chalcedon:
 
-> Sisi, basi, tukiwafuata baba zetu watakatifu, sote kwa ridhaa moja, twafunza watu kukiri Mwana yule mmoja, Bwana wetu Yesu Kristo, yeye mkamilifu katika utatu na pia katika ubinadamu; Mungu kweli na binadamu kweli, mwenye roho na mwili zote kamili kawaida; hususan na Baba kulingana na utatu, hususan kama sisi kibinadamu; katika vyote kama sisi, bila dhambi, wa pekee wa Baba kabla ya nyakati kulingana na utatu, na siku hizi za baadaye, kwa ajili yetu na wokovu wetu, mzaliwa wa bikira Maria, mama ya Mungu, kibinadamu; Kristo mmoja yule, Mwana, Bwana, wa pekee, atambuliwe katika asili mbili, bila kuchanganyikiwa, kugeuzwa, kugawanywa, kutengwa; tofauti katika asili isiwe nafasi ya kubatilisha hali ya umoja, bali hulka ya kila asili ikihifadhiwa na kukubaliana katika mmoja na katika dutu moja, si kugawanywa au kutengwa kuwa wawili, bali mwana huyo mmoja, pekee, Mungu Neno, Bwana Yesu Kristo; vile manabii tokea mwanzo (wamefunza) kumhusu, na Bwana Yesu Kristo ametufunza, na imani ya baba watakatifu tuliyoachiwa.
+> Sisi, basi, tukiwafuata baba zetu watakatifu, sote kwa ridhaa moja, twafunza watu kukiri Mwana yule mmoja, Bwana wetu Yesu Kristo, yeye mkamilifu katika utatu na pia katika ubinadamu; Mungu kweli na binadamu kweli, mwenye roho na mwili zote kamili kawaida; hususan na Baba kulingana na utatu, hususan kama sisi kibinadamu; katika vyote kama sisi, bila dhambi, wa pekee wa Baba kabla ya nyakati kulingana na utatu, na siku hizi za baadaye, kwa ajili yetu na wokovu wetu, mzaliwa wa bikira Maria, mama [wa] Mungu, kibinadamu; Kristo mmoja yule, Mwana, Bwana, wa pekee, atambuliwe katika asili mbili, bila kuchanganyikiwa, kugeuzwa, kugawanywa, kutengwa; tofauti katika asili isiwe nafasi ya kubatilisha hali ya umoja, bali hulka ya kila asili ikihifadhiwa na kukubaliana katika mmoja na katika dutu moja, si kugawanywa au kutengwa kuwa wawili, bali mwana huyo mmoja, pekee, Mungu Neno, Bwana Yesu Kristo; vile manabii tokea mwanzo (wamefunza) kumhusu, na Bwana Yesu Kristo ametufunza, na imani ya baba watakatifu tuliyoachiwa.
 
 (http://www.cprf.co.uk/languages/chalcedon_swahili.html#.W4zxCegzbb1 accessed on 2018/09/03)
+
+Tangu Nikia, kanisa lilikazia kwamba Yesu alishiriki asili na Baba, lakini sasa waliongeza kwa hili jinsi Yesu pia alishiriki asili na mtu.
 
 Ilikuwa ni baraza la kwanza ambalo papa alicheza jukumu kubwa, na ilikuwa baraza la mwisho ambalo Mashariki na Magharibi wote watatambua rasmi.

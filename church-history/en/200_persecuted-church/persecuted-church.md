@@ -100,7 +100,7 @@ Ireneus was a student of Polycarp. He became bishop of Lyons (in Gaul) in AD 177
 
 Origen was a humanist, which means that he read from secular sources, such as the Greek philosophers, and applied their ideas to religious thinking.
 
-He believed that there were three levels of Biblical meaning: literal, moral, and allegorical.
+He believed that there were three levels of biblical meaning: literal, moral, and allegorical.
 
 ### Tertullian (AD 150—229)
 
@@ -142,7 +142,7 @@ Ebionites continued in the ceremonial Law of Moses, and were trying to influence
 
 ### Marcionism
 
-They were followers of Marcion. This group was like the opposite of the Ebionites. They wanted Christians to completely separate from anything pertaining to the Jews. Marcion created a canon of the Bible that had only the Gospel of Luke (who was a Gentile) and 10 of Paul's letters (which were edited to remove references to Judaism). He did not like the God of the Old Testament.
+They were followers of Marcion. This group was like the opposite of the Ebionites. They wanted Christians to completely separate from anything pertaining to the Jews. Marcion created a canon of the Bible that had only the Gospel of Luke (who was a Gentile) and ten of Paul's letters (which were edited to remove references to Judaism). He did not like the God of the Old Testament.
 
 ### Montanism
 

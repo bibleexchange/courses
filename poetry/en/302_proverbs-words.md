@@ -125,10 +125,7 @@ It should be our desire to unite people, and not to divide them. Our words often
 
 #### Sometimes it is best not to talk about someone's sin
 
-If we know about someone's sin we should not tell everyone about it (Proverbs 17:9; 10:12). Many times we use prayer requests as an opportunity to share about other peoples mistakes and sins. When you choose not to talk about what someone has done, then, by default, you have chosen to cover it. We should not lie to protect someone, and if there is someone else that is in danger because of the person's sin, then we should speak up about it.
-
-See also Proverbs 10:18, and 11:12, and 25:23.
-
+If we know about someone's sin we should not tell everyone about it (Proverbs 17:9; 10:12). Many times we use prayer requests as an opportunity to share about other peoples mistakes and sins. When you choose not to talk about what someone has done, then, by default, you have chosen to cover it. We should not lie to protect someone, and if there is someone else that is in danger because of the person's sin, then we should speak up about it. See also Proverbs 10:18, and 11:12, and 25:23.
 
 ### Flattery is deceiving
 

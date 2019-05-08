@@ -1,6 +1,6 @@
-# Nne: Kanisa la Zama za Enzi za Kati
+# Nne: Kanisa la Zama za Enzi za Kati (476—1473 BK)
 
-(476 — 1473 baada ya Kristo) Toka anguko la Roma hadi anguko la Konstatinopo.
+Toka anguko la Roma hadi anguko la Konstatinopo.
 
 ## Kanisa la zama za enzi kati lilifanana tabia na Thiatira (2:18&ndash;29)
 
