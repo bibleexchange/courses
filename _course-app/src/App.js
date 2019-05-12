@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import { Switch, Route } from 'react-router-dom'
+import { Switch, Route, Link } from 'react-router-dom'
 import Home from './Components/Home'
 import Course from './Components/Course'
 import Task from './Components/Task'
@@ -27,7 +27,7 @@ class App extends Component {
 
 		</Switch>
         <header className="App-header">
-          <h1 className="App-title">From the Bible exchange Courses Repository</h1>
+         <h1 className="App-title"><Link to={"/"}>From the Bible exchange Courses Repository</Link></h1>
         </header>
       </div>
     );
