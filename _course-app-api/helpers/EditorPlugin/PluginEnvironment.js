@@ -3,7 +3,7 @@ const VimeoService = require("./services/VimeoService");
 const VineService = require("./services/VineService");
 const PreziService = require("./services/PreziService");
 const BibleExchangeService = require("./services/BibleExchangeService");
-const ScriptureLinkService = require("./services/ScriptureLinkService");
+//const ScriptureLinkService = require("./services/ScriptureLinkService");
 const GoogleSlideService = require("./services/GoogleSlideService");
 const SoundCloudService = require("./services/SoundCloudService");
 
@@ -23,7 +23,7 @@ class PluginEnvironment {
       "vine": VineService,
       "prezi": PreziService,
       "be":BibleExchangeService,
-      "verse": ScriptureLinkService,
+      //"verse": ScriptureLinkService,
       "gslide":GoogleSlideService,
       "soundcloud":SoundCloudService
     };

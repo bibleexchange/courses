@@ -1,5 +1,5 @@
 const HtmlElementServiceBase = require("./HtmlElementServiceBase");
-
+//not implemented as markdown parser does not allow assync processing
 class ScriptureLinkService extends HtmlElementServiceBase {
 
   getDefaultOptions() {
