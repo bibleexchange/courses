@@ -198,13 +198,6 @@ Jibu kweli au sio kweli.
 3. **Watumishi wa Mungu**
 4. Wamishionari
 
-## Ni nini inayopelekea kufanya ushawishi katika Ufunuo 2:20?
-
-1. Mwanamke
-2. **Roho**
-3. Nyoka
-4. Punda
-
 ## Kwa nini kipindi hiki kinaitwa zama za giza?
 
 1. Hapakuwepo na demokrasia
@@ -213,8 +206,6 @@ Jibu kweli au sio kweli.
 4. **Hapakuwepo na Biblia za lugha ya kawida**
 
 ## Jaza nafasi ilioachwa. Isaya 9:19 Kwa sababu ya **hasira** **ya** **Bwana** **wa** **majeshi** inchi inateketea kabisa.
-
-## Jaza nafasi ilioachwa. **Kanisa** **Katoliki** **la** **Roma** lilikuwa na ushawishi mkubwa sana barani Ulaya tangu kipindi hiki.
 
 ## Jaza nafasi ilioachwa. Mahakama maalumu iliundwa mwaka 1200 kushughulikia **waasi**.
 

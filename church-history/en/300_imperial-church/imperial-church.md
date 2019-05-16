@@ -108,6 +108,14 @@ Patrick was a missionary from England to Ireland. He brought Christianity to Ire
 
 ## Key events of the period
 
+### The Donatist Controversy (AD 312)
+
+During the persecution of Diocletian, some of the church leaders surrendered copies of the Scripture to the government authorities. These church leaders became known as _traditors_ because they betrayed the church.
+
+In AD 311 a man named Caecillian was elected bishop of Carthage. Caecillian had been consecrated by a bishop who was a traditor. A North-African man named Donatus separated from the church in AD 312 because he did not believe that Caecillian should be allowed to be a bishop, since he was consecrated by a traditor.
+
+Later Donatists rebaptized Christians who had denied their faith because of persecution.
+
 ### The Council of Nicea (AD 325–460)
 
 In the New Testament, especially the Gospel of John, we see that Jesus is equal with the Father, but there are not exact details given about the relationship between them. The question was, how could a person worship both Jesus and the Father and still be a monotheist (a person who believes in and worships only one god)?

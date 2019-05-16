@@ -24,7 +24,7 @@ Baada ya miaka michache kazi ilienea maeneo mbalimbali kama vile Mbeya, Tabora, 
 
 ## WAKATOLIKI
 
-Wakatoliki kama Holly Ghost Father (HGF) (Mapadre wa Roho Mtakatifu) walifaulu kubaki nchini baada ya vita 1870-1871 kwasababu sehemu ya kaskazini mashariki ya Ufaransa ilikuwa chini ya Koloni ya Wajerumani. Kwahiyo Mapadre hawa wa Kifaransa waliruhusiwa na Wajerumani kubaki hapa nchini Tanzania na kuendelea na shughuli zao za kidini. 
+Wakatoliki kama Holy Ghost Father (HGF) (Mapadre wa Roho Mtakatifu) walifaulu kubaki nchini baada ya vita 1870-1871 kwasababu sehemu ya kaskazini mashariki ya Ufaransa ilikuwa chini ya Koloni ya Wajerumani. Kwahiyo Mapadre hawa wa Kifaransa waliruhusiwa na Wajerumani kubaki hapa nchini Tanzania na kuendelea na shughuli zao za kidini. 
 
 Ingawa serikali ya Kijerumani ilikuwa na mashaka kuhusu hawa Wakatoliki ambao waliongea Kiaransa maana wanaweza kuwa wapinzani kwa siri.
 
@@ -46,13 +46,13 @@ Wamisionari wa kwanza walikuwa wa Kijerumani, W. Ehlers na A. C. Enn, ambao wali
 
 Baada ya vita ya pili ya dunia Wapentekoste walipata mafanikio makubwa sana. Mwaka 1923-2013 Mhubiri T.L. Osborn toka Marekani aliingiza kwa nguvu Upentekoste Afrika Mashariki. Alianzisha (PEFA) Pentecostal Evangelistic Felloship of Afrika. Hapa Tanzania PEFA ilianzia katika mkoa wa Mara.
 
-* Pentecostal Assemlies of God (PAG)-1963 chini ya Wakanada
+* Pentecostal Assemblies of God (PAG)-1963 chini ya Wakanada
 * Walipanua kazi yao mpaka Bukoba na baadaye Tanga (1970) Arusha (1973), Morogoro na Dar-es-salaam 1983.
-* Tanzania Assemlies of God (TAG)-Katika miaka ya 1980 Kanisa lilienea sehemu zote za Tanzania- Iringa, Dodoma, Dar-es-salaam, Moshi, Arusha na Mwanza. Walijikita zaidi maeneo ya Mbeya na Njombe na kuanzisha shule ya Biblia huko Tukuyu 1967. 
+* Tanzania Assemblies of God (TAG)-Katika miaka ya 1980 Kanisa lilienea sehemu zote za Tanzania- Iringa, Dodoma, Dar-es-salaam, Moshi, Arusha na Mwanza. Walijikita zaidi maeneo ya Mbeya na Njombe na kuanzisha shule ya Biblia huko Tukuyu 1967. 
 * Emmanuel Lazaro ndiye Mtanzania wa kwanza kuwa Askofu mkuu wa kanisa hili hadi 1992.
 * TAG- Iligawanyika mwaka 1982 na Mhubiri maarufu Mosses Kulola aliunda EAGT.
-* Baada ya 1961 kazi ya "Swidish Free MIssion" [SFM] Pia ilipanuka karibu nchi nzima. Singida 1963, Marangu 1963, Bukoba 1963, Korogwe 1963, Same 1964, Iguguno 1964, Masasi 1965, Lushoto 1968, Kilosa 1968, Nzega 1969, Lindi 1970, Arusha 1979.
-* Mwaka 1977 [SFM] Walianzisha kituo cha Redio na vitabu huko Marangu. Mwaka 1984 walihamisha kituo hichi cha "Rdio Habari Maalum" Ngaramtoni ya juu pale Arusha. 
+* Baada ya 1961 kazi ya "Swidish Free Mission" [SFM] Pia ilipanuka karibu nchi nzima. Singida 1963, Marangu 1963, Bukoba 1963, Korogwe 1963, Same 1964, Iguguno 1964, Masasi 1965, Lushoto 1968, Kilosa 1968, Nzega 1969, Lindi 1970, Arusha 1979.
+* Mwaka 1977 (SFM) Walianzisha kituo cha Radio na vitabu huko Marangu. Mwaka 1984 walihamisha kituo hichi cha "Radio Habari Maalum" Ngaramtoni ya juu pale Arusha. 
 * Pia kati ya 1961-1985, yalikuwepo madhehebu manne Nchini Tanzania.
 
 1. Kanisa la Katoliki

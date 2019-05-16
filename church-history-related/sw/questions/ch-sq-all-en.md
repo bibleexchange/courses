@@ -198,13 +198,6 @@ Answer true or false.
 3. **Servants of God**
 4. Missionaries
 
-## What is doing the seducting in Revelation 2:20?
-
-1. A woman
-2. **A spirit**
-3. A serpent
-4. A donkey
-
 ## Why is this period called the dark ages?
 
 1. No democracy
@@ -213,8 +206,6 @@ Answer true or false.
 4. **No Bibles in common language**
 
 ## Fill in the blank. Isaiah 9:19 Through **the** **wrath** **of** **the** **LORD** **of** **hosts** is the land darkened,
-
-## Fill in the blank. **The** **Roman** **Catholic** church dominated Europe during this period.
 
 ## Fill in the blank. The Inquisition was a special court set up in the 1200's to deal with the **heretics**.
 

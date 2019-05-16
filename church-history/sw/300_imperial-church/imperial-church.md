@@ -108,6 +108,14 @@ Patriki alikuwa mmishenari kutoka Uingereza kwenda Ireland. Aliuleta ukristo huk
 
 ## Matukio ya ufunguo wa kipindi
 
+### Mabishano ya Wadonatusi (312 BK)
+
+Wakati wa mateso ya Diocletiani, baadhi ya viongozi wa kanisa walitoa nakala ya Maandiko kwa mamlaka ya serikali. Viongozi hawa wa kanisa walijulikana kama _wasaliti_ kwa sababu walisalitiwa kanisa.
+
+Katika AD 311 mtu mmoja aitwaye Caecilliani alichaguliwa askofu wa Carthage. Caecilliani alikuwa amewekwa wakfu na askofu ambaye alikuwa msaliti. Mtu wa Kaskazini mwa Afrika aliyeitwa Donatusi alijitenga na kanisa mwaka 312 BK kwa sababu hakuamini kuwa Caecilliani lazima kuruhusiwa kuwa askofu, tangu alipaswa kuteuliwa na msaliti.
+
+Baadaye Wadonatusi walibatiza tena Wakristo waliokuwa alikanusha imani yao kwa sababu ya mateso.
+
 ### Baraza la Nikia (325–460 BK)
 
 Katika Agano Jipya hasa hasa injili ya Yohana, tunaona kuwa Yesu yuko sawa na Baba, lakini hakuna habari za moja kwa moja kuhusu uhusiano wao. Swali lilikuwa kwamba vipi mtu aweza kuabudu wote Yesu na Baba hata sasa bado kuna swali hili kwa (mtu wanaoamini kwa mungu moja na kumwabudu)?
