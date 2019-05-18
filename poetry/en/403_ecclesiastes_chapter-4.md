@@ -48,11 +48,7 @@ We find meaning in our activity IN JESUS! ("As unto the Lord")
 
 - 1 Timothy 5:8; Colossians 3:17,23; Ephesians 6:7; 1 Corinthians 10:31; Revelations 22:10
 
-## The Alone and the Popular (Popularity)
-
-> 7 Then I returned, and I saw vanity under the sun. 8 There is one alone, and there is not a second; yea, he hath neither child nor brother: yet is there no end of all his labour; neither is his eye satisfied with riches; neither saith he, For whom do I labour, and bereave my soul of good? This is also vanity, yea, it is a sore travail. 9 Two are better than one; because they have a good reward for their labour. 10 For if they fall, the one will lift up his fellow: but woe to him that is alone when he falleth; for he hath not another to help him up. 11 Again, if two lie together, then they have heat: but how can one be warm alone? 12 And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken. 
-
-> 13 Better is a poor and a wise child than an old and foolish king, who will no more be admonished. 14 For out of prison he cometh to reign; whereas also he that is born in his kingdom becometh poor. 15 I considered all the living which walk under the sun, with **the second child that shall stand up in his stead**. 16 There is no end of all the people, even of all that have been before them: they also that come after shall not rejoice in him. Surely this also is vanity and vexation of spirit.
+## The Alone and the Popular (Popularity) (v. 7-16)
 
 - We are never truly "ALONE":
 > Isaiah 41:10 &mdash; Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.

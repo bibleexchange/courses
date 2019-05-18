@@ -9,23 +9,23 @@ Paul instructs how to receive a weak brother. There is a need for grace in our h
 ## How Should We Treat Christians with Differences of Opinion? vs. 1
 
 > Roman 14:1 ¶ Him that is weak in the faith receive ye, but not to doubtful disputations. 
-<!-- -->
+
 > New International Version: Accept the one whose faith is weak, without quarreling over disputable matters.
-<!-- -->
+
 > New Living Translation: Accept other believers who are weak in faith, and don't argue with them about what they think is right or wrong.
-<!-- -->
+
 > English Standard Version: As for the one who is weak in faith, welcome him, but not to quarrel over opinions.
-<!-- -->
+
 > Berean Study Bible: Accept him whose faith is weak, without passing judgment on his opinions.
-<!-- -->
+
 > New American Standard Bible: Now accept the one who is weak in faith, but not for the purpose of passing judgment on his opinions.
-<!-- -->
+
 > Holman Christian Standard Bible: Accept anyone who is weak in faith, but don't argue about doubtful issues. 
-<!-- -->
+
 > Jubilee Bible 2000: Bear with the one who is sick in the faith, but not unto doubtful discernment.
-<!-- -->
+
 > King James 2000 Bible: Receive him that is weak in the faith, but not for passing judgment.
-<!-- -->
+
 > Weymouth New Testament: I now pass to another subject. Receive as a friend a man whose faith is weak, but not for the purpose of deciding mere matters of opinion.
 
 
@@ -55,8 +55,6 @@ Should everybody be just like me?
 
 ## What is a Weak Brother in this Context? vs. 2-4
 
-> Romans 14:2-4&mdash; For one believeth that he may eat all things: another, who is weak, eateth herbs. 3 Let not him that eateth despise him that eateth not; and let not him which eateth not judge him that eateth: for God hath received him. 4 Who art thou that judgest another man's servant? to his own master he standeth or falleth. Yea, he shall be holden up: for God is able to make him stand. 
-
 The weakness Paul mentions here carries the very ideas of disease and impotence. Those weak in faith are likened to a lame man needing a crutch, a blind needing a guide, or a paralyzed man needing help with every necessity of daily life. Disease ultimately will snuff out life if it is not cured. This weakness of faith is as a sickness that must be understood and handled with grace, but also must be administered healing. Weakness must not be left alone, but must be strengthened.
 
 > James 5:16&mdash;Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.
@@ -80,8 +78,6 @@ The spirit of the law questions not did you remember the day, but whether or not
 They worshipped days. They fasted and feasted on certain days. And they were putting more importance on days and not the Christ.
 
 ## We are Brethren and not Judges, vs. 5-12
-
-> Romans 14:5-12&mdash; One man esteemeth one day above another: another esteemeth every day alike. Let every man be fully persuaded in his own mind. 6 He that regardeth the day, regardeth it unto the Lord; and he that regardeth not the day, to the Lord he doth not regard it. He that eateth, eateth to the Lord, for he giveth God thanks; and he that eateth not, to the Lord he eateth not, and giveth God thanks. 7 For none of us liveth to himself, and no man dieth to himself. 8 For whether we live, we live unto the Lord; and whether we die, we die unto the Lord: whether we live therefore, or die, we are the Lord's. 9 For to this end Christ both died, and rose, and revived, that he might be Lord both of the dead and living. 10 But why dost thou judge thy brother? or why dost thou set at nought thy brother? for we shall all stand before the judgment seat of Christ. 11 For it is written, As I live, saith the Lord, every knee shall bow to me, and every tongue shall confess to God. 12 So then every one of us shall give account of himself to God. 
 
 Verse 6, clearly states that both sides know the Lord.
 
@@ -123,10 +119,7 @@ I Peter 4:9-10, 5:5
 
 No man can help another, without first helping himself understand that principle, that we are to love one another.
 
-
 Contrasted here is weakness and faith. Weakness looks at the letter of the law, but faith can also see the spirit of the law.
-
-
 
 Conduct indicates character.
 
@@ -139,7 +132,6 @@ Weak faith: lacks endurance, often falters
 Weak faith can become strong faith, by recognizing our limitations.
 Give my limitations to God, and our love shall increase.
 
-
 Effective faith: depends upon God, more concerned about growth than of size
 rests upon what Christ has already done and accomplished
 becomes stronger through trials and pressure, by endurance
@@ -149,8 +141,6 @@ I have hopeful expectations because of my faith in Christ.
 I have put my trust in God. My strength is not in who I am, but in whom I have put my trust in.
 
 ## Do Not Put a Stumbling Block in My Brother's Way, vs. 13-17
-
-> 13 Let us not therefore judge one another any more: but judge this rather, that no man put a stumblingblock or an occasion to fall in his brother's way. 14 I know, and am persuaded by the Lord Jesus, that there is nothing unclean of itself: but to him that esteemeth any thing to be unclean, to him it is unclean. 15 But if thy brother be grieved with thy meat, now walkest thou not charitably. Destroy not him with thy meat, for whom Christ died. 16 Let not then your good be evil spoken of: 17 For the kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost. 
 
 - Let us not be a reason for someone else&apos;s failure. Let us be encouragers of their faith.
 - There is more to the Gospel than my opinions!
@@ -166,4 +156,3 @@ I have put my trust in God. My strength is not in who I am, but in whom I have p
 > 22 Hast thou faith? have it to thyself before God. Happy is he that condemneth not himself in that thing which he alloweth. 23 And he that doubteth is damned if he eat, because he eateth not of faith: for whatsoever is not of faith is sin. 
 
 it is Much more blessed to have liberty before God which we do not use on account of our brother's weaknesses, than to insist on liberty, though it is distinctly given.
-

@@ -28,21 +28,21 @@ Paul follows the command for subjection immediately with a foundational truth:
 - All power belongs unto God. 
  
 > 1 Peter 5:10&mdash;But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you. 11 To him be glory and dominion for ever and ever. Amen.
-<!-- -->
+
 > Psalms 62:10&mdash;Trust not in oppression, and become not vain in robbery: if riches increase, set not your heart upon them. 11 God hath spoken once; twice have I heard this; that power belongeth unto God. 12 Also unto thee, O Lord, belongeth mercy: for thou renderest to every man according to his work.
-<!-- -->
+
 > Isaiah 26:4 Trust ye in the LORD for ever: for in the LORD JEHOVAH is everlasting strength:
-<!-- -->
+
 > Matthew 19:26&mdash;But Jesus beheld them, and said unto them, With men this is impossible; but with God all things are possible.
-<!-- -->
+
 > Psalm 29:10&mdash;The LORD sitteth upon the flood; yea, the LORD sitteth King for ever.
 
 - For their to be an earthly power, it has to have received its influence from the Sovereign God. 
 
 > Colossians 1:16,17&mdash;For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him: 17 And he is before all things, and by him all things consist.
-<!-- -->
+
 > Psalm 90:2&mdash;Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou art God.
-<!-- -->
+
 > Daniel 2:21&mdash;And he changeth the times and the seasons: he removeth kings, and setteth up kings: he giveth wisdom unto the wise, and knowledge to them that know understanding:
 
 **We are bound by God to be in subjection to authority. This mandate comes from God.**
@@ -76,8 +76,6 @@ Authorities in Power - (Constituted authorities) Authorities ordained of God int
 
 ## For Wrath's Sake, vs. 3,4
 
-> Romans 13:3,4&mdash;For rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same: 4 For he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the sword in vain: for he is the minister of God, a revenger to execute wrath upon him that doeth evil.
-
 Rebellion has a great price. Damnation is what Paul presents as rebellion&apos;s
 cost. This same Greek word, &quot;krima&quot; , is also translated
 &quot;condemnation&quot; and &quot;judgment&quot; throughout the New Testament.
@@ -87,13 +85,9 @@ There is no terror for the subject for rulers are ordained by God as a terror to
 
 > Romans 12:18&mdash;If it be possible, as much as lieth in you, live peaceably with all men.
 
-<!-- -->
-
 >  Hebrews 12:28&mdash;Wherefore we receiving a kingdom which cannot be moved, let us have grace, whereby we may serve God acceptably with reverence and godly fear:
 
 ## For Conscience's Sake, vs. 5
-
-> Romans 13:5&mdash;Wherefore ye must needs be subject, not only for wrath, but also for conscience sake.
 
 God ordains authority for the purpose of defending good and disciplining evil. Authorities	are designed for our own good and protection. Without leadership only disorder and chaos can arise.
 
@@ -102,8 +96,6 @@ We should be in subjection not just to avoid punishment, but also to preserve ou
 > Acts 23:1&mdash;And Paul, earnestly beholding the council, said, Men and brethren, I have lived in all good conscience before God until this day.
 
 ## The Objects of Our Subjection, vs. 6-10
-
-> Romans 13:6-&mdash; For for this cause pay ye tribute also: for they are God's ministers, attending continually upon this very thing. 7 ¶ Render therefore to all their dues: tribute to whom tribute is due; custom to whom custom; fear to whom fear; honour to whom honour. 8 Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law. 9 For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not bear false witness, Thou shalt not covet; and if there be any other commandment, it is briefly comprehended in this saying, namely, Thou shalt love thy neighbour as thyself. 10 Love worketh no ill to his neighbour: therefore love is the fulfilling of the law.
 
 ### Pay Tribute - A Christian in Society
 
@@ -170,8 +162,6 @@ We see the full title Lord Jesus Christ:
 - Christ - the anointed one
 
 ## The Urgency of Our Subjection, vs. 11,12
-
-> Romans 13:11-12&mdash; 11 ¶ And that, knowing the time, that now it is high time to awake out of sleep: for now is our salvation nearer than when we believed. 12 The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light.
  
 We are running out of time before what? 
 
@@ -180,8 +170,6 @@ The Lord promises to return, but when He comes will He find faith in the earth?
 > Luke 18:8&mdash; tell you that he will avenge them speedily. Nevertheless when the Son of man cometh, shall he find faith on the earth?
 
 ## The Quality of Our Subjection, vs. 13,14
-
-> Romans 13:13,14&mdash; 13 Let us walk honestly, as in the day; not in rioting and drunkenness, not in chambering and wantonness, not in strife and envying. 14 But put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof.
 
 ### Our Walk
 

@@ -1,23 +1,10 @@
 # The Sorrow of the Apostle at Israel's Rejection (9:1-5)
 
-Romans chapter nine talks about Paul&apos;s sorrow for the Jews. We find out that not all of Abraham&apos;s seed were the children of promise. 
-
-> Romans 9:7,8&mdash;&hellip; Neither, because they are the seed of Abraham, are they all children: but, In Isaac shall thy seed be called. 8 That is, They which are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed.
-
-This chapter talks about the calling of the Gentiles, and the rejection of the Jews, as it had been foretold.
+Romans chapter nine talks about Paul&apos;s sorrow for the Jews. We find out that not all of Abraham&apos;s seed were the children of promise (9:7-8).
 
 ## The Sincerity of his feeling (1)
 
-**Paul preached the truth! ** His Sorrow for the Lost was Sincere and Divinely Inspired.
-
-1. Truth should be spken always
-2. Truth is the Believer's Life (John 8:32)
-3. Truth honors the Christ we serve.
-4. Truth must be obeyed (Gal. 3:1)
-5. Truth is necessary for growth. (Ephesians 4:14-15)
-6. Truth is a defense.
-7. We are begotten by the Truth. (James 1:18; 1 Peter 1:23
-8. We are to Walk in the the Truth (II John 4)
+Paul's Sorrow for the Lost was Sincere and Divinely Inspired.
 
 ## The Intensity of his feeling (2-3a)
 
@@ -33,26 +20,15 @@ Paul&apos;s proclamation is reminiscent of Moses in Exodus 32:32,33.
 
 Paul has great sorrow for unbelieving Israel. Their unbelief is especially disheartening as they remained in their unbelief despite their great spiritual heritage. 
 
-Paul lays out the Jews spiritual heritage as being eight-fold. To the Jew Pertains:
+Paul talks about eight parts of the Jews' spiritual heritage. To the Jew Pertains:
 
-1. **ADOPTION** - privilege of adoption - sonship 
-
-God had chosen Israel over Ishmael. &hellip; The Jewish legend of Isaac and Ishamael's argument over circumcision &hellip;
-
+1. **ADOPTION** - God had chosen Israel over Ishmael
 2. **GLORY** - Shekinah presence of God
-
 3. **COVENANTS** - Promises of God made to Israel
-
 4. **LAW** - Law given at Sinai
-
 5. **SERVICE** - Authorized worship as ordained by God
-
-6. **PROMISES** - Promise of God are (yea and amen) to them that believe
-
-The Jew had the promises of God, they even trusted in the law but they overlooked Christ.
-
+6. **PROMISES** - Promise of God are (yea and amen) to them that believe. The Jew had the promises of God, they even trusted in the law but they overlooked Christ.
 7. **FATHERS** - Relationship to the Father (Fathers of the flesh)
-
 8. **MESSIAH OF ISRAEL**
 
 The written word Rom. 3:2 oracles of God committed unto them. Rom. 9:5 Christ came in the flesh
