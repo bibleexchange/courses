@@ -41,7 +41,7 @@ TEXT: Song of Solomon 4:16
 4. **Notice the Order**: North Wind, then the South Wind
 
 - A Planting then a Harvest: Harvest Time, There needs to be Maturity
-- **Desert of Man** - Rock, Sand - no life - Overplanting and abuse - the wind blows
+- **Desert of Maine** - Rock, Sand - no life - Overplanting and abuse - the wind blows
 
 5. **That the spices thereof may flow out"**
 
@@ -55,7 +55,7 @@ TEXT: Song of Solomon 4:16
 
 > Song of Solomon 4:16 &mdash;  ...  Let my beloved come into his garden, and eat his pleasant fruits.
 
-1. Notice it was HER garden, Not it is HIS garden
+1. Notice it was HER garden, Now it is HIS garden
 
 - The moving and ministry of the Holy Ghost makes a change: We are not our own, we are His
 - It is His grace that makes us what we ought to be
