@@ -28,8 +28,26 @@ var md = require('markdown-it')({
   highlight: function (/*str, lang*/) { return ''; },
 });
 
-md.use(myMDPlugin, {
-  containerClassName: "video-embed"
+//md.use(myMDPlugin, {containerClassName: "video-embed"});
+
+md.use(require('markdown-it-container'), 'quiz', {
+
+  validate: function(params) {
+    return params.trim().match(/^quiz\s+(.*)$/);
+  },
+
+  render: function (tokens, idx) {
+    var m = tokens[idx].info.trim().match(/^quiz\s+(.*)$/);
+
+    if (tokens[idx].nesting === 1) {
+      // opening tag
+      return '<details><summary>' + md.utils.escapeHtml(m[1]) + '</summary>\n';
+
+    } else {
+      // closing tag
+      return '</details>\n';
+    }
+  }
 });
 
 const TaskTypes = {

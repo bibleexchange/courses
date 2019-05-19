@@ -5,7 +5,6 @@ const PluginEnvironment = require("./PluginEnvironment");
 const renderer = require("./renderer");
 const tokenizer = require("./tokenizer");
 
-
 function setup(md, options) {
   let env = new PluginEnvironment(md, options);
 
