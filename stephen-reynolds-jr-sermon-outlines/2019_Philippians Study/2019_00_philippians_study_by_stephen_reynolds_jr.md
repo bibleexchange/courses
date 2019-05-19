@@ -857,7 +857,7 @@ He has learned: having been **thoroughly instructed; fully initiated**
 22 All the saints salute you, chiefly they that are of Caesar's household.
 23 The grace of our Lord Jesus Christ be with you all. Amen.
 
--
+- Caesar's Househould
 - 2 "Amen"'s
 
 
