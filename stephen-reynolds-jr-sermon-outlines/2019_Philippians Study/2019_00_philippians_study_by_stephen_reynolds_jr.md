@@ -791,11 +791,64 @@ God rewards obedience.
 Exodus 19:5; Ephesiasn 6:1-3;  Revelation 14:12; Hebrews 13:17;  Romans 2:6-8
 
 
-## Christian Giving, vs. 10-19
+## God's Provision and Christian Giving, vs. 10-19
 
 > 10 But I rejoiced in the Lord greatly, that now at the last your care of me hath flourished again; wherein ye were also careful, but ye lacked opportunity. 11 Not that I speak in respect of want: for I have learned, in whatsoever state I am, therewith to be content. 12 I know both how to be abased, and I know how to abound: every where and in all things I am instructed both to be full and to be hungry, both to abound and to suffer need. 13 I can do all things through Christ which strengtheneth me. 14 Notwithstanding ye have well done, that ye did communicate with my affliction. 15 Now ye Philippians know also, that in the beginning of the gospel, when I departed from Macedonia, no church communicated with me as concerning giving and receiving, but ye only. 16 For even in Thessalonica ye sent once and again unto my necessity. 17 Not because I desire a gift: but I desire fruit that may abound to your account. 18 But I have all, and abound: I am full, having received of Epaphroditus the things which were sent from you, an odour of a sweet smell, a sacrifice acceptable, wellpleasing to God. 19 But my God shall supply all your need according to his riches in glory by Christ Jesus.
 
+### v. 10
+
 - Paul's Grateful Acknowledgment of the Philippian church's gifts.
+
+> Philippians 2:25 &mdash; Yet I supposed it necessary to send to you Epaphroditus, my brother, and companion in labour, and fellowsoldier, but your messenger, and he that ministered to my wants.
+
+- His attitude is one of REJOICING: 
+- "AGAIN"
+
+> Philippians 4:16 &mdash;  For even in **Thessalonica** ye sent once and again unto my necessity.
+
+> > 2 **Corinthians** 11:9 &mdash;  And when I was present with you, and wanted, I was chargeable to no man: for that which was lacking to me the brethren which came from Macedonia supplied: and in all things I have kept myself from being burdensome unto you, and so will I keep myself.
+
+- "SUCCESS" Failed or no opportunity to help previously. -- WERE "careful" but lacked "opportunity"
+	- careful:  ye had not ability, ye wanted the means
+	- They had an ongoing and sincere interest in Paul's well-beling
+	- Either lacked the material blessing to give or just a way to get it to Paul. (John Wesley)
+
+### v. 11-13 Paul's Lesson
+
+11 Not that I speak in respect of want: for I have learned, in whatsoever state I am, therewith to be content.
+
+He is grateful for their help, but is yet ultimately dependant on God's providence.
+He has learned: having been **thoroughly instructed; fully initiated**
+
+- Whatever state "I CAN DO ALL THINGS":
+	- how to be abased, 
+	- and I know how to abound: 
+	- every where and in all things I am instructed both to be full 
+	- and to be hungry, 
+	- both to abound 
+	- and to suffer need. 
+
+> 13 I can do all things through Christ which strengtheneth me. 
+
+- Not a skill he developed through practice but through the influence of the LIVING CHRIST!
+- "Through Christ"
+
+> 2Co 3:4 And such trust have we through Christ to God-ward:
+> Ga 4:7 Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ.
+> Eph 2:7 That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus.
+> Php 4:7 And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.
+
+### v. 14-16 Exceptional Careful Giving
+
+> 14 Notwithstanding ye have well done, that ye did communicate with my affliction. 15 Now ye Philippians know also, that in the beginning of the gospel, when I departed from Macedonia, **no church communicated with me as concerning giving and receiving, but ye only**. 16 For even in Thessalonica ye sent once and again unto my necessity. 
+
+### v. 17
+
+> 17 Not because I desire a gift: but I desire fruit that may abound to your account. 18 But I have all, and abound: I am full, having received of Epaphroditus the things which were sent from you, an odour of a sweet smell, a sacrifice acceptable, wellpleasing to God. 19 But my God shall supply all your need according to his riches in glory by Christ Jesus.
+
+- Paul isn't fishing for more gifts.
+- God is faithful to me, but I desire fruit ON YOUR ACCOUNT, v.17
+- Blessed in giving?
 
 ## Closing, vs.20-23
 
@@ -804,6 +857,7 @@ Exodus 19:5; Ephesiasn 6:1-3;  Revelation 14:12; Hebrews 13:17;  Romans 2:6-8
 22 All the saints salute you, chiefly they that are of Caesar's household.
 23 The grace of our Lord Jesus Christ be with you all. Amen.
 
+-
 - 2 "Amen"'s
 
 
