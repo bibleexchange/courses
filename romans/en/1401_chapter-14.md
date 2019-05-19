@@ -1,158 +1,69 @@
-# Differences of Opinion Among Christians &mdash; Romans 14
+# Differences of opinion among Christians (chapter 14)
 
 ## Introduction
 
-Romans chapter fourteen talks about how you should treat a weak brother. We need to help those that are weak in their flesh. We see the need to be charitable. We need to live for God, all that we do needs to be unto God. We should not judge one another, for one day every man will give an account of his own life.
+Romans chapter fourteen talks about how you should treat a weak brother. We need to help those that are weak in their faith. We see the need to be charitable. We need to live for God, and all that we do needs to be unto God. We should not judge one another, for one day every man will give an account of his own life.
 
-Paul instructs how to receive a weak brother. There is a need for grace in our hearts to the weak, and often we must make a space of mercy for the ignorant. Let us consider a weak brother from Romans chapter fourteen.
+## How should we treat Christians with differences of opinion? (v. 1)
 
-## How Should We Treat Christians with Differences of Opinion? vs. 1
+There are differences in the health of our faith and there are also differences of opinion (weak and strong).
 
-> Roman 14:1 ¶ Him that is weak in the faith receive ye, but not to doubtful disputations. 
+There is clear instruction given in Scripture:
 
-> New International Version: Accept the one whose faith is weak, without quarreling over disputable matters.
+* "Thou shalt not" in the 10 Commandments (Exodus 20:1–17)
+* Salvation is through Jesus (John 8:24; 14:6; Acts 4:12)
+* You cannot serve both God and riches (Proverbs 28:22; Ephesians 4:19; 1 Timothy 6:10; Matthew 6:24)
 
-> New Living Translation: Accept other believers who are weak in faith, and don't argue with them about what they think is right or wrong.
+But There is also a lot of opinion of interpretation and application that fill in-between the lines. Christians divide over things such as:
 
-> English Standard Version: As for the one who is weak in faith, welcome him, but not to quarrel over opinions.
+* Politics (Can you be a Christian and be a Democrat?)
+* Woman in ministry (Can a woman be a pastor?)
+* The internet (Can a Christian remain holy while using an unholy thing?)
+* The blood of Jesus
+* The authority of the Word of God
+* The baptism of the Holy Ghost
+* Saturday/Sunday debate
 
-> Berean Study Bible: Accept him whose faith is weak, without passing judgment on his opinions.
+### Receive him that is weak in the faith, but not so that you can argue with him
 
-> New American Standard Bible: Now accept the one who is weak in faith, but not for the purpose of passing judgment on his opinions.
-
-> Holman Christian Standard Bible: Accept anyone who is weak in faith, but don't argue about doubtful issues. 
-
-> Jubilee Bible 2000: Bear with the one who is sick in the faith, but not unto doubtful discernment.
-
-> King James 2000 Bible: Receive him that is weak in the faith, but not for passing judgment.
-
-> Weymouth New Testament: I now pass to another subject. Receive as a friend a man whose faith is weak, but not for the purpose of deciding mere matters of opinion.
-
-
-There are Differences in the Health of Our Faith & Differences of Opinion (Weak and Strong).
-
-### There is Clear Instruction Given in Scripture
-
-- "Thou Shalt Not" in the 10 Commandments (Exodus 20:1-17)
-- Salvation is through Jesus (John 8:24; 14:6; Acts 4:12)
-- You Cannot Serve Both God and Riches (Proverbs 28:22; Ephesians 4:19; 1 Timothy 6:10; Matthew 6:24)
-
-### But There is also a Lot of Opinion (of interpretation and application) that fill in-between the Lines, that Christians Divide Over
-
-- Politics (Can you be a Christian and be a Democrat?)
-- Woman in Ministry (Can a woman be a pastor?)
-- The Internet (Can a Christian remain holy whil using an unholy thing?)
-- The Blood of Jesus
-- The Authority of the Word of God
-- The Baptism of the Holy Ghost
-- Saturday/Sunday Debate
-
-### Receive Him that is Weak in the Faith but not for the Sake of Argument.
-
-Most often our opionions are inspired by Scripture but we tend to fill the gray/unexplained areas of Scripture with our opinions. The differences of opinion should not be cause for Division nor an escuse for quarrelling.
+Most often our opinions are inspired by Scripture, but we tend to fill the gray (unexplained) areas of Scripture with our opinions. The differences of opinion should not be cause for division or an excuse for quarreling.
 
 Should everybody be just like me?
 
-## What is a Weak Brother in this Context? vs. 2-4
+## What is a weak brother in this context? (v. 2–4)
 
-The weakness Paul mentions here carries the very ideas of disease and impotence. Those weak in faith are likened to a lame man needing a crutch, a blind needing a guide, or a paralyzed man needing help with every necessity of daily life. Disease ultimately will snuff out life if it is not cured. This weakness of faith is as a sickness that must be understood and handled with grace, but also must be administered healing. Weakness must not be left alone, but must be strengthened.
+The weakness Paul mentions here carries the very ideas of disease and impotence. Those weak in faith are likened to a lame man needing a crutch, a blind needing a guide, or a paralyzed man needing help with every necessity of daily life. Disease ultimately will snuff out life if it is not cured. This weakness of faith is as a sickness that must be understood and handled with grace, but also must be administered healing. Weakness must not be left alone, but must be strengthened (James 5:16).
 
-> James 5:16&mdash;Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.
+### Weakness in eating
 
-### a. Weakness in Eating &mdash; 
+In I Corinthians chapter 8 Paul had to deal with this same issue with the Corinthian church. This may sound trivial and non-religious of a dispute to the modern Christian, but The Layman's Bible Commentary gives insight into this controversy:
 
-For meat destroy not the work of God! 
+> It was a different kind of religious question in the Roman Empire. The fact is in a Roman market you could hardly find a steak or a roast or any kind of meat that had not come from some animal slaughtered in a heathen temple. The animal would be killed as a sacrifice; then the priests (who, numerous though they were, could not possibly eat all the animals the people offered) would sell the meat through retail outlets. This being the major source of meats on the market, the Christian shopper was faced with a problem: in buying and eating this meat, am I or am I not helping out the heathen worship?
 
-v. 20 In I Corinthians 8 Paul had to deal with the same issue with the Corinthian church. This may sound trivial and non-religious of a dispute to the modern Christian, but The Layman&apos;s Bible Commentary gives insight into this controversy.
+### Servants — Who are you to judge another man's servant?
 
-It was a different kind of religious question in the Roman Empire. The fact is in a Roman market you could hardly find a steak or a roast or any kind of meat that had not come from some animal slaughtered in a heathen temple. The animal would be killed as a sacrifice; then the priests (who, numerous though they were, could not possibly eat all the animals the people offered) would sell the meat through retail outlets. This being the major source of meats on the market, the Christian shopper was faced with a problem: in buying and eating this meat, am I or am I not helping out the heathen worship?
+### Judgment — Every man must give account to God and not to another.
 
-### b. Servants &mdash; Who are you to judge another man&apos;s servant?
+### Days
 
-### c. Judgment &mdash; Every man must give account to God and not to another.
+The spirit of the law does not ask "did you remember the day?", but it asks "did you do it as unto the Lord?" They worshiped on certain days, they fasted and feasted on certain days, and they were putting more importance on days and not the Christ.
 
-### d. Days &mdash; 
+## We are brethren and not judges (v. 5–12)
 
-The spirit of the law questions not did you remember the day, but whether or not you did or did not as unto the Lord?
-
-They worshipped days. They fasted and feasted on certain days. And they were putting more importance on days and not the Christ.
-
-## We are Brethren and not Judges, vs. 5-12
-
-Verse 6, clearly states that both sides know the Lord.
+Verse six clearly states that both sides of the argument know the Lord.
 
 What we are supposed to be doing for others:
 
-- Show Honor and Preference: Romans 12:10; 15:7
-- Admonish One Another: Romans 15:14; Colossians 3:16
+* **Show honor and preference** (12:10; 15:7)
+* **Admonish one another** (15:14; Col. 3:16) We are to love the heart of men, and reach out to the heart of men. We put our heart into other people by loving them. We show compassion by encouraging other people. Love corrects, encourages, and teaches. In order for us to teach someone the difference between right and wrong, we first need to know the difference ourselves.
+* **Forgive one another** (Col. 3:13)
+* **Stop judging** (Romans 14:13)
+* **We are to carry each others burdens** (Gal. 6:2)
 
-We are to love the heart of men, and reach out to the heart of men.
-We put our heart into other people by loving them.
-We show compassion by encouraging other people.
-Love corrects, encourages, and teaches.
+## Do not put a stumbling block in my brother's way, (v. 13–17)
 
-In order for us to teach someone the difference between right and wrong, we first need to know the difference ourselves.
+## We are told to pursue after peace in our differences (v. 18–20)
 
-- Forgive one another: Col 3:13
-- Stop Judging: Romans 14:13; 
+## The blessing of liberty (v. 22–23)
 
-- I Corinthians 13:4-7
-Romans 13:8
-Col 3:14
-John 13:34
-Pro. 10:12
-I John 4:8,16
-John 13:35
-I john 4:7
-I john 2:9-11
-II Peter 1:7
-Heb. 13:1
-
-Romans 12:10 13:8
-Heb 3:13
-Ephesians 5:21
-John 13:14
-Philphians 2;3
-I Peter 4:9-10, 5:5
-
-- We are to carry each others burdens: Galatians 6:2
-
-No man can help another, without first helping himself understand that principle, that we are to love one another.
-
-Contrasted here is weakness and faith. Weakness looks at the letter of the law, but faith can also see the spirit of the law.
-
-Conduct indicates character.
-
-If your 
-
-First ineffective faith, than weak faith
-
-Weak faith: lacks endurance, often falters
-
-Weak faith can become strong faith, by recognizing our limitations.
-Give my limitations to God, and our love shall increase.
-
-Effective faith: depends upon God, more concerned about growth than of size
-rests upon what Christ has already done and accomplished
-becomes stronger through trials and pressure, by endurance
-
-Our faith needs to be alive and growing.
-I have hopeful expectations because of my faith in Christ.
-I have put my trust in God. My strength is not in who I am, but in whom I have put my trust in.
-
-## Do Not Put a Stumbling Block in My Brother's Way, vs. 13-17
-
-- Let us not be a reason for someone else&apos;s failure. Let us be encouragers of their faith.
-- There is more to the Gospel than my opinions!
-- What is the NATURE OF THE KINGDOM OF GOD?
-- What Goals ought we to have?
-
-## We are Commission to Pursue After Peace in our Differences, vs. 18-20
-
-> 18 For he that in these things serveth Christ is acceptable to God, and approved of men. 19 Let us therefore follow after the things which make for peace, and things wherewith one may edify another. 20 For meat destroy not the work of God. All things indeed are pure; but it is evil for that man who eateth with offence. 21 It is good neither to eat flesh, nor to drink wine, nor any thing whereby thy brother stumbleth, or is offended, or is made weak. 
-
-## The Blessing of Liberty, vs. 22-23
-
-> 22 Hast thou faith? have it to thyself before God. Happy is he that condemneth not himself in that thing which he alloweth. 23 And he that doubteth is damned if he eat, because he eateth not of faith: for whatsoever is not of faith is sin. 
-
-it is Much more blessed to have liberty before God which we do not use on account of our brother's weaknesses, than to insist on liberty, though it is distinctly given.
+It is Much more blessed to have liberty before God which we do not use on account of our brother's weaknesses, than to insist on liberty, though it is distinctly given.
