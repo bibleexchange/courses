@@ -2,8 +2,7 @@
 
 ## Death and life are in the power of the tongue
 
-> Proverbs 18:21—Death and life are in the power of the tongue:  
-> And they that love it shall eat the fruit thereof.
+> Proverbs 18:21—
 
 Some preachers will tell you that this scripture reveals that there is a supernatural force behind our words, and that with our words we can speak things into existence. They say that if you claim good things and say, "I will have a new car," then God will give you a new car. They also say that if you let negative words escape your mouth, such as, "I am feeling sick today," then you will experience the things you said.
 
@@ -13,23 +12,15 @@ The primary way that one human lets another human know what he is thinking is th
 
 The tongue is a powerful tool (or weapon, depending on how it is used). James says it is like the helm of a ship, because even though it is small, the tongue can alter the course of our lives (James 3:3–5). The book of Proverbs gives many examples of the consequences to the things we say.
 
-<!-- The tongue stands in the middle ready for either use; you are its master. So also does a sword lie in the middle; if you use it against the enemy, it becomes an instrument for your safety; if you use it to wound yourself, it is not the steel but your own transgression of the law that causes your death. Let us think of the tongue in the same way, as a sword lying in the middle. Sharpen it to accuse yourself of your own sins, but do not use it to wound your brother.
-> Hence, God has surrounded the tongue with a double wall—with the barrier of the teeth and the fence of the lips—in order that it may not easily and heedlessly utter words it should not speak. BAPTISMAL INSTRUCTIONS 9.33–35.
-> Quoted from Wright, J. R. (Ed.). (2005). Proverbs, Ecclesiastes, Song of Solomon (p. 123). Downers Grove, IL: InterVarsity Press.-->
-
 ## Some positive consequences of words
 
 ### We can benefit from our own good words
 
 Proverbs 18:20, which immediately precedes the verse about life and death being in the power of the tongue, talks about the positive results that come from speaking wisely:
 
-> Proverbs 18:20—A man’s belly shall be satisfied with the fruit of his mouth;  
-> And with the increase of his lips shall he be filled.
+> Proverbs 18:20—
 
 Our words are like seeds, and if they are healthy seeds, then they will produce fruit. In his commentary on Proverbs, Lindsay Wilson says that "the idea of the first line is that those who speak well (e.g. carefully, truthfully, compellingly) can gain success and earn a living (e.g. by making a deal, motivating others, resolving problems). Their lips or speech produce a useful outcome which enables them to meet their needs." [1] Tremper Longman III takes a slightly different approach and says that "just as food satisfies one’s physical hunger, so also words satisfy one’s intellectual and spiritual hunger." [2] Both interpretations fit because they show the positive results of our words. See also 12:14 and 13:2.
-
-<!-- Moffatt paraphrases 20 well, but one-sidedly: ‘A man must answer for his utterances, and take the consequences of his words.’
-> Kidner, D. (1964). Proverbs: An Introduction and Commentary (Vol. 17, p. 123). Downers Grove, IL: InterVarsity Press.-->
 
 There are times when we find ourselves in difficult situations, but if we use wise words, they will deliver us out of the trouble (12:6).
 
@@ -52,15 +43,6 @@ We need to ask ourselves if our words are matching up with the examples on this 
 ### Our words can hurt ourselves
 
 Many times we blame others for our troubles, but it is very possible that our problems are a consequence of foolish or unrighteous words (6:12–15; 12:13; **18:7**). These words can trap us as people use the things that we have said against us. This snare is not always because of wicked words. For example, how many of us have felt trapped because we made an unwise promise that we couldn't keep? If we do not carefully guard our mouth, it will put us in positions where people will want to verbally and perhaps even physically fight with us (10:14; 17:20; **18:6**).
-
-<!--
-> The fool’s pride finds a rod in his mouth that lashes himself—he is his own worst enemy—and others.
-> Waltke, B. K. (2004). The Book of Proverbs, Chapters 1–15 (p. 585). Grand Rapids, MI: Wm. B. Eerdmans Publishing Co.
-
-Proverbs 14:3 (KJV 1900)
-      3       In the mouth of the foolish is a rod of pride:
-      But the lips of the wise shall preserve them.
--->
 
 ### Our words can hurt others
 
@@ -106,31 +88,11 @@ You can say the right words, but if you can say them in a mean or angry manner, 
 
 Proverbs 23:9 tells us that we should not try speaking to a foolish person, because they will despise what you say. Paul told both Titus (Titus 3:9) and Timothy (II Timothy 2:23) to avoid pointless conversations because they will only produce strife. Even with these warnings, sometimes it is wise to try to persuade a foolish person (26:4–5).
 
-<!--
-### The wise man spreads knowledge?
-
-?? Proverbs 12:23 (KJV 1900)
-      23       A prudent man concealeth knowledge:
-      But the heart of fools proclaimeth foolishness.
-
-Proverbs 15:7 (KJV 1900)
-      7       The lips of the wise disperse knowledge:
-      But the heart of the foolish doeth not so.
-
-### The tongue of the wise uses knowledge correctly
-
-Proverbs 15:2 (KJV 1900)
-      2       The tongue of the wise useth knowledge aright:
-      But the mouth of fools poureth out foolishness.
--->
-
 ### We should speak righteous words
 
-> Proverbs 15:26—The thoughts of the wicked are an abomination to the LORD:  
-> But the words of the pure are pleasant words.
+> Proverbs 15:26—
 
-> Proverbs 16:13—Righteous lips are the delight of kings;  
-> And they love him that speaketh right.
+> Proverbs 16:13—
 
 See also 19:1.
 
@@ -138,70 +100,6 @@ See also 19:1.
 
 Talking is one of the easiest things to do, but it is also the easiest way to sin or hurt people. That is why Proverbs gives many warnings and much advice on how we should speak.
 
->Proverbs 16:1—The preparations of the heart in man,  
-> And the answer of the tongue, is from the LORD.
+>Proverbs 16:1—
 
 See also 16:10.
-
-<!--I'm not sure where to fit these in right now. They could be worked in later.
-> To give advice in the king’s presence in well-chosen words was a very responsible office which demanded precise, expert knowledge which one could acquire only after a long training. It is, therefore, no accident if, in all these didactic works, instructions about the right and wrong use of words plays such a large role.
-> Wisdom in Israel pg 16
-
-> In Proverbs, the wise have more to say about the use and abuse of language than any other subject. This should come as no surprise considering the oral culture in which the sages worked.
-> Proverbs and the Formation of Character
-
-Proverbs 10:6 (KJV 1900)
-      6       Blessings are upon the head of the just:
-      But violence covereth the mouth of the wicked.
-
-Proverbs 10:13 (KJV 1900)
-      13       In the lips of him that hath understanding wisdom is found:
-      But a rod is for the back of him that is void of understanding.
-
-Proverbs 10:31–32 (KJV 1900)
-      31       The mouth of the just bringeth forth wisdom:
-      But the froward tongue shall be cut out.
-      32       The lips of the righteous know what is acceptable:
-      But the mouth of the wicked speaketh frowardness.
-
-Proverbs 16:23 (KJV 1900)
-      23       The heart of the wise teacheth his mouth,
-      And addeth learning to his lips.
-
-Proverbs 17:7 (KJV 1900)
-      7       Excellent speech becometh not a fool:
-      Much less do lying lips a prince.
-
-Proverbs 19:28 (KJV 1900)
-      28       An ungodly witness scorneth judgment:
-      And the mouth of the wicked devoureth iniquity.
-
-Proverbs 22:11 (KJV 1900)
-      11       He that loveth pureness of heart,
-      For the grace of his lips the king shall be his friend.
-
-Proverbs 23:15–16 (KJV 1900)
-      15       My son, if thine heart be wise,
-      My heart shall rejoice, even mine.
-      16       Yea, my reins shall rejoice,
-      When thy lips speak right things.
-
-Proverbs 24:1–2 (KJV 1900)
-      Be not thou envious against evil men,
-      Neither desire to be with them.
-      2       For their heart studieth destruction,
-      And their lips talk of mischief.
-
-Proverbs 26:23–26 (KJV 1900)
-      23       Burning lips and a wicked heart
-      Are like a potsherd covered with silver dross.
-      24       He that hateth dissembleth with his lips,
-      And layeth up deceit within him;
-      25       When he speaketh fair, believe him not:
-      For there are seven abominations in his heart.
-      26       Whose hatred is covered by deceit,
-      His wickedness shall be shewed before the whole congregation.
--->
-
-* [1] Proverbs: An Introduction And Commentary By Lindsay Wilson pg. 305
-* [2] Proverbs (Baker Commentary on the Old Testament Wisdom and Psalms) By Tremper Longman III pg. 474

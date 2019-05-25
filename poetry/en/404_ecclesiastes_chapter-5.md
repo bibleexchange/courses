@@ -1,9 +1,4 @@
-## Chapter 5 (When You Go to God's House, The Vanity of Riches and The Conclusion to Increase)
-
-<!--
-## Introduction
--->
-
+# Chapter 5 (When You Go to God's House, The Vanity of Riches and The Conclusion to Increase)
 
 ## When You Go to God's House, vs. 1-8
 
@@ -85,12 +80,9 @@ keep God actively involved in our lives ... Go to the house if God ... Are we ac
 
 4. **Where is the Profit?** (naked shall he return, you can't take it with you.)
 
-> 13 There is a sore evil which I have seen under the sun, namely, riches kept for the owners thereof to their hurt. 14 But those riches perish by evil travail: and he begetteth a son, and there is nothing in his hand. 15 As he came forth of his mother's womb, naked shall he return to go as he came, and shall take nothing of his labour, which he may carry away in his hand.
-16 And this also is a sore evil, that in all points as he came, so shall he go: and what profit hath he that hath laboured for the wind? 17 All his days also he eateth in darkness, and he hath much sorrow and wrath with his sickness.
+> 13-17
 
 ## The Conclusion to Increase, vs. 18-20
-
-> 18 Behold that which I have seen: it is good and comely for one to eat and to drink, and to enjoy the good of all his labour that he taketh under the sun all the days of his life, which God giveth him: for it is his portion. 19 Every man also to whom God hath given riches and wealth, and hath given him power to eat thereof, and to take his portion, and to rejoice in his labour; this is the gift of God. 20 For he shall not much remember the days of his life; because God answereth him in the joy of his heart.
 
 - Eat, Drink and Enjoy Life. Compare with Ecclessiastes 2:24-26 and Ecclessiastes 9:7-10
 
@@ -186,35 +178,3 @@ F. E. Marsh has enumerated some of these blessings:
 9. A peace that can never be disturbed (John 14:27). 
 10. A righteousness that can never be tarnished (2 Cor. 5:21). 
 11. A salvation that can never be canceled (Heb. 5:9).
-
-<!--
-
-## Chapter 6 (The vanity of long life.)
-
-1 There is an evil which I have seen under the sun, and it is common among men:
-2 A man to whom God hath given riches, wealth, and honour, so that he wanteth nothing for his soul of all that he desireth, yet God giveth him not power to eat thereof, but a stranger eateth it: this is vanity, and it is an evil disease.
-3 If a man beget an hundred children, and live many years, so that the days of his years be many, and his soul be not filled with good, and also that he have no burial; I say, that an untimely birth is better than he.
-4 For he cometh in with vanity, and departeth in darkness, and his name shall be covered with darkness.
-5 Moreover he hath not seen the sun, nor known any thing: this hath more rest than the other.
-6 Yea, though he live a thousand years twice told, yet hath he seen no good: do not all go to one place?
-7 All the labour of man is for his mouth, and yet the appetite is not filled.
-8 For what hath the wise more than the fool? what hath the poor, that knoweth to walk before the living?
-9 Better is the sight of the eyes than the wandering of the desire: this is also vanity and vexation of spirit.
-10 That which hath been is named already, and it is known that it is man: neither may he contend with him that is mightier than he.
-11 Seeing there be many things that increase vanity, what is man the better?
-12 For who knoweth what is good for man in this life, all the days of his vain life which he spendeth as a shadow? for who can tell a man what shall be after him under the sun?
-
-
-## Chapter 7 (Series of wise sayings and evil woman.)
-
-## Chapter 8 (Civil duties, uncertainty of life, certainty of divine judgment and injustices of life, epicureanism, the work of God and man)
-
-## Chapter 9 (Like things happen to the righteous and the wicked, wisdom is pre-eminant and often unappreciated)
-
-## Chapter 10 (Various wise sayings, the contrast between wisdom and folly)
-
-## Chapter 11 (Benevolences and advice to the young.)
-
-## Chapter 12 (Description of old age, conclusion concerning the highest duty of man.)
-
--->

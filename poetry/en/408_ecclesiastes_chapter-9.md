@@ -1,11 +1,6 @@
-<style>h2 {color: red; font-weight: bold;} body {max-width: 800px;}</style>
-
 # Death, Life, and Evil Times
 
-<!-- ############################### -->
 ## The Despair of Death: One Event Unto All (vs. 1-3)
-
-> Ec 9:1 ¶ For all this I considered in my heart even to declare all this, that the righteous, and the wise, and their works, are in the hand of God: no man knoweth either love or hatred by all that is before them. 2 All things come alike to all: there is one event to the righteous, and to the wicked; to the good and to the clean, and to the unclean; to him that sacrificeth, and to him that sacrificeth not: as is the good, so is the sinner; and he that sweareth, as he that feareth an oath. 3 This is an evil among all things that are done under the sun, that there is one event unto all: yea, also the heart of the sons of men is full of evil, and madness is in their heart while they live, and after that they go to the dead.
 
 - Men Don't know the Love of God by what is seen, v. 1
 - the righteous, and the wise, and their works, are **in the hand of God** (Is this disappointing to you?)
@@ -22,8 +17,6 @@
 <!-- ############################### -->
 ## The Hope of Life: No Hope in the Grave (vs. 4-10)
 
-> 4 ¶ For to him that is joined to all the living there is hope: for a living dog is better than a dead lion. 5 For the living know that they shall die: but the dead know not any thing, neither have they any more a reward; for the memory of them is forgotten. 6 Also their love, and their hatred, and their envy, is now perished; neither have they any more a portion for ever in any thing that is done under the sun. 7 Go thy way, eat thy bread with joy, and drink thy wine with a merry heart; for God now accepteth thy works. 8 Let thy garments be always white; and let thy head lack no ointment. 9 Live joyfully with the wife whom thou lovest all the days of the life of thy vanity, which he hath given thee under the sun, all the days of thy vanity: for that is thy portion in this life, and in thy labour which thou takest under the sun. 10 Whatsoever thy hand findeth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.
-
 - In Light of Death, How Can We Live?
 - If all existence and consciousness ends with death, then the only thing that matters is this present life (and therefore nothing really matters).
 - v.7 SMALL HOPE? "Go, eat your bread with joy". "Life is utterly meaningless and our common death and destiny prove it to be so. So forget about all I have said and have a good time."
@@ -32,7 +25,7 @@
 
 > "White garments and anointing oil make life more comfortable in a hot climate." (Eaton)
 
-> 10 Whatsoever thy hand findeth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.
+> 10
 
 - The Preacher continued to give advice meant to make the best of the bad situation of life under the sun. (Ecc 9:7-10) With such a view of life and death, joy is only found in the moment.
 
@@ -40,8 +33,6 @@
 
 <!-- ############################### -->
 ## The Mystery of Time and Chance: Happens to All (vs. 11-18)
-
-> 11 ¶ I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happeneth to them all. 12 For man also knoweth not his time: as the fishes that are taken in an evil net, and as the birds that are caught in the snare; so are the sons of men snared in an evil time, when it falleth suddenly upon them. 13 ¶ This wisdom have I seen also under the sun, and it seemed great unto me: 14 There was a little city, and few men within it; and there came a great king against it, and besieged it, and built great bulwarks against it: 15 Now there was found in it a poor wise man, and he by his wisdom delivered the city; yet no man remembered that same poor man. 16 Then said I, Wisdom is better than strength: nevertheless the poor man's wisdom is despised, and his words are not heard. 17 The words of wise men are heard in quiet more than the cry of him that ruleth among fools. 18 Wisdom is better than weapons of war: but one sinner destroyeth much good.
 
 - Time and chance make life under the sun hard to understand.
 - In a world that made more sense under the sun, then the swift would always win the race and the strong would always win the battle. Yet it doesn't always work that way.
@@ -77,7 +68,7 @@ No amount of wisdom or skill appears to prevent such a snare.
 
 Bad things happen as a result of humanity’s choices; as a result of sin and forsaking God. But none of them happen “accidentally” or apart from God’s will.
 
-> Genesis 45:5-8 &mdash; Now therefore be not grieved, nor angry with yourselves, that ye sold me hither: for God did send me before you to preserve life. 6 For these two years hath the famine been in the land: and yet there are five years, in the which there shall neither be earing nor harvest. 7 And God sent me before you to preserve you a posterity in the earth, and to save your lives by a great deliverance.  8 So now it was not you that sent me hither, but God: and he hath made me a father to Pharaoh, and lord of all his house, and a ruler throughout all the land of Egypt.
+> Genesis 45:5-8
 
 ### Wisdom is Better, but Is Often Wasted, vs. 13-18
 
@@ -106,11 +97,3 @@ i. Solomon sensed that it was much easier to destroy than to build. Establishing
 - Adam's sin infected the whole race of man. (Romans 5:12)
 - Achan's transgression caused Israel's defeat. (Joshua 7:11, 12)
 - Rehoboam's folly resulted in the great division of Israel and Judah. (1 Kings 12:16)
-
-<!--
-# Chapter 10 (Various wise sayings, the contrast between wisdom and folly)
-
-# Chapter 11 (Benevolences and advice to the young.)
-
-# Chapter 12 (Description of old age, conclusion concerning the highest duty of man.)
--->

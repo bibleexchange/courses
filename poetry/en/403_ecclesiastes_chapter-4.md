@@ -4,20 +4,16 @@
 
 Power, Possessions, Popularity will not make it right. Only Jesus!
 
-## The Oppressor and the Oppressed (Power)
-
-> 1 So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter. 2 Wherefore I praised the dead which are already dead more than the living which are yet alive. 3 Yea, better is he than both they, which hath not yet been, who hath not seen the evil work that is done under the sun.
+## The Oppressor and the Oppressed (Power) (v. 1-2)
 
 - Power and authority does not always have to result in oppression.
-
 - "Looks bad for those without the power" = vanity v.1
-
 - "My life is hopeless, it would be better if I never lived." vs. 2,3
 
 > 2 Corinthians 1:24 &mdash; Not for that we have dominion over your faith, but are helpers of your joy: for by faith ye stand.
-<!-- -->
+
 > 1 Peter 5:3 &mdash; Neither as being lords over God's heritage, but being ensamples to the flock.
-<!-- -->
+
 > 2 Corinthians 4:5 &mdash; For we preach not ourselves, but Christ Jesus the Lord; and ourselves your servants for Jesus' sake.
 
 > 1 Timothy 3:3 &mdash; Not given to wine, no striker, not greedy of filthy lucre; but patient, not a brawler, not covetous; 
