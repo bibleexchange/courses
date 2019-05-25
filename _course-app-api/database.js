@@ -57,6 +57,16 @@ class database {
   	return fs.readFileSync(path, 'utf8')
   }
 
+  test(){
+  	let file = fs.readFileSync("./gift.md", 'utf8')
+
+  	file = file
+  			.replace('(\/\*[\w\'\s\r\n\*]*\*\/)|(\/\/[\w\s\']*)|(\<![\-\-\s\w\>\/]*\>)')
+  			.split('\r\n\r\n')
+  	console.log(file)
+  	return file
+  }
+
 }
 
 export default new database();

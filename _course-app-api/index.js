@@ -28,6 +28,15 @@ app.get('/api/v1/courses', (req, res) => {
   })
 });
 
+// for developing quiz parsing from GIFT format
+app.get('/test', (req, res) => {
+  res.status(200).send({
+    success: 'true',
+    message: 'parsed successfully',
+    data: db.test()
+  })
+});
+
 app.post('/api/v1/courses', (req, res) => {
   if(!req.body.title) {
     return res.status(400).send({
