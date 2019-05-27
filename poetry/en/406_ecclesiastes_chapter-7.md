@@ -1,5 +1,3 @@
-<style>h2 {color: red; font-weight: bold;} body {max-width: 800px;}</style>
-
 # Chapter 7 (Better and Balanced Living)
 
 ## Introduction to Chapter 7
@@ -43,82 +41,70 @@ The first half of chapter seven offers "counsel for better living" with a series
 
 ### 1. Death/Life and Mourning/Joy - Comparisons of which is Better (v.1-4):
 
-> 1 A good name is better than precious ointment; and the day of death than the day of one's birth. 2 It is better to go to the house of mourning, than to go to the house of feasting: for that is the end of all men; and the living will lay it to his heart. 3 Sorrow is better than laughter: for by the sadness of the countenance the heart is made better. 4 The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth.
+- HONOR IS BETTER THAN LUXURY (A Good Name > Precious Ointment)
+   A good name is highly valued and more than precious ointment (representative of luxury)
 
-	- HONOR IS BETTER THAN LUXURY (A Good Name > Precious Ointment)
-      A good name is highly valued and more than precious ointment (representative of luxury)
+- Day of Death > Day of One's Birth
 
-	- Day of Death > Day of One's Birth
+1. One's birth is the beginning of sorrows - cf. Job 14:1; 3:1-3; Jer 20:14-18
+2. One's death can be the beginning of eternal bliss - cf. Isa 57:1-2; Re 14:13
 
-	1. One's birth is the beginning of sorrows - cf. Job 14:1; 3:1-3; Jer 20:14-18
-	2. One's death can be the beginning of eternal bliss - cf. Isa 57:1-2; Re 14:13
+- Go to The House of Mourning > The House of Feasting
+	- (FOR: That is the end for the dead, but the living will be burdened.)
+	- Sorrow > Laughter (FOR: The heart is made better by the sadness of the countenance.)
 
-	- Go to The House of Mourning > The House of Feasting
-		- (FOR: That is the end for the dead, but the living will be burdened.)
-		- Sorrow > Laughter (FOR: The heart is made better by the sadness of the countenance.)
-
- 		1. Better to go to the house of mourning than the house of feasting
-         a. For the funeral home is the end of all men
-         b. Where the living will take it to heart
-      2. Sorrow is better than laughter, for a sad countenance makes a heart better
-         a. Thus the heart of the wise is in the house of mourning
-         b. While the heart of fools is in the house of mirth
+1. Better to go to the house of mourning than the house of feasting
+   a. For the funeral home is the end of all men
+   b. Where the living will take it to heart
+2. Sorrow is better than laughter, for a sad countenance makes a heart better
+   a. Thus the heart of the wise is in the house of mourning
+   b. While the heart of fools is in the house of mirth
 
 ### 2. The Wise and Fools (v.5-7)
 
-> 5 It is better to hear the rebuke of the wise, than for a man to hear the song of fools. 6 For as the crackling of thorns under a pot, so is the laughter of the fool: this also is vanity. 7 Surely oppression maketh a wise man mad; and a gift destroyeth the heart. 
-
---
 A REBUKE OF THE WISE IS BETTER THAN THE SONG OF FOOLS (5-7)
-      1. For the laughter of the fool is vanity, like the crackling of
-         thorn under a pot
-      2. Oppression destroys a wise man's reason, and a bribe debases
-         his heart
+
+1. For the laughter of the fool is vanity, like the crackling of
+   thorn under a pot
+2. Oppression destroys a wise man's reason, and a bribe debases
+   his heart
 
 ### 3. THE END IS BETTER THAN THE BEGINNING (v.8a)
 
-	- Right Spirit
+- Right Spirit
 
-> 8 Better is the end of a thing than the beginning thereof: and the patient in spirit is better than the proud in spirit. 9 Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools.
-
-
-      1. Similar to what we have already seen regarding birth and death
-         - cf. Ec 7:1
-      2. Not all that starts has an end; in the completion of a task one finds satisfaction
+1. Similar to what we have already seen regarding birth and death
+   - cf. Ec 7:1
+2. Not all that starts has an end; in the completion of a task one finds satisfaction
 
 
-### 4. PATIENCE IS BETTER THAN PRIDE (8b-9)
-      1. The patient in spirit is better than the proud in spirit
-      2. Do not be hasty to be angry, for anger rests in the bosom of
-         fools
+### 4. PATIENCE IS BETTER THAN PRIDE (v. 8b-9)
 
-### 5. THE PRESENT IS BETTER THAN THE PAST (10)
+1. The patient in spirit is better than the proud in spirit
+2. Do not be hasty to be angry, for anger rests in the bosom of
+   fools
 
-> 10 Say not thou, What is the cause that the former days were better than these? for thou dost not enquire wisely concerning this. 
+### 5. THE PRESENT IS BETTER THAN THE PAST (v. 10)
 
-      1. We should not say "why were the former days better?"
-      2. One is not wise in thinking in such a manner
+1. We should not say "why were the former days better?"
+2. One is not wise in thinking in such a manner
 
-### 6. WISDOM IS BETTER THAN WEALTH (11-12)
+### 6. WISDOM IS BETTER THAN WEALTH (v. 11-12)
 
-> 11 Wisdom is good with an inheritance: and by it there is profit to them that see the sun. 12 For wisdom is a defence, and money is a defence: but the excellency of knowledge is, that wisdom giveth life to them that have it. 
+1. Wisdom along with an inheritance is good, and profitable for
+   the living
+2. Wisdom is a defense like money, but wisdom gives life to those who have it (Wisdom = Life)
 
-      1. Wisdom along with an inheritance is good, and profitable for
-         the living
-      2. Wisdom is a defense like money, but wisdom gives life to those who have it (Wisdom = Life)
+### 7. RESIGNATION IS BETTER THAN INDIGNATION (v. 13-14)
 
-### 7. RESIGNATION IS BETTER THAN INDIGNATION (13-14)
-
-> 13 Consider the work of God: for who can make that straight, which he hath made crooked? 14 In the day of prosperity be joyful, but in the day of adversity consider: God also hath set the one over against the other, to the end that man should find nothing after him.
-
-      1. There are some things of God we cannot change
-      2. God has appointed both the day of prosperity and the day of
-         adversity, so man is unable to determine what will happen after
-         him
-      3. The solution?
-         a. In the day of prosperity be joyful
-         b. In the day of adversity consider (e.g., what lessons might
-            be learned)
+1. There are some things of God we cannot change
+2. God has appointed both the day of prosperity and the day of
+   adversity, so man is unable to determine what will happen after
+   him
+3. The solution?
+   a. In the day of prosperity be joyful
+   b. In the day of adversity consider (e.g., what lessons might
+      be learned)
 
 ## Counsel for Balanced Living (Chapter 7:15-29)
 
@@ -147,7 +133,7 @@ Find the right balance of living: Avoid extremism in wickedness and foolishness,
 
 #### 2. Too Righteous? Too Wise? Too Wicked?
 
-> 16 Be not righteous over much; neither make thyself over wise: why shouldest thou destroy thyself ? 17 Be not over much wicked, neither be thou foolish: why shouldest thou die before thy time? 18 It is good that thou shouldest take hold of this; yea, also from this withdraw not thine hand: for he that feareth God shall come forth of them all. 19 Wisdom strengtheneth the wise more than ten mighty men which are in the city.
+> 16-19
 
 Do not ever refrain from true righteousness and wisdom. Fearing God will help one escape extremism. Wisdom is a source of strength.
 
@@ -155,7 +141,7 @@ Find the right balance of living: Avoid extremism in seeking to be righteous and
 
 #### 3. What's that in your eye? 
 
-> 20 For there is not a just man upon earth, that doeth good, and sinneth not. 21 Also take no heed unto all words that are spoken; lest thou hear thy servant curse thee: 22 For oftentimes also thine own heart knoweth that thou thyself likewise hast cursed others.
+> 20-22
 
 ##### a. Hypocrisy and Self-Righteousness
 
@@ -179,13 +165,9 @@ No man of his own strength is invincible or perfect even the wise.
 
 #### 1. There are questions wisdom can't answer (v. 23-25)
 
-> 23 All this have I proved by wisdom: I said, I will be wise; but it was far from me. 24 That which is far off, and exceeding deep, who can find it out? 25 I applied mine heart to know, and to search, and to seek out wisdom, and the reason of things, and to know the wickedness of folly, even of foolishness and madness:
-
 Some things are beyond one's ability to find. No matter how hard and long you search. The preacher testifies, "I've Tried and Failed.""
 
 #### 2. A wicked woman is certainly to be avoided (v.26)
-
-> 26 And I find more bitter than death the woman, whose heart is snares and nets, and her hands as bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her.
 
 It is not that he has learning nothing in his search, but there are things that are clear as day Which he found out in his search for wisdom.
 
@@ -195,7 +177,7 @@ He who pleases God shall escape from her, but the sinner shall be taken by her
 
 #### 3. A Good A good man is hard to find
 
-> 27 Behold, this have I found, saith the preacher, counting one by one, to find out the account: 28 Which yet my soul seeketh, but I find not: one man among a thousand have I found; but a woman among all those have I not found. 29 Lo, this only have I found, that God hath made man upright; but they have sought out many inventions.
+> 27-29
 
 God Made Man Good, but Man is not Good. In his search, the preacher found only one in a thousand. A good woman was even rarer. 
 
@@ -298,18 +280,3 @@ REVIEW QUESTIONS FOR THE CHAPTER
 
 26) What else had he found? (29)
    - God made man upright, but they have sought out many schemes
-
-<!--
-
-
-# Chapter 8 (Civil duties, uncertainty of life, certainty of divine judgment and injustices of life, epicureanism, the work of God and man)
-
-# Chapter 9 (Like things happen to the righteous and the wicked, wisdom is pre-eminant and often unappreciated)
-
-# Chapter 10 (Various wise sayings, the contrast between wisdom and folly)
-
-# Chapter 11 (Benevolences and advice to the young.)
-
-# Chapter 12 (Description of old age, conclusion concerning the highest duty of man.)
-
--->

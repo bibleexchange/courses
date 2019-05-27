@@ -1,12 +1,8 @@
-<style>h2 {color: red; font-weight: bold;} body {max-width: 800px;}</style>
-
 # Chapter 10 (Folly and Wisdom)
 
 ## A. Folly Disgraces, vs. 1-7
 
 ### 1. Folly Disgraces a Wise Man's Honor. v.1
-
-> Ecclesiastes 10:1 ¶ Dead flies cause the ointment of the apothecary to send forth a stinking savour: so doth a little folly him that is in reputation for wisdom and honour. 
 
 - folly: foolishness, silliness;  lack of good sense or normal prudence and foresight; In the books of Poetry "folly" is used as the direct opposite of "wisdom". 
 
@@ -29,8 +25,6 @@ Even though generally speaking "out of character" as Moses (Numbers 12:3), Even 
 
 ### 2. Folly Disgraces the Fool by Revealing Itself, vs. 2-3
 
-> 2 A wise man's heart is at his right hand; but a fool's heart at his left. 3 Yea also, when he that is a fool walketh by the way, his wisdom faileth him, and he saith to every one that he is a fool.
-
 -The right hand was regarded as the side of strength, skill, good and favor and the left hand was regarded as weak, bad and even "sinister" (In Latin means left).
 
 >  "To have one's heart at his left side is to have the 'springs of life' (Proverbs 4:23) located in the realm of practical and spiritual incompetence." (Eaton)
@@ -40,8 +34,6 @@ Even though generally speaking "out of character" as Moses (Numbers 12:3), Even 
 - Jesus said wisdom is justified by all her children (Luke 7:25). Wisdom and folly become obvious in life.
 
 ### 3. Folly Disgraces in High Places, vs. 4-7
-
-> 4 ¶ If the spirit of the ruler rise up against thee, leave not thy place; for yielding pacifieth great offences. 5 There is an evil which I have seen under the sun, as an error which proceedeth from the ruler: 6 Folly is set in great dignity, and the rich sit in low place. 7 I have seen servants upon horses, and princes walking as servants upon the earth. 
 
 - "Leave not thy place" Even in a difficult situation, don't leave your post. Be faithful to your position.
 
@@ -69,8 +61,6 @@ Folly is set in great dignity:
 
 ### 1. Foolishness in action., vs. 8-10
 
-> 8 He that diggeth a pit shall fall into it; and whoso breaketh an hedge, a serpent shall bite him. 9 Whoso removeth stones shall be hurt therewith; and he that cleaveth wood shall be endangered thereby. 10 If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom is profitable to direct. 
-
 - Digging a Pit and Falling Into It
 - While Destroying Property, unware of the danger to yourself.
 - Working with a Dull Axe.
@@ -78,8 +68,6 @@ Folly is set in great dignity:
 The fool doesn't wisely consider the future, but wise use of one's time in the present can make for a much better future.
 
 ### 2. The babbling talk of the foolish., vs. 11-14
-
-> Ecclesiastes 10:11 &mdash; Surely the serpent will bite without enchantment; and a babbler is no better.  12 ¶ The words of a wise man's mouth are gracious; but the lips of a fool will swallow up himself. 13 The beginning of the words of his mouth is foolishness: and the end of his talk is mischievous madness. 14 A fool also is full of words: a man cannot tell what shall be; and what shall be after him, who can tell him?
 
 - Babbler is like a Biting Serpent
 - A fool also multiplies words The fool is known by his many words, and by his presumption about the future - when no man knows what is to be.
@@ -113,13 +101,13 @@ The Preacher continued to subtly back away from his previous under the sun premi
 
 Solomon himself felt that he was but a child when he came to the throne of Israel; therefore he wisely asked God for the wisdom to lead a great people.
 
-> 2 Kings 3:7-9 &mdash; And he went and sent to Jehoshaphat the king of Judah, saying, The king of Moab hath rebelled against me: wilt thou go with me against Moab to battle? And he said, I will go up: I am as thou art, my people as thy people, and my horses as thy horses. 8 And he said, Which way shall we go up? And he answered, The way through the wilderness of Edom. 9 So the king of Israel went, and the king of Judah, and the king of Edom: and they fetched a compass of seven days' journey: and there was no water for the host, and for the cattle that followed them.
+> 2 Kings 3:7-9
 
 - "A nation's first need is a mature leader. RSV is a child refers to age but to general maturity." (Eaton)
 
 #### b. Woe to you, O land ... Blessed are you, O land: 
 
-> Ecclesiastes 10:17,18 &mdash; Blessed art thou, O land, when thy king is the son of nobles, and thy princes eat in due season, for strength, and not for drunkenness! 18 By much slothfulness the building decayeth; and through idleness of the hands the house droppeth through. 
+> Ecclesiastes 10:17,18
 
 The Preacher understood that a land was blessed by good, faithful leaders, but cursed under wicked and incompetent leaders.
 
@@ -130,11 +118,11 @@ The Preacher understood that a land was blessed by good, faithful leaders, but c
 
 #### c. A feast is made for laughter, and wine makes merry; but money answers everything: 
 
-> 19 A feast is made for laughter, and wine maketh merry: but money answereth all things. 
+> 19
 
 #### d. The Ears of a King 
 
-> 20 Curse not the king, no not in thy thought; and curse not the rich in thy bedchamber: for a bird of the air shall carry the voice, and that which hath wings shall tell the matter.
+> 20
 
 Solomon here spoke in the voice of a wicked, unwise king. Along this line, he counseled his readers to not curse the king lest they be found out.
 
