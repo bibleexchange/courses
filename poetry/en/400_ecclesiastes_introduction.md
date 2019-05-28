@@ -12,16 +12,14 @@ It isn't completely clear what the exact translation of "ecclesiastes" should be
 
 Authorship of Ecclesiastes is often ascribed to Solomon.
 
-> Ecclesiastes 1:1 &mdash; The words of the Preacher, the son of David, king in Jerusalem.
+> Ecclesiastes 1:1 — The words of the Preacher, the son of David, king in Jerusalem.
 
-Jewish and early Christian tradition attribute the book to Solomon. The author identifies himself as "the son of David, king in Jerusalem" (1:1). He also refers to himself as "the Preacher" (1:1,2,12; 7:27; 12:8,9,10). 
-
-Many of the experiences spoken of in Ecclesiastes correspond quite well with what we know about Solomon's life. Internal evidences point to Solomon. Note the references to:
+Jewish and early Christian tradition attribute the book to Solomon. The author identifies himself as "the son of David, king in Jerusalem" (1:1). He also refers to himself as "the Preacher" (1:1,2,12; 7:27; 12:8,9,10). Many of the experiences spoken of in Ecclesiastes correspond quite well with what we know about Solomon's life. Internal evidences point to Solomon. Note the references to:
 
 * His wisdom (1:16; cf. 1 Ki 3:12)
 * His building activities (2:4-6; cf. 1 Ki 7:1-12)
 * His wealth (2:7-9; cf. 2 Chr 9:13-28 - all the things he built would require the wealth of an exceptionally wealthy king)
-* His activities after writing this book (12:9-10; cf. 1 Ki 4:30-34
+* His activities after writing this book (12:9-10; cf. 1 Ki 4:30-34)
 
 According to rabbinic tradition, Ecclesiastes was written by Solomon in his old age and possibly edited under Hezekiah. If Solomon is indeed the author, then the date the book was written would be around 945 B.C.
 
@@ -33,7 +31,7 @@ Some question whether certain conditions described in the book (3:16; 4:13-16; 5
 
 ## Key Verse
 
-> Ecclesiastes 12:13 &mdash; Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.
+> Ecclesiastes 12:13 — Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.
 
 ## Key Words
 
@@ -63,13 +61,13 @@ Life lived without good results, no matter how lived, is a waste and vain. "All 
 
 * At the conclusion of the book (12:8)
 
-Indeed, the key word in this book is "vanity." It occurs 35 times in 29 verses. It means "futility, uselessness, nothingness." But a key phrase to be noted is "under the sun". It is found 29 times in 27 verses. It suggests that this message of vanity is true when one looks at life purely from an earthly perspective. Leave God and eternity out of the equation, and life is truly vanity!
+Indeed, the key word in this book is "vanity." It occurs 35 times in 29 verses. It means "futility, uselessness, nothingness." But a key phrase to be noted is "under the sun." It is found 29 times in 27 verses. It suggests that this message of vanity is true when one looks at life purely from an earthly perspective. Leave God and eternity out of the equation, and life is truly vanity!
 
 ## Contents
 
 The 12 Chapters of this book contains the reflections and experiences of someone whose mind is in conflict over the problems of life. What value or purpose is there for living?
 
-After speaking of his disillusionments, he presents a materialistic veiw of life where there is nothing better than the carnal enjoyment of the pleasures of life.
+After speaking of his disillusionments, he presents a materialistic view of life where there is nothing better than the carnal enjoyment of the pleasures of life.
 
 Throughout the book the writer is struggling with this as though he would utter profound truths, he would often return to the materialistic theme. Koheleth is in conflict in his own mind throughout the book that thought he speaks great truths at time, he'll revisit the value of materialism and pleasure. He is struggling and confused himself until the final conclusion in 12:13. We live in an age of confusion. We must have our answer ready. 
 
@@ -88,7 +86,7 @@ Ecclesiastes prods us to consider our presentation of the Gospel. It is common f
 
 Paul probably was dumbfounded internally by what he found at Athens, but his chosen action was a clear presentation of the Gospel.
 
-> Acts 17:23 &mdash; For as I passed by, and beheld your devotions, I found an altar with this inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto you.
+> Acts 17:23 — For as I passed by, and beheld your devotions, I found an altar with this inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto you.
 
 The author of Ecclesiastes does this well as he suggests to the reader, "Ok, let us consider to the end what you have concluded about life." Does life have a point? If so, what is the point? How can we make sense of being here?
 
@@ -98,11 +96,11 @@ One example of the philosophies considered in Ecclesiastes is epicureanism:
 
 > "Epicureanism is an ancient school of philosophy founded in Athens by Epicurus. It rejects determinism and advocated hedonism (pleasure as the highest good), but of a restrained kind: mental pleasure was regarded more highly than physical, and the ultimate pleasure was held to be freedom from anxiety and mental pain, especially that arising from needless fear of death and of the gods."
 
-> Ecclesiastes 2:24 &mdash; There is nothing better for a man, than that he should eat and drink, and that he should make his soul enjoy good in his labour. This also I saw, that it was from the hand of God.
+> Ecclesiastes 2:24 — There is nothing better for a man, than that he should eat and drink, and that he should make his soul enjoy good in his labour. This also I saw, that it was from the hand of God.
 
-> Ecclesiastes 3:12,13 &mdash; I know that there is no good in them, but for a man to rejoice, and to do good in his life. 13 And also that every man should eat and drink, and enjoy the good of all his labour, it is the gift of God.
+> Ecclesiastes 3:12,13 — I know that there is no good in them, but for a man to rejoice, and to do good in his life. 13 And also that every man should eat and drink, and enjoy the good of all his labour, it is the gift of God.
 
-The conclusion to epicureanism or any of the other human philosophies void of the one true God, is that these "streets" are "dead end streets". Knowing this fromm the beginning, we must be more prepared to reach out to the lost and better explain the gospel than just resorting to "bullying" and "manipulative" tactics.
+The conclusion to epicureanism or any of the other human philosophies void of the one true God, is that these "streets" are "dead end streets." Knowing this from the beginning, we must be more prepared to reach out to the lost and better explain the gospel than just resorting to "bullying" and "manipulative" tactics.
 
 How ready is our answer for those caught in the snare of the enemy? Some absurdities when humanity looks for fulfillment and meaning while shutting God out concern:
 
@@ -115,8 +113,6 @@ How ready is our answer for those caught in the snare of the enemy? Some absurdi
 
 ## Quotable Book
 
-Ecclesiastes is one of the more quotable books of the Bible. But, should we? 
-
 * There is nothing new under the sun (1:9)
 * To everything there is a season (3:1)
 * Two are better than one (4:9)
@@ -125,11 +121,11 @@ Ecclesiastes is one of the more quotable books of the Bible. But, should we?
 * He who digs a pit will fall into it (10:8)
 * Money answers everything (10:19)
 
-How should we interpret and use this book? Like the book of Job, the best counsel can be found at the end of the book. The advice in-between must be taken with caution.
+Ecclesiastes is one of the more quotable books of the Bible. But, should we? How should we interpret and use this book? Like the book of Job, the best counsel can be found at the end of the book. The advice in-between must be taken with caution.
 
-Throughout the book, we will find what the Preacher later describes as "goads" and "nails".
+Throughout the book, we will find what Koholeth later describes as "goads" and "nails."
 
-> Ecclesiastes 12:11 &mdash; The words of the wise are as goads, and as nails fastened by the masters of assemblies, which are given from one shepherd.
+> Ecclesiastes 12:11 — The words of the wise are as goads, and as nails fastened by the masters of assemblies, which are given from one shepherd.
 
 These are wise sayings that will "prod" our thinking, and exhortations that will provide stability and direction for living. Ecclesiastes is certainly a book worthy of careful study!
 
