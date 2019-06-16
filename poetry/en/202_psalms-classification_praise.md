@@ -1,9 +1,4 @@
-&nbsp;
-<div class="fancy"><span>Deliverance Center House of Prayer</span></div>
-
 # Psalms of Praise
-
-<p class="fancy"><span>April 15, 2018</span></p>
 
 ## Introduction
 
@@ -12,9 +7,7 @@
 The **Psalms of Praise** are constructed around three key elements: 
 
 1. A call to praise or introduction
-
 2. A cause for praise (usually for God’s attributes or deeds)
-
 3. A conclusion
 
 Psalm is organized into five books. Each book concludes with a doxology, with the entire book of Psalms capped by Psalm 150, a grand ascribing of praise to God.
@@ -75,4 +68,3 @@ PRAISEWORTHY: deserving approval and admiration.
 - the LORD is good v. 3
 
 > GOOD &mdash; to be desired or approved of; having the qualities required for a particular role:	fine, superior, quality; that which is morally right; righteousness: virtue, righteousness, morality, integrity; benefit or advantage to someone.
-

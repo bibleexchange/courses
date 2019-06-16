@@ -1,15 +1,3 @@
-<!-- 
-1. **Psalms of Lament** contain a cry for deliverance or defense and questions that are addressed directly to God. 
-2. **Psalms of confidence** include a lament, but the ideas of security, peace, joy, and confidence predominate. 
-3. **Psalms of Thanksgiving** express public thanksgiving for what God has done or in anticipation of what He will do. 
-4. **Psalms of Praise** are constructed around three key elements: 
-5. **Psalms of Enthronement** speak of the rule of God over all the earth. 
-6. **Psalms of Zion** extol Zion, or Jerusalem
-7. **Psalms of Royalty** concern the reign of the king
-8. **Psalms of Wisdom** emphasize the traditional teaching of the wise men of Israel: meditation of the law, the way of the righteous, and the necessity of practical righteousness
-9. **Psalms of History** trace the history of God’s saving activity on behalf of Israel
--->
-
 # Psalms of Confidence
 
 **Psalms of confidence** include a lament, but the ideas of security, peace, joy, and confidence predominate. 
@@ -83,8 +71,6 @@ That death itself is gain!
 (psalms 3, 4, 11, 16, 23, 27, 62, 121, 131)
 
 ### Psalm 3
-
-> 1 {A Psalm of David, when he fled from Absalom his son.} LORD, how are they increased that trouble me! many are they that rise up against me. 2 Many there be which say of my soul, There is no help for him in God. Selah. 3 But thou, O LORD, art a shield for me; my glory, and the lifter up of mine head. 4 I cried unto the LORD with my voice, and he heard me out of his holy hill. Selah. 5 I laid me down and slept; I awaked; for the LORD sustained me. 6 I will not be afraid of ten thousands of people, that have set themselves against me round about. 7 Arise, O LORD; save me, O my God: for thou hast smitten all mine enemies upon the cheek bone; thou hast broken the teeth of the ungodly. 8 Salvation belongeth unto the LORD: thy blessing is upon thy people. Selah.
 
 - The Darkest Days of David’s Life (2 Samuel 15:1 &mdash; 19:8)
 

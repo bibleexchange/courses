@@ -1,9 +1,4 @@
-&nbsp;
-<div class="fancy"><span>Deliverance Center House of Prayer</span></div>
-
 # Psalms of Zion
-
-<p class="fancy"><span>June 6, 2018</span></p>
 
 ## Introduction
 

@@ -1,9 +1,4 @@
-&nbsp;
-<div class="fancy"><span>Deliverance Center House of Prayer</span></div>
-
 # The Psalms of Enthronement
-
-<p class="fancy"><span>May 13, 2018</span></p>
 
 ## Introduction
 
