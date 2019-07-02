@@ -4,6 +4,17 @@
 
 Included in the Psalms of Wisdom are psalms: 1, 14, 37, 49, 52, 53, 73, 75, 91, 112, 119, 127, 128, 133, 139.
 
+> While there is general agreement that wisdom psalms exist, and there is a core that occurs in everyone’s list (e.g. Psalms 1; 37; 49), no two scholars seem to agree about the precise number of psalms to be included in this category. For example, according to S. Mowinckel, the wisdom psalms are Psalms 1; 34; 37; 49; 78; 105; 106; 111; 112; 127; according to R.E. Murphy they are Psalms 1; 32; 34; 37; 49; 112; 128; while R.N. Whybray includes Psalms 1; 19B; 37; 49; 51; 73; 90; 92; 94; 104; 107; 111; 119; and L. Perdue Psalms 1; 19A; 19B; 32; 34; 37; 49; 73; 112; 119 and 127.
+> Day, J. (1999). Psalms (p. 54). London; New York: T&T Clark.
+
+> Wisdom literature divides naturally into the more ‘orthodox’ type, comparable to the book of Proverbs, and the more questioning approach found in the books of Job and Ecclesiastes. The former type is confident of the just working of God’s appointment of earthly rewards and punishments for the righteous and wicked, while the latter reflects varying degrees of questioning of this schematization of reality. Psalms 1 and 112 may be seen as wisdom psalms reflecting the former position and Psalms 37 and 49 (and possibly 73) the latter, though the Psalter contains nothing as sceptical as Ecclesiastes.
+> Day, J. (1999). Psalms (p. 55). London; New York: T&T Clark.
+
+**Torah psalms**
+
+> A sub-category of the wisdom psalms is that of what are sometimes called Torah (Law) psalms, viz. Psalms 119, 19B, and 1, the last of which has already been touched on. Like the term wisdom psalm, the expression Torah psalm is also a statement of content rather than form, but it is a useful category under which to include these psalms.
+> Day, J. (1999). Psalms (p. 56). London; New York: T&T Clark.
+
 **Psalms of Wisdom** emphasize:
 
 1. The teaching of the wise men of Israel
