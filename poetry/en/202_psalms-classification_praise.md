@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Praise is a wonderful and powerful thing. God inhabits the praise of His people (22:3), and praise can defeat the enemies of God (149:6-9).
+Praise is a wonderful and powerful thing. God inhabits the praise of His people (22:3), and praise can defeat the enemies of God (149:6–9).
 
 The **psalms of praise** are 8, 19, 29, 33, 78, 100, 103, 104, 105, 111, 113, 114, 117, 135, 136, 145–150. They are usually constructed around three key elements: 
 
@@ -12,11 +12,11 @@ The **psalms of praise** are 8, 19, 29, 33, 78, 100, 103, 104, 105, 111, 113, 11
 
 The book of Psalms is organized into five books. Each book concludes with a doxology, with the entire book of Psalms capped by Psalm 150, a grand ascribing of praise to God.
 
-* Book 1 (1-41) — DOXOLOGY: 41:13 
-* Book 2 (42-72) — DOXOLOGY: 72:18,19 
-* Book 3 (73-89) — DOXOLOGY: 89:52
-* Book 4 (90-106) — DOXOLOGY: 106:48
-* Book 5 (107-150) — DOXOLOGY: 150
+* Book 1 (1–41) — DOXOLOGY: 41:13 
+* Book 2 (42–72) — DOXOLOGY: 72:18,19 
+* Book 3 (73–89) — DOXOLOGY: 89:52
+* Book 4 (90–106) — DOXOLOGY: 106:48
+* Book 5 (107–150) — DOXOLOGY: 150
 
 Praise is an important thing for man, because if we are not worshiping God, then it is easy for us to worship something else. C. Hassell Bullock explains that:
 

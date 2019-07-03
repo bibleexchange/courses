@@ -38,7 +38,7 @@ There are 56 psalms of lament, which are divided into individual lament and nati
 
 ## Psalms of individual lament
 
-The psalms of individual lament are 5-7, 13, 17, 22, 25, 26, 28, 31, 35, 36, 38, 39, 42, 43, 51, 54-57, 59, 61, 63, 64, 69-71, 86, 88, 102, 109, 120, 130, 140-143.
+The psalms of individual lament are 5–7, 13, 17, 22, 25, 26, 28, 31, 35, 36, 38, 39, 42, 43, 51, 54–57, 59, 61, 63, 64, 69–71, 86, 88, 102, 109, 120, 130, 140–143.
 
 <!--By the fourteenth century, in selecting a single verse from each of the “Seven Psalms,” a tradition arose in personal devotion to link each psalm appropriately against a cardinal sin. Psalm 6 was used against Anger; Psalm 32, against Pride; Psalm 38, against Gluttony; Psalm 51, against Lechery; Psalm 102, against Greed; Psalm 130, against Envy; and Psalm 143, against Sloth.
 Christian Lament p 44-->
