@@ -1,5 +1,9 @@
 # Introduction to the Book of Psalms
 
+> Mowinckel acknowledges both aspects when he says.
+> In spite of the didactic character of the ‘learned psalmography’, it has one characteristic in common with genuine psalmography; these poems are, and must be considered as, prayers. Like every real psalm, they address God, even though they often address men as well.
+> Mandolfo, C. (2002). God in the Dock: Dialogic Tension in the Psalms of Lament (Vol. 357, p. 24). London; New York: Sheffield Academic Press.
+
 ## General details about the book
 
 * The book was originally titled _Tehillim_, which means “praises” in Hebrew. The English title of _Psalms_ is derived from a transliteration of the Septuagint’s Greek title _Psalmoi_, also meaning “songs of praise.”
