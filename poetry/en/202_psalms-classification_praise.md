@@ -4,7 +4,7 @@
 
 Praise is a wonderful and powerful thing. God inhabits the praise of His people (22:3), and praise can defeat the enemies of God (149:6–9).
 
-The **psalms of praise** are 8, 19, 29, 33, 78, 100, 103, 104, 105, 111, 113, 114, 117, 135, 136, 145–150. They are usually constructed around three key elements: 
+The **psalms of praise** are 8, 19, 29, 33, 78, 100, 103, 104, 105, 111, 113, 114, 117, 134, 135, 136, 145–150. They are usually constructed around three key elements: 
 
 1. A call to praise or introduction
 2. A cause for praise (usually for God’s attributes or deeds)

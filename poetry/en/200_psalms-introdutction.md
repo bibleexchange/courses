@@ -69,11 +69,11 @@ The book is inspired by God (2 Samuel 23:2; Matthew 22:43; Luke 24:44; Acts 1:16
 4. **Psalms of Praise** are constructed around three key elements: 
  * a call to praise or introduction, 
  * a cause for praise (usually for God’s attributes or deeds), and 
- * a conclusion (Chapters 8, 19, 29, 33, 100, 103, 104, 111, 113, 114, 117, 135, 136, 145 – 150)
+ * a conclusion (Chapters 8, 19, 29, 33, 100, 103, 104, 111, 113, 114, 117, 134, 135, 136, 145 – 150)
 
 5. **Psalms of Enthronement** of the Divine Kingdom contain the expression “the Lord reigns” (or, in the case of Psalm 98, “the Lord, the King”), and speak of the rule of God over all the earth. They are prophetic of Christ’s kingly rule (Chapters 47, 93, 96 – 99).
 
-6. **Psalms of Zion** extol Zion, or Jerusalem, for its exalted role as the abode of God’s glory and as the religious and political capital of the nation (Chapters 15, 24, 46, 48, 50, 76, 81, 84, 87, 95, 122, 134). The Pilgrim Psalms (see below), are sometimes included here, but they do not really constitute a distinct literary type. 
+6. **Psalms of Zion** extol Zion, or Jerusalem, for its exalted role as the abode of God’s glory and as the religious and political capital of the nation (Chapters 15, 24, 46, 48, 50, 76, 81, 84, 87, 122). The Pilgrim Psalms (see below), are sometimes included here, but they do not really constitute a distinct literary type. 
 
 7. **Psalms of Royalty** concern the reign of the king, either historical or messianic, or both (Chapters 2, 18, 20, 21, 45, 72, 89, 101, 110, 132, 144).
 
