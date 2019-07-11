@@ -99,7 +99,7 @@ The Preacher continued to subtly back away from his previous under the sun premi
 
 > Ecclesiastes 10:16 &mdash; Woe to thee, O land, when thy king is a child, and thy princes eat in the morning! 
 
-Solomon himself felt that he was but a child when he came to the throne of Israel; therefore he wisely asked God for the wisdom to lead a great people.
+Qoholet himself felt that he was but a child when he came to the throne of Israel; therefore he wisely asked God for the wisdom to lead a great people.
 
 > 2 Kings 3:7-9
 
@@ -124,7 +124,7 @@ The Preacher understood that a land was blessed by good, faithful leaders, but c
 
 > 20
 
-Solomon here spoke in the voice of a wicked, unwise king. Along this line, he counseled his readers to not curse the king lest they be found out.
+Qoholet here spoke in the voice of a wicked, unwise king. Along this line, he counseled his readers to not curse the king lest they be found out.
 
 - "Kings have long ears, heavy hands; walls also and hedges have ears." (Trapp)
 

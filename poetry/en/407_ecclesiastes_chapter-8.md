@@ -40,11 +40,11 @@
 9) What is not a wise thing to say? (10)
    - Why were the former days better than these?
 
-10) What two things had Solomon seen in the days of his vanity? (15)
+10) What two things had Qoholet seen in the days of his vanity? (15)
    - A just man perishing in his righteousness
    - A wicked man prolonging life in his wickedness
 
-11) Against what does Solomon caution? (16-18)
+11) Against what does Qoholet caution? (16-18)
    - Extremism in being righteous and wise, and in being wicked and foolish
 
 12) What should one not take to heart? (21-22)
@@ -67,7 +67,7 @@
 
 #### 1. Who is like a wise man? 
 
-Solomon searched for a wise man, who knew the interpretation of a thing. Solomon knew that wisdom makes a man happier, even in an under the sun premise (makes his face shine ... the sternness of his face is changed).
+Qoholet searched for a wise man, who knew the interpretation of a thing. Qoholet knew that wisdom makes a man happier, even in an under the sun premise (makes his face shine ... the sternness of his face is changed).
 
 "The shining face generally speaks of favour. Here it speaks of the wise man who is visibly gracious in his demeanour, and (as the next phrase says) whose gentleness is obvious in his facial expression." (Eaton)
 
@@ -81,7 +81,7 @@ Primarily, we honor government authority for the sake of our oath to God. We do 
 
 > "You have sworn obedience to him; keep your oath, for the engagement was made in the presence of God. It appears that the Jewish princes and chiefs took an oath of fidelity to their kings. This appears to have been done to David, 2 Samuel 5:1-3; to Joash, 2 Kings 11:17; and to Solomon, 1 Chronicles 29:24." (Clarke)
 
-We can agree with Solomon's advice here, from both an Old Testament and New Testament perspective. Yet one must say that it sounds self-serving coming from Solomon, who was a king himself.
+We can agree with Qoholet's advice here, from both an Old Testament and New Testament perspective. Yet one must say that it sounds self-serving if Qoholet was Solomon, who was a king himself.
 
 We also recognize that we are always to obey God rather than man if the two contradict (Acts 4:19). "Many passages in the Old Testament witness to the limits which loyalty to God must set on courtly tact and submissiveness." (Kidner)
 
@@ -98,7 +98,7 @@ This also makes us reflect on our obedience to God as the Great King.
 
 #### 1. He who keeps his command will experience nothing harmful: Good will come to those who obey and honor the king.
 
-#### 2. Because for every matter there is a time and judgment: Wisdom knows what Solomon first poetically explained in Ecclesiastes 3:1-8 - that there is a time and purpose for everything under heaven.
+#### 2. Because for every matter there is a time and judgment: Wisdom knows what Qoholet first poetically explained in Ecclesiastes 3:1-8 - that there is a time and purpose for everything under heaven.
 
 #### 3. Though the misery of man increases greatly. For he does not know what will happen.
 
@@ -108,7 +108,7 @@ The Preacher understood that for every matter there is a time and judgment; but 
 
 #### 4. No one has power over the spirit to retain the spirit, and no one has power in the day of death
 
-If the lack of wisdom discouraged Solomon in Ecclesiastes 8:6-7, he found the powerlessness of man in the face of death to be yet more despairing. Under the sun, he saw that death allows no winners, and there is no release from that war.
+If the lack of wisdom discouraged Qoholet in Ecclesiastes 8:6-7, he found the powerlessness of man in the face of death to be yet more despairing. Under the sun, he saw that death allows no winners, and there is no release from that war.
 
 #### 5. All this I have seen ... there is a time in which one man rules over another to his own hurt
 
@@ -120,11 +120,11 @@ The Preacher knew that part of man's misery on this earth was to be ruled by oth
 
 ### Ecclesiastes 8:10-13 (Why are the deeds of the wicked soon forgotten?)
 
-a. I saw the wicked buried … they were forgotten in the city where they had so done: Solomon saw that the wicked die, and their evil is soon forgotten instead of being memorialized in infamy. With his under the sun premise, Solomon despaired that the wicked dead are not punished after death.
+a. I saw the wicked buried … they were forgotten in the city where they had so done: Qoholet saw that the wicked die, and their evil is soon forgotten instead of being memorialized in infamy. With his under the sun premise, Qoholet despaired that the wicked dead are not punished after death.
 
 i. "I have seen wicked men buried and as their friends returned from the cemetery, having forgotten all the dead man's evil deeds, these men were praised in the very city where they had committed their crimes!" (Living Bible)
 
-b. Because the sentence against an evil work is not executed speedily, therefore the heart of the sons of men us fully set in them to do evil: If wicked men are often not punished after death, they also are often not punished in this life. All this added to the sense of life's meaninglessness for Solomon.
+b. Because the sentence against an evil work is not executed speedily, therefore the heart of the sons of men us fully set in them to do evil: If wicked men are often not punished after death, they also are often not punished in this life. All this added to the sense of life's meaninglessness for Qoholet.
 
 i. This also speaks of the hardened response many make to the mercy and forbearance of God toward them. "Man's godless ingratitude is as deep a mystery as is God's loving patience. It is strange that, with such constant failure of His love to win, God should still persevere in it." (Maclaren)
 
@@ -132,7 +132,7 @@ c. I surely know that it will be well with those who fear God, who fear before H
 
 ### Ecclesiastes 8:14 (Why do the bad have it good and the good have it bad?)
 
-a. There are just men to whom it happens according to the wicked: Solomon, speaking from his eternity-excluding viewpoint, felt this made life meaningless (vanity). Why do good men and women suffer?
+a. There are just men to whom it happens according to the wicked: Qoholet, speaking from his eternity-excluding viewpoint, felt this made life meaningless (vanity). Why do good men and women suffer?
 
 i. This was the great question of the Book of Job, and almost unanswerable apart from a life that appreciates eternity and our accountability in the world beyond.
 
@@ -148,7 +148,7 @@ With the meaninglessness of life so plain to the Preacher, all he could counsel 
 
 #### 2. Then I saw all the work of God, that a man cannot find out the work that is done under the sun: 
 
-Here Solomon begins to undermine his once-so-certain premise of life lived without an eternal perspective. He recognizes that man cannot find out the work of God in fullness; so what we see does not define what there actually is.
+Here Qoholet begins to undermine his once-so-certain premise of life lived without an eternal perspective. He recognizes that man cannot find out the work of God in fullness; so what we see does not define what there actually is.
 
 > The business that is done on earth, even though one sees no sleep day or night: "The very busyness of life worries us into asking where it is taking us, and what it means, if it does mean anything. We hardly need Qoheleth to point out that this is the very question that defeats us." (Kidner)
 

@@ -1,110 +1,25 @@
-# Chapter 7 (Better and Balanced Living)
+# Better and balanced living (chapter 7)
 
 ## Introduction to Chapter 7
 
-### Chapters 1-6
-
-In the Ecclesiastes 1-6, the Preacher has shared with us his search for meaning in life (1:1-2:24) and observations gleaned during the course of his search (3:1-6:12). 
-
-- Chapters 1 & 2 The Vanity of All Living Under the Sun (Futility, Wisdom, Pleasure, Art/Making of Things, Possessions)
-- Chapter 3 The Vanity of Life from the Naturalist's Perspective
-- Chapter 4 The Vanity and Evil of Power, Possessions, and Popularity without Faith in God
-- Chapter 5 The Vanity of Riches Without Spiritual Prosperity
-- Chapter 6 The Vanity of a Long Life without God's Gifts
-
-His conclusion is clear and repeatedly given: 
-
-- Life "under the sun" is vanity - 1:2,14; 2:11
-
-> Ecclesiastes 1:2 &mdash; Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity.
-
-- Yet there is good that one can do, provided one is blessed by
-     God - 2:24-26; 5:18-20 ("For God giveth...")
-
-> Ecclesiastes 2:26 &mdash; 26 For God giveth to a man that is good in his sight wisdom, and knowledge, and joy: but to the sinner he giveth travail, to gather and to heap up, that he may give to him that is good before God. This also is vanity and vexation of spirit
-
-### Chapters 7-12
-
-- The Conclusion being clear, what are we left with but to "make the Most of It"?
-
-In the remaining six chapters are a mixture of proverbs and narration designed to make the most of life "under the sun".
-
-In other words, while life under the sun is "vanity", how then should we live?
-
-- Key Word: "Better"
-- What makes for "better living" in this vain world?
-- Human Wisdom is limited in providing answers. Notice how skewed and limited wisdom is when God is not included in the equation.
+In the remaining six chapters are a mixture of proverbs and narration designed to make the most of life "under the sun." In other words, while life under the sun is "vanity," how then should we live? Human Wisdom is limited in providing answers. Notice how skewed and limited wisdom is when God is not included in the equation.
 
 ## Counsel for Better Living (Chapter 7:1-14)
 
-The first half of chapter seven offers "counsel for better living" with a series of comparisons. His estimation of what is "better" may often sound strange, but it comes from who has learned from both experience as well as inspiration .
+> Two themes dominate vv. 1–12 and unify the section: death (vv. 1b, 2, 4, and perhaps 8) and wisdom and folly (vv. 4, 5, 6, 7, 9, 10, 11, 12).
+> Longman, T. (1998). The Book of Ecclesiastes (p. 179). Grand Rapids, MI: Wm. B. Eerdmans Publishing Co.
 
-### 1. Death/Life and Mourning/Joy - Comparisons of which is Better (v.1-4):
+> These proverbs are  full of irony, and Qohelet often starts off sounding very much like Proverbs but then gives the proverb an ironic twist.  
+> Baker, p. 322
 
-- HONOR IS BETTER THAN LUXURY (A Good Name > Precious Ointment)
-   A good name is highly valued and more than precious ointment (representative of luxury)
+**How do I outline these?** It would be too much to go over each one individually. I will probably pick out one or two and examine as examples.
 
-- Day of Death > Day of One's Birth
+### Verse 1
 
-1. One's birth is the beginning of sorrows - cf. Job 14:1; 3:1-3; Jer 20:14-18
-2. One's death can be the beginning of eternal bliss - cf. Isa 57:1-2; Re 14:13
-
-- Go to The House of Mourning > The House of Feasting
-	- (FOR: That is the end for the dead, but the living will be burdened.)
-	- Sorrow > Laughter (FOR: The heart is made better by the sadness of the countenance.)
-
-1. Better to go to the house of mourning than the house of feasting
-   a. For the funeral home is the end of all men
-   b. Where the living will take it to heart
-2. Sorrow is better than laughter, for a sad countenance makes a heart better
-   a. Thus the heart of the wise is in the house of mourning
-   b. While the heart of fools is in the house of mirth
-
-### 2. The Wise and Fools (v.5-7)
-
-A REBUKE OF THE WISE IS BETTER THAN THE SONG OF FOOLS (5-7)
-
-1. For the laughter of the fool is vanity, like the crackling of
-   thorn under a pot
-2. Oppression destroys a wise man's reason, and a bribe debases
-   his heart
-
-### 3. THE END IS BETTER THAN THE BEGINNING (v.8a)
-
-- Right Spirit
-
-1. Similar to what we have already seen regarding birth and death
-   - cf. Ec 7:1
-2. Not all that starts has an end; in the completion of a task one finds satisfaction
+> Even if parallels to this proverb might be found in the broader wisdom literature, the appearance of it here, in light of Qohelet’s general teaching about death (3:18–21 and 12:1–7), supports an interpretation that this proverb indicates Qohelet’s world-weariness.
+> Longman, T. (1998). The Book of Ecclesiastes (p. 182). Grand Rapids, MI: Wm. B. Eerdmans Publishing Co.
 
 
-### 4. PATIENCE IS BETTER THAN PRIDE (v. 8b-9)
-
-1. The patient in spirit is better than the proud in spirit
-2. Do not be hasty to be angry, for anger rests in the bosom of
-   fools
-
-### 5. THE PRESENT IS BETTER THAN THE PAST (v. 10)
-
-1. We should not say "why were the former days better?"
-2. One is not wise in thinking in such a manner
-
-### 6. WISDOM IS BETTER THAN WEALTH (v. 11-12)
-
-1. Wisdom along with an inheritance is good, and profitable for
-   the living
-2. Wisdom is a defense like money, but wisdom gives life to those who have it (Wisdom = Life)
-
-### 7. RESIGNATION IS BETTER THAN INDIGNATION (v. 13-14)
-
-1. There are some things of God we cannot change
-2. God has appointed both the day of prosperity and the day of
-   adversity, so man is unable to determine what will happen after
-   him
-3. The solution?
-   a. In the day of prosperity be joyful
-   b. In the day of adversity consider (e.g., what lessons might
-      be learned)
 
 ## Counsel for Balanced Living (Chapter 7:15-29)
 
@@ -186,97 +101,3 @@ God Made Man Good, but Man is not Good. In his search, the preacher found only o
 - Is there truly a disparity of "goodness" between man and woman?
 
 God made man upright, but man has sought out many schemes.
-
-## Conclusion: Review Questions
-
-REVIEW QUESTIONS FOR THE CHAPTER
-
-1) What are the main points of this chapter?
-   - Counsel for better living (1-14)
-   - Counsel for balanced living (15-29)
-
-2) What is better than precious ointment? (1)
-   - A good name
-
-3) Which is better, the day of death or the day one's birth? (1)
-   - The day of death
-
-4) Why is it better to attend a funeral rather than a party? (2)
-   - The funeral house is the end of all men, and the living take it to
-     heart
-
-5) Why is sorrow better than laughter? (3)
-   - By a sad countenance the heart is made better
-
-6) Where does the heart of the wise reside?  The heart of the fool? (4)
-   - In the house of mourning
-   - In the house of mirth
-
-7) Which is better, to hear rebuke from the wise, or a song from a fool?
-   (5)
-   - The rebuke of the wise
-
-8) What is the laughter of the fool? (6)
-   - Like the crackling of thorns under a pot; vanity
-
-9) What destroys a wise man's reason?  What debases the heart? (7)
-   - Oppression; bribery
-
-10) What other two comparisons are made? (8)
-   - The end is better than the beginning
-   - Patience is better than pride
-
-11) Why should one not hasten to be angry? (9)
-   - Anger rests in the bosom of fools
-
-12) What is not a wise thing to say? (10)
-   - Why were the former days better than these?
-
-13) What is good along with an inheritance?  Why? (11-12)
-   - Wisdom; it is a defense just as money is a defense
-
-14) What is the value of knowledge? (12)
-   - It gives life to those who have it
-
-15) What should we consider about the work of God? (13)
-   - No one can make straight what He has made crooked
-
-16) What should we do in days of prosperity?  In days of adversity?
-    Why? (14)
-   - Be joyful
-   - Consider
-   - God has appointed both so that man can not find out what will come
-     after him
-
-17) What two things had Solomon seen in the days of his vanity? (15)
-   - A just man perishing in his righteousness
-   - A wicked man prolonging life in his wickedness
-
-18) Against what does Solomon caution? (16-18)
-   - Extremism in being righteous and wise, and in being wicked and
-     foolish
-
-19) How strong is wisdom? (19)
-   - Stronger than ten rulers of the city
-
-20) Is there anyone who does not sin? (20)
-   - No
-
-21) What should one not take to heart? (21-22)
-   - Everything people say
-
-22) In his effort to be wise, what did Solomon find? (23-25)
-   - There were things beyond his ability to discern
-
-23) What did he find more bitter than death? (26)
-   - A woman whose heart is snares and nets, whose hands are fetters
-
-24) Who can escape such a woman? (26)
-   - He who pleases God
-
-25) In his search, what had he found, and not found? (27-28)
-   - He found one man among a thousand
-   - A woman among all those he had not found
-
-26) What else had he found? (29)
-   - God made man upright, but they have sought out many schemes

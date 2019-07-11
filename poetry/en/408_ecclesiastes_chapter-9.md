@@ -21,7 +21,7 @@
 - If all existence and consciousness ends with death, then the only thing that matters is this present life (and therefore nothing really matters).
 - v.7 SMALL HOPE? "Go, eat your bread with joy". "Life is utterly meaningless and our common death and destiny prove it to be so. So forget about all I have said and have a good time."
 - Fatalism and wishing: Perhaps the sense is, "God has already accepted your works - I hope; because if He hasn't, there is nothing you can do about it."
-- Live joyfully with the wife whom you love all the days of your vain life which He has given you under the sun, all your days of vanity: Clearly, Solomon knew that enjoying the good things at hand in this life - bread, wine, garments, comforts (let your head lack no oil), and a wife whom you love - none of these took away the meaninglessness of life. "Make your vain life a little better,".
+- Live joyfully with the wife whom you love all the days of your vain life which He has given you under the sun, all your days of vanity: Clearly, Qoholet knew that enjoying the good things at hand in this life - bread, wine, garments, comforts (let your head lack no oil), and a wife whom you love - none of these took away the meaninglessness of life. "Make your vain life a little better,".
 
 > "White garments and anointing oil make life more comfortable in a hot climate." (Eaton)
 
@@ -78,7 +78,7 @@ In Light of Death, wisdom is pre-eminant and often unappreciated.
 
 A poor wise man, and he by his wisdom delivered the city.
 
-Yet no one remembered that same poor man: Under the premise that death ends existence and consciousness for all, Solomon protested that the only lasting meaning this man might have - to be remembered - was taken away. The almost unbelievable fleetingness of fame added to the sense of meaninglessness of life.
+Yet no one remembered that same poor man: Under the premise that death ends existence and consciousness for all, Qoholet protested that the only lasting meaning this man might have - to be remembered - was taken away. The almost unbelievable fleetingness of fame added to the sense of meaninglessness of life.
 
 Men quickly forget, but God never does. He knows those who are His (2 Timothy 2:19). He has a book of remembrance before Him for those that fear the Lord (Malachi 3:16), and their names are written in heaven (Luke 10:20).
 
@@ -92,7 +92,7 @@ i. "The Preacher continues to emphasize the ease with which wisdom is counteract
 
 c. Wisdom is better than weapons of war; but one sinner destroys much good: Wisdom is better - better than strength (weapons of war), better than foolishness - but all the good that wisdom does can quickly be taken away by one sinner who destroys much good.
 
-i. Solomon sensed that it was much easier to destroy than to build. Establishing things by wisdom is much more difficult than destroying them by the work of even one sinner.
+i. Qoholet sensed that it was much easier to destroy than to build. Establishing things by wisdom is much more difficult than destroying them by the work of even one sinner.
 
 - Adam's sin infected the whole race of man. (Romans 5:12)
 - Achan's transgression caused Israel's defeat. (Joshua 7:11, 12)
