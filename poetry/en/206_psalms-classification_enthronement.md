@@ -2,9 +2,7 @@
 
 ## Introduction
 
-The **psalms of enthronement** contain the expression “the Lord reigns” (or, in the case of Psalm 98, “the Lord, the King”), and speak of the rule of God over all the earth. He is "kingly" to the greatest extant. A king reigns, has domimion and a good king is the joy of His people. These psalms are 47, 93, 95–99.
-
-The majority of these come after 89, which expresses discouragement about the ending of the kingship of Israel. These psalms show that even though the earthly kingdom may fail, the heavenly kingdom will never fail.
+The **psalms of enthronement** contain the expression “the Lord reigns” (or, in the case of Psalm 98, “the Lord, the King”), and speak of the rule of God over all the earth. He is "kingly" to the greatest extant. A king reigns, has domimion and a good king is the joy of His people. These psalms are 47, 93, 95–99. The majority of these come after Psalm 89, which expresses discouragement about the ending of the kingship of Israel. These psalms show that even though the earthly kingdom may fail, the heavenly kingdom will never fail.
 
 God is the king of Israel, but He is also king over the heathen (47:8) and over all the earth (47:2). He is above all other gods (97:7–9).
 

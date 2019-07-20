@@ -14,7 +14,6 @@
 
 > "To all appearances, God is just not interested. The things that are supposed to matter most to Him turn out to make no difference - or none that anyone can see - to the way we are disposed of in the end. Moral or immoral, religious or profane, we are all mown down alike." (Kidner)
 
-<!-- ############################### -->
 ## The Hope of Life: No Hope in the Grave (vs. 4-10)
 
 - In Light of Death, How Can We Live?
@@ -31,7 +30,6 @@
 
 > "Man was not created to be idle, he was not elected to be idle, he was not redeemed to be idle, he was not quickened to be idle, and he is not sanctified by God's grace to be idle." (Spurgeon)
 
-<!-- ############################### -->
 ## The Mystery of Time and Chance: Happens to All (vs. 11-18)
 
 - Time and chance make life under the sun hard to understand.

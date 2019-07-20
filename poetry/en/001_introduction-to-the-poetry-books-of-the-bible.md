@@ -10,6 +10,8 @@ Before the end of the year every student will be required to write a Psalm, from
 
 ## Definition of wisdom
 
+Wisdom is living according to God’s order in creation (The Baker Commentary on Ecclesiastes, p. 336)
+
 Wisdom is applying knowledge to life. Just having knowledge is not enough (Proverbs 26:7, 9).
 
 It is like emotional intelligence. _Fear_ pg. 10 begins a good introduction to this.
