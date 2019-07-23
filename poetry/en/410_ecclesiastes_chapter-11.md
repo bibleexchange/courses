@@ -1,10 +1,10 @@
-# Chapter 11 (Prudence)
+# Prudence (chapter 11)
 
 > PRUDENCE 1 : the ability to govern and discipline oneself by the use of reason. 2 : sagacity or shrewdness in the management of affairs. 3 : skill and good judgment in the use of resources. 4 : caution or circumspection as to danger or risk.
 
 - Verses on prudence: Prov. 12:23; 14:8; 14:15; 15:5; 22:3
 
-## 1. The Prudent Invest (vs. 1,2,6)
+## 1. The Prudent Invests (vs. 1,2,6)
 
 THE COUNSEL: NOT HOARDING, BUT SOWING, careful investment
 
