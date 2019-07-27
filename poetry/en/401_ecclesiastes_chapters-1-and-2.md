@@ -1,4 +1,4 @@
-## All is vanity (chapters 1–2)
+## Under the sun (chapters 1–2)
 
 In these two chapters, we have an introduction, the search for meaning in life, and some conclusions made from the search.
 
