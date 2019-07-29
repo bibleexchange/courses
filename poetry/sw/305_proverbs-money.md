@@ -27,13 +27,13 @@ Tunapaswa kukumbuka kwamba Mithali siyo ahadi kabisa, lakini ni kanuni. Siyo dha
 * Usipootesha mbegu, basi hutavuna (12:11; 28:19).
 * Baadhi ya watu huzungumzia tu kuhusu kile wanachotaka kufanya, lakini mazungumzo au mawazo pekee havitakupa utajiri. Unatakiwa kuwa na vitendo katika maneno hayo (14:23).
 * Kama utakaa kitandani siku nzima, shamba lako halitalimwa, hakuna yeyote atakayekulipa. Kama unataka kulipwa, unatakiwa utoke kitandani (20:13).
-* Unaweza kuanza kwa kufanya kazi katika mradi Fulani,kama hutaendelea kuufanyia kazi mradi huo hautaleta matokeo (24:30–34).
+* Unaweza kuanza kwa kufanya kazi katika mradi Fulani, kama hutaendelea kuufanyia kazi mradi huo hautaleta matokeo (24:30–34).
 
 ### Sio Baraka zote ni za kimwili
 
 Kama wewe ni mwenye haki, Mungu atakubariki, lakini si lazima wakati wote Baraka hizo ziwe kwa njia ya pesa au mali zingine. Kama wanadamu, tunafikiria kwamba pesa ndio kitu muhimu katika maisha, lakini Mungu anajua kwamba kuna Baraka zingine ambazo tunahitaji zaidi ya pesa.
 
-Katika sura ya tatu tunaona maelezo ya Mwanamke Mwenye Hekima. Mstari wa 16 unasema kwamba ana wingi wa siku katika mkono wake wa kuume, utajiri na heshima katika mkono wake wa kushoto. Katika utamaduni wa Waebrania wa kale, mkono wa kulia uliheshimika kuliko mkono wa kushoto (Mwa. 48:14; Mah. 10:12; Mat. 25:33)[1]. Hii inatuonyesha kwamba hekima inaweza kutupa utajiri, lakini utajiri sio muhimu zaidi ya maisha. Pia, mistari miwili ambayo inafuata (3:14–15) inazungumza kuhusu namna hekima ilivyo muhimu kuliko dhahabu na fedha (angalia pia 8:19 na 16:16). Fedha sio mbaya, lakini hekima ni bora. Mungu alimpa Sulemani utajiri, lakini kwasababu tu alimuomba kwanza hekima. Hekima siyo kwamba ndiyo kituy muhimu kuliko utajiri. Bruce Waltke anasema, "Utajiri ni hali inayohitajika na malipo ya hekima (angalia 3:9–10), siyo lengo la maisha ya mtu"[2]. Mithali  inaonyesha vitu vingi muhimu kuliko kuwa na pesa:
+Katika sura ya tatu tunaona maelezo ya Mwanamke Mwenye Hekima. Mstari wa 16 unasema kwamba ana wingi wa siku katika mkono wake wa kuume, utajiri na heshima katika mkono wake wa kushoto. Katika utamaduni wa Waebrania wa kale, mkono wa kulia uliheshimika kuliko mkono wa kushoto (Mwa. 48:14; Mah. 10:12; Mat. 25:33)[1]. Hii inatuonyesha kwamba hekima inaweza kutupa utajiri, lakini utajiri sio muhimu zaidi ya maisha. Pia, mistari miwili ambayo inafuata (3:14–15) inazungumza kuhusu namna hekima ilivyo muhimu kuliko dhahabu na fedha (angalia pia 8:19 na 16:16). Fedha sio mbaya, lakini hekima ni bora. Mungu alimpa Sulemani utajiri, lakini kwasababu tu alimuomba kwanza hekima. Hekima siyo kwamba ndiyo kituy muhimu kuliko utajiri. Bruce Waltke anasema, "Utajiri ni hali inayohitajika na malipo ya hekima (angalia 3:9–10), siyo lengo la maisha ya mtu"[2]. Mithali inaonyesha vitu vingi muhimu kuliko kuwa na pesa:
 
 * Midomo ya maarifa (20:15)
 * Jina jema (22:1)
@@ -46,9 +46,9 @@ Katika sura ya tatu tunaona maelezo ya Mwanamke Mwenye Hekima. Mstari wa 16 unas
 
 Kwanini Mungu anasema kwamba kuna vitu vingi vya thamani kuliko pesa? Ni kwasababu kuna vitu vingi ambavyo pesa haziwezi kununua. Pesa inakupa hisia za usalama (10:15), lakini pesa itashindwa (11:28). Pesa haziwezi kuokoa ndoa inayoangamia. Pesa haziwezi kukuokoa na ugonjwa usiotibika. Na pesa hazitakusaidia katika maisha yajayo (11:4, 28).
 
-### Pesa haziwezi kukupatia marafiki  wa kweli
+### Pesa haziwezi kukupatia marafiki wa kweli
 
-Ukiwa na pesa,watu wengi watapenda kujenga urafiki nawewe (14:20; 19:4; 19:7), lakini je hawa ni marafiki wa kweli? Je watu hao watahitaji kuwa marafiki zako hata ikiwa huna pesa tena?
+Ukiwa na pesa, watu wengi watapenda kujenga urafiki nawewe (14:20; 19:4; 19:7), lakini je hawa ni marafiki wa kweli? Je watu hao watahitaji kuwa marafiki zako hata ikiwa huna pesa tena?
 
 ### Pesa haziwezi kudumu milele
 

@@ -1,4 +1,4 @@
-# Chapter 12 (Description of old age and the Preacher's Conclusion)
+# Description of old age and the conclusion (chapter 12)
 
 ## Description of old age (v. 1-7)
 
