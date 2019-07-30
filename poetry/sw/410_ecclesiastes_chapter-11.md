@@ -4,8 +4,6 @@
 
 ## Mtu mwenye busara hua uwekezaji (mst. 1, 2, 6)
 
-The counsel is "do not hoard what you have, but sow so that you can get more." It is about careful investment. See also Matthew 13:24.
-
 Ushauri ni "usihifadhi mali zako kwa uchoyo, lakini wekeza ili uweze kupata zaidi." Ni juu ya uwekezaji makini. Angalia pia Mathayo 13:24.
 
 ## Mtu mwenye busara kwa hekima anachukua fursa hiyo (mst. 3)
