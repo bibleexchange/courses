@@ -1,71 +1,75 @@
-# What Proverbs says about friendships
+# Mithali inasema nini kuhusu urafiki
 
-## Introduction: It is wise to have friends
+## Utangulizi: Ni hekima kuwa na marafiki
 
-> Proverbs 18:1—
+> Mithali 18:1—Ajitengaye na wenzake hutafuta matakwa yake mwenyewe;  
+> Hushindana na kila shauri jema.
 
-The Hebrew word for _intermeddleth_ in the Hebrew is _gala_ (גָּלַע ), which means "to be hostile or to defy."[1] This means that the selfish man, who is seeking his own desires, is defying wisdom. Wisdom says that it is a good thing to have friends, but he is too selfish to share his time and resources with other people.
+Neno la kiebrania la _hushindana_ kwa kiebrania ni _gala_ (גָּלַע ), inayomaanisha “kuwa na uadui au mpinzani."[1] Hii inamaanisha kwamba mtu mbinafsi, ambaye hutafuta to matamanio yake, huipinga hekima. Hekima inasema kwamba ni kitu kizuri kuwa na marafiki, lakini ni mbinafsi sana kutoa muda wake na rasilimali zake kwa watu wengine.
 
-> No man is an island entire of itself; every man   
-> is a piece of the continent, a part of the main;  
-> if a clod be washed away by the sea, Europe  
-> is the less, as well as if a promontory were, as  
-> well as any manner of thy friends or of thine  
-> own were; any man's death diminishes me,  
-> because I am involved in mankind.   
-> And therefore never send to know for whom  
-> the bell tolls; it tolls for thee.   
+> Hakuna mtu ambaye ni kisiwa kwa upande wake, kila mtu  
+> Ni kipande cha bara, ni sehemu ya mtu  
+> Kama bongelikioshwana bahari, Ulaya  
+> chini ya, pamoja na rasi, kama  
+> pamoja na tabia yeyote ya marafiki zako  
+> wenyewe; kifo cha mtu yeyote hunipunguza mimi,  
+> Kwasababu ninahusika na watu.  
+> Na kwa hiyo kamwe usitume kujua ambaye  
+> Mlio wa kengele; inakupigia mlio wewe  
 > —_John Donne_[2]
 
-## It is better to have a few real friends than to have many shallow friends
+## Ni bora kuwa na marafiki wachache wa uhakika kuliko kuwa na marafiki wengi wasio wa uhakika
 
-Not everyone that says that they are your friend is a real friend. In Proverbs the Hebrew word _rea_ (רֵעַ ) can mean either a "neighbor" or a "friend."[3] We have to look at the context to see if the word means someone who is physically close (a neighbor) or someone who is emotionally close (a friend). In life we also have to discern who are real friends are. You can live near someone and see them every day, but that does not make them a true friend. Many people talk good to us. They say, "I am your friend," but will they be there when you really need them? A true friend is someone who is there in the good times and the bad times.
+Siyo kila mtu anayesema ni rafiki yako ni rafiki wa kweli. Katika Mithali neno la Kiebrania _rea_ (רֵעַ ) inaweza kumaanisha ama "jirani" au "rafiki"[3] Tunatakiwa kuangalia katika mazingira kuona kama neno linamaanisha mtu ambaye ni karibu kimwili (jirani) au mtu ambaye kimwili yuko karibu (rafiki). Katika maisha tunatakiwa kutambuanani ni marafiki halisi. Unaweza kuishi karibu na mtu na kuwaona kila siku, lakini hiyo haiwezi kumaanisha kuwa wao ni marafiki halisi. Watu wengi wanazungumza mazuri kwetu. Wanasema, "Mimi ni rafiki yako," lakini je ni kweli watakuwa na wewe utakapowahitaji? Rafiki wa kweli ni Yule ambaye atakuwa nawewe katika nyakati mbaya na nyakati nzuri.
 
-### A true friend never abandons you
+### Rafiki wa kweli hatakuacha
 
-Proverbs 17:17 says that "A friend loveth at all times, And a brother is born for adversity." There are two ways of interpreting this verse:
+Mithali 17:17 inasema kwamba "Rafiki hupenda sikuzote; Na ndugu amezaliwa kwa siku ya taabu." Kuna njia mbili za kutafsiri mstari huu:
 
-1. One way says that the friend is better than the brother. Bruce Waltke says that in this verse that "The friend is represented as always present, in good times and bad; the relative only in adversity."[4]
-2. The other way is that the two lines show how both the friend and the brother show their love. Tremper Longman, III says "The relationship between the cola seems to be one of intensifying and particularizing, but not contrasting. That a friend loves all the time would include moments of adversity."[5]
+1. Njia ya kwanza inasema rafiki ni bora kuliko ndugu. Bruce Waltke anasema kwamba katika mstari huu "Rafiki anaweza kuoneshwa kama mara zote yupo, katika nyakati nzuri na mbaya; Ndugu ni katika taabu tu."[4]
+2. Njia nyingine mistari miwili inaonyesha umuhimu wa wote rafiki na ndugu kuonyesha upendo wao. Tremper Longman III anesema, "uhusiano kati ya misemo zote mbili inaonyesha ni moja ya kuimarisha na kwenda pamoja, lakini siyo kutofautiana. Kwamba rafiki anapenda muda wote hata nyakati za tabu."[5]
 
-Either way of interpreting it, the verse talks about how a friend is always there—no matter what.
+Ama njia nyingine ya kuitafsiri, mstari unazungumzia kuhusu namna rafiki anapokuwa nawe—bila kujali chochote.
 
-Talk is cheap. Proverbs 20:6 says that "Most men will proclaim every one his own goodness: But a faithful man who can find?" We need to be careful that we do not put our trust in unfaithful men, because if we do, we will be in trouble. Read 25:19.
+Talk is cheap. Proverbs 20:6 says that "Most men will proclaim every one his own goodness:
 
-### Some people will want to be your friend for the wrong reason
+Kuongea ni rahisi. Mithali 20:6 inasema kwamba, "Wanadamu hutangaza kila mtu hisani yake mwenyewe; Bali mtu aliye mwaminifu, ni nani awezaye kumpata?” Tunapaswa kuwa waangalifu sana kutokuweka imani zetu kwa watu wasio waaminifu, kwasababu tukifanya hivyo, tutakuwa katika shida. Soma 25:19.
 
-Some people call everyone their "friend," but do they really care about you? (Or do you even care about them?) A friend is more than someone that can give **you** good things, but you have to also **give to them** to make strong friendships. When someone has money, then he will have many "friends," but when the money is gone, the friends will also be gone (14:20; 19:4, 6–7.
+### Watu wengine wahitaji kuwa na urafiki na wewe kwa sababu mbaya
 
-### Friends may be closer than family
+Baadhi ya watu huita kila mtu "rafiki" zao, lakini je ni kweli wanakujali? (Au je hata wewe unawajali?) Rafiki ni zaidi ya mtu anayeweza **kukupa** vitu vizuri, lakini unatakiwa pia **uwapatie vitu vizuri** kufanya urafiki wenye nguvu. Kama mtu akiwa na pesa, basi atakuwa na "marafiki" wengi, lakini pesa zikiisha, marafiki pia wanapotea (14:20; 19:4, 6–7).
 
-Proverbs 18:24 says that "there is a friend that sticketh closer than a brother" and 27:10 warns us not to forsake the old friends of the family because a neighbor that is near is better than a brother that is far away. Does this mean that family is not important? No. Lindsay Wilson says about this verse that "This is not to minimize fraternal responsibilities, but rather to lift up the value of a friend or neighbour."[6]
+### Marafiki wanaweza kuwa karibu na wewe zaidi ya ndugu 
 
-### Choose your friends wisely because they can influence you
+Mithali 18:24 inasema kwamba “Yuko rafiki aambatanaye na mtu kuliko ndugu” na 27:10 inatuonya tusiwasahau au kuwaacha marafiki wa zamani wa familia kwasababu jirani aliye karibu ni bora kuliko ndugu aliye mbali. Je hii inamaanisha kuwa ndugu si wa muhimu? Hapana. Lindsay Wilson anasema kuhusu mstari huu kwamba "Hii siyo kupunguza majukumu ya kindugu, bali ni kuinua thamani ya rafiki au jirani."[6] 
 
-> Proverbs 13:20—
+### Chagua rafiki zako kwa hekima kwani wanaweza kukushawishi
 
-The book of Proverbs was written as a father to his son, so there are many warnings to stay away from negative influences (1:10–19; 12:26; 13:20; 16:29; 20:19; 22:24–25; 28:7; 29:3). Because bad relationships can be harmful to us, if we cannot find good friends, than it is better to be alone than to settle for bad friends—or a bad spouse! (17:1; 25:24)
+> Mithali 13:20—Enenda pamoja na wenye hekima, nawe utakuwa na hekima;  
+> Bali rafiki wa wapumbavu ataumia
 
-## Wisdom teaches us how to be a good friend
+Kitabu cha Mithali kiliandikwa kama baba kwa watoto wake, kwahiyo kuna maonyo mengi yanayotusisitiza kukaa mbali ushawishi hasi (1:10–19; 12:26; 13:20; 16:29; 20:19; 22:24–25; 28:7; 29:3). Kwasababu mahusiano mabaya yanaweza kutudhuru, kama hatutatafuta marafiki wazuri, basi ni bora kuwa peke yako kuliko kukaa na marafiki wabaya—au mwenzi wa kukudhuru! (17:1; 25:24)
 
-We now understand that friendship is a good thing, but what does it mean to be a good friend? Proverbs has many sayings that teach us how to interact with other people:
+## Hekima inatufundisha namna ya kuwa rafiki mzuri
 
-* Handle matters with wisdom (16:20)
-* Be considerate of others (27:14)
-* Be willing to forgive (10:12)
-* Don't meddle in other people's business (26:17)
-* Don't overstay your welcome (25:17)
-* Keep a right relationship with God (16:7)
+Sasa tunaelewa kwamba urafiki ni jambo zuri, lakini nini maana ya kuwa rafiki mzuri? Mithali ina misemo mingi inayotufundisha namna ya kushirikiana na watu wengine:
 
-## Sometimes even friends will disagree... and that's a good thing
+* Yashungulikie mambo kwa hekima (16:20)
+* Kuwafikiria wengine (27:14)
+* Uwe tayari kusamehe (10:12)
+* Usiingilie mambo ya wengine (26:17)
+* Mguu wako usiingilie katika nyumba ya jirani yako ila kwa kiasi (25:17)
+* Tafuta kuwa na ushirika mzuri na Mungu (16:7)
 
-### Counsel from friends is beneficial to us
+## Wakati mwingine hata marafiki wanaweza kutokuelewana... na hicho ni kitu kizuri
 
-Proverbs 27:9 teaches us that counsel from friends is beneficial to us. Sometimes the counsel of friends will come in the form of correction. The wise person wants friends who will be honest with him. True friends will tell us the truth, even if it hurts (27:5–6; 29:5). We may not like the correction at first, but later we will see the value of it (28:23). This confrontation will help us mature (27:17).
+### Ushauri wa marafiki una faida kwetu
 
-> This character-forming wisdom, rooted in God, is experienced in community. In studying sapiential [relating to wisdom] instruction, I have discovered the ubiquitous presence of conversation and conflict. Character development flourishes only in a community where healthy confrontation exists. Without the rigors of such an environment, individual character becomes undisciplined. The sages believed strongly in the principle that “iron sharpens iron” when it came to human interaction. Growth comes through struggle, and struggle is manifested as constructive conflict in healthy relationships.
+Mithali 27:9 inatufundisha kwamba ushauri wa rafiki una faida kwetu. Wakati mwingine ushauri wa rafiki unaweza kuja katika mfumo wa masahihisho. Mtu mwenye busara huhitaji rafiki atakayekuwa muwazi kwake. Marafiki wa kweli watatueleza ukweli, hata kama unauma (27:5–6; 29:5). Tunaweza tusipende kurekebishwa mwanzo, lakini baadae tutaona uthamani wake (28:23). Makabiliano haya yanaweza kutufanya tukue (27:17).
+
+> Hii hekima ya kuunda tabia, iliyopandwa katika Mungu, huonekana katika jamii. Kwa kusoma maagizo ya hekima, nimegundua uwepo wa maongezi  na migogoro iko kila mahali. Maendeleo ya tabia hustawi tu katika jamii ambapo ukabili wa ugomvi kiafya upo. Bila kuweka umakini  katika mazingira hayo, tabia ya mtu mmoja unakuwa hauna nidhamu. Wahenga wanaamini kwa nguvu kabisa katika kanuni kwamba ”chuma hunoa chuma” ilipofikia maingiliano ya wanadamu. Ukuaji huja kupitia kupambana, na kupambana hudhihirishwa kama kujenga migogoro ya mahusiano ya kiafya.  
 > —_Dave Bland_[7]
 
-## Conclusion
+## Hitimisho
 
-We need to work hard at keeping our relationships with our friends strong, because if we offend them, it may be impossible to restore that relationship (**18:19**). The stronger the friendship, the greater the divide when offended. This is why some family feuds are so strong, and also why people who were once madly in love are now clamoring for a divorce. So we should take great care to fix problems with our closest friends when they are small.
+Tunatakiwa kutia bidii katika mahusiano yetu na marafiki zetu, kwasababu kama tukiwakosoa, itakuwa ngumu kudumisha uhusiano huo (**18:19**). Ukiwa na nguvu urafiki, mgawanyiko utakua mkubwa wakati wamekosewa. Hii ndiyo sababu familia zingine zinakuwa na migogoro mikubwa, na pia kwanini watu ambao mwanzo walikuwa wanapendana sana sasa wanakimbilia talaka. Kwahiyo tunatakiwa kujitahidi sana kusuluhisha matatizo na rafiki zetu wa karibu matatizo hayo yakiwa bado madogo.

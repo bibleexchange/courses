@@ -1,4 +1,4 @@
- # Utangulizi kwa somo la Warumi
+# Utangulizi kwa somo la Warumi
 
 Waraka wa Warumi ni hazina ya kweli ambayo hupaswa kueleweka kwa watakatifu wa Mungu. Somo hili litakusadiwa kuelewa mafundisho yake ya muhimu. Tutasisitiza pia ukariri wa Biblia popote tutakapo weka vifungu vya kumbukumbu kutoka kitabu cha Warumi.
 
@@ -20,11 +20,11 @@ Paulo alijulikana kama mwandishi wa waraka kwa Warumi mapema mnamo AD 95.baadhi 
 
 #### Waandishi wa Agano jipya hasahasa Petro (2 Pet. 3:15)
 
-#### Kleenti wa Rumi (AD 95)
+#### Kleenti wa Rumi (95 BK)
 
-#### Ignatio wa Antiokia (AD 110)
+#### Ignatio wa Antiokia (110 BK)
 
-#### Polikapi, Askofu wa Simirna (Baada AD 110)
+#### Polikapi, Askofu wa Simirna (Baada 110 BK)
 
 ## Nani alilianzisha Kanisa la Rumi
 
@@ -54,13 +54,13 @@ Mwanahistoria Cassius Dio anatoa taarifa ya tendo lilochukuliwa na Kilaudio dhid
 
 > &quot;Kwa ajili ya wayahudi, yeye ambaye alikuwa tena aliongezeka kwa ukubwa ambayo kwa sababu ya makutano yao igekuwa ngumu pasipo kuinua makelele kuwapinga kutoka mjini, yeye hakuwakufuza, bali aliwaagiza,wakati wakiendeleza mtindo wao maisha, sio kushikilia makutano.&quot;
 
-Kutokea hapo wasimamizi waliamriwa na serikali walikuwa ni kanisa la wamataifa. Ni Kanisa hili ambalo lilipokea barua ya paulo mudafulani takribani AD 57-58. Badala ya masinagogi ya kati au mahali pa mikutano mikubwa, kanisa hili lilikutana katika makundi madogo kuzunguka mji wa Rumi kama majumbani mwa waamini. Kwa kupitia mahali pa makusanyiko yao walipewa madaraka hasa kwa barua ya Warumi, tunaweza kuona kanisa la kikristo likidumisha mawasiliano na umuhimu wa mwili moja katika Kristo.
+Kutokea hapo wasimamizi waliamriwa na serikali walikuwa ni kanisa la wamataifa. Ni Kanisa hili ambalo lilipokea barua ya paulo mudafulani takribani 57-58 BK. Badala ya masinagogi ya kati au mahali pa mikutano mikubwa, kanisa hili lilikutana katika makundi madogo kuzunguka mji wa Rumi kama majumbani mwa waamini. Kwa kupitia mahali pa makusanyiko yao walipewa madaraka hasa kwa barua ya Warumi, tunaweza kuona kanisa la kikristo likidumisha mawasiliano na umuhimu wa mwili moja katika Kristo.
 
 <!--['msitari wa wakati'](/assets/img/romans-time-line.png)-->
 
-## WAKATI&MAHALI - Warumi iliandikwa kutoka Korinto mnamo 57-58 AD.
+## WAKATI&MAHALI - Warumi iliandikwa kutoka Korinto mnamo 57-58 BK.
 
-Katika War 15:19, Hebu jue kuhusu Paulo kwamba yeye alikuwa amekaribia katika hali ya mwisho katika maisha ya kupanda na kushuka kwenye mwisho wa safari yake tatu umisheni. Alikuwa amekwisha kuhubiri injili, anasema kutokea Yerusalemu hata sehemu za Mbali na anaenda kufanya uamuzi wa ajabu kwamba yeye hakuwa tena na nafasi ya kuendelea kufanya kazi katika hiyo sehemu kubwa mno. Anataka kwenda Span kwakuwa Itali ilikuwa imekwisha hubiriwaa Alihubiri,na kutembelea katika kanisa la Rumi katika safari. Lakini hangeweza kufanya kwa mara moja; Yeye aliazimia kwenda Yerusalemu kwanza. Sababu ya hili ni wazi na lina ushahidi. Kwa muda fulani, (2 Wakrinto angependekeza angalau mwaka moja. Paulo anatanagaza kwamba, yeye amejitoa kwa ajili ya kukusanya mchango kwa ajili ya maskini wa Yerusalemu. Wakati wa kuandikwa kitabu cha Warumi,ule mkusanyiko ni kwa bayana, kama haijakamilika kabisa,Paulo anasubiri furusa ya kupokea sadaka kwenda Yerusalemu. 1 na ya 11 Wakorinto hurejea kwenye mkusanyo kama ilikuwa ikifanyiwa kazi (I Kor. 16:1-4; 2 Kor. 8-9) na War. 15:25-28 inaonekana kwa kile kilicho kamilika. Kwa kuwa katika I Corinthians 16:3-4, Paulo alionyesha mpango wake wa kukamilisha kazi kwa ajili ya mchango wa Wakorinto na kisha kuondoka kutoka katika mji ule wa Yerusalemu ni nitu cha kawaida kudhani kwamba aliwaandikia warumi wakati akiwa Korinto. Wasomi wengi huweka wakati wa utume wake takribani AD 57-58.
+Katika War 15:19, Hebu jue kuhusu Paulo kwamba yeye alikuwa amekaribia katika hali ya mwisho katika maisha ya kupanda na kushuka kwenye mwisho wa safari yake tatu umisheni. Alikuwa amekwisha kuhubiri injili, anasema kutokea Yerusalemu hata sehemu za Mbali na anaenda kufanya uamuzi wa ajabu kwamba yeye hakuwa tena na nafasi ya kuendelea kufanya kazi katika hiyo sehemu kubwa mno. Anataka kwenda Span kwakuwa Itali ilikuwa imekwisha hubiriwaa Alihubiri,na kutembelea katika kanisa la Rumi katika safari. Lakini hangeweza kufanya kwa mara moja; Yeye aliazimia kwenda Yerusalemu kwanza. Sababu ya hili ni wazi na lina ushahidi. Kwa muda fulani, (2 Wakrinto angependekeza angalau mwaka moja. Paulo anatanagaza kwamba, yeye amejitoa kwa ajili ya kukusanya mchango kwa ajili ya maskini wa Yerusalemu. Wakati wa kuandikwa kitabu cha Warumi,ule mkusanyiko ni kwa bayana, kama haijakamilika kabisa,Paulo anasubiri furusa ya kupokea sadaka kwenda Yerusalemu. 1 na ya 11 Wakorinto hurejea kwenye mkusanyo kama ilikuwa ikifanyiwa kazi (I Kor. 16:1-4; 2 Kor. 8-9) na War. 15:25-28 inaonekana kwa kile kilicho kamilika. Kwa kuwa katika I Corinthians 16:3-4, Paulo alionyesha mpango wake wa kukamilisha kazi kwa ajili ya mchango wa Wakorinto na kisha kuondoka kutoka katika mji ule wa Yerusalemu ni nitu cha kawaida kudhani kwamba aliwaandikia warumi wakati akiwa Korinto. Wasomi wengi huweka wakati wa utume wake takribani 57-58 BK.
 
 ## MUHULA - Warumi iliandikwa kulingana na utangulizi wa Paulo kwa wakirsto waliokuwa Rumi kutanguliza safari yake kwao.
 

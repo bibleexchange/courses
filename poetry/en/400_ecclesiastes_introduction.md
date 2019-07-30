@@ -6,6 +6,40 @@ In the Hebrew Bible this book is classified as one of the "Writings" and titled 
 
 It isn't completely clear what the exact translation of "ecclesiastes" should be, but it is rendered in English as "preacher" or "one who addresses an assembly."
 
+> The Hebrew word qōhelet is the Qal feminine  singular participle of the verb qāhal, meaning “to call,” “to assem-  ble.” Thus the nickname may allude to one who gathers an assembly  to address it or to one who gathers words for instruction. The femi-  nine participle is used elsewhere in the OT to refer to particular offices or occupations (Ezra 2:55; Neh. 7:57, 59).  
+> The English title derives from the Septuagint (ekklēsiastēs) via the Latin Vulgate (Liber Ecclesiastes). The Septuagint translator(s) inter-  preted qōhelet to refer to a citizen of the assembly or ekklēsia. English  translations have traditionally translated qōhelet as “Preacher” (KJV,  RSV), which goes back to Luther’s translation of qōhelet as “der  Prediger.”[3] This translation is somewhat anachronistic, with its  overtones of the NT concept of the ekklēsia as the church. Qohelet’s  “office” is clearly identified in the epilogue (12:8–14) as that of a wise  man, but “preacher” is helpful in that it alerts us to the fact that Qohelet was wise and taught the people knowledge (12:10).   
+> Baker Commentary, p. 20
+
+## What is the message? Why is this negative book in the cannon?
+
+> Abraham asserts that “to have a canon of Scripture is to have a  sophisticated means of grace which is related to formation in holy  living in a host of ways. On this . . . reading, Scripture functions to  bring one to faith, to make one wise unto salvation, to force one to  wrestle with awkward questions about violence and the poor, to com-  fort those in sorrow, and to nourish hope for the redemption of the  world.”[18] This is helpful to remember in terms of the canonicity of  Ecclesiastes. Thiselton notes, “Such texts as Job, Ecclesiastes, and  the parables do not function primarily as raw-material for Christian  doctrine. . . . Their primary function is to invite or to provoke the  reader to wrestle actively with the issues, in ways that may involve  adopting a series of comparative angles of vision.”[19] Ecclesiastes is  one of those books that force us to wrestle with very difficult ques-  tions that are pursued relentlessly. In the process it leads us back to  the starting point of faith, but this time to know it more fully. Faith,  we might remind ourselves, is a gift, but Ecclesiastes reminds us that  it is not cheap.  
+> Baker, p. 23
+
+> Rashbam locates the essence  of the argument of Ecclesiastes in 1:2–11. Ecclesiastes here contrasts  the transience of human life with the permanence of nature, thus  showing the latter’s advantage. None of the experiments in Eccle-  siastes is successful in dispelling this melancholy; the only adequate  response is to live in conformity to traditional values, to enjoy life  calmly while resigned to providence. Present mysteries will be recti-  fied in the future life.  
+> Baker, p. 27
+
+> Nathan Rosenthal in his work on Ecclesiastes (1858) still main-  tains Solomonic author­ship.[45] In his view, Solomon wrote the  book to demonstrate that wisdom is only useful when combined with  the fear of God and the keeping of his commands.
+> Baker, p. 28
+
+> Contra Jerome, Luther, Melanchthon, and  Brenz insist that Ecclesiastes is fundamentally positive about civic  life even as it wrestles with the difficulties of poor leadership, a prob-  lem with which the Reformers were only too familiar. Luther read 
+Ecclesiastes as a book about politics and the family, about human  existence in the context of creation order. He envisaged Solomon not  as a solitary but as a political figure deeply concerned about social  life. In contrast to Jerome’s allegorical and christological exegesis of  4:4–12, Luther read this text as a strong affirmation of communal and  civic life.
+> Baker, p. 38
+
+> Qoheleth demonstrates the futility of trying to find meaning in a fallen world apart from remembering one’s creator and starting with the fear of the LORD, but he also affirms life, and this tension is resolved at the conclusion of his journey precisely through his exhortation to remember one’s creator. Thus the futility Ecclesiastes exposes is that of trying to find meaning while embracing human autonomy in a world which depends at every point upon its creator.
+> Bartholomew, C. G. (2014). The Intertextuality of Ecclesiastes and the New Testament. In C. V. Camp, A. Mein, W. Kynes, & K. Dell (Eds.), Reading Ecclesiastes Intertextually (Vol. 587, p. 232). London; New Delhi; New York; Sydney: Bloomsbury.
+
+> Remembering his creator is the solid ground to which Qoheleth finally returns and which enables him to affirm life—thereby granting the carpe diem passages the final say—without detracting from the brokenness of life as evident in the threefold “before” in 12:1–7.
+> Bartholomew, C. G. (2014). The Intertextuality of Ecclesiastes and the New Testament. In C. V. Camp, A. Mein, W. Kynes, & K. Dell (Eds.), Reading Ecclesiastes Intertextually (Vol. 587, p. 233). London; New Delhi; New York; Sydney: Bloomsbury.
+
+> In my reading of Ecclesiastes, resolution comes through remembering your creator before … before … before … The decentering of the ego evoked by such remembrance puts one in a position of creature before the Creator and thus in a position to receive instruction and to obey, rather than relying on reason, experience and observation as the royal route to truth.
+> Bartholomew, C. G. (2014). The Intertextuality of Ecclesiastes and the New Testament. In C. V. Camp, A. Mein, W. Kynes, & K. Dell (Eds.), Reading Ecclesiastes Intertextually (Vol. 587, p. 235). London; New Delhi; New York; Sydney: Bloomsbury.
+
+> The carpe diem passages in Ecclesiastes affirm feasting but within the context of a hallowing of the ordinary. They are not, in my view, a representation of despairing hedonism but a typically Israelite affirmation of created life, an affirmation of the ordinary we might say, evoking Charles Taylor’s use of the term in his Sources of the Self
+> Bartholomew, C. G. (2014). The Intertextuality of Ecclesiastes and the New Testament. In C. V. Camp, A. Mein, W. Kynes, & K. Dell (Eds.), Reading Ecclesiastes Intertextually (Vol. 587, p. 236). London; New Delhi; New York; Sydney: Bloomsbury.
+
+> Ecclesiastes, I have argued, provides an important witness to the richness of ordinary, created life.  
+> Bartholomew, C. G. (2014). The Intertextuality of Ecclesiastes and the New Testament. In C. V. Camp, A. Mein, W. Kynes, & K. Dell (Eds.), Reading Ecclesiastes Intertextually (Vol. 587, p. 236). London; New Delhi; New York; Sydney: Bloomsbury.
+
 ## Authorship
 
 ### Possibly Solomon?
@@ -28,6 +62,11 @@ According to rabbinic tradition, Ecclesiastes was written by Solomon in his old 
 Critical scholars have long rejected the idea of Solomon having written this book before the Babylonian exile. Part of the argument is that the presence of Persian "loan-words" and Aramaic figures of speech, point to a date sometime after the exile.
 
 Some question whether certain conditions described in the book (3:16; 4:13-16; 5:8) existed during the reign of Solomon. But these conditions could have been noted by Solomon in neighboring countries, or in lower-level positions of his administration.
+
+### Frame narrator
+
+> A breakthrough for literal interpretation came with Rashbam  (1085–1155). He interprets according to the principle that the text has  only one meaning. Rashbam displays great sensitivity to the literary nature of Ecclesiastes and was the first to realize that Qohelet  was set within a framework; 1:1–2 and the last seven verses were written by those who edited the book.
+> Baker, p. 27
 
 ## Key Verse
 

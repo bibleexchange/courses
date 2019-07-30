@@ -1,66 +1,51 @@
-# What Proverbs says about character
 # Mithali husema nini kuhusu tabia
 
-## Introduction
 ## Utangulizi
 
-Wisdom will produce good character in us.  Hekima italeta tabia nzuri ndani yetu.  Dave Bland, author of *Proverbs and the Formation of Character*David bland,mwandishi  wa mithali na uumbaji wa  tabia*, said that "Wisdom is not content to leave us as we are but insists that we allow ourselves to be transformed by the power of God.alisema kwamba “hekima siyo maudhui ya kutuacha tulivyo lakini inasisitiza kwamba  tujiachilie kubadilishwa  na nguvu za Mungu." The goal of the wisdom books are to change who we are.Lengo la vitabu vya hekima ni kutubadilisha vile tulivyo. We cannot expect this character to happen in isolation, but good character is produced in community. Bland also says that:Hatuwezi kutegemea tabia hii kuonekana katika kutengwa,lakini tabia nzuri huzalishwa katika jamii.
+Hekima italeta tabia nzuri ndani yetu. David Bland, mwandishi wa _Mithali na Uumbaji wa Tabia_, alisema kwamba "hekima siyo maudhui ya kutuacha tulivyo lakini inasisitiza kwamba tujiachilie kubadilishwa na nguvu za Mungu." Lengo la vitabu vya hekima ni kutubadilisha vile tulivyo. Hatuwezi kutegemea tabia hii kuonekana katika kutengwa, lakini tabia nzuri huzalishwa katika jamii. Bland pia anasema kwamba:
 
-> Character, that cluster of virtues that forms into habits, is a product of one’s relationship with God and with other fellow humans.Tabia,nguzo hiyo ya fadhila inayoumbwa katika tabia,ni zao la mahusiano binafsi ya mtu na Mungu pamoja na wanadamu wengine. In as much as this character is the natural outgrowth of wisdom ,Kadiri ya tabia hii kuwa ni asili ya matokeo ya kukua kwa hekima, it is important to realize that wisdom, as expressed in Proverbs, is relational.ni muhimu kutambua kwamba hekima,kama inavyoonyeshwa katika mithali,ni mahusiano. In coming into relationship with God and becoming involved in the lives of others, character takes shape.Tukija katika na Mungu na kujihusisha na maisha yaw engine,tabia huchukua  umbo. Character, being shaped by these relationships, in turn rejuvenates them, continually refreshing our love for God and for others. Hekima,katika kuumbwa na mahusiano haya,huvifufua,daima huburudisha uhusiano wetu na Mungu na wengine pia.[1]
+> Tabia, nguzo hiyo ya fadhila inayoumbwa katika tabia, ni zao la mahusiano binafsi ya mtu na Mungu pamoja na wanadamu wengine. Kadiri ya tabia hii kuwa ni asili ya matokeo ya kukua kwa hekima, ni muhimu kutambua kwamba hekima, kama inavyoonyeshwa katika mithali, ni mahusiano. Tukija katika na Mungu na kujihusisha na maisha yaw engine, tabia huchukua umbo. Tabia, katika kuumbwa na mahusiano haya, huvifufua, daima huburudisha uhusiano wetu na Mungu na wengine pia.[1]
 
-Good character is a valuable thing. Proverbs 22:1 says that it is better to choose good character than riches (see also Proverbs 16:17, 19:1, 20:7, 20:11, 21:29, and 28:6).Tabia njema ni kitu cha thamani.Mithali 22:1 inasema kwamba heri kuchagua jina jema kuliko mali nyingi(angalia pia mithali 16:17,19:1,20:7,20:11,21:29 na 28:6). The value of good character is revealed in how it can keep us safe from the dangers of life.Uthamani wa tabia njema unadhihirishwa na namna itakavyotuweka salama mbali na hatari za maisha. Proverbs 10:9 says that "He that walketh uprightly walketh surely" (see also Proverbs 11:3 and 28:18). Mithali 10:9 inasema  aendaye kwa unyofu huenda salama bali apotoshaye njia zake atajulikana(angalia pia mithali 11:3 na 28:18)We will now look at some traits of good character.Sasa tutaangalia sifa za tabia njema.
+Tabia njema ni kitu cha thamani. Mithali 22:1 inasema kwamba heri kuchagua jina jema kuliko mali nyingi (angalia pia 16:17, 19:1, 20:7, 20:11, 21:29, na 28:6). Uthamani wa tabia njema unadhihirishwa na namna itakavyotuweka salama mbali na hatari za maisha. Mithali 10:9 inasema aendaye kwa unyofu huenda salama bali apotoshaye njia zake atajulikana (angalia pia 11:3 na 28:18). Sasa tutaangalia sifa za tabia njema.
 
-## Righteousness
 ## Haki
 
-The book of Proverbs is not just a list of natural and moralistic rules, but these rules were founded on religion and a belief in God Kitabu cha Mithali .Kitabu cha mithali siyo tu orodha ya sheria za kimaadili za asili,lakini sheria hizi zilianzishwa katika dini na imani katika Mungu. The whole of Israel's society and government was permeated by a belief in God.Jamii nzima ya waizrael na serikali zilipenyezwa na imani katika Mungu. Because of this,kwasababu yah ii, righteousness is an important characteristic in the book of Proverbs.haki ni sifa muhimu katika kitabu cha mithali. Read Proverbs 10:6–7 Soma Mithali 10:6-7 .soma mithali 10:6-7
+Kitabu cha mithali siyo tu orodha ya sheria za kimaadili za asili, lakini sheria hizi zilianzishwa katika dini na imani katika Mungu. Jamii nzima ya Waizraeli na serikali zilipenyezwa na imani katika Mungu. Kwasababu ya hii, haki ni sifa muhimu katika kitabu cha Mithali. Soma Mithali 10:6–7.
 
-## Steadfastness/Perseverance
-## Uthabiti/ uvumilivu
+## Uthabiti/uvumilivu
 
-Things that will make us steadfast:
-Mambo yatakayotufanya imara
+Mambo yatakayotufanya imara:
 
-* Wisdom (4:6; 24:3)
-* Hekima  (4:6, ; 24:3) 
-* Prudence (4:25–27)
-* Busara ( 4:25- 27)
-* Righteousness (10:25; 12:3)
-*Haki ( 10:25;12:3)
-* Trust in God (16:3)
-*Imani kwa  Mungu ( 16:3)
+* Hekima (4:6; 24:3)
+* Busara (4:25–27) 
+* Haki (10:25; 12:3)
+* Imani kwa Mungu (16:3)
 
-## Diligence
 ## Bidii
 
-See also Proverbs 11:27, 12:24, 12:27, 13:4.
-Angalia pia Mithali 11: 27, 12:24, 12:27, 13:4.
+> Mithali 21:5—Mawazo ya wenye bidii huuelekea utajiri tu;  
+> Bali kila mwenye pupa huuelekea uhitaji.
 
-## Humility
+Angalia pia 11:27, 12:24, 12:27, na 13:4.
+
 ## Unyenyekevu
 
-God hates pride. Mungu  anachukizwa na kiburi na majivuno. Proverbs chapter 6 lists seven things that God hates. Mithali sura ya sita inaorodha ya vitu saba anavyovichukia Mungu. The first item in this list is pride (6:16–17a; See also 21:4). Kitu cha kwanza kwenye orodha ni kiburi  ( 6:16 – 17 a; ona pia 21:4). Because God hates pride He will punish the proud (15:25; 16:5) and we should share His hatred for it (8:12–13). Kwakuwa Mungu anachukizwa na kiburi ataadhibu  wanaojivuna (15:25; 16:5) na lazima tushirikishe shauku yake kwa hili.
-What does it mean to be humble? Nini maana ya kuwa mnyenyekevu ?  A humble person does not brag about himself (27:2; 25:27). Mtu mnyenyekevu  hajisifu mwenyewe( hajivuni ) (27:2; 25:27).    When we are humble, we show that we trust in God (28:26).  Tunapokuwa wanyenyekevu , tunaonyesha kuwa tunamwamini  Mungu (28:26).    Humility brings blessings (22:4) and honor (15:33), while pride brings shame (11:2), contention (13:10; 21:24), and self-destruction (16:18; 18:12; 29:23). Unyenyekevu huleta baraka (28:26) na heshima (15:33), wakati kiburi huleta aibu ( 11:2), ugomvi  (13:10; 21:24), uaribifu binafsi  (13:10; 21:24),
+Mungu anachukizwa na kiburi na majivuno. Mithali sura ya sita inaorodha ya vitu saba anavyovichukia Mungu. Kitu cha kwanza kwenye orodha ni kiburi (6:16–17a; ona pia 21:4). Kwakuwa Mungu anachukizwa na kiburi ataadhibu wanaojivuna (15:25; 16:5) na lazima tushirikishe shauku yake kwa hili (8:12–13).
 
-## Contentment
+Nini maana ya kuwa mnyenyekevu? Mtu mnyenyekevu hajisifu mwenyewe (hajivuni) (27:2; 25:27). Tunapokuwa wanyenyekevu, tunaonyesha kuwa tunamwamini Mungu (28:26). Unyenyekevu huleta baraka (28:26) na heshima (15:33), wakati kiburi huleta aibu (11:2), ugomvi (13:10; 21:24), na uaribifu binafsi (16:18; 18:12; 29:23).
+
 ## Kuridhika
 
-There can be too much of a good thing. Kunaweza kuwa na vitu vingi vizuri sana.  Contentment keeps us from overindulgence (25:16) Kuridhika hututenga na vishawishi (25:16).
+Kunaweza kuwa na vitu vingi vizuri sana. Kuridhika hututenga na vishawishi (25:16). Kuridhika huthamini vitu vya rohoni zaidi ya vitu vya mwilini (15:16–17). Ni rahisi kuona wivu kwaajili ya waovu ambao wana vingi kuliko sisi, lakini tunatakiwa kukumbuka kwamba pesa haina faida katika umilele (23:17–18; 24:1–2; 24:19–20). Tujifunze kuridhika, kwasababu wivu kamwe hautoshelezi (30:15–16). Wivu utatuharibu sisi kama hatutaacha (14:30).
 
-Contentment values spiritual things more than physical things (15:16–17). Kuridhika huthamini vitu vya rohoni  zaidi ya vitu vya mwilini (15:16–17).  It is easy to be envious of wicked people that have more than us, but we need to remember that money cannot profit in eternity (23:17–18; 24:1–2; 24:19–20).
-Ni rahisi kuona wivu kwaajili ya waovu ambao wana vingi kuliko sisi ,lakini tunatakiwa kukumbuka kwamba pesa  haina faida katika umilele. (23:17–18; 24:1–2; 24:19–20).
-We need to learn to be content, because envy is never satisfied (30:15–16). This envy will destroy us if we do not stop it (14:30).
-Tujifunze kuridhika , kwasababu wivu kamwe hautoshelezi (30:15–16). Wivu utatuharibu sisi kama hatutaacha (14:30).
-## Patience
 ## Uvumilivu
 
-Patience is a powerful characteristic. Uvumilivu ni tabia yenye nguvu. Proverbs 16:32 says that "He that is slow to anger is better than the mighty." Mithali 16:32 inasema kwamba  Asiye mwepesi wa hasira ni shujaa ni mwema kuliko shujaa . The fool gets angry quickly, but the wise man is patient (14:29; 29:20). Mpumbavu hupata hasira mapema , bali mwenye busara  ni mvumilivu  (14:29; 29:20). A patient person can make peace, but if we are angry, we will make other people angry (15:18; 19:11) Mtu mvumilivu hutafuta amani, bali kama tuna hasira , tutafanya watu wengine kuwa na hasira (15:18; 19:11)  .
+Uvumilivu ni tabia yenye nguvu. Mithali 16:32 inasema kwamba "asiye mwepesi wa hasira ni mwema kuliko shujaa." Mpumbavu hupata hasira mapema, bali mwenye busara ni mvumilivu (14:29; 29:20). Mtu mvumilivu hutafuta amani, bali kama tuna hasira, tutafanya watu wengine kuwa na hasira (15:18; 19:11).
 
-Patience in our work will bring results. Uvumilivu katika kazi zetu utaleta matokeo .  Many people want get to get rich quickly, but diligent work has a better guarantee for prosperity (28:20; 13:11; 20:21; 21:5) Watu wengi wanataka kuwa na utajiri haraka, ila kazi yenye bidii huelekea utajiri  (28:20; 13:11; 20:21; 21:5)
+Uvumilivu katika kazi zetu utaleta matokeo. Watu wengi wanataka kuwa na utajiri haraka, ila kazi yenye bidii huelekea utajiri (28:20; 13:11; 20:21; 21:5).
 
-Patience keeps you from sinning (19:2), it shows trust in God (20:22), and it can change other people's opinions (25:15) Uvumilivu hukuweka mbali na dhambi (19:2), huonyesha imani kwa  Mungu  (20:21) , na pia inaweza kubadilisha mawazo ya watu wengine (25:15).
+Uvumilivu hukuweka mbali na dhambi (19:2), huonyesha imani kwa Mungu (20:21), na pia inaweza kubadilisha mawazo ya watu wengine (25:15).
 
-## Conclusion
 ## Hitimisho
 
-In ancient Israeli culture, people were motivated by honor and shame. Tamaduni za kale za Waisraeli , watu watu walikuwa wanavutiwa kwa heshima na aibu.  The shame of one person could shame their whole family (28:20; 13:11; 20:21; 21:5)  (28:20; 13:11; 20:21; 21:5) Aibu ya mtu mmoja ilikuwa aibu ya familia nzima(28:20; 13:11; 20:21; 21:5)  (28:20; 13:11; 20:21; 21:5)    .  Proverbs says that the foolish son shames on his parents (10:5) and the foolish wife shames her husband (11:16; 12:4). Mithali inasema mwana mpumbavu ni aibu kwa wazazi wake  (10:5) na mwanamke mpumbavu ni aibu kwa mumewe .  A person of good character will have honor (21:21), but the person of bad character will have shame (13:5; 18:3) Mtu wa tabia nzuri atakuwa na heshima  (21:21), bali mtu wa tabia mbaya atapata aibu ( 13:5; 18:3).
+Tamaduni za kale za Waisraeli, watu watu walikuwa wanavutiwa kwa heshima na aibu. Aibu ya mtu mmoja ilikuwa aibu ya familia nzima (28:20; 13:11; 20:21; 21:5). Mithali inasema mwana mpumbavu ni aibu kwa wazazi wake (10:5) na mwanamke mpumbavu ni aibu kwa mumewe (11:16; 12:4). Mtu wa tabia nzuri atakuwa na heshima (21:21), bali mtu wa tabia mbaya atapata aibu ( 13:5; 18:3).

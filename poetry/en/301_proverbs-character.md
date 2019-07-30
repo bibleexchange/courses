@@ -6,7 +6,7 @@ Wisdom will produce good character in us. Dave Bland, author of *Proverbs and th
 
 > Character, that cluster of virtues that forms into habits, is a product of one’s relationship with God and with other fellow humans. In as much as this character is the natural outgrowth of wisdom, it is important to realize that wisdom, as expressed in Proverbs, is relational. In coming into relationship with God and becoming involved in the lives of others, character takes shape. Character, being shaped by these relationships, in turn rejuvenates them, continually refreshing our love for God and for others. [1]
 
-Good character is a valuable thing. Proverbs 22:1 says that it is better to choose good character than riches (see also Proverbs 16:17, 19:1, 20:7, 20:11, 21:29, and 28:6). The value of good character is revealed in how it can keep us safe from the dangers of life. Proverbs 10:9 says that "He that walketh uprightly walketh surely" (see also Proverbs 11:3 and 28:18). We will now look at some traits of good character.
+Good character is a valuable thing. Proverbs 22:1 says that it is better to choose good character than riches (see also 16:17, 19:1, 20:7, 20:11, 21:29, and 28:6). The value of good character is revealed in how it can keep us safe from the dangers of life. Proverbs 10:9 says that "He that walketh uprightly walketh surely" (see also 11:3 and 28:18). We will now look at some traits of good character.
 
 ## Righteousness
 
@@ -23,10 +23,10 @@ Things that will make us steadfast:
 
 ## Diligence
 
-> Proverbs 21:5&mdash;The thoughts of the diligent tend only to plenteousness;  
+> Proverbs 21:5—The thoughts of the diligent tend only to plenteousness;  
 > But of every one that is hasty only to want.
 
-See also Proverbs 11:27, 12:24, 12:27, 13:4.
+See also 11:27, 12:24, 12:27, 13:4.
 
 ## Humility
 
@@ -36,11 +36,7 @@ What does it mean to be humble? A humble person does not brag about himself (27:
 
 ## Contentment
 
-There can be too much of a good thing. Contentment keeps us from overindulgence (25:16).
-
-Contentment values spiritual things more than physical things (15:16–17). It is easy to be envious of wicked people that have more than us, but we need to remember that money cannot profit in eternity (23:17–18; 24:1–2; 24:19–20).
-
-We need to learn to be content, because envy is never satisfied (30:15–16). This envy will destroy us if we do not stop it (14:30).
+There can be too much of a good thing. Contentment keeps us from overindulgence (25:16). Contentment values spiritual things more than physical things (15:16–17). It is easy to be envious of wicked people that have more than us, but we need to remember that money cannot profit in eternity (23:17–18; 24:1–2; 24:19–20). We need to learn to be content, because envy is never satisfied (30:15–16). This envy will destroy us if we do not stop it (14:30).
 
 ## Patience
 

@@ -10,7 +10,7 @@ We are to correct our children (29:15). If you love your children, you will corr
 
 Children are told to respect their parents (20:20), but unfortunately many children do not (30:11–14). They are told to listen to their parents (6:20–22; 15:5), because all parents were once young themselves and they learned these things from their experiences (1:8–9; 3:1–2; 4:1–4; 13:1). Children are warned that taking advantage of parents is the same as stealing (28:24).
 
-The choices of children can hurt the parents. If a child is disobedient and sinful, they can be a burden to their parents (10:1) and they can bring shame to them (19:26; 28:7). See also Proverbs 15:20, 17:21, and 17:25. But obedient children can be a blessing to their father and mother (23:22–25; 27:11; 29:3).
+The choices of children can hurt the parents. If a child is disobedient and sinful, they can be a burden to their parents (10:1) and they can bring shame to them (19:26; 28:7). See also 15:20, 17:21, and 17:25. But obedient children can be a blessing to their father and mother (23:22–25; 27:11; 29:3).
 
 ## Advice to the single
 

@@ -1,7 +1,5 @@
-# Chapter 12 (Description of old age and the Preacher's Conclusion)
+# Description of old age and the conclusion (chapter 12)
 
-## Description of Old Age, vs. 1-7
+## Description of old age (v. 1-7)
 
-## Conclusion of the Whole Matter, vs. 8-14
-
-- conclusion concerning the highest duty of man.
+## Conclusion of the whole matter (v. 8-14)

@@ -33,18 +33,18 @@ We have to remember that Proverbs are not absolute promises, but principles. It'
 
 If you are righteous, God will bless you, but it will not always be with money or physical possessions. As humans, we often think that money is the most important thing for life, but God knows that there are other blessings that we need more than money.
 
-In chapter 3, we see a description of Woman Wisdom. Verse 16 says that she holds life in her right hand and riches and honor in her left hand. In ancient Hebrew culture, the right hand was more honored than the left hand was honored (Gen. 48:14; Ecc. 10:12; Matt. 25:33)[1]. This shows us that wisdom may give riches, but riches are not as important as life is. Also, the two verses which immediately precede it (3:15–15) talk about how wisdom is better than gold and silver (See also 8:19 and 16:16). Wealth is not bad, but wisdom is better. God gave Solomon wealth, but only because he first asked for wisdom. Wisdom is not the only thing that is better than wealth. Bruce Waltke says, "Wealth is a desirable state and the reward of wisdom (see 3:9–10), not the aim of one’s life"[2]. Proverbs gives many things that are better than having money:
+In chapter 3, we see a description of Woman Wisdom. Verse 16 says that she holds life in her right hand and riches and honor in her left hand. In ancient Hebrew culture, the right hand was more honored than the left hand was honored (Gen. 48:14; Ecc. 10:12; Matt. 25:33)[1]. This shows us that wisdom may give riches, but riches are not as important as life is. Also, the two verses which immediately precede it (3:14–15) talk about how wisdom is better than gold and silver (see also 8:19 and 16:16). Wealth is not bad, but wisdom is better. God gave Solomon wealth, but only because he first asked for wisdom. Wisdom is not the only thing that is better than wealth. Bruce Waltke says, "Wealth is a desirable state and the reward of wisdom (see 3:9–10), not the aim of one’s life"[2]. Proverbs gives many things that are better than having money:
 
 * The lips of knowledge (20:15)
 * A good name (22:1)
 * Being an honest person (19:22)
 * A good wife is better (31:10)
 * Walking in integrity (19:1)
-* Fear of God (15:16-17; 16:8; 16:19)
+* Fear of God (15:16–17; 16:8; 16:19)
 
 ## Money does not solve all problems
 
-Why does God say that so many things are more valuable than money? It is because there are many things that money cannot buy. Money gives you a sense of security (10:15), but money will fail you (11:28). Money cannot save a failing marriage. Money cannot save you from a cure-less disease. And money cannot help you in the afterlife (11:4; 11:28).
+Why does God say that so many things are more valuable than money? It is because there are many things that money cannot buy. Money gives you a sense of security (10:15), but money will fail you (11:28). Money cannot save a failing marriage. Money cannot save you from a cure-less disease. And money cannot help you in the afterlife (11:4, 28).
 
 ### Money cannot buy true friends
 
@@ -60,11 +60,11 @@ Proverbs 17:1 suggests that wealth can be the cause of strife in a home. It can 
 
 ## God gives riches so that we might share with others
 
-We are commanded to give back to God (3:9-10), but we are also commanded to help the poor. God will provide for the poor (10:3; 15:25; **22:22-23**), and He may use us to do it. If we have something, and we have a neighbor that needs it, we should give it to them (3:27-28). Jesus repeated this command during the Sermon on the Mount (Matthew 5:42). God gives wealth to certain people so that they would redistribute it to others. Those people who are virtuous will share what they have with the poor (29:7; 31:20). Part of the reason that there is poverty in the world is because of social and economic injustice (13:23). Those that give to the poor will be blessed (11:24; 14:21; **19:17**; 22:9; 28:27).
+We are commanded to give back to God (3:9–10), but we are also commanded to help the poor. God will provide for the poor (10:3; 15:25; **22:22–23**), and He may use us to do it. If we have something, and we have a neighbor that needs it, we should give it to them (3:27–28). Jesus repeated this command during the Sermon on the Mount (Matthew 5:42). God gives wealth to certain people so that they would redistribute it to others. Those people who are virtuous will share what they have with the poor (29:7; 31:20). Part of the reason that there is poverty in the world is because of social and economic injustice (13:23). Those that give to the poor will be blessed (11:24; 14:21; **19:17**; 22:9; 28:27).
 
 ### God will not listen to those who do not help the poor
 
-All men are created in the image of God, and when we oppress any person, we insult God (14:31; 17:5). In Matthew 25, Jesus tells the story about people who will be punished because they neglected the poor. He said that when people neglect the poor, they are really neglecting Him (Matthew 25:41–46). See also 21:13, 28:27, and 29:14. Those that take advantage of the poor will be punished (22:16; 23:10-11).
+All men are created in the image of God, and when we oppress any person, we insult God (14:31; 17:5). In Matthew 25, Jesus tells the story about people who will be punished because they neglected the poor. He said that when people neglect the poor, they are really neglecting Him (Matthew 25:41–46). See also 21:13, 28:27, and 29:14. Those that take advantage of the poor will be punished (22:16; 23:10–11).
 
 ## Some advice about using money
 
@@ -72,23 +72,23 @@ All men are created in the image of God, and when we oppress any person, we insu
 
 We need to make plans about how we will spend our finances (21:5). The ant is used as an example of saving for difficult times (6:6–11). No one has to tell it what to do. It knows that winter is coming, and so it must gather food. The hard-worker does not need a leader, and in fact, he will likely become a leader (12:24). This hard work can keep you from becoming the slave of another. Jesus gave several stories of people who were given more authority because of their hard work. See also 10:5.
 
-### Borrowing from others makes you a slave to them (22:7; 6:1-5)
+### Borrowing from others makes you a slave to them (22:7; 6:1–5)
 
 <!--?? 22:26-27-->
 
-### Whoever loves pleasure will be a poor man (21:17; 21:20; 29:3; 23:20-21)
+### Whoever loves pleasure will be a poor man (21:17; 21:20; 29:3; 23:20–21)
 
 ### Getting rich quickly is usually not good
 
-Working in something consistent that will bring a moderate reward is better than looking for new ways to not have to work hard (12:11). For example, there is a popular business book named _The 4-Hour Work Week_, which tells people that they can do little work and make a lot of money. Many times work is difficult, but trying to find an easier way may not be profitable (14:4). See also 13:11, 20:21, 21:5, and 28:20-22.
+Working in something consistent that will bring a moderate reward is better than looking for new ways to not have to work hard (12:11). For example, there is a popular business book named _The 4-Hour Work Week_, which tells people that they can do little work and make a lot of money. Many times work is difficult, but trying to find an easier way may not be profitable (14:4). See also 13:11, 20:21, 21:5, and 28:20–22.
 
 ### Getting rich through dishonest means will fail in the end
 
-Some people make money by dishonest means, but there will be consequences (10:2; 11:18: **13:11**; 15:27; 21:6). Proverbs gives warnings about using false weights when selling merchandise (20:10; 20:23) and stealing ground by moving boundary markers (22:28; 23:10-11).
+Some people make money by dishonest means, but there will be consequences (10:2; 11:18: **13:11**; 15:27; 21:6). Proverbs gives warnings about using false weights when selling merchandise (20:10; 20:23) and stealing ground by moving boundary markers (22:28; 23:10–11).
 
 ## Conclusion
 
-In Proverbs 30:7-9 the writer asks God for two things:
+In Proverbs 30:7–9 the writer asks God for two things:
 
 1. Do not let me be poor
 2. Do not let me be rich

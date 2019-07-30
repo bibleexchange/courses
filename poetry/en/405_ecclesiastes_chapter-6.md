@@ -1,34 +1,23 @@
-# Chapter 6 (The vanity of long life.)
+# The vanity of long life (chapter 6)
 
-- A Long Life is Vain without the main ingredient of God's Gifts!
+## Some cannot enjoy their profit (v. 1–2)
 
-## The gift of contentment (v. 1-2)
+Qohelet now continues his observations on wealth. He talks about an "evil" thing, that is, that man works hard and gets wealth, but he cannot enjoy it. We do not know what the circumstances are that prevent him from enjoying his wealth, but we know that for some reason it is given to another to enjoy.
 
-- The ability to enjoy what we have is a gift from God.
+## Long life does not guarentee hapiness (v. 3–6)
 
-- "evil": bad; natural or moral evil, wretchedness, wrong.
-- "common among men" This is a reigning disposition.
-- "God hath given riches"
-- "yet God giveth him not power to eat thereof" To have everything he could need, but as a judgment of God for his ingratitude has a COVETOUS mind. (compare Luke 12:13-21)
+Long life (Prov. 3:2) and many children (Psalm 127:4) were considered great blessings in ancient Israel, but Qohelet says that even these cannot bring rest to a weary life. He says that the stillborn baby who has never known life is better than the person who has long life. he says this because the stillborn does not have to face the troubles of life.
 
-> Luke 12:13-21
+## Appetite is never satisfied (v. 7)
 
--"but a stranger eateth it" His mind is so covetous for MORE he does not appreciate nor enjoy what he has already.
+We work hard for food, and then we eat it. Afterward we are hungry again.
 
-> 1 Timothy 6:6 &mdash;  But godliness with contentment is great gain.
+## Wisdom is better than foolishness (v. 8–9)
 
-## The gift of rememberance (v. 3-4)
+## Conclusion to the search for meaning (v. 10–12)
 
-- If we follow God's plan (Exodus; 20:12; Proverbs 22:6; Ephesians 6:1)
-- God Keeps Good records. (Malachi 3:16; Revelation 20:12,15; Psalm 56:8; Hebrews 8:12; Matthew 10:30)
+Thses verse conclude Qohelet's search for meaning. "Here leaves his explicit search for meaning and in the second half of the book focuses on advice and commentary about the future."[1] Verse 10 says "that which hath been is named already," and it is repeating the idea that there is nothing new under the sun (3:15).
 
-## The gift of Llife (v. 5-6)
+-------------------------------------------------------------------------
 
-- "do not all go to one place?"
-- Nothingness? Forgottenness? the grave?
-
-## The gift of satisfaction (v. 7)
-
-## The gift of "more and better" (v. 8-11)
-
-## The gift of answers (v. 12)
+[1] Longman, T. (1998). The Book of Ecclesiastes (p. 176). Grand Rapids, MI: Wm. B. Eerdmans Publishing Co.

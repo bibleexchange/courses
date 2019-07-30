@@ -40,7 +40,7 @@ Talk is cheap. Proverbs 20:6 says that "Most men will proclaim every one his own
 
 ### Some people will want to be your friend for the wrong reason
 
-Some people call everyone their "friend," but do they really care about you? (Or do you even care about them?) A friend is more than someone that can give **you** good things, but you have to also **give to them** to make strong friendships. When someone has money, then he will have many "friends," but when the money is gone, the friends will also be gone (14:20; 19:4, 6–7.
+Some people call everyone their "friend," but do they really care about you? (Or do you even care about them?) A friend is more than someone that can give **you** good things, but you have to also **give to them** to make strong friendships. When someone has money, then he will have many "friends," but when the money is gone, the friends will also be gone (14:20; 19:4, 6–7).
 
 <!--
 > Economic survival was precarious in ancient Israel, and one needed the “insurance” of a true friend. One also needed such a friend in court.  
