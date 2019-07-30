@@ -1,0 +1,21 @@
+<html>
+<head>
+	<link rel='stylesheet' href='/app.css' type='text/css' media='all' /></head>
+<body>
+	<div class="container">
+		<main>{{main}}</main>
+		<aside>{{aside}}</aside>
+	</div>
+
+	<footer>
+		<ul>
+			<li><a href="/">home</a></li>
+		</ul>
+	</footer>
+
+	<script>
+		let quiz = document.getElementById("quiz").dataset.quiz
+		console.log(JSON.parse(quiz))
+	</script>
+</body>
+</html>"
