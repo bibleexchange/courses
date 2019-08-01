@@ -1,4 +1,4 @@
-## Kuthibitishwa kwa sheria (mst.31)
+## Kuthibitishwa kwa sheria (mst. 31)
 
 > *Kuhesabiwa haki ni kwa imani nasio matendo ya sheria. Sheria: ni faida kwao wanaoijua (mst. 1-2), uhalisi katika asili yake (mst. 3-8), haipindiki katika mamlaka yake (mst. 9-19), inakusudi la kipekee (mst. 20-30), haiepukiki bali imethibitishwa katika mioyo yetu (mst. 31).*
 

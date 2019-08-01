@@ -1,4 +1,4 @@
-# Kusudi la kweli la sheria(mst.20-30)The True Purpose of the Law (vs. 20-30)
+# Kusudi la kweli la sheria (mst. 20-30)
 
 > WARUMI 3: *Kuhesabiwa ni kwa njia ya imani sio kwa matendo sheria. Sheria ni: faida kwa wale wanaoijua (mst. 1-2), ni halisi katika asili yake (mst. 3-8), haipindiki katika mamlaka yake(mst. 9-19), inayokusudi la pekee (mst. 20-30), sio kitu cha kuepuka bali zaidi imethibitishwa ndani ya mioyo yetu (mst. 31).* 
 
@@ -20,13 +20,13 @@ Mwenye mwili: ni mwili (ni kama kinyume cha nafsi (au roho)) ni ishara ya kile k
 	
 Maana ya "kuhesabiwa" haki ni kutangazwa kuwa mwenye haki. Kuhesabiwa ni kuwekwa mahali penye uhusiano sahihi pamoja na Mungu. Paulo anaongea na watu jinsi gani wataweza kuhesabiwa haki au kutangazwa haki; kwa njia Yesu Kristo.
 
-Kuhesabiwa haki: kurudisha (kuonyesha au kujali) mwenye haki au asiye na hatia: &mdash;uhuru, kuhesabiwa haki.
+Kuhesabiwa haki: kurudisha (kuonyesha au kujali) mwenye haki au asiye na hatia: —uhuru, kuhesabiwa haki.
 
-> Umuhimu mkubwa, kuhesabiwa haki haimaanishi kwamba Mungu hutufanya haki, bali hututangaza kuwa wenye haki. Kuhesabiwa haki ni jambo la kisheria. Mungu huweka ya Kristo kwenye hesabu yetu ya wenye dhambi. &mdash;Wiersbe, W. W. (1996). The Bible Exposition Commentary
+> Umuhimu mkubwa, kuhesabiwa haki haimaanishi kwamba Mungu hutufanya haki, bali hututangaza kuwa wenye haki. Kuhesabiwa haki ni jambo la kisheria. Mungu huweka ya Kristo kwenye hesabu yetu ya wenye dhambi. —Wiersbe, W. W. (1996). The Bible Exposition Commentary
 
 Bado, Wokkovu haujakamilika katika maelezo haya. Kwa kuwa katika tangazo la Mungu la kuhesabiwa haki, kwa kutupa haki yake ametufanya wenye haki.
 
-> War. 5:19&mdash;Kwa sababu kama kwa kuasi kwake mtu mmoja watu wengi waliingizwa katika hali ya wenye dhambi, kadhalika kwa kutii kwake mmoja watu wengi wameingizwa katika hali ya wenye haki.
+> War. 5:19—Kwa sababu kama kwa kuasi kwake mtu mmoja watu wengi waliingizwa katika hali ya wenye dhambi, kadhalika kwa kutii kwake mmoja watu wengi wameingizwa katika hali ya wenye haki.
 
 ### Haki hurejea usafi wa maadili
 
@@ -64,6 +64,6 @@ Katika kipindi cha Agano la kale, damu ya wanyama haikuweza kuondoa dhambi (Waeb
 
 ### Imani ni kigezo cha kupokea kutoka kwa Mungu
 
-Imani na haki - nenda sawa kwa sawa ukimwona mtu mwenye haki, umeona mtu mwenye imani. Kumbuka imani mbali na haki sio ya kimaandiko. Haki kwa halisi inafaa haki (Marko 11:22). Haki: ni uwezo wa kufikiri na kutenda kama Mungu. Kuna haki za aina mbili: 1. ya kuwekewa - tendo la neema (Mungu anaweka katika hesabu yetu) 2. ya kugawiwa-neema ya kushirikisha au kutoa. 1:17 - &quot;maana kuna haki ya Mungu iliofunuliwa toka imani hadi imani.&quot; Hatua: I Wakr. 1:30 kuna viwango vya imani. Tunabadilishwa toka kuamini hadi kuamini, imani hadi imani, utukufu hadi utukufu. &quot;Metron&quot; - Kigiriki - kipimo cha imani, kiwango, sehemu. Kipimo cha imani imani iokoayo. Ikiwa wewe una imani wewe una imani katika moyo wako.
+Imani na haki - nenda sawa kwa sawa ukimwona mtu mwenye haki, umeona mtu mwenye imani. Kumbuka imani mbali na haki sio ya kimaandiko. Haki kwa halisi inafaa haki (Marko 11:22). Haki: ni uwezo wa kufikiri na kutenda kama Mungu. Kuna haki za aina mbili: 1. ya kuwekewa - tendo la neema (Mungu anaweka katika hesabu yetu) 2. ya kugawiwa-neema ya kushirikisha au kutoa. 1:17 - "maana kuna haki ya Mungu iliofunuliwa toka imani hadi imani." Hatua: I Wakr. 1:30 kuna viwango vya imani. Tunabadilishwa toka kuamini hadi kuamini, imani hadi imani, utukufu hadi utukufu. "Metron" - Kigiriki - kipimo cha imani, kiwango, sehemu. Kipimo cha imani imani iokoayo. Ikiwa wewe una imani wewe una imani katika moyo wako.
 
 ### Matendo ya sheria hayawezi kumhesabia mtu haki

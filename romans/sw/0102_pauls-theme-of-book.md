@@ -22,7 +22,7 @@ Paulo yuko tayari kuhubiri kwa yeyote bila aibu kwasababu anajua zaidi ya mashak
 
 ##### Mtu hana haki yake mwenyewe
 
-> Isaya 64:6&mdash;Kwa maana sisi sote tumekuwa kama mtu aliye mchafu, na matendo yetu yote ya haki yamekuwa kama nguo iliyotiwa unajisi; sisi sote twanyauka kama jani, na maovu yetu yatuondoa, kama upepo uondoavyo.
+> Isaya 64:6—Kwa maana sisi sote tumekuwa kama mtu aliye mchafu, na matendo yetu yote ya haki yamekuwa kama nguo iliyotiwa unajisi; sisi sote twanyauka kama jani, na maovu yetu yatuondoa, kama upepo uondoavyo.
 
 ##### Haki ya Kristo inawekwa katika hesabu ya mwenye dhambi
 
@@ -33,7 +33,7 @@ hesabu ya. MAELEZO YA MFANO: mtu ambaye hana fedha katika akaunti ya benk anahit
 
 Kuna tofauti kati ya haki iliowekwa na haki ya kupewa. Kupewa humaanisha kuweka kwenye. Mungu huweka haki yake ndani ya mtu kwenye wokovu. Kuna badiliko la asili ambalo huambatana na kuzaliwa upya.
 
-> Wafl 3:9&mdash;tena nionekane katika yeye, nisiwe na haki yangu mwenyewe ipatikanayo kwa sheria, bali ile ipatikanayo kwa imani iliyo katika Kristo, haki ile itokayo kwa Mungu, kwa imani;
+> Wafl 3:9—tena nionekane katika yeye, nisiwe na haki yangu mwenyewe ipatikanayo kwa sheria, bali ile ipatikanayo kwa imani iliyo katika Kristo, haki ile itokayo kwa Mungu, kwa imani;
 
 #### Kutoka imani hata imani huonyesha mchakato wa imani kupokea uhusiano zaidi wa haki ya Mungu
 
@@ -41,9 +41,9 @@ Maelezo kutoka imani hata imani hurejea kwenye ongezeko la imani; kuonyesho ukua
 
 #### Haki ya Mungu ni endelevu kwa maisha ya wakristo
 
-Ufunuo wa tabia ya Mungu na asili sio kitu cha kutenga mbali na Injili, bali yamefungana katika Injili kwamba sisi kama wasikiaji tuweze KUISHI. Uzima huu na haki sio vitu vinavyopokelewa kwa mara moja, bali hufunuliwa kwetu toka imani hata imani, kadiri tunavyotii na kufanyia kazi yale tuliyo ya pokea, Mungu hutupa zaidi na mchakato wake endelevu katika haki ni njia ya mwenye HAKI. Ufunguo wa kudumisha uzoevu wetu na Mungu ni mchakato endelevu. Paulo anatangaza katika Waebr 6:1, &quo;tukaze mwendo ili tuufikilie utimilifu.&quo;
+Ufunuo wa tabia ya Mungu na asili sio kitu cha kutenga mbali na Injili, bali yamefungana katika Injili kwamba sisi kama wasikiaji tuweze KUISHI. Uzima huu na haki sio vitu vinavyopokelewa kwa mara moja, bali hufunuliwa kwetu toka imani hata imani, kadiri tunavyotii na kufanyia kazi yale tuliyo ya pokea, Mungu hutupa zaidi na mchakato wake endelevu katika haki ni njia ya mwenye HAKI. Ufunguo wa kudumisha uzoevu wetu na Mungu ni mchakato endelevu. Paulo anatangaza katika Waebr 6:1, "tukaze mwendo ili tuufikilie utimilifu."
 
-> II Kor. 5:21&mdash;Yeye asiyejua dhambi alimfanya kuwa dhambi kwa ajili yetu, ili sisi tupate kuwa haki ya Mungu katika Yeye.
+> II Kor. 5:21—Yeye asiyejua dhambi alimfanya kuwa dhambi kwa ajili yetu, ili sisi tupate kuwa haki ya Mungu katika Yeye.
 
 ### Mwenye haki ataishi kwa imani
 
@@ -65,12 +65,12 @@ Mwenye haki hubakia kwa kulindwa na nguvu za Mungu. Katika ulimwengu huu wa dham
 
 #### Njia ya mweye haki huongoza kwenye ukomavu katika Kristo
 
-> Mith. 4:18&mdash;Bali njia ya wenye haki ni kama nuru ing’aayo, Ikizidi kung’aa hata mchana mkamilifu.
+> Mith. 4:18—Bali njia ya wenye haki ni kama nuru ing’aayo, Ikizidi kung’aa hata mchana mkamilifu.
 
-> Zab. 119:105&mdash;Neno lako ni taa ya miguu yangu, Na mwanga wa njia yangu.
+> Zab. 119:105—Neno lako ni taa ya miguu yangu, Na mwanga wa njia yangu.
 
 Nuru huwakilisha ukweli ambao humwongoza mkristo kwenye safari yake. Na zaidi tunatembea katika njia ambao ukweli zaidi hupokelewa. Mungu hufunua zaidi ukweli kadir tunavyo tii ukweli ambao tayari tulisha upokea. Maisha ya ukamilifu wa urithi wetu kama waamini.
 
 #### Mkristo huishi maisha yake kwa imani katika Kristo
 
-> Wagal. 2:20&mdash;Nimesulibiwa pamoja na Kristo; lakini ni hai; wala si mimi tena, bali Kristo yu hai ndani yangu; na uhai nilio nao sasa katika mwili, ninao katika imani ya Mwana wa Mungu, ambaye alinipenda, akajitoa nafsi yake kwa ajili yangu.
+> Wagal. 2:20—Nimesulibiwa pamoja na Kristo; lakini ni hai; wala si mimi tena, bali Kristo yu hai ndani yangu; na uhai nilio nao sasa katika mwili, ninao katika imani ya Mwana wa Mungu, ambaye alinipenda, akajitoa nafsi yake kwa ajili yangu.

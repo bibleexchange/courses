@@ -1,4 +1,4 @@
-## Mungu atatimiza ahadi yake (War. 4:18-25)
+## Mungu atatimiza ahadi yake (4:18-25)
 
 ### Ahadi kwa Ibrahimu (mst. 18-22)
 
@@ -8,7 +8,7 @@ Abrahamu alipewa ahadi ya Mungu. Mungu alimwahidi kuwa atakuwa na mwana. Pia Mes
 
 ### Shariti la kuhesabiwa haki (mst. 24)
 
-Mtu hupokea kuhesabiwa haki kutoka kwa Mungu kwa imani&mdash;"kama tunaamini&hellip;"
+Mtu hupokea kuhesabiwa haki kutoka kwa Mungu kwa imani—"kama tunaamini..."
 
 Ahadi zenye mashariti
 

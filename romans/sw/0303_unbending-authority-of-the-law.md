@@ -1,4 +1,4 @@
-## Mamlaka yasiyopindika ya sheria (mst. 9-19)
+## Mamlaka yasiyopindika ya sheria (3:9-19)
 
 > *Kuhesabiwa haki ni kwa imani pasipo matendo ya sheria. Sheria ni: faida kwa wale ambao wanaijua(mst. 20-30), haijafanywa kama kitu cha kuepuka bali inathibitishwa kwa imani yetu. (mst. 31)*
 
@@ -10,17 +10,17 @@ Mwenye dhambi ni nani? Tumeshathibitisha kuwa wote wayahudi na wamataifa wako ch
 
 ## Ushahidi hutolewa mbele ya mshitakiwa
 
-### Ushahidi wa uumbaji&mdash;1:20
+### Ushahidi wa uumbaji (1:20)
 
-### Ushahidi wa dhamira&mdash;2:15
+### Ushahidi wa dhamira (2:15)
 
-### Ushahidi wa amri&mdash;3:19
+### Ushahidi wa amri (3:19)
  
 ## Shitaka lililo somwa toka Maandiko (mst. 10-18)
 
 ### Kulingana na sheria za kimahakama shitaka rasimi lazima liwe limeandikwa
 
-> Shitaka rasmi ni shitaka lililoandikwa au shitaka la kawaida la mhalifu au mkosaji,hurejelewa kama baraza la wazee wa mahakama chini ya kiapo cha mahakama. &mdash;Webster
+> Shitaka rasmi ni shitaka lililoandikwa au shitaka la kawaida la mhalifu au mkosaji,hurejelewa kama baraza la wazee wa mahakama chini ya kiapo cha mahakama. —Webster
 
 Hakimu mkuu haachi udhuru kwa ajili binadamu na Paulo ametumia neno lililoandikwa kuonyesha mshitakiwa.
 

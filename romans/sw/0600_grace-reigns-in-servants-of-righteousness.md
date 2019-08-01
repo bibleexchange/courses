@@ -9,7 +9,7 @@ Paulo alithibitisha hilo kwa kuwa hakuna sababu nzuri ya kufanya dhambi. Hakuna 
 
 ## Neema huongezeka wakati tunatembea katika upya wa uzima wa Kristo {mstr. 1-14} Grace abounds when we walk in the newness of Christ's life (v. 1–14)
 
- Paulo alifundisha kuwa kuishi katika dhambi lakini kama tutafia dhambini isiwezekane. Ama ufe katika dhambi au uwe hai katika dhambi. Wakati umeokoa hundi ya timu kwa faida, moyo wa mwathirika unaweza kusukuma damu au moyo wake unaweweza kutulia. Kama tutasulubiwa katika Kristo, Mungu hatainua tena ule utu wa kale, bali Mungu atatuinulia juu <<upya wa uzima>> kale Paul teaches that to live in sin if we are dead to sin is impossible. You are either dead to sin or you are alive to sin. When the rescue team checks for vitals, the victim's heart is either pumping blood or his heart has stopped. If we are crucified in Christ, God does not raise again that old carnal man, but God raises us up in **newness of life**.
+Paulo alifundisha kuwa kuishi katika dhambi lakini kama tutafia dhambini isiwezekane. Ama ufe katika dhambi au uwe hai katika dhambi. Wakati umeokoa hundi ya timu kwa faida, moyo wa mwathirika unaweza kusukuma damu au moyo wake unaweweza kutulia. Kama tutasulubiwa katika Kristo, Mungu hatainua tena ule utu wa kale, bali Mungu atatuinulia juu <<upya wa uzima>> kale Paul teaches that to live in sin if we are dead to sin is impossible. You are either dead to sin or you are alive to sin. When the rescue team checks for vitals, the victim's heart is either pumping blood or his heart has stopped. If we are crucified in Christ, God does not raise again that old carnal man, but God raises us up in **newness of life**.
 
 ## Mahusiano ya wenye dhambi kwa dhambi {mstr. 1-6} The sinner's relationship to sin (v. 1–6)
 

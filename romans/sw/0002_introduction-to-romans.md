@@ -16,7 +16,7 @@ Paulo alikuwa katika kiwango cha juu cha huduma katika katikati ya karine ya kwa
 
 ### Ushahidi wa kutoka inje unasaidia mamlaka ya Paulo.
 
-Paulo alijulikana kama mwandishi wa waraka kwa Warumi mapema mnamo AD 95.baadhi ya waandishi walitambuliwa katika mamlaka ya msatari wa Paulo kwa Warumi walikuwa ni:
+Paulo alijulikana kama mwandishi wa waraka kwa Warumi mapema mnamo 95 BK. Baadhi ya waandishi walitambuliwa katika mamlaka ya msatari wa Paulo kwa Warumi walikuwa ni:
 
 #### Waandishi wa Agano jipya hasahasa Petro (2 Pet. 3:15)
 
@@ -28,13 +28,13 @@ Paulo alijulikana kama mwandishi wa waraka kwa Warumi mapema mnamo AD 95.baadhi 
 
 ## Nani alilianzisha Kanisa la Rumi
 
-Paul aliandika hii waraka,lakini yeye hakuanzisha Kanisa la Rumi, walakulitembelea hili Kanisa hadi wakati fulani baada kuandika barua hii. Kanisa la kikristo katika Rumi lilikuwepo tayari kabla ya kuandika waraka kwa Warumi pamoja na kundi ka waamini kukutana majumbani kama vile kwa Priskila na Akula.
+Paul aliandika hii waraka, lakini yeye hakuanzisha Kanisa la Rumi, walakulitembelea hili Kanisa hadi wakati fulani baada kuandika barua hii. Kanisa la kikristo katika Rumi lilikuwepo tayari kabla ya kuandika waraka kwa Warumi pamoja na kundi ka waamini kukutana majumbani kama vile kwa Priskila na Akula.
 
 Kama tutalinganisha War. 1:8, 1:11, na War. 16, kwa usalama tunaweza kuhitimisha kwamba kulikuwa na kanisa Rumi kabla ya Paulo hata Petro.
 
-> War. 1:13&mdash;Lakini, ndugu zangu, sipendi msiwe na habari, ya kuwa mara nyingi nalikusudia kuja kwenu, nikazuiliwa hata sasa, ili nipate kuwa na matunda kwenu ninyi pia kama nilivyo nayo katika Mataifa wengine.
+> War. 1:13—Lakini, ndugu zangu, sipendi msiwe na habari, ya kuwa mara nyingi nalikusudia kuja kwenu, nikazuiliwa hata sasa, ili nipate kuwa na matunda kwenu ninyi pia kama nilivyo nayo katika Mataifa wengine.
 
-> War. 16:5&mdash;Nisalimieni Epaineto, mpenzi wangu, aliye malimbuko ya Asia kwa Kristo.
+> War. 16:5—Nisalimieni Epaineto, mpenzi wangu, aliye malimbuko ya Asia kwa Kristo.
 
 Tunaweza kupata habari ndogo ndogo kutoka vifungu hivi kwamba kabla ya Paulo kupata nafasi ya kutembelea Roma, hili lilikuwa kundi la waamini wenye ushuhuda wenye nguvu kwa ajili ya Kristo. Hawakuhitaji kumarishwa. Na Paulo alihisi wito wakukutana na hitaji hili, lakini kwa halisi kulikuwa na Kanisa huko Roma.
 
@@ -42,7 +42,7 @@ Hapakuwa na historia ilioandikwa ya kupata kanisa huko Roma, lakini tunaweza pia
 
 Paulo aliona thamani ya kutia nguvu na kuimarisha kanisa katika mji huu mkuu. Htahivyo Paulo hakulianzisha hili kanisa, Paulo alibeba mzigo kuona kanisa hili likifanikiwa. Paulo alijiona anadaiwa na watu wote wanaotembea katika Rumi, kama ilivyo katika maeneo mengine mengi.
 
-> War. 1:14&mdash;Nawiwa na Wayunani na wasio Wayunani, nawiwa na wenye hekima na wasio na hekima.
+> War. 1:14—Nawiwa na Wayunani na wasio Wayunani, nawiwa na wenye hekima na wasio na hekima.
 
 ## Kuzaliwa kwa kanisa la Rumi
 
@@ -52,7 +52,7 @@ Kutoka makutano ya watumwa wa kiyahudi kuletwa Rumi na baadaye kuachwa huru, ong
 
 Mwanahistoria Cassius Dio anatoa taarifa ya tendo lilochukuliwa na Kilaudio dhidi ya Wayahudi wa kirumi:
 
-> &quot;Kwa ajili ya wayahudi, yeye ambaye alikuwa tena aliongezeka kwa ukubwa ambayo kwa sababu ya makutano yao igekuwa ngumu pasipo kuinua makelele kuwapinga kutoka mjini, yeye hakuwakufuza, bali aliwaagiza,wakati wakiendeleza mtindo wao maisha, sio kushikilia makutano.&quot;
+> "Kwa ajili ya wayahudi, yeye ambaye alikuwa tena aliongezeka kwa ukubwa ambayo kwa sababu ya makutano yao igekuwa ngumu pasipo kuinua makelele kuwapinga kutoka mjini, yeye hakuwakufuza, bali aliwaagiza, wakati wakiendeleza mtindo wao maisha, sio kushikilia makutano."
 
 Kutokea hapo wasimamizi waliamriwa na serikali walikuwa ni kanisa la wamataifa. Ni Kanisa hili ambalo lilipokea barua ya paulo mudafulani takribani 57-58 BK. Badala ya masinagogi ya kati au mahali pa mikutano mikubwa, kanisa hili lilikutana katika makundi madogo kuzunguka mji wa Rumi kama majumbani mwa waamini. Kwa kupitia mahali pa makusanyiko yao walipewa madaraka hasa kwa barua ya Warumi, tunaweza kuona kanisa la kikristo likidumisha mawasiliano na umuhimu wa mwili moja katika Kristo.
 
@@ -60,14 +60,14 @@ Kutokea hapo wasimamizi waliamriwa na serikali walikuwa ni kanisa la wamataifa. 
 
 ## WAKATI&MAHALI - Warumi iliandikwa kutoka Korinto mnamo 57-58 BK.
 
-Katika War 15:19, Hebu jue kuhusu Paulo kwamba yeye alikuwa amekaribia katika hali ya mwisho katika maisha ya kupanda na kushuka kwenye mwisho wa safari yake tatu umisheni. Alikuwa amekwisha kuhubiri injili, anasema kutokea Yerusalemu hata sehemu za Mbali na anaenda kufanya uamuzi wa ajabu kwamba yeye hakuwa tena na nafasi ya kuendelea kufanya kazi katika hiyo sehemu kubwa mno. Anataka kwenda Span kwakuwa Itali ilikuwa imekwisha hubiriwaa Alihubiri,na kutembelea katika kanisa la Rumi katika safari. Lakini hangeweza kufanya kwa mara moja; Yeye aliazimia kwenda Yerusalemu kwanza. Sababu ya hili ni wazi na lina ushahidi. Kwa muda fulani, (2 Wakrinto angependekeza angalau mwaka moja. Paulo anatanagaza kwamba, yeye amejitoa kwa ajili ya kukusanya mchango kwa ajili ya maskini wa Yerusalemu. Wakati wa kuandikwa kitabu cha Warumi,ule mkusanyiko ni kwa bayana, kama haijakamilika kabisa,Paulo anasubiri furusa ya kupokea sadaka kwenda Yerusalemu. 1 na ya 11 Wakorinto hurejea kwenye mkusanyo kama ilikuwa ikifanyiwa kazi (I Kor. 16:1-4; 2 Kor. 8-9) na War. 15:25-28 inaonekana kwa kile kilicho kamilika. Kwa kuwa katika I Corinthians 16:3-4, Paulo alionyesha mpango wake wa kukamilisha kazi kwa ajili ya mchango wa Wakorinto na kisha kuondoka kutoka katika mji ule wa Yerusalemu ni nitu cha kawaida kudhani kwamba aliwaandikia warumi wakati akiwa Korinto. Wasomi wengi huweka wakati wa utume wake takribani 57-58 BK.
+Katika War 15:19, Hebu jue kuhusu Paulo kwamba yeye alikuwa amekaribia katika hali ya mwisho katika maisha ya kupanda na kushuka kwenye mwisho wa safari yake tatu umisheni. Alikuwa amekwisha kuhubiri injili, anasema kutokea Yerusalemu hata sehemu za Mbali na anaenda kufanya uamuzi wa ajabu kwamba yeye hakuwa tena na nafasi ya kuendelea kufanya kazi katika hiyo sehemu kubwa mno. Anataka kwenda Span kwakuwa Itali ilikuwa imekwisha hubiriwaa Alihubiri, na kutembelea katika kanisa la Rumi katika safari. Lakini hangeweza kufanya kwa mara moja; Yeye aliazimia kwenda Yerusalemu kwanza. Sababu ya hili ni wazi na lina ushahidi. Kwa muda fulani, (2 Wakrinto angependekeza angalau mwaka moja. Paulo anatanagaza kwamba, yeye amejitoa kwa ajili ya kukusanya mchango kwa ajili ya maskini wa Yerusalemu. Wakati wa kuandikwa kitabu cha Warumi, ule mkusanyiko ni kwa bayana, kama haijakamilika kabisa,Paulo anasubiri furusa ya kupokea sadaka kwenda Yerusalemu. 1 na ya 11 Wakorinto hurejea kwenye mkusanyo kama ilikuwa ikifanyiwa kazi (I Kor. 16:1-4; 2 Kor. 8-9) na War. 15:25-28 inaonekana kwa kile kilicho kamilika. Kwa kuwa katika I Corinthians 16:3-4, Paulo alionyesha mpango wake wa kukamilisha kazi kwa ajili ya mchango wa Wakorinto na kisha kuondoka kutoka katika mji ule wa Yerusalemu ni nitu cha kawaida kudhani kwamba aliwaandikia warumi wakati akiwa Korinto. Wasomi wengi huweka wakati wa utume wake takribani 57-58 BK.
 
 ## MUHULA - Warumi iliandikwa kulingana na utangulizi wa Paulo kwa wakirsto waliokuwa Rumi kutanguliza safari yake kwao.
 
 Mtume Paulo alikuwa na muda mrefu wa kusukusudia kutembelea wakristo wa Rumi kwa muda mfupi alipokamilisha kazi yake na alikuwa na kile alichokusanya kwa ajili ya masikini walioko Yerusalemu
 (1:13; 15:25, 26, 28). Kazi yake huko mashariki;i lipitiliza; na yeye alikuwa katika safari yake ya kwenda Yerusalamu. Alitaka kujitambulisha kwa wakristo walikuwa Rumi kabla ya kusimama pale aliandika huu waraka pamoja na kusudi la kuiandika kuhusu furusa ya upendeo wake wakwanza.Safari ya Phoebe kwenda Rumi alimpatia Paulo furusa kama hiyo (16:1, 2).
 
-## KUHUSU&mdash;ni matengenezo ya kitheologia kwa maana ya Injli.
+## KUHUSU—ni matengenezo ya kitheologia kwa maana ya Injli.
 
 Ingawa kanisa lilikuwa limeongezwa na wamataifa, Uyuda ulikuwa ni nguvu yaziada iliongezwa. Kulikuwa na wayahudi wengi katika Rumi kwa wakati wa kuandikwa kwa waraka huu kwa warumi hata wakristo wa kiyahudi walikuwa wamefungwa na mapokeo na urithi wa kiyahudi, Wayahudi waliamini kwa sababu walikuwa na sheria za Musa na agano la tohara ambayo walikuwa wamewekeana na Mungu kwa ajili ya uzima wa milele. Wao waliamini na wao walikuwa bora katika wapagani wa mataifa na kwa hiyo wao hawakuwa na haja ya kujinyenyekeza kwa watawala wapagani. Paulo anakanusha mafundisho ya wayahudi ambayo hayakuhusiana na maandiko matakatifu.
 
@@ -89,7 +89,7 @@ Incha yenye msaada wakati wakukariri Warumi 1:13, 14, 15 ni kuandika kifungu nje
 
 ## MISTARI YA UFUNGUO WA WARUMI
 
-> 1:16-17&mdash;Kwa maana siionei haya Injili; kwa sababu ni uweza wa Mungu uuletao wokovu, kwa kila aaminiye, kwa Myahudi kwanza, na kwa Myunani pia. Kwa maana haki ya Mungu inadhihirishwa ndani yake, toka imani hata imani; kama ilivyoandikwa, Mwenye haki ataishi kwa imani.
+> 1:16-17—Kwa maana siionei haya Injili; kwa sababu ni uweza wa Mungu uuletao wokovu, kwa kila aaminiye, kwa Myahudi kwanza, na kwa Myunani pia. Kwa maana haki ya Mungu inadhihirishwa ndani yake, toka imani hata imani; kama ilivyoandikwa, Mwenye haki ataishi kwa imani.
 
 ### Mtu wa Injili - Yesu kristo
 
@@ -113,69 +113,69 @@ Hitimisho:	16:1-2
 
 ### PHANEROO (udhihirisho) uliobadilishwa na kuletwa; katika nuru iliofunuliwa PHANEROO
 
-> 3:21&mdash;Lakini sasa, haki ya Mungu imedhihirika &lt;PHANEROO&gt; pasipo sheria; inashuhudiwa na torati na manabii;
+> 3:21—Lakini sasa, haki ya Mungu imedhihirika <PHANEROO> pasipo sheria; inashuhudiwa na torati na manabii;
 
 ### PISTIS (imani) uhakika au mguso katika ukweli wa Mungu; kuthibisha imani juu ya kristo na uthabiti katika utalaamu huo; utaratibu wa injili yenyewe 
 
-> 4:20&mdash;Lakini akiiona ahadi ya Mungu hakusita kwa kutokuamini, bali alitiwa nguvu kwa imani&lt;PISTIS&gt;&hellip;
+> 4:20—Lakini akiiona ahadi ya Mungu hakusita kwa kutokuamini, bali alitiwa nguvu kwa imani <PISTIS>...
 
 ### NOMOS (Sheria) - zilitolewa na Mungu jinsi gani mtu anaweza kujitia mwenyewe; hasahasa zile zilizotolewa na Musa
 
-> 6:14&mdash;Kwa maana dhambi haitawatawala ninyi, kwa sababu hamwi chini ya sheria &lt;NOMOS&gt;&hellip;
+> 6:14—Kwa maana dhambi haitawatawala ninyi, kwa sababu hamwi chini ya sheria <NOMOS>...
 
 ### CHARIS (neema) - ni upendeleo asiousitahili; ushawishi wakiMungu juu ya moyo na urejeshi wake katika maisha.
 
-> 11:6&mdash;Lakini ikiwa ni kwa neema &lt;CHARIS&gt;, haiwi kwa matendo tena, au hapo neema &lt;CHARIS&gt; isingekuwa neema &lt;CHARIS&gt;.
+> 11:6—Lakini ikiwa ni kwa neema <CHARIS>, haiwi kwa matendo tena, au hapo neema <CHARIS> isingekuwa neema <CHARIS>.
 
 ### ELEEO (huruma) - wema usiotumikiwa; kuhurumia
 
-> 9:18&mdash;Basi, kama ni hivyo, atakaye kumrehemu humrehemu&lt;ELEEO&gt;, na atakaye kumfanya mgumu humfanya mgumu.
+> 9:18—Basi, kama ni hivyo, atakaye kumrehemu humrehemu <ELEEO>, na atakaye kumfanya mgumu humfanya mgumu.
 
 ### DIKAIOO (kuhesabiwa haki) - ni tendo ambalo Mungu anaangalia juu ya mtukana kwamba hajawahi kutenda dhamb
 
-> 5:1&mdash;Basi tukiisha kuhesabiwa haki itokayo &lt;DIKAIOO&gt; katika imani, na mwe na amani kwa Mungu, kwa njia ya Bwana wetu Yesu Kristo
+> 5:1—Basi tukiisha kuhesabiwa haki itokayo <DIKAIOO> katika imani, na mwe na amani kwa Mungu, kwa njia ya Bwana wetu Yesu Kristo
 
 ### DIKAIOSUNE (haki) - hurerjea kwenye tabia ya Mungu; ni uwezo wakufanya kama Mungu afanyavyo
 
-> 3:5&mdash;Lakini, ikiwa udhalimu wetu waithibitisha haki &lt;DIKAIOSUNE&gt; ya Mungu, tuseme nini? Je! Mungu ni dhalimu aletaye ghadhabu? (Nasema kwa jinsi ya kibinadamu.)
+> 3:5—Lakini, ikiwa udhalimu wetu waithibitisha haki <DIKAIOSUNE> ya Mungu, tuseme nini? Je! Mungu ni dhalimu aletaye ghadhabu? (Nasema kwa jinsi ya kibinadamu.)
 
 ### HILASTERION (utetezi) - mahali pa malipizi (sawa na A.K. kiti cha rehema)
 
-> 3:25&mdash;ambaye Mungu amekwisha kumweka awe upatanisho &lt;HILASTERION&gt; kwa njia ya imani katika damu yake
+> 3:25—ambaye Mungu amekwisha kumweka awe upatanisho <HILASTERION> kwa njia ya imani katika damu yake
 
 ### LOGIZOMAI (kuhesabiwa, kuwekwa) - kuwekwa kwenye deni ya; mtukuchukua hesabu
 
-> 4:8&mdash;Heri mtu yule ambaye Bwana hamhesabii &lt;LOGIZOMAI&gt; dhambi.
+> 4:8—Heri mtu yule ambaye Bwana hamhesabii <LOGIZOMAI> dhambi.
 
-> 6:11&mdash;Vivyo hivyo ninyi nanyi jihesabuni &lt;LOGIZOMAI&gt; kuwa wafu kwa dhambi na walio hai kwa Mungu katika Kristo Yesu.
+> 6:11—Vivyo hivyo ninyi nanyi jihesabuni <LOGIZOMAI> kuwa wafu kwa dhambi na walio hai kwa Mungu katika Kristo Yesu.
 
 ### KATALLASSO (kupatanishwa) - kurrejeshwa kwenye hali ya upendo; kuondoa tofauti: kukubaliana
 
-> 5:10&mdash;Kwa maana ikiwa tulipokuwa adui tulipatanishwa na Mungu kwa mauti ya Mwana wake; zaidi sana baada ya kupatanishwa &lt;KATALLASSO&gt; tutaokolewa katika uzima wake.
+> 5:10—Kwa maana ikiwa tulipokuwa adui tulipatanishwa na Mungu kwa mauti ya Mwana wake; zaidi sana baada ya kupatanishwa <KATALLASSO> tutaokolewa katika uzima wake.
 
 ### KATALLAGE (upatanisho) - urejesho wa upendeleo wa Mungu kwa damu ya Yesu
 
-> 5:11&mdash;Wala si hivyo tu, ila pia twajifurahisha katika Mungu kwa Bwana wetu Yesu Kristo, ambaye kwa yeye sasa tumeupokea huo upatanisho &lt;KATALLAGE&gt;.
+> 5:11—Wala si hivyo tu, ila pia twajifurahisha katika Mungu kwa Bwana wetu Yesu Kristo, ambaye kwa yeye sasa tumeupokea huo upatanisho <KATALLAGE>.
 
 ### APOLUTROSIS (ukombozi) - hali ya ukamilifu ya kuachiliwa au ukombozitoka utumwa; fidia kamili; kwa mwingilio uliotolewa inje ya soko la utumwa
 
-> 3:24&mdash;wanahesabiwa haki bure kwa neema yake, kwa njia ya ukombozi &lt;APOLUTROSIS&gt; ulio katika Kristo Yesu;
+> 3:24—wanahesabiwa haki bure kwa neema yake, kwa njia ya ukombozi <APOLUTROSIS> ulio katika Kristo Yesu;
 
 ### SOTERIA (Wokovu) - kuokoa au kukomboa; muujiza wa roho ya Mungukwa kile ambacho mtu ambaye anamwamini kristo na kutubu dhambi anapewa maisha mapya au anazaliwa mara ya pili
 
-> 10:10&mdash;Kwa maana kwa moyo mtu huamini hata kupata haki, na kwa kinywa hukiri hata kupata wokovu.
+> 10:10—Kwa maana kwa moyo mtu huamini hata kupata haki, na kwa kinywa hukiri hata kupata wokovu.
 
 ### HUIOTHESIA (kukubaliwa kama mwana) - kuwekwa kama mwana
 
-> 8:23&mdash;Wala si hivyo tu; ila na sisi wenyewe tulio na malimbuko ya Roho, sisi pia tunaugua katika nafsi zetu, tukikutazamia kufanywa wana, yaani, ukombozi wa mwili wetu.
+> 8:23—Wala si hivyo tu; ila na sisi wenyewe tulio na malimbuko ya Roho, sisi pia tunaugua katika nafsi zetu, tukikutazamia kufanywa wana, yaani, ukombozi wa mwili wetu.
 
-### EUAGGELION [jina] / EUAGGELIZO [tendo] (Injili) - tangazo la furaha la ukombozi wa Mungu kwa njia ya Yesu kwa niaba yetu (hasahasa: habari njema;) 
+### EUAGGELION [jina] / EUAGGELIZO (tendo) (Injili) - tangazo la furaha la ukombozi wa Mungu kwa njia ya Yesu kwa niaba yetu (hasahasa: habari njema;) 
 
-> 1:15&mdash;Kwa hiyo, kwa upande wangu, mimi ni tayari kuihubiri Injili hata na kwenu ninyi mnaokaa Rumi.
+> 1:15—Kwa hiyo, kwa upande wangu, mimi ni tayari kuihubiri Injili hata na kwenu ninyi mnaokaa Rumi.
 
 ### DOXAZO (kutukuzwa) - kupewa utukufu;mwisho wa shabaha ya wokovu wetu;ni tendo la Mungu kwa kile ambacho tuhamishwa kwenda kuwa sura yake
 
-> 8:30&mdash;Na wale aliowachagua tangu asili, hao akawaita; na wale aliowaita, hao akawahesabia haki; na wale aliowahesabia haki, hao akawatukuza.
+> 8:30—Na wale aliowachagua tangu asili, hao akawaita; na wale aliowaita, hao akawahesabia haki; na wale aliowahesabia haki, hao akawatukuza.
 
 # Warumi
 
@@ -222,7 +222,7 @@ Hitimisho:	16:1-2
 		<td colspan="2">Utumwa kwa kumtumikia Mungu</td>
 	</tr>
 	<tr>
-		<th colspan="8">Haki ya Mungu&hellip;</th>
+		<th colspan="8">Haki ya Mungu...</th>
 	</tr>
 	<tr>
 		<th class="subtle" colspan="2">kuhusu sheria</th>
@@ -235,7 +235,7 @@ Hitimisho:	16:1-2
 		<td colspan="8">kuishi kwa imani</td>
 	</tr>
 	<tr>
-		<th colspan="8">&hellip;Wokovu</th>
+		<th colspan="8">...Wokovu</th>
 	</tr>
 	<tr>
 		<th class="subtle">Haja ya</th>
@@ -247,7 +247,7 @@ Hitimisho:	16:1-2
 	<tr class="c48">
 		<td>Njia ya kifo ni dhambi</td>
 		<td colspan="2">Mtindo wa Neema</td>
-		<td colspan="5">Mwonyesho wa nguvu ya wokovu uliotolewa&ndash;Ahadi zilitimizwa&ndash;uwezo uliotambuliwa</td>
+		<td colspan="5">Mwonyesho wa nguvu ya wokovu uliotolewa—Ahadi zilitimizwa—uwezo uliotambuliwa</td>
 	</tr>
 </tbody>
 </table>
