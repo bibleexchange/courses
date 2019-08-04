@@ -40,16 +40,14 @@ We are: baptized into Christ's death, crucified with Christ, and dead to sin (v.
 
 The believer is "dead to sin" (Rom. 6:2, 11, 7:4, 7:6; Gal. 2:19; Col. 2:20, 3:3).
 
-##### The method of death
+##### The meaning of this death
+
+What does it mean to be dead to sin? Or what is the result of being dead to sin? Paul presents to us the picture of death and draws the parallel between Christ's death and resurrection and the spiritual death and resurrection of the believer. Let us consider this parallels of spiritual and physical death:
 
 |We are identified with Christ through His death||
 |He died a natural death|We die a spiritual death|
 |He died FOR the sins of the whole world|We die TO sin|
 |He died by way of expiation, suffering, satisfying the Holiness of God|We die by way of mortification of the carnal nature, killing the flesh, crucifying the self-life.|
-
-##### The meaning of this death
-
-What does it mean to be dead to sin? Or what is the result of being dead to sin? Paul presents to us the picture of death and draws the parallel between Christ's death and resurrection and the spiritual death and resurrection of the believer. Let us consider this parallels of spiritual and physical death:
 
 ###### Dead men do not react
 

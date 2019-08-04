@@ -33,7 +33,7 @@ Baraka zote zilizotangulia (kuhesabiwa haki, amani, upatikanaji, n.k.) yaliwezek
 
 ## Ni upendo usio wa kawaida (mst. 7-8)
 
-"Upendo" wa mtu humhusu yeye mwenyewe na una kikomo. Kwa wale ambao hufanya ya kidini na unaweza kumpata mtu kufa kwa ajili ya vitu vizuri na kwa wale wema na wakarimu, wanaweza kutapa mtu yeyote kwa urahisi zaidi kufa, lakini Yesu hakufa kwa wale waliokuwepo kupata thamani na utajiri, bali alikufa kwa ajili ya wahalifu, wavamizi. Yeye alikufa kwa wenye **dhambi**.  
+"Upendo" wa mtu humhusu yeye mwenyewe na una kikomo. Kwa wale ambao hufanya ya kidini na unaweza kumpata mtu kufa kwa ajili ya vitu vizuri na kwa wale wema na wakarimu, wanaweza kutapa mtu yeyote kwa urahisi zaidi kufa, lakini Yesu hakufa kwa wale waliokuwepo kupata thamani na utajiri, bali alikufa kwa ajili ya wahalifu, wavamizi. Yeye alikufa kwa wenye **dhambi**.
 
 Kristo Alikufa kwa wenye DHAMBI, wale wakosaji na waliomkataa Mungu. Upendo wa Mumgu ulionyeshwa kwa wale wasio **haki** wala **wema**.
 

@@ -6,9 +6,7 @@ Romans chapter fourteen talks about how you should treat a weak brother. We need
 
 ## How should we treat Christians with differences of opinion? (v. 1)
 
-There are differences in the health of our faith and there are also differences of opinion (weak and strong).
-
-There is clear instruction given in Scripture:
+There are differences in the health of our faith and there are also differences of opinion (weak and strong). There is clear instruction given in Scripture:
 
 * "Thou shalt not" in the 10 Commandments (Exodus 20:1–17)
 * Salvation is through Jesus (John 8:24; 14:6; Acts 4:12)

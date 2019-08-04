@@ -1,10 +1,8 @@
-# Sheia ni taswira sahihi (Sura ya 3)
+# Sheia ni taswira sahihi (sura ya 3)
 
-Kuhesabiwi haki ni kwa imani pasipo matendo ya sheria.Sheria ni: faida kwao wanaoijua (mst. 1-2),kwa uhalisi katika asili yake (mst. 3-8), pasipo kupinda katika mamlaka yake (mst. 9-19), kuna kusudi tofauti (mst. 20-30), hakufaywa kwakkuepuka, bali zaidi huthibitishwa kwa imani yetu, (mst. 31).
+Kuhesabiwi haki ni kwa imani pasipo matendo ya sheria.Sheria ni: faida kwao wanaoijua (mst. 1-2), kwa uhalisi katika asili yake (mst. 3-8), pasipo kupinda katika mamlaka yake (mst. 9-19), kuna kusudi tofauti (mst. 20-30), hakufaywa kwakkuepuka, bali zaidi huthibitishwa kwa imani yetu, (mst. 31).
 
 ## Utangulizi
-
-### Kariri: War. 3:27, 28
 
 ### Katika sura ya 3, tuna kanuni tano kuhusiana na sheria:
 
@@ -65,18 +63,16 @@ Kuwa na sheria iliopokelewa mara kwanza, je wayahudi wana faida gani? (mst. 1-2)
 
 Kuhesabiwa haki kwa imani ni fundisho la usawa wa watu wote ambao wayahudi walidharau kutokana na msisitizo wao wa kuwa na ukuu kwa mataifa. Wayahudi walitaka kuringia ukuu wao juu ya mataifa. Wayahudi wengi waliendelea kukataa injili na kushikilia ukuu wao na sehemu ya kujitukuza katika Yehova kirahisi kwa sababu msitari wao kwa Ibrahimu. Wayahudi wengi walitishwa na dhana ya mataifa kuwa sawa na wao kwa njia ya imani kwa njia ya Yesu.
 
-### Faida ni kwamba wao walipokea kwanza mambo ya Mungu. "Ndio myahudi anafaida, lakini sio ile unayofikiri"
+### Faida ni kwamba wao walipokea kwanza mambo ya Mungu. 
 
-Uaguzi kihalisi humaanisha usemi na uliotumika hapa unarejea kama maneno ya usemi wa Mungu uliotangazwa kwa njia ya manabii na kuhifadhiwa katika Maandiko matakatifu. Wayahudi walikuwa wamepokea unabii wa masiha na kwa hiyo walikuwa na faida ya kuongeza ufunuo wa masiha ambawo mataifa hawakuwa nao. Faida waliokuwa nao wayahudi ilikuwa ni kitu ambacho kiliwahukumu kwa wengi ambawo waliendelea kumkataa Yesu kama masiha.
+"Ndio myahudi anafaida, lakini sio ile unayofikiri!" Uaguzi kihalisi humaanisha usemi na uliotumika hapa unarejea kama maneno ya usemi wa Mungu uliotangazwa kwa njia ya manabii na kuhifadhiwa katika Maandiko matakatifu. Wayahudi walikuwa wamepokea unabii wa masiha na kwa hiyo walikuwa na faida ya kuongeza ufunuo wa masiha ambawo mataifa hawakuwa nao. Faida waliokuwa nao wayahudi ilikuwa ni kitu ambacho kiliwahukumu kwa wengi ambawo waliendelea kumkataa Yesu kama masiha (Yoh. 1:11).
 
-> Yoh. 1:11—Alikuja kwake, wala walio wake hawakumpokea.
-
-Faida ya kuijua sheria sio kile ambacho hutuhesabia sisi haki, bali ile kusikia kwetu neno la Mungu linalo funua furusa ya kupokea imani  kutoka kwa Mungu. Tunaweza kkujua zaidi na kutamani kumpendeza Mungu.
+Faida ya kuijua sheria sio kile ambacho hutuhesabia sisi haki, bali ile kusikia kwetu neno la Mungu linalo funua furusa ya kupokea imani kutoka kwa Mungu. Tunaweza kkujua zaidi na kutamani kumpendeza Mungu.
 
 ### Maaombi
 
- > 2 Petro 2:21—Maana ingekuwa heri kwao kama wasingaliijua njia ya haki, kuliko kuijua, kisha kuiacha ile amri takatifu waliyopewa.
+> 2 Petro 2:21—Maana ingekuwa heri kwao kama wasingaliijua njia ya haki, kuliko kuijua, kisha kuiacha ile amri takatifu waliyopewa.
 
 Swali: Je ni faida kutojua mapenzi ya Mungu?
 
-Jibu: Hapana. Nibaraka kuwa na furusa ya kujua  mapenzi ya Mungu. Petro anaelezea ukuu wa kiwango cha hukumu ya watu wanaorudi nyuma wamehukumiwa.
+Jibu: Hapana. Nibaraka kuwa na furusa ya kujua mapenzi ya Mungu. Petro anaelezea ukuu wa kiwango cha hukumu ya watu wanaorudi nyuma wamehukumiwa.

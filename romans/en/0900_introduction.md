@@ -14,7 +14,7 @@ Remember the Structure of Romans?
 
 Romans 9 Begins a the second of three major divisions to the Book of Romans. Chapter 8 concluded Division 1 which is primarily Doctrinal and Chapter 9 begins with Division 2 which is largely Dispensational.
 
-In general, A dispensation is a way of ordering things&mdash;an administration, a system, or a management. In theology, a dispensation is the Divine administration of a period of time. A dispensation is in effect the mode and methods of how God chooses to deal with humanity ( or a part of it) for a period of time.
+In general, A dispensation is a way of ordering things—an administration, a system, or a management. In theology, a dispensation is the Divine administration of a period of time. A dispensation is in effect the mode and methods of how God chooses to deal with humanity ( or a part of it) for a period of time.
 
 The Theme of this second Division is Dispensational in regards to Israel specifically and how God has dealt and will deal with Israel. The Theme is God's Sovereignty in His dealing with Israel. The Sovereignty and Righteousness of God is harmonized in these verses with His dealings with Israel specifically and all of mankind in general. 
 

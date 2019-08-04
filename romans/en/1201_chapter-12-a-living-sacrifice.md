@@ -79,9 +79,7 @@ _Dissimulation_ means "concealment of one's thoughts, feelings, or character; pr
 
 > Psalm 34:14—Depart from evil, and do good; seek peace, and pursue it.
 
-"Evil" is that which is hurtful, degenerate in nature, of the devil, malicious, or bad.
-
-We need to run away from evil and run toward good. This is not a fearfulness of evil as in superstition, but is a sanctification or separation of our conduct and thought life from those things that are contrary to the holiness of God. How can we "abhor" and "depart" from evil? (Psalm 37:27; Isaiah 1:16)
+"Evil" is that which is hurtful, degenerate in nature, of the devil, malicious, or bad. We need to run away from evil and run toward good. This is not a fearfulness of evil as in superstition, but is a sanctification or separation of our conduct and thought life from those things that are contrary to the holiness of God. How can we "abhor" and "depart" from evil? (Psalm 37:27; Isaiah 1:16)
 
 ## Conclusion to Romans 12
 
