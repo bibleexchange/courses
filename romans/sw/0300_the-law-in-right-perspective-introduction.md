@@ -1,6 +1,6 @@
 # Sheia ni taswira sahihi (sura ya 3)
 
-Kuhesabiwi haki ni kwa imani pasipo matendo ya sheria.Sheria ni: faida kwao wanaoijua (mst. 1-2), kwa uhalisi katika asili yake (mst. 3-8), pasipo kupinda katika mamlaka yake (mst. 9-19), kuna kusudi tofauti (mst. 20-30), hakufaywa kwakkuepuka, bali zaidi huthibitishwa kwa imani yetu, (mst. 31).
+Kuhesabiwi haki ni kwa imani pasipo matendo ya sheria. Sheria ni: faida kwao wanaoijua (mst. 1-2), kwa uhalisi katika asili yake (mst. 3-8), pasipo kupinda katika mamlaka yake (mst. 9-19), kuna kusudi tofauti (mst. 20-30), hakufaywa kwakkuepuka, bali zaidi huthibitishwa kwa imani yetu, (mst. 31).
 
 ## Utangulizi
 
@@ -34,7 +34,7 @@ Neno "sheria" kwa ujumla humaanisha kanuni "maandishi ya maelekezo." Ingawa ilik
 
 Kote katika Warumi, Paulo anaelezea udhaifu wa sheria iliotolea na Musa na bado kwa wakati huo huo anathibitisha thamani yake ya ukweli. Sheria iliotolewa kwa Musa kwakweli ni mapenzi ya Mungu, lakini haikuwa jumla ya maelekezo yake. Kosa la wayahudi lilikuwa kwamba walifanya zile kanuni pamoja na sherehe zake na kuambatanisha mapokeo kwenye jumla ya kusudi la Mungu mbele ya ubinadamu.
 
-Ingawa tunaweza kupata neno lilelile "sheria" limetumika katika mistr 52 katika Warumi,Paulo mda wote hajadili kanuni zilezile au maelekezo.
+Ingawa tunaweza kupata neno lilelile "sheria" limetumika katika mistr 52 katika Warumi, Paulo mda wote hajadili kanuni zilezile au maelekezo.
 
 - War. 2:12-13, 17, 18, 20, 23, 25, 26: Wayahudi walikuwa na sheria ya Musa na wamataifa hawakuwa nayo. Wayahudi walijivuna na kubakia katika sheria ilioletwa kwa njia ya Musa na kwasababu ya kushika matendo ya sheria.
 - War. 2:14-15: Wamataifa walikuwa na sheria katika mioyo yao ama katika dhamiri zao
@@ -45,13 +45,13 @@ Ingawa tunaweza kupata neno lilelile "sheria" limetumika katika mistr 52 katika 
 - War. 8:2: Sheria ya Roho wa uzima katika Kristo Yesu
 - War. 9:31: Sheria ya haki
 
-Musa alikuwa ametumiwa kama mwaaguzi wa Mungu, lakini yeye hakuwa mjumbe pekee na wa mwisho kwa wajumbe wa Mungu. Hatimaye, yeye alikuwa tu sehemu ya alama ya neno la uzima! Sheria katika dhamiri zetu au sheria iliotolewa kupitia Musa zote ni dhana za sheria ya Mungu. Mungu ametoa kanuni zake za milele kwa Musa na Mungu anatamani mapenzi yake,sheria yake,na maandishi yake kuhifadhiwa ndani ya moyo wa kila mtu na kuelewweka katika maisha yao.
+Musa alikuwa ametumiwa kama mwaaguzi wa Mungu, lakini yeye hakuwa mjumbe pekee na wa mwisho kwa wajumbe wa Mungu. Hatimaye, yeye alikuwa tu sehemu ya alama ya neno la uzima! Sheria katika dhamiri zetu au sheria iliotolewa kupitia Musa zote ni dhana za sheria ya Mungu. Mungu ametoa kanuni zake za milele kwa Musa na Mungu anatamani mapenzi yake, sheria yake, na maandishi yake kuhifadhiwa ndani ya moyo wa kila mtu na kuelewweka katika maisha yao.
 
 > War. 3:28—Basi, twaona ya kuwa mwanadamu huhesabiwa haki kwa imani pasipo matendo ya sheria.
 
 Mtu anaweza kuhesabiwa haki mbele za macho ya Mungu pasipo matendo ya sheria ya Musa (mwizi msalabani). Mtu hawezi kamwe kuhesabiwa ikiwa anakinzana na mawazo ya Mungu.
 
-<img src="/images/god-can-justify-without-moses.png" />
+<!--<img src="/images/god-can-justify-without-moses.png" />-->
 
 > War. 7:22—Kwa maana naifurahia sheria ya Mungu kwa utu wa ndani,
 
@@ -76,3 +76,4 @@ Faida ya kuijua sheria sio kile ambacho hutuhesabia sisi haki, bali ile kusikia 
 Swali: Je ni faida kutojua mapenzi ya Mungu?
 
 Jibu: Hapana. Nibaraka kuwa na furusa ya kujua mapenzi ya Mungu. Petro anaelezea ukuu wa kiwango cha hukumu ya watu wanaorudi nyuma wamehukumiwa.
+

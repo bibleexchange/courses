@@ -22,3 +22,4 @@ Ukataaji ni KUTOKUAMINI kwa wayahudi (Mdo. 14:2; Ufu. 21:8).
 > —Matthew Henry 
 
 Rehema ya Mungu (Zab. 13:5; 89:2; Yak. 5:11).
+

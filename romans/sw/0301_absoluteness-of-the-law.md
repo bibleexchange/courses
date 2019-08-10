@@ -1,14 +1,14 @@
 ## Uhalisia wa sheria (3:3-8)
 
->*Kuhesabiwa haki ni kwa imani pasipo matendo ya sheria. Sheria ni: faida kwa wale ambao wanaijua(mst. 1-2), ni halisi katika asili yake (mst. 3-8), kutopindika katika, mamlaka yake (mst. 9-19),  inakusudi dhahiri (mst. 20-30), haikufanywa kwa ajili ya kuepukwa bali zaidi imethibitishwa katika mioyo yetu (mst. 31).*
+>*Kuhesabiwa haki ni kwa imani pasipo matendo ya sheria. Sheria ni: faida kwa wale ambao wanaijua (mst. 1-2), ni halisi katika asili yake (mst. 3-8), kutopindika katika, mamlaka yake (mst. 9-19),  inakusudi dhahiri (mst. 20-30), haikufanywa kwa ajili ya kuepukwa bali zaidi imethibitishwa katika mioyo yetu (mst. 31).*
 
-> MFANO: Madireva wawili wa malori walikuwa wanasafiri kwa pamoja kwa kuburuza matrela ya urefu wa 12 na 4 walipofika eneo la alama ya kupita kwenye forodha alama ya 11 na 3. Wakwanza alimuuliza mwenzake, je unafikije? wa pili aliangalia pembeni ilikuona polisi hakuona mtu,ndipo alipendekeza kwamba twende tujaribu.
+> MFANO: Madireva wawili wa malori walikuwa wanasafiri kwa pamoja kwa kuburuza matrela ya urefu wa 12 na 4 walipofika eneo la alama ya kupita kwenye forodha alama ya 11 na 3. Wakwanza alimuuliza mwenzake, je unafikije? wa pili aliangalia pembeni ilikuona polisi hakuona mtu, ndipo alipendekeza kwamba twende tujaribu.
 
 ### Kiwango ni Kristo asiyebadillika
 
 Tumeshafanya udhahiri kati ya maagizo maalumu yaliyotolewa kwa njia ya Musa yaakijumuishwa na Kusudi la Mungu. Ni kosa kubwa kuifanya sheria ya Musa kuwa ni maagizo ya mwisho ya mapenzi ya Mungu. Ukamilifu wa mapenzi ya Mungu ni mkubwa sana kuliko sheria iliotolewa kwa njia ya Musa.
 
-Iko katika Yesu,tunaona ukamilifu wa mapenzi ya Mungu. Bwana Yesu Kristo ni kiwango cha tarajio la Mungu (Waef. 4:11-16).
+Iko katika Yesu, tunaona ukamilifu wa mapenzi ya Mungu. Bwana Yesu Kristo ni kiwango cha tarajio la Mungu (Waef. 4:11-16).
 
 Kwa maana makusudi ya somo letu tumefafanua sheria ya Mungu kama:
 
@@ -50,7 +50,7 @@ Sifu - ni kuwakilisha sitahili ya maandishi, kujali, au wema; kuongea kwa kupend
 
 Lazima tutegemee kwenye mukitadha kutusaidia kufahamu maana ya swali hili. Hii imetolewa kama maswali mawili katika kifungu na kimerahisishwa kwa ajili ya kujifunza. Swali kwa halisi huuliza:kama kutokuwa haki kwetu kumetukuzwa au kulela usikivu kwenye haki ya Mungu na huruma; je Mungu atakuwa hana haki anapotuhukumu?
 
-Hii bado iko upande wetu kufahamu.Kukumbuka kwamba Mungu anashughulika na vizuizi halisi vya wayahudi. Kizuizi ni sawa na vizuizi vya wengi leo. Tungeuliza kwa njia hii: Ikiwa Mungu ni mwenye haki kwanini anihukumu kwa ajili ya dhambi yangu na kunitupa jehanamu? (Hasahasa tukiwa watoto wa Ibrahimu.)
+Hii bado iko upande wetu kufahamu. Kukumbuka kwamba Mungu anashughulika na vizuizi halisi vya wayahudi. Kizuizi ni sawa na vizuizi vya wengi leo. Tungeuliza kwa njia hii: Ikiwa Mungu ni mwenye haki kwanini anihukumu kwa ajili ya dhambi yangu na kunitupa jehanamu? (Hasahasa tukiwa watoto wa Ibrahimu.)
 
 #### Mungu amepinga: kwahiyo basi jinsi gani atauhukumu ulimwengu?
 
@@ -60,8 +60,9 @@ Ukweli ni, Mungu anaweza kuuhukumu ulimwengu kwasababu yeye ni mwenye haki.
 
 ### Je tutende uovu ili wema uweze kuja? (mst. 8)
 
-Baadhi ya watu huharibu ukweli wa huruma ya Mungu na kujivuna kwamba hali yao ya dhambi huishi na kibali cha Mungu kisicho na mashariti,kinaielezea huruma kuu ya Mungu.Paulo hakuwa anahubiri mafundisho haya potofu, lakini alikuwa ameshitakiwa kwa kufanya hivyo pia.
+Baadhi ya watu huharibu ukweli wa huruma ya Mungu na kujivuna kwamba hali yao ya dhambi huishi na kibali cha Mungu kisicho na mashariti, kinaielezea huruma kuu ya Mungu. Paulo hakuwa anahubiri mafundisho haya potofu, lakini alikuwa ameshitakiwa kwa kufanya hivyo pia.
 
 Hili lilikuwa ni shambulio juu ya mahubiri ya Paulo ya kuhesabiwa haki kwa njia ya imani. Wayahudi walikuwa wanasema: wewe unatuambia Mungu anawahesabia haki watu waovu, kwanini wasiendelee kuwa waovu ili wema uweze kuja kutoka kwenye uovu?
 
 Maelezo ya Paulo kwa hawa aliowahubiria yalikuwa ni: wale ambao hukumu ni haki yao. Kwakuwa shitaka halikuwa kweli Paulo hakwenda ndani zaidi kwenye jibu hili; yeye anathibitisha tu kwamba hukumu ya Mungu juu yao ni sahihi.
+

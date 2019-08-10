@@ -13,3 +13,4 @@ Majaribu huhakikisha sifa ya kweli ya Mkristo. Ingawa kuteswa sio kutukuzwa, Pau
 ### Muumba husubiri kwa udhihirisho wa mwana wa Mungu (mst. 19-22)
 
 Mungu ana mpango mkubwa na Tumaini lililo liweka mbele kwa uumaji. Ni utumwa kwasababu dhambi iko ulimwenguni, bali kule tutakuwa tumefunguliwa!
+

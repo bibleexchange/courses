@@ -26,7 +26,7 @@ Agano Jipya linaeleza Wokovu katika nyakati tatu: uliopo, uliopita, na ujao:
 |Tumeokolewa: alimaliza kwa wakati uliopita | Tunaokolewa: kitendo kinachoendelea | Tutaokolewa: itakamilika kwa wakati ujao |
 |Tumeokolewa kutoka kwenye adhabu ya dhambi na hatia: Kuhesabiwa haki, msamaha, kuokolewa | Kutoka nguvu ya dhambi: endelevu -> kutakaswa, kusafishwa | Kuokolewa mbali na dhambi kwa wakati uliopo: Alitukuzwa, imekamilika |
 | Nafsi, mwili, roho | Uzima, mazungumzo, mwenendo | Kukamilishwa, fanikishwa, kumaliza |
-| II Tim. 1:9; Tit.3:5; Efes. 2:8-9; Luk.7:50; Yoh.5:24; 6:47; | I Kor. 1:18 ("Tumeokolewa"), Filp. 2:12 II Kor. 2:15; II Kor. 15:2; Efes. 2:5,8; Rum. 6:14; Gal. 2:19,20; IIKor. 3:18 | Rum. 5:9; 8:23, 24; 13:11; Mat. 10:22 (24:13; Mark. 13:13); Yoh. 10:9; Rum. 10:13; IKor. 3:15, 5:15; Efes. 1:13, 14; I Thes. 5:8; Ebr. 10:36; I Tim. 2:4; I Petr. 1:5, 4:18; I Yoh. 3:2,3; Mat. 25:46; Mark. 10:30; Tit. 1:2,3. |
+| II Tim. 1:9; Tit.3:5; Efes. 2:8-9; Luk.7:50; Yoh.5:24; 6:47; | I Kor. 1:18 ("Tumeokolewa"), Filp. 2:12 II Kor. 2:15; II Kor. 15:2; Efes. 2:5, 8; Rum. 6:14; Gal. 2:19–20; IIKor. 3:18 | Rum. 5:9; 8:23, 24; 13:11; Mat. 10:22 (24:13; Mark. 13:13); Yoh. 10:9; Rum. 10:13; IKor. 3:15, 5:15; Efes. 1:13, 14; I Thes. 5:8; Ebr. 10:36; I Tim. 2:4; I Petr. 1:5, 4:18; I Yoh. 3:2–3; Mat. 25:46; Mark. 10:30; Tit. 1:2–3. |
 
 Tunaweza kupata maelezo ya muhtasari katika II Wakorintho 1:10:
 
@@ -44,7 +44,7 @@ Muumini ni "aliyeifia dhambi" (Rum. 6:2, 11, 7:4, 7:6; Gal. 2:19; Col. 2:20, 3:3
 
 Ina maanisha nini kuifia dhambi? Au ni nini matokeo ya kuifia dhambi? Paulo ametutambulisha kwetu picha ya kifo na kuandika usawa kati ya kifo cha Kristo na Ufufuo na kfo cha kiroho na ufufuo wa muumini. Hebu tuufikirie huu usawa wa kiroho na kifo cha kimwili:
 
-| Tumetambuliwa na Kristo kwa njia ya kifo chake We are identified with Christ through His death ||
+| Tumetambuliwa na Kristo kwa njia ya kifo chake ||
 |---|---|
 |Alikufa kifo cha asili | Tulikufa kifo cha kiroho |
 |Alikufa kwa ajili ya dhambi ya ulimwengu wote | Tunakufa kwenye dhambi |
@@ -62,7 +62,7 @@ Mtu aliyekufa hana haja na nyama au mboga. Hivi ni vyanzo vya vyakula, na mtu al
 
 Mtu anaweza kuishi maisha yote yakiwa yamejaa ulevi na na aina zote za ubinafsi na dhambi, lakini ajapo kufa, roho yake huacha mwili na ule mwili hauwezi kubeba uhai. Watapumzika katiak mikono ile sawa na wale walioshinda vita, miguu ile ile kwa walio kimbia haraka uovu, bali sasa wajapo kufa na roho zao zitaenda katika sehemu pa mwanga penye ushahidi wa maisha yote—mazuri au mabaya.
 
-###### Wafu watatengwa Dead men are gone
+###### Wafu watatengwa
 
 Kifo hiki kina mwisho kwa waumini wake wa asili ya dhambi. "Utu wa kale" hautafufuliwa tena, bali "utu upya" utafufuliwa katika sehemu yake. Kumbuka, watu wanajiuliza katika sehemu hii, "Tudumu katika dhambi ili neema izidi kuongezeka?" Kufahamu lugha ya "kifo" na "uzima" Paulo alitumia, ni lazima tufikiri kile "kinachofunga mahusiano" ni nini. Umri wetu wa kuishi, ni vigumu kuhitimisha kwamba kifo lazima kichukue nafasi ili mwisho wa mahusiano uwepo. Chochote tunachokichagua kukifanya kwa akili zetu na miili, kuna sheria za rohoni ambazo zinaongoza haijalishi mtazamo wetu wa nje. "Vifungo viwili vya mahusiano" katika Maandiko ni: 
 
@@ -126,3 +126,4 @@ Matunda gani mtakayoyapata? Faida gani ya hudumu yako? Ni mshahara wa kazi yako.
 | Tunda la aibu | Tunda la kumuadhimisha Mungu, utakatifu |
 | Kifo | Uzima wa milele |
 | Mshahara wa dhambi ni mauti | Karama ya Mungu ni uzima wa milele kupotia: Yesu Kristo BWANA Wetu. |
+

@@ -69,4 +69,5 @@ furusa ni haki iliopatikana popote ulipo. Unapokuwa mtiifu na kuwa na hiari kwen
 
 ## Hitimisho la sura ya 13
 
-Amri za sura hii huelekezwa kwetu leo kama zilivyoelekezwa katika siku za Paulo.Mkristo anapaswa kuchukuliana na kila hali kulingana na Mungu alivyo na kile Mungu afanyacho.Matazamio ya mkristo yameelekezwa kwa mtazamo wa Mungu wa dunia na kusudi la Mungu katika dunia.
+Amri za sura hii huelekezwa kwetu leo kama zilivyoelekezwa katika siku za Paulo. Mkristo anapaswa kuchukuliana na kila hali kulingana na Mungu alivyo na kile Mungu afanyacho. Matazamio ya mkristo yameelekezwa kwa mtazamo wa Mungu wa dunia na kusudi la Mungu katika dunia.
+

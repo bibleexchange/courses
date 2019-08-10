@@ -45,3 +45,4 @@ Walikuwa na ari ya Mungu, lakini walipoteza ukweli wa muhimu: Haki ya Mungu amba
 * Kusanyiko lilisikia? NDIO (Musa alisimulia na Isaya pia alisimulia, n.k.)
 
 Wasikiaji walikataa kuamini. TUNAJUKUMU KATIKA MPANGO WA MUNGU KWA AJILI YA UKOMBOZI. Mungu anawatumia wa mataifa kuwaachokoza Wayahudi kwenye wivu (10:19).
+

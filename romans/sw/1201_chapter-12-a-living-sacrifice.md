@@ -67,7 +67,7 @@ Kufanywa upya kwa ufahamu hutokea kwa Neno la Mungu (Zab. 119:9, 105). Ni kazi y
 
 ## Msimamo wa mkristo kwa wengine (mst. 3-8)
 
-Tu mwili mmoja katika Kristo, wenye karama mbali mbali.kila moja ni kiungo cha mwenzake. Mtu anapo miliki karama atapaswa kuitumiaje? Karama mbali mbali hutolewa na Roho. Kazi za karama ni unabii, huduma, kufundisha na kutia moyo, nk. Umiliki wa karama sio bila matumizi. Ni mazoezi mazima ya karama, wakati imetolewa na kusihiwa na mitume. Karama zimetolewa moja kwa moja na Roho. Imani ni ya lazima kwa kupokea na kutumia hizi karama.
+Tu mwili mmoja katika Kristo, wenye karama mbali mbali. Kila moja ni kiungo cha mwenzake. Mtu anapo miliki karama atapaswa kuitumiaje? Karama mbali mbali hutolewa na Roho. Kazi za karama ni unabii, huduma, kufundisha na kutia moyo, nk. Umiliki wa karama sio bila matumizi. Ni mazoezi mazima ya karama, wakati imetolewa na kusihiwa na mitume. Karama zimetolewa moja kwa moja na Roho. Imani ni ya lazima kwa kupokea na kutumia hizi karama.
 
 ## Amri kwa muumini (mst. 9-21)
 
@@ -79,8 +79,9 @@ _Kutokuiga_ humaanisha "kutochukua wazo la mtu, hisia, au tabia; kujifanya." Upe
 
 > Zaburi 34:14—Uache mabaya ukatende mema, Utafute amani ukaifuatie.
 
-"Uovu" ni kile kinacho umiza, kuzuia uzalianaji katika asili, ya shetani, anasa au ubaya. We need to run away from evil and run toward good. This is not a fearfulness of evil as in superstition, but is a sanctification or separation of our conduct and thought life from those things that are contrary to the holiness of God. How can we "abhor" and "depart" from evil? (Psalm 37:27; Isaiah 1:16)
+"Uovu" ni kile kinacho umiza, kuzuia uzalianaji katika asili, ya shetani, anasa au ubaya. Tunahitaji kukimbia uovu na kukimbilia mema. Hii sio hofu ya uovu kama ilivyo kwa ushirikina,lakini ni utakaso au mgawanyiko wa mwenendo wetu na maisha ya mawazo kutoka kwa vitu hivyo ambavyo ni kinyume na utakatifu wa Mungu. Je, tunawezaje "kuchukia" na "kuachana" na uovu? (Zab. 37:27; Is. 1:16)
 
 ## Hitimisho la War 12
 
 Kuwa mkristo inajumuisha kila eneo la maisha ya mtu. Nia na mwili hutolewa kwa Mungu kwa kujikabithi kimaadili kama sadaka ya kiroho. Kwa msimamo wake na matendo mbele ya Wakristo wengine yeye ni wakuonyesha ukweli kwamba yeye ni mfuasi na wengine katika mwili wa Kristo. Katika uhusiano wake na mwenye dhambi, yeye hufanya katika upendo na kumwachia Mungu ulipizaji kisasi kwa ajili ya uovu.
+

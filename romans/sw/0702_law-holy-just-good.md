@@ -15,7 +15,7 @@ Kutumikia waraka wa zamani wa sheria haukumfanya Paulo kuwa mwenye haki, bali ba
 > Sheria yake ni mapenzi yake. Ilishauri kile ambacho ni rahisi, na sahihi, na jema na kukataza kile ambacho hakifai, jeuri, na kuumiza.  
 > —Adam Clarke
 
-Sheria ilifunua ukweli wa dhambi (Kol. 3:5; I Thes. 4:5). Matokeo ya ulimwengu yangekuaje bila sheria? Sheria ilikuwa muwakilishi wa agizo (amri) usalama, utulivu, uaminifu,sare, usawa. Kutokuwepo kwa sheria kulizua machafuko, kwa watumishi wabaya. Kama nguvu ya sheria ilizuiliwa matokeo yake yangekuaje? Mwisho wa dunia.
+Sheria ilifunua ukweli wa dhambi (Kol. 3:5; I Thes. 4:5). Matokeo ya ulimwengu yangekuaje bila sheria? Sheria ilikuwa muwakilishi wa agizo (amri) usalama, utulivu, uaminifu, sare, usawa. Kutokuwepo kwa sheria kulizua machafuko, kwa watumishi wabaya. Kama nguvu ya sheria ilizuiliwa matokeo yake yangekuaje? Mwisho wa dunia.
 
 ### Dhambi huleta mauti (mst. 8)
 
@@ -53,3 +53,4 @@ Sheria ilifunua madhara ya dhambi. Madhara ya dhambi zote ni kifo cha kiroho. Ma
 #### Sheria inaonyesha (dhihirisha) uovu wa dhambi (mst. 12-13)
 
 Sheria ni takatifu, ya pekee na nzuri, ya kawaida, ni mstari wa kina, amri inatuonyesha wapi na tuko katika upande gani wa Mungu; dhambi inatuonyesha kwa nini "waovu wanaendelea." Mbali sana na alama ya ile ya Mungu aliyetuwekea sisi kwa ajili ya Kristo. Ni kusudi lake kutuhumu wafungwa wa dhambi na njia pekee ni kupitia kwa Kristo pekee kutafuta toba. Ina laana, shutuma, huzuia, na kuongoza kuamsha wakosaji kwa Kristo (3:19, 13; 7:8-11; 8:3; Gal. 3:19-24). Dhambi inaweza kufichwa katika jamii ya watu ikilinganishwa kwa mtu mmoja na mwingine au pia kwa kuhukumiwa tu kwa amri ya moyo wake mwenyewe, lakini katika nuru ya utakatifu kamili, dhambi itakuwa "inazidi sana."
+

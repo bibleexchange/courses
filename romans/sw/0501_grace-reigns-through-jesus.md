@@ -84,3 +84,4 @@ Paulo aliandika tofauti yenye nguvu sana ya utawala wa dhambi na utawala wa neem
 | Hasira | Amani |
 | Wenye dhambi | Walio okolewa | 
 | Utawala wa dhambi | Neema imeongezeka |
+

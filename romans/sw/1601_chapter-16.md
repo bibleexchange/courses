@@ -53,10 +53,10 @@ Roho ya kifungu hiki ni ya kipekee na maalumu unapofikiria kwamba Paulo hakukuta
 
 Paulo anayasalimia makundi 16 ya watu huko Rumi:
 
-1. **Prisila na Akila**, wasaidizi wangu katika Kristo (na kanisa la nyumbani mwa Prisila na Akila). Prisila na Akila walikuwa watengeneza hema kama Paulo alivyo kuwa. Kwa mapokeo hawa mishenari wawili wanajumuishwa katika orodha ya mitume 70 walioteuliwa na Yesu katika Luka 10. Wametajwa mara sita katika vitabu viine tofauti vya agano jipya. Maara zote hutajwa kama wenye ndoa na sio mtu moja moja. Kwenye rejea sita jina la Akila limetajwa mara tatu kwa mwanzoni na jina la Prisila limetajwa la kwanza katika mihula mitatu. Pirisila sio mali ya Akila bali zaidi ni wenzi katika huduma na ndoa. Pirisla na Akila walitajwa kwa mara ya mwisho katika maandiko kama walikuwa Efeso (Mdo 18:18–19). Pirisila na Akila walikuwa miongoni wayahudi waliokuwa wamefukuzwa toka Rumi na mtawala wa kirumi Kilaudio katika mwaka 49. Wanaishia kwa Wakoritho. Paulo aliishi na Prisila na Akila kwa makadirio ya miezi 18. Kisha wale wanandoa walianza kuondoka kumsindikiza Paulo alipoendelea kwenda Siria, lakini walisimama Efeso. Kama walivyotajwa katika Warumi 16, kwa wakati mwingine 56 au 57, walikuwa wamerudi Rumi. Kanisa la wamataifa walikuwa na shukurani kwa ajili ya Prisila na Akila kwa sababu walihatarisha shingo zao kwa ajili yao("walilaza shingo zao chini"). 
+1. **Prisila na Akila**, wasaidizi wangu katika Kristo (na kanisa la nyumbani mwa Prisila na Akila). Prisila na Akila walikuwa watengeneza hema kama Paulo alivyo kuwa. Kwa mapokeo hawa mishenari wawili wanajumuishwa katika orodha ya mitume 70 walioteuliwa na Yesu katika Luka 10. Wametajwa mara sita katika vitabu viine tofauti vya agano jipya. Maara zote hutajwa kama wenye ndoa na sio mtu moja moja. Kwenye rejea sita jina la Akila limetajwa mara tatu kwa mwanzoni na jina la Prisila limetajwa la kwanza katika mihula mitatu. Pirisila sio mali ya Akila bali zaidi ni wenzi katika huduma na ndoa. Pirisla na Akila walitajwa kwa mara ya mwisho katika maandiko kama walikuwa Efeso (Mdo 18:18–19). Pirisila na Akila walikuwa miongoni wayahudi waliokuwa wamefukuzwa toka Rumi na mtawala wa kirumi Kilaudio katika mwaka 49. Wanaishia kwa Wakoritho. Paulo aliishi na Prisila na Akila kwa makadirio ya miezi 18. Kisha wale wanandoa walianza kuondoka kumsindikiza Paulo alipoendelea kwenda Siria, lakini walisimama Efeso. Kama walivyotajwa katika Warumi 16, kwa wakati mwingine 56 au 57, walikuwa wamerudi Rumi. Kanisa la wamataifa walikuwa na shukurani kwa ajili ya Prisila na Akila kwa sababu walihatarisha shingo zao kwa ajili yao ("walilaza shingo zao chini"). 
 2. **Epaineto**, mpendwa wangu, malimbiko kwa Kristo ya Akaya. 
 3. **Mariamu**, ambaye alijitoa sana kutuhudumia. 
-4. **Androniko na Yunia** jamaa zangu, na waungwa wenzangu, wa mitume. Walikuwa ndani ya Kristo kabla ya Paulo. Ambao ni miongoni mwa watu ishirini na sita ambao Paulo anawatumia salamu maalumu, angalau sita kati yao ni wanawake, kuashiria nafasi na umuhimu wa wanawake miongoni wa kundi la wakristo huko Rumi. Utata juu ya msitari huu mfupi ni maswali "ni kwamba,Yunia ( ni jina la kike) au Yunias ni (la kiume?)" na je kifungu kinachofuata majina ni tafasiri nzuri ya ambayo iliobora miongoni mwa mitume au kilieleweka vinzuri kwa mitume'?" 
+4. **Androniko na Yunia** jamaa zangu, na waungwa wenzangu, wa mitume. Walikuwa ndani ya Kristo kabla ya Paulo. Ambao ni miongoni mwa watu ishirini na sita ambao Paulo anawatumia salamu maalumu, angalau sita kati yao ni wanawake, kuashiria nafasi na umuhimu wa wanawake miongoni wa kundi la wakristo huko Rumi. Utata juu ya msitari huu mfupi ni maswali "ni kwamba, Yunia ( ni jina la kike) au Yunias ni (la kiume?)" na je kifungu kinachofuata majina ni tafasiri nzuri ya ambayo iliobora miongoni mwa mitume au kilieleweka vinzuri kwa mitume'?" 
 5. **Ampliato**, mpendwa wangu katika Bwana. 
 6. **Urbano**, msaidizi katika Bwana. 
 7. **Stakisi**, mpendwa. 
@@ -73,13 +73,13 @@ Paulo anayasalimia makundi 16 ya watu huko Rumi:
 ## Busu takatifu (mst. 16)
 
 * "Busu takatifu" ni kitu cha mapokeo ya kiyahudi zamanni na salamu za Kikristo. Vile vile huitwa "busu la amani," "Busu la kindugu," au "busu la dada" miongoni mwa wanawake. 
-* Imetajwa mara 5 katika agano jipya: War 16:16; 1 Wakr 16:20 ; 2 Wakr 13:12 ; I Wathsl 5:26 ; 1 Petro 5:14. ("amani iwe nanyi", shaloomu")peace be with you", "Shalom")
+* Imetajwa mara 5 katika agano jipya: War 16:16; 1 Wakr 16:20 ; 2 Wakr 13:12 ; I Wathsl 5:26 ; 1 Petro 5:14. ("amani iwe nanyi", shaloomu"), "Shalom")
 * Angalau kwa karine kadhaa za kwanza, busu hili halikuwa la mdomo kwenda kwenye shavu bali lilikuwa la mdomo kwa mdomo. Tokea tarehe za mwanzoni, busu hili lililindwa dhidi ya uharibifu wowote wa muundo huu wa salamu, wanawake na wanume walitakiwa kukaa kwa kutengena, na busu la amani lilitolewa tu kwa wanawake kwa wanawake na wanaume kwa wanaume.
 * Makanisa mengi ya kiporostant yamechukuliana na busu takatifu kwa mfano (katika wale wanachama waliongozeka kama ukarimu safi wenye moto ambao hurejewa kama busu takatifu.
 
 ## Onyo moja la mwisho (mst. 17-20)
 
-Paulo anafuatana na baadhi miongozo ya kichungaji na maelekezo.anasema na kuyatia "alama." Hili neno _alama_ humaanisha "kuchukua lengo, kuwa mwangalifu." Ni neno lile lile lililotumika katika Wafilippo 3:17.
+Paulo anafuatana na baadhi miongozo ya kichungaji na maelekezo. Anasema na kuyatia "alama." Hili neno _alama_ humaanisha "kuchukua lengo, kuwa mwangalifu." Ni neno lile lile lililotumika katika Wafilippo 3:17.
 
 ## Kufungu (mst. 21-27)
 

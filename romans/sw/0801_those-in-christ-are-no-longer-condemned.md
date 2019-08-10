@@ -29,3 +29,4 @@ Ilitimilizwa kati ya mmoja ambaye alitembea si kwa mwili, bali kwa Roho. Kama Ro
 Walio katika Kristo wanafanya vitu vya tofauti vyotye viwili kutenda na kufikiri. Tutembee kwa kufuata Roho wa Mungu. Roho wa Mungu atatuongoza kwenye uzima, bali mwili utatuongoza kwenye kifo na uharibifu.
 
 ### Ninyi ni wa Roho, kama roho yu ndani yenu (mst. 9)
+

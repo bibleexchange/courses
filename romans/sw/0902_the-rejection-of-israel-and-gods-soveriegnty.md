@@ -35,7 +35,7 @@ Kumbuka neno tangu zamani. Kwa mchakato mzima wa wokovu imetazamwa kutoka siku i
 
 ## Wito wa Mungu kwa watu wake (mst. 25-29)
 
-Katika mstari ya 25 Paulo, anachukua kutoka nabii Hosea (2:23) kifungu ambacho hasahasa kiliongelea waisrael,bali hakupatta utimilifu kwa waisrael bali zaidi ya hapo inaonekana kutimilizwa kwa mataifa kupokea injli. Sentensi katika sehemu ya mwisho ya msitari huu ni za mkato sana, na zinajieleza kwa kuendelea; zikiacha yale maneno yaliyotumiwa na Watafasiri: nitasema kwa watu ambao HAWAKUWA WATU WANGU,NINYI NI WATU WANGU na wao watasema, MUNGU WETU (1 Pet. 2:9-10).
+Katika mstari ya 25 Paulo, anachukua kutoka nabii Hosea (2:23) kifungu ambacho hasahasa kiliongelea Waisrael, bali hakupatta utimilifu kwa waisrael bali zaidi ya hapo inaonekana kutimilizwa kwa mataifa kupokea injli. Sentensi katika sehemu ya mwisho ya msitari huu ni za mkato sana, na zinajieleza kwa kuendelea; zikiacha yale maneno yaliyotumiwa na Watafasiri: nitasema kwa watu ambao HAWAKUWA WATU WANGU, NINYI NI WATU WANGU na wao watasema, MUNGU WETU (1 Pet. 2:9-10).
 
 Katika mstari ya 26, tunaona watu wa mataifa. Neema ya kwanza ya Mungu imewapata wale ambao mara ya kwanza waliitwa "mbwa" (Mat. 15:26) na kuwapa wao wito "waliitwa kuwa wana Mungu aliye hai."
 
@@ -44,3 +44,4 @@ Katika mstari ya 27 mtume ananukuu na nabii mwingine, Isaiah, kuhusiana na mabak
 Njia za Mungu sio zetu. Yeye husubiri - na huchukuliana - na yeye ni mkimya - kisha kwa ghafula huweka kusudi lililo kusudiwa la milele.
 
 Mstari 29 umenukuliwa toka Isaya 1:9 unaonyesha kuwa kama Mungu asingalifupisha kwa neema yake, wote wangekuwa kama Sodoma na Gomora (2 Wath 2:7).
+

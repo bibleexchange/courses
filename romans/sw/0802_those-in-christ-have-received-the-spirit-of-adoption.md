@@ -13,7 +13,7 @@ Kwa sababu ya dhambi, miili yenu inahesabiwa kufa, bali kwa sababu ya haki  roho
 Roho Mtakatifu alimfufua Yesu kutoka wafu. Mwili wa kufa unayo hesabiwa kufa utafanywa hai kwa Roho Mtakatifu.
 
 1. Roho hutupa uzima na kuwaokoa waamini kutoka kwenye dhambi na mauti.
-2. ROho hutupa uzima na kufanya kile ambacho sheria haikifanyi.
+2. Roho hutupa uzima na kufanya kile ambacho sheria haikifanyi.
 3. Roho hutupa uzima na kuihukumu dhambi katika mwili.
 4. Roho hutupa uzima na Kristo anatugawia matendo mema kwetu.
 
@@ -28,3 +28,4 @@ Je, sisi sote ni watoto wa Mungu? Watu wote ni viumbe wa Mungu, bali wale tu wal
 #### Roho atatuhuisha (mst. 15)
 
 #### Roho atatushuhudia (mst. 16)
+

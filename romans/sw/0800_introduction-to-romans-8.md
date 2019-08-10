@@ -35,3 +35,4 @@ Ina maana gani kuwa ndani yua Kristo?
 * Wale walio katika Kristo waliumbwa kwa kazi njema (Efes. 2:10)
 
 Kuwepo kwa Kristo ni kushirikishwa katika Mzabibu wa keli. Maisha yake aliyaweka kwetu na kile kilicho chake kimekuwa chetu. Mungu Baba ametuonyesha vile vilivyoko kwa Mwanawe wa pekee ambaye tumekuwa warithi wa Mungu. Kwa Kristo, hatushindani na mwili bali dhambi pekee, na wala hatupati ondoleo la dhambi pekee, bali tumempokea Kristo Mwenyewe. Waumini wako kwa Kristo na Kristo yuko kwa waumini (11:16-18).
+

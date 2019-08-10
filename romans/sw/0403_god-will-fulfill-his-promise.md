@@ -30,3 +30,4 @@ Zifuatazo ni hoja zilizo tolewa:
 4. Huwezi kujipatia kuhesabiwa haki/kwa njia ya ufuasi wa sheria (4:13-17).
 5. Imani ya Abrahimu inatuonyesha mfano ambao lazima tuufuate.
 6. Paulo alitoa hoja kwamba kuhesabiwa haki/haki kwa imani ndio njia pekee ya kumpendeza Mungu.
+

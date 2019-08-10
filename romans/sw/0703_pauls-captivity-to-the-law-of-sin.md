@@ -10,7 +10,7 @@ Ufunguo wa maana wa sehemu hii ni msingi katika kurudia rudia kwa Paulo kujireje
 
 #### Diplomasia
 
-Sauti hii ilichukuliwa katika sehemu hii ni katika sehemu kesi ya Paulo akitumia diplomasia(utaalam). Badala ya kutoa maneno ya dini yake na bidii ya wasomaji kwasababu ya kujilinda, Paulo alifika kwa ndugu zake na alijiamini mwenyewe na kushuhudia kwa uzoefu chini ya sheria:
+Sauti hii ilichukuliwa katika sehemu hii ni katika sehemu kesi ya Paulo akitumia diplomasia (utaalam). Badala ya kutoa maneno ya dini yake na bidii ya wasomaji kwasababu ya kujilinda, Paulo alifika kwa ndugu zake na alijiamini mwenyewe na kushuhudia kwa uzoefu chini ya sheria:
 
 * "**Mimi** ni wa mwilini, niliuzwa chini ya dhambi."
 * "Dhambi iliishi **kwangu**" (dhambi ilinitawala)
@@ -70,3 +70,4 @@ Naweza kuepuka uovu? Ndio! Njia tumepewa kwa dhambi kutokaa (Efes. 6:13; II Petr
 2. Yale mapenzi yake hayakuwa na nguvu ya kupigana na dhambi.
 3. Wale wenye dhambi haikuwa dhambi halisi (ilikuwa ni mfano wa Mungu).
 4. Hiyo ni tofauti kupitia Bwana Wetu Yesu Kristo.
+

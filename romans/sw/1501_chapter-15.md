@@ -10,7 +10,7 @@ Waamini ni wakukaribishana wao kwa wao, kama Kristo alivyo wapokea mataifa—kwa
 
 Kuna tofauti nyingi za kidini na kimila kati ya wayahudi na wamataifa kwa kufunguliwa injili kwa mataifa kulikuwa na ugumu mwingi wa kushinda. Paulo anaonya kwa ushupavu, tunatakiwa kufanya kazi ili kuwapokea wamataifa kama Mungu alivyo wapokea. Kiwango cha juu na kutawala kwa kile ambacho tabia zetu hupimwa "kama kristo alivyo tupokea sisi kwenye utukufu wa Mungu" (mst. 7). 
 
-Kuwa myahudi kwa shaka, makanisa ya kwanza yange jisikia "kuwa ya kiyahudi"(michanganyiko ya mila na ushawishi). Kulikuwa na ufukuzwaji kwa mara ya kwanza kutoka Roma kwa wayahudi wote na ni mageuzi ya kiasili na kimila yaliyo tokea katika makanisa ya kirumi. Mwishowe, Wayahudi walirudi katika mji wa Roma kupata vitu tofauti zaidi ya walivyokuwa wameacha. Ilikuepuka mgawanyiko, Kanisa la kwanza lilikuwa linafanya kazi kwa pamoja ilikushinda tofauti zao za kimila kwa kujifunza vile vitu ambavyo "vinahitaji sana" (Matendo 15:28; Waefeso 4:3, 13).
+Kuwa myahudi kwa shaka, makanisa ya kwanza yange jisikia "kuwa ya kiyahudi" (michanganyiko ya mila na ushawishi). Kulikuwa na ufukuzwaji kwa mara ya kwanza kutoka Roma kwa wayahudi wote na ni mageuzi ya kiasili na kimila yaliyo tokea katika makanisa ya kirumi. Mwishowe, Wayahudi walirudi katika mji wa Roma kupata vitu tofauti zaidi ya walivyokuwa wameacha. Ilikuepuka mgawanyiko, Kanisa la kwanza lilikuwa linafanya kazi kwa pamoja ilikushinda tofauti zao za kimila kwa kujifunza vile vitu ambavyo "vinahitaji sana" (Matendo 15:28; Waefeso 4:3, 13).
 
 ### Kuna kanuni za kidunia
 
@@ -61,7 +61,7 @@ Kuna vitu vingi vya kutia moyo Paulo anaweza kusema na ameshasema (1:8), lakini 
 
 #### Paulo aliandika kwa ujasiri (mst. 15)
 
-Katika hatari inaonekana ya kutotambuliwa kwa mfano wao na imani,Paulo kama mhudumu mwaminifu wa changamoto za injili ujasir wa kanisa na vitu vya lazima.
+Katika hatari inaonekana ya kutotambuliwa kwa mfano wao na imani, Paulo kama mhudumu mwaminifu wa changamoto za injili ujasir wa kanisa na vitu vya lazima.
 
 #### Paulo alikuwa na wito na jukumu (mst. 16a)
 
@@ -88,7 +88,7 @@ Kifungu "hizi nyakati nyingi" inaonyesha jinsi ani wakisto wa Roma kwa kuendelea
 
 ### Ratiba ya Paulo (mst. 25–28)
 
-Paulo anaelezea tena shauku yake na kusudi lake la kutelea kanisa la Roma na ratiba yake. Alikuwa lazima kwanza aende Sipania na kukusanya sadaka kwa ajili ya watakatifu wa Yerusalemu. Yeye angeweza kuzileta Yerusalemu baada kile alichokusudia kutembelea Roma. Kwa jinsi gani wakristo wa Makedonia na Akaya walivyohusika na maskini miongoni wa wakristo walioko Yerusalemu?Walichangia kwa ajili ya maskini. Paulo mwenyewe pamoja na ndugu wengine walichukua hizi sadaka na kuzipeleka Yerusalemu, kupokea kwa mtu kile ambacho ni kanuni ya kiroho Paulo anawafundisha warumi kwa kuhusianisha hizi habari? Lilikuwa ni tendo la upendo juu ya sehemu ya watakatifu wa mataifa. Ilikuwa ni utimilizo wa maneno ya Bwana katika Yoh. 13:17, 35.
+Paulo anaelezea tena shauku yake na kusudi lake la kutelea kanisa la Roma na ratiba yake. Alikuwa lazima kwanza aende Sipania na kukusanya sadaka kwa ajili ya watakatifu wa Yerusalemu. Yeye angeweza kuzileta Yerusalemu baada kile alichokusudia kutembelea Roma. Kwa jinsi gani wakristo wa Makedonia na Akaya walivyohusika na maskini miongoni wa wakristo walioko Yerusalemu? Walichangia kwa ajili ya maskini. Paulo mwenyewe pamoja na ndugu wengine walichukua hizi sadaka na kuzipeleka Yerusalemu, kupokea kwa mtu kile ambacho ni kanuni ya kiroho Paulo anawafundisha warumi kwa kuhusianisha hizi habari? Lilikuwa ni tendo la upendo juu ya sehemu ya watakatifu wa mataifa. Ilikuwa ni utimilizo wa maneno ya Bwana katika Yoh. 13:17, 35.
 
 ## Hitimisho
 
@@ -103,3 +103,4 @@ Katika mstari wa 30 kwa mara ya kwanza tunaona utatu:
 ### Baraka (mst. 33)
 
 "Mungu wa amani awe nanyi nyote," inaonyesha kwa jinsi gani moyo wa mtume ulikuwa umejawa na amani na kujawa mapensi ya Mungu! Inaonyesha pia upendo unaofurika kwa ajili ya watakatifu (mara mbili katika sura hii Paulo **anaomba** kwa ajili ya kanisa la Rumi. Angalia misitari ya 13 na 33). Kusudi na nguvu ilio nyuma ya umoja wa wakristo ni mfano wa upendo wa Kristo na huduma na dhabihu. Kuwa na msisimko kama huo miongoni mwa wakristo, tunahitaji kuomba kama Paulo alivyofanya uwezeshaji wa Bwana. Maana ya Paulo ya agizo kuu haikumfanya kuwa wakutegemewa na wakristo wenzake.
+

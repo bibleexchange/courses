@@ -26,3 +26,4 @@ Mwisho wa sura unahusu tumaini la Mkristo, ambaye ni "Mungu akiwa upande wetu ni
 ## Hitimisho
 
 Vifungu viwili ya vya siri ya maisha ya Mkristo yanaelezwa kwa misemo miwili katika mstari wa 1 na mstari wa 10: "Kwa Yesu Kristo" na "kama Kristo akiwa ndani yako." Mapenzi ya Kristo ni kuishi ndani ya Kristo na maisha ya kumpendeza Mungu. Roho Mtakatifu hukaa ndani yetu, akituongeza nguvu za kuishi kama vile uzima.
+

@@ -30,3 +30,4 @@ Kristo ni mwamba wa kujikwaa kwa Wayahudi (Gal. 5:6; Yoh. 14:15; 1 Pet. 2:7-8)
 ## Haki ya hisia yake
 
 Paulo anaweka wazi kwamba lengo lake na shauku yake nikwamba Waisrael waokolewe (War. 9:1-5; 11:26; 10:1). Shauku ya Mungu ni kwamba wenye dhambi wote waokolewe (1 Tim. 2:4; 2 Pet. 3:9; Ezekiel 18:23; Mat. 23:37). Paulo ni mwenye haki katika shauku yake na sio kwamba anapingana ufahamu na mapenzi ya Mungu.
+

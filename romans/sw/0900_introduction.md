@@ -25,3 +25,4 @@ Dhamira ya mgawanyo wa huu wa pili ni wakimpango ukweli kuhusiana na waisraeli h
 3. Kukataa kwa waisrael na jukumu la mwanadamu (9:30-10:21)
 4. Kukataa kwa waisrael na kusudi la Mungu kwa ajili ya msitakabali wao (11:1-32)
 5. Maneno ya mtume ya kumsifu Mungu (11:33-36)
+

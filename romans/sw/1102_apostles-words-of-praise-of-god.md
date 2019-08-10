@@ -2,3 +2,4 @@
 
 > Dini inayostahili kuabudiwa kwa hekima, furaha, na haki ya Mungu.  
 > —Matthew Henry
+

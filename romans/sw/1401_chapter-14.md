@@ -1,6 +1,6 @@
 # Maoni tofauti miongoni wa Wakristo (sura ya 14)
 
-## Utangulizi Introduction
+## Utangulizi
 
 Warumi sura ya kumi na nne inaongelea kuhusu jinsi ya kumtendea ndugu mdhaifu.tunapaswa kuwasaidia wale ambao ni wadhaifu katika imani yao. Tunaona hitaji la kuwa na upendo. Tunapaswa kumishia Mungu, na yote tunayohitaji kwa Mungu. Hatupaswi kuhukumiana, kwa kuwa siku moja kila mmoja atatoa hesabu ya maisha yake mwenyewe.
 
@@ -65,3 +65,4 @@ Ni nini tunayodhani kuwafanyia wengine:
 ## Baraka ya kuwa huru (mst. 22–23)
 
 Ni baraka zaidi kuwa na uhuru mbele ya Mungu ambayo hatutumii udhaifu wa ndugu, zaidi ya kusisitiza uhuru, ingawa umetolewa kwa utofauti.
+

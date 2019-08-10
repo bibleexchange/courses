@@ -1,6 +1,6 @@
 ## Mamlaka yasiyopindika ya sheria (3:9-19)
 
-> *Kuhesabiwa haki ni kwa imani pasipo matendo ya sheria. Sheria ni: faida kwa wale ambao wanaijua(mst. 20-30), haijafanywa kama kitu cha kuepuka bali inathibitishwa kwa imani yetu. (mst. 31)*
+> *Kuhesabiwa haki ni kwa imani pasipo matendo ya sheria. Sheria ni: faida kwa wale ambao wanaijua (mst. 20-30), haijafanywa kama kitu cha kuepuka bali inathibitishwa kwa imani yetu. (mst. 31)*
 
 Dunia yote iko chini ya hukumu.
 
@@ -20,7 +20,7 @@ Mwenye dhambi ni nani? Tumeshathibitisha kuwa wote wayahudi na wamataifa wako ch
 
 ### Kulingana na sheria za kimahakama shitaka rasimi lazima liwe limeandikwa
 
-> Shitaka rasmi ni shitaka lililoandikwa au shitaka la kawaida la mhalifu au mkosaji,hurejelewa kama baraza la wazee wa mahakama chini ya kiapo cha mahakama. —Webster
+> Shitaka rasmi ni shitaka lililoandikwa au shitaka la kawaida la mhalifu au mkosaji, hurejelewa kama baraza la wazee wa mahakama chini ya kiapo cha mahakama. —Webster
 
 Hakimu mkuu haachi udhuru kwa ajili binadamu na Paulo ametumia neno lililoandikwa kuonyesha mshitakiwa.
 
@@ -47,3 +47,4 @@ Siku ya hukumu itakuwa ni siku ya kunyamaza kimya.
 Sheria inarejea zaidi ya sheria ya Musa; vilevile pia kwenye sheria ya maadili na sheria ya dhamiri. Watu wamataifa hawakuimiliki sheria ya Musa, lakini kila mtu anasheria ya maadili ya Mungu ilioandikwa katika moyo wake na kuthibitishwa na dhamiri yake.
 
 ### Malipo ya kifo yameshatolewa dhidi ya mhukumiwa (War. 6:23)
+

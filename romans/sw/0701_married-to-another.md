@@ -28,3 +28,4 @@ Kutokana na umoja huu wa Kristo utumishi wa Kristo utakuwa wetu (mst. 6).
 ### Matunda ya umoja huu  The fruitfulness of this union
 
 Umoja wetu pamoja na dhambi huzalisha mauti (7:5; 1:32; 6:21; 7:5; Gal. 5:19-21), bali umoja pamoja na Kristo unatuwezesha sisi kuzaa matunda ya haki katiak utakatifu (1:13; 5:3-5; 6:22; Yoh. 15:2, 4, 5, 8, 16; I Kor. 1:6; Gal. 5:22-23; Efes. 5:9; Filp. 1:11; 4:17; Kol. 1:6, 10; Tit. 3:14; Ebr. 12:11; 13:15; Yak. 3:18; 5:7; II Pet. 1:3-9).
+
