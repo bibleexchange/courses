@@ -1,4 +1,4 @@
-# JOB
+# Job
 
 ## Introduction
 
@@ -12,3 +12,4 @@ The Book of Job has a few obstacles that will keep us from understanding its dee
 2. Job is not a place we go to study didactic text in search of doctrine. The narrative is an honest representation of the dialog of Job and his friends. To dig for doctrine in the oratory will lead us down the wrong road. We should rather step back and identity the overall movements that are taking place.
 3. Don’t give up. The people talk a long time and say many things, and it is easy to lose focus if we forget the main purpose of the book.
 4. God does not change. The account causes such strong feelings of injustice at times that we begin to make excuses for Gods actions or allow God’s attributes to shift to make events easier to swallow.
+

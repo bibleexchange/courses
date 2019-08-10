@@ -1,16 +1,16 @@
-# Psalms of Zion
+## Psalms of Zion
 
-## Introduction
+### Introduction
 
 Psalms of Zion extol Zion, or Jerusalem, for its exalted role as the abode of God’s glory and as the religious and political capital of the nation. They are 15, 24, 46, 48, 50, 76, 81, 84, 87, and 122.
 
-## Pilgrim Psalms
+### Pilgrim Psalms
 
 The Pilgrim Psalms are sometimes included with the Psalms of Zion as they do not really constitute a distinct literary type of their own. Pilgrim Psalms or Song of Ascents is a title given to fifteen of the Psalms, 120–134, each starting with the ascription **Shir Hama'aloth** (literally meaning "to go up to"). They are also called Gradual Psalms, Songs of Degrees, or Songs of Steps.
 
 Four of these psalms (122, 124, 131 and 133) are linked in their ascriptions to David, and one to Solomon (127). Psalms of Ascents were sung by pilgrims journeying up to Jerusalem for the three annual feasts of Passover, Pentecost, and Tabernacles.
 
-## Zion
+### Zion
 
 ### The city of David
 
@@ -34,3 +34,4 @@ The word _Zion_ occurs over 150 times in the Bible. The word Zion is also used i
 	- Psalm 102:14 God's Servants Care About the Prosperity of Jerusalem (stones and dust)
 	- Isaiah 66:10 A Command to Love Jersusalem
 	- Jeremiah 29:7 Those Who Love Jerusalem were to Seek the Prosperity of the City in which they were exiled-->
+

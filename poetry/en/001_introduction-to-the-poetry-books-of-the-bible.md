@@ -1,4 +1,4 @@
-# Introduction to the Poetry Books of the Bible
+<!--# Introduction to the Poetry Books of the Bible
 
 We need to follow instructions, and follow them very careful. 
 
@@ -37,4 +37,4 @@ Instruction, correction, and other related words. What do they mean?
 
 
 > And wisdom sayings are notorious for the use of apparently absolute assertions in order to make a general, “proverbial” point.
-> Moo, D. J. (2000). The letter of James (p. 84). Grand Rapids, MI; Leicester, England: Eerdmans; Apollos.
+> Moo, D. J. (2000). The letter of James (p. 84). Grand Rapids, MI; Leicester, England: Eerdmans; Apollos.-->

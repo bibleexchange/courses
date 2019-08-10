@@ -1,6 +1,6 @@
-# Majukumu ya wenyewe kwa wenyewe, hakika ya hukumu pekee, na kukosa uwezo wa hekima (sura ya 8)
+## Majukumu ya wenyewe kwa wenyewe, hakika ya hukumu pekee, na kukosa uwezo wa hekima (sura ya 8)
 
-## Majukumu ya wenyewe kwa wenyewe (mst. 1–9)
+### Majukumu ya wenyewe kwa wenyewe (mst. 1–9)
 
 Mstari wa kwanza unauliza, "Ni nani aliye kama mwenye hekima?" Koheleti alimtafuta mtu mwenye hekima, nani aliyejua tafsiri ya jambo. Koheleti alijua kwamba hekima humfanya mtu awe na furaha. "Uso unaong aa mara nyingi huzungumza kwa habari ya kibali. Hapa inazungumzia kuhusu mtu mwenye hekima ambaye anaiona neema katika mwenendo wake, na (kama mstari unaofuata unasema) upole ya mtu humng arisha uso wake."[1] Linganisha na Hesabu 6:25.
 
@@ -10,16 +10,17 @@ Pia tunagundua kuwa mara zote tunatakiwa kumtii Mungu zaidi ya mwanadamu kama vi
 
 Kama ukosefu wa hekima ulimvunja moyo Koheleti katika Mhubiri 8:6–7, alipata kukosekana kwa uwezo wa mtu ni sura ya kifo kuwa ya kukata tama. Chini ya jua, aliona kuwa kifo hakiruhusu washindi, na hakuna kutolewa katika vita hiyo. Alijua kuwa sehemu ya taabu za mwanaume katika dunia hii ilikuwa itawaliwe na ukandamizaji mwingine.
 
-## Hakika ya hukumu tu (mst. 10–13)
+### Hakika ya hukumu tu (mst. 10–13)
 
 Koheleti aliona kwamba waovu hufa, na uovu waoutasahaulika mapema. Pamoja na _chini ya jua_ akifikiri, Koheleti alikata tama kuwa waovu hawaadhibiwi baada ya kifo.
 
 Katika mstari wa 12–13 Koheleti anasema kwamba itakuwa sawa kwa wenye haki na sio sawa kwa waovu.
 
-## Kutokuwa na uwezo wa hekima (mst. 14–17)
+### Kutokuwa na uwezo wa hekima (mst. 14–17)
 
 -------------------------------------
 
-[1] Eaton
-[2] Clarke
-[3] Kidner
+* [1] Eaton
+* [2] Clarke
+* [3] Kidner
+

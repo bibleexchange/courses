@@ -1,10 +1,10 @@
+# Mithali
+
 # Utangulizi wa kitabu cha Mithali
 
 ## Mithali siyo tu mkusanyiko wa misemo
 
-Mithali ina sehemu kuu mbili (1–9 & 10–31), inayojumuisha mikusanyiko tofauti tofauti saba (1:1; 10:1; 22:17; 24:23; 25:1; 30:1; 31:1).
-
-Milango tisa ya mwanzo ni mashairi marefu yanayohusu masomo mengi kwa undani na sehemu iliyobakia inahusu misemo ya sentensi zinazojitegemea
+Mithali ina sehemu kuu mbili (1–9 & 10–31), inayojumuisha mikusanyiko tofauti tofauti saba (1:1; 10:1; 22:17; 24:23; 25:1; 30:1; 31:1). Sura tisa ya mwanzo ni mashairi marefu yanayohusu masomo mengi kwa undani na sehemu iliyobakia inahusu misemo ya sentensi zinazojitegemea
 
 ## Mithali ni ya aina ya hekima
 
@@ -43,8 +43,7 @@ Kama Mithali siyo sheria wala ahadi basi ni nini?
 Bado tunaziheshimu kanuni hata kama hatuoni matokeo halisi tunayoyatarajia.
 
 > Katika mazingira gani basi mtu mwenye hekima nyingi kwa ujasiri kabisa anaonyesha umaarufu wa kuwa mwenye haki japokuwa walimfahamu jamaa mwenye haki aliyeteseka na jamaa dhaifu aliyefanikiwa? _Kwa mazingira ya kawaida_, Yule mwenye hekima nyingi kiusahihi kabisa aliamini kuwa tabia ya hekima na haki hufanya maisha kuwa bora na ya utajiri, japokuwa saburi _haijadhaminisha_ hilo.  
-> Raymond C. Van Leeuwan [2]
-
+> —Raymond C. Van Leeuwan [2]
 
 > Ni kosa ingawa, kuchukulia mithali kama dhamana. Hicho sicho kinachofanywa na mithali. Tena, ni suala la limfumo. Mithali haiku katika biashara ya kutoa ahadi. Bali inawatia watu moyo juu ya mitazamo na matendo ambayo yatawapelekea kufikia lengo lililodhamiriwa, vitu vingine vyote kuwa sawa. Inaaminiwa kwamba mtoto atakapokuwa atakuwa mwenye hekima kama wazazi watamfunza katika njia ya Mungu. Lakini mtoto huyo anaweza kukutana na mitazamo hasi kwa marafiki zake (kwa mfano ushauri uliotolewa katika mlango wa 1:8–19).  
 > —Tremper Longman, III
@@ -171,7 +170,7 @@ Anaongea katika Mithali 1:20–33 na sura ya 8. Pia ametajwa katika 9:1–6, 11;
 
 Ametajwa katika sura ya 9:13–18. Anafanana na mwanamke asiyejulikana (5:8 na 7:22 ni kama 9:13–18. Na 2:18–19,5:5, na 7:27 ni kama 9:18). Wanawake wote huanzia na kuwaita kutampa kirahisi (9:4, 16). Wote wanatamani mahusiano (njoo kwangu uwe namimi). Wote wameandaa chakula (9:1–2, 17).
 
-###### Njia ya uzima
+##### Njia ya uzima
 
 Kuna njia nzuri na njia mbaya. Kuna mitego na hatari njiani.
 
@@ -181,10 +180,11 @@ Maandishi ya ushauri kutoka kwa baba kwa mwana ilikuwa kawaida katika maeneo ya 
 
 Upande unaosoma mithali na maonyo yake kuhusu mwanamke "mwovu," wanawake wanaweza kutoa mawazo yao kwamba wanawake wana masuala ya hovyo au fujo fujo, lakini tukikumbuka kwamba iliandikwa kwa kijana mdogo basi itaeleweka kwanini maonyo yako kinyume na watu wa jinsia nyingine. Tungeweza kufikiri kwamba iliandikwa na mwanamke kwa mtoto wake wa kike kwamba kungekuwa na maonyo mengi ya mwanaume "mwovu."
 
-----------------------------------------------------------------
+---------------------------------------------------------
 
-[1] https://www.thegospelcoalition.org/article/which-promises-are-for-me/
-[2] Raymond C. VAN LEEWAN, UTAJIRI NA UMASIKINI: MFUMO NA UKINZANI KATIKA MITHALI, Mafundisho ya Kiebrania, toleo la  33, ukurasa wa 32
-[3] Raymond C. VAN LEEWAN, Mafundisho ya Kiebrania, toleo la 33, ukurasa wa 29
-[4] Raymond C. VAN LEEWAN, Mafundisho ya Kiebrania, toleo la 33, ukurasa wa 31
-[5] Van Leeuwan, mafundisho ya kiebrania toleo la 33 ukurasa wa 32
+* [1] https://www.thegospelcoalition.org/article/which-promises-are-for-me/
+* [2] Raymond C. Van Leeuwan, WEALTH AND POVERTY: SYSTEM AND CONTRADICTION IN PROVERBS, Hebrew Studies vol. 33, pg. 32
+* [3] Van Leeuwan, Hebrew Studies 33 pg. 29
+* [4] Van Leeuwan, Hebrew Studies 33 pg. 31
+* [5] Van Leeuwan, Hebrew Studies 33 pg. 32
+

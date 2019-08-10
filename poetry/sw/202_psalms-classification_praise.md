@@ -1,6 +1,6 @@
-# Zaburi za sifa
+## Zaburi za sifa
 
-## Utangulizi
+### Utangulizi
 
 Sifa ni kitu cha ajabu na chenye nguvu sana. Mungu hukaa katika sifa za watu wake(22:3), na sifa zinaweza kuwashinda maadui wa Mungu (149:6–9). **Zaburi za sifa** ni 8, 19, 29, 33, 78, 100, 103, 104, 105, 111, 113, 114, 117, 134, 135, 136, na 145–150. Kwa kawaida zinajengwa katika mambo makuu matatu:
 
@@ -20,7 +20,7 @@ Sifa ni kitu muhimu sana kwa mwanadamu, kwasababu kama hatumuabudu Mungu, basi n
 
 > Kuinua ni mojawapo ya uwepo. Ni sehemu yake kubwa kabisa, kwamba mtu akiacha kumuinua Mungu, kitu kingine lazima kiinuliwe. Na Mungu anaweza kuachwa na mwanadamu, taasisi wazo. Kuinua kunabakimkuwa kazi ya uwepo. Historia ya dunia inaonyesha hili. Mwanadamu lazima ainue kitu, na bila kuinua huko basi kutakuwa hakuna uwepo.... Kama sifa za Mungu, zinavyoonyeshwa na zaburi, zinamilikiwa na uwepo, basi kuelekezwa kwa sifa hizi kwa mwanadamu, taasisi au wazo lazima itasumbua na mwisho itaharibu maisha yenyewe. Zaburi inasema kwamba pale anapoabudiwa Mungu ndiyo kuna maisha.[1]
 
-## Shirika
+### Shirika
 
 "Hans-Joachim Kraus... anatoa upenyo unasaidia wa zaburi za sifa. Orodha yakeni zifuatazo: Zaburi 8, 19A, 29, 33, 47, 65, 66A, 68, 93, 96, 97, 98, 99, 100, 104, 105, 106, 111, 113, 114, 117, 134, 135, 136, 145, 146, 147, 148, 149, 150. Zinaingia katika migawanyo miwili:"
 
@@ -37,13 +37,13 @@ Sifa ni kitu muhimu sana kwa mwanadamu, kwasababu kama hatumuabudu Mungu, basi n
     4. Zaburi za kihistoria: Zaburi 105; 106; 114; 135; 136.
     5. Zaburi za kuingia: Zaburi 24, 95, na 100.[2]
 
-## Mandhari
+### Mandhari
 
-### Uuumbaji
+#### Uuumbaji
 
 Mungu anaabudiwa kwasababu ameumba dunia nzima na kila kitu kilicho ndani yake, ikijumuisha mwanadamu. "Ni wazi kabisa kwanini mada ya uumbaji au muumbaji inatakiwa kuwa lengo kuu la umakini katika zaburi za sifa—uumbaji unaweka alama ya mwanzo wa historia ya dunia, na matendo yote mazuri ya kutisha ya Mungu katika historia lazima zionekane katika mwanga wa kazi zake kuu za uumbaji."[3] Zaburi hizi zinaonyesha kwamba Mungu ameumba kwa neno lake (33:6; 148:5–6), matendo yake (147:4), uelewa wake (104:24–26; 136:5–9), na nguvu zake (65:5–8). Zaburi ya 8 inaufunua uzuri wa uumbaji wake na Zaburi 134 na 149:1–2 inatutia moyo tumwabudu muumbaji wetu. Zaburi ya 19:1–4 inatuambia kwamba mbingu zahubiri utukufu wa Mungu, kama jua na nyota zinamsifu Mungu, je sisi tunatakiwa tumsifu vipi zaidi.
 
-### Historia ya Waisrael
+#### Historia ya Waisrael
 
 * Zaburi ya 105 inaelezea habari za Yusufu (mst. 16–22), wanajeshi wa Misri (mst. 23–27), mapigo (mst. 28–36), msafara (mst. 37–38), jangwa (mst. 39–42), na ushindi wa Kanani (mst. 44). 
 * Zaburi ya 106 inazungumzia kuhusu Misri, bahari ya shamu, jangwa, na uhamisho. 
@@ -51,7 +51,7 @@ Mungu anaabudiwa kwasababu ameumba dunia nzima na kila kitu kilicho ndani yake, 
 * Zaburi ya 135 inafunika habari za wana wa Waisraeli kati ya mapigo kumi na ushindi (mst. 8–12). 
 * Zaburi ya 136 inamtukuza Mungu aliyeumba dunia (mst. 5–9) na kuruka mpaka uhamisho Misri, ikifuatiwa na bahari ya shamu, jangwa, na ushindi (mst. 10–26).
 
-### Matendo ya kutisha ya Mungu
+#### Matendo ya kutisha ya Mungu
 
 Wakati mwingine zaburi haizungumzii tukio mahususi katika historia ambako Mungu alitenda, lakini zinatumia maneno ya kusifia "matendo" yake. Zifuatazo ni baadhi ya maneno yaliyotumika kuonyesha nini Mungu alichokifanya:
 
@@ -60,3 +60,4 @@ Wakati mwingine zaburi haizungumzii tukio mahususi katika historia ambako Mungu 
 * "Matendo ya ajabu" (105:2, 5; 136:4)
 * "Matendo makuu" (106:2; 145:4, 12)
 * "Matendo makuu" (111:2; 136:4)
+

@@ -17,3 +17,4 @@ Though he made mistakes and was drawn into boasting and became bold enough to as
 #### Wealth
 
 Surprisingly, Job never once mentioned loosing anything. Today, we would only care about the value of the cattle and houses. We would cry over the death of our loved ones, but Job is from the east, and his main focus is the loss of respect and honor in the community. This may be because of time or location or both, but it still applies in our day. Maybe that’s because he worked so hard to gain honor, and maybe we don’t think much about it because we’ve never earned it in the first place.
+

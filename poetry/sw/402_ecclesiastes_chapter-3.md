@@ -1,6 +1,6 @@
-# Ubatili wa maisha katika mtazamo wa kiasili (sura ya 3)
+## Ubatili wa maisha katika mtazamo wa kiasili (sura ya 3)
 
-## Utangulizi
+### Utangulizi
 
 Sura huu ni wazo la mwanadamu la kiasili la kuchoka katika maisha. Kiasili ni "Wazo au imani kwamba ni asili tu (kukataa nguvu isiyo ya kawaida au ya kiroho) sheria na nguvu zinazotenda kazi katika dunia."
 
@@ -15,3 +15,4 @@ Mungu ameumba utu na dunia. Ametupa sisi kazi ya kufanya. Tunatakiwa tufanye kaz
 ### Hitimisho la vitu (mst. 16–22)
 
 Koheleti amevunjika moyo kwasababu kila mahali anapotazama anaona uovu. Lakini anajua kuwa kuna majira kwa kila kitu, na hata kama waovu watakuwa na majira ya kufanikiwa, majira ya hukumu yatakuja.
+

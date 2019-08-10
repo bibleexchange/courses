@@ -1,4 +1,4 @@
-# Psalms of confidence
+## Psalms of confidence
 
 Many of the psalms express trust in God, but in a few of them trust is the main theme. These are called the _psalms of confidence_. Our study of the psalms of confidence appropriately follows our study of the psalms of lament which are dominated by disappointment and questions addressed to God. Meanwhile, the psalms of confidence are characterized by their attitude of faith, trust, and sense of security in God. The psalmist expresses his confidence by saying "I know" (4:3) and "I believe" (27:13). The individual psalms of confidence are 3, 4, 11, 16, 23, 27, 62, and 131. The corporate ones are 115, 121, 125, and 129. (Some classify 3 as lament and 129 as thanksgiving[1] instead of confidence. Also, some consider 73, 90, and 126 to be psalms of confidence.[2])
 
@@ -8,7 +8,7 @@ It may contain a request or a lament, but these are overshadowed by a strong pro
 
 "[Another] element of this group of psalms is the basis for trust. That is, sometimes the psalmist recounted a point of knowledge, a spiritual principle he had observed, or an experience that had taught him the lesson of faith."[6]
 
-## The use of these psalms in community
+### The use of these psalms in community
 
 Psalms 115, 121, 125, and 129 are corporate psalms, which were said together by the congregation in the temple. Some of the confidence psalms contain an invitation for those listening to trust in God:
 
@@ -17,7 +17,7 @@ Psalms 115, 121, 125, and 129 are corporate psalms, which were said together by 
 * "Trust in him at all times; ye people" (62:8)
 * "O Israel, trust thou in the LORD" (115:9)
 
-## Themes found in these psalms
+### Themes found in these psalms
 
 * Sleep (3:5; 4:8; 23:2). We can sleep, because we know that God never sleeps (121:3–4).
 * Stability (16:8; 121:3; 125:1–2). This idea is also expressed by comparing God to a mountain (11:1), rock (62:2), and fortress (62:2).
@@ -27,7 +27,7 @@ Psalms 115, 121, 125, and 129 are corporate psalms, which were said together by 
 * Joy (4:7; 16:11; 27:6).
 * Peace (4:8; 125:5).
 
-## Depictions of God in these psalms
+### Depictions of God in these psalms
 
 They primarily do not make requests for God to be something or do something, but they make declarative statements about who God already is and what He already does.[7] In Psalm 23 David does not ask, "Lord, be a shepherd to me!" be he says, "the Lord **is** my shepherd." In many of these psalms, there are statements about God in the third person instead of direct addresses to Him.[8] In these psalms God is depicted as:
 
@@ -49,11 +49,12 @@ Psalm 62 makes it clear that it is God alone that is our source of confidence.
 
 --------------------------------------------------------------------------------
 
-[1] Encountering the Psalms, p. 398
-[2] Encountering the Psalms, p. 421
-[3] Day, J. (1999). Psalms (p. 52). London; New York: T&T Clark.
-[4] Encountering the Psalms, p. 421
-[5] Encountering, p. 426
-[6] Encountering, p. 426
-[7] Encountering the Psalms, p. 434
-[8] Day, J. (1999). Psalms (p. 52). London; New York: T&T Clark.
+* [1] Encountering the Psalms, p. 398
+* [2] Encountering the Psalms, p. 421
+* [3] Day, J. (1999). Psalms (p. 52). London; New York: T&T Clark.
+* [4] Encountering the Psalms, p. 421
+* [5] Encountering, p. 426
+* [6] Encountering, p. 426
+* [7] Encountering the Psalms, p. 434
+* [8] Day, J. (1999). Psalms (p. 52). London; New York: T&T Clark.
+

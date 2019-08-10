@@ -1,4 +1,4 @@
-# Introduction to Ecclesiastes
+<!--# Introduction to Ecclesiastes
 
 ## The name of the book
 
@@ -180,4 +180,5 @@ These are wise sayings that will "prod" our thinking, and exhortations that will
 * Chapter 9 (Like things happen to the righteous and the wicked, wisdom is preeminent and often unappreciated)
 * Chapter 10 (Various wise sayings and the contrast between wisdom and folly)
 * Chapter 11 (Benevolences and advice to the young.)
-* Chapter 12 (Description of old age and conclusion concerning the highest duty of man.)
+* Chapter 12 (Description of old age and conclusion concerning the highest duty of man.)-->
+

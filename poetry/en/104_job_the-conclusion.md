@@ -17,3 +17,4 @@ They began with creation and moved on to the natural world. They speak of weathe
 ### Final point
 
 When we struggle in life we wrestle with all the questions that come out in this book. When we read the Bible we often do the same. We can trace it all back to that one tree in the garden that was not like any other tree. If God knew what Adam and Eve would do, why did He put the tree there in the first place? Firstly, it was the opportunity to serve Him in a special way. More importantly, the world was created so that God could redeem from it a bride for His Son. For that bride to be perfect, she must be redeemed. In order to be redeemed, she must first fall. The purposes of God are too big for us to understand, let us rejoice that we have been given a part, and never forget that his own Son suffered according to this mater plan. "Not my will but thine be done."
+

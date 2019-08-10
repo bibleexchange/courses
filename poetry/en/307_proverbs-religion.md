@@ -1,4 +1,4 @@
-Proverbs does not mention the Covenant or Israel. So some people do not believe that the writers believed in the Israelite religion ( https://faculty.gordon.edu/hu/bi/ted_hildebrandt/otesources/20-proverbs/text/articles/waltke_provtheology_bsac.htm pg 302-303)
+<!--Proverbs does not mention the Covenant or Israel. So some people do not believe that the writers believed in the Israelite religion ( https://faculty.gordon.edu/hu/bi/ted_hildebrandt/otesources/20-proverbs/text/articles/waltke_provtheology_bsac.htm pg 302-303)
 
 !! Look up Prov. 15:8, 29; 20:25; 21:3, 27; 28:9; 31:2
 
@@ -63,7 +63,7 @@ On the Fear of the Lord is the beginning of knowledge on chapter 1:
 
 ## Cult
 
-## Blessing and cursing??
+## Blessing and cursing??-->
 
 <!--
 > It is specifically ethical-religious wisdom that the Book of Proverbs discusses and recomends. This wisdom is exclusively functional; its purpose is to get people to behave morally. In contrast to speculative wisdom, ethical-religious wisdom has little to do knowledge and understanding of life in the universe, insofar as that knowledge is not oriented to human behavior.

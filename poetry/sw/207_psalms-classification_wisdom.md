@@ -1,12 +1,12 @@
-# Zaburi za hekima
+## Zaburi za hekima
 
-## Utangulizi
+### Utangulizi
 
 Zaburi hizi hazielekezwi kwa Mungu bali ni kwa ajili ya wale wanaosikiliza. Misamiati yake inashirikiana na mawazo ya hekima za kitabu cha Ayubu, Mithali, na Mhubiri. Zaburi za hekima ni 1, 14, 37, 49, 52, 53, 73, 75, 91, 112, 119, 127, 128, 133, na 139. Wengine wanafikiria 32, 34, 78, 90, 105, 106, na 111 pia kuwa zaburi za hekima.[1] Sehemu za zaburi zingine zina ushawishi mkubwa wa hekima, kama vile 19:7–14, 94:8–15, na 97:10–12.[2] Baadhi ya zaburi za hekima zaidi ziko kama maelekezo kwa maisha yaliyotolewa katika Mithali (kama vile 1 na 112) na zingine ziko kama maswali kuhusu maisha ambayo yaliulizwa katika Ayubu na Mhubiri (37, 49, na 73).[3] Zaburi 119, 19B, na 1 wakati mwingine ziliitwa _Zaburi za Torati_ kwasababu ya msisitizo katika sheria ya Mungu.[4]
 
 Zaburi za hekima zinasisitiza mafundisho ya wanaume wa hekima wa Israeli, tafakari za sheria, njia za haki dhidi ya njia za waovu, na umuhimu wautendaji wa haki. Kwa mara nyingi zinahusika na mada kama vile udhalimu wa maisha na haki ya Mungu, wajibu wa kuchagua njia sahihi au tabia za kuishi, kuthamini utajiri, na ukweli kuwa mwanadamu ni hija pekee au msafiri apitaye katika maisha haya. Zaburi hizi zinafanana na ayubu, mithali, na mhubiri katika mazingira yamuundo wa kifasihi, misamiati, na mandhari. 
 
-## Muundo wa kifasihi wa zaburi za hekima
+### Muundo wa kifasihi wa zaburi za hekima
 
 Maombolezo, muundo wa alfabeti, misemo ya namba, na usawa ni miundo yote ya kifasihi iliyotumika katika zaburi za hekima na vitabu vingine vya biblia vya kishairi. Usawa ni sifa kuu ya shairi la Kiebrania inayoweza kueleweka kama marudio yenye uwiano:
 
@@ -24,7 +24,7 @@ Sifa zingine za kifasihi kwamba zaburi hizi zinashirikiana na hekima za kifasihi
 4. **Anuani**: "Sikieni haya, enyi mataifa yote; Sikilizeni, ninyi nyote mnaokaa duniani. Watu wakuu na watu wadogo wote pia, Tajiri na maskini wote pamoja." (49:1–2)
 5. Miundo mingine ya sifa za hekima kama vile **tabasamu**, **misemo ya namba**, au **maswali ya kejeli**: "Sivyo walivyo wasio haki; Hao ni kama makapi yapeperushwayo na upepo." (1:4)[5]
 
-## Mandhari katika zaburi za hekima
+### Mandhari katika zaburi za hekima
 
 Misamiati ya kawaida katika zaburi hizi zinaelezea maombolezo, shukrani, na sifa. Pia, kuna maneno yanayofanana na hekima, haki, ukweli, rehema, na theolojia ya uumbaji. Kuna dhana zinazofanana na hekima zingine za fasihi:
  
@@ -38,9 +38,10 @@ Misamiati ya kawaida katika zaburi hizi zinaelezea maombolezo, shukrani, na sifa
 
 -------------------------------------------------
 
-[1] Day, J. (1999). Psalms (p. 54). London; New York: T&T Clark.
-[2] Howard, D. M., Jr. (1997). The Structure of Psalms 93–100. (W. H. Propp, Ed.) (Vol. 5, p. 124). Winona Lake, IN: Eisenbrauns.
-[3] Day, J. (1999). Psalms (p. 55). London; New York: T&T Clark.
-[4] Day, J. (1999). Psalms (p. 56). London; New York: T&T Clark.
-[5] Guide to Studying the Psalter, p. 173
-[6] Guide to Studying the Psalter, p. 174 
+* [1] Day, J. (1999). Psalms (p. 54). London; New York: T&T Clark.
+* [2] Howard, D. M., Jr. (1997). The Structure of Psalms 93–100. (W. H. Propp, Ed.) (Vol. 5, p. 124). Winona Lake, IN: Eisenbrauns.
+* [3] Day, J. (1999). Psalms (p. 55). London; New York: T&T Clark.
+* [4] Day, J. (1999). Psalms (p. 56). London; New York: T&T Clark.
+* [5] Guide to Studying the Psalter, p. 173
+* [6] Guide to Studying the Psalter, p. 174 
+

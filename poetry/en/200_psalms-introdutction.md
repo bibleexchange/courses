@@ -1,4 +1,6 @@
-# Introduction to the Book of Psalms
+# Psalms
+
+<!--# Introduction to the Book of Psalms
 
 > Mowinckel acknowledges both aspects when he says.
 > In spite of the didactic character of the ‘learned psalmography’, it has one characteristic in common with genuine psalmography; these poems are, and must be considered as, prayers. Like every real psalm, they address God, even though they often address men as well.
@@ -160,4 +162,5 @@ The five-fold arrangement has long been recognized, but no universally accepted 
 2. 42-72 — Exodus — concerning Israel as a nation. The counsels of God concerning Israel’s ruin, redeemer, and redemption. Closes with a Benediction and double Amen.
 3. 73-89 — Leviticus — concerning God’s sanctuary. Closes with a Benediction and double Amen.
 4. 90-106 — Numbers — concerning Israel in relation to the nations. Closes with a Benediction, Amen, and Hallelujah.
-5. 107-150 — Deuteronomy — concerning God and His Word. Closes with five psalms, each beginning and ending with “Hallelujah”.
+5. 107-150 — Deuteronomy — concerning God and His Word. Closes with five psalms, each beginning and ending with “Hallelujah”.-->
+

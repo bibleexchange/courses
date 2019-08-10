@@ -1,6 +1,6 @@
-# The vanity of life from the naturalist's perspective (chapter 3)
+## The vanity of life from the naturalist's perspective (chapter 3)
 
-## Introduction
+### Introduction
 
 This chapter is the natural man's view of the weary round of life. Naturalism is the "idea or belief that only natural (as opposed to supernatural or spiritual) laws and forces operate in the world."
 
@@ -17,3 +17,4 @@ God has created humanity and the world. He has given us work to do. We are to do
 ### The conclusion of the materialist (v. 16–22)
 
 Qoholeth is discouraged because everywhere he looks he sees wickedness. But he knows that there is a season for everything, and though the wicked may have a season of prosperity, there will come a season of judgment.
+
