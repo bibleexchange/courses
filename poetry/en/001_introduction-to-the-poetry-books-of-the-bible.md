@@ -1,4 +1,4 @@
-# Introduction to the Poetry Books of the Bible
+<!--# Introduction to the Poetry Books of the Bible
 
 We need to follow instructions, and follow them very careful. 
 
@@ -9,6 +9,8 @@ There will be memory scriptures, study questions, quizzes.
 Before the end of the year every student will be required to write a Psalm, from scratch. 
 
 ## Definition of wisdom
+
+Wisdom is living according to God’s order in creation (The Baker Commentary on Ecclesiastes, p. 336)
 
 Wisdom is applying knowledge to life. Just having knowledge is not enough (Proverbs 26:7, 9).
 
@@ -35,4 +37,4 @@ Instruction, correction, and other related words. What do they mean?
 
 
 > And wisdom sayings are notorious for the use of apparently absolute assertions in order to make a general, “proverbial” point.
-> Moo, D. J. (2000). The letter of James (p. 84). Grand Rapids, MI; Leicester, England: Eerdmans; Apollos.
+> Moo, D. J. (2000). The letter of James (p. 84). Grand Rapids, MI; Leicester, England: Eerdmans; Apollos.-->

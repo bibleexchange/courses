@@ -70,3 +70,4 @@ Opportunity is found right where you are. When are obedient and willing to the w
 ## Conclusion to chapter 13
 
 The commands of this chapter apply to us today as well as to Paul's day. The Christian should behave in every situation in accordance with who God is and what God does. The Christian's perspective is oriented to God's view of the world and God's purpose in the world.
+

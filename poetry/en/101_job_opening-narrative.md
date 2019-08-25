@@ -1,0 +1,18 @@
+## The opening narrative (chapter 1)
+
+No time is wasted here. Job’s character is described, his substance quantified, and then all is lost.
+
+### Satan
+
+The name _Satan_ really means "adversary," but in all the Old Testament he is only mentioned a few times. Even more startling is that he appears before God along with the angels. It is not until the end of Revelation that he is cast out of the presence of God for good. How else could he be the accuser of the brethren unless he has an audience with God. His presence reminds us that the adversary of the Old Testament patriarchs and Israel is almost always a natural force such as drought, famine, or a hostile nation. Here we have a quick reminder that the real battle is for the human race and their souls. As Christians we assume this has always been understood because Jesus exposed the devil in such a way the we are always aware of this fight, but the lack of text about Satan should remind us that this passage allowed the reader at that time, a special look into things not yet understood.
+
+### Who’s in charge here? 
+
+Read verse 15. The Sabeans took Jobs cattle. If you did not know the story of what happened in heaven (which Job did not), we would assume that the Sabeans of their of free-will saw an opportunity and stole them. However, we do have the plot and we know that Satan made them do it but Satan could only do what God would allow so God took Jobs cattle. The Sabeans were cattle thieves from the start and Satan only had to present them the opportunity. Satan was a liar from the beginning and the advisory of all mankind. He only needed permission to act, but God granted the authority for the action. This destroys the idea of dualism. If Satan must ask God for permission then Good and Evil or God and the Devil are not equal opposing forces as dualism suggest. Dualism is a view that robs God of his sovereign control of the universe. 
+
+### Is God the author of evil?
+
+The next question is not so easy. Is God the author of evil? We know that He created calamity for the day of calamity and that He could stop any act at any moment, but He allows trouble and suffering to continue. We know that He knows the end from the beginning so that nothing surprises Him, so if He knows what is going to happen and can stop it but does not, we can reason that He ordained it. But we need to make a distinction here. Ill will toward someone is the evil present in Satan and the Sabeans. The will to allow trouble to happen to Job is with God, but it is not born out of ill will toward Job. Our mistake is that we see them as the same thing. God allowing trouble is not the same as Satan’s intent to hurt someone with that same trouble. So who is responsible? God, Satan, and the Sabeans are responsible, but all for different reasons. Do not allow your mind to reduce God’s character in order to solve this problem. Josephs brother meant it for evil but God meant it for good.   
+
+As the chapter comes to a close we see Job strong in his will to continue to serve and honor God. Verse 21 is one of his great statements of strength and dedication. Job coins some memorable phrases for us to look to in times of trouble and use in times of exhortation. Finally, notice the succinct way the chapter closes, almost as if the book is ending and Job has escaped with his life and integrity, like a storm that a ship seems to have outrun, surly this is enough for one man to endure.
+

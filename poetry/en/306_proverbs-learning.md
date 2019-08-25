@@ -1,4 +1,4 @@
-## Wisdom
+<!--## Wisdom
 
 > Wisdom as understood throughout Proverbs is not understood as an inherent quality or an object which can be obtained. Wisdom is a trajectory along which the wise grow as they proceed through life. Thus, the wise embark on a fascinating and often unpredictable adventure.
 > Proverbs and the Fromation of Character
@@ -14,4 +14,4 @@
 
 ## Listening
 
-## Different words for wisdom
+## Different words for wisdom-->
