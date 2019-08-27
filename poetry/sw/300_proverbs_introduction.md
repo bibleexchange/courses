@@ -1,12 +1,12 @@
 # Mithali
 
-# Utangulizi wa kitabu cha Mithali
+## Utangulizi wa kitabu cha Mithali
 
-## Mithali siyo tu mkusanyiko wa misemo
+### Mithali siyo tu mkusanyiko wa misemo
 
 Mithali ina sehemu kuu mbili (1–9 & 10–31), inayojumuisha mikusanyiko tofauti tofauti saba (1:1; 10:1; 22:17; 24:23; 25:1; 30:1; 31:1). Sura tisa ya mwanzo ni mashairi marefu yanayohusu masomo mengi kwa undani na sehemu iliyobakia inahusu misemo ya sentensi zinazojitegemea
 
-## Mithali ni ya aina ya hekima
+### Mithali ni ya aina ya hekima
 
 Siyo kila kifungu katika Biblia kinasomwa sawasawa na kingine katika Biblia. Kwa mfano tunasoma katika Matendo 17:1 tofauti kabisa na tunavyosoma Zaburi 18:8. Hiyo ya kwanza inazungumzia matukio ya kihistoria na ya pili inazungumzia mashairi na mifano halisi iliyoonyeshwa na Mungu. Kiuhalisia Mungu hatoi pumzi katika pua yake kama mwanadamu kwa kuwa yeye ni Roho. Vivyohivyo hatuwezi kusoma Mithali kama tunavyosoma mambo ya walawi au mojawapo ya manabii.
 
@@ -20,11 +20,11 @@ Kabla ya kuzungumzia kinachoifanya mithali kuwa ya kipekee, tuangalie mistari mi
 
 Kwanini Mithali hizi zinapingana?
 
-### Mithali zinautofauti zaidi ya sheria
+#### Mithali zinautofauti zaidi ya sheria
 
 Sheria siku zote ni ileile. Haibadiliki kulingana na mazingira. Mithali ni tofauti na sheria kwasababu mara nyingine ni vizuri kufuata sheria lakini wakati mwingine si vizuri kuzitii. Tunahitaji hekima kujua ni wakati gani tuitii Mithali. 
 
-### Mithali ni tofauti na ahadi
+#### Mithali ni tofauti na ahadi
 
 Mithali 22:6 inasema kwamba mlee mtoto katika njia impasayo naye hataiacha hata atakapokuwa mzee. Lakini inamaanisha nini kama mtoto akiachana na kanisa? Kwanini wanawake waadilifu au watiifu wanapata waume wakatili au watoto wasiotii? (Mithali 31:28)
 
@@ -36,7 +36,7 @@ Mhubiri katika kitabu cha Mhubiri 1:12–17 na mwandishi wa Zaburi 73 anaombolez
 
 Kama Mithali siyo sheria wala ahadi basi ni nini?
 
-### Mithali ni kanuni
+#### Mithali ni kanuni
 
 > Ahadi siku zote hutimizwa asilimia mia moja ya wakati. Kanuni zinasimamia ukweli wa kawaida. [1]
 
@@ -53,15 +53,15 @@ Rafiki zake Ayubu na mwandishi wa kitabu cha Mhubiri wanaweza wakawa walikuwa na
 > Matumizi mabaya ya misemo au wazo (Ayubu 42:7; Luka 13:1–5; Yoh. 9:1–2; kulinganisha na Mith 26:7, 9) haitafanya wazo kuwa baya.  
 > —Raymond C. Van Leeuwan [3]
 
-#### Mithali inahitaji hekima katika matumizi bora
+##### Mithali inahitaji hekima katika matumizi bora
 
-##### Hekima kwa wakati sahihi
+###### Hekima kwa wakati sahihi
 
 Mhubiri anafundisha kwamba kila jambo na majira yake (mlango wa 3:1–8).
 
 Soma Mithai 15:23, 25:11, na 25:20.
 
-##### Hekima kwa tukio sahihi
+###### Hekima kwa tukio sahihi
 
 Tofauti zinazojionyesha katika mawazo Fulani Fulani katika mithali si kwamba zinakinzana, bali zinaonyesha uwiano wa uelewa ambao unahusiana na mazingira tofauti tofauti katika maisha.
 
@@ -73,7 +73,7 @@ Hakuna andiko moja linaloweza kutupa picha toshelevu ya somo Fulani. Linganisha 
 
 Tunatakiwa tusome mithali na tuelewa kwamba kuna vitu katika maisha ambayo ni vinachanganya. Katika mithali tunaona kwamba "Baraka za Bwana hutajirisha" (10:22) na kwamba "watu wakali hushika mali siku zote" (11:16).
 
-#### Kwakuwa mithali inasema kitu kimoja ni kizuri kuliko kingine haimaanishi kuwa kinacholinganishwa ni kibaya zaidi
+##### Kwakuwa mithali inasema kitu kimoja ni kizuri kuliko kingine haimaanishi kuwa kinacholinganishwa ni kibaya zaidi
 
 Mungu atawabariki watu kwa wakati, lakini kuna Baraka zingine ambazo Mungu anazitoa zilizo bora zaidi ya utajiri. Soma Mithali 16:8 na 16:16.
 
@@ -83,7 +83,7 @@ Mungu atawabariki watu kwa wakati, lakini kuna Baraka zingine ambazo Mungu anazi
 > Jamaa mhariri/mwenye hekima aliyetunga mithali alidhamiria kwanza kufundisha hizi muhimu "sheria za maisha," kwamba msisitizo wa nguvu kuhusu madhara ya kitabia katika Mithali 1–9 na 10–15. Lazima kwanza kujifunza sheria muhimu, za ziada zinakuja baadaye.
 > —Van Leeuwan [5]
 
-#### Udhalimu/kutokutenda haki kupo katika dunia
+##### Udhalimu/kutokutenda haki kupo katika dunia
 
 * Masikini hawana chakula kwasababu ya wezi (13:23; 30:14)
 * Watu wakali hushika mali siku zote (11:16)
@@ -103,26 +103,26 @@ Angalia pia 10:2; 11:4, 7, 18, 21, 23, 28; 12:7, 12; 15:25; 17:5; 19:17; 20:21; 
 
 Sio mara zote hukumu hutokea katika maisha haya, hivyo tunatakiwa kuitumia imani, au "Mtumaini BWANA kwa moyo wako wote" (3:5–6). Hii inatuongoza katika kujadili asili ya kiroho ya kitabu.
 
-## Mithali ni kitabu cha kiroho
+### Mithali ni kitabu cha kiroho
 
-Ni ukweli kwamba Mithali inahusiana na vitu vingi katika uhalisia,lakini hekima ya kweli ni zaidi ya maarifa au akili za kihisia. Kwa Sulemani hekima haianzii kwenye elimu ya asili, lakini inatoka kwa Mungu. Kumcha Bwana ni chanzo cha maarifa (1:7). Sulemani mwenyewe alipata hekima yake kwa kumuomba Mungu (1 Wafalme 3:5–12).
+Ni ukweli kwamba Mithali inahusiana na vitu vingi katika uhalisia, lakini hekima ya kweli ni zaidi ya maarifa au akili za kihisia. Kwa Sulemani hekima haianzii kwenye elimu ya asili, lakini inatoka kwa Mungu. Kumcha Bwana ni chanzo cha maarifa (1:7). Sulemani mwenyewe alipata hekima yake kwa kumuomba Mungu (1 Wafalme 3:5–12).
 
 Sababu sahihi ya kuishi kwa haki ni kwasababu Mungu huchukua uovu na hupenda haki (11:1; 12:2, 15:8–9; 17:15; 20:10, 23; 21:3, 27; 28:9).
 
-## Mithali zimeandikwa kwa mfumo wa kishairi
+### Mithali zimeandikwa kwa mfumo wa kishairi
 
-### Usawa
+#### Usawa
 
 Sifa ya kati ya shairi la kiebrania ni usawa, ambayo ni kama mawazo yanayoenda pamoja
 
-#### Usawa la kisawe
+##### Usawa la kisawe
 
 Hii ni pale mstari wa pili unaporudia wazo la kwanza katika lugha tofauti kidogo sana. Hii ni kunyoosha mawazo kuyafanya yawe makali. Kwa mfano:
 
 > Mithali 18:15—Moyo wa mwenye busara hupata maarifa;  
 > Na sikio la mwenye hekima hutafuta maarifa.
 
-#### Vinyume katika usawa
+##### Vinyume katika usawa
 
 Mstari wa pili unapinga wa kwanza kama katika:
 
@@ -131,16 +131,16 @@ Mstari wa pili unapinga wa kwanza kama katika:
 
 Misemo mingi katika sura wa 10–15 ni kama hii.
 
-#### Synthetic parallelism (sometimes called step parallelism)
+##### Synthetic parallelism (sometimes called step parallelism)
 
-#### Usawa katika hatua (wakati mwingine tunauita usawa wa hatua)
+##### Usawa katika hatua (wakati mwingine tunauita usawa wa hatua)
 
 Mstari wa pili unafanyika mwendelezo wa mawazo ya mstari wa kwanza.
 
 > Mithali 14:7—Toka mbele ya uso wa mpumbavu,  
 > Maana hutaona kwake midomo ya maarifa.
 
-### Ishara
+#### Ishara
 
 Mithali inatumia alama nyingi au mifano ya maisha halisi kuonyesha na kuelezeaukweli. Baadhi ya hizi ni simili au milinganyo, ambayo ni kulinganisha vitu viwili vinavyotumia _kama_, kama katika mfano wafuatayo:
 
@@ -149,7 +149,7 @@ Mithali inatumia alama nyingi au mifano ya maisha halisi kuonyesha na kuelezeauk
 
 Kuna alama mbili zilizotumika kwa undani katika milango tisa ya mwanzo ambazo zote zinaonyesha hekima na upumbavu.
 
-#### Mwanamke hekima
+##### Mwanamke hekima
 
 Anaongea katika Mithali 1:20–33 na sura ya 8. Pia ametajwa katika 9:1–6, 11; 2:3–4; 4:7–9; 6:22; 7:4.
 
@@ -166,15 +166,15 @@ Anaongea katika Mithali 1:20–33 na sura ya 8. Pia ametajwa katika 9:1–6, 11;
 * Alikuwa mmojawapo wa walioumbwa kwanza (8:22–26, 8:30–31, 3:19)
 * Havumilii kukataliwa (1:24–27)
 
-#### Mwanamke upumbavu
+##### Mwanamke upumbavu
 
-Ametajwa katika sura ya 9:13–18. Anafanana na mwanamke asiyejulikana (5:8 na 7:22 ni kama 9:13–18. Na 2:18–19,5:5, na 7:27 ni kama 9:18). Wanawake wote huanzia na kuwaita kutampa kirahisi (9:4, 16). Wote wanatamani mahusiano (njoo kwangu uwe namimi). Wote wameandaa chakula (9:1–2, 17).
+Ametajwa katika sura ya 9:13–18. Anafanana na mwanamke asiyejulikana (5:8 na 7:22 ni kama 9:13–18. Na 2:18–19, 5:5, na 7:27 ni kama 9:18). Wanawake wote huanzia na kuwaita kutampa kirahisi (9:4, 16). Wote wanatamani mahusiano (njoo kwangu uwe namimi). Wote wameandaa chakula (9:1–2, 17).
 
-##### Njia ya uzima
+###### Njia ya uzima
 
 Kuna njia nzuri na njia mbaya. Kuna mitego na hatari njiani.
 
-## Mithali iliandikwa kama ushauri kutoka kwa baba kwa wanae
+### Mithali iliandikwa kama ushauri kutoka kwa baba kwa wanae
 
 Maandishi ya ushauri kutoka kwa baba kwa mwana ilikuwa kawaida katika maeneo ya kale karibu na mashariki.
 

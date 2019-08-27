@@ -29,3 +29,4 @@ It is fulfilled in the one that walks not after the flesh, but after the Spirit.
 Those in Christ do things differently—both actions and thoughts. They walk following after the Spirit of God. Walking after the Spirit also includes minding the things of the Spirit. The Spirit of God will lead us to life, but the flesh will lead to death and self-destruction.
 
 ### Ye are in the Spirit, if the Spirit is in You (v. 9)
+

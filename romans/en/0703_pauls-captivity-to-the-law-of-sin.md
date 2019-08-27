@@ -70,3 +70,4 @@ Can I Overcome Evil? Yes! A Remedy has been provided for indwelling sin (Eph. 6:
 2. That his will was powerless against it.
 3. That the sinful self was not his real self (which is the image of God).
 4. That there is a difference through our Lord Jesus Christ.
+

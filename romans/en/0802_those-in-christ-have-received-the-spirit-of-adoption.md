@@ -28,3 +28,4 @@ Are we all God's children? All people are God's creation, but only those born ag
 #### The Spirit gives adoption (v. 15)
 
 #### The Spirit gives witness (v. 16)
+

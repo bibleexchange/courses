@@ -2,7 +2,7 @@
 
 ### Baadhi hawafurahii faida zao (mst. 1–2)
 
-Koheleti sasa anaendelea na uchunguzi wake kuhusu utajiri.Anazungumza kuhusu kitu "kiovu," kwamba mwanadamu hujishughulisha kwa nguvu ili kupata utajiri, lakini hawezi kufurahia. Hatujui madhara yake ni yapi kumuepusha na kufurahia utajiri wake, lakini tunajua kwamba kwa baadhi ya sababu imetolewa kwa mwingine ili afurahie.
+Koheleti sasa anaendelea na uchunguzi wake kuhusu utajiri. Anazungumza kuhusu kitu "kiovu," kwamba mwanadamu hujishughulisha kwa nguvu ili kupata utajiri, lakini hawezi kufurahia. Hatujui madhara yake ni yapi kumuepusha na kufurahia utajiri wake, lakini tunajua kwamba kwa baadhi ya sababu imetolewa kwa mwingine ili afurahie.
 
 ### Maisha marefu hayatoi dhamana ya furaha (mst. 3–6)
 

@@ -44,3 +44,4 @@ In verse 27 the apostle quotes another prophet, Isaiah, concerning a remnant (Is
 The ways of God are not our ways. He waits long - He forbears - He is silent: then suddenly puts into execution an eternally formed purpose.
 
 Verse 29 is a quote from Isaiah 1:9 shows that if God had not intervened by his grace, they would have all become as Sodom and Gomorrah (2 Thessalonians 2:7).
+

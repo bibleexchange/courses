@@ -25,3 +25,4 @@ The Theme of this second Division is Dispensational in regards to Israel specifi
 3. The Rejection of Israel and Human Responsibility (9:30-10:21)
 4. The Rejection of Israel and God's Purpose for their Future (11:1-32)
 5. The Apostle's Words of Praise of God (11:33-36)
+

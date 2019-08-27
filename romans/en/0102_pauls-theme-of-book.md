@@ -45,3 +45,4 @@ Light represents truth which guides the Christian on his journey (Pro. 4:18; Ps.
 #### The Christian lives his life by faith in Christ
 
 > Galatians 2:20—I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.
+

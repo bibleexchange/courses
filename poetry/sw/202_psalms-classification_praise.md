@@ -2,7 +2,7 @@
 
 ### Utangulizi
 
-Sifa ni kitu cha ajabu na chenye nguvu sana. Mungu hukaa katika sifa za watu wake(22:3), na sifa zinaweza kuwashinda maadui wa Mungu (149:6–9). **Zaburi za sifa** ni 8, 19, 29, 33, 78, 100, 103, 104, 105, 111, 113, 114, 117, 134, 135, 136, na 145–150. Kwa kawaida zinajengwa katika mambo makuu matatu:
+Sifa ni kitu cha ajabu na chenye nguvu sana. Mungu hukaa katika sifa za watu wake (22:3), na sifa zinaweza kuwashinda maadui wa Mungu (149:6–9). **Zaburi za sifa** ni 8, 19, 29, 33, 78, 100, 103, 104, 105, 111, 113, 114, 117, 134, 135, 136, na 145–150. Kwa kawaida zinajengwa katika mambo makuu matatu:
 
 1. Wito wa kusifu au utangulizi
 2. Sababu za kusifu (kwa kawaida kwaajili ya sifa au matendo ya Mungu)
@@ -27,12 +27,10 @@ Sifa ni kitu muhimu sana kwa mwanadamu, kwasababu kama hatumuabudu Mungu, basi n
 1. Nyimbo hizo zinazoweza kutofautishwa kwa maumbo-njia muhimu: 
 	1. Nyimbo muhimu, zinatokana na Kutoka 15:21: Sababu za kusifu zinatambulishwa na neno "kwasababu" (Waebrania ki). Hizi ni Zaburi 96, 98, 100, na 136.
     2. Nyimbo shirikishi, ambazo zina mifano yake katika Isaya 40–55. 
-    3. Nyimbo za binafsi,mifano yake ipo katika Zaburi 8 na 104. 
+    3. Nyimbo za binafsi, mifano yake ipo katika Zaburi 8 na 104. 
 2. Nyimbo zile ambazo ni lazima zitofautishwe na mandhari na sio umbo:
     1. Zaburi za sifa za Muumbaji: Zaburi 8, 19A, 33, 104, na 136.
-	2. Psalms of Yahweh as king: Psalms 47, 93, 96, 97, 98, and 99. 
-    2. Zaburi za yawe kama mfalme:zaburi 47, 93, 96, 97, 98, and 99.
-	3. Harvest psalms: Psalms 65 and 145. 
+    2. Zaburi za yawe kama mfalme: Zaburi 47, 93, 96, 97, 98, na 99.
     3. Zaburi za mavuno: Zaburi 65 na 145.
     4. Zaburi za kihistoria: Zaburi 105; 106; 114; 135; 136.
     5. Zaburi za kuingia: Zaburi 24, 95, na 100.[2]

@@ -45,3 +45,4 @@ Rome was strategic, but Paul is led by the Spirit and not statistics. It is prob
 He had wanted to and even planned to go, but he had been hindered. Paul would one day go to Rome as a prisoner to stand before the Roman leaders and proclaim the Gospel of Jesus Christ. The book of Acts tells us that Paul dwelt two years in Rome. It is believed that he was under house arrest during this time of being in Rome. He was beheaded in Rome in AD 67.
 
 Paul had great desire to preach the Gospel in Rome. He uses the word "debtor" in reference to himself to show that he is committed to preach to all men (v. 14). He was a debtor to the sinner to tell him about Christ. "Greeks" is used to refer to the wise Gentiles who have been educated in Greek culture and philosophy. "Barbarians" is used to refer to those outside of the Greek culture, that would not have been educated. Paul is ready to preach to everyone.
+

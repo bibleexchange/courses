@@ -125,3 +125,4 @@ What fruit had ye? What is the value of your service? It is the wage you earn. T
 |Fruit to be ashamed of|Fruit that Glorifies God, Holiness|
 |death|Everlasting life|
 |Wages of sin is death|Gift of God is eternal life through: Jesus Christ our LORD.|
+

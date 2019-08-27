@@ -30,3 +30,4 @@ The following arguments are presented:
 4. You cannot gain Justification/Righteousness through adherence of the law. 4:13-17
 5. Abraham's faith shows us an example that we must follow.
 6. Paul reasoned that Justification/Righteousness by faith is the only way to please God.
+

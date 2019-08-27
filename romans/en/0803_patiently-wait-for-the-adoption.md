@@ -13,3 +13,4 @@ Trials prove the true character of the Christian. And although the suffering is 
 ### The creature waits for the manifestation of the sons of God (v. 19-22)
 
 God has a vast plan and Hope lies ahead for Creation. In bondage because sin is in the world, but there will be a deliverance!
+

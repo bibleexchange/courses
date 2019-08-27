@@ -35,3 +35,4 @@ What does it mean to be in Christ?
 * Those in Christ are created unto good works (Eph. 2:10)
 
 To be in Christ is to be grafted into the true vine. His life flows into us and what it is His is ours. God the Father views those in His Son as He views the only begotten–heirs of God. In Christ, we do not struggle against the flesh and sin alone, and have not received alone the remission of sin, but have received Christ Himself. The Believer is in Christ and Christ is in them (11:16-18).
+

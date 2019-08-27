@@ -62,3 +62,4 @@ Some abuse the truth of God&apos;s mercy and boast that their sinful lives and G
 
 This was an attack on Paul&apos;s preaching of justification by faith. The Jews were saying: you tell us God justifies the wicked, so why not continue to be evil so good can come out of it?
 Paul&apos;s description of those who did preach this was: whose damnation is just. Since the accusation was not true Paul did not go into a detailed answer; he only affirms that God&apos;s judgment on them is just.
+

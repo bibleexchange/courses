@@ -16,7 +16,7 @@ Je mwanadamu amezaliwa ili baadae asitishe kuwepo?
 
 #### Mizunguko ya asili (1:5–7)
 
-Asili siku zote hujirudia yenyewe.Hkuna ukweli, badiliko linalodumu.
+Asili siku zote hujirudia yenyewe. Hkuna ukweli, badiliko linalodumu.
 
 #### Udadisi wa mwanadamu (1:8)
 

@@ -2,3 +2,4 @@
 
 > A solemn adoring of the wisdom, goodness, and justice of God.  
 > —Matthew Henry
+

@@ -65,3 +65,4 @@ What we are supposed to be doing for others:
 ## The blessing of liberty (v. 22–23)
 
 It is Much more blessed to have liberty before God which we do not use on account of our brother's weaknesses, than to insist on liberty, though it is distinctly given.
+

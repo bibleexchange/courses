@@ -22,3 +22,4 @@ The Rejection is of the UNBELIEVING Jew (Acts 14:2; Rev. 21:8).
 > —Matthew Henry
 
 God's Mercy (Ps 13:5; 89:2; James 5:11).
+

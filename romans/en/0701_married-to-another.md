@@ -28,3 +28,4 @@ From this union with Christ will come our service to Christ (v. 6).
 ### The fruitfulness of this union
 
 Our union with sin produced death (7:5; 1:32; 6:21; 7:5; Gal.5:19–21), but union with Christ enables us to bring forth fruit of righteousness unto holiness (1:13; 5:3–5; 6:22; John 15:2,4,5,8,16; I Cor. 1:6; Gal. 5:22–23; Eph. 5:9; Php. 1:11; 4:17; Col. 1:6, 10; Tit. 3:14; Heb. 12:11; 13:15; James 3:18; 5:7; II Pet. 1:3–9).
+

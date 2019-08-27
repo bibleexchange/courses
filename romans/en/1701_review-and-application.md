@@ -1,4 +1,4 @@
-# Review and Application of the Book of Romans
+<!--# Review and Application of the Book of Romans
 
 ## Applications from the Book of Romans
 
@@ -8,4 +8,4 @@
 4.	Commit yourself to Him and invite Him to enter and rule your life.
 5.	Begin to live out this commitment by recognizing in thought, word, and deed that Jesus is in charge of your life.
 6.	Ask God to give you by His Holy Spirit the inner conviction and assurance that you now have a right standing with Him through His Son, Jesus Christ.
-7.	Share your experience with others, and enter into fellowship with those who also have this relationship to your Lord.
+7.	Share your experience with others, and enter into fellowship with those who also have this relationship to your Lord.-->

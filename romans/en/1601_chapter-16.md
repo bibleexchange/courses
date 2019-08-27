@@ -84,3 +84,4 @@ Paul follows with some pastoral guidance and instruction. He says "mark" them. T
 ## Closing (v. 21–27)
 
 Paul ends with a HALLELUJAH!
+

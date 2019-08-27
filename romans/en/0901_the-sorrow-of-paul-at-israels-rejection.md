@@ -30,3 +30,4 @@ Christ is a rock of stumbling to the Jew (Gal. 5:6; John 14:15; 1 Peter 2:7-8).
 ## The Righteousness of his Feeling
 
 Paul makes it clear that his intense and sincere desire is all Israel be saved (Romans 9:1-5; 11:26; 10:1). God desires that all sinners be saved (1 Timothy 2:4; 2 Peter 3:9; Ezekiel 18:23; Matthew 23:37). Paul is righteous in his desire and not contrary to mind and will of God.
+

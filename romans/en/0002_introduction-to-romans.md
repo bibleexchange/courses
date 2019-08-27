@@ -48,3 +48,4 @@ Romans was written as Paul's introduction to the Christians at Rome preceding hi
 ## PURPOSE
 
 Romans is a theological treatise of the meaning of the Gospel. Though the church is predominately Gentile, Judaism was a dominate influence early on. There were many Jews in Rome at the time of the writing of the Epistle to the Romans and even the Jewish Christians were heavily bound to the traditions and heritage of Judaism. The Jews believed because they had Moses's Law and the covenant of circumcision that they were guaranteed eternal life with God. They believed they were superior to the heathen Gentiles and that they did not need to submit to heathen rulers. Paul refutes the doctrines of the Jews which were inconsistent with Scripture.
+

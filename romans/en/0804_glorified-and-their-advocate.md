@@ -26,3 +26,4 @@ The end of the chapter deals with the Christian's hope, which is "If God be for 
 ## Conclusion
 
 The two fold secret of Christian living is described by two phrases in verse 1 and verse 10: "in Christ Jesus" and "if Christ be in you." The Christian's will is to live in Christ an life pleasing to God. The Holy Spirit dwells in us, empowering us to live such a life.
+

@@ -53,3 +53,4 @@ The law reveals the effect of sin. The effect of all sin is a spiritual death. T
 #### The law reveals the sinfulness of sin (v. 12–13)
 
 The Law is Holy, Just and good, so as the standard, the plumb-line, the commandment shows us where and what we are in the sight of God; sin is shown for what it is "exceeding sinful". Far off from the mark that God has set for us in Christ. Its purpose is to convict the sinner of sin and only through Christ find repentance. It condemns, convicts, constrains, and conducts an awakened sinner to Christ (3:19, 23; 7:8–11; 8:3; Gal.3:19–24). Sin can hide in society of men comparing one with another or else judging merely by the dictates of there own heart, but in the light of perfect holiness, sin becomes "exceedingly sinful."
+

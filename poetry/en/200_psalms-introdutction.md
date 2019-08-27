@@ -1,8 +1,48 @@
 # Psalms
 
-<!--# Introduction to the Book of Psalms
+## Introduction to the Book of Psalms
 
-> Mowinckel acknowledges both aspects when he says.
+### Authorship
+
+The book is inspired by God (2 Samuel 23:2; Matthew 22:43; Luke 24:44; Acts 1:16; 2 Timothy 3:16). Psalms is a composite work containing multiple authors. Some psalms name their author in the first line or title: 
+
+* Moses wrote 1 (90).
+* David wrote 73 (1-41 and 32 others)
+* Solomon wrote 2 to 3 (72, 127)
+* Asaph wrote 3 (50, 73-83) 
+* Sons of Korah wrote 10 (42, 44-49, 84, 85, 87) ("Sons of Korah" were possibly performers rather than authors)
+* Heman the Ezrahite wrote 1 (88) 
+* Ethan the Ezrahite wrote 1 (89)
+* 61 psalms are anonymous
+
+### Psalms of David's life
+
+* Psalm 7 — Words about Cush, a Benjaminite
+* Psalm 59 — Saul sends men to watch David’s house in order to kill him (1 Sam. 19:11)
+* Psalm 34 — David delivered from danger by feigning madness in the presence of King Achish of Gath (1 Sam. 21:10–22:2)
+* Psalm 56 — The Philistines seize David in Gath (1 Sam. 21:10–15)
+* Psalm 52 — Doeg the Edomite tells Saul that David went to the house of Ahimelech (1 Sam. 22:9–19)
+* Psalm 57 — David flees from Saul into a cave (1 Sam. 22:1 or 24:3)
+* Psalm 142 — David flees from Saul into a cave (1 Sam. 22:1 or 24:3)
+* Psalm 54 — The Ziphites tell Saul that David is hiding among them (1 Sam. 23:19)
+* Psalm 60 — David’s victory over Transjordan (2 Sam. 8:1–14)
+* Psalm 51 — Nathan confronts David about his adultery with Bathsheba	(2 Samuel 11–12)
+* Psalm 3 — David flees from and battles Absalom (2 Samuel 15–17)
+* Psalm 63 — David in the desert of Judah	(2 Samuel 15–17?; 1 Sam. 23:14–15?)
+* Psalm 18 — David delivered from enemies and from Saul (2 Samuel 22)
+* Psalm 30 — Dedication of the temple	Nothing in David’s lifetime (1 Kings 8:63)
+
+### Organization
+
+Psalms is organized into five Books. The five-fold arrangement has long been recognized, but no universally accepted explanation exists. The most common explanation is the early Jewish tradition that judged the five books to be an imitation of the five books of Moses:
+
+1. Book 1 (1-41) — Genesis — concerning man and his relationship with God. All blessing is bound up in obedience.
+2. Book 2 (42-72) — Exodus — concerning Israel as a nation. The counsels of God concerning Israel’s ruin, redeemer, and redemption.
+3. Book 3 (73-89) — Leviticus — concerning God’s sanctuary.
+4. Book 4 (90-106) — Numbers — concerning Israel in relation to the nations.
+5. Book 5 (107-150) — Deuteronomy — concerning God and His Word.
+
+<!-- Mowinckel acknowledges both aspects when he says.
 > In spite of the didactic character of the ‘learned psalmography’, it has one characteristic in common with genuine psalmography; these poems are, and must be considered as, prayers. Like every real psalm, they address God, even though they often address men as well.
 > Mandolfo, C. (2002). God in the Dock: Dialogic Tension in the Psalms of Lament (Vol. 357, p. 24). London; New York: Sheffield Academic Press.
 
@@ -24,35 +64,7 @@
 > If Thou rememberest each misdeed, If each should have its rightful meed,  
 > Who may abide Thy presence?
 
-## Authorship
 
-The book is inspired by God (2 Samuel 23:2; Matthew 22:43; Luke 24:44; Acts 1:16; 2 Timothy 3:16). Psalms is a composite work containing multiple authors. Some psalms name their author in the first line or title: 
-
-* Moses wrote 1 (90).
-* David wrote 73 (1-41 and 32 others)
-* Solomon wrote 2 to 3 (72, 127)
-* Asaph wrote 3 (50, 73-83) 
-* Sons of Korah wrote 10 (42, 44-49, 84, 85, 87) ("Sons of Korah" were possibly performers rather than authors)
-* Heman the Ezrahite wrote 1 (88) 
-* Ethan the Ezrahite wrote 1 (89)
-* 61 psalms are anonymous
-
-## Psalms of David's Life
-
-* Psalm 7 &mdash; The words of Cush, a Benjaminite (persecution by Saul?)
-* Psalm 59 &mdash; Saul sends men to watch David’s house in order to kill him (1 Sam. 19:11)
-* Psalm 34 &mdash; David delivered from danger by feigning madness in the presence of King Achish of Gath (1 Sam. 21:10–22:2)
-* Psalm 56 &mdash; The Philistines seize David in Gath (1 Sam. 21:10–15)
-* Psalm 52 &mdash; Doeg the Edomite tells Saul that David went to the house of Ahimelech (1 Sam. 22:9–19)
-* Psalm 57 &mdash; David flees from Saul into a cave (1 Sam. 22:1 or 24:3)
-* Psalm 142 &mdash; David flees from Saul into a cave (1 Sam. 22:1 or 24:3)
-* Psalm 54 &mdash; The Ziphites tell Saul that David is hiding among them (1 Sam. 23:19)
-* Psalm 60 &mdash; David’s victory over Transjordan (2 Sam. 8:1–14)
-* Psalm 51 &mdash; Nathan confronts David about his adultery with Bathsheba	(2 Samuel 11–12)
-* Psalm 3 &mdash; David flees from and battles Absalom (2 Samuel 15–17)
-* Psalm 63 &mdash; David in the desert of Judah	(2 Samuel 15–17?; 1 Sam. 23:14–15?)
-* Psalm 18 &mdash; David delivered from enemies and from Saul (2 Samuel 22)
-* Psalm 30 &mdash; Dedication of the temple	Nothing in David’s lifetime (1 Kings 8:63)
 
 ## Classification of Psalms
 
@@ -123,7 +135,7 @@ The psalms include unique Hebrew terms. The word _selah_, found seventy-one time
 
 ### Psalms is a collection of smaller collections
 
-> Psalm 72:20 &mdash; The prayers of David the son of Jesse are ended.
+> Psalm 72:20 — The prayers of David the son of Jesse are ended.
 
 Psalms were usually gathered in smaller collections occording to common themes, or words or style. From this great collection of psalms the Holy Ghost guided a subselection of 150 for Scripture. The fact the book of Psalms is collection of selections made form other collections is highlighted in Psalm 72:20. We find other psalms also written by David even after Psalm 72 (86,101,103,108). 
 
@@ -137,10 +149,10 @@ Psalms 113-118 are called the  "Hallel Psalms" or "Praise Psalms" as they start 
 
 ### Psalms Not Included in the Book of Psalms
 
-* Moses' song of Deliverance &mdash; Exodus 15:1-18
-* Deborah's song of praise &mdash; Judges 5
-* David's lament over Saul and Jonathan &mdash; 2 Samuel 1:19-27
-* Hezekiah's Praise for Deliverance &mdash; 1 Samuel 38:9-20
+* Moses' song of Deliverance — Exodus 15:1-18
+* Deborah's song of praise — Judges 5
+* David's lament over Saul and Jonathan — 2 Samuel 1:19-27
+* Hezekiah's Praise for Deliverance — 1 Samuel 38:9-20
 
 ### Psalm is Organized into 5 Books
 
@@ -156,11 +168,4 @@ Psalms 113-118 are called the  "Hallel Psalms" or "Praise Psalms" as they start 
 |content	    | personal     | devotional   | liturg./hist.| general      |prophetic/natu|
 |pentateuch	    | Genesis      | Exodus       | Leviticus    | Numbers      |Deuteronomy   |
 
-The five-fold arrangement has long been recognized, but no universally accepted explanation exists. The most common explanation is the early Jewish tradition that judged the five books to be an imitation of the five books of Moses.
-
-1. 1-41 — Genesis — concerning man and his relationship with God. All blessing is bound up in obedience. Closes with a Benediction and double Amen.
-2. 42-72 — Exodus — concerning Israel as a nation. The counsels of God concerning Israel’s ruin, redeemer, and redemption. Closes with a Benediction and double Amen.
-3. 73-89 — Leviticus — concerning God’s sanctuary. Closes with a Benediction and double Amen.
-4. 90-106 — Numbers — concerning Israel in relation to the nations. Closes with a Benediction, Amen, and Hallelujah.
-5. 107-150 — Deuteronomy — concerning God and His Word. Closes with five psalms, each beginning and ending with “Hallelujah”.-->
-
+.-->

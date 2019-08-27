@@ -76,3 +76,4 @@ The advantage of knowing the law is not that that knowledge justifies us, but is
 Question: Is it an advantage to not know God's will?
 
 Answer: No. It is a blessing to have had the opportunity to know God's will. Peter is expressing the greatness of the degree of condemnation of backslider. Both the heathen and backslider are condemned.
+

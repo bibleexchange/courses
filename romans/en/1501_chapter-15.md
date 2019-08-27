@@ -103,3 +103,4 @@ In Verse 30 we once again see the trinity:
 ### The benediction (v. 33)
 
 "The God of peace be with you all," shows how  the apostle's heart was fully at peace and fully in God's will! It also shows his overflowing love for the saints (twice in this chapter Paul **prays** for the church at Rome. See verses 13 and 33). The motive and power behind Christian unity is Christ's example of love and service and sacrifice. To have such harmony among Christians, we need to pray as Paul did for the Lord's enabling. Paul's sense of commission did not make him independent of his fellow Christians.
+

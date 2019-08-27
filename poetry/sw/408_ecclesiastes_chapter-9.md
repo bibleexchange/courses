@@ -2,7 +2,7 @@
 
 ### Kukata tama kwaajili ya kifo (mst. 1–6)
 
-Haki, na hekima na kazi zao, viko katika **Mikono ya Mungu**. Koheleti anachunguza kwamba **watu wote** hufa, haijalishi wao ni nani au wamefanya nini. "Katika muonekano wote, Mungu hafurahii.Vitu vinavyojalisha kwake vinakuwa havina tofauti-au hakina ambacho mtu anaweza kuona—katika njia ya kuelekea mwisho. Maadili au isiyo na maadili, kidini au kidunia, wote tunakunja uso chini kufanana."[1]
+Haki, na hekima na kazi zao, viko katika **Mikono ya Mungu**. Koheleti anachunguza kwamba **watu wote** hufa, haijalishi wao ni nani au wamefanya nini. "Katika muonekano wote, Mungu hafurahii. Vitu vinavyojalisha kwake vinakuwa havina tofauti-au hakina ambacho mtu anaweza kuona—katika njia ya kuelekea mwisho. Maadili au isiyo na maadili, kidini au kidunia, wote tunakunja uso chini kufanana."[1]
 
 ### Tumaini la maisha (mst. 7–10)
 

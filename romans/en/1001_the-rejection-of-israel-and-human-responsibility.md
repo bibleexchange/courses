@@ -45,3 +45,4 @@ They had a zeal of God, but were missing important truth: The Righteousness of G
 * Did the Audience Hear? YES (v. 18, Moses Foretold, Isaiah Foretold)
 
 The Hearers refused to believe. WE HAVE A RESPONSIBILITY IN GOD's PLAN OF REDEMPTION. God is using the Gentiles to provoke the Jew to Jealousy (10:19).
+

@@ -84,3 +84,4 @@ _Dissimulation_ means "concealment of one's thoughts, feelings, or character; pr
 ## Conclusion to Romans 12
 
 Being a Christian involves every area of a persons life. Mind and body are yielded to God in moral surrender as a spiritual offering. By his attitude and actions toward other Christians he is to demonstrate the fact that he is a fellow-member with them in the body of Christ. In his relationship with the sinner, he is to act in love and leave to God the avenging of evil.
+

@@ -32,7 +32,7 @@ Hawajui hata namna ya kwenda katika jiji! Mjinga hana maana ya uelekeo au lengo.
 
 #### Jinsi ujinga unavyoharibu taifa (mst. 16–20)
 
-Koheleti alielewa kuwa ardhi ilibarikiwa vitu vizuri, kiongozi mwaminifu lakini aliyelaaniwa chini ya uovu na kiongozi asiye na umahiri.Kama mhubiri 10:18 inaonyesha anguko la taifa, halafu sababu zifuatazo zinatoa sababu za anguko: viongozi wajinga, wabinafsi, na wanaojali mapenzi yao tu na mazuri yao. "Hawafanyi chochote kubadili usiku kuwa mchana, na mchana kuwa usiku; wanalala wakati wanatakiwa kuamka, na huamka wakiwa wanatakiwa kulala; wakihangaikia ufisadi na karamu, badala ya maslahi ya nchi."[3]
+Koheleti alielewa kuwa ardhi ilibarikiwa vitu vizuri, kiongozi mwaminifu lakini aliyelaaniwa chini ya uovu na kiongozi asiye na umahiri. Kama mhubiri 10:18 inaonyesha anguko la taifa, halafu sababu zifuatazo zinatoa sababu za anguko: viongozi wajinga, wabinafsi, na wanaojali mapenzi yao tu na mazuri yao. "Hawafanyi chochote kubadili usiku kuwa mchana, na mchana kuwa usiku; wanalala wakati wanatakiwa kuamka, na huamka wakiwa wanatakiwa kulala; wakihangaikia ufisadi na karamu, badala ya maslahi ya nchi."[3]
 
 ---------------------------------------------
 

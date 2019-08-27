@@ -57,7 +57,7 @@ h4::before {
   content: counter(h1) '.' counter(h2) '.' counter(h3) '.' counter(h4) '. ';
 }
 h5 {
-  font-size: .9rem;
+  font-size: 1.2rem;
   font-weight: 300;
   counter-increment: h5;
   counter-reset: h6;
@@ -124,11 +124,19 @@ image {
   margin-top: auto;
   font-size: 5rem;
   text-align: center;
+  text-transform: uppercase;
+  line-height: 1;
 }
 .subtitle {
   margin-bottom: auto;
   font-size: 2rem;
   text-align: center;
+}
+
+hr + ul {
+  font-size: .6rem;
+  list-style-type: none;
+  padding: 0;
 }
 
 @media print {
@@ -152,6 +160,6 @@ image {
   }
 }
 @page {
-  margin: 60px 40px 40px 100px;
+  margin: 60px 40px 40px 110px;
   orphans: 3;
 }

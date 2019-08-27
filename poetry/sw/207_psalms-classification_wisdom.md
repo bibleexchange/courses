@@ -33,7 +33,7 @@ Misamiati ya kawaida katika zaburi hizi zinaelezea maombolezo, shukrani, na sifa
 3. Maelekezo katika maisha ya kawaida (133 na 112)[6]
 4. Umuhimu wa hekima (90:12 na 39:4. Linganisha na mithali 4:7 na Ayubu 28:28)
 5. Dhana kwamba hekima ni mwendo (139:24 na 143:10. Linganisha na Mithali 28:26)
-6. Swali la kwanini Mungu anaruhusu watu wasio na hatia kuteseka(49:73. Linganisha kitabu cha Ayubu)
+6. Swali la kwanini Mungu anaruhusu watu wasio na hatia kuteseka (49:73. Linganisha kitabu cha Ayubu)
 7. Theolojia ya uumbaji (33:6 na 19:1–2. Linganisha na Ayubu 38:1, 4, Mithali 8:22, na Mhubiri 12:1)
 
 -------------------------------------------------

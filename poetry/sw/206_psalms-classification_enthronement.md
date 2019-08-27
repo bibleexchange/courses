@@ -23,8 +23,6 @@ Mungu ana nguvu juu ya uumbaji. Dunia inazunguka (99:1), dunia inatetemeka (97:4
 
 Hukumu zake ni haki na misingi yake ni katika dunia (96:10, 13), yenye maana kwamba ni hukumu za haki na nzuri. Anahukumu watu wote, siyo tu Waisrael (96:13). Lengo la hukumu zake ni kuleta usawa (99:4).
 
-Psalm 47:2 says that God is **terrible** (See also 45:4; 65:5; 66:3, 5; 68:35; 76:12; 99:3; 106:22). What does it mean that God is terrible? "The terror of the Lord" speaks of the reverence or fear inspired by the thought that God is judge (2 Corinthians 5:10–11). 
-
 Zaburi 47:2 inasema kwamba Mungu ni **mwenye kuogofya**. (Angalia pia 45:4; 65:5; 66:3, 5; 68:35; 76:12; 99:3; 106:22.) Ina maana gani kuwa Mungu ni wa mwenye kuogofya? "Hofu ya Bwana" inazungumzia kuhusu heshima au hofu inayosukumwa na mawazo kwamba Mungu ni mhukumu (2 Kor. 5:10–11).
 
 ### Bwana ni mfalme mkuu ajaye
