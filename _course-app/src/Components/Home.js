@@ -21,7 +21,6 @@ shouldComponentUpdate(newProps){
     return (
       <div id="home">
 
-
     <div className="hero-wrap js-fullheight" style={{"backgroundImage":"url('images/bg_1.jpg')"}} data-stellar-background-ratio="0.5">
       <div className="overlay"></div>
       <div className="container">
