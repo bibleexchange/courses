@@ -4,6 +4,8 @@ import { Switch, Route, Link } from 'react-router-dom'
 import Home from './Components/Home'
 import Course from './Components/Course'
 import Task from './Components/Task'
+import Header from './Components/Header'
+import Footer from './Components/Footer'
 
 class App extends Component {
 
@@ -11,6 +13,7 @@ class App extends Component {
 
     return (
       <div className="App">
+        <Header/>
 
 		<Switch>
 		  <Route exact path='/' render={(props => (
@@ -26,9 +29,9 @@ class App extends Component {
       ))}/>
 
 		</Switch>
-        <header className="App-header">
-         <h1 className="App-title"><Link to={"/"}>From the Bible exchange Courses Repository</Link></h1>
-        </header>
+
+    <Footer/>
+
       </div>
     );
   }
