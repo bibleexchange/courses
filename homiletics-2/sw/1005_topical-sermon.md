@@ -24,9 +24,9 @@
 
 ### Mtindo wake.
 
-#### YA USEMAJI (Umoja, ya uwiano, ya kusisitiza,ya utamu wa sauti \[Tazama maandishi mawili ya kiingereza juu ya \"kanuni za usemaji\])
+#### YA USEMAJI (Umoja, ya uwiano, ya kusisitiza,ya utamu wa sauti [Tazama maandishi mawili ya kiingereza juu ya "kanuni za usemaji])
 
-#### YENYE SIMULIZI (Furusa kwa ajili ya picha za maelezo, \"na habari\".)
+#### YENYE SIMULIZI (Furusa kwa ajili ya picha za maelezo, "na habari".)
 
 #### YA KIMATENDO (Huinua kwa matendo yenye mafanikio kufikia hitimisho lililo fafanuliwa vizuri.)
 
@@ -44,18 +44,15 @@
 
 #### YENYE KUENDELEA (Pointi zimeonyeshwa,zimefikiwa,na zimechunguzwa.)
 
-#### YENYE KURUHUSU (Kila sehemu ya \"kito cha thamani\" imeshikiliwa katika mwanga.)
+#### YENYE KURUHUSU (Kila sehemu ya "kito cha thamani" imeshikiliwa katika mwanga.)
 
 ## Kuangalia.
 
-\"Kwa uangalifu nenda juu ya kifungu angalia kile kinachoendelea juu
-yake,kwamba\"nani,nini,wapi,lini,jinsi gani,na kwanini,\"\"Hii itavuta
-kweli kutoka inje kwa asili ya maandiko na itasaidia kuepuka kiburi na
-hoja za uongo.acha neno la Mungu lijizungumzie lenyewe.\"\"
+"Kwa uangalifu nenda juu ya kifungu angalia kile kinachoendelea juu yake,kwamba"nani,nini,wapi,lini,jinsi gani,na kwanini,""Hii itavuta kweli kutoka inje kwa asili ya maandiko na itasaidia kuepuka kiburi na hoja za uongo.acha neno la Mungu lijizungumzie lenyewe.""
 
 ### Soma kifungu katika mazingira yake nyakati kadhaa.Kwa mfano,kama unajifunza kitabu cha Yohana,anza kwa kukisoma kitabu chote.
 
-### \"Hakikisha unaenda katika uhusiano wako na neno la Mungu katika kiwango chenye maana.Kama unaanza kwa haraka mno,kufikiri unajua kifungu cha maneno tayari,hutapata utambuzi na undani kwasababu ya haraka yako itakufanya mbaya usiefaa.\"
+### "Hakikisha unaenda katika uhusiano wako na neno la Mungu katika kiwango chenye maana.Kama unaanza kwa haraka mno,kufikiri unajua kifungu cha maneno tayari,hutapata utambuzi na undani kwasababu ya haraka yako itakufanya mbaya usiefaa."
 
 ### Kamwe usiache kiburi chako kungandisha maono yako na kukuweka katika giza au kutoka kugundua yote unayoweza.
 
@@ -71,11 +68,11 @@ hoja za uongo.acha neno la Mungu lijizungumzie lenyewe.\"\"
 
 #### Hakikisha unaandika mistari baadaye kwa kila wazo.
 
-### \"Sura na mistari ilio ongezwa na mchapishaji na sio sehemu ya kifungu cha asili wala kuvuviwa.Kwahiyo usijilazimishe nayo.utaikuta hiyo mara kadhaa ikiondoa mawazo ya ufunguo katika wazo la katikati ambalo bado ni\"ni uzi,\"ambao bado unaendelea.\"
+### "Sura na mistari ilio ongezwa na mchapishaji na sio sehemu ya kifungu cha asili wala kuvuviwa.Kwahiyo usijilazimishe nayo.utaikuta hiyo mara kadhaa ikiondoa mawazo ya ufunguo katika wazo la katikati ambalo bado ni"ni uzi,"ambao bado unaendelea."
 
 ## Kisha orodhesha mawzo yote mbalimbali/pointi katika utaratibu.
 
-### Hii ndio pale unapo tumia \"Fasihi.\"Hii inachukua kile kina cho semwa na kupata kile kifungu kinamaanisha,jinsi ya kufasiri kwa simlizi katika mazingira sahihi.
+### Hii ndio pale unapo tumia "Fasihi."Hii inachukua kile kina cho semwa na kupata kile kifungu kinamaanisha,jinsi ya kufasiri kwa simlizi katika mazingira sahihi.
 
 ### Hapa ndio pale habari saidizi na habari zinazoendelea.Hii inaitwa mada-- yako ndogo;hizi kwa kawaida huorodheshwa chini ya wazo/mada na kila kipande cha habari vilivyo orodheshwa kwa kutenganishwa.
 
@@ -85,14 +82,11 @@ hoja za uongo.acha neno la Mungu lijizungumzie lenyewe.\"\"
 
 ### Kila maandishi ya mada ndogo mawazo makuu kutoka kifungu cha maneno/aya.
 
-Wakati habari saidizi imeorodheshwa chini ya mada ndogo, kuna utaratibu
-ambao hufuata habari inayotakiwa, hasa hasa katika nyaraka.
+Wakati habari saidizi imeorodheshwa chini ya mada ndogo, kuna utaratibu ambao hufuata habari inayotakiwa, hasa hasa katika nyaraka.
 
-Katika vifungu simlizi,utapata pia habari za matukio zenye maantiki.kwa
-vyovyote ,simlizi za kiebrania hufanya wakati mwingine kurukia
-pointi.Nibora kunasa kwenye kifungu na katika kufungua,mhitasari,au
-hitimisho,kuvuta usikivu kwa mazingira ya ujumla.\"
+Katika vifungu simlizi,utapata pia habari za matukio zenye maantiki.kwa vyovyote ,simlizi za kiebrania hufanya wakati mwingine kurukia pointi.Nibora kunasa kwenye kifungu na katika kufungua,mhitasari,au hitimisho,kuvuta usikivu kwa mazingira ya ujumla."
 
 ### Kuna mawazo mawili ya kawaida ya habari ambayo inapaswa kuorodheshwa.kama kuna kipande kimoja tu cha habari kusaidia mada ndogo ,kwa desturi ambayo habari imehitimishiwa katika mada ndogo.
 
-### \"Usijihusishe na mfumo wako ambao unahitaji kazi yako ya kanuni,ambayo ni kuwakilisha kifungu katika utaratibu unaotakiwa na njia ya utaratibu.Uwe mkweli kwa neno la Bwana na kusudi la mwandishi wa ki Mungu ni kuu.\"
+### "Usijihusishe na mfumo wako ambao unahitaji kazi yako ya kanuni,ambayo ni kuwakilisha kifungu katika utaratibu unaotakiwa na njia ya utaratibu.Uwe mkweli kwa neno la Bwana na kusudi la mwandishi wa ki Mungu ni kuu."
+

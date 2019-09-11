@@ -6,21 +6,17 @@
 
 # TEXT: Deuteronomy 10:12--13
 
-> \"And now, Israel, what doth the LORD thy God require of thee, but to
-> fear the LORD thy God, to walk in all his ways, and to love him, and
-> to serve the LORD thy God with all thy heart and with all thy soul. 13
-> To keep the commandments of the LORD, and his statutes, which I
-> command thee this day for thy good?\"
+> "And now, Israel, what doth the LORD thy God require of thee, but to fear the LORD thy God, to walk in all his ways, and to love him, and to serve the LORD thy God with all thy heart and with all thy soul. 13 To keep the commandments of the LORD, and his statutes, which I command thee this day for thy good?"
 
-## \"Fear the LORD thy God\"
+## "Fear the LORD thy God"
 
-## \"Walk in all His ways\"
+## "Walk in all His ways"
 
-## \"Love Him\"
+## "Love Him"
 
-## \"Serve the LORD thy God with all thy heart and with all thy soul\"
+## "Serve the LORD thy God with all thy heart and with all thy soul"
 
-## \"Keep the commandments of the LORD and his statues\"
+## "Keep the commandments of the LORD and his statues"
 
 ## Variations of the Textual Sermon
 
@@ -38,8 +34,7 @@
 
 # TEXT: I Thess. 4:4
 
-> That every one of you should know how to possess his vessel in
-> sanctification and honour;
+> That every one of you should know how to possess his vessel in sanctification and honour;
 
 ## You need to know how to possess yourself.
 
@@ -59,9 +54,7 @@
 
 # TEXT: Philippians 2:12
 
-> Wherefore, my beloved, as ye have always obeyed, not as in my presence
-> only, but now much more in my absence, work out your own salvation
-> with fear and trembling.
+> Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling.
 
 ## Salvation is a pressing necessity to every man.
 
@@ -71,10 +64,7 @@
 
 ## Dividing a text into its parts: Outlining
 
-\"The Bible is divided into books,chapters, paragraphs, verses. But
-further dissection is necessary for clear understanding and presentation
-of a text. We must divide the text into \"sizeable\" pieces. (e., bite
-size). \"
+"The Bible is divided into books,chapters, paragraphs, verses. But further dissection is necessary for clear understanding and presentation of a text. We must divide the text into "sizeable" pieces. (e., bite size). "
 
 ### Divide the Text into its parts.
 
@@ -84,16 +74,7 @@ size). \"
 
 ### EXAMPLE 1: (Divide the text into its parts):
 
-> Luke 9:1---5 Then he called his twelve disciples together, and gave
-> them power and authority overall devils, and to cure diseases. 2 And
-> he sent them to preach the kingdom of God, and to heal the sick. 3 And
-> he said unto them, Take nothing for your journey, neither staves, nor
-> scrip, neither bread, neither money; neither havetwo coats apiece. 4
-> And whatsoever house ye enter into, there abide, and thencedepart. 5
-> And whosoever will not receive you, when ye go out of that city,shake
-> off the very dust from your feet for a testimony against them.
-
-# 
+> Luke 9:1---5 Then he called his twelve disciples together, and gave them power and authority overall devils, and to cure diseases. 2 And he sent them to preach the kingdom of God, and to heal the sick. 3 And he said unto them, Take nothing for your journey, neither staves, nor scrip, neither bread, neither money; neither havetwo coats apiece. 4 And whatsoever house ye enter into, there abide, and thencedepart. 5 And whosoever will not receive you, when ye go out of that city,shake off the very dust from your feet for a testimony against them.
 
 ## Then he called his twelve disciples together
 
@@ -113,7 +94,7 @@ size). \"
 
 ### EXAMPLE 2: Simplified (relate the parts of the text andsimply the parts of the text):
 
-# TITLE: \"The Evangelist\'s Commission\"
+# TITLE: "The Evangelist's Commission"
 
 # TEXT: Luke 9:1--5
 

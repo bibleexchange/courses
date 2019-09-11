@@ -4,18 +4,15 @@ Ch. 4: Proper Use of the Text (Hermeneutics)
 
 ## Meaning of Hermeneutics
 
-Webster\'s dictionary defines hermeneutics as: noun. The art of finding
-the meaning of an author\'s words, and of explaining it to others.
+Webster's dictionary defines hermeneutics as: noun. The art of finding the meaning of an author's words, and of explaining it to others.
 
-Biblical Hermeneutics is the study of Biblical interpretation. Biblical
-hermeneutics is simply the processof correctly interpreting the
-Scriptures.
+Biblical Hermeneutics is the study of Biblical interpretation. Biblical hermeneutics is simply the processof correctly interpreting the Scriptures.
 
 ## Hermeneutics deals with issues such as:
 
-### What is the \'formal\' interpretation of this text?
+### What is the 'formal' interpretation of this text?
 
-### What is the \'official\' interpretation of this text?
+### What is the 'official' interpretation of this text?
 
 ### What did the author intend to say?
 
@@ -23,44 +20,20 @@ Scriptures.
 
 ### Is the use of a particular word, grammatical construction, verb tense, et, significant in this instance?
 
-### Who were the author\'s readers or listeners, culturally, et?
+### Who were the author's readers or listeners, culturally, et?
 
-### How was the text interpreted by the author\'s contemporaries?
+### How was the text interpreted by the author's contemporaries?
 
 ## Value of Hermeneutics
 
-It is not only foolish, butdangerous to misinterpret the Bibl It is
-espaically detrimental to abuseScripture intentionally. There are
-objective principles of interpretation thatguide us in understanding and
-teach Scriptur These principles serve asboundary lines that keep our
-exaplanation and presention of biblical thought\"within bounds.\"
+It is not only foolish, butdangerous to misinterpret the Bibl It is espaically detrimental to abuseScripture intentionally. There are objective principles of interpretation thatguide us in understanding and teach Scriptur These principles serve asboundary lines that keep our exaplanation and presention of biblical thought"within bounds."
 
-ILLUSTRATION:\"The Book of Abraham\" is included in The Pearl of Great
-Price, a small volume of material designated as part of the
-official\"scripture\" of the LDS Church. It is accepted by Mormons that
-it wastranslated from an Egyptian papyrus by a miraculous, divine \"gift
-oftranslation\" by Joseph Smith (founder of Mormonism) during the
-period1835--184During, Smith\'s lifetime Egyptian hieroglyphics were not
-understoodby any language experts and therefore Smith felt free in his
-interpretation ofthe papyrus. Years after Smith and after the discovery
-of the Rosetta stonewhich unlocked the meaning of ancient Egyptian
-hieroglyphics, expertsdiscovered Smith\'s so called \"Book of Abraham
-written by Abaraham\'s own hand onpapyrus\" was merely a common Egyptian
-funerary document. Joseph Smith used noscience or rules of
-interpretation; he completely fabricated the document\'smeanin It is a
-crime to abuse Scripture this way. We cannot tamper with God\'sperfect
-word; this would only mar what the Lord has done through these
-HolyScriptures. Revelation 22:18, 1
+ILLUSTRATION:"The Book of Abraham" is included in The Pearl of Great Price, a small volume of material designated as part of the official"scripture" of the LDS Church. It is accepted by Mormons that it wastranslated from an Egyptian papyrus by a miraculous, divine "gift of translation" by Joseph Smith (founder of Mormonism) during the
+period 1835--184 During, Smith's lifetime Egyptian hieroglyphics were not understoodby any language experts and therefore Smith felt free in his interpretation ofthe papyrus. Years after Smith and after the discovery of the Rosetta stonewhich unlocked the meaning of ancient Egyptian hieroglyphics, expertsdiscovered Smith's so called "Book of Abraham written by Abaraham's own hand onpapyrus" was merely a common Egyptian funerary document. Joseph Smith used noscience or rules of interpretation; he completely fabricated the document's meaning. It is a crime to abuse Scripture this way. We cannot tamper with God's perfect word; this would only mar what the Lord has done through these Holy Scriptures. Revelation 22:18, 1
 
-In Homiletics I we refer to themisuse of Scripture as an accommodated
-text and some preachers wronglyattempt to make the Scripture accommodate
-their own philosophies. The Bible isnot to be subjected to what we want
-it to mean, but our study of Scriptureshould always be to discover
-God\'s messag To do this we must use objectiveprinciples of
-interpretation good hermeneutics and allow Scripture to speak foritsel
+In Homiletics I we refer to the issue of Scripture as an accommodated text and some preachers wronglyattempt to make the Scripture accommodate their own philosophies. The Bible isnot to be subjected to what we want it to mean, but our study of Scripture should always be to discover God's messag To do this we must use objectiveprinciples of interpretation good hermeneutics and allow Scripture to speak foritsel
 
-2 Peter 1:16--21--20 Knowing this first, that no prophecy of the
-scripture is of any private interpretation.
+2 Peter 1:16--21--20 Knowing this first, that no prophecy of the scripture is of any private interpretation.
 
 ## Source of Hermeneutics
 
@@ -77,3 +50,4 @@ scripture is of any private interpretation.
 ### The rules are based on logic, experience, and common sense, not religious beliefs.
 
 ### This is not a formal set of rules adopted by some Society or Association. It is an informal list of the various principles generally use
+

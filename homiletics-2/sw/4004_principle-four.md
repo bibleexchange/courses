@@ -10,13 +10,9 @@
 
 Maana inategemeana na aina.Mifano ya aina za kibiblia:
 
-Aina ya mwandishi(Fikiria habari kama:Nani waliokuwa shabaha ya
-mwandishi?)
+Aina ya mwandishi(Fikiria habari kama:Nani waliokuwa shabaha ya mwandishi?)
 
 Paulo, Petro, Yohana aliependwa, Musa, Marko
 
-Utafakari wa vifungu vingi vya kibiblia ni wa muhimu sana kumaanisha
-katika Nyaraka,Injili,mambo ya kiyama,ya kinabii,mambo ya
-kimafumbo,mambo ya kishairi,Mambo ya kihisitoria hayawezi kufanywa
-katika kiwango kinacho tambulika kwasababu kila kitu kimetawaliwa na
-kusudi tofauti
+Utafakari wa vifungu vingi vya kibiblia ni wa muhimu sana kumaanisha katika Nyaraka,Injili,mambo ya kiyama,ya kinabii,mambo ya kimafumbo,mambo ya kishairi,Mambo ya kihisitoria hayawezi kufanywa katika kiwango kinacho tambulika kwasababu kila kitu kimetawaliwa na kusudi tofauti
+

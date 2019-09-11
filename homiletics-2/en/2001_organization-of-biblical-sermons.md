@@ -1,8 +1,8 @@
 ## Organization of Biblical Sermons
 
-### Peter\'s Sermon on the Day of Pentecost, Acts 2:14--41
+### Peter's Sermon on the Day of Pentecost, Acts 2:14--41
 
-Note that Peter\'s sermon had a textual foundation.
+Note that Peter's sermon had a textual foundation.
 
 # TEXT: Vs. 17--21 (Quotation from Joel) Joel 2:28--32
 
@@ -10,9 +10,9 @@ Note that Peter\'s sermon had a textual foundation.
 
 ## INTRODUCTION:
 
-\"Vs. 14---16 He called the attention of the people .\"
+"Vs. 14---16 He called the attention of the people ."
 
-## JESUS FULFILLED GOD\'S PLAN (Vs.22--24)
+## JESUS FULFILLED GOD'S PLAN (Vs.22--24)
 
 ### Jesus was approved of God
 
@@ -20,21 +20,21 @@ Note that Peter\'s sermon had a textual foundation.
 
 #### The work of God
 
-### The crucifixion was according to God\'s plan.
+### The crucifixion was according to God's plan.
 
 ### The resurrection was fulfilled according to prophecy.
 
 ### According to the foreknowledge of God
 
-## JESUS FULFILLED DAVID\'S PROPHECY (Vs. 25--31)
+## JESUS FULFILLED DAVID'S PROPHECY (Vs. 25--31)
 
-### \"David was a prophet of God. \"
+### "David was a prophet of God. "
 
-### Christ to sit on David\'s throne.
+### Christ to sit on David's throne.
 
 ### Resurrection of Christ was foretold by David.
 
-## \"JESUS FULFILLED THE PLAN OF GOD AS THE EXALTED CHRIST(Vs. 32--36) \"
+## "JESUS FULFILLED THE PLAN OF GOD AS THE EXALTED CHRIST(Vs. 32--36) "
 
 ### This Jesus hath God raised up.
 
@@ -42,15 +42,15 @@ Note that Peter\'s sermon had a textual foundation.
 
 ### Jesus is Lord and Christ.
 
-## \"CONCLUSION: vs. 37--40 \"
+## "CONCLUSION: vs. 37--40 "
 
-### \"Results pricked in their heart (conviction) \"
+### "Results pricked in their heart (conviction) "
 
 ### Application call to repent and be baptized
 
 ### Many responded--- 3000 souls saved
 
-### Jesus\' Preaching
+### Jesus' Preaching
 
 #### In the Gospel According to MATTHEW
 
@@ -132,10 +132,11 @@ Note that Peter\'s sermon had a textual foundation.
 
 ##### Upper Room Discourse --- (13:1--17:26; Matthew 26:26--35)
 
-### Paul\'s Sermons
+### Paul's Sermons
 
 #### He Preached Christ that He is the Son of God (Acts 9:20)
 
 #### At Antioch (Acts 13:16--43)
 
 #### Before Felix (Acts 24:10--21)
+

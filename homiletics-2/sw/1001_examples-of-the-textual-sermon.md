@@ -2,25 +2,21 @@
 
 ## Mfano Moja
 
-# \"KICHWA CHA HABARI:Mungu anataka nini \"
+# "KICHWA CHA HABARI:Mungu anataka nini "
 
 # KIFUNGU:Kumb 10:12--13
 
-> \"na sasa, Israel,nini ambacho Bwana Mungu wako ana hitaji kwako, bali
-> umche Bwana Mungu wako,kutembea katika njia zake zote,na
-> umpende,kumtumikia Bwana Mungu wako kwa moyo wako wote na kwa nafsi
-> yako yote.13 kushika amri za Bwana,na maagizo yake,ambayo ninakuamru
-> leo hii kwa ajili ya wema wako?\"
+> "na sasa, Israel,nini ambacho Bwana Mungu wako ana hitaji kwako, bali umche Bwana Mungu wako,kutembea katika njia zake zote,na umpende,kumtumikia Bwana Mungu wako kwa moyo wako wote na kwa nafsi yako yote.13 kushika amri za Bwana,na maagizo yake,ambayo ninakuamru leo hii kwa ajili ya wema wako?"
 
-## \"Mche Bwana Mungu wako\"
+## "Mche Bwana Mungu wako"
 
-## \"Tembea katika njia zake zote\"
+## "Tembea katika njia zake zote"
 
-## \"Mpende \"
+## "Mpende "
 
-## \"Mtumikie BWANA MUNGU wako kwa moyo wako wote na kwa nafsi yako yote\"
+## "Mtumikie BWANA MUNGU wako kwa moyo wako wote na kwa nafsi yako yote"
 
-## \"Shika amri zake na sheria zake\"
+## "Shika amri zake na sheria zake"
 
 ## Tofauti za hotuba ya kifungu
 
@@ -59,9 +55,7 @@
 
 # KIFUNGU: Wafilp 2:12
 
-> Basi,wapendwa wangu,kama vile mlivyo tii sikuzote,si wakati mimi
-> nilipokuwapo tu,bali sasa zaidi sana mimi nisipokuwapo,utimizeni
-> wokovu wenu wenyewe kwa kuogopa na kutetemeka.
+> Basi,wapendwa wangu,kama vile mlivyo tii sikuzote,si wakati mimi nilipokuwapo tu,bali sasa zaidi sana mimi nisipokuwapo,utimizeni wokovu wenu wenyewe kwa kuogopa na kutetemeka.
 
 ## Wokovu unaelezea ulazima kwa kila mtu.
 
@@ -71,10 +65,7 @@
 
 ## Kukigawanya kifungu katika sehemu zake:kutoa dondoo
 
-\"Biblia imegawanyika katika vitabu,milango,paragirafu,misitari.Lakini
-kutenganisha zaidi ni lazima kwa ajili ya ufahamu wa wazi na
-uwakilishaji wa kifungu. Tunapaswa kugawanya kifungu katika \"usawa na
-\"vipande usawa wa (e., kutafuna).\"
+"Biblia imegawanyika katika vitabu,milango,paragirafu,misitari.Lakini kutenganisha zaidi ni lazima kwa ajili ya ufahamu wa wazi na uwakilishaji wa kifungu. Tunapaswa kugawanya kifungu katika "usawa na "vipande usawa wa (e., kutafuna)."
 
 ### Gawanya kifungu katika sehemu zake.
 
@@ -84,15 +75,7 @@ uwakilishaji wa kifungu. Tunapaswa kugawanya kifungu katika \"usawa na
 
 ### MFANO 1: (Gawanya kifungu katika seshemu zake):
 
-> Luka 9:1---5 Kisha aliwaita wanafunzi wake pamoja,na kuwapa uwezo na
-> mamlaka juu ya pepo wabaya na kuponya magonjwa.2 na aliwatuma kuhubiri
-> ufalme wa Mungu,nakuponya wagonjwa.3 naye aliwaambia,msichukue
-> chochote safarini,wala fimbo,wala mkoba wala mkate,wala fedha;wala
-> makoti mawili.4na nyumba yoyote mtakayoingia,kaeni humo,mpaka mtoke
-> mjini.5 na yeyote asipowapokea,mnapo toka katika ule mji,kung\"uteni
-> mavumbi ya miguu yenu kwa ajili ya ushuhuda wao.
-
-# 
+> Luka 9:1---5 Kisha aliwaita wanafunzi wake pamoja,na kuwapa uwezo na mamlaka juu ya pepo wabaya na kuponya magonjwa.2 na aliwatuma kuhubiri ufalme wa Mungu,nakuponya wagonjwa.3 naye aliwaambia,msichukue chochote safarini,wala fimbo,wala mkoba wala mkate,wala fedha;wala makoti mawili.4na nyumba yoyote mtakayoingia,kaeni humo,mpaka mtoke mjini.5 na yeyote asipowapokea,mnapo toka katika ule mji,kung"uteni mavumbi ya miguu yenu kwa ajili ya ushuhuda wao.
 
 ## Kisha aliwaita wanafuzi wake pamoja
 
@@ -108,11 +91,11 @@ uwakilishaji wa kifungu. Tunapaswa kugawanya kifungu katika \"usawa na
 
 ## nyumba yoyote mtakayoingia, kaeni humo
 
-## kung\"uteni mavumbi toka miguuni mwenu kwa ajili ya ushuhuda wao
+## kung"uteni mavumbi toka miguuni mwenu kwa ajili ya ushuhuda wao
 
 ### MFANO 2: Uliofanywa (husianisha sehemu za vifungu na zifanye sehemu za kifungu):
 
-# LENGO:\"Agizo la kiuinjilisti\"
+# LENGO:"Agizo la kiuinjilisti"
 
 # KIFUNGU: Luka 9:1--5
 
@@ -136,4 +119,5 @@ uwakilishaji wa kifungu. Tunapaswa kugawanya kifungu katika \"usawa na
 
 ### nyumba yoyote mtakayo ingia, kaeni humo
 
-### kung\"teni mavumbi toka miguuni mwenu kwa ajili ya ushuhuda wao
+### kung"teni mavumbi toka miguuni mwenu kwa ajili ya ushuhuda wao
+

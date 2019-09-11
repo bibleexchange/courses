@@ -1,15 +1,15 @@
-#### Second Year
+Second Year
 
-#### TEXTBOOK
+TEXTBOOK
 
 # Homiletics 2
 
 ## Sermon Preparation & Preaching
 
-### DELIVERANCE BIBLE INSTITUTE of MOSHI
+DELIVERANCE BIBLE INSTITUTE of MOSHI
 
-#### Moshi, Kilimanjaro, Tanzania
+Moshi, Kilimanjaro, Tanzania
 
-### DELIVERANCE BIBLE INSTITUTE
+DELIVERANCE BIBLE INSTITUTE
 
-#### Portland, Maine, USA
+Portland, Maine, USA

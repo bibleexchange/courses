@@ -28,13 +28,13 @@ Mstr. 14--16 Yeye aliita usikivu wa watu.
 
 ## YESU ALITIZA UNABII WA DAUDI (Mst. 25--31)
 
-### \"Daudi alikua nabii wa Mungu. \"
+### "Daudi alikua nabii wa Mungu. "
 
 ### Kristo kukaa kwenye kiti cha enzi cha Daudi.
 
 ### Ufufuo wa kristo ulitabiriwa na Daudi.
 
-## \"KRISTO ALITIMIZA MPANGO WA MUNGU KAMA KRISTO MTUKUKA (Ms. 32--36) \"
+## "KRISTO ALITIMIZA MPANGO WA MUNGU KAMA KRISTO MTUKUKA (Ms. 32--36) "
 
 ### Huyu Yesu Mungu alimfufua.
 
@@ -42,9 +42,9 @@ Mstr. 14--16 Yeye aliita usikivu wa watu.
 
 ### Yesu ni Bwana na kristo.
 
-## \"HITIMISHO: Mstr. 37--40 \"
+## "HITIMISHO: Mstr. 37--40 "
 
-### \"Matokeo ya lichoma ndani ya mioyo yao (thibitisho la hatia ya kosa) \"
+### "Matokeo ya lichoma ndani ya mioyo yao (thibitisho la hatia ya kosa) "
 
 ### Haja yakuita kutubu na kubatizwa
 
@@ -139,3 +139,4 @@ Mstr. 14--16 Yeye aliita usikivu wa watu.
 #### Huko Antiokia (Mdo 13:16--43)
 
 #### Mbele ya Feliki (Mdo 24:10--21)
+

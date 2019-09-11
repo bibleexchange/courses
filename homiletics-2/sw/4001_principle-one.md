@@ -7,3 +7,4 @@
 ## Lazima siku zote tumia kanuni sahihi za kufasiri ili kufahamu kipekee ukweli.
 
 ## Biblia imebeba aina mbali mbali za simlizi kama vile mifano,mashairi,mithali,istiari,maombi,amri za wafalme,na nyaraka.Tusinge fasiri mashairi kama tafasiri Kwa mfano Nebkadreza alifanya amri ya kumkata vipande yeyote atakaye sema kinyume cha Mungu wa kweli Mhubiri anaweza kuwa amefanya vibaya kama atafuata ufasiri wa simlizi za siku za leo wa aina hii
+

@@ -6,16 +6,11 @@
 
 ## Endapo kifungu hakita kuwa wazi juu ya ukweli,hakuna hitimisho litakalo patikana kutokana nacho mpaka vifungu vyote vinavyo husiana vimejifunzwa
 
-> II Petr 1:20 Kujua hili kwanza,kwamba hakuna unabii wa andiko ni wa
-> ufasiri usio wazi.
+> II Petr 1:20 Kujua hili kwanza,kwamba hakuna unabii wa andiko ni wa ufasiri usio wazi.
 
-> I Wakr 2:13 Nayo twayanena, si kwa maneno yanayofundishwa .kwa hekima
-> ya kibinadamu bali yanayofundishwa na Roho mtakatifu,tukiyafasiri
-> mambo ya rohoni kwa maneno ya rohoni.
+> I Wakr 2:13 Nayo twayanena, si kwa maneno yanayofundishwa .kwa hekima ya kibinadamu bali yanayofundishwa na Roho mtakatifu,tukiyafasiri mambo ya rohoni kwa maneno ya rohoni.
 
-Maelezo ya mafundisho ya kiBiblia hayapaswi kufanywa kimsingi kwenye
-kifungu pekee bali maelezo ya mafundisho lazima yapitie kile maandiko
-yote yanasema juu ya mada.
+Maelezo ya mafundisho ya kiBiblia hayapaswi kufanywa kimsingi kwenye kifungu pekee bali maelezo ya mafundisho lazima yapitie kile maandiko yote yanasema juu ya mada.
 
 ## Kulinganisha andiko na andiko ni njia nzuri ya kupata ufahamu wa Biblia.
 
@@ -29,16 +24,9 @@ yote yanasema juu ya mada.
 
 ### Neno la Mungu liko katika umoja mkamilifu katika uhusiano wake yenyewe.Mistari katika kitabu kimoja cha Biblia itaelezea kweli zilizo patikana katika mistari mingine ya Biblia.
 
-### \"Andiko moja litasaidia kumwaga nuru kwenye andiko lingine na kwahiyo litakusaidia kufahamu maana sahihi ya Biblia Kwa mfano Daniel sura ya 7 inayo maono ya wanyama wanne.Msitari 17 wa sura hii unatuambia kwamba hawa wanyama ni wafalme wa nne ambao watainuka Duniani. Msitari wa mwisho hutoa ufasiri wa mistari ya mwanzo. Na mlinganisho zaidi wa Ufunuo 13:2 unatuonyesha wanyama watatu wakwanza wanaungana na mnyama moja. Daniel 7:7,19 anafafanua kwamba yule mnyama wa nne niwakutisha na niwatofauti na wengine.Mnyama wa nne kwa Daniel na mnyama wa Ufunuo 13 anawakilisha ufalme moja wa Dunia wa mpinga kristo.Wenye nguvu wote wa Dunia wanaungana kwenye wakati wa mwisho kuwa serikali moja ya Dunia. Utamalizia vifungu hivi katika darasa la unabii. Njia pekee ya kupata ufahamu wote wa vifungu hivi ni kuvilinganisha vyenyewe kwa vyenyewe.Kifungu kimoja husaidia kufafanua kingine andiko sio jambo lakuficha ufafanuzi.\"
+### "Andiko moja litasaidia kumwaga nuru kwenye andiko lingine na kwahiyo litakusaidia kufahamu maana sahihi ya Biblia Kwa mfano Daniel sura ya 7 inayo maono ya wanyama wanne.Msitari 17 wa sura hii unatuambia kwamba hawa wanyama ni wafalme wa nne ambao watainuka Duniani. Msitari wa mwisho hutoa ufasiri wa mistari ya mwanzo. Na mlinganisho zaidi wa Ufunuo 13:2 unatuonyesha wanyama watatu wakwanza wanaungana na mnyama moja. Daniel 7:7,19 anafafanua kwamba yule mnyama wa nne niwakutisha na niwatofauti na wengine.Mnyama wa nne kwa Daniel na mnyama wa Ufunuo 13 anawakilisha ufalme moja wa Dunia wa mpinga kristo.Wenye nguvu wote wa Dunia wanaungana kwenye wakati wa mwisho kuwa serikali moja ya Dunia. Utamalizia vifungu hivi katika darasa la unabii. Njia pekee ya kupata ufahamu wote wa vifungu hivi ni kuvilinganisha vyenyewe kwa vyenyewe.Kifungu kimoja husaidia kufafanua kingine andiko sio jambo lakuficha ufafanuzi."
 
-> I Wakr 2:13 Nayo twayanena ,si katika maneno yalifundishwa katika
-> hekima ya kibinadamu,bali ni yale yaliyo fundishwa na Roho
-> mtakatifu;tukiyafasiri mambo ya kiroho kwa mambo ya rohoni.
+> I Wakr 2:13 Nayo twayanena ,si katika maneno yalifundishwa katika hekima ya kibinadamu,bali ni yale yaliyo fundishwa na Roho mtakatifu;tukiyafasiri mambo ya kiroho kwa mambo ya rohoni.
 
-\"Njia moja ya kujifunza Biblia ni kulinganisha andiko kwa andiko.Biblia
-inatuagiza kulinganisha vitu vya kiroho kwa mambo ya rohoni.Kwa
-kulinganisha andiko kwa andiko Biblia itaeleweka vema.Neno la Mungu
-litakaa pamoja kama sehemu za fumbo au mkanganyiko.Andiko moja
-litafasiri andiko lingine.Biblia yenyewe iko katika umoja kamili.Hakuna
-mapingamano katika Biblia.Kile Mungu alicho andika katika Mwanzo
-kitakubaliana na kile Mungu alicho andika katika Ufunuo,\"
+"Njia moja ya kujifunza Biblia ni kulinganisha andiko kwa andiko.Biblia inatuagiza kulinganisha vitu vya kiroho kwa mambo ya rohoni.Kwa kulinganisha andiko kwa andiko Biblia itaeleweka vema.Neno la Mungu litakaa pamoja kama sehemu za fumbo au mkanganyiko.Andiko moja litafasiri andiko lingine.Biblia yenyewe iko katika umoja kamili.Hakuna mapingamano katika Biblia.Kile Mungu alicho andika katika Mwanzo kitakubaliana na kile Mungu alicho andika katika Ufunuo,"
+

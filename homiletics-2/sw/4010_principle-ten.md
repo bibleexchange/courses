@@ -4,15 +4,15 @@
 
 ### Kutafuta maana ya maneno katika kamusi inaweza kumsaidia mhubiri kupata ufahamu bora wa maandiko.
 
-### \" KJV ni tafasiri safi ya Biblia.Maneno ya kiingereza yaliyo chaguliwa ni mwonyesho barabara wa lugha za asili.moja ya kifaa bora cha kujua maana ya maneno ni dikishenari.Toleo la zamani la Webster ni chaguo nzuri limekuwa likishikilia ukweli kwenye maana za kiingereza za KJV.\"
+### " KJV ni tafasiri safi ya Biblia.Maneno ya kiingereza yaliyo chaguliwa ni mwonyesho barabara wa lugha za asili.moja ya kifaa bora cha kujua maana ya maneno ni dikishenari.Toleo la zamani la Webster ni chaguo nzuri limekuwa likishikilia ukweli kwenye maana za kiingereza za KJV."
 
 ## ni ya thamani kupata wapi maandiko yaliko.
 
 ### Concordances kama vile Strong hutoa neno la lugha ya asili katika kiebrania au kiyunani.
 
-### \"Neno la uangalifu: baadhi za fafanuzi za Strong zina pinga filosofia yake mwenyewe na maoni.Sikuzote fikiria maana ya neno pamoja na mukitadha wa andiko.Sehemu nyingi za fafanuzi za concordence hutoa orodha za maana zinazo wezekana na matumizi ya neno.baadhi ya wahubiri wata chukua uchaguzi ambao bora kuyatia pasipo kujali mukitadha.Hii sio vizibuo vizuri.Tumia vifaa vya rejea kama chanzo,lakini sio kama mamlaka ya mwisho.\"\"
+### "Neno la uangalifu: baadhi za fafanuzi za Strong zina pinga filosofia yake mwenyewe na maoni.Sikuzote fikiria maana ya neno pamoja na mukitadha wa andiko.Sehemu nyingi za fafanuzi za concordence hutoa orodha za maana zinazo wezekana na matumizi ya neno.baadhi ya wahubiri wata chukua uchaguzi ambao bora kuyatia pasipo kujali mukitadha.Hii sio vizibuo vizuri.Tumia vifaa vya rejea kama chanzo,lakini sio kama mamlaka ya mwisho.""
 
-### \" concordance ni kifaa kizuri kuonyesha mahali pa maandiko juu ya somo hilohilo.Hii ita kusadia kuwa na ufahamu bora wa somo linalo jifunzwa Kumbuka Biblia ni upatano mkamilifu yenyewe kwa yenyewe.Matumizi ya maandiko mengine yata kusaidia kupata taswira ya kiBiblia juu ya kifungu au somo unalo jifunza.\"
+### " concordance ni kifaa kizuri kuonyesha mahali pa maandiko juu ya somo hilohilo.Hii ita kusadia kuwa na ufahamu bora wa somo linalo jifunzwa Kumbuka Biblia ni upatano mkamilifu yenyewe kwa yenyewe.Matumizi ya maandiko mengine yata kusaidia kupata taswira ya kiBiblia juu ya kifungu au somo unalo jifunza."
 
 ## Maoni ya weza pia kufaa kukusaidia kufahamu maana ya vifungu vya Biblia.
 
@@ -31,3 +31,4 @@
 ### Hii mipangilio ya computer inaweka kuwepo na vifaa vingi vya rejea kwenye ubonyezaji wa kitovu.
 
 ### Unaweza pia kuleta vifaa na maandiko kwenye maandishi yako kwa haraka.
+

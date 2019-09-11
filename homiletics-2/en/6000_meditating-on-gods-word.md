@@ -1,14 +1,14 @@
 # Addendum
 
-MEDITATING ON GOD\'S WORD
+MEDITATING ON GOD'S WORD
 
-WHAT DOES IT MEAN TO MEDITATE ON GOD\'S WORD?
+WHAT DOES IT MEAN TO MEDITATE ON GOD'S WORD?
 
-HEBREW: 07742. suwachto muse pensively:---meditate & 0189\"hagah\" to
+HEBREW: 07742. suwachto muse pensively:---meditate & 0189"hagah" to
 murmur (inpleasure or anger); by implication, to ponder:---imagine,
 meditate, mourn,mutter, roar, X sore, speak, study, talk, utter.
 
-GREEK: 3191. \"meletao\" totake care of, (by implication) revolve in the
+GREEK: 3191. "meletao" totake care of, (by implication) revolve in the
 mind:------imagine,(pre--)meditate.
 
 DICTIONARY: to keep the mind fixed upon in a state of contemplation; to

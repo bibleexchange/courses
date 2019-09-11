@@ -7,3 +7,4 @@
 ## Must always use the right principles of interpretation in order to properly understand the truth.
 
 ## The Bible contains various types of literatur Such as parables, poetry, proverbs, allegories, prayers, decrees of Kings, and letters. We would not interpret apoem as we would a decre For example Nebuchadnezzar made a decree to cut inpieces anyone who spoke against the true Go A preacher could be grosslywrong if he followed a literal interpretation today of this decre
+
