@@ -11,7 +11,7 @@ In the Bible, we find the pattern for Christian preaching. Following is a list o
 7.  Christ must be preached. Acts 17:3; I Cor. 1:23; 2 Cor. 4:5; Phil. 1:15,16
 8.  We must preach the Word. Romans 10:8; 2 Tim. 4:2
 9.  They that preach the Gospel should live of the Gospel. I Cor. 9:14
-10. The preacher\'s duty and burden is to preach. I Cor. 9:16; Eph. 3:8
+10. The preacher's duty and burden is to preach. I Cor. 9:16; Eph. 3:8
 11. The Gospel is to be free. I Cor. 9:18
 12. The preacher preaches and leaves the results and glory to God. I Cor. 15:11
 13. The preacher must preach TRUTH. Gal. 1:8,9
