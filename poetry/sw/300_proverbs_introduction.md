@@ -131,8 +131,6 @@ Mstari wa pili unapinga wa kwanza kama katika:
 
 Misemo mingi katika sura wa 10–15 ni kama hii.
 
-##### Synthetic parallelism (sometimes called step parallelism)
-
 ##### Usawa katika hatua (wakati mwingine tunauita usawa wa hatua)
 
 Mstari wa pili unafanyika mwendelezo wa mawazo ya mstari wa kwanza.

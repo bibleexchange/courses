@@ -28,7 +28,7 @@ Hakimu mkuu haachi udhuru kwa ajili binadamu na Paulo ametumia neno lililoandikw
 	
 Myahudi alitamka kwamba alikuwa na Maandiko; sasa Mungu anatumia Neno lile lile kufungua dhambi zao. Mungu anawafanya kuwajibika kwa Neno Lake.
 
-### Ingawa wamataifa hawakuwa na neno lilioandikwa; lakini bado wanakanuni ileile ikiwa pamoja na nenpo lililoandikwa katika mioyo yao 
+### Ingawa wamataifa hawakuwa na neno lilioandikwa; lakini bado wanakanuni ileile ikiwa pamoja na neno lililoandikwa katika mioyo yao 
 
 ## Ulinzi wa mshitakiwa (mst. 19)
 

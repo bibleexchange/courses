@@ -82,7 +82,7 @@ As boldly as Paul is speaking, he is careful not to speak but of that which Chri
 
 ## We are to labor in reaching those who are within (v. 22–33)
 
-### It is not for lack of love, but for a great cause i have been hindered (v. 22–24)
+### It is not for lack of love, but for a great cause I have been hindered (v. 22–24)
 
 The phrase "these many times" shows how continually Roman Christians were on his mind and his desire. The phrase "a longing to come" shows that he had a tremendous desire to visit these people.
 

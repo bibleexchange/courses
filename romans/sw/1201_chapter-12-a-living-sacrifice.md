@@ -4,7 +4,7 @@
 
 Warumi sura ya 12-16 kamilisha mwisho wa sehemu ya kitabu hiki. Hii sehemu ni ya vitendo zaidi katika maelezo yake. Tunaona Haki ya Mungu inatumika katika maisha ya kila siku ya Muumini.
 
-Warumi sura ya kumi na mbili inahusiana na majukumu ya wakristo, ambapo mwishowe inapelekea maisha ya kushindwa. Kanisa linafananishwa na mwili wa binadamu. Lazima kuwepo na umoja kwenye mwili, kama hakuna umoja, mwili hautafanya kazi vizuri. Sura hii inahusiana na majukumu mbali mbali ya kanisa. Hii sura inahitimisha na roho ya mkristo. Hatupaswi kushinda kwa mabaya bali kushinda kwa mema.
+Warumi sura ya kumi na mbili inahusiana na majukumu ya Wakristo, ambapo mwishowe inapelekea maisha ya kushindwa. Kanisa linafananishwa na mwili wa binadamu. Lazima kuwepo na umoja kwenye mwili, kama hakuna umoja, mwili hautafanya kazi vizuri. Sura hii inahusiana na majukumu mbali mbali ya kanisa. Hii sura inahitimisha na roho ya mkristo. Hatupaswi kushinda kwa mabaya bali kushinda kwa mema.
 
 ## Dhabihu ilio hai (mst. 1-2)
 

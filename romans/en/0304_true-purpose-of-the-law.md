@@ -16,8 +16,6 @@ The law is accusatory by nature against all mankind.The true purpose of the law 
 
 ### How important is the knowledge of sin?
 
-
-
 ## The righteousness of God is manifested to men. &mdash; Vs. 21-23
 
 ### To manifest is to show forth or to declare.

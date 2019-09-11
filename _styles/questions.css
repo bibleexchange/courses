@@ -46,4 +46,8 @@ ol li {
 }
 .answers-hidden li strong {
 	font-weight: normal;
+	color: transparent;
+	border-bottom: 1px solid black;
+	padding-left: 3rem;
+	min-width: 4em;
 }
