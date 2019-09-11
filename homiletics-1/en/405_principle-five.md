@@ -1,12 +1,6 @@
-# PRINCIPLE FIVE: CONTEXT IS THE GREATEST KEY TO INTERPRETATION.
+## Principle five: context is the greatest key to interpretation
 
-## This fifth principle is pretty much "all encompassing" Context takes in all the individual parts of the whole.
-
-### The context of Scripture involves the placement of a verse within its particular chapter and book, (Each verse of Scripture is profoundly important, but its importance can onlybe understood by considering its role in the paragraph, chapter, book, or even the Bible as a whole)
-
-### The context of Scripture involves the historical details influential at the time a passage was written,and the (Paul wrote Ephesians, Philippians, Colossians, and Philemon from prison! Also, Paul was born in Tarsus the capital of Cilicia and home to one of only three great universities of the ancient world Athens andAlexandria are the other two. Paul was trained in Jerusalem under Gamaliel the great teacher of Jewish Law. Paul received the best education possible in hisday. He was no uneducated idiot.)
-
-### The context of Scripture involves the personalities and characteristics of the authors. (We would judge a record written by an eye witness different from a record written by someone with second--hand information.)
+This fifth principle is pretty much "all encompassing." Context takes in all the individual parts of the whole. The context of Scripture involves the placement of a verse within its particular chapter and book. Each verse of Scripture is profoundly important, but its importance can onlybe understood by considering its role in the paragraph, chapter, book, or even the Bible as a whole.
 
 ## We cannot properly study a small portion of anything without carefully considering the whole and the sum of its parts. Imagine how incomplete your understandingof airplanes would be if you were not educated in the natural laws. The flight of an airplane would forever be a mystery until you studied the airplane in the"context" of its natural environment wind, gravity, air pressure, et
 

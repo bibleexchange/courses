@@ -1,53 +1,26 @@
-Ch. 4: Proper Use of the Text (Hermeneutics)
+# Proper use of the text (Hermeneutics)
 
-# INTRODUCTION
+## Introduction
 
-## Meaning of Hermeneutics
+### Meaning of hermeneutics
 
-Webster's dictionary defines hermeneutics as: noun. The art of finding the meaning of an author's words, and of explaining it to others.
+Webster's dictionary defines hermeneutics as "The art of finding the meaning of an author's words, and of explaining it to others." Biblical hermeneutics is the study of biblical interpretation. Biblical hermeneutics is simply the process of correctly interpreting the Scriptures. Hermeneutics deals with issues such as:
 
-Biblical Hermeneutics is the study of Biblical interpretation. Biblical hermeneutics is simply the processof correctly interpreting the Scriptures.
+* What is the _formal_ interpretation of this text?
+* What is the _official_ interpretation of this text?
+* What did the author intend to say?
+* What message did the author intend to convey?
+* Is the use of a particular word, grammatical construction, verb tense, etc., significant in this instance?
+* Who were the author's readers or listeners, culturally, etc.?
+* How was the text interpreted by the author's contemporaries?
 
-## Hermeneutics deals with issues such as:
+### Value of Hermeneutics
 
-### What is the 'formal' interpretation of this text?
+It is not only foolish, but dangerous to misinterpret the Bible. It is especially detrimental to abuse Scripture intentionally. There are objective principles of interpretation that guide us in understanding and teach Scripture. These principles serve as boundary lines that keep our explanation and presentation of biblical thought "within bounds."
 
-### What is the 'official' interpretation of this text?
+In Homiletics I we refer to the issue of Scripture as an accommodated text and some preachers wrongly attempt to make the Scripture accommodate their own philosophies. The Bible is not to be subjected to what we want it to mean, but our study of Scripture should always be to discover God's message. To do this we must use objective principles of interpretation good hermeneutics and allow Scripture to speak for itself (2 Pet. 1:16–21).
 
-### What did the author intend to say?
+The ministry of the preacher is to feed the people with the truth of God’s Word (Jer. 3:15). The preacher needs to be able to help people to understand the Bible. The preacher must first understand the Word for himself before he can preach to others. Nehemiah read from the book of the law, and then he explained the meaning to the people so they could understand God’s Word for themselves. This is what preaching is all about: proclaiming the Word of God in such a way that people can understand and receive the Word and then be encouraged to act on the Word. The goal of this class is to help the student learn how to study the Word. There is no set way of study; every preacher will develop their own style of studying the Scriptures. The preacher should develop a habit of reading the Bible every day. The preacher must know the Word before he can preach the Word.
 
-### What message did the author intend to convey?
-
-### Is the use of a particular word, grammatical construction, verb tense, et, significant in this instance?
-
-### Who were the author's readers or listeners, culturally, et?
-
-### How was the text interpreted by the author's contemporaries?
-
-## Value of Hermeneutics
-
-It is not only foolish, butdangerous to misinterpret the Bibl It is espaically detrimental to abuseScripture intentionally. There are objective principles of interpretation thatguide us in understanding and teach Scriptur These principles serve asboundary lines that keep our exaplanation and presention of biblical thought"within bounds."
-
-ILLUSTRATION:"The Book of Abraham" is included in The Pearl of Great Price, a small volume of material designated as part of the official"scripture" of the LDS Church. It is accepted by Mormons that it wastranslated from an Egyptian papyrus by a miraculous, divine "gift of translation" by Joseph Smith (founder of Mormonism) during the
-period 1835--184 During, Smith's lifetime Egyptian hieroglyphics were not understoodby any language experts and therefore Smith felt free in his interpretation ofthe papyrus. Years after Smith and after the discovery of the Rosetta stonewhich unlocked the meaning of ancient Egyptian hieroglyphics, expertsdiscovered Smith's so called "Book of Abraham written by Abaraham's own hand onpapyrus" was merely a common Egyptian funerary document. Joseph Smith used noscience or rules of interpretation; he completely fabricated the document's meaning. It is a crime to abuse Scripture this way. We cannot tamper with God's perfect word; this would only mar what the Lord has done through these Holy Scriptures. Revelation 22:18, 1
-
-In Homiletics I we refer to the issue of Scripture as an accommodated text and some preachers wronglyattempt to make the Scripture accommodate their own philosophies. The Bible isnot to be subjected to what we want it to mean, but our study of Scripture should always be to discover God's messag To do this we must use objectiveprinciples of interpretation good hermeneutics and allow Scripture to speak foritsel
-
-2 Peter 1:16--21--20 Knowing this first, that no prophecy of the scripture is of any private interpretation.
-
-## Source of Hermeneutics
-
-### In interpreting the Bible a number of Principles of Textual Interpretation apply.
-
-### Most of these principles were not developed by biblical scholars.
-
-### Most of these principles were not developed specifically for Bible study or interpretation.
-
-### Most of these same principles are used by courts, historians, literary scholars, editors, news reporters and academics.
-
-### The same principles are used when examining texts that have nothing to do with religion, ethics, morality, etc.
-
-### The rules are based on logic, experience, and common sense, not religious beliefs.
-
-### This is not a formal set of rules adopted by some Society or Association. It is an informal list of the various principles generally use
+The Bible is God’s message to man, and God knew what He meant when He gave man His Word. The Holy Spirit will help man understand the Word (John 14:26; 16:7–13; I Cor. 2:13). Man will not receive the full understanding of the Word all at once. As the preacher prays, studies, and learns more of the Word, God will help him to understand more. The preacher should at least have an understanding of the passage he intends to preach.
 

@@ -1,12 +1,8 @@
-# KANUNI YA TANO:MAZINGIRA NI UFUNGUO MKUU KWA UFASIRI.
+## Kanuni ya tano: mazingira ni ufunguo mkuu kwa ufasiri
 
-## Kanuni hii ya tano hufikiriwa sana"majumuisho yote"Mazingira huchukua katika yote sehemu moja moja ya kitu kizima.
+### Je, mstari wapi katika Bibilia?
 
-### Mazingira ya maandiko huhusisha uwekaji wa msitari pamoja katika sura yake maalum na kitabu, (Kila msitari wa maandiko ni wamuhimu kwa kina, lakini umuhimu wake unaweza tu kufahamika kwa kufiria madaraka yake katika aya,sura,kitabu,au hata Biblia nzima)
-
-### Mazingira ya maandiko huhusisha habari za kihistoria kwakushawishi kwenye wakati wa kifungu kilipokua kinaandikwa,na (Paulo aliwandikia waefeso,Wafilipi,Wakolosai,na filimoni kutoka gerezani!Vilevile, Paulo alizaliwa Tariso mji mkuu wa kilikia na aliishi kwenye moja ya vyoo vikuu vitatu vya mababu wa ulimwengu wa waathene na Alexandrea ni wapili.Paulo alifundishwa katika Yerusalemu chini ya Gamaliel mwalimu mkuu wa sheria za kiyahudi.Paulo alipokea elimu bora iliowezakana katika siku zake. Yeye hakuwa mpumbavu asiye na elimu.)
-
-### Mazingira ya maandiko huhusisha nafsi na tabia za wandishi. (Tunge hukumu habari ilioandikwa najicho la shahidi tofauti kutoka habari ilioandikwa na mtu fulani pamoja na habari za mkono wa pili.)
+Kanuni hii ya tano hufikiriwa sana "majumuisho yote." Mazingira huchukua katika yote sehemu moja moja ya kitu kizima. Mazingira ya maandiko huhusisha uwekaji wa msitari pamoja katika sura yake maalum na kitabu. Kila msitari wa maandiko ni wamuhimu kwa kina, lakini umuhimu wake unaweza tu kufahamika kwa kufiria madaraka yake katika aya, sura, kitabu, au hata Biblia nzima.
 
 ## Hatuwezi kujifunza kipekee sehemu ndogo ya kitu chochote bila fikira za uangalifu maana yote ya sehemu zake.fikiria jinsi ufahamu wako usiokamilika kuhusu vyombo vya usafiri angani ingekuwaje kama huja elimishwa katika sheria za asili.masafa ya mruko wa ndege yeyote ingekuwa siri ya milele mpaka utakapokuwa umejifunza ndege katika "muktadha"wa asili ya upepo wa mazingira yake,mvutano,msukumo wa hewa,nakadhalika
 

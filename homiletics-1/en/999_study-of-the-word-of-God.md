@@ -1,17 +1,5 @@
 # The Study of the Word of God
 
-> Jeremiah 3:15&mdash;And I will give you pastors according to mine heart, which shall feed you with knowledge and understanding.
-
-The ministry of the preacher is to feed the people with the truth of God’s Word. The preacher needs to be able to help people to understand the Bible. The preacher must first understand the Word for himself before he can preach to others. Nehemiah read from the book of the law, and then he explained the meaning to the people so they could understand God’s Word for themselves. This is what preaching is all about: proclaiming the Word of God in such a way that people can understand and receive the Word and then be encouraged to act on the Word. The goal of this class is to help the student learn how to study the Word. There is no set way of study; every preacher will develop their own style of studying the Scriptures. The preacher should develop a habit of reading the Bible every day. The preacher must know the Word before he can preach the Word.
-
-## The preacher should understand the meaning of the passage
-
-> II Peter 1:20&mdash;…no prophecy of the scripture is of any private interpretation.
-
-### There is only one correct meaning of a Bible passage
-
-The Bible is God’s message to man, and God knew what He meant when He gave man His Word. The Holy Spirit will help man understand the Word (John 16:13). Man will not receive the full understanding of the Word all at once. As the preacher prays, studies, and learns more of the Word, God will help him to understand more. The preacher should at least have an understanding of the passage he intends to preach.
-
 ### A key to correct Biblical interpretation is to understand a passage within context
 
 Context is how a word or sentence fits in relation to the whole sentence or passage. The best way to understand the meaning of a word is to see how that word is used in the sentence.

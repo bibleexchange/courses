@@ -1,24 +1,12 @@
 # Kusoma Neno la Mungu
 
-> Yeremia 3:15&mdash;Nami nitawapa ninyi wachungaji wanipendezao moyo wangu, watakaowalisha kwa maarifa na fahamu.
-
-Kazi ya mhubiri ni kuwalisha watu ukweli wa Neno la Mungu. Mhubiri anapaswa kuwafanya watu waweze kuielewa vema Biblia. Ni lazima mhubiri alielewe Neno yeye mwenyewe ndiyo aweze kuwahubiria watu wengine. Nehemia alisoma katika kitabu cha sheria, halafu akawaeleza watu maana yake ili waweze kuelewa Neno la Mungu kwa ajili matumizi yao wenyewe. Hii ndiyo maana ya mahubiri: kutangaza Neno la Mungu kwa njia ambayo watu watalipokea, watalielewa, watashawishika na kulifanyia kazi. Lengo la darasa hili ni kuwasaidia wanafunzi waweze kufahamu namna bora ya kujifunza Neno la Mungu. Hakuna njia maalumu iliyopangwa ya kujifunza; kila mhubiri ataweka utaratibu wake wa kujifunza Maandiko Matakatifu. Mhubiri anapaswa kujenga tabia ya kusoma Biblia kila siku. Mhubiri anapaswa kulijua Neno kabla ya kwenda kulihubiri. 
-
-## Mhubiri anapaswa kuelewa maana ya andiko za Biblia
- 
-> II Petro 1:20&mdash;&hellip;hakuna unabii katika maandiko upatao kufasiriwa kama apendavyo mtu fulani tu.
-
-### Kuna maana moja tu kwa andiko zilizopo katika Biblia
-
-Biblia ni ujumbe wa Mungu kwa mwanadamu, na Mungu anafahamu kwamba alikuwa na maana gani alipompatia mwanadamu Neno lake. Roho Mtakatifu atamwezesha mwanadamu kulielewa Neno (Yohana 16:13). Mwanadamu hatapata uelewa mara moja wa Neno la Mungu. Mhubiri anaposali, na kujifunza Neno la Mungu, Mungu atamsaidia aweze kulielewa zaidi. Mhubiri ni sharti awe na uelewa angalao wa andiko anayokusudia kuihubiri. 
-
 ### Siri ya kutafsiri kwa usahihi Biblia ni kuelewa vizuri andiko kama ilivyoandikwa
 
 Andiko kama ilivyoandikwa ni jinsi neno au sentensi ilivyowekwa kuhusiana na sentensi nzima au andiko yote. Njia bora ya kufahamu maana ya neno ni kuona jinsi neno hilo lilivyotumiwa katika sentensi.
 
 ### Kamusi inaweza kumsaidia mhubiri kujipatia uelewa mzuri zaidi wa Neno la Mungu
  
-Vipo vitabu vya rejea vinavyopatikana kama kitabu cha _Strong kiitwacho Ufanuzi Kamili wa Biblia_ (Exhaustive Concordance) na kitabu cha _Vine kiitwacho Kamusi Bayana_ (Expository Dictionary) vitatusaidia kuelewa kwa lugha asilia ya Kiyunani au Kigriki kama ilivyo katika Maandiko. Vitabu hivi vinazo maana za maneno katika lugha za asilia. Matumizi ya kamusi za lugha za kawaida kama Webster kunaweza kutusaidia kuelewa maana ya maneno yaliyopo katika Injili. Kwa mfano neno &quot;mtumishi&quot; katika Warumi 1:1 ni doulos katika lugha ya asili ya Kigiriki na maana yake ni &quot;mtumishi kwa mapenzi yake&quot; au &quot;mtu aliyejichagua mwenyewe kuwa mtumishi.&quot; Paulo anasema kwamba yeye ni mtumishi wa kujichagulia mwenyewe na kwa kupenda siyo kwa kusukumwa kwa uzito wa dhambi zake. Kuangalia maana ya neno &quot;mtumishi&quot; kutasaidia kuelewa maana sahihi kwa maelezo yaliyopo. 
+Vipo vitabu vya rejea vinavyopatikana kama kitabu cha _Strong kiitwacho Ufanuzi Kamili wa Biblia_ (Exhaustive Concordance) na kitabu cha _Vine kiitwacho Kamusi Bayana_ (Expository Dictionary) vitatusaidia kuelewa kwa lugha asilia ya Kiyunani au Kigriki kama ilivyo katika Maandiko. Vitabu hivi vinazo maana za maneno katika lugha za asilia. Matumizi ya kamusi za lugha za kawaida kama Webster kunaweza kutusaidia kuelewa maana ya maneno yaliyopo katika Injili. Kwa mfano neno "mtumishi" katika Warumi 1:1 ni doulos katika lugha ya asili ya Kigiriki na maana yake ni "mtumishi kwa mapenzi yake" au "mtu aliyejichagua mwenyewe kuwa mtumishi." Paulo anasema kwamba yeye ni mtumishi wa kujichagulia mwenyewe na kwa kupenda siyo kwa kusukumwa kwa uzito wa dhambi zake. Kuangalia maana ya neno "mtumishi" kutasaidia kuelewa maana sahihi kwa maelezo yaliyopo. 
  
 ## Mhubiri anapaswa kulinganisha andiko kwa andiko
 
@@ -32,7 +20,7 @@ Itifaki ni kitabu cha orodha ya maneno katika Biblia na huonesha ni wapi yalipo 
 
 ### Linganisha jinsi Neno moja linavyotumika kwa Maandiko tofauti tofauti
 
-Njia nzuri ya kuelewa maana ya Neno ni kuona jinsi Neno hilo linavyotumiwa katika andiko tofauti za Injili. Kwa mfano, angalia jinsi &quot;Neno&quot; linavyotumika katika Yohana 1:1 na 1:14 na utaelewa kwamba &quot;Neno&quot; ni kumhusu Yesu.
+Njia nzuri ya kuelewa maana ya Neno ni kuona jinsi Neno hilo linavyotumiwa katika andiko tofauti za Injili. Kwa mfano, angalia jinsi "Neno" linavyotumika katika Yohana 1:1 na 1:14 na utaelewa kwamba "Neno" ni kumhusu Yesu.
 	
 ### Andiko litajieleza lenyewe kama aya za Biblia zinavyolinganishwa
 
@@ -42,7 +30,7 @@ Neno la Mungu linao umoja kulihusu Neno lenyewe. Aya za kitabu kimoja cha Biblia
 
 > Waefeso 1:22-23&mdash;Akavitia vitu vyote chini ya miguu yake, akamweka awe kichwa juu ya vitu vyote kwa ajili ya kanisa; ambalo ndilo mwili wake, ukamilifu wake, anayekamilika kwa vyote katika vyote. 
 
-Waefeso wanaeleza kwamba kanisa ni mwili wa Kristo; na kwa kulinganisha aya hizi na I Wakorinto 12 tunaelewa kwamba &quot;mwili&quot; ni kuhusu &quot;kanisa&quot; katika aya zote mbili. 
+Waefeso wanaeleza kwamba kanisa ni mwili wa Kristo; na kwa kulinganisha aya hizi na I Wakorinto 12 tunaelewa kwamba "mwili" ni kuhusu "kanisa" katika aya zote mbili. 
 
 ## Mhubiri anapaswa kuandika kwa kifupi kitu alichojifunza
 
