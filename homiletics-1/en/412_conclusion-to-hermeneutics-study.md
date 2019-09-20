@@ -1,24 +1,31 @@
-# CONCLUSION TO HERMENEUTICS:
+## CONCLUSION TO HERMENEUTICS
 
-SOME FINAL CONSIDERATIONS OF CORRECT INTERPRETATION
+The preacher should make notes on what he has studied.
 
-## Consider the historical setting of a passage to insure correct interpretation.
+### Write down the meaning of new or unfamiliar words
 
-For example Daniel 5 opens with a feast of revelry and drinking. The city of Babylon had been undersiege by the Medo-Persians for two years prior to the opening feast of this chapter. This tells us something of the pride and arrogance of the Babylonians who thought they were indestructible. The only way to know about such historical considerations is to study research materials such as commentaries. A word of caution not all books are historically accurate. Special caution should be used for example when reading any material produced by the Roman Catholic church since they often alter the accounts to their advantage.
+Everyone will develop their own way of learning new words. Some Bible words have a different meaning in the original language than what the meaning is of those words today. One method is to keep a notebook of new words and Bible definitions; this will help you to be able to memorize these definitions. The more the preacher understands of the Word; the more that God can use in the pulpit.
 
-## Consider archeological factors to help you understand the meaning of a passage.
+### Keep the notes simple, direct and to the point
 
-Again in Daniel 5, the walls of the city of Babylon were so thick that chariot races were held on top of the walls. The people thought there fortress was impenetrable. Archeology is in full support of the Bible. This is why study and education are so important to be able to understand these archeological facts in order to better understand the setting of the Biblical accounts.
+You don’t need to write a book to take good notes. Organize your notes into topics or subjects. Make a list of key Scripture verses that relate to your subject. If you use notes in the pulpit they should not contain all the material you have studied. Sermon notes should be very concise and organized. In this class you will learn how to prepare a simple outline of the sermon to use in the pulpit.
 
-## Consider geographical factors that would contribute to the understanding of the passage.
+### Write down a thought or sermon topic as soon as you can
 
-We will stay in Daniel 5 to show you how all these considerations are taken together to glean the full meaning of the passage. The Euphrates River ran into the city of Babylon. They had a freshwater supply and grew their own food; this added to their feeling of unconcern of the siege for they thought they could hold out forever. The entrance of the River was protected buy two large iron gates. This information is helpful to understand the prophecy of Isaiah regarding Babylon. (Isaiah 45:1) History tells us that on the night of the feast the guards got drunk and left the iron gates open. The prophecy of Isaiah was fulfilled when Cyrus the Persian and Darius the Median took the kingdom of Babylon that night of the feast.
+If you don’t write down something when you receive it you may not be able to remember it later. God may show you something in prayer or while you are reading the Word; these truths should be written down and kept so they can be studied and used later.
 
-## Consider cultural practices of the time setting of the passage.
+### It can be helpful to separate a Scripture into its main thoughts
 
-Paul admonished the woman to keep silent in the church. I Cor. 14:3 A cultural practice of the day was forthe woman to sit on one side and the men on the other. The unlearned women were disrupting the service by asking questions across the aisle. A continuation of the context of the verse tells the woman to ask their husbands at home. Or, to put it simply, Paul was telling the wives to wait until they got home to ask their husbands a question and not to disrupt the service. Paul is in no way saying that woman have no place and should not be allowed to testify and participate in the church service.
+A good way to study a Scripture is to break it down into the main phrases of the text. You can then study each main thought of the text separately. The goal of the preacher is to share one portion of truth at a time. Separating the Scripture into parts will help you to preach one part of the Scripture and then go on to the next part and build the sermon on the whole Scripture one piece at a time. For example John 3:16 can be separated into its main thoughts:
 
-## Consider the entire Bible when interpreting the meaning of a passage.
+| Scripture Part                      | Topic to Study                                |
+| ----------------------------------- | --------------------------------------------- |
+| For God so loved the world          | the **great love** of God—Loves ALL           |
+| that he gave his only begotten Son, | the **great cost** of our salvation—the cross |
+| that whosoever believeth in him     | the **great requirement**—faith               |
+| should not perish                   | the **great escape**—no condemnation          |
+| but have everlasting life.          | the **great reward**—heaven                   |
 
-God is not going to contradict Himself. What is written in one part of Scripture will always be in agreement with what is written in another part of Scriptur Correct hermeneutics will consider the whole of Scripture to glean the true meaning of the Word of God.
+Looking at this verse part by part and studying it will help you to better understand the verse. This will also help you to preach this verse in workable pieces, one portion at a time. You will learn how to share truth in sections and build one step at a time.
+
 

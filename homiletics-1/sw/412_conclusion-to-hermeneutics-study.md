@@ -1,26 +1,30 @@
 # HITIMISHO KWENYE VIZIBUO:
 
-BAADHI YA FIKIRA ZA UFASIRI SAHIHI
+## Mhubiri anapaswa kuandika kwa kifupi kitu alichojifunza
 
-## Fikiria mpangilio wa kihistoria wa kifungu kwa kukata bima ya ufasiri sahihi.
+### Andika maana ya maneno mapya au yasiozoeleka 
 
-Kwa mfano Daniel 5 inafungua pamoja na sikukuu ya kusherehekea na kunywa.Mji wa babeli ulikuwa chini ya kuzingirwa na Wamedi na wajemi kwa kipindi cha miaka miwili hadi sherehe ya kufungua ya sura hii.Hii inatuambia kitu fulani cha kiburi na upuzi wa Wababeli ambao walijidhania kuwa hawata haribika.Njia pekee ya kujua kuhusu fikira za kihistoria ni kujifunza na kutafuta vifaa kama vile vitabu vya maoni.Neno la tahadhari si vitabu vyote ni sahihi kihistoria.Tahadhari maalum ingetumika kwa mfano unapo soma kitabu chochote kilichotolewa na Kanisa la Romani katholiki wamekuwa mara zote madhabahu ni sehemu yakuhesabia faida yao.
+Kila mmoja atajenga utaratibu wake mwenyewe wa kujifunza maneno mapya. Baadhi ya maneno ya Biblia yanayo maana tofauti katika lugha ya asili zaidi ya maana yake ya leo. Njia mojawapo ni kuwa na daftari ndogo ya maneno mapya na ufafanuzi wa maneno ya Biblia; hii itakusaidia kukumbuka maelezo yake. Jinsi muhubiri anavyoelewa zaidi kuhusu Neno la Mungu ndivyo Mungu anavyoweza kumtumia awpo katika mimbari. 
 
-## Fikiri kweli za kikiolojia kukusaidia kufahamu maana ya kifungu.
+### Andiko unazojiandikia katika daftari ziwe katika lugha rahisi, wazi na zenye lengo
 
-"Tena katika Daniel 5,kuta za mji wa Babeli zilikuwa nene ambayo jamii ya magari au vibandawazi vilikuwa vimeshikizwa juu ya kuta.Watu walifiri kuna ngome isiopita.Akiolojia au elimukale imejawa na kuungana na
-Biblia.Hii ndio sababu kujifunza na elimu ni vya muhimu sana kuweza kufahamu hizi kweli za kikiolojia ili kufahamu vema mpangilio wa mahesabu ya kiBiblia."
+Sio lazima uandike kitabu ili kuwa na andiko nzuri. Panga andiko zako kwa mada na masomo. Weka orodha ya aya muhimu za maandiko zinazohusiana na somo lako. Iwapo utatumia maandishi katika mimbari hayapaswi kuwa na kila kitu ulichojifunza. andiko za somo zinapaswa kuwa fupi fupi na zenye mpangilio. Katika darasa hili tutajifunza namna ya kuandaa ratiba rahisi ya somo la kutumia katika mimbari. 
 
-## Fikiria kweli za kijeografia ambazo zingechangia katika ufahamu wa kifungu.
+### Andika wazo au kichwa cha somo mapema utakavyoweza 
 
-Tuta bakia kwa Daniel 5 kukuonyensha jinsi fikira hizi zote zina chukuwa pamoja ilikupata maana yote ya kifungu Mto frati unapita katikati ya mji wa Babeli.Walikua na maji safi na walizalisha chakula chao;hii imeongeza katika hisia zao za kutokujihusisha na kuzingirwa kwa maana walifikiri hawangeweza kuondolewa milele.Muingilio wa mto ulikuwa unalidwa na milango mikubwa ya chuma.Habari hii ni msaada kwa kufahamu unabii wa
-Isaya kuhusu Babeli.(Isaya45:1)Historia hutuambia kwamba usiku wa karamu walinzi walilewa na kuacha milango wazi.Unabii wa Isaya ulikuwa umetimia wakati Koresh na Dario mumidiani alipochukua ufalme wa Babeli usiku huo wa karamu.
+Kama hutaandika kitu mara unapokipokea unaweza usikikumbuke baadaye. Mungu anaweza akakuonyesha kitu ukiwa katika maombi au unapolisoma Neno; mambo haya yanapaswa kuandikwa na kuhifadhiwa ili uweze kujifunza au kuyatumia baadaye. 
+			
+### Unaweza kupata faida kwa kuitenganisha Injili katika mawazo yake
 
-## Fikiria matendo ya kisiasa ya wakati wa kifungu.
+Njia nzuri ya kusoma Injili ni kuitenga katika mafungu yake muhimu kama ilivyoandikwa. Unaweza kuendelea kujifunza wazo kuu la kilichoandikwa peke yake. Lengo la mhubiri ni kushirikisha wengine sehemu moja ya ukweli au tukio kwa wakati mmoja. Kuigawa Injili katika vipande kutakusaidia kuhubiri sehemu moja ya Injili halafu ukaendelea na sehemu nyingine kisha ukaijenga yote kwa wakati. Kwa mfano Yohana 3:16 inaweza kutenganishwa katika mawazo yake makuu kama ifuatavyo:
 
-Paulo anaonya mwanamke kunyamaza katika kanisa.1 Wakr.14:3 tendo la kisiasa la siku hizo kwa ajili ya mwanamke kukaa upande moja na wanaume upande mwingine.Wanawake wasio elimika walikuwa wakisumbua ibada kwa kuuliza maswali toka upande baina ya njia ya viti kanisani.Muendelezo wa mukitadha wa msitari unatuambia wanawake kuuliza waume zao nyumbani.au kutoa mfano kwa wengine,Paulo alikuwa akiwambia wanawake kusubiri mpaka waende nyumbani ndipo wawaulize waume zao maswali sio kuharibu ibada.Paulo sio kwamba alizuia mwanamke kuwa na nafasi ya kushuhudia na kushiriki huduma kanisani.
+| Sehemu ya Injili                        | Mada ya Kujifunza                           |
+| --------------------------------------- | ------------------------------------------- |
+| Kwa jinsi hii Mungu aliupenda ulimwengu | upendo kubwa wa Mungu—anawapenda wote | 
+| hata akamtoa Mwanaye wa pekee           | gharama kubwa ya wokovu wetu—msalaba  |
+| ili kila amwaminiye                     | mahitaji makubwa—imani                |
+| asipotee                                | kutoroka kubwa—kutotiwa hatiani       |
+| bali awe na uzima wa milele             | zawadi kubwa—mbinguni                 |
 
-## Fikiria Biblia nzima wakati unafasiri maana ya kifungu.
-
-Mungu hajipingi mwenyewe.Kile lichoandikwa katika sehemu moja ya andiko siku zote utakuwa na makubaliano na kile kilichoandikwa katika sehemu nyingine ya andiko Vizibuo sahihi vita fikiri andiko zima kupata maana ya kweli ya neno la Mungu.
+Ukiangalia sehemu ya aya hii na ukajifunza utaielewa vizuri zaidi aya yote. Hii itakusaidia pia kuihubiri kwa kipande kimoja baada ya kingine. Utajifunza maana ya kushirikisha wengine sehemu kwa sehemu na kujenga hatua moja kwa wakati mmoja.
 

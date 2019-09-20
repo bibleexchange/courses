@@ -1,60 +1,36 @@
-# The Qualifications of the Preacher
+# The qualifications of the preacher
 
 The preacher’s scope of qualification is mental, moral and spiritual. The preacher should be spiritually qualified and anointed to preach. The preacher should be mentally qualified through study. The preacher should be morally qualified by keeping a Christian testimony. Let us look closely at some specific qualifications of the preacher.
 
 ## He must be a true Christian
 
-### To preach Christ you must know Christ
-
-Paul prayed: that I may know Him. As a preacher, you need to know Jesus as your Savior. You must know who Jesus is so that you can share who He is with others. It should be obvious that a preacher must be born-again, yet many today that call themselves preachers are not even saved.
+To preach Christ you must know Christ. Paul prayed: that I may know Him. As a preacher, you need to know Jesus as your Savior. You must know who Jesus is so that you can share who He is with others. It should be obvious that a preacher must be born-again, yet many today that call themselves preachers are not even saved. An individual must be a Believer before he can be a preacher (II Cor. 4:13).
 
 Charles Wesley, the brother of John Wesley, preached and taught for several years ever before he accepted Christ as his Savior. As a sinner, he started religious studies at Christ Church, Oxford in 1726, but he wasted most of his energy there looking for good times. He received his master’s degree making marks as a scholar in 1733 and in 1735 he was even ordained a priest in the Church of England. In 1738, Charles experienced a much needed ‘spiritual awakening.’ He was convinced of the New Testament message of salvation finally some 12 years after doing much religious study and even preaching. He was fruitless and ineffective during those 12 years, but following his conversion, Charles became an integral part of the great revival in America working beside his famous brother John Wesley. “Over the years of his ministry he wrote some 6,500 hymns to spread the New Testament message as he understood it. When he died in London on March 29, 1788, he was known as a preacher of great power and wisdom.” ("Charles Wesley". 2005. http://www.bookrags.com/biography/charles-wesley)
 
-### An individual must be a Believer before he can be a preacher.
-
-> II Corinthians 4:13&mdash;I believed, and therefore have I spoken; we also believe and therefore speak;
-
-## He must be filled with the Holy Ghost
-
-> Acts 1:8&mdash;But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth.
-
-### The preacher needs the infilling of the Holy Ghost to preach with power
-
-The preacher cannot deliver the Word with power and authority without the Spirit of God helping him to preach.
-
-### The preacher is a flicker of what he could be without the anointing of the Holy Ghost
-
-A preacher without the anointing is next to worthless. There are too many dead and dry preachers accomplishing little or nothing because they are not anointed by the Holy Ghost. Worse than “accomplishing little” are the many tares that have been sown in people’s lives by carnal preachers guided by their own interests. The preacher needs to be filled and led by the Holy Ghost.
-
 ## He must be called
 
-> Romans 10:15&mdash;And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!
+The ministry of preaching is a calling of God. The Bible tells us that a man must be sent in order to preach the Gospel (Mark 3:14; Rom. 10:15). It is God who does the sending. God called Jeremiah to be a prophet before he was even born. “Before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations” (Jeremiah 1:5). The calling of God is more than emotion or excitement. The God of heaven will place His call upon a man’s life to preach His Gospel.
 
 ### What is meant by a call of God?
 
-It is an inner conviction given by the Holy Ghost and confirmed by the Word of God and the body of Christ. The Holy Ghost will speak to your heart. Paul spoke of the Holy Ghost bearing witness with his conscience (Romans 9:1). God will burn His call upon your heart. The Word of God will strengthen this conviction. God will speak to you through His Word. Other Spirit filled Christians will bear witness of the call. The Holy Ghost spoke to the early church to Separate Paul and Barnabas for the work that God had called them to do (Acts 13:1-3). The call of God will be confirmed by the Body of Christ. James, Peter, and John recognized the call of God upon Paul’s life (Galatians 2:9).
+It is an inner conviction given by the Holy Ghost and confirmed by the Word of God and the body of Christ. The Holy Ghost will speak to your heart. Paul spoke of the Holy Ghost bearing witness with his conscience (Romans 9:1). God will burn His call upon your heart. The Word of God will strengthen this conviction. God will speak to you through His Word. Other Spirit filled Christians will bear witness of the call. The Holy Ghost spoke to the early church to Separate Paul and Barnabas for the work that God had called them to do (Acts 13:1–3). The call of God will be confirmed by the Body of Christ. James, Peter, and John recognized the call of God upon Paul’s life (Galatians 2:9).
 
-### Preaching the Gospel is a calling
+### Only God can make a preacher
 
-The Bible tells us that a man must be sent in order to preach the Gospel. It is God who does the sending. Many are trying to preach that have not been called to preach the Gospel. God called Jeremiah to be a prophet before he was even born. “Before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations” (Jeremiah 1:5). The calling of God is more than emotion or excitement. The God of heaven will place His call upon a man’s life to preach His Gospel.
+This class will not make you a preacher. This class will help you to learn how to study the Bible, prepare a sermon, and preach what you have studied. All these tools will still not make you a preacher. Effective preaching is not just presenting many facts and truths of Scripture, but is a work of the Holy Ghost through a prepared vessel.
 
 ## He must be a student of the Bible
 
-> II Timothy 2:15&mdash;Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.
+The preacher must know what he is preaching about. You must know the Word before you can preach the Word. A workman will study and learn for the occupation he intends to do. For example a mechanic will learn about cars, a carpenter will learn about working with wood, and the preacher should like the other workman study the Word which he intends to preach.
 
-### He who is called to preach the Bible is also called to study the Bible
-
-The preacher must know what he is preaching about. Paul told Timothy to preach the Word. You must know the Word before you can preach the Word. A workman will study and learn for the occupation he intends to do. For example a mechanic will learn about cars, a carpenter will learn about working with wood, and the preacher should like the other workman study the Word which he intends to preach.
-
-### The preacher should form a habit of daily study of the Bible
-
-If the preacher is feeding daily on the Word of God he will have an abundant source of the Bread of Life to feed to others. The preacher must be prepared, through a study of the text to be preached, before he enters the pulpit. He should be thoroughly familiar with the portion of Scripture that is to be preached.
+The preacher should form a habit of daily study of the Bible. If the preacher is feeding daily on the Word of God he will have an abundant source of the Bread of Life to feed to others. The preacher must be prepared, through a study of the text to be preached, before he enters the pulpit. He should be thoroughly familiar with the portion of Scripture that is to be preached.
 
 ## He must be a man of prayer
 
->I Thessalonians 5:17&mdash;Pray without ceasing.
+>I Thessalonians 5:17—Pray without ceasing.
 
-> Ephesians 6:18&mdash;Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;
+> Ephesians 6:18—Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;
 
 ### Prayer is the key to the success of the preacher
 
@@ -70,11 +46,9 @@ If the preacher is to have the power of God in his life he must be a man of pray
 
 ## He must be clean in life
 
-> II Corinthians 6:17&mdash;Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you.
-
 ### The preacher must live a separated life
 
-It is essential that the preacher live a clean life. The Old Testament Priests were sanctified for the Lord’s service. The word sanctified means to be set apart or separated for God’s service. God requires that a man of God be separated from the world. Jesus was anointed by God above others because He loved righteousness, and hated iniquity (Hebrews 1:9). The preacher’s heart must be toward the things of God, and not towards the world. The power of God comes only through a clean life.
+It is essential that the preacher live a clean life (II Cor. 6:17). The Old Testament Priests were sanctified for the Lord’s service. The word _sanctified_ means to be set apart or separated for God’s service. God requires that a man of God be separated from the world. Jesus was anointed by God above others because He loved righteousness, and hated iniquity (Hebrews 1:9). The preacher’s heart must be toward the things of God, and not towards the world. The power of God comes only through a clean life.
 
 ### The preacher must keep a good testimony
 
@@ -82,9 +56,7 @@ A preacher that does not live a Godly example will have no effect preaching to o
 
 ## He must be fit for service
 
-> Ecclesiastes 9:10&mdash;Whatsoever thy hand findeth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.
-
-God’s Word tells us to work with all of our might; this includes the preaching of the Gospel. The preacher should try to live healthy so he can have strength for the service of God.
+God’s Word tells us to work with all of our might (Ecc. 9:10), and this includes the preaching of the Gospel. The preacher should try to live healthy so he can have strength for the service of God.
 
 ### The preacher should be physically fit for service
 
@@ -94,10 +66,9 @@ It is important as a preacher, you take care of yourself. You should make the at
 
 You should not bring your burdens with you to the pulpit. The people will feel if you are discouraged and burdened down.
 
-#### You must learn to cast all your cares upon Jesus (I Peter 5:7)
-
-#### Jesus is the burden bearer (Matthew 11:28)
-
-#### Paul admonished us to let the mind of Christ be in us (Philippians 2:5)
+* You must learn to cast all your cares upon Jesus (I Peter 5:7)
+* Jesus is the burden bearer (Matthew 11:28)
+* Paul admonished us to let the mind of Christ be in us (Philippians 2:5)
 
 The preacher needs to have the mind of Christ. The mind of Christ is never discouraged, fearful or burdened down. Again, proper rest and nutrition will help you to be mentally fit for service.
+

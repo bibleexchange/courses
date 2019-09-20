@@ -1,32 +1,18 @@
-# KANUNI YA SITA:SIKU ZOTE LINGANISHA MAANDIKO KWA MAANDIKO.
+## KANUNI YA SITA:SIKU ZOTE LINGANISHA MAANDIKO KWA MAANDIKO
 
-## Andiko siku zote hushikilia ufasiri wake lenyewe. I Wakor. 2:13 ; II Petr 1:20
+Andiko siku zote hushikilia ufasiri wake lenyewe (II Pet. 1:20). Neno, maelezo, au wazo lazima lijifunzwe katika kitabu ambacho ndio limeandikwa, na kisha katika matumizi yake katika vifungu vingine. Endapo kifungu hakita kuwa wazi juu ya ukweli, hakuna hitimisho litakalo patikana kutokana nacho mpaka vifungu vyote vinavyo husiana vimejifunzwa. Maelezo ya mafundisho ya Kibiblia hayapaswi kufanywa kimsingi kwenye kifungu pekee, bali maelezo ya mafundisho lazima yapitie kile maandiko yote yanasema juu ya mada.
 
-## Neno,maelezo,au wazo lazima lijifunzwe katika kitabu ambacho ndio limeandikwa,na kisha katika matumizi yake katika vifungu vingine.
+Andiko lita jieleza lenyewe kama mistari ya Biblia imelinganishwa yenyewe kwa yenyewe. Njia moja ya ufasiri sahihi ni kulinganisha mistari katika Biblia na mistari mingi tofauti ya Biblia. Biblia inatuagiza kulinganisha vitu vya kiroho kwa mambo ya rohoni (I Wak. 2:13). Kwa kulinganisha andiko kwa andiko Biblia itaeleweka vema. Neno la Mungu litakaa pamoja kama sehemu za fumbo au mkanganyiko. Andiko moja litafasiri andiko lingine. Biblia yenyewe iko katika umoja kamili. Hakuna mapingamano katika Biblia. Kile Mungu alicho andika katika Mwanzo kitakubaliana na kile Mungu alicho andika katika Ufunuo.
 
-## Endapo kifungu hakita kuwa wazi juu ya ukweli,hakuna hitimisho litakalo patikana kutokana nacho mpaka vifungu vyote vinavyo husiana vimejifunzwa
+### Linganisha vifungu vya maandiko kwenye somo hilohilo
 
-> II Petr 1:20 Kujua hili kwanza,kwamba hakuna unabii wa andiko ni wa ufasiri usio wazi.
+Kulinganisha vifungu vya maandiko katika somo hilohilo itakusaidia kufahamu vema hilo somo. Itifaki ni kitabu cha orodha ya maneno katika Biblia na huonesha ni wapi yalipo ndani ya Biblia. Tumia itifaki kupata Injili zinazolihusu somo moja. Kwa mfano kama somo la kufunga limechaguliwa; utatafuta Maandiko yenye neno kufunga, funga au ufungaji na usome maandiko hayo ambayo yataelezea kuhusu mafungo. Hii itampatia mhubiri uelewa wa Biblia wa somo hilo na kumwonesha chanzo cha maneno ya kutumia awapo katika mimbari.
 
-> I Wakr 2:13 Nayo twayanena, si kwa maneno yanayofundishwa .kwa hekima ya kibinadamu bali yanayofundishwa na Roho mtakatifu,tukiyafasiri mambo ya rohoni kwa maneno ya rohoni.
+### Linganisha jinsi Neno moja linavyotumika kwa Maandiko tofauti tofauti
 
-Maelezo ya mafundisho ya kiBiblia hayapaswi kufanywa kimsingi kwenye kifungu pekee bali maelezo ya mafundisho lazima yapitie kile maandiko yote yanasema juu ya mada.
+Njia nzuri ya kufahamu maana ya neno ni kuona jinsi neno hilo limetumika katika mukitadha wa vifungu tofauti vya maandiko. Kutazama neno katika mukitadha wa vifungu mbalimbali vya maandiko itakusaidia kufahamu maana ya neno. Kwa mfano, angalia jinsi "Neno" linavyotumika katika Yohana 1:1 na 1:14 na utaelewa kwamba "Neno" ni kumhusu Yesu.
 
-## Kulinganisha andiko na andiko ni njia nzuri ya kupata ufahamu wa Biblia.
+**Mfano**: Waefeso 1:22–23 wanaeleza kwamba kanisa ni mwili wa Kristo; na kwa kulinganisha aya hizi na I Wakorinto 12:13, tunaelewa kwamba "mwili" ni kuhusu "kanisa" katika aya zote mbili. 
 
-### Njia moja ya ufasiri sahihi ni kulinganisha mistari katika Biblia na mistari mingi tofauti ya Biblia.Andiko moja litasaidia kufasiri andiko lingine.Biblia kamwe haipingani yenyewe Biblia ni kamilifu kuanzia mwanzo hadi ufunuo. (Katika elimu sehemu ya kwanza tulijadili thamani ya kulingaunisha andiko na andiko.)
-
-### Linganisha vifungu vya maandiko kwenye somo hilohilo.Kulinganisha vifungu vya maandiko katika somo hilohilo itakusaidia kufahamu vema hilo somo.Utaweza kupata ufahamu wakutosha wa somo kutoka Neno la Mungu.
-
-### Linganisha jinsi neno hilohilo limetumika katika maandiko tofauti.Njia nzuri ya kufahamu maana ya neno ni kuona jinsi neno hilo limetumika katika mukitadha wa vifungu tofauti vya maandiko.Kutazama neno katika mukitadha wa vifungu mbalimbali vya maandiko itakusaidia kufahamu maana ya neno.Unatakiwa kuhakikisha kuwa unalinganisha neno la lugha ileile ya asili katika msitari moja kwenda kwenye neno la lugha hiyohiyo ya asili katika msitari mwingine.Kwa mfano neno kubali (suffer) katika Matayo,3:15 ni aphiemi ambalo katika mukitadha huu humaanisha kuacha au kuruhusu;bali kubali au kuteseka katika Mark8:31 ni pascho ambalo humaanisha kuumia au kujisikia maumivu.Kwa wazi mlinganisho wa maneno haya mawili ya kingereza kuteseka au kukubali hayangeweza kukupa maana halisi ya neno la asili.Vilevile weka akilini mlinganisho wa Agano la kale na Agano jipya,lakini lazima ukumbuke kwamba unashughulika na lugha tofauti kwahiyo mlinganisho halisi wa neno la asili hautakuwa rahisi.
-
-## Andiko lita jieleza lenyewe kama mistari ya Biblia imelinganishwa yenyewe kwa yenyewe.
-
-### Neno la Mungu liko katika umoja mkamilifu katika uhusiano wake yenyewe.Mistari katika kitabu kimoja cha Biblia itaelezea kweli zilizo patikana katika mistari mingine ya Biblia.
-
-### "Andiko moja litasaidia kumwaga nuru kwenye andiko lingine na kwahiyo litakusaidia kufahamu maana sahihi ya Biblia Kwa mfano Daniel sura ya 7 inayo maono ya wanyama wanne.Msitari 17 wa sura hii unatuambia kwamba hawa wanyama ni wafalme wa nne ambao watainuka Duniani. Msitari wa mwisho hutoa ufasiri wa mistari ya mwanzo. Na mlinganisho zaidi wa Ufunuo 13:2 unatuonyesha wanyama watatu wakwanza wanaungana na mnyama moja. Daniel 7:7,19 anafafanua kwamba yule mnyama wa nne niwakutisha na niwatofauti na wengine.Mnyama wa nne kwa Daniel na mnyama wa Ufunuo 13 anawakilisha ufalme moja wa Dunia wa mpinga kristo.Wenye nguvu wote wa Dunia wanaungana kwenye wakati wa mwisho kuwa serikali moja ya Dunia. Utamalizia vifungu hivi katika darasa la unabii. Njia pekee ya kupata ufahamu wote wa vifungu hivi ni kuvilinganisha vyenyewe kwa vyenyewe.Kifungu kimoja husaidia kufafanua kingine andiko sio jambo lakuficha ufafanuzi."
-
-> I Wakr 2:13 Nayo twayanena ,si katika maneno yalifundishwa katika hekima ya kibinadamu,bali ni yale yaliyo fundishwa na Roho mtakatifu;tukiyafasiri mambo ya kiroho kwa mambo ya rohoni.
-
-"Njia moja ya kujifunza Biblia ni kulinganisha andiko kwa andiko.Biblia inatuagiza kulinganisha vitu vya kiroho kwa mambo ya rohoni.Kwa kulinganisha andiko kwa andiko Biblia itaeleweka vema.Neno la Mungu litakaa pamoja kama sehemu za fumbo au mkanganyiko.Andiko moja litafasiri andiko lingine.Biblia yenyewe iko katika umoja kamili.Hakuna mapingamano katika Biblia.Kile Mungu alicho andika katika Mwanzo kitakubaliana na kile Mungu alicho andika katika Ufunuo,"
+Unatakiwa kuhakikisha kuwa unalinganisha neno la lugha ileile ya asili katika msitari moja kwenda kwenye neno la lugha hiyohiyo ya asili katika msitari mwingine. Vilevile weka akilini mlinganisho wa Agano la Kale na Agano Jipya, lakini lazima ukumbuke kwamba unashughulika na lugha tofauti kwahiyo mlinganisho halisi wa neno la asili hautakuwa rahisi.
 
