@@ -4,6 +4,7 @@
 
 ### Founded on the theme or topic of the text, rather than on the words of the text.
 
+
 ### The theme is most prominent in a topical sermon.
 
 ### The divisions of the sermon are formulated by the preacher. (Which should be based on the theme)
@@ -89,4 +90,42 @@ sequence that follows a logical order, especially in the Epistles.
 ### There are normally two ideas of information that should be listed. If there is only one piece of information to support a sub--topic, traditionally that information is included in the sub--topic.
 
 ### "Do not be so concerned with your form that you neglect your principal duty, which is to present the text in a logical and systematic way. Being true to the Lord's Word and the Divine Author's intent is paramount."
+
+
+
+#### Divisions
+
+The topical sermon is founded on the theme or topic of the text, rather than on the words of the text. The theme is most-prominent in a topical sermon. The divisions of the sermon are formulated by the preacher (which should be based on the theme.) The text should naturally suggest the theme even though the theme can actually be chosen first. The treatment style of the text will be rhetorical—clearly expounding on the theme. The topical sermon should be a thorough presentation of a topic.
+
+#### Advantages of the topical sermon
+
+##### It allows for rhetorical perfection 
+
+##### It allows for a thorough examination of the theme 
+
+##### It trains the mind to breadth of view—to look at the whole picture
+
+##### The topical sermon greatly encourages considerations of THE WHOLE COUNCIL OF GOD
+
+#### Distinguishing characteristics
+
+##### Illustrative
+
+This sermon type provides opportunity for illustrations and stories.
+
+##### Climactic
+
+The topical Sermon rises to successive climaxes reaching a well-defined conclusion.
+
+##### Persuasive
+
+The element of argument should be found in every sermon. Logic should never be sacrificed for rhetoric.
+
+##### Progressive
+
+The points are indicated, reached and reviewed. Plain direct application should be found in every sermon.
+
+#### Success
+
+The success of the topical sermon is dependent on the rhetorical ability of the preacher. He must be a student of the Word and able to give a well organized presentation of truth. The strength of this sermon type lies in keeping with the topic at hand. An acceptable topical sermon will be an exhaustive presentation of the theme where every facet of the gem is held to the light.
 

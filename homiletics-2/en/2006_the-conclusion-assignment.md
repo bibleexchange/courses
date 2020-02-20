@@ -2,7 +2,7 @@
 
 **INSTRUCTIONS:** Write a Summary and Conclusion to Your Passage of Scripture
 
-This is where you use Apppcation after you finished the outpne This is taking the plain meaning and putting it to practical use. This is the, how shall I respond to the Word what sin will I get rid of, to what commands will I yield, what pitfalls to avoid, in what actions to engage, and what promises to keep.
+This is where you use application. After you finished the outline. This is taking the plain meaning and putting it to practical use. This is the, how shall I respond to the Word what sin will I get rid of, to what commands will I yield, what pitfalls to avoid, in what actions to engage, and what promises to keep.
 
 The summary should be done first. However, you can incorporate it in your teaching at the end.
 

@@ -84,9 +84,47 @@
 
 Wakati habari saidizi imeorodheshwa chini ya mada ndogo, kuna utaratibu ambao hufuata habari inayotakiwa, hasa hasa katika nyaraka.
 
-Katika vifungu simlizi,utapata pia habari za matukio zenye maantiki.kwa vyovyote ,simlizi za kiebrania hufanya wakati mwingine kurukia pointi.Nibora kunasa kwenye kifungu na katika kufungua,mhitasari,au hitimisho,kuvuta usikivu kwa mazingira ya ujumla."
+Katika vifungu simlizi, utapata pia habari za matukio zenye maantiki. Kwa vyovyote, simlizi za kiebrania hufanya wakati mwingine kurukia pointi. Nibora kunasa kwenye kifungu na katika kufungua, mhitasari, au hitimisho, kuvuta usikivu kwa mazingira ya ujumla."
 
-### Kuna mawazo mawili ya kawaida ya habari ambayo inapaswa kuorodheshwa.kama kuna kipande kimoja tu cha habari kusaidia mada ndogo ,kwa desturi ambayo habari imehitimishiwa katika mada ndogo.
+### Kuna mawazo mawili ya kawaida ya habari ambayo inapaswa kuorodheshwa. Kama kuna kipande kimoja tu cha habari kusaidia mada ndogo, kwa desturi ambayo habari imehitimishiwa katika mada ndogo.
 
 ### "Usijihusishe na mfumo wako ambao unahitaji kazi yako ya kanuni,ambayo ni kuwakilisha kifungu katika utaratibu unaotakiwa na njia ya utaratibu.Uwe mkweli kwa neno la Bwana na kusudi la mwandishi wa ki Mungu ni kuu."
+
+
+
+#### Migawanyo
+
+Mafundisho ya somo hutegemea mada au kichwa cha habari zaidi kuliko maneno yaliyoko kwenye taarifa. Mada huonekana wazi zaidi katika mafundisho ya somo. Sehemu za somo hutengenezwa na mhubiri (jambo hili msingi wake ni mada.) Maandishi kwa asili yanapaswa kuonesha mada ijapokuwa mada inaweza kuchaguliwa kwanza. Njia inayotumika kuweka utaratibu wa maandishi itakuwa ni ya kurudia rudia kwa kuweka mkazo katika mada. Mafundisho ya somo ni lazima yaoneshe somo kwa ukamilifu. 
+
+#### Faida za mafundisho ya somo
+
+##### Inaruhusu kusisitiza mpaka somo likamilike
+
+##### Inarahisisha mada kufanyiwa uchambuzi wa kutosha
+
+##### Inaiweka akili katika mapana ambayo picha nzima huonekana
+
+##### Mafundisho ya somo huhamasisha kwa kiasi kukubwa kutafakari vizuri BARAZA LOTE LA MUNGU
+	
+#### Tabia zinazotofautisha
+
+##### Inayoonekana 
+
+Mafunzo kwa njia ya hotuba hutoa fursa ya kutumia michoro na hadithi. 
+
+##### Ya Msimu
+
+Mafundisho ya somo huinua vilele vinavyofuatana hadi kufikia hatima yenye maelezo mazuri. 
+
+##### Hushawishi
+
+Uwezekano wa kuwepo majadiliano unapaswa kuwepo katika kila hotuba. Busara haitakiwi iachwe kwa ajili ya ubishi (mjadala). 
+
+##### Endelevu
+
+Mawazo yanaoneshwa, kufikiwa, na kufanyiwa marejeo. Matumizi ya kawaida yanatakiwa yapatikane katika kila somo.
+			
+##### Mafanikio 
+
+Mafanikio ya mafunzo kwa njia ya hotuba hutegemea uwezo wa kusisitiza alionao mhubiri. Anapaswa kuwa mwanafunzi wa Neno la Mungu na awe na uwezo wa kupangilia namna ya kuuonesha ukweli. Nguvu za somo hili zimo katika mada iliyoko mkononi. Mafundisho ya somo yanayokubalika ni yale yanayokamilisha maonesho ya mada ambapo kila upande wake unaangaliwa vizuri.
 

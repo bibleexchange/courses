@@ -1,4 +1,4 @@
-# Ch. 2: Sermon Organization
+# Sermon Organization
 
 # INTRODUCTION
 

@@ -68,3 +68,34 @@ Kulifanya neno la Mungu kama mkusanyiko wa vifungu vya maneno ni kwa ajili ya ho
 
 "Charles Haddon Spurgeon (1834--1892),mchungaji wa Hema la Metropolitan huko London,alieitwa "mfalme wa wahubiri,"aliye dhaniwa na wengi kuwa mhutubiaji wa aina ya kifungu,na mmoja aliye bora pamoja mwenye hotuba ya kifungu."
 
+
+
+#### Migawanyo
+
+Maneno muhimu ndio yanayofanya sehemu za hotuba. Yafuatilie kwa umakini maneno yaliyoandikwa kipengele kwa kipengele. Maandishi hayo yanatenganishwa katika vifungu vinavyofaa kufanyia kazi, kwa ajili ya uchunguzi kamili. Maandishi hayo hayapasuliwi kama mtu anayevunja kwa nyundo kama mtoto anavyoweza kupasua saa. Maandishi hayo yanagawanywa kwa umakini wa mtengeneza saa. 
+
+#### Mafanikio
+
+Mafanikio ya kuandika hotuba yanategemea uchaguzi wa maandishi. Maandishi ya aina fulani yanafaa zaidi kuliko mengine kwa ajili ya kazi ya hotuba. Maandishi mengine ni bora zaidi kwa ajili ya kupanga mada. Maandishi yanaweza kuwekwa katika njia mbalimbali.
+
+#### Uchambuzi
+
+Uchambuzi sahihi wa maandishi.
+
+> **Uchambuzi** kutenganisha, au uvunjaji wa kitu chochote hadi kupata mtungamano wake; chambua - chana katika vipande; kukagua kwa makini sehemu kwa sehemu.
+> &mdash;Webster
+
+#### Lugha sahihi
+
+Kugawanya maandishi katika lugha yake sahihi. Kwa uwazi, kupata viungo vyake asilia katika maandishi. Tafsiri sahihi ya maneno ya maandishi. Maana yake katika lugha ya asili (kitabu cha Strong kiitwacho Mzabibu). Tafakari ya taarifa kwa maneno yaliyoko ndani ya msitari. Kutafakari taarifa ya msitari ndani ya taarifa yote.
+
+#### Kutambua tabia ya mafundisho ya namna hii
+
+##### Inapaswa kuwa ya kawaida na rahisi kuijenga mtiririko wa wazo kwa wazo
+
+Usilazimishe kugawanya mahali pasipofaa panapokaribia kuvunjika.
+
+##### Inapaswa kuwepo na maendeleo mazuri ya mawazo
+
+Kila kipande kinapaswa kuipeleka mada hatua moja mbele kukaribia kilele. Siyo lazima kuyagawa maneno kama yanavyotokea ili mradi kunakupiga hatua katika somo lenyewe. 
+

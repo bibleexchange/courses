@@ -2,7 +2,7 @@
 
 ## The use of the text
 
-### The teaning of the term text
+### The meaning of the term text
 
 #### The term Text usually refers to the Scripture read by the preacher at the beginning of the sermon
 
@@ -178,109 +178,3 @@ Examples of parallel texts:
 	* Job, overwhelmed by the righteousness of God (Job 7:2)
 	* The repentant prodigal (Luke 15:21)
 
-## The treatment of the text
-
-### The textual sermon
-
-#### Divisions
-
-The prominent words of the text form the divisions of the sermon. Follows closely the words of the text, clause by clause. The text is taken apart into manageable portions, for the purpose of a thorough examination of the text. The text is not taken apart with a club, as a child might break up a watch. The text is taken apart with the precision of a watchmaker.
-
-#### Success
-
-The success of the textual sermon. Dependent upon the selection of the text. Certain texts are better suited to textual treatment. Other texts are best treated in a topical manner. Many texts can be treated in a variety of different ways.
-
-#### Analysis
-
-A proper analysis of the text. 
-
-> **Analysis** separating, or breaking up of anything into its constituent elements; analyze - to take to pieces; to examine critically part by part.
-> &mdash;Webster
-
-#### Precise language
-
-Division of the text in its precise language. At clear, natural breaking points within the text. A correct interpretation of the words of the text. The meaning in the original language (Strong’s, Vine’s). Considering the context of the word within the verse. Considering the context of the verse within the entire passage.
-
-#### Distinguishing characteristics of this type of sermon
-
-##### It should be natural and easy to develop a flowing of thought to thought
-
-Do not force divisions at awkward breaking points. 
-
-##### There should be a distinct advancement in thought
-
-Each division should carry the theme one more step towards the climax. It is not always necessary to divide the words of the text as they occur, as long as there is advance of direction within the sermon itself.
-
-<!--### The Textual-Topical Sermon
-
-#### Divisions. The divisions of the sermon are expressed topically, but treated textually. The text itself still provides the natural divisions of the sermon. (Treated textually). The thought contained within the divisions is explained using words that expound upon the topic. (Expressed topically). The thought rather than the words of the text is made prominent.
-
-#### Success. The success of the textual-topical sermon is dependent on a balanced union of two elements: 1) Proper analysis to determine the divisions of the text and 2) The theme (topic) of the divisions should be expressed in clear concise language . “It’s (the textual-topical sermon’s) success depends on the union of the analytical and synthetical elements in the mind of the preacher.” – James Pattison.
-
-#### The word synthesis means a combination or putting together; combining of parts into a whole ; the opposite of analysis .Take apart the segments of the text with the purpose of putting the analyzed parts back together. There should always be an advancement of thought.
-
-#### Distinguishing Characteristics. The textual-topical format ensures freshness and variety in the sermon. The preacher is held to the words of the text—guaranteeing a solid Biblical foundation—but is also allowed freedom of thought. Never forget that the preacher’s authority comes from The Word .
-
-### The Textual-Inferential Sermon
-
-#### Divisions. The theme is found in the words of the text. The divisions of the sermon are determined by the text. (Textual treatment). A series of inferences is drawn naturally from the words of the text. An inference is what could be implied by the text and also what could be concluded based on the words of the text. Some inferences drawn from Revelation 3:20 could be:
-
-> Re 3:20— Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.
-
-Christ is on the outside, but has not abandoned His Church. He has not left her, but stands knocking. “ Behold, I stand at the door and knock …”
-
-Christ is speaking something that the Church needs to hear, but as a whole will not listen. They have shut him out so He makes his appeal to the individual. “… if any man hear my voice …”
-
-Christ will reveal Divine truth that will enable the individual to overcome and receive the promise of verse 21. “… will sup with him,…”
-
-> Revelation 3:21— To him that overcometh will I grant to sit with me in my throne, even as I also overcame, and am set down with my Father in his throne.
-
-#### Success . The success of the textual-inferential sermon is dependent on the choice of a text that lends itself to this type of treatment.“The text must be one from which a series of logical propositions can be drawn; and the sermon must preserve faithfully the spirit, and even where possible the very words of the text.” - Pattison.
-
-#### The inferences must be clear, logical, and easily followed by the congregation. Proper Biblical inferences are not mere speculation without logical evidence. Any proper inference will not contradict any other Biblical truth in that verse or any other verse of the Bible. Textual inferences should have distinct culmination of thought. Simply, each inference must be meaningful and expressive of the intent of the context.
-
-#### A lot of the success of the Textual-Inferential format is dependent on the mental capacity of the preacher. The preacher must have the ability to adequately present the facts. An argumentative and analytical mind is best suited to this type of preaching. This kind of sermon is very effective “at the same time analytical, synthetic, argumentative, and rhetorical, it commands respectful hearing.”- Pattison.-->
-
-### The topical sermon
-
-#### Divisions
-
-The topical sermon is founded on the theme or topic of the text, rather than on the words of the text. The theme is most-prominent in a topical sermon. The divisions of the sermon are formulated by the preacher (which should be based on the theme.) The text should naturally suggest the theme even though the theme can actually be chosen first. The treatment style of the text will be rhetorical—clearly expounding on the theme. The topical sermon should be a thorough presentation of a topic.
-
-#### Advantages of the topical sermon
-
-##### It allows for rhetorical perfection 
-
-##### It allows for a thorough examination of the theme 
-
-##### It trains the mind to breadth of view—to look at the whole picture
-
-##### The topical sermon greatly encourages considerations of THE WHOLE COUNCIL OF GOD
-
-#### Distinguishing characteristics
-
-##### Illustrative
-
-This sermon type provides opportunity for illustrations and stories.
-
-##### Climactic
-
-The topical Sermon rises to successive climaxes reaching a well-defined conclusion.
-
-##### Persuasive
-
-The element of argument should be found in every sermon. Logic should never be sacrificed for rhetoric.
-
-##### Progressive
-
-The points are indicated, reached and reviewed. Plain direct application should be found in every sermon.
-
-#### Success
-
-The success of the topical sermon is dependent on the rhetorical ability of the preacher. He must be a student of the Word and able to give a well organized presentation of truth. The strength of this sermon type lies in keeping with the topic at hand. An acceptable topical sermon will be an exhaustive presentation of the theme where every facet of the gem is held to the light.
-
-### The expository sermon
-
-The expository sermon is a thorough examination of the text. This type of sermon is covered extensively in Homiletics III and will not be covered at this time.
-
-<!--FOOTNOTES: Ufafasnuzi unaopatikana katika kamusi ya Webster. "Charles Wesley". 2005. Ufafasnuzi unaopatikana katika kamusi ya Webster.-->
