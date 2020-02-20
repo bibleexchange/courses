@@ -1,5 +1,9 @@
 # The Textual Sermon
 
+## Textual sermons are those in which the subject and main divisions are derived from the text.
+
+"The Textual Sermon is a miniature Expository Sermon covering a few verses, a verse, or part of a verse, but not the whole paragraph. Even though the textual sermon covers fewer verses than the expository sermon, the subject does come from the Bible and each major point comes from those verses. Yes, there is less material from which to get the supporting material, but it still may be possible. The textual sermon is just a shorter form of the expository sermon and covers only a few verses, a verse or part of a verse, but still expounds that shorter portion of Scripture. The value of the textual sermon is in dealing with a manageable portion of Scripture appropriate for the present setting."
+
 ## What is this type of sermon?
 
 Gibbs in his book, The Preacher and His Preaching, says that the textual sermon consists of selecting verses, a verse, or even the part of a verse as the text.

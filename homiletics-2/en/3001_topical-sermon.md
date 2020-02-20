@@ -1,5 +1,9 @@
 # Topical Outlines
 
+## Topical sermons are those in which the subject alone is derived from the text.
+
+The preacher is instrumental in the organization of the topical sermon. His topic is derived from the text, but how the topic is treated is determined by the preacher.
+
 ## How is the Topical Outline Different from the Textual Outline?
 
 ### Founded on the theme or topic of the text, rather than on the words of the text.

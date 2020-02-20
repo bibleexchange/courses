@@ -1,5 +1,9 @@
 # Hotuba ya kifungu
 
+## Hotuba za kifungu nizile ambazo somo na migawanyo mikuu vimepatikana kutoka kifungu.
+
+"Hotuba ya kifungu ni hotuba inayo elezeka na ya mifano midogo inayo ishia na mistari michache, au sehemu ya mstari,lakini sio paragirafu zima.Hatakama hotuba ya kifungu inaishia na mistari michache kuliko hotuba inayo elezeka,somo huja kutoka Biblia na kila pointi kuu huja kutoka mistari hiyo. Ndiyo kuna upungufu wa vifaa kutoka kile tunacho pata cha kusaidia,lakini bado inawezekana.hotuba ya kifungu nikama fupi na yenye muundo wa hotuba ya kuelezeka na huishia na mistari michache tu mstari au sehemu ya msitari,lakini bado inaelezea kile ambacho ni sehemu fupi ya andiko.thamani ya hotuba ya kifungu ni katika kushughulika na sehemu iliopangika ya andiko lenye thamani kwa ajili ya mpangilio unaowakilishwa."
+
 ## Ni aina gani hii ya hotuba?
 
 Gibbs katika kitabu chake, Mhubiri na mahubiri yake, anasema kwamba hotuba ya kifungu isio badilika ya kuchagua mistari, au hata sehemu ya msitari kama kifungu.

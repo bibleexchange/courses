@@ -22,7 +22,7 @@ Somo hili litajibu swali: &quot;MIMI NINAZUNGUMZIA NINI?&quot; Mada au somo ndio
 
 Somo la mafundisho halipaswi kuwa neno moja tu. Neno moja haliko wazi kwa hiyo halifai kukamilisha kichwa cha somo. Neno moja kama kuabudu, imani na upendo ni mapana mno kwa ajili ya kichwa cha somo. Somo linapaswa kuwekwa wazi kwa maelezo ili kukamilisha wazo. Kwa mfano kuna pande nyingi sana za upendo ambazo zinaweza kuhubiriwa katika somo moja.
 
-Dhamira inapaswa kutokana na taarifa ya Maandiko ambayo mhubiri ameyachagua kwa ajili ya maandishi yake. kama kawaida maandishi hayo yanapendekeza mada. Maandishi ni eneo la Maandiko ambayo husomwa kabla somo halijafundishwa. Kumbuka kwamba unafundisha Neno la Mungu. Mada inapaswa kwa asili ipatikane kutoka katika Injili. Maandishi hayo hayahitaji kutupwa kwenye ubao na kupata shida kabla ya mada kutolewa ndani yake. Mada inapaswa ionekane kwa urahisi katika maandishi kama moja ya mawazo yanayotawala. Wakati wa kulitoa somo ni vizuri kutumia mara kwa mara maneno yaliyoko katika maandishi. Kumbuka kulihubiri Neno kwa sababu mamlaka yako yanatokana na hilo Neno. "Ni upuuzi kufurahia maneno na kuwa mchoyo katika ukweli."&mdash;Spurgeon.
+Dhamira inapaswa kutokana na taarifa ya Maandiko ambayo mhubiri ameyachagua kwa ajili ya maandishi yake. kama kawaida maandishi hayo yanapendekeza mada. Maandishi ni eneo la Maandiko ambayo husomwa kabla somo halijafundishwa. Kumbuka kwamba unafundisha Neno la Mungu. Mada inapaswa kwa asili ipatikane kutoka katika Injili. Maandishi hayo hayahitaji kutupwa kwenye ubao na kupata shida kabla ya mada kutolewa ndani yake. Mada inapaswa ionekane kwa urahisi katika maandishi kama moja ya mawazo yanayotawala. Wakati wa kulitoa somo ni vizuri kutumia mara kwa mara maneno yaliyoko katika maandishi. Kumbuka kulihubiri Neno kwa sababu mamlaka yako yanatokana na hilo Neno. "Ni upuuzi kufurahia maneno na kuwa mchoyo katika ukweli."—Spurgeon.
 
 <!--ANGALIZO: Kamusi ya Webster toleo la 10 inafafanua Neno mchoyo kama kutumia fedha kidogo sana bila kupenda.--> 
 
@@ -50,10 +50,18 @@ Ioneshe wazi mada ya somo mwanzo hadi mwisho. Mtu aliyechelewa atakuwa na uwezo 
 
 ### Dhamira husaidia kuweka wazi mtiririko wa mawazo katika somo
 
-Mhubiri anapawa kufafanua vizuri mada yake kama anataka somo lake lieleweke sawasawa. Usiweke mambo mengi zaidi ya yale yanayowezekana kujadiliwa kwa wakati uliopangwa. "Anakimbiza zile nyota kumbe amekwama katika matope."&mdash;John Wesley
+Mhubiri anapawa kufafanua vizuri mada yake kama anataka somo lake lieleweke sawasawa. Usiweke mambo mengi zaidi ya yale yanayowezekana kujadiliwa kwa wakati uliopangwa. "Anakimbiza zile nyota kumbe amekwama katika matope."—John Wesley
 
 Eleza kwa kifupi somo utakalohubiri. Hoja ya msingi ni maneno yanayotumika katika sentensi ambayo hueleza kwa ufafanuzi somo litakalo hubiriwa. Jambo hili litaangaliwa zaidi baadaye. Iweke mada katika msimamo unaowezekana fanyia kazi sehemu moja ya ukweli kwa wakati mmoja na hifadhi sehemu yake kwa ajili ya kipindi kijacho.
 			
+## Aina tofauti za Dhamira
+
+1. Kwa Mafundisho ya Bibliia—Maagizo ya mahubiri ya mafundisho ya Biblia (II Tim. 4:2).
+2. Kwa historia—kuonesha eneo la kihistoria kuhusu taarifa ya Injili (kuelezea hiyo hadithi). Kuhusisha historia ili kuinua imani (uamsho mkubwa).
+3. Taarifa Binafsi—Mahubiri ya mababa wa Imani na watu mashuhuri wa Mungu.
+4. Ufafanuzi wa Maandiko—Ufafanuzi ni maelezo au uchunguzi wa kina wa maandishi.
+5. Kinabii—Onyesha jinsi utabiri wa manabii ulivyotimia. Kwa kutumia maandiko onesha mpango wa Mungu kwa siku zijazo.
+
 ## Tukio la Biblia linalohusiana na dhamira.
 
 ### Manabii katika agano la kale walikuwa na ujumbe wa wazi kutoka kwa Mungu

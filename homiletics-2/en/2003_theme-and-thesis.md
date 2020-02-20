@@ -54,6 +54,14 @@ The preacher must clearly define his theme if he wants his sermon to be clearly 
 
 Narrowly define the subject to be preached. The thesis statement is the term used to refer to a complete sentence that clearly defines the sermon to be preached. This will be dealt with later. Keep the theme within practical limitations, deal with one aspect of truth at a time and try to save something for next time.
 
+## Different types of themes
+
+1. Doctrinal—Instructional preaching of Bible doctrine (II Tim. 4:2).
+2. Historical—Setting the historical scene of a Scripture passage (Telling the story). Relating of history to inspire faith (Great revivals).
+3. Biographical—Preaching on Scriptural persons and great people of God.
+4. Exegetical—An explanation or thorough examination of the text.
+5. Prophetical—Show how prophecy has been fulfilled. Scripturally unfold God's plan for the future.
+
 ## Biblical precedent for a theme
 
 ### The Old Testament prophets’ messages were clear messages from God 

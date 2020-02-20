@@ -1,8 +1,12 @@
 # Dondoo za kimada
 
+## Hotuba za kimada ni zile zizohusiana na somo pekee lililopatikana kutoka kwenye kifungu.
+
+Mhubiri ni chombo katika uunganishaji wa hotuba ya kimada. Mada yake inavutwa kutoka kwenye kifungu, lakini jinsi mada ilivyo tengenezwa imethibitishwa na mhubiri.
+
 ## Jinsi gani dondoo za kimada ni tofauti na dondoo za kifungu?
 
-### Iliopatikana kwenye dhamira au mada ya kifungu,kidogo kuliko maneno ya kifungu.
+### Iliopatikana kwenye dhamira au mada ya kifungu, kidogo kuliko maneno ya kifungu.
 
 ### Dhamira iliojitokeza katika hotuba ya kifungu.
 
@@ -12,11 +16,11 @@
 
 ## Faida za hotuba ya kimada
 
-### Inaruhusu kwa ajili ya ukamilifu wa usemaji. (Kama shabaha ya kuhubiri ni kufanya hotuba kuwa kazi ya sanaa,iache ifanywe kimada.
+### Inaruhusu kwa ajili ya ukamilifu wa usemaji. (Kama shabaha ya kuhubiri ni kufanya hotuba kuwa kazi ya sanaa, iache ifanywe kimada.
 
 ### Inaruhusu kipimo kamili cha dhamira. (Kifungu kimoja marachache hufanya hivi.)
 
-### Inafundisha akili kupanua mtazamo. (Roho ya maneno ni kile ambacho tungelenga kuleta kwenye nuru,nasio kama maneno matupu.)
+### Inafundisha akili kupanua mtazamo. (Roho ya maneno ni kile ambacho tungelenga kuleta kwenye nuru, nasio kama maneno matupu.)
 
 ### Kwanza, kuchagua mandhari na kisha kuchagua Nakala kwamba inasaidia kwamba mandhari.
 
@@ -24,13 +28,13 @@
 
 ### Mtindo wake.
 
-#### YA USEMAJI (Umoja, ya uwiano, ya kusisitiza,ya utamu wa sauti [Tazama maandishi mawili ya kiingereza juu ya "kanuni za usemaji])
+#### YA USEMAJI (Umoja, ya uwiano, ya kusisitiza, ya utamu wa sauti [Tazama maandishi mawili ya kiingereza juu ya "kanuni za usemaji])
 
 #### YENYE SIMULIZI (Furusa kwa ajili ya picha za maelezo, "na habari".)
 
 #### YA KIMATENDO (Huinua kwa matendo yenye mafanikio kufikia hitimisho lililo fafanuliwa vizuri.)
 
-#### WENYE KUSHAWISHI(huishia mhitasari mfupi,matendo, na yenye kusemwa kwa bidii.)
+#### WENYE KUSHAWISHI (huishia mhitasari mfupi, matendo, na yenye kusemwa kwa bidii.)
 
 ##### Chanzo cha hoja kingekuwa kinapatikana katika kila hotuba. Tendo lingekuwa ndio shabaha yetu. Kihusishi lazima kiandaliwe ili kuleta tendo maalum.
 
@@ -38,21 +42,21 @@
 
 > Pasipo uwazi, vitendo elekezi mhubiri hufanya kidogo kuliko risasi
 > tupu za moto; yeye hutualika kwenye sikukuu kidogo kuliko kutupa
-> changa moto kwenye kupambana.T. Harwood Pattison
+> changa moto kwenye kupambana. T. Harwood Pattison
 
 ### Mpango wake.
 
-#### YENYE KUENDELEA (Pointi zimeonyeshwa,zimefikiwa,na zimechunguzwa.)
+#### YENYE KUENDELEA (Pointi zimeonyeshwa, zimefikiwa, na zimechunguzwa.)
 
 #### YENYE KURUHUSU (Kila sehemu ya "kito cha thamani" imeshikiliwa katika mwanga.)
 
 ## Kuangalia.
 
-"Kwa uangalifu nenda juu ya kifungu angalia kile kinachoendelea juu yake,kwamba"nani,nini,wapi,lini,jinsi gani,na kwanini,""Hii itavuta kweli kutoka inje kwa asili ya maandiko na itasaidia kuepuka kiburi na hoja za uongo.acha neno la Mungu lijizungumzie lenyewe.""
+"Kwa uangalifu nenda juu ya kifungu angalia kile kinachoendelea juu yake, kwamba"nani, nini, wapi, lini, jinsi gani, na kwanini,""Hii itavuta kweli kutoka inje kwa asili ya maandiko na itasaidia kuepuka kiburi na hoja za uongo. Acha neno la Mungu lijizungumzie lenyewe.""
 
-### Soma kifungu katika mazingira yake nyakati kadhaa.Kwa mfano,kama unajifunza kitabu cha Yohana,anza kwa kukisoma kitabu chote.
+### Soma kifungu katika mazingira yake nyakati kadhaa. Kwa mfano, kama unajifunza kitabu cha Yohana, anza kwa kukisoma kitabu chote.
 
-### "Hakikisha unaenda katika uhusiano wako na neno la Mungu katika kiwango chenye maana.Kama unaanza kwa haraka mno,kufikiri unajua kifungu cha maneno tayari,hutapata utambuzi na undani kwasababu ya haraka yako itakufanya mbaya usiefaa."
+### "Hakikisha unaenda katika uhusiano wako na neno la Mungu katika kiwango chenye maana. Kama unaanza kwa haraka mno, kufikiri unajua kifungu cha maneno tayari, hutapata utambuzi na undani kwasababu ya haraka yako itakufanya mbaya usiefaa."
 
 ### Kamwe usiache kiburi chako kungandisha maono yako na kukuweka katika giza au kutoka kugundua yote unayoweza.
 
@@ -60,7 +64,7 @@
 
 ### Kisha unaweza kuanza kutafuta dhamira kuu na dhana.
 
-### Anza na utangulizi;inahitaji kutawala mada kuu au dhana ya dondoo.hii ni kanuni ya jumla/wazo ambalo linawakilisha kifungu cha maneno unayo jifunza.
+### Anza na utangulizi;inahitaji kutawala mada kuu au dhana ya dondoo. Hii ni kanuni ya jumla/wazo ambalo linawakilisha kifungu cha maneno unayo jifunza.
 
 ### Kisha andika maelezo mafupi juu ya hilo wazo.
 
@@ -68,17 +72,17 @@
 
 #### Hakikisha unaandika mistari baadaye kwa kila wazo.
 
-### "Sura na mistari ilio ongezwa na mchapishaji na sio sehemu ya kifungu cha asili wala kuvuviwa.Kwahiyo usijilazimishe nayo.utaikuta hiyo mara kadhaa ikiondoa mawazo ya ufunguo katika wazo la katikati ambalo bado ni"ni uzi,"ambao bado unaendelea."
+### "Sura na mistari ilio ongezwa na mchapishaji na sio sehemu ya kifungu cha asili wala kuvuviwa. Kwahiyo usijilazimishe nayo. Utaikuta hiyo mara kadhaa ikiondoa mawazo ya ufunguo katika wazo la katikati ambalo bado ni"ni uzi, "ambao bado unaendelea."
 
 ## Kisha orodhesha mawzo yote mbalimbali/pointi katika utaratibu.
 
-### Hii ndio pale unapo tumia "Fasihi."Hii inachukua kile kina cho semwa na kupata kile kifungu kinamaanisha,jinsi ya kufasiri kwa simlizi katika mazingira sahihi.
+### Hii ndio pale unapo tumia "Fasihi."Hii inachukua kile kina cho semwa na kupata kile kifungu kinamaanisha, jinsi ya kufasiri kwa simlizi katika mazingira sahihi.
 
-### Hapa ndio pale habari saidizi na habari zinazoendelea.Hii inaitwa mada-- yako ndogo;hizi kwa kawaida huorodheshwa chini ya wazo/mada na kila kipande cha habari vilivyo orodheshwa kwa kutenganishwa.
+### Hapa ndio pale habari saidizi na habari zinazoendelea. Hii inaitwa mada-- yako ndogo; hizi kwa kawaida huorodheshwa chini ya wazo/mada na kila kipande cha habari vilivyo orodheshwa kwa kutenganishwa.
 
-### Siku zote, siku zote nenda katika utaratibu wa kifungu.Usirukie!
+### Siku zote, siku zote nenda katika utaratibu wa kifungu. Usirukie!
 
-### Usiliwekee neno la Mungu kitu ambacho hakikuwepo,au kulisoma kwa mapenzi yako kama lako.
+### Usiliwekee neno la Mungu kitu ambacho hakikuwepo, au kulisoma kwa mapenzi yako kama lako.
 
 ### Kila maandishi ya mada ndogo mawazo makuu kutoka kifungu cha maneno/aya.
 
@@ -88,7 +92,7 @@ Katika vifungu simlizi, utapata pia habari za matukio zenye maantiki. Kwa vyovyo
 
 ### Kuna mawazo mawili ya kawaida ya habari ambayo inapaswa kuorodheshwa. Kama kuna kipande kimoja tu cha habari kusaidia mada ndogo, kwa desturi ambayo habari imehitimishiwa katika mada ndogo.
 
-### "Usijihusishe na mfumo wako ambao unahitaji kazi yako ya kanuni,ambayo ni kuwakilisha kifungu katika utaratibu unaotakiwa na njia ya utaratibu.Uwe mkweli kwa neno la Bwana na kusudi la mwandishi wa ki Mungu ni kuu."
+### "Usijihusishe na mfumo wako ambao unahitaji kazi yako ya kanuni, ambayo ni kuwakilisha kifungu katika utaratibu unaotakiwa na njia ya utaratibu. Uwe mkweli kwa neno la Bwana na kusudi la mwandishi wa ki Mungu ni kuu."
 
 
 
