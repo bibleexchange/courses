@@ -1,15 +1,16 @@
-#### MWAKA WA KWANZA
+MWAKA WA KWANZA
 
-#### KITABU CHA KIADA
+KITABU CHA KIADA
 
-# ELIMU YA MAHUBIRI 1
+ELIMU YA MAHUBIRI 1
 
-## Maandalizi ya Hotuba na Mahubiri
+Mhubiri na jinsi ya kusoma Bibilia
 
-### CHUOCHA BIBLIA NA WOKOVU CHA MOSHI
+CHUOCHA BIBLIA NA WOKOVU CHA MOSHI
 
-#### Moshi, Kilimanjro, Tanzania
+Moshi, Kilimanjro, Tanzania
 
-### CHUO CHABIBLIA NA WOKOVU
+CHUO CHABIBLIA NA WOKOVU
 
-#### Portland, Maine. Amerika
+Portland, Maine. Amerika
+

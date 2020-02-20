@@ -28,4 +28,3 @@ A good way to study a Scripture is to break it down into the main phrases of the
 
 Looking at this verse part by part and studying it will help you to better understand the verse. This will also help you to preach this verse in workable pieces, one portion at a time. You will learn how to share truth in sections and build one step at a time.
 
-

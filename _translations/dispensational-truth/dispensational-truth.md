@@ -1,17 +1,15 @@
-﻿Ukombozi Katika Biblia NaTaasisi Zake
-(Dispensational) Mpango Ukweli
+﻿MWAKA WA KWANZA
 
-MWAKAWA PILI
+KITABU CHA KIADA
 
-MPANGO UKWELI
+Mpango ukweli
+
 Saba Dispensations wa Historia
-Kiada
 
-# Mpango Ukweli
+# Utangulizi na Ukweli wa Mpango (Dispensational)
 
-Saba juu ya mpango (Dispensations) wa Historia 
+Saba juu ya mpango (Dispensations) wa Historia:
 
-0. Utangulizi na ukweli wa Mpango
 1. Mpango wa kutokuwwa na Hatia
 2. Mpango na Dhamiri
 3. Mpango wa Serikali za Binadamu
@@ -20,14 +18,12 @@ Saba juu ya mpango (Dispensations) wa Historia
 6. Mpango wa Neema
 7. Mpango wa Haki
 
-# Utangulizi na Ukweli wa Mpango (Dispensational)
-
 _Mpango_ (Dispsensation) ni neno ambalo linaonekana katika nyakati za Biblia mara nne, na pia tunaweza kulipata katika Agano jipya (I Wakoritho 9:17; Waefeso 1:10; 3:2; Wakolosai 1:25).
 
 Neno hili kwa Kigiriki ni _oikonomia_ linaweza pia kupatikana kutafsiriwa kama:
 
-* "Uwakili" (Luka 16:2&ndash;4)
-* "Wakili" (Luka 12:42; 16:1, 8; I Wakoritho 4:1&ndash;2; Tito 1:7; I Petro 4:10)
+* "Uwakili" (Luka 16:2–4)
+* "Wakili" (Luka 12:42; 16:1, 8; I Wakoritho 4:1–2; Tito 1:7; I Petro 4:10)
 * "Wakuu" wa jiji (Rum. 16:23)
 * "Magavana" (Wagalatia 4:2)
 
@@ -88,9 +84,9 @@ Kutoka kurudi kwa Kristo Mbingu Mpya na Dunia
 
 Katika nyakati hizo ni kipindi cha mabadiliko ya moja kwa moja na yaliyotiwa alama au vurugu katika dunia na mabadiliko mengine yaliyotiwa alama yalihusisha makazi  ya dunia.
 
-1. Wakati wa Antediluvian&mdash;kipindi cha muda kabla ya mafuriko au gharika
-2. Wakati&mdash;Kutoka mafuriko ya utawala wa Milenia wa Kristo
-3. Wakati ujao&mdash;Kutoka utawala wa Milenia wa Mbingu Mpya na Nchi Mpya
+1. Wakati wa Antediluvian—kipindi cha muda kabla ya mafuriko au gharika
+2. Wakati—Kutoka mafuriko ya utawala wa Milenia wa Kristo
+3. Wakati ujao—Kutoka utawala wa Milenia wa Mbingu Mpya na Nchi Mpya
 
 ## Kuna awamu saba katika dunia hii
 
@@ -839,8 +835,7 @@ Mpango huu imegawanywa katika masomo manne:
 
 1. ** Sheria za kimaandiko** hii ni katika Amri kumi ambazo mtu aliambiwa jinsi ya kuishi maisha yake ya kiroho na jinsi ya kushughulika na wanadamu wenzake.
 2. **Sheria ya kiraia** hii inahusika na uendeshaji wa jamii  na Mungu kama mkuu wa jamii hiyo.
-3. **Sheria za sikukuu
-(Kutoka 24:3, 7; Kumb. 5:27; Yosh. 1:16; II Wafalme 10:5; Yer. 18:12; 42:20)
+3. **Sheria za sikukuu** (Kutoka 24:3, 7; Kumb. 5:27; Yosh. 1:16; II Wafalme 10:5; Yer. 18:12; 42:20)
 
 > Yakobo 4:15—Badala ya kusema, Bwana akipenda, tutakuwa hai na kufanya hivi au hivi.
 
@@ -1301,7 +1296,7 @@ Mpango wa Sheria katika kuishi katika hukumu. Hukumu ya Mungu juu ya taifa ni ku
 
 ### Yesu mwenyewe kulijenga Kanisa lake: Mathayo 16:18
 
-Wakati ule wa Neema ni pamoja na siku ile ya Pentekoste (Yoeli 2:23–32, Matendo 2:17–21, Matendo 4:8, 10; 10:40&ndash;45. Pia, ni pamoja na ni kazi ya Mungu kupitia Mitume. Waefeso 3:2–12; Mathayo 10:2–4; Warumi 1:1, 5).
+Wakati ule wa Neema ni pamoja na siku ile ya Pentekoste (Yoeli 2:23–32, Matendo 2:17–21, Matendo 4:8, 10; 10:40–45. Pia, ni pamoja na ni kazi ya Mungu kupitia Mitume. Waefeso 3:2–12; Mathayo 10:2–4; Warumi 1:1, 5).
 
 ### Bibi Arusi wa Kristo
 
