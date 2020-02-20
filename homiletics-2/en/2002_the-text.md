@@ -1,58 +1,35 @@
-# The Text
-
-## The use of the text
+## The Text
 
 ### The meaning of the term text
 
-#### The term Text usually refers to the Scripture read by the preacher at the beginning of the sermon
+The term _text_ usually refers to the Scripture read by the preacher at the beginning of the sermon. It is the portion of Scripture that will be expounded upon.
 
-It is the portion of Scripture that will be expounded upon.
+The text may include more than is actually read. The sermon may be built upon an entire passage or chapter. The preacher may chose to read only portions of a lengthy text, or read through it as he progresses through the sermon.
 
-#### The text may include more than is actually read
+The text is the Scriptural foundation upon which the sermon is built. The Word of God is the preacher’s authority (I Tim. 4:2). The Word of God is the final authority.
 
-The sermon may be built upon an entire passage or chapter. The preacher may chose to read only portions of a lengthy text, or read through it as he progresses through the sermon.
-
-#### The text is the Scriptural foundation upon which the sermon is built
-
-The Word of God is the preacher’s authority (I Tim. 4:2). The Word of God is the final authority.
-
-> II Timothy 3:16&mdash;All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:
-
-#### The Latin word textus means the product of weaving or the web
-
-The text is the fabric of the sermon. The sermon is woven around the text.
+The Latin word _textus_ means "the product of weaving or the web." The text is the fabric of the sermon. The sermon is woven around the text.
 
 ### The Reasons for the Use of a Text
 
 #### There are Biblical examples of reading Scripture before exhortations
 
-##### The Book of the Law was read prior to exposition (Neh. 8:8)
-
-##### Jesus read from Isaiah before He taught the people (Lk. 4:16-20)
-
-##### The Apostles used Scripture as a foundation for their sermons
-
-###### Peter quoted from Joel on the Day of Pentecost (Acts 2:16-21)
-
-###### Paul used Scripture in his preaching (Acts 13:16-42)
-
-###### Timothy was admonished to Preach the Word (II Tim. 4:2)
+1. The Book of the Law was read prior to exposition (Neh. 8:8)
+2. Jesus read from Isaiah before He taught the people (Lk. 4:16-20)
+3. The Apostles used Scripture as a foundation for their sermons
+4. Peter quoted from Joel on the Day of Pentecost (Acts 2:16-21)
+5. Paul used Scripture in his preaching (Acts 13:16-42)
+6. Timothy was admonished to Preach the Word (II Tim. 4:2)
 
 #### There is historical precedent for reading Scripture before sermons are preached
 
-##### The Synagogue setting consisted of reading a portion of Scripture followed by explanation and exhortation of the Scripture
+1. The Synagogue setting consisted of reading a portion of Scripture followed by explanation and exhortation of the Scripture
+2. The early church preachers read Scripture texts before they preached
+3. Effective preachers of the great revivals expounded upon Scripture texts read before the sermon
 
-##### The early church preachers read Scripture texts before they preached
+#### The preacher’s authority is founded upon the Word of God
 
-##### Effective preachers of the great revivals expounded upon Scripture texts read before the sermon
-
-#### The preacher’s authority is founded upon THE WORD OF GOD
-
-##### The Gospel is the power of God unto salvation (Rom. 1:16)
-
-##### God’s Word will not return void (Is. 55:11)
-
-##### The philosophy of man will not save souls
+The Gospel is the power of God unto salvation (Rom. 1:16). God’s Word will not return void (Is. 55:11). The philosophy of man will not save souls.
 
 ### The Selection of the Text
 
@@ -82,23 +59,17 @@ The text gives the preacher opportunity to explain Scripture. The text guards ag
 
 The text will hold the message on track. The text will keep the preacher from wandering and getting lost. A good key to remember when you lose your place preaching or preparing is to go back to the text.
 
-## The structure of the text
+### The structure of the text
 
-### The text should form a complete sentence
+#### The text should form a complete sentence
 
-#### If not a complete sentence, the text must include at least a complete truth to be expounded
+If not a complete sentence, the text must include at least a complete truth to be expounded.
 
-A proper text is never a phrase taken out of context. Portions of texts can be used to say almost anything. Correct Biblical interpretation is essential to properly using only a portion of a verse as a text.
+A proper text is never a phrase taken out of context. Portions of texts can be used to say almost anything. Correct Biblical interpretation is essential to properly using only a portion of a verse as a text. For example, if a portion of Matthew 18:17 was used as a text:“If he neglect to hear the church, let him…”. This fragmented text could be used in a very wrong way.
 
-For example, if a portion of Matthew 18:17 was used as a text:“If he neglect to hear the church, let him…”. This fragmented text could be used in a very wrong way.
+> “Verses of scripture should not be mutilated for the sake of obtaining a striking or sensational text.”
 
-“Verses of scripture should not be mutilated for the sake of obtaining a striking or sensational text.”
-
-#### Keep in mind, one complete truth is to be expounded upon
-
-The context in which the text appears must always be considered. This will guard against error. This will insure proper interpretation of the Scripture.
-
-Examples of useable fractional texts:
+Keep in mind, one complete truth is to be expounded upon. The context in which the text appears must always be considered. This will guard against error. This will insure proper interpretation of the Scripture. Examples of useable fractional texts:
 
 * …the blood of the everlasting covenant… (Hebrews 13:20)
 * …Whose I am… (Acts 27:23)
@@ -107,19 +78,15 @@ Examples of useable fractional texts:
 * …thy sons, O Zion, against thy sons, O Greece… (Zechariah 9:13)
 * Every man at the beginning doth set forth good wine… then that which is worse, but thou… (John 2:10)
 
-### The length of the text is determined by the theme
+#### The length of the text is determined by the theme
 
-#### Be certain the theme is expressed from the chosen length of the text
+Be certain the theme is expressed from the chosen length of the text. Not so short as to not clearly explain the theme. Not so long as to give more than necessary to naturally suggest the theme.
 
-Not so short as to not clearly explain the theme. Not so long as to give more than necessary to naturally suggest the theme.
+##### Short texts arrest attention
 
-#### Short texts arrest attention
+They are easier for the congregation to remember. Be careful not to use a text excessively short that does not form a complete thought.
 
-They are easier for the congregation to remember.
-
-Be careful not to use a text excessively short that does not form a complete thought.
-
-#### Long texts give fullness and authority
+##### Long texts give fullness and authority
 
 A complete foundation for the sermon. An opportunity to relate Biblical accounts to the congregation.
 

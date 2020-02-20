@@ -44,7 +44,7 @@ The Bible may be made to appear as a book of isolated texts, instead of appearin
 
 To treat the Bible as a mere collection of texts is foolish and wrong; it yields no worthy fruits. It has a bad effect on the preacher and the hearer.
 
-G. Campbell Morgan said, "There are thousands of people who have been brought up in somewhat close relationship to the Christian church who nevertheless think only of the Bible as a book of texts from which sermons are preached, or which are quoted in proof of some theologicalposition."
+G. Campbell Morgan said, "There are thousands of people who have been brought up in somewhat close relationship to the Christian church who nevertheless think only of the Bible as a book of texts from which sermons are preached, or which are quoted in proof of some theological position."
 
 Morgan goes on to say, "To think out a sermon which seems religious and then to hunt for some Biblical text upon which to hang it, is little short of profane." Dr. M. B. Riddle says, "The most pernicious habit is that of studying passages of Scripture mainly, if not exclusively, for homiletical purposes."
 
@@ -61,7 +61,7 @@ often incorrect.""
 
 "Texts my come to the preacher in the course of his general reading or of his pastoral duties, or in connection with special circumstances transpiring about him. But from whatever source they arise, they are given to him, and in that sense they are not of him. "
 
-"As Watson said, "It is far better then for one to put himself in the way of texts finding him, than for him to attempt to find texts. In other words, it is not the man who selects the text. It is the text [that is to say, God] who selects the man. As the minister was busywith study, or as he sat by the bed side of the sick, or as he walked the crowded street, the truth, clad in a text, suddenly appeared and claimed his acquaintance. It seemed to him that they had met in the past, as one is haunted by the idea that he has known someone before he has ever seen him, and he will be right; for there is a pre-established harmony between that particular truth and his own soul." "
+"As Watson said, "It is far better then for one to put himself in the way of texts finding him, than for him to attempt to find texts. In other words, it is not the man who selects the text. It is the text [that is to say, God] who selects the man. As the minister was busy with study, or as he sat by the bed side of the sick, or as he walked the crowded street, the truth, clad in a text, suddenly appeared and claimed his acquaintance. It seemed to him that they had met in the past, as one is haunted by the idea that he has known someone before he has ever seen him, and he will be right; for there is a pre-established harmony between that particular truth and his own soul." "
 
 "Practically, however, the very best of all sources from which texts are acquired is the devotional reading of the Bible. Some texts come to the preacher indirectly when he is reading or listening to another preacher's sermons. Texts may also be acquired from providential circumstances when the circumstance is connected by God with some passage of Scripture in our mind. "
 
@@ -72,8 +72,6 @@ often incorrect.""
 "And if the preacher does that he is really preaching an expository sermon, though of the textual sermon variety, and the only difference from a purely expository sermon will be the shorter length of the passage preached. "
 
 "Charles Haddon Spurgeon (1834--1892), pastor of the Metropolitan Tabernacle in London, and who was called a "Prince of Preachers," was considered by most to be a textual type of sermonizer, and was also one of the best with the textual sermon. "
-
-
 
 #### Divisions
 

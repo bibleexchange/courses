@@ -1,29 +1,18 @@
-# Parts of a Sermon
+# Sehemu za Mahubiri
 
-### Somo linapaswa kuandaliwa kwa kuzingaitia umbile, maelezo kwa mpango wa wazo. 
+Somo linapaswa kuandaliwa kwa kuzingaitia umbile, maelezo kwa mpango wa wazo. Ni lazima ufahamu unakoelekea na uongoze kwa njia ambayo wasikilizaji wako wataweza kufuata!
 
-Ni lazima ufahamu unakoelekea na uongoze kwa njia ambayo wasikilizaji wako wataweza kufuata!
+Kwanza, tazama kiini kwa ujumla, kisha dhamira ndogo zinazofuata chini na dhana, kama vile wapi kila wazo linaanza na linaishia, na jinsi lilivyo patikana. Tafuta dhamira za kikanuni na zilizo pangwa kwa utaratibu wa kila wazo linalo fuata chini; kisha, utakapo ona kanuni nyingine/dhamira ya msingi, unaweza kuiweka katika aina inayo fuata au sehemu.
 
-#### Andishi
+Dondoo kimsingi ni msaada wa kuweka miongozo na sababu za hotuba yako katika utaratibu, rahisi kutumia na rahisi kusoma tokeo. Itakusaidia wewe kama mhubiri na wengine kama wasikiaji kutambua mawazo ya jumla na mawazo ya ufunguo wa hotuba yako. Fikira ya msingi ni kwa ajili yako kufafanua wazo kuu na kisha mawazo tegemezi.
 
-Chukua somo kutoka katika andishi. Usiongee tu kuhusu Biblia, lihubiri Neno!
+Je, unaundaje dondoo? Kimsingi, unatengeneza fremu au mifupa pamoja na vitu vinavyo fuata kama nyama:
 
-#### Kichwa cha somo
+1. KIFUNGU: Msingi wa hotuba yeyote. Sehemu gani ya andiko unayo enda kuhubiri?
+2. DHAMIRA: Hotuba yako ni sentesi moja. (Yamkini imekamilika mwishoni kwenye harakati za maandalizi ya hotuba. Ingehitimisha na kichwa cha habari.")
+3. UTANGULIZI: Neno la utangulizi HUANDAA wasikiaji kwa ajili ya kile kitakacho semwa.
+4. MWILI
+5. HITIMISHO: Kupitia, kimhitasari, na kuita kwenye kitendo. Katika hitimisho unaweza KUKUMBUSHIA wasikiaji kwa kile ulicho sema.
 
-Jina la somo huitwa kichwa. Mara nyingi kichwa ni muhimu sana katika kuonyesha mada yako kwa wasikilizaji. Siyo kila somo linapaswa kuwa na kichwa chenye kuvutia kama "Kuikimbilia ile Dhahabu," lakini somo lako linahitaji kuonesha mwelekeo karibu na mwanzoni. Kichwa ni njia rahisi ya kuwaambia wasikilizaji "huu ndio upande tunakoelekea leo."
+Kutoa mhitasari, kama shughuli yeyote mpya, itachukua zoezi. kushikiliwa na bila kuvunja moyo itachukua mda!
 
-#### Dhamira
-
-Dhamira ndio somo kuu la hotuba. Somo linapaswa lisitawanyishwe, mawazo yasiyohusiana yanayoelekea kila upande, lakini kila wazo linapaswa kuunganishwa kwa dhamira moja au somo. Kuhubiri siyo maigizo ya kuchekesha ukiwa umesimama au ni wakati wa hadithi, bali ni kazi ya milele ambayo mhubiri humsubiri Mungu amletee ujumbe kwa muda huo halafu akaufuatilia kwa kina kwa uwezo wake wote wa kuwasilisha mada hiyo moja katika mahubiri yake.
-
-#### Utangulizi
-
-Waongoze waumini katika somo. Usitafune maneno lakini tumia mwanzo wake kuweka msingi wa mafundisho. Egemea kikamilifu kuongozwa na Roho Mtakatifu ili aiandae mioyo na akili za wasikilizaji kupokea ujumbe wa saa hiyo. 
-
-#### Mwili
-
-Ratiba ya mwili wa mafundisho inajumlisha nyama na uzito wa somo kwa maelezo ya dondoo muhimu au mgawanyo. Somo linajengeka hatua kwa hatua katika mwili wa ratiba. 
-
-#### Mwisho
-
-Mwisho ni umaliziaji wa somo, lakini hujisemei tu umekamilisha, lakini huenda ni sehemu muhimu zaidi ya hotuba. Ni muhimu pia kwa sababu ni wakati mzito wa wasikilizaji kufanya uamuzi. Swali muhimu ni "Ni kitu gani kisemwe katika kumalizia?" linajibiwa kwa kujibu swali lingine, "Iwapo waumini wangeondoka wakiwa wamesahau kila kitu ambacho nimekisema katika hotuba yangu isipokuwa kitu kimoja mimi ningependa kitu hicho kiwe ni kipi?" Jibu la swali hilo linapaswa kuwa mada yako.

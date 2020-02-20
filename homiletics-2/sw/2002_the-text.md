@@ -1,58 +1,35 @@
-# Kifungu cha Maandiko
-
-## Matumizi ya kifungu cha maandiko
+## Kifungu cha Maandiko
 
 ### Maana ya Neno kifungu cha maandiko
 
-#### Neno kifungu cha Maandishi mara kwa mara hutumika kumaanisha andiko ambalo husomwa na mhubiri mwanzoni mwa somo
+Neno _kifungu cha Maandiko_ mara kwa mara hutumika kumaanisha andiko ambalo husomwa na mhubiri mwanzoni mwa somo. Ni eneo la Maandiko Matakatifu ambalo litafafanuliwa. 
 
-Ni eneo la Maandiko Matakatifu ambalo litafafanuliwa. 
+Kifungu cha maandishi kinaweza kuwa ni zaidi ya kilichosomwa. Hotuba inaweza kujengwa kwa kuzingatia ukurasa au sura nzima. Mhubiri anaweza kuchagua kusoma sehemu sehemu za ujumbe mrefu au akapitia kwa kusoma jinsi anavyoendelea kuikamilisha hotuba yake. 
 
-#### Kifungu cha maandishi kinaweza kuwa ni zaidi ya kilichosomwa 
+Kifungu cha maandishi ni msingi wa Injili ambao juu yake mahubiri hujengwa. Neno la Mungu ni mamlaka aliyonayo mhubiri (I Tim. 4:2). Neno la Mungu ndiyo mamlaka ya mwisho.
 
-Hotuba inaweza kujengwa kwa kuzingatia ukurasa au sura nzima. Mhubiri anaweza kuchagua kusoma sehemu sehemu za ujumbe mrefu au akapitia kwa kusoma jinsi anavyoendelea kuikamilisha hotuba yake. 
-
-#### Kifungu cha maandishi ni msingi wa Injili ambao juu yake mahubiri hujengwa 
-
-Neno la Mungu ni mamlaka aliyonayo mhubiri (I Tim. 4:2). Neno la Mungu ndiyo mamlaka ya mwisho.
-			
-> II Timotheo 3:16&mdash;Kila andiko, lenye pumzi ya Mungu, linafaa kwa mafundisho, na kwa kuwaonya watu makosa yao, na kuwaongoza, na kuwadabisha katika haki:
-
-#### Neno la Kilatini textus (kifungu cha maandishi) maana yake tunda la kusuka au mtandao
-
-Maandishi ni nguo ya mahubiri. Mahubiri yamesukwa kuyazunguka Kifungu cha maandishi.
+Neno la Kilatini _textus_ (kifungu cha Maandiko) maana "yake tunda la kusuka au mtandao." Maandishi ni nguo ya mahubiri. Mahubiri yamesukwa kuyazunguka Kifungu cha maandishi.
 
 ### Sababu za matumizi ya kifungu cha maandiko
 
 #### Ipo mifano ndani ya Biblia ya namna ya kusoma andiko kabla ya kufundisha
 
-##### Kitabu cha sheria kilisomwa kabla ya kuwaonesha watu (Neh. 8:8)
-
-##### Yesu alisoma kitabu cha Isaya kabla ya kuwafundisha watu (Lk. 4:16-20)
-
-##### Wafuasi wa Yesu walitumia maandiko kama msingi wa mafundisho yao
-
-###### Petro alimnukuu nabii Yoeli siku ya Pentekoste (Mdo. 2:16-21)
-
-###### Paulo alitumia Maandiko katika mafundisho yake (Mdo. 13:16-42)
-
-###### Timotheo alihimizwa kulihubiri Neno (2 Tim. 4:2)
+1. Kitabu cha sheria kilisomwa kabla ya kuwaonesha watu (Neh. 8:8)
+2. Yesu alisoma kitabu cha Isaya kabla ya kuwafundisha watu (Lk. 4:16-20)
+3. Wafuasi wa Yesu walitumia maandiko kama msingi wa mafundisho yao
+4. Petro alimnukuu nabii Yoeli siku ya Pentekoste (Mdo. 2:16-21)
+5. Paulo alitumia Maandiko katika mafundisho yake (Mdo. 13:16-42)
+6. Timotheo alihimizwa kulihubiri Neno (2 Tim. 4:2)
 
 #### Yapo matukio ya kihistoria yanayotumika ya kusoma andiko kabla ya kuhubiri
  
-##### Utaratibu katika Sinagogi ulihusisha usomaji wa sehemu ya Maandiko na kufuatwa na maelezo na mahubiri ya Maandiko.
+1. Utaratibu katika Sinagogi ulihusisha usomaji wa sehemu ya Maandiko na kufuatwa na maelezo na mahubiri ya Maandiko.
+2. Wahubiri wa kanisa la mwanzo walisoma vifungu vya Maandiko kabla hawajahubiri
+3. Wahubiri mashuhuri katika mikutano mikubwa ya uamsho husisitiza vifungu vya maandiko yaliyosomwa kabla ya kutoa mafundisho
 
-##### Wahubiri wa kanisa la mwanzo walisoma vifungu vya Maandiko kabla hawajahubiri
+#### Mamlaka ya mhubiri msingi wake ni Neno la Mungu
 
-##### Wahubiri mashuhuri katika mikutano mikubwa ya uamsho husisitiza vifungu vya maandiko yaliyosomwa kabla ya kutoa mafundisho
-
-#### Mamlaka ya mhubiri msingi wake ni NENO LA MUNGU
-
-##### Injili ni uweza wa Mungu uuletao wokovu (Rum. 1:16)
-
-##### Neno la Mungu halitarudi bure (Isaya 55:11)
-
-##### Falsafa ya mwanadamu haitaziokoa Roho za watu
+Injili ni uweza wa Mungu uuletao wokovu (Rum. 1:16). Neno la Mungu halitarudi bure (Isaya 55:11). Falsafa ya mwanadamu haitaziokoa Roho za watu.
 
 ### Uchaguzi wa kifungu cha Maandiko
 
@@ -82,23 +59,17 @@ Kifungu cha maandiko humpa mhubiri nafasi ya kuieleza Mandiko. Kifungu cha Maand
 
 Kifungu cha Mandiko yataushikia ujumbe mstarini. Kifungu cha Mandiko kitamzuia mhubiri asiyumbe na kupotea njia. Njia nzuri ya kukumbuka wakati unapopoteza hatua katika mahubiri au maandalizi na kurudi katika kifungu cha Maandiko. 
 
-## Umbile la kifungu cha maandiko
+### Umbile la kifungu cha maandiko
 
-### Kifungu cha Maandiko kinapaswa kukamilisha sentensi
+#### Kifungu cha Maandiko kinapaswa kukamilisha sentensi
 
-#### Iwapo siyo sentensi kamili, kifungu cha Mandiko kinapaswa kuwa na ukweli wote ambao unazungumziwa
+Iwapo siyo sentensi kamili, kifungu cha Mandiko kinapaswa kuwa na ukweli wote ambao unazungumziwa.
 
-Kifungu cha Mandiko sahihi siyo sehemu ya tamko lililotolewa katika maelezo. Sehemu za kifungu cha Maandishi zinaweza kutumiwa kwa ajili ya kitu chochote. Tafsiri sahihi ya taarifa za Biblia ni muhimu kuliko kutumia sehemu ya aya moja kama andiko.
+Kifungu cha Mandiko sahihi siyo sehemu ya tamko lililotolewa katika maelezo. Sehemu za kifungu cha Maandishi zinaweza kutumiwa kwa ajili ya kitu chochote. Tafsiri sahihi ya taarifa za Biblia ni muhimu kuliko kutumia sehemu ya aya moja kama andiko. Kwa mfano, sehemu ya Mathayo 18:17 ikitumiwa kama taarifa: "Akidharau kulisikiliza kanisa, muache yeye...". Kipande hiki cha maandishi kinaweza kutumiwa vibaya.
 
-Kwa mfano, sehemu ya Mathayo 18:17 ikitumiwa kama taarifa: "Akidharau kulisikiliza kanisa, muache yeye...". Kipande hiki cha maandishi kinaweza kutumiwa vibaya.
+> "Aya za andiko hazipaswi kukatwa katwa kwa ajili ya kupata uzito au matamko yenye kusisimua."
 
-"Aya za andiko hazipaswi kukatwa katwa kwa ajili ya kupata uzito au matamko yenye kusisimua."
-
-#### Weka akilini mwako ukweli mmoja ambao utauzungumzia
-
-Mtiririko ambao andiko hilo litatokea ni lazima ufikiriwe vizuri. Hii itakulinda usifanye makosa na kuhakikisha tafsiri ya Injili inafanyika ipasavyo.
-
-Mifano ya matumizi mazuri ya sehemu za vifungu vya Maandiko:
+Weka akilini mwako ukweli mmoja ambao utauzungumzia. Mtiririko ambao andiko hilo litatokea ni lazima ufikiriwe vizuri. Hii itakulinda usifanye makosa na kuhakikisha tafsiri ya Injili inafanyika ipasavyo. Mifano ya matumizi mazuri ya sehemu za vifungu vya Maandiko:
 
 * ...damu ya agano la milele... (Waebrania 13:20)
 * ...mimi ni wa nani... (Matendo 27:23)
@@ -107,19 +78,15 @@ Mifano ya matumizi mazuri ya sehemu za vifungu vya Maandiko:
 * ...wana wako, Ee Sayuni wapigane na wana wako, Ee Uyunani... (Zakaria 9:13)
 * ...Kila mtu kwanza huandaa divai iliyonjema;... ndipo huleta iliyodhaifu... (Yohana 2:10)
 
-### Urefu wa taarifa huamuliwa na dhamira yake
+#### Urefu wa taarifa huamuliwa na dhamira yake
  
-#### Uwe mwangalifu kuhakikisha kwamba mada imetokana na urefu wa taarifa
+Uwe mwangalifu kuhakikisha kwamba mada imetokana na urefu wa taarifa. Isiwe fupi mno kwa sababu haitaweza kueleza vizuri dhamira. 
 
-Isiwe fupi mno kwa sababu haitaweza kueleza vizuri dhamira. 
+##### Taarifa fupi huvuta utulivu
 
-#### Taarifa fupi huvuta utulivu
+Ni rahisi zaidi kwa waumini kukumbuka. Uwe mwangalifu katika kutumia taarifa fupi mno ambazo zinashindwa kukamilisha wazo.
 
-Ni rahisi zaidi kwa waumini kukumbuka.
-
-Uwe mwangalifu katika kutumia taarifa fupi mno ambazo zinashindwa kukamilisha wazo.
-
-#### Taarifa ndefu huwa kamili na zina mamlaka
+##### Taarifa ndefu huwa kamili na zina mamlaka
 
 Ni msingi kamili wa somo. Ni fursa ya kulinganisha taarifa za Biblia kwa waumini.
  
