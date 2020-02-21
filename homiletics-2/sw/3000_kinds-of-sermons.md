@@ -1,4 +1,4 @@
-# Kinds of Sermons
+# Aina za Hotuba
 
 Kuna aina kuu mbili za hotuba: yakifungu na yakimada.
 

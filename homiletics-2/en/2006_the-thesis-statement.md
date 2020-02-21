@@ -26,4 +26,3 @@ The thesis statement allows you to know exactly what the sermon is to be about. 
 * TEXT: How shall we escape, if we neglect so great salvation; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him (Heb. 2:3)  
 	THESIS: Those who do nothing concerning their soul are in fact rejecting the greatest gift and will not escape eternal judgment in hell.
 
-	

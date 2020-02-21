@@ -6,6 +6,8 @@ Hotuba za kifungu nizile ambazo somo na migawanyo mikuu vimepatikana kutoka kifu
 
 Maneno muhimu ndio yanayofanya sehemu za hotuba. Yafuatilie kwa umakini maneno yaliyoandikwa kipengele kwa kipengele. Maandishi hayo yanatenganishwa katika vifungu vinavyofaa kufanyia kazi, kwa ajili ya uchunguzi kamili. Maandishi hayo hayapasuliwi kama mtu anayevunja kwa nyundo kama mtoto anavyoweza kupasua saa. Maandishi hayo yanagawanywa kwa umakini wa mtengeneza saa. 
 
+Kugawanya maandishi katika lugha yake sahihi. Kwa uwazi, kupata viungo vyake asilia katika maandishi. Tafsiri sahihi ya maneno ya maandishi. Maana yake katika lugha ya asili (kitabu cha Strong kiitwacho Mzabibu). Tafakari ya taarifa kwa maneno yaliyoko ndani ya msitari. Kutafakari taarifa ya msitari ndani ya taarifa yote.
+
 ### Manufaa ya hotuba ya kifungu
 
 #### Muundo (mgawanyiko) umetengenezwa tayari
@@ -15,10 +17,6 @@ Maneno muhimu ndio yanayofanya sehemu za hotuba. Yafuatilie kwa umakini maneno y
 ### Mafanikio
 
 Mafanikio ya kuandika hotuba yanategemea uchaguzi wa maandishi. Maandishi ya aina fulani yanafaa zaidi kuliko mengine kwa ajili ya kazi ya hotuba. Maandishi mengine ni bora zaidi kwa ajili ya kupanga mada. Maandishi yanaweza kuwekwa katika njia mbalimbali.
-
-### Lugha sahihi
-
-Kugawanya maandishi katika lugha yake sahihi. Kwa uwazi, kupata viungo vyake asilia katika maandishi. Tafsiri sahihi ya maneno ya maandishi. Maana yake katika lugha ya asili (kitabu cha Strong kiitwacho Mzabibu). Tafakari ya taarifa kwa maneno yaliyoko ndani ya msitari. Kutafakari taarifa ya msitari ndani ya taarifa yote.
 
 ### Kutambua tabia ya mafundisho ya namna hii
 

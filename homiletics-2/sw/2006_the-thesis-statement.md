@@ -26,4 +26,3 @@ Maelezo hayo ya hoja hukuwezesha kufahamu somo kamili litahusu nini? Weka ujumbe
 * Andiko: Tutapataje kupona, tusipojali wokovu mkuu namna hii? Ambao kwanza ulinenwa na Bwana, kisha ukathibitika kwetu na wale waliosikia (Ebr. 2:3)  
 	Hoja: Kwa kweli wale ambao hawafanyi chochote kuhusu roho zao wanakataa zawadi kubwa kupita zote na hawataepuka hukumu ya milele motoni.
 
-	

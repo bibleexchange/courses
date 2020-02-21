@@ -49,13 +49,13 @@ Kwenye ufufuo jumapili watu wanatarajia kusikia hotuba kuhusu ufufuo wa Kristo. 
 
 Maafa ya kitaifa yanaweza kuwafanya watu watambue nguvu za Mungu. Unaweza kuonesha jinsi unabii wa Biblia unavyokamilika. 
 
-#### Faida za kutumia kifungu cha Maandiko
+### Faida za kutumia kifungu cha Maandiko
 
-##### Kifungu cha Maandiko huonesha kwamba unazingatia ukweli na huhamasisha mshikamano na Biblia
+#### Kifungu cha Maandiko huonesha kwamba unazingatia ukweli na huhamasisha mshikamano na Biblia
 
 Kifungu cha maandiko humpa mhubiri nafasi ya kuieleza Mandiko. Kifungu cha Maandiko huzuia matumizi ya maneno yaliyo kinyume na mada isiyo ya ki-maandiko.
 
-##### Kifungu cha Maandiko huzuia kuropoka
+#### Kifungu cha Maandiko huzuia kuropoka
 
 Kifungu cha Mandiko yataushikia ujumbe mstarini. Kifungu cha Mandiko kitamzuia mhubiri asiyumbe na kupotea njia. Njia nzuri ya kukumbuka wakati unapopoteza hatua katika mahubiri au maandalizi na kurudi katika kifungu cha Maandiko. 
 

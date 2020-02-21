@@ -74,6 +74,6 @@ Neno moja haliko wazi kwa hiyo halifai kukamilisha kichwa cha somo. Neno moja ka
 
 Kama kawaida maandishi hayo yanapendekeza mada. Maandishi ni eneo la Maandiko ambayo husomwa kabla somo halijafundishwa. Kumbuka kwamba unafundisha Neno la Mungu. Mada inapaswa kwa asili ipatikane kutoka katika Injili. Maandishi hayo hayahitaji kutupwa kwenye ubao na kupata shida kabla ya mada kutolewa ndani yake. Mada inapaswa ionekane kwa urahisi katika maandishi kama moja ya mawazo yanayotawala. Wakati wa kulitoa somo ni vizuri kutumia mara kwa mara maneno yaliyoko katika maandishi. Kumbuka kulihubiri Neno kwa sababu mamlaka yako yanatokana na hilo Neno.
 
-**MAZOEZI: Tambua dhamira kuu ya kila moja ya vifungu vifuatavyo na kisha utambue baadhi ya makusudi madogomadogo kila kifungu. Yohn
-10:7--10; Zab 14:1; Yoh 14:6;**
+**MAZOEZI:** Tambua dhamira kuu ya kila moja ya vifungu vifuatavyo na kisha utambue baadhi ya makusudi madogomadogo kila kifungu. Yohn
+10:7--10; Zab 14:1; Yoh 14:6;
 

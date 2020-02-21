@@ -6,6 +6,8 @@ Textual sermons are those in which the subject and main divisions are derived fr
 
 The prominent words of the text form the divisions of the sermon. Follows closely the words of the text, clause by clause. The text is taken apart into manageable portions, for the purpose of a thorough examination of the text. The text is not taken apart with a club, as a child might break up a watch. The text is taken apart with the precision of a watchmaker.
 
+Division of the text in its precise language. At clear, natural breaking points within the text. A correct interpretation of the words of the text. The meaning in the original language (Strong’s, Vine’s). Considering the context of the word within the verse. Considering the context of the verse within the entire passage.
+
 ### Advantages of the textual sermon
 
 #### The structure (divisions) are already made
@@ -15,10 +17,6 @@ The prominent words of the text form the divisions of the sermon. Follows closel
 ### Success
 
 The success of the textual sermon. Dependent upon the selection of the text. Certain texts are better suited to textual treatment. Other texts are best treated in a topical manner. Many texts can be treated in a variety of different ways.
-
-### Precise language
-
-Division of the text in its precise language. At clear, natural breaking points within the text. A correct interpretation of the words of the text. The meaning in the original language (Strong’s, Vine’s). Considering the context of the word within the verse. Considering the context of the verse within the entire passage.
 
 ### Distinguishing characteristics of this type of sermon
 

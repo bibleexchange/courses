@@ -1,0 +1,691 @@
+Second Year
+
+TEXTBOOK
+
+# Homiletics 2
+
+## Sermon Preparation & Preaching
+
+# Introduction
+
+This class will teach how to prepare a basic sermon outline. An outline is a simple way of taking notes on the Scripture that has been studied. The outline is simple notes which make a framework for the sermon. A well organized outline will aid in the preaching of the sermon.
+
+You will learn how to organize what you have studied into one central theme or subject. The sermons recorded in the Bible have one central theme. The theme is the one main subject or thought which will be the main focus of the sermon. The preaching of one central theme is a **biblical pattern**. This method makes it easier for the congregation to comprehend and therefore receive what has been preached. Good homiletics helps the preacher stay focused on the message that God has for the people.
+
+## Sermon Organization
+
+"Outlining" is taking what we have learned in our study of the Scripture and then laying it out in an orderly and efficient way so we can understand it and explain it better. Outlining will enable the preacher and teacher to impart knowledge to others in a more profound and impacting way. Remember that Scripture is the source of Christian teaching; all we do is tap into it and pour out God's most precious precepts for all to drink.
+
+Why Should We Make an Outline? Organization is very important to the communication of the Gospel and outlines are essential tools of organization. There are no shortcuts to good Biblical preaching. Outlining will be your primary means of producing quality, Bible-centered lessons, talks, and sermons.
+
+## Organization of Biblical Sermons
+
+### Peter's Sermon on the Day of Pentecost (Acts 2:14–41)
+
+Note that Peter's sermon had a textual foundation.
+
+TEXT: vs. 17–21 (Quotation from Joel 2:28–32)
+
+TITLE: Jesus is the Messiah
+
+I.  INTRODUCTION (vs. 14–16)
+II.  JESUS FULFILLED GOD'S PLAN (vs. 22–24)
+  A.  Jesus was approved of God
+	  1.  By miracles, wonders and signs
+	  2.  By the work of God
+  B.  The crucifixion was according to God's plan
+  C.  The resurrection was fulfilled according to prophecy
+  D.  According to the foreknowledge of God
+III.  JESUS FULFILLED DAVID'S PROPHECY (vs. 25–31)
+  A.  David was a prophet of God
+  B.  Christ to sit on David's throne
+  C.  Resurrection of Christ was foretold by David
+IV.  JESUS FULFILLED THE PLAN OF GOD AS THE EXALTED CHRIST (vs. 32–36)
+  A.  This Jesus hath God raised up
+  B.  Jesus is exalted on the Right hand of God
+  C.  Jesus is Lord and Christ
+V.  CONCLUSION (vs. 37–40)
+  A.  Results—pricked in their heart (conviction)
+  B.  Application—call to repent and be baptized
+  C.  Many responded—3000 souls saved
+
+### Jesus' Preaching
+
+#### In the Gospel According to Mathew
+
+1. Sermon on the mount (5:1–7:29; Luke 6:17–49)
+2. The 12 commissioned (10:1–42; Mark 6:6–13)
+3. About John the Baptist (11:2–30; Luke 7:18–35)
+4. A House Divided (12:22–50; Mark 3:20–30)
+5. Parables by the Sea (13:1–53; Luke 8:4–21)
+6. Kingdom Greatness (18:1–35; Mark 9:33–50)
+7. Authority of Christ (21:23–22:14; Luke 20:1–19)
+8. Woes to Leaders (23:1–39; Mark 12:38–40)
+9. The End of Time (24:1–26:2; Mark 13:1–37)
+10. Upper Room Discourse (26:26–35; John 13:1–17:26)
+
+#### In the Gospel According to Mark
+
+1. Parables by the Sea (4:1–34; Matthew 13:1–53
+2. Traditions of Men (7:1–23; Matthew 15:1–20
+3. Warnings (9:30–50; Matthew 18:1–35)
+4. Concerning Divorce (10:1–12; Matthew 19:1–12)
+5. Return of Christ (13:1–37; Luke 21:5–36)
+
+#### In the Gospel According to Luke
+
+1. Sermon on the Plain (6:17–7:1; Matthew 5:1–7:29)
+2. About John the Baptist (7:18–35; Matthew 11:2–30)
+3. Parables by the Sea (8:4–21; Matthew 13:1–53)
+4. Seventy Sent (10:1–24; Matthew 10:1–42)
+5. How to Pray (11:1–13; Matthew 6:5–15)
+6. A House Divided (11:14–36; Mark 3:2–31)
+7. Pharisees Rebuked (11:37–54; Mark 7:1–23)
+8. God Cares (12:1–13:9; Matthew 10:5–33)
+9. Discipleship (14:25–35; Matthew 10:34–42)
+10. The Lost Parables (15:1–16:31; John 9:35–10:21)
+11. The Second Coming (17:20–37; Matthew 24:32–51)
+12. Parables On Prayer (18:1–14; Luke 11:1–13)
+13. The End of Time (21:5–36; Matthew 24:1–26:2)
+
+#### In the Gospel According to John
+
+1. Meets Nicodemus (3:1–21; Romans 6:1–14)
+2. Woman at the Well (4:5–38; Colossians 3:16)
+3. His Equality with God (5:17–47; Matthew 28:18–20)
+4. Bread of Heaven (6:26–58; John 8:12–59)
+5. Light of the World (8:12–59; John 6:26–58)
+6. The Good Shepherd (9:35–10:21; Luke 15:1–10)
+7. Son of God 10:22–39 (Matthew 25:31–46)
+8. Upper Room Discourse (13:1–17:26; Matthew 26:26–35)
+
+### Paul's Sermons
+
+1. He Preached Christ that He is the Son of God (Acts 9:20)
+2. At Antioch (Acts 13:16–43)
+3. Before Felix (Acts 24:10–21)
+
+# Parts of a Sermon
+
+A sermon should be outlined and have a structured, logical order of thought. You must know where you are going and lead on a path that your hearers can follow!
+
+First, look for a general theme, then sub-themes and ideas, such as where each idea begins and ends, and how it is sustained. Search for the principal themes and the logical order of each sub-idea; then, when you see another principal/primary theme, you can place it in the next category or section.
+
+An outline is basically an aid to help lay out the precepts and reasons of your sermon in a systematic, easy to use and easy to read structure. It helps you as the preacher and others as the hearers to identify the general ideas and key thoughts of your sermon. The basic consideration is for you to define the main idea and then the subordinate ideas.
+
+How do you Construct an Outline? Basically, you are making a framework with the following components:
+
+1. TEXT: The foundation of ANY sermon. What portion of Scripture are you preaching?
+2. THEME: Your sermon in one sentence. (Probably completed last in the sermon preparation process. Could include a "Title.")
+3. INTRODUCTION: An introductory paragraph PREPARING the hearers for what is to be said.
+4. BODY
+5. CONCLUSION: Review, summarize, and or call to action. In the conclusion you could REMIND the hearers what has been said.
+
+Outlining, like any new activity, will take practice. Be persistent and do not get frustrated. It will take time and practice!
+
+## The Text
+
+### The meaning of the term text
+
+The term _text_ usually refers to the Scripture read by the preacher at the beginning of the sermon. It is the portion of Scripture that will be expounded upon.
+
+The text may include more than is actually read. The sermon may be built upon an entire passage or chapter. The preacher may chose to read only portions of a lengthy text, or read through it as he progresses through the sermon.
+
+The text is the Scriptural foundation upon which the sermon is built. The Word of God is the preacher’s authority (I Tim. 4:2). The Word of God is the final authority.
+
+The Latin word _textus_ means "the product of weaving or the web." The text is the fabric of the sermon. The sermon is woven around the text.
+
+### The Reasons for the Use of a Text
+
+#### There are Biblical examples of reading Scripture before exhortations
+
+1. The Book of the Law was read prior to exposition (Neh. 8:8)
+2. Jesus read from Isaiah before He taught the people (Lk. 4:16-20)
+3. The Apostles used Scripture as a foundation for their sermons
+4. Peter quoted from Joel on the Day of Pentecost (Acts 2:16-21)
+5. Paul used Scripture in his preaching (Acts 13:16-42)
+6. Timothy was admonished to Preach the Word (II Tim. 4:2)
+
+#### There is historical precedent for reading Scripture before sermons are preached
+
+1. The Synagogue setting consisted of reading a portion of Scripture followed by explanation and exhortation of the Scripture
+2. The early church preachers read Scripture texts before they preached
+3. Effective preachers of the great revivals expounded upon Scripture texts read before the sermon
+
+#### The preacher’s authority is founded upon the Word of God
+
+The Gospel is the power of God unto salvation (Rom. 1:16). God’s Word will not return void (Is. 55:11). The philosophy of man will not save souls.
+
+### The Selection of the Text
+
+#### The text should be chosen with careful consideration
+
+Pray for the direction of The Holy Spirit when selecting a text. Also, consider the appropriateness of the text for the congregation to be addressed. For example, Song of Solomon 1:13 would not be an appropriate text for preaching to children.
+
+#### Realize the needs of the congregation when selecting a text
+
+Have there been recent personal tragedies that would make certain subjects very delicate? Remember, you are trying to help and not hurt. Sometimes you have to hurt someone to help them, but just because you are hurting someone does not mean you are helping. Much damage has been done by preachers abusing people with the Word of God.
+
+#### Involve the Christian Church calendar when you select a text
+
+On Resurrection Sunday people expect to hear a sermon about the resurrection of Christ. On Christmas, the day set aside to celebrate the birth of Christ, you can select a text that deals with the birth of Christ.
+
+#### Current events can be taken advantage of in the selection of a text
+
+National disasters can cause people to realize God’s power. You can show how Bible Prophecy is being fulfilled.
+
+### The advantages of using a text
+
+#### A text conforms the elements of preaching to truth and promotes attachment to the Bible
+
+The text gives the preacher opportunity to explain Scripture. The text guards against un-Scriptural topics.
+
+#### A text guards against rambling
+
+The text will hold the message on track. The text will keep the preacher from wandering and getting lost. A good key to remember when you lose your place preaching or preparing is to go back to the text.
+
+### The structure of the text
+
+#### The text should form a complete sentence
+
+If not a complete sentence, the text must include at least a complete truth to be expounded.
+
+A proper text is never a phrase taken out of context. Portions of texts can be used to say almost anything. Correct Biblical interpretation is essential to properly using only a portion of a verse as a text. For example, if a portion of Matthew 18:17 was used as a text:“If he neglect to hear the church, let him…”. This fragmented text could be used in a very wrong way.
+
+> “Verses of scripture should not be mutilated for the sake of obtaining a striking or sensational text.”
+
+Keep in mind, one complete truth is to be expounded upon. The context in which the text appears must always be considered. This will guard against error. This will insure proper interpretation of the Scripture. Examples of useable fractional texts:
+
+* …the blood of the everlasting covenant… (Hebrews 13:20)
+* …Whose I am… (Acts 27:23)
+* …reconciled to God… (Romans 5:10)
+* …unsearchable riches… (Ephesians 3:8)
+* …thy sons, O Zion, against thy sons, O Greece… (Zechariah 9:13)
+* Every man at the beginning doth set forth good wine… then that which is worse, but thou… (John 2:10)
+
+#### The length of the text is determined by the theme
+
+Be certain the theme is expressed from the chosen length of the text. Not so short as to not clearly explain the theme. Not so long as to give more than necessary to naturally suggest the theme.
+
+##### Short texts arrest attention
+
+They are easier for the congregation to remember. Be careful not to use a text excessively short that does not form a complete thought.
+
+##### Long texts give fullness and authority
+
+A complete foundation for the sermon. An opportunity to relate Biblical accounts to the congregation.
+
+### Texts may be drawn from more than one passage
+
+#### Complementary texts
+
+The word complement means something that completes, makes up a whole, or brings to perfection. Complement is not compliment which is an expression of praise. Texts which corroborate or work together to explain a complete truth are complementary texts.
+
+Examples of complementary texts:
+
+* EXAMPLE 1:
+	* “I am the door of the sheep” (John 10:7)
+	* “We have access by faith” (Romans 5:2)
+	* “We both have access by one Spirit” (Ephesians 2:18)
+	* “Enter into the holiest by the blood of Jesus” (Hebrews 10:19)
+* EXAMPLE 2:
+	* “A Faithful minister of Christ” (Colossians 1:7)
+	* “I Paul am made a minister” (Colossians 1:23) (A minister of the Gospel)
+	* “A minister of the church” (Colossians 1:24-25)
+* EXAMPLE 3:
+	* “Thou wilt keep him in perfect peace, whose mind is stayed on thee:” (Isaiah 26:3)
+	* “And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.” (Philippians 4:7)
+
+#### Contrasting texts
+
+The word contrast means to compare as to point out the differences. Texts which reveal more than one side or aspect of a subject are contrasting texts. It is important to note that these texts are contrasting and not contradicting!
+
+Examples of contrasting texts:
+
+* EXAMPLE 1:
+	* “for our God is a consuming fire” (Hebrews 12:29)
+	* “for God is love” (I John 4:8)
+* EXAMPLE 2:
+	* “let us fall now into the hands of the LORD; for his mercies are great:” (II Samuel 24:4)
+	* “It is a fearful thing to fall into the hands of the living God.” (Hebrews 10:31)
+* EXAMPLE 3:
+	* “I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children,” (Exodus 20:5)
+	* “The son shall not bear the iniquity of the father,” (Ezekiel 18:20)
+
+#### Parallel texts
+
+The word Parallel means side by side, extending in the same direction, similar or corresponding. To compare is to show how things are alike. Texts of the same words used in various ways could be called parallel texts.
+
+Examples of parallel texts:
+
+* EXAMPLE 1:
+	* The “ifs” of the eleventh chapter of John stand up like the successive peaks of a mountain range (John 11:9, 10, 12, 21, 40).
+* EXAMPLE 2:
+	* C.H. Spurgeon preached a sermon on the words “I have sinned”:
+	* The hardened sinner Pharaoh (Exodus 9:27)
+	* Double-minded Balaam (Numbers 22:34)
+	* Insincere King Saul (I Samuel 15:24)
+	* Remorseful Achan (Joshua 7:20) (Sorry he was caught, but not repentant)
+	* Agonizing Judas (Matthew 27:4)
+	* Job, overwhelmed by the righteousness of God (Job 7:2)
+	* The repentant prodigal (Luke 15:21)
+
+## The Title
+
+The name given to the sermon is called a title. Most of the time a title is extremely helpful in clarifying your topic to the hearers. Not every sermon has to have a catchy title like “Running for the Gold,” but your sermon direction needs to be communicated to the hearers near the start of the sermon. A title is the simplest way to tell the hearers, “This is the direction we are going in today.”
+
+## The Introduction
+
+The introduction is the most important part of the sermon. This is the time for you to get the people's attention. If they are not interested in the introduction, then they probably will not be interested in the rest of the sermon. Surprise or shock the people to get their attention. Tell them a joke, story, or object lesson, but make sure that it helps explain your subject. Do not use a story just because it is funny or interesting. If a story is interesting, but it does not agree with your theme, then it will hurt your sermon and not help it. You can also begin by relating your subject to current events that people heard from the news.
+
+Questions are a good way to start. You can ask a question, and maybe the people will give an answer or maybe they will not, but it is good to get them thinking about the problem. Jesus used many questions in His preaching.
+
+Lead the congregation into the sermon. Do not ramble, but use the beginning moments to lay the foundation of the sermon. Do not just talk or tell stories that have nothing to do with your subject. If you are new to a church, you can take a short moment to greet the people and thank them for inviting you, but do this very quickly.
+
+Lean wholly on the leading of the Holy Ghost that He would prepare the hearts and minds of the hearers to receive the message of the hour.
+
+## The Theme
+
+The theme is the main subject of the sermon. It is the main thought or idea that is to be communicated to the people. The theme will answer the question: "What am I talking about?" The theme or subject is simply what the sermon is going to be about. What is the message that God has for the people? This one message or subject is what is called the theme.
+
+A sermon should not be scattered, unrelated thoughts going in every direction, but every thought should be united by a single theme or subject. Preaching is not stand-up comedy or story time, but is eternal business where the preacher waits on God for the message of the hour and then follows through to the best of his ability to communicate that single theme in his preaching. Do not preach your own thoughts, but preach the mind of God.
+
+### The theme expresses the purpose the preacher has in mind
+
+The preacher should always have a purpose. There needs to be a target in view. You should not be shooting buckshot, hoping to hit something. Preaching should have the precision of a sharpshooter. If you aim at nothing you will hit nothing.
+
+A clear purpose will insure only one theme in the sermon. There may be more than one theme in the text, but there should not be more than one in the sermon.
+
+### The advantages of having a theme
+
+#### Effective communication demands a single theme
+
+You will learn in this class that the use of one main theme was the Biblical pattern for the prophets and preachers. The prophets had a message from God; they declared God’s message with authority and precision. The sermons in the New Testament contain one single theme. The preacher must have a message from God. There is a difference between a preacher that simply picks a sermon to preach and a preacher that has a message from God. God is a God of order and timing. God has a message for the people; you need to know the message of God for the time that you will preach.
+
+You must be able to communicate the message to the people. The message will have one main thought or theme; the one point that God wants to impress upon the people that day. This is not about just trying to be intellectual or an orator. It is about receiving a message from God and then preaching that message to the people. The purpose of this class is to help the preacher deliver the message from God to the people. The message is expressed in words.
+
+#### The theme insures arrangement in the sermon
+
+A sermon should not be a collection of thoughts that have little or no relationship to each other. This class will teach you how to break the sermon into workable portions which will be preached one part at a time. These parts will be referred to in this class as the points of the sermon. This can be compared to preparing a meal and then serving it one course at a time.
+
+The points of the sermon should always relate to the theme and progress like steps taken on a journey. You are building upon the theme one step at a time. You will advance the theme one point at a time with each point always referring back to the theme.
+
+The theme should be kept in mind when preparing the sermon.
+
+#### The theme promotes unity in the sermon
+
+Let the sermon be the one message that God has for the people. You are preaching one sermon and not several little sermons.
+
+Let the theme be evident throughout the sermon. Would a late-comer be able to determine the subject of the sermon? Could the hearers answer the question: What is the preacher talking about? The theme should remain the final and ruling impression on the hearer's mind.
+
+#### The theme helps to give clearness of thought to the sermon
+
+The preacher must clearly define his theme if he wants his sermon to be clearly understood. Do not aim at more than what can be discussed in the time given. “He grasps at the stars and sticks in the mud."—John Wesley
+
+Narrowly define the subject to be preached. The thesis statement is the term used to refer to a complete sentence that clearly defines the sermon to be preached. This will be dealt with later. Keep the theme within practical limitations, deal with one aspect of truth at a time and try to save something for next time.
+
+### Different types of themes
+
+1. Doctrinal—Instructional preaching of Bible doctrine (II Tim. 4:2).
+2. Historical—Setting the historical scene of a Scripture passage (Telling the story). Relating of history to inspire faith (Great revivals).
+3. Biographical—Preaching on Scriptural persons and great people of God.
+4. Exegetical—An explanation or thorough examination of the text.
+5. Prophetical—Show how prophecy has been fulfilled. Scripturally unfold God's plan for the future.
+
+### Biblical precedent for a theme
+
+**The Old Testament prophets’** messages were clear messages from God. They had a complete message that contained one theme at a time. There was a specific purpose for each of the messages. The specific purpose was to persuade the people to return to God by warning the people of coming judgment and other prophecies of future events.
+
+**Jesus** preached well organized discourses and He is the supreme example of the preacher. A central theme is evident in the sermons of Jesus.
+
+The sermons of the **NT apostles** were proclamations of a single idea. The example set by the NT apostles demonstrated the importance of one major theme. The sermons were directed toward a particular audience and contained a singular message.
+
+**Each book of the Bible** expresses a unified theme. For example, Psalms is not incoherent and painfully random, but over and over again it expresses the vital elements of worship.
+
+### The characteristics of the theme
+
+#### The theme should narrowly define the subject to be preached
+
+It should not be too broad of a subject to be covered in one sermon. In a single sermon, one concise concept should be addressed.
+
+#### The theme should be expressed with clearness of thought
+
+Use plain, simple speech while you are preaching. The theme should be easily understood by the congregation.
+
+#### The subject of a sermon should never be only one word
+
+Single words are too vague to form a complete subject. Single words like worship, faith and love are too broad for a sermon subject. The subject needs to be clearly expressed to form a complete thought. For example, there are so many aspects of love that could be preached in a sermon. You need to know what part of love you intend to preach for one sermon.
+
+#### The theme should come from the text
+
+As a rule, the text naturally suggests the theme. The text is the portion of Scripture that is read before the sermon is preached. Remember that you are preaching the Word. The theme should flow naturally from the Scripture. The text should not need to be flung on the rack and tortured before the theme can be extracted from it. The theme should also be evident in the text as one of its ruling ideas. During the delivery of the sermon it is effective to frequently use the words of the text. Remember to preach the Word because your authority comes from the Word.
+
+**EXERCISE: Identify the main theme of each of the following texts and then identify some of their sub-themes. John 10:7–10; Psalm 14:1; John 14:6;**
+
+## The thesis statement
+
+### What is the thesis statement?
+
+The term thesis statement is used to refer to the one complete sentence that will define the subject to be preached. **It is the entire sermon described in one complete sentence.** It is a way of expressing what the sermon is going to be about. It is the entire sermon described in one complete sentence. It is to let the people know where you are going so they can follow you. It is the theme expressed in a clear, complete and concise sentence—a sentence that will give direction to the sermon. The thesis statement will narrow broad subjects.
+
+### The thesis statement completes the subject
+
+A subject cannot stand alone. A subject needs a complement to be complete. A complete sentence needs both a subject and a predicate. This statement will add a predicate to the subject. You need to know what you are going to say about your subject.
+
+* The subject answers the question: What am I going to say?
+* The thesis statement answers the question: What am I going to say, about what I am going to say?
+
+For example, a possible thesis statement for a sermon preached from Romans 10:17 could simply be: True faith requires a Word from God and then obedience to act upon that Word. This answers the question: what am I going to say about faith? The complete sentence (thesis statement) gives a focus for the sermon.
+
+### The thesis statement is of great value
+
+The thesis statement allows you to know exactly what the sermon is to be about. Put the message that you have received from God into one sentence. It lays a foundation for the entire sermon and will help you introduce the sermon. In one sentence, you will be able tell the people what you intend to preach. The people will know where you are going so they can easily follow you. It helps the people to retain the main subject of the sermon and answer the question: “What was the sermon about?” Since people are able to recall from memory a fraction of what they hear, a thesis statement packages the message into a memorable size so they can take the truth home with them.
+
+### Examples of Thesis Statements Taken from Scripture Texts
+
+* TEXT: Let this mind be in you which was also in Christ Jesus (Phil. 2:5)  
+	THESIS: The believer must allow his thoughts to be in line with the mind of Christ.
+* TEXT: Jesus wept (John 11:35)  
+	THESIS: The unbelief of man grieves the heart of God.
+* TEXT: How shall we escape, if we neglect so great salvation; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him (Heb. 2:3)  
+	THESIS: Those who do nothing concerning their soul are in fact rejecting the greatest gift and will not escape eternal judgment in hell.
+
+## The Body
+
+The body of the sermon outline includes the meat and substance of the sermon expressed as main points. The sermon is built step by step in the body of the outline.## The Conclusion
+
+The conclusion is the end of a sermon, but is not merely the point where you say you are done, but is perhaps the most important part of the sermon. It is so important because it is an intense time of decision for the hearers. The conclusion should include a call to action. The question, “What should be said in the conclusion?” is answered by answering another question, “If the congregation were to leave forgetting everything that I have said in my sermon except for one thing, what would I want that one thing to be?” The answer to that question should be your conclusion. There are at Least Three Kinds of Sermon "Conclusions."
+
+This is where you use application. After you finished the outline. This is taking the plain meaning and putting it to practical use. This is the, how shall I respond to the Word what sin will I get rid of, to what commands will I yield, what pitfalls to avoid, in what actions to engage, and what promises to keep.
+
+### The Summary Conclusion
+
+One Possible Goal for Your Conclusion Could be To summarize the core ideas of your sermon.
+
+If you preach for any length of time most of what you have said will be forgotten by your listeners. You can use your conclusion to remind the listeners of the most important thoughts of your sermon. Do not leave anything to chance, but tell your listeners what they should remember.
+
+The summary should be done first. However, you can incorporate it in your teaching at the end.
+
+**Exercise:** Write a Summary and Conclusion to Your Passage of Scripture
+
+### The Relative Conclusion
+
+A Second Possible Goal for Your Conclusion Could be To relate the core ideas of your sermon to your listeners.
+
+This use of a conclusion, assumes the listeners remember well enough what was said, but need to be shown how what was said relates to them. You can try to answer the question, "I have heard what you said, but why does it matter to me?" Seek to cause the listeners to know that God is speaking to them personally and not just their neighbor.
+
+#### Conclusions that Propose specific procedures
+
+Tell the people what they should do next. For example, "Go forgive someone," "give someone a gift," or "accept salvation."
+
+#### Conclusions that apply ideas to audience interest
+
+Help the people understand how this message can help their problems. For example, "You don't have to be lonely anymore."
+
+### The Challenging Conclusion
+
+A Third Possible Goal for Your Conclusion Could be To Challenge your listeners to respond to your sermon. The conclusion is the last opportunity to convince the people, if you have not already done so.
+
+Action is the goal of the challenging conclusion. This use of your conclusion seeks to challenge your listeners to action. Assuming they remembered what was said and know God is speaking to them and not just somebody else, you seek to inspire them to respond to the sermon with action. An example of this could be giving an altar call to sinners and calling them to repent and pray to God without delay. The action that is challenged to in this type of conclusion is that the sinners would PRAY to God and be born again.
+
+#### Appeal to Local Interests
+
+#### Appeal to Higher Motives
+
+#### Appeal to Emotions
+
+# Kinds of Sermons
+
+There are two major kinds of sermons: Textual and Topical.
+
+1. Textual—The text gives the theme, title and divisions. The divisions are suggested by the prominent words of the text.
+2. Topical—Founded on the theme or topic of the text.
+
+## The Textual Sermon
+
+Textual sermons are those in which the subject and main divisions are derived from the text. Gibbs in his book, The Preacher and His Preaching, says that the textual sermon consists of selecting verses, a verse, or even the part of a verse as the text.
+
+### Divisions
+
+The prominent words of the text form the divisions of the sermon. Follows closely the words of the text, clause by clause. The text is taken apart into manageable portions, for the purpose of a thorough examination of the text. The text is not taken apart with a club, as a child might break up a watch. The text is taken apart with the precision of a watchmaker.
+
+### Advantages of the textual sermon
+
+#### The structure (divisions) are already made
+
+#### It is true to the Scripture
+
+### Success
+
+The success of the textual sermon. Dependent upon the selection of the text. Certain texts are better suited to textual treatment. Other texts are best treated in a topical manner. Many texts can be treated in a variety of different ways.
+
+### Precise language
+
+Division of the text in its precise language. At clear, natural breaking points within the text. A correct interpretation of the words of the text. The meaning in the original language (Strong’s, Vine’s). Considering the context of the word within the verse. Considering the context of the verse within the entire passage.
+
+### Distinguishing characteristics of this type of sermon
+
+#### It should be natural and easy to develop a flowing of thought to thought
+
+Do not force divisions at awkward breaking points. 
+
+#### There should be a distinct advancement in thought
+
+Each division should carry the theme one more step towards the climax. It is not always necessary to divide the words of the text as they occur, as long as there is advance of direction within the sermon itself.
+
+### Ways to receive a text
+
+1. Read and study the Bible, even when you are not preaching.
+2. Pay attention to things in life that will remind you of a Scripture.
+3. Listen to other preachers.
+4. Listen to the Spirit. He will put it in your heart (John 14:26).
+
+### Example of the Textual Sermon
+
+* TITLE: What God Requires
+* TEXT: Deuteronomy 10:12–13
+ 
+I.  Fear the LORD thy God
+II.  Walk in all His ways
+III.  Love Him
+IV.  Serve the LORD thy God with all thy heart and with all thy soul
+V.  Keep the commandments of the LORD and his statues
+
+### Dividing a text into its parts: Outlining
+
+The Bible is divided into books, chapters, paragraphs, verses. But further dissection is necessary for clear understanding and presentation of a text. We must divide the text into "sizeable" pieces (i. e. bite size).
+
+#### Divide the Text into its parts
+
+**Example:**
+
+> Luke 9:1–5—Then he called his twelve disciples together, and gave them power and authority overall devils, and to cure diseases. 2 And he sent them to preach the kingdom of God, and to heal the sick. 3 And he said unto them, Take nothing for your journey, neither staves, nor scrip, neither bread, neither money; neither havetwo coats apiece. 4 And whatsoever house ye enter into, there abide, and thencedepart. 5 And whosoever will not receive you, when ye go out of that city, shake off the very dust from your feet for a testimony against them.
+
+1. Then he called his twelve disciples together
+2. gave them power and authority
+3. He sent them
+4. to preach the kingdom of God
+5. and to heal
+6. Take nothing for your journey
+7. whatsoever house ye enter into, there abide
+8. shake off the very dust from your feet for a testimony against them
+
+#### Relate the parts of the Text
+
+#### Simplify the parts of the Text
+
+**Example:**
+
+* TITLE: The Evangelist's Commission
+* TEXT: Luke 9:1–5
+
+I.  ANSWER & GO
+  A.  Then he called his twelve disciples together
+  B.  gave them power and authority
+  C.  he sent them
+II.  SAY & DO
+  A.  to preach the kingdom of God
+  B.  and to heal
+III.  RECEIVE & GIVE
+  A.  Take nothing for your journey
+  B.  whatsoever house ye enter into, there abide
+  C.  shake off the very dust from your feet for a testimony against them
+  
+**Exercise:** Divide the following Texts into their parts:  Ezekiel 1:10; Deut. 6:5; Romans12:1; Matt. 5:44; Proverbs 6:16–19; Joshua 22:15; I Cor. 13:13; Galatians 2:20; Revelation 3:20; Daniel 1:8; Ruth 1:16.
+
+## Topical Outlines
+
+Topical sermons are those in which the subject alone is derived from the text. The preacher is instrumental in the organization of the topical sermon. His topic is derived from the text, but how the topic is treated is determined by the preacher.
+
+How is the Topical Outline Different from the Textual Outline?
+
+1. It is founded on the theme or topic of the text, rather than on the words of the text.
+2. The theme is most prominent in a topical sermon.
+3. The divisions of the sermon are formulated by the preacher. (Which should be based on the theme)
+
+The topical sermon is founded on the theme or topic of the text, rather than on the words of the text. The theme is most-prominent in a topical sermon. The divisions of the sermon are formulated by the preacher (which should be based on the theme.) The text should naturally suggest the theme even though the theme can actually be chosen first. The treatment style of the text will be rhetorical—clearly expounding on the theme. The topical sermon should be a thorough presentation of a topic.
+
+### Advantages of the Topical Sermon
+
+#### It allows for rhetorical perfection
+
+If the aim of preaching be to make the sermon a work of art, let it be treated topically.
+
+#### It allows for thorough examination of the theme
+
+A single text rarely does this.
+
+#### It trains the mind to breadth of view—to look at the whole picture
+
+The topical sermon greatly encourages considerations of the whole council of God.
+
+The spirit of the words is what we should aim to bring into the light, and not just the bare words.
+
+#### A theme can be chosen first, A text can then be selected, Which supports that theme
+
+### Distinguishing characteristics of the topical sermon
+
+#### Exhaustive
+
+Every facet of the "gem" is held to the light.
+
+#### Rhetorical
+
+It has unity, coherence, emphasis, and euphony.
+
+#### Illustrative
+
+This sermon type provides opportunity for illustrations and stories.
+
+#### Climactic
+
+The topical Sermon rises to successive climaxes reaching a well-defined conclusion.
+
+#### Persuasive
+
+The element of argument should be found in every sermon. Action should be our aim. The proposition must be proved to get proper action.
+
+Plain, direct application should be found in every sermon. No sermon should lack application. No congregation should be deprived of application.
+
+> Without plain, direct application the preacher does little more than fire blank cartridges; he invites us to a field day rather than challenges us to aconflict.  
+>—T. Harwood Pattison
+
+#### Progressive
+
+The points are indicated, reached and reviewed. Plain direct application should be found in every sermon.
+
+### Steps for finding the theme of a Scripture
+
+#### Observation
+
+Carefully go over the text to see what is going on, the "who, what, where, when, how, and why."This will pull out facts through the nature of Scripture and help avoid presumptions and fallacies. Allow the Word of God to "speak for Itself."
+
+Read the Text in Its Context Several Times. For example, if you are studying the Book of John, begin with reading the whole book.
+
+Make sure you are going into your relationship with God's Word in a meaningful manner. If you start too hastily, thinking you already know thepassage, you will not gain the insights and depth because your haste will make waste.
+
+Never let your pride clog your vision and keep you in the dark or from discovering all you can.
+
+#### Write a Summary for the Passage in Your Own Words
+
+1. Then you may start to look for the principal theme and idea.
+2. Start with an introduction; it needs to state the main topic or idea of the outline . This is the general principle/idea that represents the passage you are studying.
+3. Then write a short description of that idea.
+4. Make sure it is accurate to the text.
+5. Make sure you write down the verses next to each idea.
+
+The chapter and verses were added by the publisher and are not part of the original text nor are they inspired. So, donot constrain yourself to them. You will find that sometimes they cut off key ideas in mid-thought that are still in "thread," that is, still going on.
+
+#### Then List All Of the Various Ideas/Points in Sequence
+
+This is where you use "Interpretation". This is taking what is said and finding out what the text means, how to interpret literally in the correct context.
+
+Always, always go in the sequence of the text. Do not jump around! Never take out of God's Word what is not there, or read in your will as His.
+
+Each sub--topic describes the main ideas from the paragraph/passage. When supporting information is listed under a sub-topic, there is a sequence that follows a logical order, especially in the Epistles.
+
+### Success
+
+The success of the topical sermon is dependent on the rhetorical ability of the preacher. He must be a student of the Word and able to give a well organized presentation of truth. The strength of this sermon type lies in keeping with the topic at hand. An acceptable topical sermon will be an exhaustive presentation of the theme where every facet of the gem is held to the light.
+
+### Examples of the Topical Sermon
+
+#### Example 1
+
+* TOPIC: Purity
+* TEXT: I Timothy 5:22
+
+I.  Necessary for Sanctification
+II.  Necessary for Service
+III.  Necessary for Security
+
+#### Example 2
+
+* TOPIC: Deficient Love
+* TEXT: Revelation 2:4–5
+
+I.  The Characteristics of This Love
+  A.  Deficient
+  B.  Lacking
+  C.  Weak
+II.  The Cause of This Love
+  A.  Lack of Prayer
+  B.  Lack of Bible
+  C.  Lack of Witness
+III.  The Cure of This Love
+  A.  Remember
+  B.  Repent
+  C.  Return
+
+#### Example 3
+
+* TOPIC: The Soul in Conflict
+* TEXT: Ephesians 6:10–18
+
+I.  The Source of the Conflict
+II.  The Scope of the Conflict
+III.  The Success in the Conflict
+
+### Examples of textual and topical sermons
+
+Both of the following examples use John 3:16 as their text.
+
+> **John 3:16**—For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
+
+#### The textual sermon
+
+I.  For God so loved the world
+II.  That he gave his only begotten Son
+III.  That whosoever believeth in him should not perish, but have everlasting life
+
+The main points are the natural divisions of the text.
+
+#### The topical sermon
+
+I.  The need for salvation
+II.  The source of salvation
+III.  The process of salvation
+
+The main idea comes from the text, and you come up with logical points based on that theme.
+
+

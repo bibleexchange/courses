@@ -8,26 +8,26 @@ KIFUNGU: mst. 17–21 (Nukuu toka Yoel 2:28–32)
 
 KICHWA CHA UJUMBE: Yesu ni Masiha
 
-1. UTANGULIZI (mst. 14–16)
-2. YESU ALITIMIZA MPANGO WA MUNGU (mst. 22–24)
-  1. Yesu alikuwa pendekezo la Mungu
-    1. Kwa miujiza, maajabu na ishara
-    2. Kwa kazi ya Mungu
-  2. Kusulubiwa ilikuwa sawa na mpango wa Mungu
-  3. Ufufuo ulikuwa umetimizwa kulingana na unabii
-  4. Kulingana na maarifa ya Mungu
-3. YESU ALITIMIZA UNABII WA DAUDI (mst. 25–31)
-  1. "Daudi alikua nabii wa Mungu"
-  2. Kristo kukaa kwenye kiti cha enzi cha Daudi
-  3. Ufufuo wa Kristo ulitabiriwa na Daudi
-4. KRISTO ALITIMIZA MPANGO WA MUNGU KAMA KRISTO MTUKUKA (mst. 32–36)
-  1. Huyu Yesu Mungu alimfufua
-  2. Yesu alitukuzwa kwenye mkono wa kuume wa Mungu
-  3. Yesu ni Bwana na Kristo
-5. HITIMISHO (mst. 37–40)
-  1. Matokeo ya lichoma ndani ya mioyo yao (thibitisho la hatia ya kosa)
-  2. Haja yakuita kutubu na kubatizwa
-  3. Wengi waliitikia watu—3000 waliokoka
+I.  UTANGULIZI (mst. 14–16)
+II.  YESU ALITIMIZA MPANGO WA MUNGU (mst. 22–24)
+  A.  Yesu alikuwa pendekezo la Mungu
+    1.  Kwa miujiza, maajabu na ishara
+    2.  Kwa kazi ya Mungu
+  B.  Kusulubiwa ilikuwa sawa na mpango wa Mungu
+  C.  Ufufuo ulikuwa umetimizwa kulingana na unabii
+  D.  Kulingana na maarifa ya Mungu
+III.  YESU ALITIMIZA UNABII WA DAUDI (mst. 25–31)
+  A.  Daudi alikua nabii wa Mungu
+  B.  Kristo kukaa kwenye kiti cha enzi cha Daudi
+  C.  Ufufuo wa Kristo ulitabiriwa na Daudi
+IV.  KRISTO ALITIMIZA MPANGO WA MUNGU KAMA KRISTO MTUKUKA (mst. 32–36)
+  A.  Huyu Yesu Mungu alimfufua
+  B.  Yesu alitukuzwa kwenye mkono wa kuume wa Mungu
+  C.  Yesu ni Bwana na Kristo
+V.  HITIMISHO (mst. 37–40)
+  A.  Matokeo ya lichoma ndani ya mioyo yao (thibitisho la hatia ya kosa)
+  B.  Haja yakuita kutubu na kubatizwa
+  C.  Wengi waliitikia watu—3000 waliokoka
 
 ### Mahubiri ya Yesu
 
@@ -68,7 +68,7 @@ KICHWA CHA UJUMBE: Yesu ni Masiha
 12. Mifano kwa ajili ya maombi (18:1–14; Luka 11:1–13)
 13. Wakati wa mwisho (21:5–36; Mat 24:1–26:2)
 
-### Katika injili kama ilivyo andikwa na Yohana
+#### Katika injili kama ilivyo andikwa na Yohana
 
 1. Kukutana na Nikodemo (3:1–21; Warumi 6:1–14)
 2. Mwanamke kisimani (4:5–38; Colossians 3:16)

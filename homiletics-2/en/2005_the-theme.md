@@ -74,5 +74,5 @@ Single words are too vague to form a complete subject. Single words like worship
 
 As a rule, the text naturally suggests the theme. The text is the portion of Scripture that is read before the sermon is preached. Remember that you are preaching the Word. The theme should flow naturally from the Scripture. The text should not need to be flung on the rack and tortured before the theme can be extracted from it. The theme should also be evident in the text as one of its ruling ideas. During the delivery of the sermon it is effective to frequently use the words of the text. Remember to preach the Word because your authority comes from the Word.
 
-**EXERCISE: Identify the main theme of each of the following texts and then identify some of their subthemes. John 10:7--10; Psalm 14:1; John 14:6;**
+**EXERCISE:** Identify the main theme of each of the following texts and then identify some of their sub-themes. John 10:7–10; Psalm 14:1; John 14:6;
 

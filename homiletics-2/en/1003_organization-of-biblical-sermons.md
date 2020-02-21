@@ -8,30 +8,30 @@ TEXT: vs. 17–21 (Quotation from Joel 2:28–32)
 
 TITLE: Jesus is the Messiah
 
-1. INTRODUCTION (vs. 14–16)
-2. JESUS FULFILLED GOD'S PLAN (vs. 22–24)
-  1. Jesus was approved of God
-	1. By miracles, wonders and signs
-	2. By the work of God
-  2. The crucifixion was according to God's plan
-  3. The resurrection was fulfilled according to prophecy
-  4. According to the foreknowledge of God
-3. JESUS FULFILLED DAVID'S PROPHECY (vs. 25–31)
-  1. "David was a prophet of God"
-  2. Christ to sit on David's throne
-  3. Resurrection of Christ was foretold by David
-4. JESUS FULFILLED THE PLAN OF GOD AS THE EXALTED CHRIST (vs. 32–36)
-  1. This Jesus hath God raised up
-  2. Jesus is exalted on the Right hand of God
-  3. Jesus is Lord and Christ
-5. CONCLUSION (vs. 37–40)
-  1. Results—pricked in their heart (conviction)
-  2. Application—call to repent and be baptized
-  3. Many responded—3000 souls saved
+I.  INTRODUCTION (vs. 14–16)
+II.  JESUS FULFILLED GOD'S PLAN (vs. 22–24)
+  A. Jesus was approved of God
+	  1.  By miracles, wonders and signs
+	  2.  By the work of God
+  B.  The crucifixion was according to God's plan
+  C.  The resurrection was fulfilled according to prophecy
+  D.  According to the foreknowledge of God
+III.  JESUS FULFILLED DAVID'S PROPHECY (vs. 25–31)
+  A.  David was a prophet of God
+  B.  Christ to sit on David's throne
+  C.  Resurrection of Christ was foretold by David
+IV.  JESUS FULFILLED THE PLAN OF GOD AS THE EXALTED CHRIST (vs. 32–36)
+  A.  This Jesus hath God raised up
+  B.  Jesus is exalted on the Right hand of God
+  C.  Jesus is Lord and Christ
+V.  CONCLUSION (vs. 37–40)
+  A.  Results—pricked in their heart (conviction)
+  B.  Application—call to repent and be baptized
+  C.  Many responded—3000 souls saved
 
 ### Jesus' Preaching
 
-#### In the Gospel According to Mathhew
+#### In the Gospel According to Mathew
 
 1. Sermon on the mount (5:1–7:29; Luke 6:17–49)
 2. The 12 commissioned (10:1–42; Mark 6:6–13)
