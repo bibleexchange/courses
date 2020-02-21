@@ -1,50 +1,38 @@
-# Mifano ya hotuba ya kimada
+### Mifano ya hotuba ya kimada
 
-# MADA:Safi
+#### Mifano 1
 
-# KIFUNGU: I Timoteo 5:22
+* Dhamira: Safi
+* Kifungu: I Timoteo 5:22
 
-## Ulazima kwa ajili ya utakaso
+1. Ulazima kwa ajili ya utakaso
+2. Ulazima kwa ajili ya Huduma
+3. Ulazima kwa ajili ya Usalama
 
-## Ulazima kwa ajili ya Huduma
+#### Mifano 2
 
-## Ulazima kwa ajili ya Usalama
+* Dhamira: Upendo pungufu
+* Kifungu: Ufunuo 2:4–5
 
-# MADA:Upendo pungufu
+1. Tabia za huu upendo
+  1. Kasoro
+  2. Upungufu
+  3. Udhaifu
+2. Sababisho la huu upendo
+  1. Upungufu wa maombi
+  2. Upungufu wa Biblia
+  3. Upungufu wa ushuhuda
+3. Chombo cha kuchuja huu upendo
+  1. Kumbuka
+  2. Tubu
+  3. Geuka
 
-# KIFUNGU: Ufunuo 2:4,5
+#### Mifano 3
 
-## Tabia za huu upendo
+* Dhamira: Nafsi katika mapambano
+* Kifungu: Waefeso 6:10–18
 
-### Kasoro
-
-### Upungufu
-
-### Udhaifu
-
-## Sababisho la huu upendo
-
-### Upungufu wa maombi
-
-### Upungufu wa Biblia
-
-### Upungufu wa ushuhuda
-
-## Chombo cha kuchuja huu upendo
-
-### Kumbuka
-
-### Tubu
-
-### Geuka
-
-# MADA: Nafsi katika mapambano
-
-# KIFUNGU: Waefeso 6:10--18
-
-## Chanzo cha mapambano
-
-## Eneo la mapambano
-
-## Mafanikio katika mapambano
+1. Chanzo cha mapambano
+2. Eneo la mapambano
+3. Mafanikio katika mapambano
 

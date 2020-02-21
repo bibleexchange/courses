@@ -1,10 +1,10 @@
-# Examples of the treatment of the text
+### Examples of textual and topical sermons
 
-All of the following examples use John 3:16 as their text.
+Both of the following examples use John 3:16 as their text.
 
-**John 3:16**—For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
+> **John 3:16**—For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
 
-## The textual sermon
+#### The textual sermon
 
 1. For God so loved the world
 2. That he gave his only begotten Son
@@ -35,3 +35,4 @@ The actual wording may not be in the text, but it infers it. The points come fro
 3. The process of salvation
 
 The main idea comes from the text, and you come up with logical points based on that theme.
+

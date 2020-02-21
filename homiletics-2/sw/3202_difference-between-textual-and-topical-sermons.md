@@ -1,11 +1,10 @@
-﻿# Mifano ya utendaji wa kifungu
+﻿### Mfano wa hotuba ya kifungu na hotuba ya kimada 
 
 Mifano yote inatumia Yohn 3:16 kama kifungu kwa ajili ya mifano yote.
 
-**Yohn 3:16**— Kwa maana jinsi hii Mungu aliupenda ulimwengu, hata akamtoa Mwanaye pekee, ili kila mtu amwaminiye asipotee, bali awe na uzima wa milele.
+> **Yohn 3:16**— Kwa maana jinsi hii Mungu aliupenda ulimwengu, hata akamtoa Mwanaye pekee, ili kila mtu amwaminiye asipotee, bali awe na uzima wa milele.
 
-
-## Hotuba ya kifungu
+#### Hotuba ya kifungu
 
 1. Kwa maana jinsi hii Mungu aliupenda ulimwengu
 2. Kwamba alimtoa mwanae wa pekee
