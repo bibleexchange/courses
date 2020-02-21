@@ -16,7 +16,7 @@ KICHWA CHA UJUMBE: Yesu ni Masiha
   2. Kusulubiwa ilikuwa sawa na mpango wa Mungu
   3. Ufufuo ulikuwa umetimizwa kulingana na unabii
   4. Kulingana na maarifa ya Mungu
-3. YESU ALITIZA UNABII WA DAUDI (mst. 25–31)
+3. YESU ALITIMIZA UNABII WA DAUDI (mst. 25–31)
   1. "Daudi alikua nabii wa Mungu"
   2. Kristo kukaa kwenye kiti cha enzi cha Daudi
   3. Ufufuo wa Kristo ulitabiriwa na Daudi

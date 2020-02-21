@@ -12,23 +12,7 @@ Both of the following examples use John 3:16 as their text.
 
 The main points are the natural divisions of the text.
 
-## The textual-topical sermon
-
-1. God loves us
-2. God sent His son in love
-3. We can receive God's love
-
-All the ideas come from the divisions of the text, but you put them in your own words.
-
-## The textual-inferential sermon
-
-1. God said He loves us
-2. God showed He loves us
-3. God gave His love to us.
-
-The actual wording may not be in the text, but it infers it. The points come from inferences in the natural divisions of the text.
-
-## The topical sermon
+#### The topical sermon
 
 1. The need for salvation
 2. The source of salvation

@@ -49,3 +49,4 @@ The Bible is divided into books, chapters, paragraphs, verses. But further disse
   2. whatsoever house ye enter into, there abide
   3. shake off the very dust from your feet for a testimony against them
   
+**Exercise:** Divide the following Texts into their parts:  Ezekiel 1:10; Deut. 6:5; Romans12:1; Matt. 5:44; Proverbs 6:16–19; Joshua 22:15; I Cor. 13:13; Galatians 2:20; Revelation 3:20; Daniel 1:8; Ruth 1:16.

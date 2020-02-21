@@ -1,20 +1,8 @@
 ## Maelezo ya hoja
 
-## "maelezo ya maneno" ni nini?
-
-Mhula huu unatumika kurejelea sentesi moja kamili ambayo ita fafanua somo litakalo hubiriwa.nihotuba ya kuingilia ilioandikwa katika sentesi moj kamili.
-
-"Maelezo ya maneno hukamilisha somo. "
-
-Somo haliwezi kusimama lenyewe.somo linahitaji ukamilifu wa kukamilisha.sentesi kamili huhitaji yote mawili somo na habari.maelezo ya maneno yata ongeza habari fulani kwenye somo. Unapaswa kujua kile unacho enda kusema juu ya somo lako.
-
-Somo hujibu swali:Nini ninachoenda kusema?
-
-Maelezo ya maneno hujibu swali: "Nini ninachoenda kuhubiri?"
- 
 ### Maelezo ya hoja ni kitu gani?
 
-Maneno maelezo ya hoja hutumika kuelezea sentensi moja kamili ambayo hufafanua somo linaloenda kufundishwa. Ni njia ya kueleza kwamba somo litahusu nini. Ni hotuba yote ikiwa imeelezwa katika sentennsi moja iliyo kamili. Ni njia ya kuwafanya watu wafahamu unakoelekea ili waweze kukufuata. Ni mada ambayo imeelezwa waziwazi, kwa ukamilifu na kwa sentensi inayotoa mwelekeo wa somo. Maelezo ya hoja yatafupisha masomo mapana. 
+Maneno maelezo ya hoja hutumika kuelezea sentensi moja kamili ambayo hufafanua somo linaloenda kufundishwa. **Ni hotuba ya kuingilia ilioandikwa katika sentesi moj kamili.** Ni njia ya kueleza kwamba somo litahusu nini. Ni hotuba yote ikiwa imeelezwa katika sentennsi moja iliyo kamili. Ni njia ya kuwafanya watu wafahamu unakoelekea ili waweze kukufuata. Ni mada ambayo imeelezwa waziwazi, kwa ukamilifu na kwa sentensi inayotoa mwelekeo wa somo. Maelezo ya hoja yatafupisha masomo mapana. 
 
 ### Maelezo ya hoja hukamilisha somo
 
@@ -27,7 +15,7 @@ Kwa mfano, maelezo ya hoja yanaweza kuwa na uhusiano na hotuba iliyopo katika ki
 
 ### Maelezo ya hoja yana thamani kubwa 
 
-Maelezo hayo ya hoja hukuwezesha kufahamu somo kamili litahusu nini? Weka ujumbe uliopokea kwa Mungu katika sentensi moja. Itakuwekea msingi mzuri kwa somo lote na kukusaidia kuweka utangulizi. Kwa sentensi moja utaweza kueleza watu unachotaka kuwafundisha. Watu watafahamu unakoenda kwa hiyo watakufuata kwa urahisi. Hali hii huwasaidia watu kuweka kumbumbu muhimu za somo na kuweza kujibu swali: &quot;Mahubiri yalihusu nini?&quot; Kwa kuwa watu wanaweza kukumbuka sehemu ya kitu walichosikia maelezo ya hoja huufunga ujumbe katika kifurushi cha kumbukumbu ili waweze kuchukua ukweli huo na kwenda nao nyumbani. 
+Maelezo hayo ya hoja hukuwezesha kufahamu somo kamili litahusu nini? Weka ujumbe uliopokea kwa Mungu katika sentensi moja. Itakuwekea msingi mzuri kwa somo lote na kukusaidia kuweka utangulizi. Kwa sentensi moja utaweza kueleza watu unachotaka kuwafundisha. Watu watafahamu unakoenda kwa hiyo watakufuata kwa urahisi. Hali hii huwasaidia watu kuweka kumbumbu muhimu za somo na kuweza kujibu swali: "Mahubiri yalihusu nini?" Kwa kuwa watu wanaweza kukumbuka sehemu ya kitu walichosikia maelezo ya hoja huufunga ujumbe katika kifurushi cha kumbukumbu ili waweze kuchukua ukweli huo na kwenda nao nyumbani. 
 
 ### Mifano ya maelezo ya hoja iliyochukuliwa katika Maandiko
 

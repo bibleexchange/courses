@@ -6,6 +6,12 @@ Textual sermons are those in which the subject and main divisions are derived fr
 
 The prominent words of the text form the divisions of the sermon. Follows closely the words of the text, clause by clause. The text is taken apart into manageable portions, for the purpose of a thorough examination of the text. The text is not taken apart with a club, as a child might break up a watch. The text is taken apart with the precision of a watchmaker.
 
+### Advantages of the textual sermon
+
+#### The structure (divisions) are already made
+
+#### It is true to the Scripture
+
 ### Success
 
 The success of the textual sermon. Dependent upon the selection of the text. Certain texts are better suited to textual treatment. Other texts are best treated in a topical manner. Many texts can be treated in a variety of different ways.
@@ -23,4 +29,11 @@ Do not force divisions at awkward breaking points.
 #### There should be a distinct advancement in thought
 
 Each division should carry the theme one more step towards the climax. It is not always necessary to divide the words of the text as they occur, as long as there is advance of direction within the sermon itself.
+
+### Ways to receive a text
+
+1. Read and study the Bible, even when you are not preaching.
+2. Pay attention to things in life that will remind you of a Scripture.
+3. Listen to other preachers.
+4. Listen to the Spirit. He will put it in your heart (John 14:26).
 

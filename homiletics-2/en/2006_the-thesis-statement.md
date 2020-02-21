@@ -1,20 +1,8 @@
 ## The thesis statement
 
-## "What is the "thesis statement"? "
-
-This term is used to refer to the one complete sentence that will define the subject to be preached. It is the entire sermon described in one complete sentence.
-
-"The thesis statement completes the subject. "
-
-A subject can not stand alone. A subject needs a complement to be complete. A complete sentence needs both a subject and a predicate. The thesis statement will add a predicate to the subject. You need to know what you are going to say about your subject.
-
-The subject answers the question: What am I going to say?
-
-The thesis statement answers the question: "What am I going to say, about what I am going to say?"
-
 ### What is the thesis statement?
 
-The term thesis statement is used to refer to the one complete sentence that will define the subject to be preached. It is a way of expressing what the sermon is going to be about. It is the entire sermon described in one complete sentence. It is to let the people know where you are going so they can follow you. It is the theme expressed in a clear, complete and concise sentence—a sentence that will give direction to the sermon. The thesis statement will narrow broad subjects.
+The term thesis statement is used to refer to the one complete sentence that will define the subject to be preached. **It is the entire sermon described in one complete sentence.** It is a way of expressing what the sermon is going to be about. It is the entire sermon described in one complete sentence. It is to let the people know where you are going so they can follow you. It is the theme expressed in a clear, complete and concise sentence—a sentence that will give direction to the sermon. The thesis statement will narrow broad subjects.
 
 ### The thesis statement completes the subject
 
@@ -37,3 +25,5 @@ The thesis statement allows you to know exactly what the sermon is to be about. 
 	THESIS: The unbelief of man grieves the heart of God.
 * TEXT: How shall we escape, if we neglect so great salvation; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him (Heb. 2:3)  
 	THESIS: Those who do nothing concerning their soul are in fact rejecting the greatest gift and will not escape eternal judgment in hell.
+
+	

@@ -69,7 +69,7 @@ Soma kifungu katika mazingira yake nyakati kadhaa. Kwa mfano, kama unajifunza ki
 
 Hakikisha unaenda katika uhusiano wako na neno la Mungu katika kiwango chenye maana. Kama unaanza kwa haraka mno, kufikiri unajua kifungu cha maneno tayari, hutapata utambuzi na undani kwasababu ya haraka yako itakufanya mbaya usiefaa.
 
-Kamwe usiache kiburi chako kungandisha maono yako na kukuweka katika giza au kutoka kugundua yote unayoweza.
+Kamwe usiache kiburi chako kungandisha maono yako na kukuweka katika giza au kuto kugundua yote unayoweza.
 
 #### Andika muhtasari kwa ajili ya kifungu katika maneno yako mwenyewe
 
@@ -81,11 +81,11 @@ Kamwe usiache kiburi chako kungandisha maono yako na kukuweka katika giza au kut
 
 Sura na mistari ilio ongezwa na mchapishaji na sio sehemu ya kifungu cha asili wala kuvuviwa. Kwahiyo usijilazimishe nayo. Utaikuta hiyo mara kadhaa ikiondoa mawazo ya ufunguo katika wazo la katikati ambalo bado ni uzi, ambao bado unaendelea.
 
-#### Kisha orodhesha mawzo yote mbalimbali/pointi katika utaratibu.
+#### Kisha orodhesha mawazo yote mbalimbali/pointi katika utaratibu.
 
-Hii ndio pale unapo tumia "Fasihi." Hii inachukua kile kina cho semwa na kupata kile kifungu kinamaanisha, jinsi ya kufasiri kwa simlizi katika mazingira sahihi.
+Hii ndio pale unapo tumia "Fasihi." Hii inachukua kile kina cho semwa na kupata kile kifungu kinamaanisha, jinsi ya kufasiri kwa simulizi katika mazingira sahihi.
 
-Siku zote, siku zote nenda katika utaratibu wa kifungu. Usirukie! Usiliwekee neno la Mungu kitu ambacho hakikuwepo, au kulisoma kwa mapenzi yako kama lako.
+Siku zote, nenda katika utaratibu wa kifungu. Usirukie! Usiliwekee neno la Mungu kitu ambacho hakikuwepo, au kulisoma kwa mapenzi yako kama lako.
 
 Kila maandishi ya mada ndogo mawazo makuu kutoka kifungu cha maneno/aya. Wakati habari saidizi imeorodheshwa chini ya mada ndogo, kuna utaratibu ambao hufuata habari inayotakiwa, hasa hasa katika nyaraka.
 			

@@ -49,3 +49,4 @@ Biblia imegawanyika katika vitabu, milango, paragirafu, misitari. Lakini kutenga
   2. Na nyumba yo yote mtakayoingia kaeni humo, mpaka mtoke mjini
   3. yakung’uteni hata mavumbi ya miguuni mwenu, kuwa ushuhuda juu yao
 
+**Mazoezi**: Gawanya vifungu vifuatavyo katika sehemu: Ezekiel 1:10; Kumb. 6:5; Warumi 12:1; Mat. 5:44; Mith 6:16--19; Yoshua 22:15; I Wakr. 13:13; Wagal 2:20; Ufunuo 3:20; Daniel 1:8; Ruth 1:16.
