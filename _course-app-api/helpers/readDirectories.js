@@ -2,7 +2,7 @@
 to do:
 - create function to turn filename into a pretty title for lessons
 */
-import config from '../config'
+import config from './../config.js'
 import fs from 'fs-extra'
 
 class readDirectories {
@@ -30,6 +30,27 @@ class readDirectories {
         this.UUID = 0;
 
         this.mapOverDirectories()
+
+        return this
+    }
+
+    save(){
+
+
+        fs.writeFile(this.config.outputDBTo, JSON.stringify(this), (err) => {
+        if (err) {
+            console.error(err);
+            return;
+        };
+        console.log("Database file has been created at ", this.config.outputDBTo);
+        });
+        let saveLessonFile = this.saveLessonFile
+        let lessonsPath = this.config.lessonsPath
+        this.data.courses.map(function(course){
+            course.tasks.map(function(task){
+                saveLessonFile(task, lessonsPath)
+            })
+        })
     }
 
     getUUID(){
@@ -169,9 +190,15 @@ class readDirectories {
           })
         }
 
-    saveLessonFile(fileObject){
-        fs.writeFileSync(this.config.lessonsPath+"/"+fileObject.uuid+".json", JSON.stringify(fileObject))
-        return true
+    saveLessonFile(file, lessonsPath){
+
+        const texts = ["READ_MD_FILE","READ_HTML_FILE","READ_TXT_FILE"]
+        if(texts.includes(file.type)){
+            file.value.raw = fs.readFileSync(file.value.path).toString('utf-8');
+        }
+
+        fs.writeFileSync(lessonsPath+"/"+file.id+".json", JSON.stringify(file))
+     return true
     }
 
     isATrueLesson(path, fileType){
@@ -207,7 +234,6 @@ class readDirectories {
             task.fileType = path.substr(path.lastIndexOf('.')).replace(".","")
             task.value = {path: path}
             task.type = "READ_" + task.fileType.toUpperCase() + "_FILE"
-
           }else{
             delete task.fileType
             delete task.value

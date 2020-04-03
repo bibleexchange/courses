@@ -5,11 +5,11 @@ to do:
 - create function to turn filename into a pretty title for lessons
 */
 
-//const chalk = require('chalk');
-//const fs = require('fs-extra');
-//const readDirectories = require('./helpers/readDirectories')
+import chalk from 'chalk'
+import fs from 'fs-extra'
+import readDirectories from './readDirectories.js'
 
-//const rd = new readDirectories();
-//rd.init()
+const rd = new readDirectories();
+rd.init().save()
 
-//console.log(chalk.green('Database saved successfully.\n'), data)
+console.log(chalk.green('Database saved successfully.\n'))

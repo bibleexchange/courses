@@ -1,0 +1,5 @@
+INSTRUCTIONS
+3. Compare DAD's DAD and INSERT valueable thoughts
+5. ADD eng and swa spans
+7. Edit Study Questions List.txt
+8. Insert Study Questions into Database

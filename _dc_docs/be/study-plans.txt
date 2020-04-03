@@ -1,0 +1,52 @@
+Study Plan & Reading Plan
+************************************************************
+
+	design a plan system that will work both for reading bible and more complex lesson plans
+	design so that the tasks for either can be reused and so a 'bible reading plan' can graduate
+	to a "study" plan
+	
+	"COURSE" is a plan of study?
+	
+	"TASKS" belonging to a course
+	--or a lesson?
+	
+	Lesson view or Task View
+	
+	Kinds of tasks
+	
+************************************************************	
+Schema for model:
+
+PARENT: lesson or null for bible reading plan only
+Types: Study or Bible Reading only
+
+
+ Schema::create('plans', function(Blueprint $table)
+        {
+            $table->increments('id');
+            
+			////Foreign Relations
+			$table->integer('lesson_id')->unsigned();
+ 
+            $table->string('subject', 128)->nullable();
+            $table->text('body')->nullable();
+ 
+            $table->integer('object_id')->unsigned();
+            $table->string('object_type', 128);
+ 
+            $table->boolean('is_read')->default(0);
+            $table->dateTime('sent_at')->nullable();
+            $table->timestamps();
+        });
+    }
+
+************************************************************
+References:
+
+	- 
+
+************************************************************
+
+************************************************************
+
+************************************************************

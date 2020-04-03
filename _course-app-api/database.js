@@ -6,7 +6,6 @@ import config from './config'
 class database {
 	
 	constructor(){
-
 		this.config = config
 	}
 

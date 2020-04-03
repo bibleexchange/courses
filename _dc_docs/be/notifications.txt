@@ -1,0 +1,49 @@
+Notification
+
+************************************************************
+Events that produce a notification:
+	- User Your following made a bible note (notes: image, text, verse)
+	- Someone your following 'recommnds/likes/shares/Amen' something
+	- Someone 'Amenned' something of yours
+	- User Your following bookmarked something
+	- User Your following published a lesson
+	- user Your following started y "study plan"
+	- user Your following completed y "study plan"
+	- Some User Commented on your Note
+	- Some User Commented on your Lesson
+	- User Your following commented on something
+	- User your following recommended this lesson
+	- User your following recommended this course
+	- Current Step in Plan you started
+	- Someone Started Following You
+	
+************************************************************	
+Schema for model:
+
+ Schema::create('notifications', function(Blueprint $table)
+        {
+            $table->increments('id');
+            $table->integer('user_id')->unsigned();
+ 
+            $table->string('subject', 128)->nullable();
+            $table->text('body')->nullable();
+ 
+            $table->integer('object_id')->unsigned();
+            $table->string('object_type', 128);
+ 
+            $table->boolean('is_read')->default(0);
+            $table->dateTime('sent_at')->nullable();
+            $table->timestamps();
+        });
+    }
+
+************************************************************
+References:
+
+	- http://codegains.com/2014/06/laravel-4-notification-system/
+
+************************************************************
+
+************************************************************
+
+************************************************************

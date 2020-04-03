@@ -29,6 +29,7 @@ class CourseRepository extends Repository {
 		dir.data.courses.map(co => {
 			this.data.push(new model(co).build(true))
 		}, this)
+
 	}
 
   findTask(courseId, taskId){

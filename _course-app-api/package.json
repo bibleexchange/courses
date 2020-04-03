@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type":"module",
   "addbacktoscriptsstartatbeginning": "npm run build-db && ",
   "scripts": {
     "start": "nodemon -r node_modules/dotenv/config.js index.js --exec babel-node --",
-    "build-db": "node ./helpers/build-db.js",
+    "build-db": "node --experimental-modules ./helpers/build-db.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
