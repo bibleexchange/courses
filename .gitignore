@@ -41,3 +41,4 @@ build/
 # MISC
 # --------------------
 .all-contributorsrc
+*.wav
