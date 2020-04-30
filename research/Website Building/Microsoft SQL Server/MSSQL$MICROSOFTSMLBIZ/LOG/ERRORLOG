@@ -1,0 +1,23 @@
+2009-03-03 18:57:53.45 server    Microsoft SQL Server  2000 - 8.00.2055 (Intel X86) 
+	Dec 16 2008 19:46:53 
+	Copyright (c) 1988-2003 Microsoft Corporation
+	Desktop Engine on Windows NT 5.1 (Build 2600: Service Pack 3)
+
+2009-03-03 18:57:53.45 server    Copyright (C) 1988-2002 Microsoft Corporation.
+2009-03-03 18:57:53.45 server    All rights reserved.
+2009-03-03 18:57:53.45 server    Server Process ID is 1056.
+2009-03-03 18:57:53.45 server    Logging SQL Server messages in file 'C:\Program Files\Microsoft SQL Server\MSSQL$MICROSOFTSMLBIZ\LOG\ERRORLOG'.
+2009-03-03 18:57:53.46 server    SQL Server is starting at priority class 'normal'(2 CPUs detected).
+2009-03-03 18:57:54.12 server    SQL Server configured for thread mode processing.
+2009-03-03 18:57:54.12 server    Using dynamic lock allocation. [500] Lock Blocks, [1000] Lock Owner Blocks.
+2009-03-03 18:57:54.23 spid2     Starting up database 'master'.
+2009-03-03 18:57:56.42 server    Using 'SSNETLIB.DLL' version '8.0.2039'.
+2009-03-03 18:57:56.42 spid5     Starting up database 'model'.
+2009-03-03 18:57:56.48 spid2     Server name is 'KEYSTONEBUILDER\MICROSOFTSMLBIZ'.
+2009-03-03 18:57:56.48 spid2     Skipping startup of clean database id 4
+2009-03-03 18:57:56.70 server    SQL server listening on Shared Memory.
+2009-03-03 18:57:56.89 spid5     Clearing tempdb database.
+2009-03-03 18:57:57.82 spid5     Starting up database 'tempdb'.
+2009-03-03 18:57:58.01 spid2     Recovery complete.
+2009-03-03 18:57:58.01 spid2     SQL global counter collection task is created.
+2009-03-03 18:58:00.71 server    SQL Server is ready for client connections

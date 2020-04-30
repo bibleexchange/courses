@@ -1,0 +1,3130 @@
+From: "Saved by Windows Internet Explorer 7"
+Subject: Equidistant Letter Sequences in the Book of Genesis
+Date: Sun, 15 Nov 2009 01:11:32 -0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01CA6590.91BF9BB0"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.0.6001.18049
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/index.html
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Equidistant Letter Sequences in the Book of =
+Genesis</TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<META=20
+content=3D"Genesis, Equidistant letter squences, Strings of letters,     =
+              Cylindrical representations Statistical analysis"=20
+name=3DKeyWords>
+<META content=3D"MSHTML 6.00.6001.18344" name=3DGENERATOR></HEAD>
+<BODY text=3D#000000 vLink=3D#551a8b aLink=3D#ff0000 link=3D#0000ee =
+bgColor=3D#ffffff>
+<CENTER>
+<HR width=3D"100%">
+</CENTER>
+<CENTER>
+<H2>EQUIDISTANT LETTER SEQUENCES IN THE BOOK OF GENESIS: II. THE =
+RELATION TO THE=20
+TEXT</H2></CENTER>
+<CENTER>
+<H5>Doron Witztum, Eliyahu Rips, and Yoav Rosenberg</H5></CENTER>
+<P>ABSTRACT. It has been noted that when the Book of Genesis is written =
+as=20
+two-dimensional arrays, equidistant letter sequences spelling words =
+often appear=20
+in close proximity with portions of the text which have related meaning. =
+
+Quantitative tools for measuring this phenomenon are developed. =
+Randomization=20
+analysis is done for three samples. For one of them the effect is =
+significant at=20
+the level of .000000004.=20
+<P><I>Key words and phrases.</I> Genesis, Equidistant letter sequences, =
+Strings=20
+of letters, Cylindrical representations, Statistical analysis.=20
+<CENTER>
+<HR width=3D"100%">
+</CENTER>
+<H3><B>1. Introduction.</B></H3>There is an old Jewish tradition about a =
+"hidden=20
+text" in the Hebrew Pentateuch (the Five Books of Moses), consisting of =
+words or=20
+phrases expressed in the form of equidistant letter sequences (ELS's) -- =
+that is=20
+by selecting sequences of equally spaced letters in the text. Since this =
+
+tradition was passed orally, only few expressions that belong to the =
+"hidden=20
+text" were preserved in writing (Rabbenu Bahya, 1492 and Cordovero, =
+1592);=20
+actually almost all the words and the syntax are unknown. Rabbi H.M.D.=20
+Weissmandel (Weissmandel, 1958) was the first to try to show the =
+existence of=20
+such a "hidden text", by finding interesting patterns consisting of =
+ELS's.=20
+<P>In a previous paper (Witztum <I>et al</I>, 1994), we developed a =
+methodology=20
+for systematic and rigorous studies of the same nature; namely, for =
+attempts to=20
+show objectively the existence of the"hidden text" in the Hebrew =
+Pentaceuch.=20
+This methodology was applied to study the "hidden text" of the Book of =
+Genesis.=20
+<P>The approach we have taken in our research can be illustrated by the=20
+following example. Suppose we have a text written in a foreign language =
+that we=20
+do not understand. We are asked whether the text is meaningful (in that =
+foreign=20
+language) or meaningless. Of course, it is very difficult to decide =
+between=20
+these possibilities, since we do not understand the language. Suppose =
+now that=20
+we are equipped with a very partial dictionary, which enables us to =
+recognise a=20
+small portion of the words in the text: "hammer" here and "chair" there, =
+and=20
+maybe even "umbrella" elsewhere. Can we now decide between the two=20
+possibilitities?=20
+<P>Not yet. But suppose now that, aided with the partial dictionary, we =
+can=20
+recognise in the text a pair of conceptually related words, like =
+"hammer" and=20
+"anvil". We check if there is a tendency of their appearances in the =
+text to be=20
+in "close proximity". If the text is meaningless, we do not expect to =
+see such a=20
+tendency, since there is no reason for it to occur. Next, we widen our =
+check; we=20
+may identify some other pairs of conceptually related words: like =
+"chair" and=20
+"table", or "rain" and "umbrella". Thus we have a sample of such pairs, =
+and we=20
+check the tendency of each pair to appear in close proximity in the =
+text. If the=20
+text is meaningless, there is no reason to expect such a tendency. =
+However, a=20
+strong tendency of such pairs to appear in close proximity indicates =
+that the=20
+text might be meaningful.=20
+<P>Note that even in an absolutely meaningful text we do not expect =
+that,=20
+deterministically, every such pair will show such tendency. Note also, =
+that we=20
+did not decode the foreign language of the text yet: we do not recognise =
+its=20
+syntax and we cannot read the text.=20
+<P>In our research we consider the set of all ELS's spelling out words =
+or=20
+phrases in the language of the text. The approach described in this =
+example=20
+suggests the two following lines of investigation:=20
+<P>A) A study of the mutual location of ELS's spelling out conceptually =
+related=20
+words or expressions.=20
+<P>B) A study of the mutual location of ELS's spelling out words or =
+expressions=20
+with conceptually related portions of the text.=20
+<P>Suppose we are given a text, such as Genesis (<I>G</I>). Define an =
+<I>ELS=20
+</I>(equidistant letter sequence) as a sequence of letters in the text =
+whose=20
+positions, not counting spaces, form an arithmetic progression; that is, =
+the=20
+letters are found at the positions=20
+<CENTER><I>n, n+d, n+</I>2<I>d,..., n+(k-</I>1<I>)d.</I></CENTER>
+<P>We call <I>d </I>the <I>skip,</I> <I>n </I>the <I>start</I>, and <I>k =
+</I>the=20
+<I>length </I>of the ELS. These three parameters uniquely identify the =
+ELS,=20
+which is denoted (<I>n, d, k</I>).=20
+<P>Let us write the text as a two-dimensional array -- i.e., on a single =
+large=20
+page -- with rows of equal length, except perhaps for the last row. =
+Usually,=20
+then, an ELS appears as a set of points on a straight line. The =
+exceptional=20
+cases are those where the ELS "crosses" one of the vertical edges of the =
+array=20
+and reappears on the opposite edge. To include these cases in our =
+framework, we=20
+may think of the two vertical edges of the array as pasted together, =
+with the=20
+end of the first line pasted to the beginning of the second, the end of =
+the=20
+second to the beginning of the third, and so on. We thus get a cylinder =
+on which=20
+the text spirals down in one long line.=20
+<P>It has been noted that when Genesis is written in this way, and the =
+distance=20
+between ELS's is defined according to the ordinary two-dimensional =
+Euclidean=20
+metric -- ELS's spelling words with related meaning often appear in =
+close=20
+proximity. It has also been noted that ELS's spelling words often appear =
+in=20
+close proximity with portions of the text which have related meaning.=20
+<P>Thus, our research focuses on two phenomena:=20
+<H4><B>Phenomenon A</B></H4>The appearance of "noteworthy" ELS's =
+spelling words=20
+with related meanings in close proximity, on two-dimensional arrays. =
+(the=20
+"noteworthy" ELS's are those for which the skip |<I>d</I>| is minimal on =
+the=20
+whole text, or on large parts of it; for short we call them <I>minimal=20
+</I>ELS's).=20
+<P>Our paper (Witztum <I>et al</I>., 1994) deals with Phenomenon A. =
+There we=20
+developed a method for testing the significance of the phenomenon =
+according to=20
+accepted statistical principles. After making certain choices of words =
+to=20
+compare and ways to measure proximity, we performed a randomization test =
+and=20
+obtained a very small p-value, i.e. we found the results highly =
+statisically=20
+significant.=20
+<H4><B>Phenomenon B</B></H4>The appearance of minimal ELS's spelling =
+words in=20
+close proximity, on two-dimensional arrays, with conceptually related =
+words or=20
+expressions appearing in the string of letters of the text: i.e. with=20
+skip&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/plus1.gif" =
+width=3D11=20
+align=3Dbottom>1.=20
+<H4>Example</H4>On <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/figures.html#figur=
+e1">Figure=20
+1</A> we see a pair of words: the word&nbsp;<IMG height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/prat.gif" =
+width=3D45=20
+align=3Dbottom> (private) appearing as an ELS (with skip 855) with the=20
+word&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+align=3Dbottom> (names) appearing in the text (Gn 26:18).=20
+<P>Each ELS determines a series of tables with row lengths <I>h</I>=3D=20
+<I>h</I><SUB>1</SUB>, <I>h</I><SUB>2</SUB>,..., where =
+<I>h</I><SUB>i</SUB> is=20
+the integer nearest to |<I>d</I>|/<I>i</I> (1/2 is rounded up).=20
+<P>The rows in our table has 428 letters (only 21 of them are shown in =
+Figure=20
+1). The number 428 is the nearest integer to 855/2, so the =
+word&nbsp;<IMG=20
+height=3D9 =
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/prat.gif" =
+width=3D45=20
+align=3Dbottom> (private) appears every second row.=20
+<P>The table is determined by this ELS of the word&nbsp;<IMG height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/prat.gif" =
+width=3D45=20
+align=3Dbottom> (private), which is minimal in a section of the text =
+comprising=20
+76% of <I>G</I>. The word&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+align=3Dbottom> (names) appears in the text of <I>G</I> seven times as =
+SL's. Note=20
+that <I>G</I> contains 78,064 letters. More examples are given in <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/index.html#A.3.1">=
+Appendix=20
+A.3.1</A>.=20
+<P>The measuring scheme for Phenomenon A (see Witztum <I>et al</I>., =
+1994) is=20
+applicable, with minor changes, to study Phenomenon B.=20
+<P>In this paper we make certain choices of words to compare and perform =
+similar=20
+randomization tests. We obtain very small p-values; that is, we find =
+that the=20
+results are highly statistically significant.=20
+<H3>2. Outline of the Procedure.</H3>In this section we describe the =
+test in=20
+outline. In an appendix, sufficient details are provided to enable the =
+reader to=20
+repeat the computations precisely, and so to verify their correctness.=20
+<P>We test the significance of the phenomenon on samples of pairs of =
+related=20
+words. To do this we must do the following:=20
+<OL type=3Di>
+  <LI>define the notion of "distance" between any two words, so as to =
+lend=20
+  meaning to the idea of words in "close proximity";=20
+  <LI>define statistics that express how close, "on the whole," the =
+words making=20
+  up the sample pairs are to each other (some kind of average over the =
+whole=20
+  sample);=20
+  <LI>choose a sample of pairs of related words on which to run the =
+test; and=20
+  <LI>determine whether the statistics defined in (ii) are "unusually =
+small" for=20
+  the chosen sample. </LI></OL>Notice that the procedure here described =
+is=20
+identical to that used in (Witztum <I>et al</I>., 1994), except for =
+minor=20
+changes in the details of task (i), due to fact that here we consider =
+"distance"=20
+between an ELS and a word in the string of letters (SL) of the text, and =
+not a=20
+"distance" between two ELS's (as in Witztum <I>et al</I>., 1994).=20
+<P>Task (i) has several components. First, we must define the notion of=20
+"distance" between an ELS and an SL of the text in a given array; for =
+this we=20
+use a convenient variant of the ordinary Euclidean distance. Second, =
+there are=20
+many ways of writing a text as a two-dimenional array, depending on the =
+row=20
+length; we must select one or more of these arrays, and somehow =
+amalgamate the=20
+results (of course, the selection and/or amalgamation must be carried =
+out=20
+according to clearly stated, systematic rules). Third, a given word may =
+occur=20
+many times as an ELS in a text; here again, a selection and amalgamation =
+process=20
+is called for. Fourth, we must correct for factors such as word length =
+and=20
+composition. All this is done in detail in Sections <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/index.html#A.1">A.=
+1</A> and=20
+<A =
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/index.html#A.2">A.=
+2</A>=20
+of the Appendix.=20
+<P>Next, we have task (ii), measuring the overall proximity of pairs of =
+words in=20
+the sample as a whole. For this, we used two different statistics,=20
+<I>P</I><SUB>1</SUB> and <I>P</I><SUB>2</SUB>, which are defined and =
+motivated=20
+in the Appendix (Section <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/index.html#A.6">A.=
+6</A>).=20
+Intuitively, each measures overall proximity in a different way. In each =
+case, a=20
+small value of <I>P<SUB>i</SUB></I> indicates that the words in the =
+sample pairs=20
+are, on the whole, close to each other.=20
+<P>To accomplish task (iii) we composed three samples (<B><A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/index.html#B1">Sam=
+ple=20
+B1</A></B>, <B><A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/index.html#B2">Sam=
+ple=20
+B2</A></B> and <B><A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/index.html#B3">Sam=
+ple=20
+B3</A></B>) of pairs of expressions (<I>w, w'</I>), where <I>w'</I>s are =
+words=20
+appearing as ELS's, and <I>w' '</I>s are words appearing as SL's (i.e. =
+with=20
+<I>d'</I> =3D<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/plus1.gif" =
+width=3D11=20
+align=3Dbottom>1).=20
+<P>Preliminary test was done for each sample, in order to check how the=20
+<I>subject</I> of the sample appears as ELS's and SL's in =
+<I>Genesis</I>, and=20
+consequently to decide whether to test the sample itself. For details =
+see=20
+Appendix, Section <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/index.html#A.3.1">=
+A.3.1</A>.=20
+
+<P><A name=3DB1></A><B>Sample B1</B> is built on the basis of the Hebrew =
+alphabet.=20
+For every letter <I>'x'</I> of the Hebrew alphabet we consider pairs=20
+(<I>w,w'</I>), where <I>w'</I> 's are found as SL's and have the meaning =
+"a name=20
+beginning with <I>'x' </I>" or "names beginning with <I>'x' </I>", while =
+
+<I>w'</I>s are names beginning with <I>'x'</I> taken from "A Treasury of =
+Men`s=20
+Names" (which is included as an appendix in Even-Shoshan's famous Hebrew =
+
+dictionary (Even-Shoshan, 1989). For a detailed definition of the =
+<B>Sample=20
+B1</B> see Appendix (Section <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/index.html#A.3.2">=
+A.3.2</A>).=20
+
+<P><A name=3DB2></A><B>Sample B2</B> is built exactly in the same way as =
+Sample=20
+B1, except for the fact that the names are taken from "A Treasury of =
+Women's=20
+Names" from the same dictionary.=20
+<P><A name=3DB3></A><B>Sample B3</B> is built on the basis of the list =
+of the=20
+seventy descendents of Noah's sons: the Semites, the Hamites, and the=20
+Japhetites, found in <I>Genesis </I>Chapter 10. Jewish tradition =
+teaches, that=20
+these seventy descendents became the Seventy Nations which constitute =
+Humanity.=20
+This concept is well known, and is usually found in biblical =
+Encyclopaedias=20
+under the title "The Table of Nations" (see for instance <I>Encyclopedia =
+
+Biblica,</I> 1962). <B>Sample B3</B> consists of pairs (<I>w,</I> =
+<I>w'</I>)=20
+where <I>w' '</I>s are names from this list, and <I>w</I>`s are =
+expressions from=20
+a fixed set of expressions describing basic aspects of nationality (such =
+as=20
+name, country, language etc.) For details see Appendix, Section <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/index.html#A.3.3">=
+A.3.3</A>=20
+and <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tables.html#table8=
+">Table=20
+8</A>.=20
+<P>Finally, we come to Task (iv), the significant test itself. We apply =
+the same=20
+procedure for all three samples. For <B>Sample B3</B> we describe it =
+here: for=20
+the other two samples the (similar) details are given in Appendix <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/index.html#A.4">A.=
+4</A>.=20
+<P>The list of Seventy Nations consists of 68 <I>different</I> names (in =
+two=20
+cases nations have the same name). For each of the 68! =
+permutations&nbsp;<IMG=20
+height=3D9 src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/pi.gif" =
+width=3D11=20
+align=3Dbottom> of these names, we define the statistic&nbsp;<IMG =
+height=3D14=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/p1.gif" width=3D23 =
+
+align=3DabsBottom>obtained by permuting the names in accordance =
+with&nbsp;<IMG=20
+height=3D9 src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/pi.gif" =
+width=3D11=20
+align=3Dbottom>, so that Name <I>i</I> is matched with the set of =
+expressions=20
+defined for Name&nbsp;<IMG height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/pi.gif" width=3D11 =
+
+align=3Dbottom>(<I>i</I>). The 68! numbers&nbsp;<IMG height=3D14=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/p1.gif" width=3D23 =
+
+align=3DabsBottom> are ordered, with possible ties, according to the =
+usual order=20
+of the real numbers. If the phenomenon under study were due to chance, =
+it would=20
+be just as likely that <I>P</I><SUB>1</SUB> occupies any one of the 68! =
+places=20
+in this order as any other. Similarly for <I>P</I><SUB>2</SUB>. This is =
+our null=20
+hypothesis.=20
+<P>To calculate significance levels, we chose 999,999 random=20
+permutations&nbsp;<IMG height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/pi.gif" width=3D11 =
+
+align=3Dbottom> of the 68 names; the precise way in which this was done =
+is=20
+explained in the Appendix (Section <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/index.html#A.7">A.=
+7</A>).=20
+Each of these permutations&nbsp;<IMG height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/pi.gif" width=3D11 =
+
+align=3Dbottom> determines a statistic&nbsp;<IMG height=3D14=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/p1.gif" width=3D23 =
+
+align=3DabsBottom> together with <I>P</I><SUB>1</SUB>, we have thus =
+1,000,000=20
+numbers. Define the <I>rank order</I> of <I>P</I><SUB>1</SUB>, among =
+these=20
+1,000,000 numbers as the number of&nbsp;<IMG height=3D14=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/p1.gif" width=3D23 =
+
+align=3DabsBottom> not exceeding <I>P</I><SUB>1</SUB>; if =
+<I>P</I><SUB>1</SUB> is=20
+tied with other&nbsp;<IMG height=3D14=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/p1.gif" width=3D23 =
+
+align=3DabsBottom>, half of these others are considered to "exceed" =
+P<SUB>1</SUB>.=20
+Let&nbsp;<IMG height=3D16=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/sub1.gif" =
+width=3D19=20
+align=3DABSCENTER> be the rank order of <I>P</I><SUB>1</SUB>, divided by =
+
+1,000,000; under the null hypothesis,&nbsp;<IMG height=3D16=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/sub1.gif" =
+width=3D19=20
+align=3DABSCENTER> is the probability that <I>P</I><SUB>1</SUB> would =
+rank as low=20
+as it does. Define&nbsp;<IMG height=3D16=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/sub2.gif" =
+width=3D21=20
+align=3DABSCENTER> similarly (using the same 999,999 permutations in =
+each case).=20
+<P>For <B>Sample B3</B> we performed an additional test with 999,999,999 =
+random=20
+permutations. In this case only statistic&nbsp;<IMG height=3D14=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/p2.gif" width=3D20 =
+
+align=3DabsBottom> was calculated. The time needed for the computation=20
+of&nbsp;<IMG height=3D14=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/p1.gif" width=3D23 =
+
+align=3DabsBottom> for 999,999,999 random permutations is at present not =
+within=20
+the reach of our possibilties.=20
+<P>After calculating the probabilities&nbsp;<IMG height=3D16=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/sub1.gif" =
+width=3D19=20
+align=3DABSCENTER> and&nbsp;<IMG height=3D16=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/sub2.gif" =
+width=3D21=20
+align=3DABSCENTER>, we must make an overall decision, for each sample, =
+to accept=20
+or reject the null hypothesis. Thus the overall significance level (or =
+p-value)=20
+for each sample, using the two statistics. is&nbsp;<IMG height=3D16=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/sub.gif" =
+width=3D18=20
+align=3DABSCENTER> :=3D 2 min <IMG height=3D16=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/subi.gif" =
+width=3D19=20
+align=3DABSCENTER>.=20
+<H3>3. Results and Conclusions.</H3>In Tables <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tables.html">1</A>=
+, <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tables.html#table2=
+">2</A>=20
+and <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tables.html#table3=
+">3</A>=20
+we present the results for the three samples. <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tables.html">Table=
+ 1</A>=20
+shows the results for <B>Sample B1</B>. There we list the rank order of=20
+<I>P</I><SUB>1</SUB> and <I>P</I><SUB>2</SUB> among the 1,000,000=20
+corresponding&nbsp;<IMG height=3D14=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/p1.gif" width=3D23 =
+
+align=3DabsBottom> and&nbsp;<IMG height=3D14=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/p2.gif" width=3D20 =
+
+align=3DabsBottom>. Thus the entry 1139 for <I>P</I><SUB>2</SUB> means =
+that for=20
+1138 out of the 999,999 random permutations&nbsp;<IMG height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/pi.gif" width=3D11 =
+
+align=3Dbottom>, the statistic&nbsp;<IMG height=3D14=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/p2.gif" width=3D20 =
+
+align=3DabsBottom>was smaller than <I>P</I><SUB>2</SUB>. It follows that =
+
+min&nbsp;<IMG height=3D16=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/subi.gif" =
+width=3D19=20
+align=3DABSCENTER> =3D .000442, so&nbsp;<IMG height=3D16=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/sub.gif" =
+width=3D18=20
+align=3DABSCENTER> =3D 2 min&nbsp;<IMG height=3D16=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/subi.gif" =
+width=3D19=20
+align=3DABSCENTER> =3D .000884.=20
+<P>We conclude that for <B>Sample B1</B> the null hypothesis is rejected =
+with=20
+significance level (p-value) .000884.=20
+<P>The same calculations, using the same 999,999 random permutations, =
+were=20
+performed for a control text <I>V</I> (see Witztum <I>et al.,</I> 1994). =
+The=20
+text <I>V </I>was obtained from <I>G </I>by permuting the verses of <I>G =
+
+</I>randomly. (For details, see Appendix; Section <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/index.html#A.7">A.=
+7</A>).=20
+<P><A =
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tables.html">Table=
+=20
+1</A> gives the results of these calculations too. In the case of =
+<I>V</I>, min=20
+<IMG height=3D16 =
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/subi.gif"=20
+width=3D19 align=3DABSCENTER> is approximately .169, being =
+non-significant.=20
+<P><A =
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tables.html">Table=
+=20
+2</A> shows the results for <B>Sample B2</B> for <I>G</I>. The results =
+are=20
+non-significant. We saw no reason to perform any further tests for this =
+sample.=20
+<P><A =
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tables.html">Table=
+=20
+3</A> shows the results for <B>Sample B3</B>. In part A of it, the =
+results for=20
+<I>G</I>, as well for the control text <I>V </I>for 999,999 random =
+permutations=20
+are summarized. In the case of <I>V,</I> min <IMG height=3D16=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/subi.gif" =
+width=3D19=20
+align=3DABSCENTER> is approximately .559.=20
+<P>In part B, the results for <I>G </I>for 999,999,999 random =
+permutations are=20
+given. Notice that only the rank order of <I>P</I><SUB>2</SUB> was =
+calculated.=20
+It turned out to be 4.=20
+<P>We conclude that for Sample B3 the null hypothesis is rejected with=20
+significance level (p-value) .000000004.=20
+<H2>APPENDIX: Details of the Procedure.</H2>In this Appendix we describe =
+the=20
+procedure in sufficient detail to enable the reader to repeat the =
+computations=20
+precisely. Some motivation for the various definitions is also provided. =
+
+<P>In Section <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/index.html#A.1">A.=
+1</A> of=20
+this Appendix, a "raw" measure of distance between words is defined. =
+Section <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/index.html#A.2">A.=
+2</A>=20
+explains how we normalize this raw measure to correct for factors like =
+the=20
+length of a word and its composition (the relative frequency of the =
+letters=20
+occurring in it). Section <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/index.html#A.3">A.=
+3</A>=20
+explains how the three samples B1, B2 and B3 are constructed. Section <A =
+
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/index.html#A.5">A.=
+5</A>=20
+identifies the precise text, of Genesis that we used. In Section <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/index.html#A.6">A.=
+6</A>, we=20
+define and motivate the statistics <I>P</I><SUB>1</SUB> and=20
+<I>P</I><SUB>2</SUB>. The details of the task (iv) are described in =
+Section <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/index.html#A.4">A.=
+4</A>.=20
+Finally, Section <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/index.html#A.7">A.=
+7</A>=20
+provides the details of the randomization.=20
+<H5><A name=3DA.1></A>A.1 The Distance Between Words.</H5>To define the =
+"distance"=20
+between words, we must first define the distance between an ELS =
+representing a=20
+word and a string of letters (SL) in the text, (i.e. with <I>d</I> =
+=3D&nbsp;<IMG=20
+height=3D10 =
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/plus1.gif"=20
+width=3D11 align=3Dbottom>1) representing the other word. Before we can =
+do that, we=20
+must define the distance between ELS and SL in a given array: and before =
+we can=20
+do that, we must define the distance between individual letters in the =
+array.=20
+<P>As indicated in Section 1, we think of an array as one long line that =
+spirals=20
+down on a cylinder; its <I>row length h</I> is the number of vertical =
+columns.=20
+To define the distance between two letters <I>x </I>and <I>x'</I>, cut =
+the=20
+cylinder along a vertical line between two columns. In the resulting =
+plane each=20
+of <I>x</I> and <I>x'</I> have two integer coordinates. and we compute =
+the=20
+distance between them as usual, using these coordinates. In general, =
+there are=20
+two possible values for this distance, depending on the vertical line =
+that was=20
+chosen for cutting the cylinder; if the two values are different, we use =
+the=20
+smaller one.=20
+<P>Next, we define the distance between fixed ELS <I>e</I> and SL =
+<I>e'</I> in a=20
+fixed cylindrical array. Set=20
+<UL><I>f</I> :=3D the distance between consecutive letters of <I>e,</I>=20
+  <P><I>f '</I> :=3D the distance between consecutive letters of <I>e' =
+</I>=3D 1.=20
+  <P><I>l</I> :=3D the minimal distance between a letter of <I>e</I> and =
+one of=20
+  <I>e'</I>,</P></UL>and define&nbsp;<IMG height=3D12=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/d.gif" width=3D9=20
+align=3Dbottom>(<I>e, e'</I>) :=3D <I>f</I><SUP>2</SUP> +=20
+<I>f'</I><SUP>2</SUP>+<I>l</I><SUP>2</SUP>+1. We call&nbsp;<IMG =
+height=3D12=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/d.gif" width=3D9=20
+align=3Dbottom>(<I>e, e'</I>) the <I>distance</I> between the ELS <I>e =
+</I>and the=20
+SL <I>e'</I> in the given array; it is small if both fit into a =
+relatively=20
+compact area.=20
+<P>Now there are many ways of writing Genesis as a cylindrical array, =
+depending=20
+on the row length <I>h</I>. Denote by&nbsp;<IMG height=3D12=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/d.gif" width=3D9=20
+align=3Dbottom><I><SUB>h</SUB></I>(<I>e, e'</I>) the distance&nbsp;<IMG =
+height=3D12=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/d.gif" width=3D9=20
+align=3Dbottom>(<I>e, e'</I>) in the array determined by <I>h</I>, and=20
+set&nbsp;<IMG height=3D12=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/u.gif" width=3D12=20
+align=3DABSCENTER><I><SUB>h</SUB></I>(<I>e, e'</I>) :=3D 1/<IMG =
+height=3D12=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/d.gif" width=3D9=20
+align=3Dbottom><I><SUB>h</SUB></I>(<I>e, e'</I>); the larger&nbsp;<IMG =
+height=3D12=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/u.gif" width=3D12=20
+align=3DABSCENTER><I><SUB>h</SUB></I>(<I>e, e'</I>) is, the more compact =
+is the=20
+configuration consisting of <I>e </I>and <I>e'</I> in the array with row =
+length=20
+<I>h</I>. Set <I>e</I> =3D (<I>n, d, k</I>) (recall that <I>d </I>is the =
+skip). Of=20
+particular interest are the row lengths <I>h</I> =3D =
+<I>h</I><SUB>1</SUB>,=20
+<I>h</I><SUB>2</SUB>,.... where <I>h<SUB>i</SUB></I> is the integer =
+nearest to=20
+|<I>d</I>| /<I>i</I> (1/2 is rounded up). Thus when <I>h</I> =3D=20
+<I>h</I><SUB>1</SUB> =3D |d|, then <I>e </I>appears as a column of =
+adjacent=20
+letters and when <I>h</I> =3D <I>h</I><SUB>2</SUB>, then <I>e</I> =
+appears either=20
+as a column that skips alternate rows or as a straight line of knight's =
+moves.=20
+In general, the arrays in which <I>e </I>appears relatively compactly =
+are those=20
+with row length <I>h<SUB>i</SUB></I> with <I>i</I> "not too large."=20
+<P>The above discussion indicates that if there is an array in which the =
+
+configuration (<I>e,e'</I>) is unusually compact, it is likely to be =
+among those=20
+whose row length is one of the first ten <I>h<SUB>i</SUB></I>. (Here and =
+in the=20
+sequel 10 is an arbitrarily selected "moderate" number). So setting=20
+<CENTER><IMG height=3D44=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/eq1.gif" =
+width=3D145></CENTER>
+<P>we conclude that&nbsp;<IMG height=3D7=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/o.gif" width=3D11=20
+align=3Dbottom>(<I>e, e'</I>) is a reasonable measure of the maximal =
+"compactness"=20
+of the configuration (<I>e, e'</I>) in any array. Equivalently, it is an =
+inverse=20
+measure of the minimum distance between <I>e </I>and <I>e'</I>.=20
+<P>Next, given a word <I>w</I>, we look for the most "noteworthy" =
+occurrence or=20
+occurrences of <I>w </I>as an ELS in <I>G</I>. For this, we chose ELS's =
+<I>e</I>=20
+=3D (<I>n,d,k</I>) with |<I>d</I>|&nbsp;<IMG height=3D13=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/great.gif" =
+width=3D10=20
+align=3Dbottom> 2 that spell out <I>w </I>for which |<I>d</I>| is =
+minimal over all=20
+of <I>G</I>, or at least over large portions of it. Specifically, define =
+the=20
+<I>domain of minimality</I> of <I>e </I>as the maximal segment=20
+<I>T<SUB>e</SUB></I> of <I>G </I>that includes <I>e </I>and does not =
+include any=20
+other ELS&nbsp;<IMG height=3D18=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ebar.gif" =
+width=3D69=20
+align=3Dbottom> for <I>w</I> with |<IMG height=3D14=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/dbar.gif" =
+width=3D13>|&lt;=20
+|<I>d</I>|. The length of <I>T<SUB>e</SUB></I>, relative to the whole of =
+
+<I>G</I>, is the "weight" we assign to <I>e</I>. Thus we =
+define&nbsp;<IMG=20
+height=3D8 src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/w.gif" =
+width=3D13=20
+align=3Dbottom>(<I>e</I>) :=3D&nbsp;<IMG height=3D16=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/gimmel.gif" =
+width=3D10=20
+align=3Dbottom>(<I>T<SUB>e</SUB></I>)/<IMG height=3D16=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/gimmel.gif" =
+width=3D10=20
+align=3Dbottom>(<I>G</I>), where&nbsp;<IMG height=3D16=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/gimmel.gif" =
+width=3D10=20
+align=3Dbottom>(<I>T<SUB>e</SUB></I>) is the length of =
+<I>T<SUB>e</SUB></I>,=20
+and&nbsp;<IMG height=3D16=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/gimmel.gif" =
+width=3D10=20
+align=3Dbottom>(<I>G</I>) is the length of <I>G</I>. For any two words =
+<I>w</I>=20
+and <I>w',</I> we set=20
+<CENTER><IMG height=3D32=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/eq2.gif" =
+width=3D252></CENTER>
+<P>where the sum is over all ELS's <I>e </I>spelling out <I>w </I>and =
+over all=20
+SL's <I>e</I>' spelling out <I>w'</I>. Roughly,&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/epsilon.gif" =
+width=3D14=20
+align=3Dbottom>(<I>w, w'</I>) measures the maximum closeness of the more =
+
+noteworthy appearances of <I>w </I>as ELS's and <I>w'</I> as SL's in=20
+Genesis--the closer they are, the larger is&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/epsilon.gif" =
+width=3D14=20
+align=3Dbottom>(<I>w, w'</I>).=20
+<P>When actually computing&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/epsilon.gif" =
+width=3D14=20
+align=3Dbottom>(<I>w, w'</I>), the size of the list of ELS's for <I>w =
+</I>may be=20
+impractically large (especially for short words). It is clear from the=20
+definition of the domain of minimality that ELS's for <I>w </I>with =
+relatively=20
+large skips will contribute very little to the value of&nbsp;<IMG =
+height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/epsilon.gif" =
+width=3D14=20
+align=3Dbottom>(<I>w,w'</I>) due to their small weight. Hence, in order =
+to cut the=20
+amount of computation we restrict beforehand the range of the skip=20
+|<I>d</I>|<IMG height=3D13=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/less.gif" =
+width=3D10=20
+align=3Dbottom><I>D</I>(<I>w</I>) for <I>w </I>so that the expected =
+number of=20
+ELS's for <I>w</I> will be 10. This expected number equals the product =
+of the=20
+relative frequencies (within Genesis) of the letters constituting <I>w=20
+</I>multiplied by the total number of all equidistant letter sequences =
+with=20
+2&nbsp;<IMG height=3D13=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/less.gif" =
+width=3D10=20
+align=3Dbottom>|<I>d</I>|<IMG height=3D13=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/less.gif" =
+width=3D10=20
+align=3Dbottom> <I>D</I>. (The latter is given by the formula (<I>D =
+</I>-=20
+1)(2<I>L</I> - (<I>k</I> - 1)(<I>D</I> + 2)), where <I>L</I> is the =
+length of=20
+the text and <I>k</I> is the number of letters in <I>w</I>). Abusing our =
+
+notation somewhat, we continue to denote this modified function =
+by&nbsp;<IMG=20
+height=3D10 =
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/epsilon.gif"=20
+width=3D14 align=3Dbottom>(<I>w,w'</I>).=20
+<H5><A name=3DA.2></A>A.2 The Corrected Distance.</H5>In the previous =
+section we=20
+defined a measure&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/epsilon.gif" =
+width=3D14=20
+align=3Dbottom>(<I>w, w'</I>) of proximity between two words <I>w =
+</I>and=20
+<I>w'</I> -- an inverse measure of the distance between them. We are, =
+however,=20
+interested less in the absolute distance between two words, than in =
+whether this=20
+distance is larger or smaller than "expected". In this section, we =
+define a=20
+"relative distance" <I>c</I>(<I>w, w'</I>), which is small when <I>w =
+</I>is=20
+"unusually close" to <I>w',</I> and is 1, or almost 1, when <I>w </I>is=20
+"unusually far" from <I>w'</I>.=20
+<P>The idea is to use perturbations of the arithmetic progressions that =
+define=20
+the notion of an ELS. Specifically, start by fixing a triple =
+(<I>x,y,z</I>) of=20
+integers in the range {-<I>r</I>,...,0,...,<I>r</I>}; there are (2<I>r =
+</I>+=20
+1)<SUP>3 </SUP>such triples. In Witztum <I>et al</I>. (1994) and also =
+here we=20
+put <I>r </I>=3D 2. which gives us 125 triples. Next, rather than =
+looking for=20
+ordinary ELS's (<I>n,d,k</I>), look for "(<I>x,y,z</I>)-perturbed ELS's" =
+
+(<I>n,d,k</I>)<SUP>(<I>x,y,z</I>)</SUP> obtained by taking the positions =
+
+<CENTER><I>n, n + d,...,n + </I>(<I>k - </I>4)<I>d, n + </I>(<I>k - =
+</I>3)<I>d +=20
+x, n + </I>(<I>k - </I>2)<I>d + x + y, n + </I>(<I>k - </I>1)<I>d + x + =
+y +=20
+z,</I></CENTER>
+<P>instead of the positions <I>n, n + d, n +2d,...,n +(k - =
+</I>1<I>)d</I>. Note=20
+that in a word of length <I>k, k-</I>2 intervals could be perturbed. =
+However, we=20
+preferred to perturb only the 3 last ones, for technical programming =
+reasons.=20
+<P>The <I>distance </I>between the (<I>x,y,z</I>)-peturbed ELS (<I>n, d, =
+
+k)</I><SUP>(<I>x,y,z</I>)</SUP> and the SL (<I>n'</I>,&nbsp;<IMG =
+height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/plus1.gif" =
+width=3D11=20
+align=3Dbottom>1,<I>k'</I>) is defined by the same formulae as in the=20
+non-perturbed case, where <I>f</I> is taken to be the distance between =
+the first=20
+two letters of (<I>x,y,z</I>)-perturbed <I>e</I>.=20
+<P>We may now calculate the "(<I>x,y,z</I>)-proximity" of two words <I>w =
+</I>and=20
+<I>w'</I> in a manner exactly analogous to that used for calculating the =
+
+"ordinary" proximity&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/epsilon.gif" =
+width=3D14=20
+align=3Dbottom>(<I>w, w'</I>). This yields 125 numbers&nbsp;<IMG =
+height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/epsilon.gif" =
+width=3D14=20
+align=3Dbottom><SUP>(<I>x,y,z</I>)</SUP>(<I>w, w'</I>), of =
+which&nbsp;<IMG=20
+height=3D10 =
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/epsilon.gif"=20
+width=3D14 align=3Dbottom>(<I>w,w'</I>)=3D<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/epsilon.gif" =
+width=3D14=20
+align=3Dbottom><SUP>(0,0,0)</SUP>(<I>w,w'</I>) is one. We are interested =
+in only=20
+some of these 125 numbers; namely, those corresponding to triples =
+(<I>x,y,z</I>)=20
+for which there actually exist some (<I>x,y,z</I>)-perturbed ELS's in =
+Genesis=20
+for <I>w </I>(the other&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/epsilon.gif" =
+width=3D14=20
+align=3Dbottom><SUP>(<I>x,y,z</I>)</SUP>(<I>w,w'</I>) vanish). Denote by =
+
+<I>M</I>(<I>w, w'</I>) the set of all such triples, and by =
+<I>m</I>(<I>w,=20
+w'</I>) the number of its elements.=20
+<P>Suppose (0,0,0) is in <I>M</I>(<I>w, w'</I>), i.e., <I>w</I> actually =
+appears=20
+as ordinary ELS (i.e., with <I>x =3D y =3D z =3D </I>0) in the text. =
+Denote by=20
+<I>v</I>(<I>w,w'</I>) the number of triples (<I>x,y,z</I>) in=20
+<I>M</I>(<I>w,w'</I>) for which&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/epsilon.gif" =
+width=3D14=20
+align=3Dbottom><SUP>(<I>x,y,z</I>)</SUP>(<I>w,w'</I>)<IMG height=3D13=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/great.gif" =
+width=3D10=20
+align=3Dbottom><IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/epsilon.gif" =
+width=3D14=20
+align=3Dbottom>(<I>w,w'</I>). If <I>m</I>(<I>w,w'</I>)<IMG height=3D13=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/great.gif" =
+width=3D10=20
+align=3Dbottom> 10 (again, 10 is an arbitrarily selected "moderate" =
+number),=20
+<CENTER><I>c</I>(<I>w,w'</I>)=20
+:=3D<I>v</I>(<I>w,w'</I>)/<I>m</I>(<I>w,w'</I>).</CENTER>
+<P>If (0, 0,0) is not in <I>M</I>(<I>w, w'</I>), or if <I>m</I>(<I>w, =
+w'</I>)=20
+&lt; 10 (in which case we consider the accuracy of the method as =
+insufficient),=20
+we do not define <I>c</I>(<I>w,w'</I>).=20
+<P>In words, the corrected distance <I>c</I>(<I>w,w'</I>) is simply the =
+rank=20
+order of the proximity&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/epsilon.gif" =
+width=3D14=20
+align=3Dbottom>(<I>w,w'</I>) among all the "perturbed =
+proximities"&nbsp;<IMG=20
+height=3D10 =
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/epsilon.gif"=20
+width=3D14 align=3Dbottom><SUP>(<I>x,y,z</I>)</SUP>(<I>w,w'</I>); =
+if&nbsp;<IMG=20
+height=3D10 =
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/epsilon.gif"=20
+width=3D14 align=3Dbottom>(<I>w,w'</I>) is tied with other&nbsp;<IMG =
+height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/epsilon.gif" =
+width=3D14=20
+align=3Dbottom><SUP>(<I>x,y,z</I>)</SUP>(<I>w,w'</I>), half of these =
+others are=20
+considered to "exceed"&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/epsilon.gif" =
+width=3D14=20
+align=3Dbottom>(<I>w,w'</I>). We normalize it so that the maximum =
+distance is 1. A=20
+large corrected distance means that ELS's representing <I>w</I> are far =
+away=20
+from the SL's representing <I>w'</I>, on a scale determined by how far =
+the=20
+<I>perturbed </I>ELS's for <I>w </I>are from the SL's for <I>w'</I>.=20
+<H5><A name=3DA.3></A>A.3 The Samples of Word Pairs.</H5>In this Section =
+we=20
+describe the three samples that were tested in this research. Each of =
+them=20
+consists of pairs of expressions (<I>w,w'</I>), where according to our=20
+procedure, we are looking for <I>w</I> to appear as ELS's and for =
+<I>w'</I> to=20
+appear as SL's.=20
+<P>Our method of rank ordering of ELS's based on =
+(<I>x,y,z</I>)-perturbations=20
+requires that words have at least 5 letters to apply the perturbations. =
+In=20
+addition, we found that for words with more than 8 letters, the number =
+of=20
+(<I>x,y,z</I>)-perturbed ELS's which actually exist for such words was =
+too small=20
+to satisfy our criteria for applying the corrected distance. Thus the =
+words in=20
+our list are restricted in length to the range 5-8, exactly as in =
+Witztum <I>et=20
+al</I>. (1994). However. there is no restriction on the words or =
+expressions=20
+appearing as SL's.=20
+<P><A name=3DA.3.1></A><I>A.3.1 Preliminary Tests.</I> <BR>Sample B1 =
+deals with=20
+men's names. Appendix B in Even-Shoshan's Hebrew dictionary =
+(Even-Shoshan. 1989)=20
+is "A Treasury of Private Names". It is divided into two parts: "A =
+Treasury of=20
+Men's Names" and "A Treasury of Women's Names". Originally, we intented =
+to check=20
+a sample based on the (much bigger) Treasury of men's names. The =
+Treasury=20
+contains names from the Hebrew Bible and from various periods of the =
+Hebrew=20
+language. We decided to include in our sample only names taken from the =
+Hebrew=20
+Bible (they are indicated as such in this Treasury). These are original =
+Hebrew=20
+names, or names which are etymologically Semitic or Hebrew. (See the =
+foreword to=20
+the Treasury).=20
+<P>We describe the <I>subject </I>of the sample by the following set of =
+pairs of=20
+expressions:=20
+<OL>
+  <LI><IMG height=3D9=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/prat.gif" =
+width=3D45=20
+  align=3Dbottom> (private) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+  align=3Dbottom> (names),=20
+  <LI><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shem.gif" =
+width=3D42=20
+  align=3Dbottom> (Semitic) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+  align=3Dbottom> (names),=20
+  <LI><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ivriim.gif" =
+width=3D47=20
+  align=3Dbottom> (Hebrew) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+  align=3Dbottom> (names),=20
+  <LI><IMG height=3D11=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/mkoriim.gif" =
+width=3D52=20
+  align=3DabsBottom> (original) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+  align=3Dbottom> (names). </LI></OL>The Hebrew term for "The Hebrew =
+Bible" is=20
+either&nbsp;<IMG height=3D11=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/mikrah.gif" =
+width=3D37=20
+align=3DabsBottom> (Mikra) or&nbsp;<IMG height=3D11=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tanach.gif" =
+width=3D34=20
+align=3DabsBottom> (Tanach). We used both:=20
+<OL start=3D5>
+  <LI><IMG height=3D11=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/mikrah.gif" =
+width=3D37=20
+  align=3DabsBottom><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ha.gif" =
+width=3D11=20
+  align=3Dbottom>&nbsp;<IMG height=3D11=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/min.gif" =
+width=3D17=20
+  align=3DabsBottom> (from the Hebrew Bible) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+  align=3Dbottom> (names),=20
+  <LI><IMG height=3D11=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tanach.gif" =
+width=3D34=20
+  align=3DabsBottom><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ha.gif" =
+width=3D11=20
+  align=3Dbottom>&nbsp;<IMG height=3D11=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/min.gif" =
+width=3D17=20
+  align=3DabsBottom> (from the Hebrew Bible) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+  align=3Dbottom> (names). </LI></OL>Then we describe the fact that we =
+deal with=20
+men's names, by the following pairs:=20
+<OL type=3Da>
+  <LI><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/anashim.gif" =
+width=3D40=20
+  align=3Dbottom> (of men) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+  align=3Dbottom> (names),=20
+  <LI><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/anashim.gif" =
+width=3D40=20
+  align=3Dbottom><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ha.gif" =
+width=3D11=20
+  align=3Dbottom> (of the men) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+  align=3Dbottom> (names),=20
+  <LI><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/anashim.gif" =
+width=3D40=20
+  align=3Dbottom><IMG height=3D11=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/la.gif" =
+width=3D9=20
+  align=3Dbottom> (for men) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+  align=3Dbottom> (names)=20
+  <LI><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/anashim.gif" =
+width=3D40=20
+  align=3Dbottom>&nbsp;<IMG height=3D11=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shel.gif" =
+width=3D22=20
+  align=3Dbottom> (of men) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+  align=3Dbottom> (names),=20
+  <LI><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/anashim.gif" =
+width=3D40=20
+  align=3Dbottom><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ha.gif" =
+width=3D11=20
+  align=3Dbottom>&nbsp;<IMG height=3D11=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shel.gif" =
+width=3D22=20
+  align=3Dbottom> (of the men) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+  align=3Dbottom> (names). </LI></OL>The first pair is shown above in <A =
+
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/figures.html#figur=
+e1">Fig.=20
+1</A> (in the Introduction). There, a minimal ELS for the word&nbsp;<IMG =
+
+height=3D9 =
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/prat.gif" =
+width=3D45=20
+align=3Dbottom> (private) appears in close proximity with an appearance =
+of the=20
+word&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35>=20
+(names) as a SL. We <I>mark this appearance</I> of&nbsp;<IMG height=3D10 =
+
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+align=3Dbottom> (names), and check how close, each of the other =
+expressions in the=20
+pairs 2) to 6) and a) to e) - appearing as a minimal ELS - "hits" at it. =
+For=20
+example, this appearance of&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+align=3Dbottom> (names), is shown in <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/figures.html#figur=
+e2">Fig.=20
+2</A>: this table is determined by an ELS for&nbsp;<IMG height=3D11=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/mkoriim.gif" =
+width=3D52=20
+align=3DabsBottom> (original), which is minimal in a section of the text =
+
+comprising 86% of <I>G</I>.=20
+<P><A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tables.html#table4=
+">Tables=20
+4A and 4B</A> give the values of <I>c</I>(<I>w,w'</I>) for each pair =
+from the=20
+above lists (where <I>w'</I> is&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+align=3Dbottom> (names), and <I>w</I> is the corresponding expression). =
+Recall=20
+that <I>c</I>(<I>w, w'</I>) is defined only when <I>w </I>appears as an =
+ELS, and=20
+that <I>w </I>is restricted in length to the range 5-8.=20
+<P>The total for the 11 pairs is: <I>P</I><SUB>1</SUB> =3D 0.0000042,=20
+<I>P</I><SUB>2</SUB> =3D 0.000397 (for the definition of =
+<I>P</I><SUB>1</SUB> and=20
+<I>P</I><SUB>2</SUB> see section <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/index.html#A.6">A.=
+6</A>).=20
+<P>A randomization test that fits for this type of samples, where the =
+same word=20
+is "paired" with a list of expressions, is the subject of our next =
+paper.=20
+<P>Sample B2 deals with women's names. We describe this fact exactly as =
+we had=20
+done with men's names; i.e. by the following pairs:=20
+<OL type=3Da>
+  <LI><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/nashim.gif" =
+width=3D31=20
+  align=3Dbottom> (of women) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+  align=3Dbottom> (names),=20
+  <LI><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/nashim.gif" =
+width=3D31=20
+  align=3Dbottom><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ha.gif" =
+width=3D11=20
+  align=3Dbottom> (of the women) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+  align=3Dbottom> (names),=20
+  <LI><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/nashim.gif" =
+width=3D31=20
+  align=3Dbottom><IMG height=3D11=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/la.gif" =
+width=3D9=20
+  align=3Dbottom> (for women)-&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+  align=3Dbottom> (names),=20
+  <LI><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/nashim.gif" =
+width=3D31=20
+  align=3Dbottom>&nbsp;<IMG height=3D11=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shel.gif" =
+width=3D22=20
+  align=3Dbottom> (of women) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+  align=3Dbottom> (names),=20
+  <LI><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/nashim.gif" =
+width=3D31=20
+  align=3Dbottom><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ha.gif" =
+width=3D11=20
+  align=3Dbottom>&nbsp;<IMG height=3D11=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shel.gif" =
+width=3D22=20
+  align=3Dbottom> (of the women) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+  align=3Dbottom> (names). </LI></OL>Here too, the word&nbsp;<IMG =
+height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+align=3Dbottom>(names) is in the <I>above mentioned</I> appearance as =
+SL.=20
+<P><A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tables.html#table5=
+">Table=20
+5</A> gives the values of <I>c</I>(<I>w,w'</I>) for each pair from the =
+above=20
+list (where <I>w'</I> is&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+align=3Dbottom>(names), and <I>w</I>, is the corresponding expression).=20
+<P>To do a preliminary test for Sample B3, we proceed in a similar way =
+and check=20
+the following expressions with the same appearance of&nbsp;<IMG =
+height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+align=3Dbottom>(names) as above:=20
+<OL type=3Da>
+  <LI><IMG height=3D12=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/amim.gif" =
+width=3D33=20
+  align=3Dbottom> (of nations) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+  align=3Dbottom> (names),=20
+  <LI><IMG height=3D12=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/amim.gif" =
+width=3D33=20
+  align=3Dbottom><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ha.gif" =
+width=3D11=20
+  align=3Dbottom> (of the nations) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+  align=3Dbottom> (names),=20
+  <LI><IMG height=3D12=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/amim.gif" =
+width=3D33=20
+  align=3Dbottom><IMG height=3D11=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/la.gif" =
+width=3D9=20
+  align=3Dbottom> (for nations) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+  align=3Dbottom> (names):=20
+  <LI><IMG height=3D12=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/amim.gif" =
+width=3D33=20
+  align=3Dbottom>&nbsp;<IMG height=3D11=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shel.gif" =
+width=3D22=20
+  align=3Dbottom> (of nations) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+  align=3Dbottom> (names),=20
+  <LI><IMG height=3D12=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/amim.gif" =
+width=3D33=20
+  align=3Dbottom><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ha.gif" =
+width=3D11=20
+  align=3Dbottom>&nbsp;<IMG height=3D11=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shel.gif" =
+width=3D22=20
+  align=3Dbottom> (of the nations) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+  align=3Dbottom> (names). </LI></OL>We checked more specifically the =
+subject of=20
+Sample B3: the title&nbsp;<IMG height=3D12=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/amim.gif" =
+width=3D33=20
+align=3Dbottom><IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ha.gif" width=3D11 =
+
+align=3Dbottom>&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shivim.gif" =
+width=3D44=20
+align=3Dbottom> "The Seventy Nations" can be also written as&nbsp;<IMG =
+height=3D12=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/amim.gif" =
+width=3D33=20
+align=3Dbottom><IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ha.gif" width=3D11 =
+
+align=3Dbottom>&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ayin.gif" =
+width=3D15=20
+align=3Dbottom> (using the well-known numerical value of the Hebrew=20
+letters.&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ayin.gif" =
+width=3D15=20
+align=3Dbottom>=3D 70). The alternative title in use is&nbsp;<IMG =
+height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+align=3Dbottom>&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shivim.gif" =
+width=3D44=20
+align=3Dbottom> ("The Seventy Descendants of Noah" ). Notice that in=20
+Hebrew&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+align=3Dbottom> means both the sons and the descendants of Noah.) This =
+expression=20
+can be also written as&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+align=3Dbottom>&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ayin.gif" =
+width=3D15=20
+align=3Dbottom>, where again&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ayin.gif" =
+width=3D15=20
+align=3Dbottom> stands for 70. Thus we have the pairs:=20
+<OL type=3Da start=3D6>
+  <LI><IMG height=3D12=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/amim.gif" =
+width=3D33=20
+  align=3Dbottom><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ha.gif" =
+width=3D11=20
+  align=3Dbottom>&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shivim.gif" =
+width=3D44=20
+  align=3Dbottom> (the Seventy Nations) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+  align=3Dbottom> (names),=20
+  <LI><IMG height=3D12=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/amim.gif" =
+width=3D33=20
+  align=3Dbottom><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ha.gif" =
+width=3D11=20
+  align=3Dbottom>&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ayin.gif" =
+width=3D15=20
+  align=3Dbottom> (The Seventy Nations) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+  align=3Dbottom> (names),=20
+  <LI><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+  align=3Dbottom>&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shivim.gif" =
+width=3D44=20
+  align=3Dbottom> (The Seventy Descendants of Noah) -&nbsp;<IMG =
+height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+  align=3Dbottom> (names),=20
+  <LI><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+  align=3Dbottom>&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ayin.gif" =
+width=3D15=20
+  align=3Dbottom> (The Seventy Descendants of Noah) -&nbsp;<IMG =
+height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+  align=3Dbottom> (names). </LI></OL><A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tables.html#table6=
+">Table=20
+6</A> gives the values of <I>c</I>(<I>w, w'</I>) for each pair from the =
+above=20
+list (where <I>w'</I> is&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+align=3Dbottom>(names), and <I>w</I> is the corresponding expression). =
+The total=20
+for the 9 pairs is: <I>P</I><SUB>1</SUB> =3D 0.0170, =
+<I>P</I><SUB>2</SUB> =3D=20
+0.0154.=20
+<P>Seeing these results as encouraging, we proceed to check even more =
+closely=20
+the subject of Sample B3.=20
+<P>The expression&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+align=3Dbottom> (the descendants of Noah) exists in G as SL's five =
+times. So we=20
+can look directly for meetings between this expression and the word <IMG =
+
+height=3D10 =
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shivim.gif"=20
+width=3D44 align=3Dbottom> (seventy) as ELS's:=20
+<OL>
+  <LI><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shivim.gif" =
+width=3D44=20
+  align=3Dbottom> (seventy) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+  align=3Dbottom> (the descendants of Noah) </LI></OL>In <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/figures.html#figur=
+e3">Fig.=20
+3</A> we see the best meeting of these expressions. This table is =
+determined by=20
+an ELS for the word&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shivim.gif" =
+width=3D44=20
+align=3Dbottom> (seventy) with skip 28. We mark <I>this appearance</I>=20
+of&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+align=3Dbottom> (the descendants of Noah), and check how close, each of =
+the other=20
+expressions in the following pairs - appearing as a minimal ELS- "hits" =
+it.=20
+<OL start=3D2>
+  <LI><IMG height=3D12=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/amim.gif" =
+width=3D33=20
+  align=3Dbottom><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ha.gif" =
+width=3D11=20
+  align=3Dbottom> (the nations) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+  align=3Dbottom> (the descendants of Noah),=20
+  <LI><IMG height=3D12=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/amim.gif" =
+width=3D33=20
+  align=3Dbottom><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ha.gif" =
+width=3D11=20
+  align=3Dbottom>&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ayin.gif" =
+width=3D15=20
+  align=3Dbottom> (The Seventy Nations) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+  align=3Dbottom> (the descendants of Noah),=20
+  <LI><IMG height=3D12=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/amim.gif" =
+width=3D33=20
+  align=3Dbottom><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ha.gif" =
+width=3D11=20
+  align=3Dbottom>&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shivim.gif" =
+width=3D44=20
+  align=3Dbottom> (The Seventy Nations) -<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+  align=3Dbottom> (the descendants of Noah),=20
+  <LI><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+  align=3Dbottom>&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ayin.gif" =
+width=3D15=20
+  align=3Dbottom> (The Seventy Descendants of Noah) -&nbsp;<IMG =
+height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+  align=3Dbottom> (the descendants of Noah),=20
+  <LI><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+  align=3Dbottom>&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shivim.gif" =
+width=3D44=20
+  align=3Dbottom> (The Seventy Descendants of Noah) -&nbsp;<IMG =
+height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+  align=3Dbottom> (the descendants of Noah),=20
+  <LI><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+  align=3Dbottom><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/m.gif" =
+width=3D10=20
+  align=3Dbottom> (some of the descendants of Noah) -&nbsp;<IMG =
+height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+  align=3Dbottom> (the descendants of Noah),=20
+  <LI><IMG height=3D11=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneibanv.gif" =
+width=3D47=20
+  align=3Dbottom> (his descendants) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+  align=3Dbottom> (the descendants of Noah).=20
+  <LI><IMG height=3D11=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneibanv.gif" =
+width=3D47=20
+  align=3Dbottom>&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ayin.gif" =
+width=3D15=20
+  align=3Dbottom> (the seventy descendants of him) -&nbsp;<IMG =
+height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+  align=3Dbottom> (the descendants of Noah),=20
+  <LI><IMG height=3D11=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneibanv.gif" =
+width=3D47=20
+  align=3Dbottom>&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shivim.gif" =
+width=3D44=20
+  align=3Dbottom> (the seventy descendants of him) -&nbsp;<IMG =
+height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+  align=3Dbottom> (the descendants of Noah),=20
+  <LI><IMG height=3D11=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneibanv.gif" =
+width=3D47=20
+  align=3Dbottom><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/m.gif" =
+width=3D10=20
+  align=3Dbottom> (some of his descendants) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+  align=3Dbottom> (the descendants of Noah),=20
+  <LI><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tzetza.gif" =
+width=3D45=20
+  align=3Dbottom> (his descendants) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+  align=3Dbottom> (the descendants of Noah),=20
+  <LI><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tzetza.gif" =
+width=3D45=20
+  align=3Dbottom>&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ayin.gif" =
+width=3D15=20
+  align=3Dbottom> (the seventy descendants of him) -&nbsp;<IMG =
+height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+  align=3Dbottom> (the descendants of Noah),=20
+  <LI><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tzetza.gif" =
+width=3D45=20
+  align=3Dbottom>&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shivim.gif" =
+width=3D44=20
+  align=3Dbottom> (the seventy descendants of him) -&nbsp;<IMG =
+height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+  align=3Dbottom> (the descendants of Noah),=20
+  <LI><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tzetza.gif" =
+width=3D45=20
+  align=3Dbottom><IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/m.gif" =
+width=3D10=20
+  align=3Dbottom> (some of his descendants) -&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+  align=3Dbottom> (the descendants of Noah). </LI></OL>The =
+expressions&nbsp;<IMG=20
+height=3D11 =
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneibanv.gif"=20
+width=3D47 align=3Dbottom> and&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tzetza.gif" =
+width=3D45=20
+align=3Dbottom> also mean descendants: and&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+align=3Dbottom><IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/m.gif" width=3D10=20
+align=3Dbottom>(some of descendants of Noah),&nbsp;<IMG height=3D11=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneibanv.gif" =
+width=3D47=20
+align=3Dbottom><IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/m.gif" width=3D10=20
+align=3Dbottom>(some of his descendants) and&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tzetza.gif" =
+width=3D45=20
+align=3Dbottom><IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/m.gif" width=3D10=20
+align=3Dbottom>(some of his descendants) express the fact that not all =
+of his=20
+descendants became nations.=20
+<P>In <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/figures.html#figur=
+e4">Fig.=20
+4</A> we see the pairs 1), 2) and 5) appearing together. This table is=20
+determined by an ELS for&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+align=3Dbottom>&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ayin.gif" =
+width=3D15=20
+align=3Dbottom> (The Seventy Descendants of Noah) with skip -100, each =
+row=20
+containing 25 =3D 100/4 letters. The ELS for&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shivim.gif" =
+width=3D44=20
+align=3Dbottom> (seventy) is the same as shown in <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/figures.html#figur=
+e3">Fig.=20
+3</A>. The ELS's for&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+align=3Dbottom>&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ayin.gif" =
+width=3D15=20
+align=3Dbottom> (The Seventy Descendants of Noah) and for&nbsp;<IMG =
+height=3D12=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/amim.gif" =
+width=3D33=20
+align=3Dbottom><IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ha.gif" width=3D11 =
+
+align=3Dbottom> (the nations) are minimal over the whole text of =
+<I>G</I>.=20
+<P><A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tables.html#table7=
+">Table=20
+7</A> gives the va1ues of <I>c</I>(<I>w,w'</I>) for each pair from the =
+above=20
+list (where <I>w'</I> is&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif" =
+width=3D37=20
+align=3Dbottom> (the descendants of Noah), and <I>w </I>is the =
+corresponding=20
+expression). The total for the 15 pairs is: <I>P</I><SUB>1</SUB> =3D =
+0.0000779,=20
+<I>P</I><SUB>2</SUB> =3D 0.0000377. <BR>&nbsp;=20
+<P><A name=3DA.3.2></A><I>A.3.2 Sample B1.</I>=20
+<P>"A Treasury of Men's Names" is included as an appendix in =
+Even-Shoshan's=20
+Hebrew dictionary (Even-Shoshan, 1989). From this appendix we chose all =
+the=20
+names which are mentioned in the Hebrew Bible (Pentateuch, Prophets and=20
+Writings) as proper names - as indicated in the Treasury itself - and =
+contain 5=20
+to 8 letters.=20
+<P>This collection of names is designated as <I>S</I>. Let <I>HA</I> =
+:=3D Hebrew=20
+Alphabet (which consists of 22 letters).=20
+<P>For every <I>x&nbsp;<IMG height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/in.gif" width=3D11 =
+
+align=3DABSCENTER></I> <I>HA </I>we define=20
+<CENTER><I>W</I>(<I>x</I>) :=3D {<I>w&nbsp;<IMG height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/in.gif" width=3D11 =
+
+align=3DABSCENTER>S </I>| <I>w</I> begins with the letter =
+<I>x</I>}.</CENTER>
+<P>We define 22 sets <I>A</I>(<I>x</I>), <I>x</I>&nbsp;<IMG height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/in.gif" width=3D11 =
+
+align=3DABSCENTER> <I>HA</I>, where the elements of each set are the =
+following=20
+three expressions:=20
+<OL type=3Di>
+  <LI>'<I>x</I>'&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bet.gif" =
+width=3D11=20
+  align=3Dbottom>&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shemb.gif" =
+width=3D21=20
+  align=3Dbottom> (a name beginning with '<I>x</I>')=20
+  <LI>'<I>x</I>'&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bet.gif" =
+width=3D11=20
+  align=3Dbottom>&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+  align=3Dbottom> (names beginning with '<I>x</I>')=20
+  <LI>'<I>x</I>'&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bet.gif" =
+width=3D11=20
+  align=3Dbottom>&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shemat.gif" =
+width=3D30=20
+  align=3Dbottom> (names beginning with '<I>x</I>') </LI></OL>The plural =
+form=20
+of&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shemb.gif" =
+width=3D21=20
+align=3Dbottom>(=3Dname) is written in Genesis either as&nbsp;<IMG =
+height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif" =
+width=3D35=20
+align=3Dbottom>, or as&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shemat.gif" =
+width=3D30=20
+align=3Dbottom>.=20
+<P>Then we define=20
+<CENTER><I>W' </I>(<I>x</I>) :=3D {w'<IMG height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/in.gif" width=3D11 =
+
+align=3DABSCENTER> <I>A</I>(<I>x</I>) | <I>w'</I> appears in the text =
+with=20
+<I>d'</I> =3D&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/plus1.gif" =
+width=3D11=20
+align=3Dbottom>1}.</CENTER>
+<P>Now we define=20
+<CENTER><I>H A'</I> :=3D {<I>x&nbsp;<IMG height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/in.gif" width=3D11 =
+
+align=3DABSCENTER> HA</I> | <I>W</I> (<I>x</I>)&nbsp;<IMG height=3D14=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/nonull.gif" =
+width=3D22=20
+align=3Dbottom NOSAVE> and <I>W'</I> (<I>x</I>)&nbsp;<IMG height=3D14=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/nonull.gif"=20
+width=3D22>}.</CENTER>
+<P>and, for every <I>x,y&nbsp;<IMG height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/in.gif" width=3D11 =
+
+align=3DABSCENTER> HA'</I>=20
+<CENTER>Pair <I>B</I>l(<I>x,y</I>) :=3D {(<I>w, w'</I>) | <I>w&nbsp;<IMG =
+height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/in.gif" width=3D11 =
+
+align=3DABSCENTER>W</I>(<I>x</I>), <I>w'</I>&nbsp;<IMG height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/in.gif" width=3D11 =
+
+align=3DABSCENTER><I>W'</I>(y)}.</CENTER>
+<P>For instance, ('<IMG height=3D11=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/aleph.gif" =
+width=3D12=20
+align=3Dbottom>'&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bet.gif" =
+width=3D11=20
+align=3Dbottom>&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shemb.gif" =
+width=3D21=20
+align=3Dbottom>,&nbsp;<IMG height=3D11=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/eliezer.gif" =
+width=3D48=20
+align=3Dbottom>)&nbsp;<IMG height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/in.gif" width=3D11 =
+
+align=3DABSCENTER> <I>Pair B</I>1(<IMG height=3D11=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/aleph.gif" =
+width=3D12=20
+align=3Dbottom>,<IMG height=3D13=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/aleph.gif" =
+width=3D12>).=20
+<P>The sample is defined by:=20
+<CENTER><I>Sample B</I>1:=3D&nbsp;<IMG height=3D30=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ueq.gif" =
+width=3D35=20
+align=3Dcenter><I>Pair B</I>l(<I>x,x</I>).</CENTER>
+<P>For <I>Genesis </I>it contains 457 pairs of expressions.=20
+<P>Sample B2 is defined precisely in the same way as Sample B1, except =
+that we=20
+used 'A Treasury of Women's Names" from the same dictionary. For =
+<I>Genesis=20
+</I>it contains 38 pairs of expressions.=20
+<P><A name=3DA.3.3></A><I>A.3.3 The Sample B3.</I> <BR>Chapter 10 of =
+<I>Genesis=20
+</I>contains the names of the seventy descendents of Noah's sons: the =
+Semites,=20
+the Hamites and the Japhetites (see <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tables.html#table8=
+">Table=20
+8</A>). Jewish tradition teaches, that these seventy descendents became =
+the=20
+Seventy Nations, which constitute Humanity. The source for this =
+tradition is=20
+found in <I>Targum Yonathan</I> (Jonathan's Translation) to =
+<I>Deuteronomy=20
+</I>32:8 (see Kasher, 1983, p.294). This concept is well known, and is =
+found in=20
+biblical Encyclopedias under the title "the Table of Nations" (see for =
+instance,=20
+<I>Encyclopedia Biblica</I>, 1962).=20
+<P>Jewish tradition further tells us (Hagra, 1905), that a nation has =
+the=20
+following four characteristics:=20
+<OL>
+  <LI>its name,=20
+  <LI>its country,=20
+  <LI>its language.=20
+  <LI>its script. </LI></OL>Sample B3 is constructed on the basis of the =
+"Table of=20
+Nations" using these four categories. Let us denote=20
+<CENTER><I>TN</I>:=3D the Table of Nations</CENTER>
+<P>For every <I>x</I>&nbsp;<IMG height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/in.gif" width=3D11 =
+
+align=3DABSCENTER><I>TN </I>we define below a set <I>List =
+B</I>3(<I>x</I>) of=20
+expressions.=20
+<P>For every <I>x,y&nbsp;<IMG height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/in.gif" width=3D11 =
+
+align=3DABSCENTER>TN </I>we define=20
+<CENTER><I>Pair B</I>3(<I>x,y</I>) :=3D {(<I>w,y</I>) | <I>w&nbsp;<IMG =
+height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/in.gif" width=3D11 =
+
+align=3DABSCENTER></I> <I>List B</I>3(<I>x</I>) and <I>w </I>has from 5 =
+to 8=20
+letters }.</CENTER>
+<P>The resulting sample is:=20
+<CENTER><I>Sample B</I>3:=3D&nbsp;<IMG height=3D32=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ueq1.gif" =
+width=3D34=20
+align=3Dcenter><I>Pair B</I>3 (<I>x,x</I>).</CENTER>
+<P>Now let us explain how <I>List B3</I>(<I>x</I>) is constructed. Take, =
+for=20
+example, one of the names in the list--<IMG height=3D13=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/canan.gif" =
+width=3D31=20
+align=3DabsBottom> (Canaan - item 18 in <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tables.html#table8=
+">Table=20
+8</A>):=20
+<OL>
+  <LI>To express the fact that&nbsp;<IMG height=3D13=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/canan.gif" =
+width=3D31=20
+  align=3DabsBottom> is a name of a nation, we use the (Biblical)=20
+  expressions&nbsp;<IMG height=3D13=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/canan.gif" =
+width=3D31=20
+  align=3DabsBottom>&nbsp;<IMG height=3D11=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/am.gif" =
+width=3D20=20
+  align=3Dbottom> (the <I>Nation</I> of Canaan) and&nbsp;<IMG =
+height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/cnanim.gif" =
+width=3D43=20
+  align=3Dbottom> (the <I>Canaanites</I>).=20
+  <LI>For the <I>Country</I> of Canaan there is the Biblical =
+expression:<IMG=20
+  height=3D13 =
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/canan.gif"=20
+  width=3D31 align=3DabsBottom>&nbsp;<IMG height=3D13=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/eretz.gif" =
+width=3D29=20
+  align=3DabsBottom>.=20
+  <LI>For the <I>Language</I> of Canaan there is the Biblical =
+expression:<IMG=20
+  height=3D13 =
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/canan.gif"=20
+  width=3D31 align=3DabsBottom>&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/sfat.gif" =
+width=3D30=20
+  align=3Dbottom>.=20
+  <LI>For the <I>Script</I> of Canaan we do not have a Biblical =
+expression=20
+  like&nbsp;<IMG height=3D13=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/canan.gif" =
+width=3D31=20
+  align=3DabsBottom>&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ktav.gif" =
+width=3D27=20
+  align=3Dbottom>, but it is a Biblical formation. </LI></OL>In the =
+course of=20
+history names of nations and countries changed. In certain cases, the =
+Jewish=20
+tradition, as expressed by <I>Targum Yonathan</I> to <I>Genesis </I>, =
+gives the=20
+new names for the nations and countries under consideration. We add =
+these new=20
+names to the corresponding categories (1) and (2). Thus, for example, =
+the new=20
+name for Javan (item 4 in <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tables.html#table8=
+">Table=20
+8</A>) is&nbsp;<IMG height=3D11=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/mac.gif" =
+width=3D51=20
+align=3DabsBottom> (Macedonia), whereas for Canaan there are no new =
+names.=20
+<P>The same procedure is applied to each name from the Table of Nations. =
+For=20
+every <BR><I>x</I>&nbsp;<IMG height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/in.gif" width=3D11 =
+
+align=3DABSCENTER><I> TN</I> List B3 (<I>x</I>) consists of the =
+following=20
+expressions:=20
+<OL>
+  <LI>'<I>x</I>&nbsp;<IMG height=3D11=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/am.gif" =
+width=3D20=20
+  align=3Dbottom>' (the nation of <I>x</I>), '<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/im.gif" =
+width=3D16=20
+  align=3Dbottom>-<I>x</I>' (the people of <I>x</I>), =
+NewNationName(<I>x</I>);=20
+  <LI>'<I>x&nbsp;<IMG height=3D13=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/eretz.gif" =
+width=3D29=20
+  align=3DabsBottom></I>' (the country of <I>x</I>), =
+NewCountryName(<I>x</I>);=20
+  <LI>'<I>x&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/sfat.gif" =
+width=3D30=20
+  align=3Dbottom></I>' (the language of <I>x</I>);=20
+  <LI>'<I>x</I>&nbsp;<IMG height=3D10=20
+  src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ktav.gif" =
+width=3D27=20
+  align=3Dbottom>' (the script of <I>x</I>). </LI></OL>In <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tables.html#table8=
+">Table=20
+8</A> for every name <I>x&nbsp;<IMG height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/in.gif" width=3D11 =
+
+align=3DABSCENTER> TN </I>the corresponding List B3(<I>x</I>) is given.=20
+<P><I>Remark 1.</I> The expressions '<I>x</I>&nbsp;<IMG height=3D11=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/am.gif" width=3D20 =
+
+align=3Dbottom>', '<I>x</I>&nbsp;<IMG height=3D13=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/eretz.gif" =
+width=3D29=20
+align=3DabsBottom>'<I> </I>and '<I>x</I>&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/sfat.gif" =
+width=3D30=20
+align=3Dbottom>' were chosen for categories (1), (2) and (3) because at =
+least for=20
+some <I>x</I>&nbsp;<IMG height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/in.gif" width=3D11 =
+
+align=3DABSCENTER><I> TN</I> they appear as Biblical expressions (see =
+the above=20
+example of Canaan). For category (4) we used '<I>x</I>&nbsp;<IMG =
+height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ktav.gif" =
+width=3D27=20
+align=3Dbottom>'; although it does not appear for any <I>x</I>&nbsp;<IMG =
+height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/in.gif" width=3D11 =
+
+align=3DABSCENTER><I> TN,</I> it is the only Biblical formation suitable =
+for this=20
+category.=20
+<P><I>Remark 2.</I> Concerning the expressions '<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/im.gif" width=3D16 =
+
+align=3Dbottom>-<I>x </I>', we are aware of the fact that only valid =
+lingustic=20
+formations should be used; therefore we use these expressions if, at =
+least,=20
+their singular form '<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/yud.gif" width=3D7 =
+
+align=3Dbottom>-<I>x'</I> appears in the Hebrew Bible. For instance, =
+for&nbsp;<IMG=20
+height=3D10 =
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/gmar.gif" =
+width=3D24=20
+align=3Dbottom> (item 1) we do not take&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/im.gif" width=3D16 =
+
+align=3Dbottom><IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/gmar.gif" =
+width=3D24=20
+align=3Dbottom>, since the expression&nbsp;<IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/yud.gif" width=3D7 =
+
+align=3Dbottom><IMG height=3D10=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/gmar.gif" =
+width=3D24=20
+align=3Dbottom> does not appear in the Hebrew Bible; so we cannot know =
+whether it=20
+has any meaning at all. The check was done using Even-Shoshan's <I>New=20
+Concordance of the Bible</I> (Even-Shoshan, 1981).=20
+<P><I>Remark 3.</I> In Talmudic Literature we find various new names for =
+nations=20
+and countries, and we cannot decide in favor of one against the other. =
+We=20
+preferred to use a single source. The Aramaic translation of <I>Genesis =
+</I>that=20
+gives the largest number of such new names is <I>Targum Yonathan</I>. We =
+used=20
+<I>Targum Yonathan</I> as printed in <I>Torah</I> <I>Shelemah</I> =
+(Kasher, 1929)=20
+(with <I>Torah Shelemah</I>'s corrections according to the Ginzburger =
+manuscript=20
+and others).=20
+<P><I>Targum Yonathan</I> identifies the new name for the country for =
+items 1 to=20
+15, 17, and 19 to 23 in <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tables.html#table8=
+">Table=20
+8</A>; and the new name for the nation for items 24 to 33, and 41 to 44. =
+
+<P><I>Targum Yonathan</I> is a translation into Aramaic. We need the=20
+identification of the names, but we do not intend to check whether the =
+Aramaic=20
+appears non-randomly as ELS's. Thus, where the Hebrew formation exists, =
+we used=20
+it alone.=20
+<P><I>Remark 4.</I> Here, as in Witztum <I>et al</I>. (1994), we used =
+the=20
+grammatical orthogrophy - <I>ktiv dikduki.</I>=20
+<H5><A name=3DA.4></A>A.4 The Permutations.</H5>Here we define the =
+permuted=20
+samples for B1, B2 and B3.=20
+<P><I>A.4.1 Samples B1 and B2.</I>=20
+<P>Let&nbsp;<IMG height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/pi.gif" width=3D11 =
+
+align=3Dbottom> be a permutation on the set <I>HA'</I>. Then we define =
+the=20
+permuted sample=20
+<CENTER><I>Sample B</I>1(<IMG height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/pi.gif" width=3D11 =
+
+align=3Dbottom>):=3D&nbsp;<IMG height=3D30=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ueq.gif" =
+width=3D35=20
+align=3DABSCENTER> <I>Pair B</I>1(<I>x,<IMG height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/pi.gif" width=3D11 =
+
+align=3Dbottom></I>(<I>x</I>)).</CENTER>
+<P>The set <I>HA'</I> consists of 12 elements, thus there are 12! =
+different=20
+permutations. To calculate significance levels, we chose 999,999 random=20
+permutations&nbsp;<IMG height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/pi.gif" width=3D11 =
+
+align=3Dbottom> as described in <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/index.html#A.7">Se=
+ction=20
+A.7</A>.=20
+<P>For Sample B2 we proceed similarly.=20
+<P><I>A.4.2 Sample B3.</I>=20
+<P>For a permutation&nbsp;<IMG height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/pi.gif" width=3D11 =
+
+align=3Dbottom> on the set <I>TN</I> we define the permuted sample=20
+<CENTER><I>Sample B</I>3(<IMG height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/pi.gif" width=3D11 =
+
+align=3Dbottom>) :=3D&nbsp;<IMG height=3D32=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ueq1.gif" =
+width=3D34=20
+align=3Dcenter><I>Pair B</I>3(<I>x</I>,<IMG height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/pi.gif" width=3D11 =
+
+align=3Dbottom>(<I>x</I>)).</CENTER>
+<P>The set <I>TN </I>consists of 68 different elements (the =
+names&nbsp;<IMG=20
+height=3D10 =
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/sheba.gif"=20
+width=3D31 align=3Dbottom>and&nbsp;<IMG height=3D12=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/choliah.gif" =
+width=3D39=20
+align=3Dbottom> appear twice), thus there are 68! different =
+permutations. To=20
+calculate significance levels, we first chose 999,999 random=20
+permutations&nbsp;<IMG height=3D9=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/pi.gif" width=3D11 =
+
+align=3Dbottom> as described in <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/index.html#A.6">Se=
+ction=20
+A.6</A>. Then we did a new measurement which 999,999,999 random =
+permutations,=20
+only for statistic <I>P</I><SUB>2</SUB>.=20
+<H5><A name=3DA.5></A>A.5 The Text.</H5>We used the standard, generally =
+accepted=20
+text of Genesis known as the "Textus Receptus." One widely available =
+edition is=20
+that of the Koren Publishing Company in Jerusalem. The Koren text is =
+precisely=20
+the same as that used by us.=20
+<H5><A name=3DA.6></A>A.6 The Overall Proximity Measures <I><FONT=20
+size=3D+0>P</FONT></I><SUB>1</SUB> and <I><FONT=20
+size=3D+0>P</FONT></I><SUB>2</SUB>.</H5>Let <I>N </I>be the number of =
+word pairs=20
+(<I>w, w'</I>) in the sample for which the corrected distance=20
+<I>c</I>(<I>w,w'</I>) is defined (see <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/index.html#A.2">Se=
+ction=20
+A.2</A> and <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/index.html#A.3">A.=
+3</A>=20
+above). Let <I>k b</I>e the number of such word pairs (<I>w,w'</I>) for =
+which=20
+<I>c</I>(<I>w, w'</I>)&nbsp;<IMG height=3D13=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/less.gif" =
+width=3D10=20
+align=3Dbottom> 1/5. Define=20
+<CENTER><IMG height=3D40=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/eq3.gif" =
+width=3D159></CENTER>
+<P>To understand this definition, note that <I>if </I>the <I>c</I>(<I>w, =
+w'</I>)=20
+were independent random variables that are uniformly distributed over =
+[0,1],=20
+<I>then</I> <I>P</I><SUB>1</SUB> would be the probability that at least =
+<I>k=20
+</I>out of <I>N </I>of them are&nbsp;<IMG height=3D13=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/less.gif" =
+width=3D10=20
+align=3Dbottom> 0.2. However, we do <I>not </I>make or use any such =
+assumptions=20
+about uniformity and independence. Thus <I>P</I><SUB>1</SUB>, though =
+calibrated=20
+in probability terms, is simply an ordinal index that measures the =
+number of=20
+word pairs in a given sample whose words are "pretty close" to each =
+other (i.e.=20
+<I>c</I>(<I>w, w'</I>)&nbsp;<IMG height=3D13=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/less.gif" =
+width=3D10=20
+align=3Dbottom> 1/5), taking into account the size of the whole sample. =
+It enables=20
+us to compare the overall proximity of the word pairs in different =
+samples;=20
+specifically, in the samples arising from the different =
+permutations&nbsp;<IMG=20
+height=3D9 src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/pi.gif" =
+width=3D11=20
+align=3Dbottom>.=20
+<P>The statistic <I>P</I><SUB>1</SUB> ignores all distances=20
+<I>c</I>(<I>w,w'</I>) greater than 0.2, and gives equal weight to all =
+distances=20
+less than 0.2. For a measure that is sensitive to the actual size of the =
+
+distances, we calculate the product&nbsp;<IMG height=3D14=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/pimaj.gif" =
+width=3D15=20
+align=3Dbottom><I>c</I>(<I>w,w'</I>) over all word pairs (<I>w,w'</I>) =
+in the=20
+sample. We then define=20
+<CENTER><I>P</I><SUB>2</SUB> :=3D <I>F<SUP>N</SUP></I> (<IMG height=3D14 =
+
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/pimaj.gif" =
+width=3D15=20
+align=3Dbottom><I>c</I>(<I>w, w'</I>)),</CENTER>
+<P>with <I>N</I> as above, and=20
+<CENTER><IMG height=3D40=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/eq4.gif" =
+width=3D370></CENTER>
+<P>To understand this definition, note first that if =
+<I>x</I><SUB>1</SUB>,=20
+<I>x</I><SUB>2</SUB>, ..., <I>x<SUB>N</SUB> </I>are independent random =
+variables=20
+that are uniformly distributed over [O, 1], then the distribution of =
+their=20
+product <I>X</I> :=3D<I>x</I><SUB>1</SUB>,=20
+<I>x</I><SUB>2</SUB>...<I>x<SUB>N</SUB></I> is given by =
+Prob(<I>X&nbsp;<IMG=20
+height=3D13 =
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/less.gif" =
+width=3D10=20
+align=3Dbottom> X</I><SUB>0</SUB>) =3D =
+<I>F</I><SUP>N</SUP>(<I>X</I><SUB>0</SUB>);=20
+this follows from (3.5) in Feller (1966), since the -ln =
+<I>x<SUB>i</SUB></I> are=20
+distributed exponentially, and -ln <I>X </I>=3D&nbsp;<IMG height=3D17=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/sig.gif" =
+width=3D20=20
+align=3DABSCENTER>(-ln <I>x<SUB>i</SUB></I>). The intuition for=20
+<I>P</I><SUB>2</SUB> is then analogous to that for <I>P</I><SUB>1</SUB>: =
+If the=20
+<I>c</I>(<I>w, w'</I>) were independent random variables that are =
+uniformly=20
+distributed over [0,1], <I>then</I> <I>P</I><SUB>2</SUB> would be the=20
+probability that the product&nbsp;<IMG height=3D14=20
+src=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/pimaj.gif" =
+width=3D15=20
+align=3Dbottom><I>c</I>(<I>w,w'</I>) is as small as it is, or smaller. =
+But as=20
+before, we do not use any such uniformity, or independence assumptions. =
+Like=20
+<I>P</I><SUB>1</SUB>, the statistic <I>P</I><SUB>2</SUB> is calibrated =
+in=20
+probability terms; but rather than thinking of it as a probability, one =
+should=20
+think of it simply as an ordinal index that enables us to compare the =
+proximity=20
+of the words in word pairs arising from different permutations.=20
+<H5><A name=3DA.7></A>A.7 The Randomizations.</H5>The 999,999 random =
+permutations=20
+for the three tests were chosen in accordance with Algorithm <I>P </I>of =
+Knuth=20
+(Knuth: 1969, page 125). The pseudorandom generator required as input to =
+this=20
+algorithm was that provided by Turbo-Pascal 5.0 of Borland Inter Inc. We =
+used=20
+the same seed as in Witztum <I>et al.</I> (1994): 01001 10000 10011 =
+11100 00101=20
+00111 11.=20
+<P>The control text <I>V </I>was constructed by permuting the verses of =
+<I>G</I>=20
+with a single random permutation, generated like in the previous =
+paragraph. In=20
+this case, the seed was picked arbitrarily to be the decimal integer 10 =
+(i.e.,=20
+the binary integer 1010).=20
+<H2>Acknowledgment.</H2>We express our gratitude to Yaakov Rosenberg who =
+
+prepared the software for the permutation test.=20
+<P>We thank Mr. Bernard Goldstein of London and Mr. Yaakov Aharonov of =
+Bnei Brak=20
+for their help with computer facilities.=20
+<P>We express our sincere gratitude to Mishmereth Stam (Bnei Brak) for =
+the text=20
+of the Book of Genesis on a disc.=20
+<P>We wish to express our thanks to Dr. Shalom Srebrenik for helpful =
+discussions=20
+and valuable suggestions.=20
+<P>We thank Yaakov Orbach for help on linguistic matters.=20
+<H2>REFERENCES</H2>
+<OL>
+  <LI>Cordovero, M. (1592) <I>Pardes Rimmonim</I>, Cracow.=20
+  <LI><I>Encyclopledia Biblica</I> (1962), Jerusalem: Bialik Institute.=20
+  <LI>Even-Shoshan, A. (1981) <I>A New Concordance of the Bible</I>, =
+Jerusalem:=20
+  Kiriath Sefer.=20
+  <LI>Even-Shoshan, A. (1989) <I>A New Dictionary of the Hebrew =
+Language</I>,=20
+  Jerusalem: Kiriath Sefer.=20
+  <LI>Feller, W. (1966) <I>An Introduction to Probability Theory and Its =
+
+  Applications</I>, 2, New York: Wiley.=20
+  <LI>Hagra, (1905) <I>A Commentary to the Book of Job</I>, Jerusalem.=20
+  <LI>Kasher, M. M. (1929) <I>Torah Shelemah. Talmud-Midrashic =
+Encyclopedia on=20
+  the Pentateuch</I>, 1, Jerusalem: Beth Torah Shelemah.=20
+  <LI>Kasher, M. M. (1953) <I>Torah Shelemah. Talmud-Midrashic =
+Encyclopedia on=20
+  the Pentateuch</I>, 35, Jerusalem: Beth Torah Shelemah.=20
+  <LI>Knuth, D. E. (1969) <I>The Art of Computer Programming</I>, 2, =
+Reading:=20
+  Addison-Wesley.=20
+  <LI>Rabbenu Bahya, (1492) <I>A Commentary on the Pentateuch</I>, =
+Naples.=20
+  <LI>Weissmandel, H. M. D. (1958) <I>Torath Hemed</I>. Mt. Kisco: =
+Yeshivath Mt.=20
+  Kisco.=20
+  <LI>Witztum, D., Rips. E. and Rosenberg, Y. (1994) Equidistant Letter=20
+  Sequences in the Book of Genesis. <I>Stat. Science</I>, 9, No 3, 429 - =
+438.=20
+  </LI></OL>
+<HR SIZE=3D3>
+<A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/figures.html">Figu=
+res</A>=20
+&nbsp;&nbsp; <A=20
+href=3D"http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tables.html">Table=
+s</A>=20
+</BODY></HTML>
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/plus1.gif
+
+R0lGODlhCwAKAIAAAP///wAAACwAAAAACwAKAAACEYSPCaHIbV4KtEoHY14b2moUADs=
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/prat.gif
+
+R0lGODlhLQAJAIAAAP///wAAACwAAAAALQAJAAACPgSCGZaMt6BTs5kb2T07Lr9pHBaO4jl+qJiZ
+5IuCYDivbovHpfe4eknr7ICtHxDmSyZzR2RR+VT0mhViZVoAADs=
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shamot.gif
+
+R0lGODlhIwAKAIAAAP///wAAACwAAAAAIwAKAAACN4SPqcsQD4OBU9LqMJKHz+5xYpd4GfmhY4qy
+53uuMGyGW2rf7VvjO60Dxn69VlFWK7JED1DkUAAAOw==
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/pi.gif
+
+R0lGODlhCwAJAIAAAP///wAAACwAAAAACwAJAAACEoSPqRjtcaBcYC6bYL1G6x5pBQA7
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/p1.gif
+
+R0lGODlhFwAOAPcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAQIC
+AgQEBAUFBQYGBgcHBwkJCQoKCgsLCwwMDA4ODg8PDxAQEBERERMTExQUFBUVFRYWFhgYGBkZGRoa
+GhsbGx0dHR4eHh8fHyAgICIiIiMjIyQkJCUlJScnJygoKCkpKSoqKiwsLC0tLS4uLi8vLzExMTIy
+MjMzMzQ0NDU1NTc3Nzg4ODk5OTo6Ojw8PD09PT4+Pj8/P0FBQUJCQkNDQ0REREZGRkdHR0hISElJ
+SUtLS0xMTE1NTU5OTlBQUFFRUVJSUlNTU1VVVVZWVldXV1hYWFpaWltbW1xcXF1dXV9fX2BgYGFh
+YWJiYmRkZGVlZWZmZmdnZ2hoaGpqamtra2xsbG1tbW9vb3BwcHFxcXJycnR0dHV1dXZ2dnd3d3l5
+eXp6ent7e3x8fH5+fn9/f4CAgIGBgYODg4SEhIWFhYaGhoiIiImJiYqKiouLi42NjY6Ojo+Pj5CQ
+kJKSkpOTk5SUlJWVlZeXl5iYmJmZmZqampubm52dnZ6enp+fn6CgoKKioqOjo6SkpKWlpaenp6io
+qKmpqaqqqqysrK2tra6urq+vr7GxsbKysrOzs7S0tLa2tre3t7i4uLm5ubu7u7y8vL29vb6+vsDA
+wMHBwcLCwsPDw8XFxcbGxsfHx8jIyMrKysvLy8zMzM3Nzc7OztDQ0NHR0dLS0tPT09XV1dbW1tfX
+19jY2Nra2tvb29zc3N3d3d/f3+Dg4OHh4eLi4uTk5OXl5ebm5ufn5+np6erq6uvr6+zs7O7u7u/v
+7/Dw8PHx8fPz8/T09PX19fb29vj4+Pn5+fr6+vv7+/39/f7+/v///ywAAAAAFwAOAAAIfQD//Uv3
+o0KFHwh//PpH7Y/DPwoFShQoDsBEVRbjqMIRJ464iRMbVblo8Z84jY1ATqySUiKOlhpVjVQpEEDM
+OBxm/jMmkCdNcTmrVInjkybNRi2NKhWoYqHKVBWW/sOoFMdSjAAAfFSpU6rRrl65hjVqjIOqrWMl
+xhFaFGRAADs=
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/sub1.gif
+
+R0lGODdhEwAQAIcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4O
+Dg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEh
+ISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0
+NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdH
+R0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpa
+WltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1t
+bW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CA
+gIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOT
+k5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaam
+pqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5
+ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zM
+zM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f
+3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy
+8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///ywAAAAAEwAQAAcIdAD/CRxI
+sKDBgb/+AADw66DBXwB+KATgkKA4AH8EUgNgrKLAKj8IAlD179cPjAZxENxIkpoqHBkJ/lJB8CTB
+KjEH/qkyUBXKgTgLquCgqijRgkFFUlkIgJrBpAIVevynKue/PyE9/rH60+FEjlGnih1LtmBAADs=
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/sub2.gif
+
+R0lGODdhFQAQAIcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4O
+Dg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEh
+ISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0
+NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdH
+R0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpa
+WltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1t
+bW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CA
+gIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOT
+k5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaam
+pqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5
+ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zM
+zM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f
+3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy
+8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///ywAAAAAFQAQAAcIfgD/CRxo
+7E8VagMTKkz4C8AfAAAWShT46wfCfw4nKmz4a+CfPwN/QPzRMeGPHyZB/lMBQCTEkgIBwGwI8mHH
+hi09RtQJ8pdKjDkFGtSpYiE1AFUSjvzDEuXGoBQhSv3JkOq/P041/oI5MKPGo1IzHrWqsEpYp0c1
+ql3Ltu3CgAA7
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/p2.gif
+
+R0lGODlhFAAOAPcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAQIC
+AgQEBAUFBQYGBgcHBwkJCQoKCgsLCwwMDA4ODg8PDxAQEBERERMTExQUFBUVFRYWFhgYGBkZGRoa
+GhsbGx0dHR4eHh8fHyAgICIiIiMjIyQkJCUlJScnJygoKCkpKSoqKiwsLC0tLS4uLi8vLzExMTIy
+MjMzMzQ0NDU1NTc3Nzg4ODk5OTo6Ojw8PD09PT4+Pj8/P0FBQUJCQkNDQ0REREZGRkdHR0hISElJ
+SUtLS0xMTE1NTU5OTlBQUFFRUVJSUlNTU1VVVVZWVldXV1hYWFpaWltbW1xcXF1dXV9fX2BgYGFh
+YWJiYmRkZGVlZWZmZmdnZ2hoaGpqamtra2xsbG1tbW9vb3BwcHFxcXJycnR0dHV1dXZ2dnd3d3l5
+eXp6ent7e3x8fH5+fn9/f4CAgIGBgYODg4SEhIWFhYaGhoiIiImJiYqKiouLi42NjY6Ojo+Pj5CQ
+kJKSkpOTk5SUlJWVlZeXl5iYmJmZmZqampubm52dnZ6enp+fn6CgoKKioqOjo6SkpKWlpaenp6io
+qKmpqaqqqqysrK2tra6urq+vr7GxsbKysrOzs7S0tLa2tre3t7i4uLm5ubu7u7y8vL29vb6+vsDA
+wMHBwcLCwsPDw8XFxcbGxsfHx8jIyMrKysvLy8zMzM3Nzc7OztDQ0NHR0dLS0tPT09XV1dbW1tfX
+19jY2Nra2tvb29zc3N3d3d/f3+Dg4OHh4eLi4uTk5OXl5ebm5ufn5+np6erq6uvr6+zs7O7u7u/v
+7/Dw8PHx8fPz8/T09PX19fb29vj4+Pn5+fr6+vv7+/39/f7+/v///ywAAAAAFAAOAAAIgQD//aME
+QMWPgyq+paNEBaEagRD/AYhY5Y84cXEa4YgIUVUVin8EftzI8V+cOBDFAfj1TxXKiSVxcFDlEUAj
+gRf/GSspMQ5NVeJ4llTFgSdNof+q3ORIEwdKnjNLUtIJk2MVABx2lhRHcivSKkGR8jSmSizPXz4/
+mo2oBgcOtRwDAgA7
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/sub.gif
+
+R0lGODdhEgAQAIcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4O
+Dg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEh
+ISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0
+NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdH
+R0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpa
+WltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1t
+bW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CA
+gIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOT
+k5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaam
+pqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5
+ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zM
+zM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f
+3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy
+8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///ywAAAAAEgAQAAcIfQD/CRRX
+RQWAKtQEKlyoUMUvgT9+MJz464/CXwAW/rG4EIAxhdQy/vujQlUVAAlHioRoURWAh/8iCgTAcWbL
+lX9E0lToUmBPgTn/iQNQUtUfHCl/qlTl8geAnTxx0qxSc6LUf1VgToz58NcPiyu3YuWggmMqsWjT
+ql3LVmxAADs=
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/subi.gif
+
+R0lGODdhEwAQAIcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4O
+Dg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEh
+ISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0
+NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdH
+R0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpa
+WltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1t
+bW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CA
+gIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOT
+k5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaam
+pqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5
+ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zM
+zM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f
+3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy
+8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///ywAAAAAEwAQAAcIcgD/CRTY
+qIpBagMTKvz364/AHz8WLvwFYOCfihYlAnA4EOO/i78UUkw4UuLAHxwFXjTZMWRHjr9cJqQGAOE/
+aipUCDSmYqPCixt7phQIQKZKlH+oGGXosSXLPxETqmq6EIDVhFBZMvxhNNVSrWDDik0YEAA7
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/d.gif
+
+R0lGODlhCQAMAIAAAP///wAAACwAAAAACQAMAAACFISPqcEZ1s5TkAI2pd4X5dxVXgQUADs=
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/u.gif
+
+R0lGODlhDAAMAIAAAP///wAAACwAAAAADAAMAAACFoSPqRrX7NYDE80aacOha7hkoReWRgEAOw==
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/eq1.gif
+
+R0lGODdhkQAsAIcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4O
+Dg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEh
+ISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0
+NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdH
+R0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpa
+WltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1t
+bW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CA
+gIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOT
+k5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaam
+pqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5
+ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zM
+zM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f
+3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy
+8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///ywAAAAAkQAsAAcI/QD/CRxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjwrFiRuYLk6jdCBTqlwpkEOVgWpUNaLEsqbN
+jOlUCEz3ROCLm0CDRnz5z9gfgUSFKl1aMB1RVW8E/mBKlakxHDD/iVNTtWtQDgCm/qMElprXs2jT
+ql3Ltq3btx9VyZ1Lt64qs3DzIgSLo0qVRlXU+P3jtwoAADr1rnyGkmO6D1wX/vqSSrHCdBxGUvxh
+7J/cjaoANGoYR6O4xhLTja74CvVEsf+o4M1ICcAvhq4rpvvxjuKbo7GBPxQ3e6IxmgNXa4yTmGUj
+za+h48i9ME5xiXFcV6FuUUVp5xb9IwsUJ7zgox8qXgCgIlC8wF+/YRv89ufHo4O/nhV8h/zft9vf
+kKTQLwD059B1DP2iSkG/pNJbQr/09kuABN1nkCrALTgQVgOJ85KHCB2nVVIEiXMbQU4JFEdhfvWl
+XIgAaNiQKhwIhGFDlED3zx9yuUfQL4UhVJ5A38D2CUHuqVHBD38g2N4HVKTxYEHUnMjRHw84edAf
+yP1xYjpDElTeL4/88seRB91HTVRbGkSJcvKRWONCACz0GUJ2qUJJZwxVoKNCSXFoY0LlcfBDFTIW
+FJpf3O144XdVlEeioKvdRZCgVhKkSqYC8Znnngzp+VBSSakSR6JiElQnoFoOFP3mjm9QMeSZA6WS
+xhM/VPZPGvKl8kV9nLanH0HPVGDRH+w59EsFqfyC3hdS/fGHeLr+88hsvP3zyyv/UAOtqyeiaRCb
+OwZb0FZ2GvQnQSRmpIqgDREWmDgzCYSVKu2+p5w4KnDw3T/NSWWYgUju1BdDb5grUCrDNqRGtRlN
+FtEH+B31RwW3yUoQFY1aCxGtOxF8EGYR/5uRMRx0PBCfI44sEDUa4kuQMfkOhGpI8FbBsmUGN/TL
+iw+hXFB2GKmi47qWkZtQOqlQzLNlhgHgkkssunQYYk9b9svWW6dCSdevcL01hVmXbfbZaKftstpo
+p3Pz0DWzbVmKcq9lTGL4MbZYxQ+rXVU3W7CJY6ln7P6tVjovoPSMtL/dOlvchi8lTozjjRwHAD5G
+DtdcmnfeVUAAOw==
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/o.gif
+
+R0lGODlhCwAHAIAAAP///wAAACwAAAAACwAHAAACD4SPGMtqkd6BiQI7c2yoAAA7
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/great.gif
+
+R0lGODlhEAATAPcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4O
+Dg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEh
+ISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0
+NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdH
+R0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpa
+WltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1t
+bW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CA
+gIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOT
+k5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaam
+pqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5
+ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zM
+zM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f
+3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy
+8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///ywAAAAAEAATAAAIWgD/CRxI
+sKDBgwaNITwI4MevhQSp/QBABWLEKgDiULM4kErDjRyp/eFQRSHHPwD+nEwJUVUVFX/EQaTyI1VL
+FSoanXzIsadPg6n+CB06FOTAOFWSKlWq6ifBgAA7
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ebar.gif
+
+R0lGODlhRQASAPcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4O
+Dg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEh
+ISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0
+NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdH
+R0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpa
+WltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1t
+bW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CA
+gIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOT
+k5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaam
+pqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5
+ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zM
+zM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f
+3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy
+8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///ywAAAAARQASAAAIvwD/CRxI
+sKDBgwgTKlzIsKHDhwcBQJxI0aBEhAAyQrxYsSBHjBoj/vu4MCPJiiYVSjzZceXEkANddrTIcubI
+j/Aowoz5cadNgTD7oTy50yfBlA5h+hNIwGTNm0iPXgTwAShLjUZB0lx5lSvRlQF4euRY1ClMnyGN
+nv2KlqTZrBHdTv0qdizduiDN4v0XYC7NvVbVyr258WNfq3Gh/m1rd6jACX7bplwLtIDUn2MTwgWs
+FfPlzCqfgvY8UCjphwEBADs=
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/dbar.gif
+
+R0lGODlhDQAOAPcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4O
+Dg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEh
+ISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0
+NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdH
+R0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpa
+WltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1t
+bW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CA
+gIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOT
+k5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaam
+pqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5
+ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zM
+zM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f
+3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy
+8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///ywAAAAADQAOAAAIOgD/CRxI
+sCBBAAYLAliYcCBChA0jRmQokaLChRYPPsz4zyLHjhBBXnQoICFDAAI2mFxYgMU/ef4GBgQAOw==
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/w.gif
+
+R0lGODlhDQAIAIAAAP///wAAACwAAAAADQAIAAACE4SPaYGc3uI6EMArLc2ursCASAEAOw==
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/gimmel.gif
+
+R0lGODlhEAAVAIAAAP///wAAACwAAAAAEAAVAAACKYSPqcHqwMJLcaJqT8uaa+ltHDaCZShakels
+KWW+H7y8JCST9xWzNVAAADs=
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/eq2.gif
+
+R0lGODlh/AAgAPcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAICAgMDAwUFBQYGBggICAkJCQsLCw0NDQ4ODhAQEBERERMTExQUFBYWFhcXFxkZGRsb
+GxwcHB4eHh8fHyEhISIiIiQkJCYmJicnJykpKSoqKiwsLC0tLS8vLzAwMDIyMjQ0NDU1NTc3Nzg4
+ODo6Ojs7Oz09PT8/P0BAQEJCQkNDQ0VFRUZGRkhISEpKSktLS01NTU5OTlBQUFFRUVNTU1RUVFZW
+VlhYWFlZWVtbW1xcXF5eXl9fX2FhYWNjY2RkZGZmZmdnZ2lpaWpqamxsbG5ubm9vb3FxcXJycnR0
+dHV1dXd3d3h4eHp6enx8fH19fX9/f4CAgIKCgoODg4WFhYeHh4iIiIqKiouLi42NjY6OjpCQkJGR
+kZOTk5WVlZaWlpiYmJmZmZubm5ycnJ6enqCgoKGhoaOjo6SkpKampqenp6mpqaurq6ysrK6urq+v
+r7GxsbKysrS0tLW1tbe3t7m5ubq6ury8vL29vb+/v8DAwMLCwsTExMXFxcfHx8jIyMrKysvLy83N
+zc/Pz9DQ0NLS0tPT09XV1dbW1tjY2NnZ2dvb293d3d7e3uDg4OHh4ePj4+Tk5Obm5ujo6Onp6evr
+6+zs7O7u7u/v7/Hx8fLy8vT09Pb29vf39/n5+fr6+vz8/P39/f///ywAAAAA/AAgAAAI/wD/CRxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjyBDihxJsqTJkyhTIuSgogoOADBjvmzJASaH
+KjhzilPJs6fPnwf/wKTm8NefozCrAF3K9OSvnj8AqJr4R0XTqxdVEU1IbSrPlgO3nlTBgaIqr1hR
+KsVIJSbMpwapAegpF+6/X2tPAvhB0W7FPwzFSvzF92PVgX8KQ/wFgApBoYAL/vGLUpVigVZRCr18
+UhXloJ8d/gid8U/efz8iO1QF4LRAuWj/UcPhM07sf8ZcjxSnQqpK3Qd5T7QNUu7OsCqMPYyKsIpq
+1M9TZi6YGiVjAIJJ/rmd8KjE6By9F//E+xBm87kDsfsE/0+8UwDTS6J3OL8ocI0AQsdfaP5glflC
+GYTTc6ocFwd7kuFEEDXHaaWQXApxl9F/+4Wkyn3/OPiYhAtuyJFyiCHUCIIGRRUaAKoF+Ng/vSHm
+G4v1IYRUZIx5pQKJAr1okFBepXLUj0D+CFFvODLE2HnpsSfUUI9x1p5b/f2jI0GpxPTQkiguZFlR
+WRoUn3sEsebiQFU4eRBrkQm1FZgHTUkQY1v1BiWUZnLFJEU/1CmmbF2+GdkPsakoEGOpRXWjajEO
+6hiLRQpkInRaJspVhVUEyl4cYqmAljGSGtRIXgoKdNZClfIkFAfZOWQMicLhpt6CmVH/k9xj8xmj
+glilEpQoazupggOHBMWBnq3ACiROpzIKZtR4+umqa7Fk2tWnmyVCGxJkE+0pkHvaJhoVTKPtGC1B
+gFJnEJSpNARlo1IuFuiOZuZ1pKjIFhRffdrK6BA1QfZL2kIVroZvmPMlule6CCm2n5tOHgwRimwq
+VO9A4pylShyPdZWipHlxiy+HtG07X1cMzcpQazk5d2FOqS4kK4gSTYkWhOllF/CKAp0m67leRkRN
+IxFxSl9SuoLrbM9P5tfeZXK9au9rb93FHH8JERaS0maldlRUqvg4ZZ85vqlsimFhjTO5VYfmWpFb
+NmTUHwgPepRfZlYJX2IxUXbdQU2j+fit2VWTOK9Hnl30N52SRTfZXWqe/Q/Cv9x40Gfh3rVohjBx
+N12V/4r6nFCdN0QNxhbli5FzKv1B+kVdHZdhy7qt/Ed2t5lWBcwG4b6tThsmKs5/AGDK0OqvcWAt
+Q+wmRK1F1NQpUmJpPRb6QXHThxF4LX+X/I7TR3Tz884/b71EGCJ0vEIRb7QdU6OiFMetElV8kfBa
+Zr9Qqw2d39330fdfNf/o695CwieQ6kXkFwLECAH9x0Bd2U8hkWugBCfYFN5UwXWiu1DwKMjBDkpn
+TjD5AxW2BqQ56c+DKEyh90DIQhAuUIUwjGHpvHJCGdrwhhJpXw1xKJKAAAA7
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/epsilon.gif
+
+R0lGODlhDgAKAIAAAP///wAAACwAAAAADgAKAAACF4SPicGhx0x8DlJVF94pa9tJIuA1lWkUADs=
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/less.gif
+
+R0lGODlhEAATAPcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4O
+Dg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEh
+ISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0
+NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdH
+R0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpa
+WltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1t
+bW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CA
+gIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOT
+k5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaam
+pqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5
+ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zM
+zM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f
+3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy
+8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///ywAAAAAEAATAAAIYAD/CRxI
+sKDBgwgTGktI8NcPAAwFUgHwg1pCanEAVLGIkNpDKgyNVeHwh2PCPwD+RByIUuXKf+L+qKii6uW/
+VD9A2mykQkXNl79c2hxqkNqfo0iRpiqoqorTp0/jEBUYEAA7
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shem.gif
+
+R0lGODlhKgAKAIAAAP///wAAACwAAAAAKgAKAAACP4SPqcsdD4OB81VAr8Q7dYx8nTWVoOmF6jGu
+W6uIKyqfcMrO527TS91A9XafnDHIe/liOodr6YkUGS8SJ4IoAAA7
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ivriim.gif
+
+R0lGODlhLwAKAIAAAP///wAAACwAAAAALwAKAAACP4SPqcudAWMwkUIrTwbVqqkhILWMYoieKac+
+5WqScEunZszO6y7nve5wfYDE4M9W8ymNy94Ix5FAHSCp9XIoAAA7
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/mkoriim.gif
+
+R0lGODlhNAALAIAAAP///wAAACwAAAAANAALAAACSYSDGYe8oBqU8bVk8tFv586Fmjd9IySS6AmC
+puqucEp39qvOuFy/La07CYOW3ug3HCJRruUuliTyeLFKVLhcNB3Xrjf3DYun0QIAOw==
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/mikrah.gif
+
+R0lGODlhJQALAIAAAP///wAAACwAAAAAJQALAAACPARiFnjr6hZsLClbsU1V3n1wYAh22uaRqPip
+LolkJzy/5qgy2b62pSjj1WSsULBGKc5ivQfu2YNKpy9pAQA7
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tanach.gif
+
+R0lGODlhIgALAIAAAP///wAAACwAAAAAIgALAAACMoQRmYdt+hRk1LVQ8WO6no5130h6m1mKorey
+pWW22StzaGrfdQ7vZ7xAqG4wonF2JBYAADs=
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ha.gif
+
+R0lGODlhCwAKAIAAAP///wAAACwAAAAACwAKAAACEoSPF8uR6Z5CcdoLqtE6U/iFBQA7
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/min.gif
+
+R0lGODlhEQALAIAAAP///wAAACwAAAAAEQALAAACHQSCdrGs6kySj8IXr7a4759l3OGV5Dc6iHhW
+LvoWADs=
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/anashim.gif
+
+R0lGODlhKAAKAIAAAP///wAAACwAAAAAKAAKAAACPoSPqcsbD4OBU0rw6r01cYxs0/FxpRem4Mq2
+Jkqq4hh3dH2vs0tbyvm7AV9BnMy4+yAdwqNRQ3FETBlMFVQAADs=
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/la.gif
+
+R0lGODlhCQALAIAAAP///wAAACwAAAAACQALAAACEUSAiacZD5uTixrLWlZ70l4AADs=
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shel.gif
+
+R0lGODlhFgALAIAAAP///wAAACwAAAAAFgALAAACJoRjqcuADVeY9KA349kuvYhxnRaOJlR+X6OK
+q6SUZwybr8dQVVIAADs=
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/nashim.gif
+
+R0lGODlhHwAKAIAAAP///wAAACwAAAAAHwAKAAACMoSPqZvhH8yTMQJH7dEX2b95jRh25omiHHiu
+YynFLQmnsubStonr6sL6eSCcIWSDARQAADs=
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/amim.gif
+
+R0lGODlhIQAMAIAAAP///wAAACwAAAAAIQAMAAACNoSPqcvtD6MLtAZT8c2A93uAGCJS4YmOabeW
+5NvG6szK9Szeeg7j/c7IuWy637BoMS1AmaSoAAA7
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shivim.gif
+
+R0lGODlhLAAKAIAAAP///wAAACwAAAAALAAKAAACQoSPqcsNAWMw8cFzadWPp4khYBcq4FmKajqS
+HwXHq+y2bYnStJ26a+7bMXim2OjmQwqLpCNTxxoaexqJSWLDnrCIAgA7
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ayin.gif
+
+R0lGODlhDwAKAIAAAP///wAAACwAAAAADwAKAAACGYRjqYoQn2BkdM1rXc3tZI9ZnfZ1I/OkSgEA
+Ow==
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneinoah.gif
+
+R0lGODlhJQAKAIAAAP///wAAACwAAAAAJQAKAAACMYSPqcsWD4N7Ck558dGAc+Qt4QYyY3J2pbii
+rUqysTvDTvPW6WfKt46rAWMWXDFiKQAAOw==
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/m.gif
+
+R0lGODlhCgAKAIAAAP///wAAACwAAAAACgAKAAACE4SPEKGbbtiREVFl89R1+94tUgEAOw==
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bneibanv.gif
+
+R0lGODlhLwALAIAAAP///wAAACwAAAAALwALAAACQISPqcvtD2MK1NBga9ZT33NhimghpMmcJzii
+bLuoMVy+U+rees3nO7DqCX02RxBISxYbx+BxiIQ0lZtNyOgJVQoAOw==
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/tzetza.gif
+
+R0lGODlhLQAKAIAAAP///wAAACwAAAAALQAKAAACQ4SPqcttAV8EAc1bqc045Xd8GkiO5SeaKhq2
+rslasvRyW12+o51OZNVL5XCLmGqGRApdRkWvmJyJlsclJHa9SrDZSgEAOw==
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/in.gif
+
+R0lGODlhCwAJAIAAAP///wAAACwAAAAACwAJAAACEISPqRjdGdZxDkoTL6BZmwIAOw==
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/bet.gif
+
+R0lGODlhCwAKAIAAAP///wAAACwAAAAACwAKAAACEYSPGBvp7Q6MYEb7qMEJs28UADs=
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shemb.gif
+
+R0lGODlhFQAKAIAAAP///wAAACwAAAAAFQAKAAACI4SPqRbtwSAELU2G6bk5z8tpmzci3NeFJ9m1
+qAi7bEw9oH0UADs=
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/shemat.gif
+
+R0lGODlhHgAKAIAAAP///wAAACwAAAAAHgAKAAACMISPqYvhH4wD78xIsW1W479xISWCUqKRZ2iq
+o5uaHiq6apvaM7va+isDxlgTCURTAAA7
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/nonull.gif
+
+R0lGODlhFgAOAPcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4O
+Dg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEh
+ISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0
+NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdH
+R0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpa
+WltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1t
+bW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CA
+gIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOT
+k5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaam
+pqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5
+ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zM
+zM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f
+3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy
+8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///ywAAAAAFgAOAAAIQwD/CRxI
+sKDBgwgLAkjIUODChgoBSIQY0eFDiv8mSrxYseLGiBsnDtQosiPIjBxRhuT4seTIlC8tYnzpkmLN
+mTD/BQQAOw==
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/aleph.gif
+
+R0lGODlhDAALAIAAAP///wAAACwAAAAADAALAAACFoSPqRoYnaCR7tApL2wX5PUxVfRYRgEAOw==
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/eliezer.gif
+
+R0lGODlhMAALAIAAAP///wAAACwAAAAAMAALAAACRYSPqWvBD+NzcoWLG85a0301SAhRgHmOqmKi
+qHW4q8jOb03naQx3er/TyXCf4ISH/OGCN+BQOWNWWrZS4nmkgZrREylYAAA7
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ueq.gif
+
+R0lGODdhIwAeAIcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4O
+Dg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEh
+ISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0
+NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdH
+R0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpa
+WltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1t
+bW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CA
+gIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOT
+k5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaam
+pqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5
+ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zM
+zM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f
+3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy
+8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///ywAAAAAIwAeAAcI/QD/CRxI
+sKDBgwgTCkyj8A81hRCpAVD4oxFEhe8qKHyj6iJFig89IuRAUZxIhD9AnjyoMeGPjisLTnQJM6bA
+dzNR1rT5qyXCN79sDvxFkqZQgd9UUNxp0+fBD0cHxqGEkFrKqP/SfXh38MUrrAJ/vfjDVeCjCp/A
+DkyHAwAADgCqmFRL8N2vX8/o6t2r9k+qf6/+BCX4beWnJz/K/vuR7t+fPwW1DnxSmGBIgXFUXf73
+C/I/uQWNKRVYpe6fFw/U/HvkmeCnH7AfFCws+N+zwQRb/1EBO7HAL0hb2/6R5oPwgaqqqPhlkRLT
+xQIfDxSnmnP1gu8e/2n8Ls2bx1wWU5HtnHah51dXPX5jXZnvv/V/2tsMCAA7
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ueq1.gif
+
+R0lGODdhIgAgAIcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4O
+Dg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEh
+ISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0
+NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdH
+R0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpa
+WltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1t
+bW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CA
+gIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOT
+k5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaam
+pqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5
+ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zM
+zM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f
+3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy
+8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///ywAAAAAIgAgAAcI/QD/CRxI
+sKDBgwgRXiKXUKCpYg0TIgEWcYqpiAiNaIvoxBbGgzA2NkQC66NBHsoiYvFokiAOahGRCGtJkIfI
+hF1Y0vyn4ibClTsF9oypk+bQkUVbqngXMUdSkxJ8HvTx9GMMZ0SD/hOSsqGGXVpHtWnobIZWgUNm
+HqSnYtXZf84cvDIIj4eRtwKduUiRB1SnSFgkyMFLcJecJkiQsJFKuLHjx5D/3RFCIgUJEjzUCYRF
+Jd8/fD2QNJSHR8WBOf/ijPrXBkY6ZHcFCjvwRyAMeAPN2dLmzPM7Ma+0aaNHkA+jg8hI/ON1h+Ai
+MR4kXLxTi93UrgPluT1jCQa0gshceA1cBKA8gDwD72EwuE3eP20AHBAkF2kIsEjEBUE0+Kp5wVoD
+YREGQfTM0QYS6P1DjhSvUMMLU/9YIoECFw20iQEA/lMNVhHlkwoSJASSXTqNeQiiiALJQ6JJAQEA
+Ow==
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/canan.gif
+
+R0lGODlhHwANAIAAAP///wAAACwAAAAAHwANAAACNYSPqcvtHqKJ4UhAJ62LT+Rh3WiBphKW6ree
+SQi7chu3NouLt/66aZpTbS4azpABfCh5y0YBADs=
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/am.gif
+
+R0lGODlhFAALAIAAAP///wAAACwAAAAAFAALAAACIISPqcsaDwOA5yVZs96TYw8iX2eMI1mGqnmJ
+2zlFkjwWADs=
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/cnanim.gif
+
+R0lGODlhKwAKAIAAAP///wAAACwAAAAAKwAKAAACPoSPqcsdD4OB8wFaq7xR7Yl81yGWiziS4Qqq
+boKab0rXaDvLuF7PtpNjwYY+Ie/W4xFpsRMsgqRASxYOBlAAADs=
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/eretz.gif
+
+R0lGODlhHQANAIAAAP///wAAACwAAAAAHQANAAACMoSPqcvtGoKJElA6UYR6VdslH8gd35hZqGme
+0NZUMik+pOvZc1o6Ox/yTWA0lu0IRCoKADs=
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/sfat.gif
+
+R0lGODlhHgAKAIAAAP///wAAACwAAAAAHgAKAAACMYSPqZvhHwx0MkZAG7pXenx04fZ93Kih4gmW
+qJmxnejSZmmvi/z2dstqhXSYyRByKAAAOw==
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/ktav.gif
+
+R0lGODlhGwAKAIAAAP///wAAACwAAAAAGwAKAAACJ4SPqWvhcZ5skwHYEE5b7d5F1qctYZmJ3qim
+HOteJiy3KCVBDpofBQA7
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/mac.gif
+
+R0lGODlhMwALAIAAAP///wAAACwAAAAAMwALAAACTARiFnir3tiajsIK09FM8a9tofcknYmm5KqG
+3Xk2LQzW4k2nSJyzrGTrxUa92S/YGt2WRx4y6bI1o7PMMCJd7qgTpfcLhobHZO/VWwAAOw==
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/im.gif
+
+R0lGODlhEAAKAIAAAP///wAAACwAAAAAEAAKAAACGoSPecEd1tJbaNILZd08Yw8qgDWKH6k4jFgA
+ADs=
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/yud.gif
+
+R0lGODlhBwAKAIAAAP///wAAACwAAAAABwAKAAACDIR/oWjB4FhE89n7CgA7
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/gmar.gif
+
+R0lGODlhGAAKAIAAAP///wAAACwAAAAAGAAKAAACJoSPqRjt1sA7UwV6YcqWsr1I3kiCWikuHJei
+JAuz30lf8gtFaVYAADs=
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/sheba.gif
+
+R0lGODlhHwAKAIAAAP///wAAACwAAAAAHwAKAAACMYSPqauB4QyEh0ba3rqysgiAWtiVCUZmKSiW
+Tuut8Zhu7jzDMWfiulyDTXaTYagoKgAAOw==
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/choliah.gif
+
+R0lGODlhJwAMAIAAAP///wAAACwAAAAAJwAMAAACO4SPqcut4aJMcFoQsq47G/15WFc1JXKmh+qc
+Kwp/8TvXLFbjuUzzug/89RalW9DlegyRlJ0SyLRJirECADs=
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/eq3.gif
+
+R0lGODdhnwAoAIcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4O
+Dg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEh
+ISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0
+NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdH
+R0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpa
+WltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1t
+bW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CA
+gIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOT
+k5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaam
+pqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5
+ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zM
+zM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f
+3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy
+8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///ywAAAAAnwAoAAcI/QD/CRxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjxLfPRP47hfIkyhTTnwHwOSfPyo7votJk+Gv
+V0/+Paq58dPHTw9mPtmZ0CdNn2/eveGZ8dlMj8+++ITJNOFOlq8efhmp8NNThp+4HhRb8N2XLwrf
+fUv41eCjd0++ET2olKrKX0SXOvxjVOcDSiQffPj37EXDV2gJrh34KbFBuQqfkC34Sm/ZrI9ePP31
+o/OPvo5T3oz4y67APwCezn2UNW3oXx9M/9t68M9kgrQJvqtA8I/Jgp9+D1b4q29Vhh/aZlVD1fiT
+tgbfLB5Y2uAX6HCLzh34BUDB6wX937SejjDp8YaPjOv8l87wL/J4E36zTF32v1/0X/24TfKHwXfv
+qECZfQ1FRd9Hv+D1yEsMPvJIgvz9oxlwp1VmUE7l/UZQdReS19V2/7xikoDfnddQdw8mqGJpfzwB
+wG1RFfSeQN88cOA/f3g4EIYyEvhJawyFdtovAXr4iXomHvSDkAXFWNCDMhIknkHxGfTMjfcR+I9/
+DCnl1h9vAHAjjxex+JKGFr3zAJIEeVXQD23BZtcr0AnEJXBADvTNEy+AaGedbrFJmAq33XnROy/4
+9ssXeVb0ygMRImTYRJN+d1tJv/D3R6MHfYFmby9ZpyNFdy6o0RvDOWQoRKvaKf0Rhwq1yhCUGGUn
+UFwIRYoQomQq9IysDT1nUKUPwZrQAxJ94udEjz4BZqRLvfPDE0984ayW/9QoaI8U+WYQsMSBO1Cq
+xWILUW4kfaArREA1ZCxE3r5p5Us/EllWr0rS9ZWH75Jq0B+AnuZZZ0wSlJ675ioUL0GtfqPiK5R4
+aGusjzEIZqP9SpQZdAQWvNCVDjkp0RufziaRyAmJi1DGEMnFWkE5uhXRM8IWqHLABat8EMsEEesQ
+z2kuGbBD0g79n8r4uvrtQZ90tqypC8n6zisv1fnHshklmCZ4CXGqM0Kyxtwjp0MytJ+V05Y8m9pJ
+DvSWQgdbuvIXo35TcHCP/j0z6pZGC/QyRBO2XdsDFheOKgA6HrnzTQS+sux8BlH9BJsJC9QvzU+k
+ka/gY6140ys/iqj1f0lXqGTA4PocItbDJlQct5xzhOtBNetWOo5kvUPUD9QUNDtDtkXJ3qq1x54R
+5J0eRCtdB8I0MY2V6ymkUZRs56XxOyfkVELoDkSNfWYt1P2Vkn23d3nkXdkZzOfHzvaW55v11Su/
+3vbGuuEv9DpEzyOEPPa6eRumZvIUmJzvVwP5ww9KFrePecxyD1SIhdgSQc7hxyRmCtU/PvCI3z2m
+b+2jTFf6VpT3AQyABzHPJ16yoKzApoIojKFGEvOMFY3EJ18InAx3uBFqETiOh0CsSfVIGMQiGvGI
+GgkIADs=
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/pimaj.gif
+
+R0lGODlhDwAOAIAAAP///wAAACH5BAAAAAAALAAAAAAPAA4AAAIbhI+pm+EPVZBrtkozsrf7w22a
++IGjWQLP5hgFADs=
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/eq4.gif
+
+R0lGODdhcgEoAIcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4O
+Dg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEh
+ISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0
+NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdH
+R0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpa
+WltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1t
+bW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CA
+gIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOT
+k5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaam
+pqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5
+ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zM
+zM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f
+3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy
+8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///ywAAAAAcgEoAAcI/QD/CRxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjyBDihxJsqTJkyhTqlzJsqXLlzBjypw5UFU6
+mjhz6tzJ86S4OHFUGOups8ofgb8ADE2YThXRp1D/vXn46abEX7+svvuV6t0/Sr8G/jr6qErPP15Z
+ZjVI6QO1f3/eKnxWIapdncacOvyhF6I4HAD0/gBQ5aYxNQbV9M3ZaGnDRj8mUgIc1lgVAHH+GeMg
+jmBnVWYRMzR7t7RMDlYbHqUY+Z+41QOpOXZNqSfph7chpsOR+V8jNZ0FqmpEkPg/zrUH5lW1+F9u
+09BV/hLtELbAZ3IZvkmVKo3Bb7D906V7lxrnq+YMrUP8VeHdn+QEVaT9ihTAI7F/8qf5E1bg8+gA
+lhQHegqt9gcAHPzBAYEGqYIZQsEZA8CEDMKknmr+URIHDsA1hEMFwRU0IFJ9VZGdQjiEGOCKIsUx
+W3oDAdCZZQ2lIyNCuYnTX1ESkdYIiP8o1hBoCKmyGiW3qchUFVW8iBElrwj0DRXwsWhablNW8EEa
+VPygwomw1eUfQ+k88gN1Bf3Hk3XU5OdmflESBNsTAn1y4UFtFXnnS42ogJRxVkLXJESw4TCQmgTR
+KI5SBxka1XPMRcrcic4NtNovFQpETWdVAEqQkS5ROtB2/8RJUDqpOEReSuIFKv0QJZkaFNc/76hw
+0y8/zGfQM/CpgWaMdn0hEWyXVmnQWNeJWRCoKsUBwA9MqsCoZv+kU8VrBqVIECUTJlcBYdU6qlEc
+TH7GZHjaYiSOsQ5FGtwvjcSqkDiIIjSYcziYhUO+OAY2EAcTzvZLb1DtmZCETlVRgVM/LIhQIwBY
+lRQOlMbLUXnzAkCQi8IJBPGvwxm0mUDrhhjyRjisBlojqf3Rlyp8USSOshBt1to/hDkJUb0h7SjQ
+H0r2BG/NqgzFXGfUFH2QOKrEITFzPld6sbgKERmbpqmp8ElBwh6kwje/eFcQFRwhm843Bm09UDpP
+yJuQwQv90jU1uh70yzML/lFzX0vp4C0R2h+lutAPGKvEnUepsGvQiMaoyK9AxmB8c0E/EhiHqBap
+oKYxxrpc0a+/BG2v1QupEvVBcJMkOoYf8Uyy6yPR+BHVCOHAQRUOP/QrQRofZLpBjILG5PBMFj6Q
+hr5H7TlFpOGOA7c6y8rZkKcH6vZEsLvmKuWYD/RNZO5B1OZB6VDzQPXIFiQX2Fi1j1XdBJnpO+CW
+MvjML90LRGepZMPl9ht+UghWUFWVf1QvQHvzSPa2tyxT4YlgfjEY6T6VuoikgwNOqoLyCGQZ2/0A
+MCpQUmsGJhx52QSDCWnE8ABzu4UVBGATiuGEvjWhfXHggzLMoQ4RpDni/flwX4MBjA4rwAEcNOcP
+w6sA8RynokENREjbGt7thocxVSBpeI34QyO2qBhJNS1ezGESubQYB1h5UVLLOSNzwKjGNrpxMcxC
+iBqitxBsFWQ1NgqaHQ9CjR1GzHceo90/4rDBzyGFNMwpXWcaAUGFGC8ikZNI0t4oqU0pKS8Ym6Qq
+upjIjamoQ8d7EabCKCmRnZESjCRX04g3IC1uETRWbJoafEjLWlaBXFXo4hVvactO9dJke0LVA/gz
+kakI5B2U+IGpKvADvx3vdGnIH/mMWS0AONCAUXvDHx7JkC/c5BWtocLuCNI1gQDggJ9C54qc2ZFx
+MrBqCWwQc+ioEPj9NMUmyvkdQQrToNUdxDK3UaETrzYQck1oIhLiAL4aQY0qUOyfB4XchAKYEH2+
+U3EZWWCNTKMKufyBnhLp5EME2TPTGEOaGVEhdUhIEoxiRKMw2qfPQONPiCjtUDVNyG1Cx5F3UEGd
+Y0Np2Vz6TlVRo0wBzE+AuBmRVETtMtmhQjwfko4/UIGdaXCmvyzYv5CAdG05VeD1inqQ2/hreWQd
+qUGySDBPReQvPjMGbHoXkWul9a4goV8F3oJWvApQPXF5B+EMKFSFVIGdUgFWRL7BVL86liJN+9lY
+02qxfXosMzAta9TgQ9fHelYl9BJLWP1aheYQTGMk3ZnyFPvZ1pKaBFXwc22aFkONHakhZgZ5RZd+
+wFveCi5N2TyebIcrEr04ZrR4Fek/mkMz5j2VuNANCbdi2JlZRne5nkrXmC5ixIJQx67XDW9F2IeV
+Yzb2sTf7xA/EJiWLUCMNvO3qP8pJhcKK9774XcjlUKLc/Pr3v35x50dCC+ACG5ghn7AvRtZy4AY7
++MEQjrCEJ0zhCnMkIAA7
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://cs.anu.edu.au/~bdm/dilugim/Nations/WRR2/sig.gif
+
+R0lGODdhFAARAIcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4O
+Dg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEh
+ISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0
+NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdH
+R0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpa
+WltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1t
+bW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CA
+gIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOT
+k5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaam
+pqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5
+ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zM
+zM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f
+3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy
+8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///ywAAAAAFAARAAcIigC/pflB
+sOCPL3/+UPrHsOG/dBxwMBQn7p84VY1wAHDoUBwAYxwbVlEVkmEcDiUZkkyJo0rKlxYBrIQZshGH
+ijRDtswZUkUqmD854piZkui/OC55NlSVtCRIpjgt3kzZqNE/jSshxgFpDGc6VXE2xrT6jxqAs2jT
+AkiqCoBEmO9C/vpFMy7HuQwDAgA7
+
+------=_NextPart_000_0000_01CA6590.91BF9BB0--

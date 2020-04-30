@@ -1,0 +1,367 @@
+﻿<html>
+<head>
+<script language='Javascript'>
+
+              questions = new Array()
+              questions[1] = "What was the name of David's gigantic opponent?"
+              questions[2] = "What was the name of the Sea that Moses parted?"
+              questions[3] = "What did moses throw to the ground that became a serpent?"
+              questions[4] = "How many times did Samson lie to Delilah before telling her the truth?"
+              questions[5] = "\"Thus saith the Lord, The heaven is my throne, and the earth is my...\""
+              questions[6] = "What king reluctantly commanded Daniel be cast into the den of lions?"
+              questions[7] = "What city did Joseph take Mary and the young child to following his dream?"
+              questions[8] = "What were Shadrach, Meshach, and Abednego cast into?"
+              questions[9] = "How many loaves of bread did Jesus feed four-thousand men (plus women and children) with?"
+              questions[10] = "Jesus said, \"it's easier for a camel to go through the eye of a needle, than for...\""
+              questions[11] = "Where was Jesus crucified?"
+              questions[12] = "How old was Noah when the flood waters were upon the earth?"
+              questions[13] = "Thou shalt love thy _______ as thyself."
+              questions[14] = "\"The Lord is my shepherd; I shall not want\" is found in what book?"
+              questions[15] = "How long was Jonah in the belly of the fish?"
+
+              answerA = new Array()
+              answerA[1] = "Solomon."
+              answerA[2] = "Red."
+              answerA[3] = "a crown made of thistles."
+              answerA[4] = "once."
+              answerA[5] = "domain"
+              answerA[6] = "Nebuchadnezzar"
+              answerA[7] = "Nazareth"
+              answerA[8] = "a tar pit"
+              answerA[9] = "four"
+              answerA[10] = "a rich man to enter in the kingdom of God."
+              answerA[11] = "Cyrene."
+              answerA[12] = "600."
+              answerA[13] = "wife."
+              answerA[14] = "Psalms."
+              answerA[15] = "two nights and two days."
+
+              answerB = new Array()
+              answerB[1] = "Joseph."
+              answerB[2] = "Atlantic."
+              answerB[3] = "a staff."
+              answerB[4] = "twice."
+              answerB[5] = "creation."
+              answerB[6] = "Solomon."
+              answerB[7] = "Bethlehem."
+              answerB[8] = "a bottomless pit."
+              answerB[9] = "seven."
+              answerB[10] = "a fool to accumulate wealth."
+              answerB[11] = "Arimatheae."
+              answerB[12] = "400."
+              answerB[13] = "family."
+              answerB[14] = "Job."
+              answerB[15] = "three nights and three days."
+
+              answerC = new Array()
+              answerC[1] = "Goliath."
+              answerC[2] = "Baltic."
+              answerC[3] = "a stone tablet."
+              answerC[4] = "three times."
+              answerC[5] = "temple."
+              answerC[6] = "Darius."
+              answerC[7] = "Jerusalem."
+              answerC[8] = "quicksand."
+              answerC[9] = "eleven."
+              answerC[10] = "a non-believer to aquire faith."
+              answerC[11] = "Golgotha."
+              answerC[12] = "500."
+              answerC[13] = "neighbor."
+              answerC[14] = "Exodus."
+              answerC[15] = "four nights and four days."
+
+              answerD = new Array()
+              answerD[1] = "Job."
+              answerD[2] = "Dead."
+              answerD[3] = "a necklace made of beads."
+              answerD[4] = "four times."
+              answerD[5] = "footstool."
+              answerD[6] = "Belshazzar."
+              answerD[7] = "Babylon."
+              answerD[8] = "a fiery furnace."
+              answerD[9] = "fifteen."
+              answerD[10] = "a king to control his temptations."
+              answerD[11] = "Galilee."
+              answerD[12] = "900."
+              answerD[13] = "mother."
+              answerD[14] = "Luke."
+              answerD[15] = "five nights and five days."
+
+              rightAns = new Array
+              rightAns[1] = "C"
+              rightAns[2] = "A"
+              rightAns[3] = "B"
+              rightAns[4] = "C"
+              rightAns[5] = "D"
+              rightAns[6] = "C"
+              rightAns[7] = "A"
+              rightAns[8] = "D"
+              rightAns[9] = "B"
+              rightAns[10] = "A"
+              rightAns[11] = "C"
+              rightAns[12] = "A"
+              rightAns[13] = "C"
+              rightAns[14] = "A"
+              rightAns[15] = "B"
+
+              reference = new Array()
+              reference[1] = "1 Samuel 17:4"
+              reference[2] = "Exodus 15:22"
+              reference[3] = "Exodus 4:2,3"
+              reference[4] = "Judges 16:15"
+              reference[5] = "Isaiah 66:1"
+              reference[6] = "Daniel 6:9"
+              reference[7] = "Mathew 2:23"
+              reference[8] = "Daniel 3:20"
+              reference[9] = "Mathew 15:38"
+              reference[10] = "Mark 10:25"
+              reference[11] = "Mathew 27:33"
+              reference[12] = "Genesis 7:6"
+              reference[13] = "Romans 13:9"
+              reference[14] = "Psalms 23:1"
+              reference[15] = "Jonah 1:17"
+
+
+function nextQuestion(form) {
+//set the total number of questions equal to quizend
+if(form.question.value != "" && form.results.value == "") {
+alert("Please click on \"Check Current Answer\" before going on to the next questions.");
+} else {
+//START IF CURRENT QUESTION CHECKED OR KILL
+var quizEnd = eval(15 * 1);
+if(form.questNo.value == quizEnd) {
+form.question.value = "";
+form.choiceA.value = "";
+form.choiceB.value = "";
+form.choiceC.value = "";
+form.choiceD.value = "";
+form.yourChoice.value = "";
+form.reference.value = "A reference or explanation will be given here if you choose the incorrect answer.";
+form.results.value = "End of Quiz.  Your final results are listed below.";
+reportCard(form);
+} else {
+if(form.questNo.value == "") {form.questNo.value = 1} else {
+form.questNo.value = eval(form.questNo.value) + 1;
+}
+form.question.value = questions[form.questNo.value];
+form.choiceA.value = answerA[form.questNo.value];
+form.choiceB.value = answerB[form.questNo.value];
+form.choiceC.value = answerC[form.questNo.value];
+form.choiceD.value = answerD[form.questNo.value];
+form.yourChoice.value = "";
+form.reference.value = "A reference or explanation will be given here if you choose the incorrect answer.";
+form.results.value = "";
+if(form.myScore.value == "") {form.myScore.value = 0; } else {
+form.myScore.value = form.myScore.value; }
+}
+form.choiceList[0].checked = false;
+form.choiceList[1].checked = false;
+form.choiceList[2].checked = false;
+form.choiceList[3].checked = false;
+form.instruct.value = ("Choose A, B, C, or D");
+//END KILL IF-STATEMENT
+}
+}
+function checkAnswer(form) {
+var myScore = 0;
+var curve = 0;
+if(form.choiceList[0].checked == 0 && form.choiceList[1].checked == 0 && form.choiceList[2].checked == 0 && form.choiceList[3].checked == 0) {
+alert("No answer has been selected.  Please select either A, B, C or D");
+} else {
+if(form.results.value != "") {form.results.value = "Sorry, no guessing allowed.  In order to retry this question you will have to start the quiz over."; }
+else if(form.yourChoice.value == rightAns[form.questNo.value]) {
+form.myScore.value = eval(form.myScore.value) + eval(1);
+form.results.value = "Congratulations!  You are correct. That brings your cumulative score to " + form.myScore.value + " out of a possible " + form.questNo.value + "."; } else {
+form.results.value = "Sorry, the correct answer is \"" + rightAns[form.questNo.value] + "\". This brings your cumulative score to " + form.myScore.value + " out of a possible " + form.questNo.value + "."
+form.reference.value = reference[form.questNo.value]
+var VwrongAns = form.HwrongAns.value;
+var rightAnsText = "";
+var yourAnsText = "";
+if(form.yourChoice.value == "A") {
+yourAnsText = answerA[form.questNo.value];
+} else
+if(form.yourChoice.value == "B") {
+yourAnsText = answerB[form.questNo.value];
+} else
+if(form.yourChoice.value == "C") {
+yourAnsText = answerC[form.questNo.value];
+} else
+if(form.yourChoice.value == "D") {
+yourAnsText = answerD[form.questNo.value];
+}
+if(rightAns[form.questNo.value] == "A") {
+rightAnsText = answerA[form.questNo.value];
+} else
+if(rightAns[form.questNo.value] == "B") {
+rightAnsText = answerB[form.questNo.value];
+} else
+if(rightAns[form.questNo.value] == "C") {
+rightAnsText = answerC[form.questNo.value];
+} else
+if(rightAns[form.questNo.value] == "D") {
+rightAnsText = answerD[form.questNo.value];
+}
+var VwrongAns = "" + VwrongAns + "<TR><TD COLSPAN=2 VALIGN=TOP BGCOLOR=#dcdcde><B>#" + form.questNo.value + ".</B>" + questions[form.questNo.value] + "</TD></TR><TR><TD VALIGN=TOP><B>Your Answer:</B></TD><TD>" + yourAnsText + "</TD></TR><TR><TD VALIGN=TOP><B>Correct Answer:</B></TD><TD>" + rightAnsText + "</TD></TR><TR><TD VALIGN=TOP><B>Reference:</B></TD><TD>" + reference[form.questNo.value] + "</TD></TR>";
+form.HwrongAns.value = VwrongAns;
+}
+curve = form.myScore.value / form.questNo.value;
+form.percent.value = parseInt(curve * 100,10);
+if(curve > .90) {form.grade.value = "A"; } else if(curve > .80) {form.grade.value = "B"; }
+else if(curve > .70) {form.grade.value = "C"; } else if(curve > .60) {form.grade.value = "D";
+} else {form.grade.value = "F"; }
+form.instruct.value = ("Click on \"Next Question\" to continue.");
+}
+}
+function enterAnswer(form) {
+if(form.choiceList[0].checked) {
+form.yourChoice.value = "A";
+} else
+if(form.choiceList[1].checked) {
+form.yourChoice.value = "B";
+} else
+if(form.choiceList[2].checked) {
+form.yourChoice.value = "C";
+} else {
+form.yourChoice.value = "D";
+}
+checkAnswer(form);
+}
+function reportCard(form) {
+var footer = ("<P><FONT SIZE=-1>Quiz and Report Card created using<BR><A HREF=\"http://www.webwinder.com/quiz/index.html\"><B>Webwinder's Self-Grading Quiz Creator</B></A><BR><FORM METHOD='POST'><INPUT TYPE='BUTTON' VALUE='Close' onClick='window.close()'></FORM></CENTER>");
+var header = ("<HEAD><TITLE>Self-Grading Quiz Report Card</TITLE></HEAD>" + "<BODY BGCOLOR = '#FFFFFF'><CENTER><BR><BR>");
+var table1 = ("<TABLE WIDTH=400 BORDER=1><TR><TD COLSPAN=2 ALIGN=CENTER><FONT SIZE='+3'><B>Report Card</B></FONT><BR><FONT SIZE='+2'><B>Self-Grading Quiz</B></FONT></TD></TR><TR><TD>Right Answers</TD><TD ALIGN=RIGHT>" + form.myScore.value + "</TD></TR><TR><TD>Total Possible</TD><TD ALIGN=RIGHT>" + form.questNo.value + "</TD></TR><TR><TD>Percent Right</TD><TD ALIGN=RIGHT>" + form.percent.value + "%</TD></TR><TR><TD>Letter Grade</TD><TD ALIGN=RIGHT>" + form.grade.value + "</TD></TR></TABLE><BR><BR> ");
+if(form.myScore.value < form.questNo.value) {
+var table2 = ("<TABLE WIDTH=400 BORDER=1><TR><TD COLSPAN=2 ALIGN=CENTER><FONT SIZE='+2'><B>Questions Answered Incorrectly</B></FONT></TD></TR>" + form.HwrongAns.value + "</TD></TR></TABLE><BR><BR>");
+} else {
+var table2 = "";
+}
+var pageBody = ("" + header + "" + table1 + "" + table2 + "" + footer + "");
+reportWin = window.open("","","width=620,height=400,toolbar=yes,menubar=yes,scrollbars=yes");
+reportWin.document.write(pageBody);
+reportWin.document.close();
+//reportWin.document.write(pageBody);
+//reportWin.document.close();
+}
+function clearForm(form)
+{
+form.questNo.value = "";
+form.question.value = "";
+form.choiceA.value = "";
+form.choiceB.value = "";
+form.choiceC.value = "";
+form.choiceD.value = "";
+form.yourChoice.value = "";
+form.reference.value = "";
+form.results.value = "";
+form.myScore.value = "";
+form.percent.value = "";
+form.grade.value = "";
+form.HwrongAns.value = "";
+}
+
+
+</script>
+</head>
+<body>
+
+<form method="post">
+<table BORDER="1" CELLSPACING="0" CELLPADDING="4">
+
+<tr>
+<td align="center" COLSPAN="3">
+<font face='arial'><big><strong>Self-Grading Quiz</strong></big></font>
+</td>
+</tr>
+
+<tr>
+<td COLSPAN="3">
+<font face='arial'><small>This self-grading JavaScript Quiz -- complete with a pop-up report card -- will allow your visitors to test their knowledge of a subject related to your site. And not only does this script automatically calculate a letter grade, but it also lists references for wrong answers and only allows one attempt for each question. This particular JavaScript Self-Grading Quiz happens to be about the bible, but you can change it to whatever subject you desire simply by using our amazing <A HREF="/ww_stm_quiz.php">Self-Grading Quiz Creator</A>. You can also increase or decrease the number of questions as needed. Note that this script includes the use of arrays and may only work with netscape 3.0 or higher.
+</small></font>
+<p><font face='tahoma,arial'><small><strong> Instructions: </strong></small><font> <font face='arial'><small>This self-grading quiz requires JavaScript enabled Netscape Navigator 3.0 or higher or Internet Explorer 4.0 or higher. Click on "Next Question" to start quiz. If you get a JavaScript error you may need to reload (refresh) the page to initialize the question list. </small></font>
+</td>
+</tr>
+
+<TR>
+<TD ROWSPAN="8" VALIGN="TOP" >
+<CENTER>
+<INPUT TYPE=HIDDEN NAME="yourChoice" SIZE=4>
+<font face='tahoma,arial'><small><strong>Instructions</strong></small><font><BR>
+<textarea COLS=18 ROWS=3 name="instruct" wrap=virtual></textarea> <BR>
+<font face='tahoma,arial'><small><strong>Results</strong></small><font><BR>
+<textarea COLS=18 ROWS=6 name="results" wrap=virtual></textarea> <BR>
+<INPUT TYPE="button" VALUE="Next Question >>" onClick="nextQuestion(this.form)">
+<TABLE>
+<TR>
+<TD COLSPAN="2" ALIGN="CENTER"><font face='tahoma,arial'><small><strong>Current Score</strong></small><font></TD>
+</TR>
+<TR>
+<TD ALIGN="RIGHT"><font face='tahoma,arial'><small><strong>Points:</strong></small><font></TD><TD><INPUT TYPE=TEXT NAME=myScore SIZE=6></TD>
+</TR>
+<TR>
+<TD ALIGN="RIGHT"><font face='tahoma,arial'><small><strong>Percentage:</strong></small><font></TD><TD><INPUT TYPE=TEXT NAME=percent SIZE=6></TD>
+</TR>
+<TR>
+<TD ALIGN="RIGHT"><font face='tahoma,arial'><small><strong>Letter Grade:</strong></small><font></TD><TD><INPUT TYPE=TEXT NAME=grade SIZE=6></TD>
+</TR>
+</TABLE>
+
+</CENTER>
+
+
+</TD>
+<TD colspan="2">
+<font face='tahoma,arial'><small><strong>Question #:</strong></small><font><INPUT TYPE=TEXT NAME=questNo SIZE=4> <font face='tahoma,arial'><small><strong>of 15</strong></small><font>
+
+</TD>
+</TR>
+
+<TR>
+<TD COLSPAN="2"><CENTER><textarea COLS="54" ROWS="3" name="question" wrap=virtual></textarea></CENTER></TD>
+</TR>
+
+<TR>
+<TD NOWRAP ALIGN="RIGHT"> <font face='tahoma,arial'><small><strong>A</strong></small><font><input type=radio name="choiceList" value="a" onClick="enterAnswer(this.form)"></TD>
+
+<TD ><CENTER><textarea COLS="48" ROWS="3" NAME=choiceA wrap=virtual></textarea></CENTER></TD>
+</TR>
+
+<TR>
+<TD NOWRAP ALIGN="RIGHT"> <font face='tahoma,arial'><small><strong>B</strong></small><font><input type=radio name="choiceList" value="b" onClick="enterAnswer(this.form)"></TD>
+
+<TD ><CENTER><textarea COLS="48" ROWS="3" NAME=choiceB wrap=virtual></textarea></CENTER></TD>
+</TR>
+
+<TR>
+<TD NOWRAP ALIGN="RIGHT"> <font face='tahoma,arial'><small><strong>C</strong></small><font><input type=radio name="choiceList" value="c" onClick="enterAnswer(this.form)"></TD>
+
+<TD ><CENTER><textarea COLS="48" ROWS="3" NAME=choiceC wrap=virtual></textarea></CENTER></TD>
+</TR>
+
+<TR>
+<TD NOWRAP ALIGN="RIGHT"> <font face='tahoma,arial'><small><strong>D</strong></small><font><input type=radio name="choiceList" value="d" onClick="enterAnswer(this.form)"></TD>
+
+<TD ><CENTER><textarea COLS="48" ROWS="3" NAME=choiceD wrap=virtual></textarea></CENTER></TD>
+</TR>
+
+<TR>
+<TD NOWRAP ALIGN="RIGHT"> <font face='tahoma,arial'><small><strong>Ref.</strong></small><font></TD>
+
+<TD ><CENTER><textarea COLS="48" ROWS="3" NAME=reference wrap=virtual>A reference or explanation will be given here if you choose the incorrect answer.</textarea></CENTER></TD>
+</TR>
+
+
+<TR>
+<TD COLSPAN="2" >
+<CENTER><INPUT TYPE="Button" VALUE="Report Card" onClick=reportCard(this.form)> <INPUT TYPE="reset" VALUE="Start Over" onClick=clearForm(this.form)> <INPUT TYPE="HIDDEN" NAME="HwrongAns"></CENTER>
+</TD>
+</TR>
+
+<tr>
+<td align="center" COLSPAN="3"><font face='tahoma,arial'><small><small>Copyright © 1997-2010<i> <a href='http://www.webwinder.com'>Web Winder Site Traffic Magnets</a></i>. All rights reserved.</small></small></font></td>
+</tr>
+
+</TABLE>
+</FORM>
+</body>
+
+</html>

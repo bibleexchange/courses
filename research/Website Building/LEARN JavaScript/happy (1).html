@@ -1,0 +1,28 @@
+<html>
+<head>
+<script type="text/javascript">
+function meeting() {
+
+  var text = "The meeting this week will be at ";
+  var nowDate = new Date();
+  var currDate = nowDate.getDate();
+
+  if (currDate < 5) {
+    document.write(text + "Steve's house");
+  }
+  else if ((currDate < 12) && (currDate > 4)) {
+    document.write(text + "Nancy's house");
+  }
+  else if ((currDate < 19) && (currDate > 11)) {
+    document.write(text + "Mike's house");
+  }
+  else {
+    document.write(text + "Sally's house");
+  }
+}
+</script>
+</head>
+<body>
+<script type="text/javascript">meeting();</script>
+</body>
+</html>

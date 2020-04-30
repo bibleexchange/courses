@@ -1,0 +1,18 @@
+#wpcontent H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #003399
+}
+#wpcontent H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: #003399
+}
+#wpcontent H3 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11pt; COLOR: #003399
+}
+#wpcontent H4 {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #003399
+}
+DIV.tright {
+	CLEAR: right
+}
+DIV.tleft {
+	CLEAR: left
+}

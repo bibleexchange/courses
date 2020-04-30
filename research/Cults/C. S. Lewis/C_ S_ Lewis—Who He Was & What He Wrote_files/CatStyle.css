@@ -1,0 +1,171 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: #fff; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #000; PADDING-TOP: 0px; FONT-FAMILY: 'Times'
+	text-align:center
+}
+#pagewrap {
+	WIDTH: 698px
+}
+#header {
+	FONT-SIZE: 10pt; BACKGROUND: url(http://www.keepersofthefaith.com/Catalog/lkf/WebStyleSheet/bg.gif) #dae0d2 repeat-x 50% bottom; FLOAT: left; WIDTH: 698px; LINE-HEIGHT: normal
+}
+#header UL {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 6px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 10px; LIST-STYLE-TYPE: none
+}
+#header LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; BACKGROUND: url(http://www.keepersofthefaith.com/Catalog/lkf/WebStyleSheet/left.gif) no-repeat left top; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#header A {
+	PADDING-RIGHT: 15px; DISPLAY: block; PADDING-LEFT: 6px; FONT-WEIGHT: bold; BACKGROUND: url(http://www.keepersofthefaith.com/Catalog/lkf/WebStyleSheet/right.gif) no-repeat right top; FLOAT: left; PADDING-BOTTOM: 4px; COLOR: #ab6509; PADDING-TOP: 5px; TEXT-DECORATION: none
+}
+#header A {
+	FLOAT: none
+}
+#header A:hover {
+	COLOR: #9c0000; TEXT-DECORATION: underline
+}
+#header #current {
+	BACKGROUND-IMAGE: url(http://www.keepersofthefaith.com/Catalog/lkf/WebStyleSheet/left_on.gif); COLOR: #9c0000
+}
+#header #current A {
+	BACKGROUND-IMAGE: url(http://www.keepersofthefaith.com/Catalog/lkf/WebStyleSheet/right_on.gif); PADDING-BOTTOM: 5px; COLOR: #9c0000
+}
+#logo {
+	LEFT: 0px; POSITION: absolute; TOP: 0px
+}
+#button {
+	FONT-SIZE: 11px; LEFT: 590px; WIDTH: 80px; PADDING-TOP: 13px; FONT-FAMILY: Tahoma, Arial, sans-serif; POSITION: absolute; TOP: 0px; HEIGHT: 90px; BACKGROUND-COLOR: #fff3e7; TEXT-ALIGN: right
+}
+#button UL {
+	BORDER-RIGHT: medium none; PADDING-RIGHT: 0px; BORDER-TOP: medium none; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: medium none; PADDING-TOP: 0px; BORDER-BOTTOM: medium none; LIST-STYLE-TYPE: none
+}
+#button LI {
+	PADDING-RIGHT: 4px; LIST-STYLE-IMAGE: none; PADDING-BOTTOM: 5px; MARGIN: 0px; LIST-STYLE-TYPE: none
+}
+#button LI A {
+	COLOR: #ab6509; BACKGROUND-COLOR: #fff3e7; TEXT-DECORATION: none
+}
+#button LI A:hover {
+	COLOR: #9c0000; BACKGROUND-COLOR: #fff3e7; TEXT-DECORATION: underline
+}
+#subheader {
+	FONT-SIZE: 10pt; FLOAT: left; WIDTH: 698px; LINE-HEIGHT: normal; BACKGROUND-COLOR: #9c0000
+}
+#subheader UL {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#subheader LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#subheader LI.first A {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+#subheader LI.first A:visited {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+#subheader A {
+	PADDING-RIGHT: 10px; DISPLAY: block; PADDING-LEFT: 6px; FONT-WEIGHT: bold; FLOAT: left; PADDING-BOTTOM: 4px; BORDER-LEFT: #ffffff 1px solid; COLOR: #ffffff; PADDING-TOP: 5px; TEXT-DECORATION: none
+}
+#subheader A {
+	FLOAT: none
+}
+#subheader A:hover {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+#subheader #current {
+	BACKGROUND-COLOR: #ffffff
+}
+#subheader #current A {
+	PADDING-BOTTOM: 5px; COLOR: #9c0000
+}
+#utility {
+	WIDTH: 100%; BACKGROUND-COLOR: #fff3e7
+}
+#utility DIV {
+	FONT-SIZE: xx-small; PADDING-TOP: 4px; BACKGROUND-COLOR: #fff3e7; TEXT-DECORATION: none
+}
+#utility A {
+	COLOR: #9c0000; TEXT-DECORATION: none
+}
+#utility A:hover {
+	TEXT-DECORATION: underline
+}
+#utility INPUT {
+	FONT-SIZE: xx-small; PADDING-TOP: 3px
+}
+#submenusep {
+	DISPLAY: block; FONT-SIZE: 1px; BACKGROUND: #ffffff; MARGIN: 1px 0px 1px 25px; WIDTH: auto; COLOR: #ffffff; LINE-HEIGHT: 1px; HEIGHT: 1px; TEXT-DECORATION: none
+}
+.toolbarbtn {
+	BORDER-RIGHT: #990000 2px solid; BORDER-TOP: #990000 2px solid; FONT-WEIGHT: bold; BORDER-LEFT: #990000 2px solid; COLOR: #990000; BORDER-BOTTOM: #990000 2px solid; BACKGROUND-COLOR: #fff3e7
+}
+.toolbarbtn:hover {
+	COLOR: #fff3e7; BACKGROUND-COLOR: #990000
+}
+H2 {
+	COLOR: #a0522d; FONT-FAMILY: 'Times New Roman'
+}
+A {
+	COLOR: maroon
+}
+A:active {
+	COLOR: maroon
+}
+A:visited {
+	COLOR: darkgreen
+}
+IMG {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none; POSITION: relative; BACKGROUND-COLOR: transparent
+}
+H3 {
+	COLOR: peru
+}
+#pagewidth {
+	MARGIN: 0px; WIDTH: 700px; TEXT-ALIGN: left
+}
+#layoutheader {
+	WIDTH: 100%; POSITION: relative; HEIGHT: 168px; BACKGROUND-COLOR: #ffffff
+}
+#leftcol {
+	FLOAT: left; WIDTH: 98px; POSITION: relative; BACKGROUND-COLOR: #9c0000
+}
+#twocols {
+	FLOAT: right; WIDTH: 700px; POSITION: relative
+}
+#rightcol {
+	FLOAT: right; WIDTH: 100px; POSITION: relative; BACKGROUND-COLOR: #ffffff
+}
+#maincol {
+	PADDING-LEFT: 10px; FLOAT: left; WIDTH: 600px; PADDING-TOP: 10px; POSITION: relative; BACKGROUND-COLOR: #ffffff
+}
+#footer {
+	CLEAR: both; PADDING-BOTTOM: 10px; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: center
+}
+ HTML #twocols {
+	HEIGHT: 1%
+}
+ HTML #wrapper {
+	HEIGHT: 1%
+}
+#twocols {
+	DISPLAY: block
+}
+#wrapper {
+	DISPLAY: block
+}
+
+@media Print    
+{
+#leftcol {
+	DISPLAY: none
+}
+#rightcol {
+	DISPLAY: none
+}
+#twocols {
+	FLOAT: none; WIDTH: 100%
+}
+#maincol {
+	FLOAT: none; WIDTH: 100%
+}
+
+}

@@ -1,0 +1,1691 @@
+Publication 517 (2005), Social Security and Other Information for Members of the Clergy and Religious Workers<!--[if 
+gte IE]> <![endif]--> Home  |  Contact IRS  |  About IRS  |  Site Map  |  
+Español  |  Help    
+Advanced Search   Search Tips       
+
+IRS Resources
+  Compliance & Enforcement 
+  Contact My Local Office 
+  e-file 
+  Forms and Publications 
+  Frequently Asked Questions 
+  News 
+  Taxpayer Advocacy 
+  Where To File 
+Publication 517 - Main Contents 
+
+
+
+Table of Contents
+  Social Security Coverage
+    Ministers 
+    Members of Religious Orders 
+    Christian Science Practitioners and Readers 
+    Religious Workers (Church Employees) 
+    U.S. Citizens and Resident and Nonresident Aliens 
+  Exemption From Self-Employment (SE) Tax
+    Ministers, Members of Religious Orders, and Christian Science Practitioners 
+    Members of Recognized Religious Sects 
+  Qualified Services
+    Ministers 
+    Members of Religious Orders 
+    Christian Science Practitioners and Readers 
+  Figuring Net Earnings From Self-Employment for SE Tax
+    Regular Method 
+    Nonfarm Optional Method 
+  Income Tax: Income and Expenses
+    Income Items 
+    Expense Items 
+    Income Tax Withholding and Estimated Tax 
+  Filing Your Return
+  Retirement Savings Arrangements
+    Deducting contributions to tax-sheltered annuity plans. 
+    More information. 
+  Earned Income Credit
+    Earned income for a minister with an approved Form 4361. 
+    Earned income for a minister whose income from qualified services is not 
+    exempt from SECA. 
+    Earned income for a member of a recognized religious sect with an approved 
+    Form 4029. 
+  Comprehensive Example
+    Form W-2 From Church 
+    Form W-2 From College 
+    Schedule C-EZ (Form 1040) 
+    Form 2106-EZ 
+    Schedule A (Form 1040) 
+    Schedule SE (Form 1040) 
+    Form 1040 
+    Attachment 1 
+    Attachment 2 
+  Worksheets
+Social Security Coverage 
+The services you perform in the exercise of your ministry are covered by social 
+security and Medicare under SECA. Your earnings for these services are subject 
+to self-employment tax (SE tax) unless one of the following applies. 
+  You are a member of a religious order who has taken a vow of poverty. 
+  You ask the Internal Revenue Service (IRS) for an exemption from SE tax for 
+  your services and the IRS approves your request. See Exemption From 
+  Self-Employment (SE) Tax, later. 
+  You are subject only to the social security laws of a foreign country under 
+  the provisions of a social security agreement between the United States and 
+  that country. For more information, see Binational Social Security 
+  (Totalization) Agreements in Publication 54. 
+Your earnings that are not from the exercise of your ministry may be subject to 
+social security tax under FICA or SECA according to the rules that apply to 
+taxpayers in general. See Qualified Services, later. 
+Ministers
+If you are a minister of a church, your earnings for the services you perform in 
+your capacity as a minister are subject to SE tax unless you have requested and 
+received an exemption. See Exemption From Self-Employment (SE) Tax, later. These 
+earnings are subject to SE tax whether you are an employee of your church or a 
+self-employed person under the common law rules. For the specific services 
+covered, see Qualified Services, later. 
+Ministers Defined 
+Ministers are individuals who are duly ordained, commissioned, or licensed by a 
+religious body constituting a church or church denomination. They are given the 
+authority to conduct religious worship, perform sacerdotal functions, and 
+administer ordinances or sacraments according to the prescribed tenets and 
+practices of that church or denomination. 
+If a church or denomination ordains some ministers and licenses or commissions 
+others, anyone licensed or commissioned must be able to perform substantially 
+all the religious functions of an ordained minister to be treated as a minister 
+for social security purposes. 
+Employment Status for Other Tax Purposes 
+Even though for social security tax purposes, you are considered a self-employed 
+individual in performing your ministerial services, you may be considered an 
+employee for income tax or retirement plan purposes. For income tax or 
+retirement plan purposes, some of your income may be considered self-employment 
+income and other income may be considered wages. 
+Common-law employee.   Under common law rules, you are considered either an 
+employee or a self-employed person depending on all the facts and circumstances. 
+Generally, you are an employee if your employer has the legal right to control 
+both what you do and how you do it, even if you have considerable discretion and 
+freedom of action. For more information about the common-law rules, see 
+Publication 15-A, Employer's Supplemental Tax Guide. 
+  If you are employed by a congregation for a salary, you are generally a 
+common-law employee and income from the exercise of your ministry is considered 
+wages for income tax purposes. However, amounts received directly from members 
+of the congregation, such as fees for performing marriages, baptisms, or other 
+personal services, are considered self-employment income. 
+Example.
+A church hires and pays you a salary to perform ministerial services subject to 
+its control. Under the common-law rules, you are an employee of the church while 
+performing those services. 
+Form SS-8.   If you are not certain whether you are an employee or a 
+self-employed person, you can get a determination from the IRS by filing Form 
+SS-8. 
+Members of Religious Orders
+If you are a member of a religious order who has not taken a vow of poverty, 
+your earnings for qualified services you performed as a member of the order are 
+subject to SE tax. See Qualified Services, later. This does not apply if you 
+have requested and received an exemption as discussed under Exemption From 
+Self-Employment (SE) Tax, later. 
+Vow of poverty.   If you are a member of a religious order who has taken a vow 
+of poverty, you are exempt from paying SE tax on your earnings for qualified 
+services (defined later) you perform as an agent of your church or its agencies. 
+For income tax purposes, the earnings are tax free to you. Your earnings are 
+considered the income of the religious order. 
+Services covered under FICA at the election of the order.   Even if you have 
+taken a vow of poverty, the services you perform for your church or its agencies 
+may be covered under social security. Your services are covered if your order, 
+or an autonomous subdivision of the order, elects social security coverage for 
+its current and future vow-of-poverty members. 
+  The order or subdivision elects coverage by filing Form SS-16. It can elect 
+coverage for certain vow-of-poverty members for a retroactive period of up to 20 
+calendar quarters before the quarter in which it files the certificate. If the 
+election is made, the order or subdivision pays both the employer's and 
+employee's share of the tax. You do not pay. 
+Services performed outside the order.   Even if you are a member of a religious 
+order who has taken a vow of poverty and are required to turn over to the order 
+amounts you earn, your earnings are subject to federal income tax withholding 
+and employment (FICA) tax if you: 
+  Work for an organization outside your religious community, and
+  Perform work that is not required by, or done on behalf of, the order.
+  In this case, you are considered an employee of that outside organization. You 
+may, however, be able to take a charitable deduction for the amount you turn 
+over to the order. See Publication 526, Charitable Contributions. 
+Lay employees.   Lay employees generally are covered by social security. 
+However, see Election To Exclude Church Employees From FICA Coverage, later, 
+under Religious Workers (Church Employees). 
+Rulings.   Organizations and individuals may request rulings from the IRS on 
+whether they are religious orders, or members of a religious order, 
+respectively, for FICA tax, SE tax, and federal income tax withholding purposes. 
+To request a ruling, follow the procedures in Revenue Procedure 2005-1, which is 
+published in Internal Revenue Bulletin 2005-1. 
+  You can read this Revenue Procedure at most IRS offices or at 
+www.irs.gov/pub/irs-irbs/irb05-01.pdf. 
+  To subscribe to the Bulletin, you can order it on the Internet at 
+http://bookstore.gpo.gov/subscriptions/index.html. You also can write to: 
+
+
+Superintendent of Documents 
+P.O. Box 371954 
+Pittsburgh, PA 15250-7954. 
+Christian Science Practitioners and Readers
+Your earnings from services you performed in your profession as a Christian 
+Science practitioner or reader are generally subject to SE tax. However, you can 
+request an exemption as discussed under Exemption From Self-Employment (SE) Tax, 
+later. 
+Practitioners.   Christian Science practitioners are members in good standing of 
+the Mother Church, The First Church of Christ, Scientist, in Boston, 
+Massachusetts, who practice healing according to the teachings of Christian 
+Science. Christian Science practitioners are specifically exempted from 
+licensing by state laws. 
+  Some Christian Science practitioners also are Christian Science teachers or 
+lecturers. Income from teaching or lecturing is considered the same as income 
+from their work as practitioners. 
+Readers.   Christian Science readers are considered the same as ordained, 
+commissioned, or licensed ministers. 
+Religious Workers (Church Employees)
+If you are a religious worker (a church employee) and are not in one of the 
+classes already discussed, your wages are generally subject to social security 
+and Medicare tax (FICA) and not to SE tax. Some exceptions are discussed next. 
+Election By Church To Exclude Their Employees From FICA Coverage 
+Churches and qualified church-controlled organizations (church organizations) 
+that are opposed for religious reasons to the payment of social security and 
+Medicare taxes can elect to exclude their employees from FICA coverage. If you 
+are an employee of a church or church organization that makes this election and 
+pays you $108.28 or more in wages, you must pay SE tax on those wages. 
+Churches and church organizations make this election by filing two copies of 
+Form 8274, Certification by Churches and Qualified Church-Controlled 
+Organizations Electing Exemption From Employer Social Security and Medicare 
+Taxes. For more information about making this election, see Form 8274. 
+Table 2. The Self-Employment Tax Exemption Application and Approval Process 
+       Who Can Apply 
+       Ministers, Members of Religious Orders, and Christian Science 
+      Practitioners Member of Recognized 
+      Religious Sect 
+      How File Form 4361 File Form 4029 
+      When File by the due date (including extensions) of your income tax return 
+      for the second tax year in which you had at least $400 of net earnings 
+      from self-employment (at least part from qualified services) File anytime 
+      Approval If approved, you will receive an approved copy of Form 4361 If 
+      approved, you will receive an approved copy of Form 4029 
+      Effective Date For all tax years after 1967 in which you have at least 
+      $400 of net earnings from self-employment First day of first quarter after 
+      the quarter in which Form 4029 was filed 
+
+Table 2. The Self-Employment Tax Exemption Application and Approval Process 
+       Who Can Apply 
+       Ministers, Members of Religious Orders, and Christian Science 
+      Practitioners Member of Recognized 
+      Religious Sect 
+      How File Form 4361 File Form 4029 
+      When File by the due date (including extensions) of your income tax return 
+      for the second tax year in which you had at least $400 of net earnings 
+      from self-employment (at least part from qualified services) File anytime 
+      Approval If approved, you will receive an approved copy of Form 4361 If 
+      approved, you will receive an approved copy of Form 4029 
+      Effective Date For all tax years after 1967 in which you have at least 
+      $400 of net earnings from self-employment First day of first quarter after 
+      the quarter in which Form 4029 was filed 
+
+Election by Church Employees Who Are Opposed to Social Security and Medicare 
+You may be able to choose to be exempt from social security and Medicare taxes, 
+including the SE tax, if you work for a church (or church-controlled non-profit 
+division) that does not pay the employer's part of the social security tax on 
+wages. You can make the choice if you are a member of a religious sect or 
+division opposed to social security and Medicare. This exemption does not apply 
+to your service, if any, as a minister of a church or as a member of a religious 
+order. 
+You can make this choice by filing Form 4029. See Requesting exemption—Form 
+4029, later, under Members of Recognized Religious Sects. 
+U.S. Citizens and Resident and Nonresident Aliens
+To be covered under the SE tax provisions (SECA), individuals generally must be 
+citizens or resident aliens of the United States. Nonresident aliens are not 
+covered under SECA. 
+To determine your alien status, see Publication 519, U.S. Tax Guide for Aliens. 
+Residents of Puerto Rico, the Virgin Islands, Guam, the CNMI, and American 
+Samoa.   If you are a resident of one of these U.S. possessions and not a U.S. 
+citizen, for SE tax purposes you are treated the same as a citizen or resident 
+alien of the United States. For information on figuring the tax, see Figuring 
+Net Earnings From Self-Employment for SE Tax, later. 
+Exemption From Self-Employment (SE) Tax 
+You can request an exemption from SE tax if you are one of the following. 
+  A minister.
+  A member of a religious order who has not taken a vow of poverty.
+  A Christian Science practitioner.
+  A member of a recognized religious sect.
+
+Members of religious orders who have taken a vow of poverty are exempt from 
+paying SE tax, as discussed earlier under Members of Religious Orders. They do 
+not have to request the exemption. 
+Who cannot be exempt.   You cannot be exempt from SE tax if you made one of the 
+following elections to be covered under social security. These elections are 
+irrevocable. 
+  You elected to be covered under social security by filing Form 2031, 
+  Revocation of Exemption From Self-Employment Tax for Use by Ministers, Members 
+  of Religious Orders, and Christian Science Practitioners, for your 1986, 1987, 
+  2000, or 2001 tax year. 
+  You elected before 1968 to be covered under social security for your 
+  ministerial services.
+Requesting exemption.   Table 2 briefly summarizes the procedure for requesting 
+exemption from the SE tax. More detailed explanations follow. 
+
+If you are a minister, member of a religious order, or Christian Science 
+practitioner, an approved exemption only applies to earnings you receive for 
+qualified services, discussed later. It does not apply to any other 
+self-employment income. 
+Ministers, Members of Religious Orders, and Christian Science Practitioners
+To claim the exemption from SE tax, you must meet all of the following 
+conditions. 
+  You file Form 4361, described later under Requesting exemption—Form 4361. 
+  You are conscientiously opposed to public insurance because of your individual 
+  religious considerations (not because of your general conscience), or you are 
+  opposed because of the principles of your religious denomination. 
+  You file for other than economic reasons. 
+  You inform the ordaining, commissioning, or licensing body of your church or 
+  order that you are opposed to public insurance if you are a minister or a 
+  member of a religious order (other than a vow-of-poverty member). This 
+  requirement does not apply to Christian Science practitioners. 
+  You establish that the organization that ordained, commissioned, or licensed 
+  you, or your religious order, is a tax-exempt religious organization. 
+  You establish that the organization is a church or a convention or association 
+  of churches. 
+  You did not make an election discussed earlier under Who cannot be exempt. 
+  You sign and return the statement the IRS mails to you to certify that you are 
+  requesting an exemption based on the grounds listed on the statement. 
+Requesting exemption—Form 4361.   To request exemption from SE tax, file Form 
+4361 in triplicate (original and two copies) with the IRS. 
+   
+
+The IRS will return to you a copy of the Form 4361 that you filed indicating 
+whether your exemption has been approved. If it is approved, keep the approved 
+copy in your permanent records. 
+When to file.   File Form 4361 by the date your income tax return is due, 
+including extensions, for the second tax year in which you have net earnings 
+from self-employment of at least $400. This rule applies if any part of your net 
+earnings for each of the two years came from your services as a: 
+  Minister,
+  Member of a religious order, or
+  Christian Science practitioner.
+The two years do not have to be consecutive tax years. 
+   
+
+The approval process can take some time, so you should file Form 4361 as soon as 
+possible. 
+Example 1.
+Rev. Lawrence Jaeger, a clergyman ordained in 2005, has net earnings of $450 in 
+2005 and $500 in 2006. He must file his application for exemption by the due 
+date, including extensions, for his 2006 income tax return. However, if Rev. 
+Jaeger does not receive IRS approval for an exemption by April 16, 2007, his SE 
+tax for 2006 is due by that date. 
+Example 2.
+Rev. Louise Wolfe has $300 in net earnings as a minister in 2005, but earned 
+more than $400 in both 2004 and 2006. She must file her application for 
+exemption by the due date, including extensions, for her 2006 income tax return. 
+However, if she does not receive IRS approval for an exemption by April 16, 
+2007, her SE tax for 2006 is due by that date. 
+Example 3.
+In 2003, Rev. David Moss was ordained a minister and had $700 in net earnings as 
+a minister. In 2004, he received $1,000 as a minister, but his related expenses 
+were over $1,000. Therefore, he had no net earnings as a minister in 2004. Also 
+in 2004, he opened a book store and had $8,000 in net self-employment earnings 
+from the store. In 2005, he had net earnings of $1,500 as a minister and $10,000 
+net self-employment earnings from the store. 
+Rev. Moss had net earnings from self-employment in 2003 and 2005 that were $400 
+or more each year, and part of the earnings in each of those years was for his 
+services as a minister, so he must file his application for exemption by the due 
+date, including extensions, for his 2005 income tax return. 
+Death of individual.   The right to file an application for exemption ends with 
+an individual's death. A surviving spouse, executor, or administrator cannot 
+file an exemption application for a deceased clergy member. 
+Effective date of exemption.   An approved exemption is effective for all tax 
+years after 1967 in which you have $400 or more of net earnings from 
+self-employment and any part of the earnings is for services as a member of the 
+clergy. Once the exemption is approved, it is irrevocable. 
+Example.
+Rev. Trudy Austin, ordained in 2004, had $400 or more in net earnings as a 
+minister in both 2004 and 2005. She files an application for exemption on 
+February 18, 2006. If an exemption is granted, it is effective for 2004 and the 
+following years. 
+Refunds of SE tax.   If, after receiving an approved Form 4361, you find that 
+you overpaid SE tax, you can file a claim for refund on Form 1040X before the 
+period of limitations ends. This is generally within 3 years from the date you 
+filed the return or within 2 years from the date you paid the tax, whichever is 
+later. A return you filed, or tax you paid, before the due date is considered to 
+have been filed or paid on the due date. 
+  If you file a claim after the 3-year period but within 2 years from the time 
+you paid the tax, the credit or refund will not be more than the tax you paid 
+within the 2 years immediately before you file the claim. 
+Members of Recognized Religious Sects
+If you are a member of a recognized religious sect, or a division of a 
+recognized religious sect, you can apply for an exemption from payment of social 
+security and Medicare taxes on both your wages and self-employment income. 
+Exception.   If you received social security benefits or payments, or anyone 
+else received these benefits or payments based on your wages or self-employment 
+income, you cannot apply. However, if you pay your benefits back, you may be 
+considered for exemption. Contact your local Social Security office to find out 
+the amount to be paid back. 
+Eligibility requirements.   To claim this exemption from SE tax, all the 
+following requirements must be met. 
+  You must file Form 4029, discussed later under Requesting exemption—Form 4029.
+  As a follower of the established teachings of the sect or division, you must 
+  be conscientiously opposed to accepting benefits of any private or public 
+  insurance that makes payments for death, disability, old age, retirement, or 
+  medical care, or provides services for medical care. 
+  You must waive all rights to receive any social security payment or benefit 
+  and agree that no benefits or payments will be made to anyone else based on 
+  your wages and self-employment income. 
+  The Commissioner of Social Security must determine that: 
+    Your sect or division has the established teachings as in (2) above,
+    It is the practice, and has been for a substantial period of time, for 
+    members of the sect or division to provide for their dependent members in a 
+    manner that is reasonable in view of the members' general level of living, 
+    and 
+    The sect or division has existed at all times since December 31, 1950.
+  If you have previously received approval for exemption from SE tax, you are 
+considered to have met the requirements and do not need to apply for this 
+exemption. 
+Requesting exemption—Form 4029.   To request the exemption, file Form 4029 in 
+triplicate with the Social Security Administration at the address shown on the 
+form. The sect or division must complete part of the form. 
+   
+
+The IRS will return to you a copy of the Form 4029 that you filed indicating 
+whether your exemption has been approved. If it is approved, keep the approved 
+copy in your permanent records. 
+When to file.   You can file Form 4029 at any time. 
+Effective date of exemption.   An approved exemption generally is effective on 
+the first day of the first quarter after the quarter in which Form 4029 is 
+filed. It does not apply to any tax year beginning before you meet the 
+eligibility requirements discussed earlier. 
+  The exemption will end if you fail to meet the eligibility requirements or if 
+the Commissioner of Social Security determines that the sect or division fails 
+to meet them. You must notify the IRS within 60 days if you are no longer a 
+member of the religious group, or if you no longer follow the established 
+teachings of this group. The exemption will end on the date you notify the IRS. 
+Refunds of SE tax paid.   To get a refund of any SE tax you paid while the 
+exemption was in effect, file Form 1040X. For information on filing this form, 
+see Refunds of SE tax under Ministers, Members of Religious Orders, and 
+Christian Science Practitioners, earlier. 
+Exemption From FICA Taxes 
+Generally, under FICA, the employer and the employee each pay half of the social 
+security and Medicare tax. Both the employee and the employer, if they meet the 
+eligibility requirements discussed earlier, can apply to be exempt from their 
+share of FICA taxes on wages paid by the employer to the employee. 
+A partnership in which each partner holds a religious exemption from social 
+security and Medicare is an employer for this purpose. 
+
+If the employer's application is approved, the exemption will apply only to FICA 
+taxes on wages paid to employees who also received an approval of identical 
+applications. 
+Information for employers.   If you have an approved Form 4029 and you have an 
+employee who has an approved Form 4029, do not report wages you paid to the 
+employee as social security and Medicare wages. 
+  If you have an employee who does not have an approved Form 4029, you must 
+withhold the employee's share of social security and Medicare taxes and pay the 
+employer's share. 
+Form W-2.   When preparing a Form W-2 for an employee with an approved Form 
+4029, write “Form 4029” in the box marked “Other.” Do not make any entries in 
+boxes 3, 4, 5, or 6. 
+Forms 941 and 943.   If both you and your employee have received approved Forms 
+4029, do not include these exempt wages on Form 941, Employer's Quarterly 
+Federal Tax Return, or on Form 943, Employer's Annual Federal Tax Return for 
+Agricultural Employees. 
+  On Form 941, write “Form 4029” to the left of the entry spaces on the lines 
+for Taxable social security wages, Taxable social security tips, and Taxable 
+Medicare wages and tips. Check the box on line 4 to show that the wages are not 
+subject to these taxes. 
+  On Form 943, write “Form 4029” to the left of the entry spaces on the lines 
+for Total wages subject to social security tax, and Total wages subject to 
+Medicare tax. 
+Effective date.   An approved exemption from FICA becomes effective on the first 
+day of the first calendar quarter after the quarter in which Form 4029 is filed. 
+The exemption will end on the last day of the calendar quarter before the 
+quarter in which the employer, employee, sect, or division fails to meet the 
+requirements. 
+Qualified Services 
+Qualified services, in general, are the services you perform in the exercise of 
+your ministry or in the exercise of your duties as required by your religious 
+order. Income you receive for performing qualified services is subject to SE tax 
+unless you have an exemption as explained earlier. If you have an exemption, 
+only the income you receive for performing qualified services is exempt. The 
+exemption does not apply to any other self-employment income. 
+The following discussions provide more detailed information on qualified 
+services of ministers, members of religious orders, and Christian Science 
+practitioners and readers. 
+Ministers
+Most services you perform as a minister, priest, rabbi, etc., are qualified 
+services. These services include: 
+  Performing sacerdotal functions,
+  Conducting religious worship, and
+  Controlling, conducting, and maintaining religious organizations (including 
+  the religious boards, societies, and other integral agencies of such 
+  organizations) that are under the authority of a religious body that is a 
+  church or denomination. 
+You are considered to control, conduct, and maintain a religious organization if 
+you direct, manage, or promote the organization's activities. 
+A religious organization is under the authority of a religious body that is a 
+church or denomination if it is organized for and dedicated to carrying out the 
+principles of a faith according to the requirements governing the creation of 
+institutions of the faith. 
+Services for nonreligious organizations.   Your services for a nonreligious 
+organization are qualified services if the services are assigned or designated 
+by your church. Assigned or designated services qualify even if they do not 
+involve performing sacerdotal functions or conducting religious worship. 
+  If your services are not assigned or designated by your church, they are 
+qualified services only if they involve performing sacerdotal functions or 
+conducting religious worship. 
+Services that are not part of your ministry.   Income from services that are not 
+qualified services is generally subject to social security and Medicare tax 
+withholding (not self-employment tax) under the rules that apply to workers in 
+general. The following are not qualified services. 
+  Services you perform for nonreligious organizations other than the services 
+  stated earlier. 
+  Services you perform as a duly ordained, commissioned, or licensed minister of 
+  a church as an employee of the United States, the District of Columbia, a 
+  foreign government, or any of their political subdivisions. This is true even 
+  if you are performing sacerdotal functions or conducting religious worship. 
+  (For example, if you perform services as a chaplain in the Armed Forces of the 
+  United States, the services are not qualified services.) 
+  Services you perform in a government- owned and operated hospital. (These 
+  services are considered performed by a government employee, not by a minister 
+  as part of the ministry.) However, services that you perform at a 
+  church-related hospital or health and welfare institution, or a private 
+  nonprofit hospital, are considered to be part of the ministry and are 
+  considered qualified services. 
+Books or articles.   Writing religious books or articles is considered to be in 
+the exercise of your ministry and is considered qualified services. 
+  This rule also applies to members of religious orders and to Christian Science 
+practitioners. 
+Members of Religious Orders
+Services you perform as a member of a religious order in the exercise of duties 
+required by the order are qualified services. The services are qualified because 
+you perform them as an agent of the order. 
+For example, if you are directed to perform services for another agency of the 
+supervising church or an associated institution, you are considered to perform 
+the services as an agent of the order. 
+However, if you are directed to work outside the order, the employment will not 
+be considered a duty required by the order unless: 
+  Your services are the kind that are ordinarily performed by members of the 
+  order, and
+  Your services are part of the duties that must be exercised for, or on behalf 
+  of, the religious order as its agent. 
+Effect of employee status.   Ordinarily, if your services are not considered 
+directed or required of you by the order, you and the outside party for whom you 
+work are considered employee and employer. In this case, your earnings from the 
+services are taxed under the rules that apply to workers in general, not under 
+the rules for services provided as agent for the order. This is true even if you 
+have taken a vow of poverty. 
+Example.
+Mark Brown and Elizabeth Green are members of a religious order and have taken 
+vows of poverty. They renounce all claims to their earnings. The earnings belong 
+to the order. 
+Mark is a licensed attorney. The superiors of the order instructed him to get a 
+job with a law firm. Mark joined a law firm as an employee and, as he requested, 
+the firm made the salary payments directly to the order. 
+Elizabeth is a secretary. The superiors of the order instructed her to accept a 
+job with the business office of the church that supervises the order. Elizabeth 
+took the job and gave all her earnings to the order. 
+Mark's services are not duties required by the order. His earnings are subject 
+to social security and Medicare tax under FICA and federal income tax. 
+Elizabeth's services are considered duties required by the order. She is acting 
+as an agent of the order and not as an employee of a third party. She does not 
+include the earnings in gross income, and they are not subject to income tax 
+withholding, social security and Medicare tax, or SE tax. 
+Christian Science Practitioners and Readers
+The exemption from SE tax, discussed earlier, applies only to the services a 
+Christian Science practitioner or reader performs in the exercise of his or her 
+profession. If you do not have an exemption, amounts you receive for performing 
+these qualified services are subject to SE tax. 
+Figuring Net Earnings From Self-Employment for SE Tax 
+There are two methods for figuring your net earnings from self-employment as a 
+minister, member of a religious order, Christian Science practitioner, or church 
+employee. 
+  Regular method.
+  Nonfarm optional method.
+
+You may find Worksheets 1 through 4 helpful in figuring your net earnings from 
+self-employment. Blank worksheets are in the back of this publication, after the 
+Comprehensive Example. 
+Regular Method
+Most people use the regular method. Under this method, you figure your net 
+earnings from self-employment by totaling your gross income for services you 
+performed as a minister, a member of a religious order who has not taken a vow 
+of poverty, or a Christian Science practitioner. Then, you subtract your 
+allowable business deductions and multiply the difference by .9235 (92.35%). Use 
+Schedule SE (Form 1040) to figure your net earnings and SE tax. 
+If you are an employee of a church that elected to exclude you from FICA 
+coverage, figure net earnings by multiplying your church wages shown on Form W-2 
+by .9235. Do not reduce your wages by any business deductions when making this 
+computation. Use Section B of Schedule SE (Form 1040), to figure your net 
+earnings and SE tax. 
+
+If you have an approved exemption, or you are automatically exempt, do not 
+include the income or deductions from qualified services in figuring your net 
+earnings from self-employment. 
+Amounts included in gross income.   To figure your net earnings from 
+self-employment (on Schedule SE (Form 1040)), include in gross income: 
+  Salaries and fees for your qualified services (discussed earlier), 
+  Offerings you receive for marriages, baptisms, funerals, masses, etc.,
+  The value of meals and lodging provided to you, your spouse, and your 
+  dependents for your employer's convenience,
+  The fair rental value of a parsonage provided to you (including the cost of 
+  utilities that are furnished) and the rental allowance (including an amount 
+  for payment of utilities) paid to you, and 
+  Any amount a church pays toward your income tax or SE tax, other than 
+  withholding the amount from your salary. This amount is also subject to income 
+  tax. 
+  For the income tax treatment of items (2) and (4), see Income Tax: Income and 
+Expenses, later. 
+Example.
+Pastor Roger Adams receives an annual salary of $16,500 as a full-time minister. 
+The $16,500 includes $1,500 that is designated as a rental allowance to pay 
+utilities. His church owns a parsonage that has a fair rental value of $5,200 
+per year. Pastor Adams is given the use of the parsonage. He is not exempt from 
+SE tax. He must include $21,700 ($16,500 plus $5,200) when figuring net earnings 
+from self-employment. 
+The results would be the same if, instead of the use of the parsonage and 
+receipt of the rental allowance for utilities, Pastor Adams had received an 
+annual salary of $21,700 of which $6,700 ($1,500 plus $5,200) per year was 
+designated as a rental allowance. 
+Overseas duty.   Your net earnings from self-employment are determined without 
+any foreign earned income exclusion or the foreign housing exclusion or 
+deduction if you are a U.S. citizen or resident alien who is serving abroad and 
+living in a foreign country. 
+  For information on excluding foreign earned income or the foreign housing 
+amount, get Publication 54. 
+Example.
+Paul Jones was the minister of a U.S. church in Mexico. He earned $22,000 and 
+was able to exclude it all for income tax purposes under the foreign earned 
+income exclusion. However, Mr. Jones must include $22,000 when figuring net 
+earnings from self-employment. 
+Specified U.S. possessions.   The exclusion from gross income for amounts 
+derived in American Samoa or Puerto Rico does not apply in computing net 
+earnings from self-employment. Also see Residents of Puerto Rico, the Virgin 
+Islands, Guam, the CNMI, and American Samoa, earlier, under U.S. Citizens and 
+Resident and Nonresident Aliens. 
+Amounts not included in gross income.   Do not include the following amounts in 
+gross income when figuring your net earnings from self-employment. 
+  Offerings that others made to the church. 
+  Contributions by your church to a tax-sheltered annuity plan set up for you, 
+  including any salary reduction contributions (elective deferrals), that are 
+  not included in your gross income. 
+  Pension payments or retirement allowances you receive for your past qualified 
+  services. 
+  The rental value of a parsonage or a parsonage allowance provided to you after 
+  you retire. 
+Allowable deductions.   When figuring your net earnings from self-employment, 
+deduct all your nonemployee ministerial expenses. Also, deduct all your 
+allowable unreimbursed trade or business expenses that you incur in performing 
+ministerial services as a common-law employee of the church. Include this net 
+amount on Schedule SE (Form 1040), line 2. 
+Nonemployee ministerial expenses.   These are qualified expenses you incurred 
+while not working as a common-law employee of the church. They include expenses 
+incurred in performing marriages and baptisms, and in delivering speeches. 
+Reimbursement arrangements.   If you received an advance, allowance, or 
+reimbursement for your expenses, how you report this amount and your expenses 
+depends on whether the reimbursement was paid to you under an accountable plan 
+or a nonaccountable plan. If you are not sure if you are reimbursed from an 
+accountable plan or a nonaccountable plan, ask your employer. 
+Accountable plans.   To be an accountable plan, your employer's reimbursement 
+arrangement must include all three of the following rules. 
+  Your expenses must have a business connection — that is, you must have paid or 
+  incurred deductible expenses while performing services as an employee of your 
+  employer. 
+  You must adequately account to your employer for these expenses within a 
+  reasonable period of time.
+  You must return any excess reimbursement or allowance within a reasonable 
+  period of time.
+  Generally, if your expenses equal your reimbursement, you have no deduction 
+and the reimbursement is not reported on your Form W-2. If your expenses are 
+more than your reimbursement, you can deduct your excess expenses for SE tax and 
+income tax purposes. 
+Nonaccountable plan.   A nonaccountable plan is a reimbursement arrangement that 
+does not meet at least one of the three rules listed under Accountable plans. In 
+addition, even if your employer has an accountable plan, the following payments 
+will be treated as being paid under a nonaccountable plan. 
+  Excess reimbursements you fail to return to your employer.
+  Reimbursement of nondeductible expenses related to your employer's business.
+  Your employer will combine any reimbursement paid to you under a 
+nonaccountable plan with your wages, salary, or other compensation. Your 
+employer will report the combined total in box 1 of your Form W-2. You can 
+deduct your related expenses (for SE tax and income tax purposes) regardless of 
+whether they are more than, less than, or equal to your reimbursement. 
+  For more information on accountable and nonaccountable plans, see Publication 
+463, Travel, Entertainment, Gift, and Car Expenses. 
+Husband and Wife Missionary Team 
+If a husband and wife are both duly ordained, commissioned, or licensed 
+ministers of a church and have an agreement that each will perform specific 
+services for which they are paid jointly or separately, they must divide the 
+self-employment income according to the agreement. 
+If the agreement is with one spouse only and the other spouse is not paid for 
+any specific duties, amounts received for their services are included in only 
+the self-employment income of the spouse having the agreement. 
+Maximum Earnings Subject to SE Tax 
+For 2005, the maximum net earnings from self-employment subject to social 
+security (old age, survivors, and disability insurance) tax is $90,000 minus any 
+wages and tips you earned that were subject to social security tax. The tax rate 
+for the social security part is 12.4%. In addition, all of your net earnings are 
+subject to the Medicare (hospital insurance) part of the SE tax. This tax rate 
+is 2.9%. The combined self-employment tax rate is 15.3%. 
+Nonfarm Optional Method
+You may be able to use the nonfarm optional method for figuring your net 
+earnings from self-employment. In general, the nonfarm optional method is 
+intended to permit continued coverage for social security and Medicare purposes 
+when your income for the tax year is low. 
+You may use the nonfarm optional method if you meet all the following tests. 
+  You are self-employed on a regular basis. This means that your actual net 
+  earnings from self-employment were $400 or more in at least 2 of the 3 tax 
+  years before the one for which you use this method. The net earnings can be 
+  from either farm or nonfarm earnings or both. 
+  You have used this method less than 5 years. (There is a 5-year lifetime 
+  limit.) The years do not have to be one after another.
+  Your net nonfarm profits were: 
+    Less than $1,733, and
+    Less than 72.189% of your gross nonfarm income.
+If you meet the three tests, use Table 3 to figure your net earnings from 
+self-employment under the nonfarm optional method. 
+      IF your gross nonfarm income is ... THEN your net earnings are equal to 
+      ... 
+      $2,400 or less Two-thirds of your gross nonfarm income. 
+      More than $2,400 $1,600. 
+
+Actual net earnings.   Your actual net earnings are 92.35% of your total 
+earnings subject to SE tax (multiply total earnings subject to SE tax by 92.35% 
+(.9235) to get actual net earnings). Actual net earnings are equivalent to net 
+earnings using the “Regular Method.” 
+More information.   For more information on the nonfarm optional method, see 
+Publication 334 and the Schedule SE (Form 1040) instructions. 
+Income Tax: Income and Expenses 
+Some income and expense items are treated the same for income tax and SE tax 
+purposes and some are treated differently. 
+Income Items
+The tax treatment of offerings and fees, outside earnings, rental allowances, 
+rental value of parsonage, pay of members of religious orders, and foreign 
+earned income is discussed here. 
+Offerings and Fees 
+If you are a member of the clergy, you must include in your income offerings and 
+fees you receive for marriages, baptisms, funerals, masses, etc., in addition to 
+your salary. If the offering is made to the religious institution, it is not 
+taxable to you. 
+Outside Earnings 
+If you are a member of a religious organization and you give your outside 
+earnings to the organization, you still must include the earnings in your 
+income. However, you may be entitled to a charitable contribution deduction for 
+the amount paid to the organization. For more information see Publication 526. 
+Exclusion of Rental Allowance and Fair Rental Value of a Parsonage 
+Ordained, commissioned, or licensed ministers of the gospel may be able to 
+exclude the rental allowance or fair rental value of a parsonage that is 
+provided to them as pay for their services. Services include: 
+  Qualified services, discussed earlier,
+  Administrative duties and teaching at theological seminaries, and
+  The ordinary duties of a minister performed as an employee of the United 
+  States (other than as a chaplain in the Armed Forces), a state, possession, 
+  political subdivision, or the District of Columbia. 
+This exclusion applies only for income tax purposes. It does not apply for SE 
+tax purposes, as discussed earlier under Figuring Net Earnings From 
+Self-Employment for SE Tax. 
+Designation requirement.   The church or organization that employs you must 
+officially designate the payment as a housing allowance before the payment is 
+made. A definite amount must be designated. The amount of the housing allowance 
+cannot be determined at a later date. 
+  If you are employed and paid by a local congregation, a resolution by a 
+national church agency of your denomination does not effectively designate a 
+housing allowance for you. The local congregation must officially designate the 
+part of your salary that is to be a housing allowance. However, a resolution of 
+a national church agency can designate your housing allowance if you are 
+directly employed by the agency. If no part has been officially designated, you 
+must include your total salary in your income. 
+Rental allowances.   If you receive in your pay an amount officially designated 
+as a rental allowance (including an amount to pay utility costs), you can 
+exclude the allowance from your gross income if: 
+  The amount is used to provide or rent a home, and
+  The amount is not more than reasonable pay for your services. 
+  The amount you exclude cannot be more than the fair rental value of the home, 
+including furnishings, plus the cost of utilities. 
+Fair rental value of parsonage.   You can exclude from gross income the fair 
+rental value of a house or parsonage, including utilities, furnished to you as 
+part of your pay. However, the exclusion cannot be more than the reasonable pay 
+for your services. If you pay for the utilities, you can exclude any allowance 
+designated for utility costs, up to your actual cost. 
+Example.
+Rev. Joanna Baker is a full-time minister at the Central Mission Church. The 
+church allows her to use the parsonage that has an annual fair rental value of 
+$4,800. The church pays her an annual salary of $13,200, of which $1,200 is 
+designated for utility costs. Her utility costs during the year were $1,000. 
+For income tax purposes, Rev. Baker excludes $5,800 from gross income (the fair 
+rental value of the parsonage plus $1,000 from the allowance for utility costs). 
+She will report $12,200 ($12,000 salary and $200 of unused utility allowance). 
+Her income for SE tax purposes, however, is $18,000 ($13,200 salary + $4,800 
+fair rental value of the parsonage). 
+Home ownership.   If you own your home and you receive as part of your pay a 
+housing or rental allowance, you may exclude from gross income the smallest of 
+the following. 
+  The amount actually used to provide a home, 
+  The amount officially designated as a rental allowance, or
+  The fair rental value of the home, including furnishings, utilities, garage, 
+  etc. 
+Excess rental allowance.   You must include in gross income the amount of any 
+rental allowance that is more than the smallest of your reasonable pay, the fair 
+rental value of the home plus utilities, or the amount actually used to provide 
+a home. 
+  Include the excess rental allowance on Form 1040, line 7. 
+
+You may deduct the home mortgage interest and real estate taxes you pay on your 
+home even though all or part of the mortgage is paid with funds you get through 
+a tax-free rental or parsonage allowance. 
+Retired ministers.   If you are a retired minister, you exclude from your gross 
+income the rental value of a home (plus utilities) furnished to you by your 
+church as a part of your pay for past services, or the part of your pension that 
+was designated as a rental allowance. However, a minister's surviving spouse 
+cannot exclude the rental value unless the rental value is for ministerial 
+services he or she performs or performed. 
+Teachers or administrators.   If you are a minister employed as a teacher or 
+administrator by a church school, college, or university, you are performing 
+ministerial services for purposes of the housing exclusion. However, if you 
+perform services as a teacher or administrator on the faculty of a nonchurch 
+college, you cannot exclude from your income a housing allowance or the value of 
+a home that is provided to you. 
+   
+
+If you live in faculty lodging as an employee of an educational institution or 
+academic health center, all or part of the value of that lodging may be 
+nontaxable under a different rule. See Faculty lodging in the discussion on 
+meals and lodging under Fringe Benefits, in Publication 525. 
+  If you serve as a minister of music or minister of education, or serve in an 
+administrative or other function of your religious organization, but are not 
+authorized to perform substantially all of the religious duties of an ordained 
+minister in your church (even if you are commissioned as a minister of the 
+gospel), the housing exclusion does not apply to you. 
+Theological students.   If you are a theological student serving a required 
+internship as a part-time or assistant pastor, you cannot exclude a parsonage or 
+rental allowance from your income unless you are ordained, commissioned, or 
+licensed as a minister. 
+Traveling evangelists.   You can exclude a designated rental allowance from 
+out-of-town churches if you meet all of the following requirements. 
+  You are an ordained minister.
+  You perform qualified services at churches located away from your community.
+  You actually use the rental allowance to maintain your permanent home.
+Cantors.   If you have a bona fide commission and your congregation employs you 
+on a full-time basis to perform substantially all the religious functions of the 
+Jewish faith, you can exclude a rental allowance from your gross income. 
+Pay—Members of Religious Orders 
+Your pay may be exempt from both income tax and SE tax if you are a member of a 
+religious order who: 
+  Has taken a vow of poverty,
+  Receives pay for services performed as an agent of the order and in the 
+  exercise of duties required by the order, and
+  Renounces the pay and gives it to the order.
+See Members of Religious Orders, earlier, under Social Security Coverage. 
+Foreign Earned Income 
+Certain income may be exempt from income tax if you work in a foreign country or 
+in a specified U.S. possession. Publication 54 discusses the foreign earned 
+income exclusion. Publication 570, Tax Guide for Individuals With Income From 
+U.S. Possessions, covers the rules for taxpayers with income from U.S. 
+possessions. You can get these free publications from the Internal Revenue 
+Service or from most U.S. Embassies or consulates. 
+Expense Items
+The tax treatment of ministerial trade or business expenses, expenses allocable 
+to tax-free income, and health insurance costs is discussed here. 
+Ministerial Trade or Business Expenses as an Employee 
+When you figure your income tax, you must itemize your deductions on Schedule A 
+(Form 1040) to claim allowable deductions for ministerial trade or business 
+expenses incurred while working as an employee. You also may have to file Form 
+2106, Employee Business Expenses (or Form 2106-EZ, Unreimbursed Employee 
+Business Expenses). 
+These expenses are claimed as miscellaneous itemized deductions and are subject 
+to the 2%-of-adjusted-gross-income (AGI) limit. See Publication 529 for more 
+information on this limit. 
+Additionally, these expenses may have to be reduced by the amount that is 
+allocable to tax-free income (discussed next) before being limited by the 2% AGI 
+limit. 
+Expenses Allocable to Tax-Free Income 
+If you receive a rental or parsonage allowance that is exempt from income tax 
+(tax free), you must allocate a portion of the expenses of operating your 
+ministry to that tax-free income. You cannot deduct the portion of your expenses 
+that is allocated to your tax-free rental or parsonage allowance. 
+Exception.   This rule does not apply to your deductions for home mortgage 
+interest or real estate taxes on your home. 
+Figuring the allocation.   Figure the portion of your otherwise deductible 
+expenses that you cannot deduct (because that portion must be allocated to 
+tax-free income) by multiplying the expenses by the following fraction: 
+   
+       Tax-free rental or parsonage allowance  
+       All income (taxable and tax free) earned from your ministry  
+
+  When figuring the allocation, include the income and expenses related to the 
+ministerial duties you perform both as an employee and as a self-employed 
+person. 
+   
+
+Reduce your otherwise deductible expenses only in figuring your income tax, not 
+your SE tax. 
+Example.
+Rev. Charles Ashford received $40,000 in ministerial earnings consisting of a 
+$28,000 salary for ministerial services, $2,000 for weddings and baptisms, and a 
+$10,000 tax-free parsonage allowance. He incurred $4,000 of unreimbursed 
+expenses connected with his ministerial earnings. $3,500 of the $4,000 is 
+related to his ministerial salary, and $500 is related to the weddings and 
+baptisms he performed as a self-employed person. 
+The nondeductible portion of expenses related to Rev. Ashford's ministerial 
+salary is figured as follows: 
+      ($10,000 ÷ $40,000) x $3,500 = $875 
+
+The nondeductible portion of expenses related to Rev. Ashford's wedding and 
+baptism income is figured as follows: 
+      ($10,000 ÷ $40,000) x $500 = $125 
+
+Required statement.   If you receive a tax-free rental or parsonage allowance 
+and have ministerial expenses, attach a statement to your tax return. The 
+statement must contain all of the following information. 
+  A list of each item of taxable ministerial income by source (such as wages, 
+  salary, weddings, baptisms, etc.) plus the amount.
+  A list of each item of tax-free ministerial income by source (parsonage 
+  allowance) plus the amount.
+  A list of each item of otherwise deductible ministerial expenses plus the 
+  amount.
+  How you figured the nondeductible part of your otherwise deductible expenses.
+  A statement that the other deductions claimed on your tax return are not 
+  allocable to your tax-free income.
+  See the statement prepared for the Comprehensive Example, later. Worksheets 1 
+through 4 may be helpful in preparing your statement. 
+Health Insurance Costs of Self-Employed Ministers 
+If you are self-employed, you may be able to deduct the amount you paid in 2005 
+for medical and dental insurance and qualified long-term care insurance for you, 
+your spouse, and your dependents. 
+If you qualify, you can take this deduction as an adjustment to income on Form 
+1040, line 29. See the instructions for Form 1040 to figure your deduction. 
+The following special rules apply to the self-employed health insurance 
+deduction. 
+  The expenses taken into account for purposes of this deduction are not allowed 
+  as a medical expense deduction on Schedule A. 
+  The deduction is not allowed for any month you are eligible to participate in 
+  a subsidized plan of your (or your spouse's) employer. 
+  The deduction is not used to reduce your net earnings for your SE tax.
+  The deduction cannot exceed your net earnings from the business under which 
+  the insurance plan is established. Your net earnings under this rule do not 
+  include the income you earned as a common-law employee (discussed earlier) of 
+  a church. 
+More information.   For more information about the self-employed health 
+insurance deduction, see chapter 7 in Publication 535. 
+Deduction for SE Tax 
+You can deduct one-half of your SE tax in figuring adjusted gross income. This 
+is an income tax deduction only, and you deduct it on Form 1040, line 27. 
+
+This is not a deduction in figuring net earnings from self-employment subject to 
+SE tax. 
+Income Tax Withholding and Estimated Tax
+The federal income tax is a pay-as-you-go tax. You must pay the tax as you earn 
+or receive income during the year. An employee usually has income tax withheld 
+from his or her pay. However, your pay generally is not subject to federal 
+income tax withholding if both the following conditions apply. 
+  You are a duly ordained, commissioned, or licensed minister, a member of a 
+  religious order (who has not taken a vow of poverty), or a Christian Science 
+  practitioner. 
+  Your pay is for qualified services (see Qualified Services, earlier). 
+If your salary is not subject to withholding, or if you do not pay enough tax 
+through withholding, you might have to pay estimated tax to avoid penalties for 
+not paying enough tax as you earn your income. 
+You generally must make estimated tax payments if you expect to owe taxes, 
+including SE tax, of $1,000 or more, when you file your return. 
+Determine your estimated tax by using the worksheet in Form 1040-ES. Then, using 
+the Form 1040-ES payment voucher, pay the entire estimated tax or the first 
+installment by April 17, 2006. The April 17 date applies whether or not your tax 
+home and your abode are outside the United States and Puerto Rico. For more 
+information see Publication 505, Tax Withholding and Estimated Tax. 
+If you perform your services as a common-law employee of the church and your pay 
+is not subject to income tax withholding, you can enter into a voluntary 
+withholding agreement with the church to cover any income and SE tax that may be 
+due. 
+Filing Your Return 
+You have to file an income tax return for 2005 if your gross income was at least 
+the amount shown in the third column of Table 4. 
+Table 4. 2005 Filing Requirements for Most Taxpayers
+      IF your filing status is ... AND at the end of 2005 
+      you were ...* THEN file a return if your gross income was at least ...** 
+      Single under age 65 
+      65 or older  $8,200 
+      9,450  
+      Married filing jointly*** under 65 (both spouses) 
+      65 or older (one spouse) 
+      65 or older (both spouses)  $16,400 
+      17,400 
+      18,400  
+      Married filing separately any age  $3,200  
+      Head of household under 65 
+      65 or older  $10,500 
+      11,750  
+      Qualifying widow(er) with dependent child under 65 
+      65 or older  $13,200 
+      14,200  
+
+      * If you were born on January 1, 1941, you are considered to be age 65 at 
+      the end of 2005. 
+      ** Gross income means all income you received in the form of money, goods, 
+      property, and services that is not exempt from tax,including any income 
+      from sources outside the United States (even if you may exclude part or 
+      all of it). Do not include social security benefits unless you are married 
+      filing a separate return and you lived with your spouse at any time in 
+      2005. 
+      *** If you did not live with your spouse at the end of 2005 (or on the 
+      date your spouse died) and your gross income was at least $3,200, you must 
+      file a return regardless of your age. 
+
+Table 4. 2005 Filing Requirements for Most Taxpayers
+      IF your filing status is ... AND at the end of 2005 
+      you were ...* THEN file a return if your gross income was at least ...** 
+      Single under age 65 
+      65 or older  $8,200 
+      9,450  
+      Married filing jointly*** under 65 (both spouses) 
+      65 or older (one spouse) 
+      65 or older (both spouses)  $16,400 
+      17,400 
+      18,400  
+      Married filing separately any age  $3,200  
+      Head of household under 65 
+      65 or older  $10,500 
+      11,750  
+      Qualifying widow(er) with dependent child under 65 
+      65 or older  $13,200 
+      14,200  
+
+      * If you were born on January 1, 1941, you are considered to be age 65 at 
+      the end of 2005. 
+      ** Gross income means all income you received in the form of money, goods, 
+      property, and services that is not exempt from tax,including any income 
+      from sources outside the United States (even if you may exclude part or 
+      all of it). Do not include social security benefits unless you are married 
+      filing a separate return and you lived with your spouse at any time in 
+      2005. 
+      *** If you did not live with your spouse at the end of 2005 (or on the 
+      date your spouse died) and your gross income was at least $3,200, you must 
+      file a return regardless of your age. 
+
+Additional requirements.   Even if your income was less than the amount shown in 
+Table 4, you must file an income tax return on Form 1040, and attach a completed 
+Schedule SE (Form 1040), if: 
+   
+  You are not exempt from SE tax, and you have net earnings from self-employment 
+  (discussed earlier under Figuring Net Earnings From Self-Employment for SE 
+  Tax) of $400 or more in the tax year, 
+  You are exempt from SE tax on earnings from qualified services and you have 
+  $400 or more of other earnings subject to SE tax, or 
+  You had wages of $108.28 or more from an electing church or church-controlled 
+  organization (see Religious Workers (Church Employees), earlier, under Social 
+  Security Coverage). 
+Self-employment tax.   If you are liable for SE tax, you must file Schedule SE 
+(Form 1040) with your return. 
+Exemption from SE tax.   If you filed Form 4361 and received IRS approval not to 
+be taxed on those earnings, and you do not have any other income subject to SE 
+tax, do not file Schedule SE (Form 1040). Instead, write “Exempt—Form 4361” on 
+Form 1040, line 58. 
+  If you filed Form 4029 and received IRS approval not to be taxed on those 
+earnings, and you do not have any other income subject to SE tax, do not file 
+Schedule SE (Form 1040). Instead, write “Exempt—Form 4029” on Form 1040, line 
+58. 
+More information.   For more information on filing your return, including when 
+and where to file it, see the instructions for Form 1040. 
+Retirement Savings Arrangements 
+Retirement savings arrangements are plans that offer you a tax-favored way to 
+save for your retirement. You generally can deduct your contributions to the 
+plan. Your contributions and the earnings on them are not taxed until they are 
+distributed. 
+Retirement plans for the self-employed.   To set up a qualified retirement plan 
+(also called a Keogh or H.R. 10 plan), a simplified employee pension (SEP) plan, 
+or a SIMPLE plan, you must be self-employed. 
+  The common-law rules determine whether you are an employee or a self-employed 
+person for purposes of setting up a retirement plan. See Employment Status for 
+Other Tax Purposes, earlier, under Social Security Coverage. This is true even 
+if your pay for qualified services (discussed earlier) is subject to SE tax. 
+  For example, if a congregation pays you a salary for performing qualified 
+services, and you are subject to the congregation's control, you are a 
+common-law employee. You are not a self-employed person for purposes of setting 
+up a retirement plan. This is true even if your salary is subject to SE tax. 
+  On the other hand, amounts received directly from members of the congregation, 
+such as fees for performing marriages, baptisms, or other personal services that 
+are reported on Schedule C or C-EZ, are earnings from self-employment for all 
+tax purposes. 
+  For more information on establishing a SEP, SIMPLE, or qualified retirement 
+plan, see Publication 560, Retirement Plans for Small Business. 
+Individual retirement arrangements (IRAs).   The traditional IRA and the Roth 
+IRA are two individual retirement arrangements you can use to save money for 
+your retirement. You generally are allowed to make contributions to either a 
+traditional or a Roth IRA of up to $4,000 ($4,500 if you are age 50 or older) 
+for 2005, or the amount of your pay, whichever is less. The most you can 
+contribute for 2005, regardless of whether you contribute to one or both of 
+these IRAs, is $4,000 ($4,500 if you are age 50 or older). Contributions to a 
+traditional IRA may be deductible. Your deduction for contributions to your 
+traditional IRA may be reduced or eliminated if you or your spouse is covered by 
+an employer retirement plan (including, but not limited to a SEP or SIMPLE, or 
+qualified retirement plan). Unlike contributions to a traditional IRA, 
+contributions to a Roth IRA are not deductible. However, if you satisfy certain 
+requirements, all earnings in the Roth IRA are tax free and neither your 
+nondeductible contributions nor any earnings on them are taxable when you 
+withdraw them. 
+  For more information on IRAs, see Publication 590. 
+Tax-sheltered annuity plans.   Church employees, members of religious orders, 
+and duly ordained, commissioned, or licensed ministers working as ministers or 
+chaplains can participate in tax-sheltered annuity (403(b)) plans. For more 
+information, see Publication 571, Tax-Sheltered Annuity Plans (403(b) Plans) For 
+Employees of Public Schools and Certain Tax-Exempt Organizations. 
+Deducting contributions to tax-sheltered annuity plans.   You generally cannot 
+deduct contributions to a tax-sheltered annuity (403(b)) plan on your tax 
+return. However, an exception applies to your contributions if you are a 
+minister or chaplain and, in the exercise of your ministry, you are either 
+self-employed or employed by an organization that is not exempt from tax under 
+section 501(c)(3) of the Internal Revenue Code. If the exception applies, you 
+can deduct your contributions to a 403(b) plan as explained next. 
+  If you are self-employed, deduct your contributions on Form 1040, line 28. 
+  If you are not self-employed and your employer does not exclude your 
+  contributions from your earned income, deduct your contributions on Form 1040, 
+  line 36. Enter the amount of your deduction and “403(b)” on the dotted line 
+  next to line 36. 
+Retirement savings contributions credit.   You may be able to take a tax credit 
+for certain contributions you make to any of the retirement plans or IRAs 
+discussed above. The amount of the credit is based on the contributions you make 
+and your credit rate. The maximum contribution eligible for the credit is 
+$2,000. The credit rate can be as low as 10% or as high as 50%, depending on 
+your adjusted gross income. You figure the credit on Form 8880, Credit for 
+Qualified Retirement Savings Contributions. 
+  You cannot take the credit if any of the following apply. 
+  You were born after January 1, 1988.
+  You were a full-time student in 2005.
+  Someone, such as your parent(s), claims an exemption for you on his or her 
+  2005 tax return.
+  Your adjusted gross income for 2005 is more than: 
+    $25,000, if your filing status is single, married filing separately, or 
+    qualifying widow(er) with dependent child.
+    $37,500, if your filing status is head of household.
+    $50,000, if your filing status is married filing jointly.
+  When figuring adjusted gross income, you must add back any exclusion or 
+deduction claimed for the year for: 
+  Foreign earned income,
+  Foreign housing costs,
+  Income of bona fide residents of American Samoa, and
+  Income of bona fide residents of Puerto Rico.
+More information.   For more information about the credit, see Publication 590. 
+Earned Income Credit 
+The earned income credit is a credit for certain people who work. If you qualify 
+for it, the earned income credit reduces the tax you owe. Even if you do not owe 
+tax, you can get a refund of the credit. Also, you may be able to get part of 
+the credit added to your pay instead of waiting until after the end of the year. 
+
+You cannot take the credit if your earned income (or adjusted gross income) is: 
+  $11,750 or more ($13,750 or more for married filing jointly) and you do not 
+  have a qualifying child,
+  $31,030 or more ($33,030 or more for married filing jointly) and you have one 
+  qualifying child, or
+  $35,263 or more ($37,263 or more for married filing jointly) and you have more 
+  than one qualifying child.
+Earned income.   Earned income includes your: 
+  Wages, salaries, tips, and
+  Net earnings from self-employment minus the amount you claimed (or should have 
+  claimed) on Form 1040, line 27, for one-half of your SE tax. 
+Earned income for a minister with an approved Form 4361.   If you have earnings 
+from qualified services that are exempt from SECA (have an approved Form 4361), 
+amounts you received for performing ministerial duties as an employee are earned 
+income. This includes wages, salaries, tips, and other taxable employee pay. 
+  Amounts you received for nonemployee ministerial duties are not earned income. 
+This includes fees for performing marriages and baptisms, and honoraria for 
+delivering speeches. 
+  If you had nonministerial duties, any net earnings from self-employment, minus 
+one-half of your SE tax, and any pay received as an employee, is earned income. 
+Earned income for a minister whose income from qualified services is not exempt 
+from SECA.   Earned income includes your net earnings from self-employment plus 
+any pay you received for nonministerial duties minus your Form 1040, line 27, 
+amount for one-half of SE tax. 
+  Your net earnings from self-employment include those net earnings from 
+qualified services. See Figuring Net Earnings From Self-Employment for SE Tax, 
+earlier. Net earnings also include net earnings from self-employment related to 
+nonministerial duties. 
+Earned income for a member of a recognized religious sect with an approved Form 
+4029.   If you have an approved Form 4029, all wages, salaries, tips, and other 
+taxable employee compensation are earned income. Amounts you received as a 
+self-employed individual are not earned income. Also, in figuring earned income, 
+losses from Schedules C, C-EZ, or F cannot be subtracted from wages on Form 
+1040, line 7. 
+More information.   For the detailed rules on this credit, see Publication 596. 
+To figure the amount of your credit, you can either fill out a worksheet or have 
+the IRS compute the credit for you. You may need to complete Schedule EIC and 
+attach it to your tax return. For details on getting part of the credit added to 
+your pay, get Form W-5, Earned Income Credit Advance Payment Certificate, from 
+your employer or the IRS. 
+Comprehensive Example 
+Rev. John Michaels is the minister of the First United Church. He is married and 
+has one child. The child is considered a qualifying child for the child tax 
+credit. Mrs. Michaels is not employed outside the home. Rev. Michaels is a 
+common-law employee of the church, and he has not applied for an exemption from 
+SE tax. 
+The church paid Rev. Michaels a salary of $31,000. In addition, as a 
+self-employed person, he earned $4,000 during the year for weddings, baptisms, 
+and honoraria. He made estimated tax payments during the year totaling $8,400. 
+He taught a course at the local community college, for which he was paid $3,400. 
+
+Rev. Michaels owns a home next to the church. He makes an $800 per month 
+mortgage payment of principal and interest only. The church paid him $800 per 
+month as his parsonage allowance (excluding utilities). The home's fair rental 
+value is $900 per month. The utility bills for the year totaled $960. The church 
+paid him $100 per month designated as an allowance for utility costs. 
+The parts of Rev. and Mrs. Michaels' income tax return are explained in the 
+order they are completed. They are illustrated in the order that the Rev. 
+Michaels will assemble the return to send it to the IRS. 
+Form W-2 From Church
+The church completed its Form W-2 for Rev. Michaels as follows: 
+Box 1.    The church entered Rev. Michaels' $31,000 salary. 
+Box 2.    The church left this box blank because Rev. Michaels did not request 
+federal income tax withholding. 
+Boxes 3 through 6.   Rev. Michaels is considered a self-employed person for 
+purposes of social security and Medicare tax withholding, so the church left 
+these boxes blank. 
+Box 14.    The church entered Rev. Michaels' total parsonage and utilities 
+allowance for the year and identified them. 
+Form W-2 From College
+The community college gave Rev. Michaels a Form W-2 that showed the following. 
+Box 1.    The college entered Rev. Michaels' $3,400 salary. 
+Box 2.    The college withheld $272 in federal income tax on Rev. Michaels' 
+behalf. 
+Boxes 3 and 5.    As an employee of the college, Rev. Michaels is subject to 
+social security and Medicare withholding on his full salary from the college. 
+Box 4.    The college withheld $210.80 in social security taxes. 
+Box 6.    The college withheld $49.30 in Medicare taxes. 
+Schedule C-EZ (Form 1040)
+Some of Rev. Michaels' entries on Schedule C-EZ are explained here. 
+Line 1.    Rev. Michaels reports the $4,000 from weddings, baptisms, and 
+honoraria. 
+Line 2.    Rev. Michaels reports his expenses related to the line 1 amount. The 
+total consisted of $87 for marriage and family booklets and $198 for 459 miles 
+of business use of his car, mainly in connection with honoraria. Rev. Michaels 
+used the standard mileage rate to figure his car expense, as follows. 
+      January 1-August 31: 
+      306 miles × 40.5 cents $124 
+      September 1-December 31: 
+      153 miles × 48.5 cents 74
+      Total $198 
+
+  These expenses total $285 ($198 + $87). However, he cannot deduct the part of 
+his expenses allocable to his tax-free parsonage allowance. He attaches the 
+required statement, Attachment 1(shown later), to his return showing that 23% 
+(or $66) of his business expenses are not deductible because they are allocable 
+to that allowance. He subtracts the $66 from the $285 and enters the $219 
+difference on line 2. 
+Line 3.    He enters his net profit of $3,781 both on line 3 and on Form 1040, 
+line 12. 
+Lines 4 through 8b.    Rev. Michaels fills out these lines to report information 
+about his car. 
+Form 2106-EZ
+Rev. Michaels fills out Form 2106-EZ to report the unreimbursed business 
+expenses he had as a common-law employee of First United Church. 
+Line 1.    Before completing line 1, Rev. Michaels fills out Part II because he 
+used his car for church business. His records show that he drove 2,600 business 
+miles, which he reports in Part II. On line 1, he figures his car expense as 
+follows. 
+   
+      January 1-August 31: 
+      1733 miles × 40.5 cents $ 702 
+      September 1-December 31: 
+      867 miles × 48.5 cents 420
+      Total $1,122 
+
+Line 4.    He enters $219 for his professional publications and booklets. 
+Line 6.    Before entering the total expenses on line 6, Rev. Michaels must 
+reduce them by the amount allocable to his tax-free parsonage allowance. On the 
+required Attachment 1 (shown later), he shows that 23% (or $308) of his employee 
+business expenses are not deductible because they are allocable to the tax-free 
+parsonage allowance. He subtracts $308 from $1,341 and enters the result, 
+$1,033, on line 6. He also enters $1,033 on Schedule A (Form 1040), line 20. 
+Schedule A (Form 1040)
+Rev. Michaels fills out Schedule A as explained here. 
+Line 6.    Rev. Michaels deducts $1,750 in real estate taxes. 
+Line 10.    He deducts $6,810 of home mortgage interest. 
+Line 15.    Rev. and Mrs. Michaels contributed $4,800 in cash during the year to 
+various qualifying charities. Each individual contribution was less than $250. 
+Line 20.    Rev. Michaels enters his unreimbursed employee business expenses 
+from Form 2106-EZ, line 6. 
+Lines 24, 25, and 26.    He can deduct only the part of his employee business 
+expenses that exceeds 2% of his adjusted gross income. He fills out these lines 
+to figure the amount he can deduct. 
+Line 28.    The total of all the Michaels' itemized deductions is $13,687, which 
+they enter on line 28 and on Form 1040, line 40. 
+Schedule SE (Form 1040)
+After Rev. Michaels prepares Schedule C-EZ and Form 2106-EZ, he fills out 
+Schedule SE (Form 1040). He reads the chart on page 1 of the schedule which 
+tells him he can use Section A—Short Schedule SE to figure his self-employment 
+tax. Rev. Michaels is a minister, so his salary from the church is not 
+considered church employee income. Thus, he does not have to use Section B—Long 
+Schedule SE. He fills out the following lines in Section A. 
+Line 2.    Rev. Michaels attaches a statement (see Attachment 2, later) that 
+explains how he figures the amount ($44,174) to enter. 
+Line 4.   He multiplies $44,174 by .9235 to get his net earnings from 
+self-employment ($40,795). 
+Line 5.   The amount on line 4 is less than $90,000, so Rev. Michaels multiplies 
+the amount on line 4 ($40,795) by .153 to get his self-employment tax of $6,242. 
+He enters that amount here and on Form 1040, line 58. 
+Line 6.   Rev. Michaels multiplies the amount on line 5 by .5 to get his 
+deduction for one-half of self-employment tax of $3,121. He enters that amount 
+here and on Form 1040, line 27. 
+Form 1040
+After Rev. Michaels prepares Form 2106-EZ and the other schedules, he fills out 
+Form 1040. He files a joint return with his wife. First he fills out the address 
+area and completes the appropriate lines for his filing status and exemptions. 
+Then, he fills out the rest of the form as follows: 
+Line 7.    Rev. Michaels reports $34,640. This amount is the total of his 
+$31,000 church salary, $3,400 college salary, and $240, the excess of his 
+utility allowance over his utility costs. The two salaries were reported to him 
+in box 1 of the Forms W-2 he received. 
+Line 12.    He reports his net profit of $3,781 from Schedule C-EZ, line 3. 
+Line 27.    He enters $3,121, half his SE tax from Schedule SE, line 6. 
+Line 40.    He enters the total itemized deductions from Schedule A, line 28. 
+Line 52.    The Michaels can take the child tax credit for their daughter, 
+Jennifer. Rev. Michaels figures the credit by completing the Child Tax Credit 
+Worksheet (not shown) in the instructions for Form 1040. He enters $1000 credit 
+on line 52. 
+Line 58.    He enters the self-employment tax from Schedule SE, line 5. 
+Line 64.    He enters the federal income tax shown in box 2 of his Form W-2 from 
+the college. 
+Line 65.    He enters the $8,400 estimated tax payments he made for the year. 
+Line 74.   He wants to have any overpayment of tax applied to his 2006 estimated 
+tax. 
+Attachment 1
+Attachment 1 shows the computation of expenses that are nondeductible because 
+they are allocable to tax-free ministerial income. 
+Attachment 2
+Attachment 2 shows the computation of net self-employment income. 
+This image is too large to be displayed in the current screen. Please click the 
+link to view the image.
+Forms W-2, (2) for John E. Michaels 
+This image is too large to be displayed in the current screen. Please click the 
+link to view the image.
+Form 1040, page 1 for John E. and Susan R. Michaels
+This image is too large to be displayed in the current screen. Please click the 
+link to view the image.
+Form 1040, page 2 
+This image is too large to be displayed in the current screen. Please click the 
+link to view the image.
+Schedule A (Form 1040) 
+This image is too large to be displayed in the current screen. Please click the 
+link to view the image.
+Schedule C–EZ (Form 1040) 
+This image is too large to be displayed in the current screen. Please click the 
+link to view the image.
+Schedule SE (Form 1040) 
+This image is too large to be displayed in the current screen. Please click the 
+link to view the image.
+Form 2106-EZ 
+Attachment 1—John E. Michaels011-00-2222 
+Worksheet 1. Figuring the Percentage of Tax-Free Income
+  Note. For each line, enter the appropriate amount in all boxes that are not 
+  shaded. 
+       
+      Source of Income 
+      (a) 
+      Taxable 
+      (b) 
+      Tax-free 
+      (c) 
+      Total 
+
+      1 
+      W-2 salary as a minister (from box 1 of Form W-2) 1  31,000  31,000 
+      2 
+      Gross income from weddings, baptisms, writing, lecturing, etc. (from line 
+      1 of Schedule C or C-EZ) 2  4,000  4,000 
+      Note. Complete either lines 3a-3d or lines 4a-4i.     
+      •If your church provides you with a parsonage, complete lines 3a-3d.     
+      •If, instead of providing a parsonage, your church provides you with a 
+      rental or parsonage allowance, complete lines 4a-4i. 
+          
+      3a 
+      FRV* of parsonage provided by church 3a     
+      b 
+      Utility allowance, if any 3b     
+      c 
+      Actual expenses for utilities 3c     
+      d 
+      Excess utility allowance (subtract line 3c from line 3b). If zero or less, 
+      enter -0- 3d     
+      4a 
+      Parsonage or rental allowance 4a 9,600    
+      b 
+      Actual expenses for parsonage 4b 9,600  9,600 9,600 
+       Note. If your utility allowance is separate from your parsonage or rental 
+      allowance entered in line 4a, complete lines 4c-4d. Otherwise, go directly 
+      to line 4e. 
+            
+      c 
+      Utility allowance, if separate 4c 1,200    
+      d 
+      Actual expenses for utilities 4d 960  960 960 
+      e 
+      FRV* of home, including furnishings and utilities 4e 10,800    
+      f 
+      Total actual expenses for parsonage and utilities (add lines 4b and 4d) 4f 
+      10,560    
+      g 
+      Enter the smaller of line 4e or 4f 4g 10,560    
+      h 
+      Total allowance (add lines 4a and 4c) 4h 10,800    
+      i 
+      Excess allowance (Subtract line 4g from line 4h). If zero or less, enter 
+      -0- 4i  240  240 
+      5 
+      Ministerial income (for columns (a), (b), and (c), add lines 1 through 4i) 
+      5  35,240 10,560 45,800 
+
+      6 
+
+      Percentage of tax-free income:Total tax-free income$10,560
+      Total income$45,800= 23%** 
+
+      *FRV (Fair Rental Value): As determined objectively and between unrelated 
+      parties, what it would cost to rent a comparable home (including 
+      furnishings and utilities) in a similar location. 
+      ** This percentage of your ministerial expenses will not be deductible. 
+      Use Worksheets 2 and 3 to figure your allowable deductions. 
+
+Attachment 1—John E. Michaels011-00-2222 (continued) 
+Worksheet 2. Figuring the Allowable Deduction for Schedule C or C-EZ Expenses
+      1 
+      Percentage of expenses that are nondeductible (from Worksheet 1, line 6): 
+      23% 
+      2a 
+      Business use of car: 
+      January 1-August 31 306 miles × 40.5¢ (.405) 2a 124  
+      b 
+      September 1-December 31 153 miles × 48.5¢ (.485) 2b 74  
+      c 
+      Total business use of car (add lines 2a and 2b) 2c  198 
+      3 
+      Meals and entertainment: $ ____________ × 50% (.50) 3   
+      4 
+      Other expenses (list item and amount) 
+      a 
+      Marriage and family booklets 4a 87  
+      b 
+       4b   
+      c 
+       4c   
+      d 
+       4d   
+      e 
+       4e   
+      f 
+      Total other expenses (add lines 4a through 4e) 4f  87 
+      5 
+      Total Schedule C or C-EZ expenses (add lines 2c, 3, and 4f) 5  285 
+      6 
+      Nondeductible part of Schedule C or C-EZ expenses (multiply line 5 by the 
+      percent in line 1) 6  66 
+      7 
+      Deduction allowed.* Subtract line 6 from line 5. Enter the result here and 
+      on Schedule C, line 27, or Schedule C-EZ, line 2. 7  219 
+
+      * None of the other deductions claimed in this return are allocable to 
+      tax-free income. 
+
+       
+       
+
+Worksheet 3. Figuring the Allowable Deduction for Form 2106 or 2106-EZ Expenses
+      1 
+      Percentage of expenses that are nondeductible (from Worksheet 1, line 6): 
+      23% 
+      2a 
+      Use of car for church business:: 
+      January 1-August 31 1,733 miles × 40.5¢ (.405) 2a 702  
+      b 
+      September 1-December 31 867 miles × 48.5¢ (.485) 2b 420  
+      c 
+      Total business use of car (add lines 2a and 2b) 2c  1,122 
+      3 
+      Meals and entertainment: $____________ × 50% (.50) 3   
+      4 
+      Other expenses (list item and amount) 
+      a 
+      Professional publications and booklets 4a 219  
+      b 
+       4b   
+      c 
+       4c   
+      d 
+       4d   
+      e 
+       4e   
+      f 
+      Total other expenses (add lines 4a through 4e) 4f  219 
+      5 
+      Total Form 2106 or 2106-EZ expenses (add lines 2c, 3, and 4f) 5  1,341 
+      6 
+      Reimbursement not included in box 1 of Form W-2 6   
+      7 
+      Total unreimbursed Form 2106 or 2106-EZ expenses (subtract line 6 from 
+      line 5) 7  1,341 
+      8 
+      Nondeductible part of Form 2106 or 2106-EZ expenses (multiply line 7 by 
+      the percent in line 1) 8  308 
+      9 
+      Ministerial employee business expense deduction allowed.* Subtract line 8 
+      from line 7. Enter the result here and on Form 2106, line 10, or Form 
+      2106-EZ, 
+      line 6. 9  1,033 
+
+      * None of the other deductions claimed in this return are allocable to 
+      tax-free income. 
+
+Attachment 2—John E. Michaels011-00-2222 
+Worksheet 4. Figuring Net Self-Employment Income for Schedule SE (Form 1040)
+      1 
+      W-2 salary as a minister (from box 1 of Form W-2) 1  31,000 
+      2 
+      Net profit from Schedule C, line 31, or Schedule C-EZ, line 3 2  3,781 
+      3a 
+      Parsonage allowance (from Worksheet 1, line 3a or 4a) 3a 9,600  
+      b 
+      Utilities allowance (from Worksheet 1, line 3b or 4c) 3b 1,200  
+      c 
+      Total allowance (add lines 3a and 3b) 3c  10,800 
+      4 
+      Add lines 1, 2, and 3c 4  45,581 
+      5 
+      Schedule C or C-EZ expenses allocable to tax-free income (from Worksheet 
+      2, line 6) 5 66  
+      6 
+      Unreimbursed ministerial employee business expenses (from Worksheet 3, 
+      line 7) 6 1,341  
+      7 
+      Total business expenses not deducted in lines 1 and 2 above (add lines 5 
+      and 6) 7  1,407 
+      8 
+      Net self-employment income. Subtract line 7 from line 4. Enter here and on 
+      Schedule SE, Section A, line 2, or Section B, line 6. 8  44,174 
+
+Worksheets 
+      These worksheets are provided to help you figure your taxable ministerial 
+      income, your allowable deductions, and your net self-employment income. 
+
+
+
+Worksheet 1. Figuring the Percentage of Tax-Free Income
+  Note. For each line, enter the appropriate amount in all boxes that are not 
+  shaded. 
+       
+      Source of Income 
+      (a) 
+      Taxable 
+      (b) 
+      Tax-free 
+      (c) 
+      Total 
+
+      1 
+      W-2 salary as a minister (from box 1 of Form W-2) 1     
+      2 
+      Gross income from weddings, baptisms, writing, lecturing, etc. (from line 
+      1 of Schedule C or C-EZ) 2     
+      Note. Complete either lines 3a-3d or lines 4a-4i.     
+      •If your church provides you with a parsonage, complete lines 3a-3d.     
+      •If, instead of providing a parsonage, your church provides you with a 
+      rental or parsonage allowance, complete lines 4a-4i. 
+          
+      3a 
+      FRV* of parsonage provided by church 3a     
+      b 
+      Utility allowance, if any 3b     
+      c 
+      Actual expenses for utilities 3c     
+      d 
+      Excess utility allowance (subtract line 3c from line 3b). If zero or less, 
+      enter -0- 3d     
+      4a 
+      Parsonage or rental allowance 4a     
+      b 
+      Actual expenses for parsonage 4b     
+       Note. If your utility allowance is separate from your parsonage or rental 
+      allowance entered in line 4a, complete lines 4c-4d. Otherwise, go directly 
+      to line 4e. 
+            
+      c 
+      Utility allowance, if separate 4c     
+      d 
+      Actual expenses for utilities 4d     
+      e 
+      FRV* of home, including furnishings and utilities 4e     
+      f 
+      Total actual expenses for parsonage and utilities (add lines 4b and 4d) 4f 
+          
+      g 
+      Enter the smaller of line 4e or 4f 4g     
+      h 
+      Total allowance (add lines 4a and 4c) 4h     
+      i 
+      Excess allowance (Subtract line 4g from line 4h). If zero or less, enter 
+      -0- 4i     
+      5 
+      Ministerial income (for columns (a), (b), and (c), add lines 1 through 4i) 
+      5     
+
+      6 
+
+      Percentage of tax-free income:Total tax-free income $
+      Total income$ = %** 
+
+      *FRV (Fair Rental Value): As determined objectively and between unrelated 
+      parties, what it would cost to rent a comparable home (including 
+      furnishings and utilities) in a similar location. 
+      ** This percentage of your ministerial expenses will not be deductible. 
+      Use Worksheets 2 and 3 to figure your allowable deductions. 
+
+Worksheet 2. Figuring the Allowable Deduction for Schedule C or C-EZ Expenses
+      1 
+      Percentage of expenses that are nondeductible (from Worksheet 1, line 6): 
+      % 
+      2a 
+      Business use of car: 
+      January 1-August 31 miles × 40.5¢ (.405) 2a   
+      b 
+      September 1-December 31 miles × 48.5¢ (.485) 2b   
+      c 
+      Total business use of car (add lines 2a and 2b) 2c   
+      3 
+      Meals and entertainment: $ ____________ × 50% (.50) 3   
+      4 
+      Other expenses (list item and amount) 
+      a 
+      Marriage and family booklets 4a   
+      b 
+       4b   
+      c 
+       4c   
+      d 
+       4d   
+      e 
+       4e   
+      f 
+      Total other expenses (add lines 4a through 4e) 4f   
+      5 
+      Total Schedule C or C-EZ expenses (add lines 2c, 3, and 4f) 5   
+      6 
+      Nondeductible part of Schedule C or C-EZ expenses (multiply line 5 by the 
+      percent in line 1) 6   
+      7 
+      Deduction allowed.* Subtract line 6 from line 5. Enter the result here and 
+      on Schedule C, line 27, or Schedule C-EZ, line 2. 7   
+
+      * None of the other deductions claimed in this return are allocable to 
+      tax-free income. 
+
+       
+       
+
+Worksheet 3. Figuring the Allowable Deduction for Form 2106 or 2106-EZ Expenses
+      1 
+      Percentage of expenses that are nondeductible (from Worksheet 1, line 6): 
+      % 
+      2a 
+      Use of car for church business:: 
+      January 1-August 31 miles × 40.5¢ (.405) 2a   
+      b 
+      September 1-December 31 miles × 48.5¢ (.485) 2b   
+      c 
+      Total business use of car (add lines 2a and 2b) 2c   
+      3 
+      Meals and entertainment: $____________ × 50% (.50) 3   
+      4 
+      Other expenses (list item and amount) 
+      a 
+      Professional publications and booklets 4a   
+      b 
+       4b   
+      c 
+       4c   
+      d 
+       4d   
+      e 
+       4e   
+      f 
+      Total other expenses (add lines 4a through 4e) 4f   
+      5 
+      Total Form 2106 or 2106-EZ expenses (add lines 2c, 3, and 4f) 5   
+      6 
+      Reimbursement not included in box 1 of Form W-2 6   
+      7 
+      Total unreimbursed Form 2106 or 2106-EZ expenses (subtract line 6 from 
+      line 5) 7   
+      8 
+      Nondeductible part of Form 2106 or 2106-EZ expenses (multiply line 7 by 
+      the percent in line 1) 8   
+      9 
+      Ministerial employee business expense deduction allowed.* Subtract line 8 
+      from line 7. Enter the result here and on Form 2106, line 10, or Form 
+      2106-EZ, line 6. 9   
+
+      * None of the other deductions claimed in this return are allocable to 
+      tax-free income. 
+
+Worksheet 4. Figuring Net Self-Employment Income for Schedule SE (Form 1040)
+      1 
+      W-2 salary as a minister (from box 1 of Form W-2) 1   
+      2 
+      Net profit from Schedule C, line 31, or Schedule C-EZ, line 3 2   
+      3a 
+      Parsonage allowance (from Worksheet 1, line 3a or 4a) 3a   
+      b 
+      Utilities allowance (from Worksheet 1, line 3b or 4c) 3b   
+      c 
+      Total allowance (add lines 3a and 3b) 3c   
+      4 
+      Add lines 1, 2, and 3c 4   
+      5 
+      Schedule C or C-EZ expenses allocable to tax-free income (from Worksheet 
+      2, line 6) 5   
+      6 
+      Unreimbursed ministerial employee business expenses (from Worksheet 3, 
+      line 7) 6   
+      7 
+      Total business expenses not deducted in lines 1 and 2 above (add lines 5 
+      and 6) 7   
+      8 
+      Net self-employment income. Subtract line 7 from line 4. Enter here and on 
+      Schedule SE, Section A, line 2, or Section B, line 6. 8   
+
+      Prev  Up Next
+       Home 
+
+
+      More Online Publications
+Accessibility |  FirstGov.gov |  Freedom of Information Act |  Important Links | 
+ IRS Privacy Policy |  U.S. Treasury
+
+

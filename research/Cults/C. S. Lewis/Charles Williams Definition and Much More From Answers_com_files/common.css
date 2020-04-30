@@ -1,0 +1,177 @@
+#footer {
+	CLEAR: both
+}
+DIV.floatright {
+	FLOAT: right; MARGIN: 0px 0px 1em 1em
+}
+DIV.floatright P {
+	FONT-STYLE: italic
+}
+DIV.floatleft {
+	FLOAT: left; MARGIN: 0.3em 0.5em 0.5em 0px
+}
+DIV.floatleft P {
+	FONT-STYLE: italic
+}
+.urlexpansion {
+	DISPLAY: none
+}
+.printfooter {
+	DISPLAY: none
+}
+TABLE.rimage {
+	FONT-SIZE: smaller; FLOAT: right; MARGIN-BOTTOM: 1em; MARGIN-LEFT: 1em; TEXT-ALIGN: center
+}
+DIV.thumb {
+	MARGIN: 10px; WIDTH: auto; TEXT-ALIGN: center
+}
+DIV.thumb DIV {
+	BORDER-RIGHT: #8888aa 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #8888aa 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 94%; PADDING-BOTTOM: 2px; OVERFLOW: hidden; BORDER-LEFT: #8888aa 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #8888aa 1px solid; BACKGROUND-COLOR: #f7f8ff; TEXT-ALIGN: center
+}
+DIV.thumb DIV  {
+	BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+DIV.thumb IMG {
+	BORDER-RIGHT: #8888aa 1px solid; BORDER-TOP: #8888aa 1px solid; BACKGROUND: #ffffff; MARGIN-BOTTOM: 3px; BORDER-LEFT: #8888aa 1px solid; BORDER-BOTTOM: #8888aa 1px solid
+}
+DIV.thumbcaption {
+	BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-TOP-STYLE: none! important; BORDER-RIGHT-STYLE: none! important; BORDER-LEFT-STYLE: none! important; BORDER-BOTTOM-STYLE: none! important
+}
+DIV.thumbcaption  {
+	BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-TOP-STYLE: none! important; BORDER-RIGHT-STYLE: none! important; BORDER-LEFT-STYLE: none! important; BORDER-BOTTOM-STYLE: none! important
+}
+DIV.thumbcaption {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; PADDING-BOTTOM: 0.2em! important; PADDING-TOP: 0.2em! important; TEXT-ALIGN: left! important
+}
+DIV.tright {
+	FLOAT: right; MARGIN-LEFT: 0.5em
+}
+DIV.tleft {
+	FLOAT: left; MARGIN-RIGHT: 0.5em
+}
+.autocomment {
+	COLOR: #4b4b4b
+}
+#pagehistory SPAN.user {
+	MARGIN-LEFT: 1.4em; MARGIN-RIGHT: 0.4em
+}
+#pagehistory SPAN.minor {
+	FONT-WEIGHT: bold
+}
+#pagehistory LI {
+	BORDER-RIGHT: white 1px solid; BORDER-TOP: white 1px solid; BORDER-LEFT: white 1px solid; BORDER-BOTTOM: white 1px solid
+}
+#pagehistory LI.selected {
+	BORDER-RIGHT: #aaaaaa 1px dashed; BORDER-TOP: #aaaaaa 1px dashed; BORDER-LEFT: #aaaaaa 1px dashed; BORDER-BOTTOM: #aaaaaa 1px dashed; BACKGROUND-COLOR: #f9f9f9
+}
+TABLE.diff {
+	BACKGROUND: white
+}
+TD.diff-otitle {
+	BACKGROUND: #cccccc
+}
+TD.diff-ntitle {
+	BACKGROUND: #cccccc
+}
+TD.diff-addedline {
+	FONT-SIZE: 94%; BACKGROUND: #ccffcc
+}
+TD.diff-deletedline {
+	FONT-SIZE: 94%; BACKGROUND: #ffffaa
+}
+TD.diff-context {
+	FONT-SIZE: 94%; BACKGROUND: #eeeeee
+}
+SPAN.diffchange {
+	COLOR: red
+}
+IMG {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+IMG.tex {
+	VERTICAL-ALIGN: middle
+}
+SPAN.texhtml {
+	FONT-FAMILY: serif
+}
+#toc {
+	BORDER-RIGHT: #8888aa 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #8888aa 1px solid; PADDING-LEFT: 5px; FONT-SIZE: 95%; PADDING-BOTTOM: 5px; BORDER-LEFT: #8888aa 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #8888aa 1px solid; BACKGROUND-COLOR: #f7f8ff
+}
+#toc .tocindent {
+	MARGIN-LEFT: 2em
+}
+#toc .tocline {
+	MARGIN-BOTTOM: 0px
+}
+#toc P {
+	MARGIN: 0px
+}
+#toc .toctoggle {
+	FONT-SIZE: 95%
+}
+#toc .editsection {
+	MARGIN-TOP: 0.7em; FONT-SIZE: 94%
+}
+.error {
+	FONT-SIZE: larger; COLOR: red
+}
+#preftoc {
+	FLOAT: left; MARGIN: 1em; WIDTH: 13em
+}
+#preftoc LI {
+	BORDER-RIGHT: white 1px solid; BORDER-TOP: white 1px solid; BORDER-LEFT: white 1px solid; BORDER-BOTTOM: white 1px solid
+}
+#preftoc LI.selected {
+	BORDER-RIGHT: #aaaaaa 1px dashed; BORDER-TOP: #aaaaaa 1px dashed; BORDER-LEFT: #aaaaaa 1px dashed; BORDER-BOTTOM: #aaaaaa 1px dashed; BACKGROUND-COLOR: #f9f9f9
+}
+#preftoc A {
+	DISPLAY: block; COLOR: #005189
+}
+#preftoc A:active {
+	DISPLAY: block; COLOR: #005189
+}
+#prefcontrol {
+	CLEAR: left; MARGIN-TOP: 1em; FLOAT: left
+}
+DIV.prefsectiontip {
+	MARGIN-TOP: 1em; FONT-SIZE: 94%
+}
+FIELDSET.prefsection {
+	MARGIN-TOP: 1em
+}
+FIELDSET.operaprefsection {
+	MARGIN-LEFT: 15em
+}
+.center {
+	WIDTH: 100%; TEXT-ALIGN: center
+}
+.center  {
+	MARGIN-LEFT: auto; MARGIN-RIGHT: auto
+}
+.small {
+	FONT-SIZE: 94%
+}
+.small  {
+	FONT-SIZE: 94%
+}
+TABLE.small {
+	FONT-SIZE: 100%
+}
+DIV.townBox {
+	CLEAR: right; PADDING-RIGHT: 0.3em; PADDING-LEFT: 0.3em; BACKGROUND: white; FLOAT: right; PADDING-BOTTOM: 0.3em; MARGIN-LEFT: 1em; OVERFLOW: hidden; WIDTH: 200px; PADDING-TOP: 0.3em; POSITION: relative
+}
+DIV.townBox DL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 96%; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0.3em; PADDING-TOP: 0px
+}
+DIV.townBox DL DT {
+	BACKGROUND: none transparent scroll repeat 0% 0%; MARGIN: 0.4em 0px 0px
+}
+DIV.townBox DL DD {
+	MARGIN: 0.1em 0px 0px 1.1em; BACKGROUND-COLOR: #f3f3f3
+}
+.toccolours {
+	BORDER-RIGHT: #aaaaaa 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #aaaaaa 1px solid; PADDING-LEFT: 5px; FONT-SIZE: 95%; PADDING-BOTTOM: 5px; BORDER-LEFT: #aaaaaa 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #aaaaaa 1px solid; BACKGROUND-COLOR: #f9f9f9
+}
+#siteNotice {
+	BORDER-RIGHT: #aaaaaa 1px solid; BORDER-TOP: #aaaaaa 1px solid; BORDER-LEFT: #aaaaaa 1px solid; BORDER-BOTTOM: #aaaaaa 1px solid
+}

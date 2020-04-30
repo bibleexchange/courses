@@ -1,0 +1,37 @@
+<html>
+<BODY>
+
+
+<script type=”text/javascript”>
+function valid() 
+{
+cor = “0?
+incor = “0?
+test0 = document.myform.elements[0].value;
+test1 = document.myform.elements[1].value;
+if (test0.toLowerCase() == “codingforums.com”) 
+{
+++cor; }
+else ++incor
+if (test1.toLowerCase() == “chrismiceli”)
+{
+++cor; }
+else ++incor
+alert(”you got ” + cor + ” right\n And you got ” + incor + ” wrong. You got ” + cor/2 * 100 + “% correct!”);
+}
+</script>
+
+
+<form name=”myform”>
+1. which city is the capital of the USA?
+<input type=”text” name=”q1?> <br>
+2. who is the president of America?
+<input type=”text" name="q2">
+<br>
+
+	<br>
+
+<input type="submit" onClick="valid()" value="check answers" name="grade" method="post">
+</form>
+<body/>
+<html/>

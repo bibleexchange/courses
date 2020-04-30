@@ -1,0 +1,168 @@
+BODY {
+	MARGIN: 10px
+}
+.leftwrapper {
+	FLOAT: left; WIDTH: 0px
+}
+.rightwrapper {
+	FLOAT: left; WIDTH: 0px
+}
+.mainwrapper {
+	FLOAT: left; WIDTH: 765px
+}
+.mainwrapper .content {
+	MARGIN: 0px 0px 5px
+}
+#container {
+	MARGIN: 0px 0px 5px
+}
+.maincontent {
+	MARGIN-TOP: 0px
+}
+.main {
+	MARGIN-TOP: 5px; FLOAT: left
+}
+.side {
+	MARGIN-TOP: 5px; FLOAT: left
+}
+.well {
+	MARGIN-LEFT: 10px
+}
+.righthalf {
+	FLOAT: right; WIDTH: 49.8%
+}
+.righthalf {
+	FLOAT: left; WIDTH: 50%
+}
+.half {
+	FLOAT: left; WIDTH: 45%
+}
+.half {
+	FLOAT: left; WIDTH: 50%
+}
+.quad {
+	FLOAT: left; WIDTH: 24.9%
+}
+.quad {
+	FLOAT: left; WIDTH: 25%
+}
+#dirs #formpage .main {
+	WIDTH: 367px
+}
+#dirs #formpage .side {
+	WIDTH: 377px
+}
+#dirs #formpage .side .well {
+	MARGIN-LEFT: 10px
+}
+#dirs #formpage .mainwrapper .content {
+	MARGIN-BOTTOM: 0px
+}
+#maps #formpage .main {
+	WIDTH: 393px
+}
+#maps #formpage .side {
+	WIDTH: 352px
+}
+#mobile #formpage .main {
+	WIDTH: 335px
+}
+#mobile #formpage .side {
+	WIDTH: 405px
+}
+#dirs #results .mainwrapper {
+	WIDTH: 100%
+}
+#maps #results .mainwrapper {
+	WIDTH: 100%
+}
+#maps #results .mainwrapper {
+	FLOAT: none
+}
+#maps #results .mainwrapper .content {
+	MARGIN-BOTTOM: 0px
+}
+#dirs #results .rightwrapper {
+	WIDTH: 218px
+}
+#maps #results .rightwrapper {
+	WIDTH: 218px
+}
+#dirs #results .rightwrapper .content {
+	MARGIN: 5px 0px 0px 10px
+}
+#maps #results .rightwrapper .content {
+	MARGIN: 5px 0px 0px 10px
+}
+#maps #results .main {
+	MARGIN-TOP: 0px; FLOAT: none
+}
+#maps #results .side {
+	MARGIN-TOP: 0px; FLOAT: none
+}
+#ambError .mainwrapper {
+	WIDTH: 745px
+}
+#ambError .mainwrapper .content {
+	MARGIN-LEFT: 10px
+}
+#ambPicker .panel {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#maps #settings .main {
+	WIDTH: 760px
+}
+#settings .label {
+	FLOAT: left; WIDTH: 228px
+}
+#settings .options {
+	FLOAT: left; WIDTH: 494px
+}
+TABLE.settings {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN-BOTTOM: 10px; WIDTH: 100%; BORDER-RIGHT-WIDTH: 0px
+}
+#subpage {
+	MARGIN: 10px
+}
+#subpage H1 {
+	MARGIN: 5px
+}
+#subpage H1 IMG {
+	VERTICAL-ALIGN: middle; MARGIN-RIGHT: 10px
+}
+#header {
+	MARGIN: 10px 0px; WIDTH: 765px
+}
+#header IMG#navmq {
+	MARGIN: 0px 20px 0px 0px
+}
+#header SPAN IMG {
+	MARGIN-RIGHT: 10px
+}
+#footer {
+	MARGIN: 5px 0px 12px
+}
+#footer {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+#provider IMG {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+.clear:unknown {
+	CLEAR: both; DISPLAY: block; VISIBILITY: hidden; HEIGHT: 0px; content: "."
+}
+.clear {
+	DISPLAY: inline-block
+}
+ HTML .clear {
+	HEIGHT: 1%
+}
+.clear {
+	DISPLAY: block
+}
+.fltl {
+	FLOAT: left
+}
+.fltr {
+	FLOAT: right
+}

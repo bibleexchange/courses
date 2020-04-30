@@ -1,0 +1,207 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(images/bodybg.png) #e6e6e6 repeat-x; PADDING-BOTTOM: 0px; MARGIN: 0px; FONT: 76% tahoma,verdana,sans-serif; COLOR: #333; PADDING-TOP: 0px; TEXT-ALIGN: center
+}
+A {
+	FONT-WEIGHT: bold; COLOR: #269; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+P {
+	MARGIN: 0px 0px 15px; LINE-HEIGHT: 1.5em
+}
+H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H4 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H1 {
+	FONT-SIZE: 3.2em; MARGIN: 12px 0px 5px 20px; COLOR: #567; LETTER-SPACING: -3px
+}
+H1 A:hover {
+	TEXT-DECORATION: none
+}
+H2 {
+	FONT-SIZE: 1.8em; MARGIN: -10px 0px 0px 50px; COLOR: #888; LETTER-SPACING: -1px
+}
+H3 {
+	FONT-SIZE: 1.4em; MARGIN: 1em 0px 0.5em 0.5em; COLOR: #555
+}
+H4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 1.2em
+}
+#container {
+	BORDER-RIGHT: #eef 1px solid; PADDING-RIGHT: 20px; PADDING-LEFT: 20px; BACKGROUND: url(images/contentbg.png) #f0f0f0 repeat-x; PADDING-BOTTOM: 0px; MARGIN: 0px auto; BORDER-LEFT: #eef 1px solid; WIDTH: 92%; COLOR: #333; PADDING-TOP: 0px; TEXT-ALIGN: left; min-width: 760px
+}
+#sitetitle {
+	FLOAT: left; WIDTH: 42%; COLOR: #333; HEIGHT: 100px
+}
+#sitetitle A {
+	FONT-WEIGHT: normal; COLOR: #567
+}
+#sitetitle A:hover {
+	COLOR: #269
+}
+#menu {
+	PADDING-TOP: 35px; HEIGHT: 71px; TEXT-ALIGN: right
+}
+#menu UL {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#menu LI {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#menu A {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; FONT-WEIGHT: normal; FONT-SIZE: 1.6em; PADDING-BOTTOM: 40px; MARGIN: 0px; COLOR: #888; PADDING-TOP: 34px; LETTER-SPACING: -1px; HEIGHT: 100px
+}
+#menu A:hover {
+	BORDER-RIGHT: #eee 1px solid; PADDING-RIGHT: 5px; PADDING-LEFT: 5px; BACKGROUND: url(images/menuhover.png) #fff repeat-x; PADDING-BOTTOM: 40px; BORDER-LEFT: #eee 1px solid; COLOR: #269; PADDING-TOP: 34px; TEXT-DECORATION: none
+}
+#content {
+	CLEAR: both; MARGIN-TOP: 30px; BACKGROUND: url(images/xglobebottom.gif) no-repeat left bottom; WIDTH: 100%
+}
+#content H2 {
+	MARGIN: 0px 0px 10px; COLOR: #555; BORDER-BOTTOM: #abb 2px solid
+}
+#content H2 A {
+	FONT-WEIGHT: normal; COLOR: #555
+}
+#content H2 A:hover {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #269; TEXT-DECORATION: none
+}
+#content P {
+	MARGIN: 0.5em 1em 0.8em
+}
+#left {
+	FLOAT: left; WIDTH: 62%
+}
+#right {
+	MARGIN-TOP: -15px; MARGIN-LEFT: 64%
+}
+#right H2 {
+	FONT-SIZE: 1.6em; MARGIN: 15px 0px 5px; WIDTH: 98%
+}
+#footer {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 24px; PADDING-BOTTOM: 12px; COLOR: #888; PADDING-TOP: 10px; TEXT-ALIGN: left
+}
+#footer A {
+	FONT-WEIGHT: normal; COLOR: #888
+}
+#footer SPAN {
+	FONT-SIZE: 2em; COLOR: #aaa; LETTER-SPACING: -2px
+}
+.entry {
+	BORDER-RIGHT: #fff 2px solid; PADDING-RIGHT: 10px; BORDER-TOP: #fff 2px solid; PADDING-LEFT: 10px; BACKGROUND: url(images/entrybg.png) #eee repeat-x; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 20px; BORDER-LEFT: #fff 2px solid; COLOR: #333; PADDING-TOP: 10px; BORDER-BOTTOM: #fff 2px solid; POSITION: relative
+}
+.entry A:hover {
+	BACKGROUND: url(images/flash2.gif) repeat-x left bottom; PADDING-BOTTOM: 2px; TEXT-DECORATION: none
+}
+.intro A:hover {
+	BACKGROUND: url(images/flash2.gif) repeat-x left bottom; PADDING-BOTTOM: 2px; TEXT-DECORATION: none
+}
+.entry IMG {
+	BORDER-RIGHT: #333 1px solid; BORDER-TOP: #333 1px solid; BORDER-LEFT: #333 1px solid; BORDER-BOTTOM: #333 1px solid
+}
+.sticky {
+	BORDER-LEFT-COLOR: #222; BORDER-BOTTOM-COLOR: #222; BORDER-TOP-COLOR: #222; BORDER-RIGHT-COLOR: #222
+}
+.link {
+	PADDING-RIGHT: 1em; DISPLAY: block; PADDING-LEFT: 1em; BACKGROUND: url(images/linkarrow.gif) no-repeat left 50%; PADDING-BOTTOM: 2px; MARGIN: 4px 0px 0px; COLOR: #269; PADDING-TOP: 2px
+}
+.link:hover {
+	BACKGROUND: url(images/blinkarrow.gif) no-repeat left 50%; COLOR: #48b; TEXT-DECORATION: none
+}
+.thumbs IMG {
+	BORDER-RIGHT: #fff 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #fff 1px solid; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; MARGIN: 0px 2px 2px 0px; BORDER-LEFT: #fff 1px solid; COLOR: #555; PADDING-TOP: 3px; BORDER-BOTTOM: #fff 1px solid; POSITION: relative; BACKGROUND-COLOR: #ddd
+}
+.thumbs IMG:hover {
+	BACKGROUND: url(images/flash.gif)
+}
+.entryphoto {
+	BORDER-RIGHT: #fff 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #fff 1px solid; PADDING-LEFT: 3px; FLOAT: left; PADDING-BOTTOM: 3px; MARGIN: 5px 10px 10px 0px; BORDER-LEFT: #fff 1px solid; COLOR: #333; PADDING-TOP: 3px; BORDER-BOTTOM: #fff 1px solid; BACKGROUND-COLOR: #ddd
+}
+.meta {
+	CLEAR: both; PADDING-RIGHT: 1px; BORDER-TOP: #ccc 2px solid; PADDING-LEFT: 0px; FONT-SIZE: 0.9em; PADDING-BOTTOM: 0px; MARGIN: 10px 0px 0px; COLOR: #567; PADDING-TOP: 5px; TEXT-ALIGN: left
+}
+.date {
+	FONT-WEIGHT: bold
+}
+.postedby {
+	
+}
+.pagenav {
+	COLOR: #888; TEXT-ALIGN: center
+}
+.entry IMG {
+	POSITION: relative
+}
+.subcontainer {
+	WIDTH: 98%
+}
+.subcontainer UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.subcontainer LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.rightsub {
+	FLOAT: left; WIDTH: 48%
+}
+.rightsub2 {
+	FLOAT: right; WIDTH: 48%
+}
+.right {
+	TEXT-ALIGN: right
+}
+.center {
+	TEXT-ALIGN: center
+}
+.clear {
+	CLEAR: both
+}
+.hide {
+	DISPLAY: none
+}
+.widget A IMG {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+IMG.centered {
+	DISPLAY: block; MARGIN-LEFT: auto; MARGIN-RIGHT: auto
+}
+IMG.aligncenter {
+	DISPLAY: block; MARGIN-LEFT: auto; MARGIN-RIGHT: auto
+}
+IMG.alignright {
+	PADDING-RIGHT: 4px; DISPLAY: inline; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; MARGIN: 0px 0px 2px 7px; PADDING-TOP: 4px
+}
+IMG.alignleft {
+	PADDING-RIGHT: 4px; DISPLAY: inline; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; MARGIN: 0px 7px 2px 0px; PADDING-TOP: 4px
+}
+.alignright {
+	FLOAT: right
+}
+.alignleft {
+	FLOAT: left
+}
+.aligncenter {
+	DISPLAY: block; MARGIN-LEFT: auto; MARGIN-RIGHT: auto
+}
+DIV.aligncenter {
+	DISPLAY: block; MARGIN-LEFT: auto; MARGIN-RIGHT: auto
+}
+.wp-caption {
+	BORDER-RIGHT: #ddd 1px solid; BORDER-TOP: #ddd 1px solid; MARGIN: 10px; BORDER-LEFT: #ddd 1px solid; PADDING-TOP: 4px; BORDER-BOTTOM: #ddd 1px solid; BACKGROUND-COLOR: #f3f3f3; TEXT-ALIGN: center; moz-border-radius: 3px; khtml-border-radius: 3px; webkit-border-radius: 3px; border-radius: 3px
+}
+.wp-caption IMG {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: 0px
+}
+.wp-caption P.wp-caption-text {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-SIZE: 11px; PADDING-BOTTOM: 5px; MARGIN: 0px; LINE-HEIGHT: 17px; PADDING-TOP: 0px
+}

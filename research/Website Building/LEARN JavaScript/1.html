@@ -1,0 +1,156 @@
+<html>
+<head>
+
+<script language="JavaScript">
+//Answers explanation. XX-X-A# i.e. Parliamentary Law Final answer one = PLFA1
+//arrays are used to allow for multiple very similar answers.
+//FIRST YEAR ANSWERS
+	//LIFE OF CHRST (LC)
+		//STUDY QUESTIONS
+var LCSA1 = new Array(3)
+	LCSA1[0]="Life of Christ";
+	LCSA1[1]="Life of Jesus";
+	LCSA1[2]="Jesus";
+var LCSA2 = new Array(3)
+	LCSA2[0]="Life of John";
+	LCSA2[1]="Life of John the Baptist";
+	LCSA2[2]="John the Baptist";
+var LCSA3 = new Array(3)
+	LCSA3[0]="Life of Peter";
+	LCSA3[1]="Life of Simon Peter";
+	LCSA3[2]="Simon Peter";
+		//QUIZZES
+		//FINAL EXAM
+
+//SECOND YEAR ANSWERS
+
+//THIRD YEAR ANSWERS
+	//PARLIAMENTARY LAW (PL)
+		//STUDY QUESTIONS
+		//QUIZZES
+		//FINAL EXAM
+
+var PLFA1 = new Array(3)
+	PLFA1[0]="Jesus";
+	PLFA1[1]="Nazarene";
+	PLFA1[2]='<a href=c://Users/Stephen/Desktop/1.html>Toggle back to Question</a>';
+var PLFA2 = new Array(3)
+	PLFA2[0]="hope";
+	PLFA2[1]="love";
+	PLFA2[2]="joy";
+var PLFA3 = new Array(3)
+	PLFA3[0]="Stephen";
+	PLFA3[1]="Tammy";
+	PLFA3[2]="Marsha";
+
+//hints categorized by class
+	//code explanation: AA-A-A#: ClassAbreviation,S-tudyQuestions or 
+	//Q-uiz or F-inal, & finally H + hint number
+
+	//FIRST YEAR
+	//SECOND YEAR
+	//THIRD YEAR
+		//Parliamentary Law
+	function PLFH1(){alert('No not Jonah');}
+	function PLFH2(){alert('No not aunt thelma');}
+	function PLFH3(){alert('No not because he had cancer');}
+
+//Clock & Date Code
+
+function startclock()
+{
+var thetime=new Date();
+
+var nmonth=thetime.getMonth();
+var ntoday=thetime.getDate();
+var nyear=thetime.getYear();
+var nday=thetime.getDay();
+var nhours=thetime.getHours();
+var nminutes=thetime.getMinutes();
+var nseconds=thetime.getSeconds();
+var AorP="";
+
+if (nhours>=12)
+	AorP="P.M.";
+else
+	AorP="A.M.";
+if(nhours>=13)
+	nhours-=12;
+if(nhours==0)
+	nhours=12;
+if(nseconds<10)
+	nseconds="0"+nseconds;
+if(nminutes<10)
+	nminutes="0"+nminutes;
+if(nmonth==0)
+	nmonth="January"
+if(nmonth==1)
+	nmonth="February"
+if(nmonth==2)
+	nmonth="March"
+if(nmonth==3)
+	nmonth="April"
+if(nmonth==4)
+	nmonth="May"
+if(nmonth==5)
+	nmonth="June"
+if(nmonth==6)
+	nmonth="July"
+if(nmonth==7)
+	nmonth="August"
+if(nmonth==8)
+	nmonth="September"
+if(nmonth==9)
+	nmonth="October"
+if(nmonth==10)
+	nmonth="November"
+if(nmonth==11)
+	nmonth="December"
+if(nyear>=100)
+	nyear+=1900
+if(nday==0)
+	nday="Sunday"
+if(nday==1)
+	nday="Monday"
+if(nday==2)
+	nday="Tuesday"
+if(nday==3)
+	nday="Wednesday"
+if(nday==4)
+	nday="Thursday"
+if(nday==5)
+	nday="Friday"
+if(nday==6)
+	nday="Saturday"
+document.test.testdate.value=nmonth+" "+ntoday+", "+nyear+", "+nday;
+document.test.testtime.value=nhours+":"+nminutes+":"+nseconds+" "+AorP;
+
+setTimeout('startclock()',1000);
+}
+
+//Grading Code
+
+
+
+</script>
+</head>
+<body onLoad="startclock()">
+
+<form name="test" action="sumbit">
+	Student's Full Name:<input type="text" name="FullName" size="30"/>&nbsp;&nbsp;&nbsp;&nbsp;
+	Date:<input type="text" name="testdate" size="23"/>&nbsp;
+	Time:<input type="text" name="testtime" size="8"/></br></br></br>
+
+	Who built the ark?:</br><input type="text" name="ans1[x]" size="40"/>
+		<a href="javascript:PLFH1()">HINT</a></br>
+	Who is love?:</br><input type="text" name="ans2[x]" size="40"/>
+		<a href="javascript:PLFH2()">HINT</a></br>
+	Why did Jesus have to die?:</br><input type="text" name="ans3[x]" size="40"/>
+		<a href="javascript:PLFH3()">HINT</a></br></br></br>
+
+Be sure all questions are answered before submitting!</br>
+<input type="submit" value="Grade" />
+</form>
+
+</body>
+</html>

@@ -1,0 +1,2105 @@
+From: "Saved by Windows Internet Explorer 7"
+Subject: Common fonts to all versions of Windows & Mac equivalents (Browser safe fonts) - Web design tips & tricks
+Date: Thu, 12 Mar 2009 00:41:17 -0400
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01C9A2AB.41533810"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.0.6001.18049
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01C9A2AB.41533810
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.ampsoft.net/webdesign-l/WindowsMacFonts.html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" =
+"http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<HTML lang=3Den><HEAD><TITLE>Common fonts to all versions of Windows & =
+Mac equivalents (Browser safe fonts) - Web design tips & tricks</TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1">
+<META content=3D"MSHTML 6.00.6001.18203" name=3DGENERATOR>
+<META content=3D"Alberto Martinez Perez (http://www.ampsoft.net/)" =
+name=3Dauthor>
+<META=20
+content=3D"A list with the common fonts to all versions of Windows and =
+their Mac equivalents, useful when creating websites."=20
+name=3Ddescription>
+<META=20
+content=3D"windows,mac,fonts,set,list,common,similar,equivalents,standard=
+,usual,normal,typical,frequent,web pages,websites,WinXP,Vista,MacOS"=20
+name=3Dkeywords><LINK =
+href=3D"http://www.ampsoft.net/webdesign-l/main.css"=20
+type=3Dtext/css rel=3Dstylesheet>
+<SCRIPT src=3D"http://www.ampsoft.net/webdesign-l/functions.js"=20
+type=3Dtext/javascript></SCRIPT>
+<LINK href=3D"../amp.ico" rel=3D"shortcut icon">
+<STYLE type=3Dtext/css>BODY {
+	MARGIN: 0px 5% 25px
+}
+P {
+	MARGIN: 10px 0px
+}
+TABLE {
+	BORDER-RIGHT: black 2px solid; BORDER-TOP: black 2px solid; MARGIN: 0px =
+0px 10px; BORDER-LEFT: black 2px solid; WIDTH: 100%; BORDER-BOTTOM: =
+black 2px solid
+}
+CAPTION {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; MARGIN: =
+0px; FONT: bold 1.35em Arial, Helvetica, sans-serif; COLOR: black; =
+PADDING-TOP: 20px; TEXT-ALIGN: left
+}
+TH {
+	BORDER-RIGHT: black 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: black =
+1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 2px; FONT: bold 1.15em =
+Arial, Helvetica, sans-serif; BORDER-LEFT: black 1px solid; PADDING-TOP: =
+2px; BORDER-BOTTOM: black 3px solid
+}
+TD {
+	BORDER-RIGHT: silver 1px solid; PADDING-RIGHT: 20px; BORDER-TOP: silver =
+1px solid; PADDING-LEFT: 20px; FONT-SIZE: 1.2em; PADDING-BOTTOM: 5px; =
+BORDER-LEFT: silver 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: silver =
+1px solid
+}
+.bold {
+	FONT-WEIGHT: bold
+}
+TD + TD {
+	FONT-WEIGHT: bold
+}
+EM {
+	COLOR: gray; FONT-STYLE: italic
+}
+.symbol {
+	FONT-SIZE: 0.8em
+}
+.mac {
+	COLOR: steelblue
+}
+.mac A {
+	COLOR: midnightblue
+}
+.notes {
+	MARGIN-BOTTOM: 30px; FONT-STYLE: italic
+}
+</STYLE>
+</HEAD>
+<BODY>
+<H1>Common fonts to all versions of Windows <SPAN =
+class=3Dampersand>&amp;</SPAN>=20
+Mac&nbsp;equivalents</H1>
+<P id=3Dupdate><SMALL>Last updated: 2008/06/03</SMALL></P>
+<P class=3Dreturn><SMALL>Return to the <A=20
+href=3D"http://www.ampsoft.net/webdesign-l/index.html">main =
+page</A></SMALL></P>
+<DIV id=3Dad-top-line>
+<SCRIPT type=3Dtext/javascript><!--
+google_ad_client =3D "pub-9854604059584213";
+google_ad_width =3D 728;
+google_ad_height =3D 15;
+google_ad_format =3D "728x15_0ads_al";
+google_ad_channel =3D"0043439793";
+google_color_border =3D "000000";
+google_color_bg =3D "F5F5F5";
+google_color_link =3D "4682B4";
+google_color_url =3D "BE7419";
+google_color_text =3D "000000";
+//--></SCRIPT>
+
+<SCRIPT src=3D"http://pagead2.googlesyndication.com/pagead/show_ads.js"=20
+type=3Dtext/javascript>
+</SCRIPT>
+</DIV>
+<H2>Introduction</H2>
+<P>Here you can find the list with the standard set of fonts common to =
+all=20
+versions of Windows and their Mac substitutes, referred sometimes as =
+"browser=20
+safe fonts". This is the reference I use when making web pages and I =
+expect you=20
+will find it useful too.</P>
+<P>If you are new to web design, maybe you are thinking: "Why I have to =
+limit to=20
+that small set of fonts? I have a large collection of nice fonts in my=20
+computer". Well, as seasoned web designers already know, browsers can =
+use only=20
+the fonts installed in the same computer, so it means that <EM>every=20
+visitor</EM> of your web page needs to have all the fonts you want to =
+use=20
+installed in his/her computer. Of course, different people will have =
+different=20
+fonts installed, and thus come the need of a standard set of fonts. =
+Fortunately,=20
+CSS allows set several values for the <A class=3Dexternal=20
+href=3D"http://www.w3schools.com/css/pr_font_font-family.asp"=20
+target=3D_blank>font-family property</A>, which eases the task a =
+bit.</P>
+<P>If you want to know how the fonts are displayed in other OS's or =
+browsers=20
+than yours, after the table you can find <A=20
+href=3D"http://www.ampsoft.net/webdesign-l/WindowsMacFonts.html#captures"=
+>several=20
+screen shots</A> of this page in different systems and browsers. Also, =
+you can=20
+take a look to the <A=20
+href=3D"http://www.ampsoft.net/webdesign-l/windows-fonts-by-version.html"=
+>list of=20
+the default fonts included with each version of Windows</A>.</P>
+<H2>The list</H2>
+<P>First, a few introductory notes:</P>
+<UL>
+  <LI>The names in grey are the generic family of each font.=20
+  <LI>In some cases the Mac equivalent is the same font, since Mac OS X =
+also=20
+  includes some of the fonts shipped with Windows.=20
+  <LI>The notes at the bottom contains specific information about some =
+of the=20
+  fonts. </LI></UL>
+<DIV class=3Dad-banner-middle>
+<SCRIPT type=3Dtext/javascript><!--
+google_ad_client =3D "pub-9854604059584213";
+/* webdesign-l large banner */
+google_ad_slot =3D "4719611570";
+google_ad_width =3D 728;
+google_ad_height =3D 90;
+//-->
+</SCRIPT>
+
+<SCRIPT src=3D"http://pagead2.googlesyndication.com/pagead/show_ads.js"=20
+type=3Dtext/javascript>
+</SCRIPT>
+</DIV>
+<TABLE cellSpacing=3D0>
+  <CAPTION>Windows fonts / <SPAN class=3Dmac>Mac fonts</SPAN> / <EM>Font =
+
+  family</EM></CAPTION>
+  <COLGROUP>
+  <COL>
+  <COL class=3Dbold>
+  <TBODY>
+  <TR>
+    <TH class=3Dcenter style=3D"WIDTH: 50%">Normal style</TH>
+    <TH class=3Dcenter>Bold style</TH></TR>
+  <TR style=3D"FONT-FAMILY: Arial, Helvetica, sans-serif">
+    <TD>Arial, <SPAN class=3Dmac>Arial, Helvetica</SPAN>, =
+<EM>sans-serif</EM></TD>
+    <TD>Arial, <SPAN class=3Dmac>Arial, Helvetica</SPAN>,=20
+  <EM>sans-serif</EM></TD></TR>
+  <TR style=3D"FONT-FAMILY: 'Arial Black', Gadget, sans-serif">
+    <TD>Arial Black, <SPAN class=3Dmac>Arial Black, Gadget</SPAN>,=20
+      <EM>sans-serif</EM></TD>
+    <TD>Arial Black, <SPAN class=3Dmac>Arial Black, Gadget</SPAN>,=20
+      <EM>sans-serif</EM></TD></TR>
+  <TR style=3D"FONT-FAMILY: 'Comic Sans MS', Textile, cursive">
+    <TD>Comic Sans MS, <SPAN class=3Dmac>Comic Sans =
+MS<SUP>5</SUP></SPAN>,=20
+      <EM>cursive</EM></TD>
+    <TD>Comic Sans MS, <SPAN class=3Dmac>Comic Sans =
+MS<SUP>5</SUP></SPAN>,=20
+      <EM>cursive</EM></TD></TR>
+  <TR style=3D"FONT-FAMILY: 'Courier New', Courier, monospace">
+    <TD>Courier New, <SPAN class=3Dmac>Courier New, =
+Courier<SUP>6</SUP></SPAN>,=20
+      <EM>monospace</EM></TD>
+    <TD>Courier New, <SPAN class=3Dmac>Courier New, =
+Courier<SUP>6</SUP></SPAN>,=20
+      <EM>monospace</EM></TD></TR>
+  <TR style=3D"FONT-FAMILY: Georgia, 'Times New Roman', Times, serif">
+    <TD>Georgia<SUP>1</SUP>, <SPAN class=3Dmac>Georgia</SPAN>, =
+<EM>serif</EM></TD>
+    <TD>Georgia<SUP>1</SUP>, <SPAN class=3Dmac>Georgia</SPAN>,=20
+  <EM>serif</EM></TD></TR>
+  <TR style=3D"FONT-FAMILY: Impact, Charcoal, sans-serif">
+    <TD>Impact, <SPAN class=3Dmac>Impact<SUP>5</SUP>,=20
+      Charcoal<SUP>6</SUP></SPAN>, <EM>sans-serif</EM></TD>
+    <TD>Impact, <SPAN class=3Dmac>Impact<SUP>5</SUP>,=20
+      Charcoal<SUP>6</SUP></SPAN>, <EM>sans-serif</EM></TD></TR>
+  <TR style=3D"FONT-FAMILY: 'Lucida Console', Monaco, monospace">
+    <TD>Lucida Console, <SPAN class=3Dmac>Monaco<SUP>5</SUP></SPAN>,=20
+      <EM>monospace</EM></TD>
+    <TD>Lucida Console, <SPAN class=3Dmac>Monaco<SUP>5</SUP></SPAN>,=20
+      <EM>monospace</EM></TD></TR>
+  <TR style=3D"FONT-FAMILY: 'Lucida Sans Unicode', 'Lucida Grande', =
+sans-serif">
+    <TD>Lucida Sans Unicode, <SPAN class=3Dmac>Lucida Grande</SPAN>,=20
+      <EM>sans-serif</EM></TD>
+    <TD>Lucida Sans Unicode, <SPAN class=3Dmac>Lucida Grande</SPAN>,=20
+      <EM>sans-serif</EM></TD></TR>
+  <TR=20
+    style=3D"FONT-FAMILY: 'Palatino Linotype', 'Book Antiqua', Palatino, =
+serif"><TD>Palatino=20
+      Linotype, Book Antiqua<SUP>3</SUP>, <SPAN=20
+      class=3Dmac>Palatino<SUP>6</SUP></SPAN>, <EM>serif</EM></TD>
+    <TD>Palatino Linotype, Book Antiqua<SUP>3</SUP>, <SPAN=20
+      class=3Dmac>Palatino<SUP>6</SUP></SPAN>, <EM>serif</EM></TD></TR>
+  <TR style=3D"FONT-FAMILY: Tahoma, Geneva, sans-serif">
+    <TD>Tahoma, <SPAN class=3Dmac>Geneva</SPAN>, =
+<EM>sans-serif</EM></TD>
+    <TD>Tahoma, <SPAN class=3Dmac>Geneva</SPAN>, =
+<EM>sans-serif</EM></TD></TR>
+  <TR style=3D"FONT-FAMILY: 'Times New Roman', Times, serif">
+    <TD>Times New Roman, <SPAN class=3Dmac>Times</SPAN>, =
+<EM>serif</EM></TD>
+    <TD>Times New Roman, <SPAN class=3Dmac>Times</SPAN>, =
+<EM>serif</EM></TD></TR>
+  <TR style=3D"FONT-FAMILY: 'Trebuchet MS', Helvetica, sans-serif">
+    <TD>Trebuchet MS<SUP>1</SUP>, <SPAN class=3Dmac>Helvetica</SPAN>,=20
+      <EM>sans-serif</EM></TD>
+    <TD>Trebuchet MS<SUP>1</SUP>, <SPAN class=3Dmac>Helvetica</SPAN>,=20
+      <EM>sans-serif</EM></TD></TR>
+  <TR style=3D"FONT-FAMILY: Verdana, Geneva, sans-serif">
+    <TD>Verdana, <SPAN class=3Dmac>Verdana, Geneva</SPAN>,=20
+<EM>sans-serif</EM></TD>
+    <TD>Verdana, <SPAN class=3Dmac>Verdana, Geneva</SPAN>,=20
+  <EM>sans-serif</EM></TD></TR>
+  <TR class=3Dsymbol style=3D"FONT-FAMILY: Symbol">
+    <TD>Symbol, <SPAN class=3Dmac>Symbol</SPAN> <SPAN=20
+      style=3D"FONT-FAMILY: Verdana; WHITE-SPACE: =
+nowrap">(Symbol<SUP>2</SUP>,=20
+      <SPAN class=3Dmac>Symbol<SUP>2</SUP></SPAN>)</SPAN></TD>
+    <TD>Symbol, <SPAN class=3Dmac>Symbol</SPAN> <SPAN=20
+      style=3D"FONT-FAMILY: Verdana; WHITE-SPACE: =
+nowrap">(Symbol<SUP>2</SUP>,=20
+      <SPAN class=3Dmac>Symbol<SUP>2</SUP></SPAN>)</SPAN></TD></TR>
+  <TR class=3Dsymbol style=3D"FONT-FAMILY: Webdings">
+    <TD>Webdings, <SPAN class=3Dmac>Webdings</SPAN> <SPAN=20
+      style=3D"FONT-FAMILY: Verdana; WHITE-SPACE: =
+nowrap">(Webdings<SUP>2</SUP>,=20
+      <SPAN class=3Dmac>Webdings<SUP>2</SUP></SPAN>)</SPAN></TD>
+    <TD>Webdings, <SPAN class=3Dmac>Webdings</SPAN> <SPAN=20
+      style=3D"FONT-FAMILY: Verdana; WHITE-SPACE: =
+nowrap">(Webdings<SUP>2</SUP>,=20
+      <SPAN class=3Dmac>Webdings<SUP>2</SUP></SPAN>)</SPAN></TD></TR>
+  <TR class=3Dsymbol style=3D"FONT-FAMILY: Wingdings, 'Zapf Dingbats'">
+    <TD>Wingdings,&nbsp;<SPAN class=3Dmac>Zapf&nbsp;Dingbats</SPAN> =
+<SPAN=20
+      style=3D"FONT-FAMILY: Verdana; WHITE-SPACE: =
+nowrap">(Wingdings<SUP>2</SUP>,&nbsp;<SPAN=20
+      class=3Dmac>Zapf&nbsp;Dingbats<SUP>2</SUP></SPAN>)</SPAN></TD>
+    <TD>Wingdings,&nbsp;<SPAN class=3Dmac>Zapf&nbsp;Dingbats</SPAN> =
+<SPAN=20
+      style=3D"FONT-FAMILY: Verdana; WHITE-SPACE: =
+nowrap">(Wingdings<SUP>2</SUP>,&nbsp;<SPAN=20
+      =
+class=3Dmac>Zapf&nbsp;Dingbats<SUP>2</SUP></SPAN>)</SPAN></TD></TR>
+  <TR style=3D"FONT-FAMILY: 'MS Sans Serif', Geneva, sans-serif">
+    <TD>MS Sans Serif<SUP>4</SUP>, <SPAN class=3Dmac>Geneva</SPAN>,=20
+      <EM>sans-serif</EM></TD>
+    <TD>MS Sans Serif<SUP>4</SUP>, <SPAN class=3Dmac>Geneva</SPAN>,=20
+      <EM>sans-serif</EM></TD></TR>
+  <TR style=3D"FONT-FAMILY: 'MS Serif', 'New York', serif">
+    <TD>MS Serif<SUP>4</SUP>, <SPAN class=3Dmac>New =
+York<SUP>6</SUP></SPAN>,=20
+      <EM>serif</EM></TD>
+    <TD>MS Serif<SUP>4</SUP>, <SPAN class=3Dmac>New =
+York<SUP>6</SUP></SPAN>,=20
+      <EM>serif</EM></TD></TR></TBODY></TABLE>
+<DIV class=3Dnotes>
+<P><SUP>1</SUP> Georgia and Trebuchet MS are bundled with Windows =
+2000/XP and=20
+they are also included in the IE font pack (and bundled with other MS=20
+applications), so they are quite common in Windows 98 systems.</P>
+<P><SUP>2</SUP> Symbolic fonts are only displayed in Internet Explorer, =
+in other=20
+browsers a font substitute is used instead (although the Symbol font =
+does work=20
+in Opera and the Webdings works in Safari).</P>
+<P><SUP>3</SUP> Book Antiqua is almost exactly the same font that =
+Palatino=20
+Linotype, Palatino Linotype is included in Windows 2000/XP while Book =
+Antiqua=20
+was bundled with Windows 98.</P>
+<P><SUP>4</SUP> These fonts are not TrueType fonts but bitmap fonts, so =
+they=20
+won't look well when using some font sizes (they are designed for 8, 10, =
+12, 14,=20
+18 and 24 point sizes at 96 DPI).</P>
+<P class=3Dmac><SUP>5</SUP> These fonts work in Safari but only when =
+using the=20
+normal font style, and not with bold or italic styles. Comic Sans MS =
+works in=20
+bold but not in italic. Other Mac browsers seems to emulate properly the =
+styles=20
+not provided by the font (thanks to <A class=3Dexternal=20
+href=3D"http://christianfecteau.com/" target=3D_blank>Christian =
+Fecteau</A> for the=20
+tip).</P>
+<P class=3Dmac><SUP>6</SUP> These fonts are present in Mac OS X only if=20
+<STRONG>Classic</STRONG> is installed.</P></DIV><A name=3Dcaptures></A>
+<H2>How the fonts look in different systems and browsers</H2>
+<UL>
+  <LI><A=20
+  =
+href=3D"http://www.ampsoft.net/webdesign-l/img/Font-list-MacOSX-Firefox-C=
+learType-2.png">Mac=20
+  OS X 10.4.8, Firefox 2.0, ClearType enabled</A> (thanks to Juris =
+Vecvanags for=20
+  the screen shot)=20
+  <LI><A=20
+  =
+href=3D"http://www.ampsoft.net/webdesign-l/img/Font-list-MacOSX-Firefox-C=
+learType.png">Mac=20
+  OS X 10.4.4, Firefox 1.5, ClearType enabled</A> (thanks to Eric =
+Zavesky for=20
+  the screen shot)=20
+  <LI><A=20
+  =
+href=3D"http://www.ampsoft.net/webdesign-l/img/Font-list-MacOSX-Safari3-C=
+learType.png">Mac=20
+  OS X 10.4.11, Safari 3.0.4, ClearType enabled</A> (thanks to Nolan =
+Gladius for=20
+  the screen shot)=20
+  <LI><A=20
+  =
+href=3D"http://www.ampsoft.net/webdesign-l/img/Font-list-MacOSX-Safari-Cl=
+earType.png">Mac=20
+  OS X 10.4.4, Safari 2.0.3, ClearType enabled</A> (thanks to Eric =
+Zavesky for=20
+  the screen shot)=20
+  <LI><A=20
+  =
+href=3D"http://www.ampsoft.net/webdesign-l/img/Font-list-Vista-IE7-ClearT=
+ype.png">Windows=20
+  Vista, Internet Explorer 7, ClearType enabled</A> (thanks to Michiel =
+Bijl for=20
+  the screen shot)=20
+  <LI><A=20
+  =
+href=3D"http://www.ampsoft.net/webdesign-l/img/Font-list-Vista-Firefox2-C=
+learType.png">Windows=20
+  Vista, Firefox 2.0, ClearType enabled</A> (thanks to Michiel Bijl for =
+the=20
+  screen shot)=20
+  <LI><A=20
+  =
+href=3D"http://www.ampsoft.net/webdesign-l/img/Font-list-WinXP-IE6-ClearT=
+ype.png">Windows=20
+  XP, Internet Explorer 6, ClearType enabled</A>=20
+  <LI><A=20
+  =
+href=3D"http://www.ampsoft.net/webdesign-l/img/Font-list-WinXP-Firefox-Cl=
+earType.png">Windows=20
+  XP, Firefox 1.0.7, ClearType enabled</A>=20
+  <LI><A=20
+  =
+href=3D"http://www.ampsoft.net/webdesign-l/img/Font-list-WinXP-IE6.png">W=
+indows=20
+  XP, Internet Explorer 6, Basic font smoothing enabled</A>=20
+  <LI><A=20
+  =
+href=3D"http://www.ampsoft.net/webdesign-l/img/Font-list-WinXP-Firefox.pn=
+g">Windows=20
+  XP, Firefox 1.0.7, Basic font smoothing enabled</A>=20
+  <LI><A=20
+  =
+href=3D"http://www.ampsoft.net/webdesign-l/img/Font-list-Win2000-IE6.png"=
+>Windows=20
+  2000, Internet Explorer 6, Basic font smoothing enabled</A>=20
+  <LI><A=20
+  =
+href=3D"http://www.ampsoft.net/webdesign-l/img/Font-list-Win2000-Firefox.=
+png">Windows=20
+  2000, Firefox 1.0.7, Basic font smoothing enabled</A>=20
+  <LI><A=20
+  =
+href=3D"http://www.ampsoft.net/webdesign-l/img/Font-list-Ubuntu7-Gnome.pn=
+g">Linux=20
+  (Ubuntu 7.04 + Gnome), Firefox 2.0</A> (thanks to Juris Vecvanags for =
+the=20
+  screen shot) </LI></UL>
+<P>Note that while the ClearType smoothing is applied always, the basic =
+font=20
+smoothing of Windows 98/2000/XP is applied only to certain font sizes. =
+That=20
+sizes can be specified by the font designer, but usually they are in the =
+ranges=20
+of 0-6 and 14+ points (pt).</P>
+<P class=3Dnotes><BR>The Mac font list was obtained from the <A =
+class=3Dexternal=20
+href=3D"http://www.webbedenvironments.com/dhtml/downloads/BrowserSafeFont=
+s.pdf"=20
+target=3D_blank>Browser Safe Fonts PDF</A> of <A class=3Dexternal=20
+href=3D"http://www.webbedenvironments.com/dhtml/"=20
+target=3D_blank>webbedEnvironments</A> and from the <A class=3Dexternal=20
+href=3D"http://en.wikipedia.org/wiki/List_of_fonts_in_Mac_OS_X" =
+target=3D_blank>List=20
+of fonts in Mac OS X</A> of the <A class=3Dexternal=20
+href=3D"http://www.wikipedia.org/" target=3D_blank>Wikipedia</A>.</P>
+<DIV style=3D"CLEAR: both"></DIV>
+<DIV id=3Dad-banner-bottom style=3D"MARGIN-TOP: 20px">
+<SCRIPT type=3Dtext/javascript><!--
+google_ad_client =3D "pub-9854604059584213";
+/* webdesign-l banner */
+google_ad_slot =3D "8914878313";
+google_ad_width =3D 468;
+google_ad_height =3D 60;
+//-->
+</SCRIPT>
+
+<SCRIPT src=3D"http://pagead2.googlesyndication.com/pagead/show_ads.js"=20
+type=3Dtext/javascript>
+</SCRIPT>
+</DIV>
+<P class=3Dreturn><SMALL>Return to the <A=20
+href=3D"http://www.ampsoft.net/webdesign-l/index.html">main =
+page</A></SMALL></P>
+<P id=3Dfooter>=A9 2004-2008
+<SCRIPT type=3Dtext/javascript><!--
+  maskedEmail("ampsoft","Alberto Martinez Perez","amp","net");
+//--></SCRIPT>
+ <NOSCRIPT>Alberto Martinez Perez<BR><IMG height=3D20=20
+alt=3D"(See this image to get my email)"=20
+src=3D"http://www.ampsoft.net/img/Email.gif" width=3D135> =
+</NOSCRIPT><BR><A=20
+href=3D"http://www.ampsoft.net/webdesign-l/">Web design tips &amp; =
+tricks</A> </P>
+<SCRIPT src=3D"http://www.google-analytics.com/urchin.js" =
+type=3Dtext/javascript>
+</SCRIPT>
+
+<SCRIPT type=3Dtext/javascript>
+_uacct =3D "UA-275968-1";
+urchinTracker();
+</SCRIPT>
+</BODY></HTML>
+
+------=_NextPart_000_0000_01C9A2AB.41533810
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.ampsoft.net/img/Email.gif
+
+R0lGODlhhwAUAAAAACH5BAEAAAAALAAAAACHABQAhgAAAAAAAMDAwICAgEUAAABoFfoBAAAOAgAA
+AADAKw4CXAAAAAAAAAABBAAACwAAAFj7IARFAAAAAAAOAmgV+gFY+yAE8Iq8dyyLvHcTPxZhAAAO
+AgAAAACkAw4CSAEOAlwAAFzAKw4CJwAAACAtJQQAAA4CAQEAAAAQcAUAAA4CAAAAAFAAAAACAAAA
+tPsgBCcAAAAAAA4CIC0lBLT7IATwirx3LIu8d/8/FmEAAA4CAAAAALQCDgJIAQ4CAAAAANxIDgJw
+AQ4CAAAAAEgBDgKHW7x3Mz8WYQAADgIAAAAA1CwOApioPAUDAAAAHACJA2cHAAApAAApHPwgBECG
+vHcwAQ4CSAP3AfgDAAAdAIUBZwcAAAAAAABIAPcBQEw7BEgC9wF4gk0FYB33AQj7IAQBAAAAEPwg
+BDSYtneDiIoSvJtMAAUAAAC4ivoBBQAAAHj7IAR0/CAEtmAe840TTAC2YB7z7fArAIdbvHeHW7x3
+XzgWYQAADgIAAAAA1CwOAgd/gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf4AAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAB/gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAABAX+AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEBAQAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf4AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AQEAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/gAAAAAAAAAAAAAAA
+AAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AH+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAEAAAAAAAAAAAAAAAAAAQEBAQAAAAEAAQEBAAABAQEAAAABAAEBAQAAAAAAAQAAAAEBAQEAAQAA
+AAAAAQEBAQAAAAEAAQEBf4AAAAEBAQAAAAEAAQEBAAAAAAEBAQEAAAAAAQEBAQAAAAEBAQEBAQEB
+AQAAAAAAAQABAQEBAAAAAAABAQEAAAABAQEBAQAAAAAAAAAAAAEAAAAAAQAAAQEAAAABAQAAAAEA
+AAEBAAAAAQAAAAEAAAABAAAAAQAAAQAAAAEAAAB/gAABAAABAQAAAAEBAAAAAQAAAQEAAAABAAAB
+AAAAAAEAAAEAAAAAAQAAAAEAAAABAAAAAAAAAAABAQAAAAABAAAAAQAAAAEAAAABAAAAAAAAAAAA
+AAAAAAAAAAABAAABAAAAAAEAAAAAAQAAAQAAAAAAAQAAAQAAAQAAAAABAH+AAAEAAAAAAAAAAAEA
+AAEAAAAAAQAAAAABAAABAAAAAAABAAEAAAAAAAABAAAAAAAAAQAAAQAAAAEAAAAAAAAAAAEAAAAA
+AAEAAAEAAAAAAAEAAAEAAAAAAAAAAAAAAAABAQEBAQEAAAEAAAAAAQAAAAABAAABAAAAAAABAAAB
+f4AAAAEAAAAAAQAAAQAAAAEBAQEBAQAAAQAAAAABAAAAAAEAAAEAAAAAAAEAAAEBAAAAAAEAAAAA
+AAABAAABAAAAAQAAAAAAAAAAAQAAAAAAAQAAAQEBAQEBAQAAAQAAAAAAAAAAAAAAAQAAAAAAAQAA
+AQAAAAABAAAAAAEAAAF/gAAAAAAAAQAAAQAAAQAAAAABAAABAAABAAAAAAABAAABAAAAAAEAAAAA
+AQAAAQAAAAAAAQAAAAABAQAAAQAAAAAAAAEAAAEAAAABAAAAAAAAAAABAAAAAAABAAABAAAAAAAA
+AAABAAAAAAAAAAAAAAABAAAAAAABAAABAAAAAH+AAQAAAAABAAABAAAAAAABAAABAAAAAQAAAAEA
+AAEAAAEAAAAAAAEAAAEAAAAAAQAAAAABAAABAAAAAAABAAAAAAAAAQABAAAAAAAAAQAAAQAAAAEA
+AAAAAAAAAAEAAAAAAAEAAAEAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAf4ABAQAAAQAAAAABAAAA
+AAEAAAEAAAAAAQAAAAABAAAAAQEBAQEBAAAAAQAAAAABAQAAAQAAAAABAAAAAAEAAAEAAAAAAQAA
+AQAAAAABAAABAAAAAAEAAAABAAAAAQAAAAAAAQAAAQAAAAAAAQAAAAEAAAAAAQAAAQAAAAAAAAB/
+gAAAAAAAAQEBAQABAAABAAAAAAEAAAAAAQAAAQEBAQEAAAAAAAEAAAAAAAAAAAAAAAAAAQEBAQAB
+AAABAAAAAAEAAAAAAQAAAQEBAQEAAAAAAQEBAQAAAAABAQEBAAAAAAEAAAAAAQEBAAABAAABAAAA
+AAABAAAAAAEBAQEAAH+AAAABAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA
+AAAAAAEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAABAQEBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/gAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH+A
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAf4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIEAOw==
+
+------=_NextPart_000_0000_01C9A2AB.41533810
+Content-Type: text/css;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.ampsoft.net/webdesign-l/main.css
+
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: whitesmoke; =
+PADDING-BOTTOM: 0px; MARGIN: 0px 25% 35px 15%; FONT: small Verdana, =
+Geneva, sans-serif; COLOR: black; PADDING-TOP: 0px
+}
+TBODY {
+	VERTICAL-ALIGN: top
+}
+IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: =
+0px; BORDER-RIGHT-WIDTH: 0px
+}
+P {
+	FONT-SIZE: 1em; MARGIN: 5px 0px 10px
+}
+LI {
+	FONT-SIZE: 1em; MARGIN: 5px 0px 10px
+}
+UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: =
+10px 0px 10px 15px; PADDING-TOP: 0px
+}
+OL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: =
+10px 0px 10px 25px; PADDING-TOP: 0px
+}
+H1 {
+	MARGIN: 25px 0px 15px; FONT: 2.05em 'Trebuchet MS', Helvetica, =
+sans-serif; COLOR: darkslategray
+}
+H1#title {
+	FONT: 2.5em Impact, Charcoal, "Arial Black", sans-serif
+}
+H2 {
+	MARGIN: 25px 0px 10px; FONT: bold 1.5em "Trebuchet MS", Arial, =
+Helvetica, sans-serif; COLOR: steelblue
+}
+CAPTION {
+	MARGIN: 25px 0px 10px; FONT: bold 1.5em "Trebuchet MS", Arial, =
+Helvetica, sans-serif; COLOR: steelblue
+}
+CAPTION {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; MARGIN: =
+0px; PADDING-TOP: 20px; TEXT-ALIGN: left
+}
+H3 {
+	MARGIN: 20px 0px 10px; FONT: bold 1.15em Arial,Helvetica,sans-serif; =
+COLOR: darkslategray
+}
+H4 {
+	MARGIN: 10px 0px 5px; FONT: bold 1em Arial,Helvetica,sans-serif
+}
+HR {
+	BORDER-RIGHT: black 0px solid; PADDING-RIGHT: 0px; BORDER-TOP: black =
+1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 15px auto; =
+BORDER-LEFT: black 0px solid; WIDTH: 100%; COLOR: whitesmoke; =
+PADDING-TOP: 0px; BORDER-BOTTOM: black 1px solid; HEIGHT: 3px; =
+BACKGROUND-COLOR: transparent; TEXT-ALIGN: center
+}
+BODY > HR {
+	MARGIN: 30px auto
+}
+DIV > HR {
+	MARGIN: 30px auto
+}
+TABLE {
+	BORDER-RIGHT: black 2px solid; BORDER-TOP: black 2px solid; MARGIN: =
+15px 0px; BORDER-LEFT: black 2px solid; WIDTH: 75%; BORDER-BOTTOM: black =
+2px solid; BORDER-COLLAPSE: collapse
+}
+TD {
+	BORDER-RIGHT: black 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: black =
+1px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 3px; BORDER-LEFT: black =
+1px solid; PADDING-TOP: 3px; BORDER-BOTTOM: black 1px solid; TEXT-ALIGN: =
+left
+}
+TH {
+	BORDER-RIGHT: black 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: black =
+1px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 3px; BORDER-LEFT: black =
+1px solid; PADDING-TOP: 3px; BORDER-BOTTOM: black 1px solid; TEXT-ALIGN: =
+left
+}
+TH {
+	FONT-WEIGHT: bold; FONT-SIZE: 1.1em
+}
+PRE {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: =
+15px 0px 25px; FONT: 1.01em/135% "Courier New", Courier, monospace; =
+COLOR: midnightblue; PADDING-TOP: 0px
+}
+CODE {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: =
+15px 0px 25px; FONT: 1.01em/135% "Courier New", Courier, monospace; =
+COLOR: midnightblue; PADDING-TOP: 0px
+}
+ACRONYM {
+	BORDER-BOTTOM: black 1px dotted
+}
+A {
+	COLOR: #d55000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #c21b12
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+A.external {
+	PADDING-RIGHT: 15px; BACKGROUND: url(img/New-window.gif) no-repeat =
+right center
+}
+SMALL {
+	FONT-SIZE: 0.85em
+}
+.center {
+	TEXT-ALIGN: center
+}
+.right {
+	TEXT-ALIGN: right
+}
+.left {
+	TEXT-ALIGN: left
+}
+.justify {
+	TEXT-ALIGN: justify
+}
+.nowrap {
+	WHITE-SPACE: nowrap
+}
+.tag {
+	FONT-WEIGHT: bold; COLOR: #484884
+}
+.attrib {
+	FONT-WEIGHT: normal; COLOR: midnightblue
+}
+.option {
+	FONT-WEIGHT: normal; COLOR: midnightblue
+}
+.screenshot {
+	PADDING-RIGHT: 5%; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 20px =
+0px; PADDING-TOP: 0px; TEXT-ALIGN: center
+}
+.return {
+	MARGIN: 0px 0px 20px
+}
+.ampersand {
+	FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+#footer {
+	MARGIN: 35px 0px 0px; LINE-HEIGHT: 1.5em; TEXT-ALIGN: center
+}
+#update {
+	MARGIN-TOP: 0px; FLOAT: right
+}
+.article-nav-top {
+	FONT-WEIGHT: bold; FONT-SIZE: 0.95em
+}
+.article-nav-bottom {
+	FONT-WEIGHT: bold; FONT-SIZE: 0.95em
+}
+.article-nav-top {
+	MARGIN: 15px 0px 20px
+}
+.article-nav-bottom {
+	MARGIN: 30px 0px 20px
+}
+#ad-sky-right {
+	RIGHT: 4%; FLOAT: right; MARGIN: 0px; POSITION: absolute
+}
+#ad-bottom-line {
+	MARGIN: 30px 0px 15px
+}
+#ad-top-line {
+	MARGIN: 15px 0px 20px
+}
+#ad-hsky-top {
+	MARGIN: 5px auto 0px; TEXT-ALIGN: center
+}
+#ad-banner-bottom {
+	MARGIN: 30px auto 20px; TEXT-ALIGN: center
+}
+.ad-banner-middle {
+	MARGIN: 30px auto 10px; TEXT-ALIGN: center
+}
+.ad-hsky-middle {
+	MARGIN: 30px auto 10px; TEXT-ALIGN: center
+}
+
+------=_NextPart_000_0000_01C9A2AB.41533810
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: 7bit
+Content-Location: http://www.ampsoft.net/webdesign-l/functions.js
+
+// Script by Alberto Martinez Perez (http://www.ampsoft.net/)
+
+function maskedEmail(domain,text,name,suffix) {
+  var address=name+'@'+domain+'.'+suffix;
+  if (text=="") text=address;
+  document.write('<a hr'+'ef="ma'+'i'+'lto:'+address+'">'+text+'</a>');
+}
+
+function disableStyles() {
+  var linksArray, stylesArray=new Array();
+
+   // getting styles sheets
+   linksArray=document.getElementsByTagName("link");
+   for(i=0;i<linksArray.length;i++) {
+     if (linksArray[i].getAttribute("rel").indexOf("stylesheet")!=-1){
+       stylesArray.push(linksArray[i]);
+     }
+   }
+
+   // disabling style sheets
+   for(i=0;i<stylesArray.length;i++) stylesArray[i].disabled=true;
+
+   // disabling local styles
+   stylesArray=document.getElementsByTagName('STYLE');
+   for(i=0;i<stylesArray.length;i++) stylesArray[i].disabled=true;
+}
+
+------=_NextPart_000_0000_01C9A2AB.41533810
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://pagead2.googlesyndication.com/pagead/show_ads.js
+
+(function(){=0A=
+var g=3Dfalse,h=3Dnull,k=3Dtrue,m=3D(new Date).getTime();var =
+aa=3D{google_ad_channel:"channel",google_ad_host:"host",google_ad_host_ch=
+annel:"h_ch",google_ad_host_tier_id:"ht_id",google_ad_region:"region",goo=
+gle_ad_section:"region",google_ad_type:"ad_type",google_adtest:"adtest",g=
+oogle_allow_expandable_ads:"ea",google_alternate_ad_url:"alternate_ad_url=
+",google_alternate_color:"alt_color",google_bid:"bid",google_city:"gcs",g=
+oogle_color_bg:"color_bg",google_color_border:"color_border",google_color=
+_line:"color_line",google_color_link:"color_link",google_color_text:"colo=
+r_text",=0A=
+google_color_url:"color_url",google_contents:"contents",google_country:"g=
+l",google_cust_age:"cust_age",google_cust_ch:"cust_ch",google_cust_gender=
+:"cust_gender",google_cust_id:"cust_id",google_cust_interests:"cust_inter=
+ests",google_cust_job:"cust_job",google_cust_l:"cust_l",google_cust_lh:"c=
+ust_lh",google_cust_u_url:"cust_u_url",google_disable_video_autoplay:"dis=
+able_video_autoplay",google_ed:"ed",google_encoding:"oe",google_feedback:=
+"feedback_link",google_flash_version:"flash",google_font_face:"f",=0A=
+google_gl:"gl",google_hints:"hints",google_kw:"kw",google_kw_type:"kw_typ=
+e",google_language:"hl",google_page_url:"url",google_referrer_url:"ref",g=
+oogle_region:"gr",google_reuse_colors:"reuse_colors",google_safe:"adsafe"=
+,google_tag_info:"gut",google_targeting:"targeting",google_ui_features:"u=
+i",google_ui_version:"uiv",google_video_doc_id:"video_doc_id",google_vide=
+o_product_type:"video_product_type"},ba=3D{google_ad_format:"format",goog=
+le_ad_output:"output",google_ad_callback:"callback",google_ad_override:"g=
+oogle_ad_override",=0A=
+google_ad_slot:"slotname",google_analytics_uacct:"ga_wpids",google_correl=
+ator:"correlator",google_cpa_choice:"cpa_choice",google_ctr_threshold:"ct=
+r_t",google_image_size:"image_size",google_last_modified_time:"lmt",googl=
+e_max_num_ads:"num_ads",google_max_radlink_len:"max_radlink_len",google_n=
+um_radlinks:"num_radlinks",google_num_radlinks_per_unit:"num_radlinks_per=
+_unit",google_only_ads_with_video:"only_ads_with_video",google_page_locat=
+ion:"loc",google_rl_dest_url:"rl_dest_url",google_rl_filtering:"rl_filter=
+ing",=0A=
+google_rl_mode:"rl_mode",google_rt:"rt",google_skip:"skip"},ca=3D{google_=
+only_pyv_ads:"pyv"};function o(a){return =
+aa[a]||ba[a]||ca[a]||h};document.URL&&(document.URL.indexOf("?google_debu=
+g")>0||document.URL.indexOf("&google_debug")>0);function =
+p(){this.b=3Dthis.p();this.h=3Dg;if(!this.b)this.h=3Dthis.j()}p.prototype=
+.f=3D"__gads=3D";p.prototype.c=3D"GoogleAdServingTest=3D";p.prototype.o=3D=
+function(){return =
+this.b};p.prototype.setCookieInfo=3Dfunction(a){this.a=3Da._cookies_[0];i=
+f(this.a!=3Dh){this.b=3Dthis.a._value_;this.q()}};p.prototype.l=3Dfunctio=
+n(a){var b=3D(new Date).valueOf(),c=3Dnew Date;c.setTime(b+a);return c};=0A=
+p.prototype.k=3Dfunction(a){if(!(this.b!=3Dh||!this.h)){var =
+b=3D"script",c=3Ddocument.domain,d=3D"http://partner.googleadservices.com=
+/gampad/cookie.js?callback=3D_GA_googleCookieHelper.setCookieInfo&client=3D=
+"+r(a)+"&domain=3D"+r(c);document.write("<"+b+' =
+src=3D"'+d+'"></'+b+">")}};p.prototype.j=3Dfunction(){document.cookie=3Dt=
+his.c+"Good";var a=3Dthis.g(this.c),b=3Da=3D=3D"Good";if(b){var =
+c=3Dthis.l(-1);document.cookie=3Dthis.c+"; =
+expires=3D"+c.toGMTString()}return b};p.prototype.p=3Dfunction(){var =
+a=3Dthis.g(this.f);return a};=0A=
+p.prototype.g=3Dfunction(a){var =
+b=3Ddocument.cookie,c=3Db.indexOf(a),d=3Dh;if(c!=3D-1){var =
+e=3Dc+a.length,f=3Db.indexOf(";",e);if(f=3D=3D-1)f=3Db.length;d=3Db.subst=
+ring(e,f)}return =
+d};p.prototype.q=3Dfunction(){if(!(this.a=3D=3Dh))if(!(this.b=3D=3Dh)){va=
+r a=3Dnew Date;a.setTime(1000*this.a._expires_);var =
+b=3Dthis.a._domain_,c=3Dthis.f+this.b+"; expires=3D"+a.toGMTString()+"; =
+path=3D"+this.a._path_+"; domain=3D."+b;document.cookie=3Dc}};function =
+s(a,b){var c;return a?(c=3DparseFloat(a))?c:b:b}=0A=
+function da(a,b){if(a=3D=3D"true")return k;if(a=3D=3D"false")return =
+g;return b}=0A=
+function ea(){if(navigator.plugins&&navigator.mimeTypes.length){var =
+a=3Dnavigator.plugins["Shockwave Flash"];if(a&&a.description)return =
+a.description.replace(/([a-zA-Z]|\s)+/,"").replace(/(\s)+r/,".")}else =
+if(navigator.userAgent&&navigator.userAgent.indexOf("Windows =
+CE")>=3D0){var b=3D3,c=3D1;for(;c;)try{c=3Dnew =
+ActiveXObject("ShockwaveFlash.ShockwaveFlash."+(b+1));b++}catch(d){c=3Dh}=
+return b.toString()}else if(fa()){var c=3Dh;try{c=3Dnew =
+ActiveXObject("ShockwaveFlash.ShockwaveFlash.7")}catch(d){var =
+b=3D0;try{c=3Dnew ActiveXObject("ShockwaveFlash.ShockwaveFlash.6");=0A=
+b=3D6;c.AllowScriptAccess=3D"always"}catch(d){if(b=3D=3D6)return =
+b.toString()}try{c=3Dnew =
+ActiveXObject("ShockwaveFlash.ShockwaveFlash")}catch(d){}}if(c!=3Dh){var =
+b=3Dc.GetVariable("$version").split(" ")[1];return =
+b.replace(/,/g,".")}}return"0"};var =
+ga=3Dga||{},t=3Dthis,w=3Dfunction(a){var b=3Dtypeof =
+a;if(b=3D=3D"object")if(a){if(a instanceof Array||!(a instanceof =
+Object)&&Object.prototype.toString.call(a)=3D=3D"[object =
+Array]")return"array";if(typeof =
+a.call!=3D"undefined")return"function"}else return"null";else =
+if(b=3D=3D"function"&&typeof =
+a.call=3D=3D"undefined")return"object";return b};var =
+ha=3Dfunction(a){var b=3Dw(a);return =
+b=3D=3D"array"||b=3D=3D"object"&&typeof a.length=3D=3D"number"};=0A=
+var ia=3Dfunction(a){var b=3Dw(a);return =
+b=3D=3D"object"||b=3D=3D"array"||b=3D=3D"function"},ja=3Dfunction(a){var =
+b=3Dw(a);if(b=3D=3D"object"||b=3D=3D"array"){if(a.clone)return =
+a.clone.call(a);var c=3Db=3D=3D"array"?[]:{};for(var d in =
+a)c[d]=3Dja(a[d]);return c}return a};var =
+ka=3Dfunction(a,b,c){if(a.forEach)a.forEach(b,c);else =
+if(Array.forEach)Array.forEach(a,b,c);else{var d=3Da.length,e=3Dtypeof =
+a=3D=3D"string"?a.split(""):a,f=3D0;for(;f<d;f++)f in =
+e&&b.call(c,e[f],f,a)}},la=3Dfunction(a){if(w(a)=3D=3D"array")return =
+a.concat();else{var =
+b=3D[],c=3D0,d=3Da.length;for(;c<d;c++)b[c]=3Da[c];return b}};var =
+x=3Dfunction(a,b){this.x=3Dtypeof a!=3D"undefined"?a:0;this.y=3Dtypeof =
+b!=3D"undefined"?b:0};x.prototype.clone=3Dfunction(){return new =
+x(this.x,this.y)};x.prototype.toString=3Dfunction(){return"("+this.x+", =
+"+this.y+")"};var =
+y=3Dfunction(a,b){this.width=3Da;this.height=3Db};y.prototype.clone=3Dfun=
+ction(){return new =
+y(this.width,this.height)};y.prototype.toString=3Dfunction(){return"("+th=
+is.width+" x =
+"+this.height+")"};y.prototype.ceil=3Dfunction(){this.width=3DMath.ceil(t=
+his.width);this.height=3DMath.ceil(this.height);return =
+this};y.prototype.floor=3Dfunction(){this.width=3DMath.floor(this.width);=
+this.height=3DMath.floor(this.height);return this};=0A=
+y.prototype.round=3Dfunction(){this.width=3DMath.round(this.width);this.h=
+eight=3DMath.round(this.height);return =
+this};y.prototype.scale=3Dfunction(a){this.width*=3Da;this.height*=3Da;re=
+turn this};var ma=3Dfunction(a,b,c){for(var d in =
+a)b.call(c,a[d],d,a)};var ra=3Dfunction(a){return =
+a.replace(/^[\s\xa0]+|[\s\xa0]+$/g,"")},xa=3Dfunction(a,b){if(b)return =
+a.replace(sa,"&amp;").replace(ta,"&lt;").replace(ua,"&gt;").replace(va,"&=
+quot;");else{if(!wa.test(a))return =
+a;if(a.indexOf("&")!=3D-1)a=3Da.replace(sa,"&amp;");if(a.indexOf("<")!=3D=
+-1)a=3Da.replace(ta,"&lt;");if(a.indexOf(">")!=3D-1)a=3Da.replace(ua,"&gt=
+;");if(a.indexOf('"')!=3D-1)a=3Da.replace(va,"&quot;");return =
+a}},sa=3D/&/g,ta=3D/</g,ua=3D/>/g,va=3D/\"/g,wa=3D/[&<>\"]/,ya=3Dfunction=
+(a,b){var c=3Db.length,d=3D0;for(;d<c;d++){var e=3D=0A=
+c=3D=3D1?b:b.charAt(d);if(a.charAt(0)=3D=3De&&a.charAt(a.length-1)=3D=3De=
+)return a.substring(1,a.length-1)}return a};=0A=
+var za=3Dfunction(a,b){var =
+c=3D0,d=3Dra(String(a)).split("."),e=3Dra(String(b)).split("."),f=3DMath.=
+max(d.length,e.length),i=3D0;for(;c=3D=3D0&&i<f;i++){var =
+j=3Dd[i]||"",n=3De[i]||"",l=3Dnew RegExp("(\\d*)(\\D*)","g"),u=3Dnew =
+RegExp("(\\d*)(\\D*)","g");do{var =
+v=3Dl.exec(j)||["","",""],q=3Du.exec(n)||["","",""];if(v[0].length=3D=3D0=
+&&q[0].length=3D=3D0)break;var =
+E=3Dv[1].length=3D=3D0?0:parseInt(v[1],10),T=3Dq[1].length=3D=3D0?0:parse=
+Int(q[1],10);c=3Dz(E,T)||z(v[2].length=3D=3D0,q[2].length=3D=3D0)||z(v[2]=
+,q[2])}while(c=3D=3D0)}return c},z=3Dfunction(a,b){if(a<=0A=
+b)return-1;else if(a>b)return 1;return 0};var =
+A,Aa,B,Ba,Ca,Da,Ea,Fa,Ga,Ha=3Dfunction(){return =
+t.navigator?t.navigator.userAgent:h};var =
+Ia=3Dfunction(){Da=3DCa=3DBa=3DB=3DAa=3DA=3Dg;var a;if(a=3DHa()){var =
+b=3Dt.navigator;A=3Da.indexOf("Opera")=3D=3D0;Aa=3D!A&&a.indexOf("MSIE")!=
+=3D-1;Ba=3D(B=3D!A&&a.indexOf("WebKit")!=3D-1)&&a.indexOf("Mobile")!=3D-1=
+;Da=3D(Ca=3D!A&&!B&&b.product=3D=3D"Gecko")&&b.vendor=3D=3D"Camino"}};Ia(=
+);=0A=
+var C=3DA,D=3DAa,Ja=3DCa,F=3DB,Ka=3DBa,La=3Dfunction(){var =
+a=3Dt.navigator;return =
+a&&a.platform||""},Ma=3DLa(),Na=3Dfunction(){Ea=3DMa.indexOf("Mac")!=3D-1=
+;Fa=3DMa.indexOf("Win")!=3D-1;Ga=3DMa.indexOf("Linux")!=3D-1};Na();var =
+Oa=3DEa,Pa=3DFa,Qa=3DGa,Ra=3Dfunction(){var a=3D"",b;if(C&&t.opera){var =
+c=3Dt.opera.version;a=3Dtypeof =
+c=3D=3D"function"?c():c}else{if(Ja)b=3D/rv\:([^\);]+)(\)|;)/;else =
+if(D)b=3D/MSIE\s+([^\);]+)(\)|;)/;else =
+if(F)b=3D/WebKit\/(\S+)/;if(b){var =
+d=3Db.exec(Ha());a=3Dd?d[1]:""}}return a},Sa=3DRa();var =
+G=3Dfunction(a){return za(Sa,a)>=3D0};var H;var Ta=3Dfunction(a){return =
+a?new I(J(a)):H||(H=3Dnew I)};=0A=
+var Ua=3Dfunction(a){return typeof =
+a=3D=3D"string"?document.getElementById(a):a},Va=3DUa,Xa=3Dfunction(a,b){=
+ma(b,function(c,d){if(d=3D=3D"style")a.style.cssText=3Dc;else =
+if(d=3D=3D"class")a.className=3Dc;else =
+if(d=3D=3D"for")a.htmlFor=3Dc;else if(d in =
+Wa)a.setAttribute(Wa[d],c);else =
+a[d]=3Dc})},Wa=3D{cellpadding:"cellPadding",cellspacing:"cellSpacing",col=
+span:"colSpan",rowspan:"rowSpan",valign:"vAlign",height:"height",width:"w=
+idth",usemap:"useMap",frameborder:"frameBorder",type:"type"},Ya=3Dfunctio=
+n(a){var b=3Da||t||window,c=3Db.document;=0A=
+if(F&&!G("500")&&!Ka){if(typeof =
+b.innerHeight=3D=3D"undefined")b=3Dwindow;var =
+d=3Db.innerHeight,e=3Db.document.documentElement.scrollHeight;if(b=3D=3Db=
+.top)if(e<d)d-=3D15;return new y(b.innerWidth,d)}var =
+f=3DTa(c),i=3Df.e()&&(!C||C&&G("9.50"))?c.documentElement:c.body;return =
+new y(i.clientWidth,i.clientHeight)},Za=3Dfunction(){var a=3DH||(H=3Dnew =
+I);return =
+a.i.apply(a,arguments)},$a=3Dfunction(a,b){a.appendChild(b)},ab=3Dfunctio=
+n(a){return =
+a&&a.parentNode?a.parentNode.removeChild(a):h},bb=3Dfunction(a,b){var =
+c=3Db.parentNode;c&&c.replaceChild(a,=0A=
+b)};=0A=
+var eb=3DF&&za(Sa,"521")<=3D0,fb=3Dfunction(a,b){if(typeof =
+a.contains!=3D"undefined"&&!eb&&b.nodeType=3D=3D1)return =
+a=3D=3Db||a.contains(b);if(typeof =
+a.compareDocumentPosition!=3D"undefined")return =
+a=3D=3Db||Boolean(a.compareDocumentPosition(b)&16);for(;b&&a!=3Db;)b=3Db.=
+parentNode;return b=3D=3Da},J=3Dfunction(a){return =
+a.nodeType=3D=3D9?a:a.ownerDocument||a.document},gb=3Dfunction(a){if(a&&t=
+ypeof a.length=3D=3D"number")if(ia(a))return typeof =
+a.item=3D=3D"function"||typeof a.item=3D=3D"string";else =
+if(w(a)=3D=3D"function")return typeof a.item=3D=3D"function";return g},=0A=
+I=3Dfunction(a){this.d=3Da||t.document||document};=0A=
+I.prototype.i=3Dfunction(a,b){if(D&&b&&(b.name||b.type)){var =
+c=3D["<",a];b.name&&c.push(' =
+name=3D"',xa(b.name),'"');if(b.type){c.push(' =
+type=3D"',xa(b.type),'"');b=3Dja(b);delete =
+b.type}c.push(">");a=3Dc.join("")}var =
+d=3Dthis.createElement(a);b&&Xa(d,b);if(arguments.length>2){function =
+e(j){if(j)this.appendChild(d,typeof =
+j=3D=3D"string"?this.createTextNode(j):j)}var =
+f=3D2;for(;f<arguments.length;f++){var =
+i=3Darguments[f];ha(i)&&!(ia(i)&&i.nodeType>0)?ka(gb(i)?la(i):i,e,this):e=
+.call(this,i)}}return d};=0A=
+I.prototype.createElement=3Dfunction(a){return =
+this.d.createElement(a)};I.prototype.createTextNode=3Dfunction(a){return =
+this.d.createTextNode(a)};I.prototype.e=3Dfunction(){var =
+a=3Dthis.d;if(a.compatMode)return =
+a.compatMode=3D=3D"CSS1Compat";if(F){var =
+b=3Da.createElement("div");b.style.cssText=3D"position:absolute;width:0;h=
+eight:0;width:1";var =
+c=3Db.style.width=3D=3D"1px"?"BackCompat":"CSS1Compat";return(a.compatMod=
+e=3Dc)=3D=3D"CSS1Compat"}return g};=0A=
+I.prototype.n=3Dfunction(){var =
+a=3Dthis.d;return!F&&this.e()?a.documentElement:a.body};I.prototype.m=3Df=
+unction(){var a=3Dthis.n();return new =
+x(a.scrollLeft,a.scrollTop)};I.prototype.appendChild=3D$a;I.prototype.rem=
+oveNode=3Dab;I.prototype.replaceNode=3Dbb;I.prototype.contains=3Dfb;var =
+hb,ib,jb,kb,lb,mb,nb=3Dfunction(){mb=3Dlb=3Dkb=3Djb=3Dib=3Dhb=3Dg;var =
+a=3DHa();if(!!a)if(a.indexOf("Firefox")!=3D-1)hb=3Dk;else =
+if(a.indexOf("Camino")!=3D-1)ib=3Dk;else =
+if(a.indexOf("iPhone")!=3D-1||a.indexOf("iPod")!=3D-1)jb=3Dk;else =
+if(a.indexOf("Android")!=3D-1)kb=3Dk;else =
+if(a.indexOf("Chrome")!=3D-1)lb=3Dk;else =
+if(a.indexOf("Safari")!=3D-1)mb=3Dk};nb();var ob=3Dib;var =
+pb,qb=3Dfunction(a,b){var =
+c=3DJ(a);if(c.defaultView&&c.defaultView.getComputedStyle){var =
+d=3Dc.defaultView.getComputedStyle(a,"");if(d)return d[b]}return h};var =
+K=3Dfunction(a,b){return =
+qb(a,b)||(a.currentStyle?a.currentStyle[b]:h)||a.style[b]};=0A=
+var rb=3Dfunction(a){var =
+b;b=3Da?a.nodeType=3D=3D9?a:J(a):document;if(D&&!Ta(b).e())return =
+b.body;return b.documentElement},sb=3Dfunction(a){var =
+b=3Da.getBoundingClientRect();if(D){var =
+c=3Da.ownerDocument;b.left-=3Dc.documentElement.clientLeft+c.body.clientL=
+eft;b.top-=3Dc.documentElement.clientTop+c.body.clientTop}return =
+b},tb=3Dfunction(a){if(D)return a.offsetParent;var =
+b=3DJ(a),c=3DK(a,"position"),d=3Dc=3D=3D"fixed"||c=3D=3D"absolute",e=3Da.=
+parentNode;for(;e&&e!=3Db;e=3De.parentNode){c=3DK(e,"position");d=3Dd&&c=3D=
+=3D"static"&&e!=3Db.documentElement&&=0A=
+e!=3Db.body;if(!d&&(e.scrollWidth>e.clientWidth||e.scrollHeight>e.clientH=
+eight||c=3D=3D"fixed"||c=3D=3D"absolute"))return e}return =
+h},ub=3Dfunction(a){var =
+b,c=3DJ(a),d=3DK(a,"position"),e=3DJa&&c.getBoxObjectFor&&!a.getBoundingC=
+lientRect&&d=3D=3D"absolute"&&(b=3Dc.getBoxObjectFor(a))&&(b.screenX<0||b=
+.screenY<0);if(typeof pb=3D=3D"undefined")pb=3Dob&&!G("1.8.0.11");var =
+f=3Dnew x(0,0),i=3Drb(c);if(a=3D=3Di)return =
+f;if(a.getBoundingClientRect){b=3Dsb(a);var =
+j=3DTa(c).m();f.x=3Db.left+j.x;f.y=3Db.top+j.y}else =
+if(c.getBoxObjectFor&&!e&&!pb){b=3Dc.getBoxObjectFor(a);=0A=
+var =
+n=3Dc.getBoxObjectFor(i);f.x=3Db.screenX-n.screenX;f.y=3Db.screenY-n.scre=
+enY}else{var =
+l=3Da;do{f.x+=3Dl.offsetLeft;f.y+=3Dl.offsetTop;if(l!=3Da){f.x+=3Dl.clien=
+tLeft||0;f.y+=3Dl.clientTop||0}if(F&&K(l,"position")=3D=3D"fixed"){f.x+=3D=
+c.body.scrollLeft;f.y+=3Dc.body.scrollTop;break}l=3Dl.offsetParent}while(=
+l&&l!=3Da);if(C||F&&d=3D=3D"absolute")f.y-=3Dc.body.offsetTop;l=3Da;for(;=
+(l=3Dtb(l))&&l!=3Dc.body;){f.x-=3Dl.scrollLeft;if(!C||l.tagName!=3D"TR")f=
+.y-=3Dl.scrollTop}}return =
+f},vb=3Dfunction(a,b,c,d){if(/^\d+px?$/.test(b))return parseInt(b,10);=0A=
+else{var =
+e=3Da.style[c],f=3Da.runtimeStyle[c];a.runtimeStyle[c]=3Da.currentStyle[c=
+];a.style[c]=3Db;var =
+i=3Da.style[d];a.style[c]=3De;a.runtimeStyle[c]=3Df;return =
+i}},wb=3Dfunction(a){var b=3DJ(a),c=3D"";if(b.createTextRange){var =
+d=3Db.body.createTextRange();d.moveToElementText(a);c=3Dd.queryCommandVal=
+ue("FontName")}if(!c){c=3DK(a,"fontFamily");if(C&&Qa)c=3Dc.replace(/ =
+\[[^\]]*\]/,"")}var e=3Dc.split(",");if(e.length>1)c=3De[0];return =
+ya(c,"\"'")},xb=3Dfunction(a){var b=3Da.match(/[^\d]+$/);return =
+b&&b[0]||h},yb=3D{cm:1,"in":1,mm:1,pc:1,=0A=
+pt:1},zb=3D{em:1,ex:1},Ab=3Dfunction(a){var =
+b=3DK(a,"fontSize"),c=3Dxb(b);if(b&&"px"=3D=3Dc)return =
+parseInt(b,10);if(D)if(c in yb)return vb(a,b,"left","pixelLeft");else =
+if(a.parentNode&&c in zb)return =
+vb(a.parentNode,b,"left","pixelLeft");var =
+d=3DZa("span",{style:"visibility:hidden;position:absolute;line-height:0;p=
+adding:0;margin:0;border:0;height:1em;"});$a(a,d);b=3Dd.offsetHeight;ab(d=
+);return b};var L=3Ddocument,M=3Dnavigator,O=3Dwindow;=0A=
+function Bb(){var a=3DL.cookie,b=3DMath.round((new =
+Date).getTime()/1000),c=3DO.google_analytics_domain_name,d=3Dtypeof =
+c=3D=3D"undefined"?Cb("auto"):Cb(c),e=3Da.indexOf("__utma=3D"+d+".")>-1,f=
+=3Da.indexOf("__utmb=3D"+d)>-1,i=3Da.indexOf("__utmc=3D"+d)>-1,j,n=3D{};i=
+f(e){j=3Da.split("__utma=3D"+d+".")[1].split(";")[0].split(".");n.sid=3Df=
+&&i?j[3]+"":O&&O.gaGlobal&&O.gaGlobal.sid?O.gaGlobal.sid:b+"";n.vid=3Dj[0=
+]+"."+j[1];n.from_cookie=3Dk}else{n.sid=3DO&&O.gaGlobal&&O.gaGlobal.sid?O=
+.gaGlobal.sid:b+"";n.vid=3DO&&O.gaGlobal&&O.gaGlobal.vid?=0A=
+O.gaGlobal.vid:(Db()^Eb()&2147483647)+"."+b;n.from_cookie=3Dg}n.dh=3Dd;n.=
+hid=3DO&&O.gaGlobal&&O.gaGlobal.hid?O.gaGlobal.hid:Db();return =
+O.gaGlobal=3Dn}function Db(){return Math.round(Math.random()*2147483647)}=0A=
+function Eb(){var =
+a=3DL.cookie?L.cookie:"",b=3DO.history.length,c,d,e=3D[M.appName,M.versio=
+n,M.language?M.language:M.browserLanguage,M.platform,M.userAgent,M.javaEn=
+abled()?1:0].join("");if(O.screen)e+=3DO.screen.width+"x"+O.screen.height=
++O.screen.colorDepth;else =
+if(O.java){d=3Djava.awt.Toolkit.getDefaultToolkit().getScreenSize();e+=3D=
+d.screen.width+"x"+d.screen.height}e+=3Da;e+=3DL.referrer?L.referrer:"";c=
+=3De.length;for(;b>0;)e+=3Db--^c++;return Fb(e)}=0A=
+function Fb(a){var =
+b=3D1,c=3D0,d,e;if(!(a=3D=3Dundefined||a=3D=3D"")){b=3D0;d=3Da.length-1;f=
+or(;d>=3D0;d--){e=3Da.charCodeAt(d);b=3D(b<<6&268435455)+e+(e<<14);c=3Db&=
+266338304;b=3Dc!=3D0?b^c>>21:b}}return b}function =
+Cb(a){if(!a||a=3D=3D""||a=3D=3D"none")return =
+1;if("auto"=3D=3Da){a=3DL.domain;if("www."=3D=3Da.substring(0,4))a=3Da.su=
+bstring(4,a.length)}return Fb(a.toLowerCase())};var =
+P=3D"",Gb=3Dk;function Q(a){if(a){if(P!=3D"")P+=3D",";P+=3Da}}var =
+R=3Dg,Hb=3Dda("true",g);function Ib(a,b){var =
+c=3D"script";R=3DJb(a,b);var d=3D!Kb();R&&d&&b.write("<"+c+' =
+src=3D"http://pagead2.googlesyndication.com/pagead/expansion_embed.js"></=
+'+c+">");var e=3DLb(a,b,s("1",0.01)),f=3Dd||e;f&&fa()?b.write("<"+c+' =
+src=3D"http://pagead2.googlesyndication.com/pagead/render_ads.js"></'+c+"=
+>"):b.write("<"+c+">window.google_render_ad();</"+c+">")}=0A=
+function S(a){return a!=3Dh?'"'+a+'"':'""'}function r(a){return typeof =
+encodeURIComponent=3D=3D"function"?encodeURIComponent(a):escape(a)}functi=
+on U(a,b){if(a&&b)window.google_ad_url+=3D"&"+a+"=3D"+b}function =
+V(a){var b=3Dwindow,c=3Do(a),d=3Db[a];U(c,d)}function =
+W(a,b){b!=3Dh&&U(a,r(b))}function X(a){var =
+b=3Dwindow,c=3Do(a),d=3Db[a];W(c,d)}function Y(a,b){var =
+c=3Dwindow,d=3Do(a),e=3Dc[a];if(d&&e&&typeof =
+e=3D=3D"object")e=3De[b%e.length];U(d,e)}=0A=
+function Mb(a){var b=3Da.screen,c=3Dnavigator.javaEnabled(),d=3D-(new =
+Date).getTimezoneOffset();if(b){U("u_h",b.height);U("u_w",b.width);U("u_a=
+h",b.availHeight);U("u_aw",b.availWidth);U("u_cd",b.colorDepth)}U("u_tz",=
+d);U("u_his",history.length);U("u_java",c);navigator.plugins&&U("u_nplug"=
+,navigator.plugins.length);navigator.mimeTypes&&U("u_nmime",navigator.mim=
+eTypes.length)}=0A=
+function =
+Nb(a){if(!!a.google_enable_first_party_cookie){if(a._GA_googleCookieHelpe=
+r=3D=3Dh)a._GA_googleCookieHelper=3Dnew =
+p;if(!a._google_cookie_fetched){a._google_cookie_fetched=3Dk;a._GA_google=
+CookieHelper.k(Ob(a.google_ad_client))}}}function =
+Ob(a){if(a){a=3Da.toLowerCase();if(a.substring(0,3)!=3D"ca-")a=3D"ca-"+a}=
+return a}function =
+Pb(a){if(a){a=3Da.toLowerCase();if(a.substring(0,9)!=3D"dist-aff-")a=3D"d=
+ist-aff-"+a}return a}function Qb(a){var =
+b=3D"google_unique_id";if(a[b])++a[b];else a[b]=3D1;return a[b]}=0A=
+function Rb(){var =
+a=3DD&&G("6")&&!G("8"),b=3DJa&&G("1.8.1"),c=3DF&&G("525");if(Pa&&(a||b||c=
+))return k;else if(Oa&&(c||b))return k;else if(Qa&&b)return k;return =
+g}function Kb(){return typeof =
+ExpandableAdSlotFactory=3D=3D"function"&&typeof =
+ExpandableAdSlotFactory.createIframe=3D=3D"function"}function =
+Jb(a,b){var =
+c=3Da.google_allow_expandable_ads;if(c!=3Dh&&c=3D=3Dg||!b.body||a.google_=
+ad_output!=3D"html"||Sb(a,b)||Tb(a)||Z(a.google_ad_format)||isNaN(a.googl=
+e_ad_height)||isNaN(a.google_ad_width)||!Rb())return g;return k}=0A=
+function Ub(){var =
+a=3DMath.random(),b=3Ds("0",0.03),c=3D2*b;if(a<b)return"30143019";if(a<c)=
+return"30143020";return""}function Vb(){var =
+a=3DMath.random(),b=3Ds("0",0.03),c=3D2*b;if(a<b)return"30143021";if(a<c)=
+return"30143022";return""}function Wb(){var =
+a=3DMath.random(),b=3Ds("0.03",0.02),c=3D2*b;if(a<b)return"6083028";if(a<=
+c)return"6083029";return""}=0A=
+function Xb(){var =
+a=3DMath.random(),b=3Ds("0.02",0.0050),c=3D2*b;if(a<b)return"54341001";if=
+(a<c)return"54341002";return""}function =
+Yb(a){a.google_allow_expandable_ads=3Dg;a.google_expandable_iframe=3Dg}=0A=
+function Zb(a,b,c,d){var =
+e=3DQb(a);c=3Dc.substring(0,1992);c=3Dc.replace(/%\w?$/,"");var =
+f=3D"script";if((a.google_ad_output=3D=3D"js"||a.google_ad_output=3D=3D"j=
+son_html")&&(a.google_ad_request_done||a.google_radlink_request_done))b.w=
+rite("<"+f+' language=3D"JavaScript1.1" =
+src=3D'+S($(c))+"></"+f+">");else =
+if(a.google_ad_output=3D=3D"html")if($b(a)&&Kb()){var =
+i=3Da.google_container_id||d||h;a["google_expandable_ad_slot"+e]=3DExpand=
+ableAdSlotFactory.createIframe("google_ads_frame"+e,$(c),a.google_ad_widt=
+h,a.google_ad_height,=0A=
+i)}else{var j=3D'<iframe name=3D"google_ads_frame" =
+width=3D'+S(a.google_ad_width)+" height=3D"+S(a.google_ad_height)+" =
+frameborder=3D"+S(a.google_ad_frameborder)+" src=3D"+S($(c))+' =
+marginwidth=3D"0" marginheight=3D"0" vspace=3D"0" hspace=3D"0" =
+allowtransparency=3D"true" =
+scrolling=3D"no"></iframe>';j=3Dac(a.google_ad_width,a.google_ad_height,j=
+);a.google_container_id?bc(a.google_container_id,b,j):b.write(j)}else =
+a.google_ad_output=3D=3D"textlink"&&b.write("<"+f+' =
+language=3D"JavaScript1.1" src=3D'+S($(c))+"></"+f+">")}=0A=
+function $b(a){if(!R)return g;var =
+b=3DP.indexOf("30143020")!=3D-1,c=3DP.indexOf("30143019")!=3D-1,d=3Da.goo=
+gle_expandable_iframe;return Hb&&!c||b||d}function cc(a){var =
+b=3Dda("false",g);return =
+b&&a.indexOf("30143021")=3D=3D-1||a.indexOf("30143022")!=3D-1}=0A=
+function ac(a,b,c){var d=3Dcc(P);if(R&&d){var =
+e=3D"border:none;height:"+b+"px;margin:0;padding:0;position:relative;visi=
+bility:visible;width:"+a+"px";return'<ins =
+style=3D"display:inline-table;'+e+'"><ins =
+style=3D"display:block;'+e+'">'+c+"</ins></ins>"}return c}function =
+dc(a,b,c){if(!a)return g;if(!b)return k;if(!c)return g;var =
+d=3DXb();Q(d);return d=3D=3D"54341002"}=0A=
+function ec(a){for(var b in aa)a[b]=3Dh;for(var b in =
+ba)b=3D=3D"google_correlator"||(a[b]=3Dh);for(var b in =
+ca)a[b]=3Dh;a.google_allow_expandable_ads=3Dh;a.google_container_id=3Dh;a=
+.google_expandable_iframe=3Dh;a.google_tag_info=3Dh}function =
+Tb(a){if(a.google_ad_format)return =
+a.google_ad_format.indexOf("_0ads")>0;return =
+a.google_ad_output!=3D"html"&&a.google_num_radlinks>0}function =
+Z(a){return a&&a.indexOf("_sdo")!=3D-1}=0A=
+function fc(a){var =
+b=3Dh,c=3Dwindow,d=3Ddocument,e=3Dm,f=3Dc.google_ad_format,i=3Dgc(c),j;if=
+(c.google_cpa_choice!=3Db){c.google_ad_url=3Di+"/cpa/ads?";j=3Descape(Ob(=
+c.google_ad_client));c.google_ad_region=3D"_google_cpa_region_";V("google=
+_cpa_choice");if(typeof =
+d.characterSet!=3D"undefined")W("oe",d.characterSet);else typeof =
+d.charset!=3D"undefined"&&W("oe",d.charset)}else =
+if(Z(f)){c.google_ad_url=3Di+"/pagead/sdo?";j=3Descape(Pb(c.google_ad_cli=
+ent))}else{c.google_ad_url=3Di+"/pagead/ads?";j=3Descape(Ob(c.google_ad_c=
+lient))}c.google_ad_url+=3D=0A=
+"client=3D"+j;V("google_ad_host");V("google_ad_host_tier_id");var =
+n=3Dc.google_num_slots_by_client,l=3Dc.google_num_slots_by_channel,u=3Dc.=
+google_prev_ad_formats_by_region,v=3Dc.google_prev_ad_slotnames_by_region=
+;if(c.google_ad_region=3D=3Db&&c.google_ad_section!=3Db)c.google_ad_regio=
+n=3Dc.google_ad_section;var =
+q=3Dc.google_ad_region=3D=3Db?"":c.google_ad_region;if(Z(f)){c.google_num=
+_sdo_slots=3Dc.google_num_sdo_slots?c.google_num_sdo_slots+1:1;if(c.googl=
+e_num_sdo_slots>4)return g}else =
+if(Tb(c)){c.google_num_0ad_slots=3Dc.google_num_0ad_slots?=0A=
+c.google_num_0ad_slots+1:1;if(c.google_num_0ad_slots>3)return g}else =
+if(c.google_cpa_choice=3D=3Db){c.google_num_ad_slots=3Dc.google_num_ad_sl=
+ots?c.google_num_ad_slots+1:1;if(c.google_num_slots_to_rotate){u[q]=3Db;v=
+[q]=3Db;if(c.google_num_slot_to_show=3D=3Db)c.google_num_slot_to_show=3De=
+%c.google_num_slots_to_rotate+1;if(c.google_num_slot_to_show!=3Dc.google_=
+num_ad_slots)return g}else if(c.google_num_ad_slots>6&&q=3D=3D"")return =
+g}U("dt",m);V("google_language");c.google_country?V("google_country"):V("=
+google_gl");V("google_region");=0A=
+X("google_city");X("google_hints");V("google_safe");V("google_encoding");=
+V("google_last_modified_time");X("google_alternate_ad_url");V("google_alt=
+ernate_color");V("google_skip");V("google_targeting");var =
+E=3Dc.google_ad_client;if(n[E])n[E]+=3D1;else{n[E]=3D1;n.length+=3D1}if(u=
+[q])if(!Z(f)){W("prev_fmts",u[q].toLowerCase());n.length>1&&U("slot",n[E]=
+)}v[q]&&W("prev_slotnames",v[q].toLowerCase());if(dc(f,c.google_ad_slot,G=
+b)){W("format",f.toLowerCase());Z(f)||(u[q]=3Du[q]?u[q]+","+f:f)}else =
+if(c.google_ad_slot)v[q]=3D=0A=
+v[q]?v[q]+","+c.google_ad_slot:c.google_ad_slot;V("google_max_num_ads");U=
+("output",c.google_ad_output);V("google_adtest");V("google_ad_callback");=
+V("google_ad_slot");X("google_correlator");c.google_new_domain_checked=3D=
+=3D1&&c.google_new_domain_enabled=3D=3D0&&U("dblk",1);if(c.google_ad_chan=
+nel){X("google_ad_channel");var =
+T=3D"",cb=3Dc.google_ad_channel.split(hc),na=3D0;for(;na<cb.length;na++){=
+var oa=3Dcb[na];if(l[oa])T+=3Doa+"+";else =
+l[oa]=3D1}W("pv_ch",T)}if(c.google_ad_host_channel){X("google_ad_host_cha=
+nnel");var pc=3D=0A=
+ic(c.google_ad_host_channel,c.google_viewed_host_channels);W("pv_h_ch",pc=
+)}c.google_enable_first_party_cookie&&W("cookie",c._GA_googleCookieHelper=
+.o());X("google_page_url");Y("google_color_bg",e);Y("google_color_text",e=
+);Y("google_color_link",e);Y("google_color_url",e);Y("google_color_border=
+",e);Y("google_color_line",e);c.google_reuse_colors?U("reuse_colors",1):U=
+("reuse_colors",0);V("google_font_face");V("google_kw_type");X("google_kw=
+");X("google_contents");V("google_num_radlinks");V("google_max_radlink_le=
+n");=0A=
+V("google_rl_filtering");V("google_rl_mode");V("google_rt");X("google_rl_=
+dest_url");V("google_num_radlinks_per_unit");V("google_ad_type");V("googl=
+e_image_size");V("google_ad_region");if(R)if(c.google_expandable_iframe=3D=
+=3D=3Dg)Yb(c);else if(j =
+in{"ca-pub-2944451727872625":1,"ca-pub-9483266128490610":1,"ca-pub-195592=
+4717845427":1,"ca-pub-6664249124335298":1})c.google_expandable_iframe=3Dk=
+;else{if(!(c.google_expandable_iframe=3D=3Dk)){var =
+N=3DUb();Q(N);if(N=3D=3D"30143019"||N=3D=3D""&&!Hb)Yb(c);if(!N){N=3DVb();=
+Q(N)}}}else Yb(c);=0A=
+W("eid",P);var =
+db=3Dc.google_allow_expandable_ads;if(db!=3Dh)db?U("ea","1"):U("ea","0");=
+V("google_feedback");X("google_referrer_url");X("google_page_location");U=
+("frm",c.google_iframing);V("google_bid");V("google_ctr_threshold");V("go=
+ogle_cust_age");V("google_cust_gender");V("google_cust_interests");V("goo=
+gle_cust_id");V("google_cust_job");V("google_cust_u_url");V("google_cust_=
+l");V("google_cust_lh");V("google_cust_ch");V("google_ed");V("google_vide=
+o_doc_id");V("google_video_product_type");X("google_ui_features");=0A=
+X("google_ui_version");X("google_tag_info");X("google_only_ads_with_video=
+");X("google_only_pyv_ads");X("google_disable_video_autoplay");if(a){W("f=
+f",wb(a));W("fs",Ab(a));var =
+pa=3Dub(a),qa=3DYa();if(pa&&qa){W("biw",qa.width);W("bih",qa.height);W("a=
+dx",pa.x);W("ady",pa.y)}}Bb();U("ga_vid",c.gaGlobal.vid);U("ga_sid",c.gaG=
+lobal.sid);U("ga_hid",c.gaGlobal.hid);U("ga_fc",c.gaGlobal.from_cookie);X=
+("google_analytics_uacct");V("google_ad_override");V("google_flash_versio=
+n");Mb(c);return k}=0A=
+function ic(a,b){var =
+c=3Da.split("|"),d=3D-1,e=3D[],f=3D0;for(;f<c.length;f++){var =
+i=3Dc[f].split(hc);b[f]||(b[f]=3D{});var =
+j=3D"",n=3D0;for(;n<i.length;n++){var =
+l=3Di[n];if(!(l=3D=3D""))if(b[f][l])j+=3D"+"+l;else =
+b[f][l]=3D1}j=3Dj.slice(1);e[f]=3Dj;if(j!=3D"")d=3Df}var =
+u=3D"";if(d>-1){var f=3D0;for(;f<d;f++)u+=3De[f]+"|";u+=3De[d]}return u}=0A=
+function jc(){var a=3Dwindow,b=3Ddocument;Nb(a);var c=3DWb();Q(c);var =
+d;if(c=3D=3D"6083029"){var =
+e=3D"google_temp_span";d=3Da.google_container_id&&Va(a.google_container_i=
+d)||Va(e);if(!d&&!a.google_container_id){b.write("<span =
+id=3D"+e+"></span>");d=3DVa(e)}}var =
+f=3Dfc(d);d&&d.id=3D=3De&&ab(d);if(!!f){Zb(a,b,a.google_ad_url);ec(a)}}fu=
+nction $(a){var b=3D(new =
+Date).getTime()-m,c=3D"&dtd=3D"+(b<1000?b:"M");return a+c}function =
+kc(){jc();return k}=0A=
+function Sb(a,b){if(a.top.location=3D=3Db.location)return g;var =
+c=3Db.documentElement;if(a.google_ad_width&&a.google_ad_height){var =
+d=3D1,e=3D1;if(a.innerHeight){d=3Da.innerWidth;e=3Da.innerHeight}else =
+if(c&&c.clientHeight){d=3Dc.clientWidth;e=3Dc.clientHeight}else =
+if(b.body){d=3Db.body.clientWidth;e=3Db.body.clientHeight}if(e>2*a.google=
+_ad_height||d>2*a.google_ad_width)return g}return k}=0A=
+function lc(a){var =
+b=3Dwindow,c=3Dh,d=3Db.onerror;b.onerror=3Da;if(b.google_ad_frameborder=3D=
+=3Dc)b.google_ad_frameborder=3D0;if(b.google_ad_output=3D=3Dc)b.google_ad=
+_output=3D"html";if(Z(b.google_ad_format)){var =
+e=3Db.google_ad_format.match(/^(\d+)x(\d+)_.*/);if(e){b.google_ad_width=3D=
+parseInt(e[1],10);b.google_ad_height=3DparseInt(e[2],10);b.google_ad_outp=
+ut=3D"html"}}if(b.google_ad_format=3D=3Dc&&b.google_ad_output=3D=3D"html"=
+){b.google_ad_format=3Db.google_ad_width+"x"+b.google_ad_height;Gb=3Dg}mc=
+(b,document);if(b.google_num_slots_by_channel=3D=3D=0A=
+c)b.google_num_slots_by_channel=3D[];if(b.google_viewed_host_channels=3D=3D=
+c)b.google_viewed_host_channels=3D[];if(b.google_num_slots_by_client=3D=3D=
+c)b.google_num_slots_by_client=3D[];if(b.google_prev_ad_formats_by_region=
+=3D=3Dc)b.google_prev_ad_formats_by_region=3D[];if(b.google_prev_ad_slotn=
+ames_by_region=3D=3Dc)b.google_prev_ad_slotnames_by_region=3D[];if(b.goog=
+le_correlator=3D=3Dc)b.google_correlator=3Dm;if(b.google_adslot_loaded=3D=
+=3Dc)b.google_adslot_loaded=3D{};if(b.google_adContentsBySlot=3D=3Dc)b.go=
+ogle_adContentsBySlot=3D{};if(b.google_flash_version=3D=3D=0A=
+c)b.google_flash_version=3Dea();if(b.google_new_domain_checked=3D=3Dc)b.g=
+oogle_new_domain_checked=3D0;if(b.google_new_domain_enabled=3D=3Dc)b.goog=
+le_new_domain_enabled=3D0;b.onerror=3Dd}function nc(a){if(a in oc)return =
+oc[a];return =
+oc[a]=3Dnavigator.userAgent.toLowerCase().indexOf(a)!=3D-1}var =
+oc=3D{};function fa(){return nc("msie")&&!window.opera}=0A=
+function qc(a){var =
+b=3D{},c=3Da.split("?"),d=3Dc[c.length-1].split("&"),e=3D0;for(;e<d.lengt=
+h;e++){var =
+f=3Dd[e].split("=3D");if(f[0])try{b[f[0].toLowerCase()]=3Df.length>1?wind=
+ow.decodeURIComponent?decodeURIComponent(f[1].replace(/\+/g," =
+")):unescape(f[1]):""}catch(i){}}return b}function rc(){var =
+a=3Dwindow,b=3Dqc(document.URL);if(b.google_ad_override){a.google_ad_over=
+ride=3Db.google_ad_override;a.google_adtest=3D"on"}}function =
+sc(a,b){for(var c in b)a["google_"+c]=3Db[c]}=0A=
+function tc(a,b){if(!b)return a.location;return a.referrer}function =
+uc(a,b){if(!b&&a.google_referrer_url=3D=3Dh)return"0";else =
+if(b&&a.google_referrer_url=3D=3Dh)return"1";else =
+if(!b&&a.google_referrer_url!=3Dh)return"2";else =
+if(b&&a.google_referrer_url!=3Dh)return"3";return"4"}function =
+vc(a,b,c,d){a.page_url=3Dtc(c,d);a.page_location=3Dh}function =
+wc(a,b,c,d){a.page_url=3Db.google_page_url;a.page_location=3Dtc(c,d)||"EM=
+PTY"}=0A=
+function xc(a,b){var =
+c=3D{},d=3DSb(a,b);c.iframing=3Duc(a,d);!!a.google_page_url?wc(c,a,b,d):v=
+c(c,a,b,d);c.last_modified_time=3Db.location=3D=3Dc.page_url?Date.parse(b=
+.lastModified)/1000:h;c.referrer_url=3Dd?a.google_referrer_url:a.google_p=
+age_url&&a.google_referrer_url?a.google_referrer_url:b.referrer;return =
+c}function yc(a){var =
+b=3D{},c=3Da.URL.substring(a.URL.lastIndexOf("http"));b.iframing=3Dh;b.pa=
+ge_url=3Dc;b.page_location=3Da.location;b.last_modified_time=3Dh;b.referr=
+er_url=3Dc;return b}=0A=
+function mc(a,b){var =
+c;c=3Da.google_page_url=3D=3Dh&&zc[b.domain]?yc(b):xc(a,b);sc(a,c)}functi=
+on bc(a,b,c){if(a){var =
+d=3Db.getElementById(a);if(d&&c&&c.length!=3D""){d.style.visibility=3D"vi=
+sible";d.innerHTML=3Dc}}}var zc=3D{};zc["ad.yieldmanager.com"]=3Dk;var =
+hc=3D/[+, ]/;window.google_render_ad=3Djc;var =
+Ac=3D{google:1,googlegroups:1,gmail:1,googlemail:1,orkut:1,googleimages:1=
+,googleprint:1};function Bc(a){var =
+b=3Da.google_page_location||a.google_page_url;if(!b)return =
+g;b=3Db.toString();if(b.indexOf("http://")=3D=3D0)b=3Db.substring(7,b.len=
+gth);else =
+if(b.indexOf("https://")=3D=3D0)b=3Db.substring(8,b.length);var =
+c=3Db.indexOf("/");if(c=3D=3D-1)c=3Db.length;var =
+d=3Db.substring(0,c),e=3Dd.split("."),f=3Dg;if(e.length>=3D3)f=3De[e.leng=
+th-3]in Ac;if(e.length>=3D2)f=3Df||e[e.length-2]in Ac;return f}=0A=
+function Lb(a,b,c){if(Bc(a)){a.google_new_domain_checked=3D1;return =
+g}if(a.google_new_domain_checked=3D=3D0){var =
+d=3DMath.random();if(d<=3Dc){var =
+e=3D"http://googleads.g.doubleclick.net/pagead/test_domain.js",f=3D"scrip=
+t";b.write("<"+f+' =
+src=3D"'+e+'"></'+f+">");a.google_new_domain_checked=3D1;return =
+k}}return g}function gc(a){var =
+b=3D"http://googleads.g.doubleclick.net",c=3D"http://pagead2.googlesyndic=
+ation.com";if(!Bc(a)&&a.google_new_domain_enabled=3D=3D1)return b;return =
+c};rc();lc(kc);Ib(window,document);=0A=
+})()=0A=
+
+------=_NextPart_000_0000_01C9A2AB.41533810
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.google-analytics.com/urchin.js
+
+//-- Google Analytics Urchin Module=0A=
+//-- Copyright 2007 Google, All Rights Reserved.=0A=
+=0A=
+//-- Urchin On Demand Settings ONLY=0A=
+var _uacct=3D"";			// set up the Urchin Account=0A=
+var _userv=3D1;			// service mode (0=3Dlocal,1=3Dremote,2=3Dboth)=0A=
+=0A=
+//-- UTM User Settings=0A=
+var _ufsc=3D1;			// set client info flag (1=3Don|0=3Doff)=0A=
+var _udn=3D"auto";		// (auto|none|domain) set the domain name for cookies=0A=
+var _uhash=3D"on";		// (on|off) unique domain hash for cookies=0A=
+var _utimeout=3D"1800";   	// set the inactive session timeout in seconds=0A=
+var _ugifpath=3D"/__utm.gif";	// set the web path to the __utm.gif file=0A=
+var _utsp=3D"|";			// transaction field separator=0A=
+var _uflash=3D1;			// set flash version detect option (1=3Don|0=3Doff)=0A=
+var _utitle=3D1;			// set the document title detect option =
+(1=3Don|0=3Doff)=0A=
+var _ulink=3D0;			// enable linker functionality (1=3Don|0=3Doff)=0A=
+var _uanchor=3D0;			// enable use of anchors for campaign =
+(1=3Don|0=3Doff)=0A=
+var _utcp=3D"/";			// the cookie path for tracking=0A=
+var _usample=3D100;		// The sampling % of visitors to track (1-100).=0A=
+=0A=
+//-- UTM Campaign Tracking Settings=0A=
+var _uctm=3D1;			// set campaign tracking module (1=3Don|0=3Doff)=0A=
+var _ucto=3D"15768000";		// set timeout in seconds (6 month default)=0A=
+var _uccn=3D"utm_campaign";	// name=0A=
+var _ucmd=3D"utm_medium";		// medium (cpc|cpm|link|email|organic)=0A=
+var _ucsr=3D"utm_source";		// source=0A=
+var _uctr=3D"utm_term";		// term/keyword=0A=
+var _ucct=3D"utm_content";	// content=0A=
+var _ucid=3D"utm_id";		// id number=0A=
+var _ucno=3D"utm_nooverride";	// don't override=0A=
+=0A=
+//-- Auto/Organic Sources and Keywords=0A=
+var _uOsr=3Dnew Array();=0A=
+var _uOkw=3Dnew Array();=0A=
+_uOsr[0]=3D"google";	_uOkw[0]=3D"q";=0A=
+_uOsr[1]=3D"yahoo";	_uOkw[1]=3D"p";=0A=
+_uOsr[2]=3D"msn";		_uOkw[2]=3D"q";=0A=
+_uOsr[3]=3D"aol";		_uOkw[3]=3D"query";=0A=
+_uOsr[4]=3D"aol";		_uOkw[4]=3D"encquery";=0A=
+_uOsr[5]=3D"lycos";	_uOkw[5]=3D"query";=0A=
+_uOsr[6]=3D"ask";		_uOkw[6]=3D"q";=0A=
+_uOsr[7]=3D"altavista";	_uOkw[7]=3D"q";=0A=
+_uOsr[8]=3D"netscape";	_uOkw[8]=3D"query";=0A=
+_uOsr[9]=3D"cnn";	_uOkw[9]=3D"query";=0A=
+_uOsr[10]=3D"looksmart";	_uOkw[10]=3D"qt";=0A=
+_uOsr[11]=3D"about";	_uOkw[11]=3D"terms";=0A=
+_uOsr[12]=3D"mamma";	_uOkw[12]=3D"query";=0A=
+_uOsr[13]=3D"alltheweb";	_uOkw[13]=3D"q";=0A=
+_uOsr[14]=3D"gigablast";	_uOkw[14]=3D"q";=0A=
+_uOsr[15]=3D"voila";	_uOkw[15]=3D"rdata";=0A=
+_uOsr[16]=3D"virgilio";	_uOkw[16]=3D"qs";=0A=
+_uOsr[17]=3D"live";	_uOkw[17]=3D"q";=0A=
+_uOsr[18]=3D"baidu";	_uOkw[18]=3D"wd";=0A=
+_uOsr[19]=3D"alice";	_uOkw[19]=3D"qs";=0A=
+_uOsr[20]=3D"yandex";	_uOkw[20]=3D"text";=0A=
+_uOsr[21]=3D"najdi";	_uOkw[21]=3D"q";=0A=
+_uOsr[22]=3D"aol";	_uOkw[22]=3D"q";=0A=
+_uOsr[23]=3D"club-internet"; _uOkw[23]=3D"query";=0A=
+_uOsr[24]=3D"mama";	_uOkw[24]=3D"query";=0A=
+_uOsr[25]=3D"seznam";	_uOkw[25]=3D"q";=0A=
+_uOsr[26]=3D"search";	_uOkw[26]=3D"q";=0A=
+_uOsr[27]=3D"wp";	_uOkw[27]=3D"szukaj";=0A=
+_uOsr[28]=3D"onet";	_uOkw[28]=3D"qt";=0A=
+_uOsr[29]=3D"netsprint";	_uOkw[29]=3D"q";=0A=
+_uOsr[30]=3D"google.interia";	_uOkw[30]=3D"q";=0A=
+_uOsr[31]=3D"szukacz";	_uOkw[31]=3D"q";=0A=
+_uOsr[32]=3D"yam";	_uOkw[32]=3D"k";=0A=
+_uOsr[33]=3D"pchome";	_uOkw[33]=3D"q";=0A=
+_uOsr[34]=3D"kvasir";	_uOkw[34]=3D"searchExpr";=0A=
+_uOsr[35]=3D"sesam";	_uOkw[35]=3D"q";=0A=
+_uOsr[36]=3D"ozu"; _uOkw[36]=3D"q";=0A=
+_uOsr[37]=3D"terra"; _uOkw[37]=3D"query";=0A=
+_uOsr[38]=3D"nostrum"; _uOkw[38]=3D"query";=0A=
+_uOsr[39]=3D"mynet"; _uOkw[39]=3D"q";=0A=
+_uOsr[40]=3D"ekolay"; _uOkw[40]=3D"q";=0A=
+_uOsr[41]=3D"search.ilse"; _uOkw[41]=3D"search_for";=0A=
+=0A=
+//-- Auto/Organic Keywords to Ignore=0A=
+var _uOno=3Dnew Array();=0A=
+//_uOno[0]=3D"urchin";=0A=
+//_uOno[1]=3D"urchin.com";=0A=
+//_uOno[2]=3D"www.urchin.com";=0A=
+=0A=
+//-- Referral domains to Ignore=0A=
+var _uRno=3Dnew Array();=0A=
+//_uRno[0]=3D".urchin.com";=0A=
+=0A=
+//-- **** Don't modify below this point ***=0A=
+var =
+_uff,_udh,_udt,_ubl=3D0,_udo=3D"",_uu,_ufns=3D0,_uns=3D0,_ur=3D"-",_ufno=3D=
+0,_ust=3D0,_ubd=3Ddocument,_udl=3D_ubd.location,_udlh=3D"",_uwv=3D"1.3";=0A=
+var _ugifpath2=3D"http://www.google-analytics.com/__utm.gif";=0A=
+if (_udl.hash) _udlh=3D_udl.href.substring(_udl.href.indexOf('#'));=0A=
+if (_udl.protocol=3D=3D"https:") =
+_ugifpath2=3D"https://ssl.google-analytics.com/__utm.gif";=0A=
+if (!_utcp || _utcp=3D=3D"") _utcp=3D"/";=0A=
+function urchinTracker(page) {=0A=
+ if (_udl.protocol=3D=3D"file:") return;=0A=
+ if (_uff && (!page || page=3D=3D"")) return;=0A=
+ var a,b,c,xx,v,z,k,x=3D"",s=3D"",f=3D0,nv=3D0;=0A=
+ var nx=3D" expires=3D"+_uNx()+";";=0A=
+ var dc=3D_ubd.cookie;=0A=
+ _udh=3D_uDomain();=0A=
+ if (!_uVG()) return;=0A=
+ _uu=3DMath.round(Math.random()*2147483647);=0A=
+ _udt=3Dnew Date();=0A=
+ _ust=3DMath.round(_udt.getTime()/1000);=0A=
+ a=3Ddc.indexOf("__utma=3D"+_udh+".");=0A=
+ b=3Ddc.indexOf("__utmb=3D"+_udh);=0A=
+ c=3Ddc.indexOf("__utmc=3D"+_udh);=0A=
+ if (_udn && _udn!=3D"") { _udo=3D" domain=3D"+_udn+";"; }=0A=
+ if (_utimeout && _utimeout!=3D"") {=0A=
+  x=3Dnew Date(_udt.getTime()+(_utimeout*1000));=0A=
+  x=3D" expires=3D"+x.toGMTString()+";";=0A=
+ }=0A=
+ if (_ulink) {=0A=
+  if (_uanchor && _udlh && _udlh!=3D"") s=3D_udlh+"&";=0A=
+  s+=3D_udl.search;=0A=
+  if(s && s!=3D"" && s.indexOf("__utma=3D")>=3D0) {=0A=
+   if (!(_uIN(a=3D_uGC(s,"__utma=3D","&")))) a=3D"-";=0A=
+   if (!(_uIN(b=3D_uGC(s,"__utmb=3D","&")))) b=3D"-";=0A=
+   if (!(_uIN(c=3D_uGC(s,"__utmc=3D","&")))) c=3D"-";=0A=
+   v=3D_uGC(s,"__utmv=3D","&");=0A=
+   z=3D_uGC(s,"__utmz=3D","&");=0A=
+   k=3D_uGC(s,"__utmk=3D","&");=0A=
+   xx=3D_uGC(s,"__utmx=3D","&");=0A=
+   if ((k*1) !=3D ((_uHash(a+b+c+xx+z+v)*1)+(_udh*1))) =
+{_ubl=3D1;a=3D"-";b=3D"-";c=3D"-";xx=3D"-";z=3D"-";v=3D"-";}=0A=
+   if (a!=3D"-" && b!=3D"-" && c!=3D"-") f=3D1;=0A=
+   else if(a!=3D"-") f=3D2;=0A=
+  }=0A=
+ }=0A=
+ if(f=3D=3D1) {=0A=
+  _ubd.cookie=3D"__utma=3D"+a+"; path=3D"+_utcp+";"+nx+_udo;=0A=
+  _ubd.cookie=3D"__utmb=3D"+b+"; path=3D"+_utcp+";"+x+_udo;=0A=
+  _ubd.cookie=3D"__utmc=3D"+c+"; path=3D"+_utcp+";"+_udo;=0A=
+ } else if (f=3D=3D2) {=0A=
+  a=3D_uFixA(s,"&",_ust);=0A=
+  _ubd.cookie=3D"__utma=3D"+a+"; path=3D"+_utcp+";"+nx+_udo;=0A=
+  _ubd.cookie=3D"__utmb=3D"+_udh+"; path=3D"+_utcp+";"+x+_udo;=0A=
+  _ubd.cookie=3D"__utmc=3D"+_udh+"; path=3D"+_utcp+";"+_udo;=0A=
+  _ufns=3D1;=0A=
+ } else if (a>=3D0 && b>=3D0 && c>=3D0) {=0A=
+   b =3D _uGC(dc,"__utmb=3D"+_udh,";");=0A=
+   b =3D ("-" =3D=3D b) ? _udh : b;  =0A=
+  _ubd.cookie=3D"__utmb=3D"+b+"; path=3D"+_utcp+";"+x+_udo;=0A=
+ } else {=0A=
+  if (a>=3D0) a=3D_uFixA(_ubd.cookie,";",_ust);=0A=
+  else {=0A=
+   a=3D_udh+"."+_uu+"."+_ust+"."+_ust+"."+_ust+".1";=0A=
+   nv=3D1;=0A=
+  }=0A=
+  _ubd.cookie=3D"__utma=3D"+a+"; path=3D"+_utcp+";"+nx+_udo;=0A=
+  _ubd.cookie=3D"__utmb=3D"+_udh+"; path=3D"+_utcp+";"+x+_udo;=0A=
+  _ubd.cookie=3D"__utmc=3D"+_udh+"; path=3D"+_utcp+";"+_udo;=0A=
+  _ufns=3D1;=0A=
+ }=0A=
+ if (_ulink && xx && xx!=3D"" && xx!=3D"-") {=0A=
+   xx=3D_uUES(xx);=0A=
+   if (xx.indexOf(";")=3D=3D-1) _ubd.cookie=3D"__utmx=3D"+xx+"; =
+path=3D"+_utcp+";"+nx+_udo;=0A=
+ }=0A=
+ if (_ulink && v && v!=3D"" && v!=3D"-") {=0A=
+  v=3D_uUES(v);=0A=
+  if (v.indexOf(";")=3D=3D-1) _ubd.cookie=3D"__utmv=3D"+v+"; =
+path=3D"+_utcp+";"+nx+_udo;=0A=
+ }=0A=
+ var wc=3Dwindow;=0A=
+ var c=3D_ubd.cookie;=0A=
+ if(wc && wc.gaGlobal && wc.gaGlobal.dh=3D=3D_udh){=0A=
+  var g=3Dwc.gaGlobal;=0A=
+  var ua=3Dc.split("__utma=3D"+_udh+".")[1].split(";")[0].split(".");=0A=
+  if(g.sid)ua[3]=3Dg.sid;=0A=
+  if(nv>0){=0A=
+   ua[2]=3Dua[3];=0A=
+   if(g.vid){=0A=
+    var v=3Dg.vid.split(".");=0A=
+    ua[0]=3Dv[0];=0A=
+    ua[1]=3Dv[1];=0A=
+   }=0A=
+  }=0A=
+  _ubd.cookie=3D"__utma=3D"+_udh+"."+ua.join(".")+"; =
+path=3D"+_utcp+";"+nx+_udo;=0A=
+ }=0A=
+ _uInfo(page);=0A=
+ _ufns=3D0;=0A=
+ _ufno=3D0;=0A=
+ if (!page || page=3D=3D"") _uff=3D1;=0A=
+}=0A=
+function _uGH() {=0A=
+ var hid;=0A=
+ var wc=3Dwindow;=0A=
+ if (wc && wc.gaGlobal && wc.gaGlobal.hid) {=0A=
+  hid=3Dwc.gaGlobal.hid;=0A=
+ } else {=0A=
+  hid=3DMath.round(Math.random()*0x7fffffff);=0A=
+  if (!wc.gaGlobal) wc.gaGlobal=3D{};=0A=
+  wc.gaGlobal.hid=3Dhid;=0A=
+ }=0A=
+ return hid;=0A=
+}=0A=
+function _uInfo(page) {=0A=
+ var p,s=3D"",dm=3D"",pg=3D_udl.pathname+_udl.search;=0A=
+ if (page && page!=3D"") pg=3D_uES(page,1);=0A=
+ _ur=3D_ubd.referrer;=0A=
+ if (!_ur || _ur=3D=3D"") { _ur=3D"-"; }=0A=
+ else {=0A=
+  dm=3D_ubd.domain;=0A=
+  if(_utcp && _utcp!=3D"/") dm+=3D_utcp;=0A=
+  p=3D_ur.indexOf(dm);=0A=
+  if ((p>=3D0) && (p<=3D8)) { _ur=3D"0"; }=0A=
+  if (_ur.indexOf("[")=3D=3D0 && =
+_ur.lastIndexOf("]")=3D=3D(_ur.length-1)) { _ur=3D"-"; }=0A=
+ }=0A=
+ s+=3D"&utmn=3D"+_uu;=0A=
+ if (_ufsc) s+=3D_uBInfo();=0A=
+ if (_uctm) s+=3D_uCInfo();=0A=
+ if (_utitle && _ubd.title && _ubd.title!=3D"") =
+s+=3D"&utmdt=3D"+_uES(_ubd.title);=0A=
+ if (_udl.hostname && _udl.hostname!=3D"") =
+s+=3D"&utmhn=3D"+_uES(_udl.hostname);=0A=
+ if (_usample && _usample !=3D 100) s+=3D"&utmsp=3D"+_uES(_usample);=0A=
+ s+=3D"&utmhid=3D"+_uGH();=0A=
+ s+=3D"&utmr=3D"+_ur;=0A=
+ s+=3D"&utmp=3D"+pg;=0A=
+ if ((_userv=3D=3D0 || _userv=3D=3D2) && _uSP()) {=0A=
+  var i=3Dnew Image(1,1);=0A=
+  i.src=3D_ugifpath+"?"+"utmwv=3D"+_uwv+s;=0A=
+  i.onload=3Dfunction() { _uVoid(); }=0A=
+ }=0A=
+ if ((_userv=3D=3D1 || _userv=3D=3D2) && _uSP()) {=0A=
+  var i2=3Dnew Image(1,1);=0A=
+  =
+i2.src=3D_ugifpath2+"?"+"utmwv=3D"+_uwv+s+"&utmac=3D"+_uacct+"&utmcc=3D"+=
+_uGCS();=0A=
+  i2.onload=3Dfunction() { _uVoid(); }=0A=
+ }=0A=
+ return;=0A=
+}=0A=
+function _uVoid() { return; }=0A=
+function _uCInfo() {=0A=
+ if (!_ucto || _ucto=3D=3D"") { _ucto=3D"15768000"; }=0A=
+ if (!_uVG()) return;=0A=
+ var =
+c=3D"",t=3D"-",t2=3D"-",t3=3D"-",o=3D0,cs=3D0,cn=3D0,i=3D0,z=3D"-",s=3D""=
+;=0A=
+ if (_uanchor && _udlh && _udlh!=3D"") s=3D_udlh+"&";=0A=
+ s+=3D_udl.search;=0A=
+ var x=3Dnew Date(_udt.getTime()+(_ucto*1000));=0A=
+ var dc=3D_ubd.cookie;=0A=
+ x=3D" expires=3D"+x.toGMTString()+";";=0A=
+ if (_ulink && !_ubl) {=0A=
+  z=3D_uUES(_uGC(s,"__utmz=3D","&"));=0A=
+  if (z!=3D"-" && z.indexOf(";")=3D=3D-1) { =
+_ubd.cookie=3D"__utmz=3D"+z+"; path=3D"+_utcp+";"+x+_udo; return ""; }=0A=
+ }=0A=
+ z=3Ddc.indexOf("__utmz=3D"+_udh+".");=0A=
+ if (z>-1) { z=3D_uGC(dc,"__utmz=3D"+_udh+".",";"); }=0A=
+ else { z=3D"-"; }=0A=
+ t=3D_uGC(s,_ucid+"=3D","&");=0A=
+ t2=3D_uGC(s,_ucsr+"=3D","&");=0A=
+ t3=3D_uGC(s,"gclid=3D","&");=0A=
+ if ((t!=3D"-" && t!=3D"") || (t2!=3D"-" && t2!=3D"") || (t3!=3D"-" && =
+t3!=3D"")) {=0A=
+  if (t!=3D"-" && t!=3D"") c+=3D"utmcid=3D"+_uEC(t);=0A=
+  if (t2!=3D"-" && t2!=3D"") { if (c !=3D "") c+=3D"|"; =
+c+=3D"utmcsr=3D"+_uEC(t2); }=0A=
+  if (t3!=3D"-" && t3!=3D"") { if (c !=3D "") c+=3D"|"; =
+c+=3D"utmgclid=3D"+_uEC(t3); }=0A=
+  t=3D_uGC(s,_uccn+"=3D","&");=0A=
+  if (t!=3D"-" && t!=3D"") c+=3D"|utmccn=3D"+_uEC(t);=0A=
+  else c+=3D"|utmccn=3D(not+set)";=0A=
+  t=3D_uGC(s,_ucmd+"=3D","&");=0A=
+  if (t!=3D"-" && t!=3D"") c+=3D"|utmcmd=3D"+_uEC(t);=0A=
+  else  c+=3D"|utmcmd=3D(not+set)";=0A=
+  t=3D_uGC(s,_uctr+"=3D","&");=0A=
+  if (t!=3D"-" && t!=3D"") c+=3D"|utmctr=3D"+_uEC(t);=0A=
+  else { t=3D_uOrg(1); if (t!=3D"-" && t!=3D"") =
+c+=3D"|utmctr=3D"+_uEC(t); }=0A=
+  t=3D_uGC(s,_ucct+"=3D","&");=0A=
+  if (t!=3D"-" && t!=3D"") c+=3D"|utmcct=3D"+_uEC(t);=0A=
+  t=3D_uGC(s,_ucno+"=3D","&");=0A=
+  if (t=3D=3D"1") o=3D1;=0A=
+  if (z!=3D"-" && o=3D=3D1) return "";=0A=
+ }=0A=
+ if (c=3D=3D"-" || c=3D=3D"") { c=3D_uOrg(); if (z!=3D"-" && =
+_ufno=3D=3D1)  return ""; }=0A=
+ if (c=3D=3D"-" || c=3D=3D"") { if (_ufns=3D=3D1)  c=3D_uRef(); if =
+(z!=3D"-" && _ufno=3D=3D1)  return ""; }=0A=
+ if (c=3D=3D"-" || c=3D=3D"") {=0A=
+  if (z=3D=3D"-" && _ufns=3D=3D1) { =
+c=3D"utmccn=3D(direct)|utmcsr=3D(direct)|utmcmd=3D(none)"; }=0A=
+  if (c=3D=3D"-" || c=3D=3D"") return "";=0A=
+ }=0A=
+ if (z!=3D"-") {=0A=
+  i=3Dz.indexOf(".");=0A=
+  if (i>-1) i=3Dz.indexOf(".",i+1);=0A=
+  if (i>-1) i=3Dz.indexOf(".",i+1);=0A=
+  if (i>-1) i=3Dz.indexOf(".",i+1);=0A=
+  t=3Dz.substring(i+1,z.length);=0A=
+  if (t.toLowerCase()=3D=3Dc.toLowerCase()) cs=3D1;=0A=
+  t=3Dz.substring(0,i);=0A=
+  if ((i=3Dt.lastIndexOf(".")) > -1) {=0A=
+   t=3Dt.substring(i+1,t.length);=0A=
+   cn=3D(t*1);=0A=
+  }=0A=
+ }=0A=
+ if (cs=3D=3D0 || _ufns=3D=3D1) {=0A=
+  t=3D_uGC(dc,"__utma=3D"+_udh+".",";");=0A=
+  if ((i=3Dt.lastIndexOf(".")) > 9) {=0A=
+   _uns=3Dt.substring(i+1,t.length);=0A=
+   _uns=3D(_uns*1);=0A=
+  }=0A=
+  cn++;=0A=
+  if (_uns=3D=3D0) _uns=3D1;=0A=
+  _ubd.cookie=3D"__utmz=3D"+_udh+"."+_ust+"."+_uns+"."+cn+"."+c+"; =
+path=3D"+_utcp+"; "+x+_udo;=0A=
+ }=0A=
+ if (cs=3D=3D0 || _ufns=3D=3D1) return "&utmcn=3D1";=0A=
+ else return "&utmcr=3D1";=0A=
+}=0A=
+function _uRef() {=0A=
+ if (_ur=3D=3D"0" || _ur=3D=3D"" || _ur=3D=3D"-") return "";=0A=
+ var i=3D0,h,k,n;=0A=
+ if ((i=3D_ur.indexOf("://"))<0 || _uGCse()) return "";=0A=
+ h=3D_ur.substring(i+3,_ur.length);=0A=
+ if (h.indexOf("/") > -1) {=0A=
+  k=3Dh.substring(h.indexOf("/"),h.length);=0A=
+  if (k.indexOf("?") > -1) k=3Dk.substring(0,k.indexOf("?"));=0A=
+  h=3Dh.substring(0,h.indexOf("/"));=0A=
+ }=0A=
+ h=3Dh.toLowerCase();=0A=
+ n=3Dh;=0A=
+ if ((i=3Dn.indexOf(":")) > -1) n=3Dn.substring(0,i);=0A=
+ for (var ii=3D0;ii<_uRno.length;ii++) {=0A=
+  if ((i=3Dn.indexOf(_uRno[ii].toLowerCase())) > -1 && =
+n.length=3D=3D(i+_uRno[ii].length)) { _ufno=3D1; break; }=0A=
+ }=0A=
+ if (h.indexOf("www.")=3D=3D0) h=3Dh.substring(4,h.length);=0A=
+ return =
+"utmccn=3D(referral)|utmcsr=3D"+_uEC(h)+"|"+"utmcct=3D"+_uEC(k)+"|utmcmd=3D=
+referral";=0A=
+}=0A=
+function _uOrg(t) {=0A=
+ if (_ur=3D=3D"0" || _ur=3D=3D"" || _ur=3D=3D"-") return "";=0A=
+ var i=3D0,h,k;=0A=
+ if ((i=3D_ur.indexOf("://"))<0 || _uGCse()) return "";=0A=
+ h=3D_ur.substring(i+3,_ur.length);=0A=
+ if (h.indexOf("/") > -1) {=0A=
+  h=3Dh.substring(0,h.indexOf("/"));=0A=
+ }=0A=
+ for (var ii=3D0;ii<_uOsr.length;ii++) {=0A=
+  if (h.toLowerCase().indexOf(_uOsr[ii].toLowerCase()) > -1) {=0A=
+   if ((i=3D_ur.indexOf("?"+_uOkw[ii]+"=3D")) > -1 || =
+(i=3D_ur.indexOf("&"+_uOkw[ii]+"=3D")) > -1) {=0A=
+    k=3D_ur.substring(i+_uOkw[ii].length+2,_ur.length);=0A=
+    if ((i=3Dk.indexOf("&")) > -1) k=3Dk.substring(0,i);=0A=
+    for (var yy=3D0;yy<_uOno.length;yy++) {=0A=
+     if (_uOno[yy].toLowerCase()=3D=3Dk.toLowerCase()) { _ufno=3D1; =
+break; }=0A=
+    }=0A=
+    if (t) return _uEC(k);=0A=
+    else return =
+"utmccn=3D(organic)|utmcsr=3D"+_uEC(_uOsr[ii])+"|"+"utmctr=3D"+_uEC(k)+"|=
+utmcmd=3Dorganic";=0A=
+   }=0A=
+  }=0A=
+ }=0A=
+ return "";=0A=
+}=0A=
+function _uGCse() {=0A=
+ var h,p;=0A=
+ h=3Dp=3D_ur.split("://")[1];=0A=
+ if(h.indexOf("/")>-1) {=0A=
+  h=3Dh.split("/")[0];=0A=
+  p=3Dp.substring(p.indexOf("/")+1,p.length);=0A=
+ }=0A=
+ if(p.indexOf("?")>-1) {=0A=
+  p=3Dp.split("?")[0];=0A=
+ }=0A=
+ if(h.toLowerCase().indexOf("google")>-1) {=0A=
+  if(_ur.indexOf("?q=3D")>-1 || _ur.indexOf("&q=3D")>-1) {=0A=
+   if (p.toLowerCase().indexOf("cse")>-1) {=0A=
+    return true;=0A=
+   }=0A=
+  }=0A=
+ }=0A=
+}=0A=
+function _uBInfo() {=0A=
+ var sr=3D"-",sc=3D"-",ul=3D"-",fl=3D"-",cs=3D"-",je=3D1;=0A=
+ var n=3Dnavigator;=0A=
+ if (self.screen) {=0A=
+  sr=3Dscreen.width+"x"+screen.height;=0A=
+  sc=3Dscreen.colorDepth+"-bit";=0A=
+ } else if (self.java) {=0A=
+  var j=3Djava.awt.Toolkit.getDefaultToolkit();=0A=
+  var s=3Dj.getScreenSize();=0A=
+  sr=3Ds.width+"x"+s.height;=0A=
+ }=0A=
+ if (n.language) { ul=3Dn.language.toLowerCase(); }=0A=
+ else if (n.browserLanguage) { ul=3Dn.browserLanguage.toLowerCase(); }=0A=
+ je=3Dn.javaEnabled()?1:0;=0A=
+ if (_uflash) fl=3D_uFlash();=0A=
+ if (_ubd.characterSet) cs=3D_uES(_ubd.characterSet);=0A=
+ else if (_ubd.charset) cs=3D_uES(_ubd.charset);=0A=
+ return =
+"&utmcs=3D"+cs+"&utmsr=3D"+sr+"&utmsc=3D"+sc+"&utmul=3D"+ul+"&utmje=3D"+j=
+e+"&utmfl=3D"+fl;=0A=
+}=0A=
+function __utmSetTrans() {=0A=
+ var e;=0A=
+ if (_ubd.getElementById) e=3D_ubd.getElementById("utmtrans");=0A=
+ else if (_ubd.utmform && _ubd.utmform.utmtrans) =
+e=3D_ubd.utmform.utmtrans;=0A=
+ if (!e) return;=0A=
+ var l=3De.value.split("UTM:");=0A=
+ var i,i2,c;=0A=
+ if (_userv=3D=3D0 || _userv=3D=3D2) i=3Dnew Array();=0A=
+ if (_userv=3D=3D1 || _userv=3D=3D2) { i2=3Dnew Array(); c=3D_uGCS(); }=0A=
+=0A=
+ for (var ii=3D0;ii<l.length;ii++) {=0A=
+  l[ii]=3D_uTrim(l[ii]);=0A=
+  if (l[ii].charAt(0)!=3D'T' && l[ii].charAt(0)!=3D'I') continue;=0A=
+  var r=3DMath.round(Math.random()*2147483647);=0A=
+  if (!_utsp || _utsp=3D=3D"") _utsp=3D"|";=0A=
+  var f=3Dl[ii].split(_utsp),s=3D"";=0A=
+  if (f[0].charAt(0)=3D=3D'T') {=0A=
+   s=3D"&utmt=3Dtran"+"&utmn=3D"+r;=0A=
+   f[1]=3D_uTrim(f[1]); if(f[1]&&f[1]!=3D"") =
+s+=3D"&utmtid=3D"+_uES(f[1]);=0A=
+   f[2]=3D_uTrim(f[2]); if(f[2]&&f[2]!=3D"") =
+s+=3D"&utmtst=3D"+_uES(f[2]);=0A=
+   f[3]=3D_uTrim(f[3]); if(f[3]&&f[3]!=3D"") =
+s+=3D"&utmtto=3D"+_uES(f[3]);=0A=
+   f[4]=3D_uTrim(f[4]); if(f[4]&&f[4]!=3D"") =
+s+=3D"&utmttx=3D"+_uES(f[4]);=0A=
+   f[5]=3D_uTrim(f[5]); if(f[5]&&f[5]!=3D"") =
+s+=3D"&utmtsp=3D"+_uES(f[5]);=0A=
+   f[6]=3D_uTrim(f[6]); if(f[6]&&f[6]!=3D"") =
+s+=3D"&utmtci=3D"+_uES(f[6]);=0A=
+   f[7]=3D_uTrim(f[7]); if(f[7]&&f[7]!=3D"") =
+s+=3D"&utmtrg=3D"+_uES(f[7]);=0A=
+   f[8]=3D_uTrim(f[8]); if(f[8]&&f[8]!=3D"") =
+s+=3D"&utmtco=3D"+_uES(f[8]);=0A=
+  } else {=0A=
+   s=3D"&utmt=3Ditem"+"&utmn=3D"+r;=0A=
+   f[1]=3D_uTrim(f[1]); if(f[1]&&f[1]!=3D"") =
+s+=3D"&utmtid=3D"+_uES(f[1]);=0A=
+   f[2]=3D_uTrim(f[2]); if(f[2]&&f[2]!=3D"") =
+s+=3D"&utmipc=3D"+_uES(f[2]);=0A=
+   f[3]=3D_uTrim(f[3]); if(f[3]&&f[3]!=3D"") =
+s+=3D"&utmipn=3D"+_uES(f[3]);=0A=
+   f[4]=3D_uTrim(f[4]); if(f[4]&&f[4]!=3D"") =
+s+=3D"&utmiva=3D"+_uES(f[4]);=0A=
+   f[5]=3D_uTrim(f[5]); if(f[5]&&f[5]!=3D"") =
+s+=3D"&utmipr=3D"+_uES(f[5]);=0A=
+   f[6]=3D_uTrim(f[6]); if(f[6]&&f[6]!=3D"") =
+s+=3D"&utmiqt=3D"+_uES(f[6]);=0A=
+  }=0A=
+  if (_udl.hostname && _udl.hostname!=3D"") =
+s+=3D"&utmhn=3D"+_uES(_udl.hostname);=0A=
+  if (_usample && _usample !=3D 100) s+=3D"&utmsp=3D"+_uES(_usample);=0A=
+=0A=
+  if ((_userv=3D=3D0 || _userv=3D=3D2) && _uSP()) {=0A=
+   i[ii]=3Dnew Image(1,1);=0A=
+   i[ii].src=3D_ugifpath+"?"+"utmwv=3D"+_uwv+s;=0A=
+   i[ii].onload=3Dfunction() { _uVoid(); }=0A=
+  }=0A=
+  if ((_userv=3D=3D1 || _userv=3D=3D2) && _uSP()) {=0A=
+   i2[ii]=3Dnew Image(1,1);=0A=
+   =
+i2[ii].src=3D_ugifpath2+"?"+"utmwv=3D"+_uwv+s+"&utmac=3D"+_uacct+"&utmcc=3D=
+"+c;=0A=
+   i2[ii].onload=3Dfunction() { _uVoid(); }=0A=
+  }=0A=
+ }=0A=
+ return;=0A=
+}=0A=
+function _uFlash() {=0A=
+ var f=3D"-",n=3Dnavigator;=0A=
+ if (n.plugins && n.plugins.length) {=0A=
+  for (var ii=3D0;ii<n.plugins.length;ii++) {=0A=
+   if (n.plugins[ii].name.indexOf('Shockwave Flash')!=3D-1) {=0A=
+    f=3Dn.plugins[ii].description.split('Shockwave Flash ')[1];=0A=
+    break;=0A=
+   }=0A=
+  }=0A=
+ } else {=0A=
+  var fl;=0A=
+  try {=0A=
+   fl =3D new ActiveXObject("ShockwaveFlash.ShockwaveFlash.7");=0A=
+   f =3D fl.GetVariable("$version");=0A=
+  } catch(e) {}=0A=
+  if (f =3D=3D "-") {=0A=
+   try {=0A=
+    fl =3D new ActiveXObject("ShockwaveFlash.ShockwaveFlash.6");=0A=
+    f =3D "WIN 6,0,21,0";=0A=
+    fl.AllowScriptAccess =3D "always";=0A=
+    f =3D fl.GetVariable("$version");=0A=
+   } catch(e) {}=0A=
+  }=0A=
+  if (f =3D=3D "-") {=0A=
+   try {=0A=
+    fl =3D new ActiveXObject("ShockwaveFlash.ShockwaveFlash");=0A=
+    f =3D fl.GetVariable("$version");=0A=
+   } catch(e) {}=0A=
+  }=0A=
+  if (f !=3D "-") {=0A=
+   f =3D f.split(" ")[1].split(",");=0A=
+   f =3D f[0] + "." + f[1] + " r" + f[2];=0A=
+  }=0A=
+ }=0A=
+ return f;=0A=
+}=0A=
+function __utmLinkerUrl(l,h) {=0A=
+ var p,k,a=3D"-",b=3D"-",c=3D"-",x=3D"-",z=3D"-",v=3D"-";=0A=
+ var dc=3D_ubd.cookie;=0A=
+ var iq =3D l.indexOf("?");=0A=
+ var ih =3D l.indexOf("#");=0A=
+ var url=3Dl;=0A=
+ if (dc) {=0A=
+  a=3D_uES(_uGC(dc,"__utma=3D"+_udh+".",";"));=0A=
+  b=3D_uES(_uGC(dc,"__utmb=3D"+_udh,";"));=0A=
+  c=3D_uES(_uGC(dc,"__utmc=3D"+_udh,";"));=0A=
+  x=3D_uES(_uGC(dc,"__utmx=3D"+_udh,";"));=0A=
+  z=3D_uES(_uGC(dc,"__utmz=3D"+_udh+".",";"));=0A=
+  v=3D_uES(_uGC(dc,"__utmv=3D"+_udh+".",";"));=0A=
+  k=3D(_uHash(a+b+c+x+z+v)*1)+(_udh*1);=0A=
+  =
+p=3D"__utma=3D"+a+"&__utmb=3D"+b+"&__utmc=3D"+c+"&__utmx=3D"+x+"&__utmz=3D=
+"+z+"&__utmv=3D"+v+"&__utmk=3D"+k;=0A=
+ }=0A=
+ if (p) {=0A=
+  if (h && ih>-1) return;=0A=
+  if (h) { url=3Dl+"#"+p; }=0A=
+  else {=0A=
+   if (iq=3D=3D-1 && ih=3D=3D-1) url=3Dl+"?"+p;=0A=
+   else if (ih=3D=3D-1) url=3Dl+"&"+p;=0A=
+   else if (iq=3D=3D-1) url=3Dl.substring(0,ih-1)+"?"+p+l.substring(ih);=0A=
+   else url=3Dl.substring(0,ih-1)+"&"+p+l.substring(ih);=0A=
+  }=0A=
+ }=0A=
+ return url;=0A=
+}=0A=
+function __utmLinker(l,h) {=0A=
+ if (!_ulink || !l || l=3D=3D"") return;=0A=
+ _udl.href=3D__utmLinkerUrl(l,h);=0A=
+}=0A=
+function __utmLinkPost(f,h) {=0A=
+ if (!_ulink || !f || !f.action) return;=0A=
+ f.action=3D__utmLinkerUrl(f.action, h);=0A=
+ return;=0A=
+}=0A=
+function __utmSetVar(v) {=0A=
+ if (!v || v=3D=3D"") return;=0A=
+ if (!_udo || _udo =3D=3D "") {=0A=
+  _udh=3D_uDomain();=0A=
+  if (_udn && _udn!=3D"") { _udo=3D" domain=3D"+_udn+";"; }=0A=
+ }=0A=
+ if (!_uVG()) return;=0A=
+ var r=3DMath.round(Math.random() * 2147483647);=0A=
+ _ubd.cookie=3D"__utmv=3D"+_udh+"."+_uES(v)+"; path=3D"+_utcp+"; =
+expires=3D"+_uNx()+";"+_udo;=0A=
+ var s=3D"&utmt=3Dvar&utmn=3D"+r;=0A=
+ if (_usample && _usample !=3D 100) s+=3D"&utmsp=3D"+_uES(_usample);=0A=
+ if ((_userv=3D=3D0 || _userv=3D=3D2) && _uSP()) {=0A=
+  var i=3Dnew Image(1,1);=0A=
+  i.src=3D_ugifpath+"?"+"utmwv=3D"+_uwv+s;=0A=
+  i.onload=3Dfunction() { _uVoid(); }=0A=
+ }=0A=
+ if ((_userv=3D=3D1 || _userv=3D=3D2) && _uSP()) {=0A=
+  var i2=3Dnew Image(1,1);=0A=
+  =
+i2.src=3D_ugifpath2+"?"+"utmwv=3D"+_uwv+s+"&utmac=3D"+_uacct+"&utmcc=3D"+=
+_uGCS();=0A=
+  i2.onload=3Dfunction() { _uVoid(); }=0A=
+ }=0A=
+}=0A=
+function _uGCS() {=0A=
+ var t,c=3D"",dc=3D_ubd.cookie;=0A=
+ if ((t=3D_uGC(dc,"__utma=3D"+_udh+".",";"))!=3D"-") =
+c+=3D_uES("__utma=3D"+t+";+");=0A=
+ if ((t=3D_uGC(dc,"__utmx=3D"+_udh,";"))!=3D"-") =
+c+=3D_uES("__utmx=3D"+t+";+");=0A=
+ if ((t=3D_uGC(dc,"__utmz=3D"+_udh+".",";"))!=3D"-") =
+c+=3D_uES("__utmz=3D"+t+";+");=0A=
+ if ((t=3D_uGC(dc,"__utmv=3D"+_udh+".",";"))!=3D"-") =
+c+=3D_uES("__utmv=3D"+t+";");=0A=
+ if (c.charAt(c.length-1)=3D=3D"+") c=3Dc.substring(0,c.length-1);=0A=
+ return c;=0A=
+}=0A=
+function _uGC(l,n,s) {=0A=
+ if (!l || l=3D=3D"" || !n || n=3D=3D"" || !s || s=3D=3D"") return "-";=0A=
+ var i,i2,i3,c=3D"-";=0A=
+ i=3Dl.indexOf(n);=0A=
+ i3=3Dn.indexOf("=3D")+1;=0A=
+ if (i > -1) {=0A=
+  i2=3Dl.indexOf(s,i); if (i2 < 0) { i2=3Dl.length; }=0A=
+  c=3Dl.substring((i+i3),i2);=0A=
+ }=0A=
+ return c;=0A=
+}=0A=
+function _uDomain() {=0A=
+ if (!_udn || _udn=3D=3D"" || _udn=3D=3D"none") { _udn=3D""; return 1; }=0A=
+ if (_udn=3D=3D"auto") {=0A=
+  var d=3D_ubd.domain;=0A=
+  if (d.substring(0,4)=3D=3D"www.") {=0A=
+   d=3Dd.substring(4,d.length);=0A=
+  }=0A=
+  _udn=3Dd;=0A=
+ }=0A=
+ _udn =3D _udn.toLowerCase(); =0A=
+ if (_uhash=3D=3D"off") return 1;=0A=
+ return _uHash(_udn);=0A=
+}=0A=
+function _uHash(d) {=0A=
+ if (!d || d=3D=3D"") return 1;=0A=
+ var h=3D0,g=3D0;=0A=
+ for (var i=3Dd.length-1;i>=3D0;i--) {=0A=
+  var c=3DparseInt(d.charCodeAt(i));=0A=
+  h=3D((h << 6) & 0xfffffff) + c + (c << 14);=0A=
+  if ((g=3Dh & 0xfe00000)!=3D0) h=3D(h ^ (g >> 21));=0A=
+ }=0A=
+ return h;=0A=
+}=0A=
+function _uFixA(c,s,t) {=0A=
+ if (!c || c=3D=3D"" || !s || s=3D=3D"" || !t || t=3D=3D"") return "-";=0A=
+ var a=3D_uGC(c,"__utma=3D"+_udh+".",s);=0A=
+ var lt=3D0,i=3D0;=0A=
+ if ((i=3Da.lastIndexOf(".")) > 9) {=0A=
+  _uns=3Da.substring(i+1,a.length);=0A=
+  _uns=3D(_uns*1)+1;=0A=
+  a=3Da.substring(0,i);=0A=
+  if ((i=3Da.lastIndexOf(".")) > 7) {=0A=
+   lt=3Da.substring(i+1,a.length);=0A=
+   a=3Da.substring(0,i);=0A=
+  }=0A=
+  if ((i=3Da.lastIndexOf(".")) > 5) {=0A=
+   a=3Da.substring(0,i);=0A=
+  }=0A=
+  a+=3D"."+lt+"."+t+"."+_uns;=0A=
+ }=0A=
+ return a;=0A=
+}=0A=
+function _uTrim(s) {=0A=
+  if (!s || s=3D=3D"") return "";=0A=
+  while ((s.charAt(0)=3D=3D' ') || (s.charAt(0)=3D=3D'\n') || =
+(s.charAt(0,1)=3D=3D'\r')) s=3Ds.substring(1,s.length);=0A=
+  while ((s.charAt(s.length-1)=3D=3D' ') || =
+(s.charAt(s.length-1)=3D=3D'\n') || (s.charAt(s.length-1)=3D=3D'\r')) =
+s=3Ds.substring(0,s.length-1);=0A=
+  return s;=0A=
+}=0A=
+function _uEC(s) {=0A=
+  var n=3D"";=0A=
+  if (!s || s=3D=3D"") return "";=0A=
+  for (var i=3D0;i<s.length;i++) {if (s.charAt(i)=3D=3D" ") n+=3D"+"; =
+else n+=3Ds.charAt(i);}=0A=
+  return n;=0A=
+}=0A=
+function __utmVisitorCode(f) {=0A=
+ var r=3D0,t=3D0,i=3D0,i2=3D0,m=3D31;=0A=
+ var a=3D_uGC(_ubd.cookie,"__utma=3D"+_udh+".",";");=0A=
+ if ((i=3Da.indexOf(".",0))<0) return;=0A=
+ if ((i2=3Da.indexOf(".",i+1))>0) r=3Da.substring(i+1,i2); else return =
+"";  =0A=
+ if ((i=3Da.indexOf(".",i2+1))>0) t=3Da.substring(i2+1,i); else return =
+"";  =0A=
+ if (f) {=0A=
+  return r;=0A=
+ } else {=0A=
+  var c=3Dnew =
+Array('A','B','C','D','E','F','G','H','J','K','L','M','N','P','R','S','T'=
+,'U','V','W','X','Y','Z','1','2','3','4','5','6','7','8','9');=0A=
+  return =
+c[r>>28&m]+c[r>>23&m]+c[r>>18&m]+c[r>>13&m]+"-"+c[r>>8&m]+c[r>>3&m]+c[((r=
+&7)<<2)+(t>>30&3)]+c[t>>25&m]+c[t>>20&m]+"-"+c[t>>15&m]+c[t>>10&m]+c[t>>5=
+&m]+c[t&m];=0A=
+ }=0A=
+}=0A=
+function _uIN(n) {=0A=
+ if (!n) return false;=0A=
+ for (var i=3D0;i<n.length;i++) {=0A=
+  var c=3Dn.charAt(i);=0A=
+  if ((c<"0" || c>"9") && (c!=3D".")) return false;=0A=
+ }=0A=
+ return true;=0A=
+}=0A=
+function _uES(s,u) {=0A=
+ if (typeof(encodeURIComponent) =3D=3D 'function') {=0A=
+  if (u) return encodeURI(s);=0A=
+  else return encodeURIComponent(s);=0A=
+ } else {=0A=
+  return escape(s);=0A=
+ }=0A=
+}=0A=
+function _uUES(s) {=0A=
+ if (typeof(decodeURIComponent) =3D=3D 'function') {=0A=
+  return decodeURIComponent(s);=0A=
+ } else {=0A=
+  return unescape(s);=0A=
+ }=0A=
+}=0A=
+function _uVG() {=0A=
+ if((_udn.indexOf("www.google.") =3D=3D 0 || _udn.indexOf(".google.") =
+=3D=3D 0 || _udn.indexOf("google.") =3D=3D 0) && _utcp=3D=3D'/' && =
+_udn.indexOf("google.org")=3D=3D-1) {=0A=
+  return false;=0A=
+ }=0A=
+ return true;=0A=
+}=0A=
+function _uSP() {=0A=
+ var s=3D100;=0A=
+ if (_usample) s=3D_usample;=0A=
+ if(s>=3D100 || s<=3D0) return true;=0A=
+ return ((__utmVisitorCode(1)%10000)<(s*100));=0A=
+}=0A=
+function urchinPathCopy(p){=0A=
+ var d=3Ddocument,nx,tx,sx,i,c,cs,t,h,o;=0A=
+ cs=3Dnew Array("a","b","c","v","x","z");=0A=
+ h=3D_uDomain(); if (_udn && _udn!=3D"") o=3D" domain=3D"+_udn+";";=0A=
+ nx=3D_uNx()+";";=0A=
+ tx=3Dnew Date(); tx.setTime(tx.getTime()+(_utimeout*1000));=0A=
+ tx=3Dtx.toGMTString()+";";=0A=
+ sx=3Dnew Date(); sx.setTime(sx.getTime()+(_ucto*1000));=0A=
+ sx=3Dsx.toGMTString()+";";=0A=
+ for (i=3D0;i<6;i++){=0A=
+  t=3D" expires=3D";=0A=
+  if (i=3D=3D1) t+=3Dtx; else if (i=3D=3D2) t=3D""; else if (i=3D=3D5) =
+t+=3Dsx; else t+=3Dnx;=0A=
+  c=3D_uGC(d.cookie,"__utm"+cs[i]+"=3D"+h,";");=0A=
+  if (c!=3D"-") d.cookie=3D"__utm"+cs[i]+"=3D"+c+"; path=3D"+p+";"+t+o;=0A=
+ }=0A=
+}=0A=
+function _uCO() {=0A=
+ if (!_utk || _utk=3D=3D"" || _utk.length<10) return;=0A=
+ var d=3D'www.google.com';=0A=
+ if (_utk.charAt(0)=3D=3D'!') d=3D'analytics.corp.google.com';=0A=
+ _ubd.cookie=3D"GASO=3D"+_utk+"; path=3D"+_utcp+";"+_udo;=0A=
+ var sc=3Ddocument.createElement('script');=0A=
+ sc.type=3D'text/javascript';=0A=
+ sc.id=3D"_gasojs";=0A=
+ =
+sc.src=3D'https://'+d+'/analytics/reporting/overlay_js?gaso=3D'+_utk+'&'+=
+Math.random();=0A=
+ document.getElementsByTagName('head')[0].appendChild(sc);  =0A=
+}=0A=
+function _uGT() {=0A=
+ var h=3Dlocation.hash, a;=0A=
+ if (h && h!=3D"" && h.indexOf("#gaso=3D")=3D=3D0) {=0A=
+  a=3D_uGC(h,"gaso=3D","&");=0A=
+ } else {=0A=
+  a=3D_uGC(_ubd.cookie,"GASO=3D",";");=0A=
+ }=0A=
+ return a;=0A=
+}=0A=
+var _utk=3D_uGT();=0A=
+if (_utk && _utk!=3D"" && _utk.length>10 && _utk.indexOf("=3D")=3D=3D-1) =
+{=0A=
+ if (window.addEventListener) {=0A=
+  window.addEventListener('load', _uCO, false); =0A=
+ } else if (window.attachEvent) { =0A=
+  window.attachEvent('onload', _uCO);=0A=
+ }=0A=
+}=0A=
+=0A=
+function _uNx() {=0A=
+  return (new Date((new Date()).getTime()+63072000000)).toGMTString();=0A=
+}=0A=
+
+------=_NextPart_000_0000_01C9A2AB.41533810--

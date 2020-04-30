@@ -1,0 +1,51 @@
+.adstrip {
+	BORDER-RIGHT: #000000 thin dotted; BORDER-TOP: #000000 thin dotted; FONT-SIZE: 14pt; BACKGROUND: #eeeeee; BORDER-LEFT: #000000 thin dotted; WIDTH: 150px; BORDER-BOTTOM: #000000 thin dotted; border-spacing: 0px
+}
+DIV#adstrip TABLE TR TD A {
+	COLOR: #aa0000; font-color: #AA0000
+}
+.adstrip_link {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; MARGIN: 0pt; COLOR: #aa0000; FONT-STYLE: italic; FONT-FAMILY: Arial; TEXT-ALIGN: center; TEXT-DECORATION: underline; font-color: #AA0000
+}
+.adstrip_title {
+	FONT-WEIGHT: bold; FONT-SIZE: 14pt; COLOR: #777777; FONT-STYLE: italic; FONT-FAMILY: Times; TEXT-ALIGN: center; TEXT-DECORATION: none; font-color: #777777
+}
+A.adstrip_link:link {
+	FONT-SIZE: 8pt; COLOR: #aa0000; FONT-STYLE: italic; TEXT-DECORATION: underline; font-color: #AA0000
+}
+A.adstrip_link:visited {
+	FONT-SIZE: 8pt; COLOR: #aa0000; FONT-STYLE: italic; TEXT-DECORATION: underline
+}
+A.adstrip_link:active {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+A.adstrip_link:hover {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+.blogad {
+	BORDER-RIGHT: #bbbbbb thin; BORDER-TOP: #bbbbbb thin; BACKGROUND: #eeeeee; BORDER-LEFT: #bbbbbb thin; WIDTH: 100%; BORDER-BOTTOM: #bbbbbb thin; TEXT-ALIGN: center; border-spacing: 0px
+}
+.blogad_headline {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; MARGIN: 8px 0pt 0pt; COLOR: #000000; FONT-FAMILY: Arial; TEXT-ALIGN: center; border-spacing: 0px
+}
+.blogad_thumbnail {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none; TEXT-ALIGN: center; border-spacing: 0px
+}
+.blogad_text {
+	FONT-SIZE: 8pt; MARGIN: 0pt; COLOR: #000000; FONT-FAMILY: Arial; border-spacing: 0px
+}
+.blogad_link {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; VISIBILITY: visible; MARGIN: 0pt; COLOR: #aa0000; FONT-STYLE: italic; FONT-FAMILY: Times; TEXT-DECORATION: underline
+}
+A.blogad_link:link {
+	FONT-SIZE: 8pt; COLOR: #aa0000; FONT-STYLE: italic; TEXT-DECORATION: underline; font-color: #AA0000
+}
+A.blogad_link:visited {
+	FONT-SIZE: 8pt; COLOR: #aa0000; FONT-STYLE: italic; TEXT-DECORATION: underline; font-color: #AA0000
+}
+A.blogad_link:active {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
+A.blogad_link:hover {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}

@@ -1,0 +1,111 @@
+A {
+	COLOR: #d9ffdb; TEXT-DECORATION: underline
+}
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND-IMAGE: url(images/2-bkg2.gif); PADDING-BOTTOM: 0px; MARGIN: 0px 0px 10px; COLOR: #ffffff; PADDING-TOP: 0px; BACKGROUND-REPEAT: repeat-x; BACKGROUND-COLOR: #430000
+}
+.motto {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 12px 0px 0px; PADDING-TOP: 0px; FONT-FAMILY: Arial,sans-serif; TEXT-ALIGN: center
+}
+.nav1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px
+}
+.nav1 A {
+	COLOR: #000000; BACKGROUND-COLOR: #ffffbf
+}
+.nav2 {
+	FONT-SIZE: 12px
+}
+.nav2 A {
+	COLOR: #000000; BACKGROUND-COLOR: #ffdfbf
+}
+.nav3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px
+}
+.nav3 A {
+	COLOR: #000000; BACKGROUND-COLOR: #d2e8ff
+}
+.ps138-2 {
+	CLEAR: both; FONT-SIZE: 14px; FLOAT: right; MARGIN: 0px 1px 5px 0px; WIDTH: 465px; COLOR: #ffbbdb; FONT-STYLE: italic; FONT-FAMILY: "Trebuchet MS",serif; TEXT-ALIGN: right
+}
+.shadebox {
+	BORDER-RIGHT: #000000 2px dashed; PADDING-RIGHT: 10px; BORDER-TOP: #000000 2px dashed; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #000000 2px dashed; WIDTH: 80%; COLOR: #000000; PADDING-TOP: 10px; BORDER-BOTTOM: #000000 2px dashed; FONT-FAMILY: Arial,sans-serif; BACKGROUND-COLOR: #e0e0e0; TEXT-ALIGN: left
+}
+.sidebar1 {
+	PADDING-RIGHT: 7px; PADDING-LEFT: 7px; FONT-SIZE: smaller; FLOAT: right; PADDING-BOTTOM: 7px; MARGIN: 5px 0px 5px 5px; WIDTH: 40%; PADDING-TOP: 7px; BACKGROUND-COLOR: #bcffff
+}
+.sidebar2 {
+	CLEAR: right; PADDING-RIGHT: 7px; PADDING-LEFT: 7px; FONT-SIZE: smaller; FLOAT: right; PADDING-BOTTOM: 7px; MARGIN: 5px 0px 5px 5px; WIDTH: 40%; PADDING-TOP: 7px; BACKGROUND-COLOR: #ffbbdb; TEXT-ALIGN: right
+}
+.smcps {
+	FONT-VARIANT: small-caps
+}
+.smtxt {
+	FONT-SIZE: smaller
+}
+#adsbar {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; MARGIN: 0px; WIDTH: 100%; PADDING-TOP: 10px; BORDER-BOTTOM: #bd0000 1px solid; HEIGHT: 70px; BACKGROUND-COLOR: #000000
+}
+#adsbar A:hover {
+	COLOR: #ffff00
+}
+#adsbar IMG {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; MARGIN: 0px 10px 0px 0px; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}
+#adsbar UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; FONT-FAMILY: Arial,sans-serif; LIST-STYLE-TYPE: none
+}
+#footer {
+	FONT-SIZE: x-small; MARGIN: 10px; FONT-FAMILY: Verdana,sans-serif
+}
+#footerverse {
+	CLEAR: both; BORDER-RIGHT: #bd0000 1px solid; BORDER-TOP: #bd0000 1px solid; MARGIN: 10px; BORDER-LEFT: #bd0000 1px solid; WIDTH: 744px; COLOR: #e5e600; BORDER-BOTTOM: #bd0000 1px solid; FONT-FAMILY: "Trebuchet MS",serif; BACKGROUND-COLOR: #000000; TEXT-ALIGN: center
+}
+#leftnav {
+	MARGIN-LEFT: 10px; WIDTH: 150px
+}
+#leftnav A {
+	PADDING-RIGHT: 3px; DISPLAY: block; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; MARGIN: 1px 0px; WIDTH: 100%; PADDING-TOP: 3px; TEXT-DECORATION: none
+}
+#leftnav A:hover {
+	COLOR: #000000; BACKGROUND-COLOR: #ff0000
+}
+#leftnav LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#leftnav UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 10px; PADDING-TOP: 0px; FONT-FAMILY: "Trebuchet MS",sans-serif; LIST-STYLE-TYPE: none; TEXT-ALIGN: center
+}
+#maincontent {
+	BORDER-RIGHT: #000000 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #000000 1px solid; PADDING-LEFT: 10px; FONT-SIZE: small; FLOAT: right; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #000000 1px solid; WIDTH: 550px; COLOR: #000000; PADDING-TOP: 10px; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: Verdana,sans-serif; BACKGROUND-COLOR: #ffffff
+}
+#maincontent A {
+	COLOR: #0000ff
+}
+#maincontent A:hover {
+	COLOR: #ff0000
+}
+#maincontent H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 120%; BORDER-BOTTOM: #000000 1px solid
+}
+#maincontent H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 100%
+}
+#maincontent H4 {
+	CLEAR: both; BORDER-RIGHT: #000000 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #000000 1px solid; PADDING-LEFT: 3px; FONT-SIZE: 100%; PADDING-BOTTOM: 3px; BORDER-LEFT: #000000 1px solid; PADDING-TOP: 3px; BORDER-BOTTOM: #000000 1px solid; BACKGROUND-COLOR: #dcdcdc
+}
+#maincontent LI {
+	MARGIN-TOP: 5px; MARGIN-BOTTOM: 5px
+}
+#pagemiddle {
+	CLEAR: both; MARGIN-TOP: 0px; WIDTH: 744px
+}
+#softad {
+	BORDER-RIGHT: #000000 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #000000 1px solid; PADDING-LEFT: 5px; FLOAT: right; PADDING-BOTTOM: 5px; MARGIN: 0px 0px 5px 5px; BORDER-LEFT: #000000 1px solid; WIDTH: 35%; COLOR: #000000; PADDING-TOP: 5px; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: Arial,sans-serif; BACKGROUND-COLOR: #bcffff
+}
+#titlebar {
+	WIDTH: 748px
+}
+#titlelogo {
+	FLOAT: right
+}

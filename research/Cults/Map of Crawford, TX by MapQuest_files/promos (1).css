@@ -1,0 +1,228 @@
+.prmocat .half {
+	WIDTH: 48%
+}
+.prmo1 .panel {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; MARGIN: 4px 0px 0px; PADDING-TOP: 5px
+}
+.prmocat .panel {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; MARGIN: 4px 0px 0px; PADDING-TOP: 5px
+}
+.prmo2 .panel {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; MARGIN: 4px 0px 0px; PADDING-TOP: 5px
+}
+.prmo1 .panel DIV.icon {
+	PADDING-LEFT: 60px
+}
+.prmo2 .panel {
+	POSITION: relative
+}
+.prmo2 .panel {
+	MIN-HEIGHT: 65px
+}
+ HTML .prmo2 .panel {
+	HEIGHT: 65px
+}
+.prmo2 .panel IMG {
+	LEFT: 0px; POSITION: absolute; TOP: 0px
+}
+.prmo2 .panel DIV {
+	MARGIN-LEFT: 65px
+}
+.prmotip .panel {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.prmotip .panel DIV.icon {
+	PADDING-RIGHT: 60px; BACKGROUND: url(http://cdn.digitalcity.com/mqsite/promo-icon-tip) no-repeat 100% 0px; PADDING-BOTTOM: 75px
+}
+#home .panel {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+.pairports .panel {
+	BACKGROUND: url(http://cdn.digitalcity.com/mqsite/promo-icon-airplane) no-repeat 2px 2px
+}
+.pfindit {
+	BACKGROUND: url(http://cdn.digitalcity.com/mqsite/promo-icon-mag_glass-home) no-repeat 2px 2px
+}
+.plandmarks .panel {
+	BACKGROUND: url(http://cdn.digitalcity.com/mqsite/promo-icon-liberty) no-repeat 2px 2px
+}
+.psearches .panel {
+	BACKGROUND: url(http://cdn.digitalcity.com/mqsite/promo-icon-tickets) no-repeat 2px 2px
+}
+.pcities .panel {
+	BACKGROUND: url(http://cdn.digitalcity.com/mqsite/promo-icon-map-us) no-repeat 2px 2px
+}
+.ptipphone {
+	BACKGROUND: url(http://cdn.digitalcity.com/mqsite/promo-background-sendtophone) no-repeat 0px 100%
+}
+.ptipfindit {
+	BACKGROUND: url(http://cdn.digitalcity.com/mqsite/promo-background-findnearby) no-repeat 0px 100%
+}
+.prmo1 .bgbcrv P {
+	FONT-WEIGHT: bold; MARGIN: 0px 0px 0px 5px
+}
+.prmocat .bgbcrv P {
+	FONT-WEIGHT: bold; MARGIN: 0px 0px 0px 5px
+}
+.prmo2 .bgbcrv P {
+	FONT-WEIGHT: bold; MARGIN: 0px 0px 0px 5px
+}
+.prmocat DL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 10px; PADDING-TOP: 0px
+}
+.prmocat DD {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 3px 0px 0px; PADDING-TOP: 0px
+}
+.prmocat DD A {
+	COLOR: #999
+}
+.prmocat DD A:visited {
+	COLOR: #999
+}
+.prmocat DT {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.prmocat DT A {
+	FONT-WEIGHT: bold; COLOR: #252650
+}
+.prmocat DT A:visited {
+	FONT-WEIGHT: bold; COLOR: #252650
+}
+.prmotip OL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 10px; PADDING-TOP: 0px
+}
+.prmotip UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 10px; PADDING-TOP: 0px
+}
+.prmo1 .panel FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 100%; PADDING-TOP: 0px
+}
+.prmo2 .panel FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 100%; PADDING-TOP: 0px
+}
+.prmo1 LABEL {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.prmo2 LABEL {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.prmo1 SELECT {
+	WIDTH: 250px
+}
+.prmo2 SELECT {
+	WIDTH: 250px
+}
+.prmo1 .pcsz {
+	MARGIN: 0px auto; WIDTH: 345px; TEXT-ALIGN: center
+}
+.prmo2 .pcsz {
+	MARGIN: 0px auto; WIDTH: 345px; TEXT-ALIGN: center
+}
+.prmo1 .pcsz DIV {
+	TEXT-ALIGN: left
+}
+.prmo2 .pcsz DIV {
+	TEXT-ALIGN: left
+}
+.prmo1 .pcity {
+	FLOAT: left; WIDTH: 190px
+}
+.prmo2 .pcity {
+	FLOAT: left; WIDTH: 190px
+}
+.prmo1 .pcity INPUT {
+	WIDTH: 180px
+}
+.prmo2 .pcity INPUT {
+	WIDTH: 180px
+}
+.prmo1 .pstate {
+	FLOAT: left; WIDTH: 50px
+}
+.prmo2 .pstate {
+	FLOAT: left; WIDTH: 50px
+}
+.prmo1 .pstate INPUT {
+	WIDTH: 40px
+}
+.prmo2 .pstate INPUT {
+	WIDTH: 40px
+}
+.prmo1 .pzip {
+	FLOAT: left; WIDTH: 75px
+}
+.prmo2 .pzip {
+	FLOAT: left; WIDTH: 75px
+}
+.prmo1 .pzip INPUT {
+	WIDTH: 65px
+}
+.prmo2 .pzip INPUT {
+	WIDTH: 65px
+}
+.prmo1 .psubmit {
+	FLOAT: left; WIDTH: 30px
+}
+.prmo2 .psubmit {
+	FLOAT: left; WIDTH: 30px
+}
+.prmo1 INPUT.submit {
+	WIDTH: 25px
+}
+.prmo2 INPUT.submit {
+	WIDTH: 25px
+}
+.prmo1 .radio DIV {
+	VERTICAL-ALIGN: middle
+}
+.prmo2 .radio DIV {
+	VERTICAL-ALIGN: middle
+}
+.prmo1 .radio LABEL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.prmo2 .radio LABEL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.prmo1 .radio INPUT {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+.prmo2 .radio INPUT {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+.prmo1 P LABEL {
+	FONT-SIZE: 1em
+}
+.prmo2 P LABEL {
+	FONT-SIZE: 1em
+}
+.side .prmo1 SELECT {
+	WIDTH: 200px
+}
+.side .prmo2 SELECT {
+	WIDTH: 200px
+}
+.side .prmo1 .pcsz {
+	WIDTH: 295px
+}
+.side .prmo2 .pcsz {
+	WIDTH: 295px
+}
+.side .prmo1 .pcity {
+	FLOAT: left; WIDTH: 140px
+}
+.side .prmo2 .pcity {
+	FLOAT: left; WIDTH: 140px
+}
+.side .prmo1 .pcity INPUT {
+	WIDTH: 130px
+}
+.side .prmo2 .pcity INPUT {
+	WIDTH: 130px
+}
+#home .prmo1 SELECT {
+	WIDTH: 180px
+}
+#home .prmo2 SELECT {
+	WIDTH: 180px
+}

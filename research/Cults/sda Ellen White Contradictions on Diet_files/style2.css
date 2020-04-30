@@ -1,0 +1,39 @@
+.style1 {
+	PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: arial, helvetica, sans-serif
+}
+.menuLink {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.menuLink:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: arial, helvetica, sans-serif; TEXT-DECORATION: underline
+}
+H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 20px; COLOR: #030089; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #030089; FONT-FAMILY: Arial, Helvetica, sans-serif; h3: #030089
+}
+BODY {
+	FONT-SIZE: 16px; FONT-FAMILY: times
+}
+TD {
+	FONT-SIZE: 16px; FONT-FAMILY: times
+}
+P {
+	FONT-SIZE: 16px; FONT-FAMILY: times
+}
+.highlight1 {
+	BACKGROUND-COLOR: rgb(255,255,75)
+}
+.highlight2 {
+	BACKGROUND-COLOR: rgb(125,255,125)
+}
+.highlight3 {
+	BACKGROUND-COLOR: rgb(75,255,255)
+}
+.highlight4 {
+	BACKGROUND-COLOR: rgb(255,175,255)
+}
+.notes {
+	FONT-WEIGHT: normal; FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}

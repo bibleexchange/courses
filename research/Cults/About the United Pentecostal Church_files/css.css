@@ -1,0 +1,45 @@
+test {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+test:hover {
+	COLOR: #efc763; TEXT-DECORATION: underline
+}
+tL:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+tL:hover {
+	COLOR: #efc763; TEXT-DECORATION: underline
+}
+tsL:link {
+	COLOR: #313063; TEXT-DECORATION: none
+}
+tsL:hover {
+	COLOR: #6396ce
+}
+tsL:active {
+	COLOR: #6396ce
+}
+ttl:link {
+	COLOR: #313063; TEXT-DECORATION: none
+}
+ttl:unknown {
+	COLOR: #313063; TEXT-DECORATION: none
+}
+ttl:active {
+	COLOR: #313063; TEXT-DECORATION: none
+}
+ttl:hover {
+	COLOR: #efc763; TEXT-DECORATION: none
+}
+t:link {
+	FONT: bold small arial,sans-serif; COLOR: #ffffff; TEXT-DECORATION: none
+}
+tS:link {
+	FONT: bold small arial,sans-serif; COLOR: #ffffff; TEXT-DECORATION: none
+}
+fL:link {
+	COLOR: #efc763; TEXT-DECORATION: underline
+}
+fL:hover {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<?xml-stylesheet type="text/xsl" href="songBook.xsl"?>
+<songs>
+<song>
+<title>Touch This Child Again</title>
+<verse verseNum='1'>
+<line>My Soul is Thirsty Lord</line>
+<line>I Long for Thee</line>
+<line>Roll back the silence Lord</line>
+<line>And speak to me</line>
+<line>My heart cries out to you</line>
+<line>Your love to claim</line>
+<line>Break through this emptiness </line>
+<line>And touch this child again</line>
+</verse>
+
+<verse verseNum='2'>
+<line>The very breath I breathe</line>
+<line>I owe to thee</line>
+<line>Your Lovingkindness lord</line>
+<line>Remembers me</line>
+<line>The beauty of your Love</line>
+<line>I must proclaim</line>
+<line>Arouse my slumbering soul</line>
+<line>And touch this child again</line>
+</verse>
+<chorus>
+<line>Behind this idle song </line>
+<line>Lies great desire</line>
+<line>To be delivered Lord</line>
+<line>And set new flames afire</line>
+<line>Take this empty life unworthy</line>
+<line>of your name</line>
+<line>Break through the silence Lord</line>
+<line>And touch this child again</line>
+</chorus>
+</song>
+</songs>

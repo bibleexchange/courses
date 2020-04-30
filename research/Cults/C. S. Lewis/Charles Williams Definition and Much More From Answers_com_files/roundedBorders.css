@@ -1,0 +1,177 @@
+DIV.g_uedge {
+	BACKGROUND-POSITION: center top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/green_vertical.gif); MARGIN-BOTTOM: 10px; WIDTH: 8.25em; BACKGROUND-REPEAT: repeat-x
+}
+DIV.g_redge {
+	BACKGROUND-POSITION: right top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/green_div.gif); BACKGROUND-REPEAT: repeat-y
+}
+DIV.g_bedge {
+	BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(/main/images/roundedBorders/green_div.gif); BACKGROUND-REPEAT: repeat-x
+}
+DIV.g_ledge {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/green_div.gif); BACKGROUND-REPEAT: repeat-y
+}
+DIV.g_ulcorner {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/green_topLeft.gif); BACKGROUND-REPEAT: no-repeat
+}
+DIV.g_urcorner {
+	BACKGROUND-POSITION: right top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/green_topRight.gif); BACKGROUND-REPEAT: no-repeat
+}
+DIV.g_blcorner {
+	BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(/main/images/roundedBorders/green_bottomLeft.gif); BACKGROUND-REPEAT: no-repeat
+}
+DIV.g_brcorner {
+	BACKGROUND-POSITION: right bottom; BACKGROUND-IMAGE: url(/main/images/roundedBorders/green_bottomRight.gif); PADDING-BOTTOM: 10px; BACKGROUND-REPEAT: no-repeat
+}
+DIV.b_uedge {
+	BACKGROUND-POSITION: center top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/blue_vertical.gif); MARGIN-BOTTOM: 10px; WIDTH: 8.25em; BACKGROUND-REPEAT: repeat-x
+}
+DIV.b_redge {
+	BACKGROUND-POSITION: right top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/blue_div.gif); BACKGROUND-REPEAT: repeat-y
+}
+DIV.b_bedge {
+	BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(/main/images/roundedBorders/blue_div.gif); BACKGROUND-REPEAT: repeat-x
+}
+DIV.b_ledge {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/blue_div.gif); BACKGROUND-REPEAT: repeat-y
+}
+DIV.b_ulcorner {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/blue_topLeft.gif); BACKGROUND-REPEAT: no-repeat
+}
+DIV.b_urcorner {
+	BACKGROUND-POSITION: right top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/blue_topRight.gif); BACKGROUND-REPEAT: no-repeat
+}
+DIV.b_blcorner {
+	BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(/main/images/roundedBorders/blue_bottomLeft.gif); BACKGROUND-REPEAT: no-repeat
+}
+DIV.b_brcorner {
+	BACKGROUND-POSITION: right bottom; BACKGROUND-IMAGE: url(/main/images/roundedBorders/blue_bottomRight.gif); PADDING-BOTTOM: 10px; BACKGROUND-REPEAT: no-repeat
+}
+DIV.r_uedge {
+	BACKGROUND-POSITION: center top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/red_vertical.gif); WIDTH: 8.25em; BACKGROUND-REPEAT: repeat-x
+}
+DIV.r_redge {
+	BACKGROUND-POSITION: right top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/red_div.gif); BACKGROUND-REPEAT: repeat-y
+}
+DIV.r_bedge {
+	BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(/main/images/roundedBorders/red_div.gif); BACKGROUND-REPEAT: repeat-x
+}
+DIV.r_ledge {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/red_div.gif); BACKGROUND-REPEAT: repeat-y
+}
+DIV.r_ulcorner {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/red_topLeft.gif); BACKGROUND-REPEAT: no-repeat
+}
+DIV.r_urcorner {
+	BACKGROUND-POSITION: right top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/red_topRight.gif); BACKGROUND-REPEAT: no-repeat
+}
+DIV.r_blcorner {
+	BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(/main/images/roundedBorders/red_bottomLeft.gif); BACKGROUND-REPEAT: no-repeat
+}
+DIV.r_brcorner {
+	BACKGROUND-POSITION: right bottom; BACKGROUND-IMAGE: url(/main/images/roundedBorders/red_bottomRight.gif); PADDING-BOTTOM: 10px; BACKGROUND-REPEAT: no-repeat
+}
+DIV.gray_uedge {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/gray_div.gif); WIDTH: 580px; BACKGROUND-REPEAT: repeat-x
+}
+DIV.gray_redge {
+	BACKGROUND-POSITION: right top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/gray_div.gif); BACKGROUND-REPEAT: repeat-y
+}
+DIV.gray_bedge {
+	BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(/main/images/roundedBorders/gray_div.gif); BACKGROUND-REPEAT: repeat-x
+}
+DIV.gray_ledge {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/gray_div.gif); BACKGROUND-REPEAT: repeat-y
+}
+DIV.gray_ulcorner {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/gray_topLeft.gif); BACKGROUND-REPEAT: no-repeat
+}
+DIV.gray_urcorner {
+	BACKGROUND-POSITION: right top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/gray_topRight.gif); BACKGROUND-REPEAT: no-repeat
+}
+DIV.gray_blcorner {
+	BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(/main/images/roundedBorders/gray_bottomLeft.gif); BACKGROUND-REPEAT: no-repeat
+}
+DIV.gray_brcorner {
+	BACKGROUND-POSITION: right bottom; BACKGROUND-IMAGE: url(/main/images/roundedBorders/gray_bottomRight.gif); BACKGROUND-REPEAT: no-repeat
+}
+DIV.gradient_uedge {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/darkGray_div.gif); PADDING-BOTTOM: 10px; BACKGROUND-REPEAT: repeat-x
+}
+DIV.gradient_redge {
+	BACKGROUND-POSITION: right top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/darkGray_div.gif); BACKGROUND-REPEAT: repeat-y
+}
+DIV.gradient_bedge {
+	BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(/main/images/roundedBorders/lightGray_div.gif); BACKGROUND-REPEAT: repeat-x
+}
+DIV.gradient_ledge {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/darkGray_div.gif); BACKGROUND-REPEAT: repeat-y
+}
+DIV.gradient_ulcorner {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/gray_topLeft.gif); BACKGROUND-REPEAT: no-repeat
+}
+DIV.gradient_urcorner {
+	BACKGROUND-POSITION: right top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/gray_topRight.gif); BACKGROUND-REPEAT: no-repeat
+}
+DIV.gradient_blcorner {
+	BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(/main/images/roundedBorders/grayGradient_bottomLeft.gif); BACKGROUND-REPEAT: no-repeat
+}
+DIV.gradient_brcorner {
+	BACKGROUND-POSITION: right bottom; BACKGROUND-IMAGE: url(/main/images/roundedBorders/grayGradient_bottomRight.gif); BACKGROUND-REPEAT: no-repeat; HEIGHT: 50px
+}
+DIV.navigation_uedge {
+	BACKGROUND-COLOR: #f9f9f9
+}
+DIV.navigation_redge {
+	BACKGROUND-POSITION: right top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/lightDiv.gif); BACKGROUND-REPEAT: repeat-y
+}
+DIV.navigation_bedge {
+	BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(/main/images/roundedBorders/darkDiv.gif); BACKGROUND-REPEAT: repeat-x
+}
+DIV.navigation_ledge {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/darkDiv.gif); BACKGROUND-REPEAT: repeat-y
+}
+DIV.navigation_ulcorner {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/navigation_topLeft.gif); BACKGROUND-REPEAT: no-repeat
+}
+DIV.navigation_urcorner {
+	BACKGROUND-POSITION: right top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/navigation_topRight.gif); BACKGROUND-REPEAT: no-repeat
+}
+DIV.navigation_blcorner {
+	BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(/main/images/roundedBorders/navigation_bottomLeft.gif); BACKGROUND-REPEAT: no-repeat
+}
+DIV.navigation_brcorner {
+	BACKGROUND-POSITION: right bottom; BACKGROUND-IMAGE: url(/main/images/roundedBorders/navigation_bottomRight.gif); BACKGROUND-REPEAT: no-repeat
+}
+.backTopicTitle {
+	BACKGROUND-POSITION: left top; FONT-WEIGHT: bold; FONT-SIZE: 22px; BACKGROUND-IMAGE: url(/main/images/roundedBorders/solidBlueTopLeft.gif); MARGIN-BOTTOM: 3px; WIDTH: 580px; COLOR: #003399; BACKGROUND-REPEAT: no-repeat; BACKGROUND-COLOR: #f4f6fe
+}
+.backTopicTitle DIV {
+	BACKGROUND-POSITION: right top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/solidBlueTopRight.gif); BACKGROUND-REPEAT: no-repeat
+}
+.backTopicTitle DIV DIV {
+	BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(/main/images/roundedBorders/solidBlueBottomLeft.gif); BACKGROUND-REPEAT: no-repeat
+}
+.backTopicTitle DIV DIV DIV {
+	BACKGROUND-POSITION: right bottom; BACKGROUND-IMAGE: url(/main/images/roundedBorders/solidBlueBottomRight.gif); BACKGROUND-REPEAT: no-repeat
+}
+.pageTools {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/tools_div.gif); WIDTH: 772px; BACKGROUND-REPEAT: repeat-x; HEIGHT: 37px
+}
+.pageTools DIV {
+	BACKGROUND-POSITION: left bottom; FONT-SIZE: 13px; BACKGROUND-IMAGE: url(/main/images/roundedBorders/tools_div.gif); COLOR: #003399; BACKGROUND-REPEAT: repeat-x; HEIGHT: 37px
+}
+.pageTools DIV DIV {
+	BACKGROUND-POSITION: right top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/tools_rightCorner.gif); BACKGROUND-REPEAT: no-repeat; HEIGHT: 37px
+}
+.pageTools DIV DIV DIV {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(/main/images/roundedBorders/tools_leftCorner.gif); BACKGROUND-REPEAT: no-repeat; HEIGHT: 37px
+}
+.pageTools A {
+	FONT-SIZE: 13px; COLOR: #003399
+}
+.pageTools A:hover {
+	FONT-SIZE: 13px; COLOR: #316ca5
+}
+.pageTools IMG {
+	VERTICAL-ALIGN: middle
+}

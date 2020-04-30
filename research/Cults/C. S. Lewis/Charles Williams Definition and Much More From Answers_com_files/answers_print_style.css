@@ -1,0 +1,66 @@
+BODY {
+	MARGIN: 10px; WIDTH: 99%; FONT-FAMILY: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif
+}
+#body {
+	MARGIN: 10px; WIDTH: 99%; FONT-FAMILY: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif
+}
+#header {
+	MARGIN: 0px; WIDTH: 100%
+}
+#left {
+	DISPLAY: none; WIDTH: 0px
+}
+#right {
+	DISPLAY: none; WIDTH: 0px
+}
+.accoonaRight {
+	DISPLAY: none; WIDTH: 0px
+}
+IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+#lsidebar {
+	DISPLAY: none; WIDTH: 0px
+}
+#middle {
+	MARGIN: 0px; WIDTH: 100%
+}
+#lookup {
+	MARGIN: 0px; WIDTH: 100%
+}
+DIV.content {
+	MARGIN-TOP: 5px; FONT-SIZE: 13px; MARGIN-BOTTOM: 12px; MARGIN-LEFT: 6px; WIDTH: 95%
+}
+DIV.gray_uedge {
+	MARGIN-BOTTOM: 10px; WIDTH: 100%
+}
+DIV.gradient_uedge {
+	WIDTH: 100%
+}
+.backTopicTitle {
+	WIDTH: 100%
+}
+.copyrightImage {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 10px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; FLOAT: right; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: middle; PADDING-TOP: 7px; BORDER-RIGHT-WIDTH: 0px
+}
+#copyrightTable {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-SIZE: 11px; PADDING-BOTTOM: 3px; COLOR: #595959; PADDING-TOP: 3px
+}
+.accoonaHeader {
+	WIDTH: 100%
+}
+.accoona_header {
+	WIDTH: 100%
+}
+.accoonaSearch {
+	DISPLAY: none; WIDTH: 0%
+}
+.accoonaSpacer {
+	DISPLAY: none; WIDTH: 0px
+}
+DIV.ads {
+	DISPLAY: none; WIDTH: 0px
+}
+.shoppingWide {
+	DISPLAY: none
+}

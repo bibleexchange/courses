@@ -1,0 +1,24 @@
+B {
+	FONT-WEIGHT: bold
+}
+U {
+	TEXT-DECORATION: underline
+}
+I {
+	FONT-STYLE: italic
+}
+.none {
+	TEXT-DECORATION: none
+}
+.punditnav {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; FONT-FAMILY: Arial,Helvetica,Verdana; TEXT-DECORATION: none
+}
+.fh {
+	FONT-WEIGHT: bold; FONT-SIZE: 20px; COLOR: #666666; FONT-FAMILY: Arial,Verdana
+}
+.srch {
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial Narrow,Arial,Helvetica; TEXT-DECORATION: none
+}
+.daily {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #cc0000; FONT-FAMILY: Helvetica,Arial,Verdana
+}

@@ -1,0 +1,27 @@
+.smallBox {
+	BORDER-RIGHT: #798ba3 1px solid; BORDER-TOP: #798ba3 1px solid; MARGIN: 2px; BORDER-LEFT: #798ba3 1px solid; WIDTH: 200px; BORDER-BOTTOM: #798ba3 1px solid
+}
+.smallBoxItem {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #485d78; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #e1e7ee
+}
+.menuaHoriz {
+	BORDER-RIGHT: #798ba3 1px; BORDER-TOP: #798ba3 1px; FONT-WEIGHT: normal; FONT-SIZE: 12px; BORDER-LEFT: #798ba3 1px; COLOR: #000000; BORDER-BOTTOM: #798ba3 1px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #e1e7ee; TEXT-ALIGN: center
+}
+.menuaHoriz A:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.menuaHoriz A:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.menuaHoriz A:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #990033; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.menuaHorizHdr {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #adbac9
+}
+BODY {
+	FONT-SIZE: 12px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.basicFont {
+	FONT-SIZE: 14px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}

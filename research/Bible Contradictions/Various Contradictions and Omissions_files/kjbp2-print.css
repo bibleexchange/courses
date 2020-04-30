@@ -1,0 +1,51 @@
+.shadebox {
+	BORDER-RIGHT: #000000 2px dashed; PADDING-RIGHT: 10px; BORDER-TOP: #000000 2px dashed; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #000000 2px dashed; WIDTH: 80%; COLOR: #000000; PADDING-TOP: 10px; BORDER-BOTTOM: #000000 2px dashed; FONT-FAMILY: Arial,sans-serif; BACKGROUND-COLOR: #e0e0e0; TEXT-ALIGN: left
+}
+.sidebar1 {
+	PADDING-RIGHT: 7px; PADDING-LEFT: 7px; FONT-SIZE: smaller; FLOAT: right; PADDING-BOTTOM: 7px; MARGIN: 5px 0px 5px 5px; WIDTH: 40%; PADDING-TOP: 7px; BACKGROUND-COLOR: #bcffff
+}
+.sidebar2 {
+	CLEAR: right; PADDING-RIGHT: 7px; PADDING-LEFT: 7px; FONT-SIZE: smaller; FLOAT: right; PADDING-BOTTOM: 7px; MARGIN: 5px 0px 5px 5px; WIDTH: 40%; PADDING-TOP: 7px; BACKGROUND-COLOR: #ffbbdb; TEXT-ALIGN: right
+}
+.smcps {
+	FONT-VARIANT: small-caps
+}
+.smtxt {
+	FONT-SIZE: smaller
+}
+#adsbar {
+	DISPLAY: none
+}
+#footer {
+	DISPLAY: none
+}
+#footerverse {
+	DISPLAY: none
+}
+#leftnav {
+	DISPLAY: none
+}
+#maincontent {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; FLOAT: none; BORDER-LEFT: medium none; WIDTH: auto; BORDER-BOTTOM: medium none
+}
+#maincontent H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 120%; BORDER-BOTTOM: #000000 1px solid
+}
+#maincontent H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 100%
+}
+#maincontent H4 {
+	CLEAR: both; BORDER-RIGHT: #000000 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #000000 1px solid; PADDING-LEFT: 3px; FONT-SIZE: 100%; PADDING-BOTTOM: 3px; BORDER-LEFT: #000000 1px solid; PADDING-TOP: 3px; BORDER-BOTTOM: #000000 1px solid
+}
+#maincontent LI {
+	MARGIN-TOP: 5px; MARGIN-BOTTOM: 5px
+}
+#pagemiddle {
+	MARGIN: auto; WIDTH: auto
+}
+#softad {
+	DISPLAY: none
+}
+#titlebar {
+	DISPLAY: none
+}
