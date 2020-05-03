@@ -26,4 +26,15 @@ A Place of residence. Physical House &&  Spiritual House
 9. Hospitality and Preparation (Ge 24:31REBEKAH: wherefore standest thou without? for I have prepared the house, and room for the camels)
 
 
-& Common Bond (Affinity: )
+
+
+Being Ready
+
+Privileges Rights responsibilities problems threats
+Luke 19:46 is a 56:7 house of prayer for all people
+Read 8sa 56:1-8 gods promises to those in his house
+Where am i? Wandering
+Appreciation of house
+Exclusive as somethings threaten endanger things previous in the house
+In those days was Hezekiah sick unto death. And the prophet Isaiah the son of Amoz came to him, and said unto him, Thus saith the Lord , Set thine house in order; for thou shalt die, and not live. 2 Kings 20:1 KJV
+
