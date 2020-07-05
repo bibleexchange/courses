@@ -1,0 +1,9 @@
+- I am Weak
+- The Invitation
+- This House
+- Jesus
+- The Light of Life, 
+- Sauls REVELATION of Jesus: The Revelation, the LIght he saw on the road to damascus
+- Living Christian
+- Didache: A Summary of How a Christan should look and act
+- Things that Breed: Idolatry, Coveteousness
