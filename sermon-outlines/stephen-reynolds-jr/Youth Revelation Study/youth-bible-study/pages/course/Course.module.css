@@ -1,0 +1,31 @@
+.textbook,
+.textbookBody {
+  display: flex;
+  flex-direction: column;
+}
+
+.textbookNav {
+  order: -1;
+}
+
+@media (min-width: 768px) {
+  .textbookBody {
+    flex-direction: row;
+    flex: 1;
+  }
+  .textbookContent {
+    flex: 1;
+  }
+  .textbookNav, .textbookAside {
+    /* 12em is the width of the columns */
+    flex: 0 0 12em;
+  }
+}
+
+@media print{
+  .textbookNav, .textbookAside {display:none;}
+
+  .textbookContent{
+    display: block;
+  }
+}

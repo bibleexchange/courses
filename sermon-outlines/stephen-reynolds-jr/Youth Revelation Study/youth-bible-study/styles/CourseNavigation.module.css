@@ -1,0 +1,14 @@
+  .quickNav {
+
+    bottom: 15px; 
+    background-color: white; 
+    padding: 10px; 
+    border: 2px solid blue;
+    position:fixed;
+    right:20px;
+    bottom:20px;
+  }
+
+  .quickNav a {
+    padding:10px;
+  }

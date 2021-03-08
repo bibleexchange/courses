@@ -1,0 +1,70 @@
+  #special-outline h2 {
+    margin-left:15px;
+  }
+
+  #special-outline h3 {
+    margin-left:30px;
+  }
+    /* Style the button that is used to open and close the collapsible content */
+    .collapsible {
+      background-color: #eee;
+      color: #444;
+      cursor: pointer;
+      padding: 18px;
+      width: 100%;
+      border: none;
+      text-align: left;
+      outline: none;
+      font-size: 15px;
+    }
+
+    /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+    .active, .collapsible:hover {
+      background-color: #ccc;
+    }
+
+    /* Style the collapsible content. Note: hidden by default */
+    .content {
+      padding: 0 18px;
+      display: none;
+      overflow: hidden;
+      background-color: #f1f1f1;
+    }
+
+  table#whole-of-book {
+    border-collapse: collapse;
+  }
+
+  .answer, .a{
+    color:red;
+    border-left: solid 5px red;
+    padding-left:10px;
+  }
+
+   .question, .q, .ref{
+    color:green;
+    border-left: solid 5px green;
+    padding-left:10px;
+  }
+
+.ref{
+  color:blue;
+  border-left: solid 5px blue;
+}
+  .questionLabel {
+    width:50px;
+    text-align: left;
+    border:solid 1px gray;
+    height:100%;
+    margin-left:15px;
+    background-color: gray;
+    
+  }
+
+  .questions {
+     width:90%;
+  }
+
+  .option {
+    width:40%;
+  }

@@ -1,0 +1,19 @@
+{
+  "name": "youth-bible-study",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "9.5.5",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-markdown": "^5.0.3"
+  },
+  "devDependencies": {
+    "frontmatter-markdown-loader": "^3.6.2"
+  }
+}
