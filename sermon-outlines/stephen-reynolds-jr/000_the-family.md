@@ -73,6 +73,7 @@ family "patria" 3965 paternal descent, i.e. (concretely) a group of families or 
 - WHAT SUPPORTS & UNDERMINES THIS VALUE?
 - Healthy Competition
 - Edify and not tear down
+- Not at war with another
 
 ### 5. Mutual Comfort and Blessing
 > Proverbs 17:6 &mdash; Children's children are the crown of old men; and the glory of children are their fathers. 
