@@ -1,11 +1,14 @@
 # Family Values
 
+> Ephesians 3:14,15&mdash; For this cause I bow my knees unto the Father of our Lord Jesus Christ,
+ 15 Of whom the whole family in heaven and earth is named,
+
 ## Introduction
 
 What goes on in the world and in our nation, concerns us and we engage best we can. But the WORLD we have the most opportunity to impact is our FAMILY. NATIONAL VALUES are established on the foundation of FAMILY VALUES.
 
 - Family & Church Family
-- What are our Family Values?
+- What are our Family Values? It is helpful in anyteam to pause in the course of action to ask "What are we doing here?"
 
 > values held to be traditionally LEARNED or REINFORCED within a family, such as those of high moral standards and discipline.
 
