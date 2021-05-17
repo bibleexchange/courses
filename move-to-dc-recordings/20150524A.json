@@ -1,0 +1,21 @@
+{
+  "id": "20150524A",
+  "date": "2015-05-24 10:00:00",
+  "created_at": "2015-05-25 10:00:009",
+  "updated_at": "2021-05-17 15:18:00",
+  "type": "recording",
+  "event": {"ocassion":"DBI Spring Convention"},
+  "clips": [
+    {
+      "people": [
+        {
+          "id": "norman-lepage",
+          "db_id":210
+        }
+      ],
+      "title": "Learning to Cherish Your Cherith",
+      "type": "sermon",
+      "length":"00:54:00"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "20150524P",
+  "date": "2015-05-24 19:00:00",
+  "created_at": "2015-05-25 10:00:009",
+  "updated_at": "2021-05-17 15:18:00",
+  "type": "recording",
+  "event": {"ocassion":"DBI Spring Convention"},
+  "clips": [
+    {
+      "people": [
+        {
+          "id": "israel-ochoa"
+        }
+      ],
+      "title": "In the Field of God's Broken Dreams",
+      "type": "sermon",
+      "length":"1:13:40"
+    }
+  ]
+}

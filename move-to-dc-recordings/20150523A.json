@@ -1,0 +1,21 @@
+{
+  "id": "20150523A",
+  "date": "2015-05-23 10:00:00",
+  "created_at": "2015-05-25 10:00:009",
+  "updated_at": "2021-05-17 15:18:00",
+  "type": "recording",
+  "event": {"ocassion":"DBI Spring Convention"},
+  "clips": [
+    {
+      "people": [
+        {
+          "id": "nathan-davis",
+          "db_id":81
+        }
+      ],
+      "title": "What Do You Do When You Don't Know What to Do",
+      "type": "sermon",
+      "length":"1:22:49"
+    }
+  ]
+}
