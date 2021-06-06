@@ -2,6 +2,7 @@
 	"name": "Hymnns and Spiritual Songs",
 	"author":"Compiled in to a list by Deliverance Center but these Hymmns and Songs are fully credited to their respective writers and copyright owners.",
 	"description": "A collection of hymns and songs used reqularly at Deliverance Center",
+	"type":"notebook",
 	"notes": [
 		{"path":"hymns-and-spiritual-songs/i-feel-like-something-good-is-about-to-happen.html", "name":"God&apos;s Not Through With You","section":""},
 		{"path":"hymns-and-spiritual-songs/gods-not-through-with-you.md", "name":"Last Move for Me","section":""},

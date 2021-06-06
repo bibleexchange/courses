@@ -1,3 +1,4 @@
+# Plan for &apos;Through the Bible for Beginners&apos;
 
 - A key to studying the Bible is remembering that it can be both or either, DESCRIPTIVE and PRESCRIPTIVE.
 - The scarlet cord that connects the Bible from beginning to end is REDEMPTION.

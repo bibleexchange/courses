@@ -1,0 +1,32 @@
+{
+	"type":"QUESTIONS",
+	"qtypes":[
+		"MULTIPLE_CHOICE",
+		"TRUE_FALSE",
+		"FILL_IN_THE_BLANK",
+		"FILL_IN_MULTIPLE_BLANKS",
+		"MULTIPLE_ANSWERS",
+		"MATCHING",
+		"SEQUENCE",
+		"NUMERICAL_ANSWER",
+		"SHORT_ANSWER",
+		"BIBLE_REFERANCE",
+		"ESSAY",
+		"HOTSPOT"
+	],
+
+	"items":[
+		{
+		 "id":"where-is-the-longest-verse-in-the-bible",
+		 "q": "Where is the longest verse in the Bible?",
+         "ref": {"id":"17008009","read":"Esther 8:9"},
+         "type": "BIBLE_REFERANCE",
+         "hints":[
+         	{"type":"TEXT", "body":"It is in the Old Testament"},
+         	{"type":"TEXT", "body":"It is in a book of history."},
+         	{"type":"TEXT", "body":"It is in the book of Esther."}
+         ],
+         "tags":["OT","ESTHER"]
+     	}
+	]
+}
