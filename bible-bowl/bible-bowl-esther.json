@@ -1,0 +1,18 @@
+{
+	"title":"Bible Bowl - Esther",
+	"type":"BIBLE_BOWL",
+	"players":[
+		{"ID":"STEPHEN","POINTS":0},
+		{"ID":"ELIZABETH","POINTS":0},
+		{"ID":"ELYANNA","POINTS":0},
+		{"ID":"JEREMIAH","POINTS":0},
+		{"ID":"ROSEMARY","POINTS":0},
+		{"ID":"BENJAMIN","POINTS":0}
+	],
+	"pages":[
+		"title":"Bible Bowl Rules", "file":"C:\\inetpub\\sites\\courses\\bible-bowl\\esther\\bible-bowl-rules.md","type":"MARKDOWN",
+		"title":"Esther Monologues", "file":"C:\\inetpub\\sites\\courses\\bible-bowl\\esther\\esther-monologues.md","type":"MARKDOWN"
+	],
+	"questions":[]
+}
+

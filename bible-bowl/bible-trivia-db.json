@@ -1,0 +1,170 @@
+{
+	"id":"bible-trivia-db",
+	"type":"QUESTIONS_DATABASE",
+	"questions":[
+{"id":0, "question":"[GUESS] How many words in the Book of Esther?", "choices":[10234,76711,5633], "tags":"esther number guess"},
+{"id":1, "question":"Where on the Modern World Map does the Story of Esther take place?", "choices":["America","Morocco","Iran"], "tags":"esther place"},
+{"id":2, "question":"How many books of the Bible are named after women?", "choices":[1,2], "tags":"esther number"},
+{"id":3, "question":"How many times can we find the name 'Ahaserus' in the book of Esther?", "choices":[14,21,28], "tags":"esther number"},
+{"id":4, "question":"How many times can we find the name 'Esther' in the book of Esther?", "choices":[92,20,11,46], "tags":"esther number"},
+{"id":5, "question":"How many chapters in the book of Esther?", "choices":[6,8,10], "tags":"esther number"},
+{"id":6, "question":"[GUESS] How many verses are in the book of Esther?", "choices":[1,067,567,167], "tags":"esther number guess"},
+{"id":7, "question":"[GUESS] Which chapter in Esther has the most verses?", "choices":[1,5,10,4,9], "tags":"esther number"},
+{"id":8, "question":"What is the name of the tenth Jewish Ecclesiastical month?", "choices":["Adar","March","Kislev","Tebeth"], "tags":"esther calendar"},
+{"id":9, "question":"What is the name of the first Jewish Ecclesiastical  month?", "choices":["Adar","Tishri","Nisan"], "tags":"esther calendar"},
+{"id":10, "question":"What 4 things did the Jews have in 8:7?", "choices":["fear, trouble, enemies, darkness","food, water, breath, God's Word","Light, gladness, joy, and honor"], "tags":"esther"},
+
+
+
+
+
+{"id":11, "question":"Over how many provinces did Ahasuerus reign?", "scripture":"Esther 1:1","choices":[127], "tags":"esther number"},
+{"id":12, "question":"What colors were the curtains in the king’s garden?", "scripture":"Esther 1:6", "choices":["white, green, and blue"], "tags":"esther colors"},
+{"id":13, "question":"Where was the palace located?", "scripture":"Esther 1:2", "choices":["Shushan"], "tags":"esther place"},
+{"id":14, "question":"What were the names of the king’s seven chamberlains?", "scripture":"Esther 1:10", "choices":["Mehuman, Biztha, Harbona, Bigtha, and Abagtha, Zethar, and Carcas"], "tags":"esther"},
+{"id":15, "question":"In which year of Ahasuerus’ reign does the book begin?", "scripture":"Esther 1:3", "choices":["The third year"], "tags":"esther"},
+{"id":16, "question":"Name the seven princes of Persia", "scripture":"Esther 1:14", "choices":["Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan"], "tags":"esther"},
+{"id":17, "question":"For how many days did Ahasuerus show off the wonders of the kingdom to the princes?", "scripture":"Esther 1:4", "choices":[180], "tags":"esther"},
+{"id":18, "question":"Who was Mordecai’s father?", "scripture":"Esther 2:5", "choices":["Jair"], "tags":"esther"},
+{"id":19, "question":"Which prince of Persia gave the king the plan to replace Vashti?", "scripture":"Esther 1:16", "choices":["Memucan"], "tags":"esther"},
+{"id":20, "question":"Q: Who did Esther send to the gate to speak to Mordecai? (4:5)", "scripture":"Esther", "choices":["Hatach"], "tags":"esther"},
+{"id":21, "question":"What tribe was Mordecai from? (2:5)", "scripture":"Esther", "choices":["Benjamin"], "tags":"esther"},
+{"id":22, "question":"In which year of Ahasuerus’ reign did Esther become queen? (2:16)", "scripture":"Esther", "choices":["The seventh"], "tags":"esther"},
+{"id":23, "question":"Who was the king that had brought the Jews to Babylon? (2:6)", "scripture":"Esther", "choices":["Nebuchadnezzer"], "tags":"esther"},
+{"id":24, "question":"What day was planned for the destruction of the Jews? (3:13)", "scripture":"Esther", "choices":["The 13th day of the 12th month (Adar)"], "tags":"esther"},
+{"id":25, "question":"Who was the keeper of the women? (2:8)", "scripture":"Esther", "choices":["Hegai"], "tags":"esther"},
+{"id":26, "question":"What people is Haman from? (3:1)", "scripture":"Esther", "choices":["Agagite"], "tags":"esther"},
+{"id":27, "question":"Who was Esther’s father? (2:15)", "scripture":"Esther", "choices":["Abihail"], "tags":"esther"},
+{"id":28, "question":"Who was Haman’s father? (3:10)", "scripture":"Esther", "choices":["Hemedatha"], "tags":"esther"},
+{"id":29, "question":"Who was Haman’s wife? (5:10)", "scripture":"Esther", "choices":["Zeresh"], "tags":"esther"},
+{"id":30, "question":"How much money was Haman willing to give the king to get rid of the Jews? (3:9)", "scripture":"Esther", "choices":["Ten thousand talents"], "tags":"esther"},
+{"id":31, "question":"How tall was the gallows that Haman built? (5:14)", "scripture":"Esther", "choices":["50 cubits"], "tags":"esther"},
+{"id":32, "question":"The king's letter was carried by riders travelling in what 4 ways? (Esther 8:10)", "scripture":"Esther", "choices":["horseback, mules, camels, and young dromedaries (a mare kept for breeding)"], "tags":"esther"},
+{"id":33, "question":"How many sons did Haman have? (9:10)", "scripture":"Esther", "choices":[10], "tags":"esther"},
+{"id":34, "question":"What colors did Mordecai wear when the king promoted him? (8:15)", "scripture":"Esther", "choices":["blue, white, gold, purple"], "tags":"esther"},
+{"id":35, "question":"Who is traditionally recognized as the author of the book of Esther?", "scripture":"Esther", "choices":["Mordecai"], "tags":"esther"},
+{"id":, "question":"Describe Mordecai's and Esther's relationship? (Esther 2:7)", "scripture":"Esther", "choices":["Esther is the daughter of Mordecai's uncle."], "tags":"esther"},
+{"id":, "question":"[TRUE OR FALSE] Esther was an orphan.", "scripture":"Esther 2:7", "choices":["FALSE","TRUE"], "tags":"esther"},
+{"id":, "question":"Where is the longest verse in the Bible? (Esther 8:9)", "scripture":"Esther", "choices":["Esther 8:9"], "tags":"esther"},
+{"id":, "question":"What did the king do with Haman's ring? (Esther 8:2)", "scripture":"Esther", "choices":["He gave it to Mordecai"], "tags":"esther"},
+{"id":, "question":"Name the ten sons of Haman:", "scripture":"Esther", "choices":["Parshandatha, Dalphon, Aspatha, Poratha, and Adalia, Aridatha, Parmashta, Arisai, Aridai, Vajezatha"], "tags":"esther"},
+{"id":, "question":"What kind of words did Mordecai speak to all his seed?", "scripture":"Esther", "choices":["peace"], "tags":"esther"},
+{"id":, "question":"Why did many of the people of the land become Jews? (Esther 8:17)", "scripture":"Esther", "choices":["for the fear of the Jews fell upon them"], "tags":"esther"},
+{"id":, "question":"What is a tribute?", "scripture":"Esther", "choices":["a tax"], "tags":"esther vocabulary"},
+{"id":, "question":"Complete the following: The Jews had light, and gladness, and joy and _________.", "scripture":"Esther", "choices":["honour"], "tags":"esther fill-in-the-blank"},
+{"id":, "question":"What kind of words did the letters sent unto all the Jews contain?", "scripture":"Esther", "choices":["peace and truth"], "tags":"esther"},
+{"id":, "question":"What was Esther's request (2 parts) for the second day of Purim?", "scripture":"Esther", "choices":["For Jews in Shushan to do again tomorrow what they did today and Hang Haman's 10 so"], "tags":"esther"},
+{"id":, "question":"Who was both great among the Jews and second unto King Ahaserus?", "scripture":"Esther", "choices":["Mordecai"], "tags":"esther"},
+{"id":, "question":"On what day were the Jews to be killed? (Esther 3:13)", "scripture":"Esther", "choices":["the thirteenth day of the twelfth month, which is the month Adar"], "tags":"esther"},
+{"id":, "question":"How many men did the Jews slay in both the Palace and the city of Shushan?", "scripture":"Esther", "choices":[800], "tags":"esther"},
+{"id":, "question":"How many days had it been since Esther had been called into the king's courtroom in Esther 4? (Esther 4:11)", "scripture":"Esther", "choices":[30], "tags":"esther"},
+{"id":, "question":"On what number day of the feast did the King call Vashti to his palace? (Esther 1:10)", "scripture":"Esther", "choices":[7], "tags":"esther"},
+{"id":, "question":"How many cubits tall was the gallows that Zeresh suggested to be built? (Esther 5:14)", "scripture":"Esther", "choices":[50], "tags":"esther"},
+{"id":, "question":"Q: How many provinces does Xerxes have? (Esther 1:6)", "scripture":"Esther", "choices":[127], "tags":"esther"},
+{"id":, "question":"How many talents of silver did Haman give to the people who would destroy the Jews? (Esther 3:9 $3.4 billion)", "scripture":"Esther", "choices":[10000], "tags":"esther"},
+{"id":, "question":"In what year of the king's reign did he have the feast? (Esther 1:3)", "scripture":"Esther", "choices":[3], "tags":"esther"},
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+Q: In what number month, and in what number year of Ahaserus' reign was Esther taken unto the king? (Esther 2:16)
+A: 10th month (Tebeth), 7th year of king Ahasuerus' reign
+
+## Colors
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+Q: What did the king give Haman so he could accomplish his plot? (Esther 3:11)
+A: silver
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+Q: What kind of scepter did the king have? (Esther 4:11)
+A: gold
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+Q: At the king's feast in chapter 1, what colors where the beds?
+A: gold and silver
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+Q: What colors were the hangings in the garden of the king's palace? (Esther 1:6)
+A: green, white, blue
+
+## Names
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},Q: What is a Hebrew word for \"lots\"?" (Esther 3:7)
+A: Pur
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},Q: What was Haman's father's name? (Esther 3:1)
+A: Hammedatha the Agagite
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},Q: Which of the king's chamberlains acted as messenger between Mordecai and Esther? (Esther 4:5)
+A: Hatach
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},Q: What kind of banquet did Esther invite the king and Haman? (Esther 5:6)
+A: Banquet of Wine
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},Q: What was Haman's wife's name? (Esther 5:10)
+A: Zeresh
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},Q: What is the name of the book the king commanded to be read as he was going to sleep? (Esther 6:1)
+A: the book of records of the chronicles
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+Q: Who was trying to kill Esther and all the jews? (Esther 7:6)
+A: Haman{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+Q: Who did the king specifically tell to hang Haman? (Esther 7:9,10)
+A: Harbonah
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+Q: What is Esther's Hebrew name? (Esther 2:7)
+A: Hadassah
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+Q: Which wiseman  gave the king the idea to banish queen Vashti? (Esther 1:16)
+A: Memucan
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+Q: What did they call the feast celebrating Esther's coronation? (Esther 2:18)
+A: Esther's Feast
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+Q: Who was the keeper of the women? (Esther 2:8)
+A: Hegai
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+Q: Name the chamberlains who planned to kill the king (Esther 2:21)
+A: Bigthan and Teresh
+
+## TRUE OR FALSE
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+Q: TRUE or FALSE. Haman intended to kill all the Jewish children. (Esther 3:13)
+A: true
+      {"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},       
+Q: TRUE or FALSE. The Jews finally pray to God according to Esther 4:16 when Esther was to go before the king. (Esther 4:16)
+A: false
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+Q: When Esther drew near to the king, she kissed his ring?
+A: false (touched his scepter, 5:2)
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+Q: TRUE or FALSE. Haman was nervous after the queen's banquet? (Esther 5:9)
+A: FALSE
+
+## LISTS
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+Q: List at least 3 details of how Mordecai mourned the danger Haman posed to all Jews? (Esther 4:1)
+A: rent his clothes, put on sackcloth and ashes,  went out into the midsts of the city and cried with a loud and bitter cry
+
+## PLACES
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+Q: Where was the king when he saw Esther standing in the inner court? (Esther 5:1)
+A: he sat upon his royal throne in his royal house
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+Q: Where did king Ahasuerus go when considering Esther's declaration? (Esther 7:7)
+A: he went into the palace garden
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+Q: Where was the days of purification kept for Esther and all the women? (Esther 2:3)
+A: At Shushan the palace
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+Q: Where did the women have to leave in order to come to the king's house? (Esther 2:13)
+A: the house of the women
+
+## GENERAL
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+Q: What did Haman have to say while parading Mordecai through the streets? (Esther 6:9)
+A: Thus shall it be done to the man whom the king delights to honour"
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+Q: What did they immediately do to Haman when the king  said, \"Will he force the queen also before me...?\" (Esther 7:8)
+A: covered Haman's face
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+Q: Why did King Ahaserus have such a big feast? (Esther 1:3)
+A:  When he shewed the riches of his glorious kingdom and the honour of his excellent majesty many days
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+Q: What was Vashti's punishment for refusing the king?
+A: She was banished from the kingdom.
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+Q: How did Mordecai check up on Esther every day of her time of purification? (Esther 2:11)
+A: Mordecai walked every day before the court of the women's house
+{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+	]
+}
