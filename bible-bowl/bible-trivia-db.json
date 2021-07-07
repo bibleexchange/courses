@@ -43,128 +43,673 @@
 {"id":33, "question":"How many sons did Haman have? (9:10)", "scripture":"Esther", "choices":[10], "tags":"esther"},
 {"id":34, "question":"What colors did Mordecai wear when the king promoted him? (8:15)", "scripture":"Esther", "choices":["blue, white, gold, purple"], "tags":"esther"},
 {"id":35, "question":"Who is traditionally recognized as the author of the book of Esther?", "scripture":"Esther", "choices":["Mordecai"], "tags":"esther"},
-{"id":, "question":"Describe Mordecai's and Esther's relationship? (Esther 2:7)", "scripture":"Esther", "choices":["Esther is the daughter of Mordecai's uncle."], "tags":"esther"},
-{"id":, "question":"[TRUE OR FALSE] Esther was an orphan.", "scripture":"Esther 2:7", "choices":["FALSE","TRUE"], "tags":"esther"},
-{"id":, "question":"Where is the longest verse in the Bible? (Esther 8:9)", "scripture":"Esther", "choices":["Esther 8:9"], "tags":"esther"},
-{"id":, "question":"What did the king do with Haman's ring? (Esther 8:2)", "scripture":"Esther", "choices":["He gave it to Mordecai"], "tags":"esther"},
-{"id":, "question":"Name the ten sons of Haman:", "scripture":"Esther", "choices":["Parshandatha, Dalphon, Aspatha, Poratha, and Adalia, Aridatha, Parmashta, Arisai, Aridai, Vajezatha"], "tags":"esther"},
-{"id":, "question":"What kind of words did Mordecai speak to all his seed?", "scripture":"Esther", "choices":["peace"], "tags":"esther"},
-{"id":, "question":"Why did many of the people of the land become Jews? (Esther 8:17)", "scripture":"Esther", "choices":["for the fear of the Jews fell upon them"], "tags":"esther"},
-{"id":, "question":"What is a tribute?", "scripture":"Esther", "choices":["a tax"], "tags":"esther vocabulary"},
-{"id":, "question":"Complete the following: The Jews had light, and gladness, and joy and _________.", "scripture":"Esther", "choices":["honour"], "tags":"esther fill-in-the-blank"},
-{"id":, "question":"What kind of words did the letters sent unto all the Jews contain?", "scripture":"Esther", "choices":["peace and truth"], "tags":"esther"},
-{"id":, "question":"What was Esther's request (2 parts) for the second day of Purim?", "scripture":"Esther", "choices":["For Jews in Shushan to do again tomorrow what they did today and Hang Haman's 10 so"], "tags":"esther"},
-{"id":, "question":"Who was both great among the Jews and second unto King Ahaserus?", "scripture":"Esther", "choices":["Mordecai"], "tags":"esther"},
-{"id":, "question":"On what day were the Jews to be killed? (Esther 3:13)", "scripture":"Esther", "choices":["the thirteenth day of the twelfth month, which is the month Adar"], "tags":"esther"},
-{"id":, "question":"How many men did the Jews slay in both the Palace and the city of Shushan?", "scripture":"Esther", "choices":[800], "tags":"esther"},
-{"id":, "question":"How many days had it been since Esther had been called into the king's courtroom in Esther 4? (Esther 4:11)", "scripture":"Esther", "choices":[30], "tags":"esther"},
-{"id":, "question":"On what number day of the feast did the King call Vashti to his palace? (Esther 1:10)", "scripture":"Esther", "choices":[7], "tags":"esther"},
-{"id":, "question":"How many cubits tall was the gallows that Zeresh suggested to be built? (Esther 5:14)", "scripture":"Esther", "choices":[50], "tags":"esther"},
-{"id":, "question":"Q: How many provinces does Xerxes have? (Esther 1:6)", "scripture":"Esther", "choices":[127], "tags":"esther"},
-{"id":, "question":"How many talents of silver did Haman give to the people who would destroy the Jews? (Esther 3:9 $3.4 billion)", "scripture":"Esther", "choices":[10000], "tags":"esther"},
-{"id":, "question":"In what year of the king's reign did he have the feast? (Esther 1:3)", "scripture":"Esther", "choices":[3], "tags":"esther"},
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
-Q: In what number month, and in what number year of Ahaserus' reign was Esther taken unto the king? (Esther 2:16)
-A: 10th month (Tebeth), 7th year of king Ahasuerus' reign
+{"id":36, "question":"Describe Mordecai's and Esther's relationship? (Esther 2:7)", "scripture":"Esther", "choices":["Esther is the daughter of Mordecai's uncle."], "tags":"esther"},
+{"id":37, "question":"[TRUE OR FALSE] Esther was an orphan.", "scripture":"Esther 2:7", "choices":["FALSE","TRUE"], "tags":"esther"},
+{"id":38, "question":"Where is the longest verse in the Bible? (Esther 8:9)", "scripture":"Esther", "choices":["Esther 8:9"], "tags":"esther"},
+{"id":39, "question":"What did the king do with Haman's ring? (Esther 8:2)", "scripture":"Esther", "choices":["He gave it to Mordecai"], "tags":"esther"},
+{"id":40, "question":"Name the ten sons of Haman:", "scripture":"Esther", "choices":["Parshandatha, Dalphon, Aspatha, Poratha, and Adalia, Aridatha, Parmashta, Arisai, Aridai, Vajezatha"], "tags":"esther"},
+{"id":41, "question":"What kind of words did Mordecai speak to all his seed?", "scripture":"Esther", "choices":["peace"], "tags":"esther"},
+{"id":42, "question":"Why did many of the people of the land become Jews? (Esther 8:17)", "scripture":"Esther", "choices":["for the fear of the Jews fell upon them"], "tags":"esther"},
+{"id":43, "question":"What is a tribute?", "scripture":"Esther", "choices":["a tax"], "tags":"esther vocabulary"},
+{"id":44, "question":"Complete the following: The Jews had light, and gladness, and joy and _________.", "scripture":"Esther", "choices":["honour"], "tags":"esther fill-in-the-blank"},
+{"id":45, "question":"What kind of words did the letters sent unto all the Jews contain?", "scripture":"Esther", "choices":["peace and truth"], "tags":"esther"},
+{"id":46, "question":"What was Esther's request (2 parts) for the second day of Purim?", "scripture":"Esther", "choices":["For Jews in Shushan to do again tomorrow what they did today and Hang Haman's 10 so"], "tags":"esther"},
+{"id":47, "question":"Who was both great among the Jews and second unto King Ahaserus?", "scripture":"Esther", "choices":["Mordecai"], "tags":"esther"},
+{"id":48, "question":"On what day were the Jews to be killed? (Esther 3:13)", "scripture":"Esther", "choices":["the thirteenth day of the twelfth month, which is the month Adar"], "tags":"esther"},
+{"id":49, "question":"How many men did the Jews slay in both the Palace and the city of Shushan?", "scripture":"Esther", "choices":[800], "tags":"esther"},
+{"id":50, "question":"How many days had it been since Esther had been called into the king's courtroom in Esther 4? (Esther 4:11)", "scripture":"Esther", "choices":[30], "tags":"esther"},
+{"id":51, "question":"On what number day of the feast did the King call Vashti to his palace? (Esther 1:10)", "scripture":"Esther", "choices":[7], "tags":"esther"},
+{"id":52, "question":"How many cubits tall was the gallows that Zeresh suggested to be built? (Esther 5:14)", "scripture":"Esther", "choices":[50], "tags":"esther"},
+{"id":53, "question":"Q: How many provinces does Xerxes have? (Esther 1:6)", "scripture":"Esther", "choices":[127], "tags":"esther"},
+{"id":54, "question":"How many talents of silver did Haman give to the people who would destroy the Jews? (Esther 3:9 $3.4 billion)", "scripture":"Esther", "choices":[10000], "tags":"esther"},
+{"id":55, "question":"In what year of the king's reign did he have the feast? (Esther 1:3)", "scripture":"Esther", "choices":[3], "tags":"esther"},
+{"id":56, "question":"In what number month, and in what number year of Ahaserus' reign was Esther taken unto the king? (Esther 2:16)", "scripture":"Esther", "choices":["10th month (Tebeth), 7th year of king Ahasuerus' reign"], "tags":"esther"},
+{"id":57, "question":"What did the king give Haman so he could accomplish his plot? (Esther 3:11)", "scripture":"Esther", "choices":["silver"], "tags":"esther"},
+{"id":58, "question":"What kind of scepter did the king have? (Esther 4:11)", "scripture":"Esther", "choices":["gold"], "tags":"esther"},
+{"id":59, "question":"At the king's feast in chapter 1, what colors where the beds?", "scripture":"Esther", "choices":["gold and silver"], "tags":"esther"},
+{"id":60, "question":"What colors were the hangings in the garden of the king's palace? (Esther 1:6)", "scripture":"Esther", "choices":["green, white, blue"], "tags":"esther"},
+{"id":61, "question":"What is a Hebrew word for 'lots'?", "scripture":"Esther 3:7", "choices":["Pur"], "tags":"esther"},
+{"id":62, "question":"What was Haman's father's name? (Esther 3:1)", "scripture":"Esther", "choices":["Hammedatha the Agagite"], "tags":"esther"},
+{"id":63, "question":"Which of the king's chamberlains acted as messenger between Mordecai and Esther? (Esther 4:5)", "scripture":"Esther", "choices":["Hatach"], "tags":"esther"}, 
+{"id":64, "question":"What kind of banquet did Esther invite the king and Haman? (Esther 5:6)", "scripture":"Esther", "choices":["Banquet of Wine"], "tags":"esther"}, 
+{"id":65, "question":"What was Haman's wife's name? (Esther 5:10)", "scripture":"Esther", "choices":["Zeresh"], "tags":"esther"}, 
+{"id":66, "question":"What is the name of the book the king commanded to be read as he was going to sleep? (Esther 6:1)", "scripture":"Esther", "choices":["the book of records of the chronicles"], "tags":"esther"},
+{"id":67, "question":"Who was trying to kill Esther and all the jews? (Esther 7:6)", "scripture":"Esther", "choices":["Haman"], "tags":"esther"},
+{"id":68, "question":"Who did the king specifically tell to hang Haman? (Esther 7:9,10)", "scripture":"Esther", "choices":["Harbonah"], "tags":"esther"},
+{"id":69, "question":"What is Esther's Hebrew name? (Esther 2:7)", "scripture":"Esther", "choices":["Hadassah"], "tags":"esther"},
+{"id":70, "question":"Which wiseman  gave the king the idea to banish queen Vashti? (Esther 1:16)", "scripture":"Esther", "choices":["Memucan"], "tags":"esther"},
+{"id":71, "question":"What did they call the feast celebrating Esther's coronation? (Esther 2:18)", "scripture":"Esther", "choices":["Esther's Feast"], "tags":"esther"},
+{"id":72, "question":"Who was the keeper of the women? (Esther 2:8)", "scripture":"Esther", "choices":["Hegai"], "tags":"esther"},
+{"id":73, "question":"Name the chamberlains who planned to kill the king (Esther 2:21)", "scripture":"Esther", "choices":["Bigthan and Teresh"], "tags":"esther"},
+{"id":74, "question":"[TRUE or FALSE] Haman intended to kill all the Jewish children. (Esther 3:13)", "scripture":"Esther", "choices":["FALSE","TRUE"], "tags":"esther"},
+{"id":75, "question":"[TRUE or FALSE] The Jews finally pray to God according to Esther 4:16 when Esther was to go before the king. (Esther 4:16)", "scripture":"Esther", "choices":["TRUE","FALSE"], "tags":"esther"},       
+{"id":76, "question":"[TRUE or FALSE] When Esther drew near to the king, she kissed his ring?", "scripture":"Esther", "choices":[], "tags":"esther"},
+{"id":77, "question":"[TRUE or FALSE]", "scripture":"Esther", "choices":["TRUE","FALSE"], "tags":"esther"},
+{"id":78, "question":"List at least 3 details of how Mordecai mourned the danger Haman posed to all Jews? (Esther 4:1)", "scripture":"Esther", "choices":["rent his clothes, put on sackcloth and ashes,  went out into the midsts of the city and cried with a loud and bitter cry"], "tags":"esther"},
+{"id":79, "question":"Where was the king when he saw Esther standing in the inner court? (Esther 5:1)", "scripture":"Esther", "choices":["he sat upon his royal throne in his royal house"], "tags":"esther"},
+{"id":80, "question":"Where did king Ahasuerus go when considering Esther's declaration? (Esther 7:7)", "scripture":"Esther", "choices":["he went into the palace garden"], "tags":"esther"},
+{"id":81, "question":"Where was the days of purification kept for Esther and all the women? (Esther 2:3)", "scripture":"Esther", "choices":["At Shushan the palace"], "tags":"esther"},
+{"id":82, "question":"Where did the women have to leave in order to come to the king's house? (Esther 2:13)", "scripture":"Esther", "choices":["the house of the women"], "tags":"esther"},
+{"id":83, "question":"What did Haman have to say while parading Mordecai through the streets? (Esther 6:9)", "scripture":"Esther", "choices":["Thus shall it be done to the man whom the king delights to honour"], "tags":"esther"},
+{"id":84, "question":"What did they immediately do to Haman when the king  said, 'Will he force the queen also before me...?'", "scripture":"Esther 7:8", "choices":["covered Haman's face"], "tags":"esther"},
+{"id":85, "question":"Why did King Ahaserus have such a big feast? (Esther 1:3)", "scripture":"Esther", "choices":["When he shewed the riches of his glorious kingdom and the honour of his excellent majesty many days"], "tags":"esther"},
+{"id":86, "question":"What was Vashti's punishment for refusing the king?", "scripture":"Esther", "choices":["She was banished from the kingdom."], "tags":"esther"},
+{"id":87, "question":"How did Mordecai check up on Esther every day of her time of purification? (Esther 2:11)", "scripture":"Esther", "choices":["Mordecai walked every day before the court of the women's house"], "tags":"esther"},
 
-## Colors
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
-Q: What did the king give Haman so he could accomplish his plot? (Esther 3:11)
-A: silver
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
-Q: What kind of scepter did the king have? (Esther 4:11)
-A: gold
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
-Q: At the king's feast in chapter 1, what colors where the beds?
-A: gold and silver
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
-Q: What colors were the hangings in the garden of the king's palace? (Esther 1:6)
-A: green, white, blue
+{"id":88, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+{"id":89, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+{"id":90, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+{"id":91, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+{"id":92, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+{"id":93, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+{"id":94, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+{"id":95, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+{"id":96, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+{"id":97, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
 
-## Names
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},Q: What is a Hebrew word for \"lots\"?" (Esther 3:7)
-A: Pur
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},Q: What was Haman's father's name? (Esther 3:1)
-A: Hammedatha the Agagite
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},Q: Which of the king's chamberlains acted as messenger between Mordecai and Esther? (Esther 4:5)
-A: Hatach
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},Q: What kind of banquet did Esther invite the king and Haman? (Esther 5:6)
-A: Banquet of Wine
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},Q: What was Haman's wife's name? (Esther 5:10)
-A: Zeresh
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},Q: What is the name of the book the king commanded to be read as he was going to sleep? (Esther 6:1)
-A: the book of records of the chronicles
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
-Q: Who was trying to kill Esther and all the jews? (Esther 7:6)
-A: Haman{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
-Q: Who did the king specifically tell to hang Haman? (Esther 7:9,10)
-A: Harbonah
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
-Q: What is Esther's Hebrew name? (Esther 2:7)
-A: Hadassah
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
-Q: Which wiseman  gave the king the idea to banish queen Vashti? (Esther 1:16)
-A: Memucan
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
-Q: What did they call the feast celebrating Esther's coronation? (Esther 2:18)
-A: Esther's Feast
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
-Q: Who was the keeper of the women? (Esther 2:8)
-A: Hegai
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
-Q: Name the chamberlains who planned to kill the king (Esther 2:21)
-A: Bigthan and Teresh
 
-## TRUE OR FALSE
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
-Q: TRUE or FALSE. Haman intended to kill all the Jewish children. (Esther 3:13)
-A: true
-      {"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},       
-Q: TRUE or FALSE. The Jews finally pray to God according to Esther 4:16 when Esther was to go before the king. (Esther 4:16)
-A: false
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
-Q: When Esther drew near to the king, she kissed his ring?
-A: false (touched his scepter, 5:2)
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
-Q: TRUE or FALSE. Haman was nervous after the queen's banquet? (Esther 5:9)
-A: FALSE
+# Outline of 1 & Kings
 
-## LISTS
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
-Q: List at least 3 details of how Mordecai mourned the danger Haman posed to all Jews? (Esther 4:1)
-A: rent his clothes, put on sackcloth and ashes,  went out into the midsts of the city and cried with a loud and bitter cry
+## A. God establishes Solomon’s reign over Israel (1 Kgs 1–5)
 
-## PLACES
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
-Q: Where was the king when he saw Esther standing in the inner court? (Esther 5:1)
-A: he sat upon his royal throne in his royal house
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
-Q: Where did king Ahasuerus go when considering Esther's declaration? (Esther 7:7)
-A: he went into the palace garden
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
-Q: Where was the days of purification kept for Esther and all the women? (Esther 2:3)
-A: At Shushan the palace
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
-Q: Where did the women have to leave in order to come to the king's house? (Esther 2:13)
-A: the house of the women
+1.  In 1 kings Chapter 1, we read about Adonijah exalting himself as king. Who was Adonijah's Mother?
 
-## GENERAL
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
-Q: What did Haman have to say while parading Mordecai through the streets? (Esther 6:9)
-A: Thus shall it be done to the man whom the king delights to honour"
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
-Q: What did they immediately do to Haman when the king  said, \"Will he force the queen also before me...?\" (Esther 7:8)
-A: covered Haman's face
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
-Q: Why did King Ahaserus have such a big feast? (Esther 1:3)
-A:  When he shewed the riches of his glorious kingdom and the honour of his excellent majesty many days
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
-Q: What was Vashti's punishment for refusing the king?
-A: She was banished from the kingdom.
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
-Q: How did Mordecai check up on Esther every day of her time of purification? (Esther 2:11)
-A: Mordecai walked every day before the court of the women's house
-{"id":, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
-	]
+**ANSWER: Haggith**
+
+> 1Ki 1:5 ¶ Then Adonijah the son of Haggith exalted himself, saying, I will be king: and he prepared him chariots and horsemen, and fifty men to run before him.
+
+2. Who tried to usurp Solomons throne?
+
+ANSWER: Adonijah
+
+> 1Ki 1:1 ¶ Wherefore Nathan spake unto Bathsheba the mother of Solomon, saying, Hast thou not heard that Adonijah the son of Haggith doth reign, and David our lord knoweth it not?
+
+3. How did Joab die?
+
+ANSWER: Beniah killed Joab at Solomon's command?
+
+> 1 Kings 2:34 &mdash; So Benaiah the son of Jehoiada went up, and fell upon him, and slew him: and he was buried in his own house in the wilderness.
+
+4. Why was Joab killed?
+
+ANSWER: He followed Adonijah in his rebellion.
+
+> 1 Kings 1:6 And his father had not displeased him at any time in saying, Why hast thou done so? and he also was a very goodly man; and his mother bare him after Absalom. 7 And he conferred with Joab the son of Zeruiah, and with Abiathar the priest: and they following Adonijah helped him.
+
+5. What other king did Solomon ask to help with building the temple?
+
+ANSWER: HIRAM
+
+> 1Ki 5:6 &mdash; Now therefore command thou that they hew me cedar trees out of Lebanon; and my servants shall be with thy servants: and unto thee will I give hire for thy servants according to all that thou shalt appoint: for thou knowest that there is not among us any that can skill to hew timber like unto the Sidonians.
+
+6. What did Solomon ask Hiram for?
+
+ANSWER: Hew me cedar trees out of lebanon and to build with Solomon's builders.
+
+> 1Ki 5:6 &mdash; Now therefore command thou that they hew me cedar trees out of Lebanon; and my servants shall be with thy servants: and unto thee will I give hire for thy servants according to all that thou shalt appoint: for thou knowest that there is not among us any that can skill to hew timber like unto the Sidonians.
+
+## B. God establishes His temple in Jerusalem (1 Kgs 6–9)
+
+1. How does 1 Kings Chapter 6 date the beginning of the  temple construction?
+
+ANSWER: 480  after the Exodus and in the 4th year of Solomon's year in the month of Zif.
+
+> 1Ki 6:1 ¶ And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month Zif, which is the second month, that he began to build the house of the LORD.  2 And the house which king Solomon built for the LORD, the length thereof was threescore cubits, and the breadth thereof twenty cubits, and the height thereof thirty cubits.
+
+2. What were the dimensions the temple that Solomon built?
+
+ANSWER: 
+
+> 1 Kings 6:2 And the house which king Solomon built for the LORD, the length thereof was threescore cubits, and the breadth thereof twenty cubits, and the height thereof thirty cubits.
+
+3. Name 3 Houses that Solomon built?
+
+ANSWER: 3. (1 KIngs 7:1)  Solomon's House, (7:51) God's House, (7:8) Pharoah's Daughter's House, 
+
+4. How long did it take Solomon to build His own house and the temple?
+ANSWER: 13 years his own house and 7 years the temple.
+
+> 1 Kings 6:38 &and; 1 Kings 7:1
+
+5. What did Hiram call the 20 cites from Solomon ?
+
+ANSWER: Cabul
+
+> 1 Kings 9:13 And he said, What cities are these which thou hast given me, my brother? And he called them the land of Cabul unto this day
+
+{"id":98, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+{"id":99, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+{"id":100, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+{"id":101, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+{"id":102, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+{"id":103, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+{"id":104, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+{"id":105, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+
+Abel, Abraham, Adam, Benjamin, Cain, Eliezer, Enoch, Ephraim, Esau, Eve, Hagar, Ham, Isaac, Ishmel, Jacob, Japheth, Joseph, Judah, Laban, Leah, Lot, Manasseh, Melchizedek, Methuselah, Nimrod, Noah, Pharaoh, Potiphar, Rachel, Rebekah, Reuben, Sarah, Seth, Shem, Terah
+```
+1.  __________________ The first Woman - Mother of All Living
+
+2.  __________________ First person to die
+3.  __________________The first murderer
+4.  _________________ Adam&apos;s Third Son
+5.  _________________ a mighty hunter; leader of rebellion at Babel
+6.  __________________ never died - walked with God
+7.  __________________ Oldest man that ever lived&#44; died before his father
+8. __________________name means rest; comfort; consolation
+9. __________________ and __________________ and __________________ 3 Sons of Noah
+10. _________________The first Hebrew
+11. __________________ Abraham&apos;sfather
+12. __________________ Abraham&apos;s nephew who lived in Sodom 
+13. _________________ Beautiful wife of Abraham
+14. __________________ Sarah&apos;s handmaid
+15. __________________ Priest of God to whom Abraham Paid tithes
+16. __________________ Abraham and Sarah&apos;s child of Promise
+17. __________________ Abraham and Hagar&apos;s son
+18. _________________ Abraham&apos;s servant who went for Isaac&apos;s Bride
+19. _________________ Isaac&apos;sWife
+20. __________________ names means of the ground; red earth. - Despised His Birthright
+21. __________________ name means supplanter(to overthrow by tripping up; to replace by treachery)
+22. _________________ Laban&apos;s Eldest Daughter&#44; Jacob&apos;s first wife
+23. __________________  Jacob&apos;s favorite wife
+24. __________________ Jacob&apos;s oldest son
+25. __________________ Jacob&apos;s youngest son
+26. _________________  Jacob&apos;sson through whom the Redeemer would come
+27. _________________ Jacob&apos;sUncle&#44; Brother of Rebecca
+28. _________________ Saved Israel from Famine
+29. __________________ Ruler of Egypt 
+30. __________________ Captain of the Guard in Egypt&#44; Bought Joseph
+31. __________________ and _____________________  Joseph's 2 Sons
+
+{"id":106, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+{"id":107, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+{"id":108, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+{"id":109, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+{"id":110, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"},
+{"id":111, "question":"", "scripture":"Esther", "choices":[], "tags":"esther"}
+
+
+1. Who wrote the first four books of the New Testament?
+	Matthew, Mark, Luke, and John.
+
+2. Who wrote the first five books of the Old Testament?
+	Most conservative scholars hold that the Pentateuch was written by Moses.
+
+3. What two Old Testament books are named after women?
+	Esther and Ruth.
+
+4. What are the Ten Commandments?
+	Have no other gods before Me. Do no make idols. Do not misuse the name of the Lord your God. Remember the Sabbath day by keeping it holy. Honor your father and your mother. Do not murder. Do not commit adultery. Do not steal. Do not give false testimony. Do not covet. Exodus 20:2-17
+
+5. What is the Greatest Commandment?
+	'Love the Lord your God with all your heart and with all your soul and with all your mind.' (Matthew 22:37,38)
+
+6. What is the second Greatest Commandment?
+	'Love your neighbor as yourself.' (Matthew 22:39)
+
+7. What is the Golden Rule?
+	'Do unto others as you would have them do unto you.' (Matthew 7:12)
+
+8. What is the Great Commission?
+	'Therefore, go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you. And surely I will be with you always, to the very end of the age.' (Matthew 28:19,20)
+	
+9. What was the test of a prophet, to know that he was truly from God?
+	He had to be 100% accurate in his prophecies. The penalty for a false prophet was death by stoning. (Deuteronomy 18:20-22)
+
+10. To whom did God give the 10 Commandments?
+	Moses. (Exodus 20)
+
+11. Which two people did not die in the Bible?
+	Enoch and Elijah. Genesis 5:24 says that Enoch, who was Noah’s great-grandfather, 'walked with God; then he was no more, because God took him away.' The other was the Old Testament prophet Elijah, who was taken up to heaven in a whirlwind with a chariot and horses of fire. (2 Kings 2:11)
+	
+12. What is the root of all kinds of evil?
+	The love of money. (1 Timothy 6:10)
+
+13. What is the beginning of wisdom?
+	The fear of the Lord. (Psalm 111:10)
+
+14. Who delivered the Sermon on the Mount?
+	The Lord Jesus. (Matthew 5-7)
+
+15. How did sickness and death enter the world?
+	Romans 5:12 says that sin entered the world though one man, and death through sin. The fall of man is recorded in Genesis 3, where God's perfect creation was spoiled by Adam's sin.
+
+16. Who was the Roman governor who sentenced Christ to death?
+	Pontius Pilate. (Matthew 27:26)
+
+17. Who are the major prophets?
+	Isaiah, Jeremiah, Ezekiel, and Daniel.
+
+18. What group of people is the Old Testament about?
+	The Hebrews, who became the nation of Israel. They were descendants of Abraham though Isaac.
+
+19. What happened while the Lord Jesus was in the desert for 40 days? He was tempted by the devil.
+	(Matthew 4:1) Hebrews 4:15 tells us that He was tempted in every way, just as we are - yet was without sin.
+
+20. How many people were on Noah’s ark?
+	Eight: Noah and his wife, his three sons Shem, Ham, and Japheth, and their wives. (Genesis 7:13, 1 Peter 2:5)
+
+21. Who was the first murderer?
+	Cain, who killed his brother Abel. (Genesis 4:8)
+
+22. Which person was afflicted with terrible trials but trusted God through it all?
+	Job
+
+23. Who was Israel’s most well-known and well-loved king?
+	David. (1 Chronicles 29:28)
+
+24. Who was 'the weeping prophet?' 
+	Jeremiah.
+
+25. Who was thrown into the lion’s den?
+	Daniel. (Daniel 6)
+
+26. Who were the two people in the famous fight with a stone and a sling?
+	David and Goliath. (1 Samuel 17)
+
+27. What is the book of Acts about?
+	The early years of the church, as the gospel begins to spread throughout the world. "The Acts of the Holy Ghost Through the Apostles".
+
+28. What are epistles?
+	Letters.
+
+29. On what occasion was the Holy Spirit given to the church?
+	Pentecost. (Acts 2:1-4)
+
+30. Whom did God command to sacrifice his only son?
+	Abraham. (Genesis 22:2)
+
+31. What was the Old Testament feast that celebrated God’s saving the firstborn of Israel the night they left Egypt?
+	Passover. (Exodus 12:27)
+
+32. Who was the Hebrew who became prime minister of Egypt?
+	Joseph. (Genesis 41:41)
+
+33. Who was the Hebrew woman who became Queen of Persia?
+	Esther. (Esther 2:17)
+
+34. Who was the pagan woman who became David’s great-grandmother?
+	Ruth. (Ruth 4:17)
+
+35. Which angel appeared to Mary?
+	Gabriel. (Luke 1:26)
+
+36. How did the Lord Jesus die?
+	He gave up His life while being crucified. (John 19:18)
+
+37. What happened to Him three days after He died?
+	He was raised from the dead. (John 20)
+
+38. What happened to the Lord Jesus 40 days after His resurrection?
+	He ascended bodily into heaven. (Acts 1:9-11)
+
+39. What should we do when we sin, in order to restore our fellowship with God?
+	1 John 1:9 tells us, 'If we confess our sins, He is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.'
+
+40. How did the universe and world get here?
+	Genesis 1:1 tells us, 'In the beginning, God created the heavens and the earth.' We are told further in Colossians 1:16 and 17 that the Lord Jesus Christ was the one who did the creating.
+
+41. Where did Satan and the demons come from?
+	Satan was originally the best and the brightest angel, but he sinned in his pride, wanting to be God. Some of the angels followed him, and these 'fallen angels' were cast out of heaven. (Isaiah 14, Ezekiel 28)
+
+42. Who directed the writing of the Bible?
+	The Holy Ghost. (2 Timothy 3:16, 2 Peter 1:21) About 40 people wrote the Bible as inspirited by the Holy Ghost.
+
+43. Where was the Lord Jesus before He was conceived in Mary?
+	In heaven. (Philippians 2:6-11, 1 Corinthians 15:49)
+
+44. What is sin?
+	Sin is disobeying God. ( 1 John 3:4)
+
+45. What are parables?
+	A short, simple story with a spiritual point. The Lord Jesus taught in parables. (Matthew 13:3)
+
+46. Which two animals talked with human speech?
+	The serpent in the Garden of Eden (Genesis 3:3) and Balaam’s donkey (Numbers 22:28).
+
+48. Which one of his sons succeeded David as king?
+	Solomon. (2 Samuel 12:24)
+
+49. Who was the female judge of Israel?
+	Deborah. (Judges 4:4)
+
+50. Who was the wisest man in the world?
+	Solomon. (1 Kings 3:12)
+
+51. Who was the first man?
+	Adam. (Genesis 2:20)
+
+51. Who was the most meekest man on earth? 
+	Moses. (Numbers 12:3)
+
+52. Who was the strongest man on earth? 
+	Samson. (Judges 13-16)
+
+53. Where were the two nations of God’s people taken into captivity? Israel to ... ? and Judah to ... ?
+	Israel was taken into Assyria (2 Kings 17:23), and Judah into Babylon (2 Chronicles 36:20).
+
+54. Which cupbearer to a foreign king rebuilt the wall of Jerusalem?
+	Nehemiah. (Nehemiah 2:5)
+
+55. Who were the two Old Testament prophets who worked miracles?
+	Elijah and Elisha. (1 Kings 17 – 2 Kings 6)
+
+56. Which Old Testament prophet spent three days in the belly of a great fish?
+	Jonah. (Jonah 1:17)
+
+57. What is the last book of the Old Testament?
+	Malachi.
+
+58. For which Israelite commander did the sun stand still?
+	Joshua. (Joshua 10)
+
+59. Who was the first king of Israel? 
+	Saul. (1 Samuel 13:1)
+
+60. Who built the temple in Israel? 
+	Solomon. (1 Kings 6)
+
+61. Which of the twelve tribes of Israel served as priests? 
+	Levites. (Deuteronomy 10:8)
+
+62. Which city fell after the Israelites marched around it daily for seven days?
+	Jericho. (Joshua 6:20)
+
+63. What did God give the Israelites to eat in the wilderness? 
+	Manna and quail. (Exodus 16)
+
+64. Which two people walked on water? 
+	Jesus and Peter. (Matthew 14:29)
+
+65. Who was the first martyr? 
+	Stephen. (Acts 7)
+
+66. Who betrayed Jesus to the priests, and for how much? 
+	Judas betrayed Him for 30 pieces of silver, the price of a slave. (Matthew 26:14-15)
+
+67. What is the Lord’s Prayer?  
+	Our Father which art in heaven, Hallowed be thy name. 10 Thy kingdom come. Thy will be done in earth, as it is in heaven.  11 Give us this day our daily bread.  12 And forgive us our debts, as we forgive our debtors.  13 And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen. (Matthew 6:9-13)
+
+68. Who was the first person to see Jesus after his Resurrection? 
+	Mary Magdalene. (John 20:16)
+
+69. Which prophet and cousin of the Lord was beheaded? 
+	John the Baptist. (John 14:10)
+
+70. To what country did the young Jesus and His parents escape when Herod was threatening His life?
+	Egypt. (Matthew 2:13-15)
+
+71. What was Christ’s first miracle? 
+	He turned water into wine at the wedding at Cana. (John 2:11)
+
+72. Which one of the Lord’s personal friends did He raise from the dead?
+	Lazarus. (John 11)
+
+73. Who was the greatest missionary of the New Testament?
+	Paul. (see book of Acts)
+
+74. Who was Paul’s first partner? 
+	Barnabas. (Acts 13:2)
+
+75. Whom did an angel release from prison? 
+	Peter. (Acts 12)
+
+76. Which event caused God to splinter human language into many tongues? 
+	The building of the Tower of Babel. (Genesis 11)
+
+77. Which chapter of an Old Testament prophet’s book gives a detailed prophecy of the Messiah’s death by crucifixion? 
+	Isaiah 53.
+
+78. Who wrestled all night with the Lord and was left with a permanent limp? 
+	Jacob. (Genesis 32:22-32)
+
+79. Who was hailed as a god when he was bitten by a snake but nothing bad happened?
+	Paul. (Acts 28:5-6)
+
+80. Which two New Testament writers were brothers of the Lord Jesus?
+	James and Jude. (Matthew 13:55)
+
+81. Which two New Testament books were written by a doctor?
+	Luke and Acts. (2 Timothy 4:11)
+
+82. Who had a coat of many colors?
+	Joseph. (Genesis 37:3)
+
+83. In what sin did Aaron lead the Israelites while his brother Moses was up on the mountain talking to God?
+	They made an idol in the form of a golden calf. (Exodus 32)
+
+84. How many books are there in the entire Bible?
+	66: 39 in the Old Testament, and 27 in the New Testament.
+
+85. What’s the difference between John the Baptist and the John who wrote several New Testament books?
+	John the Baptist was a prophet who proclaimed the kingdom of God was near in preparation for his cousin Jesus’ ministry. The John who wrote the gospel of John, the epistles—1, 2 and 3 John—and Revelation, was one of the twelve apostles and one of those closest to the Lord, along with Peter and James. He called himself 'the disciple whom Jesus loved.'
+
+86. Who saw the Lord appear to him in a burning bush? 
+	Moses. (Exodus 3)
+
+87. How many sons did Jacob have? Twelve. 
+	They were the ancestors of the twelve tribes of Israel. (Genesis 35:22)
+
+88. Who gave up his birthright for a bowl of stew? 
+	Esau. (Genesis 25:33)
+
+89. Which Psalm starts out, 'The Lord is my shepherd, I shall not want?' 
+	Psalm 23.
+
+90. Who disowned the Lord Jesus three times before a cock crowed?
+	Peter. (Matthew 26:69-75)
+
+91. What did the Lord do just after the Last Supper to demonstrate His love and humility?
+	He washed the disciples’ feet. (John 13:5)
+
+92. Where is the New Testament 'Hall of Faith?'
+	Hebrews 11.
+
+93. Who appeared with the Lord Jesus in glory on the Mount of Transfiguration?
+	Elijah and Moses. (Mark 9:4)
+
+94. Who is the second Adam?
+	The Lord Jesus Christ. (1 Corinthians 15:45-49)
+
+95. Which Old Testament prophet married a prostitute because God told him to?
+	Hosea. (Hosea 1:2)
+
+96. What are the two sacred ordinances that the Lord commanded us to observe?
+	Baptism (Matthew 28:19,20) and Communion, or the Lord’s Table (1 Corinthians 11:23-26).
+
+97. What are supernatural enablings that allow a believer to serve the Body of Christ with ease and effectiveness?
+	Spiritual gifts. (Romans 12:6-8, 1 Corinthians 12, Ephesians 4:8-13, 1 Peter 4:10-11)
+
+98. Whose tomb was Christ buried in?
+	Joseph of Arimathea. (Matthew 27:57-60)
+
+99. Who wrote the book of Hebrews?
+	Nobody knows for sure, but quite possibly Paul.
+
+100. What is the book of Revelation about?
+	The end of the world.
+
+101. Who is the bride of Christ?
+	The bride is a remnant of The Church. A part of the Body who are ready when he calls to the wedding. (Matthew 25)
+	
+
+----
+Question 1: Order of Appearance of these 8 kings from first to last:
+Answer 1: Jeroboam Nadab Baasha Elah Zimri Omri Ahab Ahaziah
+----
+
+----
+Question 2: List names of people mentioned in 1 Kings:
+Answer 2: (Most names wins points)
+----
+
+----
+Question 3: Where am I reading?
+Answer 3: 1 Kings 1:15-21 1Ki 1:15 And Bathsheba went in unto the king into the chamber: and the king was very old; and Abishag the Shunammite ministered unto the king.
+ 16 And Bathsheba bowed, and did obeisance unto the king. And the king said, What wouldest thou?
+ 17 And she said unto him, My lord, thou swarest by the LORD thy God unto thine handmaid, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne.
+ 18 And now, behold, Adonijah reigneth; and now, my lord the king, thou knowest it not:
+ 19 And he hath slain oxen and fat cattle and sheep in abundance, and hath called all the sons of the king, and Abiathar the priest, and Joab the captain of the host: but Solomon thy servant hath he not called.
+ 20 And thou, my lord, O king, the eyes of all Israel are upon thee, that thou shouldest tell them who shall sit on the throne of my lord the king after him.
+ 21 Otherwise it shall come to pass, when my lord the king shall sleep with his fathers, that I and my son Solomon shall be counted offenders.
+----
+
+----
+Question 4: PICTIONARY --> {Draw Nabath's Vineyard}
+Answer 4:
+----
+
+----
+Question 5: PICTIONARY --> {Draw the showdown on Mount Carmel with Elijah}
+Answer 5:
+----
+
+----
+Question 6: What king name is both a king of Judah and Israel? Rehoboam, Abijam, Asah, Jehoshaphat, Jehoram, Joash, Nadab, Ahab
+Answer 6: Jehoram of Judah (son of Jehoshaphat) and Jehoram of Israel (Ahab's son and Ahaziah's brother) both reigned around the same time!
+----
+
+----
+Question 7: Where am I reading? 
+Answer 7: 1 Kings 12:1-5 1Ki 12:1 ¶ And Rehoboam went to Shechem: for all Israel were come to Shechem to make him king.
+ 2 And it came to pass, when Jeroboam the son of Nebat, who was yet in Egypt, heard of it, (for he was fled from the presence of king Solomon, and Jeroboam dwelt in Egypt;)
+ 3 That they sent and called him. And Jeroboam and all the congregation of Israel came, and spake unto Rehoboam, saying,
+ 4 Thy father made our yoke grievous: now therefore make thou the grievous service of thy father, and his heavy yoke which he put upon us, lighter, and we will serve thee.
+ 5 And he said unto them, Depart yet for three days, then come again to me. And the people departed.
+----
+
+----
+Question 8: List PLACES mentioned in 1 kings.
+Answer 8:
+----
+
+----
+Question 9: List non-Hebrew persons named in 1 kings.
+Answer 9: 
+----
+
+----
+Question 10: Order these events of 1 Kings
+Answer 10: Wisdom of King Solomon (1 Kings 3), Building the Temple (1 Kings 5), Rehoboam & Jeroboam Story (1 Kings 7), Queen of Sheba (1 Kings 10:1), 
+ The Prophet Who Raised a Boy to Life (1 Kings 15), Elijah on Mount Carmel (1 Kings 18), Ahab and Naboth ( 1 Kings 21)
+----
+
+----
+Question 11: Solomon loved many strange woman. What peoples were they from as listed in 1 Kings 11 together with the daughter of Pharoah? (5 peoples in total)
+Answer 11: (Read 1 Kings 11:1-3) together with the daughter of Pharaoh, Moabites, Ammonites, Edomites, Zidonians, and Hittites.
+----
+
+----
+Question 12: What prophets are named in 1 Kings?
+Answer 12: Nathan, Obadiah, Ahijah the Shilonite, An old prophet in Bethel, a man of God from Judah, Jehu the son of Hanani, Elijah
+----
+## Round 2 [INDIVIDUAL ALL ANSWER ROUND - 10 POINTS] (NO LOSING POINTS)
+
+BIBLE MEMORIZATION
+
+----
+Question 1: Who was Adonijah's Mother?
+
+ANSWER: Haggith
+
+> 1Ki 1:5 ¶ Then Adonijah the son of Haggith exalted himself, saying, I will be king: and he prepared him chariots and horsemen, and fifty men to run before him.
+
+----
+
+----
+Question 2: Why was Joab killed?
+
+ANSWER: He followed Adonijah in his rebellion.
+
+> 1 Kings 1:6 And his father had not displeased him at any time in saying, Why hast thou done so? and he also was a very goodly man; and his mother bare him after Absalom. 7 And he conferred with Joab the son of Zeruiah, and with Abiathar the priest: and they following Adonijah helped him.
+ 
+----
+
+----
+Question 3: hOW MANY YEARS after the exodus does 1 Kings Chapter 6 date the beginning of the  temple construction?
+
+ANSWER: 480  after the Exodus and in the 4th year of Solomon's year in the month of Zif.
+
+> 1Ki 6:1 ¶ And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month Zif, which is the second month, that he began to build the house of the LORD.  2 And the house which king Solomon built for the LORD, the length thereof was threescore cubits, and the breadth thereof twenty cubits, and the height thereof thirty cubits.
+Answer 3: 
+----
+
+----
+Question 4: Who was most likely and the traditional author of 1 Kings?
+Answer 4: Jeremiah
+----
+
+----
+Question 5: How many chapters in the book of 1 Kings?
+Answer 5: 22
+----
+
+----
+Question 6: 
+Answer 6: 
+----
+
+----
+Question 7: 
+Answer 7: 
+----
+
+----
+Question 8: 
+Answer 8: 
+----
+
+----
+Question 9: 
+Answer 9: 
+----
+
+----
+Question 10: 
+Answer 10: 
+----
+
+## Round 3 [INDIVIUAL 1 ANSWER ROUND - 15 POINTS + & -]
+
+> A. God establishes Solomon’s reign over Israel (1 Kgs 1–5)
+
+1. Who tried to usurp Solomons throne? **ANSWER**: Adonijah 1Ki 1:1
+2. How did Joab die? **ANSWER**: Beniah killed Joab at Solomon's command 1 Kings 2:34
+3.
+4.
+5.  What other king did Solomon ask to help with building the temple? ANSWER: HIRAM 1Ki 5:6 And what did Solomon ask him specifically to do? Hew me cedar trees out of lebanon and to build with Solomon's builders.
+
+> B. God establishes His temple in Jerusalem (1 Kgs 6–9)
+
+6. What were the dimensions the temple that Solomon built? ANSWER: 1 Kings 6:2 And the house which king Solomon built for the LORD, the length thereof was threescore cubits, and the breadth thereof twenty cubits, and the height thereof thirty cubits.
+7. Name 3 Houses that Solomon built? ANSWER: 3. (1 KIngs 7:1)  Solomon's House, (7:51) God's House, (7:8) Pharoah's Daughter's House, 
+8.
+9. What did Hiram call the 20 cites from Solomon ? ANSWER: Cabul 1 Kings 9:13
+
+> C. Solomon turns from God; Israel divides ([1 Kgs 10:1–12:24
+
+10. How much was one of solomon's chariots worth? 600 shekels of silver and a horse was 150 shekels. 1 Kings 10:29
+11.
+
+> D. Jeroboam leads the Northern Kingdom away from God ([1 Kgs 12:25–14:20
+12.
+13. 
+14. Rehoboam did evil in the eyes of the LORD, and so this Egyptian king attacked Jerusalem. Who was this king? Answer: Shishak 1 Kings 14:25
+
+> Northern kings struggle for control ([1 Kgs 14:21–16:34
+
+15.  Idol-hating King Asa removed all idols from Judah. He even burned a idol that his grandmother and fathers had made. What idolatrous places did he leave alone? ANSWER 15:14 the high places
+
+> E. God judges King Ahab with Elijah the prophet 1 Kings 16-22
+
+16.
+17.
+18.
+19.
+20.
+21. Naboths vineyard was located in what city? Jezreel
+22. 
+
+	
+]
 }
