@@ -1,4 +1,3 @@
-
 <td>(Chart 6) TIMING OF PAUL'S EPISTLES ADDED TO THE NEW TESTAMENT</b></td></tr><tr>
 <td>GROUP</td>
 <td>SETTING</td>
