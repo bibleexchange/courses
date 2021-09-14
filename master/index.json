@@ -1,0 +1,230 @@
+{
+    "id": "deliverance-bible-institute",
+    "type": "college",
+    "created_at": "2021-09-13 06:45:00",
+    "updated_at": "2021-09-13 06:45:00",
+    "courses":
+    [
+        {
+            "id": "old-testament-survey",
+            "title": {"en":"Old Testament Survey"},
+            "description": "",
+            "sections":
+            [
+                {
+                    "id": "introduction",
+                    "chapters":
+                    [{
+                        "id":"old-testament-bookshelf", "title":"Old Testament BookShelf", "blocks":[
+                            "type":"h1", 
+                        ]
+                    }]
+                }
+            ]
+        },
+        {
+            "id": "pentateuch",
+            "title": "Pentateuch",
+            "subtitle": "The First 5 Books of the Bible",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        },
+        {
+            "id": "",
+            "title": "",
+            "description": "",
+            "sections":
+            []
+        }
+    ]
+}

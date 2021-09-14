@@ -1,5 +1,5 @@
 <h1>Colossians</h1>
-<h3>"Paul an Apostle of Jesus Christ by the will of God." (1:1)</h3>
+<h3>Paul an Apostle of Jesus Christ by the will of God. (1:1)</h3>
 <h3>Written around the same time as Philemon probably from Rome shortly before Paul's death while he was a prisoner there (59-62 AD).</h3>
 <h3>Show"Christ is all and in all." (3:11)</h3>
 <h3>Warn of and correct false teaching that had infiltrated the Church. (1:28)</h3>
@@ -15,22 +15,22 @@
 <h2>Thanksgiving and prayer for the Lord's Divine Preeminence (1:3-29)</h2>
 <p>The continued prayer for them 1:3,9,13</p>
 <p>The apostle's desire 1:9-11</p>
-<p>Giving thanks to God 1:3,12-29 For His Word is working in them mightily. First faith is exercised, then hope and love is manifested1:4,5,1:23"Continue in the faith, grounded and settled</p>
+<p>Giving thanks to God 1:3,12-29 For His Word is working in them mightily. First faith is exercised, then hope and love is manifested 1:4,5,1:23 Continue in the faith, grounded and settled</p>
 <p>" The"hope of the Gospel" is the source of his preaching and teaching. 1:23-28"Made a minister"1:23,25 Sufferings and joy Secrets and mysteries</p>
-<p>The labor of love 1:10,24,29 Building downward 1:23"Grounded and settled" Deeper life Building upward 2:7"Built up in Him and established in the faith" Higher life Building inward 3:3"Hid with Christ in God" Inner life Building outward 4:5"Walk in wisdom toward them that are without" Outer life 1:7-11 "As ye also learned of Epaphras" 2:6 "As ye have therefore received Christ Jesus the Lord so walk ye in Him."3:24"For ye serve the Lord Christ" 4:12"Laboring fervently"</p>
+<p>The labor of love 1:10,24,29 Building downward 1:23 "Grounded and settled" Deeper life Building upward 2:7"Built up in Him and established in the faith" Higher life Building inward 3:3"Hid with Christ in God" Inner life Building outward 4:5"Walk in wisdom toward them that are without" Outer life 1:7-11 "As ye also learned of Epaphras" 2:6 "As ye have therefore received Christ Jesus the Lord so walk ye in Him."3:24"For ye serve the Lord Christ" 4:12"Laboring fervently"</p>
 <h2>IThe Deity and Preeminence of Christ Jesus the Lord.</h2>
 <p>His preeminence in relation to God. Equal. He is the image of God. He makes God visible</p>
 <p>His preeminence in relation to creation"The firstborn of every creature"1:15 His creative power"For by Him were all things created"1:16 His sustaining power"And by Him all things consist" 1:17 His consummating glory"He is before all things"1:17 He is the beginning and the end of all things. He is the cause 1:16"By Him - For Him" He is the firstborn. He is the goal</p>
 <p>The preeminence in relation to the Church"He is the head of the body, the church"1:18 This implies sovereignty - government This implies responsibility - lordship. This implies union - He is the head, we are the body (baptized believers) I Cor. 12:13 He is the only redeemer"We have redemption through His blood" 1:14"To every creature which is under heaven" 1:23 Reconciled unto perfection 1:19-23,28 He is the fulfillment of the mystery"But now is made manifest to His saints" 1:26"Among the Gentiles" 1:27"Which is Christ in you the hope of glory" 1:27 Divinely qualified for inheritance 1:12,13; 2:1-3</p>
 <p>The Savior The Head of the BodyThe Bridegroom</p>
 <p>The Saved -----The Body of Christ----The Bride of Christ</p>
-<blockquote>Col 1:9—For this cause we also, since the day we heard it, do not cease to pray for you, and to desire that ye might be filled with the knowledge of his will in all wisdom and spiritual understanding;</blockquote>
-<blockquote>10—That ye might walk worthy of the Lord unto all pleasing, being fruitful in every good work, and increasing in the knowledge of God;</blockquote>
-<blockquote>11—Strengthened with all might, according to his glorious power, unto all patience and longsuffering with joyfulness;</blockquote>
-<blockquote>Col. 1:24—Who now rejoice in my sufferings for you, and fill up that which is behind of the afflictions of Christ in my flesh for his body's sake, which is the church:</blockquote>
-<blockquote>Hebrews 6:12—That ye be not slothful, but followers of them who through faith and patience inherit the promises.</blockquote>
+<blockquote>Col 1:9-For this cause we also, since the day we heard it, do not cease to pray for you, and to desire that ye might be filled with the knowledge of his will in all wisdom and spiritual understanding;</blockquote>
+<blockquote>10-That ye might walk worthy of the Lord unto all pleasing, being fruitful in every good work, and increasing in the knowledge of God;</blockquote>
+<blockquote>11-Strengthened with all might, according to his glorious power, unto all patience and longsuffering with joyfulness;</blockquote>
+<blockquote>Col. 1:24-Who now rejoice in my sufferings for you, and fill up that which is behind of the afflictions of Christ in my flesh for his body's sake, which is the church:</blockquote>
+<blockquote>Hebrews 6:12-That ye be not slothful, but followers of them who through faith and patience inherit the promises.</blockquote>
 <p>Beginning with the Reformation, God began restoring"the faith which was once delivered unto the saints." That is, the Faith that had been lost through tradition, opinions and human ideas.</p>
-<blockquote>I Cor. 2:14—The natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned</span>
+<blockquote>I Cor. 2:14-The natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned</span>
 <span id="t1004#" class="swahili">SWAHILI</span></blockquote>
 <p>Romans 1:17 For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith.</p>
 <p>The Body of true believers is now one fold.</p>
@@ -142,7 +142,7 @@
 <blockquote>Isa 9:8 The Lord sent a word into Jacob, and it hath lighted upon Israel.</blockquote>
 <blockquote>Isaiah 41:8 But thou, Israel, art my servant, Jacob whom I have chosen, the seed of Abraham my friend.</span>
 <span id="t1111#" class="swahili">SWAHILI</span></blockquote>
-<blockquote>Micah 7:20 Thou wilt perform the truth to Jacob, and the mercy to Abraham…</blockquote>
+<blockquote>Micah 7:20 Thou wilt perform the truth to Jacob, and the mercy to Abraham_</blockquote>
 <blockquote>John 15:14 Ye are my friends, if ye do whatsoever I command you. 15 Henceforth I call you not servants; for the servant knoweth not what his lord doeth: but I have called you friends; for all things that I have heard of my Father I have made known unto you. Song of Solomon 2:16; 6:3; 7:10</blockquote>
 <p>Familiar terms---Less familiar terms---Unfamiliar terms</p>
 <blockquote>II Cor. 11:2 For I am jealous over you with godly jealousy: for I have espoused you to one husband, that I may present you as a chaste virgin to Christ.</blockquote>
