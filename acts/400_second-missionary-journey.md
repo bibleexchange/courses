@@ -1,3 +1,10 @@
+<img src="https://bible.exchange/uploads/images/gallery/2021-09/scaled-1680-/image002.png" alt="image005.png" style="  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;">
+
+<b><center>Chapters 1-7</center></b>
+
 <h1>Second Missionary Journey</h1><img src="/assets/maps/paul-second-missionary-journey.jpg">
 <p>Chapters 15:36-18:22</p>
 

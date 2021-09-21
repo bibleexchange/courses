@@ -1,10 +1,14 @@
-<h1>Journey to Rome</h1>
+<img src="https://bible.exchange/uploads/images/gallery/2021-09/scaled-1680-/paul-journey-to-rome.jpg" alt="Pauls third missionary journey" style="  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;">
 
+<b><center>Chapters 21:15-28:31</center></b>
 
 
 <h1><table><tr></tr><tr>
-<td><img src="/assets/maps/paul-journey-to-rome.jpg"></td></tr></table></h1>
-<p>Chapters 21:15-28:31</p>
+<td></td></tr></table></h1>
+<p></p>
 <p><img src="2nd_Year_ACTS_text_files/image011.jpg"></p>
 <p>After completing his Third missionary journey, Paul begins a different kind of missionary journey. This journey although it is begun by Paul's own free choice, is marked by Paul's bonds. Even though he is under Roman custody and arrest, God uses Paul mightily during this period to the glory of God. It is because of the great testimony Paul lives during this period of his life, many call it his "Fourth Missionary Journey."</p>
 <p>Paul's journey to Rome doesn't officially begin until Acts 27, but 21:15-26:32 are important steps leading to the famous voyage to Italy. In these passages, we see time and time again where Paul had opportunity to avoid personal loss and trouble, but he chose to be a testimony for Christ instead. His ultimate vision to go to Rome was that he might preach Christ there, as well. (Romans 1:8-15)</p>
