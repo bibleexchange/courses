@@ -36,13 +36,11 @@ Throughout the book of John we see many different supernatural occurrences that 
 		<li><b>#9 Love</b> Helped the disciples catch the draught of fish</li>
 </ul>
 
-
 The miracles recorded are material witnesses to underlying spiritual truths. There are nine distinct signs in John that prove Jesus to be Master of things that we face every day. Jesus performed many other signs (John 20:30), but these signs are hand-picked to teach a spiritual truth.
 
 What does supplying wine for a marriage have to do with Jesus&apos; mission? It is more than just supplying wine for a wedding, but it is showing the miraculous power of God. In His ability to turn sorrow into joy and also the quality of his work shows that God&apos;s way is best. The testimony that the governor of the feast had about the wine, &quot;thou hast kept the good wine until now&quot;.
 
 These signs prove Him to be the Master.
-
 
 ### The Gospel was written that men might believe
 
@@ -64,44 +62,24 @@ We have already noted the purpose (But these are written that ye might believe t
 
 This Gospel presents a series of pictures, in each of which Christ is the Central Figure. Each of the 21 Chapters contains a striking portrayal of some aspect of the character or work of the Savior.
 
-CHAPTER ONE: He is the Son of God. His deity is portrayed in verse one (in the beginning was the word, and the word was with God, and the word was God) and in verse fourteen (and we beheld His glory, the glory of the only begotten of the Father, full of grace and truth).
-
-CHAPTER TWO: He is the Son of Man. Here we have a scene illustrating His perfect humanity. He appears as a guest at the marriage in Cana of Galilee where He mingles with men in their social activities.
-
-CHAPTER THREE: He is the Divine Teacher. In this chapter we see Him instructing a master of Israel.
-
-CHAPTER FOUR: He is the Soul Winner. Here we see the steps by which He led the darkened soul of the Samaritan woman out in to the light.
-
-CHAPTER FIVE: He is the Great Physician. He is seen here bending in compassion over the sufferers at the pool. He shows His divine power by the instantaneous cure of a hopeless case.
-
-CHAPTER SIX: He is the Bread of Life. As we read this chapter we realize that without Him the souls perish of hunger.
-
-CHAPTER SEVEN: He is the Water of Life. From verse 37 we see that He is able to satisfy the thirsty heart.
-
-CHAPTER EIGHT: He is the Defender of the Weak. Here we have a scene showing His gallant defense of a woman that have been found guilty of breaking the law.
-
-CHAPTER NINE: He is the Light of the World. He demonstrates His right to this distinction by giving light to one who was born blind.
-
-CHAPTER TEN: He is the Good Shepherd. He watches over &quot;the flock&quot; with infinite care and gives His life for His sheep.
-
-CHAPTER ELEVEN: He is the Resurrection and the Life. He proves His right to this title by calling Lazarus from the tomb.
-
-CHAPTER TWELVE: He is the King. He rides into Jerusalem on Palm Sunday and is acclaimed King of Israel by the multitudes.
-
-CHAPTER THIRTEEN: He is the Lowly Servant. Here we have the marvelous scene of His condescension as He washes the disciples' feet.
-
-CHAPTER FOURTEEN: He is the Consoler. Although standing under the very shadow of His cross, in utter self-forgetfulness, He comforts the sorrowing disciples.
-
-CHAPTER FIFTEEN: He is the True Vine. We see Him as the source of all spiritual fruit.
-
-CHAPTER SIXTEEN: He is the Giver of the Spirit. On His departure He promised to send the comforter into the world.
-
-CHAPTER SEVENTEEN: He is the Great Intercessor. He offers up His wonderful intercessory prayers for the church.
-
-CHAPTER EIGHTEEN: He is the Model Sufferer. He submissively drinks the cup of woe pressed to His lips by the Father&apos;s hand.
-
-CHAPTER NINETEEN: He is the Uplifted Savior. He becomes obedient unto death, even the death of the cross.
-
-CHAPTER TWENTY: He is the Victory Over Death. As Christ arises from the grave we see that He has power over that final enemy.
-
-CHAPTER TWENTY-ONE: He is the Restorer of the Penitent. He welcomes wandering Peter back to the fold and commissions him to feed the sheep and lambs.
+1. CHAPTER ONE: He is the Son of God. His deity is portrayed in verse one (in the beginning was the word, and the word was with God, and the word was God) and in verse fourteen (and we beheld His glory, the glory of the only begotten of the Father, full of grace and truth).
+1. CHAPTER TWO: He is the Son of Man. Here we have a scene illustrating His perfect humanity. He appears as a guest at the marriage in Cana of Galilee where He mingles with men in their social activities.
+1. CHAPTER THREE: He is the Divine Teacher. In this chapter we see Him instructing a master of Israel.
+1. CHAPTER FOUR: He is the Soul Winner. Here we see the steps by which He led the darkened soul of the Samaritan woman out in to the light.
+1. CHAPTER FIVE: He is the Great Physician. He is seen here bending in compassion over the sufferers at the pool. He shows His divine power by the instantaneous cure of a hopeless case.
+1. CHAPTER SIX: He is the Bread of Life. As we read this chapter we realize that without Him the souls perish of hunger.
+1. CHAPTER SEVEN: He is the Water of Life. From verse 37 we see that He is able to satisfy the thirsty heart.
+1. CHAPTER EIGHT: He is the Defender of the Weak. Here we have a scene showing His gallant defense of a woman that have been found guilty of breaking the law.
+1. CHAPTER NINE: He is the Light of the World. He demonstrates His right to this distinction by giving light to one who was born blind.
+1. CHAPTER TEN: He is the Good Shepherd. He watches over &quot;the flock&quot; with infinite care and gives His life for His sheep.
+1. CHAPTER ELEVEN: He is the Resurrection and the Life. He proves His right to this title by calling Lazarus from the tomb.
+1. CHAPTER TWELVE: He is the King. He rides into Jerusalem on Palm Sunday and is acclaimed King of Israel by the multitudes.
+1. CHAPTER THIRTEEN: He is the Lowly Servant. Here we have the marvelous scene of His condescension as He washes the disciples' feet.
+1. CHAPTER FOURTEEN: He is the Consoler. Although standing under the very shadow of His cross, in utter self-forgetfulness, He comforts the sorrowing disciples.
+1. CHAPTER FIFTEEN: He is the True Vine. We see Him as the source of all spiritual fruit.
+1. CHAPTER SIXTEEN: He is the Giver of the Spirit. On His departure He promised to send the comforter into the world.
+1. CHAPTER SEVENTEEN: He is the Great Intercessor. He offers up His wonderful intercessory prayers for the church.
+1. CHAPTER EIGHTEEN: He is the Model Sufferer. He submissively drinks the cup of woe pressed to His lips by the Father&apos;s hand.
+1. CHAPTER NINETEEN: He is the Uplifted Savior. He becomes obedient unto death, even the death of the cross.
+1. CHAPTER TWENTY: He is the Victory Over Death. As Christ arises from the grave we see that He has power over that final enemy.
+1. CHAPTER TWENTY-ONE: He is the Restorer of the Penitent. He welcomes wandering Peter back to the fold and commissions him to feed the sheep and lambs.

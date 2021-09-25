@@ -1,5 +1,4 @@
-Sura ya 12: Yeye ni mfalme
-==========================
+# Sura ya 12: Yeye ni mfalme
 
 ## Mfalme aliyepakwa mafuta (12:1-11)
 
@@ -51,13 +50,13 @@ Ujio wa furaha (12:12-15)
 
 Kubeba mitende ilikuwa alama ya furaha kwa ushindi au ufalme. Tende lilikuwa nembo ya furaha, ushindi na utukufu. Mitende iliota katika milima ya mizeituni katika barabara inayotokea bethania kwenda yerusalemu. Makutano (wengine mbele na wengine nyuma, Marko 11:9, Mathayo 21:9, Yohana 12:18) walikata matawi walipokuwa wanakuja.
 
-> Zaburi 118:25-26 Ee Bwana utuokoe, twakusihi: ee Bwana,utufanikishe. Na abarikiwe yeye ajaye kwa jina la Bwana: Tumewabarikia toka nyumbani mwa Bwana. 
+> Zaburi 118:25-26 Ee Bwana utuokoe, twakusihi: ee Bwana,utufanikishe. Na abarikiwe yeye ajaye kwa jina la Bwana: Tumewabarikia toka nyumbani mwa Bwana.
 
 > Yohana 12:14 Na Yesu alikuwa amepata mwanapunda, akampanda kama vile ilivyoandikwa, (Zakaria 9:9)
 
 Kusudi la Yesu ni kuonyesha kuwa yeye ndiye mesia. Hii ilidhihirishwa kwa ufasaha pale alipompanda mwana punda. Punda alikuwa mnyama mwema. Wa litumika kama chombo cha huduma kubeba mizigo ya wat, alitumiwa na wafalme walipokuwa wanaingia katika mji kwa amani. Walipanda punda kuonyesha kusudio la amani. Mfalme alipoingia katika mji kama mshindi punda wa kiume. Yesu alikuwa anaonesha mambo mawili kwa watu: Kwanza, alikuwa mfalme aliyetabiriwa, mwokozi aliyeteseka kwaajili ya dunia. Pili, kwamba alikuwa haji kama mfalme mshindanaji. Huduma yake haikuwa kuja kwaajili ya faida za ulimwengu, anasa na sherehe, sio kuwa kiongozi wa jeshi kuua, kuumiza na kufanya watu vilema; Mesia alikuja kama mkombozi wa amani ambaye alitumwa kuokoa. Alikuja kuwaonyesha wanadamu kwamba Mungu ni Mungu wa upendo wa milele.
 
-### Aliyeinuliwa na Mungu (12:20-36) 
+### Aliyeinuliwa na Mungu (12:20-36)
 
 ## Mfalme aliyekataliwa (12:37-50)
 
