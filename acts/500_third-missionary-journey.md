@@ -1,4 +1,11 @@
-<h1>Third Missionary Journey</h1><img src="/assets/maps/paul-third-missionary-journey.jpg">
+<img src="https://bible.exchange/uploads/images/gallery/2021-09/scaled-1680-/paul-third-missionary-journey.jpg" alt="Pauls third missionary journey" style="  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;">
+
+<b><center>Chapters 1-7</center></b>
+
+<h1>Third Missionary Journey</h1><img src="/assets/maps/.jpg">
 <p>Chapters 18:23-21:14</p>
 <p>FACT: Paul traveled about 2700 miles on the third missionary journey. This is about the same as traveling from Los Angeles, California to Washington, D. C. Lasting nearly three years, the <i>Third</i> is the longest and broadest of Paul's missionary journeys.</p>
 
