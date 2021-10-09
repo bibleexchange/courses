@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+			Automate Chkdsk and Defrag</title>
+		<style type="text/css">
+			.cs2D2816FE{}
+			.cs32D91A6A{padding:0.75pt 0.75pt 0.75pt 0.75pt;background-color:#FFFFFF;border-top:none;border-right:none;border-bottom:none;border-left:none}
+			.csFFF33906{text-align:left;text-indent:0pt;margin:0pt 0pt 0pt 0pt;line-height:26pt}
+			.cs447ACC63{color:#000000;background-color:transparent;font-family:Arial;font-size:26pt;font-weight:bold;font-style:normal;}
+			.cs28297004{width:46%;padding:0.75pt 0.75pt 0.75pt 0.75pt;background-color:#FFFFFF;border-top:none;border-right:none;border-bottom:none;border-left:none}
+			.cs898F6B14{text-align:left;text-indent:0pt;margin:5pt 0pt 5pt 0pt;line-height:12pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto}
+			.cs9FF1B611{color:#000000;background-color:transparent;font-family:Arial;font-size:9pt;font-weight:normal;font-style:normal;}
+			.cs5A8D6493{color:#000000;background-color:transparent;font-family:Arial;font-size:13.5pt;font-weight:bold;font-style:normal;}
+			.cs9D90E353{text-align:left;text-indent:-11pt;margin:5pt 0pt 5pt 11pt;line-height:12pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto}
+			.csCCF5E316{color:#000000;background-color:transparent;font-family:Arial;font-size:9pt;font-weight:bold;font-style:normal;}
+			.cs95E872D0{text-align:left;text-indent:0pt;margin:0pt 0pt 0pt 0pt}
+			.csAEEDF97E{color:#000000;background-color:transparent;font-family:Times New Roman;font-size:10pt;font-weight:normal;font-style:normal;}
+			.csFB6380AA{text-align:left;text-indent:0pt;margin:5pt 0pt 5pt 0pt;line-height:18.75pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto}
+			.cs2C663CEE{color:#000000;background-color:transparent;font-family:Arial;font-size:10.5pt;font-weight:bold;font-style:normal;}
+			.csC4CFBF3A{color:#000000;background-color:transparent;font-family:Courier New;font-size:9pt;font-weight:normal;font-style:normal;}
+			.csCF6BBF71{color:#000000;background-color:transparent;font-family:Times New Roman;font-size:12pt;font-weight:normal;font-style:normal;}
+		</style>
+	</head>
+	<body>
+		<table class="cs2D2816FE" border="0" cellspacing="8" cellpadding="0" width="600">
+			<tr>
+				<td class="cs32D91A6A" colspan="2"><p class="csFFF33906"><span class="cs447ACC63">Automate Chkdsk and Defrag<br/>on WinXP machines </span></p></td></tr>
+			<tr>
+				<td class="cs28297004" valign="top" width="46%"><p class="cs898F6B14"><span class="cs9FF1B611">By Ted Laun</span></p><p class="cs898F6B14"><div style="width:42pt;height:33.75pt;">
+					<span><img src="Automate%20Chkdsk%20and%20Defrag%20(1)_files/image0.png" width="56" height="45" alt="" style="border-width:0px;" /></span></div>
+				<span class="cs9FF1B611">e&#39;ve developed a batch file that can save you some time by automatically running Chkdsk and Defrag on your Windows XP machines. First, it does a read-only Chkdsk. If Chkdsk sets the errorlevel to 3, meaning that it found errors and needs to be run with the /F (fix) option, the file checks to see whether the systemroot or pagefile exist on the drive. If so, it runs Chkdsk the next time the system is rebooted. If systemroot or pagefile don&#39;t exist on the drive, it runs a Chkdsk /F /R now, and then it runs a Defrag -b and a regular Defrag. (The -b switch is an undocumented switch that optimizes the drive for boot.)</span></p><p class="cs898F6B14"><span class="cs5A8D6493">Using the file</span><span class="cs9FF1B611"><br/>To put the file to work, follow these steps:</span></p><p class="cs9D90E353"><span class="csCCF5E316">1.</span><span class="cs9FF1B611"> Copy the code in Listing A.</span></p><p class="cs9D90E353"><span class="csCCF5E316">2.</span><span class="cs9FF1B611"> Open Notepad and paste in the code.</span></p><p class="cs9D90E353"><span class="csCCF5E316">3.</span><span class="cs9FF1B611"> Save the file as Dskchk.cmd.</span></p><p class="cs9D90E353"><span class="csCCF5E316">4.</span><span class="cs9FF1B611"> Create DrvLtr.txt and list the letters of the drives you want checked, with each letter on its own line. Under the last drive letter, type the word end. For example:<br/>C:<br/>F:<br/>end</span></p><p class="cs9D90E353"><span class="csCCF5E316">5.</span><span class="cs9FF1B611"> Put Dskchk.cmd and DrvLtr.txt in the same directory. You can then schedule Dskchk with Task Scheduler or run it manually.</span></p></td><td class="cs32D91A6A" valign="top"><p class="cs95E872D0"><span class="csAEEDF97E">&nbsp;</span></p></td></tr>
+		</table>
+		<p class="csFB6380AA"><span class="cs2C663CEE">Listing A</span></p><p class="cs898F6B14"><span class="csC4CFBF3A">REM chkdsk and defrag automation<br/>for /F &quot;eol= tokens=1 delims=( &quot; %%i in (DrvLtr.txt) do set DrvLtr=%%i&amp; call :dsKchk</span></p><p class="cs898F6B14"><span class="csC4CFBF3A">:dsKchk<br/>If %DrvLtr% == end goto :eof<br/>chkdsk %DrvLtr%<br/>If not errorlevel 3 goto :defrag<br/>If not exist %DrvLtr%\winnt If not exist %DrvLtr%\windows If not exist %DrvLtr%\pagefile.sys goto :dskchkon</span></p><p class="cs898F6B14"><span class="csC4CFBF3A">:dskchkoff<br/>cd\<br/>%DrvLtr%<br/>echo Y chkdsk /F /R<br/>goto :defrag</span></p><p class="cs898F6B14"><span class="csC4CFBF3A">:dskchkon<br/>chkdsk %DrvLtr% /F /R</span></p><p class="cs898F6B14"><span class="csC4CFBF3A">:defrag<br/>cd\<br/>%DrvLtr%<br/>defrag %DrvLtr% -b<br/>defrag %DrvLtr%<br/>:EOF</span></p><p class="cs95E872D0"><span class="csCF6BBF71">&nbsp;</span></p></body>
+</html>
