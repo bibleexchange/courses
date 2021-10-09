@@ -1,5 +1,4 @@
-Sura ya 21: Yeye ni huwarejesha wanyenyekevu
-============================================
+# Sura ya 21: Yeye ni huwarejesha wanyenyekevu
 
 Yesu aliyefufuka huongoza huduma zetu kwaajili yake. Hii hutokea tu wakati Bwana aliyefufuka anajionyesha kwaajili yake. Madhibitisho ya kufufuka kwake yalishatolewa. Tambua namna sura ya ishirini na moja ilivyowasilishwa, "Baada ya mambo haya Yesu alijionyesha tena kwa wanafunzi." Neno "kujionyesha" linaweza kueleweka kwamba "alijidhihirisha mwenyewe." Kwa kigiriki neno kujidhihirisha maana yake ni kung’aa nje. Yesu alipojidhihirisha mara ya tatu kwa wanafunzi Alionyesha wazi nguvu zake na utukufu kwa mara nyingine.
 
@@ -17,14 +16,14 @@ Wanafunzi waliposhuka pwani wakaona huko moto wa makaa na juu yake pametiwa sama
 
 ## Yesu anatoa maelekezo machache kwa Petro (21:15-24)
 
-\#9 Bwana wa upendo
-==================
-
-Muujiza wa mafuriko ya samaki zaidi ya kujaza nyavu za wavuvi wengine. Watu wote hawa walimshangaa Yesu wakati safari ilipokuwa ngumu, ghafla tunaona Yesu kwa mara nyingine akiwatosheleza kwa kila walichohitaji. Yesu anaingilia katika mfululizo wa kawaida wa matukio kwaajili ya watu wazuri waliomkana. Upendo usio na kikomo!
+<div class="highlights">
+<h1 id="bwana-wa-upendo">#9 Bwana wa upendo</h1>
+<p>Muujiza wa mafuriko ya samaki zaidi ya kujaza nyavu za wavuvi wengine. Watu wote hawa walimshangaa Yesu wakati safari ilipokuwa ngumu, ghafla tunaona Yesu kwa mara nyingine akiwatosheleza kwa kila walichohitaji. Yesu anaingilia katika mfululizo wa kawaida wa matukio kwaajili ya watu wazuri waliomkana. Upendo usio na kikomo!</p>
+</div>
 
 ### Petro aambiwa alishe kondoo wa Mungu (21:15-17)
 
-Vigezo vya kulisha na kuchunga kondoo ni upendo wa Mungu. Lisha kondoo zangu – hii ni kazi ya kichungaji na inahitaji upendo ili kuwa "mchungaji mzuri" wa kondoo kama vigezo vya msingi. Katika Yohana 10 Yesu alijiita mwenyewe mchungaji mwema na sasa anamhitaji Petro pia kuchunga kondoo zake. 
+Vigezo vya kulisha na kuchunga kondoo ni upendo wa Mungu. Lisha kondoo zangu – hii ni kazi ya kichungaji na inahitaji upendo ili kuwa "mchungaji mzuri" wa kondoo kama vigezo vya msingi. Katika Yohana 10 Yesu alijiita mwenyewe mchungaji mwema na sasa anamhitaji Petro pia kuchunga kondoo zake.
 
 ### Petro aliambiwa amfuate Yesu bila kujali wengine walifanya nini (21:18-24)
 

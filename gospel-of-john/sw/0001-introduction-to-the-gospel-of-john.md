@@ -1,6 +1,6 @@
 # Utangulizi
 
-Ingawa kitabu hiki mara kwa mara hurejewa kama Injili ya Yohana, ingepaswa kufahamika kwamba ni bora kurejewa kama Injili ya Yesu kristo kama ilivyoandikwa Yohana kwa kuwa kitabu ni kuhusu Yesu na sio Yohana. Kitabu cha Yohana sio mafundisho mapya au wazo, bali  kinahusishwa na habari za wandishi wengine wa injili.
+Ingawa kitabu hiki mara kwa mara hurejewa kama Injili ya Yohana, ingepaswa kufahamika kwamba ni bora kurejewa kama Injili ya Yesu kristo kama ilivyoandikwa Yohana kwa kuwa kitabu ni kuhusu Yesu na sio Yohana. Kitabu cha Yohana sio mafundisho mapya au wazo, bali kinahusishwa na habari za wandishi wengine wa injili.
 
 ## Mwandishi wa Injili
 
@@ -8,7 +8,7 @@ Injili ya Yohana ilikuwa imeandikwa kati ya mwaka 85 na 90 A.D. na Yohana aliyep
 
 Kulingana na Irenos,mwanafunzi wa Polikapi, aliyekuwa rafiki na mwanafunzi wa Yohana, Yohana kwa mdomo alishirikisha injili kwa miaka sita baada ya kupaa kwa Yesu. Kwa wakati huo huo,Yohan alikuwa anahamishwa na Domitian mtawala kirumi, kwenda kisiwa cha patimo kama tendo la mateso ya kidini. Ilikuwa pale Yohana alipo pokea maono yanayo jumuishwa katika kitabu cha Ufunuo.
 
-Irenio pia alisema kwamba baada ya kifo cha Domitian mnamo A.D. 96 ambapo Yohana alirudishwa kutoka uhamishoni na kuhamia Efeso. Inaaminiwa kwamba hapo ndio pale ambapo kulikuwa na faraja ya marafiki na mongozo wa Roho Mtakatifu ulimsaidia kuandika injili hii ambayo alikuwa akiihubiri muda mrefu. Karibia kizazi baada ya injili zingine kuwa zimeandikwa, hii injili ilikuwa imeandaliwa, ambayo huonyesha kwamba maisha na kazi ya Kristo kulikuwa wakati huu unajulikana sana kwa  wakristo. Katika wakati maalum mitume walikuwa wamehubiri injili, Petro na Paulo waliteseka kwa ajili ya imani,na mitume wote walikuwa wamepitia thawabu yao, Na Yerusalemu ilikuwa imeharibiwa na warumi. Clement wa Alexandria (c.150 - c. 215) husema mwisho wa yote, Yohana hushikilia kile ambacho injili za wengine vitu hivyo vilihusianishwa na yale yanayo husishwa na mwili wa Kristo, na kushawishiwa na rafiki zake, vile vile aliongozwa na Roho wa Mungu, aliandika injili ya kiroho.
+Irenio pia alisema kwamba baada ya kifo cha Domitian mnamo A.D. 96 ambapo Yohana alirudishwa kutoka uhamishoni na kuhamia Efeso. Inaaminiwa kwamba hapo ndio pale ambapo kulikuwa na faraja ya marafiki na mongozo wa Roho Mtakatifu ulimsaidia kuandika injili hii ambayo alikuwa akiihubiri muda mrefu. Karibia kizazi baada ya injili zingine kuwa zimeandikwa, hii injili ilikuwa imeandaliwa, ambayo huonyesha kwamba maisha na kazi ya Kristo kulikuwa wakati huu unajulikana sana kwa wakristo. Katika wakati maalum mitume walikuwa wamehubiri injili, Petro na Paulo waliteseka kwa ajili ya imani,na mitume wote walikuwa wamepitia thawabu yao, Na Yerusalemu ilikuwa imeharibiwa na warumi. Clement wa Alexandria (c.150 - c. 215) husema mwisho wa yote, Yohana hushikilia kile ambacho injili za wengine vitu hivyo vilihusianishwa na yale yanayo husishwa na mwili wa Kristo, na kushawishiwa na rafiki zake, vile vile aliongozwa na Roho wa Mungu, aliandika injili ya kiroho.
 
 Irenio aliikubali hii na huu ni uhakika kabisa ambao Yustini mfia dini aliutumia pia. Ulikuwa umeunganishwa na vitabu vingine vya agano jipya katika mateso ya watatiani mnamo 170 A.D.
 
@@ -50,7 +50,7 @@ Maandiko kamwe hayahitaji imani pasipo kutoa sababu ya kutosha kwa ajili ya dham
 
 ### Injili ilikuwa imeandikwa ili watu waweze kuwa na uzima
 
-Zaidi ya  uzima wa asili, bali ni uzima wa kiroho&mdash;uzima wa Kristo. Uzima huu ulirudisha uhusiano kati ya Mungu na mtu (17:3) ambao ulipotezwa wakati Adamu aliposhindwa kumtii Mungu kwa kula tunda lililo katazwa. Kuna rejea nyingi kwa ajili ya huu uzima wa kiroho katika injili ya Yohana, kujumuisha 3:16; 3:36; 4:14; 5:24; 6:47; 8:12; 10:10; 11:25 and 12:25.
+Zaidi ya uzima wa asili, bali ni uzima wa kiroho&mdash;uzima wa Kristo. Uzima huu ulirudisha uhusiano kati ya Mungu na mtu (17:3) ambao ulipotezwa wakati Adamu aliposhindwa kumtii Mungu kwa kula tunda lililo katazwa. Kuna rejea nyingi kwa ajili ya huu uzima wa kiroho katika injili ya Yohana, kujumuisha 3:16; 3:36; 4:14; 5:24; 6:47; 8:12; 10:10; 11:25 and 12:25.
 
 ## Mtindo wa injili
 
@@ -62,44 +62,24 @@ Tumesha kumbuka kusudi (bali haya yaliandikwa ili nyinyi mweze kuamini kwamba Ye
 
 Hii injili inawakilisha mfululizo wa picha, katika kila kile ambacho Kristo ni mfano wa katika. Kila moja ya sura 21 inaweka muonekano wa baadhi ya tabia mwenendo au kazi za mwokozi.
 
-SURA YA KWANZA: Kazi yake imeonyeshwa katika msitari wa kwanza (hapo kulikuwa na neno naye neno alikuwa, na Mungu naye alikuwa Mungu) na katika msitari wa kuminanne (Nasi tumeuona utukufu utukufu kama wa mwana pekee wa Baba amejaa neema na kweli)
-
-SURA YA PILI: Yeye ni mwana wa Adamu. Hapa tuna maelezo ya picha inayoelezea ubinadamu wake kamili. Yeye anajitokeza kama mgeni katika harusi huko kana ya Galilaya mahali ambapo alichanganyika na watu katika shughuli zao za kijamii.
-
-SURA YA TATU: Yeye ni mwalimu wa kimungu. Katika sura hii tunamuona akimfundisha mkuu wa Israel.
-
-SURA YA NNE: Yeye ni mshindi wa nafsi. Hapa tunaona hatua ambazo nafsi iliokuwa  gizani ya mwanamke msamaria kumpeleka kwemye nuru.
-
-SURA YA TANO: Yeye ni mganga mkuu. Yeye anaoneka kujipinda kwa huruma juu ya watesekaji kwenye bwawa. Yeye anaonyesha uwezo wake wa kiungu kwa hali ya kuwajali wasio na tumaini.
-
-SURA YA SITA: Yeye ni mkate wa uzima. Kadiri tusomavyo sura hii tunatambua kwamba bila yeye nafsi hupotea kwa njaa.
-
-SURA YA SABA: Yeye ni maji uzima. Kuanzia mstari wa 37 tunaona yeye anauwezo wa kushibisha kiu ya moyo.
-
-SURA YA NANE: Yeye ni mlinzi wa wadhaifu. Hapa tuna picha ya kuonyesha ulinzi wake wa msaada kwa mwanamke ambayo alipatikana na hatia ya kuvunja sheria.
-
-SURA YA TISA: Yeye ni nuru ya ulimwengu. Anaonyesha haki yake kwenye huu mpango kwa kutoa nuru mtu moja aliyezaliwa kipofu.
-
-SURA YA KUMI: Yeye ni mchungaji mwema. Anachunga kondoo kwa umakini wa msingi na kutoa uhai wake kwa ajili ya kondoo zake.
-
-SURA YA KUMI NA MOJA: Yeye ni ufufuo na uzima. Anathibisha haki yake kwenye jina hili kwa kumwita Lazaro kutoka kaburini.
-
-SURA YA KUMI NA MBILI: Yeye ni mfalme. Anatambea kwenda Yerusalemu siku ya jumapili na alitangazwa na makutano kuwa ni mfalme wa Israel.
-
-SURA YA KUMI NA TATU: Yeye ni mtumishi wa chini. Hapa tuna picha ya ajabu ya uradhi kama anavyo waosha wanafunzi wake miguu.
-
-SURA YA KUMI NA NNE: Yeye ni mshauri. Ingawa anasimama chini ya kivuli cha msalaba wake, katika mwisho wa kutokusahau, anawafariji wanafunzi walikuwa katika masikitiko.
-
-SURA YA KUMI NA TANO: Yeye ni kinywaji cha kweli. Tunamwona kama chanzo cha tunda la kiroho.
-
-SURA YA KUMI NA SITA: Yeye ni mtoa Roho. Wakati wa kuondoka kwake aliahidi kumtuma mfariji kuja ulimwenguni.
-
-SURA YA KUMI NA SABA: Yeye ni mtetezi mkuu. Anatoa sala zake za utetezi wa ajabu kwa ajili ya kanisa.
-
-SURA YA KUMI NA NANE: Yeye ni mfano wa mtesekaji. Kwa utii anakinywea kikombe cha mateso kilichotiwa midomoni mwake kwa mkono wa Baba.
-
-SURA YA KUMI NA TISA: Yeye ni mwokozi aliyeinuliwa. Akawa mtiifu hata mauti,hata mauti ya msalaba.
-
-SURA YA ISHIRINI: Yeye ni mshindi wa juu ya kifo. Kama Kristo afufuka kutoka kaburini tunaona kwamba yeye anauwezo juu ya yule adui wa mwisho.
-
-SURA YA ISHIRINI NA MOJA: Yeye ni mrejeshaji wa malipo. Yeye anamkaribisha Petro mzuraji kumrudisha kwenye zizi na kumwagiza kulisha kondoo na wanakondoo.
+1. SURA YA KWANZA: Kazi yake imeonyeshwa katika msitari wa kwanza (hapo kulikuwa na neno naye neno alikuwa, na Mungu naye alikuwa Mungu) na katika msitari wa kuminanne (Nasi tumeuona utukufu utukufu kama wa mwana pekee wa Baba amejaa neema na kweli)
+1. SURA YA PILI: Yeye ni mwana wa Adamu. Hapa tuna maelezo ya picha inayoelezea ubinadamu wake kamili. Yeye anajitokeza kama mgeni katika harusi huko kana ya Galilaya mahali ambapo alichanganyika na watu katika shughuli zao za kijamii.
+1. SURA YA TATU: Yeye ni mwalimu wa kimungu. Katika sura hii tunamuona akimfundisha mkuu wa Israel.
+1. SURA YA NNE: Yeye ni mshindi wa nafsi. Hapa tunaona hatua ambazo nafsi iliokuwa gizani ya mwanamke msamaria kumpeleka kwemye nuru.
+1. SURA YA TANO: Yeye ni mganga mkuu. Yeye anaoneka kujipinda kwa huruma juu ya watesekaji kwenye bwawa. Yeye anaonyesha uwezo wake wa kiungu kwa hali ya kuwajali wasio na tumaini.
+1. SURA YA SITA: Yeye ni mkate wa uzima. Kadiri tusomavyo sura hii tunatambua kwamba bila yeye nafsi hupotea kwa njaa.
+1. SURA YA SABA: Yeye ni maji uzima. Kuanzia mstari wa 37 tunaona yeye anauwezo wa kushibisha kiu ya moyo.
+1. SURA YA NANE: Yeye ni mlinzi wa wadhaifu. Hapa tuna picha ya kuonyesha ulinzi wake wa msaada kwa mwanamke ambayo alipatikana na hatia ya kuvunja sheria.
+1. SURA YA TISA: Yeye ni nuru ya ulimwengu. Anaonyesha haki yake kwenye huu mpango kwa kutoa nuru mtu moja aliyezaliwa kipofu.
+1. SURA YA KUMI: Yeye ni mchungaji mwema. Anachunga kondoo kwa umakini wa msingi na kutoa uhai wake kwa ajili ya kondoo zake.
+1. SURA YA KUMI NA MOJA: Yeye ni ufufuo na uzima. Anathibisha haki yake kwenye jina hili kwa kumwita Lazaro kutoka kaburini.
+1. SURA YA KUMI NA MBILI: Yeye ni mfalme. Anatambea kwenda Yerusalemu siku ya jumapili na alitangazwa na makutano kuwa ni mfalme wa Israel.
+1. SURA YA KUMI NA TATU: Yeye ni mtumishi wa chini. Hapa tuna picha ya ajabu ya uradhi kama anavyo waosha wanafunzi wake miguu.
+1. SURA YA KUMI NA NNE: Yeye ni mshauri. Ingawa anasimama chini ya kivuli cha msalaba wake, katika mwisho wa kutokusahau, anawafariji wanafunzi walikuwa katika masikitiko.
+1. SURA YA KUMI NA TANO: Yeye ni kinywaji cha kweli. Tunamwona kama chanzo cha tunda la kiroho.
+1. SURA YA KUMI NA SITA: Yeye ni mtoa Roho. Wakati wa kuondoka kwake aliahidi kumtuma mfariji kuja ulimwenguni.
+1. SURA YA KUMI NA SABA: Yeye ni mtetezi mkuu. Anatoa sala zake za utetezi wa ajabu kwa ajili ya kanisa.
+1. SURA YA KUMI NA NANE: Yeye ni mfano wa mtesekaji. Kwa utii anakinywea kikombe cha mateso kilichotiwa midomoni mwake kwa mkono wa Baba.
+1. SURA YA KUMI NA TISA: Yeye ni mwokozi aliyeinuliwa. Akawa mtiifu hata mauti,hata mauti ya msalaba.
+1. SURA YA ISHIRINI: Yeye ni mshindi wa juu ya kifo. Kama Kristo afufuka kutoka kaburini tunaona kwamba yeye anauwezo juu ya yule adui wa mwisho.
+1. SURA YA ISHIRINI NA MOJA: Yeye ni mrejeshaji wa malipo. Yeye anamkaribisha Petro mzuraji kumrudisha kwenye zizi na kumwagiza kulisha kondoo na wanakondoo.

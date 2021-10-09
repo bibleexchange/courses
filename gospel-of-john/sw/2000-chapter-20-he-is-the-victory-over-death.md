@@ -1,5 +1,4 @@
-Sura ya 20: Yeye ni mshindi dhidi ya Kifo
-=========================================
+# Sura ya 20: Yeye ni mshindi dhidi ya Kifo
 
 Lengo la injili ya yohana lilithibitishwa katika sura ya ishirini kama tunavtoona uthibitisho wa uungu wa Yesu kristo Bwana, kama mwokozi aliyefufuka. Ilikuwa ni jambo moja kwa mtu kumuinua mtu mwingine kutoka kwa wafu, ila ni jambo kubwa kuinuka mwenyewe kutoka nje ya kaburi.
 
@@ -15,8 +14,8 @@ Linganisha ufufuo aina mbili
 
 <table>
  <tr>
- <td>Lazaro</td>
- <td>Yesu</td>
+ <th>Lazaro</th>
+ <th>Yesu</th>
  </tr>
  <tr>
  <td>Yohana 11</td>
@@ -28,7 +27,7 @@ Linganisha ufufuo aina mbili
  </tr>
 </table>
 
-Hii siku ya mwisho/Kizazi cha Lazaro kinahitaji kusikia huu ujumbe kuwa sanda inahitajika kaburini. Ulimwengu na mambo ya mwili ni kwa mauti. Hupaswi kuleta sanda nje haihitajiki katika maisha yako. Usilete kanisani ishi maisha yaliyotengwa! 
+Hii siku ya mwisho/Kizazi cha Lazaro kinahitaji kusikia huu ujumbe kuwa sanda inahitajika kaburini. Ulimwengu na mambo ya mwili ni kwa mauti. Hupaswi kuleta sanda nje haihitajiki katika maisha yako. Usilete kanisani ishi maisha yaliyotengwa!
 
 Wanawake walikimbia kuwapasha wanafunzi habari nzuri. Tisa kati ya kumi na moja maneno yao yakaonekana kama upuzi kwao (Luka 24:9–12), lakini Petro Yohana aliondoka akaenda mbio kaburini na Mariamu Magdalena. Yohana aliyekuwa mdogo wa Petro, alifika kaburini kwanza na kutazama ndani, lakini hauingia ndani. Waliziona sanda palipokuwa pamelazwa mwili, ila hawakuwaona malaika waliozungumzwa na wale wanawake. Walirudi nyumbani, ila Mariamu Magdalena alisimama nche ya kaburi akilia.
 
@@ -38,7 +37,7 @@ Baada ya muda akisimama akilia, Mariamu akanyamaza na kulitazama kaburi labda ku
 
 Mariamu akageuka, kwasababu hakuweza kuwatazama na akamuona mtu amesimama katika bustani. Labda kwasababu macho yake yalipigwa upofu, au kwasababu ya machozi au hakutaka kumtazama usoni, Hakutambua kama huyo mtu ni Yesu, ila alifikiri alikuwa ni mtunzaji wa bustani. Yesu alimuuliza Mariamu kwa nini alikuwa analia na alikuwa anatafuta nini bustanini. Mariamu alifikiri labda huyo “mtunza bustani” alichukuwa mwili wa Yesu au labda alimuona aliyeuchukuwa mwili wa Yesu na kumuuliza ili aweze kuutunza mwili.
 
-Yesu kwa ufupi alijibu kwa kusema jina lake, na alifanya hivyo ili aweze kujua alikuwa nani. Alilia kwa sauti “Raboni” na kumkumbatia,  ila Yesu akamwambia usinishike kwa maana sijapaa kwenda kwa Baba. Alimwambia arudi kwa wanafunzi na kuwaeleza amemuona Yesu na mapema ataenda mbinguni.
+Yesu kwa ufupi alijibu kwa kusema jina lake, na alifanya hivyo ili aweze kujua alikuwa nani. Alilia kwa sauti “Raboni” na kumkumbatia, ila Yesu akamwambia usinishike kwa maana sijapaa kwenda kwa Baba. Alimwambia arudi kwa wanafunzi na kuwaeleza amemuona Yesu na mapema ataenda mbinguni.
 
 ## Yesu anawatokea wanafunzi (20:19-29)
 
@@ -57,6 +56,6 @@ Usisubiri kuona ndipo uamini! Mtu yeyote anaweza kuamini akiwa amejionea mwenyew
 ## Kusudi la injili ya Yohana (20:30, 31)
 
 - Kumthibitisha Yesu kama Mesia.
-- Kumuonyesha yeye kama mwokozi na mtoa uzima. 
+- Kumuonyesha yeye kama mwokozi na mtoa uzima.
 - Kuwafanya wanadamu wamwamini.
 - Kuwaonyesha wote wamwaminio kuwa wana uzima wa milele.
