@@ -1,56 +1,15 @@
+# SOS 1:9-11 Characteristics, Beauty and Crowning of the Bride
 
-<html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title>Text Song 1:1 The song of songs, which is Solomon's</title>
-	<meta name="generator" content="LibreOffice 5.1.6.2 (Linux)"/>
-	<meta name="author" content="Stephen G. Reynolds, Jr."/>
-	<meta name="created" content="2007-05-12T19:49:00"/>
-	<meta name="changedby" content="Stephen G. Reynolds, Jr."/>
-	<meta name="changed" content="2007-05-16T17:56:00"/>
-	<style type="text/css">
-		@page { margin-right: 1.25in; margin-top: 0.5in; margin-bottom: 0.5in }
-		p { margin-bottom: 0in; direction: ltr; color: #000000; orphans: 2; widows: 2 }
-		p.western { font-family: "Times New Roman", serif; font-size: 14pt; so-language: en-US }
-		p.cjk { font-family: "Times New Roman", serif; font-size: 14pt }
-		p.ctl { font-family: "Times New Roman", serif; font-size: 10pt; so-language: ar-SA }
-	</style>
-</head>
-<body lang="en-US" text="#000000" dir="ltr">
-<div title="header">
-	<p align="center"><font size="3" style="font-size: 12pt"><font color="#808080"><font face="ParkAvenue BT, cursive"><font size="5" style="font-size: 20pt"><b>Song
-	of Solomon </b></font></font></font><font color="#808080"><font face="ParkAvenue BT, cursive"><font size="5" style="font-size: 20pt"><b>Lesson
-	8</b></font></font></font></font></p>
-	<p align="center" style="margin-bottom: 0.46in"><font color="#808080">&mdash;<font face="Baskerville Old Face, serif"><font size="4" style="font-size: 14pt"><b>The
-	Characteristics, Beauty &amp; Crowning of the Bride&mdash;</b></font></font></font></p>
-</div>
-<p align="center"><br/>
+Preached: November 29, 1978 by James R. Reynolds, Sr.
 
-</p>
-<p class="western" align="center"><font face="Arial, sans-serif"><font size="4" style="font-size: 14pt"><i>I
-have compared thee, O my love, to a company of </i></font></font>
-</p>
-<p class="western" align="center"><font face="Arial, sans-serif"><font size="4" style="font-size: 14pt"><i>horses
-in Pharaoh's chariots.Thy cheeks are </i></font></font>
-</p>
-<p class="western" align="center"><font face="Arial, sans-serif"><font size="4" style="font-size: 14pt"><i>comely
-with rows of jewels, thy neck with chains of gold. </i></font></font>
-</p>
-<p class="western" align="center"><font face="Arial, sans-serif"><font size="4" style="font-size: 14pt"><i>We
-will make thee borders of gold with studs of silver.</i></font></font></p>
-<p class="western" align="center"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">Song
-of Solomon 1:9-11</font></font></p>
-<p><br/>
+&nbsp;
 
-</p>
-<ol type="I">
-	<li/>
-<p class="western"><font face="Arial, sans-serif"><font size="4" style="font-size: 14pt">The
-	Characteristics of the Bride</font></font></p>
-</ol>
-<p class="western" style="margin-left: 0.5in; text-indent: 0.25in"><br/>
+[recording lost]
 
-</p>
+> Song of Solomon 1:9-11 &mdash; I have compared thee, O my love, to a company of horses in Pharaoh's chariots. 10 Thy cheeks are comely with rows of jewels, thy neck with chains of gold. 11 We will make thee borders of gold with studs of silver.
+
+## I. The Characteristics of the Bride
+
 <p class="western" style="margin-left: 0.75in"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b>Song
 of Solomon 1:9 </b></font></font>
 </p>
@@ -141,30 +100,9 @@ to keep the unity of the Spirit in the bond of peace.</font></font></p>
 we all come in the unity of the faith, and of the knowledge of the
 Son of God, unto a perfect man, unto the measure of the stature of
 the fulness of Christ:</font></font></p>
-<p class="western" style="margin-left: 0.75in; margin-right: 0.5in; text-indent: 0.25in">
-<br/>
 
-</p>
-<p class="western" style="margin-left: 0.75in; margin-right: 0.5in; text-indent: 0.25in">
-<br/>
+## II. The Beauty of the Bride
 
-</p>
-<p class="western" style="margin-left: 0.75in; margin-right: 0.5in; text-indent: 0.25in">
-<br/>
-
-</p>
-<p class="western" style="margin-left: 0.75in; margin-right: 0.5in; text-indent: 0.25in">
-<br/>
-
-</p>
-<ol type="I" start="2">
-	<li/>
-<p class="western"><font face="Arial, sans-serif"><font size="4" style="font-size: 14pt">The
-	Beauty of the Bride</font></font></p>
-</ol>
-<p class="western" style="margin-left: 0.5in; text-indent: -0.5in"><br/>
-
-</p>
 <p class="western" style="margin-left: 0.75in"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b>Song
 of Solomon 1:10 </b></font></font>
 </p>
@@ -258,37 +196,16 @@ Peter 1:4 </b></font></font>
 are given unto us exceeding great and precious promises: that by
 these ye might be partakers of the divine nature, having escaped the
 corruption that is in the world through lust.</font></font></p>
-<p><br/>
 
-</p>
-<ol type="I" start="3">
-	<li/>
-<p class="western"><font face="Arial, sans-serif"><font size="4" style="font-size: 14pt">The
-	Crowning of the Bride</font></font></p>
-</ol>
-<p class="western"><br/>
 
-</p>
+## III. The Crowning of the Bride
+
 <p class="western" style="margin-left: 0.75in"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b>Song
 of Solomon 1:11</b></font></font></p>
 <p class="western" style="margin-left: 0.75in; text-indent: 0.25in">
 <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">We
 will make thee borders of gold with studs of silver.</font></font></p>
-<p class="western"><br/>
 
-</p>
-<p class="western"><br/>
-
-</p>
-<p class="western"><br/>
-
-</p>
-<p class="western"><br/>
-
-</p>
-<p class="western"><br/>
-
-</p>
 <ol type="I">
 	<ol type="A">
 		<li/>
@@ -652,9 +569,3 @@ devil takes our crown by hindering our faith. Everything we get from
 God is through faith. There are going to be some that won&apos;t hold
 on. You have got to get a hold of it first and then hold on to it! </font></font>
 </p>
-<div title="footer">
-	<p align="center" style="margin-top: 0.46in"><font size="3" style="font-size: 12pt">Page
-	<sdfield type=PAGE subtype=RANDOM format=PAGE>6</sdfield> of <sdfield type=DOCSTAT subtype=PAGE format=ARABIC>6</sdfield></font></p>
-</div>
-</body>
-</html>

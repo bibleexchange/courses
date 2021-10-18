@@ -1,60 +1,18 @@
+# SOS 1:7 From the Uttermost to Uttermost
 
-<html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title>Text Song 1:1 The song of songs, which is Solomon's</title>
-	<meta name="generator" content="LibreOffice 5.1.6.2 (Linux)"/>
-	<meta name="author" content="Stephen G. Reynolds, Jr."/>
-	<meta name="created" content="2007-05-03T19:57:00"/>
-	<meta name="changedby" content="Stephen G. Reynolds, Jr."/>
-	<meta name="changed" content="2007-05-03T20:21:00"/>
-	<style type="text/css">
-		@page { margin-right: 1.25in; margin-top: 0.5in; margin-bottom: 0.5in }
-		p { margin-bottom: 0in; direction: ltr; color: #000000; orphans: 2; widows: 2 }
-		p.western { font-family: "Times New Roman", serif; font-size: 14pt; so-language: en-US }
-		p.cjk { font-family: "Times New Roman", serif; font-size: 14pt }
-		p.ctl { font-family: "Times New Roman", serif; font-size: 10pt; so-language: ar-SA }
-	</style>
-</head>
-<body lang="en-US" text="#000000" dir="ltr">
-<div title="header">
-	<p align="center"><font size="3" style="font-size: 12pt"><font color="#808080"><font face="ParkAvenue BT, cursive"><font size="5" style="font-size: 20pt"><b>Song
-	of Solomon </b></font></font></font><font color="#808080"><font face="ParkAvenue BT, cursive"><font size="5" style="font-size: 20pt"><b>Lesson
-	6</b></font></font></font></font></p>
-	<p align="center" style="margin-bottom: 0.46in"><font color="#808080">&mdash;
-	<font face="Baskerville Old Face, serif"><font size="4" style="font-size: 14pt"><b>From
-	the Uttermost to Uttermost &mdash;</b></font></font></font></p>
-</div>
-<p align="center"><br/>
+Preached: November 15, 1978 by James R. Reynolds, Sr.
 
-</p>
-<p class="western" align="center"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">Tell
-me, O thou whom my soul loveth, where thou feedest, where thou </font></font>
-</p>
-<p class="western" align="center"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">makest
-thy flock to rest at noon: for why should I be as one that </font></font>
-</p>
-<p class="western" align="center"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">turneth
-aside by the flocks of thy companions?</font></font></p>
-<p class="western" align="center"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b>Song
-of Solomon 1:7</b></font></font></p>
-<p><br/>
+&nbsp;
 
-</p>
-<p><font face="Arial, sans-serif"><font size="4" style="font-size: 14pt"><b>INTRODUCTION</b></font></font></p>
-<p style="margin-left: 0.75in; margin-right: 0.5in; text-indent: 0.25in">
-<br/>
+<iframe src="https://archive.org/embed/song-of-solomon-study/19781115.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-</p>
-<p class="western" style="text-indent: 0.5in"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">When
-we relax it is so easy to make excuse. &quot;they made me the keeper of
-the vineyards;&quot; It is because we REALLY are not that enthused about
-it and therefore we are caught neglecting our vineyard. Be as busy as
-you can, but do not neglect your own. Never use the excuse, &quot;I was
-so busy helping others, I did not have time to take care of my own.&quot;</font></font></p>
-<p class="western"><br/>
+> Song of Solomon 1:7 &mdash; Tell me, O thou whom my soul loveth, where thou feedest, where thou makest thy flock to rest at noon: for why should I be as one that turneth
+aside by the flocks of thy companions?
 
-</p>
+## INTRODUCTION
+
+When we relax it is so easy to make excuse. &quot;they made me the keeper of the vineyards;&quot; It is because we REALLY are not that enthused about it and therefore we are caught neglecting our vineyard. Be as busy as you can, but do not neglect your own. Never use the excuse, &quot;I was so busy helping others, I did not have time to take care of my own.&quot;
+
 <p class="western" style="text-indent: 0.5in"><font size="3" style="font-size: 12pt"><font face="Arial, sans-serif"><i>From
 Her uttermost to His Uttermost</i></font><font face="Arial, sans-serif">.
 The little bride finds herself longing, hungering, thirsting to be
@@ -68,18 +26,9 @@ yet come to the place where she is enjoying what her heart longs for.</font></fo
 <p class="western" style="text-indent: 0.25in"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">There
 is a vast difference between those that hunger and those that are
 unconcerned. There are multitudes of people that are unconcerned.</font></font></p>
-<p><br/>
 
-</p>
-<ol type="I">
-	<li/>
-<p class="western"><font face="Arial, sans-serif"><font size="4" style="font-size: 14pt"><b>In
-	the Title Employed</b></font></font></p>
-</ol>
-<p class="western" align="center" style="margin-left: 0.75in; margin-right: 0.5in">
-<br/>
+## I. In the Title Employed
 
-</p>
 <ol type="I">
 	<ol type="A">
 		<li/>
@@ -530,18 +479,9 @@ where thou hast laid him, and I will take him away.</b></u></font></font></p>
 <p style="text-indent: 0.5in"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">If
 it is something that you have to put on, it will not last long.
 &quot;Where is He?&quot;</font></font></p>
-<p class="western" style="text-indent: 0.5in"><br/>
 
-</p>
-<ol type="I" start="2">
-	<li/>
-<p class="western"><font face="Arial, sans-serif"><font size="4" style="font-size: 14pt"><b>In
-	the Opinion Expressed </b></font></font>
-	</p>
-</ol>
-<p class="western" style="margin-left: 0.25in"><br/>
+## II. In the Opinion Expressed 
 
-</p>
 <p class="western" style="margin-left: 0.75in"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b>Song
 of Solomon 1:7a</b></font></font></p>
 <p class="western" style="margin-left: 0.75in; text-indent: 0.25in"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">Tell
@@ -719,24 +659,11 @@ more than it was wont to be heated</b>.</font></font></p>
 <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">And
 ye shall seek me, and find me, when ye shall search for me with all
 your heart.</font></font></p>
-<p class="western" style="margin-right: 0.5in"><br/>
 
-</p>
-<p class="western" style="margin-right: 0.5in"><font face="Arial, sans-serif"><font size="4" style="font-size: 14pt"><b>III.
-In the Intensity of Her Request</b></font></font></p>
-<p class="western" style="margin-left: 0.75in; margin-right: 0.5in"><br/>
+## III. In the Intensity of Her Request
 
-</p>
-<p style="margin-left: 0.75in; margin-right: 0.5in; page-break-after: avoid">
-<font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b>Song
-of Solomon 1:7b</b></font></font></p>
-<p class="western" style="margin-left: 0.75in; margin-right: 0.5in; text-indent: 0.25in">
-&hellip;<font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">for
-why should I be as one that turneth aside by the flocks of thy
-companions?</font></font></p>
-<p class="western" style="margin-right: 0.5in"><br/>
+> Song of Solomon 1:7b &mdash; &hellip; for why should I be as one that turneth aside by the flocks of thy companions?<
 
-</p>
 <ol type="A">
 	<li/>
 <p class="western" style="margin-right: 0.5in"><font face="Arial, sans-serif"><font size="4" style="font-size: 14pt"><b>Her
@@ -754,7 +681,6 @@ why should I be</font><font face="Arial, sans-serif"><b> as one that
 turneth aside</b></font><font face="Arial, sans-serif"> by the flocks
 of thy companions?</font></font></p>
 <p class="western" style="margin-right: 0.5in; text-indent: 0.5in"><br/>
-
 </p>
 <p class="western" style="margin-right: 0.5in; text-indent: 0.5in"><br/>
 
@@ -799,12 +725,3 @@ week without prayer makes one weak.&quot;</font></font></p>
 <p class="western" style="margin-right: 0.5in"><font face="Arial, sans-serif"><font size="4" style="font-size: 14pt"><b>Her
 	Unwavering Confidence</b></font></font></p>
 </ol>
-<p class="western" style="margin-right: 0.5in"><br/>
-
-</p>
-<div title="footer">
-	<p align="center" style="margin-top: 0.46in"><font size="3" style="font-size: 12pt">Page
-	<sdfield type=PAGE subtype=RANDOM format=PAGE>8</sdfield> of <sdfield type=DOCSTAT subtype=PAGE format=ARABIC>8</sdfield></font></p>
-</div>
-</body>
-</html>

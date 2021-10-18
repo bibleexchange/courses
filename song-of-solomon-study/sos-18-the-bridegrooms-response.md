@@ -1,55 +1,17 @@
+# SOS 1:8 The Bridegroom's Response
 
-<html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title>Text Song 1:1 The song of songs, which is Solomon's</title>
-	<meta name="generator" content="LibreOffice 5.1.6.2 (Linux)"/>
-	<meta name="author" content="Stephen G. Reynolds, Jr."/>
-	<meta name="created" content="2007-05-05T15:55:00"/>
-	<meta name="changedby" content="Stephen G. Reynolds, Jr."/>
-	<meta name="changed" content="2007-05-08T12:00:00"/>
-	<style type="text/css">
-		@page { margin-right: 1.25in; margin-top: 0.5in; margin-bottom: 0.5in }
-		p { margin-bottom: 0in; direction: ltr; color: #000000; orphans: 2; widows: 2 }
-		p.western { font-family: "Times New Roman", serif; font-size: 14pt; so-language: en-US }
-		p.cjk { font-family: "Times New Roman", serif; font-size: 14pt }
-		p.ctl { font-family: "Times New Roman", serif; font-size: 10pt; so-language: ar-SA }
-	</style>
-</head>
-<body lang="en-US" text="#000000" dir="ltr">
-<div title="header">
-	<p align="center"><font size="3" style="font-size: 12pt"><font color="#808080"><font face="ParkAvenue BT, cursive"><font size="5" style="font-size: 20pt"><b>Song
-	of Solomon </b></font></font></font><font color="#808080"><font face="ParkAvenue BT, cursive"><font size="5" style="font-size: 20pt"><b>Lesson
-	7</b></font></font></font></font></p>
-	<p align="center" style="margin-bottom: 0.46in"><font color="#808080">&mdash;
-	<font face="Baskerville Old Face, serif"><font size="4" style="font-size: 14pt"><b>The
-	Bridegroom&apos;s Response &mdash;</b></font></font></font></p>
-</div>
-<p align="center"><br/>
+Preached: November 22, 1978 by James R. Reynolds, Sr.
 
-</p>
-<p class="western" align="center"><font face="Arial, sans-serif"><font size="4" style="font-size: 14pt"><i>If
-thou know not, O thou fairest among women, go thy </i></font></font>
-</p>
-<p class="western" align="center"><font face="Arial, sans-serif"><font size="4" style="font-size: 14pt"><i>way
-forth by the footsteps of the flock, and feed</i></font></font></p>
-<p class="western" align="center"> <font face="Arial, sans-serif"><font size="4" style="font-size: 14pt"><i>thy
-kids beside the shepherds' tents..</i></font></font></p>
-<p class="western" align="center"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">Song
-of Solomon 1:3</font></font></p>
-<p><br/>
+&nbsp;
 
-</p>
-<p><font face="Arial, sans-serif"><font size="4" style="font-size: 14pt">INTRODUCTION</font></font></p>
-<p style="margin-left: 0.5in; text-indent: -0.5in"><br/>
+<iframe src="https://archive.org/embed/song-of-solomon-study/19781122.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-</p>
-<p style="margin-left: 0.5in; text-indent: -0.5in"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">She
-has been calling out to him, seeking after him, and longing for him.
-She desires to be near him.</font></font></p>
-<p style="margin-left: 0.75in; margin-right: 0.5in"><br/>
+> Song of Solomon 1:8 &mdash; If thou know not, O thou fairest among women, go thy way forth by the footsteps of the flock, and feed thy kids beside the shepherds' tents.
 
-</p>
+## INTRODUCTION
+
+She has been calling out to him, seeking after him, and longing for him. She desires to be near him.
+
 <p style="margin-left: 0.75in; margin-right: 0.5in"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b>Song
 of Solomon 1:7 </b></font></font>
 </p>
