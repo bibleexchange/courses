@@ -1,0 +1,57 @@
+//CREATE column `subtitle` to `courses` and insert subtitle info for courses
+
+
+//restructure database as like png in this directory !!!!
+
+//REPLACE #number with correct sectionId
+
+INSERT INTO `dbi`.`courses_sections` (`SectionId`, `SectionTitle`, `swaSectionTitle`, `SectionSummary`, `SectionCoursesId`, `SectionOrder`) VALUES 
+(NULL, 'Front', 'Mbele', NULL, '22', '1'),	
+(NULL, '1 Thessalonians', '1 Wathesalonike', NULL, '22', '2'),	
+(NULL, '2 Thessalonians', '2 Wathesalonike', NULL, '22', '3'),		
+(NULL, '1 Timothy', '1 Timotheo', NULL, '22', '4'),
+(NULL, '2 Timothy', '2 Timotheo', NULL, '22', '5'),
+(NULL, 'Titus', 'Tito', NULL, '22', '6'),
+(NULL, 'Philemon', 'Philimon', NULL, '22', '7');
+
+INSERT INTO `dbi`.`course_document_list` (`cdl_id`, `course_section_id`, `file_name`, `swa_file_name`, `file_type`, `order`) VALUES 
+(NULL, '#50', 'Cover', 'Jalada', 'html', '1'),
+(NULL, '#50', 'Introduction to Epistles 2', 'Utangulizi kwa Nyaraka 2', 'html', '2'),
+(NULL, '#51', 'Introduction to 1 Thessalonians', 'Utangulizi kwa 1 Wathesalonike', 'html', '1'),
+(NULL, '#51', 'Personal Relations to the Thessalonians', 'Mahusiano binafisi kwa Wathesalonike', 'html', '2'),
+(NULL, '#51', 'Practical Instructions in Doctrine and Life', 'Maelekezo ya kimatendo katika mafundisho na maisha', 'html', '3'),
+(NULL, '#51', '1 Thessalonians Study Questions', '1 Wathes  maswali ya kujifunza', 'html', '4'),
+(NULL, '#51', '1 Thessalonians Quiz', '1 Wathes maswali ya kujifunza', 'html', '5'),
+(NULL, '#52', 'Introduction to 2 Thessalonians', 'Utangulizi kwa 2 Wathesalonike', 'html', '1'),
+(NULL, '#52', 'The Name of the Lord Jesus Christ Glorified', 'Jina la Bwana Yesu Kristo litukuzwe', 'html', '2'),
+(NULL, '#52', 'Instructions Regarding the Day of the Lord', 'Maelezo kuhusu siku ya Bwana', 'html', '3'),
+(NULL, '#52', 'Exhortations Regarding Proper Conduct', 'Wosia kuhusu tabia maalumu', 'html', '4'),
+(NULL, '#52', '2 Thessalonians Study Questions', '2 Wathes  maswali ya kujifunza', 'html', '5'),
+(NULL, '#52', '2 Thessalonians Quiz', '2 Wathes maswali ya kujifunza', 'html', '6'),
+(NULL, '#53', 'Introduction to 1 Timothy', 'Utangulizi kwa 1 Timotheo', 'html', '1'),
+(NULL, '#53', 'Sound Doctrine in the Church', 'Mafundisho yenye hadhari katika Kanisa', 'html', '2'),
+(NULL, '#53', 'True Worship Good Minister and Proper Discipline', 'Ibada ya kweli katika Kanisa', 'html', '3'),
+(NULL, '#53', 'A Good Minister in the Church', 'Mhudumu mwema katika Kanisa', 'html', '4'),
+(NULL, '#53', 'Proper Discipline in the Church', 'Nidhamu maalum kanisa', 'html', '5'),
+(NULL, '#53', '1 Timothy Study Questions', '1 Timotheo  maswali ya kujifunza', 'html', '6'),
+(NULL, '#53', '1 Timothy Quiz', '1 Timotheo maswali ya kujifunza', 'html', '7'),
+(NULL, '#54', 'Introduction to 2 Timothy', 'Utangulizi kwa 2 Timotheo', 'html', '1'),
+(NULL, '#54', 'The Loyalty of Paul', 'Uaminifu wa Paulo', 'html', '2'),
+(NULL, '#54', 'The Loyalty of Timothy', 'Uaminifu wa Timotheo', 'html', '3'),
+(NULL, '#54', 'The Loyalty of Servants', 'Uaminifu wa watumishi', 'html', '4'),
+(NULL, '#54', 'Loyalty in Service for the Lord', 'Uaminifu katika utumishi kwa ajili ya Bwana', 'html', '5'),
+(NULL, '#54', 'Loyalty in Certain Members of the Church', 'Uaminifu kwa washirika wa hakika wa kanisa', 'html', '6'),
+(NULL, '#54', 'blank2 Timothy Study Questions', '2 Timotheo  maswali ya kujifunza', 'html', '7'),
+(NULL, '#54', 'blank2 Timothy Quiz', '2 Timotheo maswali ya kujifunza', 'html', '8'),
+(NULL, '#55', 'Introduction to Titus', 'Utangulizi kwa Tito', 'html', '1'),
+(NULL, '#55', 'Instruction for Church Leaders', 'Maelekezo kwa ajili ya viongozi wa Kanisa', 'html', '2'),
+(NULL, '#55', 'Instruction for Church Members', 'Maelekezo kwa ajili ya washirika wa Kanisa', 'html', '3'),
+(NULL, '#55', 'Instruction for Titus', 'Maelekezo kwa ajili ya Tito', 'html', '4'),
+(NULL, '#55', 'Titus Study Questions', 'Tito  maswali ya kujifunza', 'html', '5'),
+(NULL, '#55', 'Titus Quiz', 'Tito maswali ya kujifunza', 'html', '6'),
+(NULL, '#56', 'Introduction to Philemon', 'Utangulizi kwa Filimoni', 'html', '1'),
+(NULL, '#56', 'A Challenge to be a Servant like Jesus Was', 'Kwa ajili ya upekee wa somo hili&#564;tuta angalia kwa njia ya pili ya kudondoa barua hii.', 'html', '2'),
+(NULL, '#56', 'Four Wonderful Blessings of Practical Christianity', 'Baraka nne za ajabu za ukristo wa matendo', 'html', '3'),
+(NULL, '#56', 'The Message of End Time Deliverance', 'Ujumbe wa ukombozi wa wakati wa mwisho', 'html', '4'),
+(NULL, '#56', 'blankPhilemon Study Questions', 'Filimoni  maswali ya kujifunza', 'html', '5'),
+(NULL, '#56', 'blankPhilemon Quiz', 'Filimoni maswali ya kujifunza', 'html', '6');

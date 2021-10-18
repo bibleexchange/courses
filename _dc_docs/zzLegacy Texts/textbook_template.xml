@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<document>
+<div class='division' id='s0'>
+	<div class='chapter' id='title'>
+		<image id='coverEagle' alt='frontCover' src='images/eagle.png' />
+		<text id='' class='h4'><eng>First Year</eng><swa>MWAKA WA KWANZA</swa></text>
+		<text id='' class='h4'><eng>TEXTBOOK</eng><swa>KITABU CHAKIADA</swa></text>
+		<text id='' class='h1'><eng>-- COURSE TITLE--</eng><swa/></text>
+		<text id='' class='h2'><eng>--SUBTITLE--</eng><swa/></text>
+		<text id='' class='h3'><eng>DELIVERANCE BIBLE INSTITUTE of MOSHI</eng><swa>CHUOCHA BIBLIA NA WOKOVU CHA MOSHI</swa></text>
+		<text id='' class='h4'><eng>Moshi&#44; Kilimanjaro&#44; Tanzania</eng><swa>Moshi&#44; Kilimanjro&#44;   Tanzania</swa></text>
+		<text id='' class='h3'><eng>DELIVERANCE BIBLE INSTITUTE</eng><swa>CHUO CHABIBLIA NA WOKOVU</swa></text>
+		<text id='' class='h4'><eng>Portland&#44; Maine&#44; USA</eng><swa>Portland&#44; Maine. Amerika</swa></text>
+	</div>
+	
+	<div class='chapter' id='toc' >
+		<text id='' class='h1'><eng>Table of Contents</eng><swa/></text>
+		
+		<text id='' class='h3'><a url='title' ><eng>Title</eng><swa/></a></text>
+		<text id='' class='h2'><a url='s1c1' ><eng></eng><swa/></a></text>
+			<text id='' class='h3'><a url='s1c2' ><eng></eng><swa/></a></text>
+			<text id='' class='h3'><a url='s1c3' ><eng></eng><swa/></a></text>
+			<text id='' class='h3'><a url='s1c4' ><eng>Chapter 1 Study Questions</eng><swa/></a></text>
+			
+		<text id='' class='h2'><a url='s2c1' ><eng></eng><swa/></a></text>
+			<text id='' class='h3'><a url='s2c2' ><eng></eng><swa/></a></text>
+			<text id='' class='h3'><a url='s2c3' ><eng></eng><swa/></a></text>
+			<text id='' class='h3'><a url='s2c4' ><eng></eng><swa/></a></text>
+			
+			<text id='' class='h2'>
+				<eng>4 MORE CHAPTERS TO COME SOON!</eng>
+				<swa/>
+			</text>
+	</div>
+</div>
+<div class='division' id='s1'>
+	<div class='chapter' id='s1c1'><!--TOC for Chapter-->
+		<text id='' class='h1'><eng>Chapter 1 Sections</eng><swa/></text>
+		<text id='' class='h2'><eng>Chapter 1 Sections</eng><swa/></text>
+		<text id='' class='h2'><eng>Chapter 1 Sections</eng><swa/></text>
+		<text id='' class='h2'><eng>Chapter 1 Sections</eng><swa/></text>
+		<text id='' class='h2'><eng>Chapter 1 Study Questions</eng><swa/></text>
+	</div>
+	<div class='chapter' id='s1c2'>
+		<text id='' class='h1'><eng>Introduction: Co</eng><swa/></text>
+		<video id='bi_intro' src='http://www.youtube.com/embed/Fl93meXHfOc' />
+		<text id='' class='h2'><eng>Course Description</eng><swa/></text>
+		<text id='' class='p'><eng>As we </eng><swa/></text>
+	</div>
+	<div class='chapter' id='s1c3'>
+		<text id='' class='h1'><eng>The Bible Is... &amp; Names of the Bible</eng><swa/></text>
+		<video id='bi_intro' src='http://www.youtube.com/embed/iGYWRgGjhyE' />
+		<text id='' class='h2'><eng>The Bible Is...</eng><swa/></text>
+	</div>
+	<div class='chapter' id='s1c11'>
+		<div class='questions-page'>
+			<text id='' class='h1'><eng></eng><swa/></text>
+			<text id='' class='h2'><eng></eng><swa/></text>
+			<text id='' class='h3'><eng></eng><swa/></text>
+		</div>
+	</div>
+</div>
+
+</document>

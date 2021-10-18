@@ -1,0 +1,57 @@
+IMG.dicthdr {
+	BORDER-TOP-WIDTH: 0px; CLEAR: right; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 90px; BORDER-RIGHT-WIDTH: 0px
+}
+DIV.dicttopcommons {
+	MARGIN-TOP: 10px; HEIGHT: 375px
+}
+P.writtenby {
+	FONT-SIZE: 10px; MARGIN-BOTTOM: 20px
+}
+DIV.sectionbox {
+	FLOAT: right; MARGIN-LEFT: 10px; WIDTH: 190px; BACKGROUND-COLOR: #ffffff
+}
+DIV.sectionindxtitle {
+	BORDER-RIGHT: 3px ridge; PADDING-RIGHT: 5px; BORDER-TOP: 3px ridge; PADDING-LEFT: 5px; FONT-WEIGHT: bold; PADDING-BOTTOM: 5px; BORDER-LEFT: 3px ridge; COLOR: #cccc66; PADDING-TOP: 5px; BORDER-BOTTOM: 3px ridge; BACKGROUND-COLOR: navy; TEXT-ALIGN: center
+}
+BODY {
+	BACKGROUND-IMAGE: url(http://ChristianAnswers.Net/bkd-bluelines.gif); FONT-FAMILY: Arial, Helvetica, Swiss, Geneva, sans-serif
+}
+UL.indexlist {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 5px; PADDING-TOP: 0px
+}
+LI.indexlist {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 6px; COLOR: black; PADDING-TOP: 0px; LIST-STYLE-TYPE: square
+}
+LI.index {
+	FONT-SIZE: 85%; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000
+}
+DT {
+	FONT-SIZE: 14px; LINE-HEIGHT: 140%
+}
+H3 {
+	FONT-SIZE: 48px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: blue; FONT-FAMILY: Times,"Times New Roman",serif
+}
+H3.subindex {
+	FONT-SIZE: 30px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000099; FONT-FAMILY: "Times New Roman", Times, serif
+}
+H4 {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: gray
+}
+.sectiontitle {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000099
+}
+A:link {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: blue; TEXT-DECORATION: none
+}
+A:visited {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: purple; TEXT-DECORATION: none
+}
+A:active {
+	BACKGROUND: #ffffcc; COLOR: #ff9900; TEXT-DECORATION: none
+}
+A:hover {
+	BACKGROUND: #f8dc00; COLOR: #ff0000; TEXT-DECORATION: underline
+}
+#next {
+	FONT-WEIGHT: bold; FONT-SIZE: 200%; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: blue; LINE-HEIGHT: 140%; FONT-FAMILY: Times, "Times New Roman", serif; TEXT-ALIGN: right
+}

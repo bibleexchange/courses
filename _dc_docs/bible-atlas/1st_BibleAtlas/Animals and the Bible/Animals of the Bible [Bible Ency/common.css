@@ -1,0 +1,255 @@
+.center {
+	TEXT-ALIGN: center
+}
+.right {
+	TEXT-ALIGN: right
+}
+.italic {
+	FONT-STYLE: italic
+}
+.bold {
+	FONT-WEIGHT: bold
+}
+SUP {
+	VERTICAL-ALIGN: baseline; LINE-HEIGHT: 1px; POSITION: relative; _vertical-align: bottom
+}
+SUB {
+	VERTICAL-ALIGN: baseline; LINE-HEIGHT: 1px; POSITION: relative; _vertical-align: bottom
+}
+SUP {
+	FONT-SIZE: xx-small; BOTTOM: 1ex
+}
+SUB {
+	FONT-SIZE: xx-small; TOP: 0.5ex
+}
+.highlight {
+	BACKGROUND-IMAGE: none; BACKGROUND-COLOR: #ffff99
+}
+IMG.captioned {
+	MARGIN-BOTTOM: 5px
+}
+IMG.validcss {
+	WIDTH: 88px; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 31px; BORDER-BOTTOM-STYLE: none
+}
+IMG.validxhtml-1trans {
+	WIDTH: 88px; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 31px; BORDER-BOTTOM-STYLE: none
+}
+IMG.shadowedpic {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 0px; PADDING-BOTTOM: 7px; PADDING-TOP: 0px
+}
+DIV.shadow3 {
+	DISPLAY: block
+}
+DIV.shadow3 DIV {
+	DISPLAY: block
+}
+DIV.shadow3 DIV DIV {
+	DISPLAY: block
+}
+DIV.shadow3 {
+	BACKGROUND: url(/sharedimages/shadows/shadow.gif) no-repeat right bottom; FLOAT: left
+}
+DIV.shadow3 DIV {
+	BACKGROUND: url(/sharedimages/shadows/corner_bl.gif) no-repeat -16px 100%
+}
+DIV.shadow3 DIV DIV {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 0px; BACKGROUND: url(/sharedimages/shadows/corner_tr.gif) no-repeat 100% -16px; PADDING-BOTTOM: 8px; PADDING-TOP: 0px
+}
+DIV.shadow3 DIV DIV IMG {
+	DISPLAY: block
+}
+DIV.shadowleft {
+	DISPLAY: block
+}
+DIV.shadowleft DIV {
+	DISPLAY: block
+}
+DIV.shadowleft DIV DIV {
+	DISPLAY: block
+}
+DIV.shadowleft {
+	BACKGROUND: url(/sharedimages/shadows/shadow.gif) no-repeat right bottom; FLOAT: left
+}
+DIV.shadowleft DIV {
+	BACKGROUND: url(/sharedimages/shadows/corner_bl.gif) no-repeat -16px 100%
+}
+DIV.shadowleft DIV DIV {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 0px; BACKGROUND: url(/sharedimages/shadows/corner_tr.gif) no-repeat 100% -16px; PADDING-BOTTOM: 8px; PADDING-TOP: 0px
+}
+DIV.shadowleft DIV DIV IMG {
+	DISPLAY: block
+}
+DIV.shadowright {
+	DISPLAY: block
+}
+DIV.shadowright DIV {
+	DISPLAY: block
+}
+DIV.shadowright DIV DIV {
+	DISPLAY: block
+}
+DIV.shadowright {
+	BACKGROUND: url(/sharedimages/shadows/shadow.gif) no-repeat right bottom; FLOAT: right; MARGIN-LEFT: 15px
+}
+DIV.shadowright DIV {
+	BACKGROUND: url(/sharedimages/shadows/corner_bl.gif) no-repeat -16px 100%
+}
+DIV.shadowright DIV DIV {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 0px; BACKGROUND: url(/sharedimages/shadows/corner_tr.gif) no-repeat 100% -16px; PADDING-BOTTOM: 8px; PADDING-TOP: 0px
+}
+DIV.shadowright DIV DIV IMG {
+	DISPLAY: block
+}
+IMG.spacer206 {
+	WIDTH: 206px; HEIGHT: 10px
+}
+UL.bulleta LI {
+	LIST-STYLE-IMAGE: url(http://ChristianAnswers.Net/a.gif); MARGIN-BOTTOM: 2%
+}
+UL.orangebullet LI {
+	LIST-STYLE-IMAGE: url(http://ChristianAnswers.Net/bullet-lightbrown.gif); MARGIN-BOTTOM: 2%
+}
+DIV.breadcrumbs {
+	FONT-SIZE: 70%; MARGIN: 0px 0px 10px
+}
+HR {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid
+}
+IMG.goldbar {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 100%; PADDING-TOP: 0px; HEIGHT: 9px
+}
+.pagewrapper {
+	LEFT: 50%; VISIBILITY: visible; POSITION: relative; TOP: 10px
+}
+.pagewrapper576 {
+	LEFT: 50%; VISIBILITY: visible; MARGIN-LEFT: -288px; WIDTH: 576px; POSITION: relative; TOP: 10px
+}
+.pagewrapper594 {
+	LEFT: 50%; VISIBILITY: visible; MARGIN-LEFT: -297px; WIDTH: 594px; POSITION: relative; TOP: 10px
+}
+.pagewrapper600 {
+	LEFT: 50%; VISIBILITY: visible; MARGIN-LEFT: -300px; WIDTH: 600px; POSITION: relative
+}
+.pagewrapper640 {
+	LEFT: 50%; VISIBILITY: visible; MARGIN-LEFT: -320px; WIDTH: 640px; POSITION: relative; TOP: 10px
+}
+.pagewrapper700 {
+	LEFT: 50%; VISIBILITY: visible; MARGIN-LEFT: -350px; WIDTH: 700px; POSITION: relative; TOP: 10px
+}
+.pagewrapper716 {
+	LEFT: 50%; VISIBILITY: visible; MARGIN-LEFT: -358px; WIDTH: 716px; POSITION: relative; TOP: 10px
+}
+.pagewrapper720 {
+	LEFT: 50%; VISIBILITY: visible; MARGIN-LEFT: -360px; WIDTH: 720px; POSITION: relative; TOP: 0px
+}
+.pagewrapper750 {
+	LEFT: 50%; VISIBILITY: visible; MARGIN-LEFT: -375px; WIDTH: 750px; POSITION: relative; TOP: 10px
+}
+.pagewrapper760 {
+	LEFT: 50%; VISIBILITY: visible; MARGIN-LEFT: -380px; WIDTH: 760px; POSITION: relative; TOP: 10px
+}
+.pagewrapper800 {
+	LEFT: 50%; VISIBILITY: visible; MARGIN-LEFT: -400px; WIDTH: 800px; POSITION: relative; TOP: 10px
+}
+.pagewrapper850 {
+	LEFT: 50%; VISIBILITY: visible; MARGIN-LEFT: -425px; WIDTH: 850px; POSITION: relative; TOP: 10px
+}
+.pagewrapperhope {
+	LEFT: 50%; VISIBILITY: visible; MARGIN-LEFT: -360px; WIDTH: 720px; POSITION: relative; TOP: 0px
+}
+BODY.bkd1 {
+	BACKGROUND-IMAGE: url(http://ChristianAnswers.Net/bkd-bluelines.gif); BACKGROUND-COLOR: #003399
+}
+BODY {
+	MARGIN: 0px
+}
+#button {
+	BORDER-RIGHT: #000000 0px solid; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; MARGIN-BOTTOM: 1em; PADDING-BOTTOM: 1em; WIDTH: 100%; PADDING-TOP: 0px
+}
+#button UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; LIST-STYLE-TYPE: none; BORDER-BOTTOM-STYLE: none
+}
+#button LI.listcategory {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 0.5em; FONT-WEIGHT: bold; FONT-SIZE: 100%; BACKGROUND-IMAGE: url(http://ChristianAnswers.Net/bkd-blue1.gif); PADDING-BOTTOM: 3px; COLOR: #ffffff; PADDING-TOP: 3px
+}
+#button LI {
+	MARGIN: 0px; BORDER-BOTTOM: #90bade 1px solid; LIST-STYLE-TYPE: none
+}
+#button LI A {
+	BORDER-RIGHT: #e6eaff 10px solid; PADDING-RIGHT: 3px; DISPLAY: block; PADDING-LEFT: 0.5em; FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND-IMAGE: none; PADDING-BOTTOM: 3px; BORDER-LEFT: #e6eaff 10px solid; WIDTH: 100%; COLOR: #000000; PADDING-TOP: 3px; BACKGROUND-COLOR: #e6eaff; TEXT-DECORATION: none
+}
+#button LI A:hover {
+	BORDER-RIGHT: #ffffff 10px solid; BACKGROUND-IMAGE: url(http://ChristianAnswers.Net/bkd-blue1.gif); BORDER-LEFT: #efc210 10px solid; COLOR: #ffffff; BACKGROUND-COLOR: #6699cc
+}
+HTML > BODY #button LI A {
+	WIDTH: auto
+}
+DIV.idx-bkd1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND-IMAGE: url(http://ChristianAnswers.Net/bkd-blue1.gif); MARGIN-BOTTOM: 1px; PADDING-BOTTOM: 3px; VERTICAL-ALIGN: middle; PADDING-TOP: 0px; BACKGROUND-COLOR: #6699cc; TEXT-ALIGN: center
+}
+DIV.nav3 {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND-IMAGE: url(http://ChristianAnswers.Net/bkd-blue1.gif); PADDING-BOTTOM: 2px; VERTICAL-ALIGN: middle; COLOR: white; PADDING-TOP: 2px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, sans-serif; BACKGROUND-COLOR: #009999
+}
+A IMG {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+SPAN.cents {
+	FONT-SIZE: 50%; VERTICAL-ALIGN: super; TEXT-DECORATION: underline
+}
+.cantopbar {
+	DISPLAY: block; BACKGROUND-IMAGE: url(http://ChristianAnswers.Net/dictionary/bg-gold.gif); HEIGHT: 12px
+}
+#invisible {
+	VISIBILITY: hidden
+}
+.invisible {
+	VISIBILITY: hidden
+}
+SPAN.bigcap {
+	FONT-WEIGHT: bold; FONT-SIZE: 300%; FONT-FAMILY: "Times New Roman", Times, serif
+}
+.smalltext {
+	FONT-SIZE: 85%
+}
+.smallertext {
+	FONT-SIZE: 70%
+}
+.imgleft {
+	FLOAT: left; MARGIN-RIGHT: 10px
+}
+.imgright {
+	FLOAT: right; MARGIN-LEFT: 10px
+}
+.languages {
+	PADDING-LEFT: 2%; FONT-SIZE: 75%; TEXT-ALIGN: right
+}
+DIV.catauthor {
+	FONT-SIZE: small; MARGIN-BOTTOM: 10px; FONT-STYLE: italic
+}
+DIV.catindxdesc {
+	FONT-SIZE: 10pt
+}
+DIV.catindxpriceline {
+	MARGIN-TOP: 10px; FONT-SIZE: 80%
+}
+.catprice {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #3366cc
+}
+SPAN.cents {
+	FONT-SIZE: 50%; VERTICAL-ALIGN: super; TEXT-DECORATION: underline
+}
+INPUT.catcartad {
+	MARGIN: 3px 0px 5px 20px; WIDTH: 108px; HEIGHT: 19px
+}
+A.indxtitle:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 14pt; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #ff6600; MARGIN-RIGHT: 10px; TEXT-DECORATION: none
+}
+A.indxtitle:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 14pt; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #006666; MARGIN-RIGHT: 10px; TEXT-DECORATION: none
+}
+A.indxtitle:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 14pt; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #cc0066; MARGIN-RIGHT: 10px; TEXT-DECORATION: none
+}
+A.indxtitle:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 14pt; BACKGROUND: #ffcc33; COLOR: #cc0066; MARGIN-RIGHT: 10px; TEXT-DECORATION: underline
+}

@@ -1,0 +1,5 @@
+<?php
+
+$courseName = "Bible Introduction";
+
+?>

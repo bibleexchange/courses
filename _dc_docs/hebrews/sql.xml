@@ -1,0 +1,62 @@
+INSERT A SECTION:
+
+INSERT INTO `dbi`.`courses_sections` (`SectionId`, `SectionTitle`, `SectionSummary`, `SectionCoursesId`, `SectionOrder`) VALUES 
+(NULL, 'section title', 'section summmary', '3', '1');
+
+
+
+INSERT A DOCUMENT:
+
+The Revelation of God by His Son	37
+INSERT INTO `dbi`.`course_document_list` (`cdl_id`, `course_section_id`, `file_name`, `file_type`, `order`) VALUES 
+(NULL, '37', 'Christ is the Fullness of the Revelation', 'html', '1'),
+(NULL, '37', 'Christ Is Better Than the Angels', 'html', '2'),
+(NULL, '37', 'Study Questions One', 'html', '3'),
+(NULL, '37', 'The Danger of Neglecting Salvation Through the Son', 'html', '4'),
+(NULL, '37', 'The Son and Humanity', 'html', '5'),
+(NULL, '37', 'Study Questions Two', 'html', '6');
+
+
+
+
+The Faithful Savior	38
+INSERT INTO `dbi`.`course_document_list` (`cdl_id`, `course_section_id`, `file_name`, `file_type`, `order`) VALUES 
+(NULL, '38', 'Introduction to the Faithful Savior', 'html', '1'),
+(NULL, '38', 'Christ as the Son is Superior to Moses the Servant', 'html', '2'),
+(NULL, '38', 'Consequences of Israel&apos;s Unbelief', 'html', '3'),
+(NULL, '38', 'The Warning Against Unbelief', 'html', '4'),
+(NULL, '38', 'Exhortation To Faithfulness', 'html', '5'),
+(NULL, '38', 'Study Questions Three', 'html', '6');
+
+
+
+
+
+The Great High Priest	39
+INSERT INTO `dbi`.`course_document_list` (`cdl_id`, `course_section_id`, `file_name`, `file_type`, `order`) VALUES 
+(NULL, '39', 'Confidence in Christ&apos;s Priesthood', 'html', '1'),
+(NULL, '39', 'Christ&apos;s Possession of the essential qualities for Priesthood,', 'html', '2'),
+(NULL, '39', 'Study Questions Four', 'html', '3'),
+(NULL, '39', 'Spiritual Dullness of the Hebrews', 'html', '4'),
+(NULL, '39', 'Study Questions Five', 'html', '5'),
+(NULL, '39', 'Study Questions Six', 'html', '6'),
+(NULL, '39', 'God&apos;s Word and Oath, The Ground of Confidence', 'html', '7'),
+(NULL, '39', 'Christ As Priest, After The Order of Melchizedek', 'html', '8'),
+(NULL, '39', 'Study Questions Seven', 'html', '9'),
+(NULL, '39', 'Christ The True High Priest', 'html', '10'),
+(NULL, '39', 'Study Questions Eight', 'html', '11');
+
+
+
+Practical Exhortations	40
+INSERT INTO `dbi`.`course_document_list` (`cdl_id`, `course_section_id`, `file_name`, `file_type`, `order`) VALUES 
+(NULL, '40', 'Drawing Near to God and Holding Fast the Faith', 'html', '1'),
+(NULL, '40', 'Man&apos; Responsibility to the Revelation God has Given,','html', '2'),
+(NULL, '40', 'First Love', 'html', '3'),
+(NULL, '40', 'The Hall of Faith', 'html', '4'),
+(NULL, '40', 'The Race', 'html', '5'),
+(NULL, '40', 'Chastisement is a Mark of Sonship', 'html', '6'),
+(NULL, '40', 'Conduct and Character', 'html', '7'),
+(NULL, '40', 'The New Dispensation', 'html', '8'),
+(NULL, '40', 'Christian Duties', 'html', '9'),
+(NULL, '40', 'The Apostle&apos;s Personal Request', 'html', '10');

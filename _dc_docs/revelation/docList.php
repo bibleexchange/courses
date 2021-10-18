@@ -1,0 +1,78 @@
+<?php
+$docs = array(
+		array("Front","php",
+			array("Cover", "html"),
+			array("Table of Contents", "php")
+		),
+       array("Ch. 1 Introduction","php",
+			array("Ch. 1 Introduction","html"),
+			array("Salutation","html"),
+			array("The Vision","html"),
+			array("Revelation Study Questions 1","html"),
+			array("Revelation Quiz 1","html")
+		),
+		array("Ch. 2-3 Letters to the Church","php",
+			array("Ch 2-3 Introduction","html"),
+			array("Ephesus","html"),
+			array("Smyrna","html"),
+			array("Pergamos","html"),
+			array("Thyatira","html"),
+			array("Sardis","html"),
+			array("Philadelphia","html"),
+			array("Laodicea","html")
+		),
+		array("Ch. 4 A Vision of the Throne","php",
+			array("The Rapture of the Church","html"),
+			array("The Throne of Majesty","html"),
+			array("The Four and Twenty Elders","html"),
+			array("The Four Living Creatures","html")
+		),
+		array("Ch. 5 The Sealed Book","php",
+			array("The Sealed Book","html"),
+			array("The Victor","html"),
+			array("The Response to The Victor's Worthiness","html")
+		),
+		array("Ch. 6-8:1 Seven Seals","php",
+			array("Introduction to the Seven Seals","html"),
+			array("Opening of Seals 1, 2, 3, 4","html"),
+			array("Opening of Seals 5 and 6","html"),
+			array("Sealing of the 144,000","html"),
+			array("Palm Bearing Multitude","html"),
+			array("Opening of Seal 7","html"),
+			array("Revelation Study Questions 3","html"),
+			array("Revelation Quiz 3","html")
+		),
+		array("Ch. 8-11 Angels And Trumpets","php",
+			array("A Vision of Angels","html"),
+			array("The Sounding of the Seven Trumpets Introduction","html"),
+			array("The Sounding of The First Trumpet","html"),
+			array("The Sounding of The Second Trumpet","html"),
+			array("The Sounding of The Third Trumpet","html"),
+			array("The Sounding of The Fourth Trumpet","html"),
+			array("The Sounding of The Fifth Trumpet","html"),
+			array("The Sounding of The Sixth Trumpet","html"),
+			array("The Cloud-Robed Angel","html"),
+			array("The Reinstating of the Jew","html"),
+			array("The Two Witnesses","html"),
+			array("The Sounding of The Seventh Trumpet","html")
+		),
+		array("Ch. 12 Woman, Child, Dragon, War, And Remnant","php",
+			array("Ch. 12 Introduction","html"),
+			array("The Sun-Clothed Woman","html"),
+			array("The Man-Child","html"),
+			array("The Dragon","html"),
+			array("The War in Heaven","html"),
+			array("The Woman in the Wilderness","html"),
+			array("The Flood","html"),
+			array("The Seed of the Woman","html"),
+			array("The War Against Her Seed","html")
+		),
+		array("Addendum","php",
+			array("Revelation Final Exam","html"),
+			array("Further Notes on Revelation 12 Unknown Author","html"),
+			array("Are We Missing It?","html"),
+			array("The Vision of the Beast","html"),
+			array("Epilogue Ch. 22","html")
+		)
+		);
+?>

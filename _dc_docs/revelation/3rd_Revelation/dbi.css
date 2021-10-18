@@ -1,0 +1,40 @@
+ol > li {
+  list-style: upper-roman;
+  margin-top:1em;
+  padding-left:50px;
+  margin-bottom:1em;
+}
+ol >li p{
+  margin-left:-7.5em;
+  text-indent:2em;
+}
+ol > li > ol > li {
+  list-style: upper-alpha;
+  margin-top:1em;
+  margin-bottom:1em;
+}
+ol > li > ol > li > ol > li {
+  list-style: decimal;
+  margin-top:.5em;
+}
+ol > li > ol > li > ol > li > ol > li {
+  list-style: lower-roman;
+}
+ol > li > ol > li > ol > li > ol > li > ol > li {
+  list-style: lower-alpha;
+}
+
+p {
+	color: brown;
+	margin:0;
+	padding:0;
+	padding-top:.5em;
+	text-indent:2em;
+}
+p.scripture {
+	##color: blue;
+	padding-left:0px;
+	font-style:italic;
+}
+body {width:90%; padding:1em; font-size:1.1em; background-color:#FBF5E6;}
+h1 {text-align:center;}

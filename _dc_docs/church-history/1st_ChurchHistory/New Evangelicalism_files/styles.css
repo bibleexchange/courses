@@ -1,0 +1,1999 @@
+/* gs 6/16/12 */
+* {
+	padding: 0;
+	margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	padding-bottom: 1.0em;
+	line-height: 1.0em;
+}
+
+p {
+	padding: 0 0 1.0em;
+}
+
+ul, ol {
+	padding: 1.0em 0;
+	margin-left: 2.5em;
+}
+
+li {
+	margin-left: 2.0em;
+}
+
+/* @end */
+
+/* @group STICKER */
+
+html, body {
+	height: 100%;
+}
+
+.wrapper {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -82px; /* the bottom margin is the negative value of the footer's height */
+}
+
+#footerContainer, .push {
+	height: 82px; /* .push must be the same height as .footer */
+}
+
+/* @end */
+
+/* @group General Styles */
+
+
+body {
+	background: #ffffff;
+	font: 75%/1.8em "Helvetica Neue", Helvetica, sans-serif;
+}
+
+p {
+}
+
+b, strong {
+
+}
+
+a:link, a:visited {
+	text-decoration: none;
+}
+
+a:hover, a:active {
+	text-decoration: underline;
+}
+
+img, img a {
+	border-style: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
+	font-family: "Times New Roman", Times, sans-serif;
+}
+
+.clear {
+	clear: both;
+}
+
+.clear-right {
+	clear: right;
+}
+
+.clear-left {
+	clear: left;
+}
+
+.widthCheck {
+	background-color: red;
+	margin: 0;
+	padding: 0;
+	height: 200px;
+}
+
+code {
+	font: 1.3em/1.5em "Times New Roman", Times, sans-serif;
+	color: #823F40;
+}
+
+pre {
+	margin-bottom: 20px;
+	padding: 10px;
+	background-color: #E7DFCA;
+	border: 1px solid;
+	font-size: 1.2em;
+}
+
+sup {
+	font: 0.9em "Times New Roman", Times, sans-serif;
+	color: #823F40;
+	font-style: italic;
+}
+
+sub {
+	font: 0.9em "Times New Roman", Times, sans-serif;
+	color: #823F40;
+	font-style: italic;
+}
+
+.image-left {
+	float: left;
+	margin: 0 15px 5px 0;
+}
+
+.image-right {
+	float: right;
+	margin: 0 0 5px 15px;
+}
+	
+.imageStyle {
+}
+
+blockquote, .standout {
+	margin: 20px;
+	font: 1.3em/1.5em Times, serif;
+	font-style: italic;
+}
+
+/* Invalid RapidWeaver markup for stike through
+s {
+}
+*/
+
+/* Main content area unordered list styles */
+#contentContainer .content ul {
+}
+
+#contentContainer .content li {
+}
+
+ul.disc {
+	list-style-type: disc;
+}
+
+ul.circle {
+	list-style-type: circle;
+}
+
+ul.square {
+	list-style-type: square;
+}
+
+ol.arabic-numbers {
+	list-style-type: decimal;
+}
+
+ol.upper-alpha {
+	list-style-type: upper-latin;
+}
+
+ol.lower-alpha {
+	list-style-type: upper-latin;
+}
+
+ol.upper-roman {
+	list-style-type: upper-roman;
+}
+
+ol.lower-roman {
+	list-style-type: lower-roman;
+}
+
+/* Sidebar area unordered list styles */
+#sidebarContainer .content ul {
+}
+
+#sidebarContainer .content li {
+}
+
+/* Table Styles */
+table {
+}
+
+/* @end */
+
+/* @group Layout */
+
+#mainContainer {
+	width: 920px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.content {
+}
+
+.content p {
+}
+
+.content a:link, .content a:visited {
+}
+
+.content a:hover, .content a:active {
+}
+	
+.pageHeader {
+	width: 920px;
+	height: 77px; /* gs from 241 to 140 */
+	margin-top: 100px; /* gs from 100 to 100 */
+}
+
+.title_block {
+	width: 920px;
+	margin: 0 auto;
+}
+
+.logo {
+	float: left;
+	position: relative;
+	top: -44px; /* gs from -20 to -44 */
+	margin: 0 20px 0 0;
+}
+
+.logo_links {
+	position: relative;
+	top: -192px;
+	font-size: 13px;
+}
+
+.logo img {
+}
+
+#site_title {
+	position: relative;
+	top: -20px;
+	font: 3em/1.5em "Times New Roman", serif;
+}
+
+#site_slogan {
+	position: relative;
+	top: -20px;
+	font: 2.2em/1.5em "Times New Roman", serif;
+}
+
+#contentContainer {
+	text-align: left;
+}
+
+#contentContainer .content {
+	margin: 0 0 0 300px;
+	padding-top: 15px;
+}
+
+#sidebarContainer {
+	float: left;
+	width: 220px;
+	text-align: left;
+	font-size: 0.9em;
+	margin-top: 20px;
+}
+
+#sidebarContainer .title {
+	font: 2.2em/1.3em "Times New Roman", serif;
+}
+
+#sidebarContainer .sidebar {
+}
+
+#footerContainer {
+	border: 1px solid;
+	border-bottom: none;
+	-webkit-border-top-right-radius: 5px;
+	-webkit-border-top-left-radius: 5px;
+	-moz-border-radius: 5px 5px 0 0;
+	border-radius: 5px 5px 0 0;
+	width: 920px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#footerContainer .sb,
+#footerContainer .sbi {/* for < IE 9 */
+	position:relative;
+	z-index:1;
+}
+
+#footerContainer .content {
+	background: transparent;
+	position: relative;
+}
+
+.footer {
+}
+
+/* @end */
+
+/* @group Bread-crumb */
+
+ul.breadcrumbList {
+	list-style: none;
+	padding: 30px 0;
+	margin: 0;
+	clear: both;
+	font-size: 0.8em;
+}
+
+ul.breadcrumbList li {
+	display: inline;
+	margin: 0;
+	padding: 0;
+}
+
+/* @end */
+
+/* @group Toolbars */
+
+/* @group toolbar_horizontal*/
+
+.top-border {
+	height: 7px;
+}
+
+.tbh_bg {
+	background: transparent url(images/nav_bg.png) repeat-x;
+	height: 150px;
+	border-top: 1px solid;
+}
+
+#toolbar_horizontal {
+	text-align: center; /* gs from right to center */
+	font-size: 0.8em;
+	width: 940px;
+	margin: 0 auto;
+}
+
+#toolbar_horizontal .current {
+}
+
+#toolbar_horizontal .current:hover {
+}
+
+#toolbar_horizontal .currentAncestor {
+}
+
+/* Parent - Level 0 */
+
+#toolbar_horizontal ul {
+	position: relative;
+	top: 150px; /* gs from -8 to 150 */
+	margin: 0 auto;
+	padding: 0;
+	display: -moz-inline-box;/* shown first in the event that Mozilla gets it's act together */
+	display: inline-block;
+	font: 1.5em/1.0em "Helvetica Neue", Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+#toolbar_horizontal ul li {
+	border: 1px solid;
+	border-top: none;
+	-webkit-border-bottom-right-radius: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	-moz-border-radius: 0 0 5px 5px;
+	border-radius: 0 0 5px 5px;
+	position: relative;
+	left: 0;
+	float:left;
+	list-style:none;
+	margin: 0 2px 0 0;
+	padding: 0;
+	line-height: 1.0em;
+	height: 34px;
+}
+#toolbar_horizontal ul li a {
+	display:block;
+	text-decoration:none;
+	margin: 0 auto;
+	padding: 10px 15px 0;
+	text-align: center;
+	height: 34px;
+}
+
+#toolbar_horizontal ul li.currentAncestor {
+}
+
+#toolbar_horizontal ul li.currentAncestor:hover {
+}
+
+#toolbar_horizontal ul li.currentAncestor:active {
+}
+
+#toolbar_horizontal ul li.current {
+}
+
+#toolbar_horizontal ul li.current:hover {
+}
+
+#toolbar_horizontal ul li.current:active {
+}
+
+#toolbar_horizontal ul li.normal {
+}
+
+#toolbar_horizontal ul li.normal:hover {
+}
+
+#toolbar_horizontal ul li.normal:active {
+}
+
+/* Child - Level 1 */
+
+#toolbar_horizontal ul ul {
+	display: none;
+}
+
+#toolbar_horizontal ul ul li {
+}
+
+#toolbar_horizontal ul ul li a {
+}
+
+#toolbar_horizontal ul ul li.currentAncestor a {
+}
+
+#toolbar_horizontal ul ul li.currentAncestor a:hover {
+}
+
+#toolbar_horizontal ul ul li.currentAncestor a:active {
+}
+
+#toolbar_horizontal ul ul li.current a {
+}
+
+#toolbar_horizontal ul ul li.current a:hover {
+}
+
+#toolbar_horizontal ul ul li.current a:active {
+}
+
+#toolbar_horizontal ul ul li.normal a {
+}
+
+#toolbar_horizontal ul ul li.normal a:hover {
+}
+
+#toolbar_horizontal ul ul li.normal a:active {
+}
+
+/* Child - Level 2 */
+
+#toolbar_horizontal ul ul ul {
+}
+
+#toolbar_horizontal ul ul ul li {
+}
+
+#toolbar_horizontal ul ul ul li a {
+}
+
+#toolbar_horizontal ul ul ul li.currentAncestor a {
+}
+
+#toolbar_horizontal ul ul ul li.currentAncestor a:hover {
+}
+
+#toolbar_horizontal ul ul ul li.currentAncestor a:active {
+}
+
+#toolbar_horizontal ul ul ul li.current a {
+}
+
+#toolbar_horizontal ul ul ul li.current a:hover {
+}
+
+#toolbar_horizontal ul ul ul li.current a:active {
+}
+
+#toolbar_horizontal ul ul ul li.normal a {
+}
+
+#toolbar_horizontal ul ul ul li.normal a:hover {
+}
+
+#toolbar_horizontal ul ul ul li.normal a:active {
+}
+
+/* Child Level 3 */
+
+#toolbar_horizontal ul ul ul ul {
+}
+
+#toolbar_horizontal ul ul ul ul li {
+}
+
+#toolbar_horizontal ul ul ul ul li a {
+}
+
+#toolbar_horizontal ul ul ul ul li.currentAncestor a {
+}
+
+#toolbar_horizontal ul ul ul ul li.currentAncestor a:hover {
+}
+
+#toolbar_horizontal ul ul ul ul li.currentAncestor a:active {
+}
+
+#toolbar_horizontal ul ul ul ul li.current a {
+}
+
+#toolbar_horizontal ul ul ul ul li.current a:hover {
+}
+
+#toolbar_horizontal ul ul ul ul li.current a:active {
+}
+
+#toolbar_horizontal ul ul ul ul li.normal a {
+}
+
+#toolbar_horizontal ul ul ul ul li.normal a:hover {
+}
+
+#toolbar_horizontal ul ul ul ul li.normal a:active {
+}
+
+/* Child Level 4 */
+
+#toolbar_horizontal ul ul ul ul ul {
+}
+
+#toolbar_horizontal ul ul ul ul ul li {
+}
+
+#toolbar_horizontal ul ul ul ul ul li a {
+}
+
+#toolbar_horizontal ul ul ul ul ul li.currentAncestor a {
+}
+
+#toolbar_horizontal ul ul ul ul ul li.currentAncestor a:hover {
+}
+
+#toolbar_horizontal ul ul ul ul ul li.currentAncestor a:active {
+}
+
+#toolbar_horizontal ul ul ul ul ul li.current a {
+}
+
+#toolbar_horizontal ul ul ul ul ul li.current a:hover {
+}
+
+#toolbar_horizontal ul ul ul ul ul li.current a:active {
+}
+
+#toolbar_horizontal ul ul ul ul ul li.normal a {
+}
+
+#toolbar_horizontal ul ul ul ul ul li.normal a:hover {
+}
+
+#toolbar_horizontal ul ul ul ul ul li.normal a:active {
+}
+
+/* @group shadedborder */
+
+#toolbar_horizontal .sb,
+#toolbar_horizontal .sbi,
+#toolbar_horizontal .sb a,
+#toolbar_horizontal .sbi a {/* for < IE 9 */
+	position:relative;
+	z-index:1;
+}
+
+.sbi {/* for < IE 9 */
+	display:inline-block;
+}
+
+/* @end */
+
+/* @end */
+
+/* @group toolbar_sub*/
+
+#toolbar_sub {
+	height: 40px; /* gs was 40 */
+	margin: 0 auto;
+    margin-bottom: 30px; /* gs added whole line */
+	padding: 0;
+	text-align: center;
+	font-size: 1.1em;
+	font-weight: bold;
+}
+
+#toolbar_sub .current {
+}
+
+#toolbar_sub .current:hover {
+}
+
+#toolbar_sub .currentAncestor {
+}
+
+/* Parent - Level 0 */
+
+#toolbar_sub ul {
+	padding: 0;
+	margin: 0;
+}
+
+#toolbar_sub ul li {
+	display: inline;
+	list-style: none;
+	margin: 0;
+}
+#toolbar_sub ul li a {
+	display: none;
+}
+
+#toolbar_sub ul li.currentAncestor {
+}
+
+#toolbar_sub ul li.currentAncestor:hover {
+}
+
+#toolbar_sub ul li.currentAncestor:active {
+}
+
+#toolbar_sub ul li.current {
+}
+
+#toolbar_sub ul li.current:hover {
+}
+
+#toolbar_sub ul li.current:active {
+}
+
+#toolbar_sub ul li.normal {
+}
+
+#toolbar_sub ul li.normal:hover {
+}
+
+#toolbar_sub ul li.normal:active {
+}
+
+/* Child - Level 1 */
+
+#toolbar_sub ul ul {
+	position: relative;
+	top: 10px;
+	float: none;
+	margin: 0 auto;
+	padding: 0;
+	display: -moz-inline-box;/* shown first in the event that Mozilla gets it's act together */
+	display: inline-block;
+}
+
+#toolbar_sub ul ul, x:-moz-any-link {
+	top: 9px;/*hack for FireFox list position*/
+}
+
+#toolbar_sub ul ul, x:-moz-any-link, x:default {
+	top: 10px;/*restores back for FireFox 3*/
+}
+
+#toolbar_sub ul ul li {
+	border: 1px solid;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	
+	position: relative;
+	left: 0;
+	float:left;
+	list-style:none;
+	padding:0;
+	margin: 0 3px 0 0;
+	height: 20px;
+}
+
+#toolbar_sub ul ul li a {
+	display:block;
+	text-decoration:none;
+	margin: -1px auto 1px;
+	padding: 0 10px;
+	text-align: center;
+	line-height: 20px;
+	height: 20px;
+}
+
+#toolbar_sub ul ul li.currentAncestor a {
+}
+
+#toolbar_sub ul ul li.currentAncestor a:hover {
+}
+
+#toolbar_sub ul ul li.currentAncestor a:active {
+}
+
+#toolbar_sub ul ul li.current a {
+}
+
+#toolbar_sub ul ul li.current a:hover {
+}
+
+#toolbar_sub ul ul li.current a:active {
+}
+
+#toolbar_sub ul ul li.normal a {
+}
+
+#toolbar_sub ul ul li.normal a:hover {
+}
+
+#toolbar_sub ul ul li.normal a:active {
+}
+
+/* Child - Level 2 */
+
+#toolbar_sub ul ul ul {
+	display: none;
+}
+
+#toolbar_sub ul ul ul li {
+}
+
+#toolbar_sub ul ul ul li a {
+}
+
+#toolbar_sub ul ul ul li.currentAncestor a {
+}
+
+#toolbar_sub ul ul ul li.currentAncestor a:hover {
+}
+
+#toolbar_sub ul ul ul li.currentAncestor a:active {
+}
+
+#toolbar_sub ul ul ul li.current a {
+}
+
+#toolbar_sub ul ul ul li.current a:hover {
+}
+
+#toolbar_sub ul ul ul li.current a:active {
+}
+
+#toolbar_sub ul ul ul li.normal a {
+}
+
+#toolbar_sub ul ul ul li.normal a:hover {
+}
+
+#toolbar_sub ul ul ul li.normal a:active {
+}
+
+/* Child Level 3 */
+
+#toolbar_sub ul ul ul ul {
+}
+
+#toolbar_sub ul ul ul ul li {
+}
+
+#toolbar_sub ul ul ul ul li a {
+}
+
+#toolbar_sub ul ul ul ul li.currentAncestor a {
+}
+
+#toolbar_sub ul ul ul ul li.currentAncestor a:hover {
+}
+
+#toolbar_sub ul ul ul ul li.currentAncestor a:active {
+}
+
+#toolbar_sub ul ul ul ul li.current a {
+}
+
+#toolbar_sub ul ul ul ul li.current a:hover {
+}
+
+#toolbar_sub ul ul ul ul li.current a:active {
+}
+
+#toolbar_sub ul ul ul ul li.normal a {
+}
+
+#toolbar_sub ul ul ul ul li.normal a:hover {
+}
+
+#toolbar_sub ul ul ul ul li.normal a:active {
+}
+
+/* Child Level 4 */
+
+#toolbar_sub ul ul ul ul ul {
+}
+
+#toolbar_sub ul ul ul ul ul li {
+}
+
+#toolbar_sub ul ul ul ul ul li a {
+}
+
+#toolbar_sub ul ul ul ul ul li.currentAncestor a {
+}
+
+#toolbar_sub ul ul ul ul ul li.currentAncestor a:hover {
+}
+
+#toolbar_sub ul ul ul ul ul li.currentAncestor a:active {
+}
+
+#toolbar_sub ul ul ul ul ul li.current a {
+}
+
+#toolbar_sub ul ul ul ul ul li.current a:hover {
+}
+
+#toolbar_sub ul ul ul ul ul li.current a:active {
+}
+
+#toolbar_sub ul ul ul ul ul li.normal a {
+}
+
+#toolbar_sub ul ul ul ul ul li.normal a:hover {
+}
+
+#toolbar_sub ul ul ul ul ul li.normal a:active {
+}
+
+/* @group shadedborder */
+
+#toolbar_sub .sb,
+#toolbar_sub .sbi,
+#toolbar_sub .sb a,
+#toolbar_sub .sbi a {/* for < IE 9 */
+	position:relative;
+	z-index:1;
+}
+
+#toolbar_sub .sbi {/* for < IE 9 */
+	display:inline-block;
+}
+
+/* @end */
+
+/* @end */
+
+/* @group toolbar_vertical */
+
+#toolbar_vertical {
+	position: relative;
+	top: 0;
+	font: 1.5em/1.0em "Helvetica Neue", Helvetica, sans-serif;
+	font-weight: bold;
+	margin: 0;
+}
+
+/* Parent - Level 0 */
+
+#toolbar_vertical ul {
+	list-style: none;
+	display: inline;
+	margin: 0;
+	padding: 0;
+}
+
+#toolbar_vertical ul li { /*hides the top level*/
+	position: relative;
+	display: inline;
+	margin: 0;
+	padding: 0;
+	height: 0;
+}
+
+#toolbar_vertical ul li a { /*hides the top level*/
+	display: none;
+}
+
+#toolbar_vertical ul li.currentAncestor {
+}
+
+#toolbar_vertical ul li.currentAncestor:hover {
+}
+
+#toolbar_vertical ul li.currentAncestor:active {
+}
+
+#toolbar_vertical ul li.current {
+}
+
+#toolbar_vertical ul li.current:hover {
+}
+
+#toolbar_vertical ul li.current:active {
+}
+
+#toolbar_vertical ul li.normal {
+}
+
+#toolbar_vertical ul li.normal:hover {
+}
+
+#toolbar_vertical ul li.normal:active {
+}
+
+/* Child - Level 1 */
+
+#toolbar_vertical ul ul {
+}
+
+#toolbar_vertical ul ul li {
+}
+
+#toolbar_vertical ul ul li a {
+}
+
+#toolbar_vertical ul ul li.currentAncestor a {
+}
+
+#toolbar_vertical ul ul li.currentAncestor a:hover {
+}
+
+#toolbar_vertical ul ul li.currentAncestor a:active {
+}
+
+#toolbar_vertical ul ul li.current a {
+}
+
+#toolbar_vertical ul ul li.current a:hover {
+}
+
+#toolbar_vertical ul ul li.current a:active {
+}
+
+#toolbar_vertical ul ul li.normal a {
+}
+
+#toolbar_vertical ul ul li.normal a:hover {
+}
+
+#toolbar_vertical ul ul li.normal a:active {
+}
+
+/* Child - Level 2 */
+
+#toolbar_vertical ul ul ul {
+	border-top: 1px solid;
+	border-right: 1px solid;
+	border-left: 1px solid;
+	margin-bottom: 20px;
+	display: block;
+}
+
+#toolbar_vertical ul ul ul li {
+}
+
+#toolbar_vertical ul ul ul li a {
+	display: block;
+	padding-left: 10px;
+	height: 30px;
+	line-height: 30px;
+	border-bottom: 1px solid;
+}
+
+#toolbar_vertical ul ul ul li.currentAncestor a {
+}
+
+#toolbar_vertical ul ul ul li.currentAncestor a:hover {
+}
+
+#toolbar_vertical ul ul ul li.currentAncestor a:active {
+}
+
+#toolbar_vertical ul ul ul li.current a {
+}
+
+#toolbar_vertical ul ul ul li.current a:hover {
+}
+
+#toolbar_vertical ul ul ul li.current a:active {
+}
+
+#toolbar_vertical ul ul ul li.normal a {
+}
+
+#toolbar_vertical ul ul ul li.normal a:hover {
+}
+
+#toolbar_vertical ul ul ul li.normal a:active {
+}
+
+/* Child Level 3 */
+
+#toolbar_vertical ul ul ul ul {
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	margin-bottom: 0;
+}
+
+#toolbar_vertical ul ul ul ul li {
+}
+
+#toolbar_vertical ul ul ul ul li a {
+	padding: 0 0 0 40px;
+}
+
+#toolbar_vertical ul ul ul ul li.currentAncestor a {
+}
+
+#toolbar_vertical ul ul ul ul li.currentAncestor a:hover {
+}
+
+#toolbar_vertical ul ul ul ul li.currentAncestor a:active {
+}
+
+#toolbar_vertical ul ul ul ul li.current a {
+}
+
+#toolbar_vertical ul ul ul ul li.current a:hover {
+}
+
+#toolbar_vertical ul ul ul ul li.current a:active {
+}
+
+#toolbar_vertical ul ul ul ul li.normal a {
+}
+
+#toolbar_vertical ul ul ul ul li.normal a:hover {
+}
+
+#toolbar_vertical ul ul ul ul li.normal a:active {
+}
+
+/* Child Level 4 */
+
+#toolbar_vertical ul ul ul ul ul {
+}
+
+#toolbar_vertical ul ul ul ul ul li {
+}
+
+#toolbar_vertical ul ul ul ul ul li a {
+	padding: 0 0 0 80px;
+}
+
+#toolbar_vertical ul ul ul ul ul li.currentAncestor a {
+}
+
+#toolbar_vertical ul ul ul ul ul li.currentAncestor a:hover {
+}
+
+#toolbar_vertical ul ul ul ul ul li.currentAncestor a:active {
+}
+
+#toolbar_vertical ul ul ul ul ul li.current a {
+}
+
+#toolbar_vertical ul ul ul ul ul li.current a:hover {
+}
+
+#toolbar_vertical ul ul ul ul ul li.current a:active {
+}
+
+#toolbar_vertical ul ul ul ul ul li.normal a {
+}
+
+#toolbar_vertical ul ul ul ul ul li.normal a:hover {
+}
+
+#toolbar_vertical ul ul ul ul ul li.normal a:active {
+}
+
+/* @end */
+
+/* @group toolbar_footer */
+
+#toolbar_footer {
+	margin: 0 auto;
+	text-align: center;
+	clear: both;
+}
+
+#toolbar_footer .current {
+}
+
+#toolbar_footer .current:hover {
+}
+
+#toolbar_footer .currentAncestor {
+}
+
+/* Parent - Level 0 */
+
+#toolbar_footer ul {
+	margin: 0;
+	padding: 0;
+}
+
+#toolbar_footer li {
+	display: inline;
+	margin: 0 20px;
+	padding: 0;
+	line-height: 4em;
+}
+
+#toolbar_footer a {
+}
+
+#toolbar_footer a:hover {
+}
+
+#toolbar_footer a:active {
+}
+
+/* Child - Level 1 */
+
+#toolbar_footer ul ul {
+	display: none;
+}
+
+#toolbar_footer ul ul li {
+}
+
+#toolbar_footer ul ul a {
+}
+
+#toolbar_footer ul ul a:hover {
+}
+
+#toolbar_footer ul ul .current {
+}
+
+#toolbar_footer ul ul .currentAncestor {
+}
+
+/* Child - Level 2 */
+
+#toolbar_footer ul ul ul {
+}
+
+#toolbar_footer ul ul ul li { 
+}
+
+#toolbar_footer ul ul ul a {
+}
+
+#toolbar_footer ul ul ul a:hover {
+}
+
+#toolbar_footer ul ul ul .current {
+}
+
+#toolbar_footer ul ul ul .currentAncestor {
+}
+/* Child Level 3 */
+
+#toolbar_footer ul ul ul {
+}
+
+#toolbar_footer ul ul ul ul li { 
+}
+
+#toolbar_footer ul ul ul ul a {
+}
+
+#toolbar_footer ul ul ul ul a:hover {
+}
+
+/* Child Level 4 */
+
+#toolbar_footer ul ul ul ul {
+}
+
+#toolbar_footer ul ul ul ul ul li { 
+}
+
+#toolbar_footer ul ul ul ul ul a {
+}
+
+#toolbar_footer ul ul ul ul ul a:hover {
+}
+
+/* Child Level 5 */
+
+#toolbar_footer ul ul ul ul ul {
+}
+
+#toolbar_footer ul ul ul ul ul ul li { 
+}
+
+#toolbar_footer ul ul ul ul ul ul a {
+}
+
+#toolbar_footer ul ul ul ul ul ul a:hover {
+}
+
+/* @end */
+
+/* @end */
+
+/* @group Blog */
+
+/* @group Archive Page */
+
+.blog-archive-background {
+}
+
+.blog-entry-summary {
+}
+
+.blog-archive-headings-wrapper {
+}
+
+.blog-archive-entries-wrapper {
+}
+
+.blog-archive-entries-wrapper .blog-entry {
+}
+
+.blog-archive-month {
+}
+
+.blog-archive-link {
+}
+
+.blog-archive-link a:link, .blog-archive-link a:visited {
+}
+	
+/* @end */
+
+.blog-entry {
+    margin-top: 30px; /* gs added this line */
+	margin-bottom: 30px;
+	padding-bottom: 30px;
+	border-bottom: 1px solid;
+}
+
+h1.blog-entry-title {
+	padding: 0;
+	font: 2.5em/1.5em "Times New Roman", serif;
+    color: #000000;
+}
+
+
+h1.blog-entry-title a {
+}
+
+.blog-entry-date {
+	font: 0.9em/1.5em "Helvetica Neue", Helvetica, sans-serif;
+	margin-bottom: 10px;
+}
+
+.blog-entry-category {
+}
+
+.blog-entry-category a:link, .blog-entry-category a:visited {
+}
+
+.blog-read-more {
+ font-size: 14px;
+}
+
+.blog-entry-body {
+}
+
+.blog-entry-comments {
+}
+
+p.blog-entry-tags {
+	margin-top: 10px;
+	font-size: 0.9em;
+}
+
+/* @group blog sidebar */
+
+#plugin_sidebar {
+}
+
+/* Styles the blog categories in the blog sidebar */
+#blog-categories {
+	margin-top: 15px;
+	padding-top: 15px;
+	border-top: 1px solid;
+}
+
+#blog-categories:before {
+	content: "Categories:";
+	display: block;
+	margin-bottom: 5px;
+	font-size: 1.5em;
+}
+
+.blog-category-link-enabled {
+}
+
+.blog-category-link-disabled {
+}
+
+/* styles the archives in the blog sidebar */
+#blog-archives {
+	margin-top: 15px;
+	padding-top: 15px;
+	border-top: 1px solid;
+}
+
+#blog-archives:before {
+	content: "Archives:";
+	display: block;
+	margin-bottom: 5px;
+	font-size: 1.5em;
+}
+
+#blog-archives br {
+	display: none;
+}
+
+.blog-archive-link-enabled:after {
+	content: ", ";
+}
+
+.blog-archive-link-enabled {
+	margin-right: 5px;
+}
+
+.blog-archive-link-disabled:after {
+	content: ", ";
+}
+
+.blog-archive-link-disabled {
+	display: inline;
+	margin-right: 5px;
+}
+
+/* styles the Tag Cloud in the sidebar */
+
+ul.blog-tag-cloud {
+	margin: 15px 0 0 0;
+	padding-top: 15px;
+	border-top: 1px solid;
+}
+
+ul.blog-tag-cloud:before {
+	content: "Tag cloud:";
+	display: block;
+	margin-bottom: 5px;
+	font-size: 1.5em;
+}
+
+ul.blog-tag-cloud li {
+	display: inline;
+	margin: 0 5px 0 0;
+	padding: 0;
+}
+
+ul.blog-tag-cloud li a:after {
+	content: ", ";
+}
+
+#sidebarContainer .content ul.blog-tag-cloud li a {
+}
+
+#sidebarContainer .content ul.blog-tag-cloud li a:hover {
+	text-decoration: underline;
+}
+
+.blog-tag-size-1 {	
+	font-size: 0.8em;
+}
+
+.blog-tag-size-2 {	
+	font-size: 0.85em;
+}
+
+.blog-tag-size-3 {	
+	font-size: 0.9em;
+}
+
+.blog-tag-size-4 {	
+	font-size: 0.95em;
+}
+
+.blog-tag-size-5 {	
+	font-size: 1em;
+}
+
+.blog-tag-size-6 {	
+	font-size: 1.05em;
+}
+
+.blog-tag-size-7 {	
+	font-size: 1.1em;
+}
+
+.blog-tag-size-8 {	
+	font-size: 1.15em;
+}
+
+.blog-tag-size-9 {	
+	font-size: 1.2em;
+}
+
+.blog-tag-size-10 {	
+	font-size: 1.25em;
+}
+
+.blog-tag-size-11 {	
+	font-size: 1.3em;
+}
+
+.blog-tag-size-12 {	
+	font-size: 1.35em;
+}
+
+.blog-tag-size-13 {
+	font-size: 1.4em;
+}
+
+.blog-tag-size-14 {	
+	font-size: 1.45em;
+}
+
+.blog-tag-size-15 {
+	font-size: 1.5em;
+}
+
+.blog-tag-size-16 {	
+	font-size: 1.55em;
+}
+
+.blog-tag-size-17 {	
+	font-size: 1.6em;
+}
+
+.blog-tag-size-18 {	
+	font-size: 1.65em;
+}
+
+.blog-tag-size-19 {
+	font-size: 1.7em;
+}
+
+.blog-tag-size-20 {	
+	font-size: 1.75em;
+}
+
+/* Styles the blog RSS feeds in the blog sidebar */
+#blog-rss-feeds {
+	margin-top: 15px;
+	padding-top: 15px;
+	border-top: 1px solid;
+}
+
+#blog-rss-feeds:before {
+	content: "Feeds:";
+	display: block;
+	margin-bottom: 5px;
+	font-size: 1.5em;
+}
+
+.blog-rss-link {
+}
+
+.blog-comments-rss-link {
+}
+
+/* @end */
+
+/* @end */
+
+/* @group File Sharing */
+
+/* sample HTML
+<div class="filesharing-description"></div>
+<div class="filesharing-item">
+	<div class="filesharing-item-title">
+		<a href="files/Aqua Blue.jpg">Aqua Blue.jpg</a>
+	</div>
+	<div class="filesharing-item-description">
+		The original Aqua Blue that shipped with Tiger.
+	</div>
+</div>
+*/
+
+.filesharing-description {
+	margin-bottom: 30px;
+}
+
+.filesharing-item {
+	margin: 10px 0;
+	padding: 10px 0;
+	border-top: 1px solid;
+	background: url(images/download.gif) no-repeat 0 15px;
+}
+
+.filesharing-item-title {
+	margin-left: 25px;
+}
+
+.filesharing-item-title:after {
+	content: ":";
+}
+
+.filesharing-item-title a:link {
+	
+}
+
+.filesharing-item-title a:hover {
+}
+
+.filesharing-item-title a:visited {
+}
+
+.filesharing-item-description {
+	margin-left: 25px;
+}
+
+/* @end */
+
+/* @group Photo Album */
+
+/* @group Index Page (Thumbnail view) */
+
+/* sample thumbnail code 
+
+<div class="album-title">Your Album (Click to Change)</div>
+<div class="album-description"></div>
+
+<div class="album-wrapper"> <!--Start album wrapper -->
+
+	<div class="thumbnail-wrap" style="width:144px; height:144px;">
+		<div class="thumbnail-frame" style="width:144px;">
+			<a href="files/page11-1000-full.html"><img src="files/page11-1000-thumb.jpg" alt="20070928_DSC03723.JPG" width="144" height="144"/></a>
+			<p class="thumbnail-caption">20070928_DSC03723.JPG</p>
+		</div>
+	</div>
+</div>
+*/
+
+.album-title {
+	font-size: 2.3em;
+	padding-bottom: 1.0em;
+	line-height: 1.0em;
+}
+
+.album-description {
+	margin-bottom: 80px;
+}
+
+
+.album-wrapper {
+	display: block;
+	width: 99%;
+	position: relative;
+}
+
+.thumbnail-wrap {
+	text-align: center;
+	position: relative;
+	float: left;
+	margin: 0 25px 60px;
+}
+
+.thumbnail-frame {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.thumbnail-frame:hover {
+}
+
+.thumbnail-frame a {
+}
+
+.thumbnail-frame a:hover {
+}
+
+.thumbnail-frame img {
+	border: 4px solid;
+}
+
+.thumbnail-caption {
+	text-align: center;
+}
+	
+/* @end */
+
+/* @group Single Page (Photo view) */
+
+/* sample single page code
+<body class="photo-background">
+
+	<div class="photo-navigation">
+		<p class="photo-title">By Merrifield-Photography.com</p>
+		<p class="photo-caption">20070928_DSC03723</p>
+		<p class="photo-links"><a href="../index.html">RapidWeaver's Photo Album</a> | <a href="page11-1001-full.html">Next</a></p>
+	</div>
+	
+	<img class="photo-frame" src="page11-1000-full.jpg" alt="Loading Image" width="640" height="428"/>
+		
+	<div class="exif-data"><p class="exif-exposure-time">Exposure Time: 1/60</p><p class="exif-pixel-y-dimension">Y Dimension: 2592</p><p class="exif-iso-rating">ISO: 400</p><p class="exif-pixel-x-dimension">X Dimension: 3872</p></div>
+		
+</body>
+*/
+
+.photo-background {
+	text-align: center;
+	margin: 0 auto;
+}
+
+.photo-navigation {
+	width: 904px;
+	text-align: center;
+	margin: 40px auto;
+}
+
+.photo-title {
+	font-size: 2.3em;
+	padding-bottom: 1.0em;
+	line-height: 1.0em;
+}
+
+.photo-caption {
+	font-size: 1.5em;
+	padding-bottom: 1.0em;
+	line-height: 1.0em;
+}
+
+.photo-links {
+}
+
+.photo-navigation a:link, .photo-navigation a:visited {
+}
+
+.photo-navigation a:hover {
+}
+
+.photo-frame {
+	border: 4px solid;
+}
+
+/* @group EXIF data */
+/* Data wrapper */
+.exif-data {
+	width: 300px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.exif-data p {
+	display: inline;
+	margin-right: 10px;
+	text-align: center;
+}
+
+.exif-data p:after {
+	content: ", ";
+}
+
+/* p tag classes for all exif data */
+p.exif-version {
+}
+
+p.exif-colour-space {
+}
+
+p.exif-focal-length {
+}
+
+p.exif-dimensions {
+}
+
+p.exif-pixel-y-dimension {
+}
+
+p.exif-pixel-x-dimension {
+}
+
+p.exif-oecf-value {
+}
+
+p.exif-subsec-time-original {
+}
+
+p.exif-exposure-mode {
+}
+
+p.exif-spatial-frequency-response {
+}
+
+p.exif-scene-capture-type {
+}
+
+p.exif-subject-location {
+}
+
+p.exif-shutter-speed {
+}
+
+p.exif-datetime-original {
+}
+
+p.exif-subsec-time {
+}
+
+p.exif-compressed-bits-per-pixel {
+}
+
+p.exif-flash-energy {
+}
+
+p.exif-saturation {
+}
+
+p.exif-brightness {
+}
+
+p.exif-exposure-time {
+}
+
+p.exif-f-number {
+}
+
+p.exif-file-source {
+}
+
+p.exif-gain-control {
+}
+
+p.exif-subject-area {
+}
+
+p.exif-cfa-pattern {
+}
+
+p.exif-scene-type {
+}
+
+p.exif-white-balance {
+}
+
+p.exif-flash {
+}
+
+p.exif-exposure-index {
+}
+
+p.exif-flashpix-version {
+}
+
+p.exif-device-setting-description {
+}
+
+p.exif-focalplane-x-resolution {
+}
+
+p.exif-image-uniqueid {
+}
+
+p.exif-components-configuration {
+}
+
+p.exif-light-source {
+}
+
+p.exif-sensing-method {
+}
+
+p.exif-aperture {
+}
+
+p.exif-sharpness {
+}
+
+p.exif-exposure-program {
+}
+
+p.exif-subject-distance {
+}
+
+p.exif-subsec-time-digitized {
+}
+
+p.exif-contrast {
+}
+
+p.exif-focalplane-resolution-unit {
+}
+
+p.exif-gamma {
+}
+
+p.exif-35mm-focal-length {
+}
+
+p.exif-datetime-digitized {
+}
+
+p.exif-subject-distance-range {
+}
+
+p.exif-custom-rendered {
+}
+
+p.exif-max-aperture {
+}
+
+p.exif-sound-file {
+}
+
+p.exif-metering-mode {
+}
+
+p.exif-spectral-sensitivity {
+}
+
+p.exif-exposure-bias {
+}
+
+p.exif-focalplane-y-resolution {
+}
+
+p.exif-iso-rating {
+}
+
+p.exif-maker-note {
+}
+
+p.exif-digital-zoom-ratio {
+}
+
+p.exif-user-comment {
+}
+/* @end */
+
+/* @end */
+
+/* @group Flash Slideshow */
+
+#flashcontent {
+	text-align: center;
+}
+
+/* @end */
+	
+/* @end */
+
+/* @group Quicktime Page */
+
+.movie-description {
+}
+	
+/* @end */
+
+/* @group Quicktime Album */
+
+/* @group Index Page (Movie Thumbnail view) */
+
+/* sample Movie Album code
+<div class="movie-page-title">Lotza Moobies</div>
+<div class="movie-page-description">Ahh movies, you have to...</div>
+
+<div class="movie-thumbnail-frame">
+	<a href="files/page10-1000-pop.html" onclick="window.open(this.href, '1000', 'width=700, height=586'); return false;" onkeypress="this.onclick()"><img src="files/page10-1000-thumb.jpg" alt="Kids will say the citest things." width="132" height="92" border="0"/></a>
+	<div class="movie-thumbnail-caption">Kids will say the citest things.</div>
+</div>
+*/
+
+.movie-page-title {
+	font-size: 2.3em;
+	padding-bottom: 1.0em;
+	line-height: 1.0em;
+}
+
+.movie-page-description {
+	padding-bottom: 2.0em;
+}
+
+.movie-thumbnail-frame {
+	float: left;
+	width: 132px;
+	margin: 0 10px 20px;
+}
+
+.movie-thumbnail-frame img {
+	border: 4px solid;
+}
+
+.movie-thumbnail-frame:hover {
+
+}
+
+.movie-thumbnail-caption {
+	width: 95%;
+	text-align: center;
+}
+	
+/* @end */
+
+/* @group Single Page (Movie View) */
+
+/* sample single page code
+<body class="movie-background">
+
+	<div class="movie-frame">
+		<!-- Movie code here !-->
+		<script language="JavaScript" type="text/javascript">
+			QT_WriteOBJECT_XHTML('page10-movie-1.avi', '640', '496', '', 'autoplay', 'false' );
+		</script>
+		<object></object>
+		<!-- Movie code ends !-->
+		<p class="movie-title">Or sometimes say nothing at all.</p>
+	</div>
+
+</body>
+*/
+
+.movie-background {
+}
+
+.movie-frame {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.movie-frame object {
+	border: 4px solid;
+}
+	
+.movie-title {
+	text-align: center;
+}
+
+/* @end */
+
+
+/* @end */
+
+/* @group Contact Form */
+
+/* sample HTML code
+<div class="message-text">
+          Fill in the form below to send me an email.
+</div>
+<form action="...">
+<label>Your Name:</label> *
+<input class="form-input-field" .../>
+<textarea class="form-input-field"...></textarea>
+<input class="form-input-button".../> <input class="form-input-button"
+</form>
+*/
+.message-text { 
+	font-size: 1.5em;
+} 
+
+.required-text {
+	font-size: 1.5em;
+}
+
+form {
+
+}
+
+label {
+
+}
+
+input {
+	
+}
+
+.form-input-field {
+	background-color: #E7DFCA;
+	border: 1px solid;
+	color: #BEE3F1;
+	width: 99%;
+} 
+
+.form-input-button { 
+	margin-right: 10px;
+} 
+/* @end */

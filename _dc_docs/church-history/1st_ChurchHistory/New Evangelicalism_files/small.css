@@ -1,0 +1,19 @@
+body {
+	font-size: 65%;
+}
+
+#site_title, #site_slogan {
+	top: -15px;
+}
+
+* html #toolbar_horizontal ul {
+	top: -6px;
+}
+
+#toolbar_horizontal ul li {
+	line-height: 1.1em;
+}
+
+#toolbar_footer li {
+	line-height: 5em;
+}

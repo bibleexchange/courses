@@ -1,0 +1,7 @@
+#mainContainer,
+.pageHeader,
+.title_block,
+#footerContainer,
+#toolbar_horizontal {
+	width: 920px;
+}

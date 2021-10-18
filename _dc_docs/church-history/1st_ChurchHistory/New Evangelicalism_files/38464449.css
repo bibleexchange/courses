@@ -1,0 +1,386 @@
+body {
+	color: #222322;
+	background: #FFFFFF;
+}
+
+h1, h2, h3, h4, h5, h6,
+sub, sup, s {
+	color: #949771;
+}
+
+pre, .form-input-field {
+	background: #FFFFFF;
+	color: #333333;
+}
+
+.tbh_bg, .blog-entry,
+#blog-categories,
+#blog-archives,
+ul.blog-tag-cloud,
+#blog-rss-feeds,
+.filesharing-item,
+.form-input-field,
+pre,
+.thumbnail-frame img,
+.photo-frame,
+.movie-thumbnail-frame img,
+.movie-frame object {
+	border-color: #383326;
+}
+
+.top-border {
+	background-color: #465D85;
+}
+
+.tbh_bg {
+	background-color: #45587D;
+}
+
+#site_title {
+	color: #FEF399;
+}
+
+#site_slogan {
+	color: #B5D29B;
+}
+
+#sidebarContainer .title {
+	color: #0D0D0A;
+}
+
+#sidebarContainer,
+#footerContainer {
+	color: #1F150B;
+}
+
+#footerContainer {
+	background-color: #273448;
+	border-color: #000000;
+}
+
+#footerContainer .sb-inner {/* background color for < IE 9 */
+	background-color: #273448;
+}
+
+#footerContainer .sb-border {/* boder color for < IE 9 */
+	background: #000000;
+}
+
+
+
+a:link, a:visited, code {
+	color: #0000FF;
+}
+
+a:hover, a:active {
+	color: #A38C62;
+}
+
+/* TOP TAB COLORS AND BACKGROUNDS */
+
+/*LINKS*/
+#toolbar_horizontal ul li.current a:link,
+#toolbar_horizontal ul li.current a:visited {
+	color: #403B3A;
+}
+
+#toolbar_horizontal ul li a:hover,
+#toolbar_horizontal ul li a:active {
+	color: #403B3A;
+}
+
+#toolbar_horizontal ul li.currentAncestor a:link,
+#toolbar_horizontal ul li.currentAncestor a:visited {
+	color: #51494F;
+}
+
+#toolbar_horizontal ul li.currentAncestor a:hover,
+#toolbar_horizontal ul li.currentAncestor a:active {
+	color: #6B6665;
+}
+
+#toolbar_horizontal ul li.normal a:link,
+#toolbar_horizontal ul li.normal a:visited {
+	color: #51494F;
+}
+
+#toolbar_horizontal ul li.normal a:hover,
+#toolbar_horizontal ul li.normal a:active {
+	color: #403B3A;
+}
+
+/*BACKGROUNDS*/
+#toolbar_horizontal ul li.current {
+	background: #CED1AD;
+}
+
+#toolbar_horizontal ul li.current .sb-inner {/* background color for < IE 9 */
+	background: #CED1AD;
+}
+
+#toolbar_horizontal ul li {
+	background: #ECF1EB;
+}
+
+#toolbar_horizontal ul li .sb-inner {/* background color for < IE 9 */
+	background: #ECF1EB;
+}
+
+#toolbar_horizontal ul li:hover {
+	position: relative;
+	background:#FEFFDC;
+}
+
+#toolbar_horizontal ul li:hover .sb-inner {/* background color for < IE 9 */
+	position: relative;
+	background:#FEFFDC;
+}
+
+* html #toolbar_horizontal ul li.hover,
+* html #toolbar_horizontal ul li.hover .sb-inner {/* background color for IE 6 */
+	background:#FEFFDC;
+}
+
+#toolbar_horizontal ul li.currentAncestor {
+	background:#C9CBA0;
+}
+
+#toolbar_horizontal ul li.currentAncestor .sb-inner {/* background color for < IE 9 */
+	background:#C9CBA0;
+}
+
+#toolbar_horizontal ul li.currentAncestor:hover {
+	position: relative;
+	background:#FFFFFF;
+}
+
+#toolbar_horizontal ul li.currentAncestor:hover .sb-inner {/* background color for < IE 9 */
+	position: relative;
+	background:#FFFFFF;
+}
+
+* html #toolbar_horizontal ul li.currentAncestor.hover,
+* html #toolbar_horizontal ul li.currentAncestor.hover .sb-inner {/* background color for IE 6 */
+	background:#FFFFFF;
+}
+
+#toolbar_horizontal ul li.normal {
+	background: #ECF1EB;
+}
+
+#toolbar_horizontal ul li.normal .sb-inner {/* background color for < IE 9 */
+	background: #ECF1EB;
+}
+
+#toolbar_horizontal ul li.normal:hover {
+	position: relative;
+	background:#FEFFDC;
+}
+
+#toolbar_horizontal ul li.normal:hover .sb-inner {/* background color for < IE 9 */
+	position: relative;
+	background:#FEFFDC;
+}
+
+* html #toolbar_horizontal ul li.normal.hover,
+* html #toolbar_horizontal ul li.normal.hover .sb-inner {/* background color for IE 6 */
+	background:#FEFFDC;
+}
+
+/*BORDERS*/
+#toolbar_horizontal ul li {
+	border-color: #000000;
+}
+
+#toolbar_horizontal ul li .sb-border {/* boder color for < IE 9 */
+	background: #000000;
+}
+
+/* END TOP TAB COLORS AND BACKGROUNDS */
+
+/* SUB TAB COLORS AND BACKGROUNDS */
+
+#toolbar_sub {
+	background-color: #283449;
+}
+
+/*LINKS*/
+#toolbar_sub ul ul li.current a:link,
+#toolbar_sub ul ul li.current a:visited {
+	color: #403B3A;
+}
+
+#toolbar_sub ul ul li a:hover,
+#toolbar_sub ul ul li a:active {
+	color: #3C3827;
+}
+
+#toolbar_sub ul ul li.currentAncestor a:link,
+#toolbar_sub ul ul li.currentAncestor a:visited {
+	color: #51494F;
+}
+
+#toolbar_sub ul ul li.currentAncestor a:hover,
+#toolbar_sub ul ul li.currentAncestor a:active {
+	color: #403B3A;
+}
+
+#toolbar_sub ul ul li.normal a:link,
+#toolbar_sub ul ul li.normal a:visited {
+	color: #2B2215;
+}
+
+#toolbar_sub ul ul li.normal a:hover,
+#toolbar_sub ul ul li.normal a:active {
+	color: #3C3827;
+}
+
+/*BACKGROUNDS*/
+#toolbar_sub ul ul li.current {
+	background: #BEBB96;
+}
+
+#toolbar_sub ul ul li.current .sb-inner {/* background color for < IE 9 */
+	background: #BEBB96;
+}
+
+#toolbar_sub ul ul li {
+	background: #D0D0B5;
+}
+
+#toolbar_sub ul ul li .sb-inner {/* background color for < IE 9 */
+	background: #D0D0B5;
+}
+
+#toolbar_sub ul ul li:hover {
+	position: relative;
+	background:#FCFFE0;
+}
+
+#toolbar_sub ul ul li:hover .sb-inner {/* background color for < IE 9 */
+	position: relative;
+	background:#FCFFE0;
+}
+
+* html #toolbar_sub ul ul li.hover,
+* html #toolbar_sub ul ul li.hover .sb-inner {/* background color for IE 6 */
+	background:#FCFFE0;
+}
+
+#toolbar_sub ul ul li.currentAncestor {
+	background:#DCD1AC;
+}
+
+#toolbar_sub ul ul li.currentAncestor .sb-inner {/* background color for < IE 9 */
+	background:#DCD1AC;
+}
+
+#toolbar_sub ul ul li.currentAncestor:hover {
+	position: relative;
+	background:#BAB879;
+}
+
+#toolbar_sub ul ul li.currentAncestor:hover .sb-inner {/* background color for < IE 9 */
+	position: relative;
+	background:#BAB879;
+}
+
+* html #toolbar_sub ul ul li.currentAncestor:hover,
+* html #toolbar_sub ul ul li.currentAncestor:hover .sb-inner {/* background color for IE 6 */
+	background:#BAB879;
+}
+
+#toolbar_sub ul ul li.normal {
+	background: #D0D0B5;
+}
+
+#toolbar_sub ul ul li.normal .sb-inner {/* background color for < IE 9 */
+	background: #D0D0B5;
+}
+
+#toolbar_sub ul ul li.normal:hover {
+	position: relative;
+	background:#FCFFE0;
+}
+
+#toolbar_sub ul ul li.normal:hover .sb-inner {/* background color for < IE 9 */
+	position: relative;
+	background:#FCFFE0;
+}
+
+* html #toolbar_sub ul ul li.normal.hover,
+* html #toolbar_sub ul ul li.normal.hover .sb-inner {/* background color for IE 6 */
+	background:#FCFFE0;
+}
+
+/*BORDERS*/
+#toolbar_sub ul ul li {
+	border-color: #5A5238;
+}
+
+#toolbar_sub ul ul li .sb-border {/* background color for < IE 9 */
+	background: #5A5238;
+}
+
+/* END SUB TAB COLORS AND BACKGROUNDS */
+
+/* toolbar_vertical */
+
+#toolbar_vertical .currentAncestor a:link,
+#toolbar_vertical .currentAncestor a:visited {
+	color: #3E392A;
+}
+
+#toolbar_vertical .currentAncestor a:hover,
+#toolbar_vertical .currentAncestor a:active {
+	color: #99813C;
+}
+
+#toolbar_vertical .current a:link,
+#toolbar_vertical .current a:visited {
+	color: #64665A;
+}
+
+#toolbar_vertical .current a:hover,
+#toolbar_vertical .current a:active {
+	color: #999467;
+}
+
+#toolbar_vertical .normal a:link,
+#toolbar_vertical .normal a:visited {
+	color: #999075;
+}
+
+#toolbar_vertical .normal a:hover,
+#toolbar_vertical .normal a:active {
+	color: #775C36;
+}
+
+#toolbar_vertical ul ul ul,
+#toolbar_vertical ul ul ul li a {
+	border-color: #655D48;
+}
+
+#toolbar_vertical ul ul ul {
+	background-color: #E1F1FF;
+}
+
+/* toolbar_footer */
+
+.footer {
+	color: #D2CF91;
+}
+
+.footer a:link,
+.footer a:hover,
+#toolbar_footer ul li a:link,
+#toolbar_footer ul li a:visited {
+	color: #AF9968;
+}
+
+.footer a:hover,
+.footer a:visited,
+#toolbar_footer ul li a:hover,
+#toolbar_footer ul li a:active {
+	color: #FEF499;
+}
