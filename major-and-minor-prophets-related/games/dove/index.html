@@ -1,0 +1,74 @@
+<html>
+	<head>
+		<style>
+			html, body {
+				padding: 0;
+				margin: 0;
+			}
+
+			canvas {
+				position: absolute;
+				left: 0;
+				top: 0;
+				margin: 0;
+				padding: 0;
+			}
+
+		</style>
+	</head>
+	<body>
+		
+		<canvas id="canvas"></canvas>
+
+		<script>
+			const canvas = document.getElementById('canvas')
+			const ctx = canvas.getContext('2d')
+
+			canvas.width = 1080
+			canvas.height = 720
+
+			ctx.fillStyle = "black"
+			ctx.fillRect(0,0,canvas.width,canvas.height)
+
+			i = 0;
+			let x,y, width, height;
+
+			ctx.fillStyle = "red"
+			let grow = true;
+
+			function draw(){
+				road()
+				ctx.fillStyle = "red"
+
+				if(i == 180 ){
+					grow = false
+				}else if(i == 0){
+					grow = true
+				}
+
+				width = 5*i;
+				height = (5*i)*(canvas.height/canvas.width);
+
+				x = canvas.width/2 - (width/2)
+				y = canvas.height/2 - (height/2)
+					
+				ctx.fillRect(x,y,width,height)
+				console.log(grow,i)
+				grow? i++:i--;
+				window.requestAnimationFrame(draw)
+			}
+
+			function road(){
+				const img = document.createElement('img')
+				img.src = "road.png"
+
+				ctx.drawImage(img,0,0,canvas.width,canvas.height)
+			}
+
+			draw()
+
+
+	
+		</script>
+	</body>
+</html>

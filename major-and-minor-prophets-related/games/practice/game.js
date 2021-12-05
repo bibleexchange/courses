@@ -1,8 +1,18 @@
-// Frank Poth 03/09/2018
-
 /* The Game class has been updated with a new Player class and given a new world
 object that controls the virtual game world. Players, NPCs, world dimensions, collision
 maps, and everything to do with the game world are stored in the world object. */
+
+const Scene = (id)=>{
+  this.id = id,
+  this.draw = ()=>{
+    switch(this.id){
+
+      case 'mountains':
+        return 
+        break;
+    }
+  },
+}
 
 const Game = function() {
 
@@ -17,6 +27,10 @@ const Game = function() {
 
     height:72,
     width:128,
+    current_level:1,
+    level_data:[
+      {scene: new Scene('mountains')}
+    ],
 
     collideObject:function(object) {
 

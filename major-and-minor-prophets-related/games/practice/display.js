@@ -1,8 +1,3 @@
-// Frank Poth 03/09/2018
-
-/* This class hasn't changed much since part 1. All it does now is resize the canvas
-a bit differently and draw rectangles to the buffer. */
-
 const Display = function(canvas) {
 
   this.buffer  = document.createElement("canvas").getContext("2d"),
@@ -12,6 +7,12 @@ const Display = function(canvas) {
 
     this.buffer.fillStyle = color;
     this.buffer.fillRect(Math.floor(x), Math.floor(y), width, height);
+
+  };
+
+  this.drawBackground = function(level) {
+    this.buffer.fillStyle = blue;
+    this.buffer.fillCircle(50, 50, 50, 50);
 
   };
 
