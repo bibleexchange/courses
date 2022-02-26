@@ -5,11 +5,11 @@ body {
   margin: 0;
 }
 p {
-  margin-top: 1rem;
+  margin-top: 0.75rem;
   text-decoration: underline;
 }
 h1 {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   page-break-before: always;
   counter-reset: heading;
   font-family: 'Open Sans Condensed';
@@ -17,7 +17,7 @@ h1 {
 h2 {
   font-weight: normal;
   font-size: 1rem;
-  margin-top: 1.5rem;
+  margin-top: 1.4rem;
   line-height: 1.5;
   text-indent: -2rem;
   margin-left: 2rem;
@@ -44,7 +44,12 @@ ol li {
 .answers-hidden p strong {
   display: none;
 }
-.answers-hidden li strong {
+
+.answers-hidden strong {
+  font-weight: normal;
+}
+
+.answers-hidden > li > strong {
   font-weight: normal;
   color: transparent;
   border-bottom: 1px solid black;

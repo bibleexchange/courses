@@ -34,10 +34,6 @@ Fill in the missing words.
 
 ## I Corinthians 12:13—"For by **one** **Spirit** are we all baptized into **one** **body**…"
 
-## These seven churches are described individually from **Revelation 2:1** to **Revelation 3:22**.
-
-## The word _Ephesus_ means **desirable**.
-
 ## Paul established churches at **Philippi**, **Thessalonica**, **Berea**, **Athens**, and **Corinth**.
 
 ## **John** was the youngest of the Apostles.
@@ -74,13 +70,6 @@ Circle the correct answer.
 2. The Day of Pentecost
 3. **The Edict of Constantine**
 4. The Fall of Rome
-
-## What does the word "Smyrna" mean?
-
-1. **Crushed**
-2. Desirable
-3. Remnant
-4. Married
 
 ## Who was a leader of the Persecuted church?
 
@@ -125,10 +114,6 @@ Answer true or false.
 
 **False**
 
-## In AD 303 the Emperor Diocletian began the tenth and fiercest persecution of Christians that is called "The Great Persecution."
-
-**True**
-
 ## The word _canon_ means "a rod, rule or measuring device."
 
 **True**
@@ -139,30 +124,12 @@ Answer true or false.
 
 # Church History Study Questions 3: Imperial Church
 
-## Which of the Seven Churches described in the Book of Revelation correspond to this period?
-
-1. Ephesus 
-2. Smyrna
-3. Thyatira 
-4. **Pergamos**
-
-## How does eating things sacrificed to idols (Rev. 2:14) apply to this period?
-
-1. The Keeping of the Sabbath
-2. The Rememberance of Calvary
-3. **The Roman Catholic Wafer**
-4. The Pagan Salt Sacrifice
-
 ## What sign did Constantine supposedly see in the sky?
 
 1. **A Cross**
 2. A Dove
 3. A Sword
 4. A Rainbow
-
-## True or False? St. Peter was the first pope.
-
-**False. Constantine was the first historical pope.**
 
 ## What formed a natural barrier between The Eastern and Western Empires of Rome?
 
@@ -183,20 +150,6 @@ Answer true or false.
 4. Paganism is in harmony with Scripture
 
 # Church History Study Questions 4: Medieval Church
-
-## What does THYATIRA mean?
-
-1. Married
-2. Justified
-3. **Continual sacrifice**
-4. Eternal gift
-
-## According to Revelation 2:20 who was being seduced by Jezebel?
-
-1. Gentiles
-2. Sinners
-3. **Servants of God**
-4. Missionaries
 
 ## Why is this period called the dark ages?
 
@@ -234,13 +187,6 @@ Answer true or false.
 **FALSE. He was burned at the stake.**
 
 # Church History Study Questions 5: Reformed Church
-
-## What does the church name "Sardis" mean?
-
-1. Reknown
-2. Request
-3. Repairer
-4. **Remnant**
 
 ## What really brought Europe out of the Dark Ages?
 
@@ -280,7 +226,7 @@ Answer true or false.
 
 ## Fill in the blank. The people called **Separatists** were those we wanted to separate from the Church of England.
 
-## Fill in the blank. The people called **Puritans** were those we wanted to purify from the Church of England. 
+## Fill in the blank. The people called **Puritans** were those we wanted to purify from the Church of England.
 
 ## TRUE or FALSE. John Knox led the Reformation in Scotland.
 
@@ -299,13 +245,6 @@ Answer true or false.
 **False. The Jesuits led a counter reformation against the Protestants.**
 
 # Church History Study Questions 6: Modern Church
-
-## What does PHILADELPHIA mean?
-
-1. **Brotherly love**
-2. Mercy of God
-3. Patience of hope
-4. City of peace
 
 ## Which of the following group of words best describes the Modern Church Period?
 
@@ -335,7 +274,7 @@ Answer true or false.
 3. Catholic Eucharist
 4. **Calvin's Predestination**
 
-## Fill in the blank. **William** **Carey** was the father of the modern missionary movement. 
+## Fill in the blank. **William** **Carey** was the father of the modern missionary movement.
 
 ## Fill in the blank. **David** **Livingstone** was called the pathfinder of Africa.
 
@@ -361,34 +300,6 @@ Answer true or false.
 
 # Church History Study Questions 7: Postmodern Church
 
-## What does the word LAODICEA mean?
-
-1. Mixture of doctrine
-2. Backsliding
-3. Compromise with sin
-4. **Rule by the people**
-
-## Why did Jesus say He would spew the Laodicean church out of His mouth?
-
-1. **Lukewarmness**
-2. Drunkenness
-3. Rebellion
-4. Repentance
-
-## In what verse in Revelations, did Jesus describe this church period as wretched, miserable, poor, blind, and naked?
-
-1. **3:17**
-2. 3:22
-3. 4:9
-4. 3:12
-
-## What do New Evangelicals emphasize?
-
-1. Inerrancy of scripture
-2. Witnessing to sinners
-3. **Compromise**
-4. Fresh anointing
-
 ## Fill in the blank. The charismatic movement came out of the **Catholic** **Church**.
 
 ## Fill in the blank. The **gospel** **of** **prosperity** has replaced the Gospel of Jesus Christ in many of our modern churches.
@@ -398,10 +309,5 @@ Answer true or false.
 **FALSE**
 
 ## TRUE or FALSE. The Postmodern Church Period is run by the ballot box.
-
-**TRUE**
-
-
-## TRUE or FALSE. New Evangelicals believe there are errors in the Bible and some even denied Christ's Deity.
 
 **TRUE**

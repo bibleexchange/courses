@@ -18,8 +18,8 @@ Zungushia duara jibu sahihi.
 
 ## Nani aliyekuwa mchungaji wa Kanisa la Yerusalem?
 
-1. Yakobo, kaka yake Yohana 
-2. Yohana, kaka yake Yakobo 
+1. Yakobo, kaka yake Yohana
+2. Yohana, kaka yake Yakobo
 3. **Yakobo, kaka yake Yesu**
 4. Petro, Kaka yake Andrea
 
@@ -33,10 +33,6 @@ Zungushia duara jibu sahihi.
 Andika maana ya maneno mapya au yaliyokosekana.
 
 ## I Wakorinto 12:13—"Kwa maana katika **Roho** **mmoja** wote tulibatizwa katika **mwili** **mmoja**…"
-
-## MaKanisa haya saba yanayotajwa katika **Ufunuo 2:1** hadi **Ufunuo 3:22** yamesimuliwa sambamba na vipindi saba vya historia ya kanisa. 
-
-## Neno _Efeso_ maana yake ni **inayovutia**.
 
 ## Paulo alifanya safari nyingi za kueneza injili na alianzisha makanisa huko **Filipi**, **Thesalonike**, **Berea**, **Athene**, na **Korinto**.
 
@@ -68,19 +64,12 @@ Jibu kweli au sio kweli.
 
 Zungushia duara swali sahihi.
 
-## Ni tukio gani la mwisho kwenye kipindi cha  Kanisa la mateso?
+## Ni tukio gani la mwisho kwenye kipindi cha Kanisa la mateso?
 
 1. Ukamilifu wa Agano jipya
 2. Siku ya Pentecoste
 3. **Hati ya Kostantino**
 4. Anguko la Rumi
-
-## Neno "Smirna" lina maanisha nini?
-
-1. **Iliyopondwa**
-2. Inayovutia
-3. Mabaki
-4. Iliyoolewa
 
 ## Nani alikuwa kiongozi wa Kanisa la mateso?
 
@@ -125,10 +114,6 @@ Jibu kweli au sio kweli.
 
 **Sio kweli**
 
-## Katika mwaka wa 303 BK Mfalme Diocletiani alianzisha kipindi cha mateso makali sana kwa wakristo yaliyojulikana kama "Mateso Makuu."
-
-**Kweli**
-
 ## Neno _kanuni_ lina maana "ya fimbo, sheria, au kifaa cha kupimia."
 
 **Kweli**
@@ -139,30 +124,12 @@ Jibu kweli au sio kweli.
 
 # Maswali ya kujifunza Historia ya Kanisa 3: Kanisa la Kifalme
 
-## Kanisa lipi lililoelezewa katika kitabu cha Ufunuo kuhusiana na kipindi hiki?
-
-1. Efeso 
-2. Smirna 
-3. Thyatira
-4. **Pergamo**
-
-## Jinsi gani kuliwa kwa vitu vitu vilivyotolewa sadaka kwa sanamu (Uf. 2:14) husianisha na kipindi hiki?
-
-1. Kushika sabato
-2. Ukumbusho wa Kalivari 
-3. **Kanisa Katoliki la Roma komunio**
-4. Dhabihu ya chuvi ya kipagani
-
 ## Ni ishara gani ambayo Constantine kwa kudhani aliiona angani?
 
 1. **Msalaba**
 2. Njiwa
 3. Upanga
 4. Upinde wa mvua
-
-## Kweli au si kweli? Mt. Petro alikuwa Papa wa kwanza.
-
-**Sikweli. Constantino alikuwa Papa wa kwanza wa kihistoria.**
 
 ## Ni nini iliofanya kizuizi cha asili kati ya mashariki na magharibi ya utawala wa Roma?
 
@@ -177,26 +144,12 @@ Jibu kweli au sio kweli.
 
 ## Elezea uhusiano wa ukristo na upagani tangu kipindi hiki?
 
-1. **Kanisa liliingiliwa  na Upagani**
+1. **Kanisa liliingiliwa na Upagani**
 2. Kanisa lilipingana na upagani
 3. Upagani ulikuwa umekomeshwa tangu kipindi hiki
 4. Upagani una ulinganifu na maandiko
 
 # Maswali ya kujifunza Historia ya Kanisa 4: Kanisa la zama za kati
-
-## Thiatira inamaanisha nini?
-
-1. Ilioolewa
-2. Kuhesabiwa haki
-3. **Kujitolea daima**
-4. Zawadi ya milele
-
-## Kulingana na Ufunuo 2:20 nani alikuwa ameshawishiwa na Yezebeli?
-
-1. Wamataifa
-2. Wenye dhambi
-3. **Watumishi wa Mungu**
-4. Wamishionari
 
 ## Kwa nini kipindi hiki kinaitwa zama za giza?
 
@@ -235,13 +188,6 @@ Jibu kweli au sio kweli.
 
 # Maswali ya kujifunza Historia ya Kanisa 5: Kanisa la Matengenezo
 
-## Jina la kanisa ni nini "Sardi" inamaanisha nini?
-
-1. Kujua
-2. Kuomba
-3. Kurudishia
-4. **Mabaki**
-
 ## Ni nini kwa wazi ili ileta Ulaya inje ya zama za Giza?
 
 1. Habari za kuaminika
@@ -278,7 +224,7 @@ Jibu kweli au sio kweli.
 
 ## Jaza nafasi ilio achwa wazi. Tahehe 24 ya Agosti 1572 Waprotestanti elfu ishirini waliuawa kwa siku moja siku ambayo inakumbukwa kama **siku** **ya** **mauaji** **ya** **Mtakatifu** **Bartholomeo**.
 
-## Jaza nafasi ilio achwa wazi. **Watawanyishi** walikuwa ni wale waliotaka kujitenga na kanisa la Anglikana. 
+## Jaza nafasi ilio achwa wazi. **Watawanyishi** walikuwa ni wale waliotaka kujitenga na kanisa la Anglikana.
 
 ## Jaza nafasi ilio achwa wazi. **Watakasaji** walikuwa ni wale waliotaka kanisa la Anglikana litakaswe.
 
@@ -292,20 +238,13 @@ Jibu kweli au sio kweli.
 
 ## KWELI au SIO KWELI. Mapatano ya Mayflower yaliwekewa msingi juu ya kanuni kisayansi.
 
-**Sio kweli. Mapatano ya  Mayflower ya liwekewa msingi juu ya kanuni za kiBiblia. (mapatano ya  Mayflower ya likuwa katiba ya kwanza ya serikali ya dunia ya kwanza.)**
+**Sio kweli. Mapatano ya Mayflower ya liwekewa msingi juu ya kanuni za kiBiblia. (mapatano ya Mayflower ya likuwa katiba ya kwanza ya serikali ya dunia ya kwanza.)**
 
 ## KWELI au SIO KWELI. Waislamu waliongoza idadi ya matengenezo dhidi ya Waporostant.
 
 **Sio kweli. WaYesuit waliongoza idadi ya matengenezo dhidi ya Waporotestant.**
 
 # Maswali ya kujifunza Historia ya Kanisa 6: Kanisa la kisasa
-
-## PHILADELPHIA ina maanisha nini?
-
-1. **Upendo wa kindugu**
-2. Huruma ya Mungu
-3. Uvumilivu wa tumaini
-4. Mji wa amani
 
 ## Ni maneno yapi katika kundi la maneno yafuatayo ambayo ni maelezo bora kwa kipindi cha kanisa la kisasa?
 
@@ -339,7 +278,7 @@ Jibu kweli au sio kweli.
 
 ## Jaza nafasi ilioachwa wazi. **David** **Livingstone** alikuwa ameitwa mtafuta njia barani Afrika.
 
-## Jaza nafasi ilioachwa wazi. Uamsho wa mtaa **Azusa** wa 1906 ulikuwa umwagikaji wenye nguvu wa Roho Mtakatifu katika Los Angelas California. 
+## Jaza nafasi ilioachwa wazi. Uamsho wa mtaa **Azusa** wa 1906 ulikuwa umwagikaji wenye nguvu wa Roho Mtakatifu katika Los Angelas California.
 
 ## Jaza nafasi ilioachwa wazi. Billy **Sunday** na Smith **Wigglesworth** walikuwa wahubiri wasio weza wa kipindi hiki. (majina yao walikuwa nani?)
 
@@ -361,34 +300,6 @@ Jibu kweli au sio kweli.
 
 # Maswali ya kujifunza Historia ya Kanisa 7: Kanisa la Baada ya Kisasa
 
-## Neno la LAODIKIA linamaanisha nini?
-
-1. Mafundisho ya mchanganyo
-2. Kurudi nyuma
-3. Kufanya mapatano na dhambi
-4. **Utawala wa watu**
-
-## Kwanini Yesu alisema angelitapika kanisa la Laodikia kutoka kinywani mwake?
-
-1. **Uvuguvugu**
-2. Ulevi
-3. Uasi
-4. Toba
-
-## Katika msitari gani wa Ufunuo Yesu anaelezea kipindi cha kanisa hili kama u mnyonge, mwenye mashaka, maskini, kipofu, na uchi?
-
-1. **3:17**
-2. 3:22
-3. 4:9
-4. 3:12
-
-## Wainjilisti wapya husisitiza nini?
-
-1. Ruhusa ya maandiko matakatifu
-2. Kushuhudia wenye dhambi
-3. **Maelewano**
-4. Upako safi
-
 ## Jaza nafasi ilioachwa wazi. Vuguvugu la ukarismatiki lilianzia ndani ya **Kanisa** **Katoliki**.
 
 ## Jaza nafasi ilio achwa wazi. **Injili** **ya** **mafanikio** imeshaiondoa injili ya Yesu Kristo katika makanisa mengi ya kisasa.
@@ -398,10 +309,5 @@ Jibu kweli au sio kweli.
 **SIOKWELI**
 
 ## KWELI au SIOKWELI. Kanisa la Baada ya Kisasa linaendeshwa kwa sanduku la kura.
-
-**KWELI**
-
-
-## KWELI au SIOKWELI. Wainjlishaji wapya wanaamini kwamba kuna makosa katika Biblia na wengine wanakataa Umungu wa Kristo.
 
 **KWELI**
