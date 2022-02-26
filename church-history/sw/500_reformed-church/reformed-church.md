@@ -1,13 +1,13 @@
-# Tano: Kanisa lililotengenezwa upya (1453–1678 BK) 
+# Tano: Kanisa lililotengenezwa upya (1453–1678 BK)
 
 Tangu anguko la Konstantino mpaka mwishoni mwa Vita vya miaka Thelathini.
 
 ## Yale mabaki
 
-Sardi maana yake ni mabaki (Ufunuo 3:1&ndash;6).
+Sardi maana yake ni mabaki (Ufunuo 3:1–6).
 
 ### Uwe mwangalifu na uviamrishe vitu vilivyobaki ambavyo viko tayari kufa kwa sababu sijaona kama kazi zako ni kamilifu mbele ya Mungu wangu (mst. 2)
- 
+
 Yesu alilitia moyo kanisa kuwa macho na kulinda mabaki ya vitu vya Mungu ambavyo bado havijafa.
 
 ### Kwa hiyo ukumbuke jinsi wewe ulivyopokea na kusikia, thamini na utubu (mst. 3)
@@ -34,7 +34,7 @@ Mashine ya uchapishaji ulivumbuliwa huko Gutenberg mwaka 1456 na kitabu cha kwan
 
 ### Mwanga wa ukweli
 
-Mashine inayohamishika ya kuchapisha iligeuka chombo muhimu sana katika mageuzo ya kanisa. Wanamageuzi walichapisha vitabu na vitini vya kufundisha kupinga mafandisho wa Kanisa la Katoliki na uukweli kuhusu kuhesabiwa haki kwa imani. Vitini hivi vipya vilipata umaarufu na kusambazwa bara lote la Ulaya. Ilibid ivitabu vinakiliwe kwa mikono na waandishi kabla ya uvumbuzi wa mashine ya uchapishaji na sasa vitabu viliweza kusambazwa kwa haraka. Watu waliweza kusoma na kufanya uamuzi wao wenyewe kwa msingi wa ukweli si tu kwa kile alichosema kuhani.
+Mashine inayohamishika ya kuchapisha iligeuka chombo muhimu sana katika mageuzo ya kanisa. Wanamageuzi walichapisha vitabu na vitini vya kufundisha kupinga mafandisho ya Kanisa la Katoliki na uukweli kuhusu kuhesabiwa haki kwa imani. Vitini hivi vipya vilipata umaarufu na kusambazwa bara lote la Ulaya. Ilibid ivitabu vinakiliwe kwa mikono na waandishi kabla ya uvumbuzi wa mashine ya uchapishaji na sasa vitabu viliweza kusambazwa kwa haraka. Watu waliweza kusoma na kufanya uamuzi wao wenyewe kwa msingi wa ukweli si tu kwa kile alichosema kuhani.
 
 ## Mageuzo
 
@@ -64,13 +64,13 @@ Kuzunguka miaka ya 1533 BK Yohana Kalvini alijitoa kutoka Ukatoliki, aliiacha nc
 
 Yohane Kalvini alikuwa ni mhubiri aliyekuwaa mwazi na mwandishi ambaye alihubiri ukombozi kwa imani akisisitiza mamlaka ya Injili. Kalivini akafundisha kwamba kufanikiwa ni kwa wateule tu. Alisema, "huwezi kumtenga Mungu au kumweka yeye katika deni lako. Yeye alikuokoa; usingeweza kufanya hinyo mwenyewe." Mafundisho ya Calvin ya Mungu kutujua tangu mwanzo ni ni kuimarika kwa Arminianism, ambaye walijikita juu ya imani ambayo mtu yeyote anaweza kuokolewa kama ataamini.
 
-| Kalvinism | Arminianism |
-| --------- | ----------- |
+| Kalvinism                                                                             | Arminianism                                                    |
+| ------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | **Kumnyima kamili** <br> Watu wote ni wenye dhambi sana hata hawawezi kumwamini Mungu | **Utashi huru** <br> Wanadamu wanaweza kuchagua mema au mabaya |
-| **Masharti ya kutochaguliwa (wateule)** | **Masharti kuchagua (kuteuliwa)** |
-| **Ukombozi kwa wateule** | **Ukombozi kwa wote** |
-| **Pingamizi kwa neema** | **Roho Mtakatifu anaweza kukuzuia** |
-| **Huwezi kupoteza wokovu (utakatifu)** | **Waweza kupoteza wokovo** | 
+| **Masharti ya kutochaguliwa (wateule)**                                               | **Masharti kuchagua (kuteuliwa)**                              |
+| **Ukombozi kwa wateule**                                                              | **Ukombozi kwa wote**                                          |
+| **Pingamizi kwa neema**                                                               | **Roho Mtakatifu anaweza kukuzuia**                            |
+| **Huwezi kupoteza wokovu (utakatifu)**                                                | **Waweza kupoteza wokovo**                                     |
 
 #### Jakizi Lefeve (1455–1536) huko Ufaransa
 
@@ -130,11 +130,11 @@ Wasafiri wale waliofika katika Dunia mpya walikuwa ni watawanyishi kutoka Uinger
 
 Kusudi kuu la baraza lilikuwa kushughulikia masuala na maswali yaliyotolewa na wafuasi wa Kiprotestanti. Matendo ya wafuasi walilazimika Kanisa Katoliki kutambua kwamba kulikuwa na masuala katika kanisa ambalo lilihitaji kushughulikiwa. Baraza ya Trent ilifanyika katika hatua tatu kati ya 1545 na 1563. Kufuatia ni baadhi ya maamuzi na matokeo kutoka kwa baraza:
 
-* Walifanya mageuzi kwa wachungaji. Waliamua kuwa maaskofu wangeweza kushikilia ofisi moja tu, ili waweze kuzingatia makutaniko yao.
-* Walisema kwamba Maandiko na mila zina mamlaka sawa.
-* Waliweka nafasi ya "aliongoza utakatifu" kwa haki. Hii ina maana kwamba Mungu anampa mwamini fursa na nguvu ya kuwa nzuri, na ni kwa muumini kujibu.
-* Walithibitisha sakramenti saba, ambazo ni ubatizo, uthibitisho, Ekaristi, uvunjaji, unction kali (upako wa wagonjwa), amri takatifu, na ndoa.
-* Walisema wazi mafundisho ya ibada ya watakatifu. Walisema kwamba sanamu za watakatifu hawakupaswa kuabudu kwao wenyewe, bali kwamba kulikuwa na ukweli wa kiroho zaidi ya vitu vya kimwili.
+- Walifanya mageuzi kwa wachungaji. Waliamua kuwa maaskofu wangeweza kushikilia ofisi moja tu, ili waweze kuzingatia makutaniko yao.
+- Walisema kwamba Maandiko na mila zina mamlaka sawa.
+- Waliweka nafasi ya "aliongoza utakatifu" kwa haki. Hii ina maana kwamba Mungu anampa mwamini fursa na nguvu ya kuwa nzuri, na ni kwa muumini kujibu.
+- Walithibitisha sakramenti saba, ambazo ni ubatizo, uthibitisho, Ekaristi, uvunjaji, unction kali (upako wa wagonjwa), amri takatifu, na ndoa.
+- Walisema wazi mafundisho ya ibada ya watakatifu. Walisema kwamba sanamu za watakatifu hawakupaswa kuabudu kwao wenyewe, bali kwamba kulikuwa na ukweli wa kiroho zaidi ya vitu vya kimwili.
 
 #### Wachungaji waliobadilishwa (Wayesuiti)
 

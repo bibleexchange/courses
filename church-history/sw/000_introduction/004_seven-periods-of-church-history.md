@@ -22,13 +22,13 @@ Kipindi cha kwanza tutakachojifunza ni kipindi cha Mitume ambacho kina uwiano na
 
 MWANZO: Kuanzia kukamilishwa Agano Jipya kwenye (100 BK)
 
-MWISHO: Hadi kutolewakwa Hati ya Constantino (313 BK)
+MWISHO: Hadi kutolewakwa Hati ya Konstantino (313 BK)
 
 Kipindi chamateso kina uwiano na kanisa la Smirna. Neno Smirna maana yake iliyogandamizwa au iliyopondwa. Hiki ni kipindi cha mateso makuu kwa kanisa. Kanisa liligandamizwa mno chini ya Ufalme wa Kirumi.
 
 ### KANISA LA KIFALME — Pergamo — "lililoolewa"
 
-MWANZO: Kuanzia kutolewa kwa Hati ya Constantino (313 BK)
+MWANZO: Kuanzia kutolewa kwa Hati ya Konstantino (313 BK)
 
 MWISHO: Hadi anguko la Roma (476 BK)
 
@@ -38,13 +38,13 @@ Neno la Ufalme linahusiana na mfalme au mtawala. Kipindi cha kifalme kina uwiano
 
 MWANZO: Tangu anguko la Roma (476 BK)
 
-MWISHO: Hadi anguko la Constatinopo (1453 BK)
+MWISHO: Hadi anguko la Konstatinopo (1453 BK)
 
 Zama za enzi za Kati zinauwiano na kanisa la Thiatira. Neno Thiatira maana yake ni kujitolea daima. Wakati huu kanisa Katoliki lilikuwa na mamlaka makubwa katika bara la Ulaya. Maneno kujitolea daima yanaelezea kuhusu mkate katika misa ya kanisa Katoliki. Wakatoliki wanafundisha kwamba Yesu hutolewa kila wiki wakati wa misa.
 
-### KANISA LILILOTENGENEZWA — Sardis — "mabaki"
+### KANISA LILILOTENGENEZWA — Sardi — "mabaki"
 
-MWANZO: Tangu anguko la Constantinipo (1453 BK)
+MWANZO: Tangu anguko la Konstantinipo (1453 BK)
 
 MWISHO: Hadi mwisho wa vita vya miaka 30 (1678 BK)
 

@@ -2,7 +2,7 @@
 
 Toka anguko la Roma hadi anguko la Konstatinopo.
 
-## Kanisa la zama za enzi kati lilifanana tabia na Thiatira (2:18&ndash;29)
+## Kanisa la zama za enzi kati lilifanana tabia na Thiatira (2:18—29)
 
 ### "Sadaka ya kutolewa misa daima" ilikuwa sehemu ya kubembeleza kwa kipindi hiki
 
@@ -68,7 +68,7 @@ Kanisa lilijua kwamba wenye haki walienda mbinguni na wasiohaki walienda Jehanam
 
 ### Vyeti vya upatanisho Indulgences
 
- Hizi zilikuwa ni hati ambazo zilitolewa na kanisa kuondoa adhabu kwa wenye dhambi.
+Hizi zilikuwa ni hati ambazo zilitolewa na kanisa kuondoa adhabu kwa wenye dhambi.
 
 ### Falme za Kikristo
 
@@ -80,37 +80,39 @@ Katika kanisa la kwanza, Askofu wa Roma (aliyejulikana baadaye kama papa) alikuw
 
 ### Leo Mkuu (c. 400–461 BK)
 
-Leo alikuwa Papa kutoka mwaka 440-461 BK.Alisema kwamba nguvu ya upapa alipewa na Petro kutoka kwa Kristo na ile nguvu ilipitishwa kutoka kwa petro hadi kwa warithi wake.[1] Yeye alikuwa papa wa kwanza kutegemea nguvu kutoka kwa petro.Yeye aliwashawishi Wahani(wale ambao walitokea katikati mwa Asia) na Wavandali(wale ambao walitokea Mashariki mwa Ujerumani) sio kuvamia Roma.Leo was pope from AD 440–461. He said that papal power was given to Peter by Christ and that power was passed down from Peter to his successors. [1] He was the first pope to claim this power from Peter. He convinced both the Huns (who were from Central Asia) and the Vandals (who were from East Germany) not to attack Rome.
+Leo alikuwa Papa kutoka mwaka 440–461 BK.Alisema kwamba nguvu ya upapa alipewa na Petro kutoka kwa Kristo na ile nguvu ilipitishwa kutoka kwa petro hadi kwa warithi wake. [1] Yeye alikuwa papa wa kwanza kutegemea nguvu kutoka kwa petro.Yeye aliwashawishi Wahani (wale ambao walitokea katikati mwa Asia) na Wavandali(wale ambao walitokea Mashariki mwa Ujerumani) sio kuvamia Roma.
 
-### Gregori Mkuu(c.540-604 BK)  Gregory the Great (c. 540–604 BK)
+### Gregori Mkuu (c.540-604 BK)
 
-Gregori alitokea katika familia ya kidini-Babu wa Baba yake alikuwa Papa. Alikuwa na elimu nzuri na alikuwa kiongozi wa serikali. Hakutegemea kufanywa papa mwaka590 BK,na aliendelea kuwa papa hadi kifo chake mwaka 604BK. Alijiita mwenyewe ni "mtumishi wa watumishi wa Mungu". Gregory came from a religious family—his great-great grandfather was a pope. He was well educated and was a government leader. He was unwillingly made pope in AD 590, and he continued as pope until he died in AD 604. He called himself the "servant of the servants of God."
+Gregori alitokea katika familia ya kidini-Babu wa Baba yake alikuwa Papa. Alikuwa na elimu nzuri na alikuwa kiongozi wa serikali. Hakutegemea kufanywa papa mwaka590 BK,na aliendelea kuwa papa hadi kifo chake mwaka 604BK. Alijiita mwenyewe ni "mtumishi wa watumishi wa Mungu."
 
-Kulikuwa na matatizo mengi Roma,na waliwasiliana na mtawala wa mashariki kwa ajili ya kuomba msaada. Mtawala alikuwa na matatizo yake ya kushughulikia,kwahiyo hakupeleka msaada Roma.Gregori aliamua kuyatatua hayo matatizo mwenyewe. Alichukua fedha kwa mhasibu wa kanisa kununua chakula kwa ajili ya watu na kushughulikia mifereji wa maji. Walambadi (ambao walikuwa wajerumani) walitawala sana Ulaya. Gregori alifanya mahusiano ya kidiplomasia na wao na kuwashawishi wasiivamie Roma. Kwa kutenda mambo haya ya serikali, Gregori alikuwa ni moja ya mapapa wa kwanza kuhamasisha nguvu ya kidunia ya upapa.Alisema urithi wa Petro ulimpa yeye nguvu ya kufanya maamuzi ya matatizo ya kimaadili. There were many problems in Rome, and he contacted the Emperor in the East for help. The Emperor had his own problems to handle, so he did not send help to Rome. Gregory decided to fix these problems himself. He took money from the treasury of the church to buy food for the people and to fix the aqueducts. The Lombards (who were a Germanic people) were conquering much of Europe. Gregory made diplomatic relations with them and convinced them not to attack Rome. By acting in these matters of government, Gregory was one of the first popes to emphasize the "nguvu za duniani" of the papacy. He said that the succession of Peter gave him power to make decisions about moral problems.
+Kulikuwa na matatizo mengi Roma,na waliwasiliana na mtawala wa mashariki kwa ajili ya kuomba msaada. Mtawala alikuwa na matatizo yake ya kushughulikia,kwahiyo hakupeleka msaada Roma.Gregori aliamua kuyatatua hayo matatizo mwenyewe. Alichukua fedha kwa mhasibu wa kanisa kununua chakula kwa ajili ya watu na kushughulikia mifereji wa maji. Walambadi (ambao walikuwa wajerumani) walitawala sana Ulaya. Gregori alifanya mahusiano ya kidiplomasia na wao na kuwashawishi wasiivamie Roma. Kwa kutenda mambo haya ya serikali, Gregori alikuwa ni moja ya mapapa wa kwanza kuhamasisha nguvu ya kidunia ya upapa.Alisema urithi wa Petro ulimpa yeye nguvu ya kufanya maamuzi ya matatizo ya kimaadili.
 
-###Mchango wa pippini (754 BK)    Donation of Pippin (754 BK)
+### Mchango wa Pippini (754 BK)
 
-Walambadi walikuwa wakivamia tena eneo linalo zunguka Roma, na Papa stephano II hakutegemea msaada kutoka Byzantine(Mashariki)Himaya. Alitaka kutafuta kiongozi mpya wa kumsaidia matatizo haya. Aliomba msaada kutoka kwa Pippini mfupi, ambaye alikuwa mfalme wa Wafrenki(ambapo baadae iliitwa Ufaransa). Pippini alimuahidi kuwa atapigana na Walambadi na kurudisha ardhi ambayo waliichukua. The Lombards were again attacking the area around Rome, and Pope Stephen II could not depend on help from the Byzantine (Eastern) Empire. He wanted to find a new government leader to help him with this problem. He asked for help from Pippin the Short, who was king of the Franks (which would later be called France). Pippin promised that he would fight the Lombards and return the land that they had taken.
+Walambadi walikuwa wakivamia tena eneo linalo zunguka Roma, na Papa stephano II hakutegemea msaada kutoka Byzantine (Mashariki) Himaya. Alitaka kutafuta kiongozi mpya wa kumsaidia matatizo haya. Aliomba msaada kutoka kwa Pippini mfupi, ambaye alikuwa mfalme wa Wafrenki (ambapo baadae iliitwa Ufaransa). Pippini alimuahidi kuwa atapigana na Walambadi na kurudisha ardhi ambayo waliichukua.
 
 ### Mchango wa Konstantino
 
-Hii ilikuwa hati ya uongo ambayo ilisemekana kuwa Costantino alimpa Papa Sylivesta aridhi iliyo izunguka Roma. Iliaminika kuwa Papa stephano wa II alitumia hati hii kumshawishi Pippini ili kumsaidia. This was a false document that said that Constantine gave the land around Rome to Pope Sylvester. It is believed that Stephen II used this document to convince Pippin to help him.
+Hii ilikuwa hati ya uongo ambayo ilisemekana kuwa Costantino alimpa Papa Sylivesta aridhi iliyo izunguka Roma. Iliaminika kuwa Papa stephano wa II alitumia hati hii kumshawishi Pippini ili kumsaidia.
 
 ### Charlemagne
 
 Charlemagne alichukua kiti cha enzi 771 BK. Siku ya Christmas miaka 800, papa alimwita yeye mtawala. Tena alikuwa mtawala wa Wakristo. Bado maswali yalikuwepo juu ya kanisa au serikali ndiyo itakayekuwa na kiongozi mkuu.
 
-### Mabishano ya Kusimika (AD 1076)
-Huu ulikuwa ni ushindani wa kiutawala kati ya Papa Gregori VII na Mtawala Henry IV. Serikali ilikuwa na mamlaka ya kuteua kiongozi wa Dini, hususani Papa. Henry alipaswa kuwa kiongozi alipokuwa na miaka sita tu, na viongozi wengine katika serikali walimsaidia kufanya maamuzi wakati anakua. Kanisa lilitumia faida kwa wakati huu kurudisha nyuma nguvu ya kuteua vingozi wa  dini. Walijua Henry alikuwa mdogo kuwakataza wao. Katika mwaka 1059 waliunda baraza ambalo lilitangaza kuwa sifa hazitakuwa na sehemu katika kuchagua viongozi wa kanisa.  a power struggle between Pope Gregory VII and Emperor Henry IV. The government had power to appoint clergy, including the pope. Henry became emperor when he was only six years old, and so other leaders in the government helped make decisions while he was growing up. The church took advantage of this time to take back the power to appoint clergy. They knew Henry was too young to stop them. In AD 1059 they held a council that declared that nobility would have no part in selecting church leaders.
+### Mabishano ya Kusimika (1076 BK)
 
-Katika mwaka wa 1075 BK Papa Gregori VII alijumuisha hati ambayo ilisema kuwa papa ana nguvu ya pekee ya kumtaja mtawala. Hivyo kanisa sasa halina nguvu tu ya kuwateua vingozi wao, lakini pia viongozi wa serikali. Kwa wakati huo Henry alikuwa mkubwa na alijibu kwa kusema kuwa Gregori sio papa tena na walifanya uchaguzi kwa ajili ya papa mpya. Gregori kisha alimtenga Henry. Mapigano haya ya nyuma na ya mbele yaliendelea kati hawa wawili kwa kipindi kirefu. In AD 1075 Pope Gregory VII composed a document that said that the pope had sole power to rename an emperor. So the church now not only had power to appoint its own leaders, but also leaders of the government. By this time, Henry was an adult and he responded by saying that Gregory was no longer pope and called for an election for a new pope. Gregory then excommunicated Henry. This back-and-forth fighting continued between these two for a long time.
+Huu ulikuwa ni ushindani wa kiutawala kati ya Papa Gregori VII na Mtawala Henry IV. Serikali ilikuwa na mamlaka ya kuteua kiongozi wa Dini, hususani Papa. Henry alipaswa kuwa kiongozi alipokuwa na miaka sita tu, na viongozi wengine katika serikali walimsaidia kufanya maamuzi wakati anakua. Kanisa lilitumia faida kwa wakati huu kurudisha nyuma nguvu ya kuteua vingozi wa dini. Walijua Henry alikuwa mdogo kuwakataza wao. Katika mwaka 1059 waliunda baraza ambalo lilitangaza kuwa sifa hazitakuwa na sehemu katika kuchagua viongozi wa kanisa.
 
-### Innocent III (AD 1160–1216)
+Katika mwaka wa 1075 BK Papa Gregori VII alijumuisha hati ambayo ilisema kuwa papa ana nguvu ya pekee ya kumtaja mtawala. Hivyo kanisa sasa halina nguvu tu ya kuwateua vingozi wao, lakini pia viongozi wa serikali. Kwa wakati huo Henry alikuwa mkubwa na alijibu kwa kusema kuwa Gregori sio papa tena na walifanya uchaguzi kwa ajili ya papa mpya. Gregori kisha alimtenga Henry. Mapigano haya ya nyuma na ya mbele yaliendelea kati hawa wawili kwa kipindi kirefu.
 
-Innosenti alipigana na viongozi wa serikali kwa ajili ya madaraka. Innocent fought with the government leaders for power.
+### Innosenti III (1160–1216 BK)
 
-### Mapantano ya Worms (AD 1122)
-Huu ulikuwa mwisho wa ugomvi wa uwekezaji. Serikali na kanisa zilifanya makubaliano kuwa kanisa liteue viongozi wa dini. Kama tu kanisa litakuwa na migogoro kati yao serikali itasaidia kutatua huo mgogoro.This was the end of the Investiture Controversy. The government and the church made an agreement that the church could appoint clergy. Only if the church had a dispute among themselves would the government solve the dispute.
+Innosenti alipigana na viongozi wa serikali kwa ajili ya madaraka.
+
+### Mapantano ya Worms (1122 BK)
+
+Huu ulikuwa mwisho wa ugomvi wa uwekezaji. Serikali na kanisa zilifanya makubaliano kuwa kanisa liteue viongozi wa dini. Kama tu kanisa litakuwa na migogoro kati yao serikali itasaidia kutatua huo mgogoro.
 
 ## Uchunguzi Rasmi
 
@@ -128,14 +130,14 @@ Kanisa iliweza kuwashauri watawala wa Ulaya kuongoza vita hivyo vya kidini. Kani
 
 Orodha zifuatazo zinaonyesha baadhi ya tofauti kati ya makanisa ya mashariki na magharibi:
 
-| Mashariki                      | Magharibi                       |
-| ------------------------------ | ------------------------------- |
-| Walizungumza Kigiriki          | Walizungumza Kilatini           |
-| Makuhani wao waliweza kuoa     | Makuhani wao hawakuweza kuolewa |
-| Makuhani wao walikuwa na ndevu | Makuhani wao hawakuwa na ndevu  |
-| Imani ya Nikia inasema Roho anakuja "kutoka kwa Baba"           | Ya kuongeza "na Mwana" (Inaitwa "Maneno ya Filioque") |
-| Walikuwa na sherehe tofauti za Misa                             ||
-| Walikuwa na tofauti za Mafundisho                               ||
+| Mashariki                                             | Magharibi                                             |
+| ----------------------------------------------------- | ----------------------------------------------------- |
+| Walizungumza Kigiriki                                 | Walizungumza Kilatini                                 |
+| Makuhani wao waliweza kuoa                            | Makuhani wao hawakuweza kuolewa                       |
+| Makuhani wao walikuwa na ndevu                        | Makuhani wao hawakuwa na ndevu                        |
+| Imani ya Nikia inasema Roho anakuja "kutoka kwa Baba" | Ya kuongeza "na Mwana" (Inaitwa "Maneno ya Filioque") |
+| Walikuwa na sherehe tofauti za Misa                   |                                                       |
+| Walikuwa na tofauti za Mafundisho                     |                                                       |
 
 Papa Leo IX alimtaka Michaeli, Askofu Mkuu wa Konstantinopo, kutengana naye. Papa alituma wa wakilishi kwa Konstantinopo, lakini Mikaeli alikataa kukutana naye. Wawakilishi walimkataa Mikaeli kuongea naye na yeye kukataa kuongea nao.
 
@@ -161,9 +163,9 @@ Wahenga walisema kwamba ukichukua shoka kuuendea mti uliyesimama kuusulubu kwa n
 
 ### Anselm
 
-Anselm alizaliwa kati ya 1033 BK. Mwaka 1903 William II, mwana wa William mshindi, alimfanya Anselm kuwa Mkuu wa maaskofu wa Canterbury, lakini alitaka kuweka nguvu kwa kumtaja CLergy. Anselm alikataa kumwachia William mamlaka haya, na yaliyotokea, yeye alitumia muda wake uhamishoni.
+Anselm alizaliwa kati ya 1033 BK. Mwaka 1903 William II, mwana wa William mshindi, alimfanya Anselm kuwa Mkuu wa maaskofu wa Canterbury, lakini alitaka kuweka nguvu kwa kumtaja Clergy. Anselm alikataa kumwachia William mamlaka haya, na yaliyotokea, yeye alitumia muda wake uhamishoni.
 
-Henry I, kaka wa William wa II, alichukua nafasi baada ya kaka yake kufa, na alimwomba Anselm kurudi. Anselm hakuwa kiongozi kwa muda mrefu, angalau, na alienda kuishi uhamishoni tena. Aliweza kuandika mengi kwa kipindi hiki huko uhamishoni. 
+Henry I, kaka wa William wa II, alichukua nafasi baada ya kaka yake kufa, na alimwomba Anselm kurudi. Anselm hakuwa kiongozi kwa muda mrefu, angalau, na alienda kuishi uhamishoni tena. Aliweza kuandika mengi kwa kipindi hiki huko uhamishoni.
 
 ### Thomasi Aquinas
 
@@ -173,16 +175,16 @@ Thomasi Aquinas alizailwa 1225 BK. Yawezekana alikuwa mwanatheolojia mkuu wa zam
 
 Yohane Wykliffe (1330—1384) alikuwa mtu wa kwanza kutafsiri Biblia kwa kiingereza. Anakumbukwa kama nyota ya asubuhi wa mageuzi. Alikuwa na wafuasi, waliyekuwa wanaitwa _lollards_, ikiwa na maana ya "wahubiri maskini." Alipingana sana na Kanisa Katoliki. Zifuatazo ni baadhi ya mambo aliyoyauliza juu ya kanisa:
 
-* Haki za kanisa kwa wagonjwa na utajiri
-* Kuuza vyeti vya upatanisho
-* Ibada ya Watakatifu na vifaa vilivyo tumika
-* Mamlaka ya papa
-* Kugeuka asili ya mwili na damu ya Yesu katika ushirika Mtakatifu.
+- Haki za kanisa kwa wagonjwa na utajiri
+- Kuuza vyeti vya upatanisho
+- Ibada ya Watakatifu na vifaa vilivyo tumika
+- Mamlaka ya papa
+- Kugeuka asili ya mwili na damu ya Yesu katika ushirika Mtakatifu.
 
 Huyu angeuawa na kanisa katoliki kama mabwenyenye wa Uingereza hawakumpatia ulinzi. Mahubiri ya Wykliffe na tafsiri ya Biblia iliandalia njia ya mageuzi. Wakatoliki walimchukia sana Wyklif kiasi kwamba alipokufa waliutoa mwili wake kaburini miaka mingi baada ya kuzikwa na kuudhihaki.
 
 ### Yohane Huss
 
-Yohane Huss (1369—1415) alikuwa msomi wa maandiko ya Wykliffe, na alikataa kabisa mamlaka ya papa. Alisisitiza kwamba Kristo pekee ndiye alikuwa kichwa cha kanisa na Mungu pekee ndiye asameheaye dhambi. Alipopelekwa mbele ya baraza kwenda kuulizwa maswali kuhusu imani yake, alisema, "Mimi sikuwa mhudumu mkuu, dhahabu hujionyesha kutokana na ukweli." Alihukumiwa kama muasi na alichomwa katika mchi kwa amri ya Baraza la Kanisa Kikatoliki.
+Yohane Huss (1369—1415 BK) alikuwa msomi wa maandiko ya Wykliffe, na alikataa kabisa mamlaka ya papa. Alisisitiza kwamba Kristo pekee ndiye alikuwa kichwa cha kanisa na Mungu pekee ndiye asameheaye dhambi. Alipopelekwa mbele ya baraza kwenda kuulizwa maswali kuhusu imani yake, alisema, "Mimi sikuwa mhudumu mkuu, dhahabu hujionyesha kutokana na ukweli." Alihukumiwa kama muasi na alichomwa katika mchi kwa amri ya Baraza la Kanisa Kikatoliki.
 
 ### Pertro Abelardi

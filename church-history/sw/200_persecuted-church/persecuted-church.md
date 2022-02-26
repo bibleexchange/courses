@@ -1,10 +1,10 @@
-# Mbili: Kanisa la Mateso (100—313 BK) 
+# Mbili: Kanisa la Mateso (100—313 BK)
 
-Kuanzia kukamilishwa Agano Jipya hadi kutolewa Hati ya Constantino.
+Kuanzia kukamilishwa Agano Jipya hadi kutolewa Hati ya Konstantino.
 
 Hii inazindua kipindi ambacho kanisa liligandamizwa chini ya utawala wa kipagani wa Roma. Kinyume na mategemeo hayakutokeza marashi matamu kwa Mungu kwa kuwa katika karne hizo mbili kulikuwa na mashahidi kuuliwa mfululizo. Kutolewa kwa Hati ya Kostantino kutajadiliwa zaidi katika kipindi cha Kanisa la Kifalme.
 
-Tuna kumbukumbu za matukio ya kipindi cha kanisa la kwanza kutoka kwa Biblia, ambayo tunaamini yametutia moyo. Hatuna kumbukumbu za kibiblia za wakati wowote wa kanisa. Hii ina maana kwamba si kila tunachokisoma ni kweli. Watu wawili wanaweza kushuhudia tukio moja na bado wakatoa taarifa  tofauti kabisa kuhusu jambo hilo. Historia ni ngumu kwa sababu vyanzo vinaweza kuwa kweli au visiwe kweli. Kuna msemo unasema, "historia imeandikwa na washindi." Hii ni kwa sababu wale walioshindwa vita walishakufa, na hawakuweza kuandika ukweli wao wenyewe wa kile kilichotokea.
+Tuna kumbukumbu za matukio ya kipindi cha kanisa la kwanza kutoka kwa Biblia, ambayo tunaamini yametutia moyo. Hatuna kumbukumbu za kibiblia za wakati wowote wa kanisa. Hii ina maana kwamba si kila tunachokisoma ni kweli. Watu wawili wanaweza kushuhudia tukio moja na bado wakatoa taarifa tofauti kabisa kuhusu jambo hilo. Historia ni ngumu kwa sababu vyanzo vinaweza kuwa kweli au visiwe kweli. Kuna msemo unasema, "historia imeandikwa na washindi." Hii ni kwa sababu wale walioshindwa vita walishakufa, na hawakuweza kuandika ukweli wao wenyewe wa kile kilichotokea.
 
 ## Mateso na Smirna
 
@@ -64,7 +64,7 @@ Kustawi kwa Ukristo kulisababisha biashara iliyokuwa na faida kubwa ya kutengene
 
 ### Kanisa lilipitia katika vipindi kumi vya mateso makali chini ya utawala wa Ufalme wa Kirumi
 
-"Nanyi mtakuwa na dhiki kwa siku kumi" (Ufunuo 2:10). Ukristo ulipigwa marufuku karne ya kwanza na ya pili. Kulikuwa na mateso makali miaka ya mwanzo ya karne ya nne hadi mwaka wa 313 BK wakati Hati ya Constantino ilipotolewa.
+"Nanyi mtakuwa na dhiki kwa siku kumi" (Ufunuo 2:10). Ukristo ulipigwa marufuku karne ya kwanza na ya pili. Kulikuwa na mateso makali miaka ya mwanzo ya karne ya nne hadi mwaka wa 313 BK wakati Hati ya Konstantino ilipotolewa.
 
 ### Katika mwaka wa 303 BK Mfalme Diocletiani alianzisha kipindi cha mateso makali sana kwa wakristo yaliyojulikana kama "Mateso Makuu"
 
@@ -72,17 +72,17 @@ Hili lilikuwa ni jaribio la kuuondoa Ukristo katika uso wa dunia hii. Inasemekan
 
 ## Mashahidi muhimu na viongozi wa makanisa ya liyoteseka
 
-### Inyasi 
+### Inyasi
 
 Inyasi alikuwa asikofu wa Antiokia huko Syria. Huyu alikuwa ni mwanafunzi wa mtume Yohana.
 
 Inyasi alitupiwa wanyama wakali wamrarue katika kiwanja cha Coliseum. Akisimama katika uwanja huo wakati wanyama wakali wanamsogelea, Inyasi alisali ifuatavyo, "Nakushukuru ee Bwana kwa kuwa wewe umenitoa mimi ilinitukuke. Mimi ni punje ya Mungu ambaye nitasagiwa katikati ya meno ya wanyama wakali ili niwe mkate mtakatifu wa Bwana."
 
-### Shahidi Yustini 
+### Shahidi Yustini
 
-Shahidi Yustini alikuwa mwanafalsafa aliyekuwa Mkristo baada ya kukutana na mtu mzee ambaye alielezea jinsi Yesu alivyotimiza unabii wa Agano la Kale. Alikuwa mmoja wa watetezi wa kwanza, ambaye ni mtu aliyetumia sababu na mantiki ili kulinda imani yake. Aliandika vitabu vingi ambavyo vipo hadi leo na vinatupatia taarifa nyingi za kipindi hicho. Mojawapo ya kazi zake muhimu ni _Mazungumzo na Trypho_ maandishi ambayo hufundisha dhidi ya Waebionaiti (Ufunuo 2:9).
+Shahidi Yustini alikuwa mwana falsafa aliyekuwa Mkristo baada ya kukutana na mtu mzee ambaye alielezea jinsi Yesu alivyotimiza unabii wa Agano la Kale. Alikuwa mmoja wa watetezi wa kwanza, ambaye ni mtu aliyetumia sababu na mantiki ili kulinda imani yake. Aliandika vitabu vingi ambavyo vipo hadi leo na vinatupatia taarifa nyingi za kipindi hicho. Mojawapo ya kazi zake muhimu ni _Mazungumzo na Trypho_ maandishi ambayo hufundisha dhidi ya Waebionaiti (Ufunuo 2:9).
 
-Aliandika mara moja, "Unaweza kutuua, lakini huwezi  kutudhuru." Yustini shahidi alikatwa kichwa huko Roma mwaka 165 BK. Maneno yake ya mwisho yalikuwa, "Mimi ni Mkristo, nimewekwa huru na Kristo na kwa wema wake Kristo nina pokea pigo hili kwa tumaini moja."
+Aliandika mara moja, "Unaweza kutuua, lakini huwezi kutudhuru." Yustini shahidi alikatwa kichwa huko Roma mwaka 165 BK. Maneno yake ya mwisho yalikuwa, "Mimi ni Mkristo, nimewekwa huru na Kristo na kwa wema wake Kristo nina pokea pigo hili kwa tumaini moja."
 
 ### Polikarpi
 
@@ -120,7 +120,7 @@ Blandina alikuwa msichana Mkristo aliyekuwa mtumwa ambaye aliteswa tangu asubuhi
 
 Alikuwa ni mwanamke mwadilifu wa Kartago, Perpetua na mtumwa wake Felisita waliuawa na wanyama wakali mwaka 203 BK.
 
-## Uundaji wa kanuni za agano Jipya
+## Uundaji wa kanuni za Agano Jipya
 
 Neno _kanuni_ lina maana "ya fimbo, sheria, au kifaa cha kupimia."
 
@@ -148,9 +148,9 @@ Walikuwa wafuasi wa Marcioni. Kikundi hiki kilikuwa kinyume cha Waebionaiti. Wao
 
 Walikuwa wafuasi wa Montanusi (150-170 BK). Hii ilikuwa kundi la kinabii ambalo liliamini kwamba Roho Mtakatifu alizungumza mambo mapya kwa kanisa. Waliamini kwamba wanachama wa Utatu walifanya kazi kwa nyakati tofauti:
 
-* Baba alifanya kazi katika nyakati za Agano la Kale
-* Mwana alifanya kazi katika nyakati za Agano Jipya
-* Roho Mtakatifu anafanya kazi leo
+- Baba alifanya kazi katika nyakati za Agano la Kale
+- Mwana alifanya kazi katika nyakati za Agano Jipya
+- Roho Mtakatifu anafanya kazi leo
 
 ### Wasabelliani (pia inajulikana kama Wamodali)
 

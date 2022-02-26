@@ -1,6 +1,6 @@
 # Tatu: Kanisa la Kifalme (313–476 BK)
 
-Tangu kutolewa Hati ya Constantino mpaka angukola Roma.
+Tangu kutolewa Hati ya Konstantino mpaka angukola Roma.
 
 ## Mchanganyiko na Pergamos
 
@@ -24,7 +24,7 @@ Alipigana vita na Maksentiusi kugombea ufalme katika mapigano ya Daraja la Milvi
 
 Wanahistoria wengi wa kikristo walitilia shaka uaminifu wake.
 
-### Hati ya Uvumilivu (Hati ya Konstantini)  (313 BK)
+### Hati ya Uvumilivu (Hati ya Konstantini) (313 BK)
 
 Hati ni amri rasmi au waraka maalumu. Hati hii ilitoa uhuru kwa dini zote katika Ufalme wa Kirumi na ikasimamisha mateso yote ya Warumi kwa Wakristo. Mali zote zilizokamatwa wakati wa utawala wa Mfalme Diokletiani zilirudishiwa wenyewe.
 
@@ -76,7 +76,7 @@ Hii ndio baadaye ikageuzwa kuwa Himaya Takatifu ya Roma ya Nyakati za Kati kuanz
 
 ### Atanasi (296–373 BK)
 
-Alikuwa mlinzi wa imani katika ubishani wa Ariani. Aria ambaye aliongoza mafundisho ya uongo hakuamini kanuni ya Biblia ya Utatu. Alikuwa Askofu wa Alexandria tangu mwaka 325 baada ya Kristo. Mnamo 367 BK yeye aliandika barua kutambua kanuni za A. J. ambazo tunatumia leo. Alipelekwa uhamishoni mara tano kwa sababu ya mafundisho yake.
+Alikuwa mlinzi wa imani katika ubishani wa Ariani. Aria ambaye aliongoza mafundisho ya uongo hakuamini kanuni ya Biblia ya Utatu. Alikuwa Askofu wa Alexandria tangu mwaka 325 BK. Mnamo 367 BK yeye aliandika barua kutambua kanuni za Agano Jipya ambazo tunatumia leo. Alipelekwa uhamishoni mara tano kwa sababu ya mafundisho yake.
 
 ### Yohana Krisostomu (345–407 BK)
 
@@ -94,9 +94,9 @@ Wakati mtawala Theodosi kwenye uwanja wa watu waliouawa, Ambrosi aliwasiliana na
 
 Tunaona maendeleo ya uhusiano wa kanisa na serikali:
 
-1. Kanisa < Serikali (kanisa lilikuwa ndogo kuliko serikali)
-2. Kanisa = Serikali (kanisa lilikuwa sawa na serikali)
-3. Kanisa > Serikali (kanisa lilikuwa kubwa kuliko serikali)
+1. Kanisa lilikuwa ndogo kuliko serikali
+2. Kanisa lilikuwa sawa na serikali
+3. Kanisa lilikuwa kubwa kuliko serikali
 
 ### Yeromi
 
@@ -112,7 +112,7 @@ Patriki alikuwa mmishenari kutoka Uingereza kwenda Ireland. Aliuleta ukristo huk
 
 Wakati wa mateso ya Diocletiani, baadhi ya viongozi wa kanisa walitoa nakala ya Maandiko kwa mamlaka ya serikali. Viongozi hawa wa kanisa walijulikana kama _wasaliti_ kwa sababu walisalitiwa kanisa.
 
-Katika AD 311 mtu mmoja aitwaye Caecilliani alichaguliwa askofu wa Carthage. Caecilliani alikuwa amewekwa wakfu na askofu ambaye alikuwa msaliti. Mtu wa Kaskazini mwa Afrika aliyeitwa Donatusi alijitenga na kanisa mwaka 312 BK kwa sababu hakuamini kuwa Caecilliani lazima kuruhusiwa kuwa askofu, tangu alipaswa kuteuliwa na msaliti.
+Katika 311 BK mtu mmoja aitwaye Caecilliani alichaguliwa askofu wa Carthage. Caecilliani alikuwa amewekwa wakfu na askofu ambaye alikuwa msaliti. Mtu wa Kaskazini mwa Afrika aliyeitwa Donatusi alijitenga na kanisa mwaka 312 BK kwa sababu hakuamini kuwa Caecilliani lazima kuruhusiwa kuwa askofu, tangu alipaswa kuteuliwa na msaliti.
 
 Baadaye Wadonatusi walibatiza tena Wakristo waliokuwa alikanusha imani yao kwa sababu ya mateso.
 
@@ -122,7 +122,7 @@ Katika Agano Jipya hasa hasa injili ya Yohana, tunaona kuwa Yesu yuko sawa na Ba
 
 Ario, aliyekuwa ni mzee katika Alexandria, alianza kuhubiri mnamo mwaka 318 BK kwamba Yesu hakuwa Mungu wakati wote, bali alikuwa ni mtumishi mdogo wa Mungu. Hili lilikuwa jibu lake kwa wana monotheism. Alexanda Askofu wa Ario alisema ikiwa Mungu habadiliki, na yeye siku zote amekuwa Baba basi hiyo humaanisha kuwa lazima siku zote awe na Mwana.
 
-Mjadala huu wa kidini ulimpata Constantino, kwa sababu vurugu zilianza kwa sababu hiyo. Mnamo mwaka 325 BK Constantino aliita baraza katika Nikia kutatua mjadala ulioibuliwa na Ario. Maasikofu zaidi ya 300 walihudhuria.
+Mjadala huu wa kidini ulimpata Konstantino, kwa sababu vurugu zilianza kwa sababu hiyo. Mnamo mwaka 325 BK Konstantino aliita baraza katika Nikia kutatua mjadala ulioibuliwa na Ario. Maasikofu zaidi ya 300 walihudhuria.
 
 Maaskofu walitengeneza maelezo ya imani, ambayo, baada ya nyogeza zingine zilizofanywa kipindi cha Konstantinopo mnamo mwaka 381, ikajulikana kama shahada ya Nikia. Wote walitolewa pamoja na Ario ispokuwa Maaskofu wawili tuu walikataa saini maelezo ya imani. Kifwatacho ni kifungu kamili cha shahada:
 
@@ -175,7 +175,7 @@ Nestorius alikuwa Asikofu wa Konstantinopo. Ni mwindaji aliye jaribu kuzuia kuen
 
 Nestorius alipokea mawazo ya viongozi wengine wa kanisa wakati alikataa kutumia neno _Theotokos_, ambalo linamaanisha "Mama wa Mungu." Aliamini kama Mwana wa Mungu alikuwapo kila wakati, basi hakuweza kuzaliwa. Alipenda neno _Christotokos_, ambalo linamaanisha "Mama wa Kristo." Nestorius pia hakupenda _Theotokos_ kwa sababu ya msisitizo kwamba Apollinarianism kuwekwa juu ya neno hili. Apollinarianism ilifundisha kwamba Yesu hakuwa na roho ya mwanadamu, lakini alikuwa Mungu amevaa katika mwili wa kibinadamu.
 
-Aliamini kwamba Kristo alikuwa na nafsi mbili, lakini alikuwa bado mtu mmoja. Alisisitiza tofauti kati ya nafsi hizi mbili, hasa katika mateso ya Kristo. Alisema kwamba ilikuwa tu nafsi ya kibinadamu ulioteseka wakati Kristo aliteseka, na sio nafsi ya kimungu. 
+Aliamini kwamba Kristo alikuwa na nafsi mbili, lakini alikuwa bado mtu mmoja. Alisisitiza tofauti kati ya nafsi hizi mbili, hasa katika mateso ya Kristo. Alisema kwamba ilikuwa tu nafsi ya kibinadamu ulioteseka wakati Kristo aliteseka, na sio nafsi ya kimungu.
 
 #### Cyril
 
@@ -185,7 +185,7 @@ Cyril alikuwa askofu wa Alexandria. Wakati Nestorius alisisitiza zaidi nafsi wa 
 
 Kwa sababu Nestorius hakutaka kutumia jina _Mama wa Mungu_ kwa Maria, alitunguliwa mashtaka na Cyril kwamba hakuamini kwamba Yesu alikuwa Mungu. Baada ya barua zenye hasira kati yao, baraza la maaskofu liliitwa kutatua mjadala huo.
 
-Baraza lilivutia kwa kiasi kikubwa kwa sababu za kisiasa. Baraza la Pamoja la 381 liltangaza kwamba Askofu wa Constantinopo atakuwa askofu wa pili pekee wa Roma (papa). Hasira za baadhi za maaskofu wengine, akiwemo Cyril, kwa sababu ilizuia nguvuu wao kama maaskofu. Pamoja na hivyo kulikuwa na maswali kuhusu mafundisho ya Nestorius, baraza pia liliitwa kwasababu ya wivu wa madaraka yake.
+Baraza lilivutia kwa kiasi kikubwa kwa sababu za kisiasa. Baraza la Pamoja la 381 liltangaza kwamba Askofu wa Konstantinopo atakuwa askofu wa pili pekee wa Roma (papa). Hasira za baadhi za maaskofu wengine, akiwemo Cyril, kwa sababu ilizuia nguvuu wao kama maaskofu. Pamoja na hivyo kulikuwa na maswali kuhusu mafundisho ya Nestorius, baraza pia liliitwa kwasababu ya wivu wa madaraka yake.
 
 Baraza liliamua kinyume cha Nestorius na alikuwa uhamishoni kama mrithi. Pamojana hivyo alihamishwa, watu waliendelea kuamini mafundisho yake na Unestoria bado upo leo kama tawi la Ukristo.
 

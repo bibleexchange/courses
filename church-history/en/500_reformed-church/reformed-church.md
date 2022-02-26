@@ -38,11 +38,11 @@ The movable type printing press became a powerful tool of the Reformation. The r
 
 ## The Reformation
 
-_Reform_ means "to amend, change or improve." Reformers were trying to bring change to the church. Some of these reformers did not realize that the Roman Catholic Church was not going to change. They stood against what they saw as false doctrine. They were restoring the Bible into the languages of the people. The Catholic Church opposed laymen reading the Bible. Those who stood for truth were persecuted and began to realize the Catholic Church was not going to change.  _Protestant_ is the name given to those who protested the Catholic Church.
+_Reform_ means "to amend, change or improve." Reformers were trying to bring change to the church. Some of these reformers did not realize that the Roman Catholic Church was not going to change. They stood against what they saw as false doctrine. They were restoring the Bible into the languages of the people. The Catholic Church opposed laymen reading the Bible. Those who stood for truth were persecuted and began to realize the Catholic Church was not going to change. _Protestant_ is the name given to those who protested the Catholic Church.
 
 ### The Reformation in Europe
 
-#### Martin Luther (1483&ndash;1546) in Germany
+#### Martin Luther (1483–1546) in Germany
 
 Martin Luther is considered to be _the father of the Reformation_.
 
@@ -54,7 +54,7 @@ Luther was called to the Diet at Worms. A _Diet_ is a council of rulers. In June
 
 A friend of Luther, who was a government leader, "captured" Luther and kept him in Wartburg Castle for one year. He did this to protect Luther from the church. During that year, Luther translated the New Testament and part of the Old Testament into the German language of his people.
 
-#### Ulrich Zwingli (1484&ndash;1531) in Switzerland
+#### Ulrich Zwingli (1484–1531) in Switzerland
 
 Zwingli became pastor of the main church in Zurich on January 1, 1519. He said he would preach through the Gospel of Matthew instead of using the lectionary. In 1522 some of his church members ate meat during lent, and he supported them by preaching on freedom. Under him priests got married, images were removed from the church, and the Mass was replaced by a simple service that emphasized preaching. He published works against the Catholics. Besides being a pastor, he was also a sort of civil leader. He was killed in civil war and John Calvin carried on the work.
 
@@ -64,13 +64,13 @@ Around AD 1533 John Calvin broke from Catholicism, left his homeland of France, 
 
 Calvin was an outspoken preacher and author who preached salvation by faith. He stressed the authority of Scripture. Calvin taught the predestination of the elect. He said, "You cannot manipulate God or put him in your debt. He saves you; you cannot do it for yourself." Calvin's doctrine of predestination is contrasted by Arminianism, which is based on the belief that any man can be saved if they believe.
 
-| Calvinism | Arminianism |
-| --------- | ----------- |
+| Calvinism                                                                                    | Arminianism                                       |
+| -------------------------------------------------------------------------------------------- | ------------------------------------------------- |
 | **Total depravity** <br> All people are so depraved (sinful) that they cannot even trust God | **Free-will** <br> Humans can choose good or evil |
-| **Unconditional election** | **Conditional election** |
-| **Particular redemption** | **Universial redemption** |
-| **Irresistible grace** | **The Holy Spirit can be effectively resisted** |
-| **Perseverance of saints** | **Falling from grace** | 
+| **Unconditional election**                                                                   | **Conditional election**                          |
+| **Particular redemption**                                                                    | **Universial redemption**                         |
+| **Irresistible grace**                                                                       | **The Holy Spirit can be effectively resisted**   |
+| **Perseverance of saints**                                                                   | **Falling from grace**                            |
 
 #### Jacques Lefevre (1455&ndash;1536) in France
 
@@ -130,11 +130,11 @@ The Pilgrims who came to the New World were Separatists from England. They lande
 
 The main purpose of the council was to address issues and questions raised by the Protestant reformers. The actions of the reformers forced the Catholic Church to recognize that there were issues in the church that needed to be addressed. The Council of Trent was held in three stages between 1545 and 1563. Following are some of the decisions and results from the council:
 
-* They made reform to the clergy. They decided that bishops could only hold office in one location, so that they could focus on their flock.
-* They declared that Scripture and tradition have equal authority.
-* They established the position of "infused righteousness" for justification. This means that God offers to the believer the opportunities and strength to be good, and it is up to the believer to respond.
-* They confirmed the seven sacraments, which are baptism, confirmation, Eucharist, penance, extreme unction (anointing of the sick), holy orders, and matrimony.
-* They made clear the doctrine of the veneration of the saints. They claimed that the statues of the saints were not to be worshiped in themselves, but that there was a spiritual reality beyond the physical objects.
+- They made reform to the clergy. They decided that bishops could only hold office in one location, so that they could focus on their flock.
+- They declared that Scripture and tradition have equal authority.
+- They established the position of "infused righteousness" for justification. This means that God offers to the believer the opportunities and strength to be good, and it is up to the believer to respond.
+- They confirmed the seven sacraments, which are baptism, confirmation, Eucharist, penance, extreme unction (anointing of the sick), holy orders, and matrimony.
+- They made clear the doctrine of the veneration of the saints. They claimed that the statues of the saints were not to be worshiped in themselves, but that there was a spiritual reality beyond the physical objects.
 
 #### The Reformed Priests (Jesuits)
 

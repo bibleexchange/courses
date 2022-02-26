@@ -2,7 +2,7 @@
 
 #### Historia ya Kanisa inatusaidia kuelewa kile tunachoamini
 
-Ukiingia  kanisa la Kiprotestanti popote ulimwenguni, utasalimiwa na huduma inayofanana na nyingine  yeyote uliyowahi  kuhudhuria. Kutakuwa na tofauti za mtindo, lakini utatarajia sala ya ufunguzi, wakati wa kuimba, sadaka, na kuhubiri Mara nyingi hizi zitakuwa katika utaratibu sawa. Hakuna mahali popote katika Biblia hutolewa orodha ya jinsi ya kuongoza huduma ya kanisa, sasa imekuwaje wote tumekuwa na mfumo sawa?
+Ukiingia kanisa la Kiprotestanti popote ulimwenguni, utasalimiwa na huduma inayofanana na nyingine yeyote uliyowahi kuhudhuria. Kutakuwa na tofauti za mtindo, lakini utatarajia sala ya ufunguzi, wakati wa kuimba, sadaka, na kuhubiri Mara nyingi hizi zitakuwa katika utaratibu sawa. Hakuna mahali popote katika Biblia hutolewa orodha ya jinsi ya kuongoza huduma ya kanisa, sasa imekuwaje wote tumekuwa na mfumo sawa?
 
 Ni kwa sababu mengi ya yale tunayofanya na kuamini kama Wakristo yameumbwa na zaidi ya miaka elfu mbili ya mila, ingawa mara nyingi hatujagundua. Mila mara nyingi huonekana kuwa jambo baya katika makanisa ya Kiprotestanti. Tunapenda kuamini tunafanya mambo sawasawa na Paulo na mitume wengine walifanya katika Agano Jipya, lakini hakuna mahali pa Biblia tunaona kwamba Paulo alikuwa amevaa suti na tai siku ya Jumapili (kwa kweli, Jumapili kufanywa kama siku rasmi kwa wakristo kuabudu imetokana na mila na sio katika Biblia).
 
@@ -22,7 +22,7 @@ Uwepo wa nguvu za Mungu umeonekana waziwazi katika historia yote ya Kanisa. Ni R
 
 #### Historia hujirudiarudia
 
-Mwandishi wa Mhubiri alisema "wala jambo jipya hakuna chini ya jua" (Mhubiri 1:9). Historia huja kwa mizunguko. Kwakuyasoma matukio yaliyokwishapita tunaweza kuelewa vizuri mambo yanayotokeahivi sasa. Tunaweza kujifunza kutokana na makosa yaliyofanywa na watu wengine. Mungu hachambui watu kwa ajili ya kuwaheshimu. Kila kitu alichokitendea kizazi kichopita anaweza pia akatufanyia sisi iwapo tutamtii kama kizazi hicho cha zamani.
+Mwandishi wa Mhubiri alisema "wala jambo jipya hakuna chini ya jua" (Mhubiri 1:9). Historia huja kwa mizunguko. Kwakuyasoma matukio yaliyokwishapita tunaweza kuelewa vizuri mambo yanayotokeahivi sasa. Tunaweza kujifunza kutokana na makosa yaliyofanywa na watu wengine. Mungu hachambui watu kwa ajili ya kuwaheshimu. Kila kitu alichokitendea kizazi kilichopita anaweza pia akatufanyia sisi iwapo tutamtii kama kizazi hicho cha zamani.
 
 > Warumi 2:11&mdash;Kwa maana kwa Mungu hakuna upendeleo.
 
