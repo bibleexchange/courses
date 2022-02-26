@@ -2,15 +2,7 @@
 
 From the 1950's till the present time
 
-## Church of lukewarmness and casting votes (3:14&ndash;22)
-
-### The church is described by Jesus as being lukewarm
-
-This is a prophetic description of the current church period. The church as a whole today is in a backslidden condition and does not even know it! The church thinks they are doing well, but Jesus' description of the church today is far from desirable.
-
-> Revelation 3:17&mdash;thou sayest, I am rich, and increased with goods, and have need of nothing; and knowest not that thou art wretched, and miserable, and poor, and blind, and naked.
-
-### The church is run by the ballot box.
+## The church is run by the ballot box.
 
 Laodicea means rule by the people. Many of the churches today are run by the people. The name of this period describes the government of this period. The church is no longer being led by God instead they are running things themselves and doing things their own way.
 

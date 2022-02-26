@@ -1,77 +1,55 @@
 ## Seven periods of church history
 
-The history of the church is divided into seven periods of time. These are not just man's divisions of church history, but these are God's divisions that He has given to us in His Word. The Book of Revelation describes seven churches in Asia. 
-
-> Revelation 1:11&mdash;Saying, I am Alpha and Omega, the first and the last: and, What thou seest, write in a book, and send it unto the seven churches which are in Asia; unto Ephesus, and unto Smyrna, and unto Pergamos, and unto Thyatira, and unto Sardis, and unto Philadelphia, and unto Laodicea.
-
-These seven churches are described individually from Revelation 2:1 to Revelation 3:22. These seven churches describe and parallel the seven periods of the history of the church. They are a prophetic overview of the entire history of the church from the first century AD until the current period of time today. It is important to note that these periods do tend to overlap one another and elements from all the church periods can be found in each individual period. With this being said, each period has a distinct and dominant &quot;personality.&quot;
-
-We will compare the seven churches in Asia with the seven church periods. These chapters in the book of Revelation will be the key texts of this course. Each of these seven churches corresponds to a distinct period in history. Each of these church names has a corresponding meaning. The meaning of the names describes that period as a whole. 
-
-The following is a list of the seven periods with their corresponding church name and the meaning of that name. There is also a description of events that mark the beginning and ending of the period with the corresponding dates.
-
-### THE APOSTOLIC CHURCH&mdash;Ephesus&mdash;&quot;desirable&quot;
+### THE APOSTOLIC CHURCH
 
 START: From the Day of Pentecost (AD 30)
 
 END: To the completion of the New Testament (about AD 100)
 
-The first period we will study is the Apostolic period which corresponds to the Ephesus church. The word _Ephesus_ means "desirable." Ephesus is referred to as the model church. Jesus gives words of encouragement and also instruction to each of the churches. Jesus has many good things to say about this church. The description given by Jesus is very desirable (Revelation 2:1&ndash;7). Jesus admonishes this church that they have left their first love. The early church lacked a missionary vision. There was no effort to go into the entire world and preach the Gospel. This church period left their first love of the souls of men. God would allow persecution to come to cause the believers to spread out and therefore result in a greater spread of the Gospel.
-
-### THE PERSECUTED CHURCH&mdash;Smyrna&mdash;&quot;crushed&quot;
+### THE PERSECUTED CHURCH
 
 START: From the completion of the New Testament about (AD 100)
 
 END: To the Edict of Constantine (AD 313)
 
-The Persecuted period corresponds to the Smyrna church. The word _Smyrna_ means "crushed." This is a period of tremendous persecution of the church. The church was crushed beneath the iron heal of the Roman Empire.
+This is a period of tremendous persecution of the church. The church was crushed beneath the iron heal of the Roman Empire.
 
-### THE IMPERIAL CHURCH&mdash;Pergamos&mdash;&quot;married&quot;
+### THE IMPERIAL CHURCH
 
 START: From the Edict of Constantine (AD 313)
 
 END: To the Fall of Rome (AD 476)
 
-The word _Imperial_ refers to a king or ruler. The Imperial period corresponds to the Pergamos church. This was a period in the history of the church that an emperor had much influence on the church. The word Pergamos means married. This is a period of the beginning of compromise in the church. The church became married to paganism. The church name describes the condition of compromise that prevailed during this period.
+The word _Imperial_ refers to a king or ruler. This was a period in the history of the church that an emperor had much influence on the church.
 
-### THE MEDIEVAL CHURCH &mdash;Thyatira&mdash;&quot;continual sacrifice&quot;
+### THE MEDIEVAL CHURCH
 
 START: From the Fall of Rome (AD 476)
 
 END: To the Fall of Constantinople (AD 1453)
 
-_Medieval_ is a term used to describe the middle age of history. The Medieval period corresponds to the Thyatira church. The word _Thyatira_ means "continual sacrifice." The Catholic church dominated Europe during this time. The phrase _continual sacrifice_ describes the continual sacrifice of the Roman Catholic wafer during mass. The Catholics teach that Jesus is sacrificed each week during the mass.
+The Catholic church dominated Europe during this time.
 
-### THE REFORMED CHURCH&mdash;Sardis&mdash;&quot;remnant&quot;
+### THE REFORMED CHURCH
 
 START: From the Fall of Constantinople (AD 1453)
 
 END: To the End of the Thirty Year War (AD 1678)
 
-The Reformed period corresponds to the Sardis church. The word _Sardis_ means "remnant." There was still a remnant that was serving God. Jesus told them to strengthen the things that remain. This was a period when God used men like Martin Luther to stand up against the tide of Catholicism and preach the just shall live by faith. God raised up men throughout Europe to restore the Word to the church.
+This was a period when God used men like Martin Luther to stand up against the tide of Catholicism and preach the just shall live by faith. God raised up men throughout Europe to restore the Word to the church.
 
-### THE MODERN CHURCH &mdash;Philadelphia&mdash; &quot;brotherly love&quot;
+### THE MODERN CHURCH
 
 START: From the end of the Thirty Year War (AD 1678)
 
 END: To the Twentieth Century AD (1950's)
 
-The Modern period corresponds to the Philadelphia church. The word _Philadelphia_ means "brotherly love." This was a period of great revivals and missionary outreach. Up until this time there was never a concentrated effort to reach the world with the Gospel. It takes a great love of souls to travel to a foreign land and preach the Gospel. It was during this time that David Livingstone set up many missionary stations on the continent of Africa.
+This was a period of great revivals and missionary outreach. Up until this time there was never a concentrated effort to reach the world with the Gospel. It takes a great love of souls to travel to a foreign land and preach the Gospel. It was during this time that David Livingstone set up many missionary stations on the continent of Africa.
 
-### THE POSTMODERN CHURCH&mdash;Laodicea&mdash;&quot;rule by the people&quot;
+### THE POSTMODERN CHURCH
 
 START: From the Twentieth Century AD (1950's)
 
 END: To the present day
 
-We use the Biblical name of the church to refer to this period. The word _Laodicea_ means "rule by the people." Today many churches are run by the people and not the pastors. Thus the description of the period is again described in the meaning of the name&mdash;rule by the people. Jesus described this church as being lukewarm. The condition of the church as a whole today is definitely lukewarm.
-
-We will study each of these periods individually. This chapter was only an overview of what this course will cover. 
-
-1. THE APOSTOLIC CHURCH&mdash;Ephesus&mdash; desirable
-2. THE PERSECUTED CHURCH&mdash;Smyrna&mdash;crushed
-3. THE IMPERIAL CHURCH&mdash;Pergamos&mdash;married
-4. THE MEDIEVAL CHURCH&mdash;Thyatira&mdash; continual sacrifice
-5. THE REFORMED CHURCH&mdash;Sardis&mdash;remnant
-6. THE MODERN CHURCH&mdash;Philadelphia&mdash;brotherly love
-7. THE POSTMODERN CHURCH&mdash;Laodicea&mdash;rule by the laity/people
+We will study each of these periods individually. This chapter was only an overview of what this course will cover.

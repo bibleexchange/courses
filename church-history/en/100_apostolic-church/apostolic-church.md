@@ -2,18 +2,6 @@
 
 From the Day of Pentecost to the completion of the New Testament
 
-## Ephesus means desirable (Rev. 2:1–7)
-
-### Jesus had many good things to say about this church
-
-### They left their first love
-
-The loss of a love relationship with Jesus resulted in a loss of the love of the souls of men. There was no missionary effort. Jesus commissioned the Church to go into the entire world and preach the Gospel (Matt. 28:18–20; Acts 1:8). The early church made no effort to evangelize the world.
-
-### They hated the deeds of the Nicolaitanes
-
-We don't know exactly who these people were. Some people think that they were followers of Nicolas the deacon (Acts 6:5). They seem to be a group that mixed parts of paganism with Christianity.
-
 ## Details of the early church
 
 ### The church's enduement

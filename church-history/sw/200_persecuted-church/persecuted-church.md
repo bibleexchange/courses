@@ -6,29 +6,15 @@ Hii inazindua kipindi ambacho kanisa liligandamizwa chini ya utawala wa kipagani
 
 Tuna kumbukumbu za matukio ya kipindi cha kanisa la kwanza kutoka kwa Biblia, ambayo tunaamini yametutia moyo. Hatuna kumbukumbu za kibiblia za wakati wowote wa kanisa. Hii ina maana kwamba si kila tunachokisoma ni kweli. Watu wawili wanaweza kushuhudia tukio moja na bado wakatoa taarifa tofauti kabisa kuhusu jambo hilo. Historia ni ngumu kwa sababu vyanzo vinaweza kuwa kweli au visiwe kweli. Kuna msemo unasema, "historia imeandikwa na washindi." Hii ni kwa sababu wale walioshindwa vita walishakufa, na hawakuweza kuandika ukweli wao wenyewe wa kile kilichotokea.
 
-## Mateso na Smirna
-
-_Smirna_ maana yake ni iliyopondwa. Hii inatokana na neno la msingi manemane. Mmea wa manemane inabidi upondwe pondwe ili utoe harufu yake ya marashi matamu (Ufunuo 2:8—11). Inasemekana kwamba wakati Polycarp alikufa katika moto, kwamba kulikuwa na harufu nzuri.
-
-### Injili inasimulia "taabu na umaskini"
+## Mateso
 
 Huu ulikuwa ni wakati wa mateso makali kwa kanisa. Watu ambao hawakuawa walilazimika kwenda mafichoni na huko walivumilia umaskini na maisha ya taabu.
 
-### "Kufuru yao isemayo ni Wayahudi hali siyo kweli bali ni sinagogi la shetani" (Ufunuo 2:9)
-
-Waebionaiti walilipinga kanisa. Waebionaiti ni wale waliotaka kuzirudisha sheria na mila za Kiyahudi.
-
-### "Msiogope lolote ambalo litawafanya mteseke"
-
 Yesu aliwaeleza mapema kuhusu kipindi hicho cha mateso. Yesu aliwatia moyo wafuasi wake ili wasikiogope. Huo ulikuwa ni utabiri wa mateso ambayo kanisa lingeyapata kwa kipindi fulani.
-
-### "Shetani atawatupa baadhi yenu magerezani na mtashtakiwa"
 
 Wengi walifungwa kwa sababu za kuhubiri injili katika kipindi hiki. Kuwa Mkristo ilifanywa kuwa ni kosa chini ya sheria ya Kirumi.
 
-### "...nanyi mtapata dhiki kwa muda wa siku kumi. Uwe mwaminifu hata kufa, nami nitakupa taji ya uzima." (2:10)
-
-Hii ni unabii wa mateso ambayo Wakristo wangepitia. "Siku kumi" si kweli siku, lakini ni mfano wa kipindi cha mateso.
+Katika mwaka wa 303 BK Mfalme Diocletiani alianzisha kipindi cha mateso makali sana kwa wakristo yaliyojulikana kama "Mateso Makuu." Hili lilikuwa ni jaribio la kuuondoa Ukristo katika uso wa dunia hii. Inasemekana Diocletiani alijenga mnara ulioandikwa: Kwa kumbukumbu ya kufukuzwa ushirikiano unaoitwa Ukristo. Wakristo wengi walichomwa moto wakiwa hai kwa sababu ya ushuhuda wao. Wakristo walitupiwa wanyama wakali ambao waliwararua na kuwala katika viwanja vya michezo.
 
 ## Sababu zilizofanya kuwepo na mateso chini ya utawala wa kifalme
 
@@ -59,16 +45,6 @@ Wakristo waliwaona watu wote kuwa sawa, kwa hiyo waliharibu utaratibu wa jamii w
 ### Faida za kibiashara
 
 Kustawi kwa Ukristo kulisababisha biashara iliyokuwa na faida kubwa ya kutengeneza na kuuza sanamu na picha za ibada za kipagani kufa.Watengenezaji wakubwa wa vitu hivyo waliunga mkono kuteswa kwa wakristo (Mdo. 19:23—28).
-
-## Hatua za mateso
-
-### Kanisa lilipitia katika vipindi kumi vya mateso makali chini ya utawala wa Ufalme wa Kirumi
-
-"Nanyi mtakuwa na dhiki kwa siku kumi" (Ufunuo 2:10). Ukristo ulipigwa marufuku karne ya kwanza na ya pili. Kulikuwa na mateso makali miaka ya mwanzo ya karne ya nne hadi mwaka wa 313 BK wakati Hati ya Konstantino ilipotolewa.
-
-### Katika mwaka wa 303 BK Mfalme Diocletiani alianzisha kipindi cha mateso makali sana kwa wakristo yaliyojulikana kama "Mateso Makuu"
-
-Hili lilikuwa ni jaribio la kuuondoa Ukristo katika uso wa dunia hii. Inasemekana Diocletiani alijenga mnara ulioandikwa: Kwa kumbukumbu ya kufukuzwa ushirikiano unaoitwa Ukristo. Wakristo wengi walichomwa moto wakiwa hai kwa sababu ya ushuhuda wao. Wakristo walitupiwa wanyama wakali ambao waliwararua na kuwala katika viwanja vya michezo.
 
 ## Mashahidi muhimu na viongozi wa makanisa ya liyoteseka
 

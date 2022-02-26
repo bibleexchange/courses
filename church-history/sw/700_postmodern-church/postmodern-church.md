@@ -2,15 +2,7 @@
 
 Kuanzia mwaka wa 1950 wa Kristo hadi leo
 
-## Kanisa la uvuguvugu na upigajikura (Ufunuo 3:14—22)
-
-### Kanisa linaelezewa na Yesu kwamba liko vuguvugu
-
-Huu ni utabiri wa kitume kuhusu kipindi cha sasa cha kanisa. Kanisa lote kwa ujumla lipo katika hali ya kurudi nyuma na wala halijatambua hali hiyo. Kanisa lina mawazo kwamba linaendelea vizuri ilamaelezo ya Yesu kuhusu kanisa la leo ni kwamba kanisa haliridhishi kwa lolote.
-
-> Ufunuo 3:17&mdash;Kwa kuwa wasema mimi ni tajiri nimejitajirisha wala sina haja ya chochote wala hujui kabisa u mnyonge na mwenye mashaka na u maskini na kipofu na uko uchi
-
-### Kanisa linaendeshwa kwa sanduku la kura
+## Kanisa linaendeshwa kwa sanduku la kura
 
 Laodeshia maana yake utawala wa watu wenyewe. Makanisa mengi ya leo yanaendeshwa na watu wenyewe. Jina la kipindi hiki linaelezea serikali ya kisasa. Kanisa haliongozwi tena na Mungu ila linaendeshwa na watu ambao wanafanya mambo kwa njia zao binafsi watakavyo.
 

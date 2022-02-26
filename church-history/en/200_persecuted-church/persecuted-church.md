@@ -6,29 +6,15 @@ This sets forth the period when the church was crushed beneath the iron heel of 
 
 We have record of events of the first church period from the Bible, which we believe is inspired. We do not have biblical record for any other church period. This means that not all accounts that we will read are necessarily true. Two people can witness the same event and yet give completely different accounts of it. History is complicated because the sources may or may not be true. There is a saying, "history is written by the victors." This is because those that lost the battle were gone, and they were not able to write their own account of what happened.
 
-## Persecution and Smyrna
-
-_Smyrna_ means "crushed." It comes from the root word myrrh, the myrrh plant had to be crushed in order to emit its sweet fragrance (Revelation 2:8—11). It is said that when Polycarp died in the flames, that there was a pleasant aroma.
-
-### The Scripture describes "tribulation and poverty"
+## Persecution
 
 This was an intense period of persecution of the church. Those who weren't killed were forced into hiding and endured poverty and hardship.
 
-### "the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan." (Rev. 2:9)
-
-The Ebionites opposed the church. The Ebionites were those who wanted to revert back to the ceremonial law.
-
-### "Fear none of those things which thou shalt suffer"
-
 Jesus foretold of the suffering of this period. Jesus encourages the saints not to fear. This is a prophecy of the suffering that was to come to the church.
-
-### "the devil shall cast some of you into prison, that ye may be tried"
 
 Many were imprisoned for the sake of the Gospel during this period. It became against the Roman law to be a Christian.
 
-### "ye shall have tribulation ten days: be thou faithful unto death, and I will give thee a crown of life" (Rev. 2:10)
-
-This is prophetic of the persecution that the Christians would face. The "ten days" are not actually days, but they are symbolic of the periods of persecution.
+In AD 303 the Emperor Diocletian began the tenth and fiercest persecution of Christians that is called "The Great Persecution." This was an attempt to remove Christianity from the face of the earth. It is said that Diocletian erected a pillar inscribed, "In honor of the extirpation of the Christian superstition." Many Christians were burned alive for their testimony. Christians were eaten by wild beasts in the arena.
 
 ## Causes of imperial persecutions
 
@@ -60,19 +46,9 @@ Christians looked upon all men as equal, thus destroying the social order of the
 
 Christianity meant an end to the profitable business of making idols. The craftsmen supported the persecution of the Christians (Acts 19:23—28).
 
-## The Stages of Persecution
-
-### The church experienced ten periods of intense persecution at the hands of Roman emperors
-
-"Ye shall have tribulation ten days" (Rev. 2:10). Christianity was outlawed during all of the second and third centuries. There was tremendous persecution in the opening years of the fourth century, until the year AD 313 when the _Edict of Constantine_ was issued.
-
-### In AD 303 the Emperor Diocletian began the tenth and fiercest persecution of Christians that is called "The Great Persecution."
-
-This was an attempt to remove Christianity from the face of the earth. It is said that Diocletian erected a pillar inscribed, "In honor of the extirpation of the Christian superstition." Many Christians were burned alive for their testimony. Christians were eaten by wild beasts in the arena.
-
 ## Prominent Martyrs and leaders of the Persecuted Church
 
-### Ignatius 
+### Ignatius
 
 Ignatius was bishop of Antioch in Syria. He had been a pupil of the Apostle John.
 
@@ -148,9 +124,9 @@ They were followers of Marcion. This group was like the opposite of the Ebionite
 
 They were followers of Montanus (AD 150—170s). This was a prophetic group that believed that the Holy Spirit spoke new things to the church. They believed that the members of the Trinity operated in different times:
 
-* The Father worked in Old Testament times
-* The Son worked in New Testament times
-* The Holy Spirit works today 
+- The Father worked in Old Testament times
+- The Son worked in New Testament times
+- The Holy Spirit works today
 
 ### Sabellianism (also known as Modalism)
 

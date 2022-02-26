@@ -2,32 +2,6 @@
 
 From the fall of Rome to the fall of Constantinople.
 
-## The Medieval Church was Characterized by Thyatira (2:18&ndash;29)
-
-### The "continual sacrifice" of mass was part of the seduction of this period
-
-Roman Catholic doctrine states that Christ instituted the Eucharist as an atoning or propitiatory work.
-
-"The victim is one and the same: …only the manner of offering is different. And since in this divine sacrifice which is celebrated in the Mass, the same Christ who offered himself once in a bloody manner on the altar of the cross is contained and offered in an unbloody manner… this sacrifice is truly propitiatory" (Doctrinade ss. Missae sacrificio, c. 2, quoted in Catechism of the Catholic Church, 1367) [Christ instituted the Eucharist]. He did this in order to perpetuate the sacrifice of the Cross throughout the centuries until he should come again. (1992 Catechism of the Roman Catholic Church)
-
-Thyatira means continual sacrifice. This refers to the Roman Catholic mass or Eucharistic celebration. The mass became a continual sacrifice for the living and the dead. Roman Catholic doctrine claims that the wafer and wine literally turn into the body and blood of Jesus and must be "perpetually offered" until His return for there to be atonement for sin. Although they would rather say that mass is not so much a "continual sacrifice" as a "perpetual re–presenting' of the blood and body of Christ, they in practice denounce the sufficiency and sovereignty of Christ's work on the cross in requiring any further work. We by faith receive the atoning work of Christ because his sacrificial death was sufficient. The keeping of the Lord's Supper is not an atoning work or propitiatory, but is a memorial feast and act of obedience. Jesus offered Himself once and for all (Heb. 7:27) and his death and resurrection are memorialized in communion. There is no propitiation necessary beyond Christ's ministry on the cross.
-
-### The spirit that Jezebel carried seduced many believers to idolatry and fornication
-
-> Revelation 2:20&mdash;…thou sufferest that woman Jezebel, which calleth herself a prophetess,to teach and to seduce my servants to commit fornication and to eat things sacrificed unto idols.
-
-Notice it is the servants of Jesus who are being taught and seduced to commit fornication and idolatry.
-
-Queen Jezebel was already dead at the time of this writing. This Scripture refers to the seductive and false worship spirit of Jezebel and not specifically the Old Testament queen.
-
-### There was a faithful remnant in this period (v. 19)
-
-> Revelation 2:24&mdash;…unto the rest in Thyatira, as many as have not this doctrine…
-
-### Some in this church period were involved in good works of charity, service and faith, and were not a part of the Roman Catholic Church
-
-There were several groups of people who were following the Word of God.
-
 ## The Medieval Church was covered by darkness
 
 > Isaiah 9:19&mdash;Through the wrath of the LORD of hosts is the land darkened,
@@ -130,14 +104,14 @@ The church convinced political rulers of Europe to lead the Crusades. The Muslim
 
 The following chart shows some of the differences between the Eastern and Western churches:
 
-| East                | West                           |
-| ------------------- | ------------------------------ |
-| Used Greek          | Used Latin                     |
-| Priests could marry | Priests could **not** marry    |
-| Priests wore beards | Priests were clean-shaven      |
+| East                                                 | West                                              |
+| ---------------------------------------------------- | ------------------------------------------------- |
+| Used Greek                                           | Used Latin                                        |
+| Priests could marry                                  | Priests could **not** marry                       |
+| Priests wore beards                                  | Priests were clean-shaven                         |
 | Nicene Creed says the Spirit comes "from the Father" | Adds "and the Son" (Called the _Filioque Clause_) |
-| Different ceremonies for mass                       ||
-| Doctrinal differences                               ||
+| Different ceremonies for mass                        |                                                   |
+| Doctrinal differences                                |                                                   |
 
 Pope Leo IX wanted Michael, the patriarch of Constantinople, to submit to him. The pope sent representatives to Constantinople, but Michael refused to meet with them. The representatives excommunicated Michael, and he in turn excommunicated them.
 
@@ -175,11 +149,11 @@ Thomas Aquinas was born in AD 1225. He is possibly the greatest theologian of th
 
 John Wycliffe (1330&ndash;1384) was the first to translate the Bible into English. He is referred to as _the Morning Star of the Reformation_. He had followers, which were called _lollards_, which means "poor preachers." He stood against the Catholic Church. Following are some of the things he questioned about the church:
 
-* The church's right to temporal power and wealth
-* The sale of indulgences
-* The worship of saints and relics
-* The pope's authority
-* Transubstantiation
+- The church's right to temporal power and wealth
+- The sale of indulgences
+- The worship of saints and relics
+- The pope's authority
+- Transubstantiation
 
 He would have been killed by the Catholics had it not been for the protection of the English nobles. Wycliffe's preaching and Bible translation prepared the way for the Reformation. The Catholics hated him so much his body was dug up and desecrated years after his death.
 

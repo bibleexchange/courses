@@ -2,20 +2,6 @@
 
 From the fall Constantinople to the end of the Thirty Year War.
 
-## The Remnant
-
-_Sardis_ implies a remnant (Rev. 3:1&ndash;6).
-
-### Be watchful, and strengthen the things which remain, that are ready to die: for I have not found thy works perfect before God (v. 2)
-
-Jesus was encouraging the church to be alert and hang on to what remnant of the things of God were still left before they died out.
-
-### Remember therefore how thou hast received and heard, hold fast, and repent (v. 3)
-
-They were told to remember and hold on to the truth they had received and to repent which means to turn around.
-
-### Thou hast a few names even in Sardis which have not defiled their garments (v. 4)
-
 There was still a remnant standing against false doctrine. This was a period when God raised up people to shine the light against the darkness of false doctrine.
 
 ## The Renaissance

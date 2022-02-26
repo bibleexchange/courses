@@ -2,20 +2,6 @@
 
 Tangu anguko la Konstantino mpaka mwishoni mwa Vita vya miaka Thelathini.
 
-## Yale mabaki
-
-Sardi maana yake ni mabaki (Ufunuo 3:1–6).
-
-### Uwe mwangalifu na uviamrishe vitu vilivyobaki ambavyo viko tayari kufa kwa sababu sijaona kama kazi zako ni kamilifu mbele ya Mungu wangu (mst. 2)
-
-Yesu alilitia moyo kanisa kuwa macho na kulinda mabaki ya vitu vya Mungu ambavyo bado havijafa.
-
-### Kwa hiyo ukumbuke jinsi wewe ulivyopokea na kusikia, thamini na utubu (mst. 3)
-
-Bado kulikuwana waliobaki wakilipinga kanisa katoliki. Hiki ni kipindi ambacho Mungu aliinua watu walioleta mwanga katika giza la Kanisa Katoliki.
-
-### Bado yapo majina machache hata huko Sardi ambao bado hawaja najisi mavazi yao (mst. 4)
-
 Hawa ni wale waliokuwa wamebaki wakilipinga kwa ushupavu mafundisho ya uwongo. Hiki kilikuwa ni kipindi ambacho Mungu aliinua wanaume wakang'ara na kufunika lile giza la mafundisho ya uwongo.
 
 ## Kipindi cha kuchipuka upya (Mvurumko)

@@ -2,18 +2,6 @@
 
 From the Edict of Constantine to the Fall of Rome.
 
-## Mixture and Pergamos
-
-_Pergamos_ means "married." The church was infiltrated by paganism, and became married to the world (Rev. 2:12—17). Church and state were also joined together.
-
-### The doctrine of Balaam (v. 14)
-
-Balaam cast a stumbling block before Israel. He gave council to entice Israel to sin (Num. 31:16). The Scripture refers to him teaching Israel to eat things sacrificed to idols and to commit fornication. This Scripture is describing the events that would take place in the Imperial Church period. Balaam was already dead at the time when John received the Book of Revelation in AD 100. The Scripture is referring to the false doctrine spirit associated with Balaam that would be prevalent in this church period.
-
-### Doctrine of Nicolaitans (v. 15)
-
-The Nicolaitans merged parts of Christianity with paganism.
-
 ## Constantine
 
 ### Constantine's Cross
@@ -24,7 +12,7 @@ He battled Maxentius for the throne at the Battle of Milvian Bridge (AD 312). Co
 
 Many Christian historians have doubted the sincerity of his profession.
 
-### Edict of Toleration (Edict of Constantine) (AD 313) 
+### Edict of Toleration (Edict of Constantine) (AD 313)
 
 An _edict_ is an official decree or document. This edict granted freedom to all religions in the empire ending the Roman persecution of Christianity. It restored to Christians property that had been seized during Diocletian's reign.
 
@@ -58,7 +46,7 @@ Some people will say that Constantine started the Roman Catholic Church, but it 
 
 ## Fall of the Western Roman Empire
 
-### Constantine chose the Greek city of Byzantium for the new Capital and renamed it Constantinople (AD 330) 
+### Constantine chose the Greek city of Byzantium for the new Capital and renamed it Constantinople (AD 330)
 
 This increased the influence of the Roman bishop. The capital was now far away from Rome and the Empire was already in collapse.
 
@@ -84,7 +72,7 @@ He was referred to as "the golden mouth," because of his eloquence as a speaker.
 
 ### Augustine (AD 354&ndash;430)
 
-Augustine said, "Our hearts are restless until they find rest in you." He became bishop of Hippo in North Africa in AD 395. He was a Chief defender of the faith in the Pelagian Controversy. This false teaching was promoted by Pelegius who did not believe in original sin. Augustine developed a reputation as a preacher, teacher, and writer. 
+Augustine said, "Our hearts are restless until they find rest in you." He became bishop of Hippo in North Africa in AD 395. He was a Chief defender of the faith in the Pelagian Controversy. This false teaching was promoted by Pelegius who did not believe in original sin. Augustine developed a reputation as a preacher, teacher, and writer.
 
 ### Ambrose
 
@@ -189,7 +177,7 @@ The council was largely motivated by political factors. The Second Ecumenical Co
 
 The council decided against Nestorius and he was exiled as a heretic. Even though he was exiled, people continued to believe his doctrine and Nestorianism still exists today as a branch of Christianity.
 
-While their were some differences of doctrine between Cyril and Nestorius, much of their disagreement lay in how they emphasized certain parts of the doctrine of Christ and also from how they defined and used different words and phrases. They both were concerned with defending the faith against heresy. While it is impossible to know, we can't but wonder what agreement they might have come to if they had talked together about their ideas. 
+While their were some differences of doctrine between Cyril and Nestorius, much of their disagreement lay in how they emphasized certain parts of the doctrine of Christ and also from how they defined and used different words and phrases. They both were concerned with defending the faith against heresy. While it is impossible to know, we can't but wonder what agreement they might have come to if they had talked together about their ideas.
 
 Though Nestorius was always considered a heretic, the Council of Chalcedon made decisions about the doctrine of Christ that closer to the ideas of Nestorius. Nestorius was also correct about how the name _Mother of God_ would exalt Mary to a position that was more than she deserved. Over many years, we see the tradition of the Roman Catholic Church move Mary into the place where she is almost considered divine.
 

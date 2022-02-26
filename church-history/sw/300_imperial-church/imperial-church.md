@@ -2,18 +2,6 @@
 
 Tangu kutolewa Hati ya Konstantino mpaka angukola Roma.
 
-## Mchanganyiko na Pergamos
-
-_Pergamo_ maana yake aliyeolewa. Kanisa liliingiliwa na upagani na likaolewa na ulimwengu (Ufunuo2:12&ndash;17). Kanisa na serikali pia viliunganishwa pamoja.
-
-### Kanuni ya Balaam (mst. 14)
-
-Balaam aliweka jiwe kubwa mbele ya Israeli. Alitoa wazo la kuishauri Israeli itende dhambi (Hesabu 31:16). Maandiko yanasema kwamba aliwafundisha Wasraeli kula vitu vilivyotolewa sadaka kwamiungu na kunajisi. Maandiko pia yanazungumzia mambo yatakayotokea katika kipindi kanisa la Kifalme. Maandiko hayo yana maana ni kanuni za uongo ambazo zinazomhusisha Balaam zitakazoenea sana wakati wa kipindi hiki cha kanisa.
-
-### Kanuni ya Wanikolaiti (mst. 15)
-
-Wanikolai waliunganisha sehemu za Ukristo na upagani.
-
 ## Konstantino
 
 ### Msalaba wa Konstantino

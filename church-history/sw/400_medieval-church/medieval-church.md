@@ -2,32 +2,6 @@
 
 Toka anguko la Roma hadi anguko la Konstatinopo.
 
-## Kanisa la zama za enzi kati lilifanana tabia na Thiatira (2:18—29)
-
-### "Sadaka ya kutolewa misa daima" ilikuwa sehemu ya kubembeleza kwa kipindi hiki
-
-Kanuni muhimu ya Katoliki ya Roma inatamka kwamba Kristo aliweka Ekaristi kama sakramenti ya upatanisho au utaratibu wa kazi.
-
-"Muathirika ni yule yule … ila njia ya kumtoa sadaka ni tofauti. Na kwa kuwa katika sadaka hii takatifu inayoadhimishwa katika misa ni Kristo yule aliyejitoa mwenyewe siku moja altareni kwenye msalaba kwa kumwaga damu; amechukuliwa na kutolewa bila umwagaji wa damu sadaka hii ni upatanisho wa kweli" (Doctrinadess. Missae sacrificio c.2 kama inayotajwa katika Kateksimu ya Kanisa Katoliki 1367) [Kristo aliiweka Ekaristi]. Alifanya hivi ili kuendeleza sadaka ya msalaba katika karne zote mpaka atakaporudi tena. (Katekisimu ya mwaka 1992 ya Kanisa Katoliki la Roma).
-
-Thiatira maana yake sadaka ya misa kutolewa daima. Hii inahusisha misa ya Kanisa la Katoliki au adhimisho la Ekaristi. Misa iligeuka kuwa sadaka ya kutolewa daima kwawalio hai na wafu. Kanuni ya Kanisa Katoliki au adhimisho la Roma linadai kwamba mkate na divai hugeuka mwili na damu halisi ya Yesu na ni lazima itolewe milele hadi atakaporudi ili kuwepo na ondoleo la dhambi. Ingawawangeweza kusema kwamba misa siyo "sadaka ya kutolewa daima" ama "kuwakilishamilele" kwa mwili na damu ya Kristo wao katika hali halisi wanashutumu ukamilifu na mamlaka ya kazi ya Kristo msalabani kwa kuhitaji kazi zaidi. Kwa imani tunapokea upatanisho wa kazi ya Kristo kwa sababu kwa kujitolea kufa ilitosha. Kuendelea kuadhimisha karamu ya Bwana siyo kazi ya upatanisho au utaratibu wa kazi ila ni sherehe ya kumbukumbu na tendo la utii. Yesu alijitoa mara moja tu basi (Ebr. 7:27) na kifo chake na ufufuko vinakumbukwa katika Komunio. Hakuna utaratibu wa kazi hiyo ambao ni wa lazima mbele zaidi ya huduma ya Kristo katika msalaba.
-
-### Roho iliyobeba Yezebeli ilishauri walioamini wengi kuabudu vitu na kunajisi
-
-> Ufunuo 2:20&mdash;…lakini nina neno juu yako ya kwamba wamridhia yule mwanamke Yezebeli na kuwafundisha watumishi wangu na kuwapoteza ili wazini na kula vitu vilivyotolewa sadaka kwa sanamu.
-
-Kwamba hawa ni watumishi wa Yesu ambao wanafundishwa na kushauriwa kuzini na kula vitu vilivyotolewa sadaka kwasanamu.
-
-Wakati wa kuandika habari hizi malkia Yezebeli alikwisha kufa lakini andiko hili linahusu mafundisho ya uongo na roho ya ibada za Yezebeli na siyo huyo malkia wa Agano la Kale.
-
-### Katika kipindi hiki kulikuwepo na mabaki ya watu waaminifu (mst. 19)
-
-> Ufunuo 2:24&mdash;…Nawaambia ninyi wengine mlioko Thiatira wowote wasio na mafundisho hayo…
-
-### wengine katika kipindi hiki cha kanisa walikuwa tayari wanajihusisha na kazi nzuri za kuitumikia jamii, huduma na imani yao
-
-Watu hawa hawakuwa sehemu ya kanisa Katoliki la Roma. Yalikuwepo makundi kadhaa ya watu ambao walikuwa wakilitimiza neno la Mungu ipasavyo.
-
 ## Kanisa la Zama za Enzi za Kati lilifunikwa na giza
 
 > Isaya 9:19&mdash;Kwa sababu ya hasira ya BWANA nchi hii inateketea.

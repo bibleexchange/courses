@@ -2,18 +2,6 @@
 
 Kutoka siku ya Penstekoste hadi kukamilishwa Agano Jipya
 
-## Efeso maana yake yenye inayovutia (Ufu. 2:1–7)
-
-### Yesu alikuwa na mambo mazuri mengi aliyosema kuhusu kanisa hili
-
-### Waliacha upendo wao wa kwanza
-
-Kupotea kwa uhusiano wa upendo na Yesu kulifanya upendo wa roho za wanadamu upotee. Kulikuwa hakuna juhudi za kimisionari zilizofanywa. Yesu aliliagiza kanisa liende ulimwenguni kote likaihubiri injili (Mat. 28:18–20; Matendo 1:8). Kanisa la mwanzo halikufanya kazi yeyote ya kuieneza injili ulimwenguni.
-
-### Walichukia matendo ya Wanikolaiti
-
-Hatujui hasa watu hawa walikuwa nani. Baadhi ya watu wanadhani kuwa walikuwa wafuasi wa Nicolas shemasi (Matendo 6:5). Wanaonekana kuwa kikundi ambacho kinachanganya sehemu za kipagani na Ukristo.
-
 ## Maelezo ya kanisa la kwanza
 
 ### Nguvu za kanisa

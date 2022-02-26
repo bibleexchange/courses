@@ -1,22 +1,6 @@
-# Six: The Modern Church
+# Six: The Modern Church (AD 1678–c. 1950)
 
-(AD 1678–c. 1950) From the end of the Thirty Year War of 1678 to the 1950's.
-
-## The open door (Revelation 3:7&ndash;13)
-
-### A New Chance
-
-### I have set before thee an open door
-
-This was a period of great revival and concentrated missionary efforts. The world was an open door for missions.
-
-### An old commission
-
-> Mark 16:15&mdash;And he said unto them, Go ye into all the world, and preach the gospel to every creature. (Matthew 28:19&ndash;20)
-
-### A renewed compassion
-
-### Philadelphia means "brotherly love"
+From the end of the Thirty Year War of 1678 to the 1950's.
 
 ## The Great Awakening (1700's)
 
@@ -54,9 +38,9 @@ Spurgeon was a "Prince of Preachers" who was the Pastor of the Metropolitan Bapt
 
 ## The Modern Missionary Movement
 
-### Obstacles to Missions
+This was a period of great revival and concentrated missionary efforts. The world was an open door for missions.
 
-Doctrinal beliefs formerly hindered the evangelizing of heathen nations. The Calvinistic doctrines of predestination and election were common beliefs of the church leading up to and during this period. Heathen nations were believed to be predestined to be dammed with no hope of Salvation. It was because of the adherence to this false doctrine that it was thought to be unnecessary to travel to heathen nations.
+> Mark 16:15&mdash;And he said unto them, Go ye into all the world, and preach the gospel to every creature. (Matthew 28:19&ndash;20)
 
 ### William Carey (India)
 

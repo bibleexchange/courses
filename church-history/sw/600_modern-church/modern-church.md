@@ -2,22 +2,6 @@
 
 Kuanzia mwisho wa vita ya miaka thelathini ya mwaka 1678 hadi miaka ya 1950.
 
-## Mlango ulio wazi (Ufunuo 3:7&ndash;13)
-
-### Fursa mpya
-
-### Nimewafungulia ninyi mlango
-
-Hiki ni kipindi cha uamsho mkubwa na jitihada nzito za kimisionari. Dunia ilikuwa ni mlango uliokuwa wazi kwa wamisionari.
-
-### Kutumwa toka zamani
-
-> Marko 16:15&mdash;Naye akawambia enendeni ulimwenguni mwote mkaihubiri injili kwa kila kiumbe. (Mathayo 28:19–20)
-
-### Upendo mpya
-
-### Filadelfia maana yake "upendo wa kindugu"
-
 ## Uamsho Mkubwa (wa miaka ya 1700)
 
 Uamsho mkubwa unahusishwa nakuanzishwa upya jitihada za kuieneza injili Uingereza na Marekani.
@@ -54,9 +38,9 @@ Spargeoni alikuwa ni Mwana wa mfalme wa wahubiri na alikuwa mchungaji wa Kanisa 
 
 ## Mwenendo wa kisasa kwa kazi za misheni
 
-### Vikwazo vilivyopo kwa umisionari wa kisasa
+Hiki ni kipindi cha uamsho mkubwa na jitihada nzito za kimisionari. Dunia ilikuwa ni mlango uliokuwa wazi kwa wamisionari.
 
-Kanuni za imani zilikuwa ni kikwazo katika kuieneza Injili ndani ya mataifa ya kipagani. Kanuni mbili za Kalvini za kujielekeza panapojulikana na kuchagua zilikuwa ni njia mbili za kanisa zilizotumika katika kipindi hiki na kabla yake. Mataifa ya kipagani yaliaminika kwamba yamehukumiwa kupotea bila kuwa na matumaini ya kuokolewa. Kanuni hiyo potofu iliwafanya watu kutoona umuhimu wa kwenda kuhubiri injili ugenini kwa wapagani.
+> Marko 16:15&mdash;Naye akawambia enendeni ulimwenguni mwote mkaihubiri injili kwa kila kiumbe. (Mathayo 28:19–20)
 
 ### William Carey (Uhindi)
 
