@@ -8,11 +8,19 @@ const Scene = (id)=>{
     switch(this.id){
 
       case 'mountains':
-        return 
+        return this
         break;
+      default: 
+       console.log(3) 
     }
-  },
+  }
 }
+
+Scene.prototype = {
+
+  constructor : Scene
+
+};
 
 const Game = function() {
 
@@ -29,7 +37,7 @@ const Game = function() {
     width:128,
     current_level:1,
     level_data:[
-      {scene: new Scene('mountains')}
+      {scene: Scene('mountains')}
     ],
 
     collideObject:function(object) {
