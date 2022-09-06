@@ -1,3 +1,0 @@
-# Utangulizi kwa Historia ya Kanisa
-
-Somo hili litamwezesha mwana funzi kuifahamu vizuri historia ya kanisa. Zipo tarehe zitakazotolewa kuhusu matukio ya Historia ya Kanisa. Hutalazimika kukariri matukio wala tarehe nyingi. Lengo la somo hili ni kumpatia mwanafunzi uelewa wa matukio yaliyojiri katika kipindi kizima cha Historia ya Kanisa. Kanisa la Yesu Kristo liko hai. Tutajifunza kuhusu maisha ya baadhi ya watu waliotumiwa na Mungu kama nguzo kuu katika Kanisa.
