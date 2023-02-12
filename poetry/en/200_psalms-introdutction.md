@@ -42,6 +42,7 @@ Psalms is organized into five Books. The five-fold arrangement has long been rec
 4. Book 4 (90-106) — Numbers — concerning Israel in relation to the nations.
 5. Book 5 (107-150) — Deuteronomy — concerning God and His Word.
 
+
 <!-- Mowinckel acknowledges both aspects when he says.
 > In spite of the didactic character of the ‘learned psalmography’, it has one characteristic in common with genuine psalmography; these poems are, and must be considered as, prayers. Like every real psalm, they address God, even though they often address men as well.
 > Mandolfo, C. (2002). God in the Dock: Dialogic Tension in the Psalms of Lament (Vol. 357, p. 24). London; New York: Sheffield Academic Press.
@@ -63,8 +64,6 @@ Psalms is organized into five Books. The five-fold arrangement has long been rec
 > Bend down Thy gracious ear to me, My prayer let come before Thee.  
 > If Thou rememberest each misdeed, If each should have its rightful meed,  
 > Who may abide Thy presence?
-
-
 
 ## Classification of Psalms
 
@@ -154,7 +153,7 @@ Psalms 113-118 are called the  "Hallel Psalms" or "Praise Psalms" as they start 
 * David's lament over Saul and Jonathan — 2 Samuel 1:19-27
 * Hezekiah's Praise for Deliverance — 1 Samuel 38:9-20
 
-### Psalm is Organized into 5 Books
+### Psalms is Organized into 5 Books
 
 > Psalm is organized into five books or collections. They were probably collected gradually, as corporate worship forms developed along with temple worship. It is likely that by the time of Ezra, the books of the Psalter were organized into their final form. Each section concludes with a doxology, with the entire Psalter capped by Psalm 150, a grand doxology. (doxology: a hymn or form of words containing an ascription of praise to God.)
 > https://books.google.co.tz/books?id=jIhMDgAAQBAJ&pg=PT1169&lpg=PT1169&dq=Psalm+is+organized+into+five+books+or+collections.+They+were+probably+collected+gradually,+as+corporate+worship+forms+developed+along+with+temple+worship.&source=bl&ots=g1WoY2bGCz&sig=ACfU3U0DoZ6QVOt_nQGOlgDfmeenwq0tAA&hl=en&sa=X&ved=2ahUKEwiPk5GDgYniAhWNbVAKHUHnCSIQ6AEwAXoECAkQAQ#v=onepage&q=Psalm%20is%20organized%20into%20five%20books%20or%20collections.%20They%20were%20probably%20collected%20gradually%2C%20as%20corporate%20worship%20forms%20developed%20along%20with%20temple%20worship.&f=false

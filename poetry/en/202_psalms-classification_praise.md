@@ -10,15 +10,15 @@ Praise is a wonderful and powerful thing. God inhabits the praise of His people 
 
 The book of Psalms is organized into five books. Each book concludes with a doxology, with the entire book of Psalms capped by Psalm 150, a grand ascribing of praise to God.
 
-* Book 1 (1–41) — DOXOLOGY: 41:13 
-* Book 2 (42–72) — DOXOLOGY: 72:18,19 
-* Book 3 (73–89) — DOXOLOGY: 89:52
-* Book 4 (90–106) — DOXOLOGY: 106:48
-* Book 5 (107–150) — DOXOLOGY: 150
+* Book 1 (1–41) — Doxology: 41:13 
+* Book 2 (42–72) — Doxology: 72:18,19 
+* Book 3 (73–89) — Doxology: 89:52
+* Book 4 (90–106) — Doxology: 106:48
+* Book 5 (107–150) — Doxology: 150
 
 Praise is an important thing for man, because if we are not worshiping God, then it is easy for us to worship something else. C. Hassell Bullock explains that:
 
-> Exalting is a part of existence. It is so much a part of it, that when one has ceased to exalt God, something else must be exalted. Then God can be displaced by a man, an institution, an idea. Exalting remains a function of existence. World history demonstrates this. Man must exalt something, and without such exalting there can apparently be no existence.... If the praise of God, as the Psalms express it, belongs to existence, then the directing of this praise to a man, an idea, or an institution must disturb and finally destroy life itself. The Psalms say that only where God is praised is there life.[1]
+> Exalting is a part of existence. It is so much a part of it, that when one has ceased to exalt God, something else must be exalted. Then God can be displaced by a man, an institution, an idea. Exalting remains a function of existence. World history demonstrates this. Man must exalt something, and without such exalting there can apparently be no existence.... If the praise of God, as the Psalms express it, belongs to existence, then the directing of this praise to a man, an idea, or an institution must disturb and finally destroy life itself. The Psalms say that only where God is praised is there life.<sup>[1]</sup>
 
 ### Organization
 
@@ -33,7 +33,7 @@ Praise is an important thing for man, because if we are not worshiping God, then
 	2. Psalms of Yahweh as king: Psalms 47, 93, 96, 97, 98, and 99. 
 	3. Harvest psalms: Psalms 65 and 145. 
 	4. Historical psalms: Psalms 105; 106; 114; 135; 136. 
-	5. Entrance psalms: Psalms 24, 95, and 100.[2]
+	5. Entrance psalms: Psalms 24, 95, and 100.<sup>[2]</sup>
 
 <!--This section is copied verbatim from the source listed. It should be reworked so that it is more original, at least in it's wording.-->
 
@@ -41,7 +41,7 @@ Praise is an important thing for man, because if we are not worshiping God, then
 
 #### Creation
 
-God is praised because He has created the whole world and everything that is in it, including mankind. "It is obvious why the topic of creation or the Creator should be a major object of attention in the psalms of praise—creation marked the beginning of world history, and all of God’s awesome deeds in history must be seen in the light of his majestic work of creation."[3] These psalms show us that God created with His word (33:6; 148:5–6), His deeds (147:4), His understanding (104:24–26; 136:5–9), and His power (65:5–8). Psalm 8 marvels the beauty of His creation and Psalm 134 and 149:1–2 encourage us to worship our Creator. Psalm 19:1–4 tells us that the natural world that God created praises Him. If the sun and stars praise God, how much more should we praise Him.
+God is praised because He has created the whole world and everything that is in it, including mankind. "It is obvious why the topic of creation or the Creator should be a major object of attention in the psalms of praise—creation marked the beginning of world history, and all of God’s awesome deeds in history must be seen in the light of his majestic work of creation."<sup>[3]</sup> These psalms show us that God created with His word (33:6; 148:5–6), His deeds (147:4), His understanding (104:24–26; 136:5–9), and His power (65:5–8). Psalm 8 marvels the beauty of His creation and Psalm 134 and 149:1–2 encourage us to worship our Creator. Psalm 19:1–4 tells us that the natural world that God created praises Him. If the sun and stars praise God, how much more should we praise Him.
 
 #### Israel's history
 
@@ -60,6 +60,8 @@ Sometimes the psalms do not speak of a specific event in history where God acted
 * “wonderful acts” (105:2, 5; 136:4)
 * “mighty acts” (106:2; 145:4, 12)
 * “great deeds” (111:2; 136:4)
+
+<hr />
 
 [1] Psalms (Encountering Biblical Studies): A Literary and Theological Introduction By C. Hassell Bullock, p. 306
 [2] ibid, p. 309

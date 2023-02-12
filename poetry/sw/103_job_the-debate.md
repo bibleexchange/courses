@@ -8,13 +8,13 @@ Swali, "Kwanini?" haisemwi waziwazi katika majadiliano yeyote. Ayubu hana anasa 
 
 ### Mjumbe
 
-Kwasababu Ayubu hawezi kuwashawishi rafiki zake kuwa yeye ni mwenye haki, anaanza kumuita Bwana kwaajili ya majibu. Fikra imejengwa kuwa hakuna mwanadamu wa kusimama katikati yake na Mungu (9:32–33). Hatuwezi kusoma hiki bila kugundua suluhisho la tatizo ni Kristo. Sasa tuna mjumbe ambaye ni Mungu na amekuwa mtu ili kwamba mjumbe mtimilifu atengenezwe kwetu. Ayubu hakuwa na hili. Kutokuwepo kwa mjumbe kulimsababisha yeye aulize jibu moja kwa moja kutoka kwa Mungu (3:1–9). Hili ni ombi atapewa ruhusa lakini hatafurahia.
+Kwasababu Ayubu hawezi kuwashawishi rafiki zake kuwa yeye ni mwenye haki, anaanza kumuita Bwana kwaajili ya majibu. Fikra imejengwa kuwa hakuna mwanadamu wa kusimama katikati yake na Mungu (9:32–33). Hatuwezi kusoma hiki bila kugundua suluhisho la tatizo ni Kristo. Sasa tuna mjumbe ambaye ni Mungu na amekuwa mtu ili kwamba mjumbe mtimilifu atengenezwe kwetu. Ayubu hakuwa na hili. Kutokuwepo kwa mjumbe kulimsababisha yeye aulize jibu moja kwa moja kutoka kwa Mungu. Hili ni ombi atapewa ruhusa lakini hatafurahia.
 
 ### Uadilifu
 
 Pamoja na kuwa alifanya makosa na kufanywa fahari na kuwa shujaaa kutosha kuuliza kikao na Mungu, hakutenda dhambi au kumlaani Mungu. Hawakujaribu kupotosha hali ya Ayubu kama matendo ya hovyo ya nafasi kama ambavyo tungefanya leo. Tunaweza kulaumu anguko, dunia, wenye dhambi na mengineyo kama sababu ya mateso, lakini Ayubu haharibu sifa ya Mungu kwa kuruhusutukio hili kuwa kitu ambacho Mungu hakuona kikija hakukiziua. Tukio linadanganya katika mikono ya Mungu na Ayubu anakasirika lakini hamlaani Mungu. Alikata tama, lakini hakutenda dhambi. Katika siku zetu, kuna uoungufu wa kujali na kuzitii amri, lakini katika siku za kuchanyanyikiwa na shida amri zinakuwa nanga. Zinaweza kuhifadhiwa tunapojiskia hakuna upendo kwa Mungu, na katika matendo mepesi ya kuzitenda tunaonyesha kweli tunampenda bila kujali tunajisikiaje. Yesu alisema, "Ukinipenda, utazishika amri zangu."
 
-#### Utajiri
+### Utajiri
 
 Cha kushangaza, Ayubu hakuwahi kutajwa kuwa amepoteza kitu. Leo, tungejali tu kuhusu thamani ya mifugo na nyumba. Tungelia kwaajili ya vifo vya wapendwa wetu, lakini Ayubu anatokea mashariki, na shabaha yake kuu ni kupoteza utii na heshima katika jamii. Hii inaweza kuwa kwasababu ya muda au eneo au yote mawili, lakini bado inaweza kutusaidia leo katika siku zetu. Labda hii ni kwasababu alifanya kazi kwa nguvu kurudisha heshima, na labda hatufikiri sana kuhusu hiyo kwasababu hatujawahi kupata kitu mwanzo.
 

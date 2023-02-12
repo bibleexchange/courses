@@ -41,3 +41,4 @@ Zaburi imeandaliwa katika Vitabu vitano. Mpangilio wa mara tano umetambuliwa kwa
 3. Kitabu cha 3 (73-89) — Mambo ya Walawi — Kuhusu patakatifu pa Mungu.
 4. Kitabu cha 4 (90-106) — Hesabu — Kuhusu Israeli kuhusiana na mataifa.
 5. Kitabu cha 5 (107-150) — Kumbukumbu la Torati — Kuhusu Mungu na neno lake.
+
