@@ -1,6 +1,10 @@
 ## Hitimisho (sura ya 38–42)
 
-Tuko tayari kwaajili ya kuokolewa. Tumechoka na maneno ambayo hayabadilishi chochote, tumechoka na hali ya Ayubu, na tumechoka kushangaa jinsi gani Mungu atatimiza mema yakeyasiyoharibika wakati anaeleza kwa Ayubu mapenzi kamili kwaajili yake. Halafu tunaendelea kusoma na maneo yanatupiga sisi kama mpira ulioanguka kwasababu hakuna matarajio yetu hayajafikiwa. Katika 38:2, Mungu anauliza, "Ni nani huyu?" Ni Ayubu, mtumishi wako mwaminifu, kweli unajua yeye ni nani. Swali siyo, "Wewe ni nani?" Ni, "Unafikiri wewe ni nani?" Na katika 38:3, Mungu alisema, "Maana nitakuuliza neno, nawe niambie." Ni kama vile alikuwa anasema, "Kwa kuwa unaonekana kujua mengi, acha nikuulize maswali machache." Katika taarifa mbili Mungu alipunguza kifusi kwa Ayubu. Siyo kile tunachotarajia, bali kwa kudai haki na hekima, Ayubu alienea katika utukufu wa Mungu. Aliingia kimakosa katika eneo lake. Kabla ya kuperuzi haki ya kweli na hekima, lazima kwanza tufundishwe utu. Hii inaweza kuwa eeneo la kuumiza sana katika kitabu kizima.
+Tuko tayari kwaajili ya kuokolewa. Tumechoka na maneno ambayo hayabadilishi chochote, tumechoka na hali ya Ayubu, na tumechoka kushangaa jinsi gani Mungu atatimiza mema yakeyasiyoharibika wakati anaeleza kwa Ayubu mapenzi kamili kwaajili yake. Halafu tunaendelea kusoma na maneo yanatupiga sisi kama mpira ulioanguka kwasababu hakuna matarajio yetu hayajafikiwa.
+
+Katika 38:2, Mungu anauliza, "Ni nani huyu?" Ni Ayubu, mtumishi wako mwaminifu, kweli unajua yeye ni nani. Swali siyo, "Wewe ni nani?" Ni, "Unafikiri wewe ni nani?" Na katika 38:3, Mungu alisema, "Maana nitakuuliza neno, nawe niambie." Ni kama vile alikuwa anasema, "Kwa kuwa unaonekana kujua mengi, acha nikuulize maswali machache."
+
+Katika taarifa mbili Mungu alipunguza kifusi kwa Ayubu. Siyo kile tunachotarajia, bali kwa kudai haki na hekima, Ayubu alienea katika utukufu wa Mungu. Aliingia kimakosa katika eneo lake. Kabla ya kuperuzi haki ya kweli na hekima, lazima kwanza tufundishwe utu. Hii inaweza kuwa eeneo la kuumiza sana katika kitabu kizima.
 
 ### Kwanini maswali?
 

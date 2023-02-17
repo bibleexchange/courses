@@ -1,102 +1,109 @@
-# Introduction to the Wisdom and Poetry books of the Bible
+# Utangulizi wa vitabu vya Hekima na Mashairi katika Bibilia
 
-The books of Wisdom and Poetry are Job, Psalms, Proverbs, Ecclesiastes, and Song of Solomon. (In this class we will not talk about Song of Solomon because of time.)
+Vitabu vya Hekima na Mashairi ni Ayubu, Zaburi, Mhubiri, na Wimbo uliobora. (Katika darasa hili hatutazungumzia Wimbo Ulio bora kwa sababu ya muda.)
 
-## Wisdom
+## Hekima
 
-### What is wisdom?
+### Hekima ni nini?
 
-Wisdom is living according to God’s order in creation.
+Hekima ni kuishi kulingana na mpango wa Mungu katika uumbaji.<sup>[1]</sup> 
 
-### How is wisdom different than knowledge?
+### Hekima inatofautianaje na maarifa?
 
-We see the words "wisdom" and "knowledge" many times in these books. What is the difference between these two words? Knowledge is having an understanding of something, but you can know something and not do it. For example, you can learn many things about a bicycle from a book. You can see pictures of it, learn all the parts, and learn how it works. But you cannot say that you can ride a bicycle until you get on it and practice. Many people have knowledge about spiritual things, but they do not apply these things to their lives (James 1:22-24). Having only knowledge is not enough (Pro. 26:7, 9).
+Tunaona maneno "hekima" na "maarifa" mara nyinyi katika hivi vitabu. Nini tofauti ya haya maneno? Maarifa ni kuwa na uelewa wa kitu, ila unaweza kujua kitu na usifanye hivyo. Kwa mfano, unawza kujifunza mambo mengi kuhusu baiskeli kwenye kitabu. Unawza kuona picha  yake, kujua sehemu zake zote, na kujua inavyofanya kazi. Lakini huwezi kusema kwamba unaweza kuendesha baiskeli mpaka uipate na kufanya mazoezi. Watu wengi wanaufahamu kuhusu mambo ya rohoni, ila hawayatumii katika maisha yao (Yakobo 1:22-24). Kuwa na maarifa tu haitoshi (Mith. 26:7, 9).
 
-Wisdom is knowledge in action. It is applying knowledge to life.
+Hekima ni maarifa katika matendo. Ni kutumia maarifa katika maisha.
 
-### There are three levels of wisdom
+### Kuna hatua tatu za Hekima
 
-#### Practical: How to work, use money, get married, etc. 
+### Mazoezi: Jinsi ya kufanya kazi, kutumia pesa, kuoa, n.k.
 
-#### Ethical: How to be honest and live among others (Pro. 20:10; 22:28)
+### Maadili: Jinsi ya kuwa waaminifu na kuishi pamoja na wengine (Mith. 20:10; 22:28)
 
-In Proverbs 1:3, it talks about the wise person receiving "righteousness, justice, and virtue."
+Katika Mithali 1:3, it inazungumza kuhusu mtu mwenye busara anapokea "haki, na hukumu, na adili."
 
-> Throughout the book of Proverbs, righteousness and wisdom are interchangable terms. One cannot be wise without being righteous. In the same way, folly and wickedness are inextricably intertwined. Foolish behavior is evil.
+> Kupitia kitabu cha Mithali, haki na hekima ni maneno yanayobadilishana. Huwezi kuwa na hekima pasipo kuwa na haki. Hivyo hivyo upumbavu na uovu hayawezi kutenganishwa. Tabia ya upumbavu ni uovu.<sup>[2]</sup>
 
-#### Spiritual: How to live right before God. 
+### Kiroho: Jinsi ya kuishi kwa haki mbele za Mungu
 
-The books of Proverbs and Ecclesiastes deal with many practical things, but they are still spiritual books. There is natural wisdom in this world, but it is not as good as the wisdom that comes from God (James 3:13-18). We cannot have true wisdom without God. The fear of the Lord is the beginning of knowledge (Pro. 1:7). The rejection of wisdom begins with the rejection of God (Ps. 14:1).
+Kitabu cha Mithali na Mhubiri vinazungumzia vitu katika matendo, lakini bado ni vitabu vya kiroho. Kuna hekima ya asili katika dunia, lakini siyo nzuri kama hekima itokayo kwa Mungu (Yakobo 3:13-18). Hatuwezi kuwa na hekima ya kweli pasipo Mungu. Kumcha Bwana ni chanzo cha Maarifa (Mith. 1:7). Kukataa hekima huanzia kwenye kumkataa Mungu (Zab. 14:1).<sup>[3]</sup>
 
-### Wisdom is not always easy
+### Hekima mar azote siyo rahisi
 
-Example: Prov. 13:7; 30:33
+Mfano:  Mithali 13:7; 30:33
 
-#### God conceals some things (Prov. 25:2)
+#### Mungu huficha baadhi ya mambo (Mith. 25:2)
 
-Not everyone is ready to understand deep wisdom, so God hides these deep things. Wisdom is a dangerous thing for a fool to try to use (Pro. 26:9). Jesus also hid many things in parables (Matt. 13:3, 10-13).
+Siyo kila mtu yuko tayari kuelewa hekima kwa undani, hivyo Mungu huficha hivi vitu ndani. Hekima ni kitu cha hatari kwa kwa mpumbavu kujaribu kutumia (Mith. 26:9). Yesu pia alificha mambo mengi katika mifano (Mat. 13:3, 10-13). 
 
-#### Many of the sayings are like riddles (Pro. 1:1-6)
+#### Misemo mingi ni kama vitendawili (Mith. 1:1- 6)
 
-#### We have to work hard to understand the meaning (Pro. 2:1-10)
+#### Tunapaswa kufanya kwa bidii ilikuelewa maana (Mith. 2:1-10)
 
-## Poetry
+## Mashairi
 
-These books are different from other books of the Bible in their writing style. They are predominantly written in a poetic style. Following are some characteristics of Hebrew poetry:
+Hivi vitabu ni tofauti na vitabu vingine vya Biblia katika mtindo wa uandishi wake. Hasa yameandikwa katika mtindo wa mashairi. Zifuatazo ni tabia ushairi wa Kiebrania:
 
-### Parallelism
+### Usawa (Usambamba)
 
-This is when you have two lines in one verse that work together. Sometimes the second line emphasizes the idea in the first line. Other times it shows something the opposite from the first lines. Most times, there are only two lines, but in a few places, there are three lines. An example of parallelism is **Proverbs 18:15**.
+Hii ni wakati una mistari miwili katika kifungu inayofanya kazi pamoja. Wakati mwingine mstari wa pili unakazia wazo katika mstari wa kwanza. Wakati mwingine inaonyesha kitu kinyume kwenye mstari wa kwanza. Mara nyingi, kuna mistari miwili tu, ila mara chache, kuna mistari mitatu. Mfano wa usawa ni **Mithali 18:15**.
 
-Parallelism is the most common aspect of Hebrew poetry. We will talk more about it in the chapter about Proverbs.
+Mfanano ni dhana ya kawaida sana katika mushairi wa Kiebrania. Tutazungumza zaidi juu yake katika sura ya Mithali.
 
-### Repetition
+### Kurudia (Ukariri)
 
-This is when a word or phrase is used many times to emphasize an idea. It is like how in our modern songs, we have a chorus that is repeated. As an example, in Psalm 107, verses 8, 15, 21, and 31 all have the words: "Oh that men would praise the Lord for his goodness, And for his wonderful works to the children of men!" In Psalm 136, every verse ends with the words: "for his mercy endureth for ever."
+Hii ni wakati neno au kifungu kimetumika kusisitizia wazo. Ni kama nyimbo zetu za kisasa, tuna kifungu kinachojirudia. Kuna mfano kwenye Zaburi 107 mstari wa 8, 15, 21, na 31 zote zina maneno mawili: "Watu wote wamsifu Bwana kwa ajili ya wema wake. Na kazi zake za ajabu kwa watoto wa watu." Kwenye Zaburi 136, kila mstari unaishia na: "Kwa maana fadhili zake ni za milele."
 
-### Simile
+### Mfananisho
 
-This is when two items are compared using the words "like" or "as." For example, in **Psalm 1:3**, the righteous person is said to be like a tree.
+Hii ni wakati maneno mawili yamelinganishwa kwa kutumia maneno "kama" au "amefanana." Kwa mfano, **Zaburi 1:3**, mtu wa haki anasemwa kama mti. 
 
-### Metaphor
+### Nahau (Sitiari)
 
-This is when you say one thing is something it is not really. It is like a simile, but it **does not** use the words "like" or "as." For example, **Psalm 3:3** says that God is a shield. We know God is not really a shield, but it is said that He is as an example for us to understand that God will protect His people.
+Hii ni wakati unasema kitu kimoja ni kitufulani na siyo halisi. Ni kama mfananisho, lakini **haifanyi** tumia maneno "kama" au "amefanana." Kwa Mfano, **Zaburi 3:3**  inasema Mungu ni ngao. Tunajua Mungu siyo kweli ngao, ila inasemwa ni mfano kwetu kuelewa kuwa Mungu ni mlinzi wa kuwalinda watu wake. 
 
-### Hyperbole
+### Nyongeza (Ukuzaji)
 
-This is an exaggeration. For example, in **Psalm 12:1** the writer says that there are no more righteous people in the entire world. We know that is not completely true. Even when we feel like we are alone, God has many people that serve him (1 Kings 19:18). The writer was not lying because that is how he felt when he wrote the Psalm.
+This is an exaggeration. Hii ni kutia chumvi/kuongeza maneno. Kwa Mfano **Zaburi 12:1** mwandishi anasema kwamba hakuna mwenye haki katika dunia yote. Tunajua kwamba siyo ukweli.  Hata wakati tunahisi kama tuko wenyewe, Mungu anawatu wengi anaowaokoa (I Wafalme 19:18). Mwandishi hakuwa muongo kwa sababu ndivyo alivyohisi alivyoandika Zaburi.
 
-### Personification
+### Ubinafsishaji (Uhuishaji)
 
-This is when you talk about something that is not alive as if it was alive. For example, **Psalm 98:8**, says that the water claps its hands. We know that water does not have hands, but the noise of the waves is like the clapping of hands. 
+Hii ni wakati unaongelea kitu ambacho hakina uhai kama vile kina uhai. Kwa Mfano, **Zaburi 98:8** inasema kwamba maji hupiga mikono yake. Tunajua kwamba maji hayana mikono, ila kelele za mawimbi ni kama kupiga mikono.
 
-### Stepped structures
+### Muundo wa hatua
 
-A stepped structure is "a pattern of words or concepts in which the first and last are similar, the second and next to last are similar, and so forth, making memorization easy." A stepped structure is also called a _chiasm_ or _inverted parallelism_. We will look at Psalm 1 as an example of this kind of structure.
+Muundo wa hatua ni "muundo wa maneno au dhana ambayo kwanza na mwisho zinafanana, ya pili na inayofuata mwisho zinafanana."<sup>[4]</sup> Muundo wa hatua pia inaitwa _chiasm_ au _mfanano uliogeuzwa_. Tunaangalia Zaburi 1 kama mfano wa muundo wa namna hii:
 
 ```
-A. Ps. 1:1-2 — Talks about the prosperity of the righteous, 
-               in contrast with the wicked in v. 5-6.
+A. Zab 1:1-2 - Inazungumza kuhusu mafanikio ya mwenye haki,
+               tofauti na waovu katika mst. 5-6.
 
-  B. Ps. 1:3a — Righteous are like trees that remain strong.
-                The wicked are like chaff, a different kind 
-                of plant that does not remain.
+  B. Zab 1:3a – Mwenye haki ni kama mti ulio imara.
+                Waovu ni kama makapi, hii namna tofauti
 
-    C. Ps. 1:3b — The righteous person will prosper.
+    C. Zab 1:3b – Mwenye haki hufanikiwa.
 
-  B. Ps. 1:4  — Wicked are like chaff that disappear.
+  B. Zab 1:4 – Waovu ni kama makapi ambayo hutoweka.
 
-A. Ps. 1:5-6 — Unlike the righteous, the wicked fail.
+A. Zab 1:5-6 – Sivyo walivyo wenye haki, wapumbavu huanguka.
 ```
 
-Stepped structures may be difficult to understand, but the important thing to remember is that many times the main idea of a Psalm is in the middle instead of the beginning or end.
+Muundo wa hatua inaweza kuwa ngumu kuelewa, lakini jambo muhimu kukumbuka ni kwamba mara nyingi wazo kuu la Zaburi liko katikati badala ya mwanzo au mwisho.
 
-### Acrostic
+### Akrotiki (Orodha ya alfabeti)
 
-An acrostic is when the first line, verse, or stanza of poetry begins with the first letter of the alphabet, then the second line, verse, or stanza begins with the second letter of the alphabet, and so on. We lose this when we translate the Bible into our language because our alphabet uses different letters than the Hebrew alphabet.
+Akrotiki ni wakati mstari wa kwanza, kifungu katika ushairi inapoanza na herufi ya kwanza ya alfabeti, basi na mstari wa pili au kifungu na kuendelea. Tunapoteza hii tunapotafsiri Bibilia kwa lugha yetu kwasababu alfabeti zimetumia herufi tofauti zaidi ya alfabeti za Kiebrania. 
 
-Psalms 25, 34, 37, 111, 112, 119, and 145 all use this structure. Proverbs 31:10-31 also uses it. Outside of the Wisdom and Poetry books, Nahum 1:2–10 and Lamentations chapters 1-4 use it.
+Zaburi 25, 34, 37, 111, 112, 119, na 145 zote zimetumia muundo huu. Mithali 31:10-31 pia umetumiwa. Nje ya vitabu vya Hekima na Mashairi, Nahumu 1:2-10 na Maombolezo sura ya 1-4 umetumia.
 
-### Numerical sayings
+### Misemo ya nambari
 
-Numerical sayings are when a number is given, and then in the next line, the number is incremented by one. For example, in Proverbs 30:14, the leech has **two** daughters, the next line says there are **three** things that are never satisfied, and the last line says there are **four** things that do not say, "it is enough." In each line the number increases. This is done to build emphasis with each line. Other examples of this are Proverbs 6:16-19 and Psalm 62:11-12.
+Misemo ya nambari ni wakati herufi imetolewa, na mstari uliofuata, kunakuwa na ongezeko la namba moja. Kwa Mfano, Mithali 30:14, Mruba anao mabinti **wawili**, mstari unaofuata unasema kuna vitu **vitatu** visivyoshiba, na mstari wa mwisho unasema kuna viumbe **vine** duniani vilivyo vidogo, lakini vina akili nyingi sana. Hii inajengwa kuweka mkazo kwa kila mstari. Mifano mingine yah ii ni Mithali 6:16-19 na Zaburi 62:11-12.
+
+<hr />
+
+* [1] The Baker Commentary on Ecclesiastes, pg. 336
+* [2] The Fear of the Lord is Wisdom, Tremper Longman, III, pg. 14
+* [3] ibid, pg. 16
+* [4] Stuart, D. (2009). Old Testament Exegesis: A Handbook for Students and Pastors (Fourth Edition, p. 177). Westminster John Knox Press.
+

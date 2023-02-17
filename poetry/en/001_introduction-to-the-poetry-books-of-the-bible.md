@@ -24,7 +24,7 @@ In Proverbs 1:3, it talks about the wise person receiving "righteousness, justic
 
 > Throughout the book of Proverbs, righteousness and wisdom are interchangable terms. One cannot be wise without being righteous. In the same way, folly and wickedness are inextricably intertwined. Foolish behavior is evil.<sup>[2]</sup>
 
-#### Spiritual: How to live right before God. 
+#### Spiritual: How to live right before God
 
 The books of Proverbs and Ecclesiastes deal with many practical things, but they are still spiritual books. There is natural wisdom in this world, but it is not as good as the wisdom that comes from God (James 3:13&ndash;18). We cannot have true wisdom without God. The fear of the Lord is the beginning of knowledge (Pro. 1:7). The rejection of wisdom begins with the rejection of God (Ps. 14:1).<sup>[3]</sup>
 
@@ -72,7 +72,7 @@ This is when you talk about something that is not alive as if it was alive. For 
 
 ### Stepped structures
 
-A stepped structure is "a pattern of words or concepts in which the first and last are similar, the second and next to last are similar, and so forth, making memorization easy."<sup>[4]</sup> A stepped structure is also called a _chiasm_ or _inverted parallelism_. We will look at Psalm 1 as an example of this kind of structure.
+A stepped structure is "a pattern of words or concepts in which the first and last are similar, the second and next to last are similar, and so forth, making memorization easy."<sup>[4]</sup> A stepped structure is also called a _chiasm_ or _inverted parallelism_. We will look at Psalm 1 as an example of this kind of structure:
 
 ```
 A. Ps. 1:1-2 — Talks about the prosperity of the righteous, 
@@ -102,8 +102,6 @@ Psalms 25, 34, 37, 111, 112, 119, and 145 all use this structure. Proverbs 31:10
 Numerical sayings are when a number is given, and then in the next line, the number is incremented by one. For example, in Proverbs 30:14, the leech has **two** daughters, the next line says there are **three** things that are never satisfied, and the last line says there are **four** things that do not say, "it is enough." In each line the number increases. This is done to build emphasis with each line. Other examples of this are Proverbs 6:16&ndash;19 and Psalm 62:11&ndash;12.
 
 <hr />
-
-**Notes**
 
 * [1] The Baker Commentary on Ecclesiastes, pg. 336
 * [2] The Fear of the Lord is Wisdom, Tremper Longman, III, pg. 14
