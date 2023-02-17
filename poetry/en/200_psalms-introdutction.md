@@ -42,6 +42,26 @@ Psalms is organized into five Books. The five-fold arrangement has long been rec
 4. Book 4 (90-106) — Numbers — concerning Israel in relation to the nations.
 5. Book 5 (107-150) — Deuteronomy — concerning God and His Word.
 
+### Questions to ask when reading a Psalm
+
+If you ask these these questions when reading a Psalm, they can help you understand it better.
+
+1. **Who is speaking?**
+2. **Why was this Psalm written?**
+3. **What emotions are in the Psalm?**
+4. **Of what genre is the Psalm?**
+5. **Are there repeating words or phrases?**
+
+### The Psalms quoted in other parts of the Bible
+
+#### In the Old Testament
+
+1. David gave Asaph a song (I Chron. 16:7). Asaph was a singer (I Chron. 16:4) who wrote Psalms (The Psalms he wrote are 50; 73-83).
+2. Heman and Ethan were also singers (I Chron. 15:19).
+3. Hannah sang from Psalm 113 (I Sam. 2:1-10)
+
+#### In the New Testament
+
 
 <!-- Mowinckel acknowledges both aspects when he says.
 > In spite of the didactic character of the ‘learned psalmography’, it has one characteristic in common with genuine psalmography; these poems are, and must be considered as, prayers. Like every real psalm, they address God, even though they often address men as well.
