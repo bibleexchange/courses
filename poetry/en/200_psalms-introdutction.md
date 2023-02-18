@@ -2,6 +2,12 @@
 
 ## Introduction to the Book of Psalms
 
+The Psalms contain many prayers to God. Many are joyful and thankful, but others are mournful. When we look at the Psalms, we see they are very different than many of the prayers we hear in church. Many prayers are just repeating the same words over and over again, but the Psalms are long and contain many different words and ideas.
+
+Jesus said in Matthew 6:7 that we need to avoid "vain repetition" when we pray. The heathen people think repeating words will convince God to hear them. The Psalms can teach us to pray with more meaning.
+
+Not all of the Psalms are prayers. Some of them are praise, others are for teaching, and others tell stories.
+
 ### Authorship
 
 The book is inspired by God (2 Samuel 23:2; Matthew 22:43; Luke 24:44; Acts 1:16; 2 Timothy 3:16). Psalms is a composite work containing multiple authors. Some psalms name their author in the first line or title: 
@@ -46,13 +52,13 @@ Psalms is organized into five Books. The five-fold arrangement has long been rec
 
 If you ask these these questions when reading a Psalm, they can help you understand it better.
 
-1. **Who is speaking?**
+1. **Who is speaking?** Is it one person speaking or a group of people? Sometimes the person speaking changes in the middle of the Psalm. Psalm 150 starts with a human praying, but in verse 5, God starts speaking.
 2. **Why was this Psalm written?**
 3. **What emotions are in the Psalm?**
-4. **Of what genre is the Psalm?**
-5. **Are there repeating words or phrases?**
+4. **Of what genre is the Psalm?** As we continue, we will talk about the different kinds of Psalms.
+5. **Are there repeating words or phrases?** When words are repeated, it means they are important. The phrase "hope in God" is repeated in Psalm 42:5 and 11. The words "How majestic is your name" are repeated in Psalm 8:1 and 9.
 
-### The Psalms quoted in other parts of the Bible
+### The Psalms used in other parts of the Bible
 
 #### In the Old Testament
 
@@ -62,6 +68,30 @@ If you ask these these questions when reading a Psalm, they can help you underst
 
 #### In the New Testament
 
+There are 79 quotes from the Psalms in the New Testament.<sup>[1]</sup> Following are some examples of quotes:
+
+##### Quotes by Jesus
+
+1. Psalm 110:1 (Mat. 22:44)
+2. Psalm 118:22 (Mat. 21:42)
+3. Psalm 8:2 (Mat. 21:16)
+4. Psalm 22:1 (Mat. 27:46)
+5. Psalm 41:9 (John 13:18)
+
+##### Quotes by Paul
+
+1. Psalm 36:1 (Rom. 3:18)
+2. Psalm 44:22 (Rom. 8:36)
+3. Psalm 53:1 (Rom. 3:10&ndash;12)
+4. Psalm 68:18 (Eph. 4:8)
+
+##### Quotes by Peter
+
+1. Psalm 118:22 (1 Pet. 2:8)
+
+<hr/>
+
+* [1] Stephen Voorwinde, Vox Reformata, 2005, pg. 58
 
 <!-- Mowinckel acknowledges both aspects when he says.
 > In spite of the didactic character of the ‘learned psalmography’, it has one characteristic in common with genuine psalmography; these poems are, and must be considered as, prayers. Like every real psalm, they address God, even though they often address men as well.
