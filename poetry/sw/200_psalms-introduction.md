@@ -2,6 +2,12 @@
 
 ## Utangulizi wa Kitabu cha Zaburi
 
+Zaburi ina maombi nyingi kwa Mungu. Wengi wanafurahi na kushukuru, lakini wengine wamejaa huzuni. Tunapozitazama Zaburi, tunaona ni tofauti sana kuliko maombi mengi tunayosikia kanisani. Maombi nyingi ni kurudia tu maneno yaleyale tena na tena, lakini Zaburi ni ndefu na zina maneno na mawazo mengi tofauti.
+
+Yesu alisema katika Mathayo 6:7 kwamba tunahitaji "msipayuke-payuke" tunapoomba. Watu wa kipagani wanafikiri kwamba maneno ya kurudia-rudia yatamshawishi Mungu kuyasikia. Zaburi zinaweza kutufundisha kusali tukiwa na maana zaidi.
+
+Sio Zaburi zote ni maombi. Baadhi yao ni sifa, wengine ni kwa ajili ya kufundisha, na wengine hadithi.
+
 ### Uandishi
 
 Kitabu hicho kimevuviwa na Mungu (2 Sam. 23:2; Mat. 22:43; Luka 24:44; Mdo. 1:16; 2 Tim. 3:16). Zaburi ni kazi ya ukusanyaji iliyo na waandishi wengi. Baadhi ya sura zinataja mwandishi wao katika mstari wa kwanza au kichwa:
@@ -41,3 +47,49 @@ Zaburi imeandaliwa katika Vitabu vitano. Mpangilio wa mara tano umetambuliwa kwa
 3. Kitabu cha 3 (73-89) — Mambo ya Walawi — Kuhusu patakatifu pa Mungu.
 4. Kitabu cha 4 (90-106) — Hesabu — Kuhusu Israeli kuhusiana na mataifa.
 5. Kitabu cha 5 (107-150) — Kumbukumbu la Torati — Kuhusu Mungu na neno lake.
+
+### Maswali ya kuuliza unaposoma Zaburi
+
+Ukiuliza maswali haya unaposoma kila Zaburi, yanaweza kukusaidia kuielewa vizuri zaidi.
+
+1. **Nani anaongea?** Je, ni mtu mmoja anayezungumza au kikundi cha watu? Wakati fulani mtu anayezungumza hubadilika katikati ya Zaburi. Zaburi ya 150 inaanza na mwanadamu kuomba, lakini katika mstari wa 5, Mungu anaanza kunena.
+2. **Kwa nini Zaburi hii iliandikwa?**
+3. **Ni hisia zipi ziko katika Zaburi hii?**
+4. **Zaburi hii ni ya aina gani?** Tunapoendelea, tutazungumza kuhusu aina mbalimbali za Zaburi.
+5. **Je, kuna maneno au misemo inayorudiwa?** Maneno yanaporudiwa, maana yake ni muhimu. Maneno "Umtumainie Mungu" yanarudiwa katika Zaburi 42:5 na 11. Maneno "Jinsi lilivyo tukufu jina lako" yanarudiwa katika Zaburi 8:1 na 9.
+
+### Zaburi zilizotumika katika sehemu nyingine za Biblia
+
+#### Katika Agano la Kale
+
+1. Daudi alimpa Asafu wimbo (I Nyak. 16:7). Asafu alikuwa mwimbaji (I Nya. 16:4) aliyeandika Zaburi (Zaburi alizoandika ni 50; 73-83).
+2. Hemani na Ethani pia walikuwa waimbaji (I Nya. 15:19).
+3. Hana aliimba kutoka Zaburi 113 (I Sam. 2:1-10)
+
+#### Katika Agano Jipya
+
+Kuna nukuu 79 kutoka Zaburi katika Agano Jipya.<sup>[1]</sup> Ifuatayo ni baadhi ya mifano ya nukuu:
+
+##### Nukuu za Yesu
+
+1. Zaburi 110:1 (Mat. 22:44)
+2. Zaburi 118:22 (Mat. 21:42)
+3. Zaburi 8:2 (Mat. 21:16 )
+4. Zaburi 22:1 (Mat. 27:46)
+5. Zaburi 41:9 (Yoh. 13:18)
+
+##### Nukuu za Paulo
+
+1. Zaburi 36:1 (Rum. 3:18)
+2. Zaburi 44:22 (Rum. 8:36)
+3. Zaburi 53:1 (Rum. 3:10&ndash;12)
+4. Zaburi 68:18 (Efe. 4:8)
+
+##### Nukuu za Peter
+
+1. Zaburi 118:22 (1 Pet. 2:8)
+
+<hr/>
+
+* [1] Stephen Voorwinde, Vox Reformata, 2005, pg. 58
+

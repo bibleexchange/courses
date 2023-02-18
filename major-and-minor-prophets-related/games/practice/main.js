@@ -46,7 +46,7 @@ window.addEventListener("load", function(event) {
 
     display.fill(game.world.background_color);// Clear background to game's background color.
     display.drawRectangle(game.world.player.x, game.world.player.y, game.world.player.width, game.world.player.height, game.world.player.color);
-    display.drawBackground(game.world.current_level)
+    display.drawBackground(game.world.current_level, engine)
     display.render();
 
   };

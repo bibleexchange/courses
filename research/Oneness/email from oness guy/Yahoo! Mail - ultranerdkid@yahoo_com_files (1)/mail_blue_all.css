@@ -1,0 +1,2146 @@
+BODY  {
+	outline: none
+}
+BODY {
+	FONT: x-small arial,helvetica,clean,sans-serif
+}
+TABLE {
+	FONT-WEIGHT: normal; FONT-SIZE: x-small; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+UNKNOWN {
+	FONT: 83% arial,helvetica,clean,sans-serif
+}
+PRE {
+	FONT-SIZE: 100%
+}
+CODE {
+	FONT-SIZE: 100%
+}
+SELECT {
+	FONT-SIZE: 100%
+}
+INPUT {
+	FONT-SIZE: 100%
+}
+LABEL {
+	CURSOR: hand
+}
+A {
+	TEXT-DECORATION: none
+}
+A:visited {
+	TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+#universalheader :link {
+	TEXT-DECORATION: underline
+}
+#universalheader :visited {
+	TEXT-DECORATION: underline
+}
+FORM {
+	MARGIN: 0px
+}
+H2 {
+	FONT-SIZE: 140%; MARGIN: 0px 0px 0.5em
+}
+UL {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 1.5em; PADDING-BOTTOM: 0.5em; MARGIN: 0px; PADDING-TOP: 0.5em
+}
+#swads {
+	MARGIN-TOP: 0.5em
+}
+
+@media All    
+{
+UNKNOWN {
+	WIDTH: 160px
+}
+    }
+#swads DIV {
+	BORDER-RIGHT: 0px solid; PADDING-RIGHT: 0.25em; BORDER-TOP: 1px solid; PADDING-LEFT: 0.25em; PADDING-BOTTOM: 0.5em; FONT: 78% verdana; BORDER-LEFT: 0px solid; WIDTH: 100%; PADDING-TOP: 0.5em; BORDER-BOTTOM: 1px solid; HEIGHT: auto
+}
+#swads IMG {
+	FLOAT: left; MARGIN-RIGHT: 0.5em
+}
+#swads DIV.first {
+	BORDER-TOP: medium none
+}
+#swads DIV.last {
+	BORDER-BOTTOM: medium none
+}
+#swads P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+UNKNOWN {
+	MARGIN-TOP: -0.5em
+}
+
+@media All    
+{
+UNKNOWN {
+	MARGIN-TOP: 0px
+}
+    }
+#swads TD {
+	FONT-SIZE: 78%
+}
+UNKNOWN {
+	FONT-SIZE: 1em
+}
+#swads TD FONT {
+	FONT-SIZE: 1em
+}
+#stateindicator {
+	MARGIN-BOTTOM: 0.5em
+}
+#applicationcontainer TD#leftnav {
+	PADDING-RIGHT: 0.5em; BACKGROUND-POSITION: 50% top; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.75em; PADDING-TOP: 0.75em; BACKGROUND-REPEAT: repeat-x
+}
+#applicationcontainer TD#leftnavspacer {
+	BACKGROUND-POSITION: 50% top; BACKGROUND-REPEAT: no-repeat
+}
+#applicationcontainer TD#maincontent {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: 50% top; PADDING-LEFT: 15px; PADDING-BOTTOM: 1em; PADDING-TOP: 0.75em; BACKGROUND-REPEAT: repeat-x
+}
+.alertbox {
+	BORDER-RIGHT: 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: 1px solid; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; MARGIN: 0.5em 0px; BORDER-LEFT: 1px solid; PADDING-TOP: 0.5em; BORDER-BOTTOM: 1px solid
+}
+.alertbox P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.alertbox H3 {
+	FONT-SIZE: 100%; MARGIN: 0px
+}
+.alertbox H3 SPAN {
+	FONT-WEIGHT: normal
+}
+.alertbox EM {
+	FONT-WEIGHT: bold; FONT-STYLE: normal
+}
+#footer {
+	MARGIN-TOP: 1em; FONT: 78% verdana; TEXT-ALIGN: center
+}
+#footer P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV.globalbuttonbar {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; LINE-HEIGHT: 1.8em; PADDING-TOP: 0.5em; HEIGHT: 2.8em; TEXT-ALIGN: right
+}
+DIV.contentbuttonbar {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; LINE-HEIGHT: 1.8em; PADDING-TOP: 0.5em; HEIGHT: 2.8em; TEXT-ALIGN: right
+}
+UNKNOWN {
+	HEIGHT: 2.8em
+}
+
+@media All    
+{
+UNKNOWN {
+	HEIGHT: 1.8em
+}
+    }
+DIV.globalbuttonbar SPAN.last BUTTON {
+	MARGIN: 0px
+}
+DIV.contentbuttonbar SPAN.last BUTTON {
+	MARGIN: 0px
+}
+DIV.globalbuttonbar SPAN.last {
+	PADDING-RIGHT: 0.25em; PADDING-LEFT: 0.25em; PADDING-BOTTOM: 0.25em; PADDING-TOP: 0.25em
+}
+UNKNOWN {
+	PADDING-BOTTOM: 0px; WIDTH: 1%; PADDING-TOP: 0px; WHITE-SPACE: nowrap
+}
+
+@media All    
+{
+UNKNOWN {
+	PADDING-RIGHT: 0.25em; PADDING-LEFT: 0.25em; PADDING-BOTTOM: 0.25em; PADDING-TOP: 0.25em
+}
+    }
+DIV.globalbuttonbar SPAN SPAN {
+	DISPLAY: none
+}
+DIV.globalbuttonbar SPAN.first {
+	FLOAT: left; WHITE-SPACE: nowrap; TEXT-ALIGN: left
+}
+DIV.globalbuttonbar SPAN.last A {
+	FONT-WEIGHT: bold; PADDING-BOTTOM: 0.15em; TEXT-DECORATION: underline
+}
+DIV.globalbuttonbar SPAN.last SPAN {
+	DISPLAY: inline
+}
+DIV.globalbuttonbar SPAN.last IMG {
+	POSITION: relative; TOP: 0.25em
+}
+
+@media All    
+{
+UNKNOWN {
+	POSITION: relative; TOP: 0.35em
+}
+    }
+.contentnav {
+	MARGIN: 4px 0px; FONT: 78% verdana; TEXT-ALIGN: right
+}
+.contentnav A {
+	TEXT-DECORATION: underline
+}
+.contentnav SPAN.first {
+	FLOAT: left; TEXT-ALIGN: left
+}
+.contentnav SPAN.last SPAN {
+	MARGIN-LEFT: 1em
+}
+.contentnav #checkall {
+	MARGIN: 0px; CURSOR: hand; COLOR: #039; TEXT-DECORATION: underline
+}
+.contentnav #clearall {
+	MARGIN: 0px; CURSOR: hand; COLOR: #039; TEXT-DECORATION: underline
+}
+#contentnavtop {
+	BORDER-TOP: 1px solid; PADDING-TOP: 0.5em
+}
+.contentbuttonbar SPAN.first {
+	FLOAT: left; TEXT-ALIGN: left
+}
+#contentbuttonbartop {
+	BORDER-RIGHT: 0px solid; BORDER-TOP: 0px solid; BORDER-LEFT: 0px solid; BORDER-BOTTOM: 1px solid
+}
+.button {
+	BORDER-RIGHT: 2px outset; BORDER-TOP: 2px outset; FONT: bold 78% verdana; BORDER-LEFT: 2px outset; MARGIN-RIGHT: 0.5em; BORDER-BOTTOM: 2px outset
+}
+BUTTON {
+	BORDER-RIGHT: 2px outset; BORDER-TOP: 2px outset; FONT: bold 78% verdana; BORDER-LEFT: 2px outset; MARGIN-RIGHT: 0.5em; BORDER-BOTTOM: 2px outset
+}
+.inputbutton {
+	BORDER-RIGHT: 2px outset; BORDER-TOP: 2px outset; FONT: bold 78% verdana; BORDER-LEFT: 2px outset; MARGIN-RIGHT: 0.5em; BORDER-BOTTOM: 2px outset
+}
+.inputbutton {
+	PADDING-RIGHT: 0.8em; PADDING-LEFT: 0.8em; PADDING-BOTTOM: 0.2em; CURSOR: hand; PADDING-TOP: 0.2em
+}
+
+@media All    
+{
+.button {
+	POSITION: relative
+}
+BUTTON {
+	POSITION: relative
+}
+    }
+BUTTON {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0.2em; CURSOR: hand; PADDING-TOP: 0.2em
+}
+UNKNOWN {
+	PADDING-RIGHT: 0.8em; PADDING-LEFT: 0.8em; PADDING-BOTTOM: 0.2em; LINE-HEIGHT: 150%; PADDING-TOP: 0.2em; HEIGHT: 1.8em
+}
+
+@media All    
+{
+UNKNOWN {
+	DISPLAY: inline; POSITION: relative; HEIGHT: auto
+}
+    }
+.button {
+	PADDING-RIGHT: 0.8em; PADDING-LEFT: 0.8em; PADDING-BOTTOM: 0.4em; PADDING-TOP: 0.4em; HEIGHT: 2em
+}
+.button:hover {
+	TEXT-DECORATION: none
+}
+UNKNOWN {
+	LINE-HEIGHT: 2em; HEIGHT: auto
+}
+BUTTON.menubutton {
+	PADDING-RIGHT: 20px; BACKGROUND: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/all/bt_b_dd_2.gif) no-repeat right center
+}
+BUTTON.hasdefaultstate {
+	PADDING-RIGHT: 20px; BACKGROUND: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/all/bt_s_dd_2.gif) no-repeat right center
+}
+.contentnav #filtercontrol SPAN {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px 0.5em 0px 0px; PADDING-TOP: 0px
+}
+.contentnav #filtercontrol SPAN.filterbutton {
+	BORDER-RIGHT: 1px solid; PADDING-RIGHT: 20px; BORDER-TOP: 1px solid; PADDING-LEFT: 0.25em; BACKGROUND: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/all/bt_dd_2.gif) no-repeat 95% 50%; PADDING-BOTTOM: 0px; FONT: 100% verdana; BORDER-LEFT: 1px solid; WIDTH: auto; CURSOR: hand; PADDING-TOP: 0px; BORDER-BOTTOM: 1px solid; POSITION: relative
+}
+.buttonmenu {
+	BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; Z-INDEX: 2; LEFT: 0px; VISIBILITY: hidden; FONT: 78% verdana; BORDER-LEFT: 1px solid; BORDER-BOTTOM: 1px solid; POSITION: absolute; TOP: 0px
+}
+UNKNOWN {
+	WIDTH: 1%
+}
+
+@media All    
+{
+UNKNOWN {
+	WIDTH: auto
+}
+    }
+.buttonmenu STRONG {
+	DISPLAY: none
+}
+.buttonmenu UL {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; MARGIN: 0px; PADDING-TOP: 0.5em; LIST-STYLE-TYPE: none
+}
+.buttonmenu LI {
+	BORDER-RIGHT: 1px solid; PADDING-RIGHT: 0.25em; BORDER-TOP: 1px solid; PADDING-LEFT: 0.25em; PADDING-BOTTOM: 0.25em; BORDER-LEFT: 1px solid; CURSOR: hand; PADDING-TOP: 0.25em; BORDER-BOTTOM: 1px solid; WHITE-SPACE: nowrap
+}
+.buttonmenu LI.hover {
+	WIDTH: 100%
+}
+#movemenu LI.hover {
+	WIDTH: 100%
+}
+.buttonmenu LI A:hover {
+	TEXT-DECORATION: none
+}
+UNKNOWN {
+	FLOAT: left
+}
+
+@media All    
+{
+UNKNOWN {
+	FLOAT: none; WIDTH: auto
+}
+    }
+#movemenu LI {
+	PADDING-RIGHT: 0.25em; PADDING-LEFT: 2em; BACKGROUND: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/f/perc1.gif) no-repeat left center; PADDING-BOTTOM: 0.25em; MARGIN: 0px; PADDING-TOP: 0.25em; WHITE-SPACE: nowrap
+}
+UNKNOWN {
+	PADDING-LEFT: 20px
+}
+.overflow {
+	OVERFLOW: auto; HEIGHT: 254px
+}
+UNKNOWN {
+	HEIGHT: 250px
+}
+.tbldata CAPTION {
+	DISPLAY: none
+}
+TABLE.tbldata {
+	CLEAR: both; BORDER-COLLAPSE: collapse
+}
+.tbldata TBODY TD {
+	BORDER-RIGHT: 0px solid; PADDING-RIGHT: 0px; BORDER-TOP: 0px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 2px; BORDER-LEFT: 0px solid; PADDING-TOP: 2px; BORDER-BOTTOM: 1px solid
+}
+.tbldata THEAD TH {
+	BORDER-RIGHT: 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: 1px solid; PADDING-LEFT: 5px; BACKGROUND: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/all/px_w.gif) repeat-y; PADDING-BOTTOM: 1px; BORDER-LEFT: 0px solid; PADDING-TOP: 1px; BORDER-BOTTOM: 1px solid; TEXT-ALIGN: left
+}
+.tbldata THEAD TH INPUT {
+	MARGIN-TOP: -1px; MARGIN-BOTTOM: 0px
+}
+.tbldata TD IMG {
+	TEXT-ALIGN: right
+}
+.tbldata TH IMG {
+	FLOAT: right; MARGIN: 4px 4px 0px 0px
+}
+.tbldata TR.msgnew {
+	FONT-WEIGHT: bold
+}
+DIV#northsearchtestfields {
+	MARGIN: 0.5em 0px; TEXT-ALIGN: center
+}
+#topnav {
+	BORDER-RIGHT: 0px solid; BORDER-TOP: 0px solid; MARGIN-TOP: 0.5em; BORDER-LEFT: 0px solid; BORDER-BOTTOM: 1px solid; HEIGHT: 2.15em
+}
+
+@media All    
+{
+UNKNOWN {
+	HEIGHT: 2.1em
+}
+    }
+#topnav DIV {
+	BORDER-RIGHT: 0px solid; BORDER-TOP: 0px solid; BORDER-LEFT: 0px solid; BORDER-BOTTOM: 1px solid; HEIGHT: 1.75em
+}
+UNKNOWN {
+	HEIGHT: 1.75em
+}
+
+@media All    
+{
+UNKNOWN {
+	HEIGHT: 1.7em
+}
+    }
+#topnav SPAN {
+	BORDER-RIGHT: 0px solid; BORDER-TOP: 1px solid; DISPLAY: block; FLOAT: left; MARGIN: 0px 1px; BORDER-LEFT: 0px solid; BORDER-BOTTOM: 0px solid; POSITION: relative; HEIGHT: 1.5em
+}
+UNKNOWN {
+	DISPLAY: inline-block; FLOAT: none
+}
+
+@media All    
+{
+UNKNOWN {
+	DISPLAY: block; FLOAT: left; WIDTH: auto
+}
+    }
+#topnav SPAN.last {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; DISPLAY: inline; PADDING-LEFT: 0px; FLOAT: right; PADDING-BOTTOM: 0px; MARGIN: 0px; FONT: 78% verdana; BORDER-LEFT: 0px; PADDING-TOP: 0.5em; BORDER-BOTTOM: 0px; POSITION: static; HEIGHT: auto
+}
+#topnav SPAN.last A {
+	FONT-WEIGHT: normal
+}
+#topnav SPAN SPAN {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0.25em; PADDING-LEFT: 0.8em; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0.25em; MARGIN: 0px -1px; PADDING-TOP: 0.25em; HEIGHT: auto; BORDER-RIGHT-WIDTH: 1px
+}
+#topnav SPAN {
+	LEFT: -1px
+}
+#topnav SPAN SPAN {
+	LEFT: 0px
+}
+UNKNOWN {
+	LEFT: 0px
+}
+
+@media All    
+{
+UNKNOWN {
+	FLOAT: none; HEIGHT: 1.15em
+}
+    }
+#topnav A {
+	FONT-WEIGHT: bold
+}
+#topnav A.jump {
+	TEXT-DECORATION: none; outline: none
+}
+#topnav SPAN SPAN SPAN {
+	DISPLAY: none
+}
+#topnav IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; WIDTH: 1.5em; BORDER-BOTTOM: 0px; HEIGHT: 0.9em
+}
+#topnav SPAN.selected {
+	MARGIN-TOP: -0.4em; FONT-SIZE: 120%; BOTTOM: -0.2em
+}
+
+@media All    
+{
+UNKNOWN {
+	MARGIN-TOP: -4px; BOTTOM: -2px
+}
+    }
+#topnav SPAN.selected IMG {
+	WIDTH: 1.2em
+}
+#topnav SPAN#searchtestopionlinks {
+	FONT: x-small arial; POSITION: relative; TOP: -0.25em
+}
+#topnav SPAN#searchtestopionlinks A {
+	FONT-WEIGHT: bold
+}
+UNKNOWN {
+	FONT: 100% arial
+}
+DIV.shortcuts {
+	BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; Z-INDEX: 10; BORDER-LEFT: 1px solid; BORDER-BOTTOM: 1px solid; POSITION: absolute
+}
+DIV.shortcuts STRONG {
+	DISPLAY: none
+}
+DIV.shortcuts UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0.5em 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+DIV.shortcuts LI {
+	LINE-HEIGHT: 1.2em
+}
+UNKNOWN {
+	WIDTH: 1%; WHITE-SPACE: nowrap
+}
+
+@media All    
+{
+UNKNOWN {
+	WIDTH: auto
+}
+    }
+UNKNOWN {
+	WIDTH: 1%; WHITE-SPACE: nowrap
+}
+
+@media All    
+{
+UNKNOWN {
+	CLEAR: both; WIDTH: auto
+}
+    }
+DIV.shortcuts UL.first {
+	MARGIN: 0px
+}
+DIV.shortcuts UL.last {
+	MARGIN: 0px
+}
+DIV.shortcuts DIV {
+	BORDER-RIGHT: 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: 1px solid; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; BORDER-LEFT: 1px solid; PADDING-TOP: 0.5em; BORDER-BOTTOM: 1px solid
+}
+UNKNOWN {
+	FLOAT: left
+}
+
+@media All    
+{
+UNKNOWN {
+	FLOAT: none
+}
+    }
+LI.special {
+	TEXT-ALIGN: right
+}
+LI.special A {
+	FLOAT: left; MARGIN-RIGHT: 0.25em
+}
+#mailshortcuts {
+	LEFT: 0px; VISIBILITY: hidden; TOP: 0px
+}
+#calendarshortcuts {
+	LEFT: 0px; VISIBILITY: hidden; TOP: 0px
+}
+#addressbookshortcuts {
+	LEFT: 0px; VISIBILITY: hidden; TOP: 0px
+}
+#notepadshortcuts {
+	LEFT: 0px; VISIBILITY: hidden; TOP: 0px
+}
+ HTML DIV.modulecontainer {
+	HEIGHT: auto
+}
+.modulecontainer {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.modulecontainer DIV {
+	BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; MARGIN: -2px -8px; BORDER-LEFT: 1px solid; BORDER-BOTTOM: 1px solid; HEIGHT: 1em
+}
+UNKNOWN {
+	HEIGHT: auto
+}
+.modulecontainer DIV DIV {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; MARGIN: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+.modulecontainer .first {
+	MARGIN: 0px; POSITION: relative; HEIGHT: 8px
+}
+.modulecontainer .last {
+	MARGIN: 0px; POSITION: relative; HEIGHT: 8px
+}
+.modulecontainer .first {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+.modulecontainer .last {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 1px; BORDER-RIGHT-WIDTH: 0px
+}
+.modulecontainer .first .first {
+	MARGIN-TOP: -1px
+}
+.modulecontainer .first .last {
+	MARGIN-TOP: -1px
+}
+.modulecontainer .last .first {
+	MARGIN-BOTTOM: -1px
+}
+.modulecontainer .last .last {
+	MARGIN-BOTTOM: -1px
+}
+.modulecontainer .first .first {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; Z-INDEX: 1; BORDER-LEFT: 0px; WIDTH: 8px; BORDER-BOTTOM: 0px; BACKGROUND-REPEAT: no-repeat; POSITION: absolute
+}
+.modulecontainer .first .last {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; Z-INDEX: 1; BORDER-LEFT: 0px; WIDTH: 8px; BORDER-BOTTOM: 0px; BACKGROUND-REPEAT: no-repeat; POSITION: absolute
+}
+.modulecontainer .last .first {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; Z-INDEX: 1; BORDER-LEFT: 0px; WIDTH: 8px; BORDER-BOTTOM: 0px; BACKGROUND-REPEAT: no-repeat; POSITION: absolute
+}
+.modulecontainer .last .last {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; Z-INDEX: 1; BORDER-LEFT: 0px; WIDTH: 8px; BORDER-BOTTOM: 0px; BACKGROUND-REPEAT: no-repeat; POSITION: absolute
+}
+.modulecontainer .first .first {
+	MARGIN-LEFT: -8px
+}
+.modulecontainer .last .first {
+	MARGIN-LEFT: -8px
+}
+.modulecontainer .first .last {
+	RIGHT: 0px; MARGIN-RIGHT: -8px
+}
+.modulecontainer .last .last {
+	RIGHT: 0px; MARGIN-RIGHT: -8px
+}
+.smallroundedmodule {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.smallroundedmodule DIV {
+	BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; MARGIN: -2px -4px; BORDER-LEFT: 1px solid; BORDER-BOTTOM: 1px solid; HEIGHT: 1em
+}
+UNKNOWN {
+	HEIGHT: auto
+}
+.smallroundedmodule DIV DIV {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; MARGIN: 0px 4px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+.smallroundedmodule .first {
+	MARGIN: 0px; POSITION: relative; HEIGHT: 4px
+}
+.smallroundedmodule .last {
+	MARGIN: 0px; POSITION: relative; HEIGHT: 4px
+}
+.smallroundedmodule .first {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+.smallroundedmodule .last {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 1px; BORDER-RIGHT-WIDTH: 0px
+}
+.smallroundedmodule .first .first {
+	MARGIN-TOP: -1px
+}
+.smallroundedmodule .first .last {
+	MARGIN-TOP: -1px
+}
+.smallroundedmodule .last .first {
+	MARGIN-BOTTOM: -1px
+}
+.smallroundedmodule .last .last {
+	MARGIN-BOTTOM: -1px
+}
+.smallroundedmodule .first .first {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; Z-INDEX: 1; BORDER-LEFT: 0px; WIDTH: 4px; BORDER-BOTTOM: 0px; BACKGROUND-REPEAT: no-repeat; POSITION: absolute
+}
+.smallroundedmodule .first .last {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; Z-INDEX: 1; BORDER-LEFT: 0px; WIDTH: 4px; BORDER-BOTTOM: 0px; BACKGROUND-REPEAT: no-repeat; POSITION: absolute
+}
+.smallroundedmodule .last .first {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; Z-INDEX: 1; BORDER-LEFT: 0px; WIDTH: 4px; BORDER-BOTTOM: 0px; BACKGROUND-REPEAT: no-repeat; POSITION: absolute
+}
+.smallroundedmodule .last .last {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; Z-INDEX: 1; BORDER-LEFT: 0px; WIDTH: 4px; BORDER-BOTTOM: 0px; BACKGROUND-REPEAT: no-repeat; POSITION: absolute
+}
+.smallroundedmodule .first .first {
+	MARGIN-LEFT: -4px
+}
+.smallroundedmodule .last .first {
+	MARGIN-LEFT: -4px
+}
+.smallroundedmodule .first .last {
+	RIGHT: 0px; MARGIN-RIGHT: -4px
+}
+.smallroundedmodule .last .last {
+	RIGHT: 0px; MARGIN-RIGHT: -4px
+}
+DIV.sidebar DIV {
+	WIDTH: 100%
+}
+UNKNOWN {
+	WIDTH: auto
+}
+DIV.sidebar .first .last {
+	MARGIN-RIGHT: -9px
+}
+DIV.sidebar .last .last {
+	MARGIN-RIGHT: -9px
+}
+UNKNOWN {
+	MARGIN-RIGHT: -8px
+}
+#searchnav DIV {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; FONT: bold 78% verdana; PADDING-TOP: 0.5em
+}
+#optionsnav DIV {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; FONT: bold 78% verdana; PADDING-TOP: 0.5em
+}
+#searchnav UL {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#optionsnav UL {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#searchnav LI {
+	BORDER-RIGHT: 1px solid; PADDING-RIGHT: 0.5em; BACKGROUND-POSITION: 4% 50%; BORDER-TOP: 1px solid; PADDING-LEFT: 1.5em; PADDING-BOTTOM: 0.25em; MARGIN: 0px; BORDER-LEFT: 1px solid; CURSOR: hand; PADDING-TOP: 0.25em; BORDER-BOTTOM: 1px solid; BACKGROUND-REPEAT: no-repeat
+}
+#optionsnav LI {
+	BORDER-RIGHT: 1px solid; PADDING-RIGHT: 0.5em; BACKGROUND-POSITION: 4% 50%; BORDER-TOP: 1px solid; PADDING-LEFT: 1.5em; PADDING-BOTTOM: 0.25em; MARGIN: 0px; BORDER-LEFT: 1px solid; CURSOR: hand; PADDING-TOP: 0.25em; BORDER-BOTTOM: 1px solid; BACKGROUND-REPEAT: no-repeat
+}
+#searchnav LI.selected {
+	BACKGROUND: url(http://us.i1.yimg.com/us.yimg.com/i/sr/ar.gif) no-repeat 4% 50%
+}
+#optionsnav LI.selected {
+	BACKGROUND: url(http://us.i1.yimg.com/us.yimg.com/i/sr/ar.gif) no-repeat 4% 50%
+}
+#searchnav LI.hover A {
+	TEXT-DECORATION: underline
+}
+#optionsnav LI.hover A {
+	TEXT-DECORATION: underline
+}
+#searchnav LI:hover A {
+	TEXT-DECORATION: underline
+}
+#optionsnav LI:hover A {
+	TEXT-DECORATION: underline
+}
+BUTTON#searchmail {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0.2em; WIDTH: 8em; PADDING-TOP: 0.2em; WHITE-SPACE: nowrap
+}
+BUTTON#searchtheweb {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0.2em; MARGIN-LEFT: 0.5em; PADDING-TOP: 0.2em; WHITE-SPACE: nowrap
+}
+UNKNOWN {
+	WIDTH: 7em
+}
+UNKNOWN {
+	WIDTH: 9em
+}
+
+@media All    
+{
+UNKNOWN {
+	WIDTH: 8em
+}
+UNKNOWN {
+	WIDTH: 10em
+}
+    }
+UNKNOWN {
+	MARGIN-BOTTOM: 0.25em; WIDTH: 15em
+}
+
+@media All    
+{
+UNKNOWN {
+	MARGIN-BOTTOM: 0px; WIDTH: auto
+}
+    }
+DIV.topfilled .toptitle {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; FONT: 78% verdana; PADDING-TOP: 0px; BORDER-BOTTOM: 1px solid; TEXT-ALIGN: left
+}
+DIV.topfilled .toptitle SPAN.first {
+	FONT-WEIGHT: bold; FLOAT: left; TEXT-ALIGN: left
+}
+DIV.filled .toptitle {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; FONT: 78% verdana; PADDING-TOP: 0px; TEXT-ALIGN: right
+}
+DIV.filled .toptitle SPAN.first {
+	FONT-WEIGHT: bold; FLOAT: left; TEXT-ALIGN: left
+}
+DIV.topfilled #filtercontrol SPAN {
+	PADDING-RIGHT: 0px; MARGIN-TOP: 0px; DISPLAY: block; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN-RIGHT: 0px; PADDING-TOP: 0px
+}
+DIV.topfilled #filtercontrol SPAN#dashviewselector {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 0.5em; FONT-WEIGHT: normal; TEXT-DECORATION: underline
+}
+DIV.topfilled SPAN.filterbutton {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 0.25em; BACKGROUND: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/all/bt_dd_2.gif) no-repeat 95% 50%; PADDING-BOTTOM: 0px; FONT: 100% verdana; WIDTH: auto; CURSOR: hand; PADDING-TOP: 0px; POSITION: relative
+}
+DIV.dashcontent {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; FONT-SIZE: 84%; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0.5em; FONT-FAMILY: verdana,arial,sans-serif
+}
+DIV.dashcontent .viewtitle {
+	FONT-WEIGHT: bold
+}
+DIV.dashcontent .collection {
+	MARGIN-TOP: 0.5em
+}
+DIV.dashcontent LI {
+	PADDING-LEFT: 1em; FONT-FAMILY: arial,sans-serif
+}
+.nagbar A {
+	MARGIN: 4px 0px; FONT: 78% verdana; TEXT-ALIGN: right; TEXT-DECORATION: underline
+}
+BODY {
+	MARGIN: 0px 4px
+}
+H2 SPAN {
+	FONT: 52% verdana
+}
+H2 SPAN A {
+	TEXT-DECORATION: underline
+}
+SPAN.helptext {
+	DISPLAY: block; FONT: 78% verdana
+}
+SPAN.inline {
+	DISPLAY: inline
+}
+DIV.fieldset {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 10px; BORDER-TOP: 1px solid; PADDING-LEFT: 20px; PADDING-BOTTOM: 10px; BORDER-LEFT: 0px; PADDING-TOP: 10px; BORDER-BOTTOM: 1px solid
+}
+DIV.fieldset TD.label {
+	FONT-WEIGHT: bold; WIDTH: 20%; TEXT-ALIGN: right
+}
+DIV.fieldset H3 {
+	FONT-SIZE: 110%; MARGIN: 0px 0px 0.5em
+}
+DIV.fieldset H3 SPAN {
+	FONT: 78% verdana
+}
+DIV.fieldset EM {
+	FONT-WEIGHT: bold; FONT-STYLE: normal
+}
+DIV.fieldset P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0.5em 0px; PADDING-TOP: 0px
+}
+DIV.fieldset LABEL {
+	FONT-WEIGHT: bold; CURSOR: hand
+}
+DIV.field {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0.25em; PADDING-TOP: 0.25em
+}
+#quotausagebar {
+	BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; DISPLAY: block; MARGIN: 2px 4px; BORDER-LEFT: 1px solid; BORDER-BOTTOM: 1px solid; POSITION: relative; HEIGHT: 1em
+}
+#quotausagebar SPAN.first {
+	POSITION: absolute; HEIGHT: 100%
+}
+#quotausagebar SPAN.last {
+	FONT: bold 78% verdana; WIDTH: 100%; TEXT-ALIGN: center
+}
+UNKNOWN {
+	DISPLAY: block; WIDTH: auto
+}
+TABLE.applicationcontainer {
+	BORDER-BOTTOM: 1px solid
+}
+TABLE.applicationcontainer H2 {
+	MARGIN: 0px
+}
+TABLE.applicationcontainer TD#first {
+	BACKGROUND-REPEAT: repeat-x
+}
+TABLE.applicationcontainer TD#spacer {
+	BACKGROUND-REPEAT: repeat-x
+}
+TABLE.applicationcontainer TD.content {
+	BACKGROUND-REPEAT: repeat-x
+}
+TABLE.applicationcontainer TD#euspacer {
+	BACKGROUND-REPEAT: repeat-x
+}
+TABLE.managementview TD#first {
+	PADDING-RIGHT: 7px; PADDING-LEFT: 7px; PADDING-BOTTOM: 7px; PADDING-TOP: 10px
+}
+TABLE.optionsview TD#first {
+	PADDING-RIGHT: 7px; PADDING-LEFT: 7px; PADDING-BOTTOM: 7px; PADDING-TOP: 10px
+}
+TABLE.managementview TD.content {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 7px
+}
+TABLE.confirmationview TD.content {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 7px
+}
+TABLE.optionsview #stateindicator {
+	MARGIN: 0px; BORDER-BOTTOM: 1px solid
+}
+TABLE.composeview #stateindicator {
+	MARGIN: 0px; BORDER-BOTTOM: 1px solid
+}
+TABLE.kioskview #stateindicator {
+	MARGIN: 0px; BORDER-BOTTOM: 1px solid
+}
+DIV#stateindicator {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 15px; PADDING-BOTTOM: 10px; PADDING-TOP: 2px
+}
+TABLE.optionsview #stateindicator TD.first {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 15px; PADDING-BOTTOM: 10px; PADDING-TOP: 2px
+}
+TABLE.kioskview #stateindicator TD.first {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 15px; PADDING-BOTTOM: 10px; PADDING-TOP: 2px
+}
+TABLE.composeview #stateindicator TD.first {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 15px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px
+}
+TABLE.composeview TD.messagecontainer DIV.alertbox {
+	MARGIN: 4px 0px 10px
+}
+TABLE.optionsview DIV.last {
+	BORDER-BOTTOM: 0px
+}
+TABLE.kioskview DIV.last {
+	BORDER-BOTTOM: 0px
+}
+TABLE.composeview DIV.last {
+	BORDER-BOTTOM: 0px
+}
+TABLE.optionsview #stateindicator DIV.last {
+	BORDER-BOTTOM: 1px solid
+}
+TABLE.composeview #stateindicator DIV.last {
+	BORDER-BOTTOM: 1px solid
+}
+TABLE.optionsview TD#first DIV.last {
+	BORDER-BOTTOM: 1px solid
+}
+TD.messagecontainer {
+	PADDING-LEFT: 15px
+}
+TD.messagecontainer DIV.alertbox {
+	MARGIN: 0px 0px 10px
+}
+TABLE.confirmationview H3 {
+	FONT-SIZE: 110%; MARGIN: 0.5em 0px
+}
+TABLE.confirmationview UL {
+	PADDING-RIGHT: 0.25em; PADDING-LEFT: 2em; PADDING-BOTTOM: 0.25em; MARGIN: 0px; PADDING-TOP: 0.25em
+}
+TABLE.optionsview UL {
+	PADDING-RIGHT: 0.25em; PADDING-LEFT: 2em; PADDING-BOTTOM: 0.25em; MARGIN: 0px; PADDING-TOP: 0.25em
+}
+TABLE.confirmationview LI {
+	MARGIN: 0.25em 0px
+}
+TABLE.optionsview LI {
+	MARGIN: 0.25em 0px
+}
+TABLE.confirmationview P {
+	MARGIN: 0.25em 0px
+}
+TABLE.managementview DIV.fieldset {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+DIV.composebuttonbar {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; PADDING-BOTTOM: 6px; PADDING-TOP: 6px; TEXT-ALIGN: left
+}
+DIV.optionbuttons {
+	TEXT-ALIGN: left
+}
+DIV.kioskbuttons {
+	TEXT-ALIGN: left
+}
+DIV.sidebar LI {
+	OVERFLOW: hidden; WIDTH: 99.9%
+}
+UNKNOWN {
+	OVERFLOW: visible; WIDTH: auto
+}
+#folderlist A.newmail {
+	FONT-WEIGHT: bold
+}
+#folderlist A.first {
+	FLOAT: left; TEXT-ALIGN: left
+}
+#defaultfolders DIV {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; PADDING-BOTTOM: 6px; FONT: 78% verdana; PADDING-TOP: 0px; WHITE-SPACE: nowrap; TEXT-ALIGN: right
+}
+#customfolders DIV {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; PADDING-BOTTOM: 6px; FONT: 78% verdana; PADDING-TOP: 6px; TEXT-ALIGN: right
+}
+#mysearches DIV {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; PADDING-BOTTOM: 6px; FONT: 78% verdana; PADDING-TOP: 6px; TEXT-ALIGN: right
+}
+#defaultfolders DIV SPAN.first {
+	FONT-WEIGHT: bold; FLOAT: left; TEXT-ALIGN: left
+}
+#customfolders DIV SPAN.first {
+	FONT-WEIGHT: bold; FLOAT: left; TEXT-ALIGN: left
+}
+#personalfoldersdisplaytoggle {
+	CURSOR: hand
+}
+#addfoldercontrol {
+	CURSOR: hand
+}
+#mysearchesdisplaytoggle {
+	CURSOR: hand
+}
+#addfoldercontrol {
+	CURSOR: hand
+}
+#defaultfolders DIV SPAN.hover {
+	TEXT-DECORATION: underline
+}
+#customfolders DIV SPAN.hover {
+	TEXT-DECORATION: underline
+}
+#customfolders {
+	CLEAR: both; BORDER-TOP: #c1c1c1 1px dotted; MARGIN-TOP: 3px
+}
+#mysearches {
+	CLEAR: both; BORDER-TOP: #c1c1c1 1px dotted; MARGIN-TOP: 3px
+}
+#folderlist UL {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; MARGIN: 1px 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#folderlist LI#bulk {
+	CLEAR: both; TEXT-ALIGN: right
+}
+#folderlist LI#trash {
+	CLEAR: both; TEXT-ALIGN: right
+}
+#folderlist LI#bulk SPAN {
+	FONT: 78% verdana
+}
+#folderlist LI#trash SPAN {
+	FONT: 78% verdana
+}
+#folderlist LI {
+	BORDER-RIGHT: 1px solid; PADDING-RIGHT: 2px; BACKGROUND-POSITION: 4% 50%; BORDER-TOP: 1px solid; PADDING-LEFT: 24px; BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/f/perc1.gif); PADDING-BOTTOM: 2px; MARGIN: 0px; BORDER-LEFT: 1px solid; CURSOR: hand; PADDING-TOP: 2px; BORDER-BOTTOM: 1px solid; BACKGROUND-REPEAT: no-repeat
+}
+#folderlist LI.selected {
+	FONT-WEIGHT: bold; BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/f/pero1.gif)
+}
+#folderlist LI.newmessages {
+	FONT-WEIGHT: bold
+}
+#folderlist #inbox {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/f/inbc1.gif)
+}
+#folderlist .selected#inbox {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/f/inbo1.gif)
+}
+#folderlist #draft {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/f/dftc1.gif)
+}
+#folderlist .selected#draft {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/f/dfto1.gif)
+}
+#folderlist #sent {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/f/sntc1.gif)
+}
+#folderlist .selected#sent {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/f/snto1.gif)
+}
+#folderlist #bulk {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/f/blkc1.gif)
+}
+#folderlist .selected#bulk {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/f/blko1.gif)
+}
+#folderlist #trash {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/f/tshc1.gif)
+}
+#folderlist .selected#trash {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/f/tsho1.gif)
+}
+#savedsearches {
+	MARGIN-TOP: 7px
+}
+#defaultsavedsearches DIV {
+	FONT: 78% verdana
+}
+#mysearches DIV {
+	FONT: 78% verdana
+}
+#defaultsavedsearches DIV {
+	FONT-WEIGHT: bold
+}
+#mysearches DIV SPAN.first {
+	FONT-WEIGHT: bold
+}
+#defaultsavedsearches DIV {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; PADDING-BOTTOM: 6px; PADDING-TOP: 0px
+}
+#mysearches DIV {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; PADDING-BOTTOM: 6px; PADDING-TOP: 6px
+}
+#mysearches DIV SPAN.first {
+	FONT-WEIGHT: bold; FLOAT: left; WIDTH: auto
+}
+#defaultsavedsearches DIV SPAN.hover {
+	TEXT-DECORATION: underline
+}
+#mysearches DIV SPAN.hover {
+	TEXT-DECORATION: underline
+}
+#savedsearches UL {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; MARGIN: 1px 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#savedsearches UL LI {
+	BORDER-RIGHT: 1px solid; PADDING-RIGHT: 2px; BACKGROUND-POSITION: 3% 50%; BORDER-TOP: 1px solid; PADDING-LEFT: 24px; PADDING-BOTTOM: 2px; MARGIN: 0px; BORDER-LEFT: 1px solid; CURSOR: hand; PADDING-TOP: 2px; BORDER-BOTTOM: 1px solid; BACKGROUND-REPEAT: no-repeat
+}
+DIV#defaultsavedsearches LI#photossavedsearch {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/nt/ic/ut/alt1/cam16_1.gif)
+}
+DIV#defaultsavedsearches LI#attachmentssavedsearch {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/el/attach_1.gif)
+}
+DIV#mysearches LI {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/el/savedsearch_1.gif)
+}
+#mailaccountsbox {
+	MARGIN-BOTTOM: 7px
+}
+#mailaccounts DIV {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; PADDING-BOTTOM: 6px; FONT: bold 78% verdana; PADDING-TOP: 0px
+}
+#mailaccounts UL {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; MARGIN: 1px 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#mailaccounts LI {
+	BORDER-RIGHT: 1px solid; PADDING-RIGHT: 2px; BACKGROUND-POSITION: 4% 50%; BORDER-TOP: 1px solid; PADDING-LEFT: 24px; PADDING-BOTTOM: 2px; MARGIN: 0px; BORDER-LEFT: 1px solid; CURSOR: hand; PADDING-TOP: 2px; BORDER-BOTTOM: 1px solid; BACKGROUND-REPEAT: no-repeat
+}
+#mailaccounts LI.selected {
+	BACKGROUND: url(http://us.i1.yimg.com/us.yimg.com/i/sr/ar.gif) no-repeat 4% 50%; CURSOR: auto
+}
+#leftnavad {
+	MARGIN-BOTTOM: 7px
+}
+#leftnavad DIV DIV {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#leftnavad DIV DIV P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#popaccountsbox {
+	MARGIN-BOTTOM: 7px
+}
+#popaccounts DIV {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; PADDING-BOTTOM: 6px; FONT: 78% verdana; PADDING-TOP: 0px; TEXT-ALIGN: right
+}
+#popaccounts DIV SPAN {
+	FONT-WEIGHT: bold; FLOAT: left; TEXT-ALIGN: left
+}
+#popaccounts UL {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; MARGIN: 1px 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#popaccounts LI {
+	CLEAR: both; BORDER-RIGHT: 1px solid; PADDING-RIGHT: 2px; BACKGROUND-POSITION: 4% 50%; BORDER-TOP: 1px solid; PADDING-LEFT: 24px; PADDING-BOTTOM: 2px; MARGIN: 0px; BORDER-LEFT: 1px solid; CURSOR: hand; PADDING-TOP: 2px; BORDER-BOTTOM: 1px solid; BACKGROUND-REPEAT: no-repeat
+}
+#popaccounts LI.label1 {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/all/pop1_1.gif)
+}
+#popaccounts LI.label2 {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/all/pop2_1.gif)
+}
+#popaccounts LI.label3 {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/all/pop3_1.gif)
+}
+#popaccounts LI.label4 {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/all/pop4_1.gif)
+}
+#popaccounts LI.label5 {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/all/pop5_1.gif)
+}
+#popaccounts LI.label6 {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/all/pop6_1.gif)
+}
+#popaccounts LI.label7 {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/all/pop7_1.gif)
+}
+#northbanner {
+	MARGIN-TOP: 0.5em; TEXT-ALIGN: center
+}
+DIV.advertisement {
+	MARGIN: 1em 0px; TEXT-ALIGN: center
+}
+TABLE#newmessageindicator {
+	MARGIN-BOTTOM: 0.5em; BORDER-BOTTOM: 1px solid
+}
+TABLE#newmessageindicator TR.last TD {
+	PADDING-BOTTOM: 1em
+}
+DIV.jakemodules {
+	MARGIN-TOP: 0.5em
+}
+DIV.jakemodules DIV DIV {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+DIV#mailpluswelcome {
+	MARGIN-TOP: 1em
+}
+DIV#mailpluswelcome DIV DIV {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+DIV#mailpluswelcome H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 120%; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV#mailpluswelcome P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0.5em
+}
+DIV#mailpluswelcome UL {
+	PADDING-BOTTOM: 0px
+}
+DIV.lrec DIV DIV {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0px; FONT: 78% verdana; PADDING-TOP: 0px
+}
+DIV.lrec H3 {
+	FONT-SIZE: 120%; MARGIN: 0.5em 0px
+}
+DIV.lrec P {
+	MARGIN: 0.25em 0px
+}
+.tbldata THEAD TH.iconheader {
+	BORDER-RIGHT: 0px
+}
+.tbldata THEAD TH#toheader {
+	BACKGROUND-IMAGE: none; BORDER-LEFT: 0px
+}
+.tbldata THEAD TH#senderheader {
+	BACKGROUND-IMAGE: none; BORDER-LEFT: 0px
+}
+.tbldata THEAD TH#recipientheader {
+	BACKGROUND-IMAGE: none; BORDER-LEFT: 0px
+}
+.tbldata THEAD TH#subjectheader {
+	BACKGROUND-IMAGE: none; BORDER-LEFT: 0px
+}
+.nomessages {
+	CLEAR: both; MARGIN: 1em 0px
+}
+UNKNOWN {
+	MARGIN: 2em 0px
+}
+.nomessages DIV {
+	FONT-WEIGHT: bold; TEXT-ALIGN: center
+}
+.nomessages .first {
+	TEXT-ALIGN: left
+}
+.nomessages .last {
+	TEXT-ALIGN: left
+}
+.nomessages DIV DIV {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 1em; PADDING-TOP: 1em
+}
+FORM#addfolder {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+FORM#addfolder DIV.fieldset {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0.25em; PADDING-TOP: 0.25em
+}
+.messageinfo {
+	BORDER-RIGHT: 0px; BORDER-TOP: 1px solid; BORDER-LEFT: 0px; BORDER-BOTTOM: 1px solid
+}
+.messageinfo P {
+	PADDING-RIGHT: 0.5em; BORDER-TOP: 1px solid; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.25em; MARGIN: 0px; PADDING-TOP: 0.25em
+}
+.messageinfo EM {
+	FONT-WEIGHT: bold; FONT-STYLE: normal
+}
+.messageinfo A {
+	FONT: 78% verdana
+}
+.flaggedindicator {
+	BORDER-TOP: 0px; BACKGROUND-COLOR: #ffc! important
+}
+DIV#message {
+	FONT-SIZE: 100%; MARGIN: 1em 0px
+}
+DIV#message TT {
+	FONT-WEIGHT: normal; FONT-SIZE: x-small; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+DIV#message INPUT {
+	VERTICAL-ALIGN: auto
+}
+DIV#message SELECT {
+	VERTICAL-ALIGN: auto
+}
+DIV#message LABEL {
+	CURSOR: hand
+}
+DIV#message FORM {
+	MARGIN: auto
+}
+DIV#message H2 {
+	MARGIN: auto
+}
+DIV#message H2 SPAN {
+	
+}
+DIV#message UL {
+	MARGIN: auto
+}
+DIV#message :link {
+	TEXT-DECORATION: underline
+}
+DIV#message :visited {
+	TEXT-DECORATION: underline
+}
+TABLE.messageheader TD {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; FONT: 78% verdana; PADDING-TOP: 0.5em; BORDER-BOTTOM: 1px solid
+}
+TABLE.messageheader TD.label {
+	FONT-WEIGHT: bold; WIDTH: 1%
+}
+.splittertop {
+	MARGIN: 0px; WIDTH: 100%; LINE-HEIGHT: 1px; BORDER-BOTTOM: 1px solid; HEIGHT: 1px
+}
+.splittercontent {
+	BORDER-TOP: 1px solid; MARGIN: 0em; BORDER-BOTTOM: 1px solid
+}
+.splittercontent TD.title {
+	PADDING-LEFT: 0.5em; FONT-WEIGHT: bold
+}
+.splittercontent TD.adspace {
+	PADDING-RIGHT: 0.5em
+}
+.tabfolder {
+	MARGIN: 0.5em 0px 0px
+}
+.tabfolder .tabfoldercontent {
+	BORDER-TOP: 0px; FONT-SIZE: 84%
+}
+.tabfolder .tabfoldercontent A {
+	TEXT-DECORATION: underline
+}
+.tabfolder .tabfoldertitle {
+	PADDING-TOP: 1em
+}
+.tabtitlefield {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0.3em; FONT-WEIGHT: bold; FONT-SIZE: 84%; PADDING-BOTTOM: 1px; PADDING-TOP: 1px
+}
+.tabfolder .tabfoldercontent {
+	BORDER-RIGHT: 1px solid; BORDER-TOP: 0px solid; FONT-SIZE: 84%; BORDER-LEFT: 1px solid; BORDER-BOTTOM: 1px solid
+}
+TABLE.photopanel {
+	BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; BORDER-LEFT: 1px solid; BORDER-BOTTOM: 1px solid; BORDER-COLLAPSE: collapse
+}
+TABLE.photopanel TD {
+	BORDER-RIGHT: 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-LEFT: 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: 1px solid
+}
+TABLE.photopanel TD TD {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}
+TABLE.photopanel TD.thumbnail {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px
+}
+TABLE.photopanel TD.thumbnail TD.image {
+	BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; BORDER-LEFT: 1px solid; BORDER-BOTTOM: 1px solid
+}
+TABLE.photopanel TD.thumbnail TD.savetolinks {
+	PADDING-LEFT: 10px; FONT: 77% verdana
+}
+TABLE.photopanel TD.imageinfo DIV {
+	PADDING-RIGHT: 0px; BORDER-TOP: 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0.25em; FONT: 77% verdana; PADDING-TOP: 0.25em; TEXT-ALIGN: center
+}
+TABLE.photopanel TD.imageinfo DIV A.imagename {
+	FONT-WEIGHT: bold; COLOR: #000; TEXT-DECORATION: none
+}
+.photogrid {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.filespanel TD {
+	BORDER-TOP: 1px solid
+}
+DIV#composebuttonbartop {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0.5em
+}
+DIV#composebuttonbarbottom {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0.5em
+}
+#spellchecker {
+	MARGIN: 1em 0px; WIDTH: 400px
+}
+#spellchecker DIV.modulecontainer {
+	MARGIN-TOP: 1em
+}
+#spellchecker DIV.modulecontainer DIV DIV {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0.5em
+}
+#spellchecker LABEL {
+	DISPLAY: block; FONT: bold 78% verdana
+}
+DIV#spellchecker DIV.last {
+	BORDER-BOTTOM: 1px solid
+}
+#popupspellchecker {
+	MARGIN: 0px
+}
+#popupspellchecker H2 {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#popupspellchecker DIV {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0.5em
+}
+#popupspellchecker LABEL {
+	DISPLAY: block; FONT: bold 78% verdana
+}
+#ecardpromo P {
+	MARGIN: 0px 0.5em; FONT: bold 78% verdana; TEXT-ALIGN: center
+}
+#ecardpromo DIV DIV {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#autocompletepromo {
+	FONT: 78% verdana; WIDTH: 16em
+}
+#autocompletepromo DIV DIV {
+	PADDING-RIGHT: 0.75em; PADDING-LEFT: 0.75em; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#autocompletepromo DIV.last {
+	BORDER-BOTTOM: 1px solid
+}
+#autocompletepromo H3 {
+	FONT-SIZE: 100%
+}
+LABEL#tofieldlabel {
+	TEXT-DECORATION: underline
+}
+LABEL#ccfieldlabel {
+	TEXT-DECORATION: underline
+}
+LABEL#bccfieldlabel {
+	TEXT-DECORATION: underline
+}
+TABLE.virusscanresult TD.labelresults {
+	FONT-WEIGHT: bold
+}
+#moreyahoo {
+	MARGIN: 0.5em 0px
+}
+#moreyahoo H3 {
+	FONT-SIZE: 120%; MARGIN: 0.5em 0px
+}
+#moreyahoo P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#moreyahoo LI {
+	MARGIN: 0px 0px 1em
+}
+#moreyahoo UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 1.2em; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#stationerypromo H3 {
+	FONT-SIZE: 100%; MARGIN: 0.5em
+}
+#stationerypromo P {
+	MARGIN: 0.5em
+}
+DIV.infomodule {
+	MARGIN: 1em 0px
+}
+DIV.infomodule .bd {
+	BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; BORDER-LEFT: 1px solid; BORDER-BOTTOM: 1px solid
+}
+DIV.infomodule .msgolds TD {
+	BORDER-RIGHT: 0px; BORDER-TOP: 1px solid; PADDING-LEFT: 0.5em; BORDER-LEFT: 0px; BORDER-BOTTOM: 1px solid; HEIGHT: 2em
+}
+DIV.infomodule .msgold TD {
+	BORDER-RIGHT: 0px; BORDER-TOP: 1px solid; PADDING-LEFT: 0.5em; BORDER-LEFT: 0px; BORDER-BOTTOM: 1px solid; HEIGHT: 2em
+}
+DIV.infomodule TR.first TD {
+	BORDER-TOP: 0px
+}
+DIV.infomodule TR.last TD {
+	BORDER-BOTTOM: 0px
+}
+TABLE#folders TH {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.25em; PADDING-TOP: 0.25em
+}
+TABLE#folders TBODY TD SPAN {
+	FONT: 78% normal verdana
+}
+TABLE#folders #messagecolumn {
+	TEXT-ALIGN: center
+}
+TABLE#folders #unreadcolumn {
+	TEXT-ALIGN: center
+}
+TABLE#folders #sizecolumn {
+	TEXT-ALIGN: center
+}
+TABLE#fileinfo TD {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0.5em; BORDER-TOP: 1px solid; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.25em; BORDER-LEFT: 0px; PADDING-TOP: 0.25em; BORDER-BOTTOM: 1px solid
+}
+DIV#filecontent {
+	MARGIN: 1em 0px
+}
+xbody H1 {
+	FONT-SIZE: 120%
+}
+TABLE#mailoptions {
+	MARGIN-TOP: 1em
+}
+TABLE#mailoptions TD {
+	BORDER-RIGHT: 1px solid; BORDER-TOP: 0px; BORDER-LEFT: 1px solid; BORDER-BOTTOM: 0px
+}
+TABLE#mailoptions TD.first {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+TABLE#mailoptions TD.last {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+TABLE#mailoptions TD.twocollast {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+TABLE#mailoptions H3 {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; FONT-SIZE: 100%; PADDING-BOTTOM: 0.25em; PADDING-TOP: 0.25em
+}
+TABLE#mailoptions H4 {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; FONT-SIZE: 100%; PADDING-BOTTOM: 0.25em; PADDING-TOP: 0.25em
+}
+TABLE#mailoptions H3 {
+	BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; BORDER-LEFT: 1px solid; BORDER-BOTTOM: 1px solid
+}
+TABLE#mailoptions H4 {
+	MARGIN: 1em 0px 0px
+}
+TABLE#mailoptions P {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; MARGIN: 0px; PADDING-TOP: 0.5em
+}
+TABLE.optionsview DIV.alertbox {
+	MARGIN-RIGHT: 16px
+}
+#stateindicator P {
+	MARGIN: 0.25em 0px
+}
+BODY#popsettings {
+	MARGIN: 1em
+}
+BODY#popsettings H3 {
+	FONT-SIZE: 100%
+}
+BODY#popsettings TABLE#header {
+	BORDER-BOTTOM: 2px solid
+}
+BODY#popsettings TABLE#header TD {
+	PADDING-BOTTOM: 0.5em
+}
+#popsettings H3 {
+	FONT-SIZE: 100%
+}
+BODY#popsettings TABLE#header {
+	BORDER-BOTTOM: 2px solid
+}
+BODY#popsettings TABLE#header TD {
+	PADDING-BOTTOM: 0.5em
+}
+#messageviewselector {
+	TEXT-DECORATION: underline
+}
+DIV#spamflowtip {
+	MARGIN-TOP: 1em; MARGIN-BOTTOM: 1em; FONT: 78% normal verdana
+}
+DIV#spamflowtip DIV.last {
+	BORDER-BOTTOM: 1px solid
+}
+DIV#spamflowtip DIV DIV {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+DIV#spamsettingstoggle A {
+	FONT: 78% normal verdana
+}
+#bmlinks {
+	DISPLAY: block; FLOAT: right; WIDTH: auto
+}
+#bmlinks A {
+	DISPLAY: block; FONT-WEIGHT: bold; FLOAT: left; MARGIN: 0.25em; WIDTH: auto
+}
+#bmlinks IMG {
+	MARGIN-BOTTOM: 0.2em
+}
+DIV.progressbar {
+	BORDER-RIGHT: 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: 1px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; MARGIN: 10px; BORDER-LEFT: 1px solid; WIDTH: 500px; PADDING-TOP: 10px; BORDER-BOTTOM: 1px solid
+}
+DIV.hd {
+	FONT: 77% verdana
+}
+DIV.ft {
+	FONT: 77% verdana
+}
+DIV.hd EM {
+	FONT-WEIGHT: bold; FONT-STYLE: normal
+}
+DIV.bd {
+	BORDER-RIGHT: 2px solid; BORDER-TOP: 2px solid; MARGIN: 5px 0px; BORDER-LEFT: 2px solid; BORDER-BOTTOM: 2px solid
+}
+DIV.bd SPAN {
+	HEIGHT: 5px
+}
+DIV.premium H3 {
+	MARGIN: 0px
+}
+DIV#attdisplay {
+	PADDING-BOTTOM: 5px; FONT: 77% verdana; WIDTH: 99%
+}
+BODY {
+	COLOR: #333; BACKGROUND-COLOR: #ffffff
+}
+A {
+	COLOR: #039
+}
+A:visited {
+	COLOR: #039
+}
+H2 {
+	COLOR: #3162a6
+}
+#swads DIV {
+	BORDER-BOTTOM-COLOR: #95b3de; BORDER-TOP-COLOR: #fff
+}
+#applicationcontainer TD#leftnav {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/blue/shd_l_1.gif); BACKGROUND-COLOR: #d6deec
+}
+#applicationcontainer TD#leftnavspacer {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/blue/shd_m_1.gif); BACKGROUND-COLOR: #fff
+}
+#applicationcontainer TD#maincontent {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/blue/shd_r_1.gif); BACKGROUND-COLOR: #fff
+}
+.error H3 {
+	COLOR: #bc131a
+}
+DIV.alertbox {
+	BORDER-LEFT-COLOR: #e6e6e6; BORDER-BOTTOM-COLOR: #e6e6e6; BORDER-TOP-COLOR: #e6e6e6; BACKGROUND-COLOR: #f6f6f6; BORDER-RIGHT-COLOR: #e6e6e6
+}
+#topnav {
+	BORDER-BOTTOM-COLOR: #3162a6; BACKGROUND-COLOR: #3d77cb
+}
+#topnav DIV {
+	BORDER-BOTTOM-COLOR: #c1c1c1; BACKGROUND-COLOR: #fff
+}
+#topnav SPAN {
+	BORDER-LEFT-COLOR: #c1c1c1; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BORDER-RIGHT-COLOR: #c1c1c1
+}
+#topnav SPAN SPAN {
+	BACKGROUND-COLOR: #f6f6f6
+}
+#topnav SPAN.selected {
+	BORDER-LEFT-COLOR: #3d77cb; BORDER-BOTTOM-COLOR: #3d77cb; BORDER-TOP-COLOR: #3d77cb; BORDER-RIGHT-COLOR: #3d77cb
+}
+#topnav SPAN.selected SPAN {
+	BORDER-LEFT-COLOR: #3d77cb; BORDER-BOTTOM-COLOR: #3d77cb; BORDER-TOP-COLOR: #3d77cb; BACKGROUND-COLOR: #3d77cb; BORDER-RIGHT-COLOR: #3d77cb
+}
+#topnav SPAN.selected A {
+	COLOR: #fff
+}
+#topnav SPAN.hover {
+	BORDER-LEFT-COLOR: #95b3de; BORDER-BOTTOM-COLOR: #95b3de; BORDER-TOP-COLOR: #95b3de; BORDER-RIGHT-COLOR: #95b3de
+}
+#topnav SPAN.hover SPAN {
+	BORDER-LEFT-COLOR: #95b3de; BORDER-BOTTOM-COLOR: #95b3de; BORDER-TOP-COLOR: #95b3de; BACKGROUND-COLOR: #95b3de; BORDER-RIGHT-COLOR: #95b3de
+}
+#topnav SPAN.hover A {
+	COLOR: #fff
+}
+DIV.shortcuts {
+	BORDER-LEFT-COLOR: #3162a6; BORDER-BOTTOM-COLOR: #3162a6; BORDER-TOP-COLOR: #3162a6; BORDER-RIGHT-COLOR: #3162a6
+}
+DIV.shortcuts DIV {
+	BORDER-LEFT-COLOR: #fff; BORDER-BOTTOM-COLOR: #e1ebfb; BORDER-TOP-COLOR: #fff; BACKGROUND-COLOR: #e1ebfb; BORDER-RIGHT-COLOR: #e1ebfb
+}
+.contentbuttonbar {
+	BACKGROUND-COLOR: #95b3de
+}
+#contentbuttonbartop {
+	BORDER-BOTTOM-COLOR: #c1c1c1
+}
+.globalbuttonbar {
+	BACKGROUND-COLOR: #95b3de
+}
+DIV.globalbuttonbar SPAN#searchtestfields {
+	BACKGROUND-COLOR: #95b3de
+}
+#globalbuttonbartop {
+	BORDER-LEFT-COLOR: #d6deec; BORDER-BOTTOM-COLOR: #d6deec; BORDER-TOP-COLOR: #d6deec; BORDER-RIGHT-COLOR: #d6deec
+}
+#globalbuttonbarbottom {
+	BORDER-LEFT-COLOR: #fff; BORDER-BOTTOM-COLOR: #fff; BORDER-TOP-COLOR: #fff; BORDER-RIGHT-COLOR: #fff
+}
+.contentnav #filtercontrol SPAN.filterbutton {
+	BORDER-LEFT-COLOR: #fff; BORDER-BOTTOM-COLOR: #fff; BORDER-TOP-COLOR: #fff; BACKGROUND-COLOR: #fff; BORDER-RIGHT-COLOR: #fff
+}
+.contentnav #filtercontrol SPAN.hover {
+	BORDER-LEFT-COLOR: #c1c1c1; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BORDER-RIGHT-COLOR: #c1c1c1
+}
+.contentnav #checkall {
+	COLOR: #039
+}
+.contentnav #clearall {
+	COLOR: #039
+}
+.buttonmenu LI A {
+	COLOR: #333
+}
+.buttonmenu LI A:hover {
+	COLOR: #333
+}
+#contentnavtop {
+	BORDER-TOP-COLOR: #c1c1c1
+}
+BUTTON {
+	BORDER-LEFT-COLOR: #fff; BORDER-BOTTOM-COLOR: #c1c1c1; COLOR: #333; BORDER-TOP-COLOR: #fff; BACKGROUND-COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #c1c1c1
+}
+.button {
+	BORDER-LEFT-COLOR: #fff; BORDER-BOTTOM-COLOR: #c1c1c1; COLOR: #333; BORDER-TOP-COLOR: #fff; BACKGROUND-COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #c1c1c1
+}
+.inputbutton {
+	BORDER-LEFT-COLOR: #fff; BORDER-BOTTOM-COLOR: #c1c1c1; COLOR: #333; BORDER-TOP-COLOR: #fff; BACKGROUND-COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #c1c1c1
+}
+BUTTON.menubutton {
+	BORDER-LEFT-COLOR: #fff; BORDER-BOTTOM-COLOR: #c1c1c1; COLOR: #333; BORDER-TOP-COLOR: #fff; BACKGROUND-COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #c1c1c1
+}
+BUTTON.hasdefaultstate {
+	BORDER-LEFT-COLOR: #fff; BORDER-BOTTOM-COLOR: #c1c1c1; COLOR: #333; BORDER-TOP-COLOR: #fff; BACKGROUND-COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #c1c1c1
+}
+A.button:visited {
+	COLOR: #333
+}
+DIV.globalbuttonbar SPAN.last A {
+	BORDER-LEFT-COLOR: #95b3de; BORDER-BOTTOM-COLOR: #95b3de; BORDER-TOP-COLOR: #95b3de; BORDER-RIGHT-COLOR: #95b3de
+}
+DIV.globalbuttonbar SPAN.last SPAN {
+	BORDER-LEFT-COLOR: #95b3de; BORDER-BOTTOM-COLOR: #95b3de; BORDER-TOP-COLOR: #95b3de; BORDER-RIGHT-COLOR: #95b3de
+}
+DIV.globalbuttonbar SPAN.last {
+	BACKGROUND-COLOR: #e1ebfb
+}
+.buttonmenu {
+	BORDER-LEFT-COLOR: #c1c1c1; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BACKGROUND-COLOR: #f6f6f6; BORDER-RIGHT-COLOR: #c1c1c1
+}
+.buttonmenu LI {
+	BORDER-LEFT-COLOR: #f6f6f6; BORDER-BOTTOM-COLOR: #f6f6f6; BORDER-TOP-COLOR: #f6f6f6; BORDER-RIGHT-COLOR: #f6f6f6
+}
+#movemenu LI {
+	BORDER-LEFT-COLOR: #f6f6f6; BORDER-BOTTOM-COLOR: #f6f6f6; BORDER-TOP-COLOR: #f6f6f6; BORDER-RIGHT-COLOR: #f6f6f6
+}
+.buttonmenu LI.hover {
+	BORDER-LEFT-COLOR: #c1c1c1; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BACKGROUND-COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #c1c1c1
+}
+#movemenu LI.hover {
+	BORDER-LEFT-COLOR: #c1c1c1; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BACKGROUND-COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #c1c1c1
+}
+.buttonmenu LI:hover {
+	BORDER-LEFT-COLOR: #c1c1c1; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BACKGROUND-COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #c1c1c1
+}
+#movemenu LI:hover {
+	BORDER-LEFT-COLOR: #c1c1c1; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BACKGROUND-COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #c1c1c1
+}
+.tbldata THEAD TH {
+	BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #fff; BACKGROUND-COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #c1c1c1
+}
+.tbldata THEAD TH.sortcol {
+	BACKGROUND-COLOR: #c1c1c1
+}
+.tbldata TBODY TD {
+	BORDER-BOTTOM-COLOR: #e6e6e6
+}
+.tbldata TR.selected TD {
+	BACKGROUND-COLOR: #d6deec
+}
+DIV.content DIV {
+	BORDER-LEFT-COLOR: #95b3de; BORDER-BOTTOM-COLOR: #95b3de; BORDER-TOP-COLOR: #95b3de; BACKGROUND-COLOR: #fff; BORDER-RIGHT-COLOR: #95b3de
+}
+DIV.content .first .first {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/blue/rc_c4c3w_nw_1.gif)
+}
+DIV.content .first .last {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/blue/rc_c4c3w_ne_1.gif)
+}
+DIV.content .last .first {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/blue/rc_c4c3w_sw_1.gif)
+}
+DIV.content .last .last {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/blue/rc_c4c3w_se_1.gif)
+}
+DIV.filled DIV {
+	BORDER-LEFT-COLOR: #95b3de; BORDER-BOTTOM-COLOR: #95b3de; BORDER-TOP-COLOR: #95b3de; BACKGROUND-COLOR: #e1ebfb; BORDER-RIGHT-COLOR: #95b3de
+}
+DIV.filled .first .first {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/blue/rc_wc3c5_nw_1.gif)
+}
+DIV.filled .first .last {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/blue/rc_wc3c5_ne_1.gif)
+}
+DIV.filled .last .first {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/blue/rc_wc3c5_sw_1.gif)
+}
+DIV.filled .last .last {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/blue/rc_wc3c5_se_1.gif)
+}
+DIV.sidebar DIV {
+	BORDER-LEFT-COLOR: #c1c1c1; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BACKGROUND-COLOR: #fff; BORDER-RIGHT-COLOR: #c1c1c1
+}
+DIV.sidebar .first .first {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/all/rc_wg2w_nw_1.gif)
+}
+DIV.sidebar .first .last {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/all/rc_wg2w_ne_1.gif)
+}
+DIV.sidebar .last .first {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/all/rc_wg2w_sw_1.gif)
+}
+DIV.sidebar .last .last {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/all/rc_wg2w_se_1.gif)
+}
+#searchnav LI {
+	BORDER-LEFT-COLOR: #fff; BORDER-BOTTOM-COLOR: #fff; BORDER-TOP-COLOR: #fff; BACKGROUND-COLOR: #fff; BORDER-RIGHT-COLOR: #fff
+}
+#optionsnav LI {
+	BORDER-LEFT-COLOR: #fff; BORDER-BOTTOM-COLOR: #fff; BORDER-TOP-COLOR: #fff; BACKGROUND-COLOR: #fff; BORDER-RIGHT-COLOR: #fff
+}
+#searchnav LI.selected {
+	BORDER-LEFT-COLOR: #e4e6e3; BORDER-BOTTOM-COLOR: #e4e6e3; BORDER-TOP-COLOR: #e4e6e3; BACKGROUND-COLOR: #e1ebfb; BORDER-RIGHT-COLOR: #e4e6e3
+}
+#optionsnav LI.selected {
+	BORDER-LEFT-COLOR: #e4e6e3; BORDER-BOTTOM-COLOR: #e4e6e3; BORDER-TOP-COLOR: #e4e6e3; BACKGROUND-COLOR: #e1ebfb; BORDER-RIGHT-COLOR: #e4e6e3
+}
+#searchnav LI.hover {
+	BORDER-LEFT-COLOR: #c1c1c1; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BACKGROUND-COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #c1c1c1
+}
+#optionsnav LI.hover {
+	BORDER-LEFT-COLOR: #c1c1c1; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BACKGROUND-COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #c1c1c1
+}
+#searchnav LI:hover {
+	BORDER-LEFT-COLOR: #c1c1c1; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BACKGROUND-COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #c1c1c1
+}
+#optionsnav LI:hover {
+	BORDER-LEFT-COLOR: #c1c1c1; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BACKGROUND-COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #c1c1c1
+}
+#optionsnav LI:hover {
+	BORDER-LEFT-COLOR: #c1c1c1; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BACKGROUND-COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #c1c1c1
+}
+DIV.topfilled DIV {
+	BORDER-LEFT-COLOR: #95b3de; BORDER-BOTTOM-COLOR: #95b3de; BORDER-TOP-COLOR: #95b3de; BACKGROUND-COLOR: #ffffff; BORDER-RIGHT-COLOR: #95b3de
+}
+DIV.topfilled DIV.first {
+	BACKGROUND-COLOR: #e1ebfb
+}
+DIV.topfilled .first .first {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/blue/rc_wc3c5_nw_1.gif)
+}
+DIV.topfilled .first .last {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/blue/rc_wc3c5_ne_1.gif)
+}
+DIV.topfilled .last .first {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/blue/rc_c4c3w_sw_1.gif)
+}
+DIV.topfilled .last .last {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/blue/rc_c4c3w_se_1.gif)
+}
+DIV.topfilled .toptitle {
+	BORDER-BOTTOM-COLOR: #95b3de; BACKGROUND-COLOR: #e1ebfb
+}
+DIV.topfilled SPAN.filterbutton {
+	COLOR: #039
+}
+DIV.dashcontent .viewtitle {
+	COLOR: #999999
+}
+DIV#quotameter DIV {
+	BORDER-LEFT-COLOR: #d6deec; BORDER-BOTTOM-COLOR: #d6deec; BORDER-TOP-COLOR: #d6deec; BACKGROUND-COLOR: #fff; BORDER-RIGHT-COLOR: #d6deec
+}
+#quotausagebar {
+	BORDER-LEFT-COLOR: #e6e6e6; BORDER-BOTTOM-COLOR: #e6e6e6; BORDER-TOP-COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #e6e6e6
+}
+DIV.lowquota SPAN#quotausagebar SPAN.first {
+	BACKGROUND: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/all/qt_lo_1.gif) #dbebc1 repeat-x left center
+}
+DIV.mediumquota SPAN#quotausagebar SPAN.first {
+	BACKGROUND: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/all/qt_m_1.gif) #f9e9b5 repeat-x left center
+}
+DIV.highquota SPAN#quotausagebar SPAN.first {
+	BACKGROUND: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/all/qt_hi_1.gif) #ffc1c1 repeat-x left center
+}
+DIV.lightfill {
+	BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #fff; BACKGROUND-COLOR: #f6f6f6
+}
+DIV.darkfill {
+	BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #fff; BACKGROUND-COLOR: #e6e6e6
+}
+DIV.fieldset H3 {
+	COLOR: #3162a6
+}
+H2 SPAN {
+	COLOR: #000
+}
+H2 SPAN A {
+	COLOR: #039
+}
+TABLE.applicationcontainer {
+	BORDER-LEFT-COLOR: #c1c1c1; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BORDER-RIGHT-COLOR: #c1c1c1
+}
+TABLE.applicationcontainer TD#first {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/blue/shd_l_1.gif); BACKGROUND-COLOR: #d6deec
+}
+TABLE.applicationcontainer TD#euspacer {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/blue/shd_l_1.gif); BACKGROUND-COLOR: #d6deec
+}
+TABLE.applicationcontainer TD#spacer {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/blue/shd_m_2.gif)
+}
+TABLE.applicationcontainer TD.content {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/blue/shd_r_2.gif)
+}
+TABLE.composeview #stateindicator {
+	BORDER-LEFT-COLOR: #c1c1c1; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BORDER-RIGHT-COLOR: #c1c1c1
+}
+TABLE.optionsview #stateindicator {
+	BORDER-LEFT-COLOR: #c1c1c1; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BORDER-RIGHT-COLOR: #c1c1c1
+}
+TABLE.kioskview #stateindicator {
+	BORDER-LEFT-COLOR: #c1c1c1; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BORDER-RIGHT-COLOR: #c1c1c1
+}
+.smallroundedmodule .first .first {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/blue/src_wc4w_nw_1.gif)
+}
+.smallroundedmodule .first .last {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/blue/src_wc4w_ne_1.gif)
+}
+.smallroundedmodule .last .first {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/blue/src_wc4w_sw_1.gif)
+}
+.smallroundedmodule .last .last {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/blue/src_wc4w_se_1.gif)
+}
+#folderlist LI {
+	BORDER-LEFT-COLOR: #fff; BORDER-BOTTOM-COLOR: #fff; BORDER-TOP-COLOR: #fff; BACKGROUND-COLOR: #fff; BORDER-RIGHT-COLOR: #fff
+}
+#folderlist LI.selected {
+	BORDER-LEFT-COLOR: #c1c1c1; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BACKGROUND-COLOR: #e1ebfb; BORDER-RIGHT-COLOR: #c1c1c1
+}
+#folderlist LI.hover {
+	BORDER-LEFT-COLOR: #c1c1c1; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BACKGROUND-COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #c1c1c1
+}
+#savedsearches LI {
+	BORDER-LEFT-COLOR: #fff; BORDER-BOTTOM-COLOR: #fff; BORDER-TOP-COLOR: #fff; BACKGROUND-COLOR: #fff; BORDER-RIGHT-COLOR: #fff
+}
+#savedsearches LI.hover {
+	BORDER-LEFT-COLOR: #c1c1c1; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BACKGROUND-COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #c1c1c1
+}
+#personalfoldersdisplaytoggle {
+	COLOR: #039
+}
+#addfoldercontrol {
+	COLOR: #039
+}
+#mysearchesdisplaytoggle {
+	COLOR: #039
+}
+#mailaccounts LI {
+	BORDER-LEFT-COLOR: #fff; BORDER-BOTTOM-COLOR: #fff; BORDER-TOP-COLOR: #fff; BACKGROUND-COLOR: #fff; BORDER-RIGHT-COLOR: #fff
+}
+#mailaccounts LI.hover {
+	BORDER-LEFT-COLOR: #c1c1c1; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BACKGROUND-COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #c1c1c1
+}
+#popaccounts LI {
+	BORDER-LEFT-COLOR: #fff; BORDER-BOTTOM-COLOR: #fff; BORDER-TOP-COLOR: #fff; BORDER-RIGHT-COLOR: #fff
+}
+#popaccounts LI.hover {
+	BORDER-LEFT-COLOR: #c1c1c1; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BACKGROUND-COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #c1c1c1
+}
+TABLE#newmessageindicator {
+	BORDER-BOTTOM-COLOR: #c1c1c1
+}
+DIV#mailpluswelcome H3 {
+	COLOR: #3162a6
+}
+DIV.lrec H3 {
+	COLOR: #3162a6
+}
+.messageinfo {
+	BORDER-LEFT-COLOR: #fff; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BACKGROUND-COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #fff
+}
+.messageinfo P {
+	BORDER-TOP-COLOR: #fff
+}
+TABLE.messageheader TD {
+	BORDER-BOTTOM-COLOR: #e6e6e6
+}
+TABLE.messageheader TD.label {
+	BACKGROUND-COLOR: #e1ebfb
+}
+DIV#message {
+	COLOR: #000
+}
+DIV#composebuttonbartop {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0.5em; BACKGROUND-COLOR: #95b3de
+}
+DIV#composebuttonbarbottom {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0.5em; BACKGROUND-COLOR: #95b3de
+}
+#ecardpromo DIV {
+	BORDER-LEFT-COLOR: #d6deec; BORDER-BOTTOM-COLOR: #d6deec; BORDER-TOP-COLOR: #d6deec; BACKGROUND-COLOR: #fff; BORDER-RIGHT-COLOR: #d6deec
+}
+DIV#spellchecker DIV.modulecontainer DIV {
+	BORDER-LEFT-COLOR: #c1c1c1; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BACKGROUND-COLOR: #fff; BORDER-RIGHT-COLOR: #c1c1c1
+}
+DIV#spellchecker DIV.modulecontainer .first .first {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/all/rc_wg2w_nw_1.gif)
+}
+DIV#spellchecker DIV.modulecontainer .first .last {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/all/rc_wg2w_ne_1.gif)
+}
+DIV#spellchecker DIV.modulecontainer .last .first {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/all/rc_wg2w_sw_1.gif)
+}
+DIV#spellchecker DIV.modulecontainer .last .last {
+	BACKGROUND-IMAGE: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/all/rc_wg2w_se_1.gif)
+}
+DIV#spellchecker DIV.last {
+	BORDER-BOTTOM-COLOR: #c1c1c1
+}
+#autocompletepromo H3 {
+	COLOR: #f90
+}
+LABEL#tofieldlabel {
+	COLOR: #23528b
+}
+LABEL#ccfieldlabel {
+	COLOR: #23528b
+}
+LABEL#bccfieldlabel {
+	COLOR: #23528b
+}
+TABLE#fileinfo TD {
+	BORDER-LEFT-COLOR: #c1c1c1; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BACKGROUND-COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #c1c1c1
+}
+.splittertop {
+	BORDER-BOTTOM-COLOR: #c1c1c1; BACKGROUND-COLOR: #ffffff
+}
+.splittercontent {
+	BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #ffffff; BACKGROUND-COLOR: #e6e6e6
+}
+.tabfolder .tabfoldercontent {
+	BORDER-LEFT-COLOR: #3d77cb; BORDER-BOTTOM-COLOR: #3d77cb; BORDER-TOP-COLOR: #3d77cb; BORDER-RIGHT-COLOR: #3d77cb
+}
+TABLE.photopanel {
+	BORDER-LEFT-COLOR: #c0c0c0; BORDER-BOTTOM-COLOR: #c0c0c0; BORDER-TOP-COLOR: #c0c0c0; BORDER-RIGHT-COLOR: #c0c0c0
+}
+TABLE.photopanel TD {
+	BORDER-LEFT-COLOR: #c0c0c0; BORDER-BOTTOM-COLOR: #c0c0c0; BORDER-TOP-COLOR: #c0c0c0; BORDER-RIGHT-COLOR: #c0c0c0
+}
+TABLE.photopanel TD.thumbnail TD.image {
+	BORDER-LEFT-COLOR: #e0e0e0; BORDER-BOTTOM-COLOR: #e0e0e0; BORDER-TOP-COLOR: #e0e0e0; BACKGROUND-COLOR: #efefef; BORDER-RIGHT-COLOR: #e0e0e0
+}
+TABLE.photopanel TD.thumbnail TD.savetolinks {
+	PADDING-LEFT: 10px; FONT: 77% verdana
+}
+TABLE.photopanel TD.imageinfo DIV {
+	BORDER-TOP-COLOR: #fff; BACKGROUND-COLOR: #e6e6e6
+}
+TABLE.photopanel TD.imageinfo DIV A.imagename {
+	COLOR: #000
+}
+.filespanel TD {
+	BORDER-TOP-COLOR: #d1d1d1
+}
+.tabtitlefield {
+	COLOR: #fff
+}
+.tabtitlerow {
+	BACKGROUND-COLOR: #3d77cb
+}
+.tabtitlespace {
+	BACKGROUND-COLOR: #fff
+}
+#stationerypromo H3 {
+	COLOR: #3162a6
+}
+#moreyahoo H3 {
+	COLOR: #f90
+}
+DIV.infomodule .bgf {
+	BACKGROUND-COLOR: #fff
+}
+DIV.infomodule .bgc {
+	BACKGROUND-COLOR: #3d77cb
+}
+DIV.infomodule .bgg {
+	BACKGROUND-COLOR: #c1c1c1
+}
+DIV.infomodule .bgd {
+	BACKGROUND-COLOR: #95b3de
+}
+DIV.infomodule .verd {
+	COLOR: #fff
+}
+DIV.infomodule .msgolds TD {
+	BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #fff
+}
+DIV.infomodule .msgold TD {
+	BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #fff
+}
+DIV.infomodule .msgolds TD {
+	BORDER-LEFT-COLOR: #d6deec; BACKGROUND-COLOR: #d6deec; BORDER-RIGHT-COLOR: #d6deec
+}
+DIV.infomodule .msgold TD {
+	BORDER-LEFT-COLOR: #e1ebfb; BACKGROUND-COLOR: #e1ebfb; BORDER-RIGHT-COLOR: #e1ebfb
+}
+DIV.infomodule .bd {
+	BORDER-LEFT-COLOR: #3d77cb; BORDER-BOTTOM-COLOR: #3d77cb; BORDER-TOP-COLOR: #3d77cb; BACKGROUND-COLOR: #d6deec; BORDER-RIGHT-COLOR: #3d77cb
+}
+TABLE#mailoptions TD {
+	BORDER-LEFT-COLOR: #c1c1c1; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BORDER-RIGHT-COLOR: #c1c1c1
+}
+TABLE#mailoptions H3 {
+	BORDER-LEFT-COLOR: #fff; BACKGROUND: url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/all/px_w.gif) #e6e6e6 repeat-x 1px 1px; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BORDER-RIGHT-COLOR: #e6e6e6
+}
+BODY#popsettings TABLE#header {
+	BORDER-BOTTOM-COLOR: #95b3de
+}
+#messageviewselector {
+	COLOR: #039; TEXT-DECORATION: underline
+}
+.ovt {
+	BORDER-RIGHT: #bdbebd 1px solid; BORDER-TOP: #bdbebd 1px solid; MARGIN-TOP: 15px; BORDER-LEFT: #bdbebd 1px solid; BORDER-BOTTOM: #bdbebd 1px solid; POSITION: relative
+}
+#west2 .ovt {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+#east2 .ovt {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+.ovt .disclaimer {
+	FONT-SIZE: 0.79em
+}
+.ovt .whatsthis {
+	FONT-SIZE: 0.79em
+}
+#east .ovt DIV {
+	FONT-SIZE: 0.79em
+}
+#east2 .ovt LI DIV {
+	FONT-SIZE: 0.79em
+}
+.ovt .disclaimer {
+	PADDING-RIGHT: 0.25em; PADDING-LEFT: 0.25em; PADDING-BOTTOM: 0px; MARGIN-LEFT: 10px; PADDING-TOP: 0px; POSITION: absolute; TOP: -0.6em; BACKGROUND-COLOR: #fff
+}
+.ovt UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0.4em 0px 5px; PADDING-TOP: 0px
+}
+.ovt LI {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; MARGIN: 5px 0px; WIDTH: 100%; CURSOR: hand; PADDING-TOP: 5px; LIST-STYLE-TYPE: none
+}
+UNKNOWN {
+	WIDTH: auto
+}
+.ovt EM {
+	COLOR: #008000; FONT-STYLE: normal
+}
+.ovt .whatsthis {
+	PADDING-BOTTOM: 6px; TEXT-ALIGN: center
+}
+.ovt .odd {
+	BACKGROUND: #eee
+}
+#bmlinks {
+	BACKGROUND-COLOR: #e1ebfb
+}
+#whatsnewlink {
+	COLOR: #f00
+}
+#whatsnewlink:visited {
+	COLOR: #039
+}
+DIV.progressbar {
+	BORDER-LEFT-COLOR: #c1c1c1; BORDER-BOTTOM-COLOR: #c1c1c1; BORDER-TOP-COLOR: #c1c1c1; BACKGROUND-COLOR: #fff; BORDER-RIGHT-COLOR: #c1c1c1
+}
+DIV.progressbar DIV.bd {
+	BORDER-LEFT-COLOR: #5f5f5f; BORDER-BOTTOM-COLOR: #5f5f5f; BORDER-TOP-COLOR: #5f5f5f; BORDER-RIGHT-COLOR: #5f5f5f
+}
+DIV.progressbar DIV.bd SPAN {
+	BACKGROUND-COLOR: #3d77cb
+}
+DIV.dkindicator .bg {
+	BACKGROUND: #ffffcc
+}
+.premium {
+	BORDER-RIGHT: #c1c1c1 1px solid; BORDER-TOP: #c1c1c1 0px solid; BORDER-LEFT: #c1c1c1 1px solid; BORDER-BOTTOM: #c1c1c1 1px solid; BACKGROUND-COLOR: #d6deec
+}
+.ac_menu {
+	BORDER-RIGHT: #3162a6 1px solid; BORDER-TOP: #3162a6 1px solid; OVERFLOW: hidden; BORDER-LEFT: #3162a6 1px solid; CURSOR: default; BORDER-BOTTOM: #3162a6 1px solid; BACKGROUND-COLOR: #f6f6f6; moz-box-sizing: border-box
+}
+.ac_menuitem {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; WIDTH: 100%; CURSOR: hand; COLOR: #141414; PADDING-TOP: 2px; POSITION: relative; moz-box-sizing: border-box; moz-user-select: none
+}
+.ac_menuitem_over {
+	BACKGROUND-COLOR: #e6e6e6
+}
+.ac_menuitem_selected {
+	BACKGROUND-COLOR: #d6deec
+}

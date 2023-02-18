@@ -1,0 +1,10 @@
+## KANUNI YA TISA: KANUNI ZA LUGHA LAZIMA ZISIPUZIWE.
+
+Lugha zote sio mbaya. Kama jambo la hakika, kila lugha ni ya kipekee pamoja na nguvu zake na udhaifu. Ufafanuzi wa kipekee wa kila lugha unafanya somo lake kukamilika, lakini kitu cha kusisimua!Kiyunani na Kiebrania ni za tofauti mno kutoka lugha zetu za sasa. Sifa za lugha za kiBiblia lazima kujifunza na kufahamu hata kufasiri andiko ambalo limetafasiriwa katika lugha zetu.
+
+**MFANO**: Kristo anajieleza kwa Maria Yoh. 19:26 anatoa sauti ya ukali katika Kiswahili: "Mwanamke, tazama mwanao!" Kama jambo la hakika, ni sauti ya kushusha heshima sana. Tunafasiri kifungu hiki sio katika mwanga wa jinsi ya kutoa sauti katika Kiswahili, bali ni jinsi ya kutoa sauti katika kiyunani kwa sababu hiyo ni asili na lugha ilio vuviwa ya kitabu cha Yohn na Kiebrania au kiaramu kwa sababu ya mukini hiyo ndio lugha ambayo Yesu aliizungumza katika kiebrania, "mwanamke" inasauti kinyume kuliko ilivyo katika kiingereza; ni utaratibu wa heshima kama vile "mama."
+
+Kutafuta maana ya maneno kwenye dikishenari inaweza kumsaidia muhubiri kupata ufahamu bora wa maandiko. Agano la kale kiasili lilikuwa limeandikwa kwa kiebrania na Agano jipya kiasili lilikuwa limeandikwa kwa kiyunani. Kuna vitabu vya rejea kama vile Concordance na dictionary ya Biblia. Vitabu hivi hutoa maana ya maneno katika lugha za kinadharia. Matumizi ya kamusi ya lugha ya kawaida kama Webster vilevile inaweza kusaidia katika kufahamu maana ya maneno katika kifungu cha maandiko.
+
+**MFANO**: Neno "mtumishi" katika Warumi 1:1 ni doulos katika lugha ya asili ya kiyunani na ina maanisha mtumishi wa upendo au mtu ajichaguliaye kwa hiari yake kuwa mtumishi. Paulo hakulazimishwa kuwa mtumishi wa Yesu, bali alichagua kuwa mtumishi wa Yesu kwasababu ya upendo wake mkuu kwa ajili ya kutafuta maana ya neno mtumishi itakusaidia kufahamu maana sahihi ya kifungu.
+

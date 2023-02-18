@@ -1,10 +1,10 @@
-## The conclusion (chapters 38-42)
+## The conclusion (chapters 38&ndash;42)
 
 We are ready for a rescue. We are tired of words that change nothing, we are tired of Job’s condition, and we are tired of wondering how God is going to keep His goodness intact while He explains to Job His perfect will for him. Then we read on and words hit us like a wrecking ball because none of our expectations are met. 
 
 In 38:2, God asks, "Who is this?" It’s Job, your faithful servant, surely you know who he is. The question is not, "who are you?" It is, "who do you think you are?" And in 38:3, God said, "I will demand of thee, and answer thou me." It was like He was saying, "Since you seem to know so much, let me ask you some questions."
 
-In two statements God has reduced Job to rubble. It’s not what we expect, but by claiming righteousness and wisdom, Job has encroached on Gods glory. He has trespassed into His place. Before we can peruse true righteousness and wisdom, we must first be taught humility. This may be the most painful place in the whole book. 
+In two statements God has reduced Job to rubble. It’s not what we expect, but by claiming righteousness and wisdom, Job has encroached on God’s glory. He has trespassed into God’s territory. Before we can peruse true righteousness and wisdom, we must first be taught humility. This may be the most painful place in the whole book. 
  
 ### Why the questions?
 

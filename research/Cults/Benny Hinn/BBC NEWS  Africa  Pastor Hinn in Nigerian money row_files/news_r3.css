@@ -1,0 +1,1059 @@
+BODY {
+	BORDER-TOP-WIDTH: 0px; FONT-WEIGHT: normal; BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 13px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px; COLOR: #000000; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"; BACKGROUND-COLOR: #ffffff; BORDER-RIGHT-WIDTH: 0px
+}
+TABLE {
+	FONT-SIZE: 13px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"
+}
+TR {
+	FONT-SIZE: 13px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"
+}
+TD {
+	FONT-SIZE: 13px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"
+}
+B {
+	FONT-WEIGHT: bold
+}
+P {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"
+}
+DIV {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"
+}
+A {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"; TEXT-DECORATION: none
+}
+FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+A:link {
+	FONT-SIZE: 11px; COLOR: #000099; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 11px; COLOR: #6666cc; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"; TEXT-DECORATION: none
+}
+A:active {
+	FONT-SIZE: 11px; COLOR: #000099; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 11px; COLOR: #000099; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"; TEXT-DECORATION: underline
+}
+A.lp:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #990000
+}
+A.lp:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #990000
+}
+A.lp:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #cc6666
+}
+A.lp:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #990000
+}
+.mvb A.lp:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #990000
+}
+.o A.lp:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #990000
+}
+.mvb A.lp:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #990000
+}
+.o A.lp:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #990000
+}
+.mvb A.lp:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #cc6666
+}
+.o A.lp:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #cc6666
+}
+.mvb A.lp:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #990000
+}
+.o A.lp:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #990000
+}
+A.tsh:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #000099
+}
+A.tsh:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #6666cc
+}
+A.tsh:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #000099
+}
+A.tsh:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #000099
+}
+A.tsl:link {
+	PADDING-BOTTOM: 3px; COLOR: #000099
+}
+A.tsl:visited {
+	PADDING-BOTTOM: 3px; COLOR: #6666cc
+}
+A.tsl:hover {
+	PADDING-BOTTOM: 3px; COLOR: #000099
+}
+A.tsl:active {
+	PADDING-BOTTOM: 3px; COLOR: #000099
+}
+A.shl:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000099; TEXT-DECORATION: none
+}
+A.shl:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #6666cc; TEXT-DECORATION: none
+}
+A.shl:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000099; TEXT-DECORATION: underline
+}
+A.shl:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000099; TEXT-DECORATION: none
+}
+A.sshl:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000099; TEXT-DECORATION: none
+}
+A.sshl:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #6666cc; TEXT-DECORATION: none
+}
+A.sshl:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000099; TEXT-DECORATION: underline
+}
+A.sshl:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000099; TEXT-DECORATION: none
+}
+A.epl:link {
+	FONT-SIZE: 10px
+}
+A.epl:active {
+	FONT-SIZE: 10px
+}
+A.epl:visited {
+	FONT-SIZE: 10px
+}
+A.epl:hover {
+	FONT-SIZE: 10px
+}
+A.mo:link {
+	FONT-SIZE: 10px
+}
+A.mo:active {
+	FONT-SIZE: 10px
+}
+A.mo:visited {
+	FONT-SIZE: 10px
+}
+A.mo:hover {
+	FONT-SIZE: 10px
+}
+.sectionHeader {
+	MARGIN-TOP: 5px; FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #333333; BORDER-BOTTOM: #990000 1px solid
+}
+.sh {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #000000
+}
+.ish {
+	MARGIN-TOP: 5px; FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #444444
+}
+.rhst {
+	FONT-SIZE: 11px
+}
+SPAN.nlp {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #444444
+}
+DIV.nlp {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #444444
+}
+.nlpa {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000
+}
+.nlpuff {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px
+}
+.ds {
+	FONT-SIZE: 11px; COLOR: #000000
+}
+.di {
+	FONT-SIZE: 11px; COLOR: #666666
+}
+.lu {
+	FONT-SIZE: 11px; COLOR: #666666
+}
+.bull {
+	PADDING-LEFT: 10px; FONT-SIZE: 11px; BACKGROUND-IMAGE: url(http://newsimg.bbc.co.uk/nol/shared/img/v3/bullet_rb.gif); BACKGROUND-REPEAT: no-repeat
+}
+.arr {
+	PADDING-LEFT: 7px; BACKGROUND-IMAGE: url(http://newsimg.bbc.co.uk/nol/shared/img/v3/arrow.gif); PADDING-BOTTOM: 3px; BACKGROUND-REPEAT: no-repeat
+}
+.arry {
+	PADDING-LEFT: 7px; BACKGROUND-IMAGE: url(http://newsimg.bbc.co.uk/nol/shared/img/v3/arrow.gif); PADDING-BOTTOM: 3px; BACKGROUND-REPEAT: no-repeat
+}
+.arrup {
+	PADDING-LEFT: 7px; BACKGROUND-IMAGE: url(http://newsimg.bbc.co.uk/nol/shared/img/v3/arrow_up.gif); PADDING-BOTTOM: 3px; BACKGROUND-REPEAT: no-repeat
+}
+.arrdo {
+	PADDING-LEFT: 7px; BACKGROUND-IMAGE: url(http://newsimg.bbc.co.uk/nol/shared/img/v3/arrow_down.gif); PADDING-BOTTOM: 3px; BACKGROUND-REPEAT: no-repeat
+}
+.sabull {
+	PADDING-LEFT: 7px; BACKGROUND-IMAGE: url(http://newsimg.bbc.co.uk/nol/shared/img/v3/seealso_bullet.gif); PADDING-BOTTOM: 3px; BACKGROUND-REPEAT: no-repeat
+}
+.lhs {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 11px; BORDER-BOTTOM-WIDTH: 1px; WIDTH: 121px; PADDING-TOP: 5px; BACKGROUND-COLOR: #eeeeee; TEXT-ALIGN: right; BORDER-RIGHT-WIDTH: 1px
+}
+.lhsad {
+	FONT-SIZE: 11px; WIDTH: 121px; PADDING-TOP: 5px; BORDER-BOTTOM: #eee 1px solid; BACKGROUND-COLOR: #eeeeee; TEXT-ALIGN: right
+}
+.lhsb {
+	PADDING-RIGHT: 6px; FONT-WEIGHT: bold; PADDING-BOTTOM: 2px; PADDING-TOP: 2px
+}
+.lhssq {
+	PADDING-RIGHT: 6px; FONT-WEIGHT: bold; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; BACKGROUND-REPEAT: repeat-y; BACKGROUND-COLOR: #bbbbbb
+}
+.lhssqs {
+	PADDING-RIGHT: 6px; FONT-WEIGHT: bold; BACKGROUND-IMAGE: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_square_rb.gif); PADDING-BOTTOM: 2px; PADDING-TOP: 2px; BACKGROUND-REPEAT: repeat-y; BACKGROUND-COLOR: #bbbbbb
+}
+.lhslt {
+	PADDING-RIGHT: 6px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; BACKGROUND-COLOR: #dddddd
+}
+.lhsdl {
+	PADDING-RIGHT: 6px; FONT-SIZE: 11px; COLOR: #999999
+}
+.lhsnlp {
+	PADDING-RIGHT: 6px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; COLOR: #444444; PADDING-TOP: 2px
+}
+.lhsmi {
+	BACKGROUND-COLOR: #dddddd
+}
+.lhsl {
+	PADDING-RIGHT: 6px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px
+}
+.lhsbsn {
+	PADDING-RIGHT: 6px; FONT-WEIGHT: bold; BACKGROUND-IMAGE: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_square_rb.gif); PADDING-BOTTOM: 2px; PADDING-TOP: 2px; BACKGROUND-COLOR: #dddddd
+}
+.lhs A:visited {
+	COLOR: #000099
+}
+A.bl:link {
+	COLOR: #dddddd
+}
+A.bl:active {
+	COLOR: #dddddd
+}
+A.bl:visited {
+	COLOR: #cccccc
+}
+A.bl:hover {
+	COLOR: #aaaaaa
+}
+TD.ba {
+	FONT-SIZE: 11px; PADDING-BOTTOM: 2px; COLOR: #cccc99; PADDING-TOP: 2px; BACKGROUND-COLOR: #000000
+}
+.f {
+	FONT-SIZE: 13px; MARGIN-BOTTOM: 10px; MARGIN-LEFT: 131px; WIDTH: 629px
+}
+A.fl:link {
+	FONT-SIZE: 11px; COLOR: #000099
+}
+A.fl:visited {
+	FONT-SIZE: 11px; COLOR: #6666cc
+}
+A.fl:hover {
+	FONT-SIZE: 11px; COLOR: #000099
+}
+A.fl:active {
+	FONT-SIZE: 11px; COLOR: #000099
+}
+A.flb:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000099
+}
+A.flb:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #6666cc
+}
+A.flb:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000099
+}
+A.flb:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000099
+}
+#newstracker .arr {
+	PADDING-LEFT: 7px; BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/v3/arrow.gif) no-repeat 0px 3px; PADDING-BOTTOM: 3px
+}
+#newstracker .arr SPAN {
+	FONT-SIZE: 11px; COLOR: #666666
+}
+#newstracker .sah {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; COLOR: #ffffff; PADDING-TOP: 2px; BACKGROUND-COLOR: #669999
+}
+#newstracker {
+	WIDTH: 203px; TEXT-ALIGN: left
+}
+.nlpnb {
+	FONT-SIZE: 10px; COLOR: #444444
+}
+.stp2 {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; COLOR: #333399; PADDING-TOP: 2px; BACKGROUND-COLOR: #d4dae0
+}
+.stp1 {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; COLOR: #ffffff; PADDING-TOP: 2px; BACKGROUND-COLOR: #333399
+}
+.mva {
+	MARGIN: 5px
+}
+.mvt {
+	MARGIN-TOP: 5px
+}
+.mvtl {
+	MARGIN-TOP: 5px; MARGIN-LEFT: 5px
+}
+.mvl {
+	MARGIN-LEFT: 5px
+}
+.mxl {
+	MARGIN-LEFT: 10px
+}
+.mvr {
+	MARGIN-RIGHT: 5px
+}
+.mvtb {
+	MARGIN-TOP: 5px; MARGIN-BOTTOM: 5px
+}
+.mvb {
+	MARGIN-BOTTOM: 5px
+}
+.mxb {
+	MARGIN-BOTTOM: 10px
+}
+.mxvb {
+	MARGIN-BOTTOM: 15px
+}
+.mvbl {
+	MARGIN-BOTTOM: 5px; MARGIN-LEFT: 5px
+}
+.miiibl {
+	MARGIN-BOTTOM: 3px; MARGIN-LEFT: 3px
+}
+.miiia {
+	MARGIN: 3px
+}
+.miiil {
+	MARGIN-LEFT: 3px
+}
+.miiir {
+	MARGIN-RIGHT: 3px
+}
+.miiitb {
+	MARGIN-TOP: 3px; MARGIN-BOTTOM: 3px
+}
+.miiib {
+	MARGIN-BOTTOM: 3px
+}
+.miiit {
+	MARGIN-TOP: 3px
+}
+.miiilr {
+	MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px
+}
+.miitb {
+	MARGIN-TOP: 2px; MARGIN-BOTTOM: 2px
+}
+.imvr {
+	MARGIN-RIGHT: 5px
+}
+.pva {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+.pvl {
+	PADDING-LEFT: 5px
+}
+.pvr {
+	PADDING-RIGHT: 5px
+}
+.pvt {
+	PADDING-TOP: 5px
+}
+.pvtb {
+	PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+.pvtbl {
+	PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+.pvlb {
+	PADDING-LEFT: 5px; PADDING-BOTTOM: 5px
+}
+.pvb {
+	PADDING-BOTTOM: 5px
+}
+.piiia {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+.piiil {
+	PADDING-LEFT: 3px
+}
+.piiir {
+	PADDING-RIGHT: 3px
+}
+.piiitb {
+	PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+.piiibl {
+	PADDING-LEFT: 3px; PADDING-BOTTOM: 3px
+}
+.piiit {
+	PADDING-TOP: 3px
+}
+.piiib {
+	PADDING-BOTTOM: 3px
+}
+.pxl {
+	PADDING-LEFT: 10px
+}
+.gffffff {
+	BACKGROUND-COLOR: #ffffff
+}
+.gpromo {
+	BACKGROUND-COLOR: #ddddcc
+}
+.gddddbb {
+	BACKGROUND-COLOR: #ddddbb
+}
+.gcccccc {
+	BACKGROUND-COLOR: #cccccc
+}
+.g000000 {
+	BACKGROUND-COLOR: #000000
+}
+.gefefef {
+	BACKGROUND-COLOR: #efefef
+}
+.vb {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 11px; BORDER-BOTTOM-WIDTH: 1px; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 5px; WIDTH: 203px; COLOR: #000000; BACKGROUND-COLOR: #eeeedd; BORDER-RIGHT-WIDTH: 1px
+}
+.vh {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; TEXT-TRANSFORM: uppercase; COLOR: #ffffff; PADDING-TOP: 2px; BACKGROUND-COLOR: #336677
+}
+.vdi {
+	FONT-SIZE: 10px; COLOR: #000000
+}
+.pb {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 1px; WIDTH: 203px; COLOR: #000000; BACKGROUND-COLOR: #ddddcc; BORDER-RIGHT-WIDTH: 1px
+}
+.stpb {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 1px; WIDTH: 416px; COLOR: #ffffff; HEIGHT: 22px; BACKGROUND-COLOR: #669999; BORDER-RIGHT-WIDTH: 1px
+}
+.stpt {
+	PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; PADDING-TOP: 5px
+}
+.ch1 {
+	BORDER-TOP-WIDTH: 1px; PADDING-RIGHT: 0px; PADDING-LEFT: 4px; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 11px; BORDER-BOTTOM-WIDTH: 1px; PADDING-BOTTOM: 4px; COLOR: #ffffff; PADDING-TOP: 4px; FONT-FAMILY: verdana; BACKGROUND-COLOR: #77aabb; BORDER-RIGHT-WIDTH: 1px
+}
+.ch2 {
+	BORDER-TOP-WIDTH: 1px; PADDING-RIGHT: 0px; PADDING-LEFT: 4px; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 11px; BORDER-BOTTOM-WIDTH: 1px; PADDING-BOTTOM: 4px; COLOR: #ffffff; PADDING-TOP: 4px; FONT-FAMILY: verdana; BACKGROUND-COLOR: #bbbbaa; BORDER-RIGHT-WIDTH: 1px
+}
+.avh {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; COLOR: #ffffff; PADDING-TOP: 2px; BACKGROUND-COLOR: #cc0000
+}
+.av1h {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; COLOR: #ffffff; PADDING-TOP: 2px; BACKGROUND-COLOR: #cc0000
+}
+.avlh {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; COLOR: #ffffff; PADDING-TOP: 2px; BACKGROUND-COLOR: #000000
+}
+.av1sh {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; COLOR: #ffffff; PADDING-TOP: 2px; BACKGROUND-COLOR: #000000
+}
+.avsh {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; COLOR: #ffffff; PADDING-TOP: 2px; BACKGROUND-COLOR: #000000
+}
+.av1lh {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; COLOR: #ffffff; PADDING-TOP: 2px; BACKGROUND-COLOR: #000000
+}
+.avt {
+	FONT-SIZE: 11px
+}
+.spb {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 1px; WIDTH: 203px; BACKGROUND-COLOR: #ffffcc; BORDER-RIGHT-WIDTH: 1px
+}
+.spbe {
+	BORDER-TOP: 1px dashed; PADDING-BOTTOM: 3px; WIDTH: 100%; PADDING-TOP: 3px; BORDER-BOTTOM: 1px dashed; BACKGROUND-COLOR: #ffff33
+}
+.gnb {
+	BORDER-TOP-WIDTH: 1px; PADDING-LEFT: 5px; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 1px; PADDING-BOTTOM: 5px; COLOR: #ffffff; PADDING-TOP: 5px; BACKGROUND-COLOR: #669933; BORDER-RIGHT-WIDTH: 1px
+}
+.wtrb {
+	BORDER-TOP-WIDTH: 1px; PADDING-LEFT: 5px; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 1px; PADDING-BOTTOM: 5px; COLOR: #ffffff; PADDING-TOP: 5px; BACKGROUND-COLOR: #ddeeee; BORDER-RIGHT-WIDTH: 1px
+}
+.tqub {
+	BORDER-TOP-WIDTH: 1px; PADDING-LEFT: 5px; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 1px; PADDING-BOTTOM: 5px; WIDTH: 100%; COLOR: #000000; PADDING-TOP: 5px; BACKGROUND-COLOR: #99cccc; BORDER-RIGHT-WIDTH: 1px
+}
+.fefefef {
+	BORDER-TOP-WIDTH: 1px; PADDING-LEFT: 5px; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 1px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; BACKGROUND-COLOR: #efefef; BORDER-RIGHT-WIDTH: 1px
+}
+.filler5 {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 1px; MARGIN-BOTTOM: 5px; PADDING-BOTTOM: 5px; WIDTH: 100%; PADDING-TOP: 5px; BACKGROUND-COLOR: #efefef; BORDER-RIGHT-WIDTH: 1px
+}
+.filler3 {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 1px; PADDING-BOTTOM: 5px; WIDTH: 100%; BACKGROUND-COLOR: #efefef; BORDER-RIGHT-WIDTH: 1px
+}
+.wsb {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 1px; MARGIN-BOTTOM: 7px; WIDTH: 203px; BACKGROUND-COLOR: #ddeeff; BORDER-RIGHT-WIDTH: 1px
+}
+.mph1 {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; COLOR: #ffffff; PADDING-TOP: 2px; BACKGROUND-COLOR: #336677
+}
+.mph {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; COLOR: #ffffff; PADDING-TOP: 2px; BACKGROUND-COLOR: #336677
+}
+.s003366 {
+	BORDER-TOP-WIDTH: 1px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 11px; BORDER-BOTTOM-WIDTH: 1px; PADDING-BOTTOM: 2px; COLOR: #ffffff; PADDING-TOP: 2px; BACKGROUND-COLOR: #003366; BORDER-RIGHT-WIDTH: 1px
+}
+.formatStyle {
+	WIDTH: 160px
+}
+.ddb {
+	BORDER-TOP-WIDTH: 1px; PADDING-LEFT: 5px; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 11px; BORDER-BOTTOM-WIDTH: 1px; PADDING-BOTTOM: 5px; COLOR: #000000; PADDING-TOP: 2px; BACKGROUND-COLOR: #ffffff; BORDER-RIGHT-WIDTH: 1px
+}
+.ddh {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000
+}
+.ddt {
+	FONT-SIZE: 11px; MARGIN-BOTTOM: 5px
+}
+.dd160 {
+	WIDTH: 160px
+}
+.dd250 {
+	WIDTH: 250px
+}
+TD.sibt {
+	FONT-SIZE: 11px
+}
+TD.sibtbg {
+	FONT-SIZE: 11px; BACKGROUND-COLOR: #eeeedd
+}
+.sih {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; COLOR: #ffffff; PADDING-TOP: 2px; BACKGROUND-COLOR: #336677
+}
+.sibf {
+	MARGIN-LEFT: 5px; BACKGROUND-COLOR: #eeeedd
+}
+.sibmg {
+	MARGIN-LEFT: 5px; BACKGROUND-COLOR: #ffde9c
+}
+.cap {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #666666
+}
+.bys {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000
+}
+.byl {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #666666
+}
+.byd {
+	FONT-SIZE: 11px; COLOR: #000000
+}
+.msd {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #666666
+}
+.sah {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; COLOR: #ffffff; PADDING-TOP: 2px; BACKGROUND-COLOR: #336677
+}
+.sad {
+	FONT-SIZE: 11px; COLOR: #666666
+}
+.snh {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; COLOR: #ffffff; PADDING-TOP: 2px; BACKGROUND-COLOR: #dd6622
+}
+.sng {
+	PADDING-BOTTOM: 5px; BACKGROUND-COLOR: #eeeeee
+}
+.sph {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; COLOR: #ffffff; PADDING-TOP: 2px; BACKGROUND-COLOR: #990000
+}
+.pph {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; COLOR: #ffffff; PADDING-TOP: 2px; BACKGROUND-COLOR: #888888
+}
+A.tickl {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000099; LINE-HEIGHT: 12px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+A.tickl:hover {
+	COLOR: #6666cc; TEXT-DECORATION: none
+}
+.ticki {
+	OVERFLOW: hidden; WIDTH: 629px; HEIGHT: 13px
+}
+.ticko {
+	PADDING-RIGHT: 0px; BORDER-TOP: #ffffff 1px solid; DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: 4px; MARGIN: 4px 0px 0px; WIDTH: 629px; PADDING-TOP: 1px; BORDER-BOTTOM: #990000 1px solid
+}
+.tickls {
+	COLOR: #444444
+}
+.tickh {
+	DISPLAY: none
+}
+.psrhb {
+	PADDING-BOTTOM: 2px
+}
+.psrht {
+	MARGIN-TOP: 3px; FONT-WEIGHT: bold; FONT-SIZE: 10px; MARGIN-BOTTOM: 3px; COLOR: #666666
+}
+.pinp {
+	FONT-SIZE: 11px; WIDTH: 160px; FONT-FAMILY: Verdana,Arial,Helvetica
+}
+.changeHead {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #990000
+}
+.changeSummary {
+	FONT-SIZE: 10px; COLOR: #000000
+}
+TD.mdh {
+	PADDING-LEFT: 1px; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; COLOR: #ffffff; PADDING-TOP: 2px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; BACKGROUND-COLOR: #003366
+}
+TD.mmd {
+	BACKGROUND-COLOR: #cccccc
+}
+.mdfg1 {
+	FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif
+}
+.mdfg2 {
+	FONT-SIZE: 11px; COLOR: #333333; MARGIN-RIGHT: 5px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif
+}
+.mdlink {
+	FONT-SIZE: 10px; COLOR: #333333; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif
+}
+.idty {
+	FONT-SIZE: 11px; PADDING-BOTTOM: 1px; WIDTH: 100px; COLOR: #444444; FONT-FAMILY: verdana; BACKGROUND-COLOR: #bbbbbb; TEXT-ALIGN: center
+}
+.idy {
+	PADDING-BOTTOM: 1px; WIDTH: 100px; BACKGROUND-COLOR: #eeeeee; TEXT-ALIGN: center
+}
+.acrobatLink {
+	MARGIN-TOP: 1px; PADDING-LEFT: 20px; FONT-SIZE: 11px; BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/pdf.gif) no-repeat; COLOR: #000000
+}
+.acrobatDownload {
+	MARGIN-TOP: 1px; PADDING-LEFT: 20px; FONT-SIZE: 11px; BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/acrobat.gif) no-repeat
+}
+.PDFText {
+	FONT-SIZE: 10px; COLOR: #000000
+}
+.acrol {
+	MARGIN-TOP: 1px; PADDING-LEFT: 20px; FONT-SIZE: 11px; BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/pdf.gif) no-repeat; PADDING-BOTTOM: 7px; COLOR: #000000
+}
+.acrod {
+	MARGIN-TOP: 1px; PADDING-LEFT: 20px; FONT-SIZE: 11px; BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/acrobat.gif) no-repeat; MARGIN-BOTTOM: 7px; HEIGHT: 17px
+}
+.pdft {
+	FONT-SIZE: 10px; MARGIN-BOTTOM: 5px; COLOR: #000000
+}
+#rssBox {
+	BORDER-RIGHT: #000000 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #000000 1px solid; MARGIN-TOP: 0px; PADDING-LEFT: 3px; BACKGROUND: #eeeeee; MARGIN-BOTTOM: 12px; PADDING-BOTTOM: 4px; BORDER-LEFT: #000000 1px solid; PADDING-TOP: 3px; BORDER-BOTTOM: #000000 1px solid
+}
+.o {
+	
+}
+.tbsh {
+	BACKGROUND-COLOR: #828282
+}
+.tbshl {
+	BORDER-LEFT: #828282 2px solid
+}
+.tbb {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/shared/img/v3_tb/v.gif) #999999 repeat-y
+}
+.tbs1 {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/shared/img/v3_tb/sl.gif) #000000 no-repeat
+}
+.tbs {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/shared/img/v3_tb/st.gif) #000000 repeat-x
+}
+.tbs2 {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/shared/img/v3_tb/st.gif) #000000 repeat-x 0px 0px
+}
+.tbsra {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/shared/img/v3_tb/sra.gif) #999999 no-repeat
+}
+.tbsrb {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/shared/img/v3_tb/srb.gif) #999999 no-repeat
+}
+.tbbl {
+	BACKGROUND-COLOR: #000000
+}
+.tbg {
+	BACKGROUND-COLOR: #999999
+}
+.tbshl {
+	BACKGROUND-COLOR: #999999
+}
+.tbwl {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 1px; COLOR: #ffffff; PADDING-TOP: 1px; FONT-FAMILY: verdana,arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+FONT.tbwl {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 1px; COLOR: #ffffff; PADDING-TOP: 1px; FONT-FAMILY: verdana,arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+A.tbwl {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 1px; COLOR: #ffffff; PADDING-TOP: 1px; FONT-FAMILY: verdana,arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+A.tbwl:link {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 1px; COLOR: #ffffff; PADDING-TOP: 1px; FONT-FAMILY: verdana,arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+A.tbwl:hover {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 1px; COLOR: #ffffff; PADDING-TOP: 1px; FONT-FAMILY: verdana,arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+A.tbwl:visited {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 1px; COLOR: #ffffff; PADDING-TOP: 1px; FONT-FAMILY: verdana,arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+#rssbox A {
+	FONT-WEIGHT: bold
+}
+.vb416 {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 11px; BORDER-BOTTOM-WIDTH: 1px; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 5px; WIDTH: 416px; COLOR: #000000; BACKGROUND-COLOR: #eeeedd; BORDER-RIGHT-WIDTH: 1px
+}
+.podlinkspacer {
+	MARGIN-BOTTOM: 10px
+}
+A.inlineText:link {
+	FONT-SIZE: 13px
+}
+A.inlineText:active {
+	FONT-SIZE: 13px
+}
+A.inlineText:visited {
+	FONT-SIZE: 13px
+}
+A.inlineText:hover {
+	FONT-SIZE: 13px
+}
+.tssplash {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 36px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+A.tshsplash:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 24px; COLOR: #000099; LINE-HEIGHT: 26px
+}
+A.tshsplash:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 24px; COLOR: #6666cc; LINE-HEIGHT: 26px
+}
+A.tshsplash:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 24px; COLOR: #000099; LINE-HEIGHT: 26px
+}
+A.tshsplash:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 24px; COLOR: #000099; LINE-HEIGHT: 26px
+}
+UL#othersites {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: #eee; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 5px; LIST-STYLE-TYPE: none
+}
+UL#othersites LI {
+	TEXT-INDENT: -5000px
+}
+LI#newswatchLoz A {
+	DISPLAY: block; HEIGHT: 18px
+}
+LI#sportLoz A {
+	DISPLAY: block; HEIGHT: 18px
+}
+LI#weatherLoz A {
+	DISPLAY: block; HEIGHT: 18px
+}
+LI#cbbcLoz A {
+	DISPLAY: block; HEIGHT: 18px
+}
+LI#otdLoz A {
+	DISPLAY: block; HEIGHT: 18px
+}
+LI#newswatchLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_newswatch_loz.gif) no-repeat 5px 0px
+}
+LI#sportLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_sport_loz.gif) no-repeat 5px 0px
+}
+LI#weatherLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_weather_loz.gif) no-repeat 5px 0px
+}
+LI#cbbcLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_cbbc_loz.gif) no-repeat 5px 0px
+}
+LI#otdLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_otd_loz.gif) no-repeat 5px 0px
+}
+DIV.lang {
+	BORDER-TOP-WIDTH: 1px; PADDING-RIGHT: 6px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 10px; BORDER-BOTTOM-WIDTH: 1px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #444; PADDING-TOP: 6px; BACKGROUND-COLOR: #eee; TEXT-ALIGN: right; BORDER-RIGHT-WIDTH: 1px
+}
+UL#languages {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: #eee; PADDING-BOTTOM: 10px; MARGIN: 0px; PADDING-TOP: 2px; LIST-STYLE-TYPE: none
+}
+UL#languages LI {
+	TEXT-INDENT: -5000px
+}
+LI#newyddionLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#arabicLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#spanishLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#russianLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#chineseLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#somaliLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#frenchLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#swahiliLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#greatlakesLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#hausaLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#portugueseafricaLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#brazilLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#caribbeanLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#vietnameseLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#indonesianLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#burmeseLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#thaiLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#polishLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#albanianLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#greekLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#ukrainianLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#serbianLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#turkishLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#persianLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#pashtoLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#urduLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#hindiLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#bengaliLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#nepaliLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#tamilLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#sinhalaLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#czechLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#moreLoz A {
+	DISPLAY: block; HEIGHT: 17px
+}
+LI#newyddionLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/nw.gif) no-repeat 15px 0px
+}
+LI#arabicLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/ar.gif) no-repeat 15px 0px
+}
+LI#spanishLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/mun.gif) no-repeat 15px 0px
+}
+LI#russianLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/ru.gif) no-repeat 15px 0px
+}
+LI#chineseLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/ch.gif) no-repeat 15px 0px
+}
+LI#somaliLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/so.gif) no-repeat 15px 0px
+}
+LI#frenchLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/fr.gif) no-repeat 15px 0px
+}
+LI#swahiliLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/sw.gif) no-repeat 15px 0px
+}
+LI#greatlakesLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/gl.gif) no-repeat 15px 0px
+}
+LI#hausaLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/ha.gif) no-repeat 15px 0px
+}
+LI#portugueseafricaLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/por.gif) no-repeat 15px 0px
+}
+LI#brazilLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/br.gif) no-repeat 15px 0px
+}
+LI#caribbeanLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/car.gif) no-repeat 15px 0px
+}
+LI#vietnameseLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/vi.gif) no-repeat 15px 0px
+}
+LI#indonesianLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/in.gif) no-repeat 15px 0px
+}
+LI#burmeseLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/bu.gif) no-repeat 15px 0px
+}
+LI#thaiLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/tha.gif) no-repeat 15px 0px
+}
+LI#polishLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/pol.gif) no-repeat 15px 0px
+}
+LI#albanianLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/al.gif) no-repeat 15px 0px
+}
+LI#greekLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/gr.gif) no-repeat 15px 0px
+}
+LI#ukrainianLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/uk.gif) no-repeat 15px 0px
+}
+LI#serbianLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/ser.gif) no-repeat 15px 0px
+}
+LI#turkishLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/tur.gif) no-repeat 15px 0px
+}
+LI#persianLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/per.gif) no-repeat 15px 0px
+}
+LI#pashtoLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/pas.gif) no-repeat 15px 0px
+}
+LI#urduLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/urd.gif) no-repeat 15px 0px
+}
+LI#hindiLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/hin.gif) no-repeat 15px 0px
+}
+LI#bengaliLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/ben.gif) no-repeat 15px 0px
+}
+LI#nepaliLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/nep.gif) no-repeat 15px 0px
+}
+LI#tamilLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/tam.gif) no-repeat 15px 0px
+}
+LI#sinhalaLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/sin.gif) no-repeat 15px 0px
+}
+LI#czechLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/cz.gif) no-repeat 15px 0px
+}
+LI#moreLoz {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_lang/more.gif) no-repeat 15px 0px
+}
+#footer {
+	MARGIN: 5px 0px 0px; WIDTH: 760px; TEXT-ALIGN: center
+}
+UL#services {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+UL#footnav {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+UL#footnav {
+	MARGIN: 5px 0px 10px
+}
+UL#services LI {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; LIST-STYLE-TYPE: none
+}
+UL#footnav LI {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; LIST-STYLE-TYPE: none
+}
+UL#services LI A {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 4px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+UL#footnav LI A {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 4px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+UL#services LI A {
+	BORDER-RIGHT: #ccc 1px solid
+}
+UL#footnav LI A {
+	BORDER-RIGHT: #000 1px solid
+}
+UL#services LI A.none {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+UL#footnav LI A.none {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#footer A {
+	FONT-SIZE: 85%
+}
+#footernav LI A.none {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#footer LI A {
+	COLOR: #000099
+}
+UL#copyrighttop {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 2px; MARGIN: 0px; WIDTH: 760px; PADDING-TOP: 2px; LIST-STYLE-TYPE: none; HEIGHT: 10px
+}
+UL#copyrighttop LI {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+UL#copyrighttop .copyright A {
+	BACKGROUND: url(http://newsimg.bbc.co.uk/nol/shared/img/nav/v3_bbc_copyright_footer_2005.gif) no-repeat 3px 3px; FLOAT: left; WIDTH: 100px; BORDER-TOP-STYLE: none; TEXT-INDENT: -1000px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+UL#copyrighttop .backtotop A {
+	PADDING-RIGHT: 20px; BACKGROUND: url(http://newsimg.bbc.co.uk/shared/img/backtotop.gif) no-repeat right 50%; FLOAT: right; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+ HTML #copyrighttop {
+	HEIGHT: 1%
+}
+ HTML #copyrighttop LI {
+	DISPLAY: block; FLOAT: left
+}
+UL#services {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 13px; BACKGROUND: #900; PADDING-BOTTOM: 1px; COLOR: #cccc99; PADDING-TOP: 0px
+}
+#services A:link {
+	COLOR: #dddddd
+}
+#services A:active {
+	COLOR: #dddddd
+}
+#services A:visited {
+	COLOR: #cccccc
+}
+#services A:hover {
+	COLOR: #aaaaaa
+}

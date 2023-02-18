@@ -1,5 +1,0 @@
-# Introduction Questions
-
-<!-- {"type":"quiz", "content":{"title":"Introduction Questions","questions":[ { "question":"Who is the strongest?", "options":{ "a":"Superman", "b":"The Terminator", "c":"Waluigi, obviously" }, "answer":"c" }, { "question":"What is the best site ever created?", "options":{ "a":"SitePoint", "b":"Simple Steps Code", "c":"Trick question; they're both the best" }, "answer":"c" }, { "question":"Where is Waldo really?", "options":{ "a":"Antarctica", "b":"Exploring the Pacific Ocean", "c":"Sitting in a tree", "d":"Minding his own business, so stop asking" }, "answer":"d" } ]}} -->
-
-> Yes it is Jesus

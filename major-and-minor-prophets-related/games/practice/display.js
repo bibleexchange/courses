@@ -10,9 +10,10 @@ const Display = function(canvas) {
 
   };
 
-  this.drawBackground = function(level) {
-    this.buffer.fillStyle = blue;
-    this.buffer.fillCircle(50, 50, 50, 50);
+  this.drawBackground = function(level, engine) {
+    console.log(engine.animation_frame_request % 2 == 0, engine.updated)
+    this.buffer.fillStyle = engine.animation_frame_request % 2 == 0?'blue':'yellow';
+    this.buffer.fillRect(50, 50, 50, 50);
 
   };
 

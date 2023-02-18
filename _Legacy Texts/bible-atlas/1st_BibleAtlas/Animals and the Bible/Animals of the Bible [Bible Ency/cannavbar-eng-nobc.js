@@ -1,2 +1,0 @@
-﻿// English CAN navbar without breadcrumbs. keep full urls. used on guide2games.org, etc.
-document.write( '<div class="cantopbar" style="width:100%"><a href="http://ChristianAnswers.Net/home.html"><img src="http://ChristianAnswers.Net/bar-can.gif" align="left" width="278" height="12" border="0" alt="To ChristianAnswers.Net HOME" /></a><a href="http://ChristianAnswers.Net/directry.html"><img src="http://ChristianAnswers.Net//bar-can2.gif" align="right" width="298" height="12" border="0" alt="To ChristianAnswers.Net DIRECTORY" /></a></div>\n' );

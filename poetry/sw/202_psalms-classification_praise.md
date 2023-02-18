@@ -18,7 +18,7 @@ Kitabu cha zaburi kimepangiliwa katika vitabu vitano. Kila kitabu kinahitimisha 
 
 Sifa ni kitu muhimu sana kwa mwanadamu, kwasababu kama hatumuabudu Mungu, basi ni rahisi kwetu sisi kuabudu kitu kingine. C. Hassell Bullock anaeleza kwamba:
 
-> Kuinua ni mojawapo ya uwepo. Ni sehemu yake kubwa kabisa, kwamba mtu akiacha kumuinua Mungu, kitu kingine lazima kiinuliwe. Na Mungu anaweza kuachwa na mwanadamu, taasisi wazo. Kuinua kunabakimkuwa kazi ya uwepo. Historia ya dunia inaonyesha hili. Mwanadamu lazima ainue kitu, na bila kuinua huko basi kutakuwa hakuna uwepo.... Kama sifa za Mungu, zinavyoonyeshwa na zaburi, zinamilikiwa na uwepo, basi kuelekezwa kwa sifa hizi kwa mwanadamu, taasisi au wazo lazima itasumbua na mwisho itaharibu maisha yenyewe. Zaburi inasema kwamba pale anapoabudiwa Mungu ndiyo kuna maisha.[1]
+> Kuinua ni mojawapo ya uwepo. Ni sehemu yake kubwa kabisa, kwamba mtu akiacha kumuinua Mungu, kitu kingine lazima kiinuliwe. Na Mungu anaweza kuachwa na mwanadamu, taasisi wazo. Kuinua kunabakimkuwa kazi ya uwepo. Historia ya dunia inaonyesha hili. Mwanadamu lazima ainue kitu, na bila kuinua huko basi kutakuwa hakuna uwepo.... Kama sifa za Mungu, zinavyoonyeshwa na zaburi, zinamilikiwa na uwepo, basi kuelekezwa kwa sifa hizi kwa mwanadamu, taasisi au wazo lazima itasumbua na mwisho itaharibu maisha yenyewe. Zaburi inasema kwamba pale anapoabudiwa Mungu ndiyo kuna maisha.<sup>[1]</sup>
 
 ### Shirika
 
@@ -33,13 +33,13 @@ Sifa ni kitu muhimu sana kwa mwanadamu, kwasababu kama hatumuabudu Mungu, basi n
     2. Zaburi za yawe kama mfalme: Zaburi 47, 93, 96, 97, 98, na 99.
     3. Zaburi za mavuno: Zaburi 65 na 145.
     4. Zaburi za kihistoria: Zaburi 105; 106; 114; 135; 136.
-    5. Zaburi za kuingia: Zaburi 24, 95, na 100.[2]
+    5. Zaburi za kuingia: Zaburi 24, 95, na 100.<sup>[2]</sup>
 
 ### Mandhari
 
 #### Uuumbaji
 
-Mungu anaabudiwa kwasababu ameumba dunia nzima na kila kitu kilicho ndani yake, ikijumuisha mwanadamu. "Ni wazi kabisa kwanini mada ya uumbaji au muumbaji inatakiwa kuwa lengo kuu la umakini katika zaburi za sifa—uumbaji unaweka alama ya mwanzo wa historia ya dunia, na matendo yote mazuri ya kutisha ya Mungu katika historia lazima zionekane katika mwanga wa kazi zake kuu za uumbaji."[3] Zaburi hizi zinaonyesha kwamba Mungu ameumba kwa neno lake (33:6; 148:5–6), matendo yake (147:4), uelewa wake (104:24–26; 136:5–9), na nguvu zake (65:5–8). Zaburi ya 8 inaufunua uzuri wa uumbaji wake na Zaburi 134 na 149:1–2 inatutia moyo tumwabudu muumbaji wetu. Zaburi ya 19:1–4 inatuambia kwamba mbingu zahubiri utukufu wa Mungu, kama jua na nyota zinamsifu Mungu, je sisi tunatakiwa tumsifu vipi zaidi.
+Mungu anaabudiwa kwasababu ameumba dunia nzima na kila kitu kilicho ndani yake, ikijumuisha mwanadamu. "Ni wazi kabisa kwanini mada ya uumbaji au muumbaji inatakiwa kuwa lengo kuu la umakini katika zaburi za sifa—uumbaji unaweka alama ya mwanzo wa historia ya dunia, na matendo yote mazuri ya kutisha ya Mungu katika historia lazima zionekane katika mwanga wa kazi zake kuu za uumbaji."<sup>[3]</sup> Zaburi hizi zinaonyesha kwamba Mungu ameumba kwa neno lake (33:6; 148:5–6), matendo yake (147:4), uelewa wake (104:24–26; 136:5–9), na nguvu zake (65:5–8). Zaburi ya 8 inaufunua uzuri wa uumbaji wake na Zaburi 134 na 149:1–2 inatutia moyo tumwabudu muumbaji wetu. Zaburi ya 19:1–4 inatuambia kwamba mbingu zahubiri utukufu wa Mungu, kama jua na nyota zinamsifu Mungu, je sisi tunatakiwa tumsifu vipi zaidi.
 
 #### Historia ya Waisrael
 
@@ -58,4 +58,10 @@ Wakati mwingine zaburi haizungumzii tukio mahususi katika historia ambako Mungu 
 * "Matendo ya ajabu" (105:2, 5; 136:4)
 * "Matendo makuu" (106:2; 145:4, 12)
 * "Matendo makuu" (111:2; 136:4)
+
+<hr />
+
+[1] Psalms (Encountering Biblical Studies): A Literary and Theological Introduction By C. Hassell Bullock, p. 306
+[2] ibid, p. 309
+[3] ibid, p. 312
 
