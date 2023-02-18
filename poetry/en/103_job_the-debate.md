@@ -1,6 +1,8 @@
 ## The debate (chapters 3–37)
 
-There is no way to cover the conversations chapter by chapter without losing interest due to repetition. At the same time there is no way to cover them in one section of notes. So this next section is an attempt to bring out the main themes of the conversation between Job and his friends. The dialogue is lengthy and wordy at times. This may be due to their place in history, but may also shed some light on the disposition of the speakers. Let’s try to point out some common threads that are woven throughout this section. 
+There is no way to cover the conversations chapter by chapter without losing interest due to repetition. At the same time there is no way to cover them in one section of notes. So this next section is an attempt to bring out the main themes of the conversation between Job and his friends. The dialogue is lengthy and wordy at times. This may be due to their place in history, but may also shed some light on the disposition of the speakers. Let’s try to point out some common threads that are woven throughout this section.
+
+### Job's Friends
 
 ### The big question: "Why?"
 

@@ -2,6 +2,8 @@
 
 Hakuna njia ya kufunika maongezi ya sura kwa mlango bila kupoteza mvuto kwaajili ya marudio. Wakati huo huo hakuna njia ya kuzifunika katika sehemu ya nukuhu. Kwa hiyo sehemu hii inayofuata ni majaribio yangu ya kuleta wazo kuu la mazungumzo kati ya Ayubu na rafiki zake. Mazungumzo ni marefu na maneno mengi kwa nyakati. Hii inaweza kuwa kwasababu ya maeneo yao katika historia, lakini inaweza pia kutia mwanga katika mkoa wa mzungumzaji. Acha tujaribu kuonyesha baadhi ya nyuzi ambazo zinasukwa katika sehemu hii yote.
 
+### Marafiki wa Ayubu
+
 ### Swali kubwa: "Kwanini?"
 
 Swali, "Kwanini?" haisemwi waziwazi katika majadiliano yeyote. Ayubu hana anasa ya kujua kuwa haya ni marudio ya aina kati ya nguvu kubwa. Yeye na rafiki zake hawakuwahi kuuliza swali moja kwa moja, lakini kila moja ya hotuba ina jitihada za kujibu swali, "kwanini haya yalitokea kwa Ayubu?"
