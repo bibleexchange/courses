@@ -2,7 +2,7 @@
 
 ### Introduction
 
-What are the psalms of thanksgiving? They express thanksgiving for what God has done or in anticipation of what He will do. They are very much like the psalms of praise, but what makes them different is that include a report of deliverance from a specific crisis. They may be individual (9, 10, 30, 32, 34, 40, 41, 92, 107, 116, 138), or national (65–68, 118, 124).
+What are the psalms of thanksgiving? They express thanksgiving for what God has done or in anticipation of what He will do. They are very much like the psalms of praise, but what makes them different is that include a report of deliverance from a specific crisis. They may be individual (9, 10, 30, 32, 34, 40, 41, 92, 107, 116, 138), or national (66–68, 118, 124).
 
 ### Structure of the psalm of thanksgiving
 

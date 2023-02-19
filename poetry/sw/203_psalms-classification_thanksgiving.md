@@ -2,7 +2,7 @@
 
 ### Utangulizi
 
-Zaburi za shukrani ni nini? Zinaeleza shukrani kwa kile Mungu alichokifanya au matazamio ya yale atakayofanya. Zinafanana sana na zaburi za sifa, lakini kinachozitofautisha ni kwamba zinzhusisha taarifa za ukombozi kutoka katika mgogoro mahususi. Zinaweza kuwa za kibinafsi (9, 10, 30, 32, 34, 40, 41, 92, 107, 116, 138), au za kitaifa (65–68, 118, 124).
+Zaburi za shukrani ni nini? Zinaeleza shukrani kwa kile Mungu alichokifanya au matazamio ya yale atakayofanya. Zinafanana sana na zaburi za sifa, lakini kinachozitofautisha ni kwamba zinzhusisha taarifa za ukombozi kutoka katika mgogoro mahususi. Zinaweza kuwa za kibinafsi (9, 10, 30, 32, 34, 40, 41, 92, 107, 116, 138), au za kitaifa (66–68, 118, 124).
 
 ### Muundo wa zaburi za shukrani
 
