@@ -38,28 +38,26 @@ Kama Mithali siyo sheria wala ahadi basi ni nini?
 
 #### Mithali ni kanuni
 
-> Ahadi siku zote hutimizwa asilimia mia moja ya wakati. Kanuni zinasimamia ukweli wa kawaida. [1]
+> Ahadi siku zote hutimizwa asilimia mia moja ya wakati. Kanuni zinasimamia ukweli wa kawaida.<sup>[1]</sup>
 
 Bado tunaziheshimu kanuni hata kama hatuoni matokeo halisi tunayoyatarajia.
 
 > Katika mazingira gani basi mtu mwenye hekima nyingi kwa ujasiri kabisa anaonyesha umaarufu wa kuwa mwenye haki japokuwa walimfahamu jamaa mwenye haki aliyeteseka na jamaa dhaifu aliyefanikiwa? _Kwa mazingira ya kawaida_, Yule mwenye hekima nyingi kiusahihi kabisa aliamini kuwa tabia ya hekima na haki hufanya maisha kuwa bora na ya utajiri, japokuwa saburi _haijadhaminisha_ hilo.  
-> —Raymond C. Van Leeuwan [2]
+>—Raymond C. Van Leeuwan<sup>[2]</sup>
 
 > Ni kosa ingawa, kuchukulia mithali kama dhamana. Hicho sicho kinachofanywa na mithali. Tena, ni suala la limfumo. Mithali haiku katika biashara ya kutoa ahadi. Bali inawatia watu moyo juu ya mitazamo na matendo ambayo yatawapelekea kufikia lengo lililodhamiriwa, vitu vingine vyote kuwa sawa. Inaaminiwa kwamba mtoto atakapokuwa atakuwa mwenye hekima kama wazazi watamfunza katika njia ya Mungu. Lakini mtoto huyo anaweza kukutana na mitazamo hasi kwa marafiki zake (kwa mfano ushauri uliotolewa katika mlango wa 1:8–19).  
-> —Tremper Longman, III
+>—Tremper Longman, III
 
 Rafiki zake Ayubu na mwandishi wa kitabu cha Mhubiri wanaweza wakawa walikuwa na uelewa mbaya wa kuingiza kanuni katika utendaji lakini hiyo haitafanya kanuni kuwa mbaya.
 
 > Matumizi mabaya ya misemo au wazo (Ayubu 42:7; Luka 13:1–5; Yoh. 9:1–2; kulinganisha na Mith 26:7, 9) haitafanya wazo kuwa baya.  
-> —Raymond C. Van Leeuwan [3]
+> —Raymond C. Van Leeuwan<sup>[3]</sup>
 
 ##### Mithali inahitaji hekima katika matumizi bora
 
 ###### Hekima kwa wakati sahihi
 
-Mhubiri anafundisha kwamba kila jambo na majira yake (mlango wa 3:1–8).
-
-Soma Mithai 15:23, 25:11, na 25:20.
+Mhubiri anafundisha kwamba kila jambo na majira yake (Muh. 3:1–8). Soma Mithai 15:23, 25:11, na 25:20.
 
 ###### Hekima kwa tukio sahihi
 
@@ -78,10 +76,10 @@ Tunatakiwa tusome mithali na tuelewa kwamba kuna vitu katika maisha ambayo ni vi
 Mungu atawabariki watu kwa wakati, lakini kuna Baraka zingine ambazo Mungu anazitoa zilizo bora zaidi ya utajiri. Soma Mithali 16:8 na 16:16.
 
 > Misemo hii "Afadhali-Kuliko" inaonyesha utajiri wa vitu na umasikini katika kuonyesha mkutadha bora zisizonyesha gharama halisi. Kuliweka hili sawa tunasema umasikini pamoja na haki ni bora kuliko utajiri pamoja na uovu. Mithali kwa nguvu kabisa inasisitiza kwamba haki ni muhimu kuliko utajiri na uovu husababisha utajiri usiwe na maana. Mali ambayo inaweza _kuonekana_ kama baraka ya Muumba daima sio nzuri kwa asili na kwa kawada. Hiyo itategemea kama utajiri huo umeambatana pamoja na haki, wema na hekima. Vitu vizuri lazima vitumike katika mazingira ambayo yatahusisha kimoja na kingine na kuepukana na vitu ambavyo vinakutawala na kuviharibu vile vingine vyote.  
-> —Van Leeuwan [4]
+>—Raymond C. Van Leeuwan<sup>[4]</sup>
 
-> Jamaa mhariri/mwenye hekima aliyetunga mithali alidhamiria kwanza kufundisha hizi muhimu "sheria za maisha," kwamba msisitizo wa nguvu kuhusu madhara ya kitabia katika Mithali 1–9 na 10–15. Lazima kwanza kujifunza sheria muhimu, za ziada zinakuja baadaye.
-> —Van Leeuwan [5]
+> Jamaa mhariri/mwenye hekima aliyetunga mithali alidhamiria kwanza kufundisha hizi muhimu "sheria za maisha," kwamba msisitizo wa nguvu kuhusu madhara ya kitabia katika Mithali 1–9 na 10–15. Lazima kwanza kujifunza sheria muhimu, za ziada zinakuja baadaye.  
+>—Raymond C. Van Leeuwan<sup>[5]</sup>
 
 ##### Udhalimu/kutokutenda haki kupo katika dunia
 
@@ -90,11 +88,9 @@ Mungu atawabariki watu kwa wakati, lakini kuna Baraka zingine ambazo Mungu anazi
 * Waovu wanatawala (29:2)
 * Wapumbavu wanaishi kwenye starehe (19:10)
 * Kupata akiba ya mali kwa ulimi wa uovu (21:6)
-* Watu kuwapuuza wale wenye uhitaji (28:7; 21:13)
+* Watu kuwapuuza wale wenye uhitaji (28:8; 21:13)
 
-Chanzo cha udhalimu huu ni kwasababu tunaishi katika ulimwengu ulioangamia (tofauti na mpango wa Mungu aliokuwa nao pale Eden).
-
-Kunaweza kuwa na udhalimu sasa lakini Mungu atahukumu mwisho:
+Chanzo cha udhalimu huu ni kwasababu tunaishi katika ulimwengu ulioangamia (tofauti na mpango wa Mungu aliokuwa nao pale Eden). Kunaweza kuwa na udhalimu sasa lakini Mungu atahukumu mwisho:
 
 > Mithali 10:30—Mwenye haki hataondolewa milele;  
 >Bali wasio haki hawatakaa katika nchi.

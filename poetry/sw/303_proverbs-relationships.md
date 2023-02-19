@@ -5,7 +5,7 @@
 > Mithali 18:1—Ajitengaye na wenzake hutafuta matakwa yake mwenyewe;  
 > Hushindana na kila shauri jema.
 
-Neno la kiebrania la _hushindana_ kwa kiebrania ni _gala_ (גָּלַע ), inayomaanisha “kuwa na uadui au mpinzani."[1] Hii inamaanisha kwamba mtu mbinafsi, ambaye hutafuta to matamanio yake, huipinga hekima. Hekima inasema kwamba ni kitu kizuri kuwa na marafiki, lakini ni mbinafsi sana kutoa muda wake na rasilimali zake kwa watu wengine.
+Neno la kiebrania la _hushindana_ kwa kiebrania ni _gala_ (גָּלַע ), inayomaanisha "kuwa na uadui au mpinzani."<sup>[1]</sup> Hii inamaanisha kwamba mtu mbinafsi, ambaye hutafuta to matamanio yake, huipinga hekima. Hekima inasema kwamba ni kitu kizuri kuwa na marafiki, lakini ni mbinafsi sana kutoa muda wake na rasilimali zake kwa watu wengine.
 
 > Hakuna mtu ambaye ni kisiwa kwa upande wake, kila mtu  
 > Ni kipande cha bara, ni sehemu ya mtu  
@@ -16,18 +16,18 @@ Neno la kiebrania la _hushindana_ kwa kiebrania ni _gala_ (גָּלַע ), inayo
 > Kwasababu ninahusika na watu.  
 > Na kwa hiyo kamwe usitume kujua ambaye  
 > Mlio wa kengele; inakupigia mlio wewe  
-> —_John Donne_[2]
+> —_John Donne_<sup>[2]</sup>
 
 ### Ni bora kuwa na marafiki wachache wa uhakika kuliko kuwa na marafiki wengi wasio wa uhakika
 
-Siyo kila mtu anayesema ni rafiki yako ni rafiki wa kweli. Katika Mithali neno la Kiebrania _rea_ (רֵעַ ) inaweza kumaanisha ama "jirani" au "rafiki"[3] Tunatakiwa kuangalia katika mazingira kuona kama neno linamaanisha mtu ambaye ni karibu kimwili (jirani) au mtu ambaye kimwili yuko karibu (rafiki). Katika maisha tunatakiwa kutambuanani ni marafiki halisi. Unaweza kuishi karibu na mtu na kuwaona kila siku, lakini hiyo haiwezi kumaanisha kuwa wao ni marafiki halisi. Watu wengi wanazungumza mazuri kwetu. Wanasema, "Mimi ni rafiki yako," lakini je ni kweli watakuwa na wewe utakapowahitaji? Rafiki wa kweli ni Yule ambaye atakuwa nawewe katika nyakati mbaya na nyakati nzuri.
+Siyo kila mtu anayesema ni rafiki yako ni rafiki wa kweli. Katika Mithali neno la Kiebrania _rea_ (רֵעַ ) inaweza kumaanisha ama "jirani" au "rafiki"<sup>[3]</sup> Tunatakiwa kuangalia katika mazingira kuona kama neno linamaanisha mtu ambaye ni karibu kimwili (jirani) au mtu ambaye kimwili yuko karibu (rafiki). Katika maisha tunatakiwa kutambuanani ni marafiki halisi. Unaweza kuishi karibu na mtu na kuwaona kila siku, lakini hiyo haiwezi kumaanisha kuwa wao ni marafiki halisi. Watu wengi wanazungumza mazuri kwetu. Wanasema, "Mimi ni rafiki yako," lakini je ni kweli watakuwa na wewe utakapowahitaji? Rafiki wa kweli ni Yule ambaye atakuwa nawewe katika nyakati mbaya na nyakati nzuri.
 
 #### Rafiki wa kweli hatakuacha
 
 Mithali 17:17 inasema kwamba "Rafiki hupenda sikuzote; Na ndugu amezaliwa kwa siku ya taabu." Kuna njia mbili za kutafsiri mstari huu:
 
-1. Njia ya kwanza inasema rafiki ni bora kuliko ndugu. Bruce Waltke anasema kwamba katika mstari huu "Rafiki anaweza kuoneshwa kama mara zote yupo, katika nyakati nzuri na mbaya; Ndugu ni katika taabu tu."[4]
-2. Njia nyingine mistari miwili inaonyesha umuhimu wa wote rafiki na ndugu kuonyesha upendo wao. Tremper Longman III anesema, "uhusiano kati ya misemo zote mbili inaonyesha ni moja ya kuimarisha na kwenda pamoja, lakini siyo kutofautiana. Kwamba rafiki anapenda muda wote hata nyakati za tabu."[5]
+1. Njia ya kwanza inasema rafiki ni bora kuliko ndugu. Bruce Waltke anasema kwamba katika mstari huu "Rafiki anaweza kuoneshwa kama mara zote yupo, katika nyakati nzuri na mbaya; Ndugu ni katika taabu tu."<sup>[4]</sup>
+2. Njia nyingine mistari miwili inaonyesha umuhimu wa wote rafiki na ndugu kuonyesha upendo wao. Tremper Longman III anesema, "uhusiano kati ya misemo zote mbili inaonyesha ni moja ya kuimarisha na kwenda pamoja, lakini siyo kutofautiana. Kwamba rafiki anapenda muda wote hata nyakati za tabu."<sup>[5]</sup>
 
 Ama njia nyingine ya kuitafsiri, mstari unazungumzia kuhusu namna rafiki anapokuwa nawe—bila kujali chochote.
 
@@ -41,7 +41,7 @@ Baadhi ya watu huita kila mtu "rafiki" zao, lakini je ni kweli wanakujali? (Au j
 
 #### Marafiki wanaweza kuwa karibu na wewe zaidi ya ndugu 
 
-Mithali 18:24 inasema kwamba “Yuko rafiki aambatanaye na mtu kuliko ndugu” na 27:10 inatuonya tusiwasahau au kuwaacha marafiki wa zamani wa familia kwasababu jirani aliye karibu ni bora kuliko ndugu aliye mbali. Je hii inamaanisha kuwa ndugu si wa muhimu? Hapana. Lindsay Wilson anasema kuhusu mstari huu kwamba "Hii siyo kupunguza majukumu ya kindugu, bali ni kuinua thamani ya rafiki au jirani."[6] 
+Mithali 18:24 inasema kwamba “Yuko rafiki aambatanaye na mtu kuliko ndugu” na 27:10 inatuonya tusiwasahau au kuwaacha marafiki wa zamani wa familia kwasababu jirani aliye karibu ni bora kuliko ndugu aliye mbali. Je hii inamaanisha kuwa ndugu si wa muhimu? Hapana. Lindsay Wilson anasema kuhusu mstari huu kwamba "Hii siyo kupunguza majukumu ya kindugu, bali ni kuinua thamani ya rafiki au jirani."<sup>[6]</sup> 
 
 #### Chagua rafiki zako kwa hekima kwani wanaweza kukushawishi
 
@@ -68,7 +68,7 @@ Sasa tunaelewa kwamba urafiki ni jambo zuri, lakini nini maana ya kuwa rafiki mz
 Mithali 27:9 inatufundisha kwamba ushauri wa rafiki una faida kwetu. Wakati mwingine ushauri wa rafiki unaweza kuja katika mfumo wa masahihisho. Mtu mwenye busara huhitaji rafiki atakayekuwa muwazi kwake. Marafiki wa kweli watatueleza ukweli, hata kama unauma (27:5–6; 29:5). Tunaweza tusipende kurekebishwa mwanzo, lakini baadae tutaona uthamani wake (28:23). Makabiliano haya yanaweza kutufanya tukue (27:17).
 
 > Hii hekima ya kuunda tabia, iliyopandwa katika Mungu, huonekana katika jamii. Kwa kusoma maagizo ya hekima, nimegundua uwepo wa maongezi  na migogoro iko kila mahali. Maendeleo ya tabia hustawi tu katika jamii ambapo ukabili wa ugomvi kiafya upo. Bila kuweka umakini  katika mazingira hayo, tabia ya mtu mmoja unakuwa hauna nidhamu. Wahenga wanaamini kwa nguvu kabisa katika kanuni kwamba ”chuma hunoa chuma” ilipofikia maingiliano ya wanadamu. Ukuaji huja kupitia kupambana, na kupambana hudhihirishwa kama kujenga migogoro ya mahusiano ya kiafya.  
-> —_Dave Bland_[7]
+> —_Dave Bland_<sup>[7]</sup>
 
 ### Hitimisho
 

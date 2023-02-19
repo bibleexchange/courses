@@ -22,7 +22,7 @@ Mithali 18:20, ambayo yanatangulia mistari kuhusu uzima na mauti kuwa katika ngu
 > Mithali 18:20—Tumbo la mtu litajazwa matunda ya kinywa chake;  
 > Atashiba mazao ya midomo yake.
 
-Maneno yetu ni kama mbegu, na ikiwa wana afya, yatazaa matunda. Katika ufafanuzi wake kuhusu mithali Lindsay Wilson alisema kwamba "wazo la mstari wa kwanza ni kwamba wale wanaozungumza kwa usahihi (mfano kwa uangalifu, katika kweli, pasipo kulazimisha) anaweza kufanikiwa na kupata maisha (mfano kwa kufanya mpango, kushawishi wengine, kutatua matatizo). Midomo yao au maneno huzaa matokeomuhimu yatakayowawezesha kukidhi mahitaji yao."[1] Tremper Longman III anachukua tofauti ndogo na kusema kwamba "kama chakula kinavoweza kukidhi njaa ya kimwili, vivyo hivyo maneno hushibisha akili na njaa ya kiroho."[2] Tafsiri zote zinakaa kwasababu zinaonyesha matokeo chanya ya maneno yetu. Angalia pia 12:14 na 13:2
+Maneno yetu ni kama mbegu, na ikiwa wana afya, yatazaa matunda. Katika ufafanuzi wake kuhusu mithali Lindsay Wilson alisema kwamba "wazo la mstari wa kwanza ni kwamba wale wanaozungumza kwa usahihi (mfano kwa uangalifu, katika kweli, pasipo kulazimisha) anaweza kufanikiwa na kupata maisha (mfano kwa kufanya mpango, kushawishi wengine, kutatua matatizo). Midomo yao au maneno huzaa matokeomuhimu yatakayowawezesha kukidhi mahitaji yao."<sup>[1]</sup> Tremper Longman III anachukua tofauti ndogo na kusema kwamba "kama chakula kinavoweza kukidhi njaa ya kimwili, vivyo hivyo maneno hushibisha akili na njaa ya kiroho."<sup>[2]</sup> Tafsiri zote zinakaa kwasababu zinaonyesha matokeo chanya ya maneno yetu. Angalia pia 12:14 na 13:2
 
 Kuna nyakati tunajikuta katika hali ngumu, lakini kama tukitumia maneno ya hekima, yatatutoa katika shida (12:6).
 

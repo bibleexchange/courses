@@ -1,10 +1,10 @@
-## What the book of Proverbs says about money
+## What the book of Proverbs says about wealth
 
-Money is a very important subject. It may not seem like a spiritual subject, but it can affect our lives in spiritually negative ways if we do not manage it correctly. Paul told Timothy that an unhealthy love for money is a source of evil (1 Tim. 6:10). Many marriage problems are because of money. Modern advice says not to do business with friends or family because it can cause fighting. These problems are not new, and there is some great advice in the book of Proverbs that can help shape our attitudes about wealth and how we spend it.
+Wealth is a very important subject. It may not seem like a spiritual subject, but it can affect our lives in spiritually negative ways if we do not manage it correctly. Paul told Timothy that an unhealthy love for wealth is a source of evil (1 Tim. 6:10). Many marriage problems are because of wealth. Modern advice says not to do business with friends or family because it can cause fighting. These problems are not new, and there is some great advice in the book of Proverbs that can help shape our attitudes about wealth and how we spend it.
 
-The Proverbs talk about money and other kinds of wealth, such as fields, plentiful harvests, and other possessions. This is natural for an agrarian culture where some people traded goods for other goods.
+The Proverbs talk about wealth and other kinds of wealth, such as fields, plentiful harvests, and other possessions. This is natural for an agrarian culture where some people traded goods for other goods.
 
-### Where does money come from?
+### Where does wealth come from?
 
 By reading Proverbs, we can compile a list of what brings prosperity to people:
 
@@ -31,9 +31,9 @@ We have to remember that Proverbs are not absolute promises, but principles. It'
 
 #### Not all blessings are physical
 
-If you are righteous, God will bless you, but it will not always be with money or physical possessions. As humans, we often think that money is the most important thing for life, but God knows that there are other blessings that we need more than money.
+If you are righteous, God will bless you, but it will not always be with wealth or physical possessions. As humans, we often think that wealth is the most important thing for life, but God knows that there are other blessings that we need more than wealth.
 
-In chapter 3, we see a description of Woman Wisdom. Verse 16 says that she holds life in her right hand and riches and honor in her left hand. In ancient Hebrew culture, the right hand was more honored than the left hand was honored (Gen. 48:14; Ecc. 10:12; Matt. 25:33)[1]. This shows us that wisdom may give riches, but riches are not as important as life is. Also, the two verses which immediately precede it (3:14–15) talk about how wisdom is better than gold and silver (see also 8:19 and 16:16). Wealth is not bad, but wisdom is better. God gave Solomon wealth, but only because he first asked for wisdom. Wisdom is not the only thing that is better than wealth. Bruce Waltke says, "Wealth is a desirable state and the reward of wisdom (see 3:9–10), not the aim of one’s life"[2]. Proverbs gives many things that are better than having money:
+In chapter 3, we see a description of Woman Wisdom. Verse 16 says that she holds life in her right hand and riches and honor in her left hand. In ancient Hebrew culture, the right hand was more honored than the left hand was honored (Gen. 48:14; Ecc. 10:12; Matt. 25:33)<sup>[1]</sup>. This shows us that wisdom may give riches, but riches are not as important as life is. Also, the two verses which immediately precede it (3:14–15) talk about how wisdom is better than gold and silver (see also 8:19 and 16:16). Wealth is not bad, but wisdom is better. God gave Solomon wealth, but only because he first asked for wisdom. Wisdom is not the only thing that is better than wealth. Bruce Waltke says, "Wealth is a desirable state and the reward of wisdom (see 3:9–10), not the aim of one’s life."<sup>[2]</sup> Proverbs gives many things that are better than having wealth:
 
 * The lips of knowledge (20:15)
 * A good name (22:1)
@@ -42,19 +42,19 @@ In chapter 3, we see a description of Woman Wisdom. Verse 16 says that she holds
 * Walking in integrity (19:1)
 * Fear of God (15:16–17; 16:8; 16:19)
 
-### Money does not solve all problems
+### Wealth does not solve all problems
 
-Why does God say that so many things are more valuable than money? It is because there are many things that money cannot buy. Money gives you a sense of security (10:15), but money will fail you (11:28). Money cannot save a failing marriage. Money cannot save you from a cure-less disease. And money cannot help you in the afterlife (11:4, 28).
+Why does God say that so many things are more valuable than wealth? It is because there are many things that wealth cannot buy. Wealth gives you a sense of security (10:15), but wealth will fail you (11:28). Wealth cannot save a failing marriage. Wealth cannot save you from a cure-less disease. And wealth cannot help you in the afterlife (11:4, 28).
 
-#### Money cannot buy true friends
+#### Wealth cannot buy true friends
 
-When you have money, many people will want to be your friend (14:20; 19:4; 19:7), but are these people true friends? Will these same people want to be your friend when the money is gone?
+When you have wealth, many people will want to be your friend (14:20; 19:4; 19:7), but are these people true friends? Will these same people want to be your friend when the wealth is gone?
 
-#### Money does not last forever
+#### Wealth does not last forever
 
 Proverbs 23:4–5 says that wealth grows wings and flies away (see also 27:23–24). 
 
-#### Money can bring problems to your life
+#### Wealth can bring problems to your life
 
 Proverbs 17:1 suggests that wealth can be the cause of strife in a home. It can also make you proud (28:11) and demanding (18:23).
 
@@ -66,7 +66,7 @@ We are commanded to give back to God (3:9–10), but we are also commanded to he
 
 All men are created in the image of God, and when we oppress any person, we insult God (14:31; 17:5). In Matthew 25, Jesus tells the story about people who will be punished because they neglected the poor. He said that when people neglect the poor, they are really neglecting Him (Matthew 25:41–46). See also 21:13, 28:27, and 29:14. Those that take advantage of the poor will be punished (22:16; 23:10–11).
 
-### Some advice about using money
+### Some advice about using wealth
 
 #### Save for the difficult times
 
@@ -80,11 +80,11 @@ We need to make plans about how we will spend our finances (21:5). The ant is us
 
 #### Getting rich quickly is usually not good
 
-Working in something consistent that will bring a moderate reward is better than looking for new ways to not have to work hard (12:11). For example, there is a popular business book named _The 4-Hour Work Week_, which tells people that they can do little work and make a lot of money. Many times work is difficult, but trying to find an easier way may not be profitable (14:4). See also 13:11, 20:21, 21:5, and 28:20–22.
+Working in something consistent that will bring a moderate reward is better than looking for new ways to not have to work hard (12:11). For example, there is a popular business book named _The 4-Hour Work Week_, which tells people that they can do little work and make a lot of wealth. Many times work is difficult, but trying to find an easier way may not be profitable (14:4). See also 13:11, 20:21, 21:5, and 28:20–22.
 
 #### Getting rich through dishonest means will fail in the end
 
-Some people make money by dishonest means, but there will be consequences (10:2; 11:18: **13:11**; 15:27; 21:6). Proverbs gives warnings about using false weights when selling merchandise (20:10; 20:23) and stealing ground by moving boundary markers (22:28; 23:10–11).
+Some people make wealth by dishonest means, but there will be consequences (10:2; 11:18: **13:11**; 15:27; 21:6). Proverbs gives warnings about using false weights when selling merchandise (20:10; 20:23) and stealing ground by moving boundary markers (22:28; 23:10–11).
 
 ### Conclusion
 
@@ -126,7 +126,7 @@ Being lazy can ruin your reputation. People will not want to work with you. (10:
 
 ***********************************************
 
-?? 13:8 The rich are in danger of being kidnapped for ransom money. The poor do not face the same threat.
+?? 13:8 The rich are in danger of being kidnapped for ransom wealth. The poor do not face the same threat.
 
 **********************************************
 
