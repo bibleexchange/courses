@@ -1,12 +1,12 @@
 ## Psalms of confidence
 
-Many of the psalms express trust in God, but in a few of them trust is the main theme. These are called the _psalms of confidence_. Our study of the psalms of confidence appropriately follows our study of the psalms of lament which are dominated by disappointment and questions addressed to God. Meanwhile, the psalms of confidence are characterized by their attitude of faith, trust, and sense of security in God. The psalmist expresses his confidence by saying "I know" (4:3) and "I believe" (27:13). The individual psalms of confidence are 3, 4, 11, 16, 23, 27, 62, and 131. The corporate ones are 115, 121, 125, and 129. (Some classify 3 as lament and 129 as thanksgiving[1] instead of confidence. Also, some consider 73, 90, and 126 to be psalms of confidence.[2])
+Many of the psalms express trust in God, but in a few of them trust is the main theme. These are called the _psalms of confidence_. Our study of the psalms of confidence appropriately follows our study of the psalms of lament which are dominated by disappointment and questions addressed to God. Meanwhile, the psalms of confidence are characterized by their attitude of faith, trust, and sense of security in God. The psalmist expresses his confidence by saying "I know" (4:3) and "I believe" (27:13). The individual psalms of confidence are 3, 4, 11, 16, 23, 27, 62, and 131. The corporate ones are 115, 121, 125, and 129. (Some classify 3 as lament and 129 as thanksgiving<sup>[1]</sup> instead of confidence. Also, some consider 73, 90, and 126 to be psalms of confidence.<sup>[2]</sup>)
 
-Confidence psalms have similarities with lament and thanksgiving psalms, but they are distinct from them. "The psalmist neither requests God to deliver him from enemies or other evils, nor thanks him for having done so, but rather expresses confidence that God does so."[3]
+Confidence psalms have similarities with lament and thanksgiving psalms, but they are distinct from them. "The psalmist neither requests God to deliver him from enemies or other evils, nor thanks him for having done so, but rather expresses confidence that God does so."<sup>[3]</sup>
 
-It may contain a request or a lament, but these are overshadowed by a strong proclamation of confidence in God. Psalm 4 is a good example of this. It has a request to God in verse 1 and a lament in verse 2, but then the rest of the psalm speaks about trust in God. The lament "may be only a memory of the trouble that shaped and directed the psalmist’s sense of trust in God."[4] "It is not a lament as such, but the remnant of one. In virtually all of these psalms... the language suggests some crisis that the psalmist has endured that taught him to trust in the Lord. It was an experience that shaped the faith of the psalmist, and out of it grew a faith that could help him stand against the adversities of life."[5]
+It may contain a request or a lament, but these are overshadowed by a strong proclamation of confidence in God. Psalm 4 is a good example of this. It has a request to God in verse 1 and a lament in verse 2, but then the rest of the psalm speaks about trust in God. The lament "may be only a memory of the trouble that shaped and directed the psalmist’s sense of trust in God."<sup>[4]</sup> "It is not a lament as such, but the remnant of one. In virtually all of these psalms... the language suggests some crisis that the psalmist has endured that taught him to trust in the Lord. It was an experience that shaped the faith of the psalmist, and out of it grew a faith that could help him stand against the adversities of life."<sup>[5]</sup>
 
-"[Another] element of this group of psalms is the basis for trust. That is, sometimes the psalmist recounted a point of knowledge, a spiritual principle he had observed, or an experience that had taught him the lesson of faith."[6]
+"[Another] element of this group of psalms is the basis for trust. That is, sometimes the psalmist recounted a point of knowledge, a spiritual principle he had observed, or an experience that had taught him the lesson of faith."<sup>[6]</sup>
 
 ### The use of these psalms in community
 
@@ -20,7 +20,7 @@ Psalms 115, 121, 125, and 129 are corporate psalms, which were said together by 
 ### Themes found in these psalms
 
 * Sleep (3:5; 4:8; 23:2). We can sleep, because we know that God never sleeps (121:3–4).
-* Stability (16:8; 121:3; 125:1–2). This idea is also expressed by comparing God to a mountain (11:1), rock (62:2), and fortress (62:2).
+* Stability (16:8; 121:3; 125:1–2). This idea is also expressed by comparing God to a mountain (11:1), rock (62:2), and fortress (62:2). In ancient Israel, this included the idea that they would not be moved from their country.
 * Protection (16:1, 9b; 23:4; 27:3, 5–6). God has kept us, and He will continue to keep us.
 * Salvation (3:8; 27:1, 9; 62:7). The _salvation_ mentioned in the psalms would not have meant a spiritual salvation, like we think of as New Testament Christians, but it would have meant physical deliverance from an enemy.
 * Trust (4:5; 62:8; 115:9, 11).
@@ -29,7 +29,7 @@ Psalms 115, 121, 125, and 129 are corporate psalms, which were said together by 
 
 ### Depictions of God in these psalms
 
-They primarily do not make requests for God to be something or do something, but they make declarative statements about who God already is and what He already does.[7] In Psalm 23 David does not ask, "Lord, be a shepherd to me!" be he says, "the Lord **is** my shepherd." In many of these psalms, there are statements about God in the third person instead of direct addresses to Him.[8] In these psalms God is depicted as:
+They primarily do not make requests for God to be something or do something, but they make declarative statements about who God already is and what He already does.<sup>[7]</sup> In Psalm 23 David does not ask, "Lord, be a shepherd to me!" be he says, "the Lord **is** my shepherd." In many of these psalms, there are statements about God in the third person instead of direct addresses to Him.<sup>[8]</sup> In these psalms God is depicted as:
 
 * a shield (3:3; 115:10)
 * a refuge for us (62:8)

@@ -2,7 +2,7 @@
 
 ### Introduction
 
-What are the psalms of thanksgiving? They express thanksgiving for what God has done or in anticipation of what He will do. They are very much like the psalms of praise, but what makes them different is that include a report of deliverance from a specific crisis. They may be individual (9, 10, 30, 32, 34, 40, 41, 92, 107, 116, 138), or national (66–68, 118, 124).
+What are the psalms of thanksgiving? They express thanksgiving for what God has done or in anticipation of what He will do. They are very much like the psalms of praise, but what makes them different is that include a report of deliverance from a specific crisis. They are like testimony. They may be individual (9, 10, 30, 32, 34, 40, 41, 92, 107, 116, 138), or national (66–68, 118, 124).
 
 ### Structure of the psalm of thanksgiving
 
@@ -22,23 +22,25 @@ Like the conclusion, this varies in the different psalms. Some of them end with 
 
 As an example, following is the structure of Psalm 30:
 
+```
 1. Introduction (v. 1–5)
 2. Narrative
-  1. Crisis (v. 6–7)
-  2. Plea for help (v. 8–10)
-  3. Deliverance (v. 11)
+  a. Crisis (v. 6–7)
+  b. Plea for help (v. 8–10)
+  c. Deliverance (v. 11)
 3. Conclusion (v. 12)
+```
 
-**Exercise:** find the structure of Psalm 116.
+**Homework:** find the structure of Psalm 116.
 
 ### Temple ceremony in the psalms of thanksgiving
 
-We can see from Psalms 66:13, 92:13, and 116:19 that these psalms were said in the temple. Sacrifices and vows to make sacrifices are mentioned in 66:13–15, 107:22, 116:17–19, and 118:27. It is believed that these psalms were said before a sacrifice of thanksgiving was made.[1] We can read about this thank offering in Lev. 7:11 and 22:29. "116:13 also refers to the cup of salvation, which is usually thought to indicate a drink offering rather than being a mere metaphor."[2]
+We can see from Psalms 66:13, 92:13, and 116:19 that these psalms were said in the temple. Sacrifices and vows to make sacrifices are mentioned in 66:13–15, 107:22, 116:17–19, and 118:27. It is believed that these psalms were said before a sacrifice of thanksgiving was made.<sup>[1]</sup> We can read about this thank offering in Lev. 7:11 and 22:29. "116:13 also refers to the cup of salvation, which is usually thought to indicate a drink offering rather than being a mere metaphor."<sup>[2]</sup> See Leviticus 23:13.
 
-Since these psalms were sung in the temple, they were a part of public and not private worship. There are many references in these psalms to the people listening. They are called "those who fear God" (66:16), "God's people" (116:14, 18–19), "saints" (* 30:4; 31:23), and the "righteous" (32:11). The singer encourages those listening to thank God (such as in 118:1–4). It's possible that the congregation joined with the lead singer in 118:24–27, because it changes from using the singular pronoun "I" to the plural "we."
+Since these psalms were sung in the temple, they were a part of public and not private worship. There are many references in these psalms to the people listening. They are called "those who fear God" (66:16), "God's people" (116:14, 18–19), "saints" (30:4; 31:23), and the "righteous" (32:11). The singer encourages those listening to thank God (such as in 118:1–4). It's possible that the congregation joined with the lead singer in 118:24–27, because it changes from using the singular pronoun "I" to the plural "we."
 
 > But did every individual who escaped a life-threatening crisis compose a psalm as an expression and instrument of his gratitude? It is hardly possible that the capabilities of the common worshiper would have come up to that level of literary accomplishment. What we have in the Psalter is most likely samples of songs that accomplished composers had provided for use in the temple for the purpose of the thanksgiving ritual, even though some of these writers could have been common worshipers.
-> — C. Hassell Bullock[3]
+> — C. Hassell Bullock<sup>[3]</sup>
 
 -------------------------------------------
 
