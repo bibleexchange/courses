@@ -2,7 +2,7 @@
 
 ### Utangulizi
 
-Sura hii inatuonyesha kwamba kuna misimu mingi tofauti maishani. Misimu hii iko nje ya udhibiti wetu. Tunapaswa kujifunza kumwamini Mungu hata kama ni msimu wa magumu. Kuna mawazo mengi katika sura hii yanayolingana na mafundisho ya Yesu kuhusu kumtumaini Mungu kutoka katika Mathayo sura ya 6. Tunahitaji kuishi kwa ajili ya leo na tusiwe na wasiwasi kuhusu kesho.
+Sura hii inatuonyesha kwamba kuna misimu mingi tofauti maishani. Misimu hii iko nje ya udhibiti wetu. Tunapaswa kujifunza kumwamini Mungu hata kama ni msimu wa magumu. Kuna mawazo mengi katika sura hii yanayolingana na mafundisho ya Yesu kuhusu kumtumaini Mungu kutoka katika Mathayo sura ya 6. Tunahitaji kuishi kwa ajili ya leo na tusiwe na wasiwasi kuhusu kesho. Badala ya kutafuta wakati mzuri zaidi, tunapaswa kuzingatia wakati tulio nao sasa.
 
 ### Kuna muda kwa kila kitu (mst. 1–8)
 

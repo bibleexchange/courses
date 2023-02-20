@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This chapter shows us that there are many different seasons in life. These seasons are out of our control. We have to learn to trust God even if it is a season of difficulty. There are many ideas in this chapter that correspond to Jesus' teaching about trust in God from Matthew chapter 6. We need to live for today and not worry about tomorrow.
+This chapter shows us that there are many different seasons in life. These seasons are out of our control. We have to learn to trust God even if it is a season of difficulty. There are many ideas in this chapter that correspond to Jesus' teaching about trust in God from Matthew chapter 6. We need to live for today and not worry about tomorrow. Instead of looking for a better time, we need to focus on the time we have now.
 
 ### There is a time for everything (v. 1–8)
 
