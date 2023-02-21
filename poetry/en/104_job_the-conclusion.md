@@ -20,6 +20,15 @@ God asked Job questions about creation so that Job's trust would be restored in 
 
 God says many things, but He does not give any answer of why Job was suffering. Job's test was to see if he trusted in God for nothing in return. He had to trust God even though he didn't know why these things were happening to him. If God revealed the reason, then Job's trust would have been conditional: he would be trusting God only because he received revelation from God. It would have made the test for no purpose. We cannot say we have faith if we must wait to see the promise to be fulfilled (Rom. 8:24&ndash;25).
 
+### Job's life is restored
+
+It is said that Job spoke true things about God, while the friends did not (42:7). How can this be said? Job said many angry things about God, such as in 31:35&ndash;37. There are two reasons we can say that Job spoke correctly about God:
+
+1. Job repented for some of the things he said (40:3&ndash;5; 42:1&ndash;6)
+2. Job spoke directly to God, but the friends spoke to each other about God. This is the difference between lament and murmuring.
+
+After all these things, Job ended up having twice as much as he had before the trial.
+
 ### Final point
 
 When we struggle in life we wrestle with all the questions that come out in this book. When we read the Bible we often do the same. We can trace it all back to that one tree in the garden that was not like any other tree. If God knew what Adam and Eve would do, why did He put the tree there in the first place? Firstly, it was the opportunity to serve Him in a special way. More importantly, the world was created so that God could redeem from it a bride for His Son. For that bride to be perfect, she must be redeemed. In order to be redeemed, she must first fall. The purposes of God are too big for us to understand, let us rejoice that we have been given a part, and never forget that his own Son suffered according to this mater plan. "Not my will but thine be done."

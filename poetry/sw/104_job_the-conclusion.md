@@ -20,6 +20,15 @@ God asked Job questions about creation so that Job's trust would be restored in 
 
 God says many things, but He does not give any answer of why Job was suffering. Job's test was to see if he trusted in God for nothing in return. He had to trust God even though he didn't know why these things were happening to him. If God revealed the reason, then Job's trust would have been conditional: he would be trusting God only because he received revelation from God. It would have made the test for no purpose. We cannot say we have faith if we must wait to see the promise to be fulfilled (Rom. 8:24&ndash;25).
 
+### Maisha ya Ayubu yanarudishwa
+
+Inasemekana kwamba Ayubu alisema mambo ya kweli juu ya Mungu, lakini marafiki hawakusema (42:7). Je, hili laweza kusemwaje? Ayubu alisema mambo mengi ya hasira kuhusu Mungu, kama vile 31:35&ndash;37. Kuna sababu mbili ambazo tunaweza kusema kwamba Ayubu alizungumza kwa usahihi kuhusu Mungu:
+
+1. Ayubu alitubu kwa baadhi ya mambo aliyosema (40:3 &ndash;5; 42:1 &ndash;6)
+2. Ayubu alizungumza moja kwa moja na Mungu, lakini marafiki walizungumza wao kwa wao juu ya Mungu. Hii ndiyo tofauti kati ya kuomboleza na kunung'unika.
+
+Baada ya mambo haya yote, Ayubu aliishia kuwa na maradufu ya aliyokuwa nayo kabla ya msiba.
+
 ### Jambo la mwisho
 
 Tunapopata shida katika maisha tunashindana na maswaliyanayokuja katika kitabu hiki. Tukisoma Biblia mara nyingi tunafanya yale yale. Tunaweza kuingilia kimakosa katika mti huo mmoja katika bustani kuwa haikuwa kama miti mingine. Kama Mungu angejua kile ambacho Adamu na Eva wangefanya, kwanini aliweka mti ule pale katika eneo la kwanza? Kwanza, ilikuwa nafasi ya kumtumikia katika njia maalumu. Ya muhimu zaidi dunia iliumbwa ili Mungu amkomboe bibi harusi kuwa kamili, lazima akombolewe. Ili ukombolewe, lazima aanguke kwanza. Malengo ya Mungu ni makubwa sana kwetu kuelewa, acha tufurahi kwamba tumepata sehemu, na kamwe tusisahau kuwa mwana wake wa pekee aliteseka kulingana na mpango hii. "Siyo mapenzi yangu bali mapenzi yake yafanyike." 
