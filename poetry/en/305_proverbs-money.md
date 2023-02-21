@@ -140,6 +140,8 @@ Being lazy can ruin your reputation. People will not want to work with you. (10:
 
 ---------------------------------------------------------------------------------------------------
 
+<small>
 * [1] Waltke, B. K. (2004). The Book of Proverbs, Chapters 1–15 (p. 258). Grand Rapids, MI: Wm. B. Eerdmans Publishing Co.
 * [2] ibid.
+</small>
 

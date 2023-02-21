@@ -66,6 +66,7 @@ But what about us today? Should Christians express complaints against God? Prote
 
 ---------------------------------------------------------------------------------------------------
 
+<small>
 * [1] Broyles, C. C. (1989). The Conflict of Faith and Experience in the Psalms: A Form-Critical and Theological Study (Vol. 52, p. 13). Sheffield: Sheffield Academic Press.
 * [2] ibid, p. 15
 * [3] The Conflict of Faith and Experience in the Psalms, p. 21
@@ -77,6 +78,7 @@ But what about us today? Should Christians express complaints against God? Prote
 * [9] Miller, P. D. (1995). Introduction. In P. D. Miller (Ed.), The Psalms and the Life of Faith (p. 107). Minneapolis: Fortress Press.
 * [10] ibid, p. 108
 * [11] The Psalms as Christian Lament, p. 28
+</small>
 
 <!--By the fourteenth century, in selecting a single verse from each of the “Seven Psalms,” a tradition arose in personal devotion to link each psalm appropriately against a cardinal sin. Psalm 6 was used against Anger; Psalm 32, against Pride; Psalm 38, against Gluttony; Psalm 51, against Lechery; Psalm 102, against Greed; Psalm 130, against Envy; and Psalm 143, against Sloth.
 Christian Lament p 44-->

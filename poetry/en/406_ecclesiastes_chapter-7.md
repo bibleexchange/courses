@@ -28,6 +28,7 @@ In these verses Qohelet comes to the conclusion that it is not good to be too wi
 
 ------------------------------------------------------------
 
+<small>
 * [1] Baker, p. 322
 * [2] Longman, T. (1998). The Book of Ecclesiastes (p. 182). Grand Rapids, MI: Wm. B. Eerdmans Publishing Co.
 * [3] Baker, p. 329
@@ -36,4 +37,5 @@ In these verses Qohelet comes to the conclusion that it is not good to be too wi
 * [6] Longman, T. (1998). The Book of Ecclesiastes (p. 194). Grand Rapids, MI: Wm. B. Eerdmans Publishing Co.
 * [7] Baker, p. 338
 * [8] Longman, T. (1998). The Book of Ecclesiastes (p. 195). Grand Rapids, MI: Wm. B. Eerdmans Publishing Co.
+</small>
 

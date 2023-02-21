@@ -18,6 +18,8 @@ Koheleti anatoa hadithi ya mtu mwenye hekima aliyeokoa jiji lake, lakini alisaha
 
 -------------------------------------------------------
 
+<small>
 * [1] Kidner
 * [2] Spurgeon
+</small>
 

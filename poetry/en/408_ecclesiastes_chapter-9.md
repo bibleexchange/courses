@@ -18,6 +18,8 @@ Qohelet tells the story of a wise man that saved his city, but was soon forgotte
 
 -------------------------------------------------------
 
+<small>
 * [1] Kidner
 * [2] Spurgeon
+</small>
 

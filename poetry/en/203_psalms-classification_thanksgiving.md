@@ -44,9 +44,11 @@ Since these psalms were sung in the temple, they were a part of public and not p
 
 -------------------------------------------
 
+<small>
 * [1] Psalms (Encountering Biblical Studies): A Literary and Theological Introduction By C. Hassell Bullock, p. 393
 * [2] Day, J. (1999). Psalms (p. 45). London; New York: T&T Clark.
 * [3] Psalms (Encountering Biblical Studies): A Literary and Theological Introduction By C. Hassell Bullock, p. 394
+</small>
 
 <!--Following are two other sets of classification for these types of psalms. There is no agreement among scholars about which psalms fit in this category.
 Individual: 30, 34, 41, 66, 92, 116, 118, 138 and national: 67, 75, 107, 124, 129, 136 (Psalms: A Guide to Studying the Psalter By W. H. Jr. Bellinger, p. 108)

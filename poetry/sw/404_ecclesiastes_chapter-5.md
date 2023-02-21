@@ -31,5 +31,7 @@ Utajiri unaweza usiridhishe, lakini Mungu hutoa Baraka kwa kila mtu. Wanaweza ku
 
 -----------------------------------------
 
+<small>
 * [1] Baker, p. 267
+</small>
 

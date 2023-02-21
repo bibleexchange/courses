@@ -77,8 +77,10 @@ Psalms 65 and 145 praise God because of the harvest.
 
 <hr />
 
+<small>
 * [1] Psalms (Encountering Biblical Studies): A Literary and Theological Introduction By C. Hassell Bullock, p. 306
 * [2] ibid, p. 312
+</small>
 
 <!-- It is difficult to identify the life situation of these psalms. Some may have been written specifically for temple worship (for example, Ps 136), while others were personal expressions of gratitude for God’s mighty deeds and goodness (perhaps Ps 8), and later incorporated in temple worship, if they were incorporated at all. We should not assume that all of the psalms were used in the temple. In a sense the psalms were the “hymnbook” of the temple, but not in the sense that a modern hymnbook is written for the express purpose of worship in the church. The Psalter was a book of corporate and private worship. The psalms were written both for private and public use, and psalms in each category moved in the other direction, from private to public, and from public to private. ---Encountering the Bible, p. 309-->
 

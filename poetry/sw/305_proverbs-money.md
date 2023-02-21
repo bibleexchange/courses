@@ -93,6 +93,8 @@ Katika Mithali 30:7–9 mwandishi anamuuliza Mungu kuhusu vitu viwili:
 
 ---------------------------------------------------------------------------------------------------
 
+<small>
 * [1] Waltke, B. K. (2004). The Book of Proverbs, Chapters 1–15 (p. 258). Grand Rapids, MI: Wm. B. Eerdmans Publishing Co.
 * [2] ibid.
+</small>
 

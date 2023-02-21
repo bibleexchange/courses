@@ -36,7 +36,9 @@ Qohelet understood that a land was blessed by good, faithful leaders, but cursed
 
 ---------------------------------------------
 
+<small>
 * [1] Eaton
 * [2] Wright
 * [3] Clarke
+</small>
 

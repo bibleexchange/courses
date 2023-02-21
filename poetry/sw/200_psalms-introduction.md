@@ -91,5 +91,7 @@ Kuna nukuu 79 kutoka Zaburi katika Agano Jipya.<sup>[1]</sup> Ifuatayo ni baadhi
 
 <hr/>
 
+<small>
 * [1] Stephen Voorwinde, Vox Reformata, 2005, pg. 58
+</small>
 

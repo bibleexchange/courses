@@ -38,6 +38,7 @@ Agano Jipya linathibitisha kwamba zaburi ilikuwa unabii wa Yesu. "Agano Jipya li
 
 ----------------------------------------------------------------
 
+<small>
 * [1] Encountering the Psalms, p. 453
 * [2] A Guide to Studying the Psalter, p. 153
 * [3] Encountering the Psalms, p. 458
@@ -46,4 +47,5 @@ Agano Jipya linathibitisha kwamba zaburi ilikuwa unabii wa Yesu. "Agano Jipya li
 * [6] A Guide to Studying the Psalter, p. 152
 * [7] Encountering the Psalms, p. 465
 * [8] Encountering the Psalms, p. 469
+</small>
 

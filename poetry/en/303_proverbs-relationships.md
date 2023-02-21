@@ -97,6 +97,7 @@ We need to work hard at keeping our relationships with our friends strong, becau
 
 ------------------------------------------------------------------------------------------
 
+<small>
 * [1] Swanson, J. (1997). Dictionary of Biblical Languages with Semantic Domains : Hebrew (Old Testament) (electronic ed.). Oak Harbor: Logos Research Systems, Inc.
 * [2] https://web.cs.dal.ca/~johnston/poetry/island.html accessed 2019-02-01
 * [3] Kidner, D. (1964). Proverbs: An Introduction and Commentary (Vol. 17, p. 41). Downers Grove, IL: InterVarsity Press.
@@ -104,4 +105,5 @@ We need to work hard at keeping our relationships with our friends strong, becau
 * [5] Longman, T. (2006). Proverbs, Baker Commentary on the Old Testament Wisdom and Psalms (p. 461). Grand Rapids, MI: Baker Publishing Group.
 * [6] Wilson, L. (2018). Proverbs: An Introduction and Commentary Vol. 17, (p. 399). Downers Grove, IL: InterVarsity Press.
 * [7] Bland, D. (2016). Proverbs and the Formation of Character (p. 4). Cambridge, UK: 	Lutterworth Press.
+</small>
 

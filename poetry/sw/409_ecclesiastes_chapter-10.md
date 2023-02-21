@@ -36,7 +36,9 @@ Koheleti alielewa kuwa ardhi ilibarikiwa vitu vizuri, kiongozi mwaminifu lakini 
 
 ---------------------------------------------
 
+<small>
 * [1] Eaton
 * [2] Wright
 * [3] Clarke
+</small>
 

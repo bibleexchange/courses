@@ -91,7 +91,9 @@ There are 79 quotes from the Psalms in the New Testament.<sup>[1]</sup> Followin
 
 <hr/>
 
+<small>
 * [1] Stephen Voorwinde, Vox Reformata, 2005, pg. 58
+</small>
 
 <!-- Mowinckel acknowledges both aspects when he says.
 > In spite of the didactic character of the ‘learned psalmography’, it has one characteristic in common with genuine psalmography; these poems are, and must be considered as, prayers. Like every real psalm, they address God, even though they often address men as well.

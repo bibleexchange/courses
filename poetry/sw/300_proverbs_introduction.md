@@ -176,9 +176,11 @@ Upande unaosoma mithali na maonyo yake kuhusu mwanamke "mwovu," wanawake wanawez
 
 ---------------------------------------------------------
 
+<small>
 * [1] https://www.thegospelcoalition.org/article/which-promises-are-for-me/
 * [2] Raymond C. Van Leeuwan, WEALTH AND POVERTY: SYSTEM AND CONTRADICTION IN PROVERBS, Hebrew Studies vol. 33, pg. 32
 * [3] Van Leeuwan, Hebrew Studies 33 pg. 29
 * [4] Van Leeuwan, Hebrew Studies 33 pg. 31
 * [5] Van Leeuwan, Hebrew Studies 33 pg. 32
+</small>
 

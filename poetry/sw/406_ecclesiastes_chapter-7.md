@@ -25,6 +25,7 @@ Katika mistari hii Koheleti anafikia hitimisho kwamba siyo vizuri kuwa mwenye he
 
 ------------------------------------------------------------
 
+<small>
 * [1] Baker, p. 322
 * [2] Longman, T. (1998). The Book of Ecclesiastes (p. 182). Grand Rapids, MI: Wm. B. Eerdmans Publishing Co.
 * [3] Baker, p. 329
@@ -33,4 +34,5 @@ Katika mistari hii Koheleti anafikia hitimisho kwamba siyo vizuri kuwa mwenye he
 * [6] Longman, T. (1998). The Book of Ecclesiastes (p. 194). Grand Rapids, MI: Wm. B. Eerdmans Publishing Co.
 * [7] Baker, p. 338
 * [8] Longman, T. (1998). The Book of Ecclesiastes (p. 195). Grand Rapids, MI: Wm. B. Eerdmans Publishing Co.
+</small>
 

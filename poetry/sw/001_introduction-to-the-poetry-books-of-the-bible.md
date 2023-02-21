@@ -102,8 +102,10 @@ Misemo ya nambari ni wakati herufi imetolewa, na mstari uliofuata, kunakuwa na o
 
 <hr />
 
+<small>
 * [1] The Baker Commentary on Ecclesiastes, pg. 336
 * [2] The Fear of the Lord is Wisdom, Tremper Longman, III, pg. 14
 * [3] ibid, pg. 16
 * [4] Stuart, D. (2009). Old Testament Exegesis: A Handbook for Students and Pastors (Fourth Edition, p. 177). Westminster John Knox Press.
+</small>
 

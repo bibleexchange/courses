@@ -52,7 +52,9 @@ In ancient Israeli culture, people were motivated by honor and shame. The shame 
 
 ---------------------------------------------------------------
 
+<small>
 * [1] Dave Bland, *Proverbs and the Formation of Character*
+</small>
 
 <!--
 ?? Proverbs 26:1 (KJV 1900)

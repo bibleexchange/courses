@@ -18,5 +18,7 @@ Thses verse conclude Qohelet's search for meaning. "Here leaves his explicit sea
 
 -------------------------------------------------------------------------
 
+<small>
 * [1] Longman, T. (1998). The Book of Ecclesiastes (p. 176). Grand Rapids, MI: Wm. B. Eerdmans Publishing Co.
+</small>
 

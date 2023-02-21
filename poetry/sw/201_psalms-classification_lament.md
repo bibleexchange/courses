@@ -66,6 +66,7 @@ Lakini vipi kuhusu sisi leo? Je Wakristo waeleze malalamiko yao dhidi ya Mungu? 
 
 ---------------------------------------------------------------------------------------------------
 
+<small>
 * [1] Broyles, C. C. (1989). The Conflict of Faith and Experience in the Psalms: A Form-Critical and Theological Study (Vol. 52, p. 13). Sheffield: Sheffield Academic Press.
 * [2] ibid, p. 15
 * [3] The Conflict of Faith and Experience in the Psalms, p. 21
@@ -77,4 +78,5 @@ Lakini vipi kuhusu sisi leo? Je Wakristo waeleze malalamiko yao dhidi ya Mungu? 
 * [9] Miller, P. D. (1995). Introduction. In P. D. Miller (Ed.), The Psalms and the Life of Faith (p. 107). Minneapolis: Fortress Press.
 * [10] ibid, p. 108
 * [11] The Psalms as Christian Lament, p. 28
+</small>
 

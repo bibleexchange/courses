@@ -20,7 +20,9 @@ Katika mstari wa 12–13 Koheleti anasema kwamba itakuwa sawa kwa wenye haki na 
 
 -------------------------------------
 
+<small>
 * [1] Eaton
 * [2] Clarke
 * [3] Kidner
+</small>
 

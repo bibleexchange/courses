@@ -31,5 +31,7 @@ Wealth may not satisfy, but God does give blessings to every person. They can ea
 
 -----------------------------------------
 
+<small>
 * [1] Baker, p. 267
+</small>
 

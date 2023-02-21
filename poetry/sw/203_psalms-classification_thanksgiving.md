@@ -44,7 +44,9 @@ Tangu zaburi hizi zilipoimbwa katika hekalu, zilikuwa sehemu ya ibada za wazi na
 
 -------------------------------------------
 
+<small>
 * [1] Psalms (Encountering Biblical Studies): A Literary and Theological Introduction By C. Hassell Bullock, p. 393 [1]
 * [2] Day, J. (1999). Psalms (p. 45). London; New York: T&T Clark.
 * [3] Psalms (Encountering Biblical Studies): A Literary and Theological Introduction By C. Hassell Bullock, p. 394 [3]
+</small>
 

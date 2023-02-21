@@ -38,9 +38,11 @@ Misamiati ya kawaida katika zaburi hizi zinaelezea maombolezo, shukrani, na sifa
 
 -------------------------------------------------
 
+<small>
 * [1] Day, J. (1999). Psalms (p. 54). London; New York: T&T Clark.
 * [2] Howard, D. M., Jr. (1997). The Structure of Psalms 93–100. (W. H. Propp, Ed.) (Vol. 5, p. 124). Winona Lake, IN: Eisenbrauns.
 * [3] Day, J. (1999). Psalms (p. 55). London; New York: T&T Clark.
 * [4] Day, J. (1999). Psalms (p. 56). London; New York: T&T Clark.
 * [5] Guide to Studying the Psalter, p. 173
+</small>
 

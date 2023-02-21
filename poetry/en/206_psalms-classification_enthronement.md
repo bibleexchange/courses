@@ -50,5 +50,6 @@ There is a forward-looking aspect in 98:9. It is looking forward in time to when
 
 ----------------------------------------------------------------------
 
+<small>
 * [1] Encountering the Psalms, p. 485
-
+</small>

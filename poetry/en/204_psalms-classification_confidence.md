@@ -49,6 +49,7 @@ Psalm 62 makes it clear that it is God alone that is our source of confidence.
 
 --------------------------------------------------------------------------------
 
+<small>
 * [1] Encountering the Psalms, p. 398
 * [2] Encountering the Psalms, p. 421
 * [3] Day, J. (1999). Psalms (p. 52). London; New York: T&T Clark.
@@ -57,4 +58,5 @@ Psalm 62 makes it clear that it is God alone that is our source of confidence.
 * [6] Encountering, p. 426
 * [7] Encountering the Psalms, p. 434
 * [8] Day, J. (1999). Psalms (p. 52). London; New York: T&T Clark.
+</small>
 

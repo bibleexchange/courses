@@ -205,6 +205,8 @@ Proverbs 26:23–26 (KJV 1900)
 
 ----------------------------------------------------------------------------------------------------------
 
+<small>
 * [1] Proverbs: An Introduction And Commentary By Lindsay Wilson pg. 305
 * [2] Proverbs (Baker Commentary on the Old Testament Wisdom and Psalms) By Tremper Longman III pg. 474
+</small>
 

@@ -38,6 +38,7 @@ The New Testament affirms that these psalms were prophetic of Jesus. "The New Te
 
 ----------------------------------------------------------------
 
+<small>
 * [1] Encountering the Psalms, p. 453
 * [2] A Guide to Studying the Psalter, p. 153
 * [3] Encountering the Psalms, p. 458
@@ -46,4 +47,5 @@ The New Testament affirms that these psalms were prophetic of Jesus. "The New Te
 * [6] A Guide to Studying the Psalter, p. 152
 * [7] Encountering the Psalms, p. 465
 * [8] Encountering the Psalms, p. 469
+</small>
 
