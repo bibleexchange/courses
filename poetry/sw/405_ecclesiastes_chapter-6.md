@@ -8,11 +8,9 @@ Koheleti sasa anaendelea na uchunguzi wake kuhusu utajiri. Anazungumza kuhusu ki
 
 Maisha marefu (Mithali 3:2) na watoto wengi (Zaburi 127:4) zilihusisha Baraka kuu katika Israeli zamani, lakini Koheleti anasema kwamba hata hizi haziwezi kuleta pumziko katika maisha ya uchovu. Anasema kuwa mtoto aliyezaliwa akiwa amekufa ambaye hajawahi kuyajua maisha ni bora kuliko mtu mwenye maisha marefu. Anasema hili kwasababu mtoto aliyezaliwa hali mfu hatapata shida za maisha.
 
-### Hamu daima haitaridhishwa (mst. 7)
+### Hamu daima haitaridhishwa (mst. 7&ndash;9)
 
-Tunafanya kazi kwa nguvu kwaajili ya kupata mambo mazuri, na kula pia. Baadae tunakuwa na njaa tena.
-
-### Hekima ni bora kuliko ujinga (mst. 8–9)
+Tunafanya kazi kwa nguvu kwaajili ya kupata mambo mazuri, na kula pia. Baadae tunakuwa na njaa tena. Njaa ni kitu kizuri, kwa sababu inatufanya tumtegemee Mungu (Mat. 5:6).  
 
 ### Hitimisho kwa utafutaji wa maana (mst. 10–12)
 

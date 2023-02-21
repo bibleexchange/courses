@@ -18,6 +18,8 @@ Neno la kiebrania la _hushindana_ kwa kiebrania ni _gala_ (גָּלַע ), inayo
 > Mlio wa kengele; inakupigia mlio wewe  
 > —_John Donne_<sup>[2]</sup>
 
+Mungu alisema si vema mtu awe peke yake (Mwanzo 2:18).
+
 ### Ni bora kuwa na marafiki wachache wa uhakika kuliko kuwa na marafiki wengi wasio wa uhakika
 
 Siyo kila mtu anayesema ni rafiki yako ni rafiki wa kweli. Katika Mithali neno la Kiebrania _rea_ (רֵעַ ) inaweza kumaanisha ama "jirani" au "rafiki"<sup>[3]</sup> Tunatakiwa kuangalia katika mazingira kuona kama neno linamaanisha mtu ambaye ni karibu kimwili (jirani) au mtu ambaye kimwili yuko karibu (rafiki). Katika maisha tunatakiwa kutambuanani ni marafiki halisi. Unaweza kuishi karibu na mtu na kuwaona kila siku, lakini hiyo haiwezi kumaanisha kuwa wao ni marafiki halisi. Watu wengi wanazungumza mazuri kwetu. Wanasema, "Mimi ni rafiki yako," lakini je ni kweli watakuwa na wewe utakapowahitaji? Rafiki wa kweli ni Yule ambaye atakuwa nawewe katika nyakati mbaya na nyakati nzuri.
@@ -59,7 +61,7 @@ Sasa tunaelewa kwamba urafiki ni jambo zuri, lakini nini maana ya kuwa rafiki mz
 * Uwe tayari kusamehe (10:12)
 * Usiingilie mambo ya wengine (26:17)
 * Mguu wako usiingilie katika nyumba ya jirani yako ila kwa kiasi (25:17)
-* Tafuta kuwa na ushirika mzuri na Mungu (16:7)
+* Tafuta kuwa na ushirika mzuri na Mungu (16:7; Ona pia 1 Yohana 4:19&ndash;20)
 
 ### Wakati mwingine hata marafiki wanaweza kutokuelewana... na hicho ni kitu kizuri
 

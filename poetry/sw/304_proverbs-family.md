@@ -8,7 +8,7 @@ Tunatakiwa tuwasahihishe watoto wetu (29:15). Kama unawapenda watoto wako, utawa
 
 ### Ushauri kwa watoto
 
-Watoto wanaambiwa wawatii wazazi wao (20:20), lakini kwa bahati mbaya wengi hawafanyi hivyo (30:11–14). Wanaambiwa wawasikilize wazazi wao (6:20–22; 15:5), kwa sababu wazazi wote mwanzo walikuwa watoto pia na walijifunza vitu hivi katika maisha yao ya kawaida (1:8–9; 3:1–2; 4:1–4; 13:1). Watoto wanaonywa kwamba aibaye mali ya babaye au mamaye na kusema si kosa kwavile ni wazazi ni sawa na kuiba (28:24).
+Watoto wanaambiwa wawatii wazazi wao (20:20), lakini kwa bahati mbaya wengi hawafanyi hivyo (30:11–14). Wanaambiwa wawasikilize wazazi wao (6:20–22; 15:5), kwa sababu wazazi wote mwanzo walikuwa watoto pia na walijifunza vitu hivi katika maisha yao ya kawaida (1:8–9; 3:1–2; **4:1–4**; 13:1). Watoto wanaonywa kwamba aibaye mali ya babaye au mamaye na kusema si kosa kwavile ni wazazi ni sawa na kuiba (28:24).
 
 Maamuzi ya watoto yanaweza kuwaumiza wazazi. Kama mtoto si mtii na anafanya dhambi, wanaweza kuwa mzigo kwa wazazi wao (10:1) na wanaweza kuwaletea aibu (19:26; 28:7). Angalia pia 15:20, 17:21, na 17:25. Bali watoto watii wanaweza kuwa Baraka kwa baba na mama (23:22–25; 27:11; 29:3).
 
@@ -28,7 +28,7 @@ Kwanini mistari hasi imelengwa tu kwa mwanamke mbaya? Vipi kuhusu waume wabaya? 
 
 #### Kuwa makini na Yule unayechagua kumpa upendo wako
 
-Baadhi ya watu wanaweza kuzungumza maneno ya upendo nay a kujipendekeza, lakini mioyo yao na nia zao siyo sahihi (5:1–4). Sura ya 31 inaonyesha sifa za mwanamke bora. Hivi ni vitu ambavyo tunahitaji kuwafundisha watoto wetu kuangalia kwa wenzi.
+Baadhi ya watu wanaweza kuzungumza maneno ya upendo nay a kujipendekeza, lakini mioyo yao na nia zao siyo sahihi (5:1–6). Sura ya 31 inaonyesha sifa za mwanamke bora. Hivi ni vitu ambavyo tunahitaji kuwafundisha watoto wetu kuangalia kwa wenzi.
 
 #### Mruhusu Mungu akusaidie kumpata mwenzi
 

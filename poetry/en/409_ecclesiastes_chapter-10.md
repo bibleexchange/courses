@@ -16,11 +16,11 @@ Folly is set in great dignity. Some lowly men are unwisely exalted (servants on 
 
 ### Evidence of folly and wisdom (v. 8–20)
 
-#### Foolishness in action (v. 8–10)
+#### Foolishness in action (v. 8–11)
 
 The fool doesn't wisely consider the future, but wise use of one's time in the present can make for a much better future.
 
-#### The babbling talk of the foolish (v. 11–14)
+#### The babbling talk of the foolish (v. 12–14)
 
 The fool is known by his many words, and by his presumption about the future when no man knows what is to be. Previously Qohelet had confidently stated that there is nothing beyond this life, and that this life should be lived with an under the sun premise. He now casts more doubt upon that premise.
 

@@ -18,6 +18,8 @@ The Hebrew word for _intermeddleth_ in the Hebrew is _gala_ (גָּלַע ), whi
 > the bell tolls; it tolls for thee.   
 > —_John Donne_<sup>[2]</sup>
 
+God said it is not good for man to be alone (Gen. 2:18).
+
 ### It is better to have a few real friends than to have many shallow friends
 
 Not everyone that says that they are your friend is a real friend. In Proverbs the Hebrew word _rea_ (רֵעַ ) can mean either a "neighbor" or a "friend."<sup>[3]</sup> We have to look at the context to see if the word means someone who is physically close (a neighbor) or someone who is emotionally close (a friend). In life we also have to discern who are real friends are. You can live near someone and see them every day, but that does not make them a true friend. Many people talk good to us. They say, "I am your friend," but will they be there when you really need them? A true friend is someone who is there in the good times and the bad times.
@@ -70,7 +72,7 @@ We now understand that friendship is a good thing, but what does it mean to be a
 * Be willing to forgive (10:12)
 * Don't meddle in other people's business (26:17)
 * Don't overstay your welcome (25:17)
-* Keep a right relationship with God (16:7)
+* Keep a right relationship with God (16:7; See also I John 4:19&ndash;20)
 
 <!--
 Heaping coals...

@@ -43,7 +43,7 @@ Zaburi 47:2 inasema kwamba Mungu ni **mwenye kuogofya**. (Angalia pia 45:4; 65:5
 
 ### Bwana ni mfalme mkuu ajaye
 
-Kuna mtazamo wa mbele katika 98:9. Inaangalia mbele kwa lini ufalme wa Mungu utafunuliwa kabisa.
+Kuna mtazamo wa mbele katika 98:9. Inaangalia mbele kwa lini ufalme wa Mungu utafunuliwa kabisa. Mungu ni mfalme leo, na atakuwa mfalme daima. Hakuna atakayechukua nafasi Yake.
 
 ----------------------------------------------------------------------
 

@@ -4,7 +4,7 @@
 
 ### The prudent person invests (v. 1, 2, 6)
 
-The counsel is "do not hoard what you have, but sow so that you can get more." It is about careful investment. See also Matthew 13:24.
+The counsel is "do not hoard what you have, but sow so that you can get more." It is about careful investment.
 
 ### The prudent person wisely uses opportunity (v. 3)
 

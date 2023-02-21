@@ -44,7 +44,7 @@ Psalm 47:2 says that God is **terrible**. (See also 45:4; 65:5; 66:3, 5; 68:35; 
 
 ### The Lord is the sovereign king of the future
 
-There is a forward-looking aspect in 98:9. It is looking forward in time to when the kingdom of God will be fully manifested.
+There is a forward-looking aspect in 98:9. It is looking forward in time to when the kingdom of God will be fully manifested. God is king today, and He will always be king. No one will replace Him.
 
 <!--Encountering the Psalms p. 494 also says that 97:2–7 can be seen as futuristic, but I don't see it, yet-->
 

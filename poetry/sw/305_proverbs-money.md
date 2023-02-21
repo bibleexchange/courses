@@ -38,7 +38,7 @@ Katika sura ya tatu tunaona maelezo ya Mwanamke Mwenye Hekima. Mstari wa 16 unas
 * Midomo ya maarifa (20:15)
 * Jina jema (22:1)
 * Kuwa mtu mwaminifu (19:22)
-* Mwanamke mwema ni bora (31:10)
+* Mwanamke mwema (31:10)
 * Kutembea kwa uadilifu (19:1)
 * Hofu ya Mungu (15:16–17; 16:8; 16:19)
 

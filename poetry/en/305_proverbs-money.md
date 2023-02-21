@@ -38,13 +38,13 @@ In chapter 3, we see a description of Woman Wisdom. Verse 16 says that she holds
 * The lips of knowledge (20:15)
 * A good name (22:1)
 * Being an honest person (19:22)
-* A good wife is better (31:10)
+* A good wife (31:10)
 * Walking in integrity (19:1)
 * Fear of God (15:16–17; 16:8; 16:19)
 
 ### Wealth does not solve all problems
 
-Why does God say that so many things are more valuable than wealth? It is because there are many things that wealth cannot buy. Wealth gives you a sense of security (10:15), but wealth will fail you (11:28). Wealth cannot save a failing marriage. Wealth cannot save you from a cure-less disease. And wealth cannot help you in the afterlife (11:4, 28).
+Why does God say that so many things are more valuable than wealth? It is because there are many things that wealth cannot buy. Wealth gives you a sense of security (10:15), but wealth will fail you (11:28). Wealth cannot save a failing marriage. Wealth cannot save you from a uncurable disease. And wealth cannot help you in the afterlife (11:4, 28).
 
 #### Wealth cannot buy true friends
 
