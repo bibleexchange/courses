@@ -27,7 +27,7 @@ Uumbaji wake wote unamsifu:
 
 * Mbingu ina furaha (96:11), 
 * nchi ina kushangilia (96:11; 97:1), 
-* mashamba ina kushangilia (96:12), 
+* mashamba yina kushangilia (96:12), 
 * miti yote ya mwituni iimbe kwa furaha (96:12),
 * mbingu zimetangaza haki yake (97:6),
 * mito na ipige makofi (98:8),

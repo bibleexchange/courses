@@ -14,7 +14,7 @@ Hakuna kiwango cha hekima au ujuzi unaojitokeza kuepuka muda wa uovu. Mambo maba
 
 ### Hekima ni bora, lakini mara nyingi haijaliwi (mst. 13–18)
 
-Koheleti anatoa hadithi ya mtu mwenye hakima aliyeokoa jiji lake, lakini alisahaulika mapema. Anasema kwamba hekima ni bora kuliko vitu vingi, lakini siyo mara zote una faida kwasababu haisikiki.
+Koheleti anatoa hadithi ya mtu mwenye hekima aliyeokoa jiji lake, lakini alisahaulika mapema. Anasema kwamba hekima ni bora kuliko vitu vingi, lakini siyo mara zote una faida kwasababu haisikiki.
 
 -------------------------------------------------------
 

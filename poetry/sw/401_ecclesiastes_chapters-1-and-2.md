@@ -6,7 +6,7 @@ Katika milango hii miwili, tuna utangulizi, utafutaji wa maana katika maisha, na
 
 ### Mifano ya bure (1:3–11)
 
-Hizi ni tafakari katika za mambo ya kila siku ya kuchosha katika maisha. Hii inatusaidia kukumbuka jinsi tulivyo wadogo na wasio na maana tukilinganishwa na Mungu. Tuna mwanzo na mwisho, lakini Mungu ni wa milele. Dunia itaendelea baada ya sisi kufa.
+Hizi ni tafakari katika mambo ya kila siku ya kuchosha katika maisha. Hii inatusaidia kukumbuka jinsi tulivyo wadogo na wasio na maana tukilinganishwa na Mungu. Tuna mwanzo na mwisho, lakini Mungu ni wa milele. Dunia itaendelea baada ya sisi kufa.
 
 #### Kupita kwa vizazi (1:4)
 
@@ -14,7 +14,7 @@ Je mwanadamu amezaliwa ili baadae asitishe kuwepo?
 
 #### Mizunguko ya asili (1:5–7)
 
-Asili siku zote hujirudia yenyewe. Hkuna ukweli, badiliko linalodumu.
+Asili siku zote hujirudia yenyewe. Hakuna ukweli, badiliko linalodumu.
 
 #### Udadisi wa mwanadamu (1:8)
 
@@ -28,7 +28,7 @@ Zile akili za kiroho hazitulii katika "maisha ni bure" lakini zinatafuta maana *
 
 Katika mahitaji ya mwanadamu kuna kuridhika sambamba (njaa-chakula, na kadhalika.). Kama tukiwa na hamu kwa kipi katika dunia hii kinaweza kuridhisha, ni mantiki kudhani tumetengenezwa kwa dunia nyingine:
 
-> Mkristo anasema, 'kiumbe hakijazaliwa na hamu isipokuwa kuridhika kwa wale wanaotamani upo. Mtoto anahisi njaa: sawa, kuna kitu kama chakula. Bata anataka kuogelea: sawa, kuna kitu kama maji. Wanaume wanahisi hamu ya mapenzi: sawa, kuna kitu kama mapenzi. Kama nikikuta ndani yangu hamu ambayo hakuna uzoefu katika dunia hii itakayoridhisha, maelezo makubwa yenye uwezekano ni kwamba niliumbwa kwaajili ya ulimwengu mwingine. Kama hakuna chochote kinachoridhisha katika dunia haithibitishi kwamba ulimwengu unadanganya. Kuna uwezekano kuwa raha za dunia hazikukusidiwa kuuridhisha ulimwengu, lakini kuuinua tu, kupendekeza kitu halisi.' 
+> Mkristo anasema, 'kiumbe hakijazaliwa na hamu isipokuwa kuridhika kwa wale wanaotamani upo. Mtoto anahisi njaa: sawa, kuna kitu kama chakula. Bata anataka kuogelea: sawa, kuna kitu kama maji. Wanaume wanahisi hamu ya mapenzi: sawa, kuna kitu kama mapenzi. Kama nikikuta ndani yangu hamu ambayo hakuna uzoefu katika dunia hii itakayoridhisha, maelezo makubwa yenye uwezekano ni kwamba niliumbwa kwaajili ya ulimwengu mwingine. Kama hakuna chochote kinachoridhisha katika dunia haithibitishi kwamba ulimwengu unadanganya. Kuna uwezekano kuwa raha za dunia hazikukusudiwa kuuridhisha ulimwengu, lakini kuuinua tu, kupendekeza kitu halisi.' 
 >—C. S. Lewis
 
 #### Kupata hekima na maarifa (1:12–18)
@@ -56,5 +56,5 @@ Mhubiri 1:18 inasema, "Yaani, Katika wingi wa hekima mna wingi wa huzuni." Lakin
 
 #### "Hakuna bora zaidi ya kula na kunywa na kufurahia maisha" (2:24–26)
 
-Wazo kuu ni kwamba baadhi ya majibu hayatapatikana hapa ulimwenguni. Majibu hayo yanapatikana "zaidi ya jua" na ni ya kiroho kiasili. Chini ya jua, hutapata jibu kwanini upo cnini ya jua. Jibu ni **zaidi ya** jua.
+Wazo kuu ni kwamba baadhi ya majibu hayatapatikana hapa ulimwenguni. Majibu hayo yanapatikana "zaidi ya jua" na ni ya kiroho kiasili. Chini ya jua, hutapata jibu kwanini upo chini ya jua. Jibu ni **zaidi ya** jua.
 

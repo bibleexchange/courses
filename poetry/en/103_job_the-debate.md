@@ -6,7 +6,7 @@ There is no way to cover the conversations chapter by chapter without losing int
 
 #### Eliphaz
 
-We can cay that Eliphaz is like a **mystic**. He gives most weight to his lived experiences: if he has seen something to be true in his life, then it is the truth for everyone else, too.
+We can cay that Eliphaz is like a **mystic**. He gives the most weight to his lived experiences: if he has seen something to be true in his life, then it is the truth for everyone else, too.
 
 He talks about his dreams.
 
@@ -45,7 +45,7 @@ The speeches of Zophar are:
 
 #### Elihu
 
-For most of the book, we do not even know that Elihu is there listening with the other friends. It is thought that he was a young man and so his name was not meantioned with the other friends.
+For most of the book, we do not even know that Elihu is there listening with the other friends. It is thought that he was a young man and so his name was not mentioned with the other friends.
 
 Elihu only speaks one time, but he speaks for a long time. He speaks from chapter 32 through chapter 37.
 

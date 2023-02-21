@@ -18,7 +18,7 @@ God asked Job questions about creation so that Job's trust would be restored in 
 
 ### Why doesn't God talk about Job's suffering?
 
-God says many things, but He does not give any answer of why Job was suffering. Job's test was to see if he trusted in God for nothing in return. He had to trust God even though he didn't know why these things were happening to him. If God revealed the reason, then Job's trust would have been conditional: he would be trusting God only because he received revelation from God. It would have made the test for no purpose. We cannot say we have faith if we must wait to see the promise to be fulfilled (Rom. 8:24&ndash;25).
+God says many things, but He does not give any answer about why Job was suffering. Job's test was to see if he trusted in God for nothing in return. He had to trust God even though he didn't know why these things were happening to him. If God revealed the reason, then Job's trust would have been conditional: he would be trusting God only because he received revelation from God. It would have made the test for no purpose. We cannot say we have faith if we must wait to see the promise to be fulfilled (Rom. 8:24&ndash;25).
 
 ### Job's life is restored
 

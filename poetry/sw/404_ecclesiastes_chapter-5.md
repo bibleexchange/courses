@@ -8,7 +8,7 @@ Koheleti anaonya kuhusu kufanya "Dhabihu za ujinga." "Dhabihu za ujinga lazima y
 
 #### Maombi (mst. 2–3)
 
-Katika mstari wa 1, kuna maelekezo kwamba wale wanaoenda hekaluni lazima awe tayari kusikiliza. Wazo limeendelezwa kupitia mstari wa 7. Ni maelekezo kusikiliza zaidi ya kuzungumza, na hasa kusikiliza zaidi kwa Mungu zaidi ya vile tunavyomsikiliza. Kanuni ya kusikiliza maelekezo na kuthibiti vile tunavyoongea vinapatikana  mara nyingi katika kitabu cha Mithali (Mith. 2:2; 4:20; 5:1; 15:31; 18:15; 21:13; 22:17; 23:12; 25:12; 28:9). Kuna mifanano inayoangaliwa na Mhubiri 5:3b, unaosema, "sauti ya mpumbavu kwa njia ya wingi wa maneno" na Mithali 17:28, unaosema, "Hata mpumbavu akinyamaza, huhesabiwa hekima; Akifumba midomo yake, huhesabiwa ufahamu." Yesu pia ameonya dhidi ya kuomba kwa "payuke-payuke" na kufikiria kwamba maombi yako yatasikiwa kwsababu unatumia maneno mengi (Mat. 6:7).
+Katika mstari wa 1, kuna maelekezo kwamba wale wanaoenda hekaluni lazima awe tayari kusikiliza. Wazo limeendelezwa kupitia mstari wa 7. Ni maelekezo kusikiliza zaidi ya kuzungumza, na hasa kusikiliza zaidi kwa Mungu zaidi ya vile tunavyomsikiliza. Kanuni ya kusikiliza maelekezo na kuthibiti vile tunavyoongea vinapatikana  mara nyingi katika kitabu cha Mithali (Mith. 2:2; 4:20; 5:1; 15:31; 18:15; 21:13; 22:17; 23:12; 25:12; 28:9). Kuna mifanano inayoangaliwa na Mhubiri 5:3b, unaosema, "sauti ya mpumbavu kwa njia ya wingi wa maneno" na Mithali 17:28, unaosema, "Hata mpumbavu akinyamaza, huhesabiwa hekima; Akifumba midomo yake, huhesabiwa ufahamu." Yesu pia ameonya dhidi ya kuomba kwa "payuke-payuke" na kufikiria kwamba maombi yako yatasikiwa kwa sababu unatumia maneno mengi (Mat. 6:7).
 
 #### Viapo (mst. 4–7)
 

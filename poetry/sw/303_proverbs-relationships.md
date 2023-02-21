@@ -29,11 +29,9 @@ Siyo kila mtu anayesema ni rafiki yako ni rafiki wa kweli. Katika Mithali neno l
 Mithali 17:17 inasema kwamba "Rafiki hupenda sikuzote; Na ndugu amezaliwa kwa siku ya taabu." Kuna njia mbili za kutafsiri mstari huu:
 
 1. Njia ya kwanza inasema rafiki ni bora kuliko ndugu. Bruce Waltke anasema kwamba katika mstari huu "Rafiki anaweza kuoneshwa kama mara zote yupo, katika nyakati nzuri na mbaya; Ndugu ni katika taabu tu."<sup>[4]</sup>
-2. Njia nyingine mistari miwili inaonyesha umuhimu wa wote rafiki na ndugu kuonyesha upendo wao. Tremper Longman III anesema, "uhusiano kati ya misemo zote mbili inaonyesha ni moja ya kuimarisha na kwenda pamoja, lakini siyo kutofautiana. Kwamba rafiki anapenda muda wote hata nyakati za tabu."<sup>[5]</sup>
+2. Njia nyingine mistari miwili inaonyesha umuhimu wa wote rafiki na ndugu kuonyesha upendo wao. Tremper Longman III anasema, "uhusiano kati ya misemo zote mbili inaonyesha ni moja ya kuimarisha na kwenda pamoja, lakini siyo kutofautiana. Kwamba rafiki anapenda muda wote hata nyakati za tabu."<sup>[5]</sup>
 
 Ama njia nyingine ya kuitafsiri, mstari unazungumzia kuhusu namna rafiki anapokuwa nawe—bila kujali chochote.
-
-Talk is cheap. Proverbs 20:6 says that "Most men will proclaim every one his own goodness:
 
 Kuongea ni rahisi. Mithali 20:6 inasema kwamba, "Wanadamu hutangaza kila mtu hisani yake mwenyewe; Bali mtu aliye mwaminifu, ni nani awezaye kumpata?” Tunapaswa kuwa waangalifu sana kutokuweka imani zetu kwa watu wasio waaminifu, kwasababu tukifanya hivyo, tutakuwa katika shida. Soma 25:19.
 
@@ -56,7 +54,7 @@ Kitabu cha Mithali kiliandikwa kama baba kwa watoto wake, kwahiyo kuna maonyo me
 
 Sasa tunaelewa kwamba urafiki ni jambo zuri, lakini nini maana ya kuwa rafiki mzuri? Mithali ina misemo mingi inayotufundisha namna ya kushirikiana na watu wengine:
 
-* Yashungulikie mambo kwa hekima (16:20)
+* Yashu hulikie mambo kwa hekima (16:20)
 * Kuwafikiria wengine (27:14)
 * Uwe tayari kusamehe (10:12)
 * Usiingilie mambo ya wengine (26:17)
@@ -64,8 +62,6 @@ Sasa tunaelewa kwamba urafiki ni jambo zuri, lakini nini maana ya kuwa rafiki mz
 * Tafuta kuwa na ushirika mzuri na Mungu (16:7; Ona pia 1 Yohana 4:19&ndash;20)
 
 ### Wakati mwingine hata marafiki wanaweza kutokuelewana... na hicho ni kitu kizuri
-
-#### Ushauri wa marafiki una faida kwetu
 
 Mithali 27:9 inatufundisha kwamba ushauri wa rafiki una faida kwetu. Wakati mwingine ushauri wa rafiki unaweza kuja katika mfumo wa masahihisho. Mtu mwenye busara huhitaji rafiki atakayekuwa muwazi kwake. Marafiki wa kweli watatueleza ukweli, hata kama unauma (27:5–6; 29:5). Tunaweza tusipende kurekebishwa mwanzo, lakini baadae tutaona uthamani wake (28:23). Makabiliano haya yanaweza kutufanya tukue (27:17).
 

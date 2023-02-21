@@ -111,7 +111,7 @@ Sababu sahihi ya kuishi kwa haki ni kwasababu Mungu huchukua uovu na hupenda hak
 
 Sifa ya kati ya shairi la kiebrania ni usawa, ambayo ni kama mawazo yanayoenda pamoja
 
-##### Usawa la kisawe
+##### Usawa wa kisawe
 
 Hii ni pale mstari wa pili unaporudia wazo la kwanza katika lugha tofauti kidogo sana. Hii ni kunyoosha mawazo kuyafanya yawe makali. Kwa mfano:
 
@@ -143,26 +143,26 @@ Mithali inatumia alama nyingi au mifano ya maisha halisi kuonyesha na kuelezeauk
 
 Kuna alama mbili zilizotumika kwa undani katika milango tisa ya mwanzo ambazo zote zinaonyesha hekima na upumbavu.
 
-##### Mwanamke hekima
+##### Hekima ya mwanamke
 
 Anaongea katika Mithali 1:20–33 na sura ya 8. Pia ametajwa katika 9:1–6, 11; 2:3–4; 4:7–9; 6:22; 7:4.
 
-* She keeps good friends Anakuwa na marafiki wazuri
- * Mwenye haki (8:6)
- * Kweli (8:7)
- * Mwerevu (8:12)
- * Mwenye ufahamu (8:1–15)
+* Anakuwa na marafiki wazuri
+  * Mwenye haki (8:6)
+  * Kweli (8:7)
+  * Mwerevu (8:12)
+  * Mwenye ufahamu (8:1–15)
 * Anakaa mbali na makundi mabaya
- * Udanganyifu
- * Uovu
- * Majivuno
- * Kiburi (8:7–8, 13)
+  * Udanganyifu
+  * Uovu
+  * Majivuno
+  * Kiburi (8:7–8, 13)
 * Alikuwa mmojawapo wa walioumbwa kwanza (8:22–26, 8:30–31, 3:19)
 * Havumilii kukataliwa (1:24–27)
 
-##### Mwanamke upumbavu
+##### Upumbavu wa Mwanamke
 
-Ametajwa katika sura ya 9:13–18. Anafanana na mwanamke asiyejulikana (5:8 na 7:22 ni kama 9:13–18. Na 2:18–19, 5:5, na 7:27 ni kama 9:18). Wanawake wote huanzia na kuwaita kutampa kirahisi (9:4, 16). Wote wanatamani mahusiano (njoo kwangu uwe namimi). Wote wameandaa chakula (9:1–2, 17).
+Ametajwa katika sura ya 9:13–18. Anafanana na mwanamke asiyejulikana (5:8 na 7:22 ni kama 9:13–18. Na 2:18–19, 5:5, na 7:27 ni kama 9:18). Wanawake wote huanzia na kuwaita kutampa urahisi (9:4, 16). Wote wanatamani mahusiano (njoo kwangu uwe namimi). Wote wameandaa chakula (9:1–2, 17).
 
 ###### Njia ya uzima
 

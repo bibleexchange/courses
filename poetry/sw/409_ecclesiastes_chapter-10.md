@@ -4,7 +4,7 @@
 
 #### Upumbavu haba ni mzito kuliko hekim a na heshima (mst. 1)
 
-Hii ni taarifa dhahiri: nzi waliokufa huharibu marashi. Linganisha na 9:18, inayosema "...Mkosaji mmoja huharibu mema mengi." Hivyo basi mjinga mmoja anayeheshimiwa kwaajili ya hekima na heshima.
+Hii ni taarifa dhahiri: inzi waliokufa huharibu marashi. Linganisha na 9:18, inayosema "...Mkosaji mmoja huharibu mema mengi." Hivyo basi mjinga mmoja anayeheshimiwa kwaajili ya hekima na heshima.
 
 #### Ujinga humuaibisha mjinga kwa kujifunua yenyewe (mst. 2–3)
 
@@ -28,7 +28,7 @@ Mjinga hujulikana kwa maneno yake mengi, na kwa dhana yake kuhusu kesho wakati h
 
 Wajinga hawana hamu na kazi, au wakifanya kazi wanachoka mapema. Hawaoni kwamba ni hekima kufanya kazi sasa ili kuiandaa kesho. Kazi za ujinga zinatakiwa ziwe mbali na kazi.
 
-Hawajui hata namna ya kwenda katika jiji! Mjinga hana maana ya uelekeo au lengo. Wanaishi maisha yao kama vile ilikuwa haina maana, wala muelekeo. "Ktika maandishi ya kejeli, mithali hii inasema kwamba mtu anaweza kujihusisha katika mabishano kuhusu ulimwengu kuwa anakosa kile mtu wa kawaida anakionea wasiwasi kuhusu, yaani, kutafuta njia ya nyumbani."[2]
+Hawajui hata namna ya kwenda katika jiji! Mjinga hana maana ya uelekeo au lengo. Wanaishi maisha yao kama vile ilikuwa haina maana, wala muelekeo. "Katika maandishi ya kejeli, mithali hii inasema kwamba mtu anaweza kujihusisha katika mabishano kuhusu ulimwengu kuwa anakosa kile mtu wa kawaida anakionea wasiwasi kuhusu, yaani, kutafuta njia ya nyumbani."[2]
 
 #### Jinsi ujinga unavyoharibu taifa (mst. 16–20)
 

@@ -4,50 +4,50 @@ Hakuna njia ya kufunika maongezi ya sura kwa mlango bila kupoteza mvuto kwaajili
 
 ### Marafiki wa Ayubu
 
-#### Eliphaz
+#### Elifazi
 
-We can cay that Eliphaz is like a **mystic**. He gives most weight to his lived experiences: if he has seen something to be true in his life, then it is the truth for everyone else, too.
+Tunaweza kusema kwamba Elifazi ni kama **mtu wa fumbo**. Anatoa uzito zaidi kwa uzoefu wake alioishi: ikiwa ameona kitu kuwa kweli katika maisha yake, basi ni ukweli kwa kila mtu mwingine, pia.
 
-He talks about his dreams.
+Anazungumza juu ya ndoto zake.
 
-He believes that the righteous can suffer for a short time, but it will bot be permanent.
+Anaamini kwamba wenye haki wanaweza kuteseka kwa muda mfupi, lakini itakuwa ya kudumu.
 
-By the end of the debate, he no longer believes that Job is innocent (22:5&ndash;9).
+Kufikia mwisho wa mjadala, haamini tena kwamba Ayubu hana hatia (22:5&ndash;9).
 
-The speeches of Eliphaz are:
+Maneno ya Elifazi ni haya:
 
-1. Chapters 4&ndash;5
-2. Chapter 15
-3. Chapter 22
+1. Sura ya 4&ndash;5
+2. Sura ya 15
+3. Sura ya 22
 
-#### Bildad
+#### Bildadi
 
-We can say that Bildad is a **traditionalist**. He relies on the wisdom of the ages.
+Tunaweza kusema kwamba Bildadi ni **mwanamapokeo**. Anategemea hekima ya zama.
 
-Bildad uses the death of Job's children as proof of retribution (8:4).
+Bildadi anatumia kifo cha watoto wa Ayubu kama uthibitisho wa malipizi (8:4).
 
-The speeches of Bildad are:
+Maneno za Bildadi ni haya:
 
-1. Chapter 8
-2. Chapter 18
-3. Chapter 25
+1. Sura ya 8
+2. Sura ya 18
+3. Sura ya 25
 
-#### Zophar
+#### Sofari
 
-We can say that Zophar is a **rationalist**. Everything is black and white to him.
+Tunaweza kusema kwamba Sofari ni **mwenye mantiki**. Kila kitu ni nyeusi na nyeupe kwake.
 
-He thinks Job is suffering because he is a secret sinner (11:5&ndash;6).
+Anafikiri Ayubu anateseka kwa sababu yeye ni mtenda dhambi wa siri (11:5&ndash;6).
 
-The speeches of Zophar are:
+Maneno ya Sofari ni haya:
 
-1. Chapter 11
-2. Chapter 20
+1. Sura ya 11
+2. Sura ya 20
 
 #### Elihu
 
-For most of the book, we do not even know that Elihu is there listening with the other friends. It is thought that he was a young man and so his name was not meantioned with the other friends.
+Kwa sehemu kubwa ya kitabu, hata hatujui kwamba Elihu yuko akisikiliza pamoja na marafiki wengine. Inadhaniwa kwamba alikuwa kijana na hivyo jina lake halikutajwa pamoja na marafiki wengine.
 
-Elihu only speaks one time, but he speaks for a long time. He speaks from chapter 32 through chapter 37.
+Elihu anazungumza mara moja tu, lakini anazungumza kwa muda mrefu. Anazungumza kuanzia sura ya 32 hadi sura ya 37.
 
 ### Swali kubwa: "Kwanini?"
 
@@ -55,11 +55,11 @@ Swali, "Kwanini?" haisemwi waziwazi katika majadiliano yeyote. Ayubu hana anasa 
 
 Sababu zao zimelenga katika wazo linaloonyesha kukubaliwa kwa vyama vyote: "Mungu huwabariki wenye haki na kuwahukumu wenye dhambi." Dhana hii inatupelekea rafiki zake katika hitimisho kuwa Ayubu amefanya dhambi. Kwasababu ya hili, Ayubu amejengwa katika mjadala ambapo alitetea haki yake mwenyewe. Hii inawaharakisha rafiki zake kusema kuwa Ayubu anajiinua mwenyewe juu ya Mungu na wanaendelea mbele mbele kuhusu haki ya Mungu. Ayubu anakubali, lakini anagundua kuwa wanajaribu tu kuzitetea nafasi zao, na hivyo anatetea tena nafasi yake.
 
-Kama kuna kosa lolote, ni kwamba yeye mwenyewe ni mwenye haki, hata hivyo usisahau kuwa alijengwa katika nafasi hiii kwa dhana mbaya, na majanga mbaya sana iliyonakiliwa katika Biblia.
+Kama kuna kosa lolote, ni kwamba yeye mwenyewe ni mwenye haki, hata hivyo usisahau kuwa alijengwa katika nafasi hiii kwa dhana mabaya, na majanga mbaya sana iliyonakiliwa katika Biblia.
 
 Dhana halisi ilikuwa, "Mungu anabariki wenye haki na kuhukumu wenye dhambi." Hii inaitwa _malipo_. Wote tunajua kuwa hili ni kweli katika uso na Biblia inakubaliana na hili, lakini hakuna uwiano wa moja kwa moja. Yesu anamponya kipofu na kusema, "usitende dhambi tena, lisije likakupata jambo lililo baya zaidi" (Yoh. 5:14), na baada ya hapo katika kesi nyingine aliulizwa nani alitenda dhambi kuwa mtu huyu alifanywa kipofu na anajibu, hakuna mtu "kazi za Mungu zidhihirishwe ndani yake" (Yoh. 9:3).
 
-Kitu ambacho Ayubu na rafiki zake hawaruhusu ni kwamba kuna hatua nyingine, ambayo Mungu peke yake anaweza kuona na katika sehemu hiyo mtu anaweza kuteseka bila kufanya mabaya. Hivyo katika jaribio la kujibu kwanini, na silaha pamoja na mafundisho ambayo hayajatimia ya mema ya Mungu, Ayubu anakata tama na kuchanganyikiwa zaidi majadiliano yanapoendelea. Sharti hili linatuongoza sisi katika hatua nyingine.
+Kitu ambacho Ayubu na rafiki zake hawaruhusu ni kwamba kuna hatua nyingine, ambayo Mungu peke yake anaweza kuona na katika sehemu hiyo mtu anaweza kuteseka bila kufanya mabaya. Hivyo katika jaribio la kujibu kwanini, na silaha pamoja na mafundisho ambayo hayajatimia ya mema ya Mungu, Ayubu anakata tamaa na kuchanganyikiwa zaidi majadiliano yanapoendelea. Sharti hili linatuongoza sisi katika hatua nyingine.
 
 ### Mjumbe
 
@@ -67,5 +67,5 @@ Kwasababu Ayubu hawezi kuwashawishi rafiki zake kuwa yeye ni mwenye haki, anaanz
 
 ### Uadilifu
 
-Pamoja na kuwa alifanya makosa na kufanywa fahari na kuwa shujaaa kutosha kuuliza kikao na Mungu, hakutenda dhambi au kumlaani Mungu. Hawakujaribu kupotosha hali ya Ayubu kama matendo ya hovyo ya nafasi kama ambavyo tungefanya leo. Tunaweza kulaumu anguko, dunia, wenye dhambi na mengineyo kama sababu ya mateso, lakini Ayubu haharibu sifa ya Mungu kwa kuruhusutukio hili kuwa kitu ambacho Mungu hakuona kikija hakukiziua. Tukio linadanganya katika mikono ya Mungu na Ayubu anakasirika lakini hamlaani Mungu. Alikata tama, lakini hakutenda dhambi. Katika siku zetu, kuna uoungufu wa kujali na kuzitii amri, lakini katika siku za kuchanyanyikiwa na shida amri zinakuwa nanga. Zinaweza kuhifadhiwa tunapojiskia hakuna upendo kwa Mungu, na katika matendo mepesi ya kuzitenda tunaonyesha kweli tunampenda bila kujali tunajisikiaje. Yesu alisema, "Ukinipenda, utazishika amri zangu" (Yoh. 14:15).
+Pamoja na kuwa alifanya makosa na kufanywa fahari na kuwa shujaaa kutosha kuuliza kikao na Mungu, hakutenda dhambi au kumlaani Mungu. Hawakujaribu kupotosha hali ya Ayubu kama matendo ya hovyo ya nafasi kama ambavyo tungefanya leo. Tunaweza kulaumu anguko, dunia, wenye dhambi na mengineyo kama sababu ya mateso, lakini Ayubu haharibu sifa ya Mungu kwa kuruhusu tukio hili kuwa kitu ambacho Mungu hakuona kikija hakukizuia. Tukio linadanganya katika mikono ya Mungu na Ayubu anakasirika lakini hamlaani Mungu. Alikata tama, lakini hakutenda dhambi. Katika siku zetu, kuna uoungufu wa kujali na kuzitii amri, lakini katika siku za kuchanyanyikiwa na shida amri zinakuwa nanga. Zinaweza kuhifadhiwa tunapojiskia hakuna upendo kwa Mungu, na katika matendo mepesi ya kuzitenda tunaonyesha kweli tunampenda bila kujali tunajisikiaje. Yesu alisema, "Ukinipenda, utazishika amri zangu" (Yoh. 14:15).
 

@@ -63,7 +63,7 @@ Zaburi ya 8 inaufunua uzuri wa uumbaji wake na Zaburi 134 na 149:1–2 inatutia 
 
 #### Matendo ya kutisha ya Mungu
 
-Wakati mwingine zaburi haizungumzii tukio mahususi katika historia ambako Mungu alitenda, lakini zinatumia maneno ya kusifia "matendo" yake. Zifuatazo ni baadhi ya maneno yaliyotumika kuonyesha nini Mungu alichokifanya:
+Wakati mwingine zaburi haizungumzii tukio mahususi katika historia ambako Mungu alitenda, lakini zinatumia maneno ya kusifia "matendo" yake. Yafuatazo ni baadhi ya maneno yaliyotumika kuonyesha nini Mungu alichokifanya:
 
 * "Matendo ya kutisha" (65:5)
 * "Kazi" (105:1; 66:5)
@@ -80,7 +80,7 @@ Zaburi 65 na 145 zinamsifu Mungu kwa sababu ya mavuno.
 * [1] Psalms (Encountering Biblical Studies): A Literary and Theological Introduction By C. Hassell Bullock, p. 306
 * [2] ibid, p. 312
 
-<!--"Hans-Joachim Kraus... anatoa upenyo unasaidia wa zaburi za sifa. Orodha yakeni zifuatazo: Zaburi 8, 19A, 29, 33, 47, 65, 66A, 68, 93, 96, 97, 98, 99, 100, 104, 105, 106, 111, 113, 114, 117, 134, 135, 136, 145, 146, 147, 148, 149, 150. Zinaingia katika migawanyo miwili:"
+<!--"Hans-Joachim Kraus... anatoa upenyo unaosaidia zaburi za sifa. Orodha yake ni zifuatazo: Zaburi 8, 19A, 29, 33, 47, 65, 66A, 68, 93, 96, 97, 98, 99, 100, 104, 105, 106, 111, 113, 114, 117, 134, 135, 136, 145, 146, 147, 148, 149, 150. Zinaingia katika migawanyo miwili:"
 
 1. Nyimbo hizo zinazoweza kutofautishwa kwa maumbo-njia muhimu: 
 	1. Nyimbo muhimu, zinatokana na Kutoka 15:21: Sababu za kusifu zinatambulishwa na neno "kwasababu" (Waebrania ki). Hizi ni Zaburi 96, 98, 100, na 136.

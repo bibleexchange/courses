@@ -1,6 +1,6 @@
 ## Mithali inazungumza nini kuhusu nguvu ya maneno
 
-### Mauti na uzima ziko katika nguvu ya ulimi
+### Mauti na uzima huwa katika uwezo wa ulimi
 
 > Mithali 18:21—Mauti na uzima huwa katika uwezo wa ulimi;  
 > Na wao waupendao watakula matunda yake.
@@ -22,7 +22,7 @@ Mithali 18:20, ambayo yanatangulia mistari kuhusu uzima na mauti kuwa katika ngu
 > Mithali 18:20—Tumbo la mtu litajazwa matunda ya kinywa chake;  
 > Atashiba mazao ya midomo yake.
 
-Maneno yetu ni kama mbegu, na ikiwa wana afya, yatazaa matunda. Katika ufafanuzi wake kuhusu mithali Lindsay Wilson alisema kwamba "wazo la mstari wa kwanza ni kwamba wale wanaozungumza kwa usahihi (mfano kwa uangalifu, katika kweli, pasipo kulazimisha) anaweza kufanikiwa na kupata maisha (mfano kwa kufanya mpango, kushawishi wengine, kutatua matatizo). Midomo yao au maneno huzaa matokeomuhimu yatakayowawezesha kukidhi mahitaji yao."<sup>[1]</sup> Tremper Longman III anachukua tofauti ndogo na kusema kwamba "kama chakula kinavoweza kukidhi njaa ya kimwili, vivyo hivyo maneno hushibisha akili na njaa ya kiroho."<sup>[2]</sup> Tafsiri zote zinakaa kwasababu zinaonyesha matokeo chanya ya maneno yetu. Angalia pia 12:14 na 13:2
+Maneno yetu ni kama mbegu, ya kiwa yana afya, yatazaa matunda. Katika ufafanuzi wake kuhusu mithali Lindsay Wilson alisema kwamba "wazo la mstari wa kwanza ni kwamba wale wanaozungumza kwa usahihi (mfano kwa uangalifu, katika kweli, pasipo kulazimisha) anaweza kufanikiwa na kupata maisha (mfano kwa kufanya mpango, kushawishi wengine, kutatua matatizo). Midomo yao au maneno huzaa matokeomuhimu yatakayowawezesha kukidhi mahitaji yao."<sup>[1]</sup> Tremper Longman III anachukua tofauti ndogo na kusema kwamba "kama chakula kinavoweza kukidhi njaa ya kimwili, vivyo hivyo maneno hushibisha akili na njaa ya kiroho."<sup>[2]</sup> Tafsiri zote zinakaa kwasababu zinaonyesha matokeo chanya ya maneno yetu. Angalia pia 12:14 na 13:2
 
 Kuna nyakati tunajikuta katika hali ngumu, lakini kama tukitumia maneno ya hekima, yatatutoa katika shida (12:6).
 
@@ -48,9 +48,9 @@ Mara nyingi tunawalaumu wengine kwa shida zetu, lakini inawezekana kabisa kwamba
 
 #### Maneno yetu yanaweza kuumiza wengine
 
-Kama tu maneno mazuri yanaweza kuwasaidia watu wengine, maneno mabaya yanaweza kuwaumiza. Msemo "fimbo na mawe yanaweza kuvunja mifupa yangu, lakini maneno kamwe hayataniumiza" siyo kweli. Mithali inasemakwamba maneno yetu yanaweza kuwa kama "kuchoma kwa upanga" (12:18), na kwa hiyo tunaweza kuwaharibu jirani zetu (11:9) au hata mji mzima (11:11). Inaweza kuonekana kama kuongeza maneno kwamba maneno yanaweza kuharibu jiji, lakini tukiangalia historia inaweza kutukumbusha namna madikteta wengi yalivyoweza kuharibu siyo tu miji, lakini nchi nzima kupitia maneno na propaganda. 
+Kama tu maneno mazuri yanaweza kuwasaidia watu wengine, maneno mabaya yanaweza kuwaumiza. Msemo "fimbo na mawe yanaweza kuvunja mifupa yangu, lakini maneno kamwe hayataniumiza" siyo kweli. Mithali inasemakwamba maneno yetu yanaweza kuwa kama "kuchoma kwa upanga" (12:18), na kwa hiyo tunaweza kuwaharibu jirani zetu (11:9) au hata mji mzima (11:11). Inaweza kuonekana kama kuongeza maneno kwamba maneno yanaweza kuharibu jiji, lakini tukiangalia historia inaweza kutukumbusha namna madikteta wengi walivyoweza kuharibu siyo tu miji, lakini nchi nzima kupitia maneno na propaganda. 
 
-Mithali 16:27 inasema kwamba mtu asiyefaa kitu huchimba shimola madharakatika midomo yakemna moto uteketezao. Yakobo anaongeza kwamba moto wa ulimi "huuwasha moto mfulizo wa maumbile, nao huwashwa moto na jehanum" (Yakobo 3:6). Kama moto, umbea na uwongo huenea haraka sana.
+Mithali 16:27 inasema kwamba mtu asiyefaa kitu huchimba shimo la madhara katika midomo yakemna moto uteketezao. Yakobo anaongeza kwamba moto wa ulimi "huuwasha moto mfulizo wa maumbile, nao huwashwa moto na jehanum" (Yakobo 3:6). Kama moto, umbea na uwongo huenea haraka sana.
 
 ### Mashauri ya namna ya kutumia maneno kwa faida
 
@@ -66,11 +66,11 @@ Kuwa mtu wa maneno machache ni ishara ya busara (17:27), na hata mjinga anaweza 
 
 #### Dhidi ya kashfa na umbea
 
-Mithali hutufundisha kwamba umbea uanweza kuumiza watu (18:8; 26:22). Myahudi Midrashi anasema “Ulimi mbaya huua watatu, msingiziaji, aliyesingiziwa na msikilizaji” (Midrash Tehillim 52:2). Mnong’ona unaweza kufarakanisha hata urafiki wa karibu (16:28). Inatakiwa kuwa shauku yetu kuwaunganisha watu, na siyo kuwagawanya. Maneno yetu mara nyingi huweka mawazo hasi katika vichwa vya wengine. 
+Mithali hutufundisha kwamba umbea uanweza kuumiza watu (18:8; 26:22). Myahudi Midrashi anasema “Ulimi mbaya huua watatu, msingiziaji, aliyesingiziwa na msikilizaji” (Midrash Tehillim 52:2). Mnong’ono unaweza kufarakanisha hata urafiki wa karibu (16:28). Inatakiwa kuwa shauku yetu kuwaunganisha watu, na siyo kuwagawanya. Maneno yetu mara nyingi huweka mawazo hasi katika vichwa vya wengine. 
 
 ##### Wakati mwingine ni bora usizungumzie dhambi ya mtu
 
-If we know about someone's sin we should not tell everyone about it (17:9; 10:12). Kama tunajua kuhusu dhambi ya mtu tusimueleze kila mtu kuhusu dhambi hiyo (17:9;10:12). Many times we use prayer requests as an opportunity to share about other peoples mistakes and sins. Wakati mwingine tunatumia mahitaji ya maombi kueleza kuhusu makosa ya watu na dhambi walizofanya. When you choose not to talk about what someone has done, then, by default, you have chosen to cover it. Ukichagua kutokuzungumzia mambo yaliyofanywa na wengine, basi kwa kupuuza, umechagua kumfichia siri. We should not lie to protect someone, and if there is someone else that is in danger because of the person's sin, then we should speak up about it. See also 10:18, and 11:12, and 25:23. Hatutakiwi kudanganya kwaajili ya kumlinda mtu, na kama kuna mtu mwingine hatari kwasababu ya dhambi za watu, basi tutatakiwa kulisema. Angalia pia 10:18, na 11:12 na 25:23. 
+Kama tunajua kuhusu dhambi ya mtu tusimueleze kila mtu kuhusu dhambi hiyo (17:9;10:12). Wakati mwingine tunatumia mahitaji ya maombi kueleza kuhusu makosa ya watu na dhambi walizofanya. Ukichagua kutokuzungumzia mambo yaliyofanywa na wengine, basi kwa kupuuza, umechagua kumfichia siri. Hatutakiwi kudanganya kwaajili ya kumlinda mtu, na kama kuna mtu mwingine hatari kwasababu ya dhambi za watu, basi tutatakiwa kulisema. Angalia pia 10:18, na 11:12 na 25:23. 
 
 #### Ujeuri hudanganya
 
