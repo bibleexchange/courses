@@ -5,7 +5,7 @@
 > Proverbs 18:1—Through desire a man, having separated himself, seeketh  
 > And intermeddleth with all wisdom.
 
-The Hebrew word for _intermeddleth_ in the Hebrew is _gala_ (גָּלַע ), which means "to be hostile or to defy."[1] This means that the selfish man, who is seeking his own desires, is defying wisdom. Wisdom says that it is a good thing to have friends, but he is too selfish to share his time and resources with other people.
+The Hebrew word for _intermeddleth_ in the Hebrew is _gala_ (גָּלַע ), which means "to be hostile or to defy."<sup>[1]</sup> This means that the selfish man, who is seeking his own desires, is defying wisdom. Wisdom says that it is a good thing to have friends, but he is too selfish to share his time and resources with other people.
 
 > No man is an island entire of itself; every man   
 > is a piece of the continent, a part of the main;  
@@ -16,11 +16,11 @@ The Hebrew word for _intermeddleth_ in the Hebrew is _gala_ (גָּלַע ), whi
 > because I am involved in mankind.   
 > And therefore never send to know for whom  
 > the bell tolls; it tolls for thee.   
-> —_John Donne_[2]
+> —_John Donne_<sup>[2]</sup>
 
 ### It is better to have a few real friends than to have many shallow friends
 
-Not everyone that says that they are your friend is a real friend. In Proverbs the Hebrew word _rea_ (רֵעַ ) can mean either a "neighbor" or a "friend."[3] We have to look at the context to see if the word means someone who is physically close (a neighbor) or someone who is emotionally close (a friend). In life we also have to discern who are real friends are. You can live near someone and see them every day, but that does not make them a true friend. Many people talk good to us. They say, "I am your friend," but will they be there when you really need them? A true friend is someone who is there in the good times and the bad times.
+Not everyone that says that they are your friend is a real friend. In Proverbs the Hebrew word _rea_ (רֵעַ ) can mean either a "neighbor" or a "friend."<sup>[3]</sup> We have to look at the context to see if the word means someone who is physically close (a neighbor) or someone who is emotionally close (a friend). In life we also have to discern who are real friends are. You can live near someone and see them every day, but that does not make them a true friend. Many people talk good to us. They say, "I am your friend," but will they be there when you really need them? A true friend is someone who is there in the good times and the bad times.
 
 <!--
 > The significance of friends is found in their quality, not quantity.  
@@ -31,8 +31,8 @@ Not everyone that says that they are your friend is a real friend. In Proverbs t
 
 Proverbs 17:17 says that "A friend loveth at all times, And a brother is born for adversity." There are two ways of interpreting this verse:
 
-1. One way says that the friend is better than the brother. Bruce Waltke says that in this verse that "The friend is represented as always present, in good times and bad; the relative only in adversity."[4]
-2. The other way is that the two lines show how both the friend and the brother show their love. Tremper Longman, III says "The relationship between the cola seems to be one of intensifying and particularizing, but not contrasting. That a friend loves all the time would include moments of adversity."[5]
+1. One way says that the friend is better than the brother. Bruce Waltke says that in this verse that "The friend is represented as always present, in good times and bad; the relative only in adversity."<sup>[4]</sup>
+2. The other way is that the two lines show how both the friend and the brother show their love. Tremper Longman, III says "The relationship between the cola seems to be one of intensifying and particularizing, but not contrasting. That a friend loves all the time would include moments of adversity."<sup>[5]</sup>
 
 Either way of interpreting it, the verse talks about how a friend is always there—no matter what.
 
@@ -52,7 +52,7 @@ Some people call everyone their "friend," but do they really care about you? (Or
 
 #### Friends may be closer than family
 
-Proverbs 18:24 says that "there is a friend that sticketh closer than a brother" and 27:10 warns us not to forsake the old friends of the family because a neighbor that is near is better than a brother that is far away. Does this mean that family is not important? No. Lindsay Wilson says about this verse that "This is not to minimize fraternal responsibilities, but rather to lift up the value of a friend or neighbour."[6]
+Proverbs 18:24 says that "there is a friend that sticketh closer than a brother" and 27:10 warns us not to forsake the old friends of the family because a neighbor that is near is better than a brother that is far away. Does this mean that family is not important? No. Lindsay Wilson says about this verse that "This is not to minimize fraternal responsibilities, but rather to lift up the value of a friend or neighbour."<sup>[6]</sup>
 
 #### Choose your friends wisely because they can influence you
 
@@ -87,7 +87,7 @@ Heaping coals...
 Proverbs 27:9 teaches us that counsel from friends is beneficial to us. Sometimes the counsel of friends will come in the form of correction. The wise person wants friends who will be honest with him. True friends will tell us the truth, even if it hurts (27:5–6; 29:5). We may not like the correction at first, but later we will see the value of it (28:23). This confrontation will help us mature (27:17).
 
 > This character-forming wisdom, rooted in God, is experienced in community. In studying sapiential [relating to wisdom] instruction, I have discovered the ubiquitous presence of conversation and conflict. Character development flourishes only in a community where healthy confrontation exists. Without the rigors of such an environment, individual character becomes undisciplined. The sages believed strongly in the principle that “iron sharpens iron” when it came to human interaction. Growth comes through struggle, and struggle is manifested as constructive conflict in healthy relationships.
-> —_Dave Bland_[7]
+> —_Dave Bland_<sup>[7]</sup>
 
 ### Conclusion
 

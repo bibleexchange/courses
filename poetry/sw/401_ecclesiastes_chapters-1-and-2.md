@@ -1,14 +1,12 @@
-# Muhuburi
-
 ## Chini ya jua (sura ya 1–2)
 
 Katika milango hii miwili, tuna utangulizi, utafutaji wa maana katika maisha, na baadhi ya hitimisho zilizopatikana katika utafutaji.
 
 ### Utangulizi na msimuliaji (1:1–2)
 
-### Mifano ya bure (1:4–11)
+### Mifano ya bure (1:3–11)
 
-Hizi ni tafakari katika za mambo ya kila siku ya kuchosha katika maisha. Maisha chini ya jua hayana maana, na mwandishi anatoa mifano baadhi ya bure.
+Hizi ni tafakari katika za mambo ya kila siku ya kuchosha katika maisha. Hii inatusaidia kukumbuka jinsi tulivyo wadogo na wasio na maana tukilinganishwa na Mungu. Tuna mwanzo na mwisho, lakini Mungu ni wa milele. Dunia itaendelea baada ya sisi kufa.
 
 #### Kupita kwa vizazi (1:4)
 
@@ -24,14 +22,14 @@ Pamoja na udadisi wa mwanadamu na jitihada zake, kadri anavyojifunza ndivyo anav
 
 #### Kutokuwepo kwa upya (1:9–11)
 
-### Philosofia za bure
+### Utafutaji kwaajil ya maana (1:12–2:23)
 
-Mwanadamu amejenga filosofia za maisha kumsaidia kuishi au kukabiliana na hitimisho hili. Jibu siyo "hakuna jibu." Zile akili za kiroho hazitulii katika "maisha ni bure" lakini zinatafuta maana **zaidi ya** maisha haya. Kama jibu halipatikani chini ya jua, halafu inapatikana juu ya jua, zaidi yetu. Katika mahitaji ya mwanadamu kuna kuridhika sambamba (njaa-chakula, na kadhalika.). Kama tukiwa na hamu kwa kipi katika dunia hii kinaweza kuridhisha, ni mantiki kudhani tumetengenezwa kwa dunia nyingine.
+Zile akili za kiroho hazitulii katika "maisha ni bure" lakini zinatafuta maana **zaidi ya** maisha haya. Kama jibu halipatikani chini ya jua, halafu inapatikana juu ya jua, zaidi yetu. Katika Mungu, tunapata maana katika maisha haya. Katika Mungu, tunajifunza jinsi ya kuishi katika ulimwengu huu aliotuumbia.
+
+Katika mahitaji ya mwanadamu kuna kuridhika sambamba (njaa-chakula, na kadhalika.). Kama tukiwa na hamu kwa kipi katika dunia hii kinaweza kuridhisha, ni mantiki kudhani tumetengenezwa kwa dunia nyingine:
 
 > Mkristo anasema, 'kiumbe hakijazaliwa na hamu isipokuwa kuridhika kwa wale wanaotamani upo. Mtoto anahisi njaa: sawa, kuna kitu kama chakula. Bata anataka kuogelea: sawa, kuna kitu kama maji. Wanaume wanahisi hamu ya mapenzi: sawa, kuna kitu kama mapenzi. Kama nikikuta ndani yangu hamu ambayo hakuna uzoefu katika dunia hii itakayoridhisha, maelezo makubwa yenye uwezekano ni kwamba niliumbwa kwaajili ya ulimwengu mwingine. Kama hakuna chochote kinachoridhisha katika dunia haithibitishi kwamba ulimwengu unadanganya. Kuna uwezekano kuwa raha za dunia hazikukusidiwa kuuridhisha ulimwengu, lakini kuuinua tu, kupendekeza kitu halisi.' 
-> —C. S. Lewis
-
-### Utafutaji kwaajil ya maana (1:12–2:23)
+>—C. S. Lewis
 
 #### Kupata hekima na maarifa (1:12–18)
 
@@ -42,7 +40,9 @@ Utafutaji wa mtu halisi kwaajili ya kuridhika na furaha. Koheleti anaelezea namn
 3. Maarifa hayana maana (1:16–17)
 4. Hamu ya maarifa huleta maumivu makubwa (1:18) 
 
-Kizazi cha sasa ni mfano mkuu wa bure wa kuwa "maaira mengi." Watu husema, "nimepata maarifa haya yote na sasa najisikia vibaya." Kwanini? Huwezi kujua unachokitaka kujua ili kupata amanikiridhika, furaha, na kadhalika. Watu wanasema, "Tujenge ju, tupae mpaka kwenye mwezi, kwenye masi, na kadhalika." Tumegundua nini? Taarifa nyingi katika **sehemu** na siyo maelezo ya **nzima**. Koheleti siyo kutokuwa na maarifa, lakini anamalizia kwa haki kuwa maarifa ya mwanadamu bila kurejea kwa Mungu ni **haziridhishi kamwe**.
+Koheleti siyo kutokuwa na maarifa, lakini anamalizia kwa haki kuwa maarifa ya mwanadamu bila kurejea kwa Mungu ni **haziridhishi kamwe**.
+
+Mhubiri 1:18 inasema, "Yaani, Katika wingi wa hekima mna wingi wa huzuni." Lakini sehemu nyingine nyingi katika Biblia husema kwamba hekima hutusaidia katika maisha yetu. Kwa nini hii inasema tofauti? Hekima husaidia katika maisha yetu, lakini pia huleta mzigo. Kwa mfano, kabla ya redio, hatukujua kuhusu matatizo katika sehemu nyingine za dunia. Sasa tunaweza kujua kuhusu vita na matatizo mengine katika kila kona ya dunia. Kitabu cha Mithali kinatufundisha kwamba wezi hutajirika na watu waovu hutawala&mdash;huu ndio ukweli mgumu ambao hekima inatufundisha.
 
 #### Raha za dunia (2:1–3)
 
