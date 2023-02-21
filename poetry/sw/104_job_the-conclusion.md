@@ -6,13 +6,19 @@ Katika 38:2, Mungu anauliza, "Ni nani huyu?" Ni Ayubu, mtumishi wako mwaminifu, 
 
 Katika taarifa mbili Mungu alipunguza kifusi kwa Ayubu. Siyo kile tunachotarajia, bali kwa kudai haki na hekima, Ayubu alienea katika utukufu wa Mungu. Aliingia kimakosa katika eneo lake. Kabla ya kuperuzi haki ya kweli na hekima, lazima kwanza tufundishwe utu. Hii inaweza kuwa eeneo la kuumiza sana katika kitabu kizima.
 
-### Kwanini maswali?
-
-Awali hii inakuja kama taarifa ya kufuzu. Kama unaweza kujibu swali lolote kati ya haya, basi nitakujibu maswali yako. Ni jukumu kwa ombi la Ayubu kwa watazamaji na Mungu. Bwana anasema, "Kama ungependa kuzungumza name kama tuko sawa, basi thibitisha kuwa sawa, halafu thibitisha uko sawa." Dhana ya kati ni "Ayubu hastahili jibu kutoka kwa Mungu." Maarifa yote ya Mungu ni zawadi, na maswali yote na mafunuo ni zawadi za neema. Tunajisikia kuwekwa juu sana katika maelezo, na tunaweza kupata shida kimya kimya kama tunajua, ni kwa muda gani, ni mbaya kiasi gani, na na kwa lengo gani tunateseka. Hakumfunulia Ayubu, na hatatufulia sisi pia. Kama tungejua lengo tungebadilisha tabia zetu na malengo yangepotea. 
-
 ### Maswali ni yapi?
 
 Walianzia na uumbaji na kuendelea mbele katia dunia halisi. Wanazungumzia utajiri na wanyama na zilitimizwa na maswali kuwa Ayubu hajauliza au hata kufikiria. La muhimu zaidi, hawezi kujibu moja ya hayo. Dhanaya kati ni "Kama Ayubu hawezi kujibu maswali haya, asingeweza kuelewa kwanini hata Mungu alimwambia." Pia, matumizi ya maswali katika uumbaji kama vile yanamzungumzia Ayubu, "Kama ungekuwa hapa tangu mwanzo ndiyo ungeelewa lengo hili." Vivyo hivyo, Hatuwezi kujua sababu iliyojaa kwa majaribu yetu. Ni ujinga kufikiri kuwa tunastahili jibu, na ujinga kufikiri tungeelewa hata kama tungeambiwa. Ayubu ni mtu anayemuinua Mungu, kitabu cha mtu mnyenyekevu.
+
+### Kwanini maswali?
+
+Awali hii inakuja kama taarifa ya kufuzu. Kama unaweza kujibu swali lolote kati ya haya, basi nitakujibu maswali yako. Ni jukumu kwa ombi la Ayubu kwa watazamaji na Mungu. Bwana anasema, "Kama ungependa kuzungumza name kama tuko sawa, basi thibitisha kuwa sawa, halafu thibitisha uko sawa." Dhana ya kati ni "Ayubu hastahili jibu kutoka kwa Mungu." Maarifa yote ya Mungu ni zawadi, na maswali yote na mafunuo ni zawadi za neema. Tunajisikia kuwekwa juu sana katika maelezo, na tunaweza kupata shida kimya kimya kama tunajua, ni kwa muda gani, ni mbaya kiasi gani, na na kwa lengo gani tunateseka. Hakumfunulia Ayubu, na hatatufulia sisi pia. Kama tungejua lengo tungebadilisha tabia zetu na malengo yangepotea.
+
+God asked Job questions about creation so that Job's trust would be restored in Him. In wisdom literature, observation of creation was a way to exalt God and learn about His wisdom. Even when Jesus was speaking about trust in God, He said to consider the lilies and the ravens as proof that God is in control (Matt. 6:25&ndash;34).
+
+### Why doesn't God talk about Job's suffering?
+
+God says many things, but He does not give any answer of why Job was suffering. Job's test was to see if he trusted in God for nothing in return. He had to trust God even though he didn't know why these things were happening to him. If God revealed the reason, then Job's trust would have been conditional: he would be trusting God only because he received revelation from God. It would have made the test for no purpose. We cannot say we have faith if we must wait to see the promise to be fulfilled (Rom. 8:24&ndash;25).
 
 ### Jambo la mwisho
 

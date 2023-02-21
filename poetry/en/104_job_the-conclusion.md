@@ -4,15 +4,21 @@ We are ready for a rescue. We are tired of words that change nothing, we are tir
 
 In 38:2, God asks, "Who is this?" It’s Job, your faithful servant, surely you know who he is. The question is not, "who are you?" It is, "who do you think you are?" And in 38:3, God said, "I will demand of thee, and answer thou me." It was like He was saying, "Since you seem to know so much, let me ask you some questions."
 
-In two statements God has reduced Job to rubble. It’s not what we expect, but by claiming righteousness and wisdom, Job has encroached on God’s glory. He has trespassed into God’s territory. Before we can peruse true righteousness and wisdom, we must first be taught humility. This may be the most painful place in the whole book. 
- 
-### Why the questions?
-
-They initially come across as a statement of qualification. If you can answer any of these questions, then I will answer yours. It is a response to Job’s request for an audience with God. The Lord is saying, "If you would like to speak to me as if we are on equal terms, then prove you are equal." The central theme is "Job is not worthy of an answer from God." All knowledge of God is a gift, and all answers and revelations are gifts of grace. We feel so entitled to an explanation, and we can suffer quietly as long as we know how long, how bad, and for what purpose we are suffering. He did not reveal it to Job, and He will not likely reveal it to us. If we knew the purpose we would change our behavior and the purpose would be lost.    
+In two statements God has reduced Job to rubble. It’s not what we expect, but by claiming righteousness and wisdom, Job has encroached on God’s glory. He has trespassed into God’s territory. Before we can peruse true righteousness and wisdom, we must first be taught humility. This may be the most painful place in the whole book.
 
 ### What are the questions?
 
-They began with creation and moved on to the natural world. They speak of weather and animals and are filled with questions that Job has not asked or even thought of. Most importantly, he cannot answer one of them. The central theme is "If Job cannot answer these questions, he would not be able to understand why even if God told him." Also, the use of questions from creation seems to say to Job, "only if you had been here from the beginning could you understand the purpose." Likewise, we cannot know the full reason for our trials. It is foolish to think we are worthy of an answer, and foolish to think we could understand even if we were told. Job is a God-exalting, man-humbling book.
+They began with creation and moved on to the natural world. They speak of weather and animals and are filled with questions that Job has not asked or even thought of. Most importantly, Job cannot answer any of them. The central theme is "If Job cannot answer these questions, he would not be able to understand why even if God told him." Also, the use of questions from creation seems to say to Job, "only if you had been here from the beginning could you understand the purpose." Likewise, we cannot know the full reason for our trials. It is foolish to think we are worthy of an answer, and foolish to think we could understand even if we were told. Job is a God-exalting, man-humbling book.
+ 
+### Why the questions?
+
+They initially come across as a statement of qualification. If you can answer any of these questions, then I will answer yours. It is a response to Job’s request for an audience with God. The Lord is saying, "If you would like to speak to me as if we are on equal terms, then prove you are equal." The central theme is "Job is not worthy of an answer from God." All knowledge of God is a gift, and all answers and revelations are gifts of grace. We feel so entitled to an explanation, and we can suffer quietly as long as we know how long, how bad, and for what purpose we are suffering. He did not reveal it to Job, and He will not likely reveal it to us. If we knew the purpose we would change our behavior and the purpose would be lost.
+
+God asked Job questions about creation so that Job's trust would be restored in Him. In wisdom literature, observation of creation was a way to exalt God and learn about His wisdom. Even when Jesus was speaking about trust in God, He said to consider the lilies and the ravens as proof that God is in control (Matt. 6:25&ndash;34).
+
+### Why doesn't God talk about Job's suffering?
+
+God says many things, but He does not give any answer of why Job was suffering. Job's test was to see if he trusted in God for nothing in return. He had to trust God even though he didn't know why these things were happening to him. If God revealed the reason, then Job's trust would have been conditional: he would be trusting God only because he received revelation from God. It would have made the test for no purpose. We cannot say we have faith if we must wait to see the promise to be fulfilled (Rom. 8:24&ndash;25).
 
 ### Final point
 

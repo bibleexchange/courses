@@ -4,6 +4,51 @@ Hakuna njia ya kufunika maongezi ya sura kwa mlango bila kupoteza mvuto kwaajili
 
 ### Marafiki wa Ayubu
 
+#### Eliphaz
+
+We can cay that Eliphaz is like a **mystic**. He gives most weight to his lived experiences: if he has seen something to be true in his life, then it is the truth for everyone else, too.
+
+He talks about his dreams.
+
+He believes that the righteous can suffer for a short time, but it will bot be permanent.
+
+By the end of the debate, he no longer believes that Job is innocent (22:5&ndash;9).
+
+The speeches of Eliphaz are:
+
+1. Chapters 4&ndash;5
+2. Chapter 15
+3. Chapter 22
+
+#### Bildad
+
+We can say that Bildad is a **traditionalist**. He relies on the wisdom of the ages.
+
+Bildad uses the death of Job's children as proof of retribution (8:4).
+
+The speeches of Bildad are:
+
+1. Chapter 8
+2. Chapter 18
+3. Chapter 25
+
+#### Zophar
+
+We can say that Zophar is a **rationalist**. Everything is black and white to him.
+
+He thinks Job is suffering because he is a secret sinner (11:5&ndash;6).
+
+The speeches of Zophar are:
+
+1. Chapter 11
+2. Chapter 20
+
+#### Elihu
+
+For most of the book, we do not even know that Elihu is there listening with the other friends. It is thought that he was a young man and so his name was not meantioned with the other friends.
+
+Elihu only speaks one time, but he speaks for a long time. He speaks from chapter 32 through chapter 37.
+
 ### Swali kubwa: "Kwanini?"
 
 Swali, "Kwanini?" haisemwi waziwazi katika majadiliano yeyote. Ayubu hana anasa ya kujua kuwa haya ni marudio ya aina kati ya nguvu kubwa. Yeye na rafiki zake hawakuwahi kuuliza swali moja kwa moja, lakini kila moja ya hotuba ina jitihada za kujibu swali, "kwanini haya yalitokea kwa Ayubu?"
