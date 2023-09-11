@@ -20,7 +20,7 @@
 
 ### Mungu mkuu mwenye uweza (Isaya 9:6-7)
 
-### Mungu mkuu (Tito 2:13) 
+### Mungu mkuu (Tito 2:13)
 
 ### Katika Yesu unakaa utimilifu wote wa Mungu kwa jinsi ya kimwili (Kolosai 2:9)
 
@@ -32,8 +32,8 @@
 
 ### Roho mtakatifu anaonyeshwa kama kisababishi cha matokeo makubwa ya Mungu (Matendo 1:8, Warumi 15:19, I Wakorinto 2:11, 1 Yohana 5:6)
 
-Kila mtu katika utatu ni imara katika uumbaji 
+Kila mtu katika utatu ni imara katika uumbaji
 
-1. Baba (Mwanzo 1:1) 
+1. Baba (Mwanzo 1:1)
 2. Mwana (Yohana 1:1-2)
 3. Roho Mtakatifu (Mwanzo 1:2)

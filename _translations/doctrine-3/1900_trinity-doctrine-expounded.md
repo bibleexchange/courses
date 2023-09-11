@@ -8,13 +8,13 @@ Biblia hainakosa ni Neno kamili la Mungu. Maandiko lazima ya kubaliane na maandi
 
 ## Kuna watatu mbinguni
 
-> Kwa maana wako watatu washuhudiao mbinguni, Baba, na Neno, na Roho Mtakatifu, na watatu hawa ni umoja.&mdash;1 Yoh. 5:7, 8
+> 1 Yoh. 5:7-8 --- Kwa maana wako watatu washuhudiao mbinguni, Baba, na Neno, na Roho Mtakatifu, na watatu hawa ni umoja.
 
 ## Yesu alitumwa na Baba
 
 Ni ushahidi kwamba mtu hawezi kujituma mwenyewe. Kutumwa ni kuwa na maelekezo toka kwa mwingine zaidi pamoja na kusudi na utume (Yoh. 5:30, 36-37; Yoh. 6:39, 44, 57; Yoh. 8:16, 18, 29, 42; Yoh. 12:49; Yoh. 14:24; Yoh. 17:21, 25; Yoh. 20:21).
 
-## Yesu hakuja kwa jina lake mwenyewe 
+## Yesu hakuja kwa jina lake mwenyewe
 
 Yesu alikuja kwa jina la Baba (Yoh. 5:30, Yoh. 8:42, Yoh. 14:24, Yoh. 5:43).
 
@@ -22,11 +22,11 @@ Yesu alikuja kwa jina la Baba (Yoh. 5:30, Yoh. 8:42, Yoh. 14:24, Yoh. 5:43).
 
 Hakuna hata moja aliyewahi kumwona au kumsikia Baba, lakini watu wameshamwona na kumsikia Mungu. Walimwona Yesu, mwana wa Baba. Yesu ni Mungu kama Baba, lakini sio Baba. Kuna utofauti (Yoh. 1:18, Yoh. 5:37).
 
-## Baba na mwana ni wamoja 
+## Baba na mwana ni wamoja
 
 Yoh. 10:30, Yoh. 17:11, 21
 
-## Baba ana jina lake mwenyewe 
+## Baba ana jina lake mwenyewe
 
 Yoh. 17:11
 
@@ -40,25 +40,24 @@ kuna mahusiano ya Baba na mwana kati ya Yesu na Baba wakati Yesu anaposema "Baba
 
 ## Kristo huishi ndani ya wale waminio, lakini sio wote waaminio kwamba wana Roho mtakatifu
 
-> akawauliza, Je! Mlipokea Roho Mtakatifu mlipoamini? Wakamjibu, La, hata kusikia kwamba kuna Roho Mtakatifu hatukusikia.&mdash;Mdo. 19:2
+> Mdo. 19:2 --- akawauliza, Je! Mlipokea Roho Mtakatifu mlipoamini? Wakamjibu, La, hata kusikia kwamba kuna Roho Mtakatifu hatukusikia.
 
 ## Roho mtakatifu alitumwa na Baba
 
 Luka 24:49, Mdo. 1:4, Mdo. 2:33
 
-## Mwana hukaa katika mkono wa kuume wa Baba 
+## Mwana hukaa katika mkono wa kuume wa Baba
 
 Zab. 110:1, Mat. 22:44, Luka 16:5, Luka 20:42, Mdo. 2:33-34, Mdo. 7:55-56
 
 ## Mwana na Baba wote huwa mahali pamoja kwa wakati uleule
 
-> Roho Mtakatifu akashuka juu yake kwa mfano wa kiwiliwili, kama hua; sauti ikatoka mbinguni, Wewe ndiwe Mwanangu, mpendwa wangu; nimependezwa nawe.&mdash;Luka 3:22
+> Luka 3:22 --- Roho Mtakatifu akashuka juu yake kwa mfano wa kiwiliwili, kama hua; sauti ikatoka mbinguni, Wewe ndiwe Mwanangu, mpendwa wangu; nimependezwa nawe.
 
 ## Mwana alikuwa na Baba kabla yakuja Duniani
 
->  Nanyi pia mnashuhudia, kwa kuwa tangu mwanzo mmekuwapo pamoja nami.&mdash;Yoh. 15:27
+> Yoh. 15:27 --- Nanyi pia mnashuhudia, kwa kuwa tangu mwanzo mmekuwapo pamoja nami.
 
 ## Maandiko ambayo huonyesha Mungu ni uwingi
 
 Mwanzo. 1:26; Mwanzo. 3:22; Mwanzo. 11:7; Isaya. 6:8
-

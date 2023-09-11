@@ -20,7 +20,7 @@ Baadhi ya maelezo makuu kuhusu Mungu katika maandiko ni: ROHO (Yohn 4:24), NURU 
 
 #### Hana vikomo vya kimwili
 
-> Tazameni mikono yangu na miguu yangu, ya kuwa ni mimi mwenyewe: Nishikenishikeni, mwone, kwa kuwa roho haina mwili na mifupa, kama mnavyoniona mimi kuwa nayo. Luk 24:37 
+> Tazameni mikono yangu na miguu yangu, ya kuwa ni mimi mwenyewe: Nishikenishikeni, mwone, kwa kuwa roho haina mwili na mifupa, kama mnavyoniona mimi kuwa nayo. Luk 24:37
 
 ### Elimu yenye kupendekeza uwakilishaji wa Mungu
 
@@ -56,11 +56,11 @@ Linganisha na Mwanzo. 1:14, Waeb. 11:3
 
 #### Mungu asiyeonekana
 
-> Wakol 1:15  Ni nani ambaye ni mfano wa Mungu asiyeonekana, mzaliwa wa kwanza wakila kiumbe:
+> Wakol 1:15 Ni nani ambaye ni mfano wa Mungu asiyeonekana, mzaliwa wa kwanza wakila kiumbe:
 
 ### Mungu yu hai
 
-> Yoshua 3:10 Yoshua akasema, #44Kwa jambo hili mtajua ya kuwa Mungu aliye hai yu kati yenu,,... 
+> Yoshua 3:10 Yoshua akasema, #44Kwa jambo hili mtajua ya kuwa Mungu aliye hai yu kati yenu,,...
 
 > I Samuel 17:26 ... yeye atakayemwua Mfilisti huyo, na kuwaondolea Israeli aibu hii? Maana Mfilisti huyu asiyetahiriwa ni nani hata awatukane majeshi ya Mungu aliye hai?
 
@@ -136,12 +136,12 @@ Yeye mwenyewe
 
 ### Mungu ana uzima ndani yake yeye mwenyewe
 
-> Mungu akamwambia Musa, MIMI NIKO AMBAYE NIKO;akasema,Ndivyo utakavyowaambia wana wa Israeli;MIMI NIKO amenituma kwenu. Kut. 3:14
+> Mungu akamwambia Musa, MIMI NIKO AMBAYE NIKO; akasema, Ndivyo utakavyowaambia wana wa Israeli; MIMI NIKO amenituma kwenu. Kut. 3:14
 
 > Kwa maana kama Baba alivyo na uzima ndani yake; hivyo hivyo amempa na mwana uzima ndani yake; Yohn
 
-> Mungu sio tu yupo tangu milele, bali uwepo kutoka yeye mwenyewe."--Dr. R.A. Torrey
+> Mungu sio tu yupo tangu milele, bali uwepo kutoka yeye mwenyewe."--Dr. R. A. Torrey
 
-> Yeye ni sababu ya kwanza,yeye haja sababishwa." --Thomas Aquinas
+> Yeye ni sababu ya kwanza, yeye haja sababishwa." --Thomas Aquinas
 
 Kut 3:14; Kut 6:3; Yohn 5:26; Mndo 17:24-28

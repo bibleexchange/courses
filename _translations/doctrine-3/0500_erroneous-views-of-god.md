@@ -20,7 +20,7 @@
 
 > Dan. 11:32 watu wamjuao Mungu wao watakuwa hodari, na kutenda mambo makuu.
 
-## Polytheism wenyenye kuabudu miungu 
+## Polytheism wenyenye kuabudu miungu
 
 ### Tabia za dini za zamani
 
@@ -54,9 +54,9 @@
 
 ##### Nafsi tatu ndani ya Mungu mmoja
 
-##### Monotheism  ibada ya Mungu moja
+##### Monotheism ibada ya Mungu moja
 
-## Pantheism  yote ni mungu
+## Pantheism yote ni mungu
 
 ### Dunia yote sehemu ya Mungu
 
@@ -72,9 +72,9 @@
 
 #### Shairi sio mtunga shairi
 
-#### Kiumbe sio Muumbaji War 1:25 
+#### Kiumbe sio Muumbaji War 1:25
 
-## Uyakinifu  jambo ni sababu ya maisha yote na ufahamu (Big bang theory)
+## Uyakinifu jambo ni sababu ya maisha yote na ufahamu (Big bang theory)
 
 ### Hukana utofauti kati ya ufahamu na jambo
 
@@ -92,7 +92,7 @@
 
 #### Mungu ni muumbaji wa maisha yote
 
-## Imani ya uungu bila kukubali ufunuo  hurusu kuwa kuna Mungu pekee#44; aliyeuumba ulimwengu; kisha akaucha ukatawaliwa na sheria za asili 
+## Imani ya uungu bila kukubali ufunuo hurusu kuwa kuna Mungu pekee#44; aliyeuumba ulimwengu; kisha akaucha ukatawaliwa na sheria za asili
 
 ### Saa ya kusisimka iliochwa kujiendesha yenyewe
 

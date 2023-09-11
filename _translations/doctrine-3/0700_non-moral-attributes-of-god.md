@@ -1,4 +1,4 @@
-# Tabia za kishindo-za Mungu zisizo husiana na maadili 
+# Tabia za kishindo-za Mungu zisizo husiana na maadili
 
 ## Maelezo "ya sifa ambazo si za maadili zisizo"
 
@@ -6,11 +6,11 @@
 
 Tabia ambazo zina husika kwa hali na kutoa maandishi yake. Maandishi ya asili au sifa za mtu
 
-> Kwa mfano,Mungu anajisemea, mimi ni mtakatifu; kwa hiyo tunaweza, Mungu ni mtakatifu.Utakatifu,kisha ikawa ni hali ya Mungu, kwa sababu utakatifu ni sifa ambayo tuna weza kudhania au kutia kwake. Kitabu cha mafundisho ya Biblia 
+> Kwa mfano, Mungu anajisemea, mimi ni mtakatifu; kwa hiyo tunaweza, Mungu ni mtakatifu. Utakatifu, kisha ikawa ni hali ya Mungu, kwa sababu utakatifu ni sifa ambayo tuna weza kudhania au kutia kwake. Kitabu cha mafundisho ya Biblia
 
 ### Maadili- ya kishindo
 
-Maoni- ya maadili ya kishindo ni zile kweli za Asili ya Mungu ambazo hazihusishwi na sifa za maadili.Ni sifa ya asili bila kujali haki au uovu.Maadili yenye kishindo hayawi sawa kama wasio na maadili au uvunjivu wa "maadili.
+Maoni- ya maadili ya kishindo ni zile kweli za Asili ya Mungu ambazo hazihusishwi na sifa za maadili. Ni sifa ya asili bila kujali haki au uovu. Maadili yenye kishindo hayawi sawa kama wasio na maadili au uvunjivu wa "maadili.
 
 ## Kuwepo lila mahali kwa wakati huo huo
 
@@ -38,11 +38,11 @@ Maoni- ya maadili ya kishindo ni zile kweli za Asili ya Mungu ambazo hazihusishw
 
 ### Ukamilifu wa Mungu na maarifa ya milele ya vitu vyote
 
-### Maarifa ya wakati uliopita,uliopo, na ujao
+### Maarifa ya wakati uliopita, uliopo, na ujao
 
 ### Mungu ajua ubora wa kumaanisha kufikia matokeo yaliyo tamaniwa
 
-> Haijalishi kuna kiumbe chochote ambacho hakijadhihirishwa katika uwepo wake:bali mambo yote ni utupu na wazi mbele ya macho yake katika yeye tunapaswa kufanya. He4: 
+> Haijalishi kuna kiumbe chochote ambacho hakijadhihirishwa katika uwepo wake:bali mambo yote ni utupu na wazi mbele ya macho yake katika yeye tunapaswa kufanya. He4:
 
 ## Kudura
 
@@ -56,13 +56,13 @@ Maoni- ya maadili ya kishindo ni zile kweli za Asili ya Mungu ambazo hazihusishw
 
 ## Asiebadilika
 
-### Kutokubadilika kwa Mungu katika asili,tabia,
+### Kutokubadilika kwa Mungu katika asili, tabia,
 
 dhamiri, na matakwai
 
-> Malaki 3:6&mdash;Kwa kuwa mimi, Bwana, sina kigeugeu; ndio maana ninyi hamkuangamizwa, enyi wana wa Yakobo.
+> Malaki 3:6---Kwa kuwa mimi, Bwana, sina kigeugeu; ndio maana ninyi hamkuangamizwa, enyi wana wa Yakobo.
 
-> Yakobo 1:17&mdash;Kila kutoa kuliko kwema, na kila kitolewacho kilicho kamili, hutoka juu, hushuka kwa Baba wa mianga; kwake hakuna kubadilika, wala kivuli cha kugeuka-geuka.
+> Yakobo 1:17---Kila kutoa kuliko kwema, na kila kitolewacho kilicho kamili, hutoka juu, hushuka kwa Baba wa mianga; kwake hakuna kubadilika, wala kivuli cha kugeuka-geuka.
 
 > Zab. 102:26-27 --Hizi zitaharibika, bali Wewe utadumu Naam, hizi zitachakaa kama nguo; Na kama mavazi utazibadilisha, Nazo zitabadilika. 27 Lakini Wewe U Yeye yule; Na miaka yako haitakoma.
 

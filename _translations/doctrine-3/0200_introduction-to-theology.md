@@ -6,15 +6,15 @@
 
 #### (Theolojia ya Bibilia): ya mkristo
 
-Sayansi ya Mungu (Uwepo wake, asili, hali, sheria, serikali, kazi, chochote kinachofahamika kwake), cha mahusiano ambayo yapo kati ya Mungu na ulimwengu, naya mahusiano yetu, shughuli, wajibu kwake na ulimwengu. Ni sayansi ya vitu vya kimungu. Mtazamo huu , katika upana wa maana yake, hujumuisha maarifa yotei/ukweli.
+Sayansi ya Mungu (Uwepo wake, asili, hali, sheria, serikali, kazi, chochote kinachofahamika kwake), cha mahusiano ambayo yapo kati ya Mungu na ulimwengu, naya mahusiano yetu, shughuli, wajibu kwake na ulimwengu. Ni sayansi ya vitu vya kimungu. Mtazamo huu, katika upana wa maana yake, hujumuisha maarifa yotei/ukweli.
 
 #### Kisayansi:
 
-Kipeo cha matatizo, kihistoria, kifilosofia na somo la kisaikolojia la kidini na mawazo ya kidinia. 
+Kipeo cha matatizo, kihistoria, kifilosofia na somo la kisaikolojia la kidini na mawazo ya kidinia.
 
 #### Kawaida:
 
-Somo kuhusu mawazo ya ulimwengu wa binadamu ya Nguvu ya Juu au mtu. 
+Somo kuhusu mawazo ya ulimwengu wa binadamu ya Nguvu ya Juu au mtu.
 
 ### Etimolojia ya kipindi
 
@@ -50,7 +50,7 @@ Yote ni mahusiano ya kimungu ya ukweli. Mafundisho ni uhusiano maalumuwa ukweli.
 
 ## Vyanzo vya theolojia
 
-### kuna vyanzo viwili vya kweli. 
+### kuna vyanzo viwili vya kweli.
 
 #### Asili (theolojia ya asili)
 
@@ -70,15 +70,15 @@ Yote ni mahusiano ya kimungu ya ukweli. Mafundisho ni uhusiano maalumuwa ukweli.
 
 #### Mapokeo ya zamani
 
-Hii nadharia hudai kutangaza kwamba zile fasiri za kimahubiri ya maandiko matakatifu ni sawa sawa, na mara zote ni bora, kwa maandiko matakatifu yenyewe.Hii ni hoja ya uongo wa Waroma. 
+Hii nadharia hudai kutangaza kwamba zile fasiri za kimahubiri ya maandiko matakatifu ni sawa sawa, na mara zote ni bora, kwa maandiko matakatifu yenyewe. Hii ni hoja ya uongo wa Waroma.
 
 #### Falisafa
 
-Hii nadharia huweka sababu juu ya ufunuo. Wanafalisafa hukataa maandiko yote ambayo hajapitishwa kwenye jaribio la ufahamu wa mwanadamu kuchunguzwa.miujiza ya Biblia inawekwa kwenye majaribio haya.Wanafalisafa hutoa fasiri tatu kwa miujiza: Yakiasili, Ya kimafumbo, na ya muda mrefu. 
+Hii nadharia huweka sababu juu ya ufunuo. Wanafalisafa hukataa maandiko yote ambayo hajapitishwa kwenye jaribio la ufahamu wa mwanadamu kuchunguzwa. miujiza ya Biblia inawekwa kwenye majaribio haya. Wanafalisafa hutoa fasiri tatu kwa miujiza: Yakiasili, Ya kimafumbo, na ya muda mrefu.
 
 #### Imani Juu ya Mungu kwa tafkira
 
-Hii nadharia huunga mkono zoezi la kupata nuru mpya juu ya Mungu kwa njia ya ufunuo binafsi. Uzoefu wa kutokea ndani ya moyo uliotangazwa kuwa sawa sawa kwa ufunuo ulioandikwa. Mawazo binafisi na maoni yaweza kuongoza kwenye makosa. 
+Hii nadharia huunga mkono zoezi la kupata nuru mpya juu ya Mungu kwa njia ya ufunuo binafsi. Uzoefu wa kutokea ndani ya moyo uliotangazwa kuwa sawa sawa kwa ufunuo ulioandikwa. Mawazo binafisi na maoni yaweza kuongoza kwenye makosa.
 
 ## Mahusiano ya Theolojia
 
@@ -92,15 +92,15 @@ Maana ya kilatini ni kufunga au kufunga kwa haraka, kuzuia. Dini ni maisha katik
 
 ### Maadili ni sheria.
 
-i.e., mfumo wa maalimu wa sheria ya tabia kwa kile ambacho watu wanajitawala wenyewe; utaratibu maalumu wa mawazo ya usahihi na tabia mbaya. 
+i.e., mfumo wa maalimu wa sheria ya tabia kwa kile ambacho watu wanajitawala wenyewe; utaratibu maalumu wa mawazo ya usahihi na tabia mbaya.
 
 ### Kuabudu ni sanaa.
 
-Ni maelezo ya inje ya dini. 
+Ni maelezo ya inje ya dini.
 
 ### Wokovu ni uzoefu.
 
-Inahusisha utambuzi binafsi wa Mungu na msamaha wa kimungu. 
+Inahusisha utambuzi binafsi wa Mungu na msamaha wa kimungu.
 
 #### Mwanatheolojia anaweza kuwa tu mwanasayansi.
 
@@ -110,19 +110,19 @@ Inahusisha utambuzi binafsi wa Mungu na msamaha wa kimungu.
 
 ### Theolojia ya ufafanuzi wa maandiko matakatifu
 
-Somo la lugha za asili za Biblia kuelezea maana ya kweli ya maandiko matakatifu ya-kiebrania, Kiaramu cha Agano la Kale na Kigriki cha Agano jipya. 
+Somo la lugha za asili za Biblia kuelezea maana ya kweli ya maandiko matakatifu ya-kiebrania, Kiaramu cha Agano la Kale na Kigriki cha Agano jipya.
 
 ### Theolojia ya kihisitoria
 
-mwanafunzi wa historia ya kanisa na maendeleo ya ufasiri wa kimaandiko. 
+mwanafunzi wa historia ya kanisa na maendeleo ya ufasiri wa kimaandiko.
 
 ### Yakidojima
 
-Theolojia Somo la imani za kanisa na misingi ya ukweli uliopatikana katika hizo imani. 
+Theolojia Somo la imani za kanisa na misingi ya ukweli uliopatikana katika hizo imani.
 
 ### Ya muundo wa utaratibu
 
-Theolojia Somo la picha yenye sehemu zaidi ya moja ya theolojia iliochukuliwa kutoka Biblia, historia, filosofia na ujuzi wa jumla wa mtu juu ya Mungu. Jambo la somo lililopangwa katika utaratibu wa muundo unaotoa mtazamo wa kumbukumbu ya wazo la mtu juu ya Mungu.Theolojia ya Kibiblia hii ni rahisi, somo la moja kwa moja la Mungu na mafundisho ya mkristo huchukuliwa kwa kutengwa kutoka Biblia. 
+Theolojia Somo la picha yenye sehemu zaidi ya moja ya theolojia iliochukuliwa kutoka Biblia, historia, filosofia na ujuzi wa jumla wa mtu juu ya Mungu. Jambo la somo lililopangwa katika utaratibu wa muundo unaotoa mtazamo wa kumbukumbu ya wazo la mtu juu ya Mungu. Theolojia ya Kibiblia hii ni rahisi, somo la moja kwa moja la Mungu na mafundisho ya mkristo huchukuliwa kwa kutengwa kutoka Biblia.
 
 ## Uwezo wa Theolojia
 
@@ -178,34 +178,34 @@ Theolojia Somo la picha yenye sehemu zaidi ya moja ya theolojia iliochukuliwa ku
 
 #### Mungu anaweza kuchukua mifumo mingi. Yeye kimsingi ni Roho.
 
-#### Jamii ya mwanadamu ni ya kimwili badala ya kiroho.Wao humiliki roho
+#### Jamii ya mwanadamu ni ya kimwili badala ya kiroho. Wao humiliki roho
 
 ## Thamani ya theolojia
 
 ### Ni msingi wa fueli ya uzoefu wa Mkirsto.
 
-Kuamini kwa usahihi ni kigezo cha kwanza cha neema iokoayo. 
+Kuamini kwa usahihi ni kigezo cha kwanza cha neema iokoayo.
 
 ### Hujenga kielelezo kwa ajili ya uhai wa njia ya Mkristo.
 
 #### Inajenga kielelezo cha maadili.
 
-Maadili Huhusisha mazoezi, viwango au tabia za watu kama jamii katika uhusiano na wengine, na urejeo wa haki na uovu. Toleo la Webster 1828. 
+Maadili Huhusisha mazoezi, viwango au tabia za watu kama jamii katika uhusiano na wengine, na urejeo wa haki na uovu. Toleo la Webster 1828.
 
 #### Huongoza kinyume cha mfano wa maisha ya milele.
 
-Uovu  Siofuata utaratibu wa unyofu wa maadili; kinyume na maadili na sheria ya Mungu; waovu na wasio; wasiohaki; wasionaheshima; wenye makosa. toleo la Webste 1828. 
+Uovu Siofuata utaratibu wa unyofu wa maadili; kinyume na maadili na sheria ya Mungu; waovu na wasio; wasiohaki; wasionaheshima; wenye makosa. toleo la Webste 1828.
 
 #### Humsaidia muumini kujenga ufahamu wa hali za maadili ya Mungu.
 
-Upotovu-kutokujali maadili si uovu kwa dhahiri: kutoa uthabiti kwa kile ambacho hukumu za maadili hutiwa. - Merriam-Webster's collegiate dictionary. (Eleventh ed.) Hili kama neno la zamani la kiingereza ambalo laweza pia kufasiriwa kama hakuna maadili na kurejea kwenye hali za asili ya Mungu ambayo haihusishwi na sifa za maadili.Mfano ungekuwa kudura ya Mungu#44;ambayo ni matokeo ya asili ya Mungu na haiwezi kubadilika.
+Upotovu-kutokujali maadili si uovu kwa dhahiri: kutoa uthabiti kwa kile ambacho hukumu za maadili hutiwa. - Merriam-Webster's collegiate dictionary. (Eleventh ed.) Hili kama neno la zamani la kiingereza ambalo laweza pia kufasiriwa kama hakuna maadili na kurejea kwenye hali za asili ya Mungu ambayo haihusishwi na sifa za maadili. Mfano ungekuwa kudura ya Mungu#44;ambayo ni matokeo ya asili ya Mungu na haiwezi kubadilika.
 
 ### Hulinda moyo dhidi ya makosa.
 
-Ni askari walinzi wa moyo na akili. 
+Ni askari walinzi wa moyo na akili.
 
 ### Ni sifa ya lazima kwa ajili ya huduma.
 
-Kuhubiri juu ya Mungu, mtu lazima amjue na kujua habari zake. Pamoja na akili iliowazi, mioyo yenye unyenyekevu na tegemeo kamili juu Roho Mtakatifu, tunaanza swali letu la Mungu na mambo ya kimungu. 
+Kuhubiri juu ya Mungu, mtu lazima amjue na kujua habari zake. Pamoja na akili iliowazi, mioyo yenye unyenyekevu na tegemeo kamili juu Roho Mtakatifu, tunaanza swali letu la Mungu na mambo ya kimungu.
 
 UPANGAJI: Soma huu mwingilio wa Utangulizi wa Theolojia; kuleta darasani angalau maswali matatu yaliyoandikwa au alama zilizaliwa kutoka kusoma huu mwingilio wa utangulizi. Pia, uwe tayari kujibu maswali kuhusu habari hii.

@@ -49,7 +49,7 @@ Jiometri imeundwa na vitu vikuu vitatu: nukta, mstari, na maumbo
 #### Nishati
 
 #### Jambo/Tukio
- 
+
 ### Nafasi ya kitu
 
 #### Urefu
