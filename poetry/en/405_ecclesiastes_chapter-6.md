@@ -8,11 +8,9 @@ Qohelet now continues his observations on wealth. He talks about an "evil" thing
 
 Long life (Prov. 3:2) and many children (Psalm 127:4) were considered great blessings in ancient Israel, but Qohelet says that even these cannot bring rest to a weary life. He says that the stillborn baby who has never known life is better than the person who has long life. he says this because the stillborn does not have to face the troubles of life.
 
-### Appetite is never satisfied (v. 7)
+### Appetite is never satisfied (v. 7&ndash;9)
 
-We work hard for food, and then we eat it. Afterward we are hungry again.
-
-### Wisdom is better than foolishness (v. 8–9)
+We work hard for food, and then we eat it. Afterward we are hungry again. Hunger is a good thing, because it makes us to depend on God (Matt. 5:6).
 
 ### Conclusion to the search for meaning (v. 10–12)
 
@@ -20,5 +18,7 @@ Thses verse conclude Qohelet's search for meaning. "Here leaves his explicit sea
 
 -------------------------------------------------------------------------
 
+<small>
 * [1] Longman, T. (1998). The Book of Ecclesiastes (p. 176). Grand Rapids, MI: Wm. B. Eerdmans Publishing Co.
+</small>
 

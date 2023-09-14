@@ -4,7 +4,7 @@
 
 Hekima italeta tabia nzuri ndani yetu. David Bland, mwandishi wa _Mithali na Uumbaji wa Tabia_, alisema kwamba "hekima siyo maudhui ya kutuacha tulivyo lakini inasisitiza kwamba tujiachilie kubadilishwa na nguvu za Mungu." Lengo la vitabu vya hekima ni kutubadilisha vile tulivyo. Hatuwezi kutegemea tabia hii kuonekana katika kutengwa, lakini tabia nzuri huzalishwa katika jamii. Bland pia anasema kwamba:
 
-> Tabia, nguzo hiyo ya fadhila inayoumbwa katika tabia, ni zao la mahusiano binafsi ya mtu na Mungu pamoja na wanadamu wengine. Kadiri ya tabia hii kuwa ni asili ya matokeo ya kukua kwa hekima, ni muhimu kutambua kwamba hekima, kama inavyoonyeshwa katika mithali, ni mahusiano. Tukija katika na Mungu na kujihusisha na maisha yaw engine, tabia huchukua umbo. Tabia, katika kuumbwa na mahusiano haya, huvifufua, daima huburudisha uhusiano wetu na Mungu na wengine pia.[1]
+> Tabia, nguzo hiyo ya fadhila inayoumbwa katika tabia, ni zao la mahusiano binafsi ya mtu na Mungu pamoja na wanadamu wengine. Kadiri ya tabia hii kuwa ni asili ya matokeo ya kukua kwa hekima, ni muhimu kutambua kwamba hekima, kama inavyoonyeshwa katika mithali, ni mahusiano. Tukija katika uhsiano na Mungu na kujihusisha na maisha ya wengine, tabia huchukua umbo. Tabia, katika kuumbwa na mahusiano haya, huvifufua, daima huburudisha uhusiano wetu na Mungu na wengine pia.<sup>[1]</sup>
 
 Tabia njema ni kitu cha thamani. Mithali 22:1 inasema kwamba heri kuchagua jina jema kuliko mali nyingi (angalia pia 16:17, 19:1, 20:7, 20:11, 21:29, na 28:6). Uthamani wa tabia njema unadhihirishwa na namna itakavyotuweka salama mbali na hatari za maisha. Mithali 10:9 inasema aendaye kwa unyofu huenda salama bali apotoshaye njia zake atajulikana (angalia pia 11:3 na 28:18). Sasa tutaangalia sifa za tabia njema.
 
@@ -48,13 +48,11 @@ Uvumilivu hukuweka mbali na dhambi (19:2), huonyesha imani kwa Mungu (20:21), na
 
 ### Hitimisho
 
-Tamaduni za kale za Waisraeli, watu watu walikuwa wanavutiwa kwa heshima na aibu. Aibu ya mtu mmoja ilikuwa aibu ya familia nzima (28:20; 13:11; 20:21; 21:5). Mithali inasema mwana mpumbavu ni aibu kwa wazazi wake (10:5) na mwanamke mpumbavu ni aibu kwa mumewe (11:16; 12:4). Mtu wa tabia nzuri atakuwa na heshima (21:21), bali mtu wa tabia mbaya atapata aibu (13:5; 18:3).
+Tamaduni za kale za Waisraeli, watu watu walikuwa wanavutiwa kwa heshima na aibu. Aibu ya mtu mmoja ilikuwa aibu ya familia nzima. Mithali inasema mwana mpumbavu ni aibu kwa wazazi wake (10:5) na mwanamke mpumbavu ni aibu kwa mumewe (11:16; 12:4). Mtu wa tabia nzuri atakuwa na heshima (21:21), bali mtu wa tabia mbaya atapata aibu (13:5; 18:3).
 
 ---------------------------------------------------------
 
-* [1] https://www.thegospelcoalition.org/article/which-promises-are-for-me/
-* [2] Raymond C. Van Leeuwan, WEALTH AND POVERTY: SYSTEM AND CONTRADICTION IN PROVERBS, Hebrew Studies vol. 33, pg. 32
-* [3] Van Leeuwan, Hebrew Studies 33 pg. 29
-* [4] Van Leeuwan, Hebrew Studies 33 pg. 31
-* [5] Van Leeuwan, Hebrew Studies 33 pg. 32
+<small>
+* [1] Dave Bland, *Proverbs and the Formation of Character*
+</small>
 

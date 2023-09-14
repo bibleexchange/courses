@@ -22,7 +22,9 @@ In verse 12–13 Qohelet says that it will be well with the righteous and not we
 
 -------------------------------------
 
+<small>
 * [1] Eaton
 * [2] Clarke
 * [3] Kidner
+</small>
 

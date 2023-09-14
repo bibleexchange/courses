@@ -62,38 +62,36 @@ If proverbs are not laws or promises, than what are they?
 
 #### Proverbs are principles
 
-> Promises are always fulfilled 100 percent of the time. Principles state general truths. [1]
+> Promises are always fulfilled 100 percent of the time. Principles state general truths.<sup>[1]</sup>
 
 We still obey these principles, even though we may not see the exact results that we hope for.
 
 > On what grounds, then, could the sages so confidently assert the superiority of righteousness even though they were aware of righteous folk who suffered and of wicked folk who prospered? _In general_, the sages clearly believed that wise and righteous behavior did make life better and richer, though virtue did not _guarantee_ those consequences.
-> —Raymond C. Van Leeuwan [2]
+>—Raymond C. Van Leeuwan<sup>[2]</sup>
 
 > It is a mistake, though, to treat the proverb as a type of guarantee. That is not what proverbs do. Again, it is a genre issue. Proverbs are not in the business of giving promises. Rather, they encourage people toward attitudes and actions that will lead toward a desired goal, all other things being equal. It is more likely that a child will grow up to be wise if their parents train them in the Lord’s way. But perhaps that child will come under the negative influence of his or her peers (see, for instance, the advice given in 1:8-19).
-> —Tremper Longman, III
+>—Tremper Longman, III
 
 Job's friends and the preacher of Ecclesiastes may have had a wrong understanding of applying principles like these, but that does not make the principles wrong.
 
 > The widespread dogmatic misuse of retributive sayings or concepts (Job 42:7; Luke 13:1-5; John 9:1-2; cf. Prov 26:7, 9) does not itself render the sayings dogmatic.
-> —Raymond C. Van Leeuwan [3]
+>—Raymond C. Van Leeuwan<sup>[3]</sup>
 
 ##### A proverb needs wisdom for proper application
 
 ###### Wisdom for the right time
 
-Ecclesiates teaches that there is a time for everything (3:1-8).
-
-Read Proverbs 15:23, 25:11, and 25:20.
+Ecclesiates teaches that there is a time for everything (Ecc. 3:1-8). Read Proverbs 15:23, 25:11, and 25:20.
 
 ###### Wisdom for right circumstances
 
-It is not only biblical proverbs that are based on circumstances, but contemporary English sayings are also situational:
+<!--It is not only biblical proverbs that are based on circumstances, but contemporary English sayings are also situational:
 
 * ‘Many hands make light work’ versus ‘Too many cooks spoil the 
 broth’ 
 * ‘He who hesitates is lost’ versus ‘Look before you leap’ 
 * ‘Out of sight, out of mind’ versus ‘Absence makes the heart 
-grow fonder’ 
+grow fonder’-->
 
 The contrasting ideas found in Proverbs are not contradictions, but they provide a balanced understanding of wisdom that applies to the varieties of life situations.
 
@@ -109,11 +107,11 @@ We have to read Proverbs with an understanding that there are things in life tha
 
 God will at times bless people with riches, but there are other blessings that He gives that are better than riches. Read Proverbs 16:8 and 16:16.
 
-> These "better-than" sayings set material wealth and poverty in an ultimate normative context which utterly reverses their usual worth. In a nutshell, poverty with righteousness is "better than" wealth with wickedness. Proverbs consistently insists that righteousness outweighs wealth, and wickedness renders wealth worthless. Wealth which may _appear_ as a blessing of the Creator is not intrinsically and invariably good. That depends upon whether wealth is subordinate to righteousness, justice, and wisdom. Material goods must be placed in a normative context which relates them one to another and prevents any particular good from becoming absolute at the expense of the norms which order and limit them all.
-> Van Leeuwan [4]
+> These "better-than" sayings set material wealth and poverty in an ultimate normative context which utterly reverses their usual worth. In a nutshell, poverty with righteousness is "better than" wealth with wickedness. Proverbs consistently insists that righteousness outweighs wealth, and wickedness renders wealth worthless. Wealth which may _appear_ as a blessing of the Creator is not intrinsically and invariably good. That depends upon whether wealth is subordinate to righteousness, justice, and wisdom. Material goods must be placed in a normative context which relates them one to another and prevents any particular good from becoming absolute at the expense of the norms which order and limit them all.  
+>—Raymond C. Van Leeuwan<sup>[4]</sup>
 
-> The editor-sages who structured Proverbs sought first to teach these basic "rules of life," thus the heavy emphasis on character-consequence patterns in both Proverbs 1–9 and 10–15. We must first learn the basic rules; the exceptions can come later.
-> Van Leeuwan [5]
+> The editor-sages who structured Proverbs sought first to teach these basic "rules of life," thus the heavy emphasis on character-consequence patterns in both Proverbs 1–9 and 10–15. We must first learn the basic rules; the exceptions can come later.  
+>—Raymond C. Van Leeuwan<sup>[5]</sup>
 
 ##### There is injustice in the world
 
@@ -122,11 +120,9 @@ God will at times bless people with riches, but there are other blessings that H
 * Wicked people rule (29:2)
 * Fools live in luxury (19:10)
 * People get rich by lying (21:6)
-* People ignore those that are in need (28:7; 21:13)
+* People ignore those that are in need (28:8; 21:13)
 
-The source of this injustice is because we live in a fallen world (unlike the plan God had in Eden).
-
-There may be injustice now, but God will judge in the end:
+The source of this injustice is because we live in a fallen world (unlike the plan God had in Eden). There may be injustice now, but God will judge in the end:
 
 > Proverbs 10:30—The righteous shall never be removed:  
 > But the wicked shall not inhabit the earth.
@@ -215,11 +211,13 @@ A surface reading the Proverbs and all its warnings about the "strange" women ca
 
 ---------------------------------------------------------
 
+<small>
 * [1] https://www.thegospelcoalition.org/article/which-promises-are-for-me/
 * [2] Raymond C. Van Leeuwan, WEALTH AND POVERTY: SYSTEM AND CONTRADICTION IN PROVERBS, Hebrew Studies vol. 33, pg. 32
 * [3] Van Leeuwan, Hebrew Studies 33 pg. 29
 * [4] Van Leeuwan, Hebrew Studies 33 pg. 31
 * [5] Van Leeuwan, Hebrew Studies 33 pg. 32
+</small>
 
 <!--### To whom was the book written?
 

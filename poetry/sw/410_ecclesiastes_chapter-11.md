@@ -4,7 +4,7 @@
 
 ### Mtu mwenye busara hua uwekezaji (mst. 1, 2, 6)
 
-Ushauri ni "usihifadhi mali zako kwa uchoyo, lakini wekeza ili uweze kupata zaidi." Ni juu ya uwekezaji makini. Angalia pia Mathayo 13:24.
+Ushauri ni "usihifadhi mali zako kwa uchoyo, lakini wekeza ili uweze kupata zaidi." Ni juu ya uwekezaji makini.
 
 ### Mtu mwenye busara kwa hekima anachukua fursa hiyo (mst. 3)
 

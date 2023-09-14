@@ -38,28 +38,26 @@ Kama Mithali siyo sheria wala ahadi basi ni nini?
 
 #### Mithali ni kanuni
 
-> Ahadi siku zote hutimizwa asilimia mia moja ya wakati. Kanuni zinasimamia ukweli wa kawaida. [1]
+> Ahadi siku zote hutimizwa asilimia mia moja ya wakati. Kanuni zinasimamia ukweli wa kawaida.<sup>[1]</sup>
 
 Bado tunaziheshimu kanuni hata kama hatuoni matokeo halisi tunayoyatarajia.
 
 > Katika mazingira gani basi mtu mwenye hekima nyingi kwa ujasiri kabisa anaonyesha umaarufu wa kuwa mwenye haki japokuwa walimfahamu jamaa mwenye haki aliyeteseka na jamaa dhaifu aliyefanikiwa? _Kwa mazingira ya kawaida_, Yule mwenye hekima nyingi kiusahihi kabisa aliamini kuwa tabia ya hekima na haki hufanya maisha kuwa bora na ya utajiri, japokuwa saburi _haijadhaminisha_ hilo.  
-> —Raymond C. Van Leeuwan [2]
+>—Raymond C. Van Leeuwan<sup>[2]</sup>
 
 > Ni kosa ingawa, kuchukulia mithali kama dhamana. Hicho sicho kinachofanywa na mithali. Tena, ni suala la limfumo. Mithali haiku katika biashara ya kutoa ahadi. Bali inawatia watu moyo juu ya mitazamo na matendo ambayo yatawapelekea kufikia lengo lililodhamiriwa, vitu vingine vyote kuwa sawa. Inaaminiwa kwamba mtoto atakapokuwa atakuwa mwenye hekima kama wazazi watamfunza katika njia ya Mungu. Lakini mtoto huyo anaweza kukutana na mitazamo hasi kwa marafiki zake (kwa mfano ushauri uliotolewa katika mlango wa 1:8–19).  
-> —Tremper Longman, III
+>—Tremper Longman, III
 
 Rafiki zake Ayubu na mwandishi wa kitabu cha Mhubiri wanaweza wakawa walikuwa na uelewa mbaya wa kuingiza kanuni katika utendaji lakini hiyo haitafanya kanuni kuwa mbaya.
 
 > Matumizi mabaya ya misemo au wazo (Ayubu 42:7; Luka 13:1–5; Yoh. 9:1–2; kulinganisha na Mith 26:7, 9) haitafanya wazo kuwa baya.  
-> —Raymond C. Van Leeuwan [3]
+> —Raymond C. Van Leeuwan<sup>[3]</sup>
 
 ##### Mithali inahitaji hekima katika matumizi bora
 
 ###### Hekima kwa wakati sahihi
 
-Mhubiri anafundisha kwamba kila jambo na majira yake (mlango wa 3:1–8).
-
-Soma Mithai 15:23, 25:11, na 25:20.
+Mhubiri anafundisha kwamba kila jambo na majira yake (Muh. 3:1–8). Soma Mithai 15:23, 25:11, na 25:20.
 
 ###### Hekima kwa tukio sahihi
 
@@ -78,10 +76,10 @@ Tunatakiwa tusome mithali na tuelewa kwamba kuna vitu katika maisha ambayo ni vi
 Mungu atawabariki watu kwa wakati, lakini kuna Baraka zingine ambazo Mungu anazitoa zilizo bora zaidi ya utajiri. Soma Mithali 16:8 na 16:16.
 
 > Misemo hii "Afadhali-Kuliko" inaonyesha utajiri wa vitu na umasikini katika kuonyesha mkutadha bora zisizonyesha gharama halisi. Kuliweka hili sawa tunasema umasikini pamoja na haki ni bora kuliko utajiri pamoja na uovu. Mithali kwa nguvu kabisa inasisitiza kwamba haki ni muhimu kuliko utajiri na uovu husababisha utajiri usiwe na maana. Mali ambayo inaweza _kuonekana_ kama baraka ya Muumba daima sio nzuri kwa asili na kwa kawada. Hiyo itategemea kama utajiri huo umeambatana pamoja na haki, wema na hekima. Vitu vizuri lazima vitumike katika mazingira ambayo yatahusisha kimoja na kingine na kuepukana na vitu ambavyo vinakutawala na kuviharibu vile vingine vyote.  
-> —Van Leeuwan [4]
+>—Raymond C. Van Leeuwan<sup>[4]</sup>
 
-> Jamaa mhariri/mwenye hekima aliyetunga mithali alidhamiria kwanza kufundisha hizi muhimu "sheria za maisha," kwamba msisitizo wa nguvu kuhusu madhara ya kitabia katika Mithali 1–9 na 10–15. Lazima kwanza kujifunza sheria muhimu, za ziada zinakuja baadaye.
-> —Van Leeuwan [5]
+> Jamaa mhariri/mwenye hekima aliyetunga mithali alidhamiria kwanza kufundisha hizi muhimu "sheria za maisha," kwamba msisitizo wa nguvu kuhusu madhara ya kitabia katika Mithali 1–9 na 10–15. Lazima kwanza kujifunza sheria muhimu, za ziada zinakuja baadaye.  
+>—Raymond C. Van Leeuwan<sup>[5]</sup>
 
 ##### Udhalimu/kutokutenda haki kupo katika dunia
 
@@ -90,11 +88,9 @@ Mungu atawabariki watu kwa wakati, lakini kuna Baraka zingine ambazo Mungu anazi
 * Waovu wanatawala (29:2)
 * Wapumbavu wanaishi kwenye starehe (19:10)
 * Kupata akiba ya mali kwa ulimi wa uovu (21:6)
-* Watu kuwapuuza wale wenye uhitaji (28:7; 21:13)
+* Watu kuwapuuza wale wenye uhitaji (28:8; 21:13)
 
-Chanzo cha udhalimu huu ni kwasababu tunaishi katika ulimwengu ulioangamia (tofauti na mpango wa Mungu aliokuwa nao pale Eden).
-
-Kunaweza kuwa na udhalimu sasa lakini Mungu atahukumu mwisho:
+Chanzo cha udhalimu huu ni kwasababu tunaishi katika ulimwengu ulioangamia (tofauti na mpango wa Mungu aliokuwa nao pale Eden). Kunaweza kuwa na udhalimu sasa lakini Mungu atahukumu mwisho:
 
 > Mithali 10:30—Mwenye haki hataondolewa milele;  
 >Bali wasio haki hawatakaa katika nchi.
@@ -115,7 +111,7 @@ Sababu sahihi ya kuishi kwa haki ni kwasababu Mungu huchukua uovu na hupenda hak
 
 Sifa ya kati ya shairi la kiebrania ni usawa, ambayo ni kama mawazo yanayoenda pamoja
 
-##### Usawa la kisawe
+##### Usawa wa kisawe
 
 Hii ni pale mstari wa pili unaporudia wazo la kwanza katika lugha tofauti kidogo sana. Hii ni kunyoosha mawazo kuyafanya yawe makali. Kwa mfano:
 
@@ -147,26 +143,26 @@ Mithali inatumia alama nyingi au mifano ya maisha halisi kuonyesha na kuelezeauk
 
 Kuna alama mbili zilizotumika kwa undani katika milango tisa ya mwanzo ambazo zote zinaonyesha hekima na upumbavu.
 
-##### Mwanamke hekima
+##### Hekima ya mwanamke
 
 Anaongea katika Mithali 1:20–33 na sura ya 8. Pia ametajwa katika 9:1–6, 11; 2:3–4; 4:7–9; 6:22; 7:4.
 
-* She keeps good friends Anakuwa na marafiki wazuri
- * Mwenye haki (8:6)
- * Kweli (8:7)
- * Mwerevu (8:12)
- * Mwenye ufahamu (8:1–15)
+* Anakuwa na marafiki wazuri
+  * Mwenye haki (8:6)
+  * Kweli (8:7)
+  * Mwerevu (8:12)
+  * Mwenye ufahamu (8:1–15)
 * Anakaa mbali na makundi mabaya
- * Udanganyifu
- * Uovu
- * Majivuno
- * Kiburi (8:7–8, 13)
+  * Udanganyifu
+  * Uovu
+  * Majivuno
+  * Kiburi (8:7–8, 13)
 * Alikuwa mmojawapo wa walioumbwa kwanza (8:22–26, 8:30–31, 3:19)
 * Havumilii kukataliwa (1:24–27)
 
-##### Mwanamke upumbavu
+##### Upumbavu wa Mwanamke
 
-Ametajwa katika sura ya 9:13–18. Anafanana na mwanamke asiyejulikana (5:8 na 7:22 ni kama 9:13–18. Na 2:18–19, 5:5, na 7:27 ni kama 9:18). Wanawake wote huanzia na kuwaita kutampa kirahisi (9:4, 16). Wote wanatamani mahusiano (njoo kwangu uwe namimi). Wote wameandaa chakula (9:1–2, 17).
+Ametajwa katika sura ya 9:13–18. Anafanana na mwanamke asiyejulikana (5:8 na 7:22 ni kama 9:13–18. Na 2:18–19, 5:5, na 7:27 ni kama 9:18). Wanawake wote huanzia na kuwaita kutampa urahisi (9:4, 16). Wote wanatamani mahusiano (njoo kwangu uwe namimi). Wote wameandaa chakula (9:1–2, 17).
 
 ###### Njia ya uzima
 
@@ -180,9 +176,11 @@ Upande unaosoma mithali na maonyo yake kuhusu mwanamke "mwovu," wanawake wanawez
 
 ---------------------------------------------------------
 
+<small>
 * [1] https://www.thegospelcoalition.org/article/which-promises-are-for-me/
 * [2] Raymond C. Van Leeuwan, WEALTH AND POVERTY: SYSTEM AND CONTRADICTION IN PROVERBS, Hebrew Studies vol. 33, pg. 32
 * [3] Van Leeuwan, Hebrew Studies 33 pg. 29
 * [4] Van Leeuwan, Hebrew Studies 33 pg. 31
 * [5] Van Leeuwan, Hebrew Studies 33 pg. 32
+</small>
 

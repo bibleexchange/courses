@@ -8,7 +8,7 @@ Kumsaidia mwanafunzi katika kujifunza kwake kibinafsi, mwenye kutafakari, na ufa
 
 ### Mwenye ufahamu
 
-Kufanya vitu na msamiati wa somo hili kueleweka kwa wanafunzi wanaoanza na wale wanaoendelea. 
+Kufanya vitu na msamiati wa somo hili kueleweka kwa wanafunzi wanaoanza na wale wanaoendelea.
 
 ### Ukweli
 
@@ -71,20 +71,12 @@ Nimuhimu kwamba juhudi yetu iwe imekusudiwa kwa hisia kwa ajili ya maandiko mata
 - Epuka uchoshaji katika maelezo ya mapendekezo yako.
 - Epuka kosa kubwa la kudhania kwamba kweli ambayo ni dhahiri kwa baadhi ya mioyo ndio ilivyo kwa wote.
 
-Iliochukuliwa kutoka kwa mihadhara ya Finney juu ya Theolojia, na Charles G. Finney na kuchapishwa na Ufuasi wa Bethany mnamo 1976 chini ya jina la Moyo wa Kweli. 
+Iliochukuliwa kutoka kwa mihadhara ya Finney juu ya Theolojia, na Charles G. Finney na kuchapishwa na Ufuasi wa Bethany mnamo 1976 chini ya jina la Moyo wa Kweli.
 
 ## Dondoo kwa ajili ya somo letu la Mafundisho ya Biblia III
 
-<div class="emb-outline">
-
-## Utangulizi
-
-## Theolojia
-
-## Elimu kuhusu Kristo
-
-## Elimu kuhusu Roho mtakatifu
-
-## Utatu mtakatifu
-
-</div>
+1. Utangulizi
+2. Theolojia
+3. Elimu kuhusu Kristo
+4. Elimu kuhusu Roho mtakatifu
+5. Utatu mtakatifu

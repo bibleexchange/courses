@@ -12,15 +12,15 @@ Katika kutaja kwa Mungu inaelezea Tatu katika Moja.
 
 ### Neno la Kimaandiko Uungu pia hutumiwa kutaja watu watatu ndani ya Mungu mmoja
 
-> Kwa sababu mambo yake yasiyoonekana tangu kuumbwa ulimwengu yanaonekana, na kufahamika kwa kazi zake; yaani, uweza wake wa milele na Uungu wake; hata wasiwe na udhuru;&mdash;Rum. 1:20
+> Rum. 1:20 --- Kwa sababu mambo yake yasiyoonekana tangu kuumbwa ulimwengu yanaonekana, na kufahamika kwa kazi zake; yaani, uweza wake wa milele na Uungu wake; hata wasiwe na udhuru;
 
 ## Ndani ya Mungu mmoja ni Watu watatu tofauti: Baba, Mwana, na Roho Mtakatifu
 
 ### Wao ni wa milele
 
-### Wako  sawa katika nguvu
+### Wako sawa katika nguvu
 
-### Wako  umoja pamoja
+### Wako umoja pamoja
 
 ### Wao ni watu watatu binafsi
 
@@ -32,7 +32,7 @@ Katika kutaja kwa Mungu inaelezea Tatu katika Moja.
 
 ## Hii ni fundisho la maandiko iliyofunuliwa
 
-> Naye Roho ndiye ashuhudiaye, kwa sababu Roho ndiye kweli.&mdash;I Yoh. 5:7
+> I Yoh. 5:7 --- Naye Roho ndiye ashuhudiaye, kwa sababu Roho ndiye kweli.
 
 ## Tunaweza kuona Kila Mtu wa Uungu hufanya kazi katika Uumbaji
 
@@ -41,4 +41,3 @@ Katika kutaja kwa Mungu inaelezea Tatu katika Moja.
 ### Mwana (Yoh. 1:1-2)
 
 ### Roho Mtakatifu (Mwanzo 1:2)
-
