@@ -46,16 +46,10 @@ A proverb uses as few words as possible to communicate truth.
 
 As Cervantes, the 16th century novelist, put it, “Proverbs are short sentences, drawn from long experience.” from _Living Well_)
 
-Written by Solomon (1:1)
-
 Tremper Longman divides this section into 17 lectures. See How to Read Proverbs pg.
 22 for list. Waltke gives only 14 (NICOT pg. 10)
 
 Collection I: Title with Preamble (1:1–7), Prologue (1:1–8:36), and Epilogue (9:1–18) (NICOT)
-
-Ch 10-31 individual proverbs
-
-How many sayings?
 
 #### Kinds of sayings
 

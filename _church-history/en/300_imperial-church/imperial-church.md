@@ -16,7 +16,7 @@ Many Christian historians have doubted the sincerity of his profession.
 
 An _edict_ is an official decree or document. This edict granted freedom to all religions in the empire ending the Roman persecution of Christianity. It restored to Christians property that had been seized during Diocletian's reign.
 
-## Results of Toleration of the Church
+## Results of toleration of the church
 
 ### The persecution of Christians ended
 
@@ -74,7 +74,7 @@ He was referred to as "the golden mouth," because of his eloquence as a speaker.
 
 Augustine said, "Our hearts are restless until they find rest in you." He became bishop of Hippo in North Africa in AD 395. He was a Chief defender of the faith in the Pelagian Controversy. This false teaching was promoted by Pelegius who did not believe in original sin. Augustine developed a reputation as a preacher, teacher, and writer.
 
-### Ambrose
+### Ambrose (AD 339–397)
 
 Ambrose was governor of Milan. When the bishop of Milan died in AD 374, a riot broke out over who should be the next bishop. Ambrose stepped in to try to calm things down, and people in the crowd cried out that he should be bishop, even though he hadn't yet been baptized. He protested, but eventual became bishop.
 
@@ -86,11 +86,11 @@ We see a progression of the church's relationship to the state:
 2. Church = State
 3. Church > State
 
-### Jerome
+### Jerome (AD c347—419)
 
 Jerome (also known as Eusebius) translated the Bible into Latin in AD 405. This translation became known as the _Vulgate_ from the Latin word _vulgus_, which means "common."
 
-### Patrick (AD 390)
+### Patrick (AD 387—461)
 
 Patrick was a missionary from England to Ireland. He brought Christianity to Ireland, and the church in Ireland developed outside the hierarchical system of Rome. Ireland did not become Catholic until the 1100s.
 
@@ -145,9 +145,7 @@ The bishops created a statement of faith, which, after some additions made durin
 > I believe in one, holy, catholic and apostolic Church.  
 > I confess one Baptism for the forgiveness of sins  
 > and I look forward to the resurrection of the dead  
-> and the life of the world to come. Amen.
-
-(https://www.britannica.com/topic/Nicene-Creed accessed on 2018/08/23)
+> and the life of the world to come. Amen.<sup>[1]</sup>
 
 The creed says that Jesus is "light from light." How could you separate light from the sun? In the same way, how could you separate God (the Father) from God (the Son)?
 
@@ -157,7 +155,7 @@ The council did not "create" the idea of the Trinity, since the Trinity was a pa
 
 The Council of Nicea resolved that Jesus was both God and man, but there were still questions about the nature of Jesus. How much of Him was God and how much was man? Did He have two minds? Could Jesus have sinned because of the human side? Two church leaders gave answers to these types of questions. They were Nestorius and Cyril.
 
-#### Nestorius
+#### Nestorius (AD c386–c451)
 
 Nestorius was the bishop of Constantinople. He was a heresy hunter who tried to stop doctrines like Arianism from spreading.
 
@@ -165,7 +163,7 @@ Nestorius received the attention of other church leaders when he refused to use 
 
 He believed that Christ possessed two natures, but was still one person. He emphasized a distinction between these two natures, especially in the suffering of Christ. He said that it was only the human nature that suffered when Christ suffered, and not the divine nature.
 
-#### Cyril
+#### Cyril (AD c376–444)
 
 Cyril was the bishop of Alexandria. While Nestorius emphasized more of the human nature of Christ, Cyril emphasized more of His divine nature. He believed that Nestorius' emphasis of the two natures of Christ was harming the idea of the unity of Christ. If only the human nature of Christ suffered, then Christ was not an effective high priest, since it was only through divine suffering that Christ could atone for the sins of humanity.
 
@@ -189,10 +187,15 @@ Some people did not believe that the Holy Spirit was God, because He did not spe
 
 This council was the final ecumenical council dealing with the dual-nature of Jesus. Its purpose was to finish the debate on the Trinity. In it, it was declared that Christ is "acknowledged in two natures, without confusion, without change, without division, without separation... the characteristic property of each nature being preserved, and coming together to form one person." Following is the full text of the definition made at Chalcedon:
 
-> Therefore, following the holy fathers, we all with one accord teach men to acknowledge one and the same Son, our Lord Jesus Christ, at once complete in Godhead and complete in manhood, truly God and truly man, consisting also of a reasonable soul and body; of one substance with the Father as regards his Godhead, and at the same time of one substance with us as regards his manhood; like us in all respects, apart from sin; as regards his Godhead, begotten of the Father before the ages, but yet as regards his manhood begotten, for us men and for our salvation, of Mary the Virgin, the God-bearer; one and the same Christ, Son, Lord, Only-begotten, recognized in two natures, without confusion, without change, without division, without separation; the distinction of natures being in no way annulled by the union, but rather the characteristics of each nature being preserved and coming together to form one person and subsistence, not as parted or separated into two persons, but one and the same Son and Only-begotten God the Word, Lord Jesus Christ; even as the prophets from earliest times spoke of him, and our Lord Jesus Christ himself taught us, and the creed of the fathers has handed down to us.
-
-(https://www.monergism.com/definition-council-chalcedon-451-ad accessed on 2018/09/03)
+> Therefore, following the holy fathers, we all with one accord teach men to acknowledge one and the same Son, our Lord Jesus Christ, at once complete in Godhead and complete in manhood, truly God and truly man, consisting also of a reasonable soul and body; of one substance with the Father as regards his Godhead, and at the same time of one substance with us as regards his manhood; like us in all respects, apart from sin; as regards his Godhead, begotten of the Father before the ages, but yet as regards his manhood begotten, for us men and for our salvation, of Mary the Virgin, the God-bearer; one and the same Christ, Son, Lord, Only-begotten, recognized in two natures, without confusion, without change, without division, without separation; the distinction of natures being in no way annulled by the union, but rather the characteristics of each nature being preserved and coming together to form one person and subsistence, not as parted or separated into two persons, but one and the same Son and Only-begotten God the Word, Lord Jesus Christ; even as the prophets from earliest times spoke of him, and our Lord Jesus Christ himself taught us, and the creed of the fathers has handed down to us.<sup>[2]</sup>
 
 Since Nicea, the church emphasized that Jesus shared nature with the Father, but now they added to this how Jesus also shared nature with man.
 
 It was the first council in which the pope played a major role, and the last that both East and West would regard as official.
+
+---
+
+<small>
+* [1] https://www.britannica.com/topic/Nicene-Creed accessed on 2018/08/23
+* [2] https://www.monergism.com/definition-council-chalcedon-451-ad accessed on 2018/09/03
+</small>

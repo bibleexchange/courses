@@ -14,7 +14,7 @@ Jesus foretold of the suffering of this period. Jesus encourages the saints not 
 
 Many were imprisoned for the sake of the Gospel during this period. It became against the Roman law to be a Christian.
 
-In AD 303 the Emperor Diocletian began the tenth and fiercest persecution of Christians that is called "The Great Persecution." This was an attempt to remove Christianity from the face of the earth. It is said that Diocletian erected a pillar inscribed, "In honor of the extirpation of the Christian superstition." Many Christians were burned alive for their testimony. Christians were eaten by wild beasts in the arena.
+In AD 303 the Emperor Diocletian began the fiercest persecution of Christians that is called "The Great Persecution." This was an attempt to remove Christianity from the face of the earth. It is said that Diocletian erected a pillar inscribed, "In honor of the extirpation of the Christian superstition." Many Christians were burned alive for their testimony. Christians were eaten by wild beasts in the arena.
 
 ## Causes of imperial persecutions
 
@@ -48,19 +48,19 @@ Christianity meant an end to the profitable business of making idols. The crafts
 
 ## Prominent Martyrs and leaders of the Persecuted Church
 
-### Ignatius
+### Ignatius (AD c50—c110)
 
 Ignatius was bishop of Antioch in Syria. He had been a pupil of the Apostle John.
 
 Ignatius was thrown to the wild beasts in the Coliseum. Standing in the arena as the lions approached him, Ignatius prayed, "I thank Thee O Lord, that Thou hast vouchsafed thus to honor me. I am God's grain, to be Ground between the teeth of wild beasts, so that I may become a holy loaf for the Lord."
 
-### Justin Martyr
+### Justin Martyr (AD c100—c165)
 
 Justin Martyr was a philosopher who became a Christian after meeting an elderly man who explained how Jesus fulfilled Old Testament prophecies. He was one of the first apologists, which is someone who uses reason and logic to defend his faith. He wrote several books which are still in existence that give us much information about this period. One of his prominent works is _Dialogue with Trypho_, a treatise refuting the Ebionites (Rev. 2:9).
 
 He once wrote, "You can kill us, but cannot do us any real harm." He was beheaded in Rome in AD 165. His last words were, "I am a Christian, having been freed by Christ, and by the grace of Christ, I partake of the same hope."
 
-### Polycarp
+### Polycarp (AD 69–155)
 
 Polycarp was bishop of Smyrna at Asia Minor. He was taught as a youth by the Apostle John. When the police came to arrest him, he treated them as guests. He fed them and asked for an hour to pray, but he took two hours.
 
@@ -68,7 +68,11 @@ They brought Polycarp to the proconsul, who threatened to burn him alive with fi
 
 The proconsul pleaded with him to say, "Away with the atheists!" (meaning the Christians), so that they could let him go free. Polycarp turned to the crowd that was watching and motioned to them while saying, "Away with the atheists!" Because he would not recant his Christian beliefs, he was burned alive in Smyrna in AD 155. Polycarp was the last link to the Apostolic Church.
 
-### Ireneus
+### Simeon (unknown—AD 107)
+
+Simeon was James' successor as head of the Jerusalem church. He was crucified by order of the Roman governor of Palestine in AD 107 during Trajan's reign.
+
+### Ireneus (AD c120—c200)
 
 Ireneus was a student of Polycarp. He became bishop of Lyons (in Gaul) in AD 177. He stressed the fundamental Christian doctrines which were facing opposition from the Gnostics. The Gnostics believed in "secret knowledge" that only some believers would receive, but Ireneus reminded them that the Apostles taught in the open and not in secret. Some of his writings still survive today.
 
@@ -84,15 +88,11 @@ Tertullian said "What has Athens to do with Jerusalem?" He was saying that the i
 
 He believed that persecution came from God. He thought it was a tool used to separate the true believers from the false ones.
 
-### Simeon
-
-Simeon was James' successor as head of the Jerusalem church. He was crucified by order of the Roman governor of Palestine in AD 107 during Trajan's reign.
-
-### Blandina
+### Blandina (AD c162–177)
 
 Blandina was a Christian slave girl who was tortured from morning until night declared, "I am a Christian, and no evil is committed among us."
 
-### Perpetua and Felicitas
+### Perpetua (AD c182—203) and Felicitas (unknown—AD 203)
 
 A noble lady in Carthage, Perpetua, and her slave, Felicitas, were killed by wild beasts in AD 203.
 

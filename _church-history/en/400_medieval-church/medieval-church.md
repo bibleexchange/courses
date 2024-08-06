@@ -54,7 +54,7 @@ In the early church, the bishop of Rome (later to be known as the pope) was just
 
 ### Leo the Great (c. AD 400–461)
 
-Leo was pope from AD 440–461. He said that papal power was given to Peter by Christ and that power was passed down from Peter to his successors. [1] He was the first pope to claim this power from Peter. He convinced both the Huns (who were from Central Asia) and the Vandals (who were from East Germany) not to attack Rome.
+Leo was pope from AD 440–461. He said that papal power was given to Peter by Christ and that power was passed down from Peter to his successors.<sup>[1]</sup> He was the first pope to claim this power from Peter. He convinced both the Huns (who were from Central Asia) and the Vandals (who were from East Germany) not to attack Rome.
 
 ### Gregory the Great (c. AD 540–604)
 
@@ -70,7 +70,7 @@ The Lombards were again attacking the area around Rome, and Pope Stephen II coul
 
 This was a false document that said that Constantine gave the land around Rome to Pope Sylvester. It is believed that Stephen II used this document to convince Pippin to help him.
 
-### Charlemagne
+### Charlemagne (AD 747—814)
 
 Charlemagne took the throne in AD 771. On Christmas Day 800, the pope named him emperor. There was again a Christian emperor. There was still a question of whether the church or the government should be the highest leader.
 
@@ -129,25 +129,27 @@ They were named after their leader Peter Waldo who had the Bible translated into
 
 ## Prominent leaders of the period
 
-### Boniface
+### Boniface (AD 680–754)
 
-Boniface was born in 680 AD. His birth name was _Winfred_. He trained as a Benedictine monk, and he spent most of his life as a missionary to the Germans.
+Boniface was born in AD 680. His birth name was _Winfred_. He trained as a Benedictine monk, and he spent most of his life as a missionary to the Germans.
 
 Legend says that when he took an ax to the tree that stood as a tribute to the god of thunder, that lightning struck the tree and it fell to the ground.
 
-### Anselm
+### Anselm (AD c1033—1109)
 
 Anselm was born around AD 1033. In 1903 William II, the son of William the Conqueror, made Anselm the archbishop of Canterbury, but he wanted to keep the power to appoint clergy. Anselm refused to let William have this power, and as a result, he spent time in exile.
 
 Henry I, the brother of William II, took over after his brother died, and he asked Anselm to return. Anselm did not get along with this ruler, either, and he was soon in exile again. He did a lot of writing in his times of exile.
 
-### Thomas Aquinas
+### Peter Abelard (AD 1079—1142)
 
-Thomas Aquinas was born in AD 1225. He is possibly the greatest theologian of the Middle Ages. He introduced reason (based on ancient philosophers) into his theology.
+### Thomas Aquinas (AD 1225-1274)
 
-### John Wycliffe
+Thomas Aquinas was possibly the greatest theologian of the Middle Ages. He introduced reason (based on ancient philosophers) into his theology.
 
-John Wycliffe (1330&ndash;1384) was the first to translate the Bible into English. He is referred to as _the Morning Star of the Reformation_. He had followers, which were called _lollards_, which means "poor preachers." He stood against the Catholic Church. Following are some of the things he questioned about the church:
+### John Wycliffe (AD 1330—1384)
+
+John Wycliffe was the first to translate the Bible into English. He is referred to as _the Morning Star of the Reformation_. He had followers, which were called _lollards_, which means "poor preachers." He stood against the Catholic Church. Following are some of the things he questioned about the church:
 
 - The church's right to temporal power and wealth
 - The sale of indulgences
@@ -157,10 +159,12 @@ John Wycliffe (1330&ndash;1384) was the first to translate the Bible into Englis
 
 He would have been killed by the Catholics had it not been for the protection of the English nobles. Wycliffe's preaching and Bible translation prepared the way for the Reformation. The Catholics hated him so much his body was dug up and desecrated years after his death.
 
-### John Huss
+### John Huss (AD 1369—1415)
 
-John Huss (1369&ndash;1415) had been a reader of Wycliffe's writings, and he strongly opposed the authority of the pope. He insisted that Christ alone was the head of the church and that only God could forgive sins. When brought before a council to be questioned about his beliefs, he said, "I would not for a chapel full gold recede from the truth." He was condemned as a heretic and burned at the stake by a council of the Roman Catholic Church.
+John Huss had been a reader of Wycliffe's writings, and he strongly opposed the authority of the pope. He insisted that Christ alone was the head of the church and that only God could forgive sins. When brought before a council to be questioned about his beliefs, he said, "I would not for a chapel full gold recede from the truth." He was condemned as a heretic and burned at the stake by a council of the Roman Catholic Church.
 
-### Peter Abelard
+---
 
-[1] https://www.britannica.com/biography/Saint-Leo-I accessed on 5/14/2019.
+<small>
+* [1] https://www.britannica.com/biography/Saint-Leo-I accessed on 5/14/2019
+</small>

@@ -54,7 +54,7 @@ Katika kanisa la kwanza, Askofu wa Roma (aliyejulikana baadaye kama papa) alikuw
 
 ### Leo Mkuu (c. 400–461 BK)
 
-Leo alikuwa Papa kutoka mwaka 440–461 BK.Alisema kwamba nguvu ya upapa alipewa na Petro kutoka kwa Kristo na ile nguvu ilipitishwa kutoka kwa petro hadi kwa warithi wake. [1] Yeye alikuwa papa wa kwanza kutegemea nguvu kutoka kwa petro.Yeye aliwashawishi Wahani (wale ambao walitokea katikati mwa Asia) na Wavandali(wale ambao walitokea Mashariki mwa Ujerumani) sio kuvamia Roma.
+Leo alikuwa Papa kutoka mwaka 440–461 BK.Alisema kwamba nguvu ya upapa alipewa na Petro kutoka kwa Kristo na ile nguvu ilipitishwa kutoka kwa petro hadi kwa warithi wake.<sup>[1]</sup> Yeye alikuwa papa wa kwanza kutegemea nguvu kutoka kwa petro.Yeye aliwashawishi Wahani (wale ambao walitokea katikati mwa Asia) na Wavandali(wale ambao walitokea Mashariki mwa Ujerumani) sio kuvamia Roma.
 
 ### Gregori Mkuu (c.540-604 BK)
 
@@ -70,7 +70,7 @@ Walambadi walikuwa wakivamia tena eneo linalo zunguka Roma, na Papa stephano II 
 
 Hii ilikuwa hati ya uongo ambayo ilisemekana kuwa Costantino alimpa Papa Sylivesta aridhi iliyo izunguka Roma. Iliaminika kuwa Papa stephano wa II alitumia hati hii kumshawishi Pippini ili kumsaidia.
 
-### Charlemagne
+### Charlemagne (747—814 BK)
 
 Charlemagne alichukua kiti cha enzi 771 BK. Siku ya Christmas miaka 800, papa alimwita yeye mtawala. Tena alikuwa mtawala wa Wakristo. Bado maswali yalikuwepo juu ya kanisa au serikali ndiyo itakayekuwa na kiongozi mkuu.
 
@@ -129,25 +129,27 @@ Walipata jina lao kumuenzi kiongozi wao aliyeitwa Perto Waldo ambaye alitafsiri 
 
 ## Viongozi wakuu wa kipindi hicho
 
-### Bonifasi
+### Bonifasi (680–754 BK)
 
 Bonifasi alizaliwa katika 680 BK. Jina lake alilozaliwa nayo lilikuwa _Winfred_. Alifundishwa kama mtauwa wa Benedicto, na alitumia maisha yake mengi kama mmishenari kwa Wajerumani.
 
 Wahenga walisema kwamba ukichukua shoka kuuendea mti uliyesimama kuusulubu kwa ngurumo ya mungu, ile radi itaupiga mti na utaanguka chini.
 
-### Anselm
+### Anselm (1033—1109 BK)
 
 Anselm alizaliwa kati ya 1033 BK. Mwaka 1903 William II, mwana wa William mshindi, alimfanya Anselm kuwa Mkuu wa maaskofu wa Canterbury, lakini alitaka kuweka nguvu kwa kumtaja Clergy. Anselm alikataa kumwachia William mamlaka haya, na yaliyotokea, yeye alitumia muda wake uhamishoni.
 
 Henry I, kaka wa William wa II, alichukua nafasi baada ya kaka yake kufa, na alimwomba Anselm kurudi. Anselm hakuwa kiongozi kwa muda mrefu, angalau, na alienda kuishi uhamishoni tena. Aliweza kuandika mengi kwa kipindi hiki huko uhamishoni.
 
-### Thomasi Aquinas
+### Pertro Abelardi (1079—1142 BK)
 
-Thomasi Aquinas alizailwa 1225 BK. Yawezekana alikuwa mwanatheolojia mkuu wa zama za kati. Yeye alisema sababu (zilizohusu wana falsafa wa zaman) katika theolojia yake.
+### Thomasi Aquinas (1225-1274 BK)
 
-### Yohane Wykliffe
+Yawezekana alikuwa mwanatheolojia mkuu wa zama za kati. Yeye alisema sababu (zilizohusu wana falsafa wa zaman) katika theolojia yake.
 
-Yohane Wykliffe (1330—1384) alikuwa mtu wa kwanza kutafsiri Biblia kwa kiingereza. Anakumbukwa kama nyota ya asubuhi wa mageuzi. Alikuwa na wafuasi, waliyekuwa wanaitwa _lollards_, ikiwa na maana ya "wahubiri maskini." Alipingana sana na Kanisa Katoliki. Zifuatazo ni baadhi ya mambo aliyoyauliza juu ya kanisa:
+### Yohane Wykliffe (1330—1384 BK)
+
+Yohane Wykliffe alikuwa mtu wa kwanza kutafsiri Biblia kwa kiingereza. Anakumbukwa kama nyota ya asubuhi wa mageuzi. Alikuwa na wafuasi, waliyekuwa wanaitwa _lollards_, ikiwa na maana ya "wahubiri maskini." Alipingana sana na Kanisa Katoliki. Zifuatazo ni baadhi ya mambo aliyoyauliza juu ya kanisa:
 
 - Haki za kanisa kwa wagonjwa na utajiri
 - Kuuza vyeti vya upatanisho
@@ -157,8 +159,12 @@ Yohane Wykliffe (1330—1384) alikuwa mtu wa kwanza kutafsiri Biblia kwa kiinger
 
 Huyu angeuawa na kanisa katoliki kama mabwenyenye wa Uingereza hawakumpatia ulinzi. Mahubiri ya Wykliffe na tafsiri ya Biblia iliandalia njia ya mageuzi. Wakatoliki walimchukia sana Wyklif kiasi kwamba alipokufa waliutoa mwili wake kaburini miaka mingi baada ya kuzikwa na kuudhihaki.
 
-### Yohane Huss
+### Yohane Huss (1369—1415 BK)
 
-Yohane Huss (1369—1415 BK) alikuwa msomi wa maandiko ya Wykliffe, na alikataa kabisa mamlaka ya papa. Alisisitiza kwamba Kristo pekee ndiye alikuwa kichwa cha kanisa na Mungu pekee ndiye asameheaye dhambi. Alipopelekwa mbele ya baraza kwenda kuulizwa maswali kuhusu imani yake, alisema, "Mimi sikuwa mhudumu mkuu, dhahabu hujionyesha kutokana na ukweli." Alihukumiwa kama muasi na alichomwa katika mchi kwa amri ya Baraza la Kanisa Kikatoliki.
+Yohane Huss alikuwa msomi wa maandiko ya Wykliffe, na alikataa kabisa mamlaka ya papa. Alisisitiza kwamba Kristo pekee ndiye alikuwa kichwa cha kanisa na Mungu pekee ndiye asameheaye dhambi. Alipopelekwa mbele ya baraza kwenda kuulizwa maswali kuhusu imani yake, alisema, "Mimi sikuwa mhudumu mkuu, dhahabu hujionyesha kutokana na ukweli." Alihukumiwa kama muasi na alichomwa katika mchi kwa amri ya Baraza la Kanisa Kikatoliki.
 
-### Pertro Abelardi
+---
+
+<small>
+* [1] https://www.britannica.com/biography/Saint-Leo-I accessed on 5/14/2019
+</small>

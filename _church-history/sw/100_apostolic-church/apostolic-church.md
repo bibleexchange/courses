@@ -6,7 +6,7 @@ Kutoka siku ya Penstekoste hadi kukamilishwa Agano Jipya
 
 ### Nguvu za kanisa
 
-Walipokea nguvu siku Roho Mtakatifu alipowashukia (Mdo. 1:8)
+Walipokea nguvu siku Roho Mtakatifu alipowashukia (Mdo. 1:8).
 
 ### Makazi asilia ya Kanisa
 
@@ -30,7 +30,7 @@ Wale Mitume kumi nawawili waliongoza kanisa.
 
 ## Wakuu wa Kanisa
 
-### Mtume Petro
+### Petro
 
 Katika kanisa la Yerusalemu Mtume alikuwa ndiye msemaji wa mitume wote na msaidizi wake alikuwa ni Yakobo. Historia inasema kwamba Petro alikufa shahidi huko Roma mwaka wa 67 BK.
 
@@ -42,7 +42,7 @@ Alikuwa nimmoja kati ya watu saba walioteuliwa kwa ajili ya kutunza mahitaji ya 
 
 Alianzisha kanisa katika Samaria. Kanisa hili lilitambuliwa na Mitume. Hili lilikuwa kanisa la kwanza nje ya dhehebu la Yuda. Alianzisha pia makanisa huko Gaza, Joppa na Kaesaria (Mdo. 8:40).
 
-### Mtume Paulo
+### Paulo
 
 #### Mateso ya Sauli
 
@@ -62,7 +62,7 @@ Alifundisha katika masinagogi na alipokea toka kwa Roho Mtakatifu ujumbe mwingi 
 
 Yakobo alikuwa mdogo wake Yesu. Huyu anatakiwa asichanganywe na mtume Yakobo ambaye aliuawa na Herode katika Matendo 12. "Na akamuua Yakobo nduguye Yohana kwa upanga" (Mdo. 12:2). Yakobo alikuwa mzee kiongozi au mchungaji wa kanisa la Yerusalemu. Yeye alitambua mataifa mengine kama sehemu ya mwili wa Kristo. Historia inaonesha kwamba Yakobo alikufa shahidi mwaka 62 BK.
 
-### Mtume Yohana
+### Yohana
 
 Huyu mtume Yohana alikuwa ndiye kijana mdogo kuliko mitume wengine wote. Alinyanyuka baada ya mitume wengine kufa. Alimfundisha injili Inyasi na Polikarpi ambao baadaye waliliongoza kanisa.
 
@@ -91,5 +91,3 @@ Mji huo uliwaka moto mkubwa uliosababisha dhahabu iyeyukie katikati ya matofali 
 > Marko 13:2&mdash;Yesu akajibu, akamwambia, Wayaona majengo haya makubwa? Halitasalia hapa jiwe juu ya jiwe ambalo halitabomolewa.
 
 ### Sadaka za kuteketeza wanyama zilikoma hekalu lilipobomolewa
-
-### Wakati huo Mungu alihitimisha mambo yake na dhehebu la Yuda

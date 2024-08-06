@@ -44,7 +44,7 @@ A friend of Luther, who was a government leader, "captured" Luther and kept him 
 
 Zwingli became pastor of the main church in Zurich on January 1, 1519. He said he would preach through the Gospel of Matthew instead of using the lectionary. In 1522 some of his church members ate meat during lent, and he supported them by preaching on freedom. Under him priests got married, images were removed from the church, and the Mass was replaced by a simple service that emphasized preaching. He published works against the Catholics. Besides being a pastor, he was also a sort of civil leader. He was killed in civil war and John Calvin carried on the work.
 
-#### John Calvin (1509&ndash;1564) in France and Switzerland
+#### John Calvin (1509–1564) in France and Switzerland
 
 Around AD 1533 John Calvin broke from Catholicism, left his homeland of France, and settled in Switzerland as an exile. In 1536 he published the first edition of _The Institutes of the Christian Religion_.
 
@@ -96,13 +96,13 @@ Henry had two daughters. Mary was a Catholic, and Elisabeth was a Protestant.
 
 #### Puritans and Separatists in England
 
-King Henry VIII (1491&ndash;1547) drove the Roman Catholic Church out of England and formed the Church of England. The Church of England then became the official state church. Ministers and churches were then required to be licensed by the state. Those who opposed the official state church were called dissenters. Many of these dissenters, especially the non-licensed preachers, were put into prison. There were two groups that formed among the dissenters: Separatists and Puritans. Separatists were those who wanted to separate from the Church of England. Puritans were those who wanted to purify the Church of England.
+King Henry VIII (1491–1547) drove the Roman Catholic Church out of England and formed the Church of England. The Church of England then became the official state church. Ministers and churches were then required to be licensed by the state. Those who opposed the official state church were called dissenters. Many of these dissenters, especially the non-licensed preachers, were put into prison. There were two groups that formed among the dissenters: Separatists and Puritans. Separatists were those who wanted to separate from the Church of England. Puritans were those who wanted to purify the Church of England.
 
-#### John Bunyan (1628&ndash;1688) in England
+#### John Bunyan (1628–1688) in England
 
 John Bunyan was a powerful preacher of the Gospel among the dissenters. He preached salvation by grace through faith in Jesus. Bunyan preached without state sanction and spent twelve years in jail for preaching the Gospel. He wrote _Pilgrim's Progress_ while he was in jail, and it is still in print today.
 
-#### John Knox (c. 1510&ndash;1572) in Scotland
+#### John Knox (c. 1510–1572) in Scotland
 
 Knox fervent prayer became "Give me Scotland, or I die." He was a disciple of Calvin. He strongly opposed Mary Queen of Scots, who was a Roman Catholic. Actual physical battles were fought between the queen's men and the Protestants. He led parliament to outlaw the Catholic mass in 1560. The Protestant Church in Scotland, called the Presbyterian Church, became the official state church in 1567.
 
@@ -112,7 +112,7 @@ The Pilgrims who came to the New World were Separatists from England. They lande
 
 ### Change within the Catholic Church
 
-#### The Council of Trent (1545&ndash;1563)
+#### The Council of Trent (1545–1563)
 
 The main purpose of the council was to address issues and questions raised by the Protestant reformers. The actions of the reformers forced the Catholic Church to recognize that there were issues in the church that needed to be addressed. The Council of Trent was held in three stages between 1545 and 1563. Following are some of the decisions and results from the council:
 

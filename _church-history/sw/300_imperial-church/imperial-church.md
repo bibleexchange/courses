@@ -74,7 +74,7 @@ Huyu anajulikana kama "mdomo wa dhahabu" kwa sababu aliweza kuongea kwa ufasaha 
 
 Augustino alisema, "Mioyo yetu haina pumziko hadi imekupata wewe." Alikuwa Askofu wa Hippo huko Afrika Kaskazini mwaka 395 BK. Yeye ndiye mtetezi Mkuu wa ubishani wa Pelagia. Mafundisho haya ya uongo yalipambwa na Pelagio ambaye hakuamini dhambi ya asili. Augustino alijenga jina lake kama mhubiri, mwalimu na mwandishi. Yeye alijihusisha katika changamoto nyingi za siku zake (mfano wa Udonatismu na Upelagiasmu).
 
-### Ambrosi
+### Ambrosi (339–397 BK)
 
 Ambrosi alikuwa mtawala wa Milani. Wakati askofu wa Milani alipokufa mnamo mwaka BK 374, kutuliza ghasia juu ya nani angekuwa Askofu baadaye. Ambrosi alipiga hatua katika kujaribu kushusha vitu chini, na watu katika kusanyiko walipiga kelele kwamba yeye angekuwa askofu, hata ingawa yeye alikuwa bado haja batizwa yeye alilalamika lakinni mwishowe akaja kuwa askofu.
 
@@ -86,11 +86,11 @@ Tunaona maendeleo ya uhusiano wa kanisa na serikali:
 2. Kanisa lilikuwa sawa na serikali
 3. Kanisa lilikuwa kubwa kuliko serikali
 
-### Yeromi
+### Yeromi (347—419 BK)
 
 Yeromi (aliyejulikana kama Eusebio) alitafasiri Biblia kwenda Kilatini mnamo mwaka 405 BK. Na tafasiri hii ikawa inajulikana kama _Vulgate_ kutoka neno la kilatini _vulgus_, ambalo humaanisha "kawaida."
 
-### Patriki (390 BK)
+### Patriki (387—461 BK)
 
 Patriki alikuwa mmishenari kutoka Uingereza kwenda Ireland. Aliuleta ukristo huko Ireland, na kanisa huko Ireland liliendelea kwa nje ya Utaratibu wa kirumi. Ireland haikuwa wakatoliki hadi 1100s.
 
@@ -145,9 +145,7 @@ Maaskofu walitengeneza maelezo ya imani, ambayo, baada ya nyogeza zingine zilizo
 > Nasadiki kwa Kanisa moja, takatifu, katoliki, la Mitume.  
 > Naungama ubatizo mmoja kwa maondoleo ya dhambi.  
 > Nangojea na ufufuko wa wafu,  
-> na uzima wa milele ijayo. Amina.
-
-(https://sw.wikipedia.org/wiki/Kanuni_ya_Imani_ya_Nisea-Konstantinopoli accessed 2018/08/23)
+> na uzima wa milele ijayo. Amina.<sup>[1]</sup>
 
 Shahada inasema Yesu ni "Nuru kutoka Nuru." Je unawezaje kutenga nuru na jua? Kwa mfano huo huo je unawezaje kumtenga Mungu (Baba) kutoka Mungu (Mwana)?
 
@@ -157,15 +155,15 @@ Baraza haikujenga wazo la Utatu, tangu Utatu ilikuwa sehemu ya ibada ya kanisa t
 
 Baraza la Nikia liliamua kwamba Yesu alikuwa Mungu pia mwanadamu lakini kulibakia maswali kuhusu asili ya Yesu. Yeye ni Mungu kwa kiasi gani? Je, Yesu aliwahi kufanya dhambi kwa upande kibinadamu? Je, yeye ana akili mbili? Yesu angeweza kutenda dhambi kwa kuwa alikuwa mwanadamu? Viongozi wa wawili wa kanisa walitoa majibu kuhusu aina hizi za maswali. Walikuwa ni Nestorius na Cyril.
 
-#### Nestorius
+#### Nestorius (386–451 BK)
 
-Nestorius alikuwa Asikofu wa Konstantinopo. Ni mwindaji aliye jaribu kuzuia kuenea kwa mafundisho kama Arianism kutoka kueneza.
+Nestorius alikuwa asikofu wa Konstantinopo. Ni mwindaji aliye jaribu kuzuia kuenea kwa mafundisho kama Arianism kutoka kueneza.
 
 Nestorius alipokea mawazo ya viongozi wengine wa kanisa wakati alikataa kutumia neno _Theotokos_, ambalo linamaanisha "Mama wa Mungu." Aliamini kama Mwana wa Mungu alikuwapo kila wakati, basi hakuweza kuzaliwa. Alipenda neno _Christotokos_, ambalo linamaanisha "Mama wa Kristo." Nestorius pia hakupenda _Theotokos_ kwa sababu ya msisitizo kwamba Apollinarianism kuwekwa juu ya neno hili. Apollinarianism ilifundisha kwamba Yesu hakuwa na roho ya mwanadamu, lakini alikuwa Mungu amevaa katika mwili wa kibinadamu.
 
 Aliamini kwamba Kristo alikuwa na nafsi mbili, lakini alikuwa bado mtu mmoja. Alisisitiza tofauti kati ya nafsi hizi mbili, hasa katika mateso ya Kristo. Alisema kwamba ilikuwa tu nafsi ya kibinadamu ulioteseka wakati Kristo aliteseka, na sio nafsi ya kimungu.
 
-#### Cyril
+#### Cyril (376–444 BK)
 
 Cyril alikuwa askofu wa Alexandria. Wakati Nestorius alisisitiza zaidi nafsi wa mwanadamu wa Kristo, Cyril alisisitiza zaidi ya nafsi yake kwa Mungu. Aliamini kwamba msisitizo wa Nestorius wa nafsi mbili za Kristo ulikuwa unaharibu wazo la umoja wa Kristo. Ikiwa tu mwili wa Kristo unasumbuliwa, basi Kristo hakuwa kuhani mkuu wa wakika, kwani ilikuwa tu kwa mateso ya kimungu ambayo Kristo angeweza kulipa kwa ajili ya dhambi za ubinadamu.
 
@@ -189,10 +187,15 @@ Watu wengine hawakuamini kwamba Roho Mtakatifu alikuwa Mungu, kwa sababu Yeye ha
 
 Hili ndio baraza la mwisho la makanisa yote yaliyokuwa kuhusu asili-mbili za Yesu. Kusudi lake lilikuwa kumaliza mjadala juu ya Utatu. Ndani yake, ilitangazwa kuwa Kristo ni "atambuliwe katika asili mbili, bila kuchanganyikiwa, kugeuzwa, kugawanywa, kutengwa... bali hulka ya kila asili ikihifadhiwa na kukubaliana katika mmoja na katika dutu moja, si kugawanywa au kutengwa kuwa wawili, bali mwana huyo mmoja." _Dutu_ maana "vifaa." Kufuatia ni maandishi kamili ya imani iliyotolewa kwa Chalcedon:
 
-> Sisi, basi, tukiwafuata baba zetu watakatifu, sote kwa ridhaa moja, twafunza watu kukiri Mwana yule mmoja, Bwana wetu Yesu Kristo, yeye mkamilifu katika utatu na pia katika ubinadamu; Mungu kweli na binadamu kweli, mwenye roho na mwili zote kamili kawaida; hususan na Baba kulingana na utatu, hususan kama sisi kibinadamu; katika vyote kama sisi, bila dhambi, wa pekee wa Baba kabla ya nyakati kulingana na utatu, na siku hizi za baadaye, kwa ajili yetu na wokovu wetu, mzaliwa wa bikira Maria, mama [wa] Mungu, kibinadamu; Kristo mmoja yule, Mwana, Bwana, wa pekee, atambuliwe katika asili mbili, bila kuchanganyikiwa, kugeuzwa, kugawanywa, kutengwa; tofauti katika asili isiwe nafasi ya kubatilisha hali ya umoja, bali hulka ya kila asili ikihifadhiwa na kukubaliana katika mmoja na katika dutu moja, si kugawanywa au kutengwa kuwa wawili, bali mwana huyo mmoja, pekee, Mungu Neno, Bwana Yesu Kristo; vile manabii tokea mwanzo (wamefunza) kumhusu, na Bwana Yesu Kristo ametufunza, na imani ya baba watakatifu tuliyoachiwa.
-
-(http://www.cprf.co.uk/languages/chalcedon_swahili.html#.W4zxCegzbb1 accessed on 2018/09/03)
+> Sisi, basi, tukiwafuata baba zetu watakatifu, sote kwa ridhaa moja, twafunza watu kukiri Mwana yule mmoja, Bwana wetu Yesu Kristo, yeye mkamilifu katika utatu na pia katika ubinadamu; Mungu kweli na binadamu kweli, mwenye roho na mwili zote kamili kawaida; hususan na Baba kulingana na utatu, hususan kama sisi kibinadamu; katika vyote kama sisi, bila dhambi, wa pekee wa Baba kabla ya nyakati kulingana na utatu, na siku hizi za baadaye, kwa ajili yetu na wokovu wetu, mzaliwa wa bikira Maria, mama [wa] Mungu, kibinadamu; Kristo mmoja yule, Mwana, Bwana, wa pekee, atambuliwe katika asili mbili, bila kuchanganyikiwa, kugeuzwa, kugawanywa, kutengwa; tofauti katika asili isiwe nafasi ya kubatilisha hali ya umoja, bali hulka ya kila asili ikihifadhiwa na kukubaliana katika mmoja na katika dutu moja, si kugawanywa au kutengwa kuwa wawili, bali mwana huyo mmoja, pekee, Mungu Neno, Bwana Yesu Kristo; vile manabii tokea mwanzo (wamefunza) kumhusu, na Bwana Yesu Kristo ametufunza, na imani ya baba watakatifu tuliyoachiwa.<sup>[2]</sup>
 
 Tangu Nikia, kanisa lilikazia kwamba Yesu alishiriki asili na Baba, lakini sasa waliongeza kwa hili jinsi Yesu pia alishiriki asili na mtu.
 
 Ilikuwa ni baraza la kwanza ambalo papa alicheza jukumu kubwa, na ilikuwa baraza la mwisho ambalo Mashariki na Magharibi wote watatambua rasmi.
+
+---
+
+<small>
+* [1] https://sw.wikipedia.org/wiki/Kanuni_ya_Imani_ya_Nisea-Konstantinopoli accessed 2018/08/23
+* [2] http://www.cprf.co.uk/languages/chalcedon_swahili.html#.W4zxCegzbb1 accessed on 2018/09/03
+</small>

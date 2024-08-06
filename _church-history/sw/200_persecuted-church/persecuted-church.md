@@ -48,19 +48,19 @@ Kustawi kwa Ukristo kulisababisha biashara iliyokuwa na faida kubwa ya kutengene
 
 ## Mashahidi muhimu na viongozi wa makanisa ya liyoteseka
 
-### Inyasi
+### Inyasi (50—110 BK)
 
 Inyasi alikuwa asikofu wa Antiokia huko Syria. Huyu alikuwa ni mwanafunzi wa mtume Yohana.
 
 Inyasi alitupiwa wanyama wakali wamrarue katika kiwanja cha Coliseum. Akisimama katika uwanja huo wakati wanyama wakali wanamsogelea, Inyasi alisali ifuatavyo, "Nakushukuru ee Bwana kwa kuwa wewe umenitoa mimi ilinitukuke. Mimi ni punje ya Mungu ambaye nitasagiwa katikati ya meno ya wanyama wakali ili niwe mkate mtakatifu wa Bwana."
 
-### Shahidi Yustini
+### Shahidi Yustini (100—165 BK)
 
 Shahidi Yustini alikuwa mwana falsafa aliyekuwa Mkristo baada ya kukutana na mtu mzee ambaye alielezea jinsi Yesu alivyotimiza unabii wa Agano la Kale. Alikuwa mmoja wa watetezi wa kwanza, ambaye ni mtu aliyetumia sababu na mantiki ili kulinda imani yake. Aliandika vitabu vingi ambavyo vipo hadi leo na vinatupatia taarifa nyingi za kipindi hicho. Mojawapo ya kazi zake muhimu ni _Mazungumzo na Trypho_ maandishi ambayo hufundisha dhidi ya Waebionaiti (Ufunuo 2:9).
 
 Aliandika mara moja, "Unaweza kutuua, lakini huwezi kutudhuru." Yustini shahidi alikatwa kichwa huko Roma mwaka 165 BK. Maneno yake ya mwisho yalikuwa, "Mimi ni Mkristo, nimewekwa huru na Kristo na kwa wema wake Kristo nina pokea pigo hili kwa tumaini moja."
 
-### Polikarpi
+### Polikarpi (69–155 BK)
 
 Polikarpi alikuwa asikofu wa Smirna katika Asia ndogo. Alifundishwa akiwa kijana na Mtume Yohana. Alikuwa mhudumu shupavu katika kizazi chake. Wakati polisi walipokuja kumkamata, aliwapokea kama wageni. Aliwapa chakula na kuomba muda wa lisaa wa kuomba, lakini alitumia masaa mawili.
 
@@ -68,7 +68,11 @@ Walimleta Polycarp kwa mtawala, ambaye alitishia kumchoma akiwa hai kwa moto kam
 
 Mtawala huyo alimsihi akisema, "Akae mbali na wasioamini Mungu!" (akimaanisha Wakristo), ili waweze kumruhusu awe huru. Polycarp aliugeukia umati uliokuwa unatazama huku akisema, "Akae mbali na wasioamini Mungu!" Kwa sababu hakuweza kupingana na imani yake ya Kikristo, aliteketezwa akiwa hai huko Smyrna mwaka wa 155 BK. Polycarpi alikuwa kiungo cha mwisho kwa Kanisa la Mitume.
 
-### Ireneusi
+### Simeoni (haijulikani—107 BK)
+
+Simeoni alikuwa kiongozi wa kanisa la Yerusalemu baada ya Yakobo. Alisulubiwa msalabani kwa amri ya Gavana wa Kirumi wa Palestina mwaka 107 BK wakati wa utawala wa Trajani.
+
+### Ireneusi (120—200 BK)
 
 Ireneusi alikuwa mwanafunzi wa Polikarpi. Baadaye alikuwa askofu wa Lionsi (huko Gaul) mwaka 177 BK. Alisisitiza kanuni za msingi za Ukristo ambazo zilipingwa na Waagnosti. Wagnostiki waliamini "maarifa ya siri" ambayo waamini wachache tu wangepokea, lakini Ireneusi aliwakumbusha kwamba Mitume walifundishwa waziwazi na si kwa siri. Baadhi ya maandiko yake bado yanakuja leo.
 
@@ -84,15 +88,11 @@ Tertullian alisema "Je, Athene inafanya nini na Yerusalemu?" Alikuwa akisema kuw
 
 Aliamini kwamba mateso yalitoka kwa Mungu. Alidhani ilikuwa chombo kilichotenganisha waumini wa kweli kutoka kwa waongo.
 
-### Simeoni
-
-Simeoni alikuwa kiongozi wa kanisa la Yerusalemu baada ya Yakobo. Alisulubiwa msalabani kwa amri ya Gavana wa Kirumi wa Palestina mwaka 107 BK wakati wa utawala wa Trajani.
-
-### Blandina
+### Blandina (162–177 BK)
 
 Blandina alikuwa msichana Mkristo aliyekuwa mtumwa ambaye aliteswa tangu asubuhi hadi usiku kisha akatamka, "mimi ni Mkristo na kat iyetu hakuna uovu unaotendwa."
 
-### Perpetua na Felista
+### Perpetua (182—203 BK) na Felista (haijulikani—203 BK)
 
 Alikuwa ni mwanamke mwadilifu wa Kartago, Perpetua na mtumwa wake Felisita waliuawa na wanyama wakali mwaka 203 BK.
 

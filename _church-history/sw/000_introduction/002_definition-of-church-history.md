@@ -28,7 +28,7 @@ Neno hili _historia_ linatokana na neno "linalomaanisha kujifunza kwa kufanya uc
 
 Kamusi ya Webster inafafanua historia kama "lile tawi la elimu linalohusu matukio fulani katika hii dunia yetu. Somo au uchunguzi wa mambo ya wakati uliokwishapita."
 
-Mwandishi mmoja alisema kwamba "Zamani ni nchi ya kigeni: wanafanya mambo tofauti huko." [1]
+Mwandishi mmoja alisema kwamba "Zamani ni nchi ya kigeni: wanafanya mambo tofauti huko."[1]
 
 ### Ukristo
 
@@ -36,4 +36,8 @@ Tunajifunza historia ya kanisa la Kikristo. Neno _Mkristo_ lina maana "ya kuwa k
 
 Kuzaliwa, maisha, kifo, na ufufuko wake Kristo ndio kiini cha historia ya dunia. Historia imeandikwa kumzunguka Kristo; tarehe huandikwa katika KK (Kabla ya Kristo) na BK (Baada ya Kristo). Historia yote imemweka Kristo katikati yake.
 
-[1] L. P. Hartley, The Go-Between (1953)
+---
+
+<small>
+* [1] L. P. Hartley, The Go-Between (1953)
+</small>

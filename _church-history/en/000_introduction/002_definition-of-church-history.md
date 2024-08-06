@@ -28,7 +28,7 @@ The word _history_ comes from a word that means "learning by inquiry."
 
 The Webster's dictionary defines history as "that branch of knowledge which deals with events that have taken place in the world's existence; the study or investigation of the past."
 
-One writer said that "The past is a foreign country: they do things differently there." [1]
+One writer said that "The past is a foreign country: they do things differently there."[1]
 
 ### Christian
 
@@ -36,4 +36,8 @@ We are studying the history of the Christian church. The term _Christian_, meani
 
 The birth, life, death, and resurrection of Christ are the central events of the history of the world. History is recorded around Christ. Dates are listed as BC (before Christ) and AD (Anno Domini) which is Latin that means in the year of our Lord. All of history centers on Christ.
 
-[1] L. P. Hartley, The Go-Between (1953)
+---
+
+<small>
+* [1] L. P. Hartley, The Go-Between (1953)
+</small>

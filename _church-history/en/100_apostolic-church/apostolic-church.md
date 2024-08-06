@@ -6,7 +6,7 @@ From the Day of Pentecost to the completion of the New Testament
 
 ### The church's enduement
 
-They received power, after the Holy Ghost came upon them (Acts 1:8)
+They received power, after the Holy Ghost came upon them (Acts 1:8).
 
 ### The church's original location
 
@@ -14,7 +14,7 @@ The church began in the city of Jerusalem, but persecution would soon scatter th
 
 ### The church's membership
 
-The original members were all Jews. They didn't yet understand that the Gospel was also for the Gentiles.
+The original members were all Jews. They didn't yet understand that the Gospel was also for the gentiles.
 
 ### The church's government
 
@@ -30,9 +30,9 @@ The twelve Apostles as a body governed the Church.
 
 ## The leaders of the Church
 
-### The Apostle Peter
+### Peter
 
-The Apostle Peter was the spokesman among the Apostles. He assisted James at the Jerusalem Church. History records Peter was martyred in Rome about AD 67.
+The apostle Peter was the spokesman among the Apostles. He assisted James at the Jerusalem Church. History records Peter was martyred in Rome about AD 67.
 
 ### Stephen
 
@@ -42,7 +42,7 @@ He was one of the seven chosen to care for the needs of the church (Acts 6:8). H
 
 He established a church in Samaria. This church was recognized by the Apostles. This was the first church outside of Judaism. He also founded churches in Gaza, Joppa, and Caesarea (Acts 8:40).
 
-### The Apostle Paul
+### Paul
 
 #### Saul's persecution
 
@@ -60,9 +60,9 @@ He taught in the synagogues and received from the Holy Ghost much of the N.T. Wh
 
 ### James
 
-James was the younger brother of the Lord. He is not to be confused with the Apostle James who was killed by Herod in Acts 12. "And he killed James the brother of John with the sword" (Acts 12:2). James was the presiding elder or pastor of the Jerusalem church. He recognized the Gentiles as part of the body of Christ. History records James was martyred around AD 62.
+James was the younger brother of the Lord. He is not to be confused with the apostle James who was killed by Herod in Acts 12. "And he killed James the brother of John with the sword" (Acts 12:2). James was the presiding elder or pastor of the Jerusalem church. He recognized the Gentiles as part of the body of Christ. History records James was martyred around AD 62.
 
-### The Apostle John
+### John
 
 John was the youngest of the Apostles. He arose as a leader after the death of the other original Apostles. John taught Ignatius and Polycarp who would become leaders of the Church.
 
@@ -91,5 +91,3 @@ The city caught on fire, which caused the gold to melt between the bricks. Soldi
 > Mark 13:2&mdash;And Jesus answering said unto him, Seest thou these great buildings? there shall not be left one stone upon another, that shall not be thrown down.
 
 ### The animal sacrifices ceased when the temple was destroyed
-
-### God was done with Judaism
