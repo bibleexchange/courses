@@ -27,22 +27,37 @@ As an example, following is the structure of Psalm 30:
 2. Narrative
   a. Crisis (v. 6–7)
   b. Plea for help (v. 8–10)
-  c. Deliverance (v. 11)
-3. Conclusion (v. 12)
+  c. Deliverance (v. 11–12a)
+3. Conclusion (v. 12b)
 ```
 
 **Homework:** find the structure of Psalm 116.
 
+<div class='teacher'>
+
+**Homework answer:**
+
+```
+1. Introduction (v. 1–2)
+2. Narrative
+  a. Crisis (v. 3)
+  b. Plea for help (v. 4)
+  c. Deliverance (v. 5–11)
+3. Conclusion (v. 12–19)
+```
+
+</div>
+
 ### Temple ceremony in the psalms of thanksgiving
 
-We can see from Psalms 66:13, 92:13, and 116:19 that these psalms were said in the temple. Sacrifices and vows to make sacrifices are mentioned in 66:13–15, 107:22, 116:17–19, and 118:27. It is believed that these psalms were said before a sacrifice of thanksgiving was made.<sup>[1]</sup> We can read about this thank offering in Lev. 7:11 and 22:29. "116:13 also refers to the cup of salvation, which is usually thought to indicate a drink offering rather than being a mere metaphor."<sup>[2]</sup> See Leviticus 23:13.
+We can see from Psalms 66:13, 92:12–13, and 116:19 that these psalms were said in the temple. Sacrifices and vows to make sacrifices are mentioned in 66:13–15, 107:22, 116:17–19, and 118:27. It is believed that these psalms were said before a sacrifice of thanksgiving was made.<sup>[1]</sup> We can read about this thank offering in Lev. 7:11–12 and 22:29. "116:13 also refers to the cup of salvation, which is usually thought to indicate a drink offering rather than being a mere metaphor."<sup>[2]</sup> See Leviticus 23:13.
 
 Since these psalms were sung in the temple, they were a part of public and not private worship. There are many references in these psalms to the people listening. They are called "those who fear God" (66:16), "God's people" (116:14, 18–19), "saints" (30:4; 31:23), and the "righteous" (32:11). The singer encourages those listening to thank God (such as in 118:1–4). It's possible that the congregation joined with the lead singer in 118:24–27, because it changes from using the singular pronoun "I" to the plural "we."
 
 > But did every individual who escaped a life-threatening crisis compose a psalm as an expression and instrument of his gratitude? It is hardly possible that the capabilities of the common worshiper would have come up to that level of literary accomplishment. What we have in the Psalter is most likely samples of songs that accomplished composers had provided for use in the temple for the purpose of the thanksgiving ritual, even though some of these writers could have been common worshipers.
 > — C. Hassell Bullock<sup>[3]</sup>
 
--------------------------------------------
+---
 
 <small>
 * [1] Psalms (Encountering Biblical Studies): A Literary and Theological Introduction By C. Hassell Bullock, p. 393
@@ -55,4 +70,3 @@ Individual: 30, 34, 41, 66, 92, 116, 118, 138 and national: 67, 75, 107, 124, 12
 Individual: Psalms 18, 30, 31, 32, 40, 66, 92, 116, 118, and 120 (Encountering the Book of Psalms (Encountering Biblical Studies): A Literary and Theological Introduction By C. Hassell Bullock, p. 384)-->
 <!--Mays has pointed out that the cycle of trouble-prayer-help is not complete without “specific and public acts of gratitude.” Gratitude is a spiritual virtue that opens the door of the soul to the world around us. It creates a centrifugal force that causes the individual to look away from the self to God and to fellow human beings. It is not self-generating but stems from something outside oneself.
 ---Psalms (Encountering Biblical Studies): A Literary and Theological Introduction By C. Hassell Bullock, p. 400-->
-

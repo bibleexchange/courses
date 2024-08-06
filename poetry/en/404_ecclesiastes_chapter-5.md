@@ -2,9 +2,17 @@
 
 ### Worship (v. 1–7)
 
+<div class='teacher'>
+
+This section needs to be cleaned up. Vs. 1-7 are all talking about making vows and promises to God and cannot really be broken up into three separate acts of worship.
+
+</div>
+
 #### Sacrifices (v. 1)
 
 Qohelet warns about making the "sacrifice of fools." "The sacrifice of the fools should be thought of not as a denial of the value of sacrifice per se but as a critique of superficial religion that goes through the rituals with many words but no awareness of God."[1] There are other warnings in the Old Testament about offering vain sacrifices to God, such as 1 Samuel 15:22–23, Psalm 40:6, and Isaiah 1:11. These verses combined show us that God is not pleased with sacrifices if the heart of the giver was unclean.
+
+In context, this is not talking about a physical sacrifice, but it is about making promises to God.
 
 #### Prayer (v. 2–3)
 
@@ -20,18 +28,17 @@ Qohelet continues the idea of being careful with our words by giving advice on m
 
 #### The burden of wealth (v. 10–17)
 
-* Wealth never satisfy (v. 10)
-* When you have more wealth, you have more problems (v. 11)
-* Wealth can cause anxiety, which robs you of sleep (v. 12)
-* We cannot take wealth with us to death (v. 13–17)
+- Wealth never satisfy (v. 10)
+- When you have more wealth, you have more problems (v. 11)
+- Wealth can cause anxiety, which robs you of sleep (v. 12)
+- We cannot take wealth with us to death (v. 13–17)
 
 ### The gift of God (v. 18–20)
 
 Wealth may not satisfy, but God does give blessings to every person. They can eat, drink and enjoy life. This is similar to statements in 2:24–26 and 9:7–10.
 
------------------------------------------
+---
 
 <small>
 * [1] Baker, p. 267
 </small>
-

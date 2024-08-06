@@ -20,15 +20,24 @@ _Katika mfano wetu wa Zaburi 13, sala ni 13:1._
 
 Sehemu hii inatoa sababu kwanini mwimba zaburi anaomba. Inazungumzia kuhusu matatizo yanayosababisha malalamiko. Baadhi ya sababu za malalamiko ni:
 
-* magonjwa (6; 13; 38; 39; 69; 88)
-* kashfa (64:3; 57:4; 140:3, 9)
-* Aibu ya marafiki na familia (55:12–14, 20; 31:11; 35:11; 69:8, 20; 88:8, 18)
+- magonjwa (6; 13; 38; 39; 69; 88)
+- kashfa (64:3; 57:4; 140:3, 9)
+- Aibu ya marafiki na familia (55:12–14, 20; 31:11; 35:11; 69:8, 20; 88:8, 18)
 
 Wakati mwingine mwimba zaburi pia anamlalamkia Mungu mwenyewe. "Wanasema siyo tu 'mimi maliteswa,' bali mara nyingi 'umenitesa.'"<sup>[2]</sup> Wakati mwingine mwimba zaburi anapata hukumu za Mungu, na anatubu kwasababu ya hukumu hiyo. Mfano mmoja ni Zaburi ya 51, ambayo ilifikiriwa kuwa toba za Daudi baada ya dhambi yake na Bathsheba (2 Sam. 11–12). Wakati mwingine, alijiskia amekuwa mwenye haki na kwamba Mungu alimuonea kwa kumwadhibu.<sup>[3]</sup>
 
 Katika zaburi hizi kuna mazungumzo kuhusu _maadui_. Inaweza kuwa haya yalikuwa majeshi halisi ambayo yaliwakabili wana wa Israel, lakini pia zinaweza kuwamifano ya watu waliosimama kinyume na kanuni za Yehova.<sup>[4]</sup>
 
 _Katika mfano wetu, malalamiko ni 13:2._
+
+**Kazi ya nyumbani:** Tafuta muundo wa Zaburi za maombolezo hizi:
+
+|            | Zab. 54                               | Zab. 71                                          |
+| ---------- | ------------------------------------- | ------------------------------------------------ |
+| Invocation | <span class='Teacher'>mst. 1–2</span> | <span class='Teacher'>mst. 1–3 (or 1–6)</span>   |
+| Complaint  | <span class='Teacher'>mst. 3</span>   | <span class='Teacher'>mst. 4–11 (or 7–11)</span> |
+| Petition   | <span class='Teacher'>mst. 4–5</span> | <span class='Teacher'>mst. 12–13</span>          |
+| Conclusion | <span class='Teacher'>mst. 6–7</span> | <span class='Teacher'>mst. 14–24</span>          |
 
 ##### Dua
 
@@ -38,7 +47,7 @@ _Katika mfano wetu, dua ni 13:3&ndash;4._
 
 ##### Hitimisho
 
-Hitimisho la zaburi za maombolezo kwa kawaida huwa na sifa kwa Mungu. Inashangaza kuona mzungumzaji akibadilika kutoka kuvunjika moyo sana hadi kuhisi kuwa na tumaini katika Mungu. Inawezekana kwamba baada ya dua hilo na kabla ya hitimisho kwamba kuhani alitoa baraka fulani isiyoandikwa ambayo ilimfanya msemaji apate tena tumaini lao kwa Mungu. 
+Hitimisho la zaburi za maombolezo kwa kawaida huwa na sifa kwa Mungu. Inashangaza kuona mzungumzaji akibadilika kutoka kuvunjika moyo sana hadi kuhisi kuwa na tumaini katika Mungu. Inawezekana kwamba baada ya dua hilo na kabla ya hitimisho kwamba kuhani alitoa baraka fulani isiyoandikwa ambayo ilimfanya msemaji apate tena tumaini lao kwa Mungu.
 
 _Katika mfano wetu, hitimisho ni 13:5&ndash;6._
 
@@ -56,15 +65,19 @@ Zaburi za maombolezo ya kitaifa ni 12, 44, 58, 60, 74, 77, 79, 80, 82, 83, 85, 9
 
 Nyingi za zaburi hizi zina malalamiko na shutuma kali dhidi ya Mungu. Kwa mfano, Zaburi ya 13:1 inasema, "Ee BWANA, hata lini utanisahau, hata milele? Hata lini utanificha uso wako?" Waisraeli walipokuwa jangwani, walilalamika, na Mungu aliwakasirikia kwasababu ya malalamiko yao (Hesabu 14:26&ndash;30). Je malalamiko katika zaburi yanatofautianaje na malalamiko ya wana Waisraeli?
 
-* Waisrael waliongea kuhusu Mungu (kama ilivyokuwa) nyuma yake. Walizungumza kama vile wamekata tamaa kwa Mungu.
-* Malalamiko ya mwimba zaburi yamezungumzwa moja kwa moja kwa Mungu. Mwimba zaburi hakukata tamaa kwa Mungu lakini anaelezea kinyume chake. 
-* Bila kujali hisia walizokuwa nazowalizikabidhi kwa Mungu, lakini katika mazingira ya kuomba msaada na kuwa na tumaini kwamba atawajibu dhiki zao.
+- Waisrael waliongea kuhusu Mungu (kama ilivyokuwa) nyuma yake. Walizungumza kama vile wamekata tamaa kwa Mungu.
+- Malalamiko ya mwimba zaburi yamezungumzwa moja kwa moja kwa Mungu. Mwimba zaburi hakukata tamaa kwa Mungu lakini anaelezea kinyume chake.
+- Bila kujali hisia walizokuwa nazowalizikabidhi kwa Mungu, lakini katika mazingira ya kuomba msaada na kuwa na tumaini kwamba atawajibu dhiki zao.
+
+#### Kumimina moyo wako kwa Mungu
 
 Maombolezo ni maarufu sana katika maombi ya Waisrael. Hii inatuonyesha sisi kwamba maombi ya "dhiki na mshangao katika maisha ya imani siyo alama ya upungufu wa imani, kitu cha kuiondoa ile tabia au kuweka nyuma ya mtu, lakini badala yake ni asili kwa asili ya imani."<sup>[8]</sup> Wakati mwingine tunaimba nyimbo za furaha tu au sifa, lakini tukiondoa nyimbo za maombolezo, Tunahitimisha kwamba "mambo magumu ya haki ni maswali yasiyofaa kupeleka katika kiti cha enzi, kwasababu kiti cha enzi kinaonekana kuwa eneo la sifa tu."<sup>[9]</sup> Zaburi za maombolezo zinatufundisha sisi kwamba "Mungu anahusika katika kila kipimo cha maisha." Kama hatutaleta shida zetu kwa Mungu kwa njia ya maombolezo, basi kils tulichonacho ni wasiwasi na kukata tamaa kwasababu ya shida zetu.<sup>[10]</sup>
 
-Lakini vipi kuhusu sisi leo? Je Wakristo waeleze malalamiko yao dhidi ya Mungu? Maandamano kuelekea kwa Mungu yanaeleweka katika Agano la Kale, kwasababu katika mpango kanuni kuu zilikuwa baraka za wale waliotunza agano na laana za wale ambao hawakutunza agano. Kama mtu mmoja aliyekuwa mwenye haki katika kutunza agano waliteseka, halafu inaonesha kama siyo haki. Lakini katika mpango mpya, Yesu na maaskofu wanaeleza vizuri kuwa mwenye haki atapata mateso. Kristo aliteseka, na akasema kwamba ata sisi tutateseka (Yoh. 6:33).<sup>[11]</sup> Tutatakiwa kuendelea kupeleka mizigo yetu kwa Mungu, lakini hatutakiwa kushangaa tunapopitia mateso. Hatupaswi kuogopa kushiriki hisia zetu na Mungu, kwa sababu tayari anajua mawazo ya mioyo yetu hata kama hatuyasemi (Zaburi 139:1&ndash;4).
+#### Kuteseka ni sehemu ya maisha
 
----------------------------------------------------------------------------------------------------
+Lakini vipi kuhusu sisi leo? Je Wakristo waeleze malalamiko yao dhidi ya Mungu? Maandamano kuelekea kwa Mungu yanaeleweka katika Agano la Kale, kwasababu katika mpango kanuni kuu zilikuwa baraka za wale waliotunza agano na laana za wale ambao hawakutunza agano. Kama mtu mmoja aliyekuwa mwenye haki katika kutunza agano waliteseka, halafu inaonesha kama siyo haki. Lakini katika mpango mpya, Yesu na mitume wanaeleza vizuri kuwa mwenye haki atapata mateso. Kristo aliteseka, na akasema kwamba ata sisi tutateseka (Yoh. 16:33).<sup>[11]</sup> Tutatakiwa kuendelea kupeleka mizigo yetu kwa Mungu, lakini hatutakiwa kushangaa tunapopitia mateso. Hatupaswi kuogopa kushiriki hisia zetu na Mungu, kwa sababu tayari anajua mawazo ya mioyo yetu hata kama hatuyasemi (Zaburi 139:1&ndash;4).
+
+---
 
 <small>
 * [1] Broyles, C. C. (1989). The Conflict of Faith and Experience in the Psalms: A Form-Critical and Theological Study (Vol. 52, p. 13). Sheffield: Sheffield Academic Press.
@@ -79,4 +92,3 @@ Lakini vipi kuhusu sisi leo? Je Wakristo waeleze malalamiko yao dhidi ya Mungu? 
 * [10] ibid, p. 108
 * [11] The Psalms as Christian Lament, p. 28
 </small>
-

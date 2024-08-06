@@ -6,11 +6,11 @@ Vitabu vya Hekima na Mashairi ni Ayubu, Zaburi, Mhubiri, na Wimbo uliobora. (Kat
 
 ### Hekima ni nini?
 
-Hekima ni kuishi kulingana na mpango wa Mungu katika uumbaji.<sup>[1]</sup> 
+Hekima ni kuishi kulingana na mpango wa Mungu katika uumbaji.<sup>[1]</sup>
 
 ### Hekima inatofautianaje na maarifa?
 
-Tunaona maneno "hekima" na "maarifa" mara nyinyi katika hivi vitabu. Nini tofauti ya haya maneno? Maarifa ni kuwa na uelewa wa kitu, ila unaweza kujua kitu na usifanye hivyo. Kwa mfano, unawza kujifunza mambo mengi kuhusu baiskeli kwenye kitabu. Unawza kuona picha  yake, kujua sehemu zake zote, na kujua inavyofanya kazi. Lakini huwezi kusema kwamba unaweza kuendesha baiskeli mpaka uipate na kufanya mazoezi. Watu wengi wanaufahamu kuhusu mambo ya rohoni, ila hawayatumii katika maisha yao (Yakobo 1:22-24). Kuwa na maarifa tu haitoshi (Mith. 26:7, 9).
+Tunaona maneno "hekima" na "maarifa" mara nyinyi katika hivi vitabu. Nini tofauti ya haya maneno? Maarifa ni kuwa na uelewa wa kitu, ila unaweza kujua kitu na usifanye hivyo. Kwa mfano, unawza kujifunza mambo mengi kuhusu baiskeli kwenye kitabu. Unawza kuona picha yake, kujua sehemu zake zote, na kujua inavyofanya kazi. Lakini huwezi kusema kwamba unaweza kuendesha baiskeli mpaka uipate na kufanya mazoezi. Watu wengi wanaufahamu kuhusu mambo ya rohoni, ila hawayatumii katika maisha yao (Yakobo 1:22-24). Kuwa na maarifa tu haitoshi (Mith. 26:7, 9).
 
 Hekima ni maarifa katika matendo. Ni kutumia maarifa katika maisha.
 
@@ -30,11 +30,11 @@ Kitabu cha Mithali na Mhubiri vinazungumzia vitu katika matendo, lakini bado ni 
 
 ### Hekima mar azote siyo rahisi
 
-Mfano:  Mithali 13:7; 30:33
+Mfano: Mithali 13:7; 30:33
 
 #### Mungu huficha baadhi ya mambo (Mith. 25:2)
 
-Siyo kila mtu yuko tayari kuelewa hekima kwa undani, hivyo Mungu huficha hivi vitu ndani. Hekima ni kitu cha hatari kwa kwa mpumbavu kujaribu kutumia (Mith. 26:9). Yesu pia alificha mambo mengi katika mifano (Mat. 13:3, 10-13). 
+Siyo kila mtu yuko tayari kuelewa hekima kwa undani, hivyo Mungu huficha hivi vitu ndani. Hekima ni kitu cha hatari kwa kwa mpumbavu kujaribu kutumia (Mith. 26:9). Yesu pia alificha mambo mengi katika mifano (Mat. 13:3, 10-13).
 
 #### Misemo mingi ni kama vitendawili (Mith. 1:1- 6)
 
@@ -56,15 +56,15 @@ Hii ni wakati neno au kifungu kimetumika kusisitizia wazo. Ni kama nyimbo zetu z
 
 ### Mfananisho
 
-Hii ni wakati maneno mawili yamelinganishwa kwa kutumia maneno "kama" au "amefanana." Kwa mfano, **Zaburi 1:3**, mtu wa haki anasemwa kama mti. 
+Hii ni wakati maneno mawili yamelinganishwa kwa kutumia maneno "kama" au "amefanana." Kwa mfano, **Zaburi 1:3**, mtu wa haki anasemwa kama mti.
 
 ### Nahau (Sitiari)
 
-Hii ni wakati unasema kitu kimoja ni kitufulani na siyo halisi. Ni kama mfananisho, lakini **haifanyi** tumia maneno "kama" au "amefanana." Kwa Mfano, **Zaburi 3:3**  inasema Mungu ni ngao. Tunajua Mungu siyo kweli ngao, ila inasemwa ni mfano kwetu kuelewa kuwa Mungu ni mlinzi wa kuwalinda watu wake. 
+Hii ni wakati unasema kitu kimoja ni kitufulani na siyo halisi. Ni kama mfananisho, lakini **haifanyi** tumia maneno "kama" au "amefanana." Kwa Mfano, **Zaburi 3:3** inasema Mungu ni ngao. Tunajua Mungu siyo kweli ngao, ila inasemwa ni mfano kwetu kuelewa kuwa Mungu ni mlinzi wa kuwalinda watu wake.
 
 ### Nyongeza (Ukuzaji)
 
-This is an exaggeration. Hii ni kutia chumvi/kuongeza maneno. Kwa Mfano **Zaburi 12:1** mwandishi anasema kwamba hakuna mwenye haki katika dunia yote. Tunajua kwamba siyo ukweli.  Hata wakati tunahisi kama tuko wenyewe, Mungu anawatu wengi anaowaokoa (I Wafalme 19:18). Mwandishi hakuwa muongo kwa sababu ndivyo alivyohisi alivyoandika Zaburi.
+This is an exaggeration. Hii ni kutia chumvi/kuongeza maneno. Kwa Mfano **Zaburi 12:1** mwandishi anasema kwamba hakuna mwenye haki katika dunia yote. Tunajua kwamba siyo ukweli. Hata wakati tunahisi kama tuko wenyewe, Mungu anawatu wengi anaowaokoa (I Wafalme 19:18). Mwandishi hakuwa muongo kwa sababu ndivyo alivyohisi alivyoandika Zaburi.
 
 ### Ubinafsishaji (Uhuishaji)
 
@@ -92,7 +92,7 @@ Muundo wa hatua inaweza kuwa ngumu kuelewa, lakini jambo muhimu kukumbuka ni kwa
 
 ### Akrotiki (Orodha ya alfabeti)
 
-Akrotiki ni wakati mstari wa kwanza, kifungu katika ushairi inapoanza na herufi ya kwanza ya alfabeti, basi na mstari wa pili au kifungu na kuendelea. Tunapoteza hii tunapotafsiri Bibilia kwa lugha yetu kwasababu alfabeti zimetumia herufi tofauti zaidi ya alfabeti za Kiebrania. 
+Akrotiki ni wakati mstari wa kwanza, kifungu katika ushairi inapoanza na herufi ya kwanza ya alfabeti, basi na mstari wa pili au kifungu na kuendelea. Tunapoteza hii tunapotafsiri Bibilia kwa lugha yetu kwasababu alfabeti zimetumia herufi tofauti zaidi ya alfabeti za Kiebrania.
 
 Zaburi 25, 34, 37, 111, 112, 119, na 145 zote zimetumia muundo huu. Mithali 31:10-31 pia umetumiwa. Nje ya vitabu vya Hekima na Mashairi, Nahumu 1:2-10 na Maombolezo sura ya 1-4 umetumia.
 
@@ -164,7 +164,7 @@ Kama vile vile alivyopoteza sasa havitoshi, Shetani anauliza kuhusu teso lingine
 
 ### Marafiki wa Ayubu wanakuja kutembelea (2:11&ndash;13)
 
-Mwili wa Ayubu umejaa majipu, alikataa ushauri mbaya toka kwa mke wake, na rafiki zake watatu walikuja kumtia moyo na kuhuzunika naye. 
+Mwili wa Ayubu umejaa majipu, alikataa ushauri mbaya toka kwa mke wake, na rafiki zake watatu walikuja kumtia moyo na kuhuzunika naye.
 
 Sura ya pili inahitimishwa kwa siku saba za ukimya. Siku saba bila maneno! Hii inaweza kuonekana kama muda mrefu kwetu, lakini ilikuwa desturi ya kawaida ya kuomboleza wakati huo. Mfano wa hili ni wakati Yusufu aliomboleza kwa siku saba baada ya kifo cha baba yake (Mwanzo 50:10). Wayahudi leo bado "watakaa Shiva" kwa siku saba wakati wa kuomboleza.
 
@@ -274,7 +274,7 @@ Baada ya mambo haya yote, Ayubu aliishia kuwa na maradufu ya aliyokuwa nayo kabl
 
 ### Jambo la mwisho
 
-Tunapopata shida katika maisha tunashindana na maswaliyanayokuja katika kitabu hiki. Tukisoma Biblia mara nyingi tunafanya yale yale. Tunaweza kuingilia kimakosa katika mti huo mmoja katika bustani kuwa haikuwa kama miti mingine. Kama Mungu angejua kile ambacho Adamu na Eva wangefanya, kwanini aliweka mti ule pale katika eneo la kwanza? Kwanza, ilikuwa nafasi ya kumtumikia katika njia maalumu. Ya muhimu zaidi dunia iliumbwa ili Mungu amkomboe bibi harusi kuwa kamili, lazima akombolewe. Ili ukombolewe, lazima aanguke kwanza. Malengo ya Mungu ni makubwa sana kwetu kuelewa, acha tufurahi kwamba tumepata sehemu, na kamwe tusisahau kuwa mwana wake wa pekee aliteseka kulingana na mpango huu. "Siyo mapenzi yangu bali mapenzi yake yafanyike." 
+Tunapopata shida katika maisha tunashindana na maswaliyanayokuja katika kitabu hiki. Tukisoma Biblia mara nyingi tunafanya yale yale. Tunaweza kuingilia kimakosa katika mti huo mmoja katika bustani kuwa haikuwa kama miti mingine. Kama Mungu angejua kile ambacho Adamu na Eva wangefanya, kwanini aliweka mti ule pale katika eneo la kwanza? Kwanza, ilikuwa nafasi ya kumtumikia katika njia maalumu. Ya muhimu zaidi dunia iliumbwa ili Mungu amkomboe bibi harusi kuwa kamili, lazima akombolewe. Ili ukombolewe, lazima aanguke kwanza. Malengo ya Mungu ni makubwa sana kwetu kuelewa, acha tufurahi kwamba tumepata sehemu, na kamwe tusisahau kuwa mwana wake wa pekee aliteseka kulingana na mpango huu. "Siyo mapenzi yangu bali mapenzi yake yafanyike."
 
 # Zaburi
 
@@ -290,31 +290,31 @@ Sio Zaburi zote ni maombi. Baadhi yao ni sifa, wengine ni kwa ajili ya kufundish
 
 Kitabu hicho kimevuviwa na Mungu (2 Sam. 23:2; Mat. 22:43; Luka 24:44; Mdo. 1:16; 2 Tim. 3:16). Zaburi ni kazi ya ukusanyaji iliyo na waandishi wengi. Baadhi ya sura zinataja mwandishi wao katika mstari wa kwanza au kichwa:
 
-* Musa aliandika 1 (Zab. 90).
-* David aliandika 73 (Zab. 1-41 na wengine 32)
-* Sulemani aliandika 2 au 3 (Zab. 72, 127)
-* Asafu aliandika 3 (Zab. 50, 73-83) 
-* Wana wa Kora waliandika 10 (Zab. 42, 44-49, 84, 85, 87) ("Wana wa Kora" labda walikuwa waimbaji badala ya waandishi)
-* Hemani Mwezrahi aliandika 1 (Zab. 88) 
-* Ethani Mwezrahi aliandika 1 (Zab. 89)
-* Waandishi wa 61 ya sura hizo hazijulikani
+- Musa aliandika 1 (Zab. 90).
+- David aliandika 73 (Zab. 1-41 na wengine 32)
+- Sulemani aliandika 2 au 3 (Zab. 72, 127)
+- Asafu aliandika 3 (Zab. 50, 73-83)
+- Wana wa Kora waliandika 10 (Zab. 42, 44-49, 84, 85, 87) ("Wana wa Kora" labda walikuwa waimbaji badala ya waandishi)
+- Hemani Mwezrahi aliandika 1 (Zab. 88)
+- Ethani Mwezrahi aliandika 1 (Zab. 89)
+- Waandishi wa 61 ya sura hizo hazijulikani
 
 ### Zaburi za maisha ya Daudi
 
-* Psalm 7 — Maneno kuhusu Kushi, Mbenyamini
-* Zaburi 59 — Sauli atuma watu kutazama nyumba ya Daudi ili wamuue (1 Sam. 19:11)
-* Zaburi 34 — Daudi alijiokoa kutoka kwa hatari kwa kujiona wazimu mbele ya Mfalme Akishi wa Gathi (1 Sam. 21:10–22:2)
-* Zaburi 56 — Wafilisti wamkamata Daudi huko Gathi (1 Sam. 21:10–15)
-* Zaburi 52 — Doegi Mwedomu anamwambia Sauli kwamba Daudi alikwenda nyumbani kwa Ahimeleki (1 Sam. 22:9–19)
-* Zaburi 57 — Daudi anakimbia kutoka kwa Sauli ndani ya pango (1 Sam. 22:1 au 24:3)
-* Zaburi 142 — Daudi anakimbia kutoka kwa Sauli ndani ya pango (1 Sam. 22:1 au 24:3)
-* Zaburi 54 — Wazifu humwambia Sauli kwamba Daudi anaficha kati yao (1 Sam. 23:19)
-* Zaburi 60 — Ushindi wa Daudi huko Yordani (2 Sam. 8:1–14)
-* Zaburi 51 — Natani anamshtaki Daudi juu ya uzinzi wake na Bathsheba (2 Sam. 11–12)
-* Zaburi 3 — Daudi anakimbia kutoka kwa Absalomu na kumpiga vita (2 Sam. 15–17)
-* Zaburi 63 — Daudi katika jangwa la Yuda (2 Sam. 15–17?; 1 Sam. 23:14–15?)
-* Zaburi 18 — Daudi aliokoa kutoka kwa maadui na kwa Sauli (2 Sam. 22)
-* Zaburi 30 — Kujitolea kwa hekalu (1 Wafalme 8:63)
+- Psalm 7 — Maneno kuhusu Kushi, Mbenyamini
+- Zaburi 59 — Sauli atuma watu kutazama nyumba ya Daudi ili wamuue (1 Sam. 19:11)
+- Zaburi 34 — Daudi alijiokoa kutoka kwa hatari kwa kujiona wazimu mbele ya Mfalme Akishi wa Gathi (1 Sam. 21:10–22:2)
+- Zaburi 56 — Wafilisti wamkamata Daudi huko Gathi (1 Sam. 21:10–15)
+- Zaburi 52 — Doegi Mwedomu anamwambia Sauli kwamba Daudi alikwenda nyumbani kwa Ahimeleki (1 Sam. 22:9–19)
+- Zaburi 57 — Daudi anakimbia kutoka kwa Sauli ndani ya pango (1 Sam. 22:1 au 24:3)
+- Zaburi 142 — Daudi anakimbia kutoka kwa Sauli ndani ya pango (1 Sam. 22:1 au 24:3)
+- Zaburi 54 — Wazifu humwambia Sauli kwamba Daudi anaficha kati yao (1 Sam. 23:19)
+- Zaburi 60 — Ushindi wa Daudi huko Yordani (2 Sam. 8:1–14)
+- Zaburi 51 — Natani anamshtaki Daudi juu ya uzinzi wake na Bathsheba (2 Sam. 11–12)
+- Zaburi 3 — Daudi anakimbia kutoka kwa Absalomu na kumpiga vita (2 Sam. 15–17)
+- Zaburi 63 — Daudi katika jangwa la Yuda (2 Sam. 15–17?; 1 Sam. 23:14–15?)
+- Zaburi 18 — Daudi aliokoa kutoka kwa maadui na kwa Sauli (2 Sam. 22)
+- Zaburi 30 — Kujitolea kwa hekalu (1 Wafalme 8:63)
 
 ### Shirika
 
@@ -395,9 +395,9 @@ _Katika mfano wetu wa Zaburi 13, sala ni 13:1._
 
 Sehemu hii inatoa sababu kwanini mwimba zaburi anaomba. Inazungumzia kuhusu matatizo yanayosababisha malalamiko. Baadhi ya sababu za malalamiko ni:
 
-* magonjwa (6; 13; 38; 39; 69; 88)
-* kashfa (64:3; 57:4; 140:3, 9)
-* Aibu ya marafiki na familia (55:12–14, 20; 31:11; 35:11; 69:8, 20; 88:8, 18)
+- magonjwa (6; 13; 38; 39; 69; 88)
+- kashfa (64:3; 57:4; 140:3, 9)
+- Aibu ya marafiki na familia (55:12–14, 20; 31:11; 35:11; 69:8, 20; 88:8, 18)
 
 Wakati mwingine mwimba zaburi pia anamlalamkia Mungu mwenyewe. "Wanasema siyo tu 'mimi maliteswa,' bali mara nyingi 'umenitesa.'"<sup>[2]</sup> Wakati mwingine mwimba zaburi anapata hukumu za Mungu, na anatubu kwasababu ya hukumu hiyo. Mfano mmoja ni Zaburi ya 51, ambayo ilifikiriwa kuwa toba za Daudi baada ya dhambi yake na Bathsheba (2 Sam. 11–12). Wakati mwingine, alijiskia amekuwa mwenye haki na kwamba Mungu alimuonea kwa kumwadhibu.<sup>[3]</sup>
 
@@ -413,7 +413,7 @@ _Katika mfano wetu, dua ni 13:3&ndash;4._
 
 ##### Hitimisho
 
-Hitimisho la zaburi za maombolezo kwa kawaida huwa na sifa kwa Mungu. Inashangaza kuona mzungumzaji akibadilika kutoka kuvunjika moyo sana hadi kuhisi kuwa na tumaini katika Mungu. Inawezekana kwamba baada ya dua hilo na kabla ya hitimisho kwamba kuhani alitoa baraka fulani isiyoandikwa ambayo ilimfanya msemaji apate tena tumaini lao kwa Mungu. 
+Hitimisho la zaburi za maombolezo kwa kawaida huwa na sifa kwa Mungu. Inashangaza kuona mzungumzaji akibadilika kutoka kuvunjika moyo sana hadi kuhisi kuwa na tumaini katika Mungu. Inawezekana kwamba baada ya dua hilo na kabla ya hitimisho kwamba kuhani alitoa baraka fulani isiyoandikwa ambayo ilimfanya msemaji apate tena tumaini lao kwa Mungu.
 
 _Katika mfano wetu, hitimisho ni 13:5&ndash;6._
 
@@ -431,15 +431,15 @@ Zaburi za maombolezo ya kitaifa ni 12, 44, 58, 60, 74, 77, 79, 80, 82, 83, 85, 9
 
 Nyingi za zaburi hizi zina malalamiko na shutuma kali dhidi ya Mungu. Kwa mfano, Zaburi ya 13:1 inasema, "Ee BWANA, hata lini utanisahau, hata milele? Hata lini utanificha uso wako?" Waisraeli walipokuwa jangwani, walilalamika, na Mungu aliwakasirikia kwasababu ya malalamiko yao (Hesabu 14:26&ndash;30). Je malalamiko katika zaburi yanatofautianaje na malalamiko ya wana Waisraeli?
 
-* Waisrael waliongea kuhusu Mungu (kama ilivyokuwa) nyuma yake. Walizungumza kama vile wamekata tamaa kwa Mungu.
-* Malalamiko ya mwimba zaburi yamezungumzwa moja kwa moja kwa Mungu. Mwimba zaburi hakukata tamaa kwa Mungu lakini anaelezea kinyume chake. 
-* Bila kujali hisia walizokuwa nazowalizikabidhi kwa Mungu, lakini katika mazingira ya kuomba msaada na kuwa na tumaini kwamba atawajibu dhiki zao.
+- Waisrael waliongea kuhusu Mungu (kama ilivyokuwa) nyuma yake. Walizungumza kama vile wamekata tamaa kwa Mungu.
+- Malalamiko ya mwimba zaburi yamezungumzwa moja kwa moja kwa Mungu. Mwimba zaburi hakukata tamaa kwa Mungu lakini anaelezea kinyume chake.
+- Bila kujali hisia walizokuwa nazowalizikabidhi kwa Mungu, lakini katika mazingira ya kuomba msaada na kuwa na tumaini kwamba atawajibu dhiki zao.
 
 Maombolezo ni maarufu sana katika maombi ya Waisrael. Hii inatuonyesha sisi kwamba maombi ya "dhiki na mshangao katika maisha ya imani siyo alama ya upungufu wa imani, kitu cha kuiondoa ile tabia au kuweka nyuma ya mtu, lakini badala yake ni asili kwa asili ya imani."<sup>[8]</sup> Wakati mwingine tunaimba nyimbo za furaha tu au sifa, lakini tukiondoa nyimbo za maombolezo, Tunahitimisha kwamba "mambo magumu ya haki ni maswali yasiyofaa kupeleka katika kiti cha enzi, kwasababu kiti cha enzi kinaonekana kuwa eneo la sifa tu."<sup>[9]</sup> Zaburi za maombolezo zinatufundisha sisi kwamba "Mungu anahusika katika kila kipimo cha maisha." Kama hatutaleta shida zetu kwa Mungu kwa njia ya maombolezo, basi kils tulichonacho ni wasiwasi na kukata tamaa kwasababu ya shida zetu.<sup>[10]</sup>
 
 Lakini vipi kuhusu sisi leo? Je Wakristo waeleze malalamiko yao dhidi ya Mungu? Maandamano kuelekea kwa Mungu yanaeleweka katika Agano la Kale, kwasababu katika mpango kanuni kuu zilikuwa baraka za wale waliotunza agano na laana za wale ambao hawakutunza agano. Kama mtu mmoja aliyekuwa mwenye haki katika kutunza agano waliteseka, halafu inaonesha kama siyo haki. Lakini katika mpango mpya, Yesu na maaskofu wanaeleza vizuri kuwa mwenye haki atapata mateso. Kristo aliteseka, na akasema kwamba ata sisi tutateseka (Yoh. 6:33).<sup>[11]</sup> Tutatakiwa kuendelea kupeleka mizigo yetu kwa Mungu, lakini hatutakiwa kushangaa tunapopitia mateso. Hatupaswi kuogopa kushiriki hisia zetu na Mungu, kwa sababu tayari anajua mawazo ya mioyo yetu hata kama hatuyasemi (Zaburi 139:1&ndash;4).
 
----------------------------------------------------------------------------------------------------
+---
 
 <small>
 * [1] Broyles, C. C. (1989). The Conflict of Faith and Experience in the Psalms: A Form-Critical and Theological Study (Vol. 52, p. 13). Sheffield: Sheffield Academic Press.
@@ -469,13 +469,13 @@ Sifa ni kitu muhimu sana kwa mwanadamu, kwasababu kama hatumuabudu Mungu, basi n
 
 ### Ujumbe wa sifa
 
-Kitabu cha zaburi kimepangiliwa katika vitabu vitano. Kila kitabu kinahitimisha kwa ujumbe wa sifa, pamoja na kitabu kizim cha zaburi kikimaliziwa na zaburi ya 150, maneno ya muhimu ya sifa kwa Mungu. 
+Kitabu cha zaburi kimepangiliwa katika vitabu vitano. Kila kitabu kinahitimisha kwa ujumbe wa sifa, pamoja na kitabu kizim cha zaburi kikimaliziwa na zaburi ya 150, maneno ya muhimu ya sifa kwa Mungu.
 
-* Kitabu cha 1 (1–41) — ujumbe wa sifa: 41:13
-* Kitabu cha 2 (42–72) — ujumbe wa sifa: 72:18, 19 
-* Kitabu cha 3 (73–89) — ujumbe wa sifa: 89:52
-* Kitabu cha 4 (90–106) — ujumbe wa sifa: 106:48
-* Kitabu cha 5 (107–150) — ujumbe wa sifa: 150
+- Kitabu cha 1 (1–41) — ujumbe wa sifa: 41:13
+- Kitabu cha 2 (42–72) — ujumbe wa sifa: 72:18, 19
+- Kitabu cha 3 (73–89) — ujumbe wa sifa: 89:52
+- Kitabu cha 4 (90–106) — ujumbe wa sifa: 106:48
+- Kitabu cha 5 (107–150) — ujumbe wa sifa: 150
 
 **Mazungumzo:** Nini maana ya neno _haleluya_?
 
@@ -489,11 +489,11 @@ Kwa kawaida zinajengwa katika mambo makuu matatu:
 
 **Kazi ya nyumbani:** Soma Zaburi zifuatazo na upate muundo wake:
 
-|                  | Zab. 8    | Zab. 29   | Zab. 103   | Zab. 146   | Zab. 147    |
-|------------------|-----------|-----------|------------|------------|-------------|
-| Wito wa kusifu   | mst. 1a   | <span class='teacher'>mst. 1-2</span>|<span class='teacher'>mst. 1-5</span>|<span class='teacher'>mst. 1</span>|<span class='teacher'>mst. 1a</span>|
-| Sababu za kusifu | mst. 1b-8 |<span class='teacher'>mst. 3-10</span>|<span class='teacher'>mst. 6-19</span>|<span class='teacher'>mst. 2-10a</span>|<span class='teacher'>mst. 1b-20a</span>|
-| Hitimisho        | mst. 9    |<span class='teacher'>mst. 11</span>|<span class='teacher'>mst. 20-22</span>|<span class='teacher'>mst. 10b </span>|<span class='teacher'>mst. 20b</span>|
+|                  | Zab. 8    | Zab. 29                                | Zab. 103                                | Zab. 146                                | Zab. 147                                 |
+| ---------------- | --------- | -------------------------------------- | --------------------------------------- | --------------------------------------- | ---------------------------------------- |
+| Wito wa kusifu   | mst. 1a   | <span class='teacher'>mst. 1-2</span>  | <span class='teacher'>mst. 1-5</span>   | <span class='teacher'>mst. 1</span>     | <span class='teacher'>mst. 1a</span>     |
+| Sababu za kusifu | mst. 1b-8 | <span class='teacher'>mst. 3-10</span> | <span class='teacher'>mst. 6-19</span>  | <span class='teacher'>mst. 2-10a</span> | <span class='teacher'>mst. 1b-20a</span> |
+| Hitimisho        | mst. 9    | <span class='teacher'>mst. 11</span>   | <span class='teacher'>mst. 20-22</span> | <span class='teacher'>mst. 10b </span>  | <span class='teacher'>mst. 20b</span>    |
 
 ### Mandhari
 
@@ -503,30 +503,30 @@ Mungu anaabudiwa kwasababu ameumba dunia nzima na kila kitu kilicho ndani yake, 
 
 Zaburi hizi zinaonyesha kwamba Mungu ameumba kwa:
 
-* neno lake (33:6; 148:5–6), 
-* matendo yake (147:4), 
-* uelewa wake (104:24–26; 136:5–9), 
-* na nguvu zake (65:5–8).
+- neno lake (33:6; 148:5–6),
+- matendo yake (147:4),
+- uelewa wake (104:24–26; 136:5–9),
+- na nguvu zake (65:5–8).
 
 Zaburi ya 8 inaufunua uzuri wa uumbaji wake na Zaburi 134 na 149:1–2 inatutia moyo tumwabudu muumbaji wetu. Zaburi ya 19:1–6 inatuambia kwamba mbingu zahubiri utukufu wa Mungu, kama jua na nyota zinamsifu Mungu, je sisi tunatakiwa tumsifu vipi zaidi.
 
 #### Historia ya Waisrael
 
-1. Zaburi ya 105 inaelezea habari za Yusufu (mst. 16–22), wanajeshi wa Misri (mst. 23–27), mapigo (mst. 28–36), msafara (mst. 37–38), jangwa (mst. 39–42), na ushindi wa Kanani (mst. 44). 
-2. Zaburi ya 106 inazungumzia kuhusu Misri, bahari ya shamu, jangwa, na uhamisho. 
+1. Zaburi ya 105 inaelezea habari za Yusufu (mst. 16–22), wanajeshi wa Misri (mst. 23–27), mapigo (mst. 28–36), msafara (mst. 37–38), jangwa (mst. 39–42), na ushindi wa Kanani (mst. 44).
+2. Zaburi ya 106 inazungumzia kuhusu Misri, bahari ya shamu, jangwa, na uhamisho.
 3. Zaburi ya 114 inajumuisha msafara, bahari ya shamu, na Jordan.
-4. Zaburi ya 135 inafunika habari za wana wa Waisraeli kati ya mapigo kumi na ushindi (mst. 8–12). 
+4. Zaburi ya 135 inafunika habari za wana wa Waisraeli kati ya mapigo kumi na ushindi (mst. 8–12).
 5. Zaburi ya 136 inamtukuza Mungu aliyeumba dunia (mst. 5–9) na kuruka mpaka uhamisho Misri, ikifuatiwa na bahari ya shamu, jangwa, na ushindi (mst. 10–26).
 
 #### Matendo ya kutisha ya Mungu
 
 Wakati mwingine zaburi haizungumzii tukio mahususi katika historia ambako Mungu alitenda, lakini zinatumia maneno ya kusifia "matendo" yake. Yafuatazo ni baadhi ya maneno yaliyotumika kuonyesha nini Mungu alichokifanya:
 
-* "Matendo ya kutisha" (65:5)
-* "Kazi" (105:1; 66:5)
-* "Matendo ya ajabu" (105:2, 5; 136:4)
-* "Matendo makuu" (106:2; 145:4, 12, 111:2)
-* "Maajabu makuu" (136:4)
+- "Matendo ya kutisha" (65:5)
+- "Kazi" (105:1; 66:5)
+- "Matendo ya ajabu" (105:2, 5; 136:4)
+- "Matendo makuu" (106:2; 145:4, 12, 111:2)
+- "Maajabu makuu" (136:4)
 
 #### Mavuno
 
@@ -541,10 +541,10 @@ Zaburi 65 na 145 zinamsifu Mungu kwa sababu ya mavuno.
 
 <!--"Hans-Joachim Kraus... anatoa upenyo unaosaidia zaburi za sifa. Orodha yake ni zifuatazo: Zaburi 8, 19A, 29, 33, 47, 65, 66A, 68, 93, 96, 97, 98, 99, 100, 104, 105, 106, 111, 113, 114, 117, 134, 135, 136, 145, 146, 147, 148, 149, 150. Zinaingia katika migawanyo miwili:"
 
-1. Nyimbo hizo zinazoweza kutofautishwa kwa maumbo-njia muhimu: 
+1. Nyimbo hizo zinazoweza kutofautishwa kwa maumbo-njia muhimu:
 	1. Nyimbo muhimu, zinatokana na Kutoka 15:21: Sababu za kusifu zinatambulishwa na neno "kwasababu" (Waebrania ki). Hizi ni Zaburi 96, 98, 100, na 136.
-    2. Nyimbo shirikishi, ambazo zina mifano yake katika Isaya 40–55. 
-    3. Nyimbo za binafsi, mifano yake ipo katika Zaburi 8 na 104. 
+    2. Nyimbo shirikishi, ambazo zina mifano yake katika Isaya 40–55.
+    3. Nyimbo za binafsi, mifano yake ipo katika Zaburi 8 na 104.
 2. Nyimbo zile ambazo ni lazima zitofautishwe na mandhari na sio umbo:
     1. Zaburi za sifa za Muumbaji: Zaburi 8, 19A, 33, 104, na 136.
     2. Zaburi za yawe kama mfalme: Zaburi 47, 93, 96, 97, 98, na 99.
@@ -597,7 +597,7 @@ Tangu zaburi hizi zilipoimbwa katika hekalu, zilikuwa sehemu ya ibada za wazi na
 > Lakini je kila aliyetoroka maisha ya mgogoro wa tishio anatunga zaburi kama maelezo na vyombo vya shukrani? Sio uwezekano kwamba uwezo wa waabudu wa kawaida ingekuwa umefika kwenye kiwango hicho cha ufanisi wa fasihi. Kile tulichonacho katika zaburi ni sampuli ya nyimbo zilizokamilishwa na watunzi zitumike katika hekalu kwa dhumuni la ibada za shukrani, hata kama baadhi ya waandishi hawa wangeweza kuwa waabudu wa kawaida.
 > —C. Hassell Bullock<sup>[3]</sup>
 
--------------------------------------------
+---
 
 <small>
 * [1] Psalms (Encountering Biblical Studies): A Literary and Theological Introduction By C. Hassell Bullock, p. 393 [1]
@@ -619,42 +619,42 @@ Inaweza kuwa na ombi la maombolezo, lakini hizi zimetiwa kivuli na tangazo kubwa
 
 Zaburi 115, 121, 125, na 129 ni zaburi shiriki ambazo zilisemwa pamoja na kusanyiko katika hekalu. Baadhi ya zaburi za kujiamini zina mwaliko kwa wale wanaosikiliza kumwamini Mungu:
 
-* "Na kumtumaini BWANA" (4:5)
-* "Umngoje BWANA, uwe hodari, upige moyo konde, naam, umngoje BWANA." (27:14)
-* "Enyi watu, mtumainini sikuzote" (62:8)
-* "Enyi Israeli, mtumainini BWANA" (115:9)
+- "Na kumtumaini BWANA" (4:5)
+- "Umngoje BWANA, uwe hodari, upige moyo konde, naam, umngoje BWANA." (27:14)
+- "Enyi watu, mtumainini sikuzote" (62:8)
+- "Enyi Israeli, mtumainini BWANA" (115:9)
 
 ### Mada kuu zilizo katika zaburi
 
-* Lala (3:5; 4:8; 23:2). Tunaweza kulala, kwasababu tunajua kwamba Mungu kamwe halali (121:3–4).
-* Utulivu (16:8; 121:3; 125:1–2). Wazo hili pia linaelezwa kwa kumlinganisha Mungu na mlima (11:1), mwamba (62:2), na ngome (62:2). Katika Israeli la kale, hilo lilitia ndani wazo la kwamba hawatahamishwa kutoka katika nchi yao.
-* Ulinzi (16:1, 9b; 23:4; 27:3, 5–6). Mungu ametuhifadhi na ataendelea kutuhifadhi.
-* Wokovu (3:8; 27:1, 9; 62:7). _Wokovu_ uliotajwa katika zaburi usingemaanisha wokovu wa kiroho, kama tunavyofikiria kama wakristo wa agano jipya, lakini ingemaanisha kuokolewa kimwili kutoka kwa adui. 
-* Amini (4:5; 62:8; 115:9, 11).
-* Furaha (4:7; 16:11; 27:6).
-* Amani (4:8; 125:5).
+- Lala (3:5; 4:8; 23:2). Tunaweza kulala, kwasababu tunajua kwamba Mungu kamwe halali (121:3–4).
+- Utulivu (16:8; 121:3; 125:1–2). Wazo hili pia linaelezwa kwa kumlinganisha Mungu na mlima (11:1), mwamba (62:2), na ngome (62:2). Katika Israeli la kale, hilo lilitia ndani wazo la kwamba hawatahamishwa kutoka katika nchi yao.
+- Ulinzi (16:1, 9b; 23:4; 27:3, 5–6). Mungu ametuhifadhi na ataendelea kutuhifadhi.
+- Wokovu (3:8; 27:1, 9; 62:7). _Wokovu_ uliotajwa katika zaburi usingemaanisha wokovu wa kiroho, kama tunavyofikiria kama wakristo wa agano jipya, lakini ingemaanisha kuokolewa kimwili kutoka kwa adui.
+- Amini (4:5; 62:8; 115:9, 11).
+- Furaha (4:7; 16:11; 27:6).
+- Amani (4:8; 125:5).
 
 ### Taswira ya Mungu katika zaburi hizi
 
 Kimsingi hazitoi ombi kwa Mungu kuwa kitu au kufanya kitu, lakini zinatengeneza taarifa kuhusu Mungu ni nani na nini ameshafanya.<sup>[7]</sup> Katika zaburi ya 23 Daudi haulizi, "Bwana, uwe mchungaji wangu!" lakini anasema "Bwana **ni** mchungaji wangu." Katika zaburi hizi nyingi, kuna taarifa kuhusu Mungu katika mtu wa tatu badala ya moja kwa moja kupelekwa kwake.<sup>[8]</sup> Katika zaburi hizi Mungu anaonyeshwa kama:
 
-* Ngao (3:3; 115:10)
-* Kimbilio letu (62:8)
-* Msaidizi wao (115:10)
-* Mlinzi (121:5)
-* Kivuli chako (121:5)
-* Utukufu wangu (3:3)
-* Chaguo langu (16:5)
-* Kikombe change (16:5)
-* Mchungaji wangu (23:1)
-* Nuru yangu (27:1)
-* Wokovu wangu (27:1)
-* Mwinua kichwa changu (3:3)
-* Ngome ya uzima wangu (27:1)
+- Ngao (3:3; 115:10)
+- Kimbilio letu (62:8)
+- Msaidizi wao (115:10)
+- Mlinzi (121:5)
+- Kivuli chako (121:5)
+- Utukufu wangu (3:3)
+- Chaguo langu (16:5)
+- Kikombe change (16:5)
+- Mchungaji wangu (23:1)
+- Nuru yangu (27:1)
+- Wokovu wangu (27:1)
+- Mwinua kichwa changu (3:3)
+- Ngome ya uzima wangu (27:1)
 
 Zaburi ya 62 inaeleza vizuri kwamba Mungu mwenyewe ni chanzo chetu cha kujiamini.
 
---------------------------------------------------------------
+---
 
 <small>
 * [1] Encountering the Psalms, p. 398
@@ -705,7 +705,7 @@ Toleo la mwisho la kitabu cha Zaburi lilivyokamilika, ilikuwa ni baada ya uhamis
 
 Agano Jipya linathibitisha kwamba zaburi ilikuwa unabii wa Yesu. "Agano Jipya limenukuu kutoka katika kundi hili la zaburi angalau mara kumi na tano, nukuu zote hizo zilizochukuliwa kutoka kwenye Zaburi ya 2 (mara 6), 18, 45, na 110 (mara 7). "<sup>[7]</sup> "Hivyo, Agano Jipya linatokana na zaburi hizi kuthibitisha ubora wa Kristo: juu ya malaika, juu ya Daudi, na juu ya ukuhani wa Haruni. Mwandishi kwa Waebrania ananukuu Zaburi 45:6–7 kushuhudia kwa ubora wa Kristo juu ya malaika (Waebrania 1:8–9). Pia anajenga kwa Zaburi 2:7 na 110:1 kwa kusudi hilo hilo (Waebrania 1:5 na 1:13 kwa mtiririko)."<sup>[8]</sup>
 
-----------------------------------------------------------------
+---
 
 <small>
 * [1] Encountering the Psalms, p. 453
@@ -739,19 +739,19 @@ Mungu ameumba kila kitu. Ameumba bahari, ardhi (95:5), na mbinguni (96:5). Pia a
 
 Mungu ana nguvu juu ya uumbaji:
 
-* Dunia inazunguka (99:1), 
-* dunia inatetemeka (97:4), 
-* na milima huyeyuka kama nta (97:5) kabla ya nguvu ya Mungu.
+- Dunia inazunguka (99:1),
+- dunia inatetemeka (97:4),
+- na milima huyeyuka kama nta (97:5) kabla ya nguvu ya Mungu.
 
-Uumbaji wake wote unamsifu: 
+Uumbaji wake wote unamsifu:
 
-* Mbingu ina furaha (96:11), 
-* nchi ina kushangilia (96:11; 97:1), 
-* mashamba yina kushangilia (96:12), 
-* miti yote ya mwituni iimbe kwa furaha (96:12),
-* mbingu zimetangaza haki yake (97:6),
-* mito na ipige makofi (98:8),
-* na milima na iimbe pamoja kwa furaha (98:8) kwasababu ya nini Mungu amefanya.
+- Mbingu ina furaha (96:11),
+- nchi ina kushangilia (96:11; 97:1),
+- mashamba yina kushangilia (96:12),
+- miti yote ya mwituni iimbe kwa furaha (96:12),
+- mbingu zimetangaza haki yake (97:6),
+- mito na ipige makofi (98:8),
+- na milima na iimbe pamoja kwa furaha (98:8) kwasababu ya nini Mungu amefanya.
 
 ### Bwana ni mfalme katika hukumu
 
@@ -765,7 +765,7 @@ Zaburi 47:2 inasema kwamba Mungu ni **mwenye kuogofya**. (Angalia pia 45:4; 65:5
 
 Kuna mtazamo wa mbele katika 98:9. Inaangalia mbele kwa lini ufalme wa Mungu utafunuliwa kabisa. Mungu ni mfalme leo, na atakuwa mfalme daima. Hakuna atakayechukua nafasi Yake.
 
-----------------------------------------------------------------------
+---
 
 <small>
 * [1] Encountering the Psalms, p. 485
@@ -777,7 +777,7 @@ Kuna mtazamo wa mbele katika 98:9. Inaangalia mbele kwa lini ufalme wa Mungu uta
 
 Zaburi hizi hazielekezwi kwa Mungu bali ni kwa ajili ya wale wanaosikiliza. Misamiati yake inashirikiana na mawazo ya hekima za kitabu cha Ayubu, Mithali, na Mhubiri. Zaburi za hekima ni 1, 14, 37, 49, 52, 53, 73, 75, 91, 112, 119, 127, 128, 133, na 139. Wengine wanafikiria 32, 34, 78, 90, 105, 106, na 111 pia kuwa zaburi za hekima.<sup>[1]</sup> Sehemu za zaburi zingine zina ushawishi mkubwa wa hekima, kama vile 19:7–14, 94:8–15, na 97:10–12.<sup>[2]</sup> Baadhi ya zaburi za hekima zaidi ziko kama maelekezo kwa maisha yaliyotolewa katika Mithali (kama vile 1 na 112) na zingine ziko kama maswali kuhusu maisha ambayo yaliulizwa katika Ayubu na Mhubiri (37, 49, na 73).<sup>[3]</sup> Zaburi 119, 19B, na 1 wakati mwingine ziliitwa _Zaburi za Torati_ kwasababu ya msisitizo katika sheria ya Mungu.<sup>[4]</sup>
 
-Zaburi za hekima zinasisitiza mafundisho ya wanaume wa hekima wa Israeli, tafakari za sheria, njia za haki dhidi ya njia za waovu, na umuhimu wautendaji wa haki. Kwa mara nyingi zinahusika na mada kama vile udhalimu wa maisha na haki ya Mungu, wajibu wa kuchagua njia sahihi au tabia za kuishi, kuthamini utajiri, na ukweli kuwa mwanadamu ni hija pekee au msafiri apitaye katika maisha haya. Zaburi hizi zinafanana na ayubu, mithali, na mhubiri katika mazingira yamuundo wa kifasihi, misamiati, na mandhari. 
+Zaburi za hekima zinasisitiza mafundisho ya wanaume wa hekima wa Israeli, tafakari za sheria, njia za haki dhidi ya njia za waovu, na umuhimu wautendaji wa haki. Kwa mara nyingi zinahusika na mada kama vile udhalimu wa maisha na haki ya Mungu, wajibu wa kuchagua njia sahihi au tabia za kuishi, kuthamini utajiri, na ukweli kuwa mwanadamu ni hija pekee au msafiri apitaye katika maisha haya. Zaburi hizi zinafanana na ayubu, mithali, na mhubiri katika mazingira yamuundo wa kifasihi, misamiati, na mandhari.
 
 ### Muundo wa kifasihi wa zaburi za hekima
 
@@ -800,7 +800,7 @@ Sifa zingine za kifasihi kwamba zaburi hizi zinashirikiana na hekima za kifasihi
 ### Mandhari katika zaburi za hekima
 
 Misamiati ya kawaida katika zaburi hizi zinaelezea maombolezo, shukrani, na sifa. Pia, kuna maneno yanayofanana na hekima, haki, ukweli, rehema, na theolojia ya uumbaji. Kuna dhana zinazofanana na hekima zingine za fasihi:
- 
+
 1. Hofu ya yawe na upendo wa "torati" (119)
 2. Tofauti kati ya haki na uovu (1, 49, 73, 112, na 127)
 3. Maelekezo katika maisha ya kawaida (133 na 112)
@@ -809,7 +809,7 @@ Misamiati ya kawaida katika zaburi hizi zinaelezea maombolezo, shukrani, na sifa
 6. Swali la kwanini Mungu anaruhusu watu wasio na hatia kuteseka (49:16&ndash;19. Linganisha kitabu cha Ayubu.)
 7. Theolojia ya uumbaji (33:6 na 19:1–2. Linganisha na Ayubu 38:1, 4, Mithali 8:22, na Mhubiri 12:1)
 
--------------------------------------------------
+---
 
 <small>
 * [1] Day, J. (1999). Psalms (p. 54). London; New York: T&T Clark.
@@ -819,7 +819,7 @@ Misamiati ya kawaida katika zaburi hizi zinaelezea maombolezo, shukrani, na sifa
 * [5] Guide to Studying the Psalter, p. 173
 </small>
 
-## Zaburi za Sayuni	 
+## Zaburi za Sayuni
 
 ### Utangulizi
 
@@ -829,7 +829,7 @@ Zaburi za Sayuni zinataja Sayuni, au Yerusalemu, kwa kwa jukumu lake la kuinuliw
 
 #### Mji wa Daudi
 
-Daudi alichukua ngome ya Sayuni ambayo ilikuwa ndiyo mashariki ya vilima viwili vya Yerusalamu ya kale (2 Samweli 5:6–10). Daudi alipiga hema ya agano katika 1 Nyak 15. Suleman alipojenga hekalu kule Yerusalem, maana ya Sayuni iliongezeka zaidi kuhusisha eneo la hekalu (1 Wafalme 8:1). Katika Agano la Kale, Sayuni ilitumika kama jina la mji wa Yerusalem (Isaya 40:9), ardhi ya Yuda (Yeremia 31:12), na taifa la Israel yote (Zakaria 9:13). 
+Daudi alichukua ngome ya Sayuni ambayo ilikuwa ndiyo mashariki ya vilima viwili vya Yerusalamu ya kale (2 Samweli 5:6–10). Daudi alipiga hema ya agano katika 1 Nyak 15. Suleman alipojenga hekalu kule Yerusalem, maana ya Sayuni iliongezeka zaidi kuhusisha eneo la hekalu (1 Wafalme 8:1). Katika Agano la Kale, Sayuni ilitumika kama jina la mji wa Yerusalem (Isaya 40:9), ardhi ya Yuda (Yeremia 31:12), na taifa la Israel yote (Zakaria 9:13).
 
 #### Mji wa Mungu
 
@@ -865,7 +865,7 @@ Kwanini Mithali hizi zinapingana?
 
 #### Mithali zinautofauti zaidi ya sheria
 
-Sheria siku zote ni ileile. Haibadiliki kulingana na mazingira. Mithali ni tofauti na sheria kwasababu mara nyingine ni vizuri kufuata sheria lakini wakati mwingine si vizuri kuzitii. Tunahitaji hekima kujua ni wakati gani tuitii Mithali. 
+Sheria siku zote ni ileile. Haibadiliki kulingana na mazingira. Mithali ni tofauti na sheria kwasababu mara nyingine ni vizuri kufuata sheria lakini wakati mwingine si vizuri kuzitii. Tunahitaji hekima kujua ni wakati gani tuitii Mithali.
 
 #### Mithali ni tofauti na ahadi
 
@@ -886,10 +886,10 @@ Kama Mithali siyo sheria wala ahadi basi ni nini?
 Bado tunaziheshimu kanuni hata kama hatuoni matokeo halisi tunayoyatarajia.
 
 > Katika mazingira gani basi mtu mwenye hekima nyingi kwa ujasiri kabisa anaonyesha umaarufu wa kuwa mwenye haki japokuwa walimfahamu jamaa mwenye haki aliyeteseka na jamaa dhaifu aliyefanikiwa? _Kwa mazingira ya kawaida_, Yule mwenye hekima nyingi kiusahihi kabisa aliamini kuwa tabia ya hekima na haki hufanya maisha kuwa bora na ya utajiri, japokuwa saburi _haijadhaminisha_ hilo.  
->—Raymond C. Van Leeuwan<sup>[2]</sup>
+> —Raymond C. Van Leeuwan<sup>[2]</sup>
 
 > Ni kosa ingawa, kuchukulia mithali kama dhamana. Hicho sicho kinachofanywa na mithali. Tena, ni suala la limfumo. Mithali haiku katika biashara ya kutoa ahadi. Bali inawatia watu moyo juu ya mitazamo na matendo ambayo yatawapelekea kufikia lengo lililodhamiriwa, vitu vingine vyote kuwa sawa. Inaaminiwa kwamba mtoto atakapokuwa atakuwa mwenye hekima kama wazazi watamfunza katika njia ya Mungu. Lakini mtoto huyo anaweza kukutana na mitazamo hasi kwa marafiki zake (kwa mfano ushauri uliotolewa katika mlango wa 1:8–19).  
->—Tremper Longman, III
+> —Tremper Longman, III
 
 Rafiki zake Ayubu na mwandishi wa kitabu cha Mhubiri wanaweza wakawa walikuwa na uelewa mbaya wa kuingiza kanuni katika utendaji lakini hiyo haitafanya kanuni kuwa mbaya.
 
@@ -919,24 +919,24 @@ Tunatakiwa tusome mithali na tuelewa kwamba kuna vitu katika maisha ambayo ni vi
 Mungu atawabariki watu kwa wakati, lakini kuna Baraka zingine ambazo Mungu anazitoa zilizo bora zaidi ya utajiri. Soma Mithali 16:8 na 16:16.
 
 > Misemo hii "Afadhali-Kuliko" inaonyesha utajiri wa vitu na umasikini katika kuonyesha mkutadha bora zisizonyesha gharama halisi. Kuliweka hili sawa tunasema umasikini pamoja na haki ni bora kuliko utajiri pamoja na uovu. Mithali kwa nguvu kabisa inasisitiza kwamba haki ni muhimu kuliko utajiri na uovu husababisha utajiri usiwe na maana. Mali ambayo inaweza _kuonekana_ kama baraka ya Muumba daima sio nzuri kwa asili na kwa kawada. Hiyo itategemea kama utajiri huo umeambatana pamoja na haki, wema na hekima. Vitu vizuri lazima vitumike katika mazingira ambayo yatahusisha kimoja na kingine na kuepukana na vitu ambavyo vinakutawala na kuviharibu vile vingine vyote.  
->—Raymond C. Van Leeuwan<sup>[4]</sup>
+> —Raymond C. Van Leeuwan<sup>[4]</sup>
 
 > Jamaa mhariri/mwenye hekima aliyetunga mithali alidhamiria kwanza kufundisha hizi muhimu "sheria za maisha," kwamba msisitizo wa nguvu kuhusu madhara ya kitabia katika Mithali 1–9 na 10–15. Lazima kwanza kujifunza sheria muhimu, za ziada zinakuja baadaye.  
->—Raymond C. Van Leeuwan<sup>[5]</sup>
+> —Raymond C. Van Leeuwan<sup>[5]</sup>
 
 ##### Udhalimu/kutokutenda haki kupo katika dunia
 
-* Masikini hawana chakula kwasababu ya wezi (13:23; 30:14)
-* Watu wakali hushika mali siku zote (11:16)
-* Waovu wanatawala (29:2)
-* Wapumbavu wanaishi kwenye starehe (19:10)
-* Kupata akiba ya mali kwa ulimi wa uovu (21:6)
-* Watu kuwapuuza wale wenye uhitaji (28:8; 21:13)
+- Masikini hawana chakula kwasababu ya wezi (13:23; 30:14)
+- Watu wakali hushika mali siku zote (11:16)
+- Waovu wanatawala (29:2)
+- Wapumbavu wanaishi kwenye starehe (19:10)
+- Kupata akiba ya mali kwa ulimi wa uovu (21:6)
+- Watu kuwapuuza wale wenye uhitaji (28:8; 21:13)
 
 Chanzo cha udhalimu huu ni kwasababu tunaishi katika ulimwengu ulioangamia (tofauti na mpango wa Mungu aliokuwa nao pale Eden). Kunaweza kuwa na udhalimu sasa lakini Mungu atahukumu mwisho:
 
 > Mithali 10:30—Mwenye haki hataondolewa milele;  
->Bali wasio haki hawatakaa katika nchi.
+> Bali wasio haki hawatakaa katika nchi.
 
 Angalia pia 10:2; 11:4, 7, 18, 21, 23, 28; 12:7, 12; 15:25; 17:5; 19:17; 20:21; 21:6–7, 13; 22:8–9, 16; 24:20; 28:8, 10, 20, 22, 27.
 
@@ -990,18 +990,18 @@ Kuna alama mbili zilizotumika kwa undani katika milango tisa ya mwanzo ambazo zo
 
 Anaongea katika Mithali 1:20–33 na sura ya 8. Pia ametajwa katika 9:1–6, 11; 2:3–4; 4:7–9; 6:22; 7:4.
 
-* Anakuwa na marafiki wazuri
-  * Mwenye haki (8:6)
-  * Kweli (8:7)
-  * Mwerevu (8:12)
-  * Mwenye ufahamu (8:1–15)
-* Anakaa mbali na makundi mabaya
-  * Udanganyifu
-  * Uovu
-  * Majivuno
-  * Kiburi (8:7–8, 13)
-* Alikuwa mmojawapo wa walioumbwa kwanza (8:22–26, 8:30–31, 3:19)
-* Havumilii kukataliwa (1:24–27)
+- Anakuwa na marafiki wazuri
+  - Mwenye haki (8:6)
+  - Kweli (8:7)
+  - Mwerevu (8:12)
+  - Mwenye ufahamu (8:1–15)
+- Anakaa mbali na makundi mabaya
+  - Udanganyifu
+  - Uovu
+  - Majivuno
+  - Kiburi (8:7–8, 13)
+- Alikuwa mmojawapo wa walioumbwa kwanza (8:22–26, 8:30–31, 3:19)
+- Havumilii kukataliwa (1:24–27)
 
 ##### Upumbavu wa Mwanamke
 
@@ -1017,7 +1017,7 @@ Maandishi ya ushauri kutoka kwa baba kwa mwana ilikuwa kawaida katika maeneo ya 
 
 Upande unaosoma mithali na maonyo yake kuhusu mwanamke "mwovu," wanawake wanaweza kutoa mawazo yao kwamba wanawake wana masuala ya hovyo au fujo fujo, lakini tukikumbuka kwamba iliandikwa kwa kijana mdogo basi itaeleweka kwanini maonyo yako kinyume na watu wa jinsia nyingine. Tungeweza kufikiri kwamba iliandikwa na mwanamke kwa mtoto wake wa kike kwamba kungekuwa na maonyo mengi ya mwanaume "mwovu."
 
----------------------------------------------------------
+---
 
 <small>
 * [1] https://www.thegospelcoalition.org/article/which-promises-are-for-me/
@@ -1045,10 +1045,10 @@ Kitabu cha mithali siyo tu orodha ya sheria za kimaadili za asili, lakini sheria
 
 Mambo yatakayotufanya imara:
 
-* Hekima (4:6; 24:3)
-* Busara (4:25–27) 
-* Haki (10:25; 12:3)
-* Imani kwa Mungu (16:3)
+- Hekima (4:6; 24:3)
+- Busara (4:25–27)
+- Haki (10:25; 12:3)
+- Imani kwa Mungu (16:3)
 
 ### Bidii
 
@@ -1079,7 +1079,7 @@ Uvumilivu hukuweka mbali na dhambi (19:2), huonyesha imani kwa Mungu (20:21), na
 
 Tamaduni za kale za Waisraeli, watu watu walikuwa wanavutiwa kwa heshima na aibu. Aibu ya mtu mmoja ilikuwa aibu ya familia nzima. Mithali inasema mwana mpumbavu ni aibu kwa wazazi wake (10:5) na mwanamke mpumbavu ni aibu kwa mumewe (11:16; 12:4). Mtu wa tabia nzuri atakuwa na heshima (21:21), bali mtu wa tabia mbaya atapata aibu (13:5; 18:3).
 
----------------------------------------------------------
+---
 
 <small>
 * [1] Dave Bland, *Proverbs and the Formation of Character*
@@ -1092,7 +1092,7 @@ Tamaduni za kale za Waisraeli, watu watu walikuwa wanavutiwa kwa heshima na aibu
 > Mithali 18:21—Mauti na uzima huwa katika uwezo wa ulimi;  
 > Na wao waupendao watakula matunda yake.
 
-Wahubiri wengine watakuambia kwamba andiko hili linafunua kuna nguvu ya kiungu isiyo ya kawaida nyuma ya maneno yetu, na kwamba kwa maneno yetu tunaweza kuongea vitu vikawepo. Wanasema kwamba ukijitamkia vitu vizuri na kusema “nitakuwa na gari mpya,” sasa Mungu atakupa gari mpya. Pia wanasema kwamba ukiruhusu maneno hasi kutoka katika kinywa chako kama vile, ”ninaumwa leo,” utayapata hay ohayo unayoyazungumza. 
+Wahubiri wengine watakuambia kwamba andiko hili linafunua kuna nguvu ya kiungu isiyo ya kawaida nyuma ya maneno yetu, na kwamba kwa maneno yetu tunaweza kuongea vitu vikawepo. Wanasema kwamba ukijitamkia vitu vizuri na kusema “nitakuwa na gari mpya,” sasa Mungu atakupa gari mpya. Pia wanasema kwamba ukiruhusu maneno hasi kutoka katika kinywa chako kama vile, ”ninaumwa leo,” utayapata hay ohayo unayoyazungumza.
 
 Je maneno yetu yanaweza kubadilisha dunia tunayoishi? Jibu ni wote "ndio" na "hapana." Mstari huu hausemi kwamba maneno yetu yana uchawi au nguvu ya kiungu. Kuna vifungu vingine katika Biblia ambavyo vinataja nguvu ya kiungu inavyofanya kazi nyuma ya maneno ya wanadamu, lakini hii inazungumza kuhusu mwanadamu na njia asili kwamba maneno yetu yanaweza kuathiri maisha yetu. Ni hii: maneno yetu yana athari.
 
@@ -1117,13 +1117,13 @@ Kuna nyakati tunajikuta katika hali ngumu, lakini kama tukitumia maneno ya hekim
 
 Maneno yatu hayaleti matokeo kwetu tu, lakini yanaweza kusaidia kuzuia wale wanaotusikia. Kama tukiongea kwa hekima, basi tunaweza kusaidia watu wengine. Kila mtu hupitia nyakati za kuvunjwa moyo nyakati zingine, na maneno yetu yanaweza kuongeza kuvunjika moyo au yanaweza kumtia moyo mtu. Mtu anaweza kuwa na "mzigo" katika moyo, lakini maneno mazuri yanaweza kuinua roho zao na kuufurahisha moyo (12:25). Hekima inaweza kukusaidia kusema maneno sahihikatika wakati sahihi kumsaidia mtu (15:23; 25:11–12). Mithali hutumia mifano mingi tofauti tofauti inayoonyesha namna maneno yetu yanavyoweza kuwa na faida kwa wengine:
 
-* Kinywa chake mwenye haki ni chemchemi ya uzima (10:11)
-* Ulimi wa mwenye haki ni kama fedha teule (10:20)
-* Midomo ya maarifa ni kito cha thamani (20:15)
-* Midomo ya mwenye haki hulisha watu wengi (10:21)
-* Ulimi wa mwenye haki ni afya (12:18)
-* Maneno yapendezayo ni kama sega la asali (16:24)
-* Ulimi safi ni mti wa uzima (15:4)
+- Kinywa chake mwenye haki ni chemchemi ya uzima (10:11)
+- Ulimi wa mwenye haki ni kama fedha teule (10:20)
+- Midomo ya maarifa ni kito cha thamani (20:15)
+- Midomo ya mwenye haki hulisha watu wengi (10:21)
+- Ulimi wa mwenye haki ni afya (12:18)
+- Maneno yapendezayo ni kama sega la asali (16:24)
+- Ulimi safi ni mti wa uzima (15:4)
 
 Tunapaswa kujiuliza kama maneno yetu yanaendana na orodha hii. Je mambo ninayoyasema ni ya hovyo hovyo na yasiyo na maana au je ni ya thamani kama fedha? Ninapozungumza watu wanalishwa? Je maneno yangu ni matamu kama sega la asali au ni machungu?
 
@@ -1135,7 +1135,7 @@ Mara nyingi tunawalaumu wengine kwa shida zetu, lakini inawezekana kabisa kwamba
 
 #### Maneno yetu yanaweza kuumiza wengine
 
-Kama tu maneno mazuri yanaweza kuwasaidia watu wengine, maneno mabaya yanaweza kuwaumiza. Msemo "fimbo na mawe yanaweza kuvunja mifupa yangu, lakini maneno kamwe hayataniumiza" siyo kweli. Mithali inasemakwamba maneno yetu yanaweza kuwa kama "kuchoma kwa upanga" (12:18), na kwa hiyo tunaweza kuwaharibu jirani zetu (11:9) au hata mji mzima (11:11). Inaweza kuonekana kama kuongeza maneno kwamba maneno yanaweza kuharibu jiji, lakini tukiangalia historia inaweza kutukumbusha namna madikteta wengi walivyoweza kuharibu siyo tu miji, lakini nchi nzima kupitia maneno na propaganda. 
+Kama tu maneno mazuri yanaweza kuwasaidia watu wengine, maneno mabaya yanaweza kuwaumiza. Msemo "fimbo na mawe yanaweza kuvunja mifupa yangu, lakini maneno kamwe hayataniumiza" siyo kweli. Mithali inasemakwamba maneno yetu yanaweza kuwa kama "kuchoma kwa upanga" (12:18), na kwa hiyo tunaweza kuwaharibu jirani zetu (11:9) au hata mji mzima (11:11). Inaweza kuonekana kama kuongeza maneno kwamba maneno yanaweza kuharibu jiji, lakini tukiangalia historia inaweza kutukumbusha namna madikteta wengi walivyoweza kuharibu siyo tu miji, lakini nchi nzima kupitia maneno na propaganda.
 
 Mithali 16:27 inasema kwamba mtu asiyefaa kitu huchimba shimo la madhara katika midomo yakemna moto uteketezao. Yakobo anaongeza kwamba moto wa ulimi "huuwasha moto mfulizo wa maumbile, nao huwashwa moto na jehanum" (Yakobo 3:6). Kama moto, umbea na uwongo huenea haraka sana.
 
@@ -1153,11 +1153,11 @@ Kuwa mtu wa maneno machache ni ishara ya busara (17:27), na hata mjinga anaweza 
 
 #### Dhidi ya kashfa na umbea
 
-Mithali hutufundisha kwamba umbea uanweza kuumiza watu (18:8; 26:22). Myahudi Midrashi anasema “Ulimi mbaya huua watatu, msingiziaji, aliyesingiziwa na msikilizaji” (Midrash Tehillim 52:2). Mnong’ono unaweza kufarakanisha hata urafiki wa karibu (16:28). Inatakiwa kuwa shauku yetu kuwaunganisha watu, na siyo kuwagawanya. Maneno yetu mara nyingi huweka mawazo hasi katika vichwa vya wengine. 
+Mithali hutufundisha kwamba umbea uanweza kuumiza watu (18:8; 26:22). Myahudi Midrashi anasema “Ulimi mbaya huua watatu, msingiziaji, aliyesingiziwa na msikilizaji” (Midrash Tehillim 52:2). Mnong’ono unaweza kufarakanisha hata urafiki wa karibu (16:28). Inatakiwa kuwa shauku yetu kuwaunganisha watu, na siyo kuwagawanya. Maneno yetu mara nyingi huweka mawazo hasi katika vichwa vya wengine.
 
 ##### Wakati mwingine ni bora usizungumzie dhambi ya mtu
 
-Kama tunajua kuhusu dhambi ya mtu tusimueleze kila mtu kuhusu dhambi hiyo (17:9;10:12). Wakati mwingine tunatumia mahitaji ya maombi kueleza kuhusu makosa ya watu na dhambi walizofanya. Ukichagua kutokuzungumzia mambo yaliyofanywa na wengine, basi kwa kupuuza, umechagua kumfichia siri. Hatutakiwi kudanganya kwaajili ya kumlinda mtu, na kama kuna mtu mwingine hatari kwasababu ya dhambi za watu, basi tutatakiwa kulisema. Angalia pia 10:18, na 11:12 na 25:23. 
+Kama tunajua kuhusu dhambi ya mtu tusimueleze kila mtu kuhusu dhambi hiyo (17:9;10:12). Wakati mwingine tunatumia mahitaji ya maombi kueleza kuhusu makosa ya watu na dhambi walizofanya. Ukichagua kutokuzungumzia mambo yaliyofanywa na wengine, basi kwa kupuuza, umechagua kumfichia siri. Hatutakiwi kudanganya kwaajili ya kumlinda mtu, na kama kuna mtu mwingine hatari kwasababu ya dhambi za watu, basi tutatakiwa kulisema. Angalia pia 10:18, na 11:12 na 25:23.
 
 #### Ujeuri hudanganya
 
@@ -1189,14 +1189,14 @@ Angalia pia 19:1
 
 ### Hitimisho
 
-Kuzungumza ni moja ya jambo rahisi kufanya, lakini ni njia rahisi ya kufanya dhambi au kuhumiza watu. Ndiyo maana Mithali inatoa maonyo mengi na ushauri mwingi wa namna ya kusema. 
+Kuzungumza ni moja ya jambo rahisi kufanya, lakini ni njia rahisi ya kufanya dhambi au kuhumiza watu. Ndiyo maana Mithali inatoa maonyo mengi na ushauri mwingi wa namna ya kusema.
 
 > Mithali 16:1—Maandalio ya moyo ni ya mwanadamu;  
 > Bali jawabu la ulimi hutoka kwa BWANA.
 
 Angalia pia 16:10.
 
-----------------------------------------------------------------------------------------------------------
+---
 
 <small>
 * [1] Proverbs: An Introduction And Commentary By Lindsay Wilson pg. 305
@@ -1244,9 +1244,9 @@ Kuongea ni rahisi. Mithali 20:6 inasema kwamba, "Wanadamu hutangaza kila mtu his
 
 Baadhi ya watu huita kila mtu "rafiki" zao, lakini je ni kweli wanakujali? (Au je hata wewe unawajali?) Rafiki ni zaidi ya mtu anayeweza **kukupa** vitu vizuri, lakini unatakiwa pia **uwapatie vitu vizuri** kufanya urafiki wenye nguvu. Kama mtu akiwa na pesa, basi atakuwa na "marafiki" wengi, lakini pesa zikiisha, marafiki pia wanapotea (14:20; 19:4, 6–7).
 
-#### Marafiki wanaweza kuwa karibu na wewe zaidi ya ndugu 
+#### Marafiki wanaweza kuwa karibu na wewe zaidi ya ndugu
 
-Mithali 18:24 inasema kwamba “Yuko rafiki aambatanaye na mtu kuliko ndugu” na 27:10 inatuonya tusiwasahau au kuwaacha marafiki wa zamani wa familia kwasababu jirani aliye karibu ni bora kuliko ndugu aliye mbali. Je hii inamaanisha kuwa ndugu si wa muhimu? Hapana. Lindsay Wilson anasema kuhusu mstari huu kwamba "Hii siyo kupunguza majukumu ya kindugu, bali ni kuinua thamani ya rafiki au jirani."<sup>[6]</sup> 
+Mithali 18:24 inasema kwamba “Yuko rafiki aambatanaye na mtu kuliko ndugu” na 27:10 inatuonya tusiwasahau au kuwaacha marafiki wa zamani wa familia kwasababu jirani aliye karibu ni bora kuliko ndugu aliye mbali. Je hii inamaanisha kuwa ndugu si wa muhimu? Hapana. Lindsay Wilson anasema kuhusu mstari huu kwamba "Hii siyo kupunguza majukumu ya kindugu, bali ni kuinua thamani ya rafiki au jirani."<sup>[6]</sup>
 
 #### Chagua rafiki zako kwa hekima kwani wanaweza kukushawishi
 
@@ -1259,25 +1259,25 @@ Kitabu cha Mithali kiliandikwa kama baba kwa watoto wake, kwahiyo kuna maonyo me
 
 Sasa tunaelewa kwamba urafiki ni jambo zuri, lakini nini maana ya kuwa rafiki mzuri? Mithali ina misemo mingi inayotufundisha namna ya kushirikiana na watu wengine:
 
-* Yashu hulikie mambo kwa hekima (16:20)
-* Kuwafikiria wengine (27:14)
-* Uwe tayari kusamehe (10:12)
-* Usiingilie mambo ya wengine (26:17)
-* Mguu wako usiingilie katika nyumba ya jirani yako ila kwa kiasi (25:17)
-* Tafuta kuwa na ushirika mzuri na Mungu (16:7; Ona pia 1 Yohana 4:19&ndash;20)
+- Yashu hulikie mambo kwa hekima (16:20)
+- Kuwafikiria wengine (27:14)
+- Uwe tayari kusamehe (10:12)
+- Usiingilie mambo ya wengine (26:17)
+- Mguu wako usiingilie katika nyumba ya jirani yako ila kwa kiasi (25:17)
+- Tafuta kuwa na ushirika mzuri na Mungu (16:7; Ona pia 1 Yohana 4:19&ndash;20)
 
 ### Wakati mwingine hata marafiki wanaweza kutokuelewana... na hicho ni kitu kizuri
 
 Mithali 27:9 inatufundisha kwamba ushauri wa rafiki una faida kwetu. Wakati mwingine ushauri wa rafiki unaweza kuja katika mfumo wa masahihisho. Mtu mwenye busara huhitaji rafiki atakayekuwa muwazi kwake. Marafiki wa kweli watatueleza ukweli, hata kama unauma (27:5–6; 29:5). Tunaweza tusipende kurekebishwa mwanzo, lakini baadae tutaona uthamani wake (28:23). Makabiliano haya yanaweza kutufanya tukue (27:17).
 
-> Hii hekima ya kuunda tabia, iliyopandwa katika Mungu, huonekana katika jamii. Kwa kusoma maagizo ya hekima, nimegundua uwepo wa maongezi  na migogoro iko kila mahali. Maendeleo ya tabia hustawi tu katika jamii ambapo ukabili wa ugomvi kiafya upo. Bila kuweka umakini  katika mazingira hayo, tabia ya mtu mmoja unakuwa hauna nidhamu. Wahenga wanaamini kwa nguvu kabisa katika kanuni kwamba ”chuma hunoa chuma” ilipofikia maingiliano ya wanadamu. Ukuaji huja kupitia kupambana, na kupambana hudhihirishwa kama kujenga migogoro ya mahusiano ya kiafya.  
+> Hii hekima ya kuunda tabia, iliyopandwa katika Mungu, huonekana katika jamii. Kwa kusoma maagizo ya hekima, nimegundua uwepo wa maongezi na migogoro iko kila mahali. Maendeleo ya tabia hustawi tu katika jamii ambapo ukabili wa ugomvi kiafya upo. Bila kuweka umakini katika mazingira hayo, tabia ya mtu mmoja unakuwa hauna nidhamu. Wahenga wanaamini kwa nguvu kabisa katika kanuni kwamba ”chuma hunoa chuma” ilipofikia maingiliano ya wanadamu. Ukuaji huja kupitia kupambana, na kupambana hudhihirishwa kama kujenga migogoro ya mahusiano ya kiafya.  
 > —_Dave Bland_<sup>[7]</sup>
 
 ### Hitimisho
 
 Tunatakiwa kutia bidii katika mahusiano yetu na marafiki zetu, kwasababu kama tukiwakosoa, itakuwa ngumu kudumisha uhusiano huo (**18:19**). Ukiwa na nguvu urafiki, mgawanyiko utakua mkubwa wakati wamekosewa. Hii ndiyo sababu familia zingine zinakuwa na migogoro mikubwa, na pia kwanini watu ambao mwanzo walikuwa wanapendana sana sasa wanakimbilia talaka. Kwahiyo tunatakiwa kujitahidi sana kusuluhisha matatizo na rafiki zetu wa karibu matatizo hayo yakiwa bado madogo.
 
-------------------------------------------------------------------------------------------
+---
 
 <small>
 * [1] Swanson, J. (1997). Dictionary of Biblical Languages with Semantic Domains : Hebrew (Old Testament) (electronic ed.). Oak Harbor: Logos Research Systems, Inc.
@@ -1315,7 +1315,7 @@ Mithali inazungumza kuhusu baraka za ndoa (18:22; 31:10) na kupata watoto (17:6)
 
 Kuna kama mistari sita katika Mithali inayoonya kuhusu kuoa au kuolewa na mtu asiye sahihi (17:1; 19:13; 21:9, 19; 25:24), lakini mara nyingi hazijasisitizwa. Badala yake tunazungumza tu juu ya jinsi "apataye mke apata kitu chema."
 
-Kwanini mistari hasi imelengwa tu kwa mwanamke mbaya? Vipi kuhusu waume wabaya? Tena, Mithali iliandikwa kufundisha wanaume. Ilikuwa inawaonya kuhusu  waoe nani. Tungeweza kudhani kwamba kama kitabu hiki kingeandikwa kwaajili ya mabinti, basi kungekuwa na maonyo mengi dhidi ya waume.
+Kwanini mistari hasi imelengwa tu kwa mwanamke mbaya? Vipi kuhusu waume wabaya? Tena, Mithali iliandikwa kufundisha wanaume. Ilikuwa inawaonya kuhusu waoe nani. Tungeweza kudhani kwamba kama kitabu hiki kingeandikwa kwaajili ya mabinti, basi kungekuwa na maonyo mengi dhidi ya waume.
 
 #### Kuwa makini na Yule unayechagua kumpa upendo wako
 
@@ -1325,9 +1325,9 @@ Baadhi ya watu wanaweza kuzungumza maneno ya upendo nay a kujipendekeza, lakini 
 
 Wahubiri wachache watanukuu Mithali 18:22 na kusema kwamba tunatakiwa kutia bidii na nguvu kutafuta mke, lakini tunatakiwa kukumbuka kwamba Mungu pekee ndiye atakayempa mtu mke mwema (19:14).
 
-## Kitabu cha Mithali kinasema nini kuhusu fedha 
+## Kitabu cha Mithali kinasema nini kuhusu fedha
 
-Fedha ni somo muhimu sana. Inaweza isionekane kama somo la kiroho, lakini linaweza kuathiri maisha yetu ya kiroho katika njia hasi kamahatutazitumia kwa usahihi. Paulo alimuambia Timotheo kwamba shina moja la mabaya ya kila namna ni kupenda fedha (1 Tim. 6:10). Matatizo mengi ya ndoa yanasababishwa na pesa. Ushauri wa kisasa unasema usifanye biashara na ndugu au rafiki kwasababu inaweza kuleta ugomvi. Matatizo haya si mapya, na kuna baadhi ya mashauri katika kitabu cha Mithali inayosaidia kutengeneza tabia zetu kwa habari ya utajiri na namna ya kutumia utajiri wetu. 
+Fedha ni somo muhimu sana. Inaweza isionekane kama somo la kiroho, lakini linaweza kuathiri maisha yetu ya kiroho katika njia hasi kamahatutazitumia kwa usahihi. Paulo alimuambia Timotheo kwamba shina moja la mabaya ya kila namna ni kupenda fedha (1 Tim. 6:10). Matatizo mengi ya ndoa yanasababishwa na pesa. Ushauri wa kisasa unasema usifanye biashara na ndugu au rafiki kwasababu inaweza kuleta ugomvi. Matatizo haya si mapya, na kuna baadhi ya mashauri katika kitabu cha Mithali inayosaidia kutengeneza tabia zetu kwa habari ya utajiri na namna ya kutumia utajiri wetu.
 
 Mithali inazungumza kuhusu pesa na utajiri mwingine wowote kama vile mashamba, mavuno mengi, na vingine vyote tunavyovimiliki. Hii ni asili kwaajili ya utamaduni wa kilimo ambapo baadhi ya watu walifanya biashara pamoja.
 
@@ -1335,11 +1335,11 @@ Mithali inazungumza kuhusu pesa na utajiri mwingine wowote kama vile mashamba, m
 
 Kwa kusoma mithali, tunaweza kukusanya orodha ya vitu vinavyoleta mafanikio kwa watu:
 
-* Hekima (8:18, 21)
-* Bidii (10:4; 12:11; 12:27)
-* Mungu (10:22)
-* Haki (13:21–22, 25; 15:6)
-* Utii (13:18)
+- Hekima (8:18, 21)
+- Bidii (10:4; 12:11; 12:27)
+- Mungu (10:22)
+- Haki (13:21–22, 25; 15:6)
+- Utii (13:18)
 
 Ukisoma mistari hiyo, unaweza kufikia hitimisho kwamba watu watu wenye utajiri ni wale wanaompenda Mungu, wenye hekima, na wenye bidii. Lakini kwanini watu wengi wenye utajiri ni waovu (28:6), ujinga (30:22), na uvivu?
 
@@ -1351,10 +1351,10 @@ Wote walio matajiri na masikini wameumbwa na Mungu (22:2). Watu wote wanatokana 
 
 Tunapaswa kukumbuka kwamba Mithali siyo ahadi kabisa, lakini ni kanuni. Siyo dhamana ya moja kwa moja kwamba ukiamka mapema kila siku na kufanya kazi kwa bidii kwamba utakuwa tajiri, lakini nafasi za wewe kuwa tajiri wakati ukiwa umelala kitandani ni chache sana. Mungu hutoa utajiri kwa wenye haki, lakini, yeyote hata mwenye dhambi, anaweza kufaidika katika ushauri wa kufanya kwa bidii. Zifuatazo ni kanuni za msingi kuhusu kazi zinazomhusu kila mmoja:
 
-* Usipootesha mbegu, basi hutavuna (12:11; 28:19).
-* Baadhi ya watu huzungumzia tu kuhusu kile wanachotaka kufanya, lakini mazungumzo au mawazo pekee havitakupa utajiri. Unatakiwa kuwa na vitendo katika maneno hayo (14:23).
-* Kama utakaa kitandani siku nzima, shamba lako halitalimwa, hakuna yeyote atakayekulipa. Kama unataka kulipwa, unatakiwa utoke kitandani (20:13).
-* Unaweza kuanza kwa kufanya kazi katika mradi Fulani, kama hutaendelea kuufanyia kazi mradi huo hautaleta matokeo (24:30–34).
+- Usipootesha mbegu, basi hutavuna (12:11; 28:19).
+- Baadhi ya watu huzungumzia tu kuhusu kile wanachotaka kufanya, lakini mazungumzo au mawazo pekee havitakupa utajiri. Unatakiwa kuwa na vitendo katika maneno hayo (14:23).
+- Kama utakaa kitandani siku nzima, shamba lako halitalimwa, hakuna yeyote atakayekulipa. Kama unataka kulipwa, unatakiwa utoke kitandani (20:13).
+- Unaweza kuanza kwa kufanya kazi katika mradi Fulani, kama hutaendelea kuufanyia kazi mradi huo hautaleta matokeo (24:30–34).
 
 #### Sio Baraka zote ni za kimwili
 
@@ -1362,12 +1362,12 @@ Kama wewe ni mwenye haki, Mungu atakubariki, lakini si lazima wakati wote Baraka
 
 Katika sura ya tatu tunaona maelezo ya Mwanamke Mwenye Hekima. Mstari wa 16 unasema kwamba ana wingi wa siku katika mkono wake wa kuume, utajiri na heshima katika mkono wake wa kushoto. Katika utamaduni wa Waebrania wa kale, mkono wa kulia uliheshimika kuliko mkono wa kushoto (Mwa. 48:14; Mah. 10:12; Mat. 25:33).<sup>[1]</sup> Hii inatuonyesha kwamba hekima inaweza kutupa utajiri, lakini utajiri sio muhimu zaidi ya maisha. Pia, mistari miwili ambayo inafuata (3:14–15) inazungumza kuhusu namna hekima ilivyo muhimu kuliko dhahabu na fedha (angalia pia 8:19 na 16:16). Fedha sio mbaya, lakini hekima ni bora. Mungu alimpa Sulemani utajiri, lakini kwasababu tu alimuomba kwanza hekima. Hekima siyo kwamba ndiyo kitu muhimu kuliko utajiri. Bruce Waltke anasema, "Utajiri ni hali inayohitajika na malipo ya hekima (angalia 3:9–10), siyo lengo la maisha ya mtu."<sup>[2]</sup> Mithali inaonyesha vitu vingi muhimu kuliko kuwa na pesa:
 
-* Midomo ya maarifa (20:15)
-* Jina jema (22:1)
-* Kuwa mtu mwaminifu (19:22)
-* Mwanamke mwema (31:10)
-* Kutembea kwa uadilifu (19:1)
-* Hofu ya Mungu (15:16–17; 16:8; 16:19)
+- Midomo ya maarifa (20:15)
+- Jina jema (22:1)
+- Kuwa mtu mwaminifu (19:22)
+- Mwanamke mwema (31:10)
+- Kutembea kwa uadilifu (19:1)
+- Hofu ya Mungu (15:16–17; 16:8; 16:19)
 
 ### Pesa hazitatui matatizo
 
@@ -1383,7 +1383,7 @@ Mithali 23:4–5 inasema kwamba utajiri huota mabawa na kupeperuka (angalia pia 
 
 #### Pesa zinaweza kukuletea matatizo katika maisha yako
 
-Mithali 17:1 inasema kwamba utajiri unaweza kuwa chanzo cha ugomvi nyumbani. Pia inaweza kukufanya ujivune (28:11) na wanaodai (18:23). 
+Mithali 17:1 inasema kwamba utajiri unaweza kuwa chanzo cha ugomvi nyumbani. Pia inaweza kukufanya ujivune (28:11) na wanaodai (18:23).
 
 ### Mungu anatupa utajiri ili tushiriki pamoja na wengine
 
@@ -1418,7 +1418,7 @@ Katika Mithali 30:7–9 mwandishi anamuuliza Mungu kuhusu vitu viwili:
 1. Usinifanye kuwa masikini
 2. Usinifanye kuwa tajiri
 
----------------------------------------------------------------------------------------------------
+---
 
 <small>
 * [1] Waltke, B. K. (2004). The Book of Proverbs, Chapters 1–15 (p. 258). Grand Rapids, MI: Wm. B. Eerdmans Publishing Co.
@@ -1429,26 +1429,26 @@ Katika Mithali 30:7–9 mwandishi anamuuliza Mungu kuhusu vitu viwili:
 
 ## Je, "mhubiri" ni nani?
 
-Neno katika Kiebrania ni _Koheleti_ na maana yake ni "mkusanyaji." Inaweza kumaanisha mtu anayekusanya watu pamoja ili kuzungumza nao, au inaweza kumaanisha mtu anayekusanya mawazo pamoja, kama mwanafalsafa.
+Neno katika Kiebrania ni _Kohelethi_ na maana yake ni "mkusanyaji." Inaweza kumaanisha mtu anayekusanya watu pamoja ili kuzungumza nao, au inaweza kumaanisha mtu anayekusanya mawazo pamoja, kama mwanafalsafa.
 
-Je, yeye ni Sulemani? Watu wengi wanafikiri Koheleti ni Sulemani kwa sababu anaitwa “mwana wa Daudi” (1:1). Lakini neno “mwana wa Daudi” linaweza kutumika kwa yeyote katika ukoo wa Daudi, kama inavyoweza kuonekana Yesu anapoitwa mwana wa Daudi (Mat. 1:1).
+Je, yeye ni Sulemani? Watu wengi wanafikiri Kohelethi ni Sulemani kwa sababu anaitwa “mwana wa Daudi” (1:1). Lakini neno “mwana wa Daudi” linaweza kutumika kwa yeyote katika ukoo wa Daudi, kama inavyoweza kuonekana Yesu anapoitwa mwana wa Daudi (Mat. 1:1).
 
 Sababu nyingine inayofanya watu kuamini kuwa ni Sulemani ni kwa sababu inasema kwamba aliwapita watawala wote waliotangulia huko Yerusalemu (1:16; 2:9). (Though at the time of Solomon, there had been very few rulers in Jerusalem.)
 
-Inawezekana kwamba ni Sulemani, lakini hakuna ushahidi halisi wa hilo. Kwa sababu watu wengi wanafikiri ni Sulemani, wanakuja kwenye kifungu hicho wakiwa na mawazo, kama vile ukweli kwamba Sulemani alikuwa mbali na Mungu katika sehemu ya mwisho ya maisha yake. Ili kuepuka tatizo hili, tutamwita mhubiri _Koheleti_ katika kitabu hiki na kujaribu kuelewa maandishi yenyewe.
+Inawezekana kwamba ni Sulemani, lakini hakuna ushahidi halisi wa hilo. Kwa sababu watu wengi wanafikiri ni Sulemani, wanakuja kwenye kifungu hicho wakiwa na mawazo, kama vile ukweli kwamba Sulemani alikuwa mbali na Mungu katika sehemu ya mwisho ya maisha yake. Ili kuepuka tatizo hili, tutamwita mhubiri _Kohelethi_ katika kitabu hiki na kujaribu kuelewa maandishi yenyewe.
 
 ## Muundo wa kitabu
 
 Kuna watu wawili wanaozungumza kwenye kitabu:
 
-1. Msimulizi anazungumza katika 1:1-2, 7:27, na 12:8-14. Anasimulia hadithi ya Koheleti.
-2. Koheleti anazungumza katika sehemu nyingine ya kitabu.
+1. Msimulizi anazungumza katika 1:1-2, 7:27, na 12:8-14. Anasimulia hadithi ya Kohelethi.
+2. Kohelethi anazungumza katika sehemu nyingine ya kitabu.
 
 ## Mandhari ya kitabu
 
 Kitabu cha Mhubiri ni ufahamu wa maisha jinsi yalivyo. Neno _ubatili_ hutumiwa mara kwa mara. Neno linaweza pia kutafsiriwa kama "pumzi" (Ona 4:16). Inaonyesha kwamba maisha ni mafupi, kwa hiyo tunahitaji kutumia vizuri wakati tulio nao. It is repeated many times in the book that we need to sieze the day (2:24-25; 3:22; 5:18-19; 8:15; 9:7-10; 12:13).
 
-Mambo mengi anayosema Koheleti hayana makosa, lakini anayatazama mambo kwa mtazamo wa kiasili. Ni ya upande mmoja, lakini si lazima kuwa na makosa.
+Mambo mengi anayosema Kohelethi hayana makosa, lakini anayatazama mambo kwa mtazamo wa kiasili. Ni ya upande mmoja, lakini si lazima kuwa na makosa.
 
 ## Chini ya jua (sura ya 1–2)
 
@@ -1480,19 +1480,19 @@ Zile akili za kiroho hazitulii katika "maisha ni bure" lakini zinatafuta maana *
 
 Katika mahitaji ya mwanadamu kuna kuridhika sambamba (njaa-chakula, na kadhalika.). Kama tukiwa na hamu kwa kipi katika dunia hii kinaweza kuridhisha, ni mantiki kudhani tumetengenezwa kwa dunia nyingine:
 
-> Mkristo anasema, 'kiumbe hakijazaliwa na hamu isipokuwa kuridhika kwa wale wanaotamani upo. Mtoto anahisi njaa: sawa, kuna kitu kama chakula. Bata anataka kuogelea: sawa, kuna kitu kama maji. Wanaume wanahisi hamu ya mapenzi: sawa, kuna kitu kama mapenzi. Kama nikikuta ndani yangu hamu ambayo hakuna uzoefu katika dunia hii itakayoridhisha, maelezo makubwa yenye uwezekano ni kwamba niliumbwa kwaajili ya ulimwengu mwingine. Kama hakuna chochote kinachoridhisha katika dunia haithibitishi kwamba ulimwengu unadanganya. Kuna uwezekano kuwa raha za dunia hazikukusudiwa kuuridhisha ulimwengu, lakini kuuinua tu, kupendekeza kitu halisi.' 
->—C. S. Lewis
+> Mkristo anasema, 'kiumbe hakijazaliwa na hamu isipokuwa kuridhika kwa wale wanaotamani upo. Mtoto anahisi njaa: sawa, kuna kitu kama chakula. Bata anataka kuogelea: sawa, kuna kitu kama maji. Wanaume wanahisi hamu ya mapenzi: sawa, kuna kitu kama mapenzi. Kama nikikuta ndani yangu hamu ambayo hakuna uzoefu katika dunia hii itakayoridhisha, maelezo makubwa yenye uwezekano ni kwamba niliumbwa kwaajili ya ulimwengu mwingine. Kama hakuna chochote kinachoridhisha katika dunia haithibitishi kwamba ulimwengu unadanganya. Kuna uwezekano kuwa raha za dunia hazikukusudiwa kuuridhisha ulimwengu, lakini kuuinua tu, kupendekeza kitu halisi.'
+> —C. S. Lewis
 
 #### Kupata hekima na maarifa (1:12–18)
 
-Utafutaji wa mtu halisi kwaajili ya kuridhika na furaha. Koheleti anaelezea namna alivyofikia hitimisho iliyoelezwa katika sura ya 1:12–13. Koheleti pia ameonyesha kile alichojifunza katika utafutaji wake:
+Utafutaji wa mtu halisi kwaajili ya kuridhika na furaha. Kohelethi anaelezea namna alivyofikia hitimisho iliyoelezwa katika sura ya 1:12–13. Kohelethi pia ameonyesha kile alichojifunza katika utafutaji wake:
 
 1. Mitindo yote ya maisha haina maana (1:14)
 2. Hakuna kitakachobadilishwa (1:15)
 3. Maarifa hayana maana (1:16–17)
-4. Hamu ya maarifa huleta maumivu makubwa (1:18) 
+4. Hamu ya maarifa huleta maumivu makubwa (1:18)
 
-Koheleti siyo kutokuwa na maarifa, lakini anamalizia kwa haki kuwa maarifa ya mwanadamu bila kurejea kwa Mungu ni **haziridhishi kamwe**.
+Kohelethi siyo kutokuwa na maarifa, lakini anamalizia kwa haki kuwa maarifa ya mwanadamu bila kurejea kwa Mungu ni **haziridhishi kamwe**.
 
 Mhubiri 1:18 inasema, "Yaani, Katika wingi wa hekima mna wingi wa huzuni." Lakini sehemu nyingine nyingi katika Biblia husema kwamba hekima hutusaidia katika maisha yetu. Kwa nini hii inasema tofauti? Hekima husaidia katika maisha yetu, lakini pia huleta mzigo. Kwa mfano, kabla ya redio, hatukujua kuhusu matatizo katika sehemu nyingine za dunia. Sasa tunaweza kujua kuhusu vita na matatizo mengine katika kila kona ya dunia. Kitabu cha Mithali kinatufundisha kwamba wezi hutajirika na watu waovu hutawala&mdash;huu ndio ukweli mgumu ambao hekima inatufundisha.
 
@@ -1526,13 +1526,13 @@ Mungu ameumba utu na dunia. Ametupa sisi kazi ya kufanya. Tunatakiwa tufanye kaz
 
 ### Hitimisho (mst. 16–22)
 
-Koheleti amevunjika moyo kwasababu kila mahali anapotazama anaona uovu. Lakini anajua kuwa kuna majira kwa kila kitu, na hata kama waovu watakuwa na majira ya kufanikiwa, majira ya hukumu yatakuja.
+Kohelethi amevunjika moyo kwasababu kila mahali anapotazama anaona uovu. Lakini anajua kuwa kuna majira kwa kila kitu, na hata kama waovu watakuwa na majira ya kufanikiwa, majira ya hukumu yatakuja.
 
 ## Shida za maovu ya kijamii (sura ya 4)
 
 ### Ukandamizaji (mst. 1–3)
 
-Koheleti anagundua kwamba wale walio katika madaraka hutumia madaraka kukandamiza wengine. Mistari hii ilitumiwa na wachache kuonyesha kuwa Koheleti siyo Sulemani, kwasababu Sulemani alikuwa na nguvu ya kukomesha ukandamizaji, lakini hapa Koheleti hawezi.
+Kohelethi anagundua kwamba wale walio katika madaraka hutumia madaraka kukandamiza wengine. Mistari hii ilitumiwa na wachache kuonyesha kuwa Kohelethi siyo Sulemani, kwasababu Sulemani alikuwa na nguvu ya kukomesha ukandamizaji, lakini hapa Kohelethi hawezi.
 
 Kama wakristo, tunajua kwamba nguvu na mamlaka siyo mara zote viishie katika ukandamizaji (2 Wak. 1:24; 4:5; 1 Pet. 5:3).
 
@@ -1556,15 +1556,15 @@ Wafalme wanaweza kuwa tayari kusikiliza wakiwa wadogo, lakini wakiwa wazee, hawa
 
 #### Dhabihu (mst. 1)
 
-Koheleti anaonya kuhusu kufanya "Dhabihu za ujinga." "Dhabihu za ujinga lazima yawe mawazo na si ya kukana thamani ya dhabihu kwa sasa lakini kama kukosoa kwa juu juu dini inayoenda kupitia ibada pamoja na maneno mengi lakini hakuna ufahamu wa Mungu."[1] Kuna maonyo mengine katika agano la kale kuhusu kutoa bure dhabihu kwa Mungu, kama vile 1 Samwel 15:22–23, Psalm 40:6, na Isaya 1:11. Mistari hii iliyounganishwa inatuonesha kwamba Mungu hapendezwi na dhabihu kama moyo wa mtoaji ni mchafu.
+Kohelethi anaonya kuhusu kufanya "Dhabihu za ujinga." "Dhabihu za ujinga lazima yawe mawazo na si ya kukana thamani ya dhabihu kwa sasa lakini kama kukosoa kwa juu juu dini inayoenda kupitia ibada pamoja na maneno mengi lakini hakuna ufahamu wa Mungu."[1] Kuna maonyo mengine katika agano la kale kuhusu kutoa bure dhabihu kwa Mungu, kama vile 1 Samwel 15:22–23, Psalm 40:6, na Isaya 1:11. Mistari hii iliyounganishwa inatuonesha kwamba Mungu hapendezwi na dhabihu kama moyo wa mtoaji ni mchafu.
 
 #### Maombi (mst. 2–3)
 
-Katika mstari wa 1, kuna maelekezo kwamba wale wanaoenda hekaluni lazima awe tayari kusikiliza. Wazo limeendelezwa kupitia mstari wa 7. Ni maelekezo kusikiliza zaidi ya kuzungumza, na hasa kusikiliza zaidi kwa Mungu zaidi ya vile tunavyomsikiliza. Kanuni ya kusikiliza maelekezo na kuthibiti vile tunavyoongea vinapatikana  mara nyingi katika kitabu cha Mithali (Mith. 2:2; 4:20; 5:1; 15:31; 18:15; 21:13; 22:17; 23:12; 25:12; 28:9). Kuna mifanano inayoangaliwa na Mhubiri 5:3b, unaosema, "sauti ya mpumbavu kwa njia ya wingi wa maneno" na Mithali 17:28, unaosema, "Hata mpumbavu akinyamaza, huhesabiwa hekima; Akifumba midomo yake, huhesabiwa ufahamu." Yesu pia ameonya dhidi ya kuomba kwa "payuke-payuke" na kufikiria kwamba maombi yako yatasikiwa kwa sababu unatumia maneno mengi (Mat. 6:7).
+Katika mstari wa 1, kuna maelekezo kwamba wale wanaoenda hekaluni lazima awe tayari kusikiliza. Wazo limeendelezwa kupitia mstari wa 7. Ni maelekezo kusikiliza zaidi ya kuzungumza, na hasa kusikiliza zaidi kwa Mungu zaidi ya vile tunavyomsikiliza. Kanuni ya kusikiliza maelekezo na kuthibiti vile tunavyoongea vinapatikana mara nyingi katika kitabu cha Mithali (Mith. 2:2; 4:20; 5:1; 15:31; 18:15; 21:13; 22:17; 23:12; 25:12; 28:9). Kuna mifanano inayoangaliwa na Mhubiri 5:3b, unaosema, "sauti ya mpumbavu kwa njia ya wingi wa maneno" na Mithali 17:28, unaosema, "Hata mpumbavu akinyamaza, huhesabiwa hekima; Akifumba midomo yake, huhesabiwa ufahamu." Yesu pia ameonya dhidi ya kuomba kwa "payuke-payuke" na kufikiria kwamba maombi yako yatasikiwa kwa sababu unatumia maneno mengi (Mat. 6:7).
 
 #### Viapo (mst. 4–7)
 
-Koheleti anaendelea na wazo la kuwa makini na maneno yetu kwa kutoa ushauri wa kuweka viapo kwa Mungu. Alisema kwamba ni bora kutoweka kiapo kuliko kuweka kiapo na kuivunja. Yesu alienda mbali zaidi na mafundisho yake, na alisema kwamba hatutakiwi kuweka viapo kabisa (Mat. 5:33–37).
+Kohelethi anaendelea na wazo la kuwa makini na maneno yetu kwa kutoa ushauri wa kuweka viapo kwa Mungu. Alisema kwamba ni bora kutoweka kiapo kuliko kuweka kiapo na kuivunja. Yesu alienda mbali zaidi na mafundisho yake, na alisema kwamba hatutakiwi kuweka viapo kabisa (Mat. 5:33–37).
 
 ### Ukandamizaji na utajiri (mst. 8–17)
 
@@ -1572,16 +1572,16 @@ Koheleti anaendelea na wazo la kuwa makini na maneno yetu kwa kutoa ushauri wa k
 
 #### Mzigo wa utajiri (mst. 10–17)
 
-* Utajiri kamwe hauridhishi (mst. 10)
-* Ukiwa na utajiri mwingi, unakuwa na matatizo mengi (mst. 11)
-* Utajiri unaweza kusababisha wasiwasi, ambao unaokuibia usingizi (mst. 11)
-* Hatuwezi kwenda na utajiri wetu tunapokufa (mst. 13–17)
+- Utajiri kamwe hauridhishi (mst. 10)
+- Ukiwa na utajiri mwingi, unakuwa na matatizo mengi (mst. 11)
+- Utajiri unaweza kusababisha wasiwasi, ambao unaokuibia usingizi (mst. 11)
+- Hatuwezi kwenda na utajiri wetu tunapokufa (mst. 13–17)
 
 ### Zawadi ya Mungu (mst. 18–20)
 
 Utajiri unaweza usiridhishe, lakini Mungu hutoa Baraka kwa kila mtu. Wanaweza kula, kunywa na kufurahia maisha. Hii inafanana na taarifa katika 2:24–26 na 9:7–10.
 
------------------------------------------
+---
 
 <small>
 * [1] Baker, p. 267
@@ -1591,21 +1591,21 @@ Utajiri unaweza usiridhishe, lakini Mungu hutoa Baraka kwa kila mtu. Wanaweza ku
 
 ### Baadhi hawafurahii faida zao (mst. 1–2)
 
-Koheleti sasa anaendelea na uchunguzi wake kuhusu utajiri. Anazungumza kuhusu kitu "kiovu," kwamba mwanadamu hujishughulisha kwa nguvu ili kupata utajiri, lakini hawezi kufurahia. Hatujui madhara yake ni yapi kumuepusha na kufurahia utajiri wake, lakini tunajua kwamba kwa baadhi ya sababu imetolewa kwa mwingine ili afurahie.
+Kohelethi sasa anaendelea na uchunguzi wake kuhusu utajiri. Anazungumza kuhusu kitu "kiovu," kwamba mwanadamu hujishughulisha kwa nguvu ili kupata utajiri, lakini hawezi kufurahia. Hatujui madhara yake ni yapi kumuepusha na kufurahia utajiri wake, lakini tunajua kwamba kwa baadhi ya sababu imetolewa kwa mwingine ili afurahie.
 
 ### Maisha marefu hayatoi dhamana ya furaha (mst. 3–6)
 
-Maisha marefu (Mithali 3:2) na watoto wengi (Zaburi 127:4) zilihusisha Baraka kuu katika Israeli zamani, lakini Koheleti anasema kwamba hata hizi haziwezi kuleta pumziko katika maisha ya uchovu. Anasema kuwa mtoto aliyezaliwa akiwa amekufa ambaye hajawahi kuyajua maisha ni bora kuliko mtu mwenye maisha marefu. Anasema hili kwasababu mtoto aliyezaliwa hali mfu hatapata shida za maisha.
+Maisha marefu (Mithali 3:2) na watoto wengi (Zaburi 127:4) zilihusisha Baraka kuu katika Israeli zamani, lakini Kohelethi anasema kwamba hata hizi haziwezi kuleta pumziko katika maisha ya uchovu. Anasema kuwa mtoto aliyezaliwa akiwa amekufa ambaye hajawahi kuyajua maisha ni bora kuliko mtu mwenye maisha marefu. Anasema hili kwasababu mtoto aliyezaliwa hali mfu hatapata shida za maisha.
 
 ### Hamu daima haitaridhishwa (mst. 7&ndash;9)
 
-Tunafanya kazi kwa nguvu kwaajili ya kupata mambo mazuri, na kula pia. Baadae tunakuwa na njaa tena. Njaa ni kitu kizuri, kwa sababu inatufanya tumtegemee Mungu (Mat. 5:6).  
+Tunafanya kazi kwa nguvu kwaajili ya kupata mambo mazuri, na kula pia. Baadae tunakuwa na njaa tena. Njaa ni kitu kizuri, kwa sababu inatufanya tumtegemee Mungu (Mat. 5:6).
 
 ### Hitimisho kwa utafutaji wa maana (mst. 10–12)
 
-Mstari huu unahitimisha utafutaji wa Koheleti. "Anaacha uwazi kwa maana na katika nusu ya kitabu unalenga katika ushauri na maoni kuhusu wakati ujao."[1] Mstari wa 10 unasema "kwamba yale yaliyoko yamekuwako; na hayo yatakayokuwako; yamekwisha kuwako; na anarudia wazo kuwa hakuna jipya chini ya jua (3:15).
+Mstari huu unahitimisha utafutaji wa Kohelethi. "Anaacha uwazi kwa maana na katika nusu ya kitabu unalenga katika ushauri na maoni kuhusu wakati ujao."[1] Mstari wa 10 unasema "kwamba yale yaliyoko yamekuwako; na hayo yatakayokuwako; yamekwisha kuwako; na anarudia wazo kuwa hakuna jipya chini ya jua (3:15).
 
--------------------------------------------------------------------------
+---
 
 <small>
 * [1] Longman, T. (1998). The Book of Ecclesiastes (p. 176). Grand Rapids, MI: Wm. B. Eerdmans Publishing Co.
@@ -1619,24 +1619,24 @@ Katika milango sita iliyobaki ni mkusanyiko wa mithali na simulizi iliyotengenez
 
 ### Mithali katika maisha bora (mst. 1–13)
 
-"Mithali hizi zimejaa kejeli, na Koheleti mara zote anaanzia kuzunguka sana kama mithali lakini basi anaipa mithali badiliko la kejeli."[1] Mfano unaweza kuwa mstari wa 1, ambao unaaza kwa kusema, "Jina jema ni bora kuliko marhamu ya thamani." Hii inafanana sana na Mithali 22:1, unaosema, "Heri kuchagua jina jema kuliko mali nyingi." Lakini mstari unaofuata katika Mhubiri 7:1 ni tofauti kabisa na chochote katika Mithali. Inasema, "Na siku ya kufa kuliko siku ya kuzaliwa." Kwanini Koheleti anasema hivi? "Hata kama uwiano wa Mithali hii unaweza kuonekana katika hekima ya ndani ya kifasihi, muonekano wake hapa, katika mwanga wa Koheleti mafundisho ya kawaida kuhusu kifo (3:18–21 na 12:1–7), inakubaliana na tafsiri kwamba mithali hii inaonesha ulimwengu wa uchovu kwa Koheleti."[2] "Koheleti anajibu swali swali la asili ya maisha mazuri kwa kuangalia tena katika hekima ya jadi. Haishangazi, hivyo mfumo wa kiutawala ni ule wa Mithali. Anaanza na hekima ya kijadi na kasha kuleta tatizo hili kila wakati, ili kwamba tuachwe bila jibu sahihi la kipi kinaanzisha maisha mazuri. Aina ya hekima kuwa Mithali kila mara hutoa kungekuwa tatizo la ndani zaidi na kutokuwa na eneo salama la kusimamia."[3] Mandhari mawili ambazo ni maarufu katika sehemu ni kifo (mst. 1b, 2, 4, na labda 8) na hekima na upumbavu (mst. 4, 5, 6, 7, 9, 10, 11, 12).[4]
+"Mithali hizi zimejaa kejeli, na Kohelethi mara zote anaanzia kuzunguka sana kama mithali lakini basi anaipa mithali badiliko la kejeli."[1] Mfano unaweza kuwa mstari wa 1, ambao unaaza kwa kusema, "Jina jema ni bora kuliko marhamu ya thamani." Hii inafanana sana na Mithali 22:1, unaosema, "Heri kuchagua jina jema kuliko mali nyingi." Lakini mstari unaofuata katika Mhubiri 7:1 ni tofauti kabisa na chochote katika Mithali. Inasema, "Na siku ya kufa kuliko siku ya kuzaliwa." Kwanini Kohelethi anasema hivi? "Hata kama uwiano wa Mithali hii unaweza kuonekana katika hekima ya ndani ya kifasihi, muonekano wake hapa, katika mwanga wa Kohelethi mafundisho ya kawaida kuhusu kifo (3:18–21 na 12:1–7), inakubaliana na tafsiri kwamba mithali hii inaonesha ulimwengu wa uchovu kwa Kohelethi."[2] "Kohelethi anajibu swali swali la asili ya maisha mazuri kwa kuangalia tena katika hekima ya jadi. Haishangazi, hivyo mfumo wa kiutawala ni ule wa Mithali. Anaanza na hekima ya kijadi na kasha kuleta tatizo hili kila wakati, ili kwamba tuachwe bila jibu sahihi la kipi kinaanzisha maisha mazuri. Aina ya hekima kuwa Mithali kila mara hutoa kungekuwa tatizo la ndani zaidi na kutokuwa na eneo salama la kusimamia."[3] Mandhari mawili ambazo ni maarufu katika sehemu ni kifo (mst. 1b, 2, 4, na labda 8) na hekima na upumbavu (mst. 4, 5, 6, 7, 9, 10, 11, 12).[4]
 
-Anahitimisha sehemu hii katika mstari wa 13 kwa kusema kuwa dunia imepinda na kuvunjika, lakini haoni zaidi ya hilo. "Ni kama vile dunia yake imefungiwa na kile kilichoonyeshwa na Mwanzo 3, anguko. Ni kweli, kama Koheleti anapata tena na tena, kuwa utafiti wa anguko la sasa la dunia unafanya maisha kuwa mafumbo kabisa. Lakini mazingira makubwa ya Mwanzo 3, ya uumbaji na ukombozi kupitia mstari wa Abraham, anatupa tahadhari kuwa Mungu yuko kazini kunyoosha kile kilichopinda na kuvunjika."[5]
+Anahitimisha sehemu hii katika mstari wa 13 kwa kusema kuwa dunia imepinda na kuvunjika, lakini haoni zaidi ya hilo. "Ni kama vile dunia yake imefungiwa na kile kilichoonyeshwa na Mwanzo 3, anguko. Ni kweli, kama Kohelethi anapata tena na tena, kuwa utafiti wa anguko la sasa la dunia unafanya maisha kuwa mafumbo kabisa. Lakini mazingira makubwa ya Mwanzo 3, ya uumbaji na ukombozi kupitia mstari wa Abraham, anatupa tahadhari kuwa Mungu yuko kazini kunyoosha kile kilichopinda na kuvunjika."[5]
 
 ### Ushauri wa maisha kamili (mst. 14–29)
 
-Nusu nyingine ya mlango unatoa "ushauri kwa maisha kamili." Hizo zinatoa changamoto na taarifa ngumu ambazo zinatakiwa zieleweke katika mazingira yake, na katika mazingira ya biblia nzima. Inaonekana kuwa Koheleti anaonya dhidi ya wenye msimamo na dhidi ya dhana kuwa mtu anaweza kupata jibu la kila swali katika maisha.
+Nusu nyingine ya mlango unatoa "ushauri kwa maisha kamili." Hizo zinatoa changamoto na taarifa ngumu ambazo zinatakiwa zieleweke katika mazingira yake, na katika mazingira ya biblia nzima. Inaonekana kuwa Kohelethi anaonya dhidi ya wenye msimamo na dhidi ya dhana kuwa mtu anaweza kupata jibu la kila swali katika maisha.
 
 #### Kiasi katika hekima na ujinga (mst. 14–22)
 
-Katika mistari hii Koheleti anafikia hitimisho kwamba siyo vizuri kuwa mwenye hekima sana au mwenye haki sana. Anasema hili kwasababu anaona haki, uovu, hekima, na ujinga yote ikihitimisha sawa. "Tafiti mbili zinatoa kitendawili kwetu, na Koheleti kwa uhakika alitaka msikilizaji au msomaji kushtushwa na kile alichokisema. Aliona mwenye haki akiangamia na muovu akiishi muda mrefu. Hii ni kinyume cha nini baadhi ya mafundisho ya kibiblia yanaonesha. Kwa mfano, sehemu mojawapo ya kisheria wa biblia inafundisha kuwa uchunguzi wa sheria huendeleza maisha (Mith. 3:1-2), wakati muovu alipata shida na kufa mapema (Zab. 1)."[6] "Hii inaweza kumaanisha nini kuwa haki kiasi na uovu kiasi? "[7] Kuna njia mbili za kutafsiri hii:
+Katika mistari hii Kohelethi anafikia hitimisho kwamba siyo vizuri kuwa mwenye hekima sana au mwenye haki sana. Anasema hili kwasababu anaona haki, uovu, hekima, na ujinga yote ikihitimisha sawa. "Tafiti mbili zinatoa kitendawili kwetu, na Kohelethi kwa uhakika alitaka msikilizaji au msomaji kushtushwa na kile alichokisema. Aliona mwenye haki akiangamia na muovu akiishi muda mrefu. Hii ni kinyume cha nini baadhi ya mafundisho ya kibiblia yanaonesha. Kwa mfano, sehemu mojawapo ya kisheria wa biblia inafundisha kuwa uchunguzi wa sheria huendeleza maisha (Mith. 3:1-2), wakati muovu alipata shida na kufa mapema (Zab. 1)."[6] "Hii inaweza kumaanisha nini kuwa haki kiasi na uovu kiasi? "[7] Kuna njia mbili za kutafsiri hii:
 
-1. Koheleti anaonya dhidi ya kutafuta haki na hekima na kibali cha juu
+1. Kohelethi anaonya dhidi ya kutafuta haki na hekima na kibali cha juu
 2. Analinda dhidi ya kujifanya kuongopea katika haki na hekima.[8]
 
-#### Tafsiri ya Koheleti kuhusu safari yake na kukosekana kwa hekima (mst. 23–29)
+#### Tafsiri ya Kohelethi kuhusu safari yake na kukosekana kwa hekima (mst. 23–29)
 
-------------------------------------------------------------
+---
 
 <small>
 * [1] Baker, p. 322
@@ -1653,23 +1653,23 @@ Katika mistari hii Koheleti anafikia hitimisho kwamba siyo vizuri kuwa mwenye he
 
 ### Majukumu ya wenyewe kwa wenyewe (mst. 1–9)
 
-Mstari wa kwanza unauliza, "Ni nani aliye kama mwenye hekima?" Koheleti alimtafuta mtu mwenye hekima, nani aliyejua tafsiri ya jambo. Koheleti alijua kwamba hekima humfanya mtu awe na furaha. "Uso unaong aa mara nyingi huzungumza kwa habari ya kibali. Hapa inazungumzia kuhusu mtu mwenye hekima ambaye anaiona neema katika mwenendo wake, na (kama mstari unaofuata unasema) upole wa mtu humng arisha uso wake."[1] Linganisha na Hesabu 6:25.
+Mstari wa kwanza unauliza, "Ni nani aliye kama mwenye hekima?" Kohelethi alimtafuta mtu mwenye hekima, nani aliyejua tafsiri ya jambo. Kohelethi alijua kwamba hekima humfanya mtu awe na furaha. "Uso unaong aa mara nyingi huzungumza kwa habari ya kibali. Hapa inazungumzia kuhusu mtu mwenye hekima ambaye anaiona neema katika mwenendo wake, na (kama mstari unaofuata unasema) upole wa mtu humng arisha uso wake."[1] Linganisha na Hesabu 6:25.
 
-Katika mstari wa pili, Koheleti anashauri kutii amri ya mfalme. Katika Warumi 13, Paulo anatoa amri inayofanana kuheshimu serikali. Kimsingi, tunaheshimu mamlaka kama sehemu ya utii wetu kwa Mungu. "Inaatokea kwamba mtoto wa kike wa mfalme na wakuu walichukua kiapo cha uaminifu kwa wafalme. Hii inaonekana kufanywa na Daudi, 2 Samwel 5:1–3; kwa Yoashi, 2 Wafalme 11:17; na kwa Sulemani, 1 Mambo ya nyakati 29:24."[2] Tunaweza kukubaliana na ushauri wa Koheleti hapa, kutoka kwa mitazamo ya agano la kale na agano jipya. Lakini mtu lazima aseme kwamba inaonyesha kama kujisaidia mwenyewe kama Koheleti angekuwa Sulemani, ambaye alikuwa mfalme mwenyewe.
+Katika mstari wa pili, Kohelethi anashauri kutii amri ya mfalme. Katika Warumi 13, Paulo anatoa amri inayofanana kuheshimu serikali. Kimsingi, tunaheshimu mamlaka kama sehemu ya utii wetu kwa Mungu. "Inaatokea kwamba mtoto wa kike wa mfalme na wakuu walichukua kiapo cha uaminifu kwa wafalme. Hii inaonekana kufanywa na Daudi, 2 Samwel 5:1–3; kwa Yoashi, 2 Wafalme 11:17; na kwa Sulemani, 1 Mambo ya nyakati 29:24."[2] Tunaweza kukubaliana na ushauri wa Kohelethi hapa, kutoka kwa mitazamo ya agano la kale na agano jipya. Lakini mtu lazima aseme kwamba inaonyesha kama kujisaidia mwenyewe kama Kohelethi angekuwa Sulemani, ambaye alikuwa mfalme mwenyewe.
 
 Pia tunagundua kuwa mara zote tunatakiwa kumtii Mungu zaidi ya mwanadamu kama viwili vinakinzana (Matendo 4:19). "Wasafiri wengi katika Agano la Kale walishuhudia mpaka kikomo ambao uaminifu kwa Mungu lazima ujengwe katika umahiri wa ukandamizaji."[3]
 
-Kama ukosefu wa hekima ulimvunja moyo Koheleti katika Mhubiri 8:6–7, alipata kukosekana kwa uwezo wa mtu ni sura ya kifo kuwa ya kukata tama. Chini ya jua, aliona kuwa kifo hakiruhusu washindi, na hakuna kutolewa katika vita hiyo. Alijua kuwa sehemu ya taabu za mwanaume katika dunia hii ilikuwa itawaliwe na ukandamizaji mwingine.
+Kama ukosefu wa hekima ulimvunja moyo Kohelethi katika Mhubiri 8:6–7, alipata kukosekana kwa uwezo wa mtu ni sura ya kifo kuwa ya kukata tama. Chini ya jua, aliona kuwa kifo hakiruhusu washindi, na hakuna kutolewa katika vita hiyo. Alijua kuwa sehemu ya taabu za mwanaume katika dunia hii ilikuwa itawaliwe na ukandamizaji mwingine.
 
 ### Hakika ya hukumu tu (mst. 10–13)
 
-Koheleti aliona kwamba waovu hufa, na uovu waou tasahaulika mapema. Pamoja na _chini ya jua_ akifikiri, Koheleti alikata tama kuwa waovu hawaadhibiwi baada ya kifo.
+Kohelethi aliona kwamba waovu hufa, na uovu waou tasahaulika mapema. Pamoja na _chini ya jua_ akifikiri, Kohelethi alikata tama kuwa waovu hawaadhibiwi baada ya kifo.
 
-Katika mstari wa 12–13 Koheleti anasema kwamba itakuwa sawa kwa wenye haki na sio sawa kwa waovu.
+Katika mstari wa 12–13 Kohelethi anasema kwamba itakuwa sawa kwa wenye haki na sio sawa kwa waovu.
 
 ### Kutokuwa na uwezo wa hekima (mst. 14–17)
 
--------------------------------------
+---
 
 <small>
 * [1] Eaton
@@ -1681,7 +1681,7 @@ Katika mstari wa 12–13 Koheleti anasema kwamba itakuwa sawa kwa wenye haki na 
 
 ### Kukata tama kwaajili ya kifo (mst. 1–6)
 
-Haki, na hekima na kazi zao, viko katika **Mikono ya Mungu**. Koheleti anachunguza kwamba **watu wote** hufa, haijalishi wao ni nani au wamefanya nini. "Katika muonekano wote, Mungu hafurahii. Vitu vinavyojalisha kwake vinakuwa havina tofauti-au hakina ambacho mtu anaweza kuona—katika njia ya kuelekea mwisho. Maadili au isiyo na maadili, kidini au kidunia, wote tunakunja uso chini kufanana."<sup>[1]</sup>
+Haki, na hekima na kazi zao, viko katika **Mikono ya Mungu**. Kohelethi anachunguza kwamba **watu wote** hufa, haijalishi wao ni nani au wamefanya nini. "Katika muonekano wote, Mungu hafurahii. Vitu vinavyojalisha kwake vinakuwa havina tofauti-au hakina ambacho mtu anaweza kuona—katika njia ya kuelekea mwisho. Maadili au isiyo na maadili, kidini au kidunia, wote tunakunja uso chini kufanana."<sup>[1]</sup>
 
 ### Tumaini la maisha (mst. 7–10)
 
@@ -1693,9 +1693,9 @@ Hakuna kiwango cha hekima au ujuzi unaojitokeza kuepuka muda wa uovu. Mambo maba
 
 ### Hekima ni bora, lakini mara nyingi haijaliwi (mst. 13–18)
 
-Koheleti anatoa hadithi ya mtu mwenye hekima aliyeokoa jiji lake, lakini alisahaulika mapema. Anasema kwamba hekima ni bora kuliko vitu vingi, lakini siyo mara zote una faida kwasababu haisikiki.
+Kohelethi anatoa hadithi ya mtu mwenye hekima aliyeokoa jiji lake, lakini alisahaulika mapema. Anasema kwamba hekima ni bora kuliko vitu vingi, lakini siyo mara zote una faida kwasababu haisikiki.
 
--------------------------------------------------------
+---
 
 <small>
 * [1] Kidner
@@ -1726,7 +1726,7 @@ Mjinga haangalii wakati ujao, lakini mwenye hekima hutumia muda wa sasa kutengen
 
 #### Maongezi ya haraka ya mjinga (mst. 12–14)
 
-Mjinga hujulikana kwa maneno yake mengi, na kwa dhana yake kuhusu kesho wakati hakina mtu anayejua kitakachokua. Katika wakati uliopita Koheleti alisema kwa ujasiri kwamba hakuna chochote zaidi ya maisha haya, na maisha haya tuyaishiyo chini ya nguzo ya jua. Sasa anatupa mashaka dhidi ya nguzo.
+Mjinga hujulikana kwa maneno yake mengi, na kwa dhana yake kuhusu kesho wakati hakina mtu anayejua kitakachokua. Katika wakati uliopita Kohelethi alisema kwa ujasiri kwamba hakuna chochote zaidi ya maisha haya, na maisha haya tuyaishiyo chini ya nguzo ya jua. Sasa anatupa mashaka dhidi ya nguzo.
 
 #### Ujinga kazini (mst. 15)
 
@@ -1736,9 +1736,9 @@ Hawajui hata namna ya kwenda katika jiji! Mjinga hana maana ya uelekeo au lengo.
 
 #### Jinsi ujinga unavyoharibu taifa (mst. 16–20)
 
-Koheleti alielewa kuwa ardhi ilibarikiwa vitu vizuri, kiongozi mwaminifu lakini aliyelaaniwa chini ya uovu na kiongozi asiye na umahiri. Kama mhubiri 10:18 inaonyesha anguko la taifa, halafu sababu zifuatazo zinatoa sababu za anguko: viongozi wajinga, wabinafsi, na wanaojali mapenzi yao tu na mazuri yao. "Hawafanyi chochote kubadili usiku kuwa mchana, na mchana kuwa usiku; wanalala wakati wanatakiwa kuamka, na huamka wakiwa wanatakiwa kulala; wakihangaikia ufisadi na karamu, badala ya maslahi ya nchi."[3]
+Kohelethi alielewa kuwa ardhi ilibarikiwa vitu vizuri, kiongozi mwaminifu lakini aliyelaaniwa chini ya uovu na kiongozi asiye na umahiri. Kama mhubiri 10:18 inaonyesha anguko la taifa, halafu sababu zifuatazo zinatoa sababu za anguko: viongozi wajinga, wabinafsi, na wanaojali mapenzi yao tu na mazuri yao. "Hawafanyi chochote kubadili usiku kuwa mchana, na mchana kuwa usiku; wanalala wakati wanatakiwa kuamka, na huamka wakiwa wanatakiwa kulala; wakihangaikia ufisadi na karamu, badala ya maslahi ya nchi."[3]
 
----------------------------------------------
+---
 
 <small>
 * [1] Eaton
@@ -1767,4 +1767,3 @@ Ushauri ni "usihifadhi mali zako kwa uchoyo, lakini wekeza ili uweze kupata zaid
 ### Maelezo ya uzee (mst. 1–7)
 
 ### Hitimisho la jambo zima (mst. 8–14)
-

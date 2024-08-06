@@ -2,7 +2,7 @@
 
 ### Kukata tama kwaajili ya kifo (mst. 1–6)
 
-Haki, na hekima na kazi zao, viko katika **Mikono ya Mungu**. Koheleti anachunguza kwamba **watu wote** hufa, haijalishi wao ni nani au wamefanya nini. "Katika muonekano wote, Mungu hafurahii. Vitu vinavyojalisha kwake vinakuwa havina tofauti-au hakina ambacho mtu anaweza kuona—katika njia ya kuelekea mwisho. Maadili au isiyo na maadili, kidini au kidunia, wote tunakunja uso chini kufanana."<sup>[1]</sup>
+Haki, na hekima na kazi zao, viko katika **Mikono ya Mungu**. Kohelethi anachunguza kwamba **watu wote** hufa, haijalishi wao ni nani au wamefanya nini. "Katika muonekano wote, Mungu hafurahii. Vitu vinavyojalisha kwake vinakuwa havina tofauti-au hakina ambacho mtu anaweza kuona—katika njia ya kuelekea mwisho. Maadili au isiyo na maadili, kidini au kidunia, wote tunakunja uso chini kufanana."<sup>[1]</sup>
 
 ### Tumaini la maisha (mst. 7–10)
 
@@ -14,12 +14,11 @@ Hakuna kiwango cha hekima au ujuzi unaojitokeza kuepuka muda wa uovu. Mambo maba
 
 ### Hekima ni bora, lakini mara nyingi haijaliwi (mst. 13–18)
 
-Koheleti anatoa hadithi ya mtu mwenye hekima aliyeokoa jiji lake, lakini alisahaulika mapema. Anasema kwamba hekima ni bora kuliko vitu vingi, lakini siyo mara zote una faida kwasababu haisikiki.
+Kohelethi anatoa hadithi ya mtu mwenye hekima aliyeokoa jiji lake, lakini alisahaulika mapema. Anasema kwamba hekima ni bora kuliko vitu vingi, lakini siyo mara zote una faida kwasababu haisikiki.
 
--------------------------------------------------------
+---
 
 <small>
 * [1] Kidner
 * [2] Spurgeon
 </small>
-

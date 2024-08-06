@@ -6,11 +6,11 @@
 
 This is an obvious statement: dead flies spoils the perfume. Compare it with 9:18, which says "...one sinner destroyeth much good." So does a little folly to one respected for wisdom and honor.
 
-#### Folly disgraces the fool by revealing itself (v. 2–3)
+#### Folly disgraces the fool by revealing itself (v. 2–4)
 
 The right hand was regarded as the side of strength, skill, good and favor and the left hand was regarded as weak and bad. "To have one's heart at his left side is to have the 'springs of life' (Proverbs 4:23) located in the realm of practical and spiritual incompetence."[1] He shows everyone that he is a fool.
 
-#### Folly disgraces in high places (v. 4–7)
+#### Folly disgraces in high places (v. 5–7)
 
 Folly is set in great dignity. Some lowly men are unwisely exalted (servants on horses). Foolish men are promoted or accepted to positions of great leadership, while some noblemen are humbled (princes walk on the ground like servants).
 
@@ -34,11 +34,10 @@ They do not even know how to go to the city! The fool has no sense of direction 
 
 Qohelet understood that a land was blessed by good, faithful leaders, but cursed under wicked and incompetent leaders. If Ecclesiastes 10:18 symbolizes the fall of a nation, then the following reasons give the reason for the fall: leaders who are foolish, selfish, and concerned only for their own pleasure and good. "They do nothing in order; turn night into day, and day into night; sleep when they should wake, and wake when they should sleep; attending more to chamberings and banquetings, than to the concerns of the state."[3]
 
----------------------------------------------
+---
 
 <small>
 * [1] Eaton
 * [2] Wright
 * [3] Clarke
 </small>
-

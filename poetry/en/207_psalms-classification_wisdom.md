@@ -2,21 +2,13 @@
 
 ### Introduction
 
-These psalms are not directed to God, but they are instruction for those listening. They share vocabulary and ideas with the wisdom books of Job, Proverbs, and Ecclesiastes. The psalms of wisdom are 1, 14, 37, 49, 52, 53, 73, 75, 91, 112, 119, 127, 128, 133, and 139. Some consider 32, 34, 78, 90, 105, 106, and 111 to also be wisdom psalms.<sup>[1]</sup> Parts of other psalms have strong wisdom influence, such as 19:7–14, 94:8–15, and 97:10–12.<sup>[2]</sup> Some of the wisdom psalms are more like the instructions for life given in Proverbs (i.e. 1 and 112) and others are more like the questions about life that are asked in Job and Ecclesiastes (37, 49, and 73).<sup>[3]</sup> Psalms 119, 19B, and 1 are sometimes called _Torah Psalms_ because of their emphasis on the law of God.<sup>[4]</sup>
+These psalms are not directed to God, but they are instruction for those listening. They share literary structures, vocabulary, and themes with the wisdom books of Job, Proverbs, and Ecclesiastes. The psalms of wisdom are 1, 14, 37, 49, 52, 53, 73, 75, 91, 112, 119, 127, 128, 133, and 139. Some consider 32, 34, 78, 90, 105, 106, and 111 to also be wisdom psalms.<sup>[1]</sup> Parts of other psalms have strong wisdom influence, such as 19:7–14, 94:8–15, and 97:10–12.<sup>[2]</sup> Some of the wisdom psalms are more like the instructions for life given in Proverbs (i.e. 1 and 112) and others are more like the questions about life that are asked in Job and Ecclesiastes (37, 49, and 73).<sup>[3]</sup> Psalms 119, 19B, and 1 are sometimes called _Torah Psalms_ because of their emphasis on the law of God.<sup>[4]</sup>
 
-Psalms of wisdom emphasize the teaching of the wise men of Israel, meditation of the law, the way of the righteous versus the way of the wicked, and the necessity of practical righteousness. They frequently deal with topics such as the injustices of life and the justice of God, the responsibilities of choosing the correct path or manner of living, the relative value of riches, and the fact that man is only a pilgrim or traveler passing through this life. These psalms are similar to Job, Proverbs, and Ecclesiastes in terms of literary structures, vocabulary, and themes. 
+Psalms of wisdom emphasize the teaching of the wise men of Israel, meditation of the law, the way of the righteous versus the way of the wicked, and the necessity of practical righteousness. They frequently deal with topics such as the injustices of life and the justice of God, the responsibilities of choosing the correct path or manner of living, the relative value of riches, and the fact that man is only a pilgrim or traveler passing through this life.
 
 ### Literary structure of the wisdom psalms
 
-Lament, acrostic structures, numerical sayings, and parallelism are all literary structures used in the psalms of wisdom and the other biblical books of poetry. Parallelism is a major characteristic of Hebrew poetry that can be understood as a balanced repetition:
-
-> Psalm 37:2—For they shall soon be cut down like the grass,  
-> and wither as the green herb.
-
-> Psalm 139:23—Search me, O God, and know my heart:  
-> try me, and know my thoughts:
-
-Other literary characteristics that these psalms share with wisdom literature are:
+Lament, acrostic structures, numerical sayings, and parallelism are all literary structures used in the psalms of wisdom and the other biblical books of poetry. Other literary characteristics that these psalms share with wisdom literature are:
 
 1. **The better saying**: "A little that a righteous man hath Is better than the riches of many wicked." (37:16)
 2. **The blessed/happy saying**: "Blessed is every one that feareth the LORD; That walketh in his ways." (128:1)
@@ -27,7 +19,7 @@ Other literary characteristics that these psalms share with wisdom literature ar
 ### Themes in wisdom psalms
 
 Common vocabulary in these psalms express lament, thanksgiving, and praise. Also, there are words related to wisdom, justice, truth, mercy, and creation theology. There are concepts in common with other wisdom literature:
- 
+
 1. The fear of Yahweh and the love of "torah" (119)
 2. The contrast between righteous and wicked (1, 49, 73, 112, and 127)
 3. Instruction in daily living (133 and 112)
@@ -36,7 +28,7 @@ Common vocabulary in these psalms express lament, thanksgiving, and praise. Also
 6. The question of why a just God allows the innocent to suffer (49:16&ndash;19. Compare the book of Job.)
 7. The theology of creation (33:6 and 19:1–2. Compare Job 38:1, 4, Proverbs 8:22, and Ecclesiastes 12:1)
 
--------------------------------------------------
+---
 
 <small>
 * [1] Day, J. (1999). Psalms (p. 54). London; New York: T&T Clark.
@@ -45,4 +37,3 @@ Common vocabulary in these psalms express lament, thanksgiving, and praise. Also
 * [4] Day, J. (1999). Psalms (p. 56). London; New York: T&T Clark.
 * [5] Guide to Studying the Psalter, p. 173
 </small>
-

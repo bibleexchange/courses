@@ -2,7 +2,7 @@
 
 ### Ushauri kwa wazazi
 
-Mithali inawafundisha kwamba wazazi lazima wahudumie familia zao (13:22; 31:13–15). Pia inawaambia wazazi kwamba lazima wafundishe watoto wao (22:6). Kitabu cha Mithali ni mfano wa mafundisho haya. Kitabu chenyewe kimeandikwa kama baba akimuelekeza mwana.
+Mithali inawafundisha kwamba wazazi lazima wahudumie familia zao (13:22; 31:13–15). Pia inawaambia wazazi kwamba lazima wafundishe watoto wao (22:6). Kitabu cha Mithali ni mfano wa mafundisho haya. Kitabu chenyewe kimeandikwa kama baba akimuelekeza mtoto wa kiume.
 
 Tunatakiwa tuwasahihishe watoto wetu (29:15). Kama unawapenda watoto wako, utawasahihisha (13:24; 19:18; 22:15; 23:13–14; 29:17).
 
@@ -24,7 +24,7 @@ Mithali inazungumza kuhusu baraka za ndoa (18:22; 31:10) na kupata watoto (17:6)
 
 Kuna kama mistari sita katika Mithali inayoonya kuhusu kuoa au kuolewa na mtu asiye sahihi (17:1; 19:13; 21:9, 19; 25:24), lakini mara nyingi hazijasisitizwa. Badala yake tunazungumza tu juu ya jinsi "apataye mke apata kitu chema."
 
-Kwanini mistari hasi imelengwa tu kwa mwanamke mbaya? Vipi kuhusu waume wabaya? Tena, Mithali iliandikwa kufundisha wanaume. Ilikuwa inawaonya kuhusu  waoe nani. Tungeweza kudhani kwamba kama kitabu hiki kingeandikwa kwaajili ya mabinti, basi kungekuwa na maonyo mengi dhidi ya waume.
+Kwanini mistari hasi imelengwa tu kwa mwanamke mbaya? Vipi kuhusu waume wabaya? Tena, Mithali iliandikwa kufundisha wanaume. Ilikuwa inawaonya kuhusu waoe nani. Tungeweza kudhani kwamba kama kitabu hiki kingeandikwa kwaajili ya mabinti, basi kungekuwa na maonyo mengi dhidi ya waume.
 
 #### Kuwa makini na Yule unayechagua kumpa upendo wako
 
@@ -33,4 +33,3 @@ Baadhi ya watu wanaweza kuzungumza maneno ya upendo nay a kujipendekeza, lakini 
 #### Mruhusu Mungu akusaidie kumpata mwenzi
 
 Wahubiri wachache watanukuu Mithali 18:22 na kusema kwamba tunatakiwa kutia bidii na nguvu kutafuta mke, lakini tunatakiwa kukumbuka kwamba Mungu pekee ndiye atakayempa mtu mke mwema (19:14).
-

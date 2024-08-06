@@ -1,5 +1,48 @@
 ## The debate (chapters 3–37)
 
+### The structure of the debates
+
+The debates can be divided into the following outline<sup>[1]</sup>:
+
+<!-- prettier-ignore -->
+1. Dialogues (chapter 3–27)
+  1. Job’s Opening Lament (chapter 3)
+  2. Cycle 1: Consolation (chapter 4–14)
+    1. Eliphaz (chapter 4–5)
+    2. Job (chapter 6–7)
+    3. Bildad (chapter 8)
+    4. Job (chapter 9–10)
+    5. Zophar (chapter 11)
+    6. Job (chapter 12–14)
+  3. Cycle 2: The Fate of the Wicked (chapter 15–21)
+    1. Eliphaz (chapter 15)
+    2. Job (chapter 16–17)
+    3. Bildad (chapter 18)
+    4. Job (chapter 19)
+    5. Zophar (chapter 20)
+    6. Job (chapter 21)
+  4. Cycle 3: Specific Accusations (chapter 22–27)
+    1. Eliphaz (chapter 22)
+    2. Job (chapter 23–24)
+    3. Bildad (chapter 25)
+    4. Job (chapter 26–27)
+2. Interlude: Wisdom Hymn (chapter 28)
+3. Discourses (29:1–42:6)
+  1. Discourse 1: Job (chapter 29–31)
+    1. Reminiscence (chapter 29)
+    2. Affliction (chapter 30)
+    3. Oath (chapter 31)
+  2. Discourse 2: Elihu (chapter 32–37)
+    1. Introduction and Theory (chapter 32–33)
+    2. Verdict on Job (chapter 34)
+    3. Offense of Job (chapter 35)
+    4. Closing Statement of Summary (chapter 36–37)
+  3. Discourse 3: God (chapter 38:1–40:2; 40:6–41:34)
+    1. Speech 1 (chapter 38–39)
+    2. Speech 2 (40:1–2; 40:6–41:34)
+  4. Job’s Closing Statements (40:3–5; 42:1–6)
+<!-- prettier-ignore-end -->
+
 There is no way to cover the conversations chapter by chapter without losing interest due to repetition. At the same time there is no way to cover them in one section of notes. So this next section is an attempt to bring out the main themes of the conversation between Job and his friends. The dialogue is lengthy and wordy at times. This may be due to their place in history, but may also shed some light on the disposition of the speakers. Let’s try to point out some common threads that are woven throughout this section.
 
 ### Job's Friends
@@ -10,7 +53,7 @@ We can cay that Eliphaz is like a **mystic**. He gives the most weight to his li
 
 He talks about his dreams.
 
-He believes that the righteous can suffer for a short time, but it will bot be permanent.
+He believes that the righteous can suffer for a short time, but it will not be permanent.
 
 By the end of the debate, he no longer believes that Job is innocent (22:5&ndash;9).
 
@@ -51,15 +94,15 @@ Elihu only speaks one time, but he speaks for a long time. He speaks from chapte
 
 ### The big question: "Why?"
 
-The question, "Why?" is not stated plainly in any of the discussion. Job does not have the luxury of knowing that this is a competition of sorts between higher powers. He and his friends never ask the question directly, but every one of their speeches contains an effort to answer the question, "why is this happening to Job?" 
+The question, "Why?" is not stated plainly in any of the discussion. Job does not have the luxury of knowing that this is a competition of sorts between higher powers. He and his friends never ask the question directly, but every one of their speeches contains an effort to answer the question, "why is this happening to Job?"
 
 Their reasoning is centered on an idea that seems agreed upon by all parties: "God blesses righteousness and punishes sin." This assumption leads his friends to the conclusion that Job has sinned. Because of this, Job is drawn into a debate where he defends his own righteousness. This prompts his friends to say that Job is elevating himself above God and they go on and on about the righteousness of God. Job agrees, but he realizes that they are only trying to defend their first position, and therefore he again defends his position.
 
-If there is any fault in Job, it is that he is self-righteous, however do not forget that he was drawn into this position by a false assumption, three critical friends, and the worst tragedy recorded in the Bible. 
+If there is any fault in Job, it is that he is self-righteous, however do not forget that he was drawn into this position by a false assumption, three critical friends, and the worst tragedy recorded in the Bible.
 
 The original assumption was, "God blesses righteousness and punishes sin." This is called _retribution_. We all know this to be true on the surface and the Bible supports it, but there is not a one-to-one correlation. Jesus heals the lame man and says, "go and sin no more lest a worst thing come upon you" (John 5:14), and then in another case he is asked who sinned that this man was made blind and he answers, "no man but that the glory of God may be manifest" (John 9:3).
 
-What Job and his friends are not allowing for is that there is another level, which only God Himself can see and in that place man may suffer without doing wrong. So in an attempt to answer why, and armed with an incomplete doctrine of the goodness of God, Job becomes more and more frustrated and confused as the discussion goes on. This condition leads us to our next point. 
+What Job and his friends are not allowing for is that there is another level, which only God Himself can see and in that place man may suffer without doing wrong. So in an attempt to answer why, and armed with an incomplete doctrine of the goodness of God, Job becomes more and more frustrated and confused as the discussion goes on. This condition leads us to our next point.
 
 ### The mediator
 
@@ -69,3 +112,8 @@ Because Job cannot convince his friends that he is innocent, he begins to call u
 
 Though he made mistakes and was drawn into boasting and became bold enough to ask for a meeting with God, he did not sin or curse God. They did not try to misplace Job’s condition as some random act of chance as we would today. We would blame the fall, the world, sinners and so on to account for the suffering, but Job does not degrade God’s character by allowing this event to become something God did not see coming or could not stop. The event lies in the hands of God and Job is angry but does not curse Him. He is frustrated, but he does not sin. In our day, there is a lack of regard for keeping the commandments, but in the day of confusion and trouble the commandments are an anchor. They can be kept when we feel no love toward God, and in the simple act of keeping them we show that we truly love Him no matter how we feel. Jesus said, "If you love me, keep my commandments" (John 14:15).
 
+<hr />
+
+<small>
+* [1] Walton, J. H., & Vizcaino, K. L. (2012). The NIV Application Commentary: Job (T. Muck, T. Longman III, R. Hubbard, J. H. Walton, A. Dearman, S. N. Gundry, K. Covrett, & V. Verbrugge, Eds.; p. 49). Zondervan.
+</small>

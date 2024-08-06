@@ -2,19 +2,19 @@
 
 Wealth is a very important subject. It may not seem like a spiritual subject, but it can affect our lives in spiritually negative ways if we do not manage it correctly. Paul told Timothy that an unhealthy love for wealth is a source of evil (1 Tim. 6:10). Many marriage problems are because of wealth. Modern advice says not to do business with friends or family because it can cause fighting. These problems are not new, and there is some great advice in the book of Proverbs that can help shape our attitudes about wealth and how we spend it.
 
-The Proverbs talk about wealth and other kinds of wealth, such as fields, plentiful harvests, and other possessions. This is natural for an agrarian culture where some people traded goods for other goods.
+The Proverbs talk about money and other kinds of wealth, such as fields, plentiful harvests, and other possessions. This is natural for an agrarian culture where some people traded goods for other goods.
 
 ### Where does wealth come from?
 
 By reading Proverbs, we can compile a list of what brings prosperity to people:
 
-* Wisdom (8:18, 21)
-* Hard work (10:4; 12:11; 12:27)
-* God (10:22)
-* Righteousness (13:21–22, 25; 15:6)
-* Obedience (13:18)
+- Wisdom (8:18, 21)
+- Hard work (10:4; 12:11; 12:27)
+- God (10:22)
+- Righteousness (13:21–22, 25; 15:6)
+- Obedience (13:18)
 
-Reading the above verses, you might draw the conclusion that the only people that are rich are those that love God, are wise, and work hard. But then why are many rich people wicked (28:6), foolish (30:22), and lazy? 
+Reading the above verses, you might draw the conclusion that the only people that are rich are those that love God, are wise, and work hard. But then why are many rich people wicked (28:6), foolish (30:22), and lazy?
 
 #### God gives some blessings to all men
 
@@ -24,10 +24,10 @@ Both rich and poor are created by God (22:2). All people are His creation, and s
 
 We have to remember that Proverbs are not absolute promises, but principles. It's not an automatic guarantee that if you get up early every day and work hard that you will be rich, but the chances of you getting rich while lying in bed are very slim. God gives blessings to the righteous, but anyone, including a sinner, can benefit from the advice to work hard. Following are some basic principles about work that apply to everyone:
 
-* If you do not plant seeds, then you will not have a harvest (12:11; 28:19).
-* Some people only talk about what they want to do, but talk or ideas alone wont make you rich. You have to put actions to those words (14:23).
-* If you stay in bed all day, your fields won't be plowed, and neither will anyone pay you to sleep. If you want to get paid, you have to get out of bed (20:13).
-* You can start working hard on a project, but unless you continue working on it, it will not produce results (24:30–34).
+- If you do not plant seeds, then you will not have a harvest (12:11; 28:19).
+- Some people only talk about what they want to do, but talk or ideas alone wont make you rich. You have to put actions to those words (14:23).
+- If you stay in bed all day, your fields won't be plowed, and neither will anyone pay you to sleep. If you want to get paid, you have to get out of bed (20:13).
+- You can start working hard on a project, but unless you continue working on it, it will not produce results (24:30–34).
 
 #### Not all blessings are physical
 
@@ -35,12 +35,12 @@ If you are righteous, God will bless you, but it will not always be with wealth 
 
 In chapter 3, we see a description of Woman Wisdom. Verse 16 says that she holds life in her right hand and riches and honor in her left hand. In ancient Hebrew culture, the right hand was more honored than the left hand was honored (Gen. 48:14; Ecc. 10:12; Matt. 25:33)<sup>[1]</sup>. This shows us that wisdom may give riches, but riches are not as important as life is. Also, the two verses which immediately precede it (3:14–15) talk about how wisdom is better than gold and silver (see also 8:19 and 16:16). Wealth is not bad, but wisdom is better. God gave Solomon wealth, but only because he first asked for wisdom. Wisdom is not the only thing that is better than wealth. Bruce Waltke says, "Wealth is a desirable state and the reward of wisdom (see 3:9–10), not the aim of one’s life."<sup>[2]</sup> Proverbs gives many things that are better than having wealth:
 
-* The lips of knowledge (20:15)
-* A good name (22:1)
-* Being an honest person (19:22)
-* A good wife (31:10)
-* Walking in integrity (19:1)
-* Fear of God (15:16–17; 16:8; 16:19)
+- The lips of knowledge (20:15)
+- A good name (22:1)
+- Being an honest person (19:22)
+- A good wife (31:10)
+- Walking in integrity (19:1)
+- Fear of God (15:16–17; 16:8; 16:19)
 
 ### Wealth does not solve all problems
 
@@ -52,7 +52,7 @@ When you have wealth, many people will want to be your friend (14:20; 19:4; 19:7
 
 #### Wealth does not last forever
 
-Proverbs 23:4–5 says that wealth grows wings and flies away (see also 27:23–24). 
+Proverbs 23:4–5 says that wealth grows wings and flies away (see also 27:23–24).
 
 #### Wealth can bring problems to your life
 
@@ -70,7 +70,7 @@ All men are created in the image of God, and when we oppress any person, we insu
 
 #### Save for the difficult times
 
-We need to make plans about how we will spend our finances (21:5). The ant is used as an example of saving for difficult times (6:6–11). No one has to tell it what to do. It knows that winter is coming, and so it must gather food. The hard-worker does not need a leader, and in fact, he will likely become a leader (12:24). This hard work can keep you from becoming the slave of another. Jesus gave several stories of people who were given more authority because of their hard work. See also 10:5.
+We need to make plans about how we will spend our finances (21:5). The ant is used as an example of saving for difficult times (6:6–11). No one has to tell it what to do. It knows that winter is coming, and so it must gather food. The hard-worker does not need a leader, and in fact, he will likely become a leader (12:24). This hard work can keep you from becoming the slave of another. Jesus gave several stories of people who were given more authority because of their hard work (Matt. 25:14-30). See also 10:5.
 
 #### Borrowing from others makes you a slave to them (22:7; 6:1–5)
 
@@ -80,7 +80,7 @@ We need to make plans about how we will spend our finances (21:5). The ant is us
 
 #### Getting rich quickly is usually not good
 
-Working in something consistent that will bring a moderate reward is better than looking for new ways to not have to work hard (12:11). For example, there is a popular business book named _The 4-Hour Work Week_, which tells people that they can do little work and make a lot of wealth. Many times work is difficult, but trying to find an easier way may not be profitable (14:4). See also 13:11, 20:21, 21:5, and 28:20–22.
+Working in something consistent that will bring a moderate reward is better than looking for new ways to not have to work hard (12:11). Many times work is difficult, but trying to find an easier way may not be profitable (14:4). See also 13:11, 20:21, 21:5, and 28:20–22.
 
 #### Getting rich through dishonest means will fail in the end
 
@@ -93,13 +93,15 @@ In Proverbs 30:7–9 the writer asks God for two things:
 1. Do not let me be poor
 2. Do not let me be rich
 
+Wealth can be a gift from God, but it can also make us forget Him because we no longer need to ask Him for help. We should ask for God for just enough. That is why Jesus told us that when we pray, we should ask for bread for one day only (Matt. 6:11).
+
 <!--
 #### Laziness leads to poverty (6:10–11)
 
 
 You don't work, you don't eat.
 
-> It is not riches the lazy person lacks; it is food, the necessity of life (cf. 19:15; 20:13; 23:21).  
+> It is not riches the lazy person lacks; it is food, the necessity of life (cf. 19:15; 20:13; 23:21).
 > Waltke, B. K. (2004). The Book of Proverbs, Chapters 1–15 (p. 339). Grand Rapids, MI: Wm. B. Eerdmans Publishing Co.
 
 Being lazy can ruin your reputation. People will not want to work with you. (10:26)
@@ -118,7 +120,7 @@ Being lazy can ruin your reputation. People will not want to work with you. (10:
 
 *****************************************
 
-?? 28:8 
+?? 28:8
 
 *********************************************
 
@@ -138,10 +140,9 @@ Being lazy can ruin your reputation. People will not want to work with you. (10:
 
 -->
 
----------------------------------------------------------------------------------------------------
+---
 
 <small>
 * [1] Waltke, B. K. (2004). The Book of Proverbs, Chapters 1–15 (p. 258). Grand Rapids, MI: Wm. B. Eerdmans Publishing Co.
 * [2] ibid.
 </small>
-

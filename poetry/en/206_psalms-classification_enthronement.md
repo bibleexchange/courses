@@ -17,28 +17,32 @@ Psalm 97:2 says that, "righteousness and judgment are the habitation of his thro
 
 God made everything. He made the sea, land (95:5), and the heavens (96:5). He also created humans, so we must worship Him (95:6). He alone is Creator. All the other gods are just idols that have been created by man (96:5).
 
-God has power over creation:
+#### God has power over creation
 
-* The earth moves (99:1), 
-* the earth trembles (97:4), 
-* and the hills melt like wax (97:5) before the power of God. 
+- The earth moves (99:1),
+- the earth trembles (97:4),
+- and the hills melt like wax (97:5) before the power of God.
 
-All of His creation praises Him:
+If God has power over all these things, then He also has power over humanity.
 
-* The heavens rejoice (96:11), 
-* the earth is glad (96:11) and rejoices (97:1), 
-* the field is joyful (96:12), 
-* all the trees of the wood rejoice (96:12), 
-* the multitude of isles are glad (97:1), 
-* the heavens declare his righteousness (97:6), 
-* the floods clap their hands (98:8), 
-* and the hills are joyful (98:8) because of what God has done.
+#### All of His creation praises Him
+
+- The heavens rejoice (96:11),
+- the earth is glad (96:11) and rejoices (97:1),
+- the field is joyful (96:12),
+- all the trees of the wood rejoice (96:12),
+- the multitude of isles are glad (97:1),
+- the heavens declare his righteousness (97:6),
+- the floods clap their hands (98:8),
+- and the hills are joyful (98:8) because of what God has done.
 
 ### The Lord is sovereign in judgment
 
 His judgment is righteous and based on the truth (96:10, 13), which means that it is good and fair judgment. He judges all people, not just the Israelites (96:13). The purpose of His judgment is to bring equity (99:4).
 
 **Discussion:** What is equity?
+
+### The Lord is to be feared
 
 Psalm 47:2 says that God is **terrible**. (See also 45:4; 65:5; 66:3, 5; 68:35; 76:12; 99:3; 106:22.) What does it mean that God is terrible? "The terror of the Lord" speaks of the reverence or fear inspired by the thought that God is judge (2 Corinthians 5:10–11).
 
@@ -48,7 +52,7 @@ There is a forward-looking aspect in 98:9. It is looking forward in time to when
 
 <!--Encountering the Psalms p. 494 also says that 97:2–7 can be seen as futuristic, but I don't see it, yet-->
 
-----------------------------------------------------------------------
+---
 
 <small>
 * [1] Encountering the Psalms, p. 485

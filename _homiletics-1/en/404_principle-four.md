@@ -4,7 +4,7 @@ All Scripture must be taken from the author's point of view (2 Tim. 3:16). Consi
 
 ### Consider the historical setting of a passage to insure correct interpretation
 
-The context of Scripture involves the historical details influential at the time a passage was written. Paul wrote Ephesians, Philippians, Colossians, and Philemon from prison! Also, Paul was born in Tarsus the capital of Cilicia and home to one of only three great universities of the ancient world Athens andAlexandria are the other two. Paul was trained in Jerusalem under Gamaliel the great teacher of Jewish Law. Paul received the best education possible in his day. He was no uneducated fool.
+The context of Scripture involves the historical details influential at the time a passage was written. Paul wrote Ephesians, Philippians, Colossians, and Philemon from prison! Also, Paul was born in Tarsus the capital of Cilicia and home to one of only three great universities of the ancient world Athens and Alexandria are the other two. Paul was trained in Jerusalem under Gamaliel the great teacher of Jewish Law. Paul received the best education possible in his day. He was no uneducated fool.
 
 For example Daniel 5 opens with a feast of revelry and drinking. The city of Babylon had been under siege by the Medo-Persians for two years prior to the opening feast of this chapter. This tells us something of the pride and arrogance of the Babylonians who thought they were indestructible. The only way to know about such historical considerations is to study research materials such as commentaries. A word of caution not all books are historically accurate. Special caution should be used for example when reading any material produced by the Roman Catholic church since they often alter the accounts to their advantage.
 
@@ -22,5 +22,4 @@ Paul admonished the woman to keep silent in the church (I Cor. 14:3). A cultural
 
 ### What is the genre of the passage?
 
-Meaning is Genre Dependent. The consideration of the many different Biblical genre text is so important to meaning. Epistles, Gospel, Apocalyptic, Prophetic, Parabolic, Poetic, Historical cannot all be treated in an identical manner because each is governed by a different purpose.
-
+Meaning is genre dependent. The consideration of the many different biblical genre text is so important to meaning. Epistles, gospel, apocalyptic, prophetic, parabolic, poetic, and historical gernes cannot all be treated in an identical manner because each is governed by a different purpose.

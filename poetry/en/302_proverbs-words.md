@@ -37,13 +37,13 @@ There are times when we find ourselves in difficult situations, but if we use wi
 
 Our words do not only affect us, but they can help our hinder those who hear us. If we speak wisely, then we can help other people. Everyone faces discouragement at some time, and our words can add to that discouragement or they can encourage the person. A person may have "heaviness" in their heart, but a good word can lift their spirits and make the heart glad (12:25). Wisdom can help you say the right word at the right time to help someone (15:23; 25:11–12). Proverbs uses many different illustrations that show how our words can be beneficial to others:
 
-* The mouth of a righteous man is a well of life (10:11)
-* The tongue of the just is as choice silver (10:20)
-* The lips of knowledge are a precious jewel (20:15)
-* The lips of the righteous feed many (10:21)
-* The tongue of the wise is health (12:18)
-* Pleasant words are as an honeycomb (16:24)
-* A wholesome tongue is a tree of life (15:4)
+- The mouth of a righteous man is a well of life (10:11)
+- The tongue of the just is as choice silver (10:20)
+- The lips of knowledge are a precious jewel (20:15)
+- The lips of the righteous feed many (10:21)
+- The tongue of the wise is health (12:18)
+- Pleasant words are as an honeycomb (16:24)
+- A wholesome tongue is a tree of life (15:4)
 
 We need to ask ourselves if our words are matching up with the examples on this list. Are the things that I say random and useless or are they as valuable as silver? When I speak are people fed? Are my words sweet like a honeycomb or are they bitter?
 
@@ -64,7 +64,7 @@ Proverbs 14:3 (KJV 1900)
 
 #### Our words can hurt others
 
-Just as good words can help other people, bad words can hurt them. The saying "sticks and stones may break my bones, but words will never hurt me" is not true. Proverbs says that our words can be like "the piercings of a sword" (12:18), and with it we can destroy our neighbor (11:9) or even a whole city (11:11). It may seem like an exaggeration that mere words could destroy a city, but looking at history would remind us of how many tyrants were able to destroy not only cities, but whole countries through their speeches and propaganda. 
+Just as good words can help other people, bad words can hurt them. Proverbs says that our words can be like "the piercings of a sword" (12:18), and with it we can destroy our neighbor (11:9) or even a whole city (11:11). It may seem like an exaggeration that mere words could destroy a city, but looking at history would remind us of how many tyrants were able to destroy not only cities, but whole countries through their speeches and propaganda.
 
 Proverbs 16:27 says that in there is a burning fire in the lips of the ungodly man. James adds that the flame of the tongue sets "on fire the course of nature; and it is set on fire of hell" (James 3:6). Like fire, gossip and lies spread very quickly.
 
@@ -72,9 +72,9 @@ Proverbs 16:27 says that in there is a burning fire in the lips of the ungodly m
 
 #### Don't be quick to answer
 
-We need to think before we talk. Knee-jerk reactions are hardly ever profitable (15:28). There is a saying that says, "God gave you two ears and only one mouth, so you should do twice as much listening as you do talking." That is not scripture, but it is a scriptural principle that we need to listen. We should not give our opinion about something before we have a good understanding of it (18:13). We also need to be careful that we are not listening to foolish people, liars, or talebearers (14:7; 17:4; 20:19).
+We need to think before we talk. Knee-jerk reactions are hardly ever profitable (15:28). There is a saying that says, "God gave you two ears and only one mouth, so you should do twice as much listening as you do talking." That is not scripture, but it is a scriptural principle that we need to listen. We also need to be careful that we are not listening to foolish people, liars, or talebearers (14:7; 17:4; 20:19).
 
-Proverbs 18:13 says that we need to be careful to listen to someone tell us about a problem before we answer. In court, the judge listens to both sides of a problem before he makes a decision. See also 16:20, 21:23, and 29:20.
+Proverbs 18:13 says that we need to be careful to listen to someone tell us about a problem before we answer. We should not give our opinion about something before we have a good understanding of it. In court, the judge listens to both sides of a problem before he makes a decision. See also 16:20, 21:23, and 29:20.
 
 #### Talking too much is not good
 
@@ -90,7 +90,7 @@ If we know about someone's sin we should not tell everyone about it (17:9; 10:12
 
 #### Flattery is deceiving
 
-When people aren't around, we will often say bad things about them, but when we see them, we only tell them good things about themselves. Our modern culture strongly values affirmation. It says "everyone is a winner," "You are beautiful just the way you are," and "you are a strong and powerful person." We care about "likes" on social media. Encouragement is a good thing, but we need to be careful that we are giving encouragement that is true and helpful. If we tell someone that they are a good cook, but then don't like to eat their food, then we are lying. We say that we don't want to hurt their feelings, but they will not grow without constructive criticism. We need to speak the truth gently and in love (Ephesians 4:15). They may feel hurt at the moment, but later they might appreciate it (28:23).
+When people aren't around, we will often say bad things about them, but when we see them, we only tell them good things about themselves. Encouragement is a good thing, but we need to be careful that we are giving encouragement that is true and helpful. If we tell someone that they are a good cook, but then don't like to eat their food, then we are lying. We say that we don't want to hurt their feelings, but they will not grow without constructive criticism. We need to speak the truth gently and in love (Ephesians 4:15). They may feel hurt at the moment, but later they might appreciate it (28:23).
 
 Proverbs warns that a flattering mouth ruins things (**26:28**). When we flatter someone, we set them up for a fall (29:5). We think we are being nice, but really we are hurting them. Jesus warned us that it is not good when everyone speaks well of us, because many people have spoken good things about false prophets (Luke 6:26). We should be more concerned with our lives aligning with the Bible then with pleasing people so that they will like us.
 
@@ -100,7 +100,7 @@ It may seem like an obvious thing that we should always tell the truth, but Prov
 
 #### It is not only what we say, but how we say it that matters
 
-You can say the right words, but if you can say them in a mean or angry manner, then you may still get negative results. If you approach someone loud and angrily, then it is likely that they will also raise their voices and be angry, but if we approach them quietly and meekly, they are more likely to remain calm (15:1). Soft words are also powerful because they  can break down hard-set opposition (25:15). See also 16:21.
+You can say the right words, but if you can say them in a mean or angry manner, then you may still get negative results. If you approach someone loud and angrily, then it is likely that they will also raise their voices and be angry, but if we approach them quietly and meekly, they are more likely to remain calm (15:1). Soft words are also powerful because they can break down hard-set opposition (25:15). See also 16:21.
 
 #### Don't argue with fools
 
@@ -138,7 +138,7 @@ See also 19:1.
 
 Talking is one of the easiest things to do, but it is also the easiest way to sin or hurt people. That is why Proverbs gives many warnings and much advice on how we should speak.
 
->Proverbs 16:1—The preparations of the heart in man,  
+> Proverbs 16:1—The preparations of the heart in man,  
 > And the answer of the tongue, is from the LORD.
 
 See also 16:10.
@@ -203,10 +203,9 @@ Proverbs 26:23–26 (KJV 1900)
       His wickedness shall be shewed before the whole congregation.
 -->
 
-----------------------------------------------------------------------------------------------------------
+---
 
 <small>
 * [1] Proverbs: An Introduction And Commentary By Lindsay Wilson pg. 305
 * [2] Proverbs (Baker Commentary on the Old Testament Wisdom and Psalms) By Tremper Longman III pg. 474
 </small>
-

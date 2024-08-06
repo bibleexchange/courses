@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Wisdom will produce good character in us. Dave Bland, author of *Proverbs and the Formation of Character*, said that "Wisdom is not content to leave us as we are but insists that we allow ourselves to be transformed by the power of God." The goal of the wisdom books are to change who we are. We cannot expect this character to happen in isolation, but good character is produced in community. Bland also says that:
+Wisdom will produce good character in us. Character is who you are, even when no one is watching. Dave Bland, author of _Proverbs and the Formation of Character_, said that "Wisdom is not content to leave us as we are but insists that we allow ourselves to be transformed by the power of God." The goal of the wisdom books are to change who we are. We cannot expect this character to happen in isolation, but good character is produced in community. Bland also says that:
 
 > Character, that cluster of virtues that forms into habits, is a product of one’s relationship with God and with other fellow humans. In as much as this character is the natural outgrowth of wisdom, it is important to realize that wisdom, as expressed in Proverbs, is relational. In coming into relationship with God and becoming involved in the lives of others, character takes shape. Character, being shaped by these relationships, in turn rejuvenates them, continually refreshing our love for God and for others.<sup>[1]</sup>
 
@@ -16,10 +16,10 @@ The book of Proverbs is not just a list of natural and moralistic rules, but the
 
 Things that will make us steadfast:
 
-* Wisdom (4:6; 24:3)
-* Prudence (4:25–27)
-* Righteousness (10:25; 12:3)
-* Trust in God (16:3)
+- Wisdom (4:6; 24:3)
+- Prudence (4:25–27)
+- Righteousness (10:25; 12:3)
+- Trust in God (16:3)
 
 ### Diligence
 
@@ -50,7 +50,7 @@ Patience keeps you from sinning (19:2), it shows trust in God (20:22), and it ca
 
 In ancient Israeli culture, people were motivated by honor and shame. The shame of one person could shame their whole family. Proverbs says that the foolish son shames on his parents (10:5) and the foolish wife shames her husband (11:16; 12:4). A person of good character will have honor (21:21), but the person of bad character will have shame (13:5; 18:3).
 
----------------------------------------------------------------
+---
 
 <small>
 * [1] Dave Bland, *Proverbs and the Formation of Character*
@@ -73,4 +73,3 @@ In ancient Israeli culture, people were motivated by honor and shame. The shame 
 
 ### Prudence
 -->
-

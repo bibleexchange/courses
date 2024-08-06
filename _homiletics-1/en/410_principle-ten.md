@@ -1,4 +1,4 @@
-## PRINCIPLE TEN: REFERENCE MATERIALS ARE POWERFUL TOOLS, BUT THEIR USE MUST BE GOVERNED BY PRINCIPLES OF LOGIC
+## Principle ten: reference materials are powerful tools, but their use must be governed by principles of logic
 
 ### Dictionaries
 
@@ -6,7 +6,7 @@ A dictionary is a helpful tool to better understand the meaning of words.
 
 ### Concordances
 
-A concordance is valuable to find where Scriptures are located. Concordances give the original language word in the Hebrew or Greek. A concordance is a good tool to locate Scriptures on the same subject.This will give you a better understanding of the subject being studied. Remember, the Bible is in perfect harmony with itself. The use of other Scriptures will help you to gain a Biblical perspective on the passage or subject you are studying.
+A concordance is valuable to find where Scriptures are located. Concordances give the original language word in the Hebrew or Greek. A concordance is a good tool to locate Scriptures on the same subject. This will give you a better understanding of the subject being studied. Remember, the Bible is in perfect harmony with itself. The use of other Scriptures will help you to gain a Biblical perspective on the passage or subject you are studying.
 
 Always consider word meaning within the context of the Scripture. Most of the definition sections of concordances give a list of possible meanings and uses of the word. Some preachers will pick the choice that best accommodates them without regard to context. This is not good hermeneutics. Use reference materials as a source, but not as the final authority.
 
@@ -18,5 +18,4 @@ These are comments about the Bible by men. They should never be considered as in
 
 ### Computer programs
 
-These computer programs contain much reference material available at theclick of a button. You can also bring material and Scriptures into your document quickly.
-
+These computer programs contain much reference material available at the click of a button. You can also bring material and Scriptures into your document quickly.

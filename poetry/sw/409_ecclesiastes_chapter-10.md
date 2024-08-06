@@ -6,11 +6,11 @@
 
 Hii ni taarifa dhahiri: inzi waliokufa huharibu marashi. Linganisha na 9:18, inayosema "...Mkosaji mmoja huharibu mema mengi." Hivyo basi mjinga mmoja anayeheshimiwa kwaajili ya hekima na heshima.
 
-#### Ujinga humuaibisha mjinga kwa kujifunua yenyewe (mst. 2–3)
+#### Ujinga humuaibisha mjinga kwa kujifunua yenyewe (mst. 2–4)
 
 Mkono wa kulia ulihusishwa kama upande wenye nguvu, ujuzi, uzuri na kibali na mkono wa kushoto ulihusishwa kuwa mdhaifu na mbaya. "Kuwa na moyo wa mtu katika mkono wake wa kushoto ni kuwa na 'chemchemi za uzima' (Mithali 4:23) inayopatikana katika ulimwengu wa vitendo na uzembe kiroho."[1] Anamuonesha kila mtu kwamba ni mjinga.
 
-#### Ujinga wa aibu katika maeneo ya juu (mst. 4–7)
+#### Ujinga wa aibu katika maeneo ya juu (mst. 5–7)
 
 Ujinga unawekwa katika heshima kuu. Baadhi ya wanaume wanyenyekevu ni hawainuliwi (watumwa katika farasi). Wanaume wajinga wanakuzwa au kukubaliwa katika nafasi za uongozi wa juu, wakati baadhi ya wanaume wazuri wananyenyekewa (malkia hutembea katika ardhi kama mtumishi).
 
@@ -22,7 +22,7 @@ Mjinga haangalii wakati ujao, lakini mwenye hekima hutumia muda wa sasa kutengen
 
 #### Maongezi ya haraka ya mjinga (mst. 12–14)
 
-Mjinga hujulikana kwa maneno yake mengi, na kwa dhana yake kuhusu kesho wakati hakina mtu anayejua kitakachokua. Katika wakati uliopita Koheleti alisema kwa ujasiri kwamba hakuna chochote zaidi ya maisha haya, na maisha haya tuyaishiyo chini ya nguzo ya jua. Sasa anatupa mashaka dhidi ya nguzo.
+Mjinga hujulikana kwa maneno yake mengi, na kwa dhana yake kuhusu kesho wakati hakina mtu anayejua kitakachokua. Katika wakati uliopita Kohelethi alisema kwa ujasiri kwamba hakuna chochote zaidi ya maisha haya, na maisha haya tuyaishiyo chini ya nguzo ya jua. Sasa anatupa mashaka dhidi ya nguzo.
 
 #### Ujinga kazini (mst. 15)
 
@@ -32,13 +32,12 @@ Hawajui hata namna ya kwenda katika jiji! Mjinga hana maana ya uelekeo au lengo.
 
 #### Jinsi ujinga unavyoharibu taifa (mst. 16–20)
 
-Koheleti alielewa kuwa ardhi ilibarikiwa vitu vizuri, kiongozi mwaminifu lakini aliyelaaniwa chini ya uovu na kiongozi asiye na umahiri. Kama mhubiri 10:18 inaonyesha anguko la taifa, halafu sababu zifuatazo zinatoa sababu za anguko: viongozi wajinga, wabinafsi, na wanaojali mapenzi yao tu na mazuri yao. "Hawafanyi chochote kubadili usiku kuwa mchana, na mchana kuwa usiku; wanalala wakati wanatakiwa kuamka, na huamka wakiwa wanatakiwa kulala; wakihangaikia ufisadi na karamu, badala ya maslahi ya nchi."[3]
+Kohelethi alielewa kuwa ardhi ilibarikiwa vitu vizuri, kiongozi mwaminifu lakini aliyelaaniwa chini ya uovu na kiongozi asiye na umahiri. Kama mhubiri 10:18 inaonyesha anguko la taifa, halafu sababu zifuatazo zinatoa sababu za anguko: viongozi wajinga, wabinafsi, na wanaojali mapenzi yao tu na mazuri yao. "Hawafanyi chochote kubadili usiku kuwa mchana, na mchana kuwa usiku; wanalala wakati wanatakiwa kuamka, na huamka wakiwa wanatakiwa kulala; wakihangaikia ufisadi na karamu, badala ya maslahi ya nchi."[3]
 
----------------------------------------------
+---
 
 <small>
 * [1] Eaton
 * [2] Wright
 * [3] Clarke
 </small>
-

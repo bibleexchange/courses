@@ -1,4 +1,4 @@
-## KANUNI YA SITA:SIKU ZOTE LINGANISHA MAANDIKO KWA MAANDIKO
+## Kanuni ya sita: siku zote linganisha Maandiko kwa Maandiko
 
 Andiko siku zote hushikilia ufasiri wake lenyewe (II Pet. 1:20). Neno, maelezo, au wazo lazima lijifunzwe katika kitabu ambacho ndio limeandikwa, na kisha katika matumizi yake katika vifungu vingine. Endapo kifungu hakita kuwa wazi juu ya ukweli, hakuna hitimisho litakalo patikana kutokana nacho mpaka vifungu vyote vinavyo husiana vimejifunzwa. Maelezo ya mafundisho ya Kibiblia hayapaswi kufanywa kimsingi kwenye kifungu pekee, bali maelezo ya mafundisho lazima yapitie kile maandiko yote yanasema juu ya mada.
 
@@ -12,7 +12,6 @@ Kulinganisha vifungu vya maandiko katika somo hilohilo itakusaidia kufahamu vema
 
 Njia nzuri ya kufahamu maana ya neno ni kuona jinsi neno hilo limetumika katika mukitadha wa vifungu tofauti vya maandiko. Kutazama neno katika mukitadha wa vifungu mbalimbali vya maandiko itakusaidia kufahamu maana ya neno. Kwa mfano, angalia jinsi "Neno" linavyotumika katika Yohana 1:1 na 1:14 na utaelewa kwamba "Neno" ni kumhusu Yesu.
 
-**Mfano**: Waefeso 1:22–23 wanaeleza kwamba kanisa ni mwili wa Kristo; na kwa kulinganisha aya hizi na I Wakorinto 12:13, tunaelewa kwamba "mwili" ni kuhusu "kanisa" katika aya zote mbili. 
+**Mfano**: Waefeso 1:22–23 wanaeleza kwamba kanisa ni mwili wa Kristo; na kwa kulinganisha aya hizi na I Wakorinto 12:13, tunaelewa kwamba "mwili" ni kuhusu "kanisa" katika aya zote mbili.
 
 Unatakiwa kuhakikisha kuwa unalinganisha neno la lugha ileile ya asili katika msitari moja kwenda kwenye neno la lugha hiyohiyo ya asili katika msitari mwingine. Vilevile weka akilini mlinganisho wa Agano la Kale na Agano Jipya, lakini lazima ukumbuke kwamba unashughulika na lugha tofauti kwahiyo mlinganisho halisi wa neno la asili hautakuwa rahisi.
-

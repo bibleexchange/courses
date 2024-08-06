@@ -61,7 +61,7 @@ h4::before {
   content: counter(h1) '.' counter(h2) '.' counter(h3) '.' counter(h4) '. ';
 }
 h5 {
-  font-size: 1.2rem;
+  font-size: 0.8rem;
   font-weight: 300;
   counter-increment: h5;
   counter-reset: h6;

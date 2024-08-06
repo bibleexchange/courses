@@ -1,5 +1,48 @@
 ## Mjadala (Sura ya 3–37)
 
+### Muundo wa mijadala
+
+Mijadala inaweza kugawanywa katika dondoo hii<sup>[1]</sup>:
+
+<!-- prettier-ignore -->
+1. Mijadala (sura 3–27)
+  1. Ayubu’s Opening Lament (sura 3)
+  2. Mzunguko 1: Faraja (sura 4–14)
+    1. Elifazi (sura 4–5)
+    2. Ayubu (sura 6–7)
+    3. Bildadi (sura 8)
+    4. Ayubu (sura 9–10)
+    5. Sofari (sura 11)
+    6. Ayubu (sura 12–14)
+  3. Mzunguko 2: Hatima ya Waovu (sura 15–21)
+    1. Elifazi (sura 15)
+    2. Ayubu (sura 16–17)
+    3. Bildadi (sura 18)
+    4. Ayubu (sura 19)
+    5. Sofari (sura 20)
+    6. Ayubu (sura 21)
+  4. Mzunguko 3: Mashtaka Mahususi (sura 22–27)
+    1. Elifazi (sura 22)
+    2. Ayubu (sura 23–24)
+    3. Bildadi (sura 25)
+    4. Ayubu (sura 26–27)
+2. Kipindi cha katikati: Wimbo wa Hekima (sura 28)
+3. Mazungumzo (29:1–42:6)
+  1. Mazungumzo 1: Ayubu (sura 29–31)
+    1. Kukumbuka zamani (sura 29)
+    2. Mateso (sura 30)
+    3. Kiapo (sura 31)
+  2. Mazungumzo 2: Elihu (sura 32–37)
+    1. Utangulizi na Nadharia (sura 32–33)
+    2. Uamuzi kuhusu Ayubu (sura 34)
+    3. Dhambi ya Ayubu (sura 35)
+    4. Kufunga Taarifa ya Muhtasari (sura 36–37)
+  3. Mazungumzo 3: Mungu (sura 38:1–40:2; 40:6–41:34)
+    1. Hotuba 1 (sura 38–39)
+    2. Hotuba 2 (40:1–2; 40:6–41:34)
+  4. Kauli za Ayubu za kufunga (40:3–5; 42:1–6)
+<!-- prettier-ignore-end -->
+
 Hakuna njia ya kufunika maongezi ya sura kwa mlango bila kupoteza mvuto kwaajili ya marudio. Wakati huo huo hakuna njia ya kuzifunika katika sehemu ya nukuhu. Kwa hiyo sehemu hii inayofuata ni majaribio yangu ya kuleta wazo kuu la mazungumzo kati ya Ayubu na rafiki zake. Mazungumzo ni marefu na maneno mengi kwa nyakati. Hii inaweza kuwa kwasababu ya maeneo yao katika historia, lakini inaweza pia kutia mwanga katika mkoa wa mzungumzaji. Acha tujaribu kuonyesha baadhi ya nyuzi ambazo zinasukwa katika sehemu hii yote.
 
 ### Marafiki wa Ayubu
@@ -69,3 +112,8 @@ Kwasababu Ayubu hawezi kuwashawishi rafiki zake kuwa yeye ni mwenye haki, anaanz
 
 Pamoja na kuwa alifanya makosa na kufanywa fahari na kuwa shujaaa kutosha kuuliza kikao na Mungu, hakutenda dhambi au kumlaani Mungu. Hawakujaribu kupotosha hali ya Ayubu kama matendo ya hovyo ya nafasi kama ambavyo tungefanya leo. Tunaweza kulaumu anguko, dunia, wenye dhambi na mengineyo kama sababu ya mateso, lakini Ayubu haharibu sifa ya Mungu kwa kuruhusu tukio hili kuwa kitu ambacho Mungu hakuona kikija hakukizuia. Tukio linadanganya katika mikono ya Mungu na Ayubu anakasirika lakini hamlaani Mungu. Alikata tama, lakini hakutenda dhambi. Katika siku zetu, kuna uoungufu wa kujali na kuzitii amri, lakini katika siku za kuchanyanyikiwa na shida amri zinakuwa nanga. Zinaweza kuhifadhiwa tunapojiskia hakuna upendo kwa Mungu, na katika matendo mepesi ya kuzitenda tunaonyesha kweli tunampenda bila kujali tunajisikiaje. Yesu alisema, "Ukinipenda, utazishika amri zangu" (Yoh. 14:15).
 
+<hr />
+
+<small>
+* [1] Walton, J. H., & Vizcaino, K. L. (2012). The NIV Application Commentary: Job (T. Muck, T. Longman III, R. Hubbard, J. H. Walton, A. Dearman, S. N. Gundry, K. Covrett, & V. Verbrugge, Eds.; p. 49). Zondervan.
+</small>

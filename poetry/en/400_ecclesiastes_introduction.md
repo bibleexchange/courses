@@ -4,7 +4,7 @@
 
 The word in Hebrew is _Qoheleth_ and it means "one who gathers." It might mean one who gathers people together to speak to them, or it might mean one who gathers ideas together, like a philosopher.
 
-Is he Solomon? Many people think Qoheleth is Solomon because he is called the "son of David" (1:1). But the term "son of David" can be used for anyone in the lineage of David, as can be seen when Jesus is called the son of David (Matt. 1:1). 
+Is he Solomon? Many people think Qoheleth is Solomon because he is called the "son of David" (1:1). But the term "son of David" can be used for anyone in the lineage of David, as can be seen when Jesus is called the son of David (Matt. 1:1).
 
 Another reason that people believe it is Solomon is because it says that he surpassed all of the previous rulers in Jerusalem (1:16; 2:9). (Though at the time of Solomon, there had been very few rulers in Jerusalem.)
 
@@ -19,7 +19,9 @@ There are two people speaking in the book:
 
 ## The theme of the book
 
-The book of Ecclesiastes is an understanding of life as it is. The word _vanity_ is used frequently. The word could also be translated as "breath" (See 4:16). It shows that life is short, so we need to make the most of the time that we have. It is repeated many times in the book that we need to seize the day (2:24-25; 3:22; 5:18-19; 8:15; 9:7-10; 12:13).
+The book of Ecclesiastes is an understanding of life as it is. The word _vanity_ is used frequently. The word could also be translated as "breath" (See 4:16). It shows that life is short, so we need to make the most of the time that we have. This idea is not only found in Ecclesiastes, but it is found in Psalms (62:9; 103:15), Isaiah (40:6-7), James (4:14), and I Peter (1:24).
+
+It is repeated many times in the book that we need to sieze the day (2:24-25; 3:22; 5:18-19; 8:15; 9:7-10; 12:13).
 
 Many of the things that Qoheleth says are not wrong, but he is looking at things from a very natural view. It is one-sided, but not necessarily wrong.
 
@@ -29,22 +31,22 @@ In the Hebrew Bible this book is classified as one of the "Writings" and titled 
 
 It isn't completely clear what the exact translation of "ecclesiastes" should be, but it is rendered in English as "preacher" or "one who addresses an assembly."
 
-> The Hebrew word qōhelet is the Qal feminine  singular participle of the verb qāhal, meaning “to call,” “to assem-  ble.” Thus the nickname may allude to one who gathers an assembly  to address it or to one who gathers words for instruction. The femi-  nine participle is used elsewhere in the OT to refer to particular offices or occupations (Ezra 2:55; Neh. 7:57, 59).  
-> The English title derives from the Septuagint (ekklēsiastēs) via the Latin Vulgate (Liber Ecclesiastes). The Septuagint translator(s) inter-  preted qōhelet to refer to a citizen of the assembly or ekklēsia. English  translations have traditionally translated qōhelet as “Preacher” (KJV,  RSV), which goes back to Luther’s translation of qōhelet as “der  Prediger.”[3] This translation is somewhat anachronistic, with its  overtones of the NT concept of the ekklēsia as the church. Qoheleth’s  “office” is clearly identified in the epilogue (12:8–14) as that of a wise  man, but “preacher” is helpful in that it alerts us to the fact that Qoheleth was wise and taught the people knowledge (12:10).   
+> The Hebrew word qōhelet is the Qal feminine  singular participle of the verb qāhal, meaning “to call,” “to assem-  ble.” Thus the nickname may allude to one who gathers an assembly  to address it or to one who gathers words for instruction. The femi-  nine participle is used elsewhere in the OT to refer to particular offices or occupations (Ezra 2:55; Neh. 7:57, 59).
+> The English title derives from the Septuagint (ekklēsiastēs) via the Latin Vulgate (Liber Ecclesiastes). The Septuagint translator(s) inter-  preted qōhelet to refer to a citizen of the assembly or ekklēsia. English  translations have traditionally translated qōhelet as “Preacher” (KJV,  RSV), which goes back to Luther’s translation of qōhelet as “der  Prediger.”[3] This translation is somewhat anachronistic, with its  overtones of the NT concept of the ekklēsia as the church. Qoheleth’s  “office” is clearly identified in the epilogue (12:8–14) as that of a wise  man, but “preacher” is helpful in that it alerts us to the fact that Qoheleth was wise and taught the people knowledge (12:10).
 > Baker Commentary, p. 20
 
 ## What is the message? Why is this negative book in the cannon?
 
-> Abraham asserts that “to have a canon of Scripture is to have a  sophisticated means of grace which is related to formation in holy  living in a host of ways. On this . . . reading, Scripture functions to  bring one to faith, to make one wise unto salvation, to force one to  wrestle with awkward questions about violence and the poor, to com-  fort those in sorrow, and to nourish hope for the redemption of the  world.”[18] This is helpful to remember in terms of the canonicity of  Ecclesiastes. Thiselton notes, “Such texts as Job, Ecclesiastes, and  the parables do not function primarily as raw-material for Christian  doctrine. . . . Their primary function is to invite or to provoke the  reader to wrestle actively with the issues, in ways that may involve  adopting a series of comparative angles of vision.”[19] Ecclesiastes is  one of those books that force us to wrestle with very difficult ques-  tions that are pursued relentlessly. In the process it leads us back to  the starting point of faith, but this time to know it more fully. Faith,  we might remind ourselves, is a gift, but Ecclesiastes reminds us that  it is not cheap.  
+> Abraham asserts that “to have a canon of Scripture is to have a  sophisticated means of grace which is related to formation in holy  living in a host of ways. On this . . . reading, Scripture functions to  bring one to faith, to make one wise unto salvation, to force one to  wrestle with awkward questions about violence and the poor, to com-  fort those in sorrow, and to nourish hope for the redemption of the  world.”[18] This is helpful to remember in terms of the canonicity of  Ecclesiastes. Thiselton notes, “Such texts as Job, Ecclesiastes, and  the parables do not function primarily as raw-material for Christian  doctrine. . . . Their primary function is to invite or to provoke the  reader to wrestle actively with the issues, in ways that may involve  adopting a series of comparative angles of vision.”[19] Ecclesiastes is  one of those books that force us to wrestle with very difficult ques-  tions that are pursued relentlessly. In the process it leads us back to  the starting point of faith, but this time to know it more fully. Faith,  we might remind ourselves, is a gift, but Ecclesiastes reminds us that  it is not cheap.
 > Baker, p. 23
 
-> Rashbam locates the essence  of the argument of Ecclesiastes in 1:2–11. Ecclesiastes here contrasts  the transience of human life with the permanence of nature, thus  showing the latter’s advantage. None of the experiments in Eccle-  siastes is successful in dispelling this melancholy; the only adequate  response is to live in conformity to traditional values, to enjoy life  calmly while resigned to providence. Present mysteries will be recti-  fied in the future life.  
+> Rashbam locates the essence  of the argument of Ecclesiastes in 1:2–11. Ecclesiastes here contrasts  the transience of human life with the permanence of nature, thus  showing the latter’s advantage. None of the experiments in Eccle-  siastes is successful in dispelling this melancholy; the only adequate  response is to live in conformity to traditional values, to enjoy life  calmly while resigned to providence. Present mysteries will be recti-  fied in the future life.
 > Baker, p. 27
 
 > Nathan Rosenthal in his work on Ecclesiastes (1858) still main-  tains Solomonic author­ship.[45] In his view, Solomon wrote the  book to demonstrate that wisdom is only useful when combined with  the fear of God and the keeping of his commands.
 > Baker, p. 28
 
-> Contra Jerome, Luther, Melanchthon, and  Brenz insist that Ecclesiastes is fundamentally positive about civic  life even as it wrestles with the difficulties of poor leadership, a prob-  lem with which the Reformers were only too familiar. Luther read 
+> Contra Jerome, Luther, Melanchthon, and  Brenz insist that Ecclesiastes is fundamentally positive about civic  life even as it wrestles with the difficulties of poor leadership, a prob-  lem with which the Reformers were only too familiar. Luther read
 Ecclesiastes as a book about politics and the family, about human  existence in the context of creation order. He envisaged Solomon not  as a solitary but as a political figure deeply concerned about social  life. In contrast to Jerome’s allegorical and christological exegesis of  4:4–12, Luther read this text as a strong affirmation of communal and  civic life.
 > Baker, p. 38
 
@@ -60,7 +62,7 @@ Ecclesiastes as a book about politics and the family, about human  existence in 
 > The carpe diem passages in Ecclesiastes affirm feasting but within the context of a hallowing of the ordinary. They are not, in my view, a representation of despairing hedonism but a typically Israelite affirmation of created life, an affirmation of the ordinary we might say, evoking Charles Taylor’s use of the term in his Sources of the Self
 > Bartholomew, C. G. (2014). The Intertextuality of Ecclesiastes and the New Testament. In C. V. Camp, A. Mein, W. Kynes, & K. Dell (Eds.), Reading Ecclesiastes Intertextually (Vol. 587, p. 236). London; New Delhi; New York; Sydney: Bloomsbury.
 
-> Ecclesiastes, I have argued, provides an important witness to the richness of ordinary, created life.  
+> Ecclesiastes, I have argued, provides an important witness to the richness of ordinary, created life.
 > Bartholomew, C. G. (2014). The Intertextuality of Ecclesiastes and the New Testament. In C. V. Camp, A. Mein, W. Kynes, & K. Dell (Eds.), Reading Ecclesiastes Intertextually (Vol. 587, p. 236). London; New Delhi; New York; Sydney: Bloomsbury.
 
 ## Authorship
@@ -131,10 +133,10 @@ The 12 Chapters of this book contains the reflections and experiences of someone
 
 After speaking of his disillusionments, he presents a materialistic view of life where there is nothing better than the carnal enjoyment of the pleasures of life.
 
-Throughout the book the writer is struggling with this as though he would utter profound truths, he would often return to the materialistic theme. Koheleth is in conflict in his own mind throughout the book that thought he speaks great truths at time, he'll revisit the value of materialism and pleasure. He is struggling and confused himself until the final conclusion in 12:13. We live in an age of confusion. We must have our answer ready. 
+Throughout the book the writer is struggling with this as though he would utter profound truths, he would often return to the materialistic theme. Koheleth is in conflict in his own mind throughout the book that thought he speaks great truths at time, he'll revisit the value of materialism and pleasure. He is struggling and confused himself until the final conclusion in 12:13. We live in an age of confusion. We must have our answer ready.
 
-* Our witness must be consistent and clear. 
-* They are confused as they do not live for God. 
+* Our witness must be consistent and clear.
+* They are confused as they do not live for God.
 * Solomon was confused when he left off God's Word.
 * The majority of our witness will be in flashes ... Just a word here or a smile there ... Rare are occasions to admonish for hours at a time ... More often will be the stressful moments and timely questions
 * Not memorizing the answers but having an experience. (Like when taking a test in school and then the teacher randomizes or shuffles the test questions.)
@@ -144,7 +146,7 @@ The book concludes with the author apparently emerging from his doubts and reach
 
 ## Epicureanism and other philosophies in Ecclesiastes
 
-Ecclesiastes prods us to consider our presentation of the Gospel. It is common for the upright to become flabbergasted by the logical gymnastics and deceptions used to justify sin, denial of God and explain life. The contrast of light and darkness is great and our thoughts may be "that's just stupid", but our Gospel presentation must be more evangelistic than that. 
+Ecclesiastes prods us to consider our presentation of the Gospel. It is common for the upright to become flabbergasted by the logical gymnastics and deceptions used to justify sin, denial of God and explain life. The contrast of light and darkness is great and our thoughts may be "that's just stupid", but our Gospel presentation must be more evangelistic than that.
 
 Paul probably was dumbfounded internally by what he found at Athens, but his chosen action was a clear presentation of the Gospel.
 
@@ -152,7 +154,7 @@ Paul probably was dumbfounded internally by what he found at Athens, but his cho
 
 The author of Ecclesiastes does this well as he suggests to the reader, "Ok, let us consider to the end what you have concluded about life." Does life have a point? If so, what is the point? How can we make sense of being here?
 
-Ecclesiastes does not teach epicureanism or any of the several other philosophies suggested in it. Ecclesiastes is a mirror held up to humanity. This book is a self-look and inspection of the human condition and some common conclusions. Koheleth helps us consider who we are and why we are under the sun by walking down the different avenues common to man. 
+Ecclesiastes does not teach epicureanism or any of the several other philosophies suggested in it. Ecclesiastes is a mirror held up to humanity. This book is a self-look and inspection of the human condition and some common conclusions. Koheleth helps us consider who we are and why we are under the sun by walking down the different avenues common to man.
 
 One example of the philosophies considered in Ecclesiastes is epicureanism:
 
@@ -204,4 +206,3 @@ These are wise sayings that will "prod" our thinking, and exhortations that will
 * Chapter 10 (Various wise sayings and the contrast between wisdom and folly)
 * Chapter 11 (Benevolences and advice to the young.)
 * Chapter 12 (Description of old age and conclusion concerning the highest duty of man.)-->
-

@@ -10,49 +10,51 @@ Not all of the Psalms are prayers. Some of them are praise, others are for teach
 
 ### Authorship
 
-The book is inspired by God (2 Samuel 23:2; Matthew 22:43; Luke 24:44; Acts 1:16; 2 Timothy 3:16). Psalms is a composite work containing multiple authors. Some psalms name their author in the first line or title: 
+The book is inspired by God (2 Samuel 23:1-2; Matthew 22:43; Luke 24:44; Acts 1:16; 2 Timothy 3:16). Psalms is a composite work containing multiple authors. Some psalms name their author in the first line or title:
 
-* Moses wrote 1 (90).
-* David wrote 73 (1-41 and 32 others)
-* Solomon wrote 2 to 3 (72, 127)
-* Asaph wrote 3 (50, 73-83) 
-* Sons of Korah wrote 10 (42, 44-49, 84, 85, 87) ("Sons of Korah" were possibly performers rather than authors)
-* Heman the Ezrahite wrote 1 (88) 
-* Ethan the Ezrahite wrote 1 (89)
-* 61 psalms are anonymous
+- Moses wrote 1 (Ps. 90).
+- David wrote 73 (Ps.1-41 and 32 others)
+- Solomon wrote 2 to 3 (Ps.72, 127)
+- Asaph wrote 3 (Ps. 50, 73-83)
+- Sons of Korah wrote 10 (Ps. 42, 44-49, 84, 85, 87) ("Sons of Korah" were possibly performers rather than authors)
+- Heman the Ezrahite wrote 1 (Ps. 88)
+- Ethan the Ezrahite wrote 1 (Ps. 89)
+- 61 psalms are anonymous
 
 ### Psalms of David's life
 
-* Psalm 7 — Words about Cush, a Benjaminite
-* Psalm 59 — Saul sends men to watch David’s house in order to kill him (1 Sam. 19:11)
-* Psalm 34 — David delivered from danger by feigning madness in the presence of King Achish of Gath (1 Sam. 21:10–22:2)
-* Psalm 56 — The Philistines seize David in Gath (1 Sam. 21:10–15)
-* Psalm 52 — Doeg the Edomite tells Saul that David went to the house of Ahimelech (1 Sam. 22:9–19)
-* Psalm 57 — David flees from Saul into a cave (1 Sam. 22:1 or 24:3)
-* Psalm 142 — David flees from Saul into a cave (1 Sam. 22:1 or 24:3)
-* Psalm 54 — The Ziphites tell Saul that David is hiding among them (1 Sam. 23:19)
-* Psalm 60 — David’s victory over Transjordan (2 Sam. 8:1–14)
-* Psalm 51 — Nathan confronts David about his adultery with Bathsheba	(2 Samuel 11–12)
-* Psalm 3 — David flees from and battles Absalom (2 Samuel 15–17)
-* Psalm 63 — David in the desert of Judah	(2 Samuel 15–17?; 1 Sam. 23:14–15?)
-* Psalm 18 — David delivered from enemies and from Saul (2 Samuel 22)
-* Psalm 30 — Dedication of the temple	Nothing in David’s lifetime (1 Kings 8:63)
+Some of the Psalms correspond to events in the life of David. Following is a list of them:
+
+- Psalm 7 — Words about Cush, a Benjaminite
+- Psalm 59 — Saul sends men to watch David’s house in order to kill him (1 Sam. 19:11)
+- Psalm 34 — David delivered from danger by feigning madness in the presence of King Achish of Gath (1 Sam. 21:10–22:2)
+- Psalm 56 — The Philistines seize David in Gath (1 Sam. 21:10–15)
+- Psalm 52 — Doeg the Edomite tells Saul that David went to the house of Ahimelech (1 Sam. 22:9–19)
+- Psalm 57 — David flees from Saul into a cave (1 Sam. 22:1 or 24:3)
+- Psalm 142 — David flees from Saul into a cave (1 Sam. 22:1 or 24:3)
+- Psalm 54 — The Ziphites tell Saul that David is hiding among them (1 Sam. 23:19)
+- Psalm 60 — David’s victory over Transjordan (2 Sam. 8:1–14)
+- Psalm 51 — Nathan confronts David about his adultery with Bathsheba (2 Samuel 11–12)
+- Psalm 3 — David flees from and battles Absalom (2 Samuel 15–17)
+- Psalm 63 — David in the desert of Judah (2 Samuel 15–17?; 1 Sam. 23:14–15?)
+- Psalm 18 — David delivered from enemies and from Saul (2 Samuel 22)
+- Psalm 30 — Dedication of the temple Nothing in David’s lifetime (1 Kings 8:63)
 
 ### Organization
 
-Psalms is organized into five Books. The five-fold arrangement has long been recognized, but no universally accepted explanation exists. The most common explanation is the early Jewish tradition that judged the five books to be an imitation of the five books of Moses:
+Psalms is organized into five books. The five-fold arrangement has long been recognized, but no universally accepted explanation exists. The most common explanation is the early Jewish tradition that judged the five books to be an imitation of the five books of Moses:
 
-1. Book 1 (1-41) — Genesis — concerning man and his relationship with God. All blessing is bound up in obedience.
-2. Book 2 (42-72) — Exodus — concerning Israel as a nation. The counsels of God concerning Israel’s ruin, redeemer, and redemption.
-3. Book 3 (73-89) — Leviticus — concerning God’s sanctuary.
-4. Book 4 (90-106) — Numbers — concerning Israel in relation to the nations.
-5. Book 5 (107-150) — Deuteronomy — concerning God and His Word.
+1. Book 1 (Ps. 1-41) — Genesis — concerning man and his relationship with God. All blessing is bound up in obedience.
+2. Book 2 (Ps. 42-72) — Exodus — concerning Israel as a nation. The counsels of God concerning Israel’s ruin, redeemer, and redemption.
+3. Book 3 (Ps. 73-89) — Leviticus — concerning God’s sanctuary.
+4. Book 4 (Ps. 90-106) — Numbers — concerning Israel in relation to the nations.
+5. Book 5 (Ps. 107-150) — Deuteronomy — concerning God and His Word.
 
 ### Questions to ask when reading a Psalm
 
 If you ask these these questions when reading a Psalm, they can help you understand it better.
 
-1. **Who is speaking?** Is it one person speaking or a group of people? Sometimes the person speaking changes in the middle of the Psalm. Psalm 150 starts with a human praying, but in verse 5, God starts speaking.
+1. **Who is speaking?** Is it one person speaking or a group of people? Sometimes the person speaking changes in the middle of the Psalm. Psalm 50 starts with a human praying, but in verse 5, God starts speaking.
 2. **Why was this Psalm written?**
 3. **What emotions are in the Psalm?**
 4. **Of what genre is the Psalm?** As we continue, we will talk about the different kinds of Psalms.
@@ -107,38 +109,38 @@ There are 79 quotes from the Psalms in the New Testament.<sup>[1]</sup> Followin
 > The writing of the book spans about 1,200 years. In such a large collection of hymns, a widely divergent range of dates is inevitable. The oldest written was the Psalm of Moses (90) and the latest written was Psalm 126, which was written in the post-Exilic period, which was in the late sixth or early fifth century B.C. This is a period of about one thousand years (1400–400 B.C.).
 > https://www.bible-studys.org/Bible%20Books/Psalms/Book%20of%20Psalms.html
 
-* Psalms is the most quoted Old Testment book in the New Testatment. Of the 287 quotes taken from the Old Testament found in the New Testament, 116 of them are from the book of Psalms. 
+* Psalms is the most quoted Old Testment book in the New Testatment. Of the 287 quotes taken from the Old Testament found in the New Testament, 116 of them are from the book of Psalms.
 
 > Martin Luther influenced a transition from the priest-dominated worship of the Catholic Church to congregationial singing. Luther believed the congregation should take a more active role in the singing, but one obstacle to this was the complexity and difficulty of the current liturgy for the common person. He used the book of Psalms as the foundation and authority for his musical reforms, which included writing songs which were paraphases of Scripture in common language. An example can be taken from Martin Luther's "From Depths of Woe I Cry to Thee" (1483-1546, #329 In the Lutheran Hymnal) inspired by Psalm 130:
 (I can't find the source, but I'm confident that this is a quote)
 
-> From depths of woe I cry to Thee, Lord, hear me, I implore Thee.  
-> Bend down Thy gracious ear to me, My prayer let come before Thee.  
-> If Thou rememberest each misdeed, If each should have its rightful meed,  
+> From depths of woe I cry to Thee, Lord, hear me, I implore Thee.
+> Bend down Thy gracious ear to me, My prayer let come before Thee.
+> If Thou rememberest each misdeed, If each should have its rightful meed,
 > Who may abide Thy presence?
 
 ## Classification of Psalms
 
-1. **Psalms of Lament** contain a cry for deliverance or defense and questions that are addressed directly to God. 
- * They may be individual (Chapters 5-7, 13, 17, 22, 25, 26, 28, 31, 35, 36, 38, 39, 42, 43, 51, 54-57, 59, 61, 63, 64, 69-71, 86, 88, 102, 109, 120, 130, 140-143). 
+1. **Psalms of Lament** contain a cry for deliverance or defense and questions that are addressed directly to God.
+ * They may be individual (Chapters 5-7, 13, 17, 22, 25, 26, 28, 31, 35, 36, 38, 39, 42, 43, 51, 54-57, 59, 61, 63, 64, 69-71, 86, 88, 102, 109, 120, 130, 140-143).
  * Or national (Chapters 12, 44, 58, 60, 74, 77, 79, 80, 82, 83, 85, 90, 94, 106, 108, 123, 126, 137).
 
-2. **Psalms of confidence** include a lament, but the ideas of security, peace, joy, and confidence predominate. 
+2. **Psalms of confidence** include a lament, but the ideas of security, peace, joy, and confidence predominate.
  * They may be individual (Chapters 3, 4, 11, 16, 23, 27, 62, 121, 131)
  * or national (Chapters 115, 125, 129).
 
-3. **Psalms of Thanksgiving** express public thanksgiving for what God has done or in anticipation of what He will do. 
- * They may be individual (Chapters 9, 10, 30, 32, 34, 40, 41, 92, 107, 116, 138), 
+3. **Psalms of Thanksgiving** express public thanksgiving for what God has done or in anticipation of what He will do.
+ * They may be individual (Chapters 9, 10, 30, 32, 34, 40, 41, 92, 107, 116, 138),
  * or national (Chapters 65-68, 118, 124).
 
-4. **Psalms of Praise** are constructed around three key elements: 
- * a call to praise or introduction, 
- * a cause for praise (usually for God’s attributes or deeds), and 
+4. **Psalms of Praise** are constructed around three key elements:
+ * a call to praise or introduction,
+ * a cause for praise (usually for God’s attributes or deeds), and
  * a conclusion (Chapters 8, 19, 29, 33, 100, 103, 104, 111, 113, 114, 117, 134, 135, 136, 145 – 150)
 
 5. **Psalms of Enthronement** of the Divine Kingdom contain the expression “the Lord reigns” (or, in the case of Psalm 98, “the Lord, the King”), and speak of the rule of God over all the earth. They are prophetic of Christ’s kingly rule (Chapters 47, 93, 96 – 99).
 
-6. **Psalms of Zion** extol Zion, or Jerusalem, for its exalted role as the abode of God’s glory and as the religious and political capital of the nation (Chapters 15, 24, 46, 48, 50, 76, 81, 84, 87, 122). The Pilgrim Psalms (see below), are sometimes included here, but they do not really constitute a distinct literary type. 
+6. **Psalms of Zion** extol Zion, or Jerusalem, for its exalted role as the abode of God’s glory and as the religious and political capital of the nation (Chapters 15, 24, 46, 48, 50, 76, 81, 84, 87, 122). The Pilgrim Psalms (see below), are sometimes included here, but they do not really constitute a distinct literary type.
 
 7. **Psalms of Royalty** concern the reign of the king, either historical or messianic, or both (Chapters 2, 18, 20, 21, 45, 72, 89, 101, 110, 132, 144).
 
@@ -160,18 +162,18 @@ Other categories, identified strictly for content, overlap with the above. These
 
 ## Peculiar Language
 
-The psalms include unique Hebrew terms. The word _selah_, found seventy-one times, is most likely a musical notation added by worship leaders after the Israelites incorporated the psalm into public worship. Scholars do not know the meaning of _maskil_, found in thirteen psalms. 
+The psalms include unique Hebrew terms. The word _selah_, found seventy-one times, is most likely a musical notation added by worship leaders after the Israelites incorporated the psalm into public worship. Scholars do not know the meaning of _maskil_, found in thirteen psalms.
 
 > The titles before many of the psalms are probably not to be considered inspired, as they were likely added to the text after David and the original writers composed the psalms. However, in trying to understand a particular psalm, some consideration ought to be given to them. These titles are very ancient. In the Hebrew Bible, if a psalm has a title, the title is actually the first verse of the psalm. Therefore, while they may not be original to the text, they are very ancient notes.
-> http://www.shelbyvilleroad.org/informer/2017/3/14/on-the-titles-of-psalms 
+> http://www.shelbyvilleroad.org/informer/2017/3/14/on-the-titles-of-psalms
 
 > Because the titles are so old, it sometimes can be difficult to discern much from them. Sometimes the title tells us to whom the psalm is dedicated. “To the chief Musician” is a common dedication (Ps 18). Often, the author is indicated, as is the case with Psalm 90, which is “A Prayer of Moses the man of God.” Sometimes the occasion for the psalm is mentioned, as it is with Psalm 18. These notes are very helpful in interpreting the psalm. For example, David wrote, “I will call upon the LORD, who is worthy to be praised, So shall I be saved from mine enemies” (Ps 18:3). The title to the psalm tells us who the enemy was: Saul.
-> http://www.shelbyvilleroad.org/informer/2017/3/14/on-the-titles-of-psalms 
+> http://www.shelbyvilleroad.org/informer/2017/3/14/on-the-titles-of-psalms
 
 > Occasionally, a psalm appears with instructions for the song leader. These and others can refer to melodies used with the given psalm or perhaps to suggestions for liturgical use. For example, we see instructions such as:
-*  “For the director of music” (occurring in fifty-five psalms; 
+*  “For the director of music” (occurring in fifty-five psalms;
 *  “To the tune of ‘Lilies’” (similar references found in Psalms 45, 60, 69, 80)
-*  “To the tune of ‘The Doe of the Morning’ ” (Psalm 22); 
+*  “To the tune of ‘The Doe of the Morning’ ” (Psalm 22);
 *  “To the tune of ‘Do Not Destroy’ ” (Psalms 57–59, 75).
 > https://books.google.co.tz/books?id=jIhMDgAAQBAJ&pg=PT1170&lpg=PT1170&dq=Occasionally,+a+psalm+appears+with+instructions+for+the+song+leader.+These+and+others+can+refer+to+melodies+used+with+the+given+psalm+&source=bl&ots=g1WoY2bEAv&sig=ACfU3U2FuWiU_d-Xssd5SMsVF_MfTMByfw&hl=en&sa=X&ved=2ahUKEwiI95KYgIniAhXFZlAKHec4DXIQ6AEwAXoECAoQAQ#v=onepage&q=Occasionally%2C%20a%20psalm%20appears%20with%20instructions%20for%20the%20song%20leader.%20These%20and%20others%20can%20refer%20to%20melodies%20used%20with%20the%20given%20psalm&f=false
 
@@ -188,13 +190,13 @@ The psalms include unique Hebrew terms. The word _selah_, found seventy-one time
 
 > Psalm 72:20 — The prayers of David the son of Jesse are ended.
 
-Psalms were usually gathered in smaller collections occording to common themes, or words or style. From this great collection of psalms the Holy Ghost guided a subselection of 150 for Scripture. The fact the book of Psalms is collection of selections made form other collections is highlighted in Psalm 72:20. We find other psalms also written by David even after Psalm 72 (86,101,103,108). 
+Psalms were usually gathered in smaller collections occording to common themes, or words or style. From this great collection of psalms the Holy Ghost guided a subselection of 150 for Scripture. The fact the book of Psalms is collection of selections made form other collections is highlighted in Psalm 72:20. We find other psalms also written by David even after Psalm 72 (86,101,103,108).
 
-Different groups had different collections of psalms and when they were put together some duplicates were allowed to remain. There are resulting "doublet" psalms: Psalm 14 and Psalm 53; Psalm 105:1-15 and 1 Chronicles 16:8-22;  
+Different groups had different collections of psalms and when they were put together some duplicates were allowed to remain. There are resulting "doublet" psalms: Psalm 14 and Psalm 53; Psalm 105:1-15 and 1 Chronicles 16:8-22;
 
 ### Within the Book of Psalms can be Found Smaller Collections
 
-Short sets of Psalms were often used for various occasions. 
+Short sets of Psalms were often used for various occasions.
 
 Psalms 113-118 are called the  "Hallel Psalms" or "Praise Psalms" as they start with "praise the LORD" and ends with "praise the LORD". The Hallel were sung at the 3 great Jewish festivals: 1. Dedication 2. New Moon 3. Passover. The Hallel are what Jesus sang with His disciples at the Last Supper - Matthew 26:30.
 

@@ -12,19 +12,20 @@ We also recognize that we are always to obey God rather than man if the two cont
 
 If the lack of wisdom discouraged Qoholet in Ecclesiastes 8:6–7, he found the powerlessness of man in the face of death to be yet more despairing. Under the sun, he saw that death allows no winners, and there is no release from that war. He knew that part of man's misery on this earth was to be ruled by others oppressively.
 
-### The certainty of just judgment (v. 10–13)
+### The certainty of just judgment (v. 10–15)
 
 Qoholet saw that the wicked die, and their evil is soon forgotten. With his _under the sun_ thinking, Qoholet despaired that the wicked are not punished after death.
 
 In verse 12–13 Qohelet says that it will be well with the righteous and not well with the wicked.
 
-### The inability of wisdom (v. 14–17)
+### The inability of wisdom (v. 16–17)
 
--------------------------------------
+This is similar to 7:23.
+
+---
 
 <small>
 * [1] Eaton
 * [2] Clarke
 * [3] Kidner
 </small>
-

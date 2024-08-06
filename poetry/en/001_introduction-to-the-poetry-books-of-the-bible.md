@@ -1,22 +1,24 @@
 # Introduction to the Wisdom and Poetry books of the Bible
 
-The books of Wisdom and Poetry are Job, Psalms, Proverbs, Ecclesiastes, and Song of Solomon. (In this class we will not talk about Song of Solomon because of time.)
+The books of Wisdom and Poetry are Job, Psalms, Proverbs, Ecclesiastes, and Song of Solomon. (In this class we will not talk about Song of Solomon because of time.) These books are sometimes called "the writings."
+
+<!-- Explain the difference between poetry and wisdom, which books fall into which category, and how they overlap. -->
 
 ## Wisdom
 
 ### What is wisdom?
 
-Wisdom is living according to God’s order in creation.<sup>[1]</sup>
+Wisdom is living according to God’s order in creation.<sup>[1]</sup> Wisdom helps us make good choices.
 
 ### How is wisdom different than knowledge?
 
-We see the words "wisdom" and "knowledge" many times in these books. What is the difference between these two words? Knowledge is having an understanding of something, but you can know something and not do it. For example, you can learn many things about a bicycle from a book. You can see pictures of it, learn all the parts, and learn how it works. But you cannot say that you can ride a bicycle until you get on it and practice. Many people have knowledge about spiritual things, but they do not apply these things to their lives (James 1:22&ndash;24). Having only knowledge is not enough (Pro. 26:7, 9).
+We see the words "wisdom" and "knowledge" many times in these books. What is the difference between these two words? Knowledge is having an understanding of something, but you can know something and not do it. For example, you can learn many things about a bicycle from a book. You can see pictures of it, learn all the parts, and learn how it works. But you cannot say that you can ride a bicycle until you get on it and practice. Many people have knowledge about spiritual things, but they do not apply these things to their lives (James 1:22&ndash;25). Having only knowledge is not enough (Pro. 26:7, 9).
 
-Wisdom is knowledge in action. It is applying knowledge to life.
+Wisdom is knowledge in action. It is applying knowledge to life. Solomon had knowledge because he was the son of the king and would have had many teachers, but he asked God for wisdom because he felt like a child (1 Kings 3:5-10).
 
 ### There are three levels of wisdom
 
-#### Practical: How to work, use money, get married, etc. 
+#### Practical: How to work, use money, get married, etc.
 
 #### Ethical: How to be honest and live among others (Pro. 20:10; 22:28)
 
@@ -68,18 +70,18 @@ This is an exaggeration. For example, in **Psalm 12:1** the writer says that the
 
 ### Personification
 
-This is when you talk about something that is not alive as if it was alive. For example, **Psalm 98:8**, says that the water claps its hands. We know that water does not have hands, but the noise of the waves is like the clapping of hands. 
+This is when you talk about something that is not alive as if it was alive. For example, **Psalm 98:8**, says that the water claps its hands. We know that water does not have hands, but the noise of the waves is like the clapping of hands.
 
 ### Stepped structures
 
 A stepped structure is "a pattern of words or concepts in which the first and last are similar, the second and next to last are similar, and so forth, making memorization easy."<sup>[4]</sup> A stepped structure is also called a _chiasm_ or _inverted parallelism_. We will look at Psalm 1 as an example of this kind of structure:
 
 ```
-A. Ps. 1:1-2 — Talks about the prosperity of the righteous, 
+A. Ps. 1:1-2 — Talks about the prosperity of the righteous,
                in contrast with the wicked in v. 5-6.
 
   B. Ps. 1:3a — Righteous are like trees that remain strong.
-                The wicked are like chaff, a different kind 
+                The wicked are like chaff, a different kind
                 of plant that does not remain.
 
     C. Ps. 1:3b — The righteous person will prosper.
@@ -99,7 +101,7 @@ Psalms 25, 34, 37, 111, 112, 119, and 145 all use this structure. Proverbs 31:10
 
 ### Numerical sayings
 
-Numerical sayings are when a number is given, and then in the next line, the number is incremented by one. For example, in Proverbs 30:14, the leech has **two** daughters, the next line says there are **three** things that are never satisfied, and the last line says there are **four** things that do not say, "it is enough." In each line the number increases. This is done to build emphasis with each line. Other examples of this are Proverbs 6:16&ndash;19 and Psalm 62:11&ndash;12.
+Numerical sayings are when a number is given, and then in the next line, the number is incremented by one. For example, in Proverbs 30:15, the leech has **two** daughters, the next line says there are **three** things that are never satisfied, and the last line says there are **four** things that do not say, "it is enough." In each line the number increases. This is done to build emphasis with each line. Other examples of this are Proverbs 6:16&ndash;19 and Psalm 62:11&ndash;12.
 
 <hr />
 
@@ -112,7 +114,7 @@ Numerical sayings are when a number is given, and then in the next line, the num
 
 <!--
 
-We need to follow instructions, and follow them very careful. 
+We need to follow instructions, and follow them very careful.
 
 ## Definition of wisdom
 
@@ -124,4 +126,3 @@ Instruction, correction, and other related words. What do they mean?
 
 > And wisdom sayings are notorious for the use of apparently absolute assertions in order to make a general, “proverbial” point.
 > Moo, D. J. (2000). The letter of James (p. 84). Grand Rapids, MI; Leicester, England: Eerdmans; Apollos.-->
-

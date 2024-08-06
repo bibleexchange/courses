@@ -26,9 +26,11 @@ The preacher must know what he is preaching about. You must know the Word before
 
 The preacher should form a habit of daily study of the Bible. If the preacher is feeding daily on the Word of God he will have an abundant source of the Bread of Life to feed to others. The preacher must be prepared, through a study of the text to be preached, before he enters the pulpit. He should be thoroughly familiar with the portion of Scripture that is to be preached.
 
+You must study the Word of God because you must understand the text to be preached. An understanding of the text will yield authority to the preacher during the delivery of the sermon. If you are unsure of what you are saying or lack confidence in your understanding of the message, then that will weaken the presentation of the sermon. If you don’t seem sure of what you are talking about then the people will not receive the message you are trying to preach.
+
 ## He must be a man of prayer
 
->I Thessalonians 5:17—Pray without ceasing.
+> I Thessalonians 5:17—Pray without ceasing.
 
 > Ephesians 6:18—Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;
 
@@ -66,9 +68,8 @@ It is important as a preacher, you take care of yourself. You should make the at
 
 You should not bring your burdens with you to the pulpit. The people will feel if you are discouraged and burdened down.
 
-* You must learn to cast all your cares upon Jesus (I Peter 5:7)
-* Jesus is the burden bearer (Matthew 11:28)
-* Paul admonished us to let the mind of Christ be in us (Philippians 2:5)
+- You must learn to cast all your cares upon Jesus (I Peter 5:7)
+- Jesus is the burden bearer (Matthew 11:28)
+- Paul admonished us to let the mind of Christ be in us (Philippians 2:5)
 
 The preacher needs to have the mind of Christ. The mind of Christ is never discouraged, fearful or burdened down. Again, proper rest and nutrition will help you to be mentally fit for service.
-

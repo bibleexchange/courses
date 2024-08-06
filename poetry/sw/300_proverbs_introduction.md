@@ -2,9 +2,31 @@
 
 ## Utangulizi wa kitabu cha Mithali
 
-### Mithali siyo tu mkusanyiko wa misemo
+### Muundo wa kitabu cha Mithali
 
-Mithali ina sehemu kuu mbili (1–9 & 10–31), inayojumuisha mikusanyiko tofauti tofauti saba (1:1; 10:1; 22:17; 24:23; 25:1; 30:1; 31:1). Sura tisa ya mwanzo ni mashairi marefu yanayohusu masomo mengi kwa undani na sehemu iliyobakia inahusu misemo ya sentensi zinazojitegemea
+Mithali ina sehemu kuu mbili (Sura ya 1–9 na sura ya 10–31), inayojumuisha mikusanyiko tofauti tofauti saba (1:1; 10:1; 22:17; 24:23; 25:1; 30:1; 31:1). Sura tisa ya mwanzo ni mashairi marefu yanayohusu masomo mengi kwa undani na sehemu iliyobakia inahusu misemo ya sentensi zinazojitegemea
+
+#### Sehemu ya kwanza (Sura ya 1-9)
+
+Sehemu ya kwanza inaweza kugawanywa katika hotuba na mashairi kumi na saba<sup>[1]</sup>:
+
+1. Makusudio ya kitabu (1:1–7)
+2. Epuka mahusiano mabaya (1:8–19)
+3. Usipinge hekima (1:20–33)
+4. Faida za njia ya hekima (2:1–22)
+5. Mtumaini Bwana (3:1–12)
+6. Kusifu hekima (3:13–20)
+7. Uadilifu wa hekima (3:21–35)
+8. Kukumbatia hekima! (4:1–9)
+9. Kaa kwenye njia sahihi (4:10–19)
+10. Linda moyo wako (4:20–27)
+11. Epuka wanawake wasio na maadili; mpende mkeo (5:1–23)
+12. Mawaidha ya hekima: mikopo, uvivu, uongo, na mada zingine (6:1–19)
+13. Hatari ya uzinzi (6:20–35)
+14. Epuka wanawake wasio na maadili: iliendelea (7:1–27)
+15. Wasifu wa hekima (8:1–36)
+16. Uamuzi muhimu zaidi: hekima au upumbavu (9:1–6, 13–18)
+17. Maneno ya hekima mbalimbali (9:7–12)
 
 ### Mithali ni ya aina ya hekima
 
@@ -22,11 +44,11 @@ Kwanini Mithali hizi zinapingana?
 
 #### Mithali zinautofauti zaidi ya sheria
 
-Sheria siku zote ni ileile. Haibadiliki kulingana na mazingira. Mithali ni tofauti na sheria kwasababu mara nyingine ni vizuri kufuata sheria lakini wakati mwingine si vizuri kuzitii. Tunahitaji hekima kujua ni wakati gani tuitii Mithali. 
+Sheria siku zote ni ileile. Haibadiliki kulingana na mazingira. Mithali ni tofauti na sheria kwasababu mara nyingine ni vizuri kufuata sheria lakini wakati mwingine si vizuri kuzitii. Tunahitaji hekima kujua ni wakati gani tuitii Mithali.
 
 #### Mithali ni tofauti na ahadi
 
-Mithali 22:6 inasema kwamba mlee mtoto katika njia impasayo naye hataiacha hata atakapokuwa mzee. Lakini inamaanisha nini kama mtoto akiachana na kanisa? Kwanini wanawake waadilifu au watiifu wanapata waume wakatili au watoto wasiotii? (Mithali 31:28)
+Mithali 22:6 inasema kwamba mlee mtoto katika njia impasayo naye hataiacha hata atakapokuwa mzee. Lakini inamaanisha nini kama mtoto akiachana na kanisa? Kwanini wanawake waadilifu au watiifu wanapata waume wakatili au watoto wasiotii?
 
 Mithali ni mojawapo ya kanuni za kibiblia na pia ni mkusanyiko wa vitabu vya hekima. Kusoma vitabu vingine vya hekima vitatupatia picha halisi ya namna ya kutumia mithali katika maisha.
 
@@ -38,22 +60,24 @@ Kama Mithali siyo sheria wala ahadi basi ni nini?
 
 #### Mithali ni kanuni
 
-> Ahadi siku zote hutimizwa asilimia mia moja ya wakati. Kanuni zinasimamia ukweli wa kawaida.<sup>[1]</sup>
+> Ahadi siku zote hutimizwa asilimia mia moja ya wakati. Kanuni zinasimamia ukweli wa kawaida.<sup>[2]</sup>
 
 Bado tunaziheshimu kanuni hata kama hatuoni matokeo halisi tunayoyatarajia.
 
 > Katika mazingira gani basi mtu mwenye hekima nyingi kwa ujasiri kabisa anaonyesha umaarufu wa kuwa mwenye haki japokuwa walimfahamu jamaa mwenye haki aliyeteseka na jamaa dhaifu aliyefanikiwa? _Kwa mazingira ya kawaida_, Yule mwenye hekima nyingi kiusahihi kabisa aliamini kuwa tabia ya hekima na haki hufanya maisha kuwa bora na ya utajiri, japokuwa saburi _haijadhaminisha_ hilo.  
->—Raymond C. Van Leeuwan<sup>[2]</sup>
+> —Raymond C. Van Leeuwan<sup>[3]</sup>
 
 > Ni kosa ingawa, kuchukulia mithali kama dhamana. Hicho sicho kinachofanywa na mithali. Tena, ni suala la limfumo. Mithali haiku katika biashara ya kutoa ahadi. Bali inawatia watu moyo juu ya mitazamo na matendo ambayo yatawapelekea kufikia lengo lililodhamiriwa, vitu vingine vyote kuwa sawa. Inaaminiwa kwamba mtoto atakapokuwa atakuwa mwenye hekima kama wazazi watamfunza katika njia ya Mungu. Lakini mtoto huyo anaweza kukutana na mitazamo hasi kwa marafiki zake (kwa mfano ushauri uliotolewa katika mlango wa 1:8–19).  
->—Tremper Longman, III
+> —Tremper Longman, III
 
 Rafiki zake Ayubu na mwandishi wa kitabu cha Mhubiri wanaweza wakawa walikuwa na uelewa mbaya wa kuingiza kanuni katika utendaji lakini hiyo haitafanya kanuni kuwa mbaya.
 
 > Matumizi mabaya ya misemo au wazo (Ayubu 42:7; Luka 13:1–5; Yoh. 9:1–2; kulinganisha na Mith 26:7, 9) haitafanya wazo kuwa baya.  
-> —Raymond C. Van Leeuwan<sup>[3]</sup>
+> —Raymond C. Van Leeuwan<sup>[4]</sup>
 
 ##### Mithali inahitaji hekima katika matumizi bora
+
+Hebu turudi kwenye mfano wetu kutoka 26:4-5. Je, mstari mmoja unawezaje kusema tusimjibu mjinga na mstari unaofuata utuambie kwamba tunapaswa kumjibu mpumbavu? Kwa sababu wakati mwingine ni busara kujibu na wakati mwingine si busara kujibu.
 
 ###### Hekima kwa wakati sahihi
 
@@ -76,24 +100,24 @@ Tunatakiwa tusome mithali na tuelewa kwamba kuna vitu katika maisha ambayo ni vi
 Mungu atawabariki watu kwa wakati, lakini kuna Baraka zingine ambazo Mungu anazitoa zilizo bora zaidi ya utajiri. Soma Mithali 16:8 na 16:16.
 
 > Misemo hii "Afadhali-Kuliko" inaonyesha utajiri wa vitu na umasikini katika kuonyesha mkutadha bora zisizonyesha gharama halisi. Kuliweka hili sawa tunasema umasikini pamoja na haki ni bora kuliko utajiri pamoja na uovu. Mithali kwa nguvu kabisa inasisitiza kwamba haki ni muhimu kuliko utajiri na uovu husababisha utajiri usiwe na maana. Mali ambayo inaweza _kuonekana_ kama baraka ya Muumba daima sio nzuri kwa asili na kwa kawada. Hiyo itategemea kama utajiri huo umeambatana pamoja na haki, wema na hekima. Vitu vizuri lazima vitumike katika mazingira ambayo yatahusisha kimoja na kingine na kuepukana na vitu ambavyo vinakutawala na kuviharibu vile vingine vyote.  
->—Raymond C. Van Leeuwan<sup>[4]</sup>
+> —Raymond C. Van Leeuwan<sup>[5]</sup>
 
 > Jamaa mhariri/mwenye hekima aliyetunga mithali alidhamiria kwanza kufundisha hizi muhimu "sheria za maisha," kwamba msisitizo wa nguvu kuhusu madhara ya kitabia katika Mithali 1–9 na 10–15. Lazima kwanza kujifunza sheria muhimu, za ziada zinakuja baadaye.  
->—Raymond C. Van Leeuwan<sup>[5]</sup>
+> —Raymond C. Van Leeuwan<sup>[6]</sup>
 
 ##### Udhalimu/kutokutenda haki kupo katika dunia
 
-* Masikini hawana chakula kwasababu ya wezi (13:23; 30:14)
-* Watu wakali hushika mali siku zote (11:16)
-* Waovu wanatawala (29:2)
-* Wapumbavu wanaishi kwenye starehe (19:10)
-* Kupata akiba ya mali kwa ulimi wa uovu (21:6)
-* Watu kuwapuuza wale wenye uhitaji (28:8; 21:13)
+- Masikini hawana chakula kwasababu ya wezi (13:23; 30:14)
+- Watu wakali hushika mali siku zote (11:16)
+- Waovu wanatawala (29:2)
+- Wapumbavu wanaishi kwenye starehe (19:10)
+- Kupata akiba ya mali kwa ulimi wa uovu (21:6)
+- Watu kuwapuuza wale wenye uhitaji (28:8; 21:13)
 
 Chanzo cha udhalimu huu ni kwasababu tunaishi katika ulimwengu ulioangamia (tofauti na mpango wa Mungu aliokuwa nao pale Eden). Kunaweza kuwa na udhalimu sasa lakini Mungu atahukumu mwisho:
 
 > Mithali 10:30—Mwenye haki hataondolewa milele;  
->Bali wasio haki hawatakaa katika nchi.
+> Bali wasio haki hawatakaa katika nchi.
 
 Angalia pia 10:2; 11:4, 7, 18, 21, 23, 28; 12:7, 12; 15:25; 17:5; 19:17; 20:21; 21:6–7, 13; 22:8–9, 16; 24:20; 28:8, 10, 20, 22, 27.
 
@@ -118,14 +142,16 @@ Hii ni pale mstari wa pili unaporudia wazo la kwanza katika lugha tofauti kidogo
 > Mithali 18:15—Moyo wa mwenye busara hupata maarifa;  
 > Na sikio la mwenye hekima hutafuta maarifa.
 
-##### Vinyume katika usawa
+Mara nyingi utajua kwamba mstari unatumia _usawa wa kisawe_ kwa sababu sehemu ya pili itaanza na neno "na."
+
+##### Kinyume katika usawa
 
 Mstari wa pili unapinga wa kwanza kama katika:
 
 > Mithali 13:2—Mtu atakula mema kwa matunda ya kinywa chake;  
 > Bali nafsi ya mtu haini itakula jeuri.
 
-Misemo mingi katika sura wa 10–15 ni kama hii.
+Misemo mingi katika sura wa 10–15 ni kama hii. Unaweza kujua mstari unatumia _kinyume katika usawa_ kwa sababu sehemu ya pili inaanza na neno "bali."
 
 ##### Usawa katika hatua (wakati mwingine tunauita usawa wa hatua)
 
@@ -143,30 +169,30 @@ Mithali inatumia alama nyingi au mifano ya maisha halisi kuonyesha na kuelezeauk
 
 Kuna alama mbili zilizotumika kwa undani katika milango tisa ya mwanzo ambazo zote zinaonyesha hekima na upumbavu.
 
-##### Hekima ya mwanamke
+##### Hekima iliyoonyeshwa kama mwanamke
 
 Anaongea katika Mithali 1:20–33 na sura ya 8. Pia ametajwa katika 9:1–6, 11; 2:3–4; 4:7–9; 6:22; 7:4.
 
-* Anakuwa na marafiki wazuri
-  * Mwenye haki (8:6)
-  * Kweli (8:7)
-  * Mwerevu (8:12)
-  * Mwenye ufahamu (8:1–15)
-* Anakaa mbali na makundi mabaya
-  * Udanganyifu
-  * Uovu
-  * Majivuno
-  * Kiburi (8:7–8, 13)
-* Alikuwa mmojawapo wa walioumbwa kwanza (8:22–26, 8:30–31, 3:19)
-* Havumilii kukataliwa (1:24–27)
+- Anakuwa na marafiki wazuri
+  - Mwenye haki (8:6)
+  - Kweli (8:7)
+  - Mwerevu (8:12)
+  - Mwenye ufahamu (8:1–15)
+- Anakaa mbali na makundi mabaya
+  - Udanganyifu
+  - Uovu
+  - Majivuno
+  - Kiburi (8:7–8, 13)
+- Alikuwa mmojawapo wa walioumbwa kwanza (8:22–26, 8:30–31, 3:19)
+- Havumilii kukataliwa (1:24–27)
 
-##### Upumbavu wa Mwanamke
+##### Upumbavu ulioonyeshwa kama mwanamke
 
 Ametajwa katika sura ya 9:13–18. Anafanana na mwanamke asiyejulikana (5:8 na 7:22 ni kama 9:13–18. Na 2:18–19, 5:5, na 7:27 ni kama 9:18). Wanawake wote huanzia na kuwaita kutampa urahisi (9:4, 16). Wote wanatamani mahusiano (njoo kwangu uwe namimi). Wote wameandaa chakula (9:1–2, 17).
 
-###### Njia ya uzima
+##### Njia ya uzima
 
-Kuna njia nzuri na njia mbaya. Kuna mitego na hatari njiani.
+Kuna njia nzuri na njia mbaya. Kuna mitego na hatari njiani. Sura ya 4:10–19 ni hotuba kuhusu njia ya uzima. Angalia pia 10:17, 12:28, na 15:24.
 
 ### Mithali iliandikwa kama ushauri kutoka kwa baba kwa wanae
 
@@ -174,13 +200,12 @@ Maandishi ya ushauri kutoka kwa baba kwa mwana ilikuwa kawaida katika maeneo ya 
 
 Upande unaosoma mithali na maonyo yake kuhusu mwanamke "mwovu," wanawake wanaweza kutoa mawazo yao kwamba wanawake wana masuala ya hovyo au fujo fujo, lakini tukikumbuka kwamba iliandikwa kwa kijana mdogo basi itaeleweka kwanini maonyo yako kinyume na watu wa jinsia nyingine. Tungeweza kufikiri kwamba iliandikwa na mwanamke kwa mtoto wake wa kike kwamba kungekuwa na maonyo mengi ya mwanaume "mwovu."
 
----------------------------------------------------------
+---
 
 <small>
-* [1] https://www.thegospelcoalition.org/article/which-promises-are-for-me/
-* [2] Raymond C. Van Leeuwan, WEALTH AND POVERTY: SYSTEM AND CONTRADICTION IN PROVERBS, Hebrew Studies vol. 33, pg. 32
-* [3] Van Leeuwan, Hebrew Studies 33 pg. 29
-* [4] Van Leeuwan, Hebrew Studies 33 pg. 31
-* [5] Van Leeuwan, Hebrew Studies 33 pg. 32
+* [2] https://www.thegospelcoalition.org/article/which-promises-are-for-me/
+* [3] Raymond C. Van Leeuwan, WEALTH AND POVERTY: SYSTEM AND CONTRADICTION IN PROVERBS, Hebrew Studies vol. 33, pg. 32
+* [4] Van Leeuwan, Hebrew Studies 33 pg. 29
+* [5] Van Leeuwan, Hebrew Studies 33 pg. 31
+* [6] Van Leeuwan, Hebrew Studies 33 pg. 32
 </small>
-
