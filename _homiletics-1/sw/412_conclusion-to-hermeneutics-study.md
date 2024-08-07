@@ -1,6 +1,6 @@
-# Hitimisho kwenye vizibuo
+## Hitimisho kwenye vizibuo
 
-## Mhubiri anapaswa kuandika kwa kifupi kitu alichojifunza
+Mhubiri anapaswa kuandika kwa kifupi kitu alichojifunza.
 
 ### Andika maana ya maneno mapya au yasiozoeleka
 

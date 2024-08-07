@@ -1,19 +1,3 @@
-First Year
-
-TEXTBOOK
-
-# Homiletics 1
-
-## The Preacher & Sermon Preparation
-
-DELIVERANCE BIBLE INSTITUTE of MOSHI
-
-Moshi, Kilimanjaro, Tanzania
-
-DELIVERANCE BIBLE INSTITUTE
-
-Portland, Maine, USA
-
 # Introduction: What is preaching?
 
 Homiletics is the art or science of religious discourse or preaching. A homily is a sermon and the power of a sermon rests in its preparation. In the Bible, we find the pattern for Christian preaching. Following is a list of some of what we know about preaching:
@@ -21,11 +5,11 @@ Homiletics is the art or science of religious discourse or preaching. A homily i
 1.  Teaching and preaching are distinct but go hand in hand (Matt. 11:1)
 2.  John the Baptist preached the baptism of repentance for the remission of sins (Mark 1:4)
 3.  A major reason Christ came was to preach (Mark 1:38)
-4.  The Gospel must be preached EVERYWHERE to EVERYONE without exception (Mr 16:15; Rom. 1:15; 2 Cor. 10:16; Gal. 1:16; Rev. 14:6; Matt. 10:7)
-5.  Christ must be preached (Acts 17:3; I Cor. 1:23; 2 Cor. 4:5; Phil. 1:15,16)
-6. The preacher's duty and burden is to preach (I Cor. 9:16; Eph. 3:8)
-7. The Gospel is to be free (I Cor. 9:18)
-8. The preacher preaches and leaves the results and glory to God (I Cor. 15:11)
+4.  The Gospel must be preached **everywhere** to **everyone** without exception (**Mr 16:15**; Rom. 1:15; 2 Cor. 10:16; Gal. 1:16; Rev. 14:6; Matt. 10:7)
+5.  Christ must be preached (Acts 17:3; I Cor. 1:23; **2 Cor. 4:5**; Phil. 1:15,16)
+6.  The preacher's duty and burden is to preach (I Cor. 9:16; Eph. 3:8)
+7.  The Gospel is to be free (I Cor. 9:18)
+8.  The preacher preaches and leaves the results and glory to God (I Cor. 15:11)
 
 **Preaching is the spoken communication of Divine truth with a view to persuasion**. This definition covers three aspects of preaching:
 
@@ -35,51 +19,47 @@ Homiletics is the art or science of religious discourse or preaching. A homily i
 
 ## The Matter of Preaching
 
-Preaching is the communication of truth (Gal. 1:8–9). This tells us what we should preach. Divine truth should be the subject matter of the sermon. In the key verse of this class (II Timothy 4:2), Paul told Timothy to preach the Word. The preacher is called to proclaim the Word of God. The Word of God is the final authority. The preacher must settle every question with The Word of God; he must rest in the absolute authority of Scripture. Preaching then by definition should be limited to:
+Preaching is the communication of truth (Gal. 1:8–9). This tells us **what** we should preach. Divine truth should be the subject matter of the sermon. In the key verse of this class (II Tim. 4:2), Paul told Timothy to preach the Word. The preacher is called to proclaim the Word of God. The Word of God is the final authority. The preacher must settle every question with The Word of God; he must rest in the absolute authority of Scripture. Preaching then by definition should be limited to:
 
-1. THE PROCLAMATION AND ENFORCEMENT OF THE WORD OF GOD
-2. THE DELIVERY OF A MESSAGE FROM GOD TO MAN
-3. PREACHING CONCERNS ITSELF WITH GODLY SUBJECTS. The way of salvation is the most important subject a preacher will preach. Man needs a relationship with God and not merely a philosophical or even religious influence. The preacher will also instruct the congregation in Christian duty. The preacher is called to preach the Gospel of Christ, and not to lecture on literature or unbiblical subjects.
-4. THE SERMON MUST BE FOUNDED ON SCRIPTURE. When a preacher speaks as a herald, he must cry out THE WORD. Anything less cannot legitimately pass for Christian preaching.
+1. The proclamation and enforcement of the Word of God
+2. The delivery of a message from God to man
+3. Preaching concerns itself with godly subjects. The way of salvation is the most important subject a preacher will preach. Man needs a relationship with God and not merely a philosophical or even religious influence. The preacher will also instruct the congregation in Christian duty. The preacher is called to preach the Gospel of Christ, and not to lecture on literature or unbiblical subjects.
+4. The sermon must be founded on Scripture. When a preacher speaks as a herald, he must cry out the Word. Anything less cannot legitimately pass for Christian preaching.
 
 ### The extent of Christian preaching
 
-* BE CAREFUL—Do not attempt to preach too much at one time
-* BE CLEAR—You need to keep the sermon to one main thought
-* BE CONSERVATIVE—You should leave something for the next time. A sermon does not have to be eternal to be divine!
+- **Be careful**. Do not attempt to preach too much at one time
+- **Be clear**. You need to keep the sermon to one main thought
+- **Be conservative**. You should leave something for the next time. A sermon does not have to be eternal to be divine!
 
 ### The authority of Christian preaching
 
 You are delivering God’s Word and not some newspaper article. Preach out of the conviction resulting from the divine testimony of Scripture. The absolute belief in the inspiration of the Bible is necessary for strong conviction for its truths. We preach what we preach because it is right and we know it is right because God said it! If the foundation of your sermon is the Almanac or Encyclopedia, your message no matter how logical will lack authority. The Divine inspiration of the Bible is what gives Christian preaching its authority.
 
-The authority of the preacher is found in the authority of the Word of God. The preacher must understand the Bible is not the words of men, but is the inspired Word of God. The word inspired means God breathed. God inspired the writers of the Bible; that is, God breathed through them the Word of life. The Bible does not only contain the Word of God, but it is the Word of God.
+The authority of the preacher is found in the authority of the Word of God. The preacher must understand the Bible is not the words of men, but is the inspired Word of God. The word _inspired_ means "God breathed." God inspired the writers of the Bible; that is, God breathed through them the Word of life. The Bible does not only contain the Word of God, but it is the Word of God.
 
 God's Word has the power to change men's lives and the preached Word is needed to produce that change (Rom. 1:16). Man's ideas will not change lives. The preacher must use the Word of God as the foundation of his sermon. There is life in the Word.
 
-### KNOW THE WORD!
-
-You must study the Word of God because you must understand the text to be preached (2 Tim. 2:15). An understanding of the text will yield authority to the preacher during the delivery of the sermon. If you are unsure of what you are saying or lack confidence in your understanding of the message, then that will weaken the presentation of the sermon. If you don’t seem sure of what you are talking about then the people will not receive the message you are trying to preach.
-
-## The Manner of Preaching
+## The manner of preaching
 
 The manner of preaching is “spoken communication.” The manner of preaching tells us how to preach. Communication involves relating a concept to the people. The concept must be understood by the people for communication to take place. The most practical requirements for communication are proper diction and plain speech. The preacher must speak in such a way that the people understand. Let us look at Nehemiah’s example in Nehemiah 8:8: "So they read in the book in the law of God distinctly, and gave the sense, and caused them to understand the reading." God’s word was read distinctly or clearly, they explained the Word to the people or gave the sense and the people were taught the Word, so that they understood it.
 
-> A preacher ought to so preach, that when the sermon is ended, the congregation shall disperse saying, 'The preacher said this...' 
+> A preacher ought to so preach, that when the sermon is ended, the congregation shall disperse saying, 'The preacher said this...'
 > —Martin Luther.
 
 A powerful and effective delivery requires:
 
-* the unction of the Holy Ghost (I John 2:20)
-* clear, common speech (Effective preachers like D.L. Moody spoke in the language of the common man.)
-* and passion (Say what you mean, and mean what you say.)
+- the unction of the Holy Ghost (I John 2:20)
+- clear, common speech (Effective preachers like D.L. Moody spoke in the language of the common man.)
+- and passion (Say what you mean, and mean what you say.)
 
 Persuasion is possible through a powerful delivery. Ultimately, the power of a preacher is the result of the unction of the Holy Ghost. The unction of the Holy Ghost will enable the preacher to preach with passion. Preach as if you were defying the entire host of hell as a David crying on that rock, “Is there not a cause!” The preacher must be convinced of the rightness and power of his message if he is to be effective. Follow the leading of the Holy Ghost because he will guide you right and respond to His unction because in that yielding the power of the almighty God can be manifested.
 
 ### The congregation needs to be kept in view throughout the entire sermon process
 
-#### Keep the congregation in view during the preparation of the sermon 
+#### Keep the congregation in view during the preparation of the sermon
 
-Pray for and consider the kind of people to whom you are preaching. Effective preaching requires great flexibility and discernment on behalf of the preacher. Certain approaches are guaranteed to only “shut off” certain kinds of people. Allow the Holy Ghost to lead you in your sermon preparation so that those who hear sense the Divine influence and appointment of the sermon. God knows who will be there and in what frame of mind they will be in, but also there are things we can learn about each different preaching scenario. Whether speaking at a young people’s service, Sunday School class, to a mature congregation, on a Street corner, or in a tent crusade the setting and its congregation must be kept in view. In one sense, the preacher is a student of humanity. “Sir, it is not books, it is men that we must study”—Patrick Henry
+Pray for and consider the kind of people to whom you are preaching. Effective preaching requires great flexibility and discernment on behalf of the preacher. Certain approaches are guaranteed to only “shut off” certain kinds of people. Allow the Holy Ghost to lead you in your sermon preparation so that those who hear sense the Divine influence and appointment of the sermon. God knows who will be there and in what frame of mind they will be in, but also there are things we can learn about each different preaching scenario. Whether speaking at a young people’s service, Sunday School class, to a mature congregation, on a Street corner, or in a tent crusade the setting and its congregation must be kept in view. In one sense, the preacher is a student of humanity.
 
 #### Keep the congregation in view during the presentation of the sermon
 
@@ -99,25 +79,25 @@ Organization and proper outlining will ensure that the hearers will be able to f
 
 Compare Scripture with Scripture and interpret each text within its context. God’s Word is the final authority and standard for all principles of life. Clearly and sensibly communicate. You need to make sense because the people need to be able to follow you while you are preaching. Present truth in a simple logical order. Share truth step by step and progressively build as the sermon continues.
 
-## The Mission of Preaching
+## The Mission of preaching
 
 The mission tells us why we preach. The sermon is framed with a view to persuasion. To truly preach is not just to talk about the Bible, but to produce a decision in the hearts of men. The goal of preaching is edification and changed lives (Col. 1:28; Luke 4:18; 9:60; Ac 5:42; 10:42; 14:15; 15:21; Romans 15:20). The aims which the preacher sets before him are:
 
-### The Salvation of Souls
+### The salvation of souls
 
 The salvation of souls is one of the main aims of preaching. Preaching is the method God has chosen to reach the souls of men. God chose to use man to reach man with the Gospel. Sinners will not come to God by the wisdom of man, but by the preaching of the Gospel. God chose the foolishness of preaching to save the lost (I Cor. 1:21).
 
-### Spiritual Growth
+### Spiritual growth
 
 God has given ministers to the church for the express purpose of the perfecting of the saints (Eph. 4:11–14). The preacher is responsible to feed the sheep with the Word of God (Jn. 21:15–17).
 
-### Produce Faith
+### Produce faith
 
 By the preaching of the Word of God, seeds of faith can be sown in the hearts of people for healing and other needs (Rom. 10:17). God requires faith (Hebrews 11:6) to be exercised by every individual and the preacher’s mission is to cause the people to believe God’s Word.
 
-### Instruct the Church 
+### Instruct the church
 
-### Encourage Believers
+### Encourage believers
 
 A faithful minister of the Gospel carries a burden that all who have heard may be encouraged and helped. While he is preaching, the preacher is reaching down by the help of the Holy Ghost to the lowest places that by any means someone would be helped up and out of their horrible pit.
 
@@ -125,7 +105,7 @@ You should be positive and encouraging in the pulpit. Even reproof can be preach
 
 > Hebrews 4:12—For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.
 
-### Bring the Congregation to a Decision
+### Bring the congregation to a decision
 
 Never be content as a preacher to have been "inspiring" only. Unless the hearers are brought to a point of decision, they will leave the same way they came. The preacher is not responsible to and cannot force people to obey, but he can straightway lead the people in his preaching to the water and boldly declare with the authority of the Holy Ghost, “Drink! This is what you need! Come to Christ!” The preacher must work towards the "altar call" as he preaches because that is where each person will be brought to a point of decision where they must accept or reject the message.
 
@@ -157,9 +137,11 @@ The preacher must know what he is preaching about. You must know the Word before
 
 The preacher should form a habit of daily study of the Bible. If the preacher is feeding daily on the Word of God he will have an abundant source of the Bread of Life to feed to others. The preacher must be prepared, through a study of the text to be preached, before he enters the pulpit. He should be thoroughly familiar with the portion of Scripture that is to be preached.
 
+You must study the Word of God because you must understand the text to be preached. An understanding of the text will yield authority to the preacher during the delivery of the sermon. If you are unsure of what you are saying or lack confidence in your understanding of the message, then that will weaken the presentation of the sermon. If you don’t seem sure of what you are talking about then the people will not receive the message you are trying to preach.
+
 ## He must be a man of prayer
 
->I Thessalonians 5:17—Pray without ceasing.
+> I Thessalonians 5:17—Pray without ceasing.
 
 > Ephesians 6:18—Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;
 
@@ -197,15 +179,15 @@ It is important as a preacher, you take care of yourself. You should make the at
 
 You should not bring your burdens with you to the pulpit. The people will feel if you are discouraged and burdened down.
 
-* You must learn to cast all your cares upon Jesus (I Peter 5:7)
-* Jesus is the burden bearer (Matthew 11:28)
-* Paul admonished us to let the mind of Christ be in us (Philippians 2:5)
+- You must learn to cast all your cares upon Jesus (I Peter 5:7)
+- Jesus is the burden bearer (Matthew 11:28)
+- Paul admonished us to let the mind of Christ be in us (Philippians 2:5)
 
 The preacher needs to have the mind of Christ. The mind of Christ is never discouraged, fearful or burdened down. Again, proper rest and nutrition will help you to be mentally fit for service.
 
 # The importance of Holy Ghost empowered preaching
 
-Where and what we preached must be inspired by the Holy Ghost (Acts 16:6,10; I Cor. 1:17; 2Co 2:12; Gal. 2:2; Jonah 3:2; Isa. 61:1).
+Where and what we preached must be inspired by the Holy Ghost (Acts 16:6,10; I Cor. 1:17; II Cor. 2:12; Gal. 2:2; Jonah 3:2; Isa. 61:1).
 
 ## The preacher must be endued with the power of the Holy Ghost
 
@@ -213,33 +195,11 @@ The preacher needs the infilling of the Holy Ghost to preach with power. The pre
 
 The early church disciples were told by Jesus to wait in the city of Jerusalem until they were empowered by the Holy Ghost (Acts 1:8; Luke 24:49). After Jesus shed His blood on the cross to purchase salvation for man, He ascended to heaven and left the task of spreading the Gospel in the hands of man. Jesus knew man could not preach the Gospel and reach the lost souls of men without the power of the Holy Ghost. He told his disciples the Holy Ghost would give them power to spread the Gospel to the entire world. The preacher needs to be empowered by the Holy Ghost to preach the Gospel. There is no life or power in the words of the preacher without the anointing of the Holy Ghost.
 
-### The preacher is a flicker of what he could be without the anointing of the Holy Ghost
-
-A preacher without the anointing is next to worthless. There are too many dead and dry preachers accomplishing little or nothing because they are not anointed by the Holy Ghost. Worse than “accomplishing little” are the many tares that have been sown in people’s lives by carnal preachers guided by their own interests. The preacher needs to be filled and led by the Holy Ghost.
-
-### There is no substitute for the power of God in the preacher’s life
-
-> II Corinthians 3:6—Who also hath made us able ministers of the new testament; not of the letter, but of the spirit: for the letter killeth, but the spirit giveth life.
-
-Study and preparation without the anointing of the Holy Ghost will not complete the ministry of the preacher in the pulpit. The word _letter_ in this Scripture refers to the letter of the law without the Spirit of God. The Word alone without the Holy Spirit will not produce life. The goal of this class is to show the importance of study and preparation combined with the anointing of the Holy Ghost.
-
 ### Man does not have the ability in himself to preach the Gospel
 
+God gives the ability to preach to those he calls to be preachers of the Gospel. Natural ability alone is not enough to reach the hearts of men. Speaking skills and flowering words will not produce life. The preacher must have the anointing of God to proclaim the Word of God.
+
 > I Peter 4:11—If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God giveth: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen.
-
-#### God intended for the Gospel to be preached with power
-
-> I John 2:20—But ye have an unction from the Holy One, and ye know all things.
-
-The word unction in this verse refers to the anointing of God. The word means that with which the anointing is performed. The rivers of life that flow from the preacher to reach out to the needs of men. The word unction literally means to smear in the original Greek language; it refers to the saturating presence of God that helps a man preach with power and authority.
-
-#### God gives the ability to preach to those he calls to be preachers of the Gospel
-
-Natural ability alone is not enough to reach the hearts of men. Speaking skills and flowering words will not produce life. The preacher must have the anointing of God to proclaim the Word of God.
-
-### Paul the Apostle was empowered by the Holy Ghost
-
-Paul preached with the power of God (I Cor. 2:4–5). The Word tells us there was a demonstration of that power. A demonstration is something that is seen. The world needs to see a demonstration of the power of God. Paul did not rely on the wisdom of man to preach the Gospel. Paul was an educated man. He had been a Pharisee and was taught the Law of Moses by Gamaliel a doctor of the law (Acts 5:34; 22:3). Yet, even Paul with all of his training needed the power of the Holy Ghost to preach the Gospel.
 
 ## What is meant by the term: the Anointing of the Holy Ghost?
 
@@ -249,7 +209,7 @@ Throughout the Word of God oil is a symbol of the Holy Ghost. The anointing oil 
 
 ### This term refers to the power of the Holy Ghost coming upon and flowing through a man
 
-Jesus said the Holy Ghost would flow from within a man like rivers of living water (John 7:38–39). In the New Testament the anointing is used in relation to the preaching of the Gospel. The anointing is the power of God to enable a man to preach with power and authority.
+In the New Testament the anointing is used in relation to the preaching of the Gospel. The anointing is the power of God to enable a man to preach with power and authority.
 
 #### The Old Testament kings were anointed with oil
 
@@ -257,7 +217,7 @@ The kings were anointed with oil by the prophets of God. This was a sign that th
 
 #### The Old Testament prophets were anointed with oil
 
-In I Kings 19:16 Elijah is instructed by God to anoint Jehu to be king and to anoint Elisha to be his replacement as prophet. The anointing oil was poured upon the prophets as a sign of the Holy Ghost being poured out upon their lives. The prophets spoke as the very mouthpiece of God. God spoke through the prophets; they did not speak their own thoughts when they were prophesying but only as God spoke through them. The Bible uses the phrase: “the Word of the Lord,” to refer to God revealing His messages to His prophets (Jeremiah 44:24).
+In I Kings 19:16 Elijah is instructed by God to anoint Jehu to be king and to anoint Elisha to be his replacement as prophet. The anointing oil was poured upon the prophets as a sign of the Holy Ghost being poured out upon their lives. The prophets spoke as the very mouthpiece of God. The Bible uses the phrase: “the Word of the Lord,” to refer to God revealing His messages to His prophets (Jeremiah 44:24).
 
 #### The Old Testament priests were anointed with oil
 
@@ -275,17 +235,23 @@ The Son of God was empowered by the Holy Ghost to preach the Gospel. How much mo
 
 Jesus spoke with authority (Matt. 7:29). God gives authority to the preacher by the power of the Holy Ghost.
 
-### The Anointing breaks the bondages of sin
+#### Paul the apostle was empowered by the Holy Ghost
+
+Paul preached with the power of God (I Cor. 2:4–5). The Word tells us there was a demonstration of that power. A demonstration is something that is seen. The world needs to see a demonstration of the power of God. Paul did not rely on the wisdom of man to preach the Gospel. Paul was an educated man. He had been a Pharisee and was taught the Law of Moses by Gamaliel a doctor of the law (Acts 5:34; 22:3). Yet, even Paul with all of his training needed the power of the Holy Ghost to preach the Gospel.
+
+### The anointing breaks the bondages of sin
 
 The anointing destroys the yoke of bondage (Is. 10:27; 61:1). People are bound by sin, and only the power of God can set them free. Jesus said the anointing would bring deliverance to the captives. Many people are bound by Satan's power and are in the prison of sin. The Word of God preached under the anointing of the Holy Ghost will break the chains of bondage and set the sinners free from Satan's power.
 
 #### Holy Ghost power moves over a congregation
 
-The Holy Ghost can break the power of sin while the preacher is preaching. Preaching alone can not break the power of sin. The Holy Ghost anointing will break the power of sin in the lives of the people. The anointing is more than the power of God to help the preacher it is the power of God to help the congregation.
+The Holy Ghost can break the power of sin while the preacher is preaching. Preaching alone can not break the power of sin. The Holy Ghost anointing will break the power of sin in the lives of the people. The anointing is more than the power of God to help the preacher, but it is the power of God to help the congregation.
 
 #### The Holy Ghost brings conviction of sin
 
-The Holy Ghost will convince men of their sin and draw them to the cross (John 16:8). Anointed preaching will produce conviction of sin. Man can preach The Word, but only the Holy Ghost can cause men to be aware of their sin and bring them to God.
+The Holy Ghost will convince men of their sin and draw them to the cross (John 16:8). Anointed preaching will produce conviction of sin. Man can preach the Word, but only the Holy Ghost can cause men to be aware of their sin and bring them to God.
+
+**Discussion:** What is the anointing? What does it look like when someone is anointed?
 
 # Proper use of the text (Hermeneutics)
 
@@ -301,13 +267,13 @@ Every preacher will develop his own style of preaching and note taking. Some pre
 
 Webster's dictionary defines hermeneutics as "The art of finding the meaning of an author's words, and of explaining it to others." Biblical hermeneutics is the study of biblical interpretation. Biblical hermeneutics is simply the process of correctly interpreting the Scriptures. Hermeneutics deals with issues such as:
 
-* What is the _formal_ interpretation of this text?
-* What is the _official_ interpretation of this text?
-* What did the author intend to say?
-* What message did the author intend to convey?
-* Is the use of a particular word, grammatical construction, verb tense, etc., significant in this instance?
-* Who were the author's readers or listeners, culturally, etc.?
-* How was the text interpreted by the author's contemporaries?
+- What is the _formal_ interpretation of this text?
+- What is the _official_ interpretation of this text?
+- What did the author intend to say?
+- What message did the author intend to convey?
+- Is the use of a particular word, grammatical construction, verb tense, etc., significant in this instance?
+- Who were the author's readers or listeners, culturally, etc.?
+- How was the text interpreted by the author's contemporaries?
 
 ### Value of Hermeneutics
 
@@ -323,7 +289,7 @@ The Bible is God’s message to man, and God knew what He meant when He gave man
 
 A valid and honest method of interpretation must be consistent and without contradiction. We must never be governed by a theological predisposition. If our interpretation (hermeneutics) is controlled by our theology, then the Bible can be made to say whatever our theology says.
 
-We must always use the right principles of interpretation in order to properly understand the truth. The Bible contains various types of literature, such as parables, poetry, proverbs, allegories, prayers, decrees of Kings, and letters. We would not interpret a poem as we would a decree. For example Nebuchadnezzar made a decree to cut in pieces anyone who spoke against the true Go A preacher could be grossly wrong if he followed a literal interpretation today of this decree.
+We must always use the right principles of interpretation in order to properly understand the truth. The Bible contains various types of literature, such as parables, poetry, proverbs, allegories, prayers, decrees of Kings, and letters. We would not interpret a poem as we would a decree. For example, in Daniel 3:29, Nebuchadnezzar made a decree to cut in pieces anyone who spoke against the true God. A preacher could be grossly wrong if he followed a literal interpretation today of this decree.
 
 ## Principle two: there is only one correct meaning of a Bible passage
 
@@ -343,7 +309,7 @@ All Scripture must be taken from the author's point of view (2 Tim. 3:16). Consi
 
 ### Consider the historical setting of a passage to insure correct interpretation
 
-The context of Scripture involves the historical details influential at the time a passage was written. Paul wrote Ephesians, Philippians, Colossians, and Philemon from prison! Also, Paul was born in Tarsus the capital of Cilicia and home to one of only three great universities of the ancient world Athens andAlexandria are the other two. Paul was trained in Jerusalem under Gamaliel the great teacher of Jewish Law. Paul received the best education possible in his day. He was no uneducated fool.
+The context of Scripture involves the historical details influential at the time a passage was written. Paul wrote Ephesians, Philippians, Colossians, and Philemon from prison! Also, Paul was born in Tarsus the capital of Cilicia and home to one of only three great universities of the ancient world Athens and Alexandria are the other two. Paul was trained in Jerusalem under Gamaliel the great teacher of Jewish Law. Paul received the best education possible in his day. He was no uneducated fool.
 
 For example Daniel 5 opens with a feast of revelry and drinking. The city of Babylon had been under siege by the Medo-Persians for two years prior to the opening feast of this chapter. This tells us something of the pride and arrogance of the Babylonians who thought they were indestructible. The only way to know about such historical considerations is to study research materials such as commentaries. A word of caution not all books are historically accurate. Special caution should be used for example when reading any material produced by the Roman Catholic church since they often alter the accounts to their advantage.
 
@@ -361,29 +327,33 @@ Paul admonished the woman to keep silent in the church (I Cor. 14:3). A cultural
 
 ### What is the genre of the passage?
 
-Meaning is Genre Dependent. The consideration of the many different Biblical genre text is so important to meaning. Epistles, Gospel, Apocalyptic, Prophetic, Parabolic, Poetic, Historical cannot all be treated in an identical manner because each is governed by a different purpose.
+Meaning is genre dependent. The consideration of the many different biblical genre text is so important to meaning. Epistles, gospel, apocalyptic, prophetic, parabolic, poetic, and historical gernes cannot all be treated in an identical manner because each is governed by a different purpose.
 
 ## Principle five: context is the greatest key to interpretation
 
 This fifth principle is pretty much "all encompassing." Context is how a word or sentence fits in relation to the whole sentence or passage. Context takes in all the individual parts of the whole. The best way to understand the meaning of a word is to see how that word is used in the sentence. The context of Scripture involves the placement of a verse within its particular chapter and book. Each verse of Scripture is profoundly important, but its importance can only be understood by considering its role in the paragraph, chapter, book, or even the Bible as a whole. A complete understanding of the book the text is taken from is best.
 
+### One verse cannot be understood by itself
+
 We cannot properly study a small portion of anything without carefully considering the whole and the sum of its parts. Imagine how incomplete your understanding of airplanes would be if you were not educated in the natural laws. The flight of an airplane would forever be a mystery until you studied the airplane in the "context" of its natural environment of wind, gravity, air pressure, etc.
 
 EXAMPLE: We know Hebrews 13:5 says Christ promised us, "I will never leave thee, nor forsake thee." So, What did Jesus mean "I go away" in John 14:28? If all we do is consider verse 28 and ignore its context, we will forced to conclude there is a contradiction found here. But, if we carefully include its context in our study, we will discover a clear and simple meaning. The manner in which Christ was with them (physically present) was going to change (present spiritually).
 
+The best way to understand the meaning of a word is to see how that word is used in the context of the sentence.
+
+### Do not remove a verse from the verses around it
+
 A text taken out of context is pretext. A "pretext" is used to disguise the real motive and intention. Using Scripture as a pretext is using Scripture to say what you want it to say and not what God has to say. A text taken out of context is an abuse of Scripture.
+
+### Not all words in the Bible are direct from the mouth of God
 
 The Bible contains an inspired account of events that occurred and statements that were made. For example the Book of Job records the conversations between Job and his friends. The conversation is recorded accurately as it took place, but the council of Job's comforters is not good council and should not be regarded as such.
 
 The temptation of Jesus found in Matthew 4:1–11 records the devil quoting Scripture to Jesus in verse 6. The devil twisted the meaning of Psalm 91:11–12 to tempt Jesus to jump off of the temple. Jesus refuted the devil's misuse of theScripture by responding with another Scripture: Thou shalt not tempt the Lord thy God (Deut. 6:16).
 
-Should we follow the words of the king in Daniel 3:29?
+## Principle six: always compare Scripture with Scripture
 
-The best way to understand the meaning of a word is to see how that word is used in the context of the sentence.
-
-## PRINCIPLE SIX: ALWAYS COMPARE SCRIPTURE WITH SCRIPTURE
-
-Scripture always holds its own interpretation (II Peter 1:20). A word, phrase, or concept should first be studied in the book that in which it is recorded, and then in its use in other passages. When a text is not explicit about a truth, no conclusion should be drawn about it until all relevant passages have been studied. Doctrinal statements should be made based not on a single text, but doctrinal statements should summarize what ALL Scripture says on the topic.
+Scripture always holds its own interpretation (II Peter 1:20). A word, phrase, or concept should first be studied in the book that in which it is recorded, and then in its use in other passages. When a text is not explicit about a truth, no conclusion should be drawn about it until all relevant passages have been studied. Doctrinal statements should be made based not on a single text, but doctrinal statements should summarize what all Scripture says on the topic.
 
 The Scripture will explain itself as Bible verses are compared to each other. One Scripture will help to interpret another Scripture. The Bible instructs us to compare spiritual things with spiritual things (I Cor. 2:13). By comparing verses with each other the Bible will be better understood. The Word of God will fit together like the pieces of a puzzle. One Scripture will interpret another Scripture. The Bible is in complete harmony with itself. There are no contradictions in the Bible. What God has written in Genesis will be in agreement with what God has written in Revelation.
 
@@ -399,13 +369,13 @@ A good way to understand the meaning of a word is to see how that word is used i
 
 You want to make sure you are comparing the same original language word in one verse to that same original language word in another verse. Also keep in mind the comparison of Old Testament words to New Testament words. It can be very helpful to compare the OT with the NT, but you must remember that you are dealing with different languages, so an exact original word comparison is not possible.
 
-## PRINCIPLE SEVEN: THERE ARE NO CONTRADICTIONS IN THE BIBLE
+## Principle seven: there are no contradictions in the Bible
 
 God's Word is without error, it cannot be self contradictory. Where there seems to be contradiction, truth has not yet been found. Keep looking. There is perfect and unbroken unity from Genesis to Revelation. When interpreting a portion of Scripture, we must study its context. Not only the verses before and after it, but Scripture from Genesis to Revelation. My interpretation of that portion of Scripture must not disturb this perfect unity and harmony of Scripture. Let Scripture be its own interpreter. Remember, we are fully dependent on the Spirit of God to understand His Word (John 16:13; I Cor. 2:6–14). Ask God to show you His truth (James 1:5).
 
 When establishing one doctrine from a passage, you must never displace any other doctrine of Scripture.
 
-## PRINCIPLE EIGHT: PASSAGES CAN HAVE BOTH NEAR AND FAR APPLICATIONS
+## Principle eight: passages can have both near and far applications
 
 Application is the response to the text. Scripture often has a near and far application. For a valid interpretation with a near and far application, it must be clearly allowed by the text context book the Bible as a whole. Passages written to Israel can have valuable meaning to the present day Church.
 
@@ -413,21 +383,19 @@ In exegesis we try to expose the 1) Original Meaning of the text; while in, 2) P
 
 > The relationship between meaning and significance summarizes the hermeneutical task. The preacher must ask how the biblical writer would have applied the theological truths of the passage if he were addressing them to the modern congregation."
 
-**INDUCTIVE STUDY** is when the bible student interacts with the text directly to form our own conclusions.
+**INDUCTIVE STUDY** is when the Bible student interacts with the text directly to form our own conclusions.
 
-**DEDUCTIVE STUDY** is when the bible student interacts with other scholars' conclusions and rework our findings. It is helpful in taking us away from our contemporary meanings and personal experiences. It is important that we interact with exegetical tools critically and not uncritically parroting other people's ideas.
+**DEDUCTIVE STUDY** is when the Bible student interacts with other scholars' conclusions and rework our findings. It is helpful in taking us away from our contemporary meanings and personal experiences. It is important that we interact with exegetical tools critically and not uncritically parroting other people's ideas.
 
-## PRINCIPLE NINE: LANGUAGE RULES MUST NOT BE IGNORED
+## Principle nine: language rules must not be ignored
 
 All languages are not equal. As a matter of fact, each language is unique with its own strengths and weaknesses. The uniqueness of each language makes the study of it complex, but exciting! Greek and Hebrew are vastly different from each other and equally different from our modern languages. The peculiarities of the Biblical languages should be studied and understood even to interpret Scripture that is translated in our native tongue.
 
-**EXAMPLE**: Christ's address to Mary in John 19:26 sounds a bit harsh in English: "Woman, behold thy son!" As a matter of fact, it sounds very derogatory in English. We interpret this passage not in light of how it sounds in English, but how it sounds in the Greek because that is the original and inspired language of the book of John and the Hebrew or Aramaic because that is probably the language which Christ spoke In Hebrew, "woman" has the opposite sound than that in English; it is a term of respect such as "madam."
+**EXAMPLE**: Christ's address to Mary in John 19:26 sounds a bit harsh in English: "Woman, behold thy son!" As a matter of fact, it sounds very derogatory in English. We interpret this passage not in light of how it sounds in English, but how it sounds in the Greek because that is the original and inspired language of the book of John and the Hebrew or Aramaic because that is probably the language which Christ spoke. In Hebrew, "woman" has the opposite sound than that in English; it is a term of respect such as "madam."
 
-Looking up the meaning of words in a dictionary can help the preacher gain a better understanding of the Scripture. The Old Testament was originally written in Hebrew and the New Testament was originally written in Greek. There are reference books available such as concordances and Bible dictionaries. These books give the meaning of words in theoriginal languages. The use of a regular language dictionary like Webster's can also help in understanding the meaning of words in the Scripture passage.
+Looking up the meaning of words in a dictionary can help the preacher gain a better understanding of the Scripture. The Old Testament was originally written in Hebrew and the New Testament was originally written in Greek. There are reference books available such as concordances and Bible dictionaries. These books give the meaning of words in the original languages. The use of a regular language dictionary like Webster's can also help in understanding the meaning of words in the Scripture passage.
 
-**EXAMPLE**: The word "servant" in Romans 1:1 is doulos in the original Greek language and it means "a love servant or one who chooses of his own free will to be a servant." Paul was not orced to be a servant of Jesus, but rather chose to be a servant of Christ because of his great love for the Lor Looking up the meaning of the word servant helps you to understand the right meaning of the passage.
-
-## PRINCIPLE TEN: REFERENCE MATERIALS ARE POWERFUL TOOLS, BUT THEIR USE MUST BE GOVERNED BY PRINCIPLES OF LOGIC
+## Principle ten: reference materials are powerful tools, but their use must be governed by principles of logic
 
 ### Dictionaries
 
@@ -435,7 +403,7 @@ A dictionary is a helpful tool to better understand the meaning of words.
 
 ### Concordances
 
-A concordance is valuable to find where Scriptures are located. Concordances give the original language word in the Hebrew or Greek. A concordance is a good tool to locate Scriptures on the same subject.This will give you a better understanding of the subject being studied. Remember, the Bible is in perfect harmony with itself. The use of other Scriptures will help you to gain a Biblical perspective on the passage or subject you are studying.
+A concordance is valuable to find where Scriptures are located. Concordances give the original language word in the Hebrew or Greek. A concordance is a good tool to locate Scriptures on the same subject. This will give you a better understanding of the subject being studied. Remember, the Bible is in perfect harmony with itself. The use of other Scriptures will help you to gain a Biblical perspective on the passage or subject you are studying.
 
 Always consider word meaning within the context of the Scripture. Most of the definition sections of concordances give a list of possible meanings and uses of the word. Some preachers will pick the choice that best accommodates them without regard to context. This is not good hermeneutics. Use reference materials as a source, but not as the final authority.
 
@@ -447,9 +415,9 @@ These are comments about the Bible by men. They should never be considered as in
 
 ### Computer programs
 
-These computer programs contain much reference material available at theclick of a button. You can also bring material and Scriptures into your document quickly.
+These computer programs contain much reference material available at the click of a button. You can also bring material and Scriptures into your document quickly.
 
-## PRINCIPLE ELEVEN: We must be taught by the Holy Spirit 
+## Principle eleven: We must be taught by the Holy Spirit
 
 He is the master teacher (I Cor. 2:13–14). Be careful of the words which men's wisdom teacheth. Commentaries can be helpful especially to learn about culture and history, but they are no substitute for the teaching of the Holy Ghost.
 
@@ -457,7 +425,7 @@ The Holy Ghost will teach you (John 14:26; 16:13). This is a promise of God. Pra
 
 Meditate on the Word of God (Joshua 1:8).
 
-## CONCLUSION TO HERMENEUTICS
+## Conclusion to hermeneutics
 
 The preacher should make notes on what he has studied.
 
@@ -473,20 +441,6 @@ You don’t need to write a book to take good notes. Organize your notes into to
 
 If you don’t write down something when you receive it you may not be able to remember it later. God may show you something in prayer or while you are reading the Word; these truths should be written down and kept so they can be studied and used later.
 
-### It can be helpful to separate a Scripture into its main thoughts
-
-A good way to study a Scripture is to break it down into the main phrases of the text. You can then study each main thought of the text separately. The goal of the preacher is to share one portion of truth at a time. Separating the Scripture into parts will help you to preach one part of the Scripture and then go on to the next part and build the sermon on the whole Scripture one piece at a time. For example John 3:16 can be separated into its main thoughts:
-
-| Scripture Part                      | Topic to Study                                |
-| ----------------------------------- | --------------------------------------------- |
-| For God so loved the world          | the **great love** of God—Loves ALL           |
-| that he gave his only begotten Son, | the **great cost** of our salvation—the cross |
-| that whosoever believeth in him     | the **great requirement**—faith               |
-| should not perish                   | the **great escape**—no condemnation          |
-| but have everlasting life.          | the **great reward**—heaven                   |
-
-Looking at this verse part by part and studying it will help you to better understand the verse. This will also help you to preach this verse in workable pieces, one portion at a time. You will learn how to share truth in sections and build one step at a time.
-
 # The Delivery of the Sermon
 
 This chapter will look at the delivery of the sermon. We do not want to over emphasize oratory and platform skills, but there are certain skills the preacher can develop that will help him to preach the Gospel. Preaching is still public speaking and God gives gifts and talents to men that He can use to spread the Gospel.
@@ -497,7 +451,7 @@ This chapter will look at the delivery of the sermon. We do not want to over emp
 
 Never try to be someone else. Some try to imitate the actions and motions of other preachers or try to imitate the voice of a great preacher thinking this will make them spiritual and effective. This is not an effective way of preaching the Gospel. The best way to preach is yield your personality to the Holy Ghost.
 
-### You should be natural in the pulpit 
+### You should be natural in the pulpit
 
 Do not try to force an unnatural presentation. Don’t just wave your hands for the sake of motion. Let your hand gestures be natural and flowing, and not rigid and forced. A preacher may shout and get excited about what is being preached and the anointing will give power and authority to his voice, but always use your own voice in the pulpit. (You are preaching and not play acting.)
 
@@ -527,7 +481,7 @@ It is okay to walk and move while you are preaching and sometimes a preacher wil
 
 ## Eye contact is crucial to a good sermon delivery
 
-### Do not look down while you are preaching 
+### Do not look down while you are preaching
 
 Some preachers have a good message, but people have a hard time to receive the Word because the preacher is always looking down while he is talking. It is important that the preacher is not always looking at his notes while he is preaching. The notes should only be scanned quickly from time to time during the sermon. You should look at the notes and then look up at the people to preach to them. The notes should only be a brief outline to help the preacher to remember what he has studied and to add Scriptures to support the message that is being preached.
 
@@ -565,4 +519,4 @@ A good speaker will illustrate with his hands while he is speaking. Our goal as 
 
 ### Action can also help to illustrate your point
 
-You can use action movements at times to illustrate what you are sharing with the people. For example, you can hold up the shield of faith or make motions like you are swinging a sword to illustrate the sword of the Spirit. You are trying to convince people of their need and share truth with them; you can use almost every means possible to get your point across. You do not want to be excessive with your motions to the point where you take away from what is being said, but it is okay to put life and energy into the sermon.
+You can use action movements at times to illustrate what you are sharing with the people. For example, you can hold up the shield of faith or make motions like you are swinging a sword to illustrate the sword of the Spirit. You are trying to convince people of their need and share truth with them; you can use almost every means possible to get your point across. You do not want to be excessive with your motions to the point where you take away from what is being said, but it is okay to put life and energy into the sermon.
