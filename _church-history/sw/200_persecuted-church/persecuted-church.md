@@ -2,7 +2,7 @@
 
 Kuanzia kukamilishwa Agano Jipya hadi kutolewa Hati ya Konstantino.
 
-Hii inazindua kipindi ambacho kanisa liligandamizwa chini ya utawala wa kipagani wa Roma. Kinyume na mategemeo hayakutokeza marashi matamu kwa Mungu kwa kuwa katika karne hizo mbili kulikuwa na mashahidi kuuliwa mfululizo. Kutolewa kwa Hati ya Kostantino kutajadiliwa zaidi katika kipindi cha Kanisa la Kifalme.
+Kipindi hiki ndicho ambacho kanisa liliteswa na serikali ya Rumi. Hati ya Konstantino ilikuwa ni amri rasmi iliyomaliza mauaji ya Wakristo katika Milki ya Roma. Tutamjadili Konstantino zaidi katika Kipindi cha Kanisa la Kifalme.
 
 Tuna kumbukumbu za matukio ya kipindi cha kanisa la kwanza kutoka kwa Biblia, ambayo tunaamini yametutia moyo. Hatuna kumbukumbu za kibiblia za wakati wowote wa kanisa. Hii ina maana kwamba si kila tunachokisoma ni kweli. Watu wawili wanaweza kushuhudia tukio moja na bado wakatoa taarifa tofauti kabisa kuhusu jambo hilo. Historia ni ngumu kwa sababu vyanzo vinaweza kuwa kweli au visiwe kweli. Kuna msemo unasema, "historia imeandikwa na washindi." Hii ni kwa sababu wale walioshindwa vita walishakufa, na hawakuweza kuandika ukweli wao wenyewe wa kile kilichotokea.
 
@@ -14,7 +14,7 @@ Yesu aliwaeleza mapema kuhusu kipindi hicho cha mateso. Yesu aliwatia moyo wafua
 
 Wengi walifungwa kwa sababu za kuhubiri injili katika kipindi hiki. Kuwa Mkristo ilifanywa kuwa ni kosa chini ya sheria ya Kirumi.
 
-Katika mwaka wa 303 BK Mfalme Diocletiani alianzisha kipindi cha mateso makali sana kwa wakristo yaliyojulikana kama "Mateso Makuu." Hili lilikuwa ni jaribio la kuuondoa Ukristo katika uso wa dunia hii. Inasemekana Diocletiani alijenga mnara ulioandikwa: Kwa kumbukumbu ya kufukuzwa ushirikiano unaoitwa Ukristo. Wakristo wengi walichomwa moto wakiwa hai kwa sababu ya ushuhuda wao. Wakristo walitupiwa wanyama wakali ambao waliwararua na kuwala katika viwanja vya michezo.
+Mnamo mwaka 303 BK Mfalme Diocletian alianza mateso kwa Wakristo ambayo yanaitwa "Mateso Makuu." Hili lilikuwa ni jaribio la kuuondoa Ukristo katika uso wa dunia hii. Inasemekana Diocletiani alijenga mnara ulioandikwa: Kwa kumbukumbu ya kufukuzwa ushirikiano unaoitwa Ukristo. Wakristo wengi walichomwa moto wakiwa hai kwa sababu ya ushuhuda wao. Wakristo walitupiwa wanyama wakali ambao waliwararua na kuwala katika viwanja vya michezo.
 
 ## Sababu zilizofanya kuwepo na mateso chini ya utawala wa kifalme
 
@@ -56,7 +56,7 @@ Inyasi alitupiwa wanyama wakali wamrarue katika kiwanja cha Coliseum. Akisimama 
 
 ### Shahidi Yustini (100—165 BK)
 
-Shahidi Yustini alikuwa mwana falsafa aliyekuwa Mkristo baada ya kukutana na mtu mzee ambaye alielezea jinsi Yesu alivyotimiza unabii wa Agano la Kale. Alikuwa mmoja wa watetezi wa kwanza, ambaye ni mtu aliyetumia sababu na mantiki ili kulinda imani yake. Aliandika vitabu vingi ambavyo vipo hadi leo na vinatupatia taarifa nyingi za kipindi hicho. Mojawapo ya kazi zake muhimu ni _Mazungumzo na Trypho_ maandishi ambayo hufundisha dhidi ya Waebionaiti (Ufunuo 2:9).
+Shahidi Yustini alikuwa mwana falsafa aliyekuwa Mkristo baada ya kukutana na mtu mzee ambaye alielezea jinsi Yesu alivyotimiza unabii wa Agano la Kale. Alikuwa mmoja wa watetezi wa kwanza, ambaye ni mtu aliyetumia sababu na mantiki ili kulinda imani yake. Aliandika vitabu vingi ambavyo vipo hadi leo na vinatupatia taarifa nyingi za kipindi hicho. Mojawapo ya kazi zake muhimu ni _Mazungumzo na Trypho_ maandishi ambayo hufundisha dhidi ya Waebionaiti.
 
 Aliandika mara moja, "Unaweza kutuua, lakini huwezi kutudhuru." Yustini shahidi alikatwa kichwa huko Roma mwaka 165 BK. Maneno yake ya mwisho yalikuwa, "Mimi ni Mkristo, nimewekwa huru na Kristo na kwa wema wake Kristo nina pokea pigo hili kwa tumaini moja."
 
@@ -88,6 +88,8 @@ Tertullian alisema "Je, Athene inafanya nini na Yerusalemu?" Alikuwa akisema kuw
 
 Aliamini kwamba mateso yalitoka kwa Mungu. Alidhani ilikuwa chombo kilichotenganisha waumini wa kweli kutoka kwa waongo.
 
+**Mazungumzo:** Je, Wakristo wanaweza kujifunza kutoka kwa watu wasio Wakristo?
+
 ### Blandina (162–177 BK)
 
 Blandina alikuwa msichana Mkristo aliyekuwa mtumwa ambaye aliteswa tangu asubuhi hadi usiku kisha akatamka, "mimi ni Mkristo na kat iyetu hakuna uovu unaotendwa."
@@ -102,7 +104,7 @@ Neno _kanuni_ lina maana "ya fimbo, sheria, au kifaa cha kupimia."
 
 Inahusu vitabu vya Biblia ambavyo vinatambuliwa kama vifaa vya utukufu wa Mungu kwa asili yake (vilivyopumuliw ana Mungu) na vikajumlishwa katika Biblia kama sehemu yake.
 
-Hakuna tarehe maalumu ambazo zinatambuliwa kama rasmi ambazo rasimu ya Agano Jipya ilipatikana lakini haiwezi ikawekwa mapema zaidi ya mwaka wa 300 BK.
+Hakuna tarehe maalumu ambazo zinatambuliwa kama rasmi ambazo rasimu ya Agano Jipya ilipatikana lakini haiwezi ikawekwa mapema zaidi ya mwaka wa 300 BK. Rekodi ya kwanza tuliyo nayo ya orodha yetu ya sasa ya vitabu vya Agano Jipya ni kutoka kwa barua iliyoandikwa na Atanasi katika mwaka wa 367 BK. Tutazungumza zaidi kuhusu Atanasi katika sura inayofuata.
 
 ## Mafundisho ya uwongo yalizuka kipindi hiki
 
@@ -130,4 +132,4 @@ Walikuwa wafuasi wa Montanusi (150-170 BK). Hii ilikuwa kundi la kinabii ambalo 
 
 ### Wasabelliani (pia inajulikana kama Wamodali)
 
-Kundi hili liliamini kwamba kulikuwa na Mungu mmoja ambaye alikuwa na nafasi tatu (au muundo): Baba, Mwana, na Roho Mtakatifu.
+Kundi hili liliamini kwamba kulikuwa na Mungu mmoja ambaye alikuwa na vyeo tatu (au muundo): Baba, Mwana, na Roho Mtakatifu.

@@ -32,7 +32,7 @@ One writer said that "The past is a foreign country: they do things differently 
 
 ### Christian
 
-We are studying the history of the Christian church. The term _Christian_, meaning "to be like Christ or one who follows Christ," was first used in Antioch around AD 40 (Acts 11:25).
+We are studying the history of the Christian church. The term _Christian_, meaning "to be like Christ or one who follows Christ," was first used in Antioch around AD 40 (Acts 11:26).
 
 The birth, life, death, and resurrection of Christ are the central events of the history of the world. History is recorded around Christ. Dates are listed as BC (before Christ) and AD (Anno Domini) which is Latin that means in the year of our Lord. All of history centers on Christ.
 

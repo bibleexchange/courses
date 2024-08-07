@@ -2,8 +2,6 @@
 
 Tangu anguko la Konstantino mpaka mwishoni mwa Vita vya miaka Thelathini.
 
-Hawa ni wale waliokuwa wamebaki wakilipinga kwa ushupavu mafundisho ya uwongo. Hiki kilikuwa ni kipindi ambacho Mungu aliinua wanaume wakang'ara na kufunika lile giza la mafundisho ya uwongo.
-
 ## Kipindi cha kuchipuka upya (Mvurumko)
 
 ### Mwanga wa kujifunzia
@@ -11,8 +9,6 @@ Hawa ni wale waliokuwa wamebaki wakilipinga kwa ushupavu mafundisho ya uwongo. H
 Mvurumko nineno linaloeleza kuamka kwa Ulaya katika fani za elimu sanaa na sayansi. Haya ni mambo yanayohusiana na ustaarabu.
 
 ### Mwanga wa neno la Mungu
-
-Neno la Mungu liliiondoa Ulaya kutoka enzi ya giza. Siyo jambo la kushangaza kwamba ustaarabu ulirudi wakati neno la Mungu liliporudishwa kwa wanadamu.
 
 Mashine ya uchapishaji ulivumbuliwa huko Gutenberg mwaka 1456 na kitabu cha kwanza kilichochapishwa ni Biblia (nakala 200 ya Vulgate Kilatini). Kuanzia hapo Biblia ziliweza kuchapishwa kwa wingi na kufikia mikono ya watu wa kawaida kwasababu ya uvumbuzi huu.
 
@@ -94,7 +90,7 @@ Papa hakumpa talaka, na hivyo Henry alimteua Askofu Mkuu wa Canterbury Thomas Cr
 
 Henry alikuwa na binti wawili. Maria alikuwa Mkatoliki, na Elizabeth alikuwa Kiprotestanti.
 
-#### Watakasjiaji na Watawanyishi huko Uingereza
+#### Watakasaji na Watawanyishi huko Uingereza
 
 Mfalme Henri wa VIII (1491–1547) iliondoa Kanisa Katoliki huko Uingereza na kuanzisha kanisa la Anglikana. Waliolikataa kanisa hilo la dola waliitwa waasi. Wengi wa waasi hao hasa wachungaji waliofanya kazi yao bila leseni walitupwa magerezani. Kulikuwepo na vikundi viwili vya waasi: Watakasaji na Watawanyishi. Watawanyishi walikuwa ni wale waliotaka kujitenga na kanisa la Anglikana. Watakasaji walikuwa ni wale waliotaka kanisa la Anglikana litakaswe.
 

@@ -24,8 +24,6 @@ Christianity that flourished under persecution became worldly under government a
 
 ### Churches seized during persecution were restored
 
-New churches were built. The Roman basilica became the pattern for elegant church buildings. The basilica was a courtroom in the shape of a rectangle divided into isles by rows of pillars with a semi-circular platform at one end with seats for the officials. This is still the pattern today in the Roman Catholic Church. An example of this style of architecture is St. Peter's Basilica in Rome.
-
 ### The official sacrifices ceased
 
 The Roman citizens were no longer required to make sacrifices to pagan gods.
@@ -48,7 +46,7 @@ Some people will say that Constantine started the Roman Catholic Church, but it 
 
 ### Constantine chose the Greek city of Byzantium for the new Capital and renamed it Constantinople (AD 330)
 
-This increased the influence of the Roman bishop. The capital was now far away from Rome and the Empire was already in collapse.
+Constantinople was in the location of modern Istanbul in Turkey. This increased the influence of the Roman bishop. The capital was now far away from Rome and the Empire was already in collapse.
 
 ### The division of the Empire soon followed the building of the new capital
 
@@ -68,11 +66,13 @@ He was a defender of the faith in the Arian controversy. Arius the leader of thi
 
 ### John Chrysostom (AD 345&ndash;407)
 
-He was referred to as "the golden mouth," because of his eloquence as a speaker. He was a bold preacher, a statesman, and an able expositor of the Bible. He became bishop of Constantinople in AD 398. He was banished for his stand for truth, and he died in exile.
+He was referred to as "the golden mouth," because of his eloquence as a speaker. He was a bold preacher, a statesman, and an able expositor of the Bible. He became bishop of Constantinople in AD 398. He was banished for his teachings and he died in exile.
 
 ### Augustine (AD 354&ndash;430)
 
 Augustine said, "Our hearts are restless until they find rest in you." He became bishop of Hippo in North Africa in AD 395. He was a Chief defender of the faith in the Pelagian Controversy. This false teaching was promoted by Pelegius who did not believe in original sin. Augustine developed a reputation as a preacher, teacher, and writer.
+
+When the city of Rome fell, people blamed the Christians for the fall. They thought the old Roman gods were angry because people turned away from them and to Christianity and so the gods were punishing Rome. Augustine wrote a book titled _The City of God_ that argued that the Christians were not responsible and that we should look for a heavenly city and not a city on this earth.
 
 ### Ambrose (AD 339–397)
 
@@ -151,6 +151,10 @@ The creed says that Jesus is "light from light." How could you separate light fr
 
 The council did not "create" the idea of the Trinity, since the Trinity was a part of church worship since the beginning (for example, it was used in the baptism rite). In Nicea they formed the vocabulary to describe what they already believed about God.
 
+### The Council of Constantinople (AD 381)
+
+Some people did not believe that the Holy Spirit was God, because He did not speak for Himself. They said that He was not a person, but a spiritual force. This council was called to prove the divinity of the Spirit.
+
 ### The First Council at Ephesus (AD 431)
 
 The Council of Nicea resolved that Jesus was both God and man, but there were still questions about the nature of Jesus. How much of Him was God and how much was man? Did He have two minds? Could Jesus have sinned because of the human side? Two church leaders gave answers to these types of questions. They were Nestorius and Cyril.
@@ -161,7 +165,7 @@ Nestorius was the bishop of Constantinople. He was a heresy hunter who tried to 
 
 Nestorius received the attention of other church leaders when he refused to use the word _Theotokos_, which means "Mother of God." He believed if the Son of God always existed, then He could not be born. He preferred the word _Christotokos_, which means "Mother of Christ." Nestorius also disliked _Theotokos_ because of the emphasis that Apollinarianism placed on this word. Apollinarianism taught that Jesus had no human soul, but was divine God wrapped in human flesh.
 
-He believed that Christ possessed two natures, but was still one person. He emphasized a distinction between these two natures, especially in the suffering of Christ. He said that it was only the human nature that suffered when Christ suffered, and not the divine nature.
+Nestorius believed that Christ possessed two natures, but was still one person. He emphasized a distinction between these two natures, especially in the suffering of Christ. He said that it was only the human nature that suffered when Christ suffered, and not the divine nature.
 
 #### Cyril (AD c376–444)
 
@@ -178,10 +182,6 @@ The council decided against Nestorius and he was exiled as a heretic. Even thoug
 While their were some differences of doctrine between Cyril and Nestorius, much of their disagreement lay in how they emphasized certain parts of the doctrine of Christ and also from how they defined and used different words and phrases. They both were concerned with defending the faith against heresy. While it is impossible to know, we can't but wonder what agreement they might have come to if they had talked together about their ideas.
 
 Though Nestorius was always considered a heretic, the Council of Chalcedon made decisions about the doctrine of Christ that closer to the ideas of Nestorius. Nestorius was also correct about how the name _Mother of God_ would exalt Mary to a position that was more than she deserved. Over many years, we see the tradition of the Roman Catholic Church move Mary into the place where she is almost considered divine.
-
-### The Council of Constantinople (AD 381)
-
-Some people did not believe that the Holy Spirit was God, because He did not speak for Himself. They said that He was not a person, but a spiritual force. This council was called to prove the divinity of the Spirit.
 
 ### The Council of Chalcedon (AD 451)
 

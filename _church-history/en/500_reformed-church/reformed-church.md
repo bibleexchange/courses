@@ -2,8 +2,6 @@
 
 From the fall Constantinople to the end of the Thirty Year War.
 
-There was still a remnant standing against false doctrine. This was a period when God raised up people to shine the light against the darkness of false doctrine.
-
 ## The Renaissance
 
 ### The light of learning
@@ -11,8 +9,6 @@ There was still a remnant standing against false doctrine. This was a period whe
 The Renaissance is a term that refers to the awakening of Europe to an interest in literature, art, and science. These are things associated with civilization.
 
 ### The light of God's Word
-
-The Word of God brought Europe out of the dark ages. It is not a coincidence that civilization was restored when the light of God's Word was also restored to the people.
 
 The printing press was invented by Gutenberg in 1456 and the Bible was the first book printed (200 copies of the Latin Vulgate). Bibles could now be massed produced and placed in the hands of the common people because of this invention.
 

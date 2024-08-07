@@ -1,26 +1,20 @@
-# Nne: Kanisa la Zama za Enzi za Kati (476—1473 BK)
+# Nne: Kanisa la Zama za Enzi za Kati (476—1453 BK)
 
 Toka anguko la Roma hadi anguko la Konstatinopo.
 
-## Kanisa la Zama za Enzi za Kati lilifunikwa na giza
+Kipindi cha karne ya 5 mpaka ya 15 huitwa kipindi cha Zama za Enzi za Kati.
 
-> Isaya 9:19&mdash;Kwa sababu ya hasira ya BWANA nchi hii inateketea.
-
-Kipindi cha karne ya 5 mpaka ya 15 huitwa kipindi cha zama za Giza.
-
-### Ustaarabu na uvumilivu ulifikia mwisho.
-
-#### Kulikuwepona maendeleo madogo sana katika fasihi, sanaa na sayansi
+## Ustaarabu na uvumilivu ulifikia mwisho
 
 Kulikuwa na umaskini na ushirikina ulioijaza nchi. Nchi nyingine walivamia Ulaya na kuua watu wengi. Palitokea pia vifo vilivyotokana na ugonjwa wa mtoki ambao ulienea katika bara lote.
 
 **Mazungumzo**: Je, Mungu bado hutumia hukumu ili kuwaadhibu watu?
 
-#### Biblia ilikuwa imezuiliwa kutoka kwa watu
+### Biblia haikupatikana kwa watu
 
 Kanisa lilifundisha kwamba ni wachungaji tu ndio wanaoweza kuitafsiri Biblia. Watu wa kawaida walikatazwa kusoma Biblia, Biblia ilikuwa katika lugha yake ya mwanzo au katika lugha ya Kilatini ambayo ni watu wachache waliokuwa wanaielewa hata kama walitaka kujisomea wenyewe.
 
-#### Watu waliwekwa gizani
+### Watu waliwekwa gizani
 
 Misa ilifanywa kwa Kilatini ambacho hakukuwepo wengi waliokifahamu. Ukweli na sayansi viligandamizwa na kanisa Katoliki. Galileo, yule mtu aliyegundua darubini alikaribia kuuawa kwa sababu kile alichoona kwa kutumia darubini kilikuwa kinyume na msimamo wa Papa ambaye alifikiriwa kwamba hawezi kukosea.
 
@@ -34,9 +28,9 @@ Ushirika ulikuwa kitovu ni kitovu cha wakristo kuabudu kwa kipindi hiki. Ibada i
 
 ### Kujikana
 
-Baadhi ya watu hawakupenda jinsi kanisa lilivyo kua katika utajiri na nguvu. Hawa watu walijitenga wenyewe kutoka ulimwenguni na kuishi katika jamii zao. Walisali mara saba wakati wa mchana na kukaririsha sehemu kubwa ya Maandiko. Wanaume waliitwa watauwa na Wanawake waliitwa masista. Watauwa na masista waliishi katika jamii zilizo jitenga.
+Baadhi ya watu hawakupenda jinsi kanisa lilivyo kua katika utajiri na nguvu. Hawa watu walijitenga wenyewe kutoka ulimwenguni na kuishi katika jamii zao. Walisali mara saba wakati wa mchana na kukaririsha sehemu kubwa ya Maandiko. Wanaume waliitwa watawa na Wanawake waliitwa masista. Watawa na masista waliishi katika jamii zilizo jitenga.
 
-### kuhamisha wenye dhambi (Purgatori)
+### Kuhamisha wenye dhambi (Purgatori)
 
 Kanisa lilijua kwamba wenye haki walienda mbinguni na wasiohaki walienda Jehanamu,lakini nini ilitokea kwa watu ambao hawakuwa na haki wala wale wenye haki zaidi? Kuhamishwa kwa wenye dhambi (pagatori) kulikuwa endelevu kwa kipindi kile kama jibu kwa wale watu wa kawaida walipokuwa wakienda baada ya kufa.Inasemekana kuwa mahali ambapo mtu kawaida hutolewa kutokana na dhambi gani ambazo walikuwa nazo.
 
@@ -56,7 +50,7 @@ Katika kanisa la kwanza, Askofu wa Roma (aliyejulikana baadaye kama papa) alikuw
 
 Leo alikuwa Papa kutoka mwaka 440–461 BK.Alisema kwamba nguvu ya upapa alipewa na Petro kutoka kwa Kristo na ile nguvu ilipitishwa kutoka kwa petro hadi kwa warithi wake.<sup>[1]</sup> Yeye alikuwa papa wa kwanza kutegemea nguvu kutoka kwa petro.Yeye aliwashawishi Wahani (wale ambao walitokea katikati mwa Asia) na Wavandali(wale ambao walitokea Mashariki mwa Ujerumani) sio kuvamia Roma.
 
-### Gregori Mkuu (c.540-604 BK)
+### Gregori Mkuu (c. 540-604 BK)
 
 Gregori alitokea katika familia ya kidini-Babu wa Baba yake alikuwa Papa. Alikuwa na elimu nzuri na alikuwa kiongozi wa serikali. Hakutegemea kufanywa papa mwaka590 BK,na aliendelea kuwa papa hadi kifo chake mwaka 604BK. Alijiita mwenyewe ni "mtumishi wa watumishi wa Mungu."
 
@@ -64,11 +58,11 @@ Kulikuwa na matatizo mengi Roma,na waliwasiliana na mtawala wa mashariki kwa aji
 
 ### Mchango wa Pippini (754 BK)
 
-Walambadi walikuwa wakivamia tena eneo linalo zunguka Roma, na Papa stephano II hakutegemea msaada kutoka Byzantine (Mashariki) Himaya. Alitaka kutafuta kiongozi mpya wa kumsaidia matatizo haya. Aliomba msaada kutoka kwa Pippini mfupi, ambaye alikuwa mfalme wa Wafrenki (ambapo baadae iliitwa Ufaransa). Pippini alimuahidi kuwa atapigana na Walambadi na kurudisha ardhi ambayo waliichukua.
+Walambadi walikuwa wakivamia tena eneo linalo zunguka Roma, na Papa Stephano II hakutegemea msaada kutoka Byzantine (Mashariki) Himaya. Alitaka kutafuta kiongozi mpya wa kumsaidia matatizo haya. Aliomba msaada kutoka kwa Pippini mfupi, ambaye alikuwa mfalme wa Wafrenki (ambapo baadae iliitwa Ufaransa). Pippini alimuahidi kuwa atapigana na Walambadi na kurudisha ardhi ambayo waliichukua.
 
 ### Mchango wa Konstantino
 
-Hii ilikuwa hati ya uongo ambayo ilisemekana kuwa Costantino alimpa Papa Sylivesta aridhi iliyo izunguka Roma. Iliaminika kuwa Papa stephano wa II alitumia hati hii kumshawishi Pippini ili kumsaidia.
+Hii ilikuwa hati ya uongo ambayo ilisemekana kuwa Costantino alimpa Papa Sylivesta aridhi iliyo izunguka Roma. Iliaminika kuwa Papa Stephano II alitumia hati hii kumshawishi Pippini ili kumsaidia.
 
 ### Charlemagne (747—814 BK)
 
@@ -107,7 +101,7 @@ Orodha zifuatazo zinaonyesha baadhi ya tofauti kati ya makanisa ya mashariki na 
 | Mashariki                                             | Magharibi                                             |
 | ----------------------------------------------------- | ----------------------------------------------------- |
 | Walizungumza Kigiriki                                 | Walizungumza Kilatini                                 |
-| Makuhani wao waliweza kuoa                            | Makuhani wao hawakuweza kuolewa                       |
+| Makuhani wao waliweza kuoa                            | Makuhani wao hawakuweza kuoa                          |
 | Makuhani wao walikuwa na ndevu                        | Makuhani wao hawakuwa na ndevu                        |
 | Imani ya Nikia inasema Roho anakuja "kutoka kwa Baba" | Ya kuongeza "na Mwana" (Inaitwa "Maneno ya Filioque") |
 | Walikuwa na sherehe tofauti za Misa                   |                                                       |
@@ -119,9 +113,9 @@ Papa Leo IX alimtaka Michaeli, Askofu Mkuu wa Konstantinopo, kutengana naye. Pap
 
 Kulikuwapo na mabaki ya vikundi ambavyo havikuwa sehemu ya Kanisa Katoliki.
 
-### Waalbigeni walikuwa wakazi wa Albi huko Ufaransa watu hawa waliamini agano jipya ndilo lililotoa ujumbe na ya imani yao
+### Waalbigeni walikuwa wakazi wa Albi huko Ufaransa
 
-Walimpinga Papa na kanisa Katoliki. Waalbigeni walipewa mateso makali na Papa Innocent III mwaka 1208 baada ya Kristo.
+Watu hawa waliamini agano jipya ndilo lililotoa ujumbe na ya imani yao. Walimpinga Papa na kanisa Katoliki. Waalbigeni walipewa mateso makali na Papa Innocent III mwaka 1208 baada ya Kristo.
 
 ### Waldensi walikuwa wenyeji wa Ufaransa, Italia na Uswisi
 

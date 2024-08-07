@@ -1,8 +1,8 @@
-# Seven: The Postmodern Church (AD c. 1950–PRESENT)
+# Seven: The Postmodern Church (AD c. 1950–Present)
 
 From the 1950's till the present time
 
-## The church is run by the ballot box.
+## The church is run by the ballot box
 
 Laodicea means rule by the people. Many of the churches today are run by the people. The name of this period describes the government of this period. The church is no longer being led by God instead they are running things themselves and doing things their own way.
 
@@ -16,9 +16,7 @@ Jesus warned there would be false christs in the last days. The word Christ mean
 
 Jesus said there would be false prophets that would deceive many. There are many false prophets today in the charismatic movement. They replace the unction of the Holy Ghost with eloquence.
 
-### The charismatic movement came out of the Catholic Church
-
-## Church of Luxury & Corruption
+## Church of luxury
 
 ### The gospel of prosperity has replaced the Gospel of Jesus Christ in many of our modern churches
 

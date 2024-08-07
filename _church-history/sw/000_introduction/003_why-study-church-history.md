@@ -1,6 +1,6 @@
-### Kwanini tujifunze Historia ya kanisa?
+## Kwanini tujifunze Historia ya kanisa?
 
-#### Historia ya Kanisa inatusaidia kuelewa kile tunachoamini
+### Historia ya Kanisa inatusaidia kuelewa kile tunachoamini
 
 Ukiingia kanisa la Kiprotestanti popote ulimwenguni, utasalimiwa na huduma inayofanana na nyingine yeyote uliyowahi kuhudhuria. Kutakuwa na tofauti za mtindo, lakini utatarajia sala ya ufunguzi, wakati wa kuimba, sadaka, na kuhubiri Mara nyingi hizi zitakuwa katika utaratibu sawa. Hakuna mahali popote katika Biblia hutolewa orodha ya jinsi ya kuongoza huduma ya kanisa, sasa imekuwaje wote tumekuwa na mfumo sawa?
 
@@ -14,15 +14,15 @@ Tukisoma historia ya kanisa, tutaelewa mengi kuhusu namna hii mila ilivyoingia. 
 
 Somo la historia ya kanisa linatuwezesha kuutambua urithi wetu. Wanaume wengi na wanawake walikwishajitoa mhanga maisha yao katika jitihada zaokueneza ujumbe wa neno la Mungu. Neno la Mungu limehubiriwa katika mazingira magumu sana na wakati mwingine yanayoogopesha.
 
-#### Jifunze kuhusu uamsho wa ajabu uliofanyika katika Kanisa
+##### Jifunze kuhusu uamsho wa ajabu uliofanyika katika Kanisa
 
 Uwepo wa nguvu za Mungu umeonekana waziwazi katika historia yote ya Kanisa. Ni Roho Mtakatifu aliyewezesha uamsho ule uliopita na ndiye yeye anayefanya mambo yatendeke vizuri leo.
 
-#### Unaweza kuuona mkono wa Mungu ukiwa juu ya Kanisa lake kila wakati
+##### Unaweza kuuona mkono wa Mungu ukiwa juu ya Kanisa lake kila wakati
 
-#### Historia hujirudiarudia
+### Historia hujirudiarudia
 
-Mwandishi wa Mhubiri alisema "wala jambo jipya hakuna chini ya jua" (Mhubiri 1:9). Historia huja kwa mizunguko. Kwakuyasoma matukio yaliyokwishapita tunaweza kuelewa vizuri mambo yanayotokeahivi sasa. Tunaweza kujifunza kutokana na makosa yaliyofanywa na watu wengine. Mungu hachambui watu kwa ajili ya kuwaheshimu. Kila kitu alichokitendea kizazi kilichopita anaweza pia akatufanyia sisi iwapo tutamtii kama kizazi hicho cha zamani.
+Mwandishi wa Mhubiri alisema "wala jambo jipya hakuna chini ya jua" (Mhubiri 1:9&ndash;10). Historia huja kwa mizunguko. Kwakuyasoma matukio yaliyokwishapita tunaweza kuelewa vizuri mambo yanayotokeahivi sasa. Tunaweza kujifunza kutokana na makosa yaliyofanywa na watu wengine. Mungu hachambui watu kwa ajili ya kuwaheshimu. Kila kitu alichokitendea kizazi kilichopita anaweza pia akatufanyia sisi iwapo tutamtii kama kizazi hicho cha zamani.
 
 > Warumi 2:11&mdash;Kwa maana kwa Mungu hakuna upendeleo.
 
@@ -36,6 +36,6 @@ Mungu huwataka watu wake watende kazi kwa usawa katika vipindi vyote. Mungu aliv
 
 Mungu yule aliyewatumia akina Petro, Yakobo, na Yohane ni huyo atakayekutumia pia wewe. Mungu katika utendaji wake huwatumia watu wa kawaida tu kama wewe au mimi.
 
-### Uneemeshaji wa elimu ya mchungaji
+#### Uneemeshaji wa elimu ya mchungaji
 
 Mchungaji wa Injili anapaswa asiwe mjinga, awe mjuzi kwa utajiri wa historia ya kanisa.

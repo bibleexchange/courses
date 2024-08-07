@@ -2,7 +2,7 @@
 
 From the completion of the New Testament to the Edict of Constantine.
 
-This sets forth the period when the church was crushed beneath the iron heel of pagan Rome, yet it never gave out such sweet fragrance to God as in those two centuries of almost constant martyrdom. The Edict of Constantine was an official decree that ended the killing of Christians in the Roman Empire. Constantine will be further discussed in the Imperial Church Period.
+This period was when the church was persecuted by the Roman government. The Edict of Constantine was an official decree that ended the killing of Christians in the Roman Empire. We will discuss Constantine more in the Imperial Church Period.
 
 We have record of events of the first church period from the Bible, which we believe is inspired. We do not have biblical record for any other church period. This means that not all accounts that we will read are necessarily true. Two people can witness the same event and yet give completely different accounts of it. History is complicated because the sources may or may not be true. There is a saying, "history is written by the victors." This is because those that lost the battle were gone, and they were not able to write their own account of what happened.
 
@@ -14,7 +14,7 @@ Jesus foretold of the suffering of this period. Jesus encourages the saints not 
 
 Many were imprisoned for the sake of the Gospel during this period. It became against the Roman law to be a Christian.
 
-In AD 303 the Emperor Diocletian began the fiercest persecution of Christians that is called "The Great Persecution." This was an attempt to remove Christianity from the face of the earth. It is said that Diocletian erected a pillar inscribed, "In honor of the extirpation of the Christian superstition." Many Christians were burned alive for their testimony. Christians were eaten by wild beasts in the arena.
+In AD 303 the Emperor Diocletian began a persecution of Christians that is called "The Great Persecution." This was an attempt to remove Christianity from the face of the earth. It is said that Diocletian erected a pillar inscribed, "In honor of the extirpation of the Christian superstition." Many Christians were burned alive for their testimony. Christians were eaten by wild beasts in the arena.
 
 ## Causes of imperial persecutions
 
@@ -56,7 +56,7 @@ Ignatius was thrown to the wild beasts in the Coliseum. Standing in the arena as
 
 ### Justin Martyr (AD c100—c165)
 
-Justin Martyr was a philosopher who became a Christian after meeting an elderly man who explained how Jesus fulfilled Old Testament prophecies. He was one of the first apologists, which is someone who uses reason and logic to defend his faith. He wrote several books which are still in existence that give us much information about this period. One of his prominent works is _Dialogue with Trypho_, a treatise refuting the Ebionites (Rev. 2:9).
+Justin Martyr was a philosopher who became a Christian after meeting an elderly man who explained how Jesus fulfilled Old Testament prophecies. He was one of the first apologists, which is someone who uses reason and logic to defend his faith. He wrote several books which are still in existence that give us much information about this period. One of his prominent works is _Dialogue with Trypho_, a treatise refuting the Ebionites.
 
 He once wrote, "You can kill us, but cannot do us any real harm." He was beheaded in Rome in AD 165. His last words were, "I am a Christian, having been freed by Christ, and by the grace of Christ, I partake of the same hope."
 
@@ -88,6 +88,8 @@ Tertullian said "What has Athens to do with Jerusalem?" He was saying that the i
 
 He believed that persecution came from God. He thought it was a tool used to separate the true believers from the false ones.
 
+**Discussion:** Can Christians learn from non-Christian people?
+
 ### Blandina (AD c162–177)
 
 Blandina was a Christian slave girl who was tortured from morning until night declared, "I am a Christian, and no evil is committed among us."
@@ -102,7 +104,7 @@ The word _canon_ means "a rod, rule or measuring device."
 
 Refers to the Biblical books that were judged to be of divine origin (_inspired_ means "God breathed") and included as part of the Bible.
 
-No precise date can be given for the full recognition of the New Testament Canon, but it cannot be placed earlier than AD 300.
+No precise date can be given for the full recognition of the New Testament Canon, but it cannot be placed earlier than AD 300. The first record we have of our current list of New Testament books is from a letter written by Athanasius in the year AD 367. We will talk more about Athanasius in the next chapter.
 
 ## False teaching arose during this period
 

@@ -32,7 +32,7 @@ Mwandishi mmoja alisema kwamba "Zamani ni nchi ya kigeni: wanafanya mambo tofaut
 
 ### Ukristo
 
-Tunajifunza historia ya kanisa la Kikristo. Neno _Mkristo_ lina maana "ya kuwa kama Kristo au mmoja wa Wafuasi" wa Kristo ambapo lilitumika kwa mara ya kwanza huko Antiokia kwenye mwaka wa 40 BK (Matendo 11:26).
+Tunajifunza historia ya kanisa la Kikristo. Neno _Mkristo_ lina maana "ya kuwa kama Kristo au mtu anayemfuata Kristo" lilitumika kwa mara ya kwanza huko Antiokia karibu 40 BK (Matendo 11:26).
 
 Kuzaliwa, maisha, kifo, na ufufuko wake Kristo ndio kiini cha historia ya dunia. Historia imeandikwa kumzunguka Kristo; tarehe huandikwa katika KK (Kabla ya Kristo) na BK (Baada ya Kristo). Historia yote imemweka Kristo katikati yake.
 

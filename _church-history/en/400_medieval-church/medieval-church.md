@@ -2,25 +2,19 @@
 
 From the fall of Rome to the fall of Constantinople.
 
-## The Medieval Church was covered by darkness
+Roughly, the period from the 5th to 15th century is referred to as the "Medieval Ages."
 
-> Isaiah 9:19&mdash;Through the wrath of the LORD of hosts is the land darkened,
-
-Roughly, the period from the 5th to 15th century is referred to as the "Dark Ages."
-
-### Civilization and civility came to a halt
-
-#### There was little or no advancement in literature, art, and science
+## Civilization and civility came to a halt
 
 There was much poverty and superstition filled the land. Other countries raided Europe and killed many people. There were many people killed by the bubonic plague that swept the entire continent.
 
 **Discussion**: Does God still use judgment to punish people?
 
-#### The Bible was withheld from the people
+### The Bible was not available to the people
 
 The church taught that only the priests could interpret the Bible. The common people were forbidden to read the Bible. The Bible was either in the original languages or in Latin which few people could understand even if they had wanted to read it for themselves.
 
-#### The people were kept in darkness
+### The people were kept in darkness
 
 The mass was said in Latin which no one could understand. Truth and science were suppressed by the Catholic Church. Galileo, the man who invented the telescope, was almost killed because what he observed through his telescope went against the official position of the pope who was supposed to be infallible.
 

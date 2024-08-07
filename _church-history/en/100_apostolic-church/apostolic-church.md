@@ -46,7 +46,7 @@ He established a church in Samaria. This church was recognized by the Apostles. 
 
 #### Saul's persecution
 
-Saul was a leader in persecuting the Christians (Acts 8:3). He was the one that consented to Stephen's death. The persecution helped to expand the church (Acts 8:4).
+Before he was called Paul, his name was Saul. Saul was a leader in persecuting the Christians (Acts 8:3). He was the one that consented to Stephen's death. The persecution helped to expand the church (Acts 8:4).
 
 #### Saul's conversion
 
@@ -54,9 +54,9 @@ Jesus confronted Saul on the road to Damascus. He became a powerful preacher to 
 
 #### Paul's missionary journeys
 
-Paul took several missionary journeys to spread the Gospel. Paul established churches at Philippi, Thessalonica, Berea, Athens, and Corinth. He formed the seven churches of Asia either directly or indirectly (Acts 19:10). The churches were established though much suffering (II Cor. 11:23–28).
+Paul took several missionary journeys to spread the Gospel. Paul established churches at Philippi, Thessalonica, Berea, Athens, and Corinth. The churches were established though much suffering (II Cor. 11:23–28).
 
-He taught in the synagogues and received from the Holy Ghost much of the N.T. While a prisoner at Rome he wrote Ephesians, Philippians, Colossians, and Philemon. History records Paul was martyred around AD 67.
+He taught in the synagogues and received from the Holy Ghost much of the New Testament. While a prisoner at Rome he wrote Ephesians, Philippians, Colossians, and Philemon. History records Paul was martyred around AD 67.
 
 ### James
 
@@ -87,6 +87,10 @@ The Apostles called a council of elders together to settle the question of wheth
 ### The Roman general Titus destroyed the city of Jerusalem
 
 The city caught on fire, which caused the gold to melt between the bricks. Soldiers took apart the temple brick by brick to retrieve the gold. This event fulfilled the prophecy of Jesus concerning the temple.
+
+<span class='teacher'>
+Check historical proof for the destruction of the temple.
+</span>
 
 > Mark 13:2&mdash;And Jesus answering said unto him, Seest thou these great buildings? there shall not be left one stone upon another, that shall not be thrown down.
 

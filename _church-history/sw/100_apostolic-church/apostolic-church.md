@@ -46,7 +46,7 @@ Alianzisha kanisa katika Samaria. Kanisa hili lilitambuliwa na Mitume. Hili lili
 
 #### Mateso ya Sauli
 
-Sauli aliongoza askari waliowatesa sana Wakristo (Mdo. 8:3). Sauli ndiyea liyeidhinisha Stefano auawe. Mateso hayo yalisaidia kulieneza kwa upana zaidi kanisa (Mdo. 8:4).
+Kabla hajaitwa Paulo, jina lake lilikuwa Sauli. Sauli aliongoza askari waliowatesa sana Wakristo (Mdo. 8:3). Sauli ndiyea liyeidhinisha Stefano auawe. Mateso hayo yalisaidia kulieneza kwa upana zaidi kanisa (Mdo. 8:4).
 
 #### Kubadilika kwa Sauli
 
@@ -54,7 +54,7 @@ Yesu alikutana na Sauli katika barabara iendayo Dameski. Akiwa njiani alianguka 
 
 #### Safari za umishonari za Paulo
 
-Paulo alifanya safari nyingi za kueneza injili na alianzisha makanisa huko Filipi, Tesaloniki, Berea, Athene, na Korinto. Aliyaunda yale makanisa saba ya Asia moja kwa moja au kwa njia iliokuwa rasmi (Mdo. 19:10). Makanisa hayo yalianzishwa katika mateso makubwa (2 Kor. 11:23–28).
+Paulo alifanya safari nyingi za kueneza injili na alianzisha makanisa huko Filipi, Tesaloniki, Berea, Athene, na Korinto. Makanisa hayo yalianzishwa katika mateso makubwa (2 Kor. 11:23–28).
 
 Alifundisha katika masinagogi na alipokea toka kwa Roho Mtakatifu ujumbe mwingi wa Agano Jipya. Alipokuwa kifungoni Roma aliandika waraka kwa Waefeso, Wafilipi, Wakolosai na kwa Filemoni. Historia inaonesha kwamba Paulo alikufa shahidi mwaka 67 BK.
 
@@ -84,7 +84,7 @@ Mitume waliitisha baraza la wakuu wa watu wakae pamoja kuamua iwapo mataifa meng
 
 ### Wayahudi waliasi dhidi ya utawala wa Warumi mwaka wa 66 BK
 
-### Jemadari wa Yerusalemu aliyejulikana kama Tito aliubomoa kabisa mji wa Yerusalem
+### Jemadari wa Kirumi Tito aliharibu jiji la Yerusalemu
 
 Mji huo uliwaka moto mkubwa uliosababisha dhahabu iyeyukie katikati ya matofali yaliyoujenga. Askari walilivunja hekalu vipandevipande, tofali kwa tofali kwa lengo la kuondoa ile dhahabu iliyokuwa imeyeyukia katikati. Hili lilitimiza utabiri wa Yesu kuhusu hekalu hilo.
 

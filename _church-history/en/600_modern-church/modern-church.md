@@ -16,7 +16,7 @@ The world was his parish. He preached to thousands of people in the open air. He
 
 ### Jonathan Edwards (1703&mdash;1758)
 
-He became a pastor in Northampton, Massachusetts at the age of 17. In 1741 he read his famous sermon entitled "Sinners in the Hands of an Angry God" to his congregation. Great conviction fell on the congregation while they were preaching and revival spread throughout New England.
+He became a pastor in Northampton, Massachusetts, America at the age of 17. In 1741 he read his famous sermon entitled "Sinners in the Hands of an Angry God" to his congregation. Great conviction fell on the congregation while they were preaching and revival spread throughout New England.
 
 ## The Second Great Awakening (1820's)
 
@@ -24,7 +24,7 @@ This was another mighty move of God revival fires spread also into England.
 
 ### Charles Finney (AD 1792—1875)
 
-Charles Finney was in the forefront of a great American revival. In the early 1820's Finney preached Gospel meetings in NY that stirred a second flame of revival fires. Finney was a man of faith and a fiery evangelist of the Gospel. Finney has been referred to as "America's foremost evangelist."
+Charles Finney was in the forefront of a great American revival. In the early 1820's Finney preached Gospel meetings in New York that stirred a second flame of revival fires. Finney has been referred to as "America's foremost evangelist."
 
 ### D. L. Moody (AD 1837—1899)
 
@@ -32,9 +32,7 @@ Moody shook America and England for God. He preached the simple Gospel in the co
 
 ### Charles Spurgeon (AD 1834—1892)
 
-Spurgeon was a "Prince of Preachers" who was the Pastor of the Metropolitan Baptist Tabernacle in London. He preached to more than 5,000 people weekly for 40 years.
-
-### God was restoring the preaching of the cross to the church
+Spurgeon was a "Prince of Preachers" who was the Pastor of the Metropolitan Baptist Tabernacle in London, England. He preached to more than 5,000 people weekly for 40 years.
 
 ## The modern missionary movement
 
@@ -66,7 +64,7 @@ He founded China Inland Mission, which was a Missionary group that concentrated 
 
 ## The Azusa Street Revival (AD 1906)
 
-The Azusa Street Revival was a mighty outpouring of the Holy Ghost in Los Angeles California at the turn of the 20th century. God was restoring Pentecost to the Church.
+The Azusa Street Revival was a mighty outpouring of the Holy Ghost in Los Angeles California at the turn of the 20th century.
 
 ## The other notable preachers
 
@@ -76,7 +74,7 @@ Billy Sunday stood strong against alcohol and was a dynamic preacher of the Gosp
 
 ### Smith Wigglesworth (AD 1859–1947)
 
-Smith Wigglesworth was an Apostle of Faith who had a tremendous healing ministry.
+Smith Wigglesworth was an man of faith who had a healing ministry.
 
 ## The Tent Revivals of the 1950's
 

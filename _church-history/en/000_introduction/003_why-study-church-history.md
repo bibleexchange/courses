@@ -2,7 +2,7 @@
 
 ### Church history helps us understand what we believe
 
-If you enter a Protestant church anywhere in the world, you will be greeted with a service that is similar to any other one you have previously attended. There will be differences of style, but you could expect an opening prayer, a time of singing, an offering, and preaching. Often times these will be in a similar order. Nowhere in the Bible is given a list of how to hold a church service, so how have we universally adopted a similar form? 
+If you enter a Protestant church anywhere in the world, you will be greeted with a service that is similar to any other one you have previously attended. There will be differences of style, but you could expect an opening prayer, a time of singing, an offering, and preaching. Often times these will be in a similar order. Nowhere in the Bible is given a list of how to hold a church service, so how have we universally adopted a similar form?
 
 It is because much of what we do and believe as Christians has been shaped by over two-thousand years of tradition, though often we don't recognize it. "Tradition" is often considered a bad thing in Protestant churches. We like to believe we are doing things exactly like Paul and the other apostles did in the New Testament, but nowhere in the Bible do we see that Paul wore a suit and tie to church on Sundays (in fact, Sunday being designated as the official day of Christian worship comes from tradition and not the Bible).
 
@@ -22,7 +22,7 @@ There have been some great manifestations of God's power throughout the course o
 
 ### The repeat of history
 
-The writer of Ecclesiastes said "there is no new thing under the sun" (Ecc. 1:9). History comes in cycles. By studying the past we can learn about the present. We can learn from the mistakes and successes of others. God is no respecter of persons. What God has performed for past generations He can do for our generation if we obey Him as they did.
+The writer of Ecclesiastes said "there is no new thing under the sun" (Ecc. 1:9&ndash;10). History comes in cycles. By studying the past we can learn about the present. We can learn from the mistakes and successes of others. God is no respecter of persons. What God has performed for past generations He can do for our generation if we obey Him as they did.
 
 > Romans 2:11&mdash;For there is no respect of persons with God.
 

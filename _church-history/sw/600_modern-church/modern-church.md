@@ -16,7 +16,7 @@ Dunia ilikuwa ndio parokia yake. Aliwahubiria watu kwa maelfu katika maeneo ya w
 
 ### Jonathani Edwardi (1703–1758)
 
-Alikuwa mchungaji eneo la Northampton, Massachusetts akiwa na umri wa miaka 17. Mwaka 1741 alisoma hotuba yake maarufu yenye kichwa cha habari "Watenda dhambi wakiwa mikononi mwa Mungu aliyekasirika" mbele ya waumini wake. Imani ya ajabu iliwapata waumini wake kiasi kwamba walihubiri na kuongoza uamsho ulioenea Uingereza yote mpya.
+Alikuwa mchungaji eneo la Northampton, Massachusetts, Amerika akiwa na umri wa miaka 17. Mwaka 1741 alisoma hotuba yake maarufu yenye kichwa cha habari "Watenda dhambi wakiwa mikononi mwa Mungu aliyekasirika" mbele ya waumini wake. Imani ya ajabu iliwapata waumini wake kiasi kwamba walihubiri na kuongoza uamsho ulioenea Uingereza yote mpya.
 
 ## Kuzinduka kwa ajabu kwa mara ya pili (miaka ya 1820)
 
@@ -24,9 +24,7 @@ Huu ulikuwa ni muondoko mwingine wa Mungu wa kuwasha moto wa matumaini uliosamba
 
 ### Charles Finney (1792—1875 BK)
 
-Charles Finney alikuwa mstari wa mbele katika kuwasha moto wa uamsho mkubwa huko Marekani
-
-Katika miaka ya mwanzoni ya 1820 Finney alihubiri katika mikutano ya injili huko New York ambayo iliwasha moto wa uamsho kwa mara ya pili. Finney alikuwa ni mtu wa imani kali na mwinjilishaji shupavu wa neno la Mungu. Finney ameelezewa mara nyingi kama mwinjili anayeongoza wengine wote wa kutoka Amerika.
+Charles Finney alikuwa mstari wa mbele katika kuwasha moto wa uamsho mkubwa huko Marekani. Katika miaka ya mwanzoni ya 1820 Finney alihubiri katika mikutano ya injili huko New York ambayo iliwasha moto wa uamsho kwa mara ya pili. Finney ameelezewa mara nyingi kama mwinjili anayeongoza wengine wote wa kutoka Amerika.
 
 ### D. L. Moody (1837—1899 BK)
 
@@ -35,8 +33,6 @@ Moody aliitetemesha Marekani na Uingereza kwa ajili ya Mungu. Alihubiri Injili v
 ### Charles Spargeoni (1834—1892 BK)
 
 Spargeoni alikuwa ni Mwana wa mfalme wa wahubiri na alikuwa mchungaji wa Kanisa la Kibaptisti tubernakulo mjini Londoni. Aliwahubiria zaidi ya watu 5000 kwa saa 40 kila wiki.
-
-### Mungu alikuwa anarudisha mahubiri ya msalaba kwa kanisa lake
 
 ## Mwenendo wa kisasa kwa kazi za misheni
 
@@ -68,7 +64,7 @@ Alianzisha kituo cha Misioni ndani ya Uchina na kikundi chake kilihubiri injili 
 
 ## Uamsho wa Mtaa wa Azuza (1906 BK)
 
-Kuanza kwa karne ya 20 kulishuhudia mbubujiko wa Roho Mtakatifu huko Los Angeles katika California, Marekani. Mungu alikuwa analirudishia Kanisa Pentekoste upya.
+Kuanza kwa karne ya 20 kulishuhudia mbubujiko wa Roho Mtakatifu huko Los Angeles katika California, Marekani.
 
 ## Wahubiri wengine muhimu
 
@@ -78,7 +74,7 @@ Billy Sunday alisimama imara kupinga ulevi na alikuwa ni mhubiri shupavu wa inji
 
 ### Smith Wigglesworth (1859–1947 BK)
 
-Smith Wigglesworth alikuwa Mtume wa Imani ambaye alikuwa na huduma kubwa ya uponyaji.
+Smith Wigglesworth alikuwa mtu wa imani ambaye alikuwa na huduma ya uponyaji.
 
 ## Uamsho wa Mahemani wa miaka ya 1950
 

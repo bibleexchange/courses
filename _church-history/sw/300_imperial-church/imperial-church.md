@@ -24,8 +24,6 @@ Ukristo uliostawi katika kipindi cha mateso uligeuka wa kidunia chini ya maelewa
 
 ### Makanisa yaliyokamatwa wakati wa mateso yalirudishiwa hadhi yake
 
-Majengo mapya ya kanisa yalijengwa. Kanisa la Roma liitwalo Basilika likawa ndio jengo la mfano wa majengo ya kuvutia ya makanisa. Jengo la Basilika lilikuwa ni mahakama iliyokuwa na umbo la mstatili uliyogawanywa katika safu yanguzo zenye jukwaa lililokuwa nusu mviringo upande mmoja na viti vya maofisa vikiwepo mwishoni mwa upande mmoja. Huu ndio mfumo uliopo bado mpaka leo katika kanisa Katoliki. Mfano wa usanifu wa majengo wa namna hii ni Basilika ya Mtakatifu Petro huko Roma.
-
 ### Matoleo ya sadaka ambazo ni rasmi yalikoma
 
 Raia wa Roma waliacha kutoa matoleo za sadaka kwa miungu wa kipagani.
@@ -36,7 +34,7 @@ Mahekalu ya miungu pia yalikuwa yakipata misaada kutoka katika hazina ya umma. M
 
 ### Wachungaji walikuwa wakipewa marupurupu
 
-Makuhani akawa darasa tajiri. Wanaume walipenda nafasi hizi kwa faida ya fedha na nguvu zinazohusiana na nafasi hiyo.
+Makuhani akawa tabaka tajiri. Wanaume walipenda nafasi hizi kwa faida ya fedha na nguvu zinazohusiana na nafasi hiyo.
 
 ### Sehemu zingine za ibada ya kipagani zilikuwa sehemu ya kanisa
 
@@ -48,7 +46,7 @@ Baadhi ya watu watasema Konstantino alianzisha Kanisa la Kikatoliki, lakini lazi
 
 ### Mfalme Konstantino alichagua mji wa Ugriki uitwao Baizantiamu kuwa mji wake mkuu na akauita Konstantinopo (330 BK)
 
-Hali hii ilimwongezea ushawishi askofu wa Roma. Sasa mji mkuu ukawa ukombali sana na Roma na ile Himaya ikiwa imeshaporomoka.
+Konstantinopo ilikuwa katika eneo la Istanbul ya kisasa nchini Uturuki. Hali hii ilimwongezea ushawishi askofu wa Roma. Sasa mji mkuu ukawa ukombali sana na Roma na ile Himaya ikiwa imeshaporomoka.
 
 ### Kugawanywa kwa himaya hiyo kulifuatiwa na ujenzi wa mji mkuu mwingine
 
@@ -68,11 +66,13 @@ Alikuwa mlinzi wa imani katika ubishani wa Ariani. Aria ambaye aliongoza mafundi
 
 ### Yohana Krisostomu (345–407 BK)
 
-Huyu anajulikana kama "mdomo wa dhahabu" kwa sababu aliweza kuongea kwa ufasaha wa ajabu. Alikuwa mhubiri shupavu, kiongozi watu na mwenye uwezo mzuri wa kuifafanua Biblia. Alikuwa askofu wa Konstantinopo mwaka 398 BK. Alifukuzwa nchini kutokana na msimamo wake wa kusema ukweli na alifia uhamishoni.
+Huyu anajulikana kama "mdomo wa dhahabu" kwa sababu aliweza kuongea kwa ufasaha wa ajabu. Alikuwa mhubiri shupavu, kiongozi watu na mwenye uwezo mzuri wa kuifafanua Biblia. Alikuwa askofu wa Konstantinopo mwaka 398 BK. Alifukuzwa nchini kutokana na mafundisho yake na alifia uhamishoni.
 
 ### Augustino (354–430 BK)
 
 Augustino alisema, "Mioyo yetu haina pumziko hadi imekupata wewe." Alikuwa Askofu wa Hippo huko Afrika Kaskazini mwaka 395 BK. Yeye ndiye mtetezi Mkuu wa ubishani wa Pelagia. Mafundisho haya ya uongo yalipambwa na Pelagio ambaye hakuamini dhambi ya asili. Augustino alijenga jina lake kama mhubiri, mwalimu na mwandishi. Yeye alijihusisha katika changamoto nyingi za siku zake (mfano wa Udonatismu na Upelagiasmu).
+
+Mji wa Roma ulipoanguka, watu waliwalaumu Wakristo kwa anguko hilo. Walifikiri miungu ya kale ya Kirumi ilikasirika kwa sababu watu waliiacha na kuelekea Ukristo na hivyo miungu hiyo ilikuwa ikiiadhibu Rumi. Augustine aliandika kitabu chenye kichwa _Mji wa Mungu_ ambacho kilibishana kwamba Wakristo hawakuwajibiki na kwamba tutafute mji wa mbinguni na si mji hapa duniani.
 
 ### Ambrosi (339–397 BK)
 
@@ -92,7 +92,7 @@ Yeromi (aliyejulikana kama Eusebio) alitafasiri Biblia kwenda Kilatini mnamo mwa
 
 ### Patriki (387—461 BK)
 
-Patriki alikuwa mmishenari kutoka Uingereza kwenda Ireland. Aliuleta ukristo huko Ireland, na kanisa huko Ireland liliendelea kwa nje ya Utaratibu wa kirumi. Ireland haikuwa wakatoliki hadi 1100s.
+Patriki alikuwa mmishenari kutoka Uingereza kwenda Ayalandi. Aliuleta ukristo huko Ayalandi, na kanisa huko Ayalandi liliendelea kwa nje ya Utaratibu wa kirumi. Ayalandi haikuwa Wakatoliki hadi miaka ya 1100.
 
 ## Matukio ya ufunguo wa kipindi
 
@@ -149,7 +149,11 @@ Maaskofu walitengeneza maelezo ya imani, ambayo, baada ya nyogeza zingine zilizo
 
 Shahada inasema Yesu ni "Nuru kutoka Nuru." Je unawezaje kutenga nuru na jua? Kwa mfano huo huo je unawezaje kumtenga Mungu (Baba) kutoka Mungu (Mwana)?
 
-Baraza haikujenga wazo la Utatu, tangu Utatu ilikuwa sehemu ya ibada ya kanisa tangu mwanzo (kwa mfano, ilitumika katika ibada ya ubatizo). Kwa Nicea waliunda msamiati kuelezea yale waliyoamini tayari kuhusu Mungu.
+Baraza haikujenga wazo la Utatu, tangu Utatu ilikuwa sehemu ya ibada ya kanisa tangu mwanzo (kwa mfano, ilitumika katika ibada ya ubatizo). Kwa Nikia waliunda msamiati kuelezea yale waliyoamini tayari kuhusu Mungu.
+
+### Baraza ya Konstantinople (381 BK)
+
+Watu wengine hawakuamini kwamba Roho Mtakatifu alikuwa Mungu, kwa sababu Yeye hakuzungumza yeye Mwenyewe. Walisema kwamba hakuwa nafsi, bali nguvu ya kiroho. Baraza hii iliitwa ili kuthibitisha uungu wa Roho.
 
 ### Baraza la kwanza huko Efeso (431 BK)
 
@@ -157,7 +161,7 @@ Baraza la Nikia liliamua kwamba Yesu alikuwa Mungu pia mwanadamu lakini kulibaki
 
 #### Nestorius (386–451 BK)
 
-Nestorius alikuwa asikofu wa Konstantinopo. Ni mwindaji aliye jaribu kuzuia kuenea kwa mafundisho kama Arianism kutoka kueneza.
+Nestorius alikuwa asikofu wa Konstantinopo. Ni mwindaji aliye jaribu kuzuia kuenea kwa mafundisho kama mafundisho ya Ario kutoka kueneza.
 
 Nestorius alipokea mawazo ya viongozi wengine wa kanisa wakati alikataa kutumia neno _Theotokos_, ambalo linamaanisha "Mama wa Mungu." Aliamini kama Mwana wa Mungu alikuwapo kila wakati, basi hakuweza kuzaliwa. Alipenda neno _Christotokos_, ambalo linamaanisha "Mama wa Kristo." Nestorius pia hakupenda _Theotokos_ kwa sababu ya msisitizo kwamba Apollinarianism kuwekwa juu ya neno hili. Apollinarianism ilifundisha kwamba Yesu hakuwa na roho ya mwanadamu, lakini alikuwa Mungu amevaa katika mwili wa kibinadamu.
 
@@ -178,10 +182,6 @@ Baraza liliamua kinyume cha Nestorius na alikuwa uhamishoni kama mrithi. Pamojan
 Japokuwa kulikuwa na baadhi ya tofauti ya mafundisho kati ya Cyril na Nestorius, kwa kiasi kidogo hawakukubaliana kw jinsi ya uhamasishaji wa baadhi ya sehemu ya mafundisho ya Kristo na maajabu ya makubaliano yangeweza kuwepo kama wangekaa kuongea pamoja kuhusu mawazo yao. Wote wawili walikuwa na wasiwasi wa kulinda imani dhidi ya mafundisho ya uwongo. Wakati haiwezekani kujua, hatuwezi kushangaa makubaliano gani ambayo wangeweza kuja nao ikiwa walisema pamoja kuhusu mawazo yao.
 
 Ingawa Nestorius mara zote alihusishwa mhamiaji, baraza la Kalsedoni lilifanya maamuzi kuhusu mafundisho ya Kristo ambayo yalikuwa karibu na mawazo ya Nestorius. Nestorius pia alikuwa sahihi kuhusu ni namna gani _Mama wa Mungu_ walimtukuza Maria katika nafasi ambayo ilikuwa ni zaidi ya madai. Kwa miaka mingi, tumeona mila ya Kanisa la Katoliki la Kirumi likimtoa Maria katika nafasi aliyokuwa zaidi wamejihusisha kwa kimungu.
-
-### Baraza ya Konstantinople (381 BK)
-
-Watu wengine hawakuamini kwamba Roho Mtakatifu alikuwa Mungu, kwa sababu Yeye hakuzungumza yeye Mwenyewe. Walisema kwamba hakuwa nafsi, bali nguvu ya kiroho. Baraza hii iliitwa ili kuthibitisha uungu wa Roho.
 
 ### Baraza ya Chalcedon (451 BK)
 

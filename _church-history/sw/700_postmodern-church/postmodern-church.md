@@ -16,8 +16,6 @@ Yesu alikwishaonya kwamba watatokea waongo watakaojiita Kristo katika siku za mw
 
 Yesu alisema watakuwepo manabii wa uongo ambao watadanganya wengi. Kati ya wanakarismatiki wa siku hizi kuna manabii wengi wa uongo. Wanaondoa tendo la upako wa mafuta unaofanywa na Roho Mtakatifu.
 
-### Vuguvugu la ukarismatiki lilianzia ndani ya Kanisa Katoliki
-
 ## Kanisa la anasa na rushwa
 
 ### Injili ya mafanikio imeshaiondoa injili ya Yesu Kristo katika makanisa mengi ya kisasa
