@@ -1,77 +1,151 @@
-<p><span lang='en'>Chapter 21: &quot;The BrazenSerpent&quot; (John 3:14) </span></p>
-<p><span lang='en'>The Book of the Wars of the Lord </span></p>
-<p><span lang='en'>Numbers 21:14 </span></p>
-<p><span lang='en'>Wherefore it is said in the book of the wars of the LORD&#44;What he did in the Red sea&#44; and in the brooks of Arnon&#44; </span></p>
-<p><span lang='en'>Adam Clarke's Commentary: </span></p>
-<p><span lang='en'>[The book of the wars of the Lord] There are endless conjectures about this book&#44; both among ancients and moderns. Dr. Lightfoot'sopinion is the most simple&#44; and to me bears the greatest appearance of beingthe true one. &quot;This book seems to have been some book of remembrances anddirections&#44; written by Moses for Joshua's private instruction for the managementof the wars after him. See Ex 17:14-16. It may be that this was the same bookwhich is called the book of Jasher&#44; i. e.&#44; the book of the upright&#44; or adirectory for Joshua&#44; from Moses&#44; what to do and what to expect in his wars;and in this book it seems as if Moses directed the setting up of archery&#44; see2Sa 1:18&#44; and warrants Joshua to command the sun&#44; and expect its obedience&#44; Jos10:13.&quot; </span></p>
-<p><span lang='en'>Chapter 34: &quot;The Boundaries of Israel&apos;s Inheritance&quot; </span></p>
-<p><span lang='en'>All the land was theirs&#44; but they only possessed a portion. </span></p>
-<p><span lang='en'>Cities of Refuge </span></p>
-<p><span lang='en'>Numbers 35:6-34; Joshua20:1-9 </span></p>
-<p><span lang='en'>The idea of providing cities of refuge (Joshua 20:1-9) for capital offenses is rooted in the tension between customary tribal law (retaliation or revenge&#44; in which the blood relative isobligated to execute vengeance) and civil law (carried out less personally byan assembly according to a standard code of justice). </span></p>
-<p><span lang='en'>Blood feuds are usually associated with nomadic groups;legal procedures&#44; with villages and towns. Israel&#44; found it necessary to adoptan intermediate step regulating manslaughter&#44; so that an innocent person wouldnot be killed before standing trial. Absolution was possible only by beingcleared by his hometown assembly&#44; and by the eventual death of the high priest&#44;which freed the offender from ritual pollution. </span></p><div class='questons-page'>
+Chapter 21: "The BrazenSerpent" (John 3:14)
 
-<h1><span lang='en'>Section 4-- Numbers Study Questions </span></h1>
-<h1><span lang='en'>From what is the title &quot;Numbers&quot; derived? </span></h1>
-<h2><span lang='en'>&quot; The name &quot;Numbers&quot; is derived from the fact this book contains the numbering of the people of Israel in the wilderness of Sinai(chapters 1-4) and the numbering of the people afterwards on the plain of Moab(chapter 26). </span></h2>
-<h1><span lang='en'>What does this book record&#44; generally speaking? </span></h1>
-<h2><span lang='en'>This book records Israel&apos;s forty years of wandering in the wilderness and of the equipping of the people for taking possession of thePromised Land. </span></h2>
-<h1><span lang='en'>Write verbatim the key verse of this book. </span></h1>
-<h2><span lang='en'>Numbers 9:17-- And when the cloud was taken up from the tabernacle&#44; then after that the children of Israel journeyed: and in the placewhere the cloud abode&#44; there the children of Israel pitched their tents. </span></h2>
-<h1><span lang='en'>What was the criteria for the census taken in Numbers chapter one? </span></h1>
-<h2><span lang='en'>1. Male - 2.20 years old and upward - 3.All able to go forth to war </span></h2>
-<h1><span lang='en'>Was the sum of the Levites taken with these? Explain your answer. </span></h1>
-<h2><span lang='en'>No&#44; God Did not want them numbered along with the people. They would not be going forth to war. </span></h2>
-<p><span lang='en'>Draw and illustrate the order of encampment of the tribes in the wilderness. </span></p>
-<p><span lang='en'>Dan </span></p>
-<p><span lang='en'>Asher </span></p>
-<p><span lang='en'>Naphtali </span></p>
-<p><span lang='en'>NORTH </span></p>
-<p><span lang='en'>Ephraim </span></p>
-<p><span lang='en'>levites </span></p>
-<p><span lang='en'>levites </span></p>
-<p><span lang='en'>levites </span></p>
-<p><span lang='en'>Judah </span></p>
-<p><span lang='en'>Manasseh </span></p>
-<p><span lang='en'>levites </span></p>
-<p><span lang='en'>TABERNACLE </span></p>
-<p><span lang='en'>levites </span></p>
-<p><span lang='en'>Issachar </span></p>
-<p><span lang='en'>Benjamin </span></p>
-<p><span lang='en'>levites </span></p>
-<p><span lang='en'>levites </span></p>
-<p><span lang='en'>levites </span></p>
-<p><span lang='en'>Zebulon </span></p>
-<p><span lang='en'>Reuben </span></p>
-<p><span lang='en'>Simeon </span></p>
-<p><span lang='en'>Gad </span></p>
-<p><span lang='en'>Draw and illustrate the order of marching of the tribes in the wilderness. </span></p>
-<p><span lang='en'>Dan </span></p>
-<p><span lang='en'>Ephraim </span></p>
-<p><span lang='en'>Kohathites carry the tabernacle furnishings </span></p>
-<p><span lang='en'>Reuben </span></p>
-<p><span lang='en'>Gershonites and Merarites carry the tabernacle </span></p>
-<p><span lang='en'>Judah </span></p>
-<p><span lang='en'>Levites carry the ark </span></p>
-<p><span lang='en'>Asher </span></p>
-<p><span lang='en'>Manasseh </span></p>
-<p><span lang='en'>Simeon </span></p>
-<p><span lang='en'>Issachar </span></p>
-<p><span lang='en'>Naphtali </span></p>
-<p><span lang='en'>Benjamin </span></p>
-<p><span lang='en'>Gad </span></p>
-<p><span lang='en'>Zebulon </span></p>
-<h1><span lang='en'>Who were the Kohathites&#44; Gershonites&#44; and Merarites? </span></h1>
-<h2><span lang='en'>KOHATH. carried the ark and sacred utensils of the tabernacle during travel </span></h2>
-<h2><span lang='en'>GERSHON. carried its curtains and other parts form station to station. </span></h2>
-<h2><span lang='en'>MERARI. The youngest of Levi&apos;s three sons&#44; were charged with the framework </span></h2>
-<h1><span lang='en'>Explain briefly the provision of the &quot;Cities of Refuge.&quot; </span></h1>
-<h2><span lang='en'>Cities were designated as &quot;Refuges&quot; where those accused of capital offenses could find sanctuary until their case was heard by elders ofhis city. </span></h2>
-<h1><span lang='en'>In your own words&#44;Write about one of the wilderness &quot;murmurings&quot; in 3-10 sentences. </span></h1>
-<h1><span lang='en'>What is the main theme of each of the following chapters? </span></h1>
-<p><span lang='en'>Chapter 10-- </span></p>
-<h2><span lang='en'>Trumpets of Silver </span></h2>
-<p><span lang='en'>Chapter 19-- </span></p>
-<h2><span lang='en'>Red Heifer </span></h2>
-<p><span lang='en'>Chapter 21-- </span></p>
-<h2><span lang='en'>Brazen Serpent </span></h2></div><div id='sec-12'>
+The Book of the Wars of the Lord
+
+Numbers 21:14
+
+Wherefore it is said in the book of the wars of the LORD,What he did in the Red sea, and in the brooks of Arnon,
+
+Adam Clarke's Commentary:
+
+\[The book of the wars of the Lord\] There are endless conjectures about this book, both among ancients and moderns. Dr. Lightfoot'sopinion is the most simple, and to me bears the greatest appearance of beingthe true one. "This book seems to have been some book of remembrances anddirections, written by Moses for Joshua's private instruction for the managementof the wars after him. See Ex 17:14-16. It may be that this was the same bookwhich is called the book of Jasher, i. e., the book of the upright, or adirectory for Joshua, from Moses, what to do and what to expect in his wars;and in this book it seems as if Moses directed the setting up of archery, see2Sa 1:18, and warrants Joshua to command the sun, and expect its obedience, Jos10:13."
+
+Chapter 34: "The Boundaries of Israel's Inheritance"
+
+All the land was theirs, but they only possessed a portion.
+
+Cities of Refuge
+
+Numbers 35:6-34; Joshua20:1-9
+
+The idea of providing cities of refuge (Joshua 20:1-9) for capital offenses is rooted in the tension between customary tribal law (retaliation or revenge, in which the blood relative isobligated to execute vengeance) and civil law (carried out less personally byan assembly according to a standard code of justice).
+
+Blood feuds are usually associated with nomadic groups;legal procedures, with villages and towns. Israel, found it necessary to adoptan intermediate step regulating manslaughter, so that an innocent person wouldnot be killed before standing trial. Absolution was possible only by beingcleared by his hometown assembly, and by the eventual death of the high priest,which freed the offender from ritual pollution.
+
+# Section 4-- Numbers Study Questions
+
+# From what is the title "Numbers" derived?
+
+## " The name "Numbers" is derived from the fact this book contains the numbering of the people of Israel in the wilderness of Sinai(chapters 1-4) and the numbering of the people afterwards on the plain of Moab(chapter 26).
+
+# What does this book record, generally speaking?
+
+## This book records Israel's forty years of wandering in the wilderness and of the equipping of the people for taking possession of thePromised Land.
+
+# Write verbatim the key verse of this book.
+
+## Numbers 9:17-- And when the cloud was taken up from the tabernacle, then after that the children of Israel journeyed: and in the placewhere the cloud abode, there the children of Israel pitched their tents.
+
+# What was the criteria for the census taken in Numbers chapter one?
+
+## 1\. Male - 2.20 years old and upward - 3.All able to go forth to war
+
+# Was the sum of the Levites taken with these? Explain your answer.
+
+## No, God Did not want them numbered along with the people. They would not be going forth to war.
+
+Draw and illustrate the order of encampment of the tribes in the wilderness.
+
+Dan
+
+Asher
+
+Naphtali
+
+NORTH
+
+Ephraim
+
+levites
+
+levites
+
+levites
+
+Judah
+
+Manasseh
+
+levites
+
+TABERNACLE
+
+levites
+
+Issachar
+
+Benjamin
+
+levites
+
+levites
+
+levites
+
+Zebulon
+
+Reuben
+
+Simeon
+
+Gad
+
+Draw and illustrate the order of marching of the tribes in the wilderness.
+
+Dan
+
+Ephraim
+
+Kohathites carry the tabernacle furnishings
+
+Reuben
+
+Gershonites and Merarites carry the tabernacle
+
+Judah
+
+Levites carry the ark
+
+Asher
+
+Manasseh
+
+Simeon
+
+Issachar
+
+Naphtali
+
+Benjamin
+
+Gad
+
+Zebulon
+
+# Who were the Kohathites, Gershonites, and Merarites?
+
+## KOHATH. carried the ark and sacred utensils of the tabernacle during travel
+
+## GERSHON. carried its curtains and other parts form station to station.
+
+## MERARI. The youngest of Levi's three sons, were charged with the framework
+
+# Explain briefly the provision of the "Cities of Refuge."
+
+## Cities were designated as "Refuges" where those accused of capital offenses could find sanctuary until their case was heard by elders ofhis city.
+
+# In your own words,Write about one of the wilderness "murmurings" in 3-10 sentences.
+
+# What is the main theme of each of the following chapters?
+
+Chapter 10--
+
+## Trumpets of Silver
+
+Chapter 19--
+
+## Red Heifer
+
+Chapter 21--
+
+## Brazen Serpent

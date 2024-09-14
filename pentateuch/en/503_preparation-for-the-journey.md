@@ -1,160 +1,315 @@
-<p><span lang='en'>Chapter 1 </span></p>
-<p><span lang='en'>The Men of War Numbered 16803 </span></p>
-<p><span lang='en'>(49 times number or sum can be found in this book.) </span></p>
-<p><span lang='en'>On the first day&#44; of the 2supnd month&#44; in the 2supnd year from their exodus&#44; God commands Moses&#44; the author of this book&#44; to take a sum of allthe congregation of the children of Israel. This was the criteria for thistally: </span></p>
-<p><span lang='en'>1Male </span></p>
-<p><span lang='en'>220 years old and upward </span></p>
-<p><span lang='en'>3All able to go forth to war </span></p>
-<p><span lang='en'>v.21 Reuben - Elizur - 46&#44;500 </span></p>
-<p><span lang='en'>v.23 Simeon - Shelumiel - 59&#44;300 </span></p>
-<p><span lang='en'>v.25 Gad - Eliasaph - 45&#44;650 </span></p>
-<p><span lang='en'>v.27 Judah - Nahshon - 74&#44;600 </span></p>
-<p><span lang='en'>v.29 Issachar - Nathaneel - 54&#44;400 </span></p>
-<p><span lang='en'>v.31 Zebulon - Eliab - 57&#44;400 </span></p>
-<p><span lang='en'>v.33 Ephraim - Elishama - 40&#44;500 </span></p>
-<p><span lang='en'>v.35 Manasseh - Gamaliel - 32&#44;200 </span></p>
-<p><span lang='en'>v.37 Benjamin - Abidan - 35&#44;400 </span></p>
-<p><span lang='en'>v.39 Dan - Ahiezer - 62&#44;700 </span></p>
-<p><span lang='en'>v.41 Asher - Pagiel - 41&#44;500 </span></p>
-<p><span lang='en'>v.43 Naphtali - Ahira - 53&#44;400 </span></p>
-<p><span lang='en'>v.46 Grand Total: 603&#44;550 </span></p>
-<p><span lang='en'>The Levites Exempted for Tabernacle Service 47-54 </span></p>
-<p><span lang='en'>Only thou shalt not number the tribe of Levi&#44; neither take the sum of them among the children of Israel:--v.49 </span></p>
-<p><span lang='en'>KOHATH. Son of Levi&#44; Ge 46:11&#44; and father of theKohathites&#44; who were appointed to carry the ark and sacred utensils of thetabernacle during the journeying.&#44; Ex 6:16-24; Nu 4:4-15. </span></p>
-<p><span lang='en'>GERSHON. The eldest son of Levi&#44; and head of one of the three branches of the Levitical tribe&#44; Ge 46:11; Ex 6:16. The Gershonitesencamped west of the tabernacle in the wilderness&#44; and carried its curtains andother parts form station to station&#44; Nu 3:17&#44;25; 4:24-28&#44;38-41; 10:17. Thirteen cities were assigned to them in northern Canaan&#44; Jos 21:6; 1Ch5:62&#44;71. </span></p>
-<p><span lang='en'>MERARI. The youngest of Levi&apos;s three sons&#44; born inCanaan&#44; and head of a family of the Levites&#44; Ge 46:11; Ex 6:16; Nu 3:17; 1Ch5:1. In the journey through the wilderness they were charged with theframework of the tabernacle&#44; to carry from one place of encampment to another&#44;and there set it up&#44; Nu 4:29-33; 7:8. Twelve cities were assigned to thembeyond Jordan&#44; Jos 21:7&#44;34-40. </span></p>
-<p><span lang='en'>Chapter 2 </span></p>
-<p><span lang='en'>The Order of the Tribes in their tents: </span></p>
-<p><span lang='en'>ENCAMPMENT ORDER </span></p>
-<p><span lang='en'>Dan * </span></p>
-<p><span lang='en'>Asher </span></p>
-<p><span lang='en'>Naphtali </span></p>
-<p><span lang='en'>Ephraim* </span></p>
-<p><span lang='en'>Judah* </span></p>
-<p><span lang='en'>Manasseh </span></p>
-<p><span lang='en'>Issachar </span></p>
-<p><span lang='en'>TABERNACLE </span></p>
-<p><span lang='en'>Benjamin </span></p>
-<p><span lang='en'>Zebulon </span></p>
-<p><span lang='en'>Reuben* </span></p>
-<p><span lang='en'>Simeon </span></p>
-<p><span lang='en'>Gad </span></p>
-<p><span lang='en'>MARCHING ORDER </span></p>
-<p><span lang='en'>Dan * </span></p>
-<p><span lang='en'>Asher </span></p>
-<p><span lang='en'>Zebulon </span></p>
-<p><span lang='en'>Naphtali </span></p>
-<p><span lang='en'>Benjamin </span></p>
-<p><span lang='en'>Gad </span></p>
-<p><span lang='en'>Chapter Three Census of the Levites </span></p>
-<p><span lang='en'>Numbers 3:39 </span></p>
-<p><span lang='en'>All that were numbered of the Levites&#44; which Moses andAaron numbered at the commandment of the LORD&#44; throughout their families&#44; allthe males from a month old and upward&#44; were twenty and two thousand. </span></p>
-<p><span lang='en'>Adam Clarke's Commentary: </span></p>
-<p><span lang='en'>This total does not agree with the particulars; for theGershonites were 7&#44;500&#44; the Kohathites 8&#44;600&#44; the Merarites 6&#44;200&#44; total22&#44;300. Several methods of solving this difficulty have been proposed bylearned men; Dr. Kennicott's is the most simple. Formerly the numbers in theHebrew Bible were expressed by letters&#44; and not by words at full length; and iftwo nearly similar letters were mistaken for each other&#44; many errors in thenumbers must be the consequence. Now it is probable that an error has creptinto the number of the Gershonites&#44; Nu 3:22&#44; where&#44; instead of 7&#44;500&#44; we shouldread 7&#44;200&#44; as K caph&#44; 500&#44; might have been easily mistaken for r resh&#44; 200&#44;especially if the down stroke of the caph had been a little shorter thanordinary&#44; which is often the case in MSS. The extra 300 being taken off&#44; thetotal is just 22&#44;000&#44; as mentioned in the 39th verse. </span></p>
-<p><span lang='en'>The Levites&quot; Service 14246 </span></p>
-<p><span lang='en'>The Firstborn Freed by the Levites 40-43 </span></p>
-<p><span lang='en'>The Overplus Redeemed 44-51 </span></p>
-<p><span lang='en'>Chapter 6:1-21: &quot;The Law of the Nazarite&quot; </span></p>
-<p><span lang='en'>Chapter 6:22-27: &quot;The Custom and Manner of Blessing a Child of Israel&quot; </span></p>
-<p><span lang='en'>Chapter 7: &quot;The Princes Bring Their Offering&quot; </span></p>
-<p><span lang='en'>Chapter 8:1-4: &quot;Cleansing of the Levites&quot; </span></p>
-<p><span lang='en'>Chapter 8:5-22: &quot;Aaron&apos;s Lighting of the Candlestick&quot; </span></p>
-<p><span lang='en'>Chapter 8:23-26: &quot;The Age and Time of Levitical Service&quot; </span></p>
-<p><span lang='en'>Chapter 9:1-14 &quot;Special Passover Provisions&quot; </span></p>
-<p><span lang='en'>Chapter 9:15-23 &quot;Following the Cloud and Fire&quot; </span></p>
-<p><span lang='en'>Chapter 10:1-10: &quot;The Two Trumpets of Silver&quot; </span></p>
-<p><span lang='en'>1Call toMan </span></p>
-<p><span lang='en'>2Appeal toGod </span></p>
-<p><span lang='en'>Exodus 19:16--&hellip;&quot;the voice of the trumpet exceeding loud&quot;--A sound not made by human breathe. </span></p>
-<p><span lang='en'>The SilverTrumpets speak to us as the voice of God to the assembly. 1Peter4:11--If any man speak&#44; let him speak as the oracles of God&hellip; </span></p>
-<p><span lang='en'>Numbers 10:2--Make thee two trumpets of silver; of a whole piece shalt thou make them: that thou mayest use them for the calling of the assembly&#44; and for the journeyingof the camps. </span></p>
-<h1><span lang='en'>I.There were strict orders in making the Silver Trumpets and using them. </span></h1>
-<h2><span lang='en'>A.&quot;Make thee two trumpets of silver&quot; </span></h2>
-<h3><span lang='en'>1Making the Trumpets </span></h3>
-<h4><span lang='en'>a.Sound-Trumpet (loud) Ex. 19:16 &quot;exceeding loud&quot; </span></h4>
-<h4><span lang='en'>b.Color-Silver(redemption) </span></h4>
-<p><span lang='en'>Psalms 12:6--The words of the LORD are pure words: as silver tried in a furnace of earth&#44; purified seven times. Psalm 66:10--For thou&#44; O God&#44; hast proved us: thou hast tried us&#44;as silver is tried. </span></p>
-<p><span lang='en'>A.&quot;Of a whole piece shalt thou make them&quot; </span></p>
-<p><span lang='en'>a.TheWord of God </span></p>
-<p><span lang='en'>Trumpets are made from the information and Revelation God gives to you. </span></p>
-<p><span lang='en'>b.TheBible </span></p>
-<p><span lang='en'>Old Testament &amp; NewTestament. Two Testaments as one Book. Both record the voice that proclaims the truth about Redemption&#44; Salvation&#44; Deliverance&#44; Healing and Victory. uThevoice on the cross &quot;It is finished&quot; Redemption has beenaccomplished-the provision has been made The scarlet thread of Redemption iswoven through every book of the Bible. Jesus is our blessed Redeemer </span></p>
-<p><span lang='en'>B.&quot;that thou mayest use them&quot; </span></p>
-<p><span lang='en'>1Usingthe Trumpets </span></p>
-<p><span lang='en'>a.&quot;for the calling of the assembly&quot; </span></p>
-<p><span lang='en'>b.&quot;for the journeying of the camps&quot; </span></p>
-<p><span lang='en'>c.&quot;Jubilee&quot; Lev.25:9 Day of Atonement </span></p>
-<p><span lang='en'>d.&quot;Alarm for war&quot; Num. 10:9; 31:6 II Tim. 3:16;1 Cor. 14:8;Jer.6:17; </span></p>
-<p><span lang='en'>Trumpets must be used for His Honor and His Glory. </span></p>
-<p><span lang='en'>Numbers 10:2--Make thee two trumpets of silver; of a whole piece shalt thou make them: that thou mayest use them for the calling of the assembly&#44; and for the journeying of the camps. </span><span lang='swa'>"Hes 10:2&mdash; Jifanyie tarumbeta mbili za fedha; utazifanya za kazi ya ufuzi; nawe utazitumia kwa kuwaita mkutano wakutane&#44; na kwa kusafiri kwao yale makambi. 
-" </span></p>
-<p><span lang='en'>C.Make thee two trumpets of silver of a whole piece shalt thou make them 1. Becoming responsible to the Word </span></p>
-<p><span lang='en'>a.&quot;Make thee two trumpets of a whole piece&quot; </span></p>
-<p><span lang='en'>1)The Old Covenant </span></p>
-<p><span lang='en'>2)The New Covenant </span></p>
-<p><span lang='en'>Mat. 28:19;Romans 1:17; 10:8&#44; 15&#44;17; I Cor. 2:9-10 </span></p>
-<p><span lang='en'>1 Tim. 4:16--Take heed unto thyself&#44; and unto the doctrine; continue in them: for in doing this thou shalt both save thyself&#44; and them that hear thee. </span></p>
-<p><span lang='en'>Titus 2:1--But speak thou the things which become sound doctrine: </span></p>
-<p><span lang='en'>Joel 2:1--Blow ye the trumpet in Zion&#44; and sound an alarm in my holy mountain: let all the inhabitants of the land tremble: for the day of the LORD cometh&#44; for it is nighat hand; </span></p>
-<p><span lang='en'>Hosea 8:1--Set the trumpet to thy mouth. He shall come as an eagle against the house of theLORD&#44; because they have transgressed my covenant&#44; and trespassed against mylaw. </span></p>
-<p><span lang='en'>1Thes. 1:8--For from you sounded out the word of the Lord not only in Macedonia and Achaia&#44; but also in every place your faith to God-ward is spread abroad; so that we neednot to speak any thing. </span></p>
-<p><span lang='en'>You must be responsible to the things God reveals to you. </span></p>
-<p><span lang='en'>The written Word is the supreme authority we judge all revelation by. </span></p>
-<p><span lang='en'>The source of our faith is revealed to us by the Holy Ghost out of the written Word. TheRevealed Word produces the faith not the written Word. </span></p>
-<p><span lang='en'>Romans 1:17 &quot;Faith to faith&quot; </span></p>
-<p><span lang='en'>John 1:16 &quot;Grace for Grace&quot; II Peter 3:18 </span></p>
-<p><span lang='en'>II Cor. 3:18 &quot;Glory to Glory&quot; </span></p>
-<p><span lang='en'>Proverbs 4:18 &quot;more and more&quot; (Light to Light) </span></p>
-<p><span lang='en'>Psalms 84:7 &quot;Strength to Strength&quot; </span></p>
-<p><span lang='en'>Isaiah 6:3 &quot;Holy&#44;Holy&#44; Holy&quot; </span></p>
-<p><span lang='en'>Numbers 10:2--Make thee two trumpets of silver; of a whole piece &hellip; </span></p>
-<p><span lang='en'>John 6:12--&hellip;Gather up the fragments that remain&#44; that nothing be lost. Phil.2:12-13 (work out what God has worked in You) </span></p>
-<p><span lang='en'>John 6:63--It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you&#44; they are spirit&#44; and they are life. </span></p>
-<p><span lang='en'>John 8:26-28 &quot;The Father hath taughtMe&quot; </span></p>
-<p><span lang='en'>John 12:49-50 &quot;as the Father said so I speak&quot; </span></p>
-<p><span lang='en'>II Timothy 4:12 &quot;Preach the Word&quot; Jonah2:2 &quot;Preach the Preaching I bid thee&quot; </span></p>
-<p><span lang='en'>Mat. 28:19-20 &quot;Observe all things whatsoever I have commanded&quot; Joshua 1:7-8 &quot;Observe to do&quot; </span></p>
-<p><span lang='en'>Hear and give a clear sound </span></p>
-<p><span lang='en'>It is not enough to receive a Revelation we must use them. </span></p>
-<p><span lang='en'>All souls are lost without The LordJesus Christ as their savior. </span></p>
-<p><span lang='en'>All souls are saved through believing in the blood of Jesus Christ to cleanse them from all sin.No man issaved in his sin but from his sin. </span></p>
-<p><span lang='en'>Numbers 10:3--And when they shall blow with them&#44;all the assembly shall assemble themselves to thee at the door of thetabernacle of the congregation. </span></p>
-<p><span lang='en'>D.&quot;they shall blow with them&quot; </span></p>
-<p><span lang='en'>1The Blowing of the Trumpets </span></p>
-<p><span lang='en'>a.The calling of the assembly </span></p>
-<p><span lang='en'>1)&quot;at the Door&quot; 10:3 </span></p>
-<p><span lang='en'>a)The invitation to Christ John 10:7&#44;9; 14:6; </span></p>
-<p><span lang='en'>b)&quot;they shall blow with them&quot; </span></p>
-<p><span lang='en'>This means to speak from both the Old and the New&#44; the wholeWord of God spoken. Acts 20:27 &quot;all the counsel of God&quot; </span></p>
-<p><span lang='en'>2)&quot;assemble themselves to thee&quot; </span></p>
-<p><span lang='en'>Numbers 10:4&#44;7 &quot;Blow&#44;but with one trumpet&quot; </span></p>
-<p><span lang='en'>a)A special calling--Not everybody will respond to this call </span></p>
-<p><span lang='en'>b)A call toHoliness </span></p>
-<p><span lang='en'>c)A call to Sanctification </span></p>
-<p><span lang='en'>(1)Separation from the world (2)Set apart untoGod </span></p>
-<p><span lang='en'>d) A call to bedience and unity </span></p>
-<p><span lang='en'>Numbers 8:7 &quot;And thus shalt thou do unto them&#44; to cleanse them&hellip; and so make themselves clean.&quot; I Peter1:22; I I Cor. 7:1; II Timothy 2:21 </span></p>
-<p><span lang='en'>b.Journeying </span></p>
-<p><span lang='en'>1. The call for progression&#44; advancement </span></p>
-<p><span lang='en'>10:5 &quot;&hellip;camps&hellip; Go Forward&quot; </span></p>
-<p><span lang='en'>I John 1:7&#44; 9 (Go on in God) Hebrews 6:1 &quot;Let us go on unto perfection&quot; I Peter 1:17 </span></p>
-<p><span lang='en'>c.War </span></p>
-<p><span lang='en'>Num. 10:9--And if ye go to war in your land against the enemy that oppresseth you&#44; then ye shall blow an alarm with the trumpets; and ye shall be remembered before theLORD your God&#44; and ye shall be saved from your enemies. </span></p>
-<p><span lang='en'>This Gospel prepares us for war - I Peter 4:1; Eph.6:10-18; II Cor. 10:3-6 </span></p>
-<p><span lang='en'>Many have nothing to fight with to destroy the devil and nothing to protect themselves. </span></p>
-<p><span lang='en'>As the Word of God is Revealed and applied you have your weapon supplied to you by the Holy Ghost. (Isaiah 59:19; I John 3:8) </span></p>
-<p><span lang='en'>(Eph. 2:8.)Our whole experience from beginning to end depends on the grace that is revealed to us and that we allow God to work in our heartthrough faith and patience. (Titus 2:11-15; I Peter 4:1&#44; 4&#44; 8-14) </span></p>
+Chapter 1
 
-<p><span lang='en'>d.&quot;In theday of gladness&quot; (a day of gladness) </span></p>
-<p><span lang='en'>1Day ofSalvation-- Saved into the Family of God </span></p>
-<p><span lang='en'>2Baptismof the Spirit-- </span></p>
-<p><span lang='en'>(earnest of our inheritance) - Eph 1:13-14 Baptized into the body of Christ-- 1Cor 12:13 </span></p>
-<p><span lang='en'>3Day ofAdoption-- Romans 8:23; 14-19; Gal. 4:1-7 </span></p>
-<p><span lang='en'>Phil.2:15-16; 3:10-14&#44;21; Heb.2:10 </span></p>
-<p><span lang='en'>Romans 8:18 For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed inus. </span></p>
-<p><span lang='en'>e.Blow with the trumpets over your burnt offerings and sacrifices- these represent thecross- the Gospel </span></p>
-<p><span lang='en'>I Cor. 1:18; Romans 1:16 </span></p>
-<p><span lang='en'>Jesus is the one that laid down His life for us. II Cor. 5:21 </span></p>
-<p><span lang='en'>The clear sound must go out exceedingly loud. Theclear sound ofRedemption&#44; The clear sound Salvation Theclear sound ofResurrection The clear sound ofDeliverance The sound of the whole Word of God </span></p>
-<p><span lang='en'>Chapter 10:11-36: &quot;FirstSteps in Following the Cloud&quot; </span></p>
-<p><span lang='en'>20th </span></p>
+The Men of War Numbered 16803
+
+(49 times number or sum can be found in this book.)
+
+On the first day, of the 2supnd month, in the 2supnd year from their exodus, God commands Moses, the author of this book, to take a sum of allthe congregation of the children of Israel. This was the criteria for thistally:
+
+1Male
+
+220 years old and upward
+
+3All able to go forth to war
+
+v.21 Reuben - Elizur - 46,500
+
+v.23 Simeon - Shelumiel - 59,300
+
+v.25 Gad - Eliasaph - 45,650
+
+v.27 Judah - Nahshon - 74,600
+
+v.29 Issachar - Nathaneel - 54,400
+
+v.31 Zebulon - Eliab - 57,400
+
+v.33 Ephraim - Elishama - 40,500
+
+v.35 Manasseh - Gamaliel - 32,200
+
+v.37 Benjamin - Abidan - 35,400
+
+v.39 Dan - Ahiezer - 62,700
+
+v.41 Asher - Pagiel - 41,500
+
+v.43 Naphtali - Ahira - 53,400
+
+v.46 Grand Total: 603,550
+
+The Levites Exempted for Tabernacle Service 47-54
+
+Only thou shalt not number the tribe of Levi, neither take the sum of them among the children of Israel:--v.49
+
+KOHATH. Son of Levi, Ge 46:11, and father of theKohathites, who were appointed to carry the ark and sacred utensils of thetabernacle during the journeying., Ex 6:16-24; Nu 4:4-15.
+
+GERSHON. The eldest son of Levi, and head of one of the three branches of the Levitical tribe, Ge 46:11; Ex 6:16. The Gershonitesencamped west of the tabernacle in the wilderness, and carried its curtains andother parts form station to station, Nu 3:17,25; 4:24-28,38-41; 10:17. Thirteen cities were assigned to them in northern Canaan, Jos 21:6; 1Ch5:62,71.
+
+MERARI. The youngest of Levi's three sons, born inCanaan, and head of a family of the Levites, Ge 46:11; Ex 6:16; Nu 3:17; 1Ch5:1. In the journey through the wilderness they were charged with theframework of the tabernacle, to carry from one place of encampment to another,and there set it up, Nu 4:29-33; 7:8. Twelve cities were assigned to thembeyond Jordan, Jos 21:7,34-40.
+
+Chapter 2
+
+The Order of the Tribes in their tents:
+
+ENCAMPMENT ORDER
+
+Dan \*
+
+Asher
+
+Naphtali
+
+Ephraim\*
+
+Judah\*
+
+Manasseh
+
+Issachar
+
+TABERNACLE
+
+Benjamin
+
+Zebulon
+
+Reuben\*
+
+Simeon
+
+Gad
+
+MARCHING ORDER
+
+Dan \*
+
+Asher
+
+Zebulon
+
+Naphtali
+
+Benjamin
+
+Gad
+
+Chapter Three Census of the Levites
+
+Numbers 3:39
+
+All that were numbered of the Levites, which Moses andAaron numbered at the commandment of the LORD, throughout their families, allthe males from a month old and upward, were twenty and two thousand.
+
+Adam Clarke's Commentary:
+
+This total does not agree with the particulars; for theGershonites were 7,500, the Kohathites 8,600, the Merarites 6,200, total22,300. Several methods of solving this difficulty have been proposed bylearned men; Dr. Kennicott's is the most simple. Formerly the numbers in theHebrew Bible were expressed by letters, and not by words at full length; and iftwo nearly similar letters were mistaken for each other, many errors in thenumbers must be the consequence. Now it is probable that an error has creptinto the number of the Gershonites, Nu 3:22, where, instead of 7,500, we shouldread 7,200, as K caph, 500, might have been easily mistaken for r resh, 200,especially if the down stroke of the caph had been a little shorter thanordinary, which is often the case in MSS. The extra 300 being taken off, thetotal is just 22,000, as mentioned in the 39th verse.
+
+The Levites" Service 14246
+
+The Firstborn Freed by the Levites 40-43
+
+The Overplus Redeemed 44-51
+
+Chapter 6:1-21: "The Law of the Nazarite"
+
+Chapter 6:22-27: "The Custom and Manner of Blessing a Child of Israel"
+
+Chapter 7: "The Princes Bring Their Offering"
+
+Chapter 8:1-4: "Cleansing of the Levites"
+
+Chapter 8:5-22: "Aaron's Lighting of the Candlestick"
+
+Chapter 8:23-26: "The Age and Time of Levitical Service"
+
+Chapter 9:1-14 "Special Passover Provisions"
+
+Chapter 9:15-23 "Following the Cloud and Fire"
+
+Chapter 10:1-10: "The Two Trumpets of Silver"
+
+1Call toMan
+
+2Appeal toGod
+
+Exodus 19:16--…"the voice of the trumpet exceeding loud"--A sound not made by human breathe.
+
+The SilverTrumpets speak to us as the voice of God to the assembly. 1Peter4:11--If any man speak, let him speak as the oracles of God…
+
+Numbers 10:2--Make thee two trumpets of silver; of a whole piece shalt thou make them: that thou mayest use them for the calling of the assembly, and for the journeyingof the camps.
+
+# I.There were strict orders in making the Silver Trumpets and using them.
+
+## A."Make thee two trumpets of silver"
+
+### 1Making the Trumpets
+
+#### a.Sound-Trumpet (loud) Ex. 19:16 "exceeding loud"
+
+#### b.Color-Silver(redemption)
+
+Psalms 12:6--The words of the LORD are pure words: as silver tried in a furnace of earth, purified seven times. Psalm 66:10--For thou, O God, hast proved us: thou hast tried us,as silver is tried.
+
+A."Of a whole piece shalt thou make them"
+
+a.TheWord of God
+
+Trumpets are made from the information and Revelation God gives to you.
+
+b.TheBible
+
+Old Testament & NewTestament. Two Testaments as one Book. Both record the voice that proclaims the truth about Redemption, Salvation, Deliverance, Healing and Victory. uThevoice on the cross "It is finished" Redemption has beenaccomplished-the provision has been made The scarlet thread of Redemption iswoven through every book of the Bible. Jesus is our blessed Redeemer
+
+B."that thou mayest use them"
+
+1Usingthe Trumpets
+
+a."for the calling of the assembly"
+
+b."for the journeying of the camps"
+
+c."Jubilee" Lev.25:9 Day of Atonement
+
+d."Alarm for war" Num. 10:9; 31:6 II Tim. 3:16;1 Cor. 14:8;Jer.6:17;
+
+Trumpets must be used for His Honor and His Glory.
+
+Numbers 10:2--Make thee two trumpets of silver; of a whole piece shalt thou make them: that thou mayest use them for the calling of the assembly, and for the journeying of the camps. "Hes 10:2— Jifanyie tarumbeta mbili za fedha; utazifanya za kazi ya ufuzi; nawe utazitumia kwa kuwaita mkutano wakutane, na kwa kusafiri kwao yale makambi. "
+
+C.Make thee two trumpets of silver of a whole piece shalt thou make them 1. Becoming responsible to the Word
+
+a."Make thee two trumpets of a whole piece"
+
+1)The Old Covenant
+
+2)The New Covenant
+
+Mat. 28:19;Romans 1:17; 10:8, 15,17; I Cor. 2:9-10
+
+1 Tim. 4:16--Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee.
+
+Titus 2:1--But speak thou the things which become sound doctrine:
+
+Joel 2:1--Blow ye the trumpet in Zion, and sound an alarm in my holy mountain: let all the inhabitants of the land tremble: for the day of the LORD cometh, for it is nighat hand;
+
+Hosea 8:1--Set the trumpet to thy mouth. He shall come as an eagle against the house of theLORD, because they have transgressed my covenant, and trespassed against mylaw.
+
+1Thes. 1:8--For from you sounded out the word of the Lord not only in Macedonia and Achaia, but also in every place your faith to God-ward is spread abroad; so that we neednot to speak any thing.
+
+You must be responsible to the things God reveals to you.
+
+The written Word is the supreme authority we judge all revelation by.
+
+The source of our faith is revealed to us by the Holy Ghost out of the written Word. TheRevealed Word produces the faith not the written Word.
+
+Romans 1:17 "Faith to faith"
+
+John 1:16 "Grace for Grace" II Peter 3:18
+
+II Cor. 3:18 "Glory to Glory"
+
+Proverbs 4:18 "more and more" (Light to Light)
+
+Psalms 84:7 "Strength to Strength"
+
+Isaiah 6:3 "Holy,Holy, Holy"
+
+Numbers 10:2--Make thee two trumpets of silver; of a whole piece …
+
+John 6:12--…Gather up the fragments that remain, that nothing be lost. Phil.2:12-13 (work out what God has worked in You)
+
+John 6:63--It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you, they are spirit, and they are life.
+
+John 8:26-28 "The Father hath taughtMe"
+
+John 12:49-50 "as the Father said so I speak"
+
+II Timothy 4:12 "Preach the Word" Jonah2:2 "Preach the Preaching I bid thee"
+
+Mat. 28:19-20 "Observe all things whatsoever I have commanded" Joshua 1:7-8 "Observe to do"
+
+Hear and give a clear sound
+
+It is not enough to receive a Revelation we must use them.
+
+All souls are lost without The LordJesus Christ as their savior.
+
+All souls are saved through believing in the blood of Jesus Christ to cleanse them from all sin.No man issaved in his sin but from his sin.
+
+Numbers 10:3--And when they shall blow with them,all the assembly shall assemble themselves to thee at the door of thetabernacle of the congregation.
+
+D."they shall blow with them"
+
+1The Blowing of the Trumpets
+
+a.The calling of the assembly
+
+1)"at the Door" 10:3
+
+a)The invitation to Christ John 10:7,9; 14:6;
+
+b)"they shall blow with them"
+
+This means to speak from both the Old and the New, the wholeWord of God spoken. Acts 20:27 "all the counsel of God"
+
+2)"assemble themselves to thee"
+
+Numbers 10:4,7 "Blow,but with one trumpet"
+
+a)A special calling--Not everybody will respond to this call
+
+b)A call toHoliness
+
+c)A call to Sanctification
+
+(1)Separation from the world (2)Set apart untoGod
+
+d) A call to bedience and unity
+
+Numbers 8:7 "And thus shalt thou do unto them, to cleanse them… and so make themselves clean." I Peter1:22; I I Cor. 7:1; II Timothy 2:21
+
+b.Journeying
+
+1\. The call for progression, advancement
+
+10:5 "…camps… Go Forward"
+
+I John 1:7, 9 (Go on in God) Hebrews 6:1 "Let us go on unto perfection" I Peter 1:17
+
+c.War
+
+Num. 10:9--And if ye go to war in your land against the enemy that oppresseth you, then ye shall blow an alarm with the trumpets; and ye shall be remembered before theLORD your God, and ye shall be saved from your enemies.
+
+This Gospel prepares us for war - I Peter 4:1; Eph.6:10-18; II Cor. 10:3-6
+
+Many have nothing to fight with to destroy the devil and nothing to protect themselves.
+
+As the Word of God is Revealed and applied you have your weapon supplied to you by the Holy Ghost. (Isaiah 59:19; I John 3:8)
+
+(Eph. 2:8.)Our whole experience from beginning to end depends on the grace that is revealed to us and that we allow God to work in our heartthrough faith and patience. (Titus 2:11-15; I Peter 4:1, 4, 8-14)
+
+d."In theday of gladness" (a day of gladness)
+
+1Day ofSalvation-- Saved into the Family of God
+
+2Baptismof the Spirit--
+
+(earnest of our inheritance) - Eph 1:13-14 Baptized into the body of Christ-- 1Cor 12:13
+
+3Day ofAdoption-- Romans 8:23; 14-19; Gal. 4:1-7
+
+Phil.2:15-16; 3:10-14,21; Heb.2:10
+
+Romans 8:18 For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed inus.
+
+e.Blow with the trumpets over your burnt offerings and sacrifices- these represent thecross- the Gospel
+
+I Cor. 1:18; Romans 1:16
+
+Jesus is the one that laid down His life for us. II Cor. 5:21
+
+The clear sound must go out exceedingly loud. Theclear sound ofRedemption, The clear sound Salvation Theclear sound ofResurrection The clear sound ofDeliverance The sound of the whole Word of God
+
+Chapter 10:11-36: "FirstSteps in Following the Cloud"
+
+20th

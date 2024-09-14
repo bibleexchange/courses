@@ -1,42 +1,73 @@
 left off 72
 
-<h1><span lang='en'>Wilderness Wanderings</span></h1>
-<!--<p><span lang='en'>Chapter 11: &quot;&quot; </span></p>
-<p><span lang='en'>Chapter 12: &quot;&quot; </span></p>
-<p><span lang='en'>Chapter 13: &quot;&quot; </span></p>-->
-<h2><span lang='en'>Chapter 14: The Murmurings </span></h2>
-<blockquote><span lang='en'>Numbers 14:22&mdash;Because all those men which have seen my glory&#44; and my miracles&#44; which I did in Egyptand in the wilderness&#44; and have tempted me now these ten times&#44; and have nothearkened to my voice; </span></blockquote>
-<p><span lang='en'>Much of what is recorded in Numbers is preserved for us not for the purpose of imitation but of warning! </span></p>
-<p><span lang='en'>(Numbers 14:22-- &quot;ten times&quot; literary form to express many times&#44; over and over) </span></p>
-<!--<p><span lang='en'>Chapter 15: </span></p>-->
-<h2><span lang='en'>Chapter 19: &quot;The Red Heifer&quot; </span></h2>
-<blockquote><span lang='en'>Numbers 19:2 This is the ordinance of the law which the LORDhath commanded&#44; saying&#44; Speak unto the children of Israel&#44; that they bring theea red heifer without spot&#44; wherein is no blemish&#44; and upon which never cameyoke: </span></blockquote>
-<p><span lang='en'>This chapter is only concerning the preparing and using of the ashes which were to infuse the water of purification. The people had complained of the strictness of the law&#44; which forbade their near approach to the tabernacle&#44; </span></p>
-<blockquote><span lang='en'>Num. 17:13 Whosoever cometh any thing near unto the tabernacle of the LORD shall die: shall we be consumed with dying? </span></blockquote>
-<p><span lang='en'>In answer to this complaint&#44; they are here directed to purify themselves&#44; so as that they might come as far as they had occasion without fear. </span></p>
-<h3><span lang='en'>The method of preparing these ashes&#44; by the burning of a red heifer&#44; with a great deal of ceremony&#44; Numbers 19:1-10. </span></h3>
-<h3><span lang='en'>The way of using them. </span></h3>
-<h4><span lang='en'>They were designed to purify persons from the pollution contracted by a dead body&#44; Nu 19:11-16. </span></h4>
-<h4><span lang='en'>They were to be put into running water (a small quantity of them)&#44; with which the person to be cleansed must bepurified&#44; Nu 19:17-22. And that this ceremonial purification was a type andfigure of the cleansing of the consciences of believers from the pollutions of sin appears by the apostle's discourse&#44; (Heb 9:13&#44;14)&#44; where he compares theefficacy of the blood of Christ with the sanctifying virtue that was in&quot;the ashes of a heifer sprinkling the unclean.&quot; </span></h4>
-<p><span lang='en'>In Numbers 19:1-10&#44; We have here the divine appointment concerning the solemn burning of a red heifer to ashes&#44;and the preserving of the ashes&#44; that of them might be made&#44; not a beautifying&#44;but a purifying&#44; water&#44; for that was the utmost the law reached to; it offered not to adorn as the gospel does&#44; but to cleanse only. This burning of theheifer&#44; though it was not properly a sacrifice of atonementfor wrong done&#44; being not performed at the altar&#44; yet was typical of thedeath and sufferings of Christ&#44; by which he intended&#44; not only to satisfy God'sjustice&#44; but to purify and pacify our consciences&#44; that we may have peace withGod and also peace in our own bosoms&#44; to prepare for which Christ died&#44; notonly like the bulls and goats at the altar&#44; but like the heifer without thecamp. </span></p>
-<h3><span lang='en'>I.There was a great deal of care employed in the choice of the heifer that was to be burnt&#44; much more than in the choice of any other offering&#44; </span></h3>
-<blockquote><span lang='en'>Num. 19:2 This is the ordinance of the law which the LORDhath commanded&#44; saying&#44; Speak unto the children of Israel&#44; that they bring theea red heifer without spot&#44; wherein is no blemish&#44; and upon which never cameyoke: </span></blockquote>
-<h4><span lang='en'>a.It must not only be without blemish&#44; typifying the spotless purity and sinless perfection of the Lord Jesus&#44; </span></h4>
-<h4><span lang='en'>b.It must be a red heifer&#44; because of the rarity of the colour&#44; that it might be the more remarkable: the Jews say&#44; </span></h4>
-<p><span lang='en'>&quot;If but two hairs were black or white&#44; it was unlawful.&quot; </span></p>
-<p><span lang='en'>Christ&#44; as man&#44; was the Son of Adam&#44; red earth&#44; and we find him red in his apparel&#44; red with his own blood&#44; and red with the blood of hisenemies. </span></p>
-<h4><span lang='en'>c.It must be one on which never came yoke&#44; which was not insisted on in other sacrifices&#44; but thus was typified the voluntary offer of the Lord Jesus&#44; whenhe said&#44; Lo&#44; I come&#44; He was bound and held with no other cords than those ofhis own love. This heifer was to be provided at the expense of thecongregation&#44; because they were all to have a joint interest in it; and so allbelievers have in Christ. </span></h4>
-<h3><span lang='en'>II.There was to be a great deal of ceremony in the burning of it. The care of doing it was committed to Eleazar&#44; not to Aaron himself&#44; because it was notfit that he should do anything to render himself ceremonially unclean&#44; no&#44; notso much as till the evening Num. 19:3;:Num. 19:8; yet it being an affair ofgreat concern especially in the significancy of it&#44; it was to be performed byhim that was next to Aaron in dignity. The chief priests of that time had theprincipal hand in the death of Christ. </span></h3>
-<h4><span lang='en'>The heifer was to be slain without the camp&#44; as an impure thing&#44; which identifies the insufficiency of the methods prescribed by the ceremonial law to take awaysin. So far were they from cleansing effectually that they were themselvesunclean; as if the pollution that was laid upon them continued to cleave tothem. Yet&#44; to answer this type&#44; our Lord Jesus&#44; being made sin and a curse forus&#44; suffered without the gate&#44; Heb 13:12. </span></h4>
-<h4><span lang='en'>Eleazar was to sprinkle the blood directly before the door of the tabernacle&#44; and looking steadfastly towards it&#44; </span></h4>
-<blockquote><span lang='en'>Nu 19:4 And Eleazar the priest shall take of her blood with his finger&#44; and sprinkle of her blood directly before the tabernacle of the congregation seven times: </span></blockquote>
-<p><span lang='en'>This made it in some sort an expiation; for the sprinkling of the blood before the Lord was the chief solemnity in all the sacrifices ofatonement; therefore&#44; though this was not done at the altar&#44; yet&#44; being donetowards the sanctuary&#44; it was closely relatedthat the virtue and validity of it depended upon the sanctuary&#44; and werederived from it. This signified the satisfaction that was made to God by thedeath of Christ&#44; our great high priest&#44; who by the eternal Spirit (and theSpirit is called the finger of God&#44; (Luke 11:20) offered himself without spotunto God; directly before the sanctuary&#44; when he said&#44; Father&#44; into thy hands Icommit my spirit. It also signifies how necessary it was to the purifying ofour hearts that satisfaction should be made to divine justice. This sprinklingof the blood put virtue into the ashes. </span></p>
-<h4><span lang='en'>The heifer was to be wholly burnt&#44; Nu 19:5.</span></p>
-<h4><span lang='en'>This typified the extreme sufferings of our Lord Jesus&#44; both insoul and body&#44; as a sacrifice made by fire. The priest was to cast into thefire&#44; while it was burning&#44; cedarwood&#44; hyssop&#44; and scarlet&#44; which were used inthe cleansing of lepers (Le 14:6&#44;7)&#44; that the ashes of these might be mingledwith the ashes of the heifer&#44; because they were designed for purification. </span></h4>
-left off here h4<h4><span lang='en'>4. The ashes of the heifer(separated as well as they could from the ashes of the wood wherewith it wasburnt) were to be carefully gathered up by the hand of a clean person&#44; andpounded and sifted&#44; and so laid up for the use of the congregation&#44; (Nu 19:9)&#44;not only for that generation&#44; but for posterity; for the ashes of this oneheifer were sufficient to season as many vessels of water as the people ofIsrael would need for many ages. The Jews say that this one served till thecaptivity&#44; nearly 1000 years&#44; and that there was never another heifer burnttill Ezra's time&#44; after their return&#44; grounded only upon the silence of theirold records in the later times of their church&#44; of which they had more fullrecords&#44; they find eight burnt between Ezra's time and the destruction of thesecond temple&#44; which was about 500 years&#44; These ashes are said to be laid uphere as a purification for sin&#44; because&#44; though they were intended to purifyonly from ceremonial uncleanness&#44; yet they were a type of that purification forsin which our Lord Jesus made by his death. Ashes mixed with water are used inscouring&#44; but these had their virtue purely from the divine institution&#44; andtheir accomplishment and perfection in Christ&#44; who is the end of this law forrighteousness. </span></p>
-<p><span lang='en'>a. That the water of purification was made so by the ashes of a heifer&#44; whose blood was sprinkled before thesanctuary; so that which cleanses our consciences is the abiding virtue of thedeath of Christ; it is his blood that cleanses from all sin&#44; 1Jo 1:7. </span></p>
-<p><span lang='en'>b.. That the ashes were sufficient for all the people. There needed not to be a fresh heifer slain for everyperson or family that had occasion to be purified&#44; but this one was enough forall&#44; even for the strangers that sojourned among them (Nu 19:10); so there isvirtue enough in the blood of Christ for all that repent and believe thegospel&#44; for every Israelite&#44; and not for their sins only&#44; but for the sins ofthe whole world&#44; 1Jo 2:2. </span></p>
-<p><span lang='en'>c. That these ashes were capable of being preserved without waste to many ages. No bodily substance is soincorruptible as ashes are&#44; these a very fit emblem of the everlasting efficacyof the sacrifice of Christ. He is able to save&#44; and able to cleanse&#44; to theuttermost. </span></p>
-<p><span lang='en'>d. These ashes were laid up as a stock or treasure&#44; for the constant purification of Israel from theirpollutions; so the blood of Christ is laid up for us in the word as aninexhaustible fountain of merit&#44; to which by faith we may have recourse dailyfor the purging of our consciences; see Zec 13:1. </span></p>
-<p><span lang='en'>e. All those that were employed in this service were made ceremonially unclean by it; even Eleazar himself&#44; thoughhe did but sprinkle the blood&#44; Nu 19:7. He that burned the heifer was unclean(Nu 19:8)&#44; and he that gathered up the ashes (Nu 19:10); so all that had a handin putting Christ to death contracted guilt by it: his betrayer&#44; hisprosecutors&#44; his judge&#44; his executioner&#44; all did what they did with wickedhands&#44; though it was by the determinate counsel and foreknowledge of God (Ac2:23); yet some of them were&#44; and all might have been cleansed by the virtue ofthat same blood which they had brought themselves under the guilt of. Some makethis to signify the imperfection of the legal services&#44; and their insufficiencyto take away sin&#44; inasmuch as those who prepared for the purifying of otherswere themselves polluted by the preparation. The Jews say&#44; This is a mysterywhich Solomon himself did not understand&#44; that the same thing should pollutethose that were clean and purify those that were unclean. </span></p>
-<p><span lang='en'>II Cor. 5:21 For he hath made him to be sin for us&#44; who knew no sin; that we might be made the righteousness of God in him. </span></p>
+# Wilderness Wanderings
+
+## Chapter 14: The Murmurings
+
+> Numbers 14:22—Because all those men which have seen my glory, and my miracles, which I did in Egyptand in the wilderness, and have tempted me now these ten times, and have nothearkened to my voice;
+
+Much of what is recorded in Numbers is preserved for us not for the purpose of imitation but of warning!
+
+(Numbers 14:22-- "ten times" literary form to express many times, over and over)
+
+## Chapter 19: "The Red Heifer"
+
+> Numbers 19:2 This is the ordinance of the law which the LORDhath commanded, saying, Speak unto the children of Israel, that they bring theea red heifer without spot, wherein is no blemish, and upon which never cameyoke:
+
+This chapter is only concerning the preparing and using of the ashes which were to infuse the water of purification. The people had complained of the strictness of the law, which forbade their near approach to the tabernacle,
+
+> Num. 17:13 Whosoever cometh any thing near unto the tabernacle of the LORD shall die: shall we be consumed with dying?
+
+In answer to this complaint, they are here directed to purify themselves, so as that they might come as far as they had occasion without fear.
+
+### The method of preparing these ashes, by the burning of a red heifer, with a great deal of ceremony, Numbers 19:1-10.
+
+### The way of using them.
+
+#### They were designed to purify persons from the pollution contracted by a dead body, Nu 19:11-16.
+
+#### They were to be put into running water (a small quantity of them), with which the person to be cleansed must bepurified, Nu 19:17-22. And that this ceremonial purification was a type andfigure of the cleansing of the consciences of believers from the pollutions of sin appears by the apostle's discourse, (Heb 9:13,14), where he compares theefficacy of the blood of Christ with the sanctifying virtue that was in"the ashes of a heifer sprinkling the unclean."
+
+In Numbers 19:1-10, We have here the divine appointment concerning the solemn burning of a red heifer to ashes,and the preserving of the ashes, that of them might be made, not a beautifying,but a purifying, water, for that was the utmost the law reached to; it offered not to adorn as the gospel does, but to cleanse only. This burning of theheifer, though it was not properly a sacrifice of atonementfor wrong done, being not performed at the altar, yet was typical of thedeath and sufferings of Christ, by which he intended, not only to satisfy God'sjustice, but to purify and pacify our consciences, that we may have peace withGod and also peace in our own bosoms, to prepare for which Christ died, notonly like the bulls and goats at the altar, but like the heifer without thecamp.
+
+### I.There was a great deal of care employed in the choice of the heifer that was to be burnt, much more than in the choice of any other offering,
+
+> Num. 19:2 This is the ordinance of the law which the LORDhath commanded, saying, Speak unto the children of Israel, that they bring theea red heifer without spot, wherein is no blemish, and upon which never cameyoke:
+
+#### a.It must not only be without blemish, typifying the spotless purity and sinless perfection of the Lord Jesus,
+
+#### b.It must be a red heifer, because of the rarity of the colour, that it might be the more remarkable: the Jews say,
+
+"If but two hairs were black or white, it was unlawful."
+
+Christ, as man, was the Son of Adam, red earth, and we find him red in his apparel, red with his own blood, and red with the blood of hisenemies.
+
+#### c.It must be one on which never came yoke, which was not insisted on in other sacrifices, but thus was typified the voluntary offer of the Lord Jesus, whenhe said, Lo, I come, He was bound and held with no other cords than those ofhis own love. This heifer was to be provided at the expense of thecongregation, because they were all to have a joint interest in it; and so allbelievers have in Christ.
+
+### II.There was to be a great deal of ceremony in the burning of it. The care of doing it was committed to Eleazar, not to Aaron himself, because it was notfit that he should do anything to render himself ceremonially unclean, no, notso much as till the evening Num. 19:3;:Num. 19:8; yet it being an affair ofgreat concern especially in the significancy of it, it was to be performed byhim that was next to Aaron in dignity. The chief priests of that time had theprincipal hand in the death of Christ.
+
+#### The heifer was to be slain without the camp, as an impure thing, which identifies the insufficiency of the methods prescribed by the ceremonial law to take awaysin. So far were they from cleansing effectually that they were themselvesunclean; as if the pollution that was laid upon them continued to cleave tothem. Yet, to answer this type, our Lord Jesus, being made sin and a curse forus, suffered without the gate, Heb 13:12.
+
+#### Eleazar was to sprinkle the blood directly before the door of the tabernacle, and looking steadfastly towards it,
+
+> Nu 19:4 And Eleazar the priest shall take of her blood with his finger, and sprinkle of her blood directly before the tabernacle of the congregation seven times:
+
+This made it in some sort an expiation; for the sprinkling of the blood before the Lord was the chief solemnity in all the sacrifices ofatonement; therefore, though this was not done at the altar, yet, being donetowards the sanctuary, it was closely relatedthat the virtue and validity of it depended upon the sanctuary, and werederived from it. This signified the satisfaction that was made to God by thedeath of Christ, our great high priest, who by the eternal Spirit (and theSpirit is called the finger of God, (Luke 11:20) offered himself without spotunto God; directly before the sanctuary, when he said, Father, into thy hands Icommit my spirit. It also signifies how necessary it was to the purifying ofour hearts that satisfaction should be made to divine justice. This sprinklingof the blood put virtue into the ashes.
+
+#### The heifer was to be wholly burnt, Nu 19:5.
+
+#### This typified the extreme sufferings of our Lord Jesus, both insoul and body, as a sacrifice made by fire. The priest was to cast into thefire, while it was burning, cedarwood, hyssop, and scarlet, which were used inthe cleansing of lepers (Le 14:6,7), that the ashes of these might be mingledwith the ashes of the heifer, because they were designed for purification.
+
+#### 4\. The ashes of the heifer(separated as well as they could from the ashes of the wood wherewith it wasburnt) were to be carefully gathered up by the hand of a clean person, andpounded and sifted, and so laid up for the use of the congregation, (Nu 19:9),not only for that generation, but for posterity; for the ashes of this oneheifer were sufficient to season as many vessels of water as the people ofIsrael would need for many ages. The Jews say that this one served till thecaptivity, nearly 1000 years, and that there was never another heifer burnttill Ezra's time, after their return, grounded only upon the silence of theirold records in the later times of their church, of which they had more fullrecords, they find eight burnt between Ezra's time and the destruction of thesecond temple, which was about 500 years, These ashes are said to be laid uphere as a purification for sin, because, though they were intended to purifyonly from ceremonial uncleanness, yet they were a type of that purification forsin which our Lord Jesus made by his death. Ashes mixed with water are used inscouring, but these had their virtue purely from the divine institution, andtheir accomplishment and perfection in Christ, who is the end of this law forrighteousness.
+
+a. That the water of purification was made so by the ashes of a heifer, whose blood was sprinkled before thesanctuary; so that which cleanses our consciences is the abiding virtue of thedeath of Christ; it is his blood that cleanses from all sin, 1Jo 1:7.
+
+b.. That the ashes were sufficient for all the people. There needed not to be a fresh heifer slain for everyperson or family that had occasion to be purified, but this one was enough forall, even for the strangers that sojourned among them (Nu 19:10); so there isvirtue enough in the blood of Christ for all that repent and believe thegospel, for every Israelite, and not for their sins only, but for the sins ofthe whole world, 1Jo 2:2.
+
+c. That these ashes were capable of being preserved without waste to many ages. No bodily substance is soincorruptible as ashes are, these a very fit emblem of the everlasting efficacyof the sacrifice of Christ. He is able to save, and able to cleanse, to theuttermost.
+
+d. These ashes were laid up as a stock or treasure, for the constant purification of Israel from theirpollutions; so the blood of Christ is laid up for us in the word as aninexhaustible fountain of merit, to which by faith we may have recourse dailyfor the purging of our consciences; see Zec 13:1.
+
+e. All those that were employed in this service were made ceremonially unclean by it; even Eleazar himself, thoughhe did but sprinkle the blood, Nu 19:7. He that burned the heifer was unclean(Nu 19:8), and he that gathered up the ashes (Nu 19:10); so all that had a handin putting Christ to death contracted guilt by it: his betrayer, hisprosecutors, his judge, his executioner, all did what they did with wickedhands, though it was by the determinate counsel and foreknowledge of God (Ac2:23); yet some of them were, and all might have been cleansed by the virtue ofthat same blood which they had brought themselves under the guilt of. Some makethis to signify the imperfection of the legal services, and their insufficiencyto take away sin, inasmuch as those who prepared for the purifying of otherswere themselves polluted by the preparation. The Jews say, This is a mysterywhich Solomon himself did not understand, that the same thing should pollutethose that were clean and purify those that were unclean.
+
+II Cor. 5:21 For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.

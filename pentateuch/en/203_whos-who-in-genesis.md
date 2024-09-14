@@ -1,70 +1,139 @@
-<h1><span lang='en'>Who&apos;sWho </span></h1>
-<p><span lang='en'>Abel </span></p>
-<p><span lang='en'>Abraham </span></p>
-<p><span lang='en'>Adam </span></p>
-<p><span lang='en'>Benjamin </span></p>
-<p><span lang='en'>Cain </span></p>
-<p><span lang='en'>Eliezer </span></p>
-<p><span lang='en'>Enoch </span></p>
-<p><span lang='en'>Ephraim </span></p>
-<p><span lang='en'>Esau </span></p>
-<p><span lang='en'>Eve </span></p>
-<p><span lang='en'>Hagar </span></p>
-<p><span lang='en'>Ham </span></p>
-<p><span lang='en'>Isaac </span></p>
-<p><span lang='en'>Ishmael </span></p>
-<p><span lang='en'>Jacob </span></p>
-<p><span lang='en'>Japheth </span></p>
-<p><span lang='en'>Joseph </span></p>
-<p><span lang='en'>Judah </span></p>
-<p><span lang='en'>Laizban </span></p>
-<p><span lang='en'>Leah </span></p>
-<p><span lang='en'>Lot </span></p>
-<p><span lang='en'>Manasseh </span></p>
-<p><span lang='en'>Melchizedek </span></p>
-<p><span lang='en'>Methuselah </span></p>
-<p><span lang='en'>Noah </span></p>
-<p><span lang='en'>Pharaoh </span></p>
-<p><span lang='en'>Potiphar </span></p>
-<p><span lang='en'>Rachel </span></p>
-<p><span lang='en'>Rebekah </span></p>
-<p><span lang='en'>Reuben </span></p>
-<p><span lang='en'>Sarah </span></p>
-<p><span lang='en'>Seth </span></p>
-<p><span lang='en'>Shem </span></p>
-<p><span lang='en'>Terah </span></p>
-<p><span lang='en'>In the Book of Genesis </span></p>
-<p><span lang='en'>1__________________ Jacob&apos;s favorite wife </span></p>
-<p><span lang='en'>2__________________Sarah&apos;s handmaid </span></p>
-<p><span lang='en'>3__________________Joseph&apos;syoungest son </span></p>
-<p><span lang='en'>4__________________Ruler of Egypt </span></p>
-<p><span lang='en'>5__________________ Jacob&apos;s oldestson </span></p>
-<p><span lang='en'>6__________________First person todie </span></p>
-<p><span lang='en'>7__________________ never died </span></p>
-<p><span lang='en'>8__________________names means ofthe ground; red earth. </span></p>
-<p><span lang='en'>9__________________Oldestman that ever lived&#44; died before his father </span></p>
-<p><span lang='en'>10__________________namemeans rest; comfort; consolation </span></p>
-<p><span lang='en'>11__________________Jacob&apos;syoungest son </span></p>
-<p><span lang='en'>12__________________Sonof Noah&#44; Father of Hebrews &amp; Arabs </span></p>
-<p><span lang='en'>13__________________Abraham&apos;sfather </span></p>
-<p><span lang='en'>14__________________Thefirst Woman </span></p>
-<p><span lang='en'>15__________________Abraham&apos;snephew who lived in Sodom </span></p>
-<p><span lang='en'>16__________________Abrahamand Sarah&apos;s child of Promise </span></p>
-<p><span lang='en'>17__________________Thefirst murderer </span></p>
-<p><span lang='en'>18__________________Abrahamand Hagar&apos;s son </span></p>
-<p><span lang='en'>19__________________Joseph&apos;s Oldest Son </span></p>
-<p><span lang='en'>20__________________Sonof Noah&#44; Father of Egyptians &amp; Ethiopians </span></p>
-<p><span lang='en'>21__________________Priestof God to whom Abraham Paid tithes </span></p>
-<p><span lang='en'>22__________________Captainof the Guard in Egypt&#44; Bought Joseph </span></p>
-<p><span lang='en'>23__________________Despised his birthright </span></p>
-<p><span lang='en'>24__________________name means supplanter(to overthrow by tripping up; to replace by treachery) </span></p>
-<p><span lang='en'>25_________________Isaac&apos;sWife </span></p>
-<p><span lang='en'>26_________________Jacob&apos;sUncle&#44; Brother of Rebecca </span></p>
-<p><span lang='en'>27_________________Beautifulwife of Abraham </span></p>
-<p><span lang='en'>28_________________Laban&apos;sEldest Daughter&#44; Jacob&apos;s wife </span></p>
-<p><span lang='en'>29_________________Jacob&apos;sson through whom the Redeemer would come </span></p>
-<p><span lang='en'>30_________________SavedIsrael from Famine </span></p>
-<p><span lang='en'>31_________________Adam&apos;sson that replaced Abel </span></p>
-<p><span lang='en'>32_________________Thefirst Hebrew </span></p>
-<p><span lang='en'>33_________________Abraham&apos;sservant who went for Isaac&apos;s Bride </span></p>
-<p><span lang='en'>34_________________Sonof Noah&#44; Father of the Greeks &amp; Romans br clear=all </span></p></div><div id='sec-16'>
+# Who'sWho
+
+Abel
+
+Abraham
+
+Adam
+
+Benjamin
+
+Cain
+
+Eliezer
+
+Enoch
+
+Ephraim
+
+Esau
+
+Eve
+
+Hagar
+
+Ham
+
+Isaac
+
+Ishmael
+
+Jacob
+
+Japheth
+
+Joseph
+
+Judah
+
+Laizban
+
+Leah
+
+Lot
+
+Manasseh
+
+Melchizedek
+
+Methuselah
+
+Noah
+
+Pharaoh
+
+Potiphar
+
+Rachel
+
+Rebekah
+
+Reuben
+
+Sarah
+
+Seth
+
+Shem
+
+Terah
+
+In the Book of Genesis
+
+1\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Jacob's favorite wife
+
+2\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Sarah's handmaid
+
+3\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Joseph'syoungest son
+
+4\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Ruler of Egypt
+
+5\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Jacob's oldestson
+
+6\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_First person todie
+
+7\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ never died
+
+8\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_names means ofthe ground; red earth.
+
+9\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Oldestman that ever lived, died before his father
+
+10\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_namemeans rest; comfort; consolation
+
+11\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Jacob'syoungest son
+
+12\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Sonof Noah, Father of Hebrews & Arabs
+
+13\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Abraham'sfather
+
+14\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Thefirst Woman
+
+15\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Abraham'snephew who lived in Sodom
+
+16\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Abrahamand Sarah's child of Promise
+
+17\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Thefirst murderer
+
+18\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Abrahamand Hagar's son
+
+19\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Joseph's Oldest Son
+
+20\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Sonof Noah, Father of Egyptians & Ethiopians
+
+21\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Priestof God to whom Abraham Paid tithes
+
+22\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Captainof the Guard in Egypt, Bought Joseph
+
+23\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Despised his birthright
+
+24\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_name means supplanter(to overthrow by tripping up; to replace by treachery)
+
+25\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Isaac'sWife
+
+26\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Jacob'sUncle, Brother of Rebecca
+
+27\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Beautifulwife of Abraham
+
+28\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Laban'sEldest Daughter, Jacob's wife
+
+29\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Jacob'sson through whom the Redeemer would come
+
+30\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_SavedIsrael from Famine
+
+31\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Adam'sson that replaced Abel
+
+32\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Thefirst Hebrew
+
+33\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Abraham'sservant who went for Isaac's Bride
+
+34\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Sonof Noah, Father of the Greeks & Romans br clear=all

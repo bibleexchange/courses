@@ -1,164 +1,114 @@
-<h1><span lang='en'>Introduction to Genesis </span></h1>
-<h2><span lang='en'>Purpose Theme: </span></h2>
-<p><span lang='en'>Genesis records the creation of the world and of the Jewish nation. </span></p>
-<h2><span lang='en'>Key Verses: </span></h2>
-<blockquote><span lang='en'>Genesis 12:1-3--1 Now the LORD had said unto Abram&#44; Get thee out of thy country&#44; and from thy kindred&#44; and from thy father's house&#44; unto a land that I will shew thee: 2 And I will make of thee a great nation&#44; and I will bless thee&#44; and make thy name great; and thou shalt be a blessing:3 And I will bless them that bless thee&#44; and curse him that curseth thee: and in thee shall all families of the earth be blessed. </span></blockquote>
-<h2><span lang='en'>Main People: </span></h2>
-<p><span lang='en'>Adam &amp; Eve&#44; Noah&#44; Abraham&#44; Isaac&#44; Jacob&#44; Joseph </span></p>
-<h2><span lang='en'>Brief Outline: </span></h2>
-<div class='emb-outline'>
-<h1/>
-<h2><span lang='en'>The creation of the world (Chapters 1&#44;2) </span></h2>
-<h2><span lang='en'>Sin in the world (Chapters 3&#44;4) </span></h2>
-<h2><span lang='en'>Noah and the Flood (Chapters 5-9) </span></h2>
-<h2><span lang='en'>The beginning of the nations and languages (Chapters 10&#44;11) </span></h2>
-<h2><span lang='en'>Abraham&apos;s family: God&apos;s people in the land God gave them (Chapters 12-38) </span></h2>
-<h2><span lang='en'>Joseph: God&apos;s people going to Egypt (Chapters 39-50) </span></h2>
-</div>
+# Introduction to Genesis
 
-<h2><span lang='en'>This is the Order of Events in Genesis: </span></h2><ul>
-<li><span lang='en'>Genesis: 4004 B.C. to 1800 B.C. </span></li>
-<li><span lang='en'>Creation </span></li>
-<li><span lang='en'>Fall of Man </span></li>
-<li><span lang='en'>The Flood </span></li>
-<li><span lang='en'>Tower of Babel </span></li>
-<li><span lang='en'>Abraham </span></li>
-<li><span lang='en'>Isaac </span></li>
-<li><span lang='en'>Jacob </span></li>
-<li><span lang='en'>Joseph </span></li>
-</ul>
-<h2><span lang='en'>Special Features: </span></h2>
-<h3><span lang='en'>Genesis is the foundation for all following Scriptures. </span></h3>
-<p><span lang='en'>The book of Genesis provides an essential foundation for the remainder of the Pentateuch and all subsequent Biblical revelation. Although accounts of &quot;Creation&quot;&#44; &quot;The Flood&quot;&#44;and the &quot;Tower of Babel&quot; can be found throughout the ancient civilizations&#44; itis the only trustworthy and mature record concerning the beginnings of theuniverse&#44; humankind&#44; marriage&#44; sin&#44; cities&#44; languages&#44; nations&#44; Israel&#44; and thepurpose of God in all of these things. </span></p>
-<h3><span lang='en'>The Title of This Book </span></h3>
-<p><span lang='en'>The title of this book given to it in the Greek Septuagint means &quot;creation&quot; or &quot;generation&quot;and the Jews refer to Genesis as &quot;Bereshith&quot; meaning &quot;in the beginning.&quot; </span></p>
-<h3><span lang='en'>Genesis is a Book Origins </span></h3>
-<p><span lang='en'>It was the first book of the Bible written (with the possible exception of Job). </span></p>
-<p><span lang='en'>The history of Genesis reveals that the material universe is distinctly God&apos;s work and not some independent process. (Fifty times in chapters one and two are found verbsexpressing what God did--God made&#44; saw&#44; said&#44; formed) </span></p>
-<p><span lang='en'>Genesis is the book of firsts: recording the first marriage&#44; first family&#44; first birth&#44;first sin&#44; first murder&#44; first polygamist&#44; first musical instruments&#44; and thefirst promise of redemption. The covenant made to Abraham in 12:1-3 is centralto all Scripture. </span></p>
-<p><span lang='en'>Genesis alone explains the origin of the twelve tribes of Israel. Genesis reveals how the descendants of Abraham ended up in Egypt for 430 years and thus sets the stagefor the Exodus&#44; the central redemption event of the Old Testament. </span></p>
-<h2><span lang='en'>New Testament Fulfilment: </span></h2>
-<p><span lang='en'>Genesis reveals the prophetic history of redemption and a Redeemer as coming through the seed of the woman (3:15)&#44; the line of Seth (4:25&#44;26)&#44; the line of Shem(9:26&#44;27)&#44; and through the seed of Abraham (12:3.) The New Testament applies Genesis12:3 directly to God&apos;s provision of redemption in Jesus Christ (Galatians 3:16&#44;29.) </span></p>
-<p><span lang='en'>Numerous persons and events from Genesis are mentioned in the New Testament in relation to: </span></p>
-<li><span lang='en'>Faith and Righteousness (Romans4; Hebrews 11:1-22) </span></li>
-<li><span lang='en'>God&apos;s Judgment (Luke16:26-29&#44;32; II Peter 3:5; Jude 7&#44; 11a) </span></li>
-<li><span lang='en'>The Person of Jesus Christ (Matthew1:1; John 8:58; Hebrews 7) </span></li>
-<h2><span lang='en'>Names and Definitions in Genesis </span></h2>
-<p><span lang='en'>Alphabetically Arranged with Reference Where First Mentioned </span></p><table><tr>
-<th><span lang='en'>Name </span></th>
-<th><span lang='en'>Genesis </span></th>
-<th><span lang='en'>Meaning </span></th></tr><tr>
-<td><span lang='en'>Abel </span></td>
-<td><span lang='en'>4:02 </span></td>
-<td><span lang='en'>vanity; breath;vapor </span></td></tr><tr>
-<td><span lang='en'>Abram </span></td>
-<td><span lang='en'>11:26 </span></td>
-<td><span lang='en'>high father </span></td></tr><tr>
-<td><span lang='en'>Abraham </span></td>
-<td><span lang='en'>17:05 </span></td>
-<td><span lang='en'>father of a great multitude </span></td></tr><tr>
-<td><span lang='en'>Adam </span></td>
-<td><span lang='en'>2:15 </span></td>
-<td><span lang='en'>earthy; red </span></td></tr><tr>
-<td><span lang='en'>Benjamin </span></td>
-<td><span lang='en'>35:18:00 </span></td>
-<td><span lang='en'>"son of the right hand " </span></td></tr><tr>
-<td><span lang='en'>Cain </span></td>
-<td><span lang='en'>4:01 </span></td>
-<td><span lang='en'>possession&#44; or possessed </span></td></tr><tr>
-<td><span lang='en'>Eliezer </span></td>
-<td><span lang='en'>15:2" </span></td>
-<td><span lang='en'>help&#44; or court&#44; of my God; God is help </span></td></tr><tr>
-<td><span lang='en'>Enoch </span></td>
-<td><span lang='en'>4:17 </span></td>
-<td><span lang='en'>dedicated;disciplined; teacher </span></td></tr><tr>
-<td><span lang='en'>Ephraim </span></td>
-<td><span lang='en'>41:52:00 </span></td>
-<td><span lang='en'>fruitful; increasing </span></td></tr><tr>
-<td><span lang='en'>Esau </span></td>
-<td><span lang='en'>25:25:00 </span></td>
-<td><span lang='en'>he that acts or finishes; hairy </span></td></tr><tr>
-<td><span lang='en'>Eve </span></td>
-<td><span lang='en'>3:20" </span></td>
-<td><span lang='en'>life; life giving </span></td></tr><tr>
-<td><span lang='en'>Hagar </span></td>
-<td><span lang='en'>16:1" </span></td>
-<td><span lang='en'>flight; stranger </span></td></tr><tr>
-<td><span lang='en'>Ham </span></td>
-<td><span lang='en'>5:32" </span></td>
-<td><span lang='en'>hot; sun burnt </span></td></tr><tr>
-<td><span lang='en'>Isaac </span></td>
-<td><span lang='en'>17:09 </span></td>
-<td><span lang='en'>laughter </span></td></tr><tr>
-<td><span lang='en'>Ishmael </span></td>
-<td><span lang='en'>16:11 </span></td>
-<td><span lang='en'>whom God hears; God that hears </span></td></tr><tr>
-<td><span lang='en'>Jacob </span></td>
-<td><span lang='en'>25:26" </span></td>
-<td><span lang='en'>supplanter (one that replaces by treachery); follow after </span></td></tr><tr>
-<td><span lang='en'>Japheth </span></td>
-<td><span lang='en'>5:32 </span></td>
-<td><span lang='en'>enlarged; fair;persuading; the extender </span></td></tr><tr>
-<td><span lang='en'>Joseph </span></td>
-<td><span lang='en'>30:24:00 </span></td>
-<td><span lang='en'>increase; addition </span></td></tr><tr>
-<td><span lang='en'>Judah </span></td>
-<td><span lang='en'>29:35:00 </span></td>
-<td><span lang='en'>the praise of theLord; confession </span></td></tr><tr>
-<td><span lang='en'>Laban </span></td>
-<td><span lang='en'>24:29:00 </span></td>
-<td><span lang='en'>white; shining;glorious; gentle; brittle </span></td></tr><tr>
-<td><span lang='en'>Lamech </span></td>
-<td><span lang='en'>4:18 </span></td>
-<td><span lang='en'>poor; made low </span></td></tr><tr>
-<td><span lang='en'>Leah </span></td>
-<td><span lang='en'>29:16:00 </span></td>
-<td><span lang='en'>weary; tired </span></td></tr><tr>
-<td><span lang='en'>Lot </span></td>
-<td><span lang='en'>11:27 </span></td>
-<td><span lang='en'>lotan; wrapped up;hidden; covered; myrrh; rosin </span></td></tr><tr>
-<td><span lang='en'>Manasseh </span></td>
-<td><span lang='en'>41:51:00 </span></td>
-<td><span lang='en'>forgetfulness; he that is forgotten; causing to forget </span></td></tr><tr>
-<td><span lang='en'>Melchizedek </span></td>
-<td><span lang='en'>14:18" </span></td>
-<td><span lang='en'>king of justice&#44;righteousness&#44; peace </span></td></tr><tr>
-<td><span lang='en'>Methuselah </span></td>
-<td><span lang='en'>5:21 </span></td>
-<td><span lang='en'>he has sent his death;man of a dart </span></td></tr><tr>
-<td><span lang='en'>Nimrod </span></td>
-<td><span lang='en'>10:08 </span></td>
-<td><span lang='en'>rebellion; or the valiant; fixed </span></td></tr><tr>
-<td><span lang='en'>Noah </span></td>
-<td><span lang='en'>5:29 </span></td>
-<td><span lang='en'>rest; consolation;repose; comfort </span></td></tr><tr>
-<td><span lang='en'>Pharaoh </span></td>
-<td><span lang='en'>37:36:00 </span></td>
-<td><span lang='en'>king; (corresponding to &quot;Ph-ra&quot; the sun) </span></td></tr><tr>
-<td><span lang='en'>Potiphar </span></td>
-<td><span lang='en'>37:36:00 </span></td>
-<td><span lang='en'>belonging to the sun </span></td></tr><tr>
-<td><span lang='en'>Rachel </span></td>
-<td><span lang='en'>29:06:00 </span></td>
-<td><span lang='en'>ewe; sheep </span></td></tr><tr>
-<td><span lang='en'>Rebekah </span></td>
-<td><span lang='en'>22:23 </span></td>
-<td><span lang='en'>ensnarer; a noose;flatterer; fat; fattened; a quarrel appeased </span></td></tr><tr>
-<td><span lang='en'>Reuben </span></td>
-<td><span lang='en'>29:32:00 </span></td>
-<td><span lang='en'>who sees the son; the vision of the son; behold a son </span></td></tr><tr>
-<td><span lang='en'>Sarai </span></td>
-<td><span lang='en'>11:29 </span></td>
-<td><span lang='en'>my lady; my princess </span></td></tr><tr>
-<td><span lang='en'>Sarah </span></td>
-<td><span lang='en'>17:15 </span></td>
-<td><span lang='en'>lady; princess;princess of the multitude </span></td></tr><tr>
-<td><span lang='en'>Seth </span></td>
-<td><span lang='en'>4:25 </span></td>
-<td><span lang='en'>put; who puts;fixed; compensation </span></td></tr><tr>
-<td><span lang='en'>Shem </span></td>
-<td><span lang='en'>5:32 </span></td>
-<td><span lang='en'>name; renown </span></td></tr><tr>
-<td><span lang='en'>Terah </span></td>
-<td><span lang='en'>11:24 </span></td>
-<td><span lang='en'>to breathe; scent;blow; turning; duration; station; wanderer </span></td></table>
+## Purpose Theme:
+
+Genesis records the creation of the world and of the Jewish nation.
+
+## Key Verses:
+
+> Genesis 12:1-3--1 Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father's house, unto a land that I will shew thee: 2 And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing:3 And I will bless them that bless thee, and curse him that curseth thee: and in thee shall all families of the earth be blessed.
+
+## Main People:
+
+Adam & Eve, Noah, Abraham, Isaac, Jacob, Joseph
+
+## Brief Outline:
+
+## The creation of the world (Chapters 1,2)
+
+## Sin in the world (Chapters 3,4)
+
+## Noah and the Flood (Chapters 5-9)
+
+## The beginning of the nations and languages (Chapters 10,11)
+
+## Abraham's family: God's people in the land God gave them (Chapters 12-38)
+
+## Joseph: God's people going to Egypt (Chapters 39-50)
+
+## This is the Order of Events in Genesis:
+
+- Genesis: 4004 B.C. to 1800 B.C.
+- Creation
+- Fall of Man
+- The Flood
+- Tower of Babel
+- Abraham
+- Isaac
+- Jacob
+- Joseph
+
+## Special Features:
+
+### Genesis is the foundation for all following Scriptures.
+
+The book of Genesis provides an essential foundation for the remainder of the Pentateuch and all subsequent Biblical revelation. Although accounts of "Creation", "The Flood",and the "Tower of Babel" can be found throughout the ancient civilizations, itis the only trustworthy and mature record concerning the beginnings of theuniverse, humankind, marriage, sin, cities, languages, nations, Israel, and thepurpose of God in all of these things.
+
+### The Title of This Book
+
+The title of this book given to it in the Greek Septuagint means "creation" or "generation"and the Jews refer to Genesis as "Bereshith" meaning "in the beginning."
+
+### Genesis is a Book Origins
+
+It was the first book of the Bible written (with the possible exception of Job).
+
+The history of Genesis reveals that the material universe is distinctly God's work and not some independent process. (Fifty times in chapters one and two are found verbsexpressing what God did--God made, saw, said, formed)
+
+Genesis is the book of firsts: recording the first marriage, first family, first birth,first sin, first murder, first polygamist, first musical instruments, and thefirst promise of redemption. The covenant made to Abraham in 12:1-3 is centralto all Scripture.
+
+Genesis alone explains the origin of the twelve tribes of Israel. Genesis reveals how the descendants of Abraham ended up in Egypt for 430 years and thus sets the stagefor the Exodus, the central redemption event of the Old Testament.
+
+## New Testament Fulfilment
+
+Genesis reveals the prophetic history of redemption and a Redeemer as coming through the seed of the woman (3:15), the line of Seth (4:25,26), the line of Shem(9:26,27), and through the seed of Abraham (12:3.) The New Testament applies Genesis12:3 directly to God's provision of redemption in Jesus Christ (Galatians 3:16,29.)
+
+Numerous persons and events from Genesis are mentioned in the New Testament in relation to:
+
+- Faith and Righteousness (Romans4; Hebrews 11:1-22)
+- God's Judgment (Luke16:26-29,32; II Peter 3:5; Jude 7, 11a)
+- The Person of Jesus Christ (Matthew1:1; John 8:58; Hebrews 7)
+
+## Names and Definitions in Genesis
+
+Alphabetically Arranged with Reference Where First Mentioned
+
+| Name        | Genesis  | Meaning                                                        |
+| ----------- | -------- | -------------------------------------------------------------- |
+| Abel        | 4:02     | vanity; breath;vapor                                           |
+| Abram       | 11:26    | high father                                                    |
+| Abraham     | 17:05    | father of a great multitude                                    |
+| Adam        | 2:15     | earthy; red                                                    |
+| Benjamin    | 35:18:00 | "son of the right hand "                                       |
+| Cain        | 4:01     | possession, or possessed                                       |
+| Eliezer     | 15:2"    | help, or court, of my God; God is help                         |
+| Enoch       | 4:17     | dedicated;disciplined; teacher                                 |
+| Ephraim     | 41:52:00 | fruitful; increasing                                           |
+| Esau        | 25:25:00 | he that acts or finishes; hairy                                |
+| Eve         | 3:20"    | life; life giving                                              |
+| Hagar       | 16:1"    | flight; stranger                                               |
+| Ham         | 5:32"    | hot; sun burnt                                                 |
+| Isaac       | 17:09    | laughter                                                       |
+| Ishmael     | 16:11    | whom God hears; God that hears                                 |
+| Jacob       | 25:26"   | supplanter (one that replaces by treachery); follow after      |
+| Japheth     | 5:32     | enlarged; fair;persuading; the extender                        |
+| Joseph      | 30:24:00 | increase; addition                                             |
+| Judah       | 29:35:00 | the praise of theLord; confession                              |
+| Laban       | 24:29:00 | white; shining;glorious; gentle; brittle                       |
+| Lamech      | 4:18     | poor; made low                                                 |
+| Leah        | 29:16:00 | weary; tired                                                   |
+| Lot         | 11:27    | lotan; wrapped up;hidden; covered; myrrh; rosin                |
+| Manasseh    | 41:51:00 | forgetfulness; he that is forgotten; causing to forget         |
+| Melchizedek | 14:18"   | king of justice,righteousness, peace                           |
+| Methuselah  | 5:21     | he has sent his death;man of a dart                            |
+| Nimrod      | 10:08    | rebellion; or the valiant; fixed                               |
+| Noah        | 5:29     | rest; consolation;repose; comfort                              |
+| Pharaoh     | 37:36:00 | king; (corresponding to "Ph-ra" the sun)                       |
+| Potiphar    | 37:36:00 | belonging to the sun                                           |
+| Rachel      | 29:06:00 | ewe; sheep                                                     |
+| Rebekah     | 22:23    | ensnarer; a noose;flatterer; fat; fattened; a quarrel appeased |
+| Reuben      | 29:32:00 | who sees the son; the vision of the son; behold a son          |
+| Sarai       | 11:29    | my lady; my princess                                           |
+| Sarah       | 17:15    | lady; princess;princess of the multitude                       |
+| Seth        | 4:25     | put; who puts;fixed; compensation                              |
+| Shem        | 5:32     | name; renown                                                   |
+| Terah       | 11:24    | to breathe; scent;blow; turning; duration; station; wanderer   |

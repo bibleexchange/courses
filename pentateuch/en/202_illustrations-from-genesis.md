@@ -1,119 +1,237 @@
-<h1><span lang='en'>ILLUSTRATIONS FROM GENESIS </span></h1>
-<p><span lang='en'>GENESIS CONTAINS ILLUSTRATIONS OF MULTITUDES OF CONCEPTS </span></p>
-<p><span lang='en'>INSTRUCTIONS: Fill in all the blanks. </span></p>
-<p><span lang='en'>CONCEPT </span></p>
-<p><span lang='en'>ACCOUNT </span></p>
-<p><span lang='en'>REFERENCE </span></p>
-<p><span lang='en'>ANGERJEALOUSY </span></p>
-<p><span lang='en'>CAIN KILLING ABEL </span></p>
-<p><span lang='en'>11:1-15 </span></p>
-<p><span lang='en'>BRIDE OF CHRIST </span></p>
-<p><span lang='en'>ISAAC &amp; REBEKAH </span></p>
-<p><span lang='en'>CARNALOLD MAN </span></p>
-<p><span lang='en'>TERAH HAD TO DIE FIRST </span></p>
-<p><span lang='en'>11:31&#44;32; 12:1-3 </span></p>
-<p><span lang='en'>DIPLOMACY </span></p>
-<p><span lang='en'>JACOBS GIFT TO ESAU </span></p>
-<p><span lang='en'>32:13-20 </span></p>
-<p><span lang='en'>FAITH </span></p>
-<p><span lang='en'>GOD WILL PROVIDE HIMSELF </span></p>
-<p><span lang='en'>22:7-8 </span></p>
-<p><span lang='en'>FRIENDSHIP </span></p>
-<p><span lang='en'>ABRAHAM IS THERE FOR LOT </span></p>
-<p><span lang='en'>14:14-16 </span></p>
-<p><span lang='en'>GENEROSITY </span></p>
-<p><span lang='en'>EGYPT SHARES GRAIN </span></p>
-<p><span lang='en'>41:56-57 </span></p>
-<p><span lang='en'>GOD&quot;S SUPREMECY </span></p>
-<p><span lang='en'>IN THE BEGINNING GOD </span></p>
-<p><span lang='en'>0.042361111 </span></p>
-<p><span lang='en'>GOD SPEAKS TO MAN </span></p>
-<p><span lang='en'>JOSEPH&quot;S DREAMS </span></p>
-<p><span lang='en'>37:5-9 </span></p>
-<p><span lang='en'>GLORY GIVEN TO GOD </span></p>
-<p><span lang='en'>JOSEPH BEFORE PHARAOH </span></p>
-<p><span lang='en'>1.719444444 </span></p>
-<p><span lang='en'>HATE </span></p>
-<p><span lang='en'>JOSEPH&quot;S BROTHERS HATE </span></p>
-<p><span lang='en'>1.544444444 </span></p>
-<p><span lang='en'>JUDGMENT </span></p>
-<p><span lang='en'>THE FLOOD </span></p>
-<p><span lang='en'>6:13-17 </span></p>
-<p><span lang='en'>HONESTY </span></p>
-<p><span lang='en'>MONEY IN SACKS RETURNED </span></p>
-<p><span lang='en'>43:19-22 </span></p>
-<p><span lang='en'>HOPE </span></p>
-<p><span lang='en'>JOSEPH&quot;S HOPE OF FREEDOM </span></p>
-<p><span lang='en'>1.676388889 </span></p>
-<p><span lang='en'>HUMILITY </span></p>
-<p><span lang='en'>JACOB BOWING TO ESAU </span></p>
-<p><span lang='en'>1.377083333 </span></p>
-<p><span lang='en'>KINDNESS </span></p>
-<p><span lang='en'>RACHEL HELPED ELIEZER </span></p>
-<p><span lang='en'>24:17-20 </span></p>
-<p><span lang='en'>LOVE </span></p>
-<p><span lang='en'>JACOB LOVED JOSEPH </span></p>
-<p><span lang='en'>1.54375 </span></p>
-<p><span lang='en'>LYINGDECPTION </span></p>
-<p><span lang='en'>RACHEL HID LABAN&quot;S IDOLS </span></p>
-<p><span lang='en'>31:34-35 </span></p>
-<p><span lang='en'>MURDERING&quot;S CONSEQ. </span></p>
-<p><span lang='en'>BLOOD FOR BLOOD </span></p>
-<p><span lang='en'>0.170833333 </span></p>
-<p><span lang='en'>PATIENCE </span></p>
-<p><span lang='en'>JACOB WORKED 7 YEARS </span></p>
-<p><span lang='en'>1.222222222 </span></p>
-<p><span lang='en'>POLYGAMY DANGERS </span></p>
-<p><span lang='en'>RACHEL &amp; LEAH </span></p>
-<p><span lang='en'>1.229166667 </span></p>
-<p><span lang='en'>SIN&quot;S CONSEQUENCE </span></p>
-<p><span lang='en'>DESTRUCTION OF SODOM </span></p>
-<p><span lang='en'>18:20-21; 19:24 </span></p>
-<p><span lang='en'>THANKSGIVING </span></p>
-<p><span lang='en'>NOAH SACRIFICED TO GOD </span></p>
-<p><span lang='en'>0.347222222 </span></p>
-<p><span lang='en'>TITHING </span></p>
-<p><span lang='en'>JACOB GIVES TENTH OF ALL </span></p>
-<p><span lang='en'>28:20-22 </span></p>
-<p><span lang='en'>UNBELIEF </span></p>
-<p><span lang='en'>SARAH LAUGHED </span></p>
-<p><span lang='en'>18:10-13 </span></p>
-<p><span lang='en'>UNITY </span></p>
-<p><span lang='en'>NOAH&quot;S ARK </span></p>
-<p><span lang='en'>7:13-14 </span></p>
-<p><span lang='en'>WAYS&#44; GOD&quot;S VS. MAN&quot;S </span></p>
-<p><span lang='en'>SARAH &amp; HAGAR &amp; ISHMAEL </span></p>
-<p><span lang='en'>Ch. 16-18; 21 </span></p>
-<p><span lang='en'>WALKING WITH GOD </span></p>
-<p><span lang='en'>ENOCH </span></p>
-<p><span lang='en'>0.225 </span></p>
-<p><span lang='en'>FORGIVENESS </span></p>
-<p><span lang='en'>JOSEPH FORGIVES BROTHERS </span></p>
-<p><span lang='en'>Ch. 45 </span></p>
-<p><span lang='en'>GRACE </span></p>
-<p><span lang='en'>NOAH SAVED FROM FLOOD </span></p>
-<p><span lang='en'>0.2625 </span></p>
-<p><span lang='en'>JEALOUSY </span></p>
-<p><span lang='en'>RACHEL WANTING CHILDREN </span></p>
-<p><span lang='en'>1.250694444 </span></p>
-<p><span lang='en'>JOY </span></p>
-<p><span lang='en'>SARAH REJOICES OVER ISAAC </span></p>
-<p><span lang='en'>0.879166667 </span></p>
-<p><span lang='en'>PRAYER ANSWERED </span></p>
-<p><span lang='en'>RACHELS ASKS FOR A SON </span></p>
-<p><span lang='en'>30:22-24 </span></p>
-<p><span lang='en'>RESTORATION </span></p>
-<p><span lang='en'>ISAAC REDUG THE WELLS </span></p>
-<p><span lang='en'>1.095833333 </span></p>
-<p><span lang='en'>TEMPATION </span></p>
-<p><span lang='en'>POTIPHAR&quot;S WIFE </span></p>
-<p><span lang='en'>39:7-10 </span></p>
-<p><span lang='en'>VICTORY </span></p>
-<p><span lang='en'>ABRAHAM WINS BATTLE </span></p>
-<p><span lang='en'>14:11-16 </span></p>
-<p><span lang='en'>WINE&#44; DANGER OF </span></p>
-<p><span lang='en'>OPPORTUNITY FOR HAM&quot;S SIN </span></p>
-<p><span lang='en'>9:20-22 </span></p>
-<p><span lang='en'>WISDOM </span></p>
-<p><span lang='en'>ABRAM &amp; LOT SEPARATE </span></p>
-<p><span lang='en'>13:7-12 </span></p></div><div id='sec-17'>
+# ILLUSTRATIONS FROM GENESIS
+
+GENESIS CONTAINS ILLUSTRATIONS OF MULTITUDES OF CONCEPTS
+
+INSTRUCTIONS: Fill in all the blanks.
+
+CONCEPT
+
+ACCOUNT
+
+REFERENCE
+
+ANGERJEALOUSY
+
+CAIN KILLING ABEL
+
+11:1-15
+
+BRIDE OF CHRIST
+
+ISAAC & REBEKAH
+
+CARNALOLD MAN
+
+TERAH HAD TO DIE FIRST
+
+11:31,32; 12:1-3
+
+DIPLOMACY
+
+JACOBS GIFT TO ESAU
+
+32:13-20
+
+FAITH
+
+GOD WILL PROVIDE HIMSELF
+
+22:7-8
+
+FRIENDSHIP
+
+ABRAHAM IS THERE FOR LOT
+
+14:14-16
+
+GENEROSITY
+
+EGYPT SHARES GRAIN
+
+41:56-57
+
+GOD"S SUPREMECY
+
+IN THE BEGINNING GOD
+
+0.042361111
+
+GOD SPEAKS TO MAN
+
+JOSEPH"S DREAMS
+
+37:5-9
+
+GLORY GIVEN TO GOD
+
+JOSEPH BEFORE PHARAOH
+
+1.719444444
+
+HATE
+
+JOSEPH"S BROTHERS HATE
+
+1.544444444
+
+JUDGMENT
+
+THE FLOOD
+
+6:13-17
+
+HONESTY
+
+MONEY IN SACKS RETURNED
+
+43:19-22
+
+HOPE
+
+JOSEPH"S HOPE OF FREEDOM
+
+1.676388889
+
+HUMILITY
+
+JACOB BOWING TO ESAU
+
+1.377083333
+
+KINDNESS
+
+RACHEL HELPED ELIEZER
+
+24:17-20
+
+LOVE
+
+JACOB LOVED JOSEPH
+
+1.54375
+
+LYINGDECPTION
+
+RACHEL HID LABAN"S IDOLS
+
+31:34-35
+
+MURDERING"S CONSEQ.
+
+BLOOD FOR BLOOD
+
+0.170833333
+
+PATIENCE
+
+JACOB WORKED 7 YEARS
+
+1.222222222
+
+POLYGAMY DANGERS
+
+RACHEL & LEAH
+
+1.229166667
+
+SIN"S CONSEQUENCE
+
+DESTRUCTION OF SODOM
+
+18:20-21; 19:24
+
+THANKSGIVING
+
+NOAH SACRIFICED TO GOD
+
+0.347222222
+
+TITHING
+
+JACOB GIVES TENTH OF ALL
+
+28:20-22
+
+UNBELIEF
+
+SARAH LAUGHED
+
+18:10-13
+
+UNITY
+
+NOAH"S ARK
+
+7:13-14
+
+WAYS, GOD"S VS. MAN"S
+
+SARAH & HAGAR & ISHMAEL
+
+Ch. 16-18; 21
+
+WALKING WITH GOD
+
+ENOCH
+
+0.225
+
+FORGIVENESS
+
+JOSEPH FORGIVES BROTHERS
+
+Ch. 45
+
+GRACE
+
+NOAH SAVED FROM FLOOD
+
+0.2625
+
+JEALOUSY
+
+RACHEL WANTING CHILDREN
+
+1.250694444
+
+JOY
+
+SARAH REJOICES OVER ISAAC
+
+0.879166667
+
+PRAYER ANSWERED
+
+RACHELS ASKS FOR A SON
+
+30:22-24
+
+RESTORATION
+
+ISAAC REDUG THE WELLS
+
+1.095833333
+
+TEMPATION
+
+POTIPHAR"S WIFE
+
+39:7-10
+
+VICTORY
+
+ABRAHAM WINS BATTLE
+
+14:11-16
+
+WINE, DANGER OF
+
+OPPORTUNITY FOR HAM"S SIN
+
+9:20-22
+
+WISDOM
+
+ABRAM & LOT SEPARATE
+
+13:7-12

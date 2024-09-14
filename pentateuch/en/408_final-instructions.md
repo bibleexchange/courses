@@ -1,14 +1,17 @@
-<h1><span lang='en'>Final Instructions </span></h1>
+# Final Instructions
 
-<h2><span lang='en'>Chapter 24</span></h2>
-<p><span lang='en'>lamp to burn continually&#44; 12 Cakes of Bread&#44; v.10-23 Story of RebelliousSon and declaration there will be ONE law for both stranger and Jew. </span></p>
+## Chapter 24
 
-<h2><span lang='en'>Chapter 25</span></h2>
+lamp to burn continually, 12 Cakes of Bread, v.10-23 Story of RebelliousSon and declaration there will be ONE law for both stranger and Jew.
 
-<p><span lang='en'>Year of Jubilee&#44; Sabbath of the Land and Servants </span></p>
+## Chapter 25
 
-<h2><span lang='en'>Chapter 26</span></h2>
-<p><span lang='en'>Blessing or Curse </span></p>
+Year of Jubilee, Sabbath of the Land and Servants
 
-<h2><span lang='en'>Chapter 27</span></h2>
-<p><span lang='en'>Estimation or Value of Sacrifices and Sanctifications </span></p>
+## Chapter 26
+
+Blessing or Curse
+
+## Chapter 27
+
+Estimation or Value of Sacrifices and Sanctifications

@@ -1,89 +1,175 @@
-<h1><span lang='en'>Syllabus </span></h1>
-<p><span lang='en'>What is the Pentateuch? </span></p>
-<p><span lang='en'>The first five books of God&apos;s Holy Word which contain the record of the beginning and origin of all things and shadows of all subsequentBiblical revelation. </span></p>
-<p><span lang='en'>One of the most diverse and powerful studies of the Bible. </span></p>
-<p><span lang='en'>Essentially&#44; the Pentateuch is the foundation of all spiritual truth and social principle! </span></p>
-<p><span lang='en'>What does this course involve? </span></p>
-<p><span lang='en'>You will be reading the textbook and responding to the essays by answering questions. </span></p>
-<p><span lang='en'>Each section will conclude with Study Questions that are answered&quot;open book&quot; which prepares you for the test that follows. The test is not &quot;openbook&quot; but is taken by memory. </span></p>
-<p><span lang='en'>You will be consecutively reading each of the five books of thePentateuch at the same time producing a question and answer from each chapter. </span></p>
-<p><span lang='en'>You will be studying on your own various topics relating to the Pentateuch; such as: The Feasts of the Lord&#44; and Murmurings in theWilderness. </span></p>
-<p><span lang='en'>You will be memorizing Scripture. </span></p>
-<p><span lang='en'>You will complete an open book Final Exam at the conclusion of this course that will test your understanding of the Pentateuch. </span></p>
-<p><span lang='en'>How is this Course Divided? </span></p>
-<p><span lang='en'>This course is divided into five (5) main sections. Each section will conclude with: 1) a special assignment 2) study questions and 3) a test. </span></p>
-<p><span lang='en'>Section 1:Genesis </span></p>
-<p><span lang='en'>Section 2:Exodus </span></p>
-<p><span lang='en'>Section 3:Leviticus </span></p>
-<p><span lang='en'>Section 4:Numbers </span></p>
-<p><span lang='en'>Section 5:Deuteronomy </span></p>
-<p><span lang='en'>All assignments in this course are either: </span></p>
-<h2><span lang='en'>OpenBook </span></h2>
-<p><span lang='en'>Resources may be used to answer questions; such as&#44; this textbook&#44; the Bible&#44; commentaries&#44; and etc. OR&#44; </span></p>
-<h2><span lang='en'>ClosedBook </span></h2>
-<p><span lang='en'>No resources are to be used. Closed book assignments are by memory only and are designed to test your memory as well as comprehension. </span></p>
+# Syllabus
 
-<h1><span lang='en'>Lesson Plan </span></h1>
-<p><span lang='en'>1)LESSON1 </span></p>
-<p><span lang='en'>a.class Orientation&#44; Syllabus </span></p>
-<p><span lang='en'>b.Choose Personality Report Subject. Due for LESSON 4. </span></p>
-<p><span lang='en'>c.Study TEXTBOOK : &quot;Introduction&quot; &amp; &quot;Genesis&#44; Session 1 of 4&quot; </span></p>
-<p><span lang='en'>d.Complete &quot;Who&apos;s Who in the Book of Genesis&quot; . </span></p>
-<p><span lang='en'>e.Read Genesis Chapters 1-15 and compose a question and answer for eachchapter. </span></p>
-<p><span lang='en'>2)LESSON2 </span></p>
-<p><span lang='en'>a.Study TEXTBOOK: &quot;Genesis&#44; Session 2 of 4&quot; </span></p>
-<p><span lang='en'>b.Complete &quot;Illustrations from Genesis&quot;. </span></p>
-<p><span lang='en'>c.Read Genesis Chapters 16-30 and compose a question and answer for each chapter. </span></p>
-<p><span lang='en'>3)LESSON3 </span></p>
-<p><span lang='en'>a.Study TEXTBOOK: &quot;Genesis&#44; Session 3 of 4&quot; </span></p>
-<p><span lang='en'>b.Read Genesis Chapters 31-50 and compose a question &amp; answer for eachchapter: </span></p>
-<p><span lang='en'>c.Complete &quot;Noah&apos;s Ark Questionnaire&quot;. </span></p>
-<p><span lang='en'>d.SECTION 1: Introduction &amp; Genesis Study Questions due. </span></p>
-<p><span lang='en'>4)LESSON4 </span></p>
-<p><span lang='en'>a.Study TEXTBOOK: &quot;Genesis&#44; Session 4 of 4&quot; </span></p>
-<p><span lang='en'>b.Answer the following question in a 200-400 word essay: &quot;How do we seethe conflict between Isaac and Ishmael continuing today? (Refer to PAGE 23 ofTEXTBOOK: V. Abraham C.) </span></p>
-<p><span lang='en'>c.Read Exodus 1-15 and compose a question &amp; answer for each chapter: </span></p>
-<p><span lang='en'>d.SECTION 1: Introduction &amp; Genesis Quiz due. </span></p>
-<p><span lang='en'>e.Personality Report Due. </span></p>
-<p><span lang='en'>5)LESSON5 </span></p>
-<p><span lang='en'>a.Study TEXTBOOK: &quot;Exodus&#44; Session 1 of 3&quot;. </span></p>
-<p><span lang='en'>b.Read Exodus 16-30 and compose a question &amp; answer for each chapter: </span></p>
-<p><span lang='en'>6)LESSON6 </span></p>
-<p><span lang='en'>a.Study TEXTBOOK: &quot;Exodus&#44; Session 2 of 3&quot;.. </span></p>
-<p><span lang='en'>b.Read Exodus 31-40 and compose a question &amp; answer for each chapter. </span></p>
-<p><span lang='en'>c.SECTION 2: Exodus Study Questions due. </span></p>
-<p><span lang='en'>7)LESSON7 </span></p>
-<p><span lang='en'>a.Study TEXTBOOK: &quot;Exodus&#44; Session 3 of 3&quot;. </span></p>
-<p><span lang='en'>b.Read Leviticus 1-15 and compose a question &amp; answer for each chapter. </span></p>
-<p><span lang='en'>c.SECTION 2: Exodus Quiz due. </span></p>
-<p><span lang='en'>d.Exodus Sermon assignment due. </span></p>
-<p><span lang='en'>8)LESSON8 </span></p>
-<p><span lang='en'>a.Study TEXTBOOK: &quot;Leviticus&#44; Session 1 of 2&quot;. </span></p>
-<p><span lang='en'>b.Complete Study Questions on the following two pages. </span></p>
-<p><span lang='en'>c.Chose a text and prepare a sermon from out of Exodus Due. </span></p>
-<p><span lang='en'>d.Read Leviticus 16-27 and compose a question &amp; answer for each chapter: </span></p>
-<p><span lang='en'>9)LESSON9 </span></p>
-<p><span lang='en'>a.Study TEXTBOOK: &quot;Leviticus&#44; Session 2 of 2&quot;.. </span></p>
-<p><span lang='en'>b.Give Personality Report orally. </span></p>
-<p><span lang='en'>c.Read Numbers 1-15 and compose a question &amp; answer for each chapter. </span></p>
-<p><span lang='en'>d.SECTION 3: Leviticus Study Questions due. </span></p>
-<p><span lang='en'>e.Answer the following question in approximately 250 words. (Count does not include required supportive Scriptures.): How can an unholy person approach a holy God? </span></p>
-<p><span lang='en'>10)LESSON 10 </span></p>
-<p><span lang='en'>a.Study TEXTBOOK: &quot;Numbers&#44; Session 1 of 2&quot;. </span></p>
-<p><span lang='en'>b.Read Numbers 15-36 and compose a question &amp; answer for each chapter. </span></p>
-<p><span lang='en'>c.SECTION 3: Leviticus Quiz due. </span></p>
-<p><span lang='en'>d.SECTION ASSIGNMENT: Holiness Hot Seat. This assignment is twofold: </span></p>
-<p><span lang='en'>i.Prepare 10 relevant questions on the topic of &quot;holiness.&quot; </span></p>
-<p><span lang='en'>ii.GatherScriptures and prepare solid biblical arguments in answer to these questions.Scriptures used are not limited to&#44; but should include&#44; the Pentateuch Due. </span></p>
-<p><span lang='en'>11)LESSON 11 </span></p>
-<p><span lang='en'>a.Study TEXTBOOK: &quot;Numbers&#44; Session 2 of 2&quot;. </span></p>
-<p><span lang='en'>b.Read Deuteronomy 1-17 and compose a question &amp; answer for each chapter. </span></p>
-<p><span lang='en'>c.SECTION 4: Numbers Study Questions due. </span></p>
-<p><span lang='en'>12)LESSON 12 </span></p>
-<p><span lang='en'>a.Study TEXTBOOK: &quot;Deuteronomy&quot;. </span></p>
-<p><span lang='en'>b.Read Deuteronomy 17-34 and compose a question &amp; answer for each chapter. </span></p>
-<p><span lang='en'>c.SECTION 4: Numbers Quiz due. </span></p>
-<p><span lang='en'>d.SECTION 5: Deuteronomy Study Questions due. </span></p>
-<p><span lang='en'>FOLLOW UP </span></p>
-<p><span lang='en'>a.SECTION 5: Deuteronomy Quiz due. </span></p>
-<p><span lang='en'>b.Prepare for Exam </span></p></div><div id='sec-15'>
+What is the Pentateuch?
+
+The first five books of God's Holy Word which contain the record of the beginning and origin of all things and shadows of all subsequentBiblical revelation.
+
+One of the most diverse and powerful studies of the Bible.
+
+Essentially, the Pentateuch is the foundation of all spiritual truth and social principle!
+
+What does this course involve?
+
+You will be reading the textbook and responding to the essays by answering questions.
+
+Each section will conclude with Study Questions that are answered"open book" which prepares you for the test that follows. The test is not "openbook" but is taken by memory.
+
+You will be consecutively reading each of the five books of thePentateuch at the same time producing a question and answer from each chapter.
+
+You will be studying on your own various topics relating to the Pentateuch; such as: The Feasts of the Lord, and Murmurings in theWilderness.
+
+You will be memorizing Scripture.
+
+You will complete an open book Final Exam at the conclusion of this course that will test your understanding of the Pentateuch.
+
+How is this Course Divided?
+
+This course is divided into five (5) main sections. Each section will conclude with: 1) a special assignment 2) study questions and 3) a test.
+
+Section 1: Genesis
+
+Section 2: Exodus
+
+Section 3: Leviticus
+
+Section 4: Numbers
+
+Section 5: Deuteronomy
+
+All assignments in this course are either:
+
+## OpenBook
+
+Resources may be used to answer questions; such as, this textbook, the Bible, commentaries, and etc. OR,
+
+## ClosedBook
+
+No resources are to be used. Closed book assignments are by memory only and are designed to test your memory as well as comprehension.
+
+# Lesson Plan
+
+1)Lesson 1
+
+a.class Orientation, Syllabus
+
+b.Choose Personality Report Subject. Due for Lesson 4.
+
+c.Study TEXTBOOK : "Introduction" & "Genesis, Session 1 of 4"
+
+d.Complete "Who's Who in the Book of Genesis" .
+
+e.Read Genesis Chapters 1-15 and compose a question and answer for eachchapter.
+
+2)Lesson 2
+
+a.Study TEXTBOOK: "Genesis, Session 2 of 4"
+
+b.Complete "Illustrations from Genesis".
+
+c.Read Genesis Chapters 16-30 and compose a question and answer for each chapter.
+
+3)Lesson 3
+
+a.Study TEXTBOOK: "Genesis, Session 3 of 4"
+
+b.Read Genesis Chapters 31-50 and compose a question & answer for eachchapter:
+
+c.Complete "Noah's Ark Questionnaire".
+
+d.Section 1: Introduction & Genesis Study Questions due.
+
+4)Lesson 4
+
+a.Study TEXTBOOK: "Genesis, Session 4 of 4"
+
+b.Answer the following question in a 200-400 word essay: "How do we seethe conflict between Isaac and Ishmael continuing today? (Refer to PAGE 23 ofTEXTBOOK: V. Abraham C.)
+
+c.Read Exodus 1-15 and compose a question & answer for each chapter:
+
+d.Section 1: Introduction & Genesis Quiz due.
+
+e.Personality Report Due.
+
+5)Lesson 5
+
+a.Study TEXTBOOK: "Exodus, Session 1 of 3".
+
+b.Read Exodus 16-30 and compose a question & answer for each chapter:
+
+6)Lesson 6
+
+a.Study TEXTBOOK: "Exodus, Session 2 of 3"..
+
+b.Read Exodus 31-40 and compose a question & answer for each chapter.
+
+c.Section 2: Exodus Study Questions due.
+
+7)Lesson 7
+
+a.Study TEXTBOOK: "Exodus, Session 3 of 3".
+
+b.Read Leviticus 1-15 and compose a question & answer for each chapter.
+
+c.Section 2: Exodus Quiz due.
+
+d.Exodus Sermon assignment due.
+
+8)Lesson 8
+
+a.Study TEXTBOOK: "Leviticus, Session 1 of 2".
+
+b.Complete Study Questions on the following two pages.
+
+c.Chose a text and prepare a sermon from out of Exodus Due.
+
+d.Read Leviticus 16-27 and compose a question & answer for each chapter:
+
+9)Lesson 9
+
+a.Study TEXTBOOK: "Leviticus, Session 2 of 2"..
+
+b.Give Personality Report orally.
+
+c.Read Numbers 1-15 and compose a question & answer for each chapter.
+
+d.Section 3: Leviticus Study Questions due.
+
+e.Answer the following question in approximately 250 words. (Count does not include required supportive Scriptures.): How can an unholy person approach a holy God?
+
+10)Lesson 10
+
+a.Study TEXTBOOK: "Numbers, Session 1 of 2".
+
+b.Read Numbers 15-36 and compose a question & answer for each chapter.
+
+c.Section 3: Leviticus Quiz due.
+
+d.Section ASSIGNMENT: Holiness Hot Seat. This assignment is twofold:
+
+i.Prepare 10 relevant questions on the topic of "holiness."
+
+ii.GatherScriptures and prepare solid biblical arguments in answer to these questions.Scriptures used are not limited to, but should include, the Pentateuch Due.
+
+11)Lesson 11
+
+a.Study TEXTBOOK: "Numbers, Session 2 of 2".
+
+b.Read Deuteronomy 1-17 and compose a question & answer for each chapter.
+
+c.Section 4: Numbers Study Questions due.
+
+12)Lesson 12
+
+a.Study TEXTBOOK: "Deuteronomy".
+
+b.Read Deuteronomy 17-34 and compose a question & answer for each chapter.
+
+c.Section 4: Numbers Quiz due.
+
+d.Section 5: Deuteronomy Study Questions due.
+
+FOLLOW UP
+
+a.Section 5: Deuteronomy Quiz due.
+
+b.Prepare for Exam

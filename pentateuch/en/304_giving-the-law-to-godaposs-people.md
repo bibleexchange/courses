@@ -1,54 +1,107 @@
-<h1><span lang='en'>Giving the Law to God&apos;s People (CH. 20-24) </span></h1>
-<h2><span lang='en'>Introduction to the Law of God (20:1-2) </span></h2>
-<h3><span lang='en'>God&apos;s Right to Command&mdash;HE IS GOD! </span></h3>
-<blockquote><span lang='en'>Exodus 20:2&mdash;I am the LORD thy God&#44; which have brought thee out of the land of Egypt&#44; out of the house of bondage. </span></blockquote>
-<p><span lang='en'>In 71 verses in the Pentateuch this reminder is given as a preface to His commands: &quot;I am the Lord&quot; and 29times: &quot;I am the Lord thy God.&quot; </span></p>
-<blockquote><span lang='en'>Ecclesiastes12:13&mdash;Let us hear the conclusion of the whole matter: Fear God&#44; and keep his commandments: for this is the whole duty of man. </span></blockquote>
-<h3><span lang='en'>Keeping His Commandments Brings Blessing </span></h3>
-<blockquote><span lang='en'>Exodus 20:6&mdash;And shewing mercy unto thousands of them that love me&#44; and keep my commandments. </span></blockquote>
-<blockquote><span lang='en'>Psalm 119:143&mdash;Trouble and anguish have taken hold on me: yet thy commandments are my delights. </span></blockquote>
-<blockquote><span lang='en'>John 15:10 If ye keep my commandments&#44; ye shall abide in my love; even as I have kept my Father's commandments&#44; and abide in his love. </span></blockquote>
-<blockquote><span lang='en'>I John 5:3&mdash;For this is the love of God&#44; that we keep his commandments: and his commandments are not grievous. </span></blockquote>
-<blockquote><span lang='en'>Revelation 22:14&mdash;Blessed are they that do his commandments&#44; that they may have right to the tree of life&#44; and may enter in through the gates into thecity. </span></blockquote>
-<h3><span lang='en'>Keeping the Law Does Not Justify </span></h3>
-<blockquote><span lang='en'>Acts 13:39&mdash;And by him all that believe are justified from all things&#44; from which ye could not be justified by the law of Moses. </span></blockquote>
-<h3><span lang='en'>Which is the Greatest Commandment? (Matthew 22:35-40) </span></h3>
-<h3><span lang='en'>Should the commandments of God be hung in public places? </span></h3>
-<blockquote><span lang='en'>Psalm 18:22&mdash;For all his judgments were before me&#44; and I did not put away his statutes from me. </span></blockquote>
-<blockquote><span lang='en'>Psalm 119:30&mdash;I have chosen the way of truth: thy judgments have I laid before me. </span></blockquote>
-<blockquote><span lang='en'>Psalm 40:8&mdash;I delight to do thy will&#44; O my God: yea&#44; thy law is within my heart. </span></blockquote>
-<h3><span lang='en'>Are There Only 10 Commandments? </span></h3>
-<blockquote><span lang='en'>Genesis 26:5&mdash;Because that Abraham obeyed my voice&#44; and kept my charge&#44; my commandments&#44; my statutes&#44;and my laws. </span></blockquote>
-<blockquote><span lang='en'>Mark 10:19&mdash;Thou knowest the commandments&#44; Do not commit adultery&#44; Do not kill&#44; Do not steal&#44; Do not bear false witness&#44; Defraud not&#44;Honour thy father and mother. </span></blockquote>
-<blockquote><span lang='en'>Mark 12:29&mdash;AndJesus answered him&#44; The first of all the commandments is&#44; Hear&#44; O Israel; TheLord our God is one Lord: </span></blockquote>
-<h2><span lang='en'>The Ten Commandments (CH. 20) </span></h2>
-<h3><span lang='en'>&quot;Thou shalt have no other gods before me.&quot; </span></h3>
-<h3><span lang='en'>&quot;Thou shalt not make unto thee any graven image&#44;&quot; </span></h3>
-<h3><span lang='en'>&quot;Thou shalt not take the name of the LORD thy God in vain;&quot; </span></h3>
-<h3><span lang='en'>&quot;Remember the sabbath day&#44; to keep it holy.&quot; </span></h3>
-<h3><span lang='en'>&quot;Honour thy father and mother:&quot; </span></h3>
-<h3><span lang='en'>&quot;Thou shalt not kill.&quot; </span></h3>
-<h3><span lang='en'>&quot;Thoushalt not commit adultery.&quot; </span></h3>
-<h3><span lang='en'>&quot;Thoushalt not steal.&quot; </span></h3>
-<h3><span lang='en'>&quot;Thou shalt not bear false witness&quot; </span></h3>
-<h3><span lang='en'>&quot;Thou shalt not covet&quot; </span></h3>
-<h3><span lang='en'>Israel&apos;sResponse (18-21) </span></h3>
-<h3><span lang='en'>God&apos;s Emphasis(22-26) </span></h3>
-<h2><span lang='en'>Judgments of God to be Set before the People (CH. 21-23) </span></h2>
-<h3><span lang='en'>Selling&#44; Buying&#44; &amp; Freeing Servants (21:1-11) </span></h3>
-<h3><span lang='en'>Killing&#44; Striking&#44; &amp; Causing Hurt (21:12-36) </span></h3>
-<h3><span lang='en'>Stealing&#44; Making Restitution (22:1-17) </span></h3>
-<h3><span lang='en'>Abominations &amp; Idolatry (22:18-20) </span></h3>
-<h3><span lang='en'>Treatment of Strangers&#44; Widows &amp; Fatherless (22:21-24) </span></h3>
-<h3><span lang='en'>Lending &amp; Borrowing (22:25-27) </span></h3>
-<h3><span lang='en'>Reviling GodJudges and Cursing Rulers (22:28) </span></h3>
-<h3><span lang='en'>&quot;Fear God&#44; Honor the King&quot; 22:9 &quot;judges=elohim&quot; </span></h3>
-<h3><span lang='en'>Offering of Firsts to God (22:29-30) </span></h3>
-<h3><span lang='en'>Flesh Torn in the Field (22:31) </span></h3>
-<h3><span lang='en'>Social Responsibilities (23:1-9) </span></h3>
-<h3><span lang='en'>Farming&#44; Working&#44; Feasts &amp; Sacrifices (23:10-19) </span></h3>
-<h3><span lang='en'>Treatment of God&apos;s Messenger and Their Inheritance (23:20-33) </span></h3>
-<h2><span lang='en'>Judgments of God Set before the People (CH. 24) </span></h2>
-<h3><span lang='en'>A Great Amen &amp; Commitment (1-8) </span></h3>
-<h3><span lang='en'>Seeing God (9-11) </span></h3>
-<h3><span lang='en'>Moses Stays 40 Days in the Mount (12-18) </span></h3>
+# Giving the Law to God's People (CH. 20-24)
+
+## Introduction to the Law of God (20:1-2)
+
+### God's Right to Command—HE IS GOD!
+
+> Exodus 20:2—I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage.
+
+In 71 verses in the Pentateuch this reminder is given as a preface to His commands: "I am the Lord" and 29times: "I am the Lord thy God."
+
+> Ecclesiastes12:13—Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.
+
+### Keeping His Commandments Brings Blessing
+
+> Exodus 20:6—And shewing mercy unto thousands of them that love me, and keep my commandments.
+
+> Psalm 119:143—Trouble and anguish have taken hold on me: yet thy commandments are my delights.
+
+> John 15:10 If ye keep my commandments, ye shall abide in my love; even as I have kept my Father's commandments, and abide in his love.
+
+> I John 5:3—For this is the love of God, that we keep his commandments: and his commandments are not grievous.
+
+> Revelation 22:14—Blessed are they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into thecity.
+
+### Keeping the Law Does Not Justify
+
+> Acts 13:39—And by him all that believe are justified from all things, from which ye could not be justified by the law of Moses.
+
+### Which is the Greatest Commandment? (Matthew 22:35-40)
+
+### Should the commandments of God be hung in public places?
+
+> Psalm 18:22—For all his judgments were before me, and I did not put away his statutes from me.
+
+> Psalm 119:30—I have chosen the way of truth: thy judgments have I laid before me.
+
+> Psalm 40:8—I delight to do thy will, O my God: yea, thy law is within my heart.
+
+### Are There Only 10 Commandments?
+
+> Genesis 26:5—Because that Abraham obeyed my voice, and kept my charge, my commandments, my statutes,and my laws.
+
+> Mark 10:19—Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Defraud not,Honour thy father and mother.
+
+> Mark 12:29—AndJesus answered him, The first of all the commandments is, Hear, O Israel; TheLord our God is one Lord:
+
+## The Ten Commandments (CH. 20)
+
+### "Thou shalt have no other gods before me."
+
+### "Thou shalt not make unto thee any graven image,"
+
+### "Thou shalt not take the name of the LORD thy God in vain;"
+
+### "Remember the sabbath day, to keep it holy."
+
+### "Honour thy father and mother:"
+
+### "Thou shalt not kill."
+
+### "Thoushalt not commit adultery."
+
+### "Thoushalt not steal."
+
+### "Thou shalt not bear false witness"
+
+### "Thou shalt not covet"
+
+### Israel'sResponse (18-21)
+
+### God's Emphasis(22-26)
+
+## Judgments of God to be Set before the People (CH. 21-23)
+
+### Selling, Buying, & Freeing Servants (21:1-11)
+
+### Killing, Striking, & Causing Hurt (21:12-36)
+
+### Stealing, Making Restitution (22:1-17)
+
+### Abominations & Idolatry (22:18-20)
+
+### Treatment of Strangers, Widows & Fatherless (22:21-24)
+
+### Lending & Borrowing (22:25-27)
+
+### Reviling GodJudges and Cursing Rulers (22:28)
+
+### "Fear God, Honor the King" 22:9 "judges=elohim"
+
+### Offering of Firsts to God (22:29-30)
+
+### Flesh Torn in the Field (22:31)
+
+### Social Responsibilities (23:1-9)
+
+### Farming, Working, Feasts & Sacrifices (23:10-19)
+
+### Treatment of God's Messenger and Their Inheritance (23:20-33)
+
+## Judgments of God Set before the People (CH. 24)
+
+### A Great Amen & Commitment (1-8)
+
+### Seeing God (9-11)
+
+### Moses Stays 40 Days in the Mount (12-18)

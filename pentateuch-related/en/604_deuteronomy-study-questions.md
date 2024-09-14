@@ -18,7 +18,7 @@
 
 # Why would we say that Deuteronomy is the most integral part of thePentateuch?
 
-## Deuteronomy is a most integral part of the Pentateuch seeing that it condenses and continues the great truths of the first four books of the Bible
+## Deuteronomy is a most integral part of the Pentateuch seeing that it condenses and continues the great truths of the first four books of theBible
 
 # Moses admonishes in Deuteronomy to "remember especially" something. What was it? Give reference.
 

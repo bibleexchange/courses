@@ -1,84 +1,165 @@
-<h1><span lang='en'>Journeying Toward and Arriving at Mount Sinai (13:17-19:25) </span></h1>
-<h2><span lang='en'>The Exodus from Egypt (13:17-14:31) </span></h2>
-<h3><span lang='en'>Israel&apos;s Course as Designed by God </span></h3>
-<blockquote><span lang='en'>Exodus 13:17&mdash;And it came to pass&#44; when Pharaoh had let the people go&#44; that God led them not through the way of the land of the Philistines&#44; although that was near; for God said&#44; Lest peradventure the people repent when they see war&#44; and they return to Egypt: </span></blockquote>
-<p><span lang='en'>[1)Succoth 2)Etham 3)Red Sea 4)Wilderness of Shur 5)Marah 5)Elim 7)Wilderness of Sin 8)Rephidim (Mt. Horeb&#44; MassahMeribah) 9)Wilderness of Sinai (from the 3rd month until the 20th) </span></p>
-<h3><span lang='en'>Israel&apos;s Bounty as Determined by God&quot; </span></h3>
-<p><span lang='en'>&quot;Harnessed&quot; &mdash; During the early morning hours of April 15th &#44; all the Israeli men (about 600&#44;000, Exodus 12:37)and their families crossed the borders of Egypt. Approximately 2-3 million Jews left Egypt. Exodus 12:40&mdash;Now the sojourning of the children of Israel&#44; whodwelt in Egypt&#44; was four hundred and thirty years. </span></p>
-<p><span lang='en'>They were also accompanied by a mixed multitude. (Ex.12:38; Zech. 8:23) </span></p>
-<h3><span lang='en'>Joseph&apos;s Bones Recovered as Demanded by Joseph </span></h3>
-<blockquote><span lang='en'>Exodus 13:19&mdash;And Moses took the bones of Joseph with him: for he had straitly sworn the childrenof Israel&#44; saying&#44; God will surely visit you; and ye shall carry up my bonesaway hence with you. </span></blockquote>
-<h3><span lang='en'>Israel&apos;s Path as Daily Led by God </span></h3>
-<blockquote><span lang='en'>Hebrews 13:21&mdash;And the LORD went before them by day in a pillar of a cloud&#44; to lead them the way;and by night in a pillar of fire&#44; to give them light; to go by day and night: </span></blockquote>
-<h3><span lang='en'>Pharaoh&apos;s Pursuit of the Delayed Israelites </span></h3>
-<blockquote><span lang='en'>Ex 14:5 &hellip;Why have we done this&#44; that we have let Israel go from serving us? </span></blockquote>
-<h3><span lang='en'>Moses&apos; Attempt to Deter Israel&apos;s Fear </span></h3>
-<blockquote><span lang='en'>10 And when Pharaoh drew nigh&#44; the children of Israel lifted up their eyes&#44; and&#44; behold&#44;the Egyptians marched after them; and they were sore afraid: and the childrenof Israel cried out unto the LORD. </span></blockquote>
-<h3><span lang='en'>God&apos;s Honor Declared Over Pharoah </span></h3>
-<blockquote><span lang='en'>17 I will get me honour upon Pharaoh&#44; and upon all his host&#44; upon his chariots&#44; and upon his horsemen. 18 And the Egyptians shall know that I am the LORD&#44; when I havegotten me honour upon Pharaoh&#44; upon his chariots&#44; and upon his horsemen. </span></blockquote>
-<h3><span lang='en'>Pharaoh&apos;s Destruction in the Red Sea </span></h3>
-<p><span lang='en'>God sent his &quot;army&quot; to stand between the hosts of Egypt and His people! </span></p>
-<h2><span lang='en'>Moses&apos; Song and Miriam&apos;s Dance (15:1-21) </span></h2>
-<h3><span lang='en'>The Singing of the Miracle </span></h3>
-<p><span lang='en'>&quot;&hellip;I will sing unto the Lord&hellip;&quot; v.1 </span></p>
-<p><span lang='en'>This Song of Moses is an act of PRAISE&#44; FAITH&#44; &amp; REJOICING. (In Deuteronomy 31:22&#44; 30 Moses can be found singing again.) It is the action of the true and loving God to inspire song through a trial. </span></p>
-<blockquote class='quote'><span lang='en'>Francis Jane Van Alstyne (1820-1915) was a great Christian poet and hymn writer. Though blinded as an infant due to negligence of a doctor&#44; Francis was known for her cheerful and happy disposition. She wrote over 9&#44;000 songs and poems of praise to God! Publishers used many different pseudonyms when publishing her songs so that their hymnals would not appear to have been almost entirely written by one person! (She is more commonly remembered by the pen name Fanny J. Crosby.) </span></blockquote>
-<h4><span lang='en'>All the glory is GOD&apos;S. </span></h4>
-<p><span lang='en'>HIS Power&#44; HIS Victory&#44; HE IS a Man of War&#44; the LORD isHIS name&#44; hath HE cast&#44; HIS right hand&#44; in the greatness of THINE Excellency&#44;THY wrath&#44; THY nostrils&#44; THY wind = &quot;WHO IS LIKE UNTO THEE&quot; </span></p>
-<h4><span lang='en'>This is a song of FAITH. </span></h4>
-<p><span lang='en'>God&apos;s great deliverance from under Pharaoh&apos; hand&#44; Pharaoh&apos;s destruction and the miracle of the parted waters with dry land created a personal faith in the Israelite&apos;shearts. These acts were evidence to the fact that God&apos;s Word was true andreliable. </span></p>
-<h5><span lang='en'>They saw for themselves WHO GOD IS. </span></h5>
-<p><span lang='en'>Instead of asking &quot;Where is the God our Fathers?&quot; as before&#44; Moses and Israel shout &quot;the LORD is become MY salvation&quot; out of a new found knowledge and appreciation of WHOGod is. (&quot;LORD&quot;Jehovah is the covenant keeping name of God.) </span></p>
-<p><span lang='en'>The phrase &quot;The Lord is become&quot; is descriptive of Israel&apos;s understanding and not a declaration that some metamorphosis has taken over God. God has not&#44; will not and cannot change! In witnessing this great event&#44; God has become magnified in the eyes of the Hebrews. As when we witness the hand of God move in our lives and our hearts are immediately full of the reality of the power&#44; love and nearness of God&#44; so Moses now sings: The Lord is become my salvation and His right hand has become glorious in power. God was already their salvation and power has always belonged to God&#44; but now Israel vividly REALIZESit. </span></p>
-<h5><span lang='en'>They saw for themselves what THEY MUST DO. </span></h5>
-<p><span lang='en'>Faith and Commitment go hand in hand.</span></p>
-<blockquote><span lang='en'>&quot;I will sing unto the Lord&quot; - &quot;I will prepare Him an habitation&quot; </span></blockquote>
-<h5><span lang='en'>They saw for themselves WHAT GOD CAN DO &amp; WILL DO. </span></h5>
-<p><span lang='en'>&quot;He hath&hellip;&quot; (triumphed&#44; cast&#44; dashed&#44; guided&#44; bring them in&#44; etc.) </span></p>
-<p><span lang='en'>&quot;He shall&quot; v.14-18 (melt&#44; bring them in&#44; reign forever and ever&#44; etc.) </span></p>
-<h4><span lang='en'>This song followed by dancing was absolutely proper. </span></h4>
-<p><span lang='en'>Moses&apos; elevated praise and Miriam&apos;s holy dance were the only proper responses. God had triumphed gloriously&#44; cast into the sea&#44; dashed in pieces&#44;displayed the greatness of His excellency&#44; consumed them as stubble&#44;caused the floods to stand upright as a heap with the breath of His nostril&#44;and the enemy was stopped dead in his tracks. THIS WAS AN EXCEPTIONALDAY worthy of an exceptional song and outward expression of honor andthanksgiving to God. </span></p>
-<blockquote><span lang='en'>Exodus 15:20-21&mdash;And Miriam the prophetess&#44; the sister of Aaron&#44; took a timbrel in her hand; and all the women went out after her with timbrels and with dances. 21 And Miriam answered them&#44; Sing ye to the LORD&#44; for he hath triumphed gloriously; the horse and his rider hath he thrown into the sea. </span></blockquote>
+# Journeying Toward and Arriving at Mount Sinai (13:17-19:25)
 
-<h3><span lang='en'>The Scope of the Miracle </span></h3>
-<h4><span lang='en'>ISRAEL&apos;s FAITH WAS STRENGTHENED </span></h4>
-<p><span lang='en'>&quot;the Lord is my strength and song&quot; v.2 </span></p>
-<h4><span lang='en'>EGYPT&apos;s HOSTS WERE DESTROYED </span></h4>
-<p><span lang='en'>&quot;dashed in pieces the enemy&quot; v.6 </span></p>
-<h4><span lang='en'>NATURE&apos;s POWER WAS SUBMITTED </span></h4>
-<p><span lang='en'>&quot;Congealed the Waters&quot;(v.8; Job 10:10; Zep 1:12; Zec 14:6) </span></p>
-<h4><span lang='en'>CANAAN&apos;s HEARTS WERE CONQUERED </span></h4>
-<p><span lang='en'>&quot;Fear and dread shall fall upon them&quot; v.16 </span></p>
-<h3><span lang='en'>The Significance of the Miracle </span></h3>
-<h4><span lang='en'>God is and always will be on His throne! </span></h4>
-<p><span lang='en'>&quot;The Lord shall reign forever and ever.&quot; v.18 </span></p>
-<p><span lang='en'>The Lord will DO IT AGAIN! Because he delivered that day&#44; they could know that God would deliver and be the salvation of His people ALWAYS. The fact that they served the living and only true God and that He is the one in control of all thingswas the greatest assurance of safety and success. </span></p>
-<h4><span lang='en'>The enemy was STOPPED and can no longer pursue! </span></h4>
-<p><span lang='en'>&quot;&hellip;Pharaoh went&hellip;with his horsemen into the sea&hellip;&quot; v.19 </span></p>
-<p><span lang='en'>Pharaoh recanted his decision to liberate the Hebrews and tried to haul them back in chains. God saw to it that this would never happen. God destroyed Pharaoh and the hearts of the Egyptians were conquered. Egypt had no claim on the Hebrews anymore. </span></p>
-<h4><span lang='en'>The people of God WENT ON and&#44; can now possess their inheritance! </span></h4>
-<p><span lang='en'>&quot;Israel went on dry land&quot; v.19 </span></p>
-<h2><span lang='en'>From the Red Sea to the Foot of Mount Sinai </span></h2>
-<h3><span lang='en'>No Water in the Wilderness of Shur (15:22) </span></h3>
-<blockquote><span lang='en'>Exodus 15:22&mdash;So Moses brought Israel from the Red sea&#44; and they went out into the wilderness ofShur; and they went three days in the wilderness&#44; and found no water. </span></blockquote>
-<p><span lang='en'>Shur was a city on the north-eastern border of Egypt that was close to the location of modern Suez and it is alsothe name of its adjoining desert that stretches toward Canaan. The name Shurmeans &quot;wall or that which limits&quot; and was probably the last Arabiantown before entering Egypt. </span></p>
-<p><span lang='en'>It is mentioned elsewhere inScripture: Hagar&apos;s Flight (Gen 16:7) Abraham dwelled between Kadesh and Shur(Gen. 20:1) and in Genesis 25:18; I Samuel 15:7; 27:8. It is also called&quot;Etham&quot; in Exodus 13:20 and Numbers 33:6-8; </span></p>
-<h3><span lang='en'>Bitter Water in Marah (15:23-26) </span></h3>
-<p><span lang='en'>Israel&apos;s condition of having no water in the wilderness of Shur was magnified by the discovery of water that was undrinkable. Marah means bitter. </span></p>
-<p><span lang='en'>Israel responds by murmuring for the second time since leaving Egypt (14:11&#44;12) and continues a habit of complaining and murmuring when faced with an obstacle. This was part of the&apos;slave mentality&quot; that God designed to work out of them in the wildernessbefore bringing them into their inheritance. They had been slaves accustomed todefeat and mistreatment for so long&#44; God had to teach them that they couldovercome and be victors in the face of difficulty. </span></p>
-<p><span lang='en'>The miracle that occurs here is mysteriously suggestive of the cross of Christ. Moses casts a TREE into the waters which are sweetened and then God gives a mighty promise directly relatedto the sufferings of Christ on the cross. </span></p>
-<p><span lang='en'>v. 26 &hellip; I will put none of these diseases upon thee&#44; &hellip;: for I am the LORD that healeth thee </span></p>
-<blockquote><span lang='en'>Isaiah 53:5 But he was wounded for our transgressions&#44; he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed. </span></blockquote>
-<h3><span lang='en'>Twelve Wells of Water in Elim (15:27) </span></h3>
-<blockquote><span lang='en'>&hellip; where were twelve wells of water&#44; and uthreescore and ten palm trees:.. </span></blockquote>
-<p><span lang='en'>It is amazingly apparent by the discovery at Elim that God is purposefully and sovereignly teaching Israel to trust Him. God knew what is was deep in their hearts despite all the singing and dancing after the Red Sea crossing. Immediately following that mountaintop experience he leads them into a place with no water and then a place with water that cannot be drunk. After miraculously cleansing those waters&#44; God providentially brings them to an oasis bursting with water. This was as if to say&#44; &quot;My children&#44; whether there is no water or the water is too bitter todrink or there is clean water in abundance&#44; I am your first need and you cantrust Me!&quot; </span></p>
-<p><span lang='en'>The numbers 12 and 70 suggest something to us of Divine order and government and Divine providence. They remind us of the 12 tribes of Israel&#44; the 12 Apostles&#44; the 70 years of a man&apos;slife (Psalm 90:10)&#44; 70 days the Egyptians mourned Jacob&apos;s death&#44; the 70 yearsof the Babylonian captivity&#44; Daniel&apos;s 70 weeks of years&#44; the 70 members of theSanhedrin&#44; and the seventy disciples Christ sent out in Luke 10:1. </span></p>
-<h3><span lang='en'>Manna in the Wilderness of Sin (16:1-36) </span></h3>
-<h3><span lang='en'>Two Miracles in Rephidim (17:1-16) </span></h3>
-<h4><span lang='en'>Water Out of the Rock on Mount Horeb (1-7) </span></h4>
-<h4><span lang='en'>VictoryOver Amalek (8-16) </span></h4>
-<h3><span lang='en'>Arriving at the Foot of Mount Sinai (CH. 18-19) </span></h3>
-<h4><span lang='en'>A Sensible Person (18:1-21) </span></h4>
-<h4><span lang='en'>A Solemn Pledge (19:1-9) </span></h4>
-<h4><span lang='en'>A Sanctifying Preparation (19:10-15) </span></h4>
-<h4><span lang='en'>A Startling Power (19:16-25) </span></h4>
+## The Exodus from Egypt (13:17-14:31)
+
+### Israel's Course as Designed by God
+
+> Exodus 13:17—And it came to pass, when Pharaoh had let the people go, that God led them not through the way of the land of the Philistines, although that was near; for God said, Lest peradventure the people repent when they see war, and they return to Egypt:
+
+\[1)Succoth 2)Etham 3)Red Sea 4)Wilderness of Shur 5)Marah 5)Elim 7)Wilderness of Sin 8)Rephidim (Mt. Horeb, MassahMeribah) 9)Wilderness of Sinai (from the 3rd month until the 20th)
+
+### Israel's Bounty as Determined by God"
+
+"Harnessed" — During the early morning hours of April 15th , all the Israeli men (about 600,000, Exodus 12:37)and their families crossed the borders of Egypt. Approximately 2-3 million Jews left Egypt. Exodus 12:40—Now the sojourning of the children of Israel, whodwelt in Egypt, was four hundred and thirty years.
+
+They were also accompanied by a mixed multitude. (Ex.12:38; Zech. 8:23)
+
+### Joseph's Bones Recovered as Demanded by Joseph
+
+> Exodus 13:19—And Moses took the bones of Joseph with him: for he had straitly sworn the childrenof Israel, saying, God will surely visit you; and ye shall carry up my bonesaway hence with you.
+
+### Israel's Path as Daily Led by God
+
+> Hebrews 13:21—And the LORD went before them by day in a pillar of a cloud, to lead them the way;and by night in a pillar of fire, to give them light; to go by day and night:
+
+### Pharaoh's Pursuit of the Delayed Israelites
+
+> Ex 14:5 …Why have we done this, that we have let Israel go from serving us?
+
+### Moses' Attempt to Deter Israel's Fear
+
+> 10 And when Pharaoh drew nigh, the children of Israel lifted up their eyes, and, behold,the Egyptians marched after them; and they were sore afraid: and the childrenof Israel cried out unto the LORD.
+
+### God's Honor Declared Over Pharoah
+
+> 17 I will get me honour upon Pharaoh, and upon all his host, upon his chariots, and upon his horsemen. 18 And the Egyptians shall know that I am the LORD, when I havegotten me honour upon Pharaoh, upon his chariots, and upon his horsemen.
+
+### Pharaoh's Destruction in the Red Sea
+
+God sent his "army" to stand between the hosts of Egypt and His people!
+
+## Moses' Song and Miriam's Dance (15:1-21)
+
+### The Singing of the Miracle
+
+"…I will sing unto the Lord…" v.1
+
+This Song of Moses is an act of PRAISE, FAITH, & REJOICING. (In Deuteronomy 31:22, 30 Moses can be found singing again.) It is the action of the true and loving God to inspire song through a trial.
+
+> Francis Jane Van Alstyne (1820-1915) was a great Christian poet and hymn writer. Though blinded as an infant due to negligence of a doctor, Francis was known for her cheerful and happy disposition. She wrote over 9,000 songs and poems of praise to God! Publishers used many different pseudonyms when publishing her songs so that their hymnals would not appear to have been almost entirely written by one person! (She is more commonly remembered by the pen name Fanny J. Crosby.)
+
+#### All the glory is GOD'S.
+
+HIS Power, HIS Victory, HE IS a Man of War, the LORD isHIS name, hath HE cast, HIS right hand, in the greatness of THINE Excellency,THY wrath, THY nostrils, THY wind = "WHO IS LIKE UNTO THEE"
+
+#### This is a song of FAITH.
+
+God's great deliverance from under Pharaoh' hand, Pharaoh's destruction and the miracle of the parted waters with dry land created a personal faith in the Israelite'shearts. These acts were evidence to the fact that God's Word was true andreliable.
+
+##### They saw for themselves WHO GOD IS.
+
+Instead of asking "Where is the God our Fathers?" as before, Moses and Israel shout "the LORD is become MY salvation" out of a new found knowledge and appreciation of WHOGod is. ("LORD"Jehovah is the covenant keeping name of God.)
+
+The phrase "The Lord is become" is descriptive of Israel's understanding and not a declaration that some metamorphosis has taken over God. God has not, will not and cannot change! In witnessing this great event, God has become magnified in the eyes of the Hebrews. As when we witness the hand of God move in our lives and our hearts are immediately full of the reality of the power, love and nearness of God, so Moses now sings: The Lord is become my salvation and His right hand has become glorious in power. God was already their salvation and power has always belonged to God, but now Israel vividly REALIZESit.
+
+##### They saw for themselves what THEY MUST DO.
+
+Faith and Commitment go hand in hand.
+
+> "I will sing unto the Lord" - "I will prepare Him an habitation"
+
+##### They saw for themselves WHAT GOD CAN DO & WILL DO.
+
+"He hath…" (triumphed, cast, dashed, guided, bring them in, etc.)
+
+"He shall" v.14-18 (melt, bring them in, reign forever and ever, etc.)
+
+#### This song followed by dancing was absolutely proper.
+
+Moses' elevated praise and Miriam's holy dance were the only proper responses. God had triumphed gloriously, cast into the sea, dashed in pieces,displayed the greatness of His excellency, consumed them as stubble,caused the floods to stand upright as a heap with the breath of His nostril,and the enemy was stopped dead in his tracks. THIS WAS AN EXCEPTIONALDAY worthy of an exceptional song and outward expression of honor andthanksgiving to God.
+
+> Exodus 15:20-21—And Miriam the prophetess, the sister of Aaron, took a timbrel in her hand; and all the women went out after her with timbrels and with dances. 21 And Miriam answered them, Sing ye to the LORD, for he hath triumphed gloriously; the horse and his rider hath he thrown into the sea.
+
+### The Scope of the Miracle
+
+#### ISRAEL's FAITH WAS STRENGTHENED
+
+"the Lord is my strength and song" v.2
+
+#### EGYPT's HOSTS WERE DESTROYED
+
+"dashed in pieces the enemy" v.6
+
+#### NATURE's POWER WAS SUBMITTED
+
+"Congealed the Waters"(v.8; Job 10:10; Zep 1:12; Zec 14:6)
+
+#### CANAAN's HEARTS WERE CONQUERED
+
+"Fear and dread shall fall upon them" v.16
+
+### The Significance of the Miracle
+
+#### God is and always will be on His throne!
+
+"The Lord shall reign forever and ever." v.18
+
+The Lord will DO IT AGAIN! Because he delivered that day, they could know that God would deliver and be the salvation of His people ALWAYS. The fact that they served the living and only true God and that He is the one in control of all thingswas the greatest assurance of safety and success.
+
+#### The enemy was STOPPED and can no longer pursue!
+
+"…Pharaoh went…with his horsemen into the sea…" v.19
+
+Pharaoh recanted his decision to liberate the Hebrews and tried to haul them back in chains. God saw to it that this would never happen. God destroyed Pharaoh and the hearts of the Egyptians were conquered. Egypt had no claim on the Hebrews anymore.
+
+#### The people of God WENT ON and, can now possess their inheritance!
+
+"Israel went on dry land" v.19
+
+## From the Red Sea to the Foot of Mount Sinai
+
+### No Water in the Wilderness of Shur (15:22)
+
+> Exodus 15:22—So Moses brought Israel from the Red sea, and they went out into the wilderness ofShur; and they went three days in the wilderness, and found no water.
+
+Shur was a city on the north-eastern border of Egypt that was close to the location of modern Suez and it is alsothe name of its adjoining desert that stretches toward Canaan. The name Shurmeans "wall or that which limits" and was probably the last Arabiantown before entering Egypt.
+
+It is mentioned elsewhere inScripture: Hagar's Flight (Gen 16:7) Abraham dwelled between Kadesh and Shur(Gen. 20:1) and in Genesis 25:18; I Samuel 15:7; 27:8. It is also called"Etham" in Exodus 13:20 and Numbers 33:6-8;
+
+### Bitter Water in Marah (15:23-26)
+
+Israel's condition of having no water in the wilderness of Shur was magnified by the discovery of water that was undrinkable. Marah means bitter.
+
+Israel responds by murmuring for the second time since leaving Egypt (14:11,12) and continues a habit of complaining and murmuring when faced with an obstacle. This was part of the'slave mentality" that God designed to work out of them in the wildernessbefore bringing them into their inheritance. They had been slaves accustomed todefeat and mistreatment for so long, God had to teach them that they couldovercome and be victors in the face of difficulty.
+
+The miracle that occurs here is mysteriously suggestive of the cross of Christ. Moses casts a TREE into the waters which are sweetened and then God gives a mighty promise directly relatedto the sufferings of Christ on the cross.
+
+v. 26 … I will put none of these diseases upon thee, …: for I am the LORD that healeth thee
+
+> Isaiah 53:5 But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.
+
+### Twelve Wells of Water in Elim (15:27)
+
+> … where were twelve wells of water, and uthreescore and ten palm trees:..
+
+It is amazingly apparent by the discovery at Elim that God is purposefully and sovereignly teaching Israel to trust Him. God knew what is was deep in their hearts despite all the singing and dancing after the Red Sea crossing. Immediately following that mountaintop experience he leads them into a place with no water and then a place with water that cannot be drunk. After miraculously cleansing those waters, God providentially brings them to an oasis bursting with water. This was as if to say, "My children, whether there is no water or the water is too bitter todrink or there is clean water in abundance, I am your first need and you cantrust Me!"
+
+The numbers 12 and 70 suggest something to us of Divine order and government and Divine providence. They remind us of the 12 tribes of Israel, the 12 Apostles, the 70 years of a man'slife (Psalm 90:10), 70 days the Egyptians mourned Jacob's death, the 70 yearsof the Babylonian captivity, Daniel's 70 weeks of years, the 70 members of theSanhedrin, and the seventy disciples Christ sent out in Luke 10:1.
+
+### Manna in the Wilderness of Sin (16:1-36)
+
+### Two Miracles in Rephidim (17:1-16)
+
+#### Water Out of the Rock on Mount Horeb (1-7)
+
+#### VictoryOver Amalek (8-16)
+
+### Arriving at the Foot of Mount Sinai (CH. 18-19)
+
+#### A Sensible Person (18:1-21)
+
+#### A Solemn Pledge (19:1-9)
+
+#### A Sanctifying Preparation (19:10-15)
+
+#### A Startling Power (19:16-25)

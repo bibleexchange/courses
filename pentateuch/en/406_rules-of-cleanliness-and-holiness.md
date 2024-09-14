@@ -1,79 +1,149 @@
-<h1><span lang='en'>Rules of Cleanliness &amp; Holiness&mdash; Chapters 11-22 </span></h1>
-<h2><span lang='en'>CLEAN &amp; UNCLEAN </span></h2>
-<blockquote><span lang='en'>Leviticus 10:10&mdash;And that ye may put difference between holy and unholy&#44; and between unclean and clean; </span></blockquote>
-<p><span lang='en'>&quot;CLEAN &quot; is found in 39 Verses and &quot;UNCLEAN&quot; in 82 verses inLeviticus. </span></p>
-<blockquote><span lang='en'>Leviticus 22:31-33&mdash;Therefore shall ye keep my commandments&#44; and do them: I am the LORD. 32 Neither shall ye profane my holy name; but I will be hallowed among the children of Israel: I am the LORD which hallow you&#44; 33That brought you out of the land of Egypt&#44; to be your God: I am the LORD </span></blockquote>
+# Rules of Cleanliness & Holiness— Chapters 11-22
 
-<h2><span lang='en'>THE LAW CONCERNING ANIMALS CH. 11 </span></h2>
-<blockquote><span lang='en'>Leviticus 11:47&mdash;To make a difference between the unclean and the clean&#44; and between the beast that may be eaten and the beast that may not be eaten&hellip;(shall not eator touch the carcase it is unclean&#44; abomination) </span></blockquote>
-<h3><span lang='en'>EAT OF THE BEASTS OF THE EARTH (CLEAN) </span></h3>
-<p><span lang='en'>2&#44;3 &hellip;Whatsoever parteth the hoof&#44; and is cloven footed&#44; and cheweth the cud&hellip; </span></p>
-<h3><span lang='en'>EAT NOT OF THE BEASTS OF THE EARTH (UNCLEAN) </span></h3>
-<p><span lang='en'>4-8 chew the cud&#44; &amp; divide the hoof&#44; not cloven footed&hellip;camel&hellip;coney&hellip;hare&hellip;swine&hellip; </span></p>
-<h3><span lang='en'>EAT OF THE WATERS </span></h3>
-<p><span lang='en'>11:9 &hellip; hath fins and scales in the waters&#44; in the seas&#44; and in the rivers&#44; them shall ye eat. </span></p>
-<h3><span lang='en'>EAT NOT OF THE WATERS </span></h3>
-<p><span lang='en'>11:10-12 &hellip; all that have not fins and scales in the seas&hellip;any living thing which is in waters </span></p>
-<h3><span lang='en'>EAT NOT OF THE FOWLS </span></h3>
-<p><span lang='en'>11:13-20 &hellip; the eagle&#44; and the ossifrage&#44; and the ospray&hellip;vulture&hellip; kite &hellip; raven&hellip;owl&hellip; night hawk&#44; &hellip; cuckow&#44; &hellip; hawk &hellip; little owl&#44; &hellip;cormorant&#44; &hellip; great owl&#44;&hellip; swan&#44; &hellip; pelican&#44; &hellip; gier eagle&#44; </span></p>
-<p><span lang='en'>&hellip; stork&#44; the heron &hellip; lapwing&#44; &hellip; bat&hellip;.All fowls that creep&#44;going upon all four&hellip; </span></p>
-<h3><span lang='en'>EAT OF THE FLYING CREEPING THINGS </span></h3>
-<p><span lang='en'>21-23 &hellip; every flying creeping thing that goeth upon all four&#44; which have legs above their feet&#44; to leap withal upon the earth;&hellip;thelocust &hellip; the bald locust &hellip; beetle &hellip; grasshopper &hellip;But all other flying creepingthings&#44; which have four feet&#44; shall be an abomination unto you. </span></p>
-<h3><span lang='en'>WHEN A MAN TOUCH THE CARCASE OF THAT WHICH ISUNCLEANV.24-26 </span></h3>
-<p><span lang='en'>whosoever toucheth the carcase of them shall be unclean until the even. </span></p>
-<p><span lang='en'>shall wash his clothes&#44; and be unclean until the even. </span></p>
-<h3><span lang='en'>EAT NOT CREEPING THINGS GOETH UPON PAWS ON ALL FOUR </span></h3>
-<p><span lang='en'>Le 11:27-31 &hellip; goeth upon his paws&#44; &hellip; beasts that go on all four&#44; &hellip; &hellip;.among the creeping things &hellip; weasel&hellip;mouse&hellip;tortoise&hellip;ferret&hellip;chameleon&hellip;lizard&#44; &hellip; snail&hellip; mole&hellip;. </span></p>
-<h3><span lang='en'>WHEN ANY THING IS TOUCHED BY THE CARCASE OF THAT WHICH ISUNCLEAN V.32-38 </span></h3>
-<p><span lang='en'>&hellip; any vessel of wood&#44; or raiment&#44; or skin&#44; or sack&#44;whatsoever vessel it be&#44; wherein any work is done&#44; it must be put into water&#44;and it shall be unclean until the even; so it shall be cleansed&hellip; every earthenvessel&#44; whereinto any of them falleth&#44; whatsoever is in it shall be unclean;and ye shall break it. &hellip; Of all meat &hellip;on which such water cometh shall beunclean: and all drink that may be drunk in every such vessel shall be unclean&hellip;And every thing whereupon any part of their carcase falleth&hellip; oven&#44; or rangesfor pots&#44; they shall be broken down: for they are unclean&hellip;Nevertheless afountain or pit&#44; wherein there is plenty of water&#44; shall be clean&hellip;. any sowingseed which is to be sown&#44; it shall be clean. </span></p>
-<p><span lang='en'>&hellip; But if any water be put upon the seed&#44; and any part of their carcase fall thereon&#44; it shall be unclean &hellip; </span></p>
-<h3><span lang='en'>WHEN A CLEAN BEAST DIE AND THE CARCASE IS TOUCHED YOU AREUNCLEAN V.39-40 </span></h3>
-<p><span lang='en'>TOUCH IT&#44; EAT IT&#44; CARRY IT&#44; unclean wash his garments and unclean until even </span></p>
+## CLEAN & UNCLEAN
 
-<h3><span lang='en'>CREEPING THINGS ARE UNCLEAN V.41-43 </span></h3>
-<p><span lang='en'>every creeping &hellip; shall not be eaten&hellip;Whatsoever goeth upon the belly&#44; and whatsoever goeth upon all four&#44; or whatsoever hath more feetamong all creeping things that creep upon the earth&#44; them ye shall not eat&hellip; </span></p>
-<h3><span lang='en'>CONCLUSION&mdash; EXHORTATION TO KEEP CLEAN!!! V.44-47 </span></h3>
-<p><span lang='en'>&hellip; For I am the LORD your God: ye shall therefore sanctify yourselves&#44; and ye shall be holy; for I am holy: neither shall ye defile yourselveswith any manner of creeping thing that creepeth upon the earth&hellip;. For I am theLORD that bringeth you up out of the land of Egypt&#44; to be your God: ye shalltherefore be holy&#44; for I am holy.Le 11:46 This is the law of the beasts&#44; and ofthe fowl&#44; and of every living creature that moveth in the waters&#44; and of everycreature that creepeth upon the earth: Le 11:47 To make a difference betweenthe unclean and the clean&#44; and between the beast that may be eaten and thebeast that may not be eaten. </span></p>
+> Leviticus 10:10—And that ye may put difference between holy and unholy, and between unclean and clean;
 
-<h2><span lang='en'>THE LAW CONCERNING HEALTH CH. 12-15 </span></h2>
-<h3><span lang='en'>THE LAW CONCERNING CHILD BIRTH&#44; CH. 12 </span></h3>
-<h4><span lang='en'>Man Child </span></h4>
-<p><span lang='en'>She shall be unclean seven days; Eighth day the flesh of his foreskin shall be circumcised. She shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing&#44; nor come into the sanctuary&#44; until the days of her purifying be fulfilled. </span></p>
-<h4><span lang='en'>Maid Child </span></h4>
-<p><span lang='en'>She shall be unclean two weeks&#44; as in her separation: she shall continue in the blood of her purifying threescore and six days. </span></p>
-<h4><span lang='en'>EITHER (when the days of her purifying are fulfilled) </span></h4>
-<p><span lang='en'>She shall bring a lamb of the first year for a burnt offering&#44; and a young pigeon&#44; or a turtle-dove&#44; for a sin offering&#44; unto the door of the tabernacle of the congregation&#44; unto the priest: Who shall offer it before the LORD&#44; and make an atonementfor her; and she shall be cleansed from the issue of her blood. </span></p>
-<p><span lang='en'>And if she be not able to bring a lamb&#44; then she shall bring two turtles&#44; or two young pigeons; the one for the burnt offering&#44; and the other for a sin offering. </span></p>
-<h3><span lang='en'>THE LAW CONCERNING LEPROSY CH. 13&#44;14 </span></h3>
-<h4><span lang='en'>If it Looks Like Leprosy 13:1-8 </span></h4>
-<h4><span lang='en'>Leprosy Found In a Man 13:9-28 </span></h4>
-<h4><span lang='en'>Plague Upon the Head or Beard 13:29-39 </span></h4>
-<h4><span lang='en'>Baldness 13:40-44 </span></h4>
-<h4><span lang='en'>Treatment of Lepers 13:45-46 </span></h4>
-<h4><span lang='en'>Leprous Clothes 13:47-59 </span></h4>
-<h4><span lang='en'>Day of the Leper&apos;s Cleansing 14:1-32 </span></h4>
-<h4><span lang='en'>LeprousHouse 14:33-53 </span></h4>
-<h4><span lang='en'>CONCLUSION 14:54-57 </span></h4>
-<h3><span lang='en'>THE LAW CONCERNING PHYSICAL &quot;ISSUEING&quot; CH. 15 </span></h3>
-<h4><span lang='en'>MAN&apos;S ISSUEING 1-18 </span></h4>
-<h4><span lang='en'>WOMAN&apos;S ISSUEING 19-30 </span></h4>
-<h4><span lang='en'>CONCLUSION 31-33 </span></h4>
-<h2><span lang='en'>THE LAW CONCERNING THE DAY OF ATONEMENT CH. 16 </span></h2>
-<h2><span lang='en'>THE LAW CONCERNING THE BLOOD OF SACRIFICE CH. 17 </span></h2>
-<blockquote><span lang='en'>Leviticus 17:11-12&mdash;For the life of the flesh is in the blood: and I have given it to you upon the altar to make an atonement for your souls: for it is the blood that maketh an atonement for the soul. 12 Therefore I said unto the children of Israel&#44; No soul of you shall eat blood&#44; neither shall any stranger that sojourneth among you eatblood. </span></blockquote>
+"CLEAN " is found in 39 Verses and "UNCLEAN" in 82 verses inLeviticus.
 
-<h2><span lang='en'>LAW OF THE LAND CH. 18-20 </span></h2>
-<h3><span lang='en'>Follow God&apos;s Customs and Not Theirs </span></h3>
-<blockquote><span lang='en'>Leviticus20:22-23&mdash;Ye shall therefore keep all my statutes&#44; and all my judgments&#44; anddo them: that the land&#44; whither I bring you to dwell therein&#44; spue you notout.23 And ye shall not walk in the manners of the nation&#44; which I cast outbefore you: for they committed all these things&#44; and therefore I abhorred them. </span></blockquote>
-<h3><span lang='en'>Summary Thus Far of God&apos;s Customs </span></h3>
-<p><span lang='en'>Difference between clean beasts and fowls and unclean </span></p>
-<p><span lang='en'>And ye shall be holy unto me: for I the LORD am holy </span></p>
-<p><span lang='en'>A man or woman that hath a familiar spirit&#44; or is a wizard&#44; shall be put to death: </span></p>
-<h2><span lang='en'>LAW OF THE PRIESTHOOD &amp; OFFERINGS CH. 21-22 </span></h2>
-<h3><span lang='en'>Law of the Priesthood 21:1-22:16 </span></h3>
-<blockquote><span lang='en'>Lev. 21:1&mdash;And the LORD said unto Moses&#44; Speak unto the priests the sons of Aaron&hellip; </span></blockquote>
-<blockquote><span lang='en'>Lev. 21:24&mdash;AndMoses told it unto Aaron&#44; and to his sons&#44; and unto all&hellip;Israel. </span></blockquote>
-<h3><span lang='en'>Law of the Offerings 22:17-33 </span></h3>
-<h4><span lang='en'>Without Blemish 17-25 </span></h4>
-<h4><span lang='en'>Kill Not both Parent and Young 26-28 </span></h4>
-<h4><span lang='en'>Eat the Same Die Killed 29-30 </span></h4>
+> Leviticus 22:31-33—Therefore shall ye keep my commandments, and do them: I am the LORD. 32 Neither shall ye profane my holy name; but I will be hallowed among the children of Israel: I am the LORD which hallow you, 33That brought you out of the land of Egypt, to be your God: I am the LORD
+
+## THE LAW CONCERNING ANIMALS CH. 11
+
+> Leviticus 11:47—To make a difference between the unclean and the clean, and between the beast that may be eaten and the beast that may not be eaten…(shall not eator touch the carcase it is unclean, abomination)
+
+### EAT OF THE BEASTS OF THE EARTH (CLEAN)
+
+2,3 …Whatsoever parteth the hoof, and is cloven footed, and cheweth the cud…
+
+### EAT NOT OF THE BEASTS OF THE EARTH (UNCLEAN)
+
+4-8 chew the cud, & divide the hoof, not cloven footed…camel…coney…hare…swine…
+
+### EAT OF THE WATERS
+
+11:9 … hath fins and scales in the waters, in the seas, and in the rivers, them shall ye eat.
+
+### EAT NOT OF THE WATERS
+
+11:10-12 … all that have not fins and scales in the seas…any living thing which is in waters
+
+### EAT NOT OF THE FOWLS
+
+11:13-20 … the eagle, and the ossifrage, and the ospray…vulture… kite … raven…owl… night hawk, … cuckow, … hawk … little owl, …cormorant, … great owl,… swan, … pelican, … gier eagle,
+
+… stork, the heron … lapwing, … bat….All fowls that creep,going upon all four…
+
+### EAT OF THE FLYING CREEPING THINGS
+
+21-23 … every flying creeping thing that goeth upon all four, which have legs above their feet, to leap withal upon the earth;…thelocust … the bald locust … beetle … grasshopper …But all other flying creepingthings, which have four feet, shall be an abomination unto you.
+
+### WHEN A MAN TOUCH THE CARCASE OF THAT WHICH ISUNCLEANV.24-26
+
+whosoever toucheth the carcase of them shall be unclean until the even.
+
+shall wash his clothes, and be unclean until the even.
+
+### EAT NOT CREEPING THINGS GOETH UPON PAWS ON ALL FOUR
+
+Le 11:27-31 … goeth upon his paws, … beasts that go on all four, … ….among the creeping things … weasel…mouse…tortoise…ferret…chameleon…lizard, … snail… mole….
+
+### WHEN ANY THING IS TOUCHED BY THE CARCASE OF THAT WHICH ISUNCLEAN V.32-38
+
+… any vessel of wood, or raiment, or skin, or sack,whatsoever vessel it be, wherein any work is done, it must be put into water,and it shall be unclean until the even; so it shall be cleansed… every earthenvessel, whereinto any of them falleth, whatsoever is in it shall be unclean;and ye shall break it. … Of all meat …on which such water cometh shall beunclean: and all drink that may be drunk in every such vessel shall be unclean…And every thing whereupon any part of their carcase falleth… oven, or rangesfor pots, they shall be broken down: for they are unclean…Nevertheless afountain or pit, wherein there is plenty of water, shall be clean…. any sowingseed which is to be sown, it shall be clean.
+
+… But if any water be put upon the seed, and any part of their carcase fall thereon, it shall be unclean …
+
+### WHEN A CLEAN BEAST DIE AND THE CARCASE IS TOUCHED YOU AREUNCLEAN V.39-40
+
+TOUCH IT, EAT IT, CARRY IT, unclean wash his garments and unclean until even
+
+### CREEPING THINGS ARE UNCLEAN V.41-43
+
+every creeping … shall not be eaten…Whatsoever goeth upon the belly, and whatsoever goeth upon all four, or whatsoever hath more feetamong all creeping things that creep upon the earth, them ye shall not eat…
+
+### CONCLUSION— EXHORTATION TO KEEP CLEAN!!! V.44-47
+
+… For I am the LORD your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I am holy: neither shall ye defile yourselveswith any manner of creeping thing that creepeth upon the earth…. For I am theLORD that bringeth you up out of the land of Egypt, to be your God: ye shalltherefore be holy, for I am holy.Le 11:46 This is the law of the beasts, and ofthe fowl, and of every living creature that moveth in the waters, and of everycreature that creepeth upon the earth: Le 11:47 To make a difference betweenthe unclean and the clean, and between the beast that may be eaten and thebeast that may not be eaten.
+
+## THE LAW CONCERNING HEALTH CH. 12-15
+
+### THE LAW CONCERNING CHILD BIRTH, CH. 12
+
+#### Man Child
+
+She shall be unclean seven days; Eighth day the flesh of his foreskin shall be circumcised. She shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled.
+
+#### Maid Child
+
+She shall be unclean two weeks, as in her separation: she shall continue in the blood of her purifying threescore and six days.
+
+#### EITHER (when the days of her purifying are fulfilled)
+
+She shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtle-dove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest: Who shall offer it before the LORD, and make an atonementfor her; and she shall be cleansed from the issue of her blood.
+
+And if she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering.
+
+### THE LAW CONCERNING LEPROSY CH. 13,14
+
+#### If it Looks Like Leprosy 13:1-8
+
+#### Leprosy Found In a Man 13:9-28
+
+#### Plague Upon the Head or Beard 13:29-39
+
+#### Baldness 13:40-44
+
+#### Treatment of Lepers 13:45-46
+
+#### Leprous Clothes 13:47-59
+
+#### Day of the Leper's Cleansing 14:1-32
+
+#### LeprousHouse 14:33-53
+
+#### CONCLUSION 14:54-57
+
+### THE LAW CONCERNING PHYSICAL "ISSUEING" CH. 15
+
+#### MAN'S ISSUEING 1-18
+
+#### WOMAN'S ISSUEING 19-30
+
+#### CONCLUSION 31-33
+
+## THE LAW CONCERNING THE DAY OF ATONEMENT CH. 16
+
+## THE LAW CONCERNING THE BLOOD OF SACRIFICE CH. 17
+
+> Leviticus 17:11-12—For the life of the flesh is in the blood: and I have given it to you upon the altar to make an atonement for your souls: for it is the blood that maketh an atonement for the soul. 12 Therefore I said unto the children of Israel, No soul of you shall eat blood, neither shall any stranger that sojourneth among you eatblood.
+
+## LAW OF THE LAND CH. 18-20
+
+### Follow God's Customs and Not Theirs
+
+> Leviticus20:22-23—Ye shall therefore keep all my statutes, and all my judgments, anddo them: that the land, whither I bring you to dwell therein, spue you notout.23 And ye shall not walk in the manners of the nation, which I cast outbefore you: for they committed all these things, and therefore I abhorred them.
+
+### Summary Thus Far of God's Customs
+
+Difference between clean beasts and fowls and unclean
+
+And ye shall be holy unto me: for I the LORD am holy
+
+A man or woman that hath a familiar spirit, or is a wizard, shall be put to death:
+
+## LAW OF THE PRIESTHOOD & OFFERINGS CH. 21-22
+
+### Law of the Priesthood 21:1-22:16
+
+> Lev. 21:1—And the LORD said unto Moses, Speak unto the priests the sons of Aaron…
+
+> Lev. 21:24—AndMoses told it unto Aaron, and to his sons, and unto all…Israel.
+
+### Law of the Offerings 22:17-33
+
+#### Without Blemish 17-25
+
+#### Kill Not both Parent and Young 26-28
+
+#### Eat the Same Die Killed 29-30

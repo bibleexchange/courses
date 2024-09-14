@@ -1,77 +1,141 @@
-<h1><span lang='en'>Sacrifice and Separation (1:1-7:38)</span></h1>
+# Sacrifice and Separation (1:1-7:38)
 
-<h2><span lang='en'>The Amazing Grace of Substitutional Sacrifice </span></h2>
-<p><span lang='en'>The reaches of God&apos;s grace extend far beyond what the human mind can understand. We are speechless and amazed at the grace and mercy of God. There is no human effort that could be even closelycompared to God&apos;s actions of love toward his people. All humanity was guilty ofthe greatest treason against God and yet Christ has positioned himself as oursin bearer and substitute! God has made provision so that the enemy can bebecome friend&#44; the slave can be become a servant of love&#44; and the outcast canbecome a beloved member of the family. </span></p>
-<p><span lang='en'>A student of the Bible and humanity must be puzzled with the same question as Nicodemus in John 3:9: </span></p>
-<p><span lang='en'>HOW CAN THESE THINGS BE? </span></p>
-<p><span lang='en'>&quot;Approved Unto God&quot; (II Tim. 2:15) </span></p>
-<p><span lang='en'>&quot;Peace with God&quot; (Rom. 5:1) </span></p>
-<p><span lang='en'>&quot;Come boldly unto the throne of grace&quot; (Heb. 4:16) </span></p>
-<p><span lang='en'>&quot;Friend of God&quot; (James 2:23) </span></p>
-<p><span lang='en'>&quot;Be with Me [Jesus]&quot; (Luke 23:43) </span></p>
-<p><span lang='en'>&quot;Be Ye Holy&quot; (Lev. 20:7) </span></p>
-<h2><span lang='en'>The Purpose of the Old Testament Sacrifices </span></h2>
-<p><span lang='en'>It is absolutely imperative that it be established in our minds that the redemption and justification of mankind is possible only through the ublood of Jesus. </span></p>
-<blockquote><span lang='en'>Hebrews 9:12-14&mdash;Neither by the blood of goats and calves&#44; but by his own blood he entered in once into the holy place&#44; having obtained eternal redemption for us. For if the blood of bulls and of goats&#44; and the ashes of an heifer sprinkling the unclean&#44;sanctifieth to the purifying of the flesh: How much more shall uthe blood ofChrist&#44; who through the eternal Spirit offered himself without spot to God&#44;purge your conscience from dead works to serve the living God? </span></blockquote>
-<p><span lang='en'>In light of Christ&apos;s sacrifice on the cross&#44; the &quot;bloody&quot; book of Leviticus comes alive with relevance. Leviticus is not outdated because of Christ&apos;s death&#44; but still serves the same purpose as it did before His death. The purpose of the sacrifices of Leviticus and the sum of the Old Testament is to point to Christ.The law is a school master that makes clear definition of right&#44; wrong&#44; and remedy. As we look into this great study of Leviticus&#44; keep in mind that each sacrifice&#44; feast&#44; and ordinance given by God is a portrait of Christ and his dealings with mankind. </span></p>
-<h2><span lang='en'>(Whole) Burnt Offering&#44; ch. 1 </span></h2>
-<p><span lang='en'>Acceptable Value Determined by &quot;Pay Grade&quot;: herd flock fowl&#44; vs.1&#44;2 The principle is established here early on that God will not require an IMPOSSIBLE thing of his people. The offerings and sacrifices were regulated according to a person&apos;s ability and means. If a man was rich&#44; he was certainly capable of a burnt offering of theherd&#44; but a man of small means might find it a great sacrifice to part with merely the value of a fowl. </span></p>
-<h3><span lang='en'>Of the Herd&#44; vs. 3-9 (cattle) </span></h3>
-<h3><span lang='en'>Of the Flocks&#44; vs. 4-13 (sheep&#44; goats) </span></h3>
-<h3><span lang='en'>Of the Fowls&#44; vs. 14-17 (turtle doves&#44; young pigeons) </span></h3>
-<h2><span lang='en'>Meat Offering&#44;ch. 2 </span></h2>
-<h3><span lang='en'>Standard Meat Offering Details&#44; vs. 1-3 </span></h3>
-<h3><span lang='en'>Variations of the Meat Offering&#44; vs. 4-10; 14-16 </span></h3>
-<h4><span lang='en'>If Baked in an Oven&#44; v.4 </span></h4>
-<p><span lang='en'>A fire pot&#44; furnance </span></p>
-<h4><span lang='en'>If Baked in a Pan&#44; vs.5&#44;6 </span></h4>
-<p><span lang='en'>A pan for baking in </span></p>
-<h4><span lang='en'>If Baked in a Frying pan&#44; vs.7-10 </span></h4>
-<p><span lang='en'>A stew pan </span></p>
-<h4><span lang='en'>If it is a Meat Offering of the &quot;First Fruits&quot;&#44; vs. 14-16 </span></h4>
-<h3><span lang='en'>Emphatic Details of the Meat Offering&#44; vs. 11-13 </span></h3>
-<h4><span lang='en'>No leaven&#44; v. 11 </span></h4>
-<h4><span lang='en'>First-fruits meat offering was not to be burnt. v.12 </span></h4>
-<h4><span lang='en'>Salt must be used&#44; v. 13 (all thy offerings&#44; also) </span></h4>
+## The Amazing Grace of Substitutional Sacrifice
 
-<h3><span lang='en'>Peace Offering&#44; ch 3</span></h3>
-<h3><span lang='en'>Of the Herd&#44; vs. 1-5 </span></h3>
-<h3><span lang='en'>Of the Flock&#44; vs. 6-16 </span></h3>
-<h4><span lang='en'>If a Lamb&#44; vs. 6-11 </span></h4>
-<h4><span lang='en'>If a Goat&#44;vs. 12-16 </span></h4>
-<h3><span lang='en'>A Perpetual Statute: &#44; v.17 </span></h3>
-<p><span lang='en'>&hellip;that ye eat neither fat nor blood. </span></p>
+The reaches of God's grace extend far beyond what the human mind can understand. We are speechless and amazed at the grace and mercy of God. There is no human effort that could be even closelycompared to God's actions of love toward his people. All humanity was guilty ofthe greatest treason against God and yet Christ has positioned himself as oursin bearer and substitute! God has made provision so that the enemy can bebecome friend, the slave can be become a servant of love, and the outcast canbecome a beloved member of the family.
 
-<h2><span lang='en'>Sin Offering&#44; ch. 4 </span></h2>
-<h3><span lang='en'>If a soul shall sin through ignorance&#44; vs. 1-12 </span></h3>
-<h3><span lang='en'>if the whole congregation of Israel sin through ignorance&#44; vs. 13-26 </span></h3>
-<h3><span lang='en'>if anyone of the common people sin through ignorance&#44; vs. 27-35 </span></h3>
+A student of the Bible and humanity must be puzzled with the same question as Nicodemus in John 3:9:
 
-<h2><span lang='en'>Trespass Offering&#44; ch. 5-6:7 </span></h2>
-<h3><span lang='en'>Difference between the Sin Offering and the Trespass Offering&#44; 5:1-6 </span></h3>
-<p><span lang='en'>The sin offering atoned for the offender&#44; whereas&#44; the trespass offering atoned only for a specific trespass.The sin offering can be considered as &quot;general redemption&quot; and the &quot;trespassoffering&quot; can be considered a &quot;ransom&quot; for a particular wrong. This provisionmostly involves those sins committed in ignorance. The Trespass Offering is asubclass of the Sin offering. The sin offering was presented at feast days anddone corporately&#44; whereas trespass offerings were not and were morespontaneous. </span></p>
+HOW CAN THESE THINGS BE?
 
-<h3><span lang='en'>Confess&amp; then Bring a Trespass Offering&#44; 5:7-6:7 </span></h3>
-<h4><span lang='en'>Knew the true story and didn&apos;t tell it. </span></h4>
-<h4><span lang='en'>Touched an unclean thing. </span></h4>
-<h4><span lang='en'>Lied under oath by forgetfulness. </span></h4>
-<h4><span lang='en'>Harmed any of the Holy things of God. </span></h4>
-<h4><span lang='en'>Disobeyed any command of God. </span></h4>
-<h4><span lang='en'>Deceived his neighbor. </span></h4>
-<h4><span lang='en'>Guilty of &quot;Finders-Keepers&quot; Syndrome. </span></h4>
-<h4><span lang='en'>BrokenPromises. </span></h4>
+"Approved Unto God" (II Tim. 2:15)
 
-<h2><span lang='en'>Priestly Regulations of the Sacrifices&#44; 6:8-7:38 </span></h2>
-<h3><span lang='en'>Burnt Sacrifices Regulated&#44; 6:8-13 </span></h3>
-<h3><span lang='en'>Meat Offerings Regulated&#44; 6:14-23 </span></h3>
-<h3><span lang='en'>Sin Offerings Regulated&#44; 6:24-30 </span></h3>
-<h3><span lang='en'>Trespass Offerings Regulated&#44; 7:1-10 </span></h3>
-<h3><span lang='en'>Peace Offerings Regulated&#44; 7:11-34 </span></h3>
-<h3><span lang='en'>Conclusion &amp; Summary&#44; 7:35-38 </span></h3>
-<blockquote><span lang='en'>7:35&mdash;This is the portion of the anointing of Aaron&#44; and of the anointing of his sons&#44;out of the offerings of the LORD made by fire&#44; in the day when he presentedthem to minister unto the LORD in the priest's office; </span></blockquote>
-<blockquote><span lang='en'>7:37&mdash;This is the law of the burnt offering&#44; of the meat offering&#44; and of the sin offering&#44; and of the trespass offering&#44; and of the consecrations&#44;and of the sacrifice of the upeace offerings; </span></blockquote>
-<h2><span lang='en'>The Separation of the People of God </span></h2>
-<p><span lang='en'>God&apos;s people were expected to keep the law of God and live lies free of sin. But&#44; a remedy was in place in the event the law was broken. This remedy ultimately is the atoning blood of Jesus but initially was the sacrifice of animals (beginning back in the garden of Eden) which points toward Christ&apos;s ultimate sacrifice. </span></p>
-<p><span lang='en'>The priests were to live separate in order to function in their priestly duties. Their very approval into the ministry required an implicit dedication and consecration to God. </span></p>
-<p><span lang='en'>In 7:37&#44; the &quot;consecrations&quot;were the sacrifices and offerings which involved the dedication to God&apos;s service. The word &quot;consecrations&quot; literally means &quot;a filling up&#44; or filling ofthe hands.&quot; In Exodus 29:2&#44; eil milluim &#44; means the ram of filling up. </span></p>
-<p><span lang='en'>A persons hands were filled with an offering to present to God&#44; when they were dedicated to God. The word consecration signifies the filling up or filling the hands. These class of offerings were not only for atonement but were also a means for approaching God. (The same principal is loosely paralleled in Esther 4:11.) </span></p>
+"Peace with God" (Rom. 5:1)
+
+"Come boldly unto the throne of grace" (Heb. 4:16)
+
+"Friend of God" (James 2:23)
+
+"Be with Me \[Jesus\]" (Luke 23:43)
+
+"Be Ye Holy" (Lev. 20:7)
+
+## The Purpose of the Old Testament Sacrifices
+
+It is absolutely imperative that it be established in our minds that the redemption and justification of mankind is possible only through the ublood of Jesus.
+
+> Hebrews 9:12-14—Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption for us. For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean,sanctifieth to the purifying of the flesh: How much more shall uthe blood ofChrist, who through the eternal Spirit offered himself without spot to God,purge your conscience from dead works to serve the living God?
+
+In light of Christ's sacrifice on the cross, the "bloody" book of Leviticus comes alive with relevance. Leviticus is not outdated because of Christ's death, but still serves the same purpose as it did before His death. The purpose of the sacrifices of Leviticus and the sum of the Old Testament is to point to Christ.The law is a school master that makes clear definition of right, wrong, and remedy. As we look into this great study of Leviticus, keep in mind that each sacrifice, feast, and ordinance given by God is a portrait of Christ and his dealings with mankind.
+
+## (Whole) Burnt Offering, ch. 1
+
+Acceptable Value Determined by "Pay Grade": herd flock fowl, vs.1,2 The principle is established here early on that God will not require an IMPOSSIBLE thing of his people. The offerings and sacrifices were regulated according to a person's ability and means. If a man was rich, he was certainly capable of a burnt offering of theherd, but a man of small means might find it a great sacrifice to part with merely the value of a fowl.
+
+### Of the Herd, vs. 3-9 (cattle)
+
+### Of the Flocks, vs. 4-13 (sheep, goats)
+
+### Of the Fowls, vs. 14-17 (turtle doves, young pigeons)
+
+## Meat Offering,ch. 2
+
+### Standard Meat Offering Details, vs. 1-3
+
+### Variations of the Meat Offering, vs. 4-10; 14-16
+
+#### If Baked in an Oven, v.4
+
+A fire pot, furnance
+
+#### If Baked in a Pan, vs.5,6
+
+A pan for baking in
+
+#### If Baked in a Frying pan, vs.7-10
+
+A stew pan
+
+#### If it is a Meat Offering of the "First Fruits", vs. 14-16
+
+### Emphatic Details of the Meat Offering, vs. 11-13
+
+#### No leaven, v. 11
+
+#### First-fruits meat offering was not to be burnt. v.12
+
+#### Salt must be used, v. 13 (all thy offerings, also)
+
+### Peace Offering, ch 3
+
+### Of the Herd, vs. 1-5
+
+### Of the Flock, vs. 6-16
+
+#### If a Lamb, vs. 6-11
+
+#### If a Goat,vs. 12-16
+
+### A Perpetual Statute: , v.17
+
+…that ye eat neither fat nor blood.
+
+## Sin Offering, ch. 4
+
+### If a soul shall sin through ignorance, vs. 1-12
+
+### if the whole congregation of Israel sin through ignorance, vs. 13-26
+
+### if anyone of the common people sin through ignorance, vs. 27-35
+
+## Trespass Offering, ch. 5-6:7
+
+### Difference between the Sin Offering and the Trespass Offering, 5:1-6
+
+The sin offering atoned for the offender, whereas, the trespass offering atoned only for a specific trespass.The sin offering can be considered as "general redemption" and the "trespassoffering" can be considered a "ransom" for a particular wrong. This provisionmostly involves those sins committed in ignorance. The Trespass Offering is asubclass of the Sin offering. The sin offering was presented at feast days anddone corporately, whereas trespass offerings were not and were morespontaneous.
+
+### Confess& then Bring a Trespass Offering, 5:7-6:7
+
+#### Knew the true story and didn't tell it.
+
+#### Touched an unclean thing.
+
+#### Lied under oath by forgetfulness.
+
+#### Harmed any of the Holy things of God.
+
+#### Disobeyed any command of God.
+
+#### Deceived his neighbor.
+
+#### Guilty of "Finders-Keepers" Syndrome.
+
+#### BrokenPromises.
+
+## Priestly Regulations of the Sacrifices, 6:8-7:38
+
+### Burnt Sacrifices Regulated, 6:8-13
+
+### Meat Offerings Regulated, 6:14-23
+
+### Sin Offerings Regulated, 6:24-30
+
+### Trespass Offerings Regulated, 7:1-10
+
+### Peace Offerings Regulated, 7:11-34
+
+### Conclusion & Summary, 7:35-38
+
+> 7:35—This is the portion of the anointing of Aaron, and of the anointing of his sons,out of the offerings of the LORD made by fire, in the day when he presentedthem to minister unto the LORD in the priest's office;
+
+> 7:37—This is the law of the burnt offering, of the meat offering, and of the sin offering, and of the trespass offering, and of the consecrations,and of the sacrifice of the upeace offerings;
+
+## The Separation of the People of God
+
+God's people were expected to keep the law of God and live lies free of sin. But, a remedy was in place in the event the law was broken. This remedy ultimately is the atoning blood of Jesus but initially was the sacrifice of animals (beginning back in the garden of Eden) which points toward Christ's ultimate sacrifice.
+
+The priests were to live separate in order to function in their priestly duties. Their very approval into the ministry required an implicit dedication and consecration to God.
+
+In 7:37, the "consecrations"were the sacrifices and offerings which involved the dedication to God's service. The word "consecrations" literally means "a filling up, or filling ofthe hands." In Exodus 29:2, eil milluim , means the ram of filling up.
+
+A persons hands were filled with an offering to present to God, when they were dedicated to God. The word consecration signifies the filling up or filling the hands. These class of offerings were not only for atonement but were also a means for approaching God. (The same principal is loosely paralleled in Esther 4:11.)
