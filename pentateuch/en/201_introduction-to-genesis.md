@@ -1,54 +1,39 @@
-# Introduction to Genesis
+# Genesis
 
-## Purpose Theme:
+## Introduction to Genesis
+
+### Purpose Theme
 
 Genesis records the creation of the world and of the Jewish nation.
 
-## Key Verses:
+### Key Verses
 
 > Genesis 12:1-3--1 Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father's house, unto a land that I will shew thee: 2 And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing:3 And I will bless them that bless thee, and curse him that curseth thee: and in thee shall all families of the earth be blessed.
 
-## Main People:
+### Main People
 
-Adam & Eve, Noah, Abraham, Isaac, Jacob, Joseph
+Adam and Eve, Noah, Abraham, Isaac, Jacob, Joseph
 
-## Brief Outline:
+### Brief Outline
 
-## The creation of the world (Chapters 1,2)
+1. The creation of the world (Chapters 1–2)
+2. Sin in the world (Chapters 3–4)
+3. Noah and the Flood (Chapters 5-9)
+4. The beginning of the nations and languages (Chapters 10–11)
+5. Abraham's family: God's people in the land God gave them (Chapters 12-38)
+6. Joseph: God's people going to Egypt (Chapters 39-50)
 
-## Sin in the world (Chapters 3,4)
+### Special Features
 
-## Noah and the Flood (Chapters 5-9)
-
-## The beginning of the nations and languages (Chapters 10,11)
-
-## Abraham's family: God's people in the land God gave them (Chapters 12-38)
-
-## Joseph: God's people going to Egypt (Chapters 39-50)
-
-## This is the Order of Events in Genesis:
-
-- Genesis: 4004 B.C. to 1800 B.C.
-- Creation
-- Fall of Man
-- The Flood
-- Tower of Babel
-- Abraham
-- Isaac
-- Jacob
-- Joseph
-
-## Special Features:
-
-### Genesis is the foundation for all following Scriptures.
+#### Genesis is the foundation for all following Scriptures.
 
 The book of Genesis provides an essential foundation for the remainder of the Pentateuch and all subsequent Biblical revelation. Although accounts of "Creation", "The Flood",and the "Tower of Babel" can be found throughout the ancient civilizations, itis the only trustworthy and mature record concerning the beginnings of theuniverse, humankind, marriage, sin, cities, languages, nations, Israel, and thepurpose of God in all of these things.
 
-### The Title of This Book
+#### The Title of This Book
 
 The title of this book given to it in the Greek Septuagint means "creation" or "generation"and the Jews refer to Genesis as "Bereshith" meaning "in the beginning."
 
-### Genesis is a Book Origins
+#### Genesis is a Book Origins
 
 It was the first book of the Bible written (with the possible exception of Job).
 
@@ -58,17 +43,17 @@ Genesis is the book of firsts: recording the first marriage, first family, first
 
 Genesis alone explains the origin of the twelve tribes of Israel. Genesis reveals how the descendants of Abraham ended up in Egypt for 430 years and thus sets the stagefor the Exodus, the central redemption event of the Old Testament.
 
-## New Testament Fulfilment
+### New Testament Fulfilment
 
-Genesis reveals the prophetic history of redemption and a Redeemer as coming through the seed of the woman (3:15), the line of Seth (4:25,26), the line of Shem(9:26,27), and through the seed of Abraham (12:3.) The New Testament applies Genesis12:3 directly to God's provision of redemption in Jesus Christ (Galatians 3:16,29.)
+Genesis reveals the prophetic history of redemption and a Redeemer as coming through the seed of the woman (3:15), the line of Seth (4:25–26), the line of Shem(9:26–27), and through the seed of Abraham (12:3.) The New Testament applies Genesis 12:3 directly to God's provision of redemption in Jesus Christ (Galatians 3:16,29.)
 
 Numerous persons and events from Genesis are mentioned in the New Testament in relation to:
 
 - Faith and Righteousness (Romans4; Hebrews 11:1-22)
-- God's Judgment (Luke16:26-29,32; II Peter 3:5; Jude 7, 11a)
+- God's Judgment (Luke 16:26-29,32; II Peter 3:5; Jude 7, 11a)
 - The Person of Jesus Christ (Matthew1:1; John 8:58; Hebrews 7)
 
-## Names and Definitions in Genesis
+### Names and Definitions in Genesis
 
 Alphabetically Arranged with Reference Where First Mentioned
 
