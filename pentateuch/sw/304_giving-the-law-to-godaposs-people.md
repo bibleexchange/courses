@@ -1,54 +1,107 @@
-<h1><span lang='swa'>Kutolewa kwa sheria kwa watu wa Mungu (CH. 20-24) </span></h1>
-<h2><span lang='swa'>Utangulizi kwenye sheria za Mungu (20:1-2) </span></h2>
-<h3><span lang='swa'>Haki ya Mungu kuamru 4YEYE NI MUNGU! </span></h3>
-<blockquote><span lang='swa'>Kutoka 20:2 4Mimi ni Bwana Mungu wako&#44;niliyekuleta kutoka nchi ya Misri&#44;kutoka nyumba ya utumwa. </span></blockquote>
-<p><span lang='swa'>Katika misitari 71 katika Pentatuki/Torati hiki kikumbushaji kimetolewa kama dibaji katika amri zake: "Mimi ni Bwana" namara 29: "Mimi ni Bwana Mungu wako." </span></p>
-<blockquote><span lang='swa'>Mhubiri12:13&mdash; Hii ndiyo jumla ya maneno; yote yamekwisha sikiwa; Mche Mungu&#44; nawe uzishike amri zake&#44; Maana kwa jumla ndiyo impasayo mtu. </span></blockquote>
-<h3><span lang='swa'>Kushika amri zake kunaleta baraka </span></h3>
-<blockquote><span lang='swa'>Kutoka 20:6 4Na kuonyesha huruma kwamaelfu ya wale wanipendao na kushika amri zangu. </span></blockquote>
-<blockquote><span lang='swa'>Zab 119:143&mdash; Taabu na dhiki zimenipata&#44; Maagizo yako ni furaha yangu. </span></blockquote>
-<blockquote><span lang='swa'>Yohana 15:10 Mkizishika amri zangu&#44; mtakaa katika pendo langu; kama vile mimi nilivyozishika amri za Baba yangu na kukaakatika pendo lake. </span></blockquote>
-<blockquote><span lang='swa'>I Yohana 5:3&mdash; Kwa maana huku ndiko kumpenda Mungu&#44; kwamba tuzishike amri zake; wala amri zake si nzito. </span></blockquote>
-<blockquote><span lang='swa'>Ufunuo22:14&mdash; Heri wazifuao nguo zao&#44; wawe na amri kuuendea huo mti wa uzima&#44; na kuingia mjini kwa milango yake. </span></blockquote>
-<h3><span lang='swa'>Kushika sheria haithibitishi uhalali wa jambo </span></h3>
-<blockquote><span lang='swa'>Mndo 13:39&mdash; na kwa yeye kila amwaminiye huhesabiwa haki katika mambo yale yote asiyoweza kuhesabiwa haki kwa torati yaMusa. </span></blockquote>
-<h3><span lang='swa'>Amri kuu ni ipi? (Mat 22:35-40) </span></h3>
-<h3><span lang='swa'>Lazima sheria za Mungu zitundikwe kwenye mahali pa wazi? </span></h3>
-<blockquote><span lang='swa'>Zab 18:22&mdash;Hukumu zake zote zilikuwa mbele yangu&#44; Wala amri zake sikujiepusha nazo. </span></blockquote>
-<blockquote><span lang='swa'>Zab 119:30&mdash; Nimeichagua njia ya uaminifu&#44; Na kuziweka hukumu zako mbele yangu. </span></blockquote>
-<blockquote><span lang='swa'>Zab 40:8&mdash; Kuyafanya mapenzi yako&#44; Ee Munguwangu&#44; ndiyo furaha yangu; Naam&#44; sheria yako imo moyoni mwangu. </span></blockquote>
-<h3><span lang='swa'>Kuna amri 10 tu? </span></h3>
-<blockquote><span lang='swa'>Mwanzo 26:5&mdash; Kwa sababu Ibrahimu alisikia sauti yangu&#44; akayahifadhi maagizo yangu&#44; na amri zangu&#44; na hukumu zangu&#44; na sheria zangu. </span></blockquote>
-<blockquote><span lang='swa'>Mark 10:19&mdash; Wazijua amri&#44; Usiue&#44; Usizini&#44; Usiibe&#44; Usishuhudie uongo&#44; Usidanganye&#44; Waheshimu baba yako na mama yako. </span></blockquote>
-<blockquote><span lang='swa'>Mark 12:29&mdash; Yesu akamjibu&#44; Ya kwanza ndiyohii&#44; Sikia&#44; Israeli&#44; Bwana Mungu wetu ni Bwana mmoja; </span></blockquote>
-<h2><span lang='swa'>Amri kumi (SURA. 20) </span></h2>
-<h3><span lang='swa'>Usiwe na miungu mingine ila mimi. </span></h3>
-<h3><span lang='swa'>Usijifanyie sanamu ya kuchonga&#44; </span></h3>
-<h3><span lang='swa'>Usilitaje bure jina la Bwana&#44; Mungu wako; </span></h3>
-<h3><span lang='swa'>Ikumbuke siku ya Sabato uitakase. </span></h3>
-<h3><span lang='swa'>Waheshimu baba yako na mama yako: </span></h3>
-<h3><span lang='swa'>Usiue. </span></h3>
-<h3><span lang='swa'>Usizini. </span></h3>
-<h3><span lang='swa'>Usiibe. </span></h3>
-<h3><span lang='swa'>Usimshuhudie jirani yako uongo </span></h3>
-<h3><span lang='swa'>Usitamani </span></h3>
-<h3><span lang='swa'>Itikio la Israel (18-21) </span></h3>
-<h3><span lang='swa'>Msisitizo wa Mungu(22-26) </span></h3>
-<h2><span lang='swa'>Hukumu za Mungu zitakazowekwa mbele za watu(SURA. 21-23) </span></h2>
-<h3><span lang='swa'>Kuuza&#44;kununua&#44; - Watumwa huru (21:1-11) </span></h3>
-<h3><span lang='swa'>Kuua&#44;Kushambulia&#44;-Kusababisha kuumiza (21:12-36) </span></h3>
-<h3><span lang='swa'>Kuiba&#44; kufanya malipizi (22:1-17) </span></h3>
-<h3><span lang='swa'>Machukizo-Sanamu(22:18-20) </span></h3>
-<h3><span lang='swa'>Kuwafanyia wageni&#44;wajane-Yatima (22:21-24) </span></h3>
-<h3><span lang='swa'>Kukopesha-Kukopa (22:25-27) </span></h3>
-<h3><span lang='swa'>Kumtukana Mungu na Kuwalaanisha wa Kuu (22:28) </span></h3>
-<h3><span lang='swa'>Mche Mungu&#44;Mheshimu Mfalme 22:9 "waamzi=3Delohimu" </span></h3>
-<h3><span lang='swa'>Kutoa malimbuko kwa Mungu (22:29-30) </span></h3>
-<h3><span lang='swa'>Nyama ilioraruliwa Kondeni (22:31) </span></h3>
-<h3><span lang='swa'>Majukumu ya kijamii (23:1-9) </span></h3>
-<h3><span lang='swa'>Ukulima&#44; Kufanya kazi&#44; Sikukuu - Dhabihu (23:10-19) </span></h3>
-<h3><span lang='swa'>Utendaji wa mjumbe wa Mungu na urithi wao (23:20-33) </span></h3>
-<h2><span lang='swa'>Hukumu za Mungu zilizo wekwa mbele za watu (SR. 24) </span></h2>
-<h3><span lang='swa'>Msimamo wa-mtu mkuu (1-8) </span></h3>
-<h3><span lang='swa'>Kumwona Mungu (9-11) </span></h3>
-<h3><span lang='swa'>Musa anakaa siku 40 mlimani (12-18) </span></h3>
+# Kutolewa kwa sheria kwa watu wa Mungu (CH. 20-24)
+
+## Utangulizi kwenye sheria za Mungu (20:1-2)
+
+### Haki ya Mungu kuamru 4YEYE NI MUNGU!
+
+> Kutoka 20:2 4Mimi ni Bwana Mungu wako,niliyekuleta kutoka nchi ya Misri,kutoka nyumba ya utumwa.
+
+Katika misitari 71 katika Pentatuki/Torati hiki kikumbushaji kimetolewa kama dibaji katika amri zake: "Mimi ni Bwana" namara 29: "Mimi ni Bwana Mungu wako."
+
+> Mhubiri12:13— Hii ndiyo jumla ya maneno; yote yamekwisha sikiwa; Mche Mungu, nawe uzishike amri zake, Maana kwa jumla ndiyo impasayo mtu.
+
+### Kushika amri zake kunaleta baraka
+
+> Kutoka 20:6 4Na kuonyesha huruma kwamaelfu ya wale wanipendao na kushika amri zangu.
+
+> Zab 119:143— Taabu na dhiki zimenipata, Maagizo yako ni furaha yangu.
+
+> Yohana 15:10 Mkizishika amri zangu, mtakaa katika pendo langu; kama vile mimi nilivyozishika amri za Baba yangu na kukaakatika pendo lake.
+
+> I Yohana 5:3— Kwa maana huku ndiko kumpenda Mungu, kwamba tuzishike amri zake; wala amri zake si nzito.
+
+> Ufunuo22:14— Heri wazifuao nguo zao, wawe na amri kuuendea huo mti wa uzima, na kuingia mjini kwa milango yake.
+
+### Kushika sheria haithibitishi uhalali wa jambo
+
+> Mndo 13:39— na kwa yeye kila amwaminiye huhesabiwa haki katika mambo yale yote asiyoweza kuhesabiwa haki kwa torati yaMusa.
+
+### Amri kuu ni ipi? (Mat 22:35-40)
+
+### Lazima sheria za Mungu zitundikwe kwenye mahali pa wazi?
+
+> Zab 18:22—Hukumu zake zote zilikuwa mbele yangu, Wala amri zake sikujiepusha nazo.
+
+> Zab 119:30— Nimeichagua njia ya uaminifu, Na kuziweka hukumu zako mbele yangu.
+
+> Zab 40:8— Kuyafanya mapenzi yako, Ee Munguwangu, ndiyo furaha yangu; Naam, sheria yako imo moyoni mwangu.
+
+### Kuna amri 10 tu?
+
+> Mwanzo 26:5— Kwa sababu Ibrahimu alisikia sauti yangu, akayahifadhi maagizo yangu, na amri zangu, na hukumu zangu, na sheria zangu.
+
+> Mark 10:19— Wazijua amri, Usiue, Usizini, Usiibe, Usishuhudie uongo, Usidanganye, Waheshimu baba yako na mama yako.
+
+> Mark 12:29— Yesu akamjibu, Ya kwanza ndiyohii, Sikia, Israeli, Bwana Mungu wetu ni Bwana mmoja;
+
+## Amri kumi (SURA. 20)
+
+### Usiwe na miungu mingine ila mimi.
+
+### Usijifanyie sanamu ya kuchonga,
+
+### Usilitaje bure jina la Bwana, Mungu wako;
+
+### Ikumbuke siku ya Sabato uitakase.
+
+### Waheshimu baba yako na mama yako:
+
+### Usiue.
+
+### Usizini.
+
+### Usiibe.
+
+### Usimshuhudie jirani yako uongo
+
+### Usitamani
+
+### Itikio la Israel (18-21)
+
+### Msisitizo wa Mungu(22-26)
+
+## Hukumu za Mungu zitakazowekwa mbele za watu(SURA. 21-23)
+
+### Kuuza,kununua, - Watumwa huru (21:1-11)
+
+### Kuua,Kushambulia,-Kusababisha kuumiza (21:12-36)
+
+### Kuiba, kufanya malipizi (22:1-17)
+
+### Machukizo-Sanamu(22:18-20)
+
+### Kuwafanyia wageni,wajane-Yatima (22:21-24)
+
+### Kukopesha-Kukopa (22:25-27)
+
+### Kumtukana Mungu na Kuwalaanisha wa Kuu (22:28)
+
+### Mche Mungu,Mheshimu Mfalme 22:9 "waamzi=3Delohimu"
+
+### Kutoa malimbuko kwa Mungu (22:29-30)
+
+### Nyama ilioraruliwa Kondeni (22:31)
+
+### Majukumu ya kijamii (23:1-9)
+
+### Ukulima, Kufanya kazi, Sikukuu - Dhabihu (23:10-19)
+
+### Utendaji wa mjumbe wa Mungu na urithi wao (23:20-33)
+
+## Hukumu za Mungu zilizo wekwa mbele za watu (SR. 24)
+
+### Msimamo wa-mtu mkuu (1-8)
+
+### Kumwona Mungu (9-11)
+
+### Musa anakaa siku 40 mlimani (12-18)

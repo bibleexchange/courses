@@ -1,5 +1,7 @@
-<h1><span lang='swa'>Torati/Pentantuki </span></h1>
-<h2><span lang='swa'>Vitabu vitano vya kwanza vya Biblia </span></h2>
-<img src="/assets/img/eagle.gif" style="" id="coverEagle"/>
-<h4><span lang='swa'>KITABU CHAKIADA </span></h4>
-<h4><span lang='swa'>MWAKA WA KWANZA </span></h4>
+# Torati/Pentantuki
+
+## Vitabu vitano vya kwanza vya Biblia
+
+#### KITABU CHAKIADA
+
+#### MWAKA WA KWANZA

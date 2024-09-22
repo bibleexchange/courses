@@ -1,32 +1,61 @@
-<h1><span lang='swa'>Sehemu ya 4: Hesabu </span></h1>
-<p><span lang='swa'>Kusudi na Dhamira </span></p>
-<p><span lang='swa'>Kitabu hiki kinaweka habari za miaka arobaini ya waisrael kutangatanga jagwani na kujitayarisha kwa watu kuchukuwa umiliki wan chi ya ahadi.Sura za katikati ni 13na 14 katika kile ambacho makabila yaliitikia amri ya Mungu&#44;kuondoka mlima Sinai na kimiliki Kanaani kwa siku kumi na moja za mwezi wa tatu. </span></p>
-<p><span lang='swa'>Jina -Hesabu </span></p>
-<p><span lang='swa'>Jina la kiebrania kwa ajili ya kitabu hiki ni "b&#601;midbar"&#44; hilo ni&#44;jina la jangwani. DJina DHesabu limetokana na ukweli wa kitabu kuingiza namba za watu wa Waisrael katika jangwala Sinai(Sura ya 1-2) na kuwahesabu watu baadaye kwenye sehemu tambarare yaMoabu(sura ya 26). </span></p>
-<p><span lang='swa'>Msitari wa ufunguo: </span></p>
+# Sehemu ya 4: Hesabu
 
-<h1><span lang='swa'>Hesabu 9:17&mdash; Na kila lilipoinuliwa lile wingu juu ya ile Hema ndipo wana wa Israeli waliposafiri; na mahali lilipokaa lile wingu&#44; ndipo wana wa Israeli walipopiga kambi yao </span></h1>
-<p><span lang='swa'>Watu wakuu:Musa&#44;Haruni&#44;Yoshua&#44;Kalebu&#44;Miriamu&#44;na Makuhani </span></p>
-<p><span lang='swa'>Dondoo fupi:: </span></p>
-<p><span lang='swa'>Matukio katika kitabu cha Hesabu kinajumisha kipindi cha miaka 40. </span></p>
-<p><span lang='swa'>Maandalizi kwa ajili ya safariT (1-10) </span></p>
-<p><span lang='swa'>Mahangaiko jangwanI (10-20) </span></p>
-<p><span lang='swa'>Safari ya jangwani (21-36) </span></p>
-<p><span lang='swa'>Kizazi cha kale (1-14) </span></p>
-<p><span lang='swa'>Usafirishaji kwenda Era (14-20) </span></p>
-<p><span lang='swa'>Kizazi kipya (21-36) </span></p>
-<p><span lang='swa'>Hesabu inafungua siku ya kwanza ya mwezi wapili wa mwaka wa pili tangu waondoke Misri kwa mazungumzo ya Mungu na Musa katika hema ya kukutania. </span></p>
-<p><span lang='swa'>1491K.K hadi 1451K.K </span></p>
-<p><span lang='swa'>Miaka 40 ya kutangatanga jangwani&#44;manung 9uniko-kujifunza. </span></p>
-<p><span lang='swa'>UTANGULIZI WA HESABU </span></p>
-<p><span lang='swa'>Kumbuka&#44;Biblia ni kitabu cha kiroho.Haijalishi ni sehemu ya maandiko matakatifu tunayojifunza itajihusisha juu zaidi kuwa ndiyo ya kipekee kiroho. </span></p>
-<p><span lang='swa'>Biblia inafaa kwa ajili ya biashara ya kutegemewa kwa ajili ya Historia&#44;na usomaji wa kuvutia&#44;lakini kila agizo limetolewa na kuweka hesabu inayofunua somo la kiroho: </span></p>
-<p><span lang='swa'>-1Uumbaji wa Mwanzo ni ufunuo uliochanganuliwa wa wokovu.Kristo anazungumza uzima na nuru kwenye machafuko yetu na kuumba maisha mapya. </span></p>
-<p><span lang='swa'>-2Ukombozi sambamba wa kiroho wa kutoka kwaWaebrania kutoka vifungo vya dhambi na dunia hii. </span></p>
-<p><span lang='swa'>-3Katika Hesabu safari ya waisrael kiupitiajangwani inachochea wazo kuhusu dhamira za kiroho ya utambuzi wote kuhusu Mungu na maisha ya kuishi na kutembea katika Roho. Hesabu kwa halisi inaelezea utakaso ambao ni kutengwa kutoka Misri </span></p>
-<p><span lang='swa'>Kwenye ufahamu wa kiroho&#44;somo la Agano la kale.sheria ni nyepesi kuchochea&#44;lakini ufahamu wa kimwili waweza kuipata ikiwa na upungufu wa uhai. </span></p>
-<p><span lang='swa'>I Wakor2:14-16&mdash;Basi mwanadamu wa tabia ya asili hayapokei mambo ya Roho wa Mungu; maana kwake huyo ni upuzi&#44; wala hawezi kuyafahamu&#44; kwa kuwa yatambulikana kwa jinsi ya rohoni. 15 Lakini mtu wa rohoni huyatambua yote&#44; wala yeye hatambuliwi na mtu. 16 Maana&#44; Ni nani aliyeifahamu nia ya Bwana&#44; amwelimishe? Lakini sisi tunayo nia ya Kristo </span></p>
-<p><span lang='swa'>Somo la sadaka na ukuhani ni utajiri wa utambuzi kutufundisha jinsi ya kumsogelea Mungu mtakatifu na huduma yetu kwake.Damu ya mbuzi inamlenga mwokozi Yesu Kristo na maelekezo ya Musa ni ushauri kutoka MUNGU MKUU. </span></p>
-<p><span lang='swa'>Usijifunze Biblia tu kwa akili kama msomi&#44;bali meza roho ya ujumbe wake kwa moyo! </span></p>
-<p><span lang='swa'>2 Wakr3:6-8&mdash;Naye ndiye aliyetutosheleza kuwa wahudumu wa agano jipya; si wa andiko&#44; bali wa roho; kwa maana andiko huua&#44; bali roho huhuisha. 7 Basi&#44; ikiwa huduma ya mauti&#44; iliyoandikwa na kuchorwa katika mawe&#44; ilikuja katika utukufu&#44; hata Waisraeli hawakuweza kuukazia macho uso wa Musa&#44; kwa sababu ya utukufu wa uso wake; nao ni utukufu uliokuwa ukibatilika; 8 je! Huduma ya roho haitazidi kuwa katika utukufu? </span></p>
-<p><span lang='swa'>Sura thelathini na sita za hesabu ya safarini habari za mahujaji wa kiroho kuelekea urithi wa kiroho. </span></p>
+Kusudi na Dhamira
+
+Kitabu hiki kinaweka habari za miaka arobaini ya waisrael kutangatanga jagwani na kujitayarisha kwa watu kuchukuwa umiliki wan chi ya ahadi.Sura za katikati ni 13na 14 katika kile ambacho makabila yaliitikia amri ya Mungu,kuondoka mlima Sinai na kimiliki Kanaani kwa siku kumi na moja za mwezi wa tatu.
+
+Jina -Hesabu
+
+Jina la kiebrania kwa ajili ya kitabu hiki ni "bəmidbar", hilo ni,jina la jangwani. DJina DHesabu limetokana na ukweli wa kitabu kuingiza namba za watu wa Waisrael katika jangwala Sinai(Sura ya 1-2) na kuwahesabu watu baadaye kwenye sehemu tambarare yaMoabu(sura ya 26).
+
+Msitari wa ufunguo:
+
+# Hesabu 9:17— Na kila lilipoinuliwa lile wingu juu ya ile Hema ndipo wana wa Israeli waliposafiri; na mahali lilipokaa lile wingu, ndipo wana wa Israeli walipopiga kambi yao
+
+Watu wakuu:Musa,Haruni,Yoshua,Kalebu,Miriamu,na Makuhani
+
+Dondoo fupi::
+
+Matukio katika kitabu cha Hesabu kinajumisha kipindi cha miaka 40.
+
+Maandalizi kwa ajili ya safariT (1-10)
+
+Mahangaiko jangwanI (10-20)
+
+Safari ya jangwani (21-36)
+
+Kizazi cha kale (1-14)
+
+Usafirishaji kwenda Era (14-20)
+
+Kizazi kipya (21-36)
+
+Hesabu inafungua siku ya kwanza ya mwezi wapili wa mwaka wa pili tangu waondoke Misri kwa mazungumzo ya Mungu na Musa katika hema ya kukutania.
+
+1491K.K hadi 1451K.K
+
+Miaka 40 ya kutangatanga jangwani,manung 9uniko-kujifunza.
+
+UTANGULIZI WA HESABU
+
+Kumbuka,Biblia ni kitabu cha kiroho.Haijalishi ni sehemu ya maandiko matakatifu tunayojifunza itajihusisha juu zaidi kuwa ndiyo ya kipekee kiroho.
+
+Biblia inafaa kwa ajili ya biashara ya kutegemewa kwa ajili ya Historia,na usomaji wa kuvutia,lakini kila agizo limetolewa na kuweka hesabu inayofunua somo la kiroho:
+
+\-1Uumbaji wa Mwanzo ni ufunuo uliochanganuliwa wa wokovu.Kristo anazungumza uzima na nuru kwenye machafuko yetu na kuumba maisha mapya.
+
+\-2Ukombozi sambamba wa kiroho wa kutoka kwaWaebrania kutoka vifungo vya dhambi na dunia hii.
+
+\-3Katika Hesabu safari ya waisrael kiupitiajangwani inachochea wazo kuhusu dhamira za kiroho ya utambuzi wote kuhusu Mungu na maisha ya kuishi na kutembea katika Roho. Hesabu kwa halisi inaelezea utakaso ambao ni kutengwa kutoka Misri
+
+Kwenye ufahamu wa kiroho,somo la Agano la kale.sheria ni nyepesi kuchochea,lakini ufahamu wa kimwili waweza kuipata ikiwa na upungufu wa uhai.
+
+I Wakor2:14-16—Basi mwanadamu wa tabia ya asili hayapokei mambo ya Roho wa Mungu; maana kwake huyo ni upuzi, wala hawezi kuyafahamu, kwa kuwa yatambulikana kwa jinsi ya rohoni. 15 Lakini mtu wa rohoni huyatambua yote, wala yeye hatambuliwi na mtu. 16 Maana, Ni nani aliyeifahamu nia ya Bwana, amwelimishe? Lakini sisi tunayo nia ya Kristo
+
+Somo la sadaka na ukuhani ni utajiri wa utambuzi kutufundisha jinsi ya kumsogelea Mungu mtakatifu na huduma yetu kwake.Damu ya mbuzi inamlenga mwokozi Yesu Kristo na maelekezo ya Musa ni ushauri kutoka MUNGU MKUU.
+
+Usijifunze Biblia tu kwa akili kama msomi,bali meza roho ya ujumbe wake kwa moyo!
+
+2 Wakr3:6-8—Naye ndiye aliyetutosheleza kuwa wahudumu wa agano jipya; si wa andiko, bali wa roho; kwa maana andiko huua, bali roho huhuisha. 7 Basi, ikiwa huduma ya mauti, iliyoandikwa na kuchorwa katika mawe, ilikuja katika utukufu, hata Waisraeli hawakuweza kuukazia macho uso wa Musa, kwa sababu ya utukufu wa uso wake; nao ni utukufu uliokuwa ukibatilika; 8 je! Huduma ya roho haitazidi kuwa katika utukufu?
+
+Sura thelathini na sita za hesabu ya safarini habari za mahujaji wa kiroho kuelekea urithi wa kiroho.

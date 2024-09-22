@@ -1,79 +1,149 @@
-<h1><span lang='swa'>Kanuni ya utakaso-utakatifu-Sura ya 11-12 </span></h1>
-<h2><span lang='swa'>VILIVYO SAFI - VISIVYOSAFI </span></h2>
-<blockquote><span lang='swa'>Mambo ya walawi 10:10&mdash; kisha&#44; mpate kupambanua kati ya yaliyo matakatifu na hayo yaliyo ya siku zote&#44; na kati ya yaliyonajisi na hayo yaliyo safi; </span></blockquote>
-<p><span lang='swa'>VILIVYO SAFI ina patikana katika mistari 39 na "VILIVYONAJISI" ni mistari 82 katika Mambo ya walawi. </span></p>
-<blockquote><span lang='swa'>Walawi 22:31-33&mdash;31 Kwa hiyo mtayashika maagizo yangu&#44; na kuyafanya; mimi ndimi Bwana. 32 Wala msilinajisi jina langu takatifu; lakini nitatakaswa mimi katika wana wa Israeli; mimi ndimi Bwana ((niwatakasaye ninyi&#44; 33 niliyewaleta mtoke nchi ya Misri&#44; ili niwe Mungu wenu; mimi ndimi Bwana. </span></blockquote>
+# Kanuni ya utakaso-utakatifu-Sura ya 11-12
 
-<h2><span lang='swa'>SHERIA ZA WANYAMA SURA. 11 </span></h2>
-<blockquote><span lang='swa'>Wal.11:47&mdash;ili kupambanua kati ya hao walionajisi na hao walio safi&#44; na kati ya kiumbe kilicho hai ambacho chaliwa&#44; nahicho kilicho hai ambacho hakiliwi.(mzoga hautaliwa wala kuguswa ni najisi&#44;chukizo) </span></blockquote>
-<h3><span lang='swa'>KULA WANYAMA WA NCHI (WALIOSAFI) </span></h3>
-<p><span lang='swa'>" 2&#44;3 Kila mnyama mwenye kwato katika miguu yake&#44; mwenye miguu ya kupasuka kati&#44; mwenye kucheua&#44;&hellip; " </span></p>
-<h3><span lang='swa'>KUTOKULA WANYAMA WA NCHI (WASIO SAFI) </span></h3>
-<p><span lang='swa'>"4-8 wanao cheuwa&#44; - kwato za kugawanyika&#44;sio yenye pande mbilingamiawibarisunguranguruwe " </span></p>
-<h3><span lang='swa'>KULA VITU VYA MAJINI </span></h3>
-<p><span lang='swa'>" 11:9 kila aliye na mapezi na magamba&#44; ndani ya hayo maji&#44; na ndani ya bahari&#44; na ndani ya mito&#44; mtakulahao." </span></p>
-<h3><span lang='swa'>VITU VYA MAJINI VISIVYO LIWA </span></h3>
-<p><span lang='swa'>" 11:10-12 Na hao wote wasio na mapezi na magamba&#44; ndani ya bahari&#44; .. katika wote wenye uhai&#44; waliomo majini&#44; " </span></p>
-<h3><span lang='swa'>NDEGE WASIOLIWA </span></h3>
-<p><span lang='swa'>" 11:13-20 tai&#44; na furukombe&#44;na kipungumwewe kozi kungururubundi kiruka njia&#44; dudumizi&#44; kipanga bundi mdogo&#44; mnandi&#44; bundi mkubwa&#44; mumbi&#44; mwari&#44; korongo&#44; " </span></p>
-<p><span lang='swa'>korongo&#44; koikoi hudihudi &#44; popo. Tena vyote vitambaavyo vyenye mabawa viendavyo kwa miguu minne&#44; </span></p>
-<h3><span lang='swa'>VITU VINAVYORUKA NA KUTAMBAA </span></h3>
-<p><span lang='swa'>" 21-23 hivi vitambaavyo vyenye mabawa viendavyo kwa miguu mine &#44; hao walio na miguu mirefu&#44;ya kurukia juu ya nchi;nzigenzige kuu..panziparare&hellip;Lakini vyote vitambaavyo vyenye mabawa&#44; vilivyo na miguu minne&#44; ni machukizo kwenu." </span></p>
-<h3><span lang='swa'>WAKATI MTU AKIGUSA MZOGA WA KILE KILICHO NAJISI MSTR.24-26 </span></h3>
-<p><span lang='swa'>" kila atakayegusa mzoga wao atakuwa ninajisi hata jioni; " </span></p>
-<p><span lang='swa'>atafua nguo zake&#44; naye atakuwa najisi hata jioni. </span></p>
-<h3><span lang='swa'>KUTOKULA VITU VITAMBAAVYO VINAKWENDA KWA MIGUU MINNE YENYE KUCHA </span></h3>
-<p><span lang='swa'>Wal 11:27-31 aendaye kwa vitanga vyake&#44; wanyama wote waendao kwa miguu minne&#44;&#44; . Tena katika vitu vile vitambaavyo&#44; kichechepanyakobemjombakakakinyongamjusi&#44; konokono fuko. </span></p>
-<h3><span lang='swa'>WAKATI KITU CHOCHOTE KIKIGUSWA NA MZOGA WAKITU NAJISI MSTR.32-38 </span></h3>
-<p><span lang='swa'>kwamba ni chombo cha mti&#44; au nguo&#44; au ngozi&#44; au gunia&#44; chombo cho chote kitakachoangukiwa&#44; ambacho ni chombo cha kufanyia kazi yo yote&#44; lazima kitiwe ndani ya maji&#44; nacho kitakuwani najisi hata jioni; ndipo kitakapokuwa ni safi. Na kila chombo cha udongo&#44; wanyama hao mmojawapo atakachokiangukia&#44; kila kilichomo ndani yake kitakuwa ni najisi&#44; na hicho chombo kitavunjwa. Kila chakula kilichomo&#44; ambacho ni kuliwa&#44; hicho ambacho maji hutumiwa juu yake&#44; kitakuwa ni najisi; na kila kinyweo ambacho ni cha kunywewa&#44; kilichomo katikachombo kama hicho&#44; kitakuwa ni najisi Na kila kitu kitakachoangukiwa na kipande cho chote cha mizoga yao kwamba ni tanuru&#44; au meko ya vyungu&#44; kitavunjwa vipande vipande: kwa maana hivyo ni najisi Pamoja na hayo&#44; chemchemi&#44; au shimo&#44; ambamo maji yakusanyika&#44; vitakuwa ni safi;. Na kipande cho chote cha mzoga kikiwa kimeangukia mbegu za kupandwa zitakazopandwa&#44; zitakuwa safi. </span></p>
-<p><span lang='swa'>Lakini kama maji wekwa juu mbengu&#44;na sehemu ya mizoga yao ikaangukia juu yake&#44;kitakuwa najisi </span></p>
-<h3><span lang='swa'>WAKATI MNYAMA SAFI AKIFA NANYI MKAUGUSA MZOGA WAKE NANYI MTAKUWA NAJISI MSTR.39-40 </span></h3>
-<p><span lang='swa'>UMGUSE&#44;UMULE&#44;UMUBEBE&#44;kitu najisi fua nguo utakuwa najisi hata jioni </span></p>
+## VILIVYO SAFI - VISIVYOSAFI
 
-<h3><span lang='swa'>VITU VITAMBAAVYO NI NAJISI MSTR.41-43 </span></h3>
-<p><span lang='swa'>kila kitambaacho hamtakilachochote kiendecho kwa tumbo&#44; na kiendacho kwa miguu mine&#44; au chenye miguu zaidi ya mine miongoni mwa vitu vitambaavyo juu ya nchi&#44; hamtakula </span></p>
-<h3><span lang='swa'>HITIMISHO-MSISITIZO KUTUNZA!!! MSTR.44-47 </span></h3>
-<p><span lang='swa'>Kwa kuwa mimi ni Bwana&#44; Mungu wenu; takaseni nafsi zenu basi; iweni watakatifu&#44; kwa kuwa mimi ni Mtakatifu; wala msitie uchafu nafsi zenu kwa kitu kitambaacho cha aina yo yote&#44; kiendacho juu ya nchi.. Kwa kuwa mimi ni Bwana niliyewaleta kutoka nc hi yaMisri&#44; ili kwamba niwe Mungu wenu; basi mtakuwa watakatifu&#44; kwa kuwa mimi ni Mtakatifu.Wal 11:46 Hii ndiyo sheria katika hao wanyama&#44; na ndege&#44; na kilakiumbe kilicho hai&#44; kiendacho ndani ya maji&#44; na kila kiumbe kitambaacho juuya nchi; Wal 11:47 ili kupambanua kati ya hao walio najisi na hao walio safi&#44; na kati ya kiumbe kilicho hai ambacho chaliwa&#44; na hicho kilicho hai ambacho hakiliwi. </span></p>
+> Mambo ya walawi 10:10— kisha, mpate kupambanua kati ya yaliyo matakatifu na hayo yaliyo ya siku zote, na kati ya yaliyonajisi na hayo yaliyo safi;
 
-<h2><span lang='swa'>SHERIA YA AFYA SR. 12-15 </span></h2>
-<h3><span lang='swa'>SHERIA YA KUZALIWA KWA MTOTO&#44; SR. 12 </span></h3>
-<h4><span lang='swa'>Mtoto mme </span></h4>
-<p><span lang='swa'>Atakuwa najisi kwa siku saba;Siku ya nane mtoto atakuwa ametahiriwa govi ya zuga lake. Na huyo mwanamke atakaa katika damu ya kutakata kwake siku thelathini na tatu; asiguse kitu kilicho kitakatifu&#44; wala asiingie mahali patakatifu&#44; hata siku hizo za kutakata kwake zitakapotimia. </span></p>
-<h4><span lang='swa'>Mtoto mke </span></h4>
-<p><span lang='swa'>Atakuwa najisi kwa wiki mbili&#44;katika kutengwa kwake: naye atakaa katika damu ya kutakata kwake muda wa siku sitini na sita. </span></p>
-<h4><span lang='swa'>AMA (Wakati wa siku za kutakaswa kwake kutimia) </span></h4>
-<p><span lang='swa'>Ataleta mwanakondoo wa mwaka moja kwa ajiliya sadaka ya kuteketezwa&#44;na mwana njiwa&#44;au huwa mkubwa&#44; kwa ajili ya sadakaya dhambi&#44; kwenye mlango wa hema ya kukutania ya ibada&#44;kwa kuhani:atakaye itoa mbele za Bwana&#44; na kufanya malipo kwa ajili yake;na atakuwa safi kutokana na swala la damu yake. </span></p>
-<p><span lang='swa'>Na kama atashindwa kuleta mwanakondoo&#44;kashaataleta huwa wawili wakubwa&#44;au huwa wawili wadogo;moja kwa ajili ya sadaka ya kutekeza&#44;na mwingine kwa ajili sadaka ya dhambi. </span></p>
-<h3><span lang='swa'>SHERIA YA UKOMA SR. 13&#44;14 </span></h3>
-<h4><span lang='swa'>Kinachoonekana kama ukoma 13:1-8 </span></h4>
-<h4><span lang='swa'>Ukoma ukipatikana kwa mtu 13:9-28 </span></h4>
-<h4><span lang='swa'>Pigo likiwa juu ya kichwa au kwenye kidevu 13:29-39 </span></h4>
-<h4><span lang='swa'>Upara 13:40-44 </span></h4>
-<h4><span lang='swa'>Matibabu ya wenye ukoma 13:45-46 </span></h4>
-<h4><span lang='swa'>Nguo za mwenye ukoma 13:47-59 </span></h4>
-<h4><span lang='swa'>Siku za kutakaswa mwenye ukoma 14:1-32 </span></h4>
-<h4><span lang='swa'>Nyumba ya mwenye ukoma 14:33-53 </span></h4>
-<h4><span lang='swa'>HITIMISHO 14:54-57 </span></h4>
-<h3><span lang='swa'>SHERIA YA MAMBO CKIMWILI D SR. 15 </span></h3>
-<h4><span lang='swa'>MASWALA YA MTU 1-18 </span></h4>
-<h4><span lang='swa'>MASWALA YA MWANAMKE 19-30 </span></h4>
-<h4><span lang='swa'>HITIMISHO 31-33 </span></h4>
-<h2><span lang='swa'>SHERIA YA SIKU YA UPATANISHO SR. 16 </span></h2>
-<h2><span lang='swa'>SHERIA YA DAMU YA DHABIHU SR. 17 </span></h2>
-<blockquote><span lang='swa'>Wal 17:11-12&mdash;Kwa kuwa uhai wa mwili u katika hiyo damu; nami nimewapa ninyi hiyo damu juu ya madhabahu&#44; ili kufanya upatanisho kwa ajili ya nafsi zenu; kwani ni hiyo damu ifanyayo upatanisho kwasababu ya nafsi. 12Kwa hiyo naliwaambia wana wa Israeli&#44; Hapana mtu miongoni mwenu aliye na ruhusa kula damu&#44; wala mgeni aketiye kati yenu asile damu. </span></blockquote>
+VILIVYO SAFI ina patikana katika mistari 39 na "VILIVYONAJISI" ni mistari 82 katika Mambo ya walawi.
 
-<h2><span lang='swa'>SHERIA YA NCHILA SURA. 18-20 </span></h2>
-<h3><span lang='swa'>Fuata desturi ya Mungu na sio za kwao </span></h3>
-<blockquote><span lang='swa'>Leviticus20:22-23&mdash;Basi zishikeni amri zangu zote&#44; na hukumu zangu zote&#44; na kuzifanya; ili kwamba hiyo nchi&#44; ambayo nawapeleka ninyi kukaa&#44; isiwatapike. 23 Nanyi msiende kwa kuziandama desturi za taifa&#44; niitoayo mbele yenu; kwa kuwa wao waliyafanya mambo hayo yote&#44; na kwa ajili ya hayo niliwachukia. </span></blockquote>
-<h3><span lang='swa'>Muhitasari umbali wa desturi za Mungu </span></h3>
-<p><span lang='swa'>" Utofauti kati ya wanyama walio safi na ndege na wasio safi " </span></p>
-<p><span lang='swa'>Na mtakuwa watakatifu: maana mimi ni Bwana niliye mtakatifu </span></p>
-<p><span lang='swa'>Mwanaume au mwanamke mwenye roho ya mazoea&#44;au mchawi&#44;lazima auwawe: </span></p>
-<h2><span lang='swa'>SHERIA YA SADAKA-ZA UKUHANI SR 21-22 </span></h2>
-<h3><span lang='swa'>Sheria za ukuhani 21:1-22:16 </span></h3>
-<blockquote><span lang='swa'>Wal. 21:1&mdash; Kisha Bwana akamwambia Musa&#44; Nena na hao makuhani&#44; wana wa Haruni </span></blockquote>
-<blockquote><span lang='swa'>Wal. 21:24&mdash;Basi Musa akanena na Haruni na wanawe&#44; na wana wa Israeli wote. </span></blockquote>
-<h3><span lang='swa'>Sheria za sadaka 22:17-33 </span></h3>
-<h4><span lang='swa'>Isio na waa 17-25 </span></h4>
-<h4><span lang='swa'>Wasiuwawe wote wawili mzazi na mwanawe 26-28 </span></h4>
-<h4><span lang='swa'>Kuleni siku hiyohiyo vile vilivyochinjwa 29-30 </span></h4>
+> Walawi 22:31-33—31 Kwa hiyo mtayashika maagizo yangu, na kuyafanya; mimi ndimi Bwana. 32 Wala msilinajisi jina langu takatifu; lakini nitatakaswa mimi katika wana wa Israeli; mimi ndimi Bwana ((niwatakasaye ninyi, 33 niliyewaleta mtoke nchi ya Misri, ili niwe Mungu wenu; mimi ndimi Bwana.
+
+## SHERIA ZA WANYAMA SURA. 11
+
+> Wal.11:47—ili kupambanua kati ya hao walionajisi na hao walio safi, na kati ya kiumbe kilicho hai ambacho chaliwa, nahicho kilicho hai ambacho hakiliwi.(mzoga hautaliwa wala kuguswa ni najisi,chukizo)
+
+### KULA WANYAMA WA NCHI (WALIOSAFI)
+
+" 2,3 Kila mnyama mwenye kwato katika miguu yake, mwenye miguu ya kupasuka kati, mwenye kucheua,… "
+
+### KUTOKULA WANYAMA WA NCHI (WASIO SAFI)
+
+"4-8 wanao cheuwa, - kwato za kugawanyika,sio yenye pande mbilingamiawibarisunguranguruwe "
+
+### KULA VITU VYA MAJINI
+
+" 11:9 kila aliye na mapezi na magamba, ndani ya hayo maji, na ndani ya bahari, na ndani ya mito, mtakulahao."
+
+### VITU VYA MAJINI VISIVYO LIWA
+
+" 11:10-12 Na hao wote wasio na mapezi na magamba, ndani ya bahari, .. katika wote wenye uhai, waliomo majini, "
+
+### NDEGE WASIOLIWA
+
+" 11:13-20 tai, na furukombe,na kipungumwewe kozi kungururubundi kiruka njia, dudumizi, kipanga bundi mdogo, mnandi, bundi mkubwa, mumbi, mwari, korongo, "
+
+korongo, koikoi hudihudi , popo. Tena vyote vitambaavyo vyenye mabawa viendavyo kwa miguu minne,
+
+### VITU VINAVYORUKA NA KUTAMBAA
+
+" 21-23 hivi vitambaavyo vyenye mabawa viendavyo kwa miguu mine , hao walio na miguu mirefu,ya kurukia juu ya nchi;nzigenzige kuu..panziparare…Lakini vyote vitambaavyo vyenye mabawa, vilivyo na miguu minne, ni machukizo kwenu."
+
+### WAKATI MTU AKIGUSA MZOGA WA KILE KILICHO NAJISI MSTR.24-26
+
+" kila atakayegusa mzoga wao atakuwa ninajisi hata jioni; "
+
+atafua nguo zake, naye atakuwa najisi hata jioni.
+
+### KUTOKULA VITU VITAMBAAVYO VINAKWENDA KWA MIGUU MINNE YENYE KUCHA
+
+Wal 11:27-31 aendaye kwa vitanga vyake, wanyama wote waendao kwa miguu minne,, . Tena katika vitu vile vitambaavyo, kichechepanyakobemjombakakakinyongamjusi, konokono fuko.
+
+### WAKATI KITU CHOCHOTE KIKIGUSWA NA MZOGA WAKITU NAJISI MSTR.32-38
+
+kwamba ni chombo cha mti, au nguo, au ngozi, au gunia, chombo cho chote kitakachoangukiwa, ambacho ni chombo cha kufanyia kazi yo yote, lazima kitiwe ndani ya maji, nacho kitakuwani najisi hata jioni; ndipo kitakapokuwa ni safi. Na kila chombo cha udongo, wanyama hao mmojawapo atakachokiangukia, kila kilichomo ndani yake kitakuwa ni najisi, na hicho chombo kitavunjwa. Kila chakula kilichomo, ambacho ni kuliwa, hicho ambacho maji hutumiwa juu yake, kitakuwa ni najisi; na kila kinyweo ambacho ni cha kunywewa, kilichomo katikachombo kama hicho, kitakuwa ni najisi Na kila kitu kitakachoangukiwa na kipande cho chote cha mizoga yao kwamba ni tanuru, au meko ya vyungu, kitavunjwa vipande vipande: kwa maana hivyo ni najisi Pamoja na hayo, chemchemi, au shimo, ambamo maji yakusanyika, vitakuwa ni safi;. Na kipande cho chote cha mzoga kikiwa kimeangukia mbegu za kupandwa zitakazopandwa, zitakuwa safi.
+
+Lakini kama maji wekwa juu mbengu,na sehemu ya mizoga yao ikaangukia juu yake,kitakuwa najisi
+
+### WAKATI MNYAMA SAFI AKIFA NANYI MKAUGUSA MZOGA WAKE NANYI MTAKUWA NAJISI MSTR.39-40
+
+UMGUSE,UMULE,UMUBEBE,kitu najisi fua nguo utakuwa najisi hata jioni
+
+### VITU VITAMBAAVYO NI NAJISI MSTR.41-43
+
+kila kitambaacho hamtakilachochote kiendecho kwa tumbo, na kiendacho kwa miguu mine, au chenye miguu zaidi ya mine miongoni mwa vitu vitambaavyo juu ya nchi, hamtakula
+
+### HITIMISHO-MSISITIZO KUTUNZA!!! MSTR.44-47
+
+Kwa kuwa mimi ni Bwana, Mungu wenu; takaseni nafsi zenu basi; iweni watakatifu, kwa kuwa mimi ni Mtakatifu; wala msitie uchafu nafsi zenu kwa kitu kitambaacho cha aina yo yote, kiendacho juu ya nchi.. Kwa kuwa mimi ni Bwana niliyewaleta kutoka nc hi yaMisri, ili kwamba niwe Mungu wenu; basi mtakuwa watakatifu, kwa kuwa mimi ni Mtakatifu.Wal 11:46 Hii ndiyo sheria katika hao wanyama, na ndege, na kilakiumbe kilicho hai, kiendacho ndani ya maji, na kila kiumbe kitambaacho juuya nchi; Wal 11:47 ili kupambanua kati ya hao walio najisi na hao walio safi, na kati ya kiumbe kilicho hai ambacho chaliwa, na hicho kilicho hai ambacho hakiliwi.
+
+## SHERIA YA AFYA SR. 12-15
+
+### SHERIA YA KUZALIWA KWA MTOTO, SR. 12
+
+#### Mtoto mme
+
+Atakuwa najisi kwa siku saba;Siku ya nane mtoto atakuwa ametahiriwa govi ya zuga lake. Na huyo mwanamke atakaa katika damu ya kutakata kwake siku thelathini na tatu; asiguse kitu kilicho kitakatifu, wala asiingie mahali patakatifu, hata siku hizo za kutakata kwake zitakapotimia.
+
+#### Mtoto mke
+
+Atakuwa najisi kwa wiki mbili,katika kutengwa kwake: naye atakaa katika damu ya kutakata kwake muda wa siku sitini na sita.
+
+#### AMA (Wakati wa siku za kutakaswa kwake kutimia)
+
+Ataleta mwanakondoo wa mwaka moja kwa ajiliya sadaka ya kuteketezwa,na mwana njiwa,au huwa mkubwa, kwa ajili ya sadakaya dhambi, kwenye mlango wa hema ya kukutania ya ibada,kwa kuhani:atakaye itoa mbele za Bwana, na kufanya malipo kwa ajili yake;na atakuwa safi kutokana na swala la damu yake.
+
+Na kama atashindwa kuleta mwanakondoo,kashaataleta huwa wawili wakubwa,au huwa wawili wadogo;moja kwa ajili ya sadaka ya kutekeza,na mwingine kwa ajili sadaka ya dhambi.
+
+### SHERIA YA UKOMA SR. 13,14
+
+#### Kinachoonekana kama ukoma 13:1-8
+
+#### Ukoma ukipatikana kwa mtu 13:9-28
+
+#### Pigo likiwa juu ya kichwa au kwenye kidevu 13:29-39
+
+#### Upara 13:40-44
+
+#### Matibabu ya wenye ukoma 13:45-46
+
+#### Nguo za mwenye ukoma 13:47-59
+
+#### Siku za kutakaswa mwenye ukoma 14:1-32
+
+#### Nyumba ya mwenye ukoma 14:33-53
+
+#### HITIMISHO 14:54-57
+
+### SHERIA YA MAMBO CKIMWILI D SR. 15
+
+#### MASWALA YA MTU 1-18
+
+#### MASWALA YA MWANAMKE 19-30
+
+#### HITIMISHO 31-33
+
+## SHERIA YA SIKU YA UPATANISHO SR. 16
+
+## SHERIA YA DAMU YA DHABIHU SR. 17
+
+> Wal 17:11-12—Kwa kuwa uhai wa mwili u katika hiyo damu; nami nimewapa ninyi hiyo damu juu ya madhabahu, ili kufanya upatanisho kwa ajili ya nafsi zenu; kwani ni hiyo damu ifanyayo upatanisho kwasababu ya nafsi. 12Kwa hiyo naliwaambia wana wa Israeli, Hapana mtu miongoni mwenu aliye na ruhusa kula damu, wala mgeni aketiye kati yenu asile damu.
+
+## SHERIA YA NCHILA SURA. 18-20
+
+### Fuata desturi ya Mungu na sio za kwao
+
+> Leviticus20:22-23—Basi zishikeni amri zangu zote, na hukumu zangu zote, na kuzifanya; ili kwamba hiyo nchi, ambayo nawapeleka ninyi kukaa, isiwatapike. 23 Nanyi msiende kwa kuziandama desturi za taifa, niitoayo mbele yenu; kwa kuwa wao waliyafanya mambo hayo yote, na kwa ajili ya hayo niliwachukia.
+
+### Muhitasari umbali wa desturi za Mungu
+
+" Utofauti kati ya wanyama walio safi na ndege na wasio safi "
+
+Na mtakuwa watakatifu: maana mimi ni Bwana niliye mtakatifu
+
+Mwanaume au mwanamke mwenye roho ya mazoea,au mchawi,lazima auwawe:
+
+## SHERIA YA SADAKA-ZA UKUHANI SR 21-22
+
+### Sheria za ukuhani 21:1-22:16
+
+> Wal. 21:1— Kisha Bwana akamwambia Musa, Nena na hao makuhani, wana wa Haruni
+
+> Wal. 21:24—Basi Musa akanena na Haruni na wanawe, na wana wa Israeli wote.
+
+### Sheria za sadaka 22:17-33
+
+#### Isio na waa 17-25
+
+#### Wasiuwawe wote wawili mzazi na mwanawe 26-28
+
+#### Kuleni siku hiyohiyo vile vilivyochinjwa 29-30

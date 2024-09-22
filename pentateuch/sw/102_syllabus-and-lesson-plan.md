@@ -1,89 +1,175 @@
-<h1><span lang='swa'>Silabasi </span></h1>
-<p><span lang='swa'>Pentatuki ni nini? </span></p>
-<p><span lang='swa'>Vitabu vitano vya kwanza vya Neno takatifula Mungu ambalo limeingizwa katika habari ya mwanzo na kwa asili ya vitu vyote na vivuli vya yote yaliyo fuata ufunuo wa kiBiblia. </span></p>
-<p><span lang='swa'>Moja ya tofauti sana na masomo yenye nguvu ya Biblia. </span></p>
-<p><span lang='swa'>Kimsingi&#44;Pentatuki ni msingi wa kweli yote ya kiroho na kanuni ya kijamii! </span></p>
-<p><span lang='swa'>Kozi hii inahusisha nini? </span></p>
-<p><span lang='swa'>Utakuwa ukisoma kitabu na kuitikia kwa imlailikujibu maswali. </span></p>
-<p><span lang='swa'>Kila sehemu itaishia na kujifunza maswali ambayo ya mejibiwa kwenye Ckitabu kilicho funguliwa Dambacho kinakuandaa kwa ajili ya zoezi litakalo fuata.zoezi sio"kufungua kitabu" balini kuchukua kwa kukariri. </span></p>
-<p><span lang='swa'>Utakuwa kwa mfululizo umesoma kila kitabu cha vitabu vitano vya Pentantuki kwa wakati huo huo na kutoa swali na jibu kutoka kila sura. </span></p>
-<p><span lang='swa'>Utakuwa umejifunza kwa mada zako mwenyewe tofauti kuhusiana na Pentatuki;kama vile:sikukuu za Bwana&#44;na manung 9niko jangwani. </span></p>
-<p><span lang='swa'>Utakuwa ukikariri maandiko. </span></p>
-<p><span lang='swa'>Utakamilisha mtihani wa mwisho wa kitabu kilicho funguliwa kwenye hitimisho la kozi hii ambayo itajaribu ufahamu wako wa Pentatuki. </span></p>
-<p><span lang='swa'>Kozi hii imegawanywa kwa jinsi gani? </span></p>
-<p><span lang='swa'>Kozi hii imegawanywa katikasehemu kuu (5). Kila sehemu itaishia na : 1) kazi maalumu 2) maswali ya kujifunza na 3) zoezi. </span></p>
-<p><span lang='swa'>Sehemu ya 1:Mwanzo </span></p>
-<p><span lang='swa'>Sehemu ya 2:kutoka </span></p>
-<p><span lang='swa'>Sehemu ya 3:Walawi </span></p>
-<p><span lang='swa'>Sehemu ya 4:Hesabu </span></p>
-<p><span lang='swa'>Sehemu ya 5:Kumbukumbu la torati </span></p>
-<p><span lang='swa'>Kazi zote katika kozi hii ni mojawapo: </span></p>
-<h2><span lang='swa'>kitabu kilicho funguliwa </span></h2>
-<p><span lang='swa'>Vianzo vyaweza kutumika kujibu maswali; kama vile hiki kitabu&#44; Biblia&#44; vitabu vya maoni&#44; na kadhalika. AU&#44; </span></p>
-<h2><span lang='swa'>Kitabu kufungwa </span></h2>
-<p><span lang='swa'>Hakuna vianzo vya kutumika.kazi za kitabu kilicho fungwa ni kwa kukariri tu na zibuniwa kupima kumbukumbu yako kama ilivyo katika uwezo wa kufahamu. </span></p>
+# Silabasi
 
-<h1><span lang='swa'>Mpango wa somo </span></h1>
-<p><span lang='swa'>1)SOMO LA 1 </span></p>
-<p><span lang='swa'>a.kusudi la darasaclass &#44; Silabasi </span></p>
-<p><span lang='swa'>b.Kuchagua somo la habari binafsi. Husika kwa ajili ya SOMO 4. </span></p>
-<p><span lang='swa'>KITABU cha kujifunza : "Utangulizi" - "Sehemu ya Mwanzo 1 ya 4" </span></p>
-<p><span lang='swa'>d.Kamilisha "Nani ni wanani katika kitabu cha Mwanzo" . </span></p>
-<p><span lang='swa'>e.Soma Mwanzo Sura 1-15 na utunge swali na jibu kwa kila sura. </span></p>
-<p><span lang='swa'>2)SOMO2 </span></p>
-<p><span lang='swa'>a.KITABU cha jifunza: "Mwanzo&#44; Sehemu2 na ya 4" </span></p>
-<p><span lang='swa'>b Kamilisha"Mifano kutoka Mwanzo". </span></p>
-<p><span lang='swa'>c.Soma Mwanzo Sura 16-30 na utunge swali najibu kwa kila sura. </span></p>
-<p><span lang='swa'>3)SOMO LA3 </span></p>
-<p><span lang='swa'>a.KITABU cha kujifunza: "Mwanzo&#44; Sehemu 3 na ya 4" </span></p>
-<p><span lang='swa'>b.Soma Mwanzo Sura ya 31-50 na utunge swalinajibu kwa kila sura: </span></p>
-<p><span lang='swa'>c.Kamilisha maswali ya kujifunza juu Safinaya "Nuhu"na anga". </span></p>
-<p><span lang='swa'>d.SEHEMU YA 1: Utangulizi Maswaliya kujifunza yanayo sitahili katika Mwanzo. </span></p>
-<p><span lang='swa'>4)SOMO LA 4 </span></p>
-<p><span lang='swa'>a.KITABU cha kujifunza: "Mwanzo&#44; Sehemu ya 2 na ya 4" </span></p>
-<p><span lang='swa'>b.Jibu swali lifuatalo katika imla yenye maneno 200-400: "jinsi gani tunaona mashindano kati ya Isaka na Ishimaeli kuendelea mpaka leo? (Rejea kwenye UKURASA 23 wa KITABU: V. Abraham C.) </span></p>
-<p><span lang='swa'>c.Soma Kutoka 1-15 na utunge swali najibu katika kila Sura: </span></p>
-<p><span lang='swa'>d.SEHEMU YA 1: Utangulizi- Maswali ya mwanzo yanayo sitahili. </span></p>
-<p><span lang='swa'>e.Habari binafisi inayositahili. </span></p>
-<p><span lang='swa'>5)SOMO LA5 </span></p>
-<p><span lang='swa'>a.KITABU cha kujifunza: "Kutoka&#44; Sehemu ya 1 na ya 3". </span></p>
-<p><span lang='swa'>b.Soma Kutoka16-30 na utunge swali-na jibu kwa kila Sura: </span></p>
-<p><span lang='swa'>6)SOMO LA 6 </span></p>
-<p><span lang='swa'>a.KITABU cha kujifunza: "Kutoka&#44; Sehemu ya 2 na ya 3".. </span></p>
-<p><span lang='swa'>b.Soma kutoka 31-40 na utunge swali- na jibu kwa kila sura. </span></p>
-<p><span lang='swa'>c.SEHEMU 2: maswali ya kujifunza yanayositahili Kutoka. </span></p>
-<p><span lang='swa'>7)SOMO LA7 </span></p>
-<p><span lang='swa'>a.KITABU cha kujifunza: "Kutoka&#44; Sehemu 2 na ya 3". </span></p>
-<p><span lang='swa'>b.Soma Walawi 1-15 na utunge swali-na jibu kwa ajili ya kila sura. </span></p>
-<p><span lang='swa'>c.SEHEMU YA 2: Maswali yanayofaa kujifunza ya Kutoka. </span></p>
-<p><span lang='swa'>d.Kazi inayofaa ya hotuba ya Kutoka. </span></p>
-<p><span lang='swa'>8)SOMO LA8 </span></p>
-<p><span lang='swa'>a.KITABU cha kujifunza: "Walawi&#44; Sehemu ya 1 na ya 2". </span></p>
-<p><span lang='swa'>b.Kamilisha maswali ya kujifunza kwenye kurasa zifuatazo. </span></p>
-<p><span lang='swa'>c.Chagua kifungu na andaa hotuba inayofaa kutoka katika kitabu cha Kutoka. </span></p>
-<p><span lang='swa'>d.Soma Walawi 16-27 na utunge swalijibu kwa ajili ya kila sura: </span></p>
-<p><span lang='swa'>9)SOMO LA9 </span></p>
-<p><span lang='swa'>a.KITABU cha kujinza: "Walawi&#44; Sehemuya 2 of 2".. </span></p>
-<p><span lang='swa'>b.Toa taarifa binafsi kwa mdomo. </span></p>
-<p><span lang='swa'>c.Soma Hesabu 1-15 na utunge swalina jibu kwa ajili kila sura. </span></p>
-<p><span lang='swa'>d.SEHEMU YA 3: Maswali yakujifunza yanayo faa Walawi. </span></p>
-<p><span lang='swa'>e.Jibu swali lifuatalo katika maneno takribani 250. (Hesabu haishii na maandiko yanayo unga mkono kwa vigezo.): Kwa jinsi gani mtu asiyemmtakatifu kumkaribia Mungu mtakatifu? </span></p>
-<p><span lang='swa'>10)SOMO LA 10 </span></p>
-<p><span lang='swa'>a.KITABU cha kujifunza: "Hesabu&#44; Sehemu ya 1 na ya 2". </span></p>
-<p><span lang='swa'>b.Soma Hesabu 15-36 na utunge swali-jibu kwa ajili ya kila sura. </span></p>
-<p><span lang='swa'>c.SEHEMU 3: Maswali yanayo faa ya Walawi. </span></p>
-<p><span lang='swa'>d.KAZI YA SEHEMU: Kiti cha moto wa utakatifu. Hii kazi ina mikunjo miwili: </span></p>
-<p><span lang='swa'>i.Andaa maswali 10 husika juu ya mada ya "utakatifu." </span></p>
-<p><span lang='swa'>ii.Kusanya maandiko matakatifu andaa mahojiano ya mfululizo ya kiBiblia yawe jibu kwa maswali haya.Maandiko yaliyotumika hayaja wekewa kikomo&#44;lakini lazima yaishie na&#44;Stahili ya pentantuki. </span></p>
-<p><span lang='swa'>11)SOMO LA 11 </span></p>
-<p><span lang='swa'>a.KITABU cha kujifunza: "Hesabu&#44; Sehemu 2 ya 2". </span></p>
-<p><span lang='swa'>b.Soma kumbukumbu la torati 1-17 na utunge swali-na jibu kwa ajili ya kila sura. </span></p>
-<p><span lang='swa'>c.SEHEMU YA 4: stahili ya maswali ya kujifunza ya Hesabu. </span></p>
-<p><span lang='swa'>12)SOMO LA 12 </span></p>
-<p><span lang='swa'>a.KITABU cha kujifunza: "Kumbukumbu la torati". </span></p>
-<p><span lang='swa'>b.Soma Kumbukumbu 17-34 na utunge swali- najibu kwa ajili ya kila sura. </span></p>
-<p><span lang='swa'>c.SEHEMU YA 4: Stahili ya maswali kujifunzaKitabu cha Hesabu. </span></p>
-<p><span lang='swa'>d.SEHEMU YA 5: Stahili ya Maswali kujifunzaKumbukumbu la torati. </span></p>
-<p><span lang='swa'>FUATA HAPO JUU </span></p>
-<p><span lang='swa'>a.SEHEMU 5: Kumbukumbu maswali ya faayo kujifunza. </span></p>
-<p><span lang='swa'>b.Jiandee kwa Mtihani </span></p></div><div id='sec-15'>
+Pentatuki ni nini?
+
+Vitabu vitano vya kwanza vya Neno takatifula Mungu ambalo limeingizwa katika habari ya mwanzo na kwa asili ya vitu vyote na vivuli vya yote yaliyo fuata ufunuo wa kiBiblia.
+
+Moja ya tofauti sana na masomo yenye nguvu ya Biblia.
+
+Kimsingi,Pentatuki ni msingi wa kweli yote ya kiroho na kanuni ya kijamii!
+
+Kozi hii inahusisha nini?
+
+Utakuwa ukisoma kitabu na kuitikia kwa imlailikujibu maswali.
+
+Kila sehemu itaishia na kujifunza maswali ambayo ya mejibiwa kwenye Ckitabu kilicho funguliwa Dambacho kinakuandaa kwa ajili ya zoezi litakalo fuata.zoezi sio"kufungua kitabu" balini kuchukua kwa kukariri.
+
+Utakuwa kwa mfululizo umesoma kila kitabu cha vitabu vitano vya Pentantuki kwa wakati huo huo na kutoa swali na jibu kutoka kila sura.
+
+Utakuwa umejifunza kwa mada zako mwenyewe tofauti kuhusiana na Pentatuki;kama vile:sikukuu za Bwana,na manung niko jangwani.
+
+Utakuwa ukikariri maandiko.
+
+Utakamilisha mtihani wa mwisho wa kitabu kilicho funguliwa kwenye hitimisho la kozi hii ambayo itajaribu ufahamu wako wa Pentatuki.
+
+Kozi hii imegawanywa kwa jinsi gani?
+
+Kozi hii imegawanywa katikasehemu kuu (5). Kila sehemu itaishia na : 1) kazi maalumu 2) maswali ya kujifunza na 3) zoezi.
+
+Sehemu ya 1: Mwanzo
+
+Sehemu ya 2: kutoka
+
+Sehemu ya 3: Walawi
+
+Sehemu ya 4: Hesabu
+
+Sehemu ya 5: Kumbukumbu la torati
+
+Kazi zote katika kozi hii ni mojawapo:
+
+## kitabu kilicho funguliwa
+
+Vianzo vyaweza kutumika kujibu maswali; kama vile hiki kitabu, Biblia, vitabu vya maoni, na kadhalika. AU,
+
+## Kitabu kufungwa
+
+Hakuna vianzo vya kutumika.kazi za kitabu kilicho fungwa ni kwa kukariri tu na zibuniwa kupima kumbukumbu yako kama ilivyo katika uwezo wa kufahamu.
+
+# Mpango wa somo
+
+1. Somo la 1
+
+a.kusudi la darasaclass , Silabasi
+
+b.Kuchagua Somo la habari binafsi. Husika kwa ajili ya SOMO 4.
+
+KITABU cha kujifunza : "Utangulizi" - "Sehemu ya Mwanzo 1 ya 4"
+
+d.Kamilisha "Nani ni wanani katika kitabu cha Mwanzo" .
+
+e.Soma Mwanzo Sura 1-15 na utunge swali na jibu kwa kila sura.
+
+2. Somo la 2
+
+a.KITABU cha jifunza: "Mwanzo, Sehemu2 na ya 4"
+
+b Kamilisha"Mifano kutoka Mwanzo".
+
+c.Soma Mwanzo Sura 16-30 na utunge swali najibu kwa kila sura.
+
+3. Somo la 3
+
+a.KITABU cha kujifunza: "Mwanzo, Sehemu 3 na ya 4"
+
+b.Soma Mwanzo Sura ya 31-50 na utunge swalinajibu kwa kila sura:
+
+c.Kamilisha maswali ya kujifunza juu Safinaya "Nuhu"na anga".
+
+d.Sehemu ya 1: Utangulizi Maswaliya kujifunza yanayo sitahili katika Mwanzo.
+
+4. Somo la 4
+
+a.KITABU cha kujifunza: "Mwanzo, Sehemu ya 2 na ya 4"
+
+b.Jibu swali lifuatalo katika imla yenye maneno 200-400: "jinsi gani tunaona mashindano kati ya Isaka na Ishimaeli kuendelea mpaka leo? (Rejea kwenye UKURASA 23 wa KITABU: V. Abraham C.)
+
+c.Soma Kutoka 1-15 na utunge swali najibu katika kila Sura:
+
+d.Sehemu ya 1: Utangulizi- Maswali ya mwanzo yanayo sitahili.
+
+e.Habari binafisi inayositahili.
+
+5. Somo la5
+
+a.KITABU cha kujifunza: "Kutoka, Sehemu ya 1 na ya 3".
+
+b.Soma Kutoka16-30 na utunge swali-na jibu kwa kila Sura:
+
+6. Somo la 6
+
+a.KITABU cha kujifunza: "Kutoka, Sehemu ya 2 na ya 3"..
+
+b.Soma kutoka 31-40 na utunge swali- na jibu kwa kila sura.
+
+c.SEHEMU 2: maswali ya kujifunza yanayositahili Kutoka.
+
+7. Somo la7
+
+a.KITABU cha kujifunza: "Kutoka, Sehemu 2 na ya 3".
+
+b.Soma Walawi 1-15 na utunge swali-na jibu kwa ajili ya kila sura.
+
+c.Sehemu ya 2: Maswali yanayofaa kujifunza ya Kutoka.
+
+d.Kazi inayofaa ya hotuba ya Kutoka.
+
+8. Somo la 8
+
+a.KITABU cha kujifunza: "Walawi, Sehemu ya 1 na ya 2".
+
+b.Kamilisha maswali ya kujifunza kwenye kurasa zifuatazo.
+
+c.Chagua kifungu na andaa hotuba inayofaa kutoka katika kitabu cha Kutoka.
+
+d.Soma Walawi 16-27 na utunge swalijibu kwa ajili ya kila sura:
+
+9. Somo la 9
+
+a.KITABU cha kujinza: "Walawi, Sehemuya 2 of 2"..
+
+b.Toa taarifa binafsi kwa mdomo.
+
+c.Soma Hesabu 1-15 na utunge swalina jibu kwa ajili kila sura.
+
+d.Sehemu ya 3: Maswali yakujifunza yanayo faa Walawi.
+
+e.Jibu swali lifuatalo katika maneno takribani 250. (Hesabu haishii na maandiko yanayo unga mkono kwa vigezo.): Kwa jinsi gani mtu asiyemmtakatifu kumkaribia Mungu mtakatifu?
+
+10. Somo la 10
+
+a.KITABU cha kujifunza: "Hesabu, Sehemu ya 1 na ya 2".
+
+b.Soma Hesabu 15-36 na utunge swali-jibu kwa ajili ya kila sura.
+
+c.SEHEMU 3: Maswali yanayo faa ya Walawi.
+
+d.KAZI YA SEHEMU: Kiti cha moto wa utakatifu. Hii kazi ina mikunjo miwili:
+
+i.Andaa maswali 10 husika juu ya mada ya "utakatifu."
+
+ii.Kusanya maandiko matakatifu andaa mahojiano ya mfululizo ya kiBiblia yawe jibu kwa maswali haya.Maandiko yaliyotumika hayaja wekewa kikomo,lakini lazima yaishie na,Stahili ya pentantuki.
+
+11. Somo la 11
+
+a.KITABU cha kujifunza: "Hesabu, Sehemu 2 ya 2".
+
+b.Soma kumbukumbu la torati 1-17 na utunge swali-na jibu kwa ajili ya kila sura.
+
+c.Sehemu ya 4: stahili ya maswali ya kujifunza ya Hesabu.
+
+12. Somo la 12
+
+a. KITABU cha kujifunza: "Kumbukumbu la torati".
+
+b. Soma Kumbukumbu 17-34 na utunge swali- najibu kwa ajili ya kila sura.
+
+c. Sehemu ya 4: Stahili ya maswali kujifunzaKitabu cha Hesabu.
+
+d. Sehemu ya 5: Stahili ya Maswali kujifunzaKumbukumbu la torati.
+
+FUATA HAPO JUU
+
+a. Sehemu ya 5: Kumbukumbu maswali ya faayo kujifunza.
+
+b. Jiandee kwa Mtihani

@@ -1,119 +1,237 @@
-<h1><span lang='swa'>MIFANO KUTOKA MWANZO </span></h1>
-<p><span lang='swa'>KITABU KINACHUKUA MIFANO YA DHANA ZA MAKUTANO </span></p>
-<p><span lang='swa'>MAELEKEZO: Jaza sehemu zote zilizo wazi. </span></p>
-<p><span lang='swa'>DHANA </span></p>
-<p><span lang='swa'>HESABU </span></p>
-<p><span lang='swa'>REJEA </span></p>
-<p><span lang='swa'>HASIRA WIVU </span></p>
-<p><span lang='swa'>KAINI ANAMUA HABILI </span></p>
-<p><span lang='swa'>11:1-15 </span></p>
-<p><span lang='swa'>BIBI HARUSI WA KRISTO </span></p>
-<p><span lang='swa'>ISAKA - RABEKA </span></p>
-<p><span lang='swa'>MTU WA TAMAA ZA MWILI </span></p>
-<p><span lang='swa'>TERA ALIPASWA KWANZA </span></p>
-<p><span lang='swa'>11:31&#44;32; 12:1-3 </span></p>
-<p><span lang='swa'>DIPLOMA </span></p>
-<p><span lang='swa'>ZAWADI YA YAKOBO KWA ESAU </span></p>
-<p><span lang='swa'>32:13-20 </span></p>
-<p><span lang='swa'>IMANI </span></p>
-<p><span lang='swa'>MUNGU ATATOA MWENYEWE </span></p>
-<p><span lang='swa'>22:7-8 </span></p>
-<p><span lang='swa'>URAFIKI </span></p>
-<p><span lang='swa'>ABRAHAM YUKO PALE KWA AJILI YA LUTU </span></p>
-<p><span lang='swa'>14:14-16 </span></p>
-<p><span lang='swa'>UKARIMU </span></p>
-<p><span lang='swa'>MISRI YASHIRIKISHA NAFAKA </span></p>
-<p><span lang='swa'>41:56-57 </span></p>
-<p><span lang='swa'>MAMLAKA YA JUU YA MUNGU </span></p>
-<p><span lang='swa'>HAPO MWANZO MUNGU </span></p>
-<p><span lang='swa'>0.042361111 </span></p>
-<p><span lang='swa'>MUNGU ANAONGEA NA MTU </span></p>
-<p><span lang='swa'>NDOTO ZA YUSUFU </span></p>
-<p><span lang='swa'>37:5-9 </span></p>
-<p><span lang='swa'>UTUKUFU ULITOLEWA KWA MUNGU </span></p>
-<p><span lang='swa'>YUSUFU MBELE YA FARAO </span></p>
-<p><span lang='swa'>1.719444444 </span></p>
-<p><span lang='swa'>CHUKI </span></p>
-<p><span lang='swa'>KAKA ZAKE NA YOSEFU WA MCHUKIA </span></p>
-<p><span lang='swa'>1.544444444 </span></p>
-<p><span lang='swa'>HUKUMU </span></p>
-<p><span lang='swa'>GHARIKA </span></p>
-<p><span lang='swa'>6:13-17 </span></p>
-<p><span lang='swa'>MHESHIMIWA </span></p>
-<p><span lang='swa'>PESA KWENYE MAGUNIA ZA RUDISHWA </span></p>
-<p><span lang='swa'>43:19-22 </span></p>
-<p><span lang='swa'>TUMAINI </span></p>
-<p><span lang='swa'>TUMAINI LA YUSUFU LA UHURU </span></p>
-<p><span lang='swa'>1.676388889 </span></p>
-<p><span lang='swa'>UNYENYEKEVU </span></p>
-<p><span lang='swa'>YAKABO ASUJUDU KWA ESAU </span></p>
-<p><span lang='swa'>1.377083333 </span></p>
-<p><span lang='swa'>UPOLE </span></p>
-<p><span lang='swa'>RAHELI ALIMSADIA ELIEZARI </span></p>
-<p><span lang='swa'>24:17-20 </span></p>
-<p><span lang='swa'>UPENDO </span></p>
-<p><span lang='swa'>YAKOBO ALIMPENDA YUSUFU </span></p>
-<p><span lang='swa'>1.54375 </span></p>
-<p><span lang='swa'>UDANGANYIFU </span></p>
-<p><span lang='swa'>RAHELI ALIFICHA MIUNGU YA LABANI </span></p>
-<p><span lang='swa'>31:34-35 </span></p>
-<p><span lang='swa'>MATOKEO YA MAUWAJI. </span></p>
-<p><span lang='swa'>DAMU KWA DAMU </span></p>
-<p><span lang='swa'>0.170833333 </span></p>
-<p><span lang='swa'>UVUMILIVU </span></p>
-<p><span lang='swa'>YAKOBO AFANYA KAZI MIAKA 7 </span></p>
-<p><span lang='swa'>1.222222222 </span></p>
-<p><span lang='swa'>HATARI ZA MITALA </span></p>
-<p><span lang='swa'>RAHELI - LEA </span></p>
-<p><span lang='swa'>1.229166667 </span></p>
-<p><span lang='swa'>MATOKEO YA DHAMBI </span></p>
-<p><span lang='swa'>MAANGAMIZI YA SODOMA </span></p>
-<p><span lang='swa'>18:20-21; 19:24 </span></p>
-<p><span lang='swa'>SHUKURANI </span></p>
-<p><span lang='swa'>NUHU AMTOLEA MUNGU DHABIHU </span></p>
-<p><span lang='swa'>0.347222222 </span></p>
-<p><span lang='swa'>KUTOA ZAKA </span></p>
-<p><span lang='swa'>YAKOBO ATOA ZAKA ZA AINA ZOTE </span></p>
-<p><span lang='swa'>28:20-22 </span></p>
-<p><span lang='swa'>KUTOKUAMINI </span></p>
-<p><span lang='swa'>SARA ALICHEKA </span></p>
-<p><span lang='swa'>18:10-13 </span></p>
-<p><span lang='swa'>UMOJA </span></p>
-<p><span lang='swa'>SAFINA YA NUHU </span></p>
-<p><span lang='swa'>7:13-14 </span></p>
-<p><span lang='swa'>NJIA ZA MUNGU NA NJIA ZA MTU. </span></p>
-<p><span lang='swa'>SARA - HAJIRI - ISHMAEL </span></p>
-<p><span lang='swa'>Ch. 16-18; 21 </span></p>
-<p><span lang='swa'>KUTEMBEA NA MUNGU </span></p>
-<p><span lang='swa'>ENOKI </span></p>
-<p><span lang='swa'>0.225 </span></p>
-<p><span lang='swa'>MSAMAHA </span></p>
-<p><span lang='swa'>YUSUFU AWASAMEHE NDUGU ZAKE </span></p>
-<p><span lang='swa'>Sura. 45 </span></p>
-<p><span lang='swa'>NEEMA </span></p>
-<p><span lang='swa'>NUHU ALIOKOLEWA KUTOKA GHARIKA </span></p>
-<p><span lang='swa'>0.2625 </span></p>
-<p><span lang='swa'>WIVU </span></p>
-<p><span lang='swa'>RAHELI AWATAKA WANAO </span></p>
-<p><span lang='swa'>1.250694444 </span></p>
-<p><span lang='swa'>FURAHA </span></p>
-<p><span lang='swa'>SARA ALIMFURAHIA ISAKA </span></p>
-<p><span lang='swa'>0.879166667 </span></p>
-<p><span lang='swa'>MAOMBI YALIJIBIWA </span></p>
-<p><span lang='swa'>RAHELI AULIZA KWA AJILI YA MWANAYE </span></p>
-<p><span lang='swa'>30:22-24 </span></p>
-<p><span lang='swa'>UREJESHO </span></p>
-<p><span lang='swa'>ISAKA ALICHIMBA VISIMA </span></p>
-<p><span lang='swa'>1.095833333 </span></p>
-<p><span lang='swa'>MAJARIBU </span></p>
-<p><span lang='swa'>MKE WA POTIFA </span></p>
-<p><span lang='swa'>39:7-10 </span></p>
-<p><span lang='swa'>USHINDI </span></p>
-<p><span lang='swa'>ABRAHAMU ASHINDA VITA </span></p>
-<p><span lang='swa'>14:11-16 </span></p>
-<p><span lang='swa'>SHINDA&#44; HATARI YA </span></p>
-<p><span lang='swa'>FURUSA KWA AJILI YA DHAMBI YA HAMU </span></p>
-<p><span lang='swa'>9:20-22 </span></p>
-<p><span lang='swa'>HEKIMA </span></p>
-<p><span lang='swa'>ABRAM NA LUTU WA TENGANA </span></p>
-<p><span lang='swa'>13:7-12 </span></p></div><div id='sec-17'>
+# MIFANO KUTOKA MWANZO
+
+KITABU KINACHUKUA MIFANO YA DHANA ZA MAKUTANO
+
+MAELEKEZO: Jaza sehemu zote zilizo wazi.
+
+DHANA
+
+HESABU
+
+REJEA
+
+HASIRA WIVU
+
+KAINI ANAMUA HABILI
+
+11:1-15
+
+BIBI HARUSI WA KRISTO
+
+ISAKA - RABEKA
+
+MTU WA TAMAA ZA MWILI
+
+TERA ALIPASWA KWANZA
+
+11:31,32; 12:1-3
+
+DIPLOMA
+
+ZAWADI YA YAKOBO KWA ESAU
+
+32:13-20
+
+IMANI
+
+MUNGU ATATOA MWENYEWE
+
+22:7-8
+
+URAFIKI
+
+ABRAHAM YUKO PALE KWA AJILI YA LUTU
+
+14:14-16
+
+UKARIMU
+
+MISRI YASHIRIKISHA NAFAKA
+
+41:56-57
+
+MAMLAKA YA JUU YA MUNGU
+
+HAPO MWANZO MUNGU
+
+0.042361111
+
+MUNGU ANAONGEA NA MTU
+
+NDOTO ZA YUSUFU
+
+37:5-9
+
+UTUKUFU ULITOLEWA KWA MUNGU
+
+YUSUFU MBELE YA FARAO
+
+1.719444444
+
+CHUKI
+
+KAKA ZAKE NA YOSEFU WA MCHUKIA
+
+1.544444444
+
+HUKUMU
+
+GHARIKA
+
+6:13-17
+
+MHESHIMIWA
+
+PESA KWENYE MAGUNIA ZA RUDISHWA
+
+43:19-22
+
+TUMAINI
+
+TUMAINI LA YUSUFU LA UHURU
+
+1.676388889
+
+UNYENYEKEVU
+
+YAKABO ASUJUDU KWA ESAU
+
+1.377083333
+
+UPOLE
+
+RAHELI ALIMSADIA ELIEZARI
+
+24:17-20
+
+UPENDO
+
+YAKOBO ALIMPENDA YUSUFU
+
+1.54375
+
+UDANGANYIFU
+
+RAHELI ALIFICHA MIUNGU YA LABANI
+
+31:34-35
+
+MATOKEO YA MAUWAJI.
+
+DAMU KWA DAMU
+
+0.170833333
+
+UVUMILIVU
+
+YAKOBO AFANYA KAZI MIAKA 7
+
+1.222222222
+
+HATARI ZA MITALA
+
+RAHELI - LEA
+
+1.229166667
+
+MATOKEO YA DHAMBI
+
+MAANGAMIZI YA SODOMA
+
+18:20-21; 19:24
+
+SHUKURANI
+
+NUHU AMTOLEA MUNGU DHABIHU
+
+0.347222222
+
+KUTOA ZAKA
+
+YAKOBO ATOA ZAKA ZA AINA ZOTE
+
+28:20-22
+
+KUTOKUAMINI
+
+SARA ALICHEKA
+
+18:10-13
+
+UMOJA
+
+SAFINA YA NUHU
+
+7:13-14
+
+NJIA ZA MUNGU NA NJIA ZA MTU.
+
+SARA - HAJIRI - ISHMAEL
+
+Ch. 16-18; 21
+
+KUTEMBEA NA MUNGU
+
+ENOKI
+
+0.225
+
+MSAMAHA
+
+YUSUFU AWASAMEHE NDUGU ZAKE
+
+Sura. 45
+
+NEEMA
+
+NUHU ALIOKOLEWA KUTOKA GHARIKA
+
+0.2625
+
+WIVU
+
+RAHELI AWATAKA WANAO
+
+1.250694444
+
+FURAHA
+
+SARA ALIMFURAHIA ISAKA
+
+0.879166667
+
+MAOMBI YALIJIBIWA
+
+RAHELI AULIZA KWA AJILI YA MWANAYE
+
+30:22-24
+
+UREJESHO
+
+ISAKA ALICHIMBA VISIMA
+
+1.095833333
+
+MAJARIBU
+
+MKE WA POTIFA
+
+39:7-10
+
+USHINDI
+
+ABRAHAMU ASHINDA VITA
+
+14:11-16
+
+SHINDA, HATARI YA
+
+FURUSA KWA AJILI YA DHAMBI YA HAMU
+
+9:20-22
+
+HEKIMA
+
+ABRAM NA LUTU WA TENGANA
+
+13:7-12

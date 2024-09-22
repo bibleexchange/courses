@@ -1,164 +1,114 @@
-<h1><span lang='swa'>Utangulizi wa kitabu cha Mwanzo </span></h1>
-<h2><span lang='swa'>Dhamira ya Kusudi: </span></h2>
-<p><span lang='swa'>Mwanzo inayo habari za uumbaji wa ulimwenguna taifa la kiyahudi. </span></p>
-<h2><span lang='swa'>Misitari ya ufunguo: </span></h2>
-<blockquote><span lang='swa'>Mwanzo 12:1-3&mdash;Bwana akamwambia Abramu&#44; Toka wewe katika nchi yako&#44; na jamaa zako&#44; na nyumba ya baba yako&#44; uende mpaka nchi nitakayokuonyesha; 2 nami nitakufanya wewe kuwa taifa kubwa&#44; na kukubariki&#44; na kulikuza jina lako; nawe uwe baraka; 3 nami nitawabariki wakubarikio&#44; naye akulaaniye nitamlaani; na katika wewejamaa zote za dunia watabarikiwa. </span></blockquote>
-<h2><span lang='swa'>Watu wakuu: </span></h2>
-<p><span lang='swa'>Adam - Eva&#44; Nuhu&#44; Abraham&#44; Isaka&#44; Yacobo&#44; Yusufu </span></p>
-<h2><span lang='swa'>Dondoo fupi: </span></h2>
-<div class='emb-outline'>
-<h1/>
-<h2><span lang='swa'>Uumbaji wa ulimwengu (Sura ya 1&#44;2) </span></h2>
-<h2><span lang='swa'>Dhambi katika dunia (sura ya 3&#44;4) </span></h2>
-<h2><span lang='swa'>Nuhu na gharika (Sura ya 5-9) </span></h2>
-<h2><span lang='swa'>Mwanzo wa mataifa na lugha (Sura ya 10&#44;11) </span></h2>
-<h2><span lang='swa'>Familia ya Abraham: Watu wa Mungu katika inchi ambayo Mungu aliwapa (Sura ya 12-38) </span></h2>
-<h2><span lang='swa'>Yusufu: watu wa Mungu kwenda Misri (Sura ya39-50) </span></h2>
-</div>
+# Utangulizi wa kitabu cha Mwanzo
 
-<h2><span lang='swa'>Huu ni utaratibu wa matukio yaliyo tokea katika Mwanzo: </span></h2><ul>
-<li><span lang='swa'>Mwanzo: 4004 K.K hadi 1800 K.K </span></li>
-<li><span lang='swa'>Uumbaji </span></li>
-<li><span lang='swa'>Anguko la Mwanadamu </span></li>
-<li><span lang='swa'>Gharika </span></li>
-<li><span lang='swa'>mnara wa babeli </span></li>
-<li><span lang='swa'>Abraham </span></li>
-<li><span lang='swa'>Isaka </span></li>
-<li><span lang='swa'>Yacobo </span></li>
-<li><span lang='swa'>Yosefu </span></li>
-</ul>
-<h2><span lang='swa'>Sifa maalumu: </span></h2>
-<h3><span lang='swa'>Mwanzo ni msingi wa maandiko matakatifu yote yanayo fuata. </span></h3>
-<p><span lang='swa'>Kitabu cha Mwanzo huandaa wa kuidhinisha kwa ajili ya ukumbusho wa Torati na Ufunuo wote wa kiBiblia unaofuata.Ingawa hesabu ya CUumbaji D&#44; DGharika D na mnara wa Babeli Dvinaweza kupatikana popote kwenye usitarabu wa watu wa &#44;zamani sifa pekee ya kutumainiwa na habari nzima kuhusu mianzo ya walimwengu&#44;binadamu&#44;ndoa&#44;dhambi&#44;miji&#44;lugha&#44;mataifa&#44;Israel&#44;na kusudi la Mungu katika mambo hayayote. </span></p>
-<h3><span lang='swa'>Kichwa cha habari cha kitabu hiki </span></h3>
-<p><span lang='swa'>Kichwa cha habari cha kitabu hiki kilichopewa katika Wagiriki wa zamani kumaanisha Duumbaji 9au Dkizazi Dna wayahudi wanarejea kwenye Mwanzo kama CBereshith Dkumaanisha Dhapo mwanzo. D </span></p>
-<h3><span lang='swa'>Mwanzo ni kitabu cha asili </span></h3>
-<p><span lang='swa'>Ni kitabu cha kwanza kuandikwa katika Biblia (pamoja na jambo la pekee linalo wezekana la Ayubu). </span></p>
-<p><span lang='swa'>Historia ya Mwanzo hufunua kwamba nyenzo za ulimwengu ziko tofauti na kazi ya Mungu na sio kwamba baadhi zinategemea mchakato.(mara hamsini katika sura utakuta kimoja au viwili ni matendo yanayoelezea kile Mungu alicho tenda 4Mungu alifanya&#44;aliona&#44;alisema&#44;aliunda) </span></p>
-<p><span lang='swa'>Mwanzo ni kitabu cha vitu vya kwanza:kinataarifu ndoa ya kwanza&#44;familia ya kwanza&#44;uzazi wa kwanza&#44;dhambi ya kwanza&#44; mauwaji ya kwanza&#44;mitala ya kwanza&#44;vyombo vya kwanza vya mziki&#44;na ahadi ya kwanza ya ukombozi.Agano lililofanywa na Abraham katika12:1-3 ni kituo cha katikati cha maandiko yote matakatifu. </span></p>
-<p><span lang='swa'>Mwanzo pekee inaelezea asili ya makabila kumi na mbili ya Israel. Mwanzo hufunua jinsi mababu wa Abraham walivyo malizia huko Misri kwa miaka 430 na wale wanao chukua hatua kwa ajili ya Kutoka&#44;tukio la ukombozi wa katikati wa Agano la kale. </span></p>
-<h2><span lang='swa'>Ukamilisho wa Agano Jipya: </span></h2>
-<p><span lang='swa'>Mwanzo inafunua historia ya kinabii ya ukombozi na mkombozi kama kuja kwa njia ya uzao wa mwanamke (3:15)&#44; msitari wa Seth (4:25&#44;26)&#44; msitari wa Shem(9:26&#44;27)&#44; na kwa njia ya uzao wa Abraham (12:3.) Agano Jipya hutumia Mwanzo12:3 moja kwa moja kwa utoaji wa Mungu wa ukombozi katika Yesu (Wagalatia 3:16&#44;29.) </span></p>
-<p><span lang='swa'>Watu wengi na matukio kutoka Mwanzo wametajwa katika Agano jipya kwa kuhusianishwa na: </span></p>
-<li><span lang='swa'>Imani na haki (War4; Wabr 11:1-22) </span></li>
-<li><span lang='swa'>Hukumu ya Mungu (Luke16:26-29&#44;32; II Petr 3:5; Yuda 7&#44; 11a) </span></li>
-<li><span lang='swa'>Utu wa Yesu Kristo (Mat1:1; Yohn 8:58; Waeb7) </span></li>
-<h2><span lang='swa'>Majina na fafanuzi katika Mwanzo </span></h2>
-<p><span lang='swa'>Iliopangwa kwa utaratibu wa alfabeti pamojana rejea kwamba wapi kwanza ilitajwa </span></p><table><tr>
-<th><span lang='swa'>Jina </span></th>
-<th><span lang='swa'>Mwanzo </span></th>
-<th><span lang='swa'>Maana </span></th></tr><tr>
-<td><span lang='swa'>Habili </span></td>
-<td><span lang='swa'>4:02 </span></td>
-<td><span lang='swa'>kiburi:kisirani:upuuzi </span></td></tr><tr>
-<td><span lang='swa'>Abram </span></td>
-<td><span lang='swa'>11:26 </span></td>
-<td><span lang='swa'>baba wa juu </span></td></tr><tr>
-<td><span lang='swa'>Abraham </span></td>
-<td><span lang='swa'>17:05 </span></td>
-<td><span lang='swa'>baba wa mkutano mkuu </span></td></tr><tr>
-<td><span lang='swa'>Adam </span></td>
-<td><span lang='swa'>2:15 </span></td>
-<td><span lang='swa'>kutambulishwa; mtajwa </span></td></tr><tr>
-<td><span lang='swa'>Benjameni </span></td>
-<td><span lang='swa'>35:18:00 </span></td>
-<td><span lang='swa'>mwana wa mkono wa kuume </span></td></tr><tr>
-<td><span lang='swa'>Kaini </span></td>
-<td><span lang='swa'>4:01 </span></td>
-<td><span lang='swa'>umiliki&#44; au iliomilikiwa </span></td></tr><tr>
-<td><span lang='swa'>Eliezeri </span></td>
-<td><span lang='swa'>15:02 </span></td>
-<td><span lang='swa'>msaada&#44;au ubembelezi&#44; wa Mungu wangu;Mungu ni msaada. </span></td></tr><tr>
-<td><span lang='swa'>Henoko </span></td>
-<td><span lang='swa'>4:17 </span></td>
-<td><span lang='swa'>aliewekwa wakifu;aliyefunzwa;mwalimu </span></td></tr><tr>
-<td><span lang='swa'>Efraimu </span></td>
-<td><span lang='swa'>41:52:00 </span></td>
-<td><span lang='swa'>mwenye kuzaa;ongezeko </span></td></tr><tr>
-<td><span lang='swa'>Esau </span></td>
-<td><span lang='swa'>25:25:00 </span></td>
-<td><span lang='swa'>yeye ambaye miisho;alikuwa na ngozi kama vazi la nywele #8 </span></td></tr><tr>
-<td><span lang='swa'>Eva </span></td>
-<td><span lang='swa'>3:20 </span></td>
-<td><span lang='swa'>maisha;kutoa maisha </span></td></tr><tr>
-<td><span lang='swa'>Hajiri </span></td>
-<td><span lang='swa'>16:01 </span></td>
-<td><span lang='swa'>mkimbizi;mgeni </span></td></tr><tr>
-<td><span lang='swa'>Hamu </span></td>
-<td><span lang='swa'>5:32 </span></td>
-<td><span lang='swa'>joto; aliyeunguzwa na jua </span></td></tr><tr>
-<td><span lang='swa'>Isaka </span></td>
-<td><span lang='swa'>17:09 </span></td>
-<td><span lang='swa'>kicheko </span></td></tr><tr>
-<td><span lang='swa'>Ishmael </span></td>
-<td><span lang='swa'>16:11 </span></td>
-<td><span lang='swa'>ambaye mungu anamsikia; Mungu asikiaye </span></td></tr><tr>
-<td><span lang='swa'>Yakobo </span></td>
-<td><span lang='swa'>25:26:00 </span></td>
-<td><span lang='swa'>mweye kuchukua nafasi ya mwingine (anayechukua nafasi kwa udanganyifu); fuata nyayo </span></td></tr><tr>
-<td><span lang='swa'>Yafeti </span></td>
-<td><span lang='swa'>5:32 </span></td>
-<td><span lang='swa'>aliyekuzwa; mwenye haki;kushawishi; mwenye kutandaa </span></td></tr><tr>
-<td><span lang='swa'>Yusufu </span></td>
-<td><span lang='swa'>30:24:00 </span></td>
-<td><span lang='swa'>ongezeko; lingine </span></td></tr><tr>
-<td><span lang='swa'>Yuda </span></td>
-<td><span lang='swa'>29:35:00 </span></td>
-<td><span lang='swa'>sifa kwa Bwana;ukiri </span></td></tr><tr>
-<td><span lang='swa'>Labani </span></td>
-<td><span lang='swa'>24:29:00 </span></td>
-<td><span lang='swa'>mweupe; kung 9ara;mwenye utukufu; mpole; mwepesi wa hasira </span></td></tr><tr>
-<td><span lang='swa'>Lameki </span></td>
-<td><span lang='swa'>4:18 </span></td>
-<td><span lang='swa'>maskini; aliyefanywa duni </span></td></tr><tr>
-<td><span lang='swa'>Lea </span></td>
-<td><span lang='swa'>29:16:00 </span></td>
-<td><span lang='swa'>aliyekata tama ya kuishi;na kuchoka </span></td></tr><tr>
-<td><span lang='swa'>Lutu </span></td>
-<td><span lang='swa'>11:27 </span></td>
-<td><span lang='swa'>lutu; alisitiriwalo;na kufichwa;na kufunikwa;manemane;ulimbo </span></td></tr><tr>
-<td><span lang='swa'>Manase </span></td>
-<td><span lang='swa'>41:51:00 </span></td>
-<td><span lang='swa'>mwenye kusahau; yeye ambaye alisahaulishwa;kusababisha kusahau </span></td></tr><tr>
-<td><span lang='swa'>Melkizedeki </span></td>
-<td><span lang='swa'>14:18 </span></td>
-<td><span lang='swa'>mfalme wa haki&#44;mwenye haki&#44;amani </span></td></tr><tr>
-<td><span lang='swa'>Methusela </span></td>
-<td><span lang='swa'>5:21 </span></td>
-<td><span lang='swa'>aliye epushwa kifo; cha mtu wa kutoka upesi </span></td></tr><tr>
-<td><span lang='swa'>Nimrodi </span></td>
-<td><span lang='swa'>10:08 </span></td>
-<td><span lang='swa'>muasi; au shujaa;thabiti </span></td></tr><tr>
-<td><span lang='swa'>Nuhu </span></td>
-<td><span lang='swa'>5:29 </span></td>
-<td><span lang='swa'>pumziko; maliwazo;utulivu; faraja </span></td></tr><tr>
-<td><span lang='swa'>Farao </span></td>
-<td><span lang='swa'>37:36:00 </span></td>
-<td><span lang='swa'>mfalme; (kulinganishwa na "Ph-ra"jua ) </span></td></tr><tr>
-<td><span lang='swa'>Potifa </span></td>
-<td><span lang='swa'>37:36:00 </span></td>
-<td><span lang='swa'>mali ya jua </span></td></tr><tr>
-<td><span lang='swa'>Raheli </span></td>
-<td><span lang='swa'>29:06:00 </span></td>
-<td><span lang='swa'>kondoo jike; kondoo </span></td></tr><tr>
-<td><span lang='swa'>Rabeka </span></td>
-<td><span lang='swa'>22:23 </span></td>
-<td><span lang='swa'>mwerevu; mwenye kuweka tanzi;mwenye kujipendekeza; mnene; aliyenenepa; ugomvi ulitulizwa </span></td></tr><tr>
-<td><span lang='swa'>Reubeni </span></td>
-<td><span lang='swa'>29:32:00 </span></td>
-<td><span lang='swa'>yeye anaye mwana;maono ya mwana;tazama mwana </span></td></tr><tr>
-<td><span lang='swa'>Sarai </span></td>
-<td><span lang='swa'>11:29 </span></td>
-<td><span lang='swa'>bibi yangu; mfalme </span></td></tr><tr>
-<td><span lang='swa'>Sara </span></td>
-<td><span lang='swa'>17:15 </span></td>
-<td><span lang='swa'>bibi; binti mfalme;wa makutano </span></td></tr><tr>
-<td><span lang='swa'>Sethi </span></td>
-<td><span lang='swa'>4:25 </span></td>
-<td><span lang='swa'>weka; anayeweka;aliyerudishia;fidia </span></td></tr><tr>
-<td><span lang='swa'>Shemu </span></td>
-<td><span lang='swa'>5:32 </span></td>
-<td><span lang='swa'>jina; sifa&#44;utukufu </span></td></tr><tr>
-<td><span lang='swa'>Tera </span></td>
-<td><span lang='swa'>11:24 </span></td>
-<td><span lang='swa'>kupumua;harufu;kuvuma;kugeuka;muda kitambo;uwazi;mzururaji </span></td></table>
+## Dhamira ya Kusudi:
+
+Mwanzo inayo habari za uumbaji wa ulimwenguna taifa la kiyahudi.
+
+## Misitari ya ufunguo:
+
+> Mwanzo 12:1-3—Bwana akamwambia Abramu, Toka wewe katika nchi yako, na jamaa zako, na nyumba ya baba yako, uende mpaka nchi nitakayokuonyesha; 2 nami nitakufanya wewe kuwa taifa kubwa, na kukubariki, na kulikuza jina lako; nawe uwe baraka; 3 nami nitawabariki wakubarikio, naye akulaaniye nitamlaani; na katika wewejamaa zote za dunia watabarikiwa.
+
+## Watu wakuu:
+
+Adam - Eva, Nuhu, Abraham, Isaka, Yacobo, Yusufu
+
+## Dondoo fupi:
+
+## Uumbaji wa ulimwengu (Sura ya 1,2)
+
+## Dhambi katika dunia (sura ya 3,4)
+
+## Nuhu na gharika (Sura ya 5-9)
+
+## Mwanzo wa mataifa na lugha (Sura ya 10,11)
+
+## Familia ya Abraham: Watu wa Mungu katika inchi ambayo Mungu aliwapa (Sura ya 12-38)
+
+## Yusufu: watu wa Mungu kwenda Misri (Sura ya39-50)
+
+## Huu ni utaratibu wa matukio yaliyo tokea katika Mwanzo:
+
+- Mwanzo: 4004 K.K hadi 1800 K.K
+- Uumbaji
+- Anguko la Mwanadamu
+- Gharika
+- mnara wa babeli
+- Abraham
+- Isaka
+- Yacobo
+- Yosefu
+
+## Sifa maalumu:
+
+### Mwanzo ni msingi wa maandiko matakatifu yote yanayo fuata.
+
+Kitabu cha Mwanzo huandaa wa kuidhinisha kwa ajili ya ukumbusho wa Torati na Ufunuo wote wa kiBiblia unaofuata.Ingawa hesabu ya CUumbaji D, DGharika D na mnara wa Babeli Dvinaweza kupatikana popote kwenye usitarabu wa watu wa ,zamani sifa pekee ya kutumainiwa na habari nzima kuhusu mianzo ya walimwengu,binadamu,ndoa,dhambi,miji,lugha,mataifa,Israel,na kusudi la Mungu katika mambo hayayote.
+
+### Kichwa cha habari cha kitabu hiki
+
+Kichwa cha habari cha kitabu hiki kilichopewa katika Wagiriki wa zamani kumaanisha Duumbaji 9au Dkizazi Dna wayahudi wanarejea kwenye Mwanzo kama CBereshith Dkumaanisha Dhapo mwanzo. D
+
+### Mwanzo ni kitabu cha asili
+
+Ni kitabu cha kwanza kuandikwa katika Biblia (pamoja na jambo la pekee linalo wezekana la Ayubu).
+
+Historia ya Mwanzo hufunua kwamba nyenzo za ulimwengu ziko tofauti na kazi ya Mungu na sio kwamba baadhi zinategemea mchakato.(mara hamsini katika sura utakuta kimoja au viwili ni matendo yanayoelezea kile Mungu alicho tenda 4Mungu alifanya,aliona,alisema,aliunda)
+
+Mwanzo ni kitabu cha vitu vya kwanza:kinataarifu ndoa ya kwanza,familia ya kwanza,uzazi wa kwanza,dhambi ya kwanza, mauwaji ya kwanza,mitala ya kwanza,vyombo vya kwanza vya mziki,na ahadi ya kwanza ya ukombozi.Agano lililofanywa na Abraham katika12:1-3 ni kituo cha katikati cha maandiko yote matakatifu.
+
+Mwanzo pekee inaelezea asili ya makabila kumi na mbili ya Israel. Mwanzo hufunua jinsi mababu wa Abraham walivyo malizia huko Misri kwa miaka 430 na wale wanao chukua hatua kwa ajili ya Kutoka,tukio la ukombozi wa katikati wa Agano la kale.
+
+## Ukamilisho wa Agano Jipya:
+
+Mwanzo inafunua historia ya kinabii ya ukombozi na mkombozi kama kuja kwa njia ya uzao wa mwanamke (3:15), msitari wa Seth (4:25,26), msitari wa Shem(9:26,27), na kwa njia ya uzao wa Abraham (12:3.) Agano Jipya hutumia Mwanzo12:3 moja kwa moja kwa utoaji wa Mungu wa ukombozi katika Yesu (Wagalatia 3:16,29.)
+
+Watu wengi na matukio kutoka Mwanzo wametajwa katika Agano jipya kwa kuhusianishwa na:
+
+- Imani na haki (War4; Wabr 11:1-22)
+- Hukumu ya Mungu (Luke16:26-29,32; II Petr 3:5; Yuda 7, 11a)
+- Utu wa Yesu Kristo (Mat1:1; Yohn 8:58; Waeb7)
+
+## Majina na fafanuzi katika Mwanzo
+
+Iliopangwa kwa utaratibu wa alfabeti pamojana rejea kwamba wapi kwanza ilitajwa
+
+| Jina        | Mwanzo   | Maana                                                                                    |
+| ----------- | -------- | ---------------------------------------------------------------------------------------- |
+| Habili      | 4:02     | kiburi:kisirani:upuuzi                                                                   |
+| Abram       | 11:26    | baba wa juu                                                                              |
+| Abraham     | 17:05    | baba wa mkutano mkuu                                                                     |
+| Adam        | 2:15     | kutambulishwa; mtajwa                                                                    |
+| Benjameni   | 35:18:00 | mwana wa mkono wa kuume                                                                  |
+| Kaini       | 4:01     | umiliki, au iliomilikiwa                                                                 |
+| Eliezeri    | 15:02    | msaada,au ubembelezi, wa Mungu wangu;Mungu ni msaada.                                    |
+| Henoko      | 4:17     | aliewekwa wakifu;aliyefunzwa;mwalimu                                                     |
+| Efraimu     | 41:52:00 | mwenye kuzaa;ongezeko                                                                    |
+| Esau        | 25:25:00 | yeye ambaye miisho;alikuwa na ngozi kama vazi la nywele #8                               |
+| Eva         | 3:20     | maisha;kutoa maisha                                                                      |
+| Hajiri      | 16:01    | mkimbizi;mgeni                                                                           |
+| Hamu        | 5:32     | joto; aliyeunguzwa na jua                                                                |
+| Isaka       | 17:09    | kicheko                                                                                  |
+| Ishmael     | 16:11    | ambaye mungu anamsikia; Mungu asikiaye                                                   |
+| Yakobo      | 25:26:00 | mweye kuchukua nafasi ya mwingine (anayechukua nafasi kwa udanganyifu); fuata nyayo      |
+| Yafeti      | 5:32     | aliyekuzwa; mwenye haki;kushawishi; mwenye kutandaa                                      |
+| Yusufu      | 30:24:00 | ongezeko; lingine                                                                        |
+| Yuda        | 29:35:00 | sifa kwa Bwana;ukiri                                                                     |
+| Labani      | 24:29:00 | mweupe; kung 9ara;mwenye utukufu; mpole; mwepesi wa hasira                               |
+| Lameki      | 4:18     | maskini; aliyefanywa duni                                                                |
+| Lea         | 29:16:00 | aliyekata tama ya kuishi;na kuchoka                                                      |
+| Lutu        | 11:27    | lutu; alisitiriwalo;na kufichwa;na kufunikwa;manemane;ulimbo                             |
+| Manase      | 41:51:00 | mwenye kusahau; yeye ambaye alisahaulishwa;kusababisha kusahau                           |
+| Melkizedeki | 14:18    | mfalme wa haki,mwenye haki,amani                                                         |
+| Methusela   | 5:21     | aliye epushwa kifo; cha mtu wa kutoka upesi                                              |
+| Nimrodi     | 10:08    | muasi; au shujaa;thabiti                                                                 |
+| Nuhu        | 5:29     | pumziko; maliwazo;utulivu; faraja                                                        |
+| Farao       | 37:36:00 | mfalme; (kulinganishwa na "Ph-ra"jua )                                                   |
+| Potifa      | 37:36:00 | mali ya jua                                                                              |
+| Raheli      | 29:06:00 | kondoo jike; kondoo                                                                      |
+| Rabeka      | 22:23    | mwerevu; mwenye kuweka tanzi;mwenye kujipendekeza; mnene; aliyenenepa; ugomvi ulitulizwa |
+| Reubeni     | 29:32:00 | yeye anaye mwana;maono ya mwana;tazama mwana                                             |
+| Sarai       | 11:29    | bibi yangu; mfalme                                                                       |
+| Sara        | 17:15    | bibi; binti mfalme;wa makutano                                                           |
+| Sethi       | 4:25     | weka; anayeweka;aliyerudishia;fidia                                                      |
+| Shemu       | 5:32     | jina; sifa,utukufu                                                                       |
+| Tera        | 11:24    | kupumua;harufu;kuvuma;kugeuka;muda kitambo;uwazi;mzururaji                               |
