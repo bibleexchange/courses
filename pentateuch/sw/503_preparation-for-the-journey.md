@@ -4,7 +4,7 @@ Wanaume wa vita wahesabiwa 16803
 
 (49 nyakati idadi au majumlisho vyaweza kupatikana katika kitabu hiki.)
 
-Kwenye siku ya kwanza,mwezi wa pili,katika mwaka wa pili wa kutoka kwao,Mungu anamwamru Musa,mwandishi wa kitabu hiki,kuchukua majumuisho ya kusanyiko lote la wana waisrael.Hiki kilikuwa ni kigezokwa ajili ya hii hesabu:
+Kwenye siku ya kwanza, mwezi wa pili, katika mwaka wa pili wa kutoka kwao, Mungu anamwamru Musa, mwandishi wa kitabu hiki, kuchukua majumuisho ya kusanyiko lote la wana waisrael. Hiki kilikuwa ni kigezokwa ajili ya hii hesabu:
 
 1Wanaume
 
@@ -40,13 +40,13 @@ waliokuwa na miaka 220 na kwenda juu
 
 Walawi walikuwa wameachwa kutoka hii hesabu kwa sababu ya huduma yao ya katika hema ya kukutania 47-54
 
-Wewe hutalihesabu kabila la walawi,wala kuchukua majumuisho yao miongoni mwa wana Waisrael:—mstr.49
+Wewe hutalihesabu kabila la walawi, wala kuchukua majumuisho yao miongoni mwa wana Waisrael:—mstr.49
 
-KOHATH. Mwana Walawi, Mwanzo 46:11, na baba wa wa kohathi,waliokabithiwa kulibeba Sanduku la Agano na vyombo vitakatifu vya hema ya kukutania wakati wa kusafiri., Kut 6:16-24; Hes 4:4-15.
+KOHATH. Mwana Walawi, Mwanzo 46:11, na baba wa wa kohathi, waliokabithiwa kulibeba Sanduku la Agano na vyombo vitakatifu vya hema ya kukutania wakati wa kusafiri., Kut 6:16-24; Hes 4:4-15.
 
 "GERSHON. Mwana mkuu wa Lawi, na kiongozi moja wa matawi matatu ya kabila ya kilawi, Mwanzo 46:11; Kut 6:16. Wageshoni walipiga kambi magharibi mwa hema ya kukutania katika jangwa, na waliyabeba mapazia yake na sehemu zingine kutoka kituo hadi kituo, Hes 3:17,25; 4:24-28,38-41; 10:17. Miji kumi na tatu ilibuniwa kaskazini mwa Kanaani, Yos 21:6; 1Mambo ya nyakati6:62,71. "
 
-MERARI. Kijana mdogo kati ya wana Walawi,alizaliwa huko Kanaani,na kichwa cha familia ya Walawi, Mwanzo 46:11; Kut 6:16; Hes 3:17; 1Mambo ya nyakati6:1. Katika safari kupitia jangwani walitakiwa pamoja na kiunzi cha hema ya kukutania,kubeba kutaka sehemu moja hadi kambi nyingine, na pale walilisimamisha, Hes 4:29-33; 7:8. Miji kumi nambili ilibuniwa ngambo ya Yoridani, Yos 21:7,34-40.
+MERARI. Kijana mdogo kati ya wana Walawi, alizaliwa huko Kanaani, na kichwa cha familia ya Walawi, Mwanzo 46:11; Kut 6:16; Hes 3:17; 1Mambo ya nyakati6:1. Katika safari kupitia jangwani walitakiwa pamoja na kiunzi cha hema ya kukutania, kubeba kutaka sehemu moja hadi kambi nyingine, na pale walilisimamisha, Hes 4:29-33; 7:8. Miji kumi nambili ilibuniwa ngambo ya Yoridani, Yos 21:7,34-40.
 
 Sura ya 2
 
@@ -102,7 +102,7 @@ Hao wote waliohesabiwa katika Walawi, ambaoMusa na Haruni waliwahesabu kwa amri 
 
 Maoni ya Adam Clarke:
 
-Hii hesabu haikubaliani na marakano;kwa ajili ya waGeshoni waliokuwa 7,500, waKohathi walikuwa 8,600, waMerari walikuwa6,200, jumla ni 22,300. Njia kadhaa za kutatua ugumu huu zimekuwa zikishauriwa na watu waliojifunza; kitabu cha Dr. Kennicott mara nyingi kiekuwarahisi. Kwa muundo Hesabu katika Biblia ya Kiebrania ilikuwa imeelezwa kwa herufi, na sio kwa maneno kwa mda mrefu; na kama kuna herufi mbili zimekaribiana kufanana basi kutakuwa na makosa miongoni mwa herufi hizo,makosa mengi katika hesabu lazima yangekuwa matokeo.Sasa inawezekana kwamba kosa limekuwa likitembea kwenye hesabu ya Wagershoni,Hes3:22,pale ambapo ni badala ya 7,500, tungesoma 7,200, kama herufi ya kumi na moja ya kiebrania, 500, yaweza kuwa kirahisi imekosewa kwa ajili ya kubadilishwa, 200,hasahasa kama nikuratibu herufi imefupishwa kuliko utaratibu, ambayo maranyingi imekuwa ni jambo katika MSS. Nyongeza 300 zimekuwa zimeondolewa,jumla imekuwa kama 22,000, kama ilivyotajwa katika mstr wa 39.
+Hii hesabu haikubaliani na marakano;kwa ajili ya waGeshoni waliokuwa 7,500, waKohathi walikuwa 8,600, waMerari walikuwa6,200, jumla ni 22,300. Njia kadhaa za kutatua ugumu huu zimekuwa zikishauriwa na watu waliojifunza; kitabu cha Dr. Kennicott mara nyingi kiekuwarahisi. Kwa muundo Hesabu katika Biblia ya Kiebrania ilikuwa imeelezwa kwa herufi, na sio kwa maneno kwa mda mrefu; na kama kuna herufi mbili zimekaribiana kufanana basi kutakuwa na makosa miongoni mwa herufi hizo, makosa mengi katika hesabu lazima yangekuwa matokeo. Sasa inawezekana kwamba kosa limekuwa likitembea kwenye hesabu ya Wagershoni, Hes3:22, pale ambapo ni badala ya 7,500, tungesoma 7,200, kama herufi ya kumi na moja ya kiebrania, 500, yaweza kuwa kirahisi imekosewa kwa ajili ya kubadilishwa, 200, hasahasa kama nikuratibu herufi imefupishwa kuliko utaratibu, ambayo maranyingi imekuwa ni jambo katika MSS. Nyongeza 300 zimekuwa zimeondolewa, jumla imekuwa kama 22,000, kama ilivyotajwa katika mstr wa 39.
 
 Huduma D za walawi 14246
 
@@ -158,7 +158,7 @@ Tarumbeta zifanywe kutokana na habari ambazo Mungu anatoa kwako.
 
 Biblia
 
-"Agano la kale Agano la kale. Agano zote mbili ni kitabu kimoja. Zote zinaweka habari ambazo zinatangaza ukweli juu ya ukombozi,Wokovu,Kukombolewa,Uponyaji na Ushindi. Sauti msalabaniu ""Imekwisha"" Ukombozi umekamilika-utoaji umesha fanyika uzi mwekundu wa ukombozi umetanda kupitia kila kitabu cha Biblia.Yesuni mkombozi wetu mbarikiwa "
+"Agano la kale Agano la kale. Agano zote mbili ni kitabu kimoja. Zote zinaweka habari ambazo zinatangaza ukweli juu ya ukombozi, Wokovu, Kukombolewa, Uponyaji na Ushindi. Sauti msalabaniu ""Imekwisha"" Ukombozi umekamilika-utoaji umesha fanyika uzi mwekundu wa ukombozi umetanda kupitia kila kitabu cha Biblia. Yesuni mkombozi wetu mbarikiwa "
 
 kwamba mweze kuvitumia
 
@@ -200,7 +200,7 @@ Unapaswa kuhusika na mambo ambayo Mungu anafunua kwako.
 
 Neno lililoandikwa ni mamlaka ya juu tunahukumu ufunuo wote kwa hilo.
 
-Chanzo cha imani yetu iliofunuliwa kwetu naRoho mtakatifu kutoka kwenye Neno lililo andikwa.Neno lililofunuliwa huzalisha imani sio Neno lililoandikwa.
+Chanzo cha imani yetu iliofunuliwa kwetu naRoho mtakatifu kutoka kwenye Neno lililo andikwa. Neno lililofunuliwa huzalisha imani sio Neno lililoandikwa.
 
 War 1:17 "Imani hadi imani"
 
@@ -212,7 +212,7 @@ Mithali 4:18 "zaidi na zaidi" (Nuru kwa Nuru)
 
 Zab 84:7 "Nguvu kwaNguvu"
 
-Isa 6:3 "Mtakatifu,Mtakatifu,Mtakatifu"
+Isa 6:3 "Mtakatifu, Mtakatifu, Mtakatifu"
 
 Hesabu 10:2— Jifanyie tarumbeta mbili za fedha; utazifanya za kazi ya ufuzi;
 
@@ -234,7 +234,7 @@ Haitoshi kupokea ufunuo nilazima tuutumie.
 
 Nafsi zote zimepotea pasipo Bwana Yesu Kristo kama mwokozi wao.
 
-Watu wote wanaokolewa kwa njia ya kuamini katika damu ya Yesu Kristo kuwasafisha kutoka dhambi zote.Hakuna mtu anayeokolewa ndani ya dhambi zake bali kutoka dhambi zake.
+Watu wote wanaokolewa kwa njia ya kuamini katika damu ya Yesu Kristo kuwasafisha kutoka dhambi zote. Hakuna mtu anayeokolewa ndani ya dhambi zake bali kutoka dhambi zake.
 
 " Hes 10:3— Na hapo watakapozipiga hizo tarumbeta, mkutano wote utakukutanikia wewe, hapo mlangoni pa hema ya kukutania. "
 
@@ -250,7 +250,7 @@ Mwaliko kwa Kristo Yoh 10:7,9; 14:6;
 
 b)"watazipiga pamoja nazo"
 
-Hii inamaanisha kuzungumza toka Agano zote mbili Jipya na la kale,Neno lote la Mungu limesemwa.Mdo20:27 DThis means to speak from both the Old and the New, the wholeWord of God spoken. Acts20:27 "kusudi lote la Mungu"
+Hii inamaanisha kuzungumza toka Agano zote mbili Jipya na la kale, Neno lote la Mungu limesemwa. Mdo20:27 DThis means to speak from both the Old and the New, the wholeWord of God spoken. Acts20:27 "kusudi lote la Mungu"
 
 2)"wakukusanyikie wewe"
 
@@ -268,15 +268,15 @@ d) Wito kwa utii na umoja
 
 Hes 8:7 " Nawe utawafanyia mambo haya ili kuwatakasa; na kujitakasa." I Pet1:22; I I Wakr. 7:1; II Tim 2:21
 
-b.Kusafiri
+b. Kusafiri
 
-1\. Wito kwa ajili ya kuendelea mbele,maendeleo
+1\. Wito kwa ajili ya kuendelea mbele, maendeleo
 
 10:5 "kambi kwenda mbele"
 
 I Yoh 1:7, 9 (Nenda pamoja na Mungu) Waeb 6:1 "tukaze mwendo ilitufikilie ukamilifu" I Pet 1:17
 
-c.Vita
+c. Vita
 
 Hes. 10:9— Tena hapo mtakapokwenda kupiga vita katika nchi yenu, kupigana na adui awaoneaye ninyi, ndipo mtakapopiga sauti ya kugutusha kwa tarumbeta; nanyi mtakumbukwa mbele za Bwana, Mungu wenu, nanyi mtaokolewa na adui zenu.
 
@@ -302,14 +302,12 @@ Waf.2:15-16; 3:10-14,21; Waeb.2:10
 
 War 8:18 Kwa maana nayahesabu mateso ya wakati huu wa sasa kuwa si kitu kama utukufu ule utakaofunuliwa kwetu.
 
-e.Piga tarumbeta juu ya sadaka ya kutekezwana dhabihu-hizi zina wakilisha msalaba-injili
+e. Piga tarumbeta juu ya sadaka ya kutekezwana dhabihu-hizi zina wakilisha msalaba-injili
 
 I Wakr. 1:18; War 1:16
 
 Yesu ndiye moja aliye toa maisha yake kwa ajili yetu. II Wakr. 5:21
 
-Sauti lazima itoke kwa kelele nyingi. Sautiya wazi ya ukombozi,Sauti ya Wokovu Sauti ya wazi ya ufufuo Sauti ya Ukombozi Sauti ya Neno zima la Mungu
+Sauti lazima itoke kwa kelele nyingi. Sautiya wazi ya ukombozi, Sauti ya Wokovu Sauti ya wazi ya ufufuo Sauti ya Ukombozi Sauti ya Neno zima la Mungu
 
 Sura ya 10:11-36: "Hatua za kwanza katika kulifuata Wingu"
-
-20th

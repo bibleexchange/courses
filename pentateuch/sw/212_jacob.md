@@ -1,8 +1,8 @@
 # Yakobo (25:26-47:31)
 
-Yakobo inamaanisha mchukua nafasi ya mwingine,hiyo ni,mshika-kisigino,Yule anaye kuja nyuma ya mwingine na kushika kisigino cha mshindani wake.Yeye alikuwa ndugu pacha kwa Esau aliye kuwa kaka mkubwa.Mungu alimhamisha Yakobo mchukuwa nafasi ya mwingine kuwaq Israel Mwanawa kifalme wa Mungu.Kulikuwa na mchakato mkubwa wa maendeleo ya tabia ya Yakobo na hakuna sifa nyingine bainifu ya Biblia kuwakilisha zaidi kwa ukamilifu mapambano kati ya asili ya chini na ya juu,kuliko ya Yakobo.
+Yakobo inamaanisha mchukua nafasi ya mwingine, hiyo ni, mshika-kisigino, Yule anaye kuja nyuma ya mwingine na kushika kisigino cha mshindani wake. Yeye alikuwa ndugu pacha kwa Esau aliye kuwa kaka mkubwa. Mungu alimhamisha Yakobo mchukuwa nafasi ya mwingine kuwaq Israel Mwanawa kifalme wa Mungu. Kulikuwa na mchakato mkubwa wa maendeleo ya tabia ya Yakobo na hakuna sifa nyingine bainifu ya Biblia kuwakilisha zaidi kwa ukamilifu mapambano kati ya asili ya chini na ya juu, kuliko ya Yakobo.
 
-Kuanza kwenye kiwango cha chini,maisha ya Yakobo yafikia kimo cha utukufu pekee na kunywea tena kwenye juhudi hafifu kwa ajili ya kupata.dharura za Yakobo kwenye tamaa kali juu ya uso wa imani yaushindi.katika ukorofi ya udhaifu wake wote,hakuna msomaji mcha Mungu ambaye hujifunza historia ya maisha ya kupanda na kushuka ya mtu huyu na kuweza kuonashaka kwamba yeye alikuwa chombo teule cha Mungu.
+Kuanza kwenye kiwango cha chini, maisha ya Yakobo yafikia kimo cha utukufu pekee na kunywea tena kwenye juhudi hafifu kwa ajili ya kupata. Dharura za Yakobo kwenye tamaa kali juu ya uso wa imani yaushindi. Katika ukorofi ya udhaifu wake wote, hakuna msomaji mcha Mungu ambaye hujifunza historia ya maisha ya kupanda na kushuka ya mtu huyu na kuweza kuonashaka kwamba yeye alikuwa chombo teule cha Mungu.
 
 ## MAWAZO YA UFUNGUO
 
@@ -14,15 +14,13 @@ Huu ukweli umetolewa picha kutoka mwingiliowa maisha yake ya kupanda na kushuka.
 
 2. Nguvu ya kuhamishwa ya ushirika na Mungu.
 
-Ukweli huu unaangaza kwa wazi uzoefu wote wajuu sana wa mtu huyu mteule.This truth shines clearly through all the loftier experiences of this chosen man. Katika mchoro jaribio limefanywa kutoa picha kumwelezea mwanadamu na sifa za lazima za Mungu zilizo dhihirishwa katika maisha yake.Alama za msitari uliopindwa vilele vya mlima na viwango vya chini vya maisha yake ya kupanda na kushuka.
+Ukweli huu unaangaza kwa wazi uzoefu wote wajuu sana wa mtu huyu mteule. Katika mchoro jaribio limefanywa kutoa picha kumwelezea mwanadamu na sifa za lazima za Mungu zilizo dhihirishwa katika maisha yake. Alama za msitari uliopindwa vilele vya mlima na viwango vya chini vya maisha yake ya kupanda na kushuka.
 
-## NUKUU:Herufi zinazo rejea pointi kwenye michoro.
+## NUKUU:Herufi zinazo rejea pointi kwenye michoro.<sup>[1]</sup>
 
-[\[1\]](#footnotes)![](/assets/pentateuch/jacob-up-down.jpg)
+MAISHA YAKE YA MWANZO. Kiwango cha chini, shida za nyumbani.
 
-MAISHA YAKE YA MWANZO. Kiwango cha chini,shida za nyumbani.
-
-### Anamdanganya ndugu yake,Esau,inje ya usawa wake angavu, 25:39-34
+### Anamdanganya ndugu yake, Esau, inje ya usawa wake angavu, 25:39-34
 
 ### Alidanganya baba yake aliye kuwa mzee sana,27:1-29
 
@@ -32,13 +30,13 @@ UZOEFU WA USIKU KWENYE KIWANGO CHA JUU.
 
 ### Maono ya kiroho na nadhiri huko Betheli,28:10-22.
 
-HUKO HARANI.shida za kifamilia zaendelea.
+HUKO HARANI. shida za kifamilia zaendelea.
 
 ### Mapenzi ya upendo yamenyimwa na udanganyifu kuhusu ndoa yake, 29:15-30
 
-### Juhudi yake pamoja na -baba- mkwe wake,na wivu kati ya wake zake, 30:1-43.
+### Juhudi yake pamoja na -baba- mkwe wake, na wivu kati ya wake zake, 30:1-43.
 
-### Mwuondoko wa upande wa juu,Mungu anamwita kurudi katika nchi ya ahadi, 31:3. Kuondoka kwa siri alifuataliwa na baba- mkwe- wake 31.
+### Mwuondoko wa upande wa juu, Mungu anamwita kurudi katika nchi ya ahadi, 31:3. Kuondoka kwa siri alifuataliwa na baba- mkwe- wake 31.
 
 ### Katika njia ya maisha yake ya utii alikutwa na wajumbe wa kimalaika, 32:1,2.
 
@@ -46,7 +44,7 @@ UZOEFU MWINGINE MKUBWA WA KIROHO
 
 ### Mtazamo wa Esau na watu mianne wamsababisha kukimbilia kwenye maombi, 32:3-12
 
-### Ashinda usiku kucha kunyan 9ganya na malaika katika mieleka kwa kusihi bila kumwacha.Anaupata ushindi na jina lake kubadilishwa kuwa DIsreael," 32:24-32. Anapata madhara katika kukutana na ndugu yake, Esau, 33:1-16.
+### Ashinda usiku kucha kunyan 9ganya na malaika katika mieleka kwa kusihi bila kumwacha. Anaupata ushindi na jina lake kubadilishwa kuwa DIsreael," 32:24-32. Anapata madhara katika kukutana na ndugu yake, Esau, 33:1-16.
 
 ### Binti yake Dina anajisiwa, 34:1-5.
 
@@ -70,4 +68,4 @@ SIKU ZAKE MWISHO
 
 # MAANDISHI YA MWISHO:
 
-\[1\]Iliorekebishwa kutoka Thompson Chain Reference Bible.
+- [1] Iliorekebishwa kutoka Thompson Chain Reference Bible.

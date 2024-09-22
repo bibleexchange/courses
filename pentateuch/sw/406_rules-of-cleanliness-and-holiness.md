@@ -10,7 +10,7 @@ VILIVYO SAFI ina patikana katika mistari 39 na "VILIVYONAJISI" ni mistari 82 kat
 
 ## SHERIA ZA WANYAMA SURA. 11
 
-> Wal.11:47—ili kupambanua kati ya hao walionajisi na hao walio safi, na kati ya kiumbe kilicho hai ambacho chaliwa, nahicho kilicho hai ambacho hakiliwi.(mzoga hautaliwa wala kuguswa ni najisi,chukizo)
+> Wal.11:47—ili kupambanua kati ya hao walionajisi na hao walio safi, na kati ya kiumbe kilicho hai ambacho chaliwa, nahicho kilicho hai ambacho hakiliwi.(mzoga hautaliwa wala kuguswa ni najisi, chukizo)
 
 ### KULA WANYAMA WA NCHI (WALIOSAFI)
 
@@ -18,7 +18,7 @@ VILIVYO SAFI ina patikana katika mistari 39 na "VILIVYONAJISI" ni mistari 82 kat
 
 ### KUTOKULA WANYAMA WA NCHI (WASIO SAFI)
 
-"4-8 wanao cheuwa, - kwato za kugawanyika,sio yenye pande mbilingamiawibarisunguranguruwe "
+"4-8 wanao cheuwa, - kwato za kugawanyika, sio yenye pande mbilingamiawibarisunguranguruwe "
 
 ### KULA VITU VYA MAJINI
 
@@ -30,13 +30,13 @@ VILIVYO SAFI ina patikana katika mistari 39 na "VILIVYONAJISI" ni mistari 82 kat
 
 ### NDEGE WASIOLIWA
 
-" 11:13-20 tai, na furukombe,na kipungumwewe kozi kungururubundi kiruka njia, dudumizi, kipanga bundi mdogo, mnandi, bundi mkubwa, mumbi, mwari, korongo, "
+" 11:13-20 tai, na furukombe, na kipungumwewe kozi kungururubundi kiruka njia, dudumizi, kipanga bundi mdogo, mnandi, bundi mkubwa, mumbi, mwari, korongo, "
 
 korongo, koikoi hudihudi , popo. Tena vyote vitambaavyo vyenye mabawa viendavyo kwa miguu minne,
 
 ### VITU VINAVYORUKA NA KUTAMBAA
 
-" 21-23 hivi vitambaavyo vyenye mabawa viendavyo kwa miguu mine , hao walio na miguu mirefu,ya kurukia juu ya nchi;nzigenzige kuu..panziparare…Lakini vyote vitambaavyo vyenye mabawa, vilivyo na miguu minne, ni machukizo kwenu."
+" 21-23 hivi vitambaavyo vyenye mabawa viendavyo kwa miguu mine , hao walio na miguu mirefu, ya kurukia juu ya nchi;nzigenzige kuu. panziparare…Lakini vyote vitambaavyo vyenye mabawa, vilivyo na miguu minne, ni machukizo kwenu."
 
 ### WAKATI MTU AKIGUSA MZOGA WA KILE KILICHO NAJISI MSTR.24-26
 
@@ -52,11 +52,11 @@ Wal 11:27-31 aendaye kwa vitanga vyake, wanyama wote waendao kwa miguu minne,, .
 
 kwamba ni chombo cha mti, au nguo, au ngozi, au gunia, chombo cho chote kitakachoangukiwa, ambacho ni chombo cha kufanyia kazi yo yote, lazima kitiwe ndani ya maji, nacho kitakuwani najisi hata jioni; ndipo kitakapokuwa ni safi. Na kila chombo cha udongo, wanyama hao mmojawapo atakachokiangukia, kila kilichomo ndani yake kitakuwa ni najisi, na hicho chombo kitavunjwa. Kila chakula kilichomo, ambacho ni kuliwa, hicho ambacho maji hutumiwa juu yake, kitakuwa ni najisi; na kila kinyweo ambacho ni cha kunywewa, kilichomo katikachombo kama hicho, kitakuwa ni najisi Na kila kitu kitakachoangukiwa na kipande cho chote cha mizoga yao kwamba ni tanuru, au meko ya vyungu, kitavunjwa vipande vipande: kwa maana hivyo ni najisi Pamoja na hayo, chemchemi, au shimo, ambamo maji yakusanyika, vitakuwa ni safi;. Na kipande cho chote cha mzoga kikiwa kimeangukia mbegu za kupandwa zitakazopandwa, zitakuwa safi.
 
-Lakini kama maji wekwa juu mbengu,na sehemu ya mizoga yao ikaangukia juu yake,kitakuwa najisi
+Lakini kama maji wekwa juu mbengu, na sehemu ya mizoga yao ikaangukia juu yake, kitakuwa najisi
 
 ### WAKATI MNYAMA SAFI AKIFA NANYI MKAUGUSA MZOGA WAKE NANYI MTAKUWA NAJISI MSTR.39-40
 
-UMGUSE,UMULE,UMUBEBE,kitu najisi fua nguo utakuwa najisi hata jioni
+UMGUSE, UMULE, UMUBEBE, kitu najisi fua nguo utakuwa najisi hata jioni
 
 ### VITU VITAMBAAVYO NI NAJISI MSTR.41-43
 
@@ -64,7 +64,7 @@ kila kitambaacho hamtakilachochote kiendecho kwa tumbo, na kiendacho kwa miguu m
 
 ### HITIMISHO-MSISITIZO KUTUNZA!!! MSTR.44-47
 
-Kwa kuwa mimi ni Bwana, Mungu wenu; takaseni nafsi zenu basi; iweni watakatifu, kwa kuwa mimi ni Mtakatifu; wala msitie uchafu nafsi zenu kwa kitu kitambaacho cha aina yo yote, kiendacho juu ya nchi.. Kwa kuwa mimi ni Bwana niliyewaleta kutoka nc hi yaMisri, ili kwamba niwe Mungu wenu; basi mtakuwa watakatifu, kwa kuwa mimi ni Mtakatifu.Wal 11:46 Hii ndiyo sheria katika hao wanyama, na ndege, na kilakiumbe kilicho hai, kiendacho ndani ya maji, na kila kiumbe kitambaacho juuya nchi; Wal 11:47 ili kupambanua kati ya hao walio najisi na hao walio safi, na kati ya kiumbe kilicho hai ambacho chaliwa, na hicho kilicho hai ambacho hakiliwi.
+Kwa kuwa mimi ni Bwana, Mungu wenu; takaseni nafsi zenu basi; iweni watakatifu, kwa kuwa mimi ni Mtakatifu; wala msitie uchafu nafsi zenu kwa kitu kitambaacho cha aina yo yote, kiendacho juu ya nchi.. Kwa kuwa mimi ni Bwana niliyewaleta kutoka nc hi yaMisri, ili kwamba niwe Mungu wenu; basi mtakuwa watakatifu, kwa kuwa mimi ni Mtakatifu. Wal 11:46 Hii ndiyo sheria katika hao wanyama, na ndege, na kilakiumbe kilicho hai, kiendacho ndani ya maji, na kila kiumbe kitambaacho juuya nchi; Wal 11:47 ili kupambanua kati ya hao walio najisi na hao walio safi, na kati ya kiumbe kilicho hai ambacho chaliwa, na hicho kilicho hai ambacho hakiliwi.
 
 ## SHERIA YA AFYA SR. 12-15
 
@@ -76,13 +76,13 @@ Atakuwa najisi kwa siku saba;Siku ya nane mtoto atakuwa ametahiriwa govi ya zuga
 
 #### Mtoto mke
 
-Atakuwa najisi kwa wiki mbili,katika kutengwa kwake: naye atakaa katika damu ya kutakata kwake muda wa siku sitini na sita.
+Atakuwa najisi kwa wiki mbili, katika kutengwa kwake: naye atakaa katika damu ya kutakata kwake muda wa siku sitini na sita.
 
 #### AMA (Wakati wa siku za kutakaswa kwake kutimia)
 
-Ataleta mwanakondoo wa mwaka moja kwa ajiliya sadaka ya kuteketezwa,na mwana njiwa,au huwa mkubwa, kwa ajili ya sadakaya dhambi, kwenye mlango wa hema ya kukutania ya ibada,kwa kuhani:atakaye itoa mbele za Bwana, na kufanya malipo kwa ajili yake;na atakuwa safi kutokana na swala la damu yake.
+Ataleta mwanakondoo wa mwaka moja kwa ajiliya sadaka ya kuteketezwa, na mwana njiwa, au huwa mkubwa, kwa ajili ya sadakaya dhambi, kwenye mlango wa hema ya kukutania ya ibada, kwa kuhani:atakaye itoa mbele za Bwana, na kufanya malipo kwa ajili yake;na atakuwa safi kutokana na swala la damu yake.
 
-Na kama atashindwa kuleta mwanakondoo,kashaataleta huwa wawili wakubwa,au huwa wawili wadogo;moja kwa ajili ya sadaka ya kutekeza,na mwingine kwa ajili sadaka ya dhambi.
+Na kama atashindwa kuleta mwanakondoo, kashaataleta huwa wawili wakubwa, au huwa wawili wadogo;moja kwa ajili ya sadaka ya kutekeza, na mwingine kwa ajili sadaka ya dhambi.
 
 ### SHERIA YA UKOMA SR. 13,14
 
@@ -130,7 +130,7 @@ Na kama atashindwa kuleta mwanakondoo,kashaataleta huwa wawili wakubwa,au huwa w
 
 Na mtakuwa watakatifu: maana mimi ni Bwana niliye mtakatifu
 
-Mwanaume au mwanamke mwenye roho ya mazoea,au mchawi,lazima auwawe:
+Mwanaume au mwanamke mwenye roho ya mazoea, au mchawi, lazima auwawe:
 
 ## SHERIA YA SADAKA-ZA UKUHANI SR 21-22
 

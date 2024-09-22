@@ -40,23 +40,23 @@ Adam - Eva, Nuhu, Abraham, Isaka, Yacobo, Yusufu
 
 ## Sifa maalumu:
 
-### Mwanzo ni msingi wa maandiko matakatifu yote yanayo fuata.
+### Mwanzo ni msingi wa maandiko matakatifu yote yanayo fuata
 
-Kitabu cha Mwanzo huandaa wa kuidhinisha kwa ajili ya ukumbusho wa Torati na Ufunuo wote wa kiBiblia unaofuata.Ingawa hesabu ya CUumbaji D, DGharika D na mnara wa Babeli Dvinaweza kupatikana popote kwenye usitarabu wa watu wa ,zamani sifa pekee ya kutumainiwa na habari nzima kuhusu mianzo ya walimwengu,binadamu,ndoa,dhambi,miji,lugha,mataifa,Israel,na kusudi la Mungu katika mambo hayayote.
+Kitabu cha Mwanzo huandaa wa kuidhinisha kwa ajili ya ukumbusho wa Torati na Ufunuo wote wa kiBiblia unaofuata. Ingawa hesabu ya CUumbaji D, DGharika D na mnara wa Babeli Dvinaweza kupatikana popote kwenye usitarabu wa watu wa, zamani sifa pekee ya kutumainiwa na habari nzima kuhusu mianzo ya walimwengu, binadamu, ndoa, dhambi, miji, lugha, mataifa, Israeli, na kusudi la Mungu katika mambo hayayote.
 
 ### Kichwa cha habari cha kitabu hiki
 
-Kichwa cha habari cha kitabu hiki kilichopewa katika Wagiriki wa zamani kumaanisha Duumbaji 9au Dkizazi Dna wayahudi wanarejea kwenye Mwanzo kama CBereshith Dkumaanisha Dhapo mwanzo. D
+Kichwa cha habari cha kitabu hiki kilichopewa katika Wagiriki wa zamani kumaanisha Duumbaji 9au Dkizazi Dna wayahudi wanarejea kwenye Mwanzo kama CBereshith Dkumaanisha Dhapo mwanzo.
 
 ### Mwanzo ni kitabu cha asili
 
 Ni kitabu cha kwanza kuandikwa katika Biblia (pamoja na jambo la pekee linalo wezekana la Ayubu).
 
-Historia ya Mwanzo hufunua kwamba nyenzo za ulimwengu ziko tofauti na kazi ya Mungu na sio kwamba baadhi zinategemea mchakato.(mara hamsini katika sura utakuta kimoja au viwili ni matendo yanayoelezea kile Mungu alicho tenda 4Mungu alifanya,aliona,alisema,aliunda)
+Historia ya Mwanzo hufunua kwamba nyenzo za ulimwengu ziko tofauti na kazi ya Mungu na sio kwamba baadhi zinategemea mchakato.(mara hamsini katika sura utakuta kimoja au viwili ni matendo yanayoelezea kile Mungu alicho tenda 4Mungu alifanya, aliona, alisema, aliunda)
 
-Mwanzo ni kitabu cha vitu vya kwanza:kinataarifu ndoa ya kwanza,familia ya kwanza,uzazi wa kwanza,dhambi ya kwanza, mauwaji ya kwanza,mitala ya kwanza,vyombo vya kwanza vya mziki,na ahadi ya kwanza ya ukombozi.Agano lililofanywa na Abraham katika12:1-3 ni kituo cha katikati cha maandiko yote matakatifu.
+Mwanzo ni kitabu cha vitu vya kwanza:kinataarifu ndoa ya kwanza, familia ya kwanza, uzazi wa kwanza, dhambi ya kwanza, mauwaji ya kwanza, mitala ya kwanza, vyombo vya kwanza vya mziki, na ahadi ya kwanza ya ukombozi. Agano lililofanywa na Abraham katika12:1-3 ni kituo cha katikati cha maandiko yote matakatifu.
 
-Mwanzo pekee inaelezea asili ya makabila kumi na mbili ya Israel. Mwanzo hufunua jinsi mababu wa Abraham walivyo malizia huko Misri kwa miaka 430 na wale wanao chukua hatua kwa ajili ya Kutoka,tukio la ukombozi wa katikati wa Agano la kale.
+Mwanzo pekee inaelezea asili ya makabila kumi na mbili ya Israel. Mwanzo hufunua jinsi mababu wa Abraham walivyo malizia huko Misri kwa miaka 430 na wale wanao chukua hatua kwa ajili ya Kutoka, tukio la ukombozi wa katikati wa Agano la kale.
 
 ## Ukamilisho wa Agano Jipya:
 
@@ -80,7 +80,7 @@ Iliopangwa kwa utaratibu wa alfabeti pamojana rejea kwamba wapi kwanza ilitajwa
 | Adam        | 2:15     | kutambulishwa; mtajwa                                                                    |
 | Benjameni   | 35:18:00 | mwana wa mkono wa kuume                                                                  |
 | Kaini       | 4:01     | umiliki, au iliomilikiwa                                                                 |
-| Eliezeri    | 15:02    | msaada,au ubembelezi, wa Mungu wangu;Mungu ni msaada.                                    |
+| Eliezeri    | 15:02    | msaada, au ubembelezi, wa Mungu wangu;Mungu ni msaada.                                   |
 | Henoko      | 4:17     | aliewekwa wakifu;aliyefunzwa;mwalimu                                                     |
 | Efraimu     | 41:52:00 | mwenye kuzaa;ongezeko                                                                    |
 | Esau        | 25:25:00 | yeye ambaye miisho;alikuwa na ngozi kama vazi la nywele #8                               |
@@ -98,7 +98,7 @@ Iliopangwa kwa utaratibu wa alfabeti pamojana rejea kwamba wapi kwanza ilitajwa
 | Lea         | 29:16:00 | aliyekata tama ya kuishi;na kuchoka                                                      |
 | Lutu        | 11:27    | lutu; alisitiriwalo;na kufichwa;na kufunikwa;manemane;ulimbo                             |
 | Manase      | 41:51:00 | mwenye kusahau; yeye ambaye alisahaulishwa;kusababisha kusahau                           |
-| Melkizedeki | 14:18    | mfalme wa haki,mwenye haki,amani                                                         |
+| Melkizedeki | 14:18    | mfalme wa haki, mwenye haki, amani                                                       |
 | Methusela   | 5:21     | aliye epushwa kifo; cha mtu wa kutoka upesi                                              |
 | Nimrodi     | 10:08    | muasi; au shujaa;thabiti                                                                 |
 | Nuhu        | 5:29     | pumziko; maliwazo;utulivu; faraja                                                        |
@@ -110,5 +110,5 @@ Iliopangwa kwa utaratibu wa alfabeti pamojana rejea kwamba wapi kwanza ilitajwa
 | Sarai       | 11:29    | bibi yangu; mfalme                                                                       |
 | Sara        | 17:15    | bibi; binti mfalme;wa makutano                                                           |
 | Sethi       | 4:25     | weka; anayeweka;aliyerudishia;fidia                                                      |
-| Shemu       | 5:32     | jina; sifa,utukufu                                                                       |
+| Shemu       | 5:32     | jina; sifa, utukufu                                                                      |
 | Tera        | 11:24    | kupumua;harufu;kuvuma;kugeuka;muda kitambo;uwazi;mzururaji                               |

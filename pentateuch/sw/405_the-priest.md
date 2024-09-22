@@ -12,7 +12,7 @@ Alieye sababisha watu kufahamu sheria Neh. 8:6-8
 
 Hii sura inatupa hesabu ya uwekaji wakfu waibada wa Haruni na wanawe kwenye Ofisi ya kuhani.[\[1\]](#footnotes)
 
-### Ilikuwa inafanyika kwa wazi,kusanyiko lilikuwa limeitwa pamoja ilikushudia, Wal. 8:1-4.
+### Ilikuwa inafanyika kwa wazi, kusanyiko lilikuwa limeitwa pamoja ilikushudia, Wal. 8:1-4.
 
 ### Iliukuwa ianfanywa kwahalisi kulingana na ahadi au maafikiano ya Mungu, Wal 8:5.
 
@@ -32,11 +32,11 @@ Hii sura inatupa hesabu ya uwekaji wakfu waibada wa Haruni na wanawe kwenye Ofis
 
 ### Mistari ya 31-36
 
-Musa,ameshafanya sehemu yake ya sherehe,sasa anamwacha Haruni wanaye kufanya sehemu ya.
+Musa, ameshafanya sehemu yake ya sherehe, sasa anamwacha Haruni wanaye kufanya sehemu ya.
 
-#### Lazima wachemshe nyama ya sadaka yao ya amani,na kuila katika baraza la hema ya kukutania,na mabaki kuteketezwa kwa moto, Wal 8:31-32.
+#### Lazima wachemshe nyama ya sadaka yao ya amani, na kuila katika baraza la hema ya kukutania, na mabaki kuteketezwa kwa moto, Wal 8:31-32.
 
-Hii ilionyesha makubaliano yao ya shukuranikwa kuweka wakfu: wakati Mungu alipompa Ezekieli agizo lake,alimwambia alile gombo,( Eze 3:1-2.)
+Hii ilionyesha makubaliano yao ya shukuranikwa kuweka wakfu: wakati Mungu alipompa Ezekieli agizo lake, alimwambia alile gombo,( Eze 3:1-2.)
 
 #### Lazima wasinge shinda inje ya baraza ya hema ya kukutania kwa siku saba,
 

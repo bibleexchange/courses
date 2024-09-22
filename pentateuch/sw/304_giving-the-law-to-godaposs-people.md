@@ -2,9 +2,9 @@
 
 ## Utangulizi kwenye sheria za Mungu (20:1-2)
 
-### Haki ya Mungu kuamru 4YEYE NI MUNGU!
+### Haki ya Mungu kuamru YEYE NI MUNGU!
 
-> Kutoka 20:2 4Mimi ni Bwana Mungu wako,niliyekuleta kutoka nchi ya Misri,kutoka nyumba ya utumwa.
+> Kutoka 20:2 4Mimi ni Bwana Mungu wako, niliyekuleta kutoka nchi ya Misri, kutoka nyumba ya utumwa.
 
 Katika misitari 71 katika Pentatuki/Torati hiki kikumbushaji kimetolewa kama dibaji katika amri zake: "Mimi ni Bwana" namara 29: "Mimi ni Bwana Mungu wako."
 
@@ -72,21 +72,21 @@ Katika misitari 71 katika Pentatuki/Torati hiki kikumbushaji kimetolewa kama dib
 
 ## Hukumu za Mungu zitakazowekwa mbele za watu(SURA. 21-23)
 
-### Kuuza,kununua, - Watumwa huru (21:1-11)
+### Kuuza, kununua, - Watumwa huru (21:1-11)
 
-### Kuua,Kushambulia,-Kusababisha kuumiza (21:12-36)
+### Kuua, Kushambulia,-Kusababisha kuumiza (21:12-36)
 
 ### Kuiba, kufanya malipizi (22:1-17)
 
 ### Machukizo-Sanamu(22:18-20)
 
-### Kuwafanyia wageni,wajane-Yatima (22:21-24)
+### Kuwafanyia wageni, wajane-Yatima (22:21-24)
 
 ### Kukopesha-Kukopa (22:25-27)
 
 ### Kumtukana Mungu na Kuwalaanisha wa Kuu (22:28)
 
-### Mche Mungu,Mheshimu Mfalme 22:9 "waamzi=3Delohimu"
+### Mche Mungu, Mheshimu Mfalme 22:9 "waamzi=3Delohimu"
 
 ### Kutoa malimbuko kwa Mungu (22:29-30)
 

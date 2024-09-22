@@ -4,13 +4,13 @@ Damu inapatikana kwenye mistri 66 ya Wal.
 
 ## Agano" ni nini?
 
-HB01285. tyrb b@riyth, ber-eeth'tangu 1262 (katika dhana ya kukata (kama 1254)); maaafikiano (kwasababu ilifanywa kwa kupitia kati ya vipande vya mwili):—mwuungano(waliunagana)(walikula)agano,patano kati ya watu.
+HB01285. tyrb b@riyth, ber-eeth'tangu 1262 (katika dhana ya kukata (kama 1254)); maaafikiano (kwasababu ilifanywa kwa kupitia kati ya vipande vya mwili):—mwuungano(waliunagana)(walikula)agano, patano kati ya watu.
 
 "GR1242. diayhkh diatheke, dee-ath-ay'-kay tangu 1303; kwa usahihi, mpangilio, i.e. (hasahasa) mkataba(hasahasa matakwa ya mirathi):—mkataba, agano. "
 
-—Kwa waebrania wa zamani agano la damu lilikuwa mara linafunga,makubaliano thati kwamba jambo lingeweza kufanyika.—
+—Kwa waebrania wa zamani agano la damu lilikuwa mara linafunga, makubaliano thati kwamba jambo lingeweza kufanyika.—
 
-Kufanya agano la damu inaonekana kama dhanaya kidunia inaopatikana miongoni mwajamii nyingi mara nyingi katika ulinganifu wa sehemu za zamani za ulimwengu.Desturi za kufanya agano la damu zinaweza kupatikana miongoni mwa Waamerika Wahindi kama ilivyo katika sehemu nyingi za zamani Afrika. Asili ya desturi ya agano la damu inaonekana kama eshemu Fulani ya mbali upeo wa macho wa habari isiojulikana.desturi zilizozungukaza kufanya agano la damu miongoni mwa Waebrania imehusishwa:
+Kufanya agano la damu inaonekana kama dhanaya kidunia inaopatikana miongoni mwajamii nyingi mara nyingi katika ulinganifu wa sehemu za zamani za ulimwengu. Desturi za kufanya agano la damu zinaweza kupatikana miongoni mwa Waamerika Wahindi kama ilivyo katika sehemu nyingi za zamani Afrika. Asili ya desturi ya agano la damu inaonekana kama eshemu Fulani ya mbali upeo wa macho wa habari isiojulikana. Desturi zilizozungukaza kufanya agano la damu miongoni mwa Waebrania imehusishwa:
 
 ### Kubadilisha nguo na panga I Sam. 18:4
 

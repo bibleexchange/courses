@@ -59,6 +59,6 @@
 <p><span lang='swa'>Sura 10&mdash; </span></p>
 <h2><span lang='swa'>Tarumbeta za fedha </span></h2>
 <p><span lang='swa'>Sura 19&mdash; </span></p>
-<h2><span lang='swa'>Ng 9ombe jike mwekundu </span></h2>
+<h2><span lang='swa'>ng'ombe jike mwekundu </span></h2>
 <p><span lang='swa'>Sura 21&mdash; </span></p>
 <h2><span lang='swa'>Nyoka wa shaba </span></h2></div><div id='sec-12'>

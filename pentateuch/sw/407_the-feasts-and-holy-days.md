@@ -22,7 +22,7 @@ Mwaka mpya wa kiyahudi. Shofar (Tarumbeta za pembe za kondoo zilipulizwa kutanga
 
 ## Siku ya upatanisho Yom Kippur 26-32; Sura. 16
 
-Kuhani mkuu angeingia patakatifu papatakatifu kunyunyiza damu kwenye sanduku la Agano kwa ajili dhambi za Waisrael.Katika uyahudi wa sasa,huduma ya hekalu iliochanganuliwa na kutolewa na Mungu imekuwa badala ya siku moja ya kufunga na mahudhurio ya sinagogi.
+Kuhani mkuu angeingia patakatifu papatakatifu kunyunyiza damu kwenye sanduku la Agano kwa ajili dhambi za Waisrael. Katika uyahudi wa sasa, huduma ya hekalu iliochanganuliwa na kutolewa na Mungu imekuwa badala ya siku moja ya kufunga na mahudhurio ya sinagogi.
 
 ## Sikukuu ya vibanda (Vibanda) 33-44
 

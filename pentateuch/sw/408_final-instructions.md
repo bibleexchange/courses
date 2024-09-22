@@ -2,7 +2,7 @@
 
 ## Sura 24
 
-Taa kuwaka daima,Mikate 12 iliokwa, mstr.10-23 Habari ya Mwana mwaasi na tangazo kwamba kutakuwa na sheria MOJA kwa wote wawili mgeni na myahudi.
+Taa kuwaka daima, Mikate 12 iliokwa, mstr. 10-23 Habari ya Mwana mwaasi na tangazo kwamba kutakuwa na sheria MOJA kwa wote wawili mgeni na myahudi.
 
 ## Sura 25
 

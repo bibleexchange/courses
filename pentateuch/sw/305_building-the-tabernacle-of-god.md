@@ -1,6 +1,6 @@
 # Kujenga hema ya Mungu (SR. 25-40)
 
-Hema ya kukutania pamoja na ukuhani wake,samani na shughuli zitakuwa zimeelezewa katika habari katika masomo mengine,lakini kwa sasa tutazama mtazamo wa jicho la ndege kwenye somo tajiri la kiroho.
+Hema ya kukutania pamoja na ukuhani wake, amani na shughuli zitakuwa zimeelezewa katika habari katika masomo mengine, lakini kwa sasa tutazama mtazamo wa jicho la ndege kwenye somo tajiri la kiroho.
 
 ## Kusudi Kielelezo cha Hema ya kukutania (SR. 25-27, 30-31, 36-39)
 
