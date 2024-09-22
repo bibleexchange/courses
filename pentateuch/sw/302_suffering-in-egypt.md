@@ -68,7 +68,7 @@ Musa alikuwa na maswali kadhaa ingawa wao walikuwa na ushahidi wa udhaifu wake, 
 
 Mungu atatunza neno lake na anatutazamia kutunza mwisho wetu wa majadiano. Upungufu wa Musa karibu unamgharimu maisha yake alikuwa aepushwe tu kwa tendo la Sipora.
 
-### 4:27-31 Musa aliunganishwa na Haruni- ilikupokelewa na Waisrael.
+### 4:27-31 Musa aliunganishwa na Haruni- ilikupokelewa na Waisraeli.
 
 Watu waliziona ishara wakaamini na kumwabudu Mungu kwa kutambua kwake utumwa wao.
 
@@ -86,7 +86,7 @@ Moses was 40 years in the wilderness. That makes 80 years of training altogether
 
 ## Changamoto ya nguvu ya Farao (Sura. 5-11)
 
-Mara tisa katika hesabu hii tunasoma maneno Cwaache watu wangu waende. DIlikuwa ni mapenzi ya Mungu kwamba Waebrania wawe huru na aliifanyia hii kazi kwakweli kama alivyo ahidi (3:21). Ilikuwa mapenzi ya Mungu kwamba Wamisri wa watoe Waebrania na kwamba Waisrael wasingejipatia uhuru wao tu kwa uasi wa kijeshi. Hii kutolewa inje ingekuwa hatimaye kuishia na Wamisri kuwapa Waebrania mali nyingi na zawadi kama walivyoondoka.
+Mara tisa katika hesabu hii tunasoma maneno Cwaache watu wangu waende. DIlikuwa ni mapenzi ya Mungu kwamba Waebrania wawe huru na aliifanyia hii kazi kwakweli kama alivyo ahidi (3:21). Ilikuwa mapenzi ya Mungu kwamba Wamisri wa watoe Waebrania na kwamba Waisraeli wasingejipatia uhuru wao tu kwa uasi wa kijeshi. Hii kutolewa inje ingekuwa hatimaye kuishia na Wamisri kuwapa Waebrania mali nyingi na zawadi kama walivyoondoka.
 
 Kwa ajili ya hii kutokuvumilika kuchukuwa vingi ilibadilisha mioyo na akili za Wamisri. Mungu alimwandaa Farao na waMisri kwa ajili ya maagano makuu ya Waebrania kwa kuthibitisha Yeye pekee alikuwa Mungu na sio mungu wa uwongo wa Misri ambayo angesimama kinyume na Yehova. Pamoja na usahihi mkuu kuliko daktari yeyote mpasuaji, katika mapigo kumi tuMungu kwa utaratibu aliwaabisha miungu ya kudhaniwa ya Misri.
 
@@ -106,13 +106,13 @@ Kwa ajili ya hii kutokuvumilika kuchukuwa vingi ilibadilisha mioyo na akili za W
 
 katika mistari tisa, tunahali ya moyo wa Farao ilioelezwa:mgumu. Maandiko yanasema Bwana aliufanya mgumu moyo wa Farao, vile vile Farao mwenyewe alijifanya mgumu moyo wake. Mungu anaweza kugeuza mioyo ya wafalme bila kuvunja sheria yauhiyari kwa kufuta yote
 
-Ilikuwa kwasababu ya uchaguzi wa Farao mwenyewe kwamba vile vitu vilivyo leta shida vilikuja juu ya Misri na mungu alichukuwa furusa hii sio tu kuleta hukumu juu Misri kwa ajili ya kuwatendea vibaya Waisrael, bali pia ni kumnyenyekesha. Kuna Mungu moja tu aliemba mbingu na nchi na hakuna mwingine pembeni mwake. Huu ni uhakika usionashaka uliothibitishwa na ukombozi mkuu wa Mungu wa watumwa wa kiebrania.
+Ilikuwa kwasababu ya uchaguzi wa Farao mwenyewe kwamba vile vitu vilivyo leta shida vilikuja juu ya Misri na mungu alichukuwa furusa hii sio tu kuleta hukumu juu Misri kwa ajili ya kuwatendea vibaya Waisraeli, bali pia ni kumnyenyekesha. Kuna Mungu moja tu aliemba mbingu na nchi na hakuna mwingine pembeni mwake. Huu ni uhakika usionashaka uliothibitishwa na ukombozi mkuu wa Mungu wa watumwa wa kiebrania.
 
 ## Pasaka ni— Picha ya Yesu kama mwokozi (12:1-13:16)
 
 Hitimisho la mapigo kwenye usiku wa manane:wa tar 14 April
 
-Ukombozi wa Waisrael toka Misri ni tokeo muhimu sana katika Agano la kale (kukataa kwao kuhusu Yesu katika Agano jipya kunge fikiriwa kwa umuhimu zaidi). Usiku kabla ya waisrael kutoka ulikuwa usiku wa sherehe ya tamko la dhati ambalo lingekumbukwa milele (12:24). Hata kwenye siku hii usiku wa Pasaka unaadhimishwa kila mwaka kwa sababu Pasaka ilichukua nafasi mnamo tar 14 April
+Ukombozi wa Waisraeli toka Misri ni tokeo muhimu sana katika Agano la kale (kukataa kwao kuhusu Yesu katika Agano jipya kunge fikiriwa kwa umuhimu zaidi). Usiku kabla ya Waisraeli kutoka ulikuwa usiku wa sherehe ya tamko la dhati ambalo lingekumbukwa milele (12:24). Hata kwenye siku hii usiku wa Pasaka unaadhimishwa kila mwaka kwa sababu Pasaka ilichukua nafasi mnamo tar 14 April
 
 Pasaka ilikuwa nini na nini umuhimu wake kiroho?
 

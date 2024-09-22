@@ -2,9 +2,9 @@
 
 ## Mwisraeli wa kweli ni kulingana na ahadi (mst. 6-10)
 
-Wengi wa waisrael wamekosea lengo. Kristo ni ukamilifu wa sheria, lakini waisrael wamejikwa kwake kama kwenye jiwe na kjishikisha kwe sheria na dini. Wanadhani wao ni wana wa Mungu kwasababu wao ni wana wa Ibrahimu na Isaka na kwamba wao ndio sheria ilifunuliwa kwa ajili yao.
+Wengi wa Waisraeli wamekosea lengo. Kristo ni ukamilifu wa sheria, lakini Waisraeli wamejikwa kwake kama kwenye jiwe na kjishikisha kwe sheria na dini. Wanadhani wao ni wana wa Mungu kwasababu wao ni wana wa Ibrahimu na Isaka na kwamba wao ndio sheria ilifunuliwa kwa ajili yao.
 
-Sababu ambayo wayahudi kama taifa walimkataa masiha (Kristo) inaibua swali kwamba "je neno la Mungu lilishindwa?" "Je Mungu alishindwa kutimiza ahadi zake?" ni jinsi gani Paulo anajibu maswali haya? Katika fungu la misitari hii Paulo anaujasiri kwamba kukataa injili kwa waisrael sio kitu Mungu anaweza kupandikiza tena!
+Sababu ambayo wayahudi kama taifa walimkataa masiha (Kristo) inaibua swali kwamba "je neno la Mungu lilishindwa?" "Je Mungu alishindwa kutimiza ahadi zake?" ni jinsi gani Paulo anajibu maswali haya? Katika fungu la misitari hii Paulo anaujasiri kwamba kukataa injili kwa Waisraeli sio kitu Mungu anaweza kupandikiza tena!
 
 Mwiisraeli wa kweli ni mteule, sio kwa mbegu ya asili. Tunaona mpango wa Mungu ambao haujafungwa. Sio kila mtu ambaye hajazaliwa katika taifa la Israel ametengwa na Israel ya kiroho. Wana waisraeli ni wale tu wa kimwili, bali wana wa ahadi ni wana wa Mungu. (Yoh. 3:6 "walio zaliwa kwa Roho"). Kanisa la Agano jipya lina rejelewa kama israeli wa Mungu (Gal. 6:16) kwasababu ya imani yao kwa Mungu na mwanae, Yesu kristo na sio kwasababu ya ukoo wao (10:1-4).
 
@@ -25,7 +25,7 @@ Utawala wa Mungu umeelezwaje? Mungu ni mtawala na kwahiyo ni Mungu wa haki.
 ### Mungu ni mtawala (na mwanadamu ni wa kutekeleza) (mst. 20)
 
 ### Mungu ni mwenye makusudi (mst. 21)
- 
+
 ### Mungu ni haki
 
 - Kinadharia "A" mst. 22
@@ -35,7 +35,7 @@ Kumbuka neno tangu zamani. Kwa mchakato mzima wa wokovu imetazamwa kutoka siku i
 
 ## Wito wa Mungu kwa watu wake (mst. 25-29)
 
-Katika mstari ya 25 Paulo, anachukua kutoka nabii Hosea (2:23) kifungu ambacho hasahasa kiliongelea Waisrael, bali hakupatta utimilifu kwa waisrael bali zaidi ya hapo inaonekana kutimilizwa kwa mataifa kupokea injli. Sentensi katika sehemu ya mwisho ya msitari huu ni za mkato sana, na zinajieleza kwa kuendelea; zikiacha yale maneno yaliyotumiwa na Watafasiri: nitasema kwa watu ambao HAWAKUWA WATU WANGU, NINYI NI WATU WANGU na wao watasema, MUNGU WETU (1 Pet. 2:9-10).
+Katika mstari ya 25 Paulo, anachukua kutoka nabii Hosea (2:23) kifungu ambacho hasahasa kiliongelea Waisraeli, bali hakupatta utimilifu kwa Waisraeli bali zaidi ya hapo inaonekana kutimilizwa kwa mataifa kupokea injli. Sentensi katika sehemu ya mwisho ya msitari huu ni za mkato sana, na zinajieleza kwa kuendelea; zikiacha yale maneno yaliyotumiwa na Watafasiri: nitasema kwa watu ambao HAWAKUWA WATU WANGU, NINYI NI WATU WANGU na wao watasema, MUNGU WETU (1 Pet. 2:9-10).
 
 Katika mstari ya 26, tunaona watu wa mataifa. Neema ya kwanza ya Mungu imewapata wale ambao mara ya kwanza waliitwa "mbwa" (Mat. 15:26) na kuwapa wao wito "waliitwa kuwa wana Mungu aliye hai."
 
@@ -44,4 +44,3 @@ Katika mstari ya 27 mtume ananukuu na nabii mwingine, Isaiah, kuhusiana na mabak
 Njia za Mungu sio zetu. Yeye husubiri - na huchukuliana - na yeye ni mkimya - kisha kwa ghafula huweka kusudi lililo kusudiwa la milele.
 
 Mstari 29 umenukuliwa toka Isaya 1:9 unaonyesha kuwa kama Mungu asingalifupisha kwa neema yake, wote wangekuwa kama Sodoma na Gomora (2 Wath 2:7).
-

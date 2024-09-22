@@ -63,7 +63,7 @@
 <p><span lang='swa'>27_________________Mke mzuri wa Abraham </span></p>
 <p><span lang='swa'>28_________________Binti mkubwa wa Labani&#44;mke wa Yakobo </span></p>
 <p><span lang='swa'>29_________________Mwana wa Yakobo ambaye mkombozi angekuja </span></p>
-<p><span lang='swa'>30_________________Aliwaokoa Waisrael kutoka kwenye njaa </span></p>
+<p><span lang='swa'>30_________________Aliwaokoa Waisraeli kutoka kwenye njaa </span></p>
 <p><span lang='swa'>31_________________Mwana wa Adamu ambaye alikuwa mbadala Habeli </span></p>
 <p><span lang='swa'>32_________________Mwebrania wa kwanza </span></p>
 <p><span lang='swa'>33_________________Mtumishi wa Abraham aliyekwenda kwa mchumba wa Isaka </span></p>

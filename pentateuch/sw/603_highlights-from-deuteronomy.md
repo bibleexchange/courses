@@ -12,7 +12,7 @@ Kumbukumbu la torati ni sehemu ya muhimu sana ya Pentateuch inaonekana kwa kinat
 
 Uchaguzi wa kiungu kwa umaarufu wa Waisraelkatika Mwanzo.
 
-Ukombozi wa Waisrael, wenyekuonekana katika Kutoka.
+Ukombozi wa Waisraeli, wenyekuonekana katika Kutoka.
 
 utakatifu wa kiungu ulivyoenea kwa walawi.
 
@@ -46,7 +46,7 @@ Umiliki wa Lutu Kumbukumbu la torati 2:9,19
 
 ## Yoshua, mwana wa Nuni
 
-Na Yoshua mwana wa Nuni aliyejawa na roho ya hekima;kwa sababu musa alimwekea mikono juu yake;na wana Waisrael walimsikia, na kufanya kama Bwana alivyo mwamuru Musa.-Kumbukumbu la torati 34:9
+Na Yoshua mwana wa Nuni aliyejawa na roho ya hekima;kwa sababu musa alimwekea mikono juu yake;na wana Waisraeli walimsikia, na kufanya kama Bwana alivyo mwamuru Musa.-Kumbukumbu la torati 34:9
 
 Bwana anamwamru musa kumtia Yoshua moyo katika huduma yake. 1:38; 3:28
 

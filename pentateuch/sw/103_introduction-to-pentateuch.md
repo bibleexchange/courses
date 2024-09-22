@@ -6,7 +6,7 @@ Utaratibu wa Utafiti: Utangulizi, Sehemu Mwanzo, Sehemu Kutoka, Sehemu Mambo ya 
 
 Neno "agano" humaanisha "matakwa" au "mapatano." Kipindi cha "Agano la kale", kwa hiyo, linarejea mapatano ya Mungu au sheria ya ahadi ya kubariki jamii ya wanadamu kupitia Taifa la kiyahudi. Imekuwa pia kurejewa kwa maandishi juu ya Agano la kale,ijapokuwa ni mazungumzo dhahiri, vitabu hivi vya kale ni maandiko matakatifu ya Agano la kale.
 
-Maandiko matakatifu ya Agano la kale huhifadhi habari ya wateule wa Mungu, Waisrael, na uhusiano wao na agano lake kuwabariki mataifa yote kupitia kwao.
+Maandiko matakatifu ya Agano la kale huhifadhi habari ya wateule wa Mungu, Waisraeli, na uhusiano wao na agano lake kuwabariki mataifa yote kupitia kwao.
 
 |                           |                   |         |                 |                 |        |         |                    |           |           |           |           |                    |                                     |         |            |         |
 | ------------------------- | ----------------- | ------- | --------------- | --------------- | ------ | ------- | ------------------ | --------- | --------- | --------- | --------- | ------------------ | ----------------------------------- | ------- | ---------- | ------- | ------ | --- | --- |

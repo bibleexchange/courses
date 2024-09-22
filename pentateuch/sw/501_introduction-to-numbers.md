@@ -2,11 +2,11 @@
 
 Kusudi na Dhamira
 
-Kitabu hiki kinaweka habari za miaka arobaini ya waisrael kutangatanga jagwani na kujitayarisha kwa watu kuchukuwa umiliki wan chi ya ahadi. Sura za katikati ni 13 na 14 katika kile ambacho makabila yaliitikia amri ya Mungu, kuondoka mlima Sinai na kimiliki Kanaani kwa siku kumi na moja za mwezi wa tatu.
+Kitabu hiki kinaweka habari za miaka arobaini ya Waisraeli kutangatanga jagwani na kujitayarisha kwa watu kuchukuwa umiliki wan chi ya ahadi. Sura za katikati ni 13 na 14 katika kile ambacho makabila yaliitikia amri ya Mungu, kuondoka mlima Sinai na kimiliki Kanaani kwa siku kumi na moja za mwezi wa tatu.
 
 Jina -Hesabu
 
-Jina la kiebrania kwa ajili ya kitabu hiki ni "bəmidbar", hilo ni, jina la jangwani. DJina DHesabu limetokana na ukweli wa kitabu kuingiza namba za watu wa Waisrael katika jangwala Sinai(Sura ya 1-2) na kuwahesabu watu baadaye kwenye sehemu tambarare yaMoabu(sura ya 26).
+Jina la kiebrania kwa ajili ya kitabu hiki ni "bəmidbar", hilo ni, jina la jangwani. DJina DHesabu limetokana na ukweli wa kitabu kuingiza namba za watu wa Waisraeli katika jangwala Sinai(Sura ya 1-2) na kuwahesabu watu baadaye kwenye sehemu tambarare yaMoabu(sura ya 26).
 
 Msitari wa ufunguo:
 
@@ -44,7 +44,7 @@ Biblia inafaa kwa ajili ya biashara ya kutegemewa kwa ajili ya Historia, na usom
 
 - 1 Uumbaji wa Mwanzo ni ufunuo uliochanganuliwa wa wokovu. Kristo anazungumza uzima na nuru kwenye machafuko yetu na kuumba maisha mapya.
 - 2 Ukombozi sambamba wa kiroho wa kutoka kwaWaebrania kutoka vifungo vya dhambi na dunia hii.
-- 3 Katika Hesabu safari ya waisrael kiupitiajangwani inachochea wazo kuhusu dhamira za kiroho ya utambuzi wote kuhusu Mungu na maisha ya kuishi na kutembea katika Roho. Hesabu kwa halisi inaelezea utakaso ambao ni kutengwa kutoka Misri
+- 3 Katika Hesabu safari ya Waisraeli kiupitiajangwani inachochea wazo kuhusu dhamira za kiroho ya utambuzi wote kuhusu Mungu na maisha ya kuishi na kutembea katika Roho. Hesabu kwa halisi inaelezea utakaso ambao ni kutengwa kutoka Misri
 
 Kwenye ufahamu wa kiroho, somo la Agano la kale. sheria ni nyepesi kuchochea, lakini ufahamu wa kimwili waweza kuipata ikiwa na upungufu wa uhai.
 

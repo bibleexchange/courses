@@ -14,7 +14,7 @@ Katika mstari wa 5, tunaona ufanano pamoja na jinsi mjinga alivyotambulishwa kat
 
 ### Si vizuri kufanya kazi kwa ajili yako mwenyewe tu (mst. 7–12)
 
-Upweke siyo kitu ambacho Mungu anakitaka kwa mwanadamu (Mwan. 2:18), na aliwaahidi waisrael kuwa asingewaacha wao peke yao (Is. 41:10).
+Upweke siyo kitu ambacho Mungu anakitaka kwa mwanadamu (Mwan. 2:18), na aliwaahidi Waisraeli kuwa asingewaacha wao peke yao (Is. 41:10).
 
 ### Matatizo ya kiserikali (mst. 13–16)
 

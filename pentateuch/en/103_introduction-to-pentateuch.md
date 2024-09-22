@@ -2,7 +2,7 @@
 
 Order of Study: Introduction, Genesis, Exodus, Leviticus, Numbers and Deuteronomy.
 
-## This is the Old Testament Bookshelf.
+## This is the Old Testament Bookshelf
 
 The word "testament" means "will" or "covenant." The term "Old Testament", therefore, refers to God's covenant or promise-law to bless mankind through the Jewish nation. It has also come to refer to the writings about the Old Covenant, although, strictly speaking,these ancient books are the Old Covenant Scriptures.
 

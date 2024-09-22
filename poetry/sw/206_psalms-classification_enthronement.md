@@ -11,7 +11,7 @@ Mungu ni mfalme wa Israel, lakini pia ni mfalme juu ya mataifa (47:8) na juu ya 
 > Mahali ambapo hakuna haki, kuna uhitaji mdogo kuongea kuhusu haki. Marudio ya mada ya haki katika zaburi hizi yanapendekeza kwamba yalikusudiwa kuhusika na hali ambazo kutokuwa na haki umekuwa mkubwa.
 > —C. Hassell Bullock<sup>[1]</sup>
 
-Zaburi 97:2 inasema kwamba, "Haki na hukumu ndio msingi wa kiti chake." Haki yake imekuwa siyo tu imefunuliwa kwa Waisrael, lakini imeonyeshwa pia katika mataifa (98:2)
+Zaburi 97:2 inasema kwamba, "Haki na hukumu ndio msingi wa kiti chake." Haki yake imekuwa siyo tu imefunuliwa kwa Waisraeli, lakini imeonyeshwa pia katika mataifa (98:2)
 
 ### Bwana ni mfalme katika uumbaji
 
@@ -37,7 +37,7 @@ Ikiwa Mungu ana uwezo juu ya vitu hivi vyote, basi Ana uwezo pia juu ya wanadamu
 
 ### Bwana ni mfalme katika hukumu
 
-Hukumu zake ni haki na misingi yake ni katika dunia (96:10, 13), yenye maana kwamba ni hukumu za haki na nzuri. Anahukumu watu wote, siyo tu Waisrael (96:13). Lengo la hukumu zake ni kuleta usawa (99:4).
+Hukumu zake ni haki na misingi yake ni katika dunia (96:10, 13), yenye maana kwamba ni hukumu za haki na nzuri. Anahukumu watu wote, siyo tu Waisraeli (96:13). Lengo la hukumu zake ni kuleta usawa (99:4).
 
 **Majadiliano:** Uadilifu ni nini?
 

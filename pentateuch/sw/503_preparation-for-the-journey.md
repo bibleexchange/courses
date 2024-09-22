@@ -4,7 +4,7 @@ Wanaume wa vita wahesabiwa 16803
 
 (49 nyakati idadi au majumlisho vyaweza kupatikana katika kitabu hiki.)
 
-Kwenye siku ya kwanza, mwezi wa pili, katika mwaka wa pili wa kutoka kwao, Mungu anamwamru Musa, mwandishi wa kitabu hiki, kuchukua majumuisho ya kusanyiko lote la wana waisrael. Hiki kilikuwa ni kigezokwa ajili ya hii hesabu:
+Kwenye siku ya kwanza, mwezi wa pili, katika mwaka wa pili wa kutoka kwao, Mungu anamwamru Musa, mwandishi wa kitabu hiki, kuchukua majumuisho ya kusanyiko lote la wana Waisraeli. Hiki kilikuwa ni kigezokwa ajili ya hii hesabu:
 
 1Wanaume
 

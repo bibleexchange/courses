@@ -1,8 +1,8 @@
 # Exodus
 
-## Introduction 
+## Introduction
 
-### Theme: 
+### Theme:
 
 The Exodus (or &quot;departure&quot;) of the Jews from Egyptian bondage--DELIVERANCE and REDEMPTION.
 
@@ -16,9 +16,9 @@ The title of this Book comes from the Septuagint in which it is called &quot;Exo
 
 Pharaoh;Moses and his brother&#44; Aaron.
 
-### Brief Outline: 
+### Brief Outline:
 
-- 1. Slaves in Egypt (1:1-13:16) 
+- 1. Slaves in Egypt (1:1-13:16)
 - 2. Journeying to Mount Sinai (13:17-19:25)
 - 3. Giving God&apos;s Law to His People (20-24)
 - 4. Building God&apos;s Tabernacle (25-40)
@@ -27,21 +27,21 @@ Pharaoh;Moses and his brother&#44; Aaron.
 
 - around 1500 B.C.
 
-The introductory genealogy shows how in a relatively short time&#44; Israel and His family greatly multiplied literally fulfilling God&apos;s promise to Abraham. The book of Exodus was probably once conjoined as one book with Genesis and comprises a period of about one hundred and forty-five years&#44; from the death of Joseph to the construction of the tabernacle in the desert. 
+The introductory genealogy shows how in a relatively short time&#44; Israel and His family greatly multiplied literally fulfilling God&apos;s promise to Abraham. The book of Exodus was probably once conjoined as one book with Genesis and comprises a period of about one hundred and forty-five years&#44; from the death of Joseph to the construction of the tabernacle in the desert.
 
 Moses&apos; Birth -> Burning Bush -> 10 Plagues -> Red Sea Crossing -> 10 Commandments Given
 
 ## Slaves in Egypt (1:1-13:16)
 
-### The Slavery of the Israelites (CH. 1) 
+### The Slavery of the Israelites (CH. 1)
 
-Israel was a small nomadic people(&quot;70 souls&quot; 1:5) going into Egypt&#44; but were fruitful and multiplied so that the land was filled with them (1:7). At the Exodus&#44; there were approximately two million Jews. 
+Israel was a small nomadic people(&quot;70 souls&quot; 1:5) going into Egypt&#44; but were fruitful and multiplied so that the land was filled with them (1:7). At the Exodus&#44; there were approximately two million Jews.
 
-Pharaoh gifted the fertile lands and river delta of the mighty Nile River known as Goshen to Joseph&apos;s family. This land started as a land of liberty and abundance&#44; but eventually was transformed into a land of bondage. Joseph&#44; his brethren&#44; and all their generation died and a new king rose to power that &quot;knew not Joseph.&quot; 
+Pharaoh gifted the fertile lands and river delta of the mighty Nile River known as Goshen to Joseph&apos;s family. This land started as a land of liberty and abundance&#44; but eventually was transformed into a land of bondage. Joseph&#44; his brethren&#44; and all their generation died and a new king rose to power that &quot;knew not Joseph.&quot;
 
-[The Hyksos (&quot;foreignrulers&quot; from the Northeast) may have invaded Egypt shortly after Joseph&apos;s death. This fact might be part of why the Hebrews fell out of favor with the Egyptians so quickly. ] 
+[The Hyksos (&quot;foreignrulers&quot; from the Northeast) may have invaded Egypt shortly after Joseph&apos;s death. This fact might be part of why the Hebrews fell out of favor with the Egyptians so quickly. ]
 
-This Pharaoh feared the great numbers of Israel and instituted a plan of affliction. The Egyptians discovered that the harder they afflicted the Hebrews&#44; the more they prospered! During the most intense periodsof persecution&#44; the Church of God has grown. The winds of persecution only fan the fires of revival! Let us compare some of the phrases describing Israel and the efforts of Pharaoh: 
+This Pharaoh feared the great numbers of Israel and instituted a plan of affliction. The Egyptians discovered that the harder they afflicted the Hebrews&#44; the more they prospered! During the most intense periodsof persecution&#44; the Church of God has grown. The winds of persecution only fan the fires of revival! Let us compare some of the phrases describing Israel and the efforts of Pharaoh:
 
 <tr>
 <th><span lang='en'>ISRAELITES </span><span lang='swa'>WAISRAELI </span></th>
@@ -62,9 +62,7 @@ This Pharaoh feared the great numbers of Israel and instituted a plan of afflict
 </table>
 <p><span lang='en'>Pharaoh&quot; strategy to kill the malechildren failed utterly because the midwives chose to fear God over man. Godprotected and blessed the midwives&#44; Shiprah and Puah&#44; for their courage. &quot;Godmade them houses&#44;&quot; that is&#44; He protected them and allowed them to have manychildren themselves. Pharaoh responded to this rebellion by opening the chargeof murder to every Egyptian. It is upon this bloody and dangerous scene thatMoses made his entrance as an innocent Levite baby. This decree was probably given sometime after Aaron&apos;s birth and retracted very shortly after Moses&apos;birth. (Perhaps&#44; baby Moses&apos; influence on Pharaoh&apos;s daughter had something todo with its end.) </span><span lang='swa'>mkakati wa farao wa kuwauwa watoto wa kiumeulishindwa mwishoni kwa sababu ya wakunga waliochagua kumwogopa Mungu zaidiya mwanadamu. Mungu aliwalinda na kuwabariki wale wakunga&#44; Shipra na Pua&#44; kwa ujasiri&#44; CMungu aliwafanya kuwa nyumba&#44; Dhiyo ni &#44;aliwalinda na kuruhusu wao kuwa na watoto wengi wao wenyewe. Farao aliitikia uasi huo kwa kufungua badiliko la mauwaji kwa kila Mmisri. Ni juu ya uadui huu na madhari ya hatari ambayo Musa alifanyiwa njia yake ya kupitia kama mtoto mchanga mlawi.Amri hii ilikuwa imetolewa labda wakati mwingine baada ya kuzaliwakwa Haruni na kufutwa kwa muda mfupi baada kuzaliwa kwake Musa.(Yawezekana&#44;mtoto Musa alivutia kwa binti Farao na alikuwa na kitu Fulani cha kufanya huko mwishoni.) </span></p>
 
-
 ### The Call of Moses to be Leader and Deliverer (CH. 2-4)
-
 
 <h3><span lang='en'>2:1-4 Moses&apos; Parent&apos;s Plan: Trust God </span><span lang='swa'>2:1-4 Mpango wa wazazi wa Musa:Walimtumainiwote walimtumaini Mungu</span></h3>
 
@@ -103,7 +101,7 @@ This Pharaoh feared the great numbers of Israel and instituted a plan of afflict
 <h3><span lang='en'>4:18-26&#44;Moses learned a serious lesson: God requires implicit (exact) obedience. </span><span lang='swa'>Katika 4:18-26&#44;Musa alijifunza somo kwa wazi: Mungu anahitaji utii(kamili) unaojitokeza bila kutajwa.</span></h3>
 <p><span lang='en'>God will keep His Word and expects us to keep our end of the bargain. Moses&apos; slackness almost cost him his life and he was only rescued by the action of Zipporah. </span><span lang='swa'>Mungu atatunza neno lake na anatutazamia kutunza mwisho wetu wa majadiano.upungufu wa Musa karibu unamgharimu maisha yake alikuwa aepushwe tu kwa tendo la Sipora. </span></p>
 
-<h3><span lang='en'>4:27-31 Moses is Reunited with Aaron &amp; Received by Israel.</span><span lang='swa'>4:27-31 Musa aliunganishwa na Haruni- ilikupokelewa na Waisrael.</span></h3>
+<h3><span lang='en'>4:27-31 Moses is Reunited with Aaron &amp; Received by Israel.</span><span lang='swa'>4:27-31 Musa aliunganishwa na Haruni- ilikupokelewa na Waisraeli.</span></h3>
 <p><span lang='en'>The people saw the signs and believed and worshipped God for His recognition of their bondage. </span><span lang='swa'>Watu waliziona ishara wakaamini na kumwabudu Mungu kwa kutambua kwake utumwa wao.</span></p>
 
 <h3><span lang='en'>The Preparation of Moses</span><span lang='swa'>The Preparation of Moses</span></h3>
@@ -127,13 +125,8 @@ Moses was 40 years in the wilderness. That makes 80 years of training altogether
 <p><span lang='en'>Moses was tested on the small tasks until it was time for him to take the role of deliverer.</span><span lang='swa'></span></p>
 <p><span lang='en'>Many of the lessons Moses learned came by simple life tasks. By learning to lead sheep, Moses was learning to lead the Israelites. God wants us to learn diligence and faithfulness. The wilderness is a place of testing and trial. No one ever said God's will would be easy, and things that are easy usually are not worth anything.</span><span lang='swa'></span></p>
 
-
-
-
-
-
 <h2><span lang='en'>The Challenge of Pharaoh&apos;s Power (CH. 5-11) </span><span lang='swa'>Changamoto ya nguvu ya Farao (Sura. 5-11) </span></h2>
-<p><span lang='en'>Nine times in this account we read the phrase &quot;let My people go.&quot; It was God&apos;s will that the Hebrews be free and He worked it out exactly as He had promised (3:21). It was God&apos;s will that the Egyptians would send out the Hebrews and that Israel would not gain their independence merely by a military revolt. This sending out would eventually include the Egyptians giving much wealth and gifts to theHebrews as they left. </span><span lang='swa'>Mara tisa katika hesabu hii tunasoma maneno Cwaache watu wangu waende. DIlikuwa ni mapenzi ya Mungu kwamba Waebrania wawe huru na aliifanyia hii kazi kwakweli kama alivyo ahidi (3:21). Ilikuwa mapenzi ya Mungu kwamba Wamisri wa watoe Waebrania na kwamba Waisrael wasingejipatia uhuru wao tu kwa uasi wa kijeshi.Hii kutolewa inje ingekuwa hatimaye kuishia na Wamisri kuwapa Waebrania mali nyingi na zawadi kama walivyoondoka. </span></p>
+<p><span lang='en'>Nine times in this account we read the phrase &quot;let My people go.&quot; It was God&apos;s will that the Hebrews be free and He worked it out exactly as He had promised (3:21). It was God&apos;s will that the Egyptians would send out the Hebrews and that Israel would not gain their independence merely by a military revolt. This sending out would eventually include the Egyptians giving much wealth and gifts to theHebrews as they left. </span><span lang='swa'>Mara tisa katika hesabu hii tunasoma maneno Cwaache watu wangu waende. DIlikuwa ni mapenzi ya Mungu kwamba Waebrania wawe huru na aliifanyia hii kazi kwakweli kama alivyo ahidi (3:21). Ilikuwa mapenzi ya Mungu kwamba Wamisri wa watoe Waebrania na kwamba Waisraeli wasingejipatia uhuru wao tu kwa uasi wa kijeshi.Hii kutolewa inje ingekuwa hatimaye kuishia na Wamisri kuwapa Waebrania mali nyingi na zawadi kama walivyoondoka. </span></p>
 <p><span lang='en'>For this impossibility to take place much had to change in the hearts and minds of the Egyptians. God preparedPharaoh and the Egyptians for the great sending away of the Hebrews by establishingHe alone was God and there was no false god in Egypt that could stand againstJehovah. With precision greater than any surgeon&#44; in only ten plagues Godmethodically embarrassed the supposed gods of Egypt. </span><span lang='swa'>Kwa ajili ya hii kutokuvumilika kuchukuwa vingi ilibadilisha mioyo na akili za Wamisri. Mungu alimwandaa Farao na waMisri kwa ajili ya maagano makuu ya Waebrania kwa kuthibitisha Yeye pekee alikuwa Mungu na sio mungu wa uwongo wa Misri ambayo angesimama kinyume na Yehova.Pamoja na usahihi mkuu kuliko daktari yeyote mpasuaji&#44;katika mapigo kumi tuMungu kwa utaratibu aliwaabisha miungu ya kudhaniwa ya Misri. </span></p>
 
 <table>
@@ -224,7 +217,7 @@ Moses was 40 years in the wilderness. That makes 80 years of training altogether
 
 <h2><span lang='en'>The Passover&mdash;a Picture of Jesus as Savior (12:1-13:16) </span><span lang='swa'>Pasaka ni&mdash; Picha ya Yesu kama mwokozi (12:1-13:16) </span></h2>
 <p><span lang='en'>Conclusion of the plagues: Midnight of April 14th </span><span lang='swa'>Hitimisho la mapigo kwenye usiku wa manane:wa tar 14 April </span></p>
-<p><span lang='en'>Israel&apos;s deliverance from Egypt is the most important happening of the Old Testament (only their rejection ofChrist in the New Testament could be considered more important). The nightbefore Israel&apos;s exodus was a night of solemn ceremony that would be rememberedforever (12:24). Even to this day the night of the Passover is commemorated every year and because the Passover took place on April 14th </span><span lang='swa'>Ukombozi wa Waisrael toka Misri ni tokeo muhimu sana katika Agano la kale (kukataa kwao kuhusu Yesu katika Agano jipya kunge fikiriwa kwa umuhimu zaidi). Usiku kabla ya waisrael kutoka ulikuwa usiku wa sherehe ya tamko la dhati ambalo lingekumbukwa milele (12:24). Hata kwenye siku hii usiku wa Pasaka unaadhimishwa kila mwaka kwa sababu Pasaka ilichukua nafasi mnamo tar 14 April </span></p>
+<p><span lang='en'>Israel&apos;s deliverance from Egypt is the most important happening of the Old Testament (only their rejection ofChrist in the New Testament could be considered more important). The nightbefore Israel&apos;s exodus was a night of solemn ceremony that would be rememberedforever (12:24). Even to this day the night of the Passover is commemorated every year and because the Passover took place on April 14th </span><span lang='swa'>Ukombozi wa Waisraeli toka Misri ni tokeo muhimu sana katika Agano la kale (kukataa kwao kuhusu Yesu katika Agano jipya kunge fikiriwa kwa umuhimu zaidi). Usiku kabla ya Waisraeli kutoka ulikuwa usiku wa sherehe ya tamko la dhati ambalo lingekumbukwa milele (12:24). Hata kwenye siku hii usiku wa Pasaka unaadhimishwa kila mwaka kwa sababu Pasaka ilichukua nafasi mnamo tar 14 April </span></p>
 <p><span lang='en'>What was the Passover and what is its spiritual significance? </span><span lang='swa'>Pasaka ilikuwa nini na nini umuhimu wake kiroho? </span></p>
 
 <table>

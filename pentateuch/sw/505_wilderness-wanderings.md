@@ -30,7 +30,7 @@ Katika Hes 19:1-10, Hapa tuna maafikiano ya kiungu kuhusu ng'ombe jike mwekundu 
 
 ### Kulikuwa na shughuli kubwa ya kutunza wajiriwa katika uchaguzi wa ng'ombe jike aliyesitahili kuteketezwa, kulikuwa na mambo mengi zaidi kuliko sadaka yeyote,
 
-> Hes. 19:2 Hili ni agizo la sheria ambayo Bwana aliamuru, kusema, Sema na wana waisrael, kwamba wataleta ng'ombe jike mwekundu asiye na doa, mahali pasipo na lawama, na kuhusu Yule ambayo hatakaa afungwe:
+> Hes. 19:2 Hili ni agizo la sheria ambayo Bwana aliamuru, kusema, Sema na wana Waisraeli, kwamba wataleta ng'ombe jike mwekundu asiye na doa, mahali pasipo na lawama, na kuhusu Yule ambayo hatakaa afungwe:
 
 #### Si lazima tu asie na lawama, kulinganisha na usafi usio na doa na ukamilifu usiokuwa dhambi wa Bwana Yesu ,
 

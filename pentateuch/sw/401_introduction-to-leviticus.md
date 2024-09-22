@@ -46,7 +46,7 @@ MUHTASARI: Paulo anathibitisha hitimisho kubwa na hasahasa ukuhani wa Agano la k
 
 ## Mpangilio 4wa kitabu walawi
 
-Kitabu hiki kilishikiliwa kwa ujumla kuwa kazi ya Musa, ingawa yeye labda alikuwa anasaidiwa na Haruni. Tarehe yake ni K.K.1490. Kinaingiza historia ya mwezi wa kwanza wa mwaka wao wapili baada ya kuondoka Misri kwa kiasi kidogo.
+Kitabu hiki kilishikiliwa kwa ujumla kuwa kazi ya Musa, ingawa yeye labda alikuwa anasaidiwa na Haruni. Tarehe yake ni K.K. 1490. Kinaingiza historia ya mwezi wa kwanza wa mwaka wao wapili baada ya kuondoka Misri kwa kiasi kidogo.
 
 Musa na watu waliimaliza Hema ya kukutania Kut. 40:33
 

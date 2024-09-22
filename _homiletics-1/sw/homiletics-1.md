@@ -377,7 +377,7 @@ Wakati wakuthibitisha fundisho moja kutoka kifungu, lazima kamwe usiondoe fundis
 
 ## kanuni ya nane: vifungu vinaweza kuwa navyote viwili matumizi ya karibu na ya mbali
 
-Matumizi ni huonyeshwa kwenye kifungu. Maandiko mara nyingi yana matumizi ya karibu na ya mbali. Kwa ajili ya ufasiri halali pamoja na matumizi ya karibu na ya mbali, lazima uwazi uruhusiwe na kitabu cha mukitadha wa kifungu ambacho ni Biblia nzima. Vifungu walioandikiwa Waisrael vya weza kuwa na maana yenye thamani kuwakilisha kanisa la leo.
+Matumizi ni huonyeshwa kwenye kifungu. Maandiko mara nyingi yana matumizi ya karibu na ya mbali. Kwa ajili ya ufasiri halali pamoja na matumizi ya karibu na ya mbali, lazima uwazi uruhusiwe na kitabu cha mukitadha wa kifungu ambacho ni Biblia nzima. Vifungu walioandikiwa Waisraeli vya weza kuwa na maana yenye thamani kuwakilisha kanisa la leo.
 
 Katika mukitadha wenyewe tunajaribu kufunua 1) Maana ya asili ya kifungu; wakati katika, 2) Matumizi binafisi tunatafuta kupata umuhimu katika kifungu kwa ajili yetu leo. Juhudi hizi mbili kwa pamoja hutengeneza mzunguko wa kufasiri unaoitwa "vizibuo mzunguko" (Grant R. Osborne). Ingawa tukio lililo andikwa katika maandiko lilitokea wakati wa mwanzo katika historia iliopita, kanuni za vifungu vyake havina muda na uhusiano binafsi.
 

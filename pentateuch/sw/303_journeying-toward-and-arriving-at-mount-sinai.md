@@ -10,7 +10,7 @@
 
 ### Ukarimu wa Waisraeli kama Culivyo thibitishwa na Mungu D
 
-" "Walifanya kazi" Wakati wa asubuhi na mapema masaa ya tar 15 April, waisraeli wote walikuwa takribani(600,000 [\[14\]](3D'#endNotes')na familia zao zilivuka mipaka ya Misri. Takribani wayahudi milioni 2-3waliondoka Misri . Kutoka 12:40 Kwahiyo sasa muda wa kukaa wa wana waIsrael, waliokaa Misri ilikuwa miaka miannena thelathini. "
+" "Walifanya kazi" Wakati wa asubuhi na mapema masaa ya tar 15 April, waisraeli wote walikuwa takribani(600,000 [\[14\]](3D'#endNotes')na familia zao zilivuka mipaka ya Misri. Takribani wayahudi milioni 2-3waliondoka Misri . Kutoka 12:40 Kwahiyo sasa muda wa kukaa wa wana Waisraeli, waliokaa Misri ilikuwa miaka miannena thelathini. "
 
 Walikuwa wameambatanishwa na mkutano mchanganyiko. (Kut.12:38; Zek. 8:23)
 
@@ -18,13 +18,13 @@ Walikuwa wameambatanishwa na mkutano mchanganyiko. (Kut.12:38; Zek. 8:23)
 
 > Kutoka 13:19 4Na Musa aliichukua mifupa ya Yusufu akaenda nayo kwa maana alikuwa amewaapia wanaIsrael kwa mashaka, kusema, Mungu kwa hakika atawazuru;nanyi mtabeba mifupa yangu na kwenda nayo mahali mtakapo kuwapo.
 
-### Njia ya Waisrael kama walivyo ongozwa na Mungu Kila siku
+### Njia ya Waisraeli kama walivyo ongozwa na Mungu Kila siku
 
 > Waebrania 13:21 Na Bwana aliwatangulia mbele mchana katika nguzo ya wingu, ilikuwaongoza katika njia;na usiku katika nguzo ya moto, kuwapa nuru;ilikutembea mchana na usiku:
 
 ### 5Ufukuziaji wa Farao wa uliowachelewesha Waisrael
 
-> Kut 14:5 Kwa nini tumefanya hivi?, kwamba tumewaacha waisrael wakaenda na kuacha kututumikia?
+> Kut 14:5 Kwa nini tumefanya hivi?, kwamba tumewaacha Waisraeli wakaenda na kuacha kututumikia?
 
 ### 6Musa Anajaribu kuzia hofu ya Waisrael
 
@@ -54,13 +54,13 @@ Nguvu zake, Ushindi wake, Yeye ni mtu wa vita, Bwana ndio jina Lake, je aliwatup
 
 #### Huu ni wimbo wa IMANI.
 
-Wokovu mkuu wa Mungu kutoka chini mkono wa Farao, maangamizi ya Farao na muujiza wa kuyatenga maji na nchi kavu iliumba imani binafisi katika mioyo ya Waisrael. Matendo haya yalikuwa ushahidi wa hakika kwamba neno la Mungu lilikuwa kweli na lakuaminiwaisiloshindwa.
+Wokovu mkuu wa Mungu kutoka chini mkono wa Farao, maangamizi ya Farao na muujiza wa kuyatenga maji na nchi kavu iliumba imani binafisi katika mioyo ya Waisraeli. Matendo haya yalikuwa ushahidi wa hakika kwamba neno la Mungu lilikuwa kweli na lakuaminiwaisiloshindwa.
 
 ##### Walijionea wenyewe kwamba MUNGU NI NANI.
 
-Badala ya kuuliza Dyuko wapi Mungu wa Baba zetu? Dkama ilivyokuwa kabla, Musa na waisrael walipiga kelele DBwana amekuwa wokovu WANGU D inje ya ukiri mpya uliopatikana natathimini ya ukiri mpya wa MUNGU ni.( CBWANA NI CYEHOVA ni agano la kutunza jina la Mungu.)
+Badala ya kuuliza Dyuko wapi Mungu wa Baba zetu? Dkama ilivyokuwa kabla, Musa na Waisraeli walipiga kelele DBwana amekuwa wokovu WANGU D inje ya ukiri mpya uliopatikana natathimini ya ukiri mpya wa MUNGU ni.( CBWANA NI CYEHOVA ni agano la kutunza jina la Mungu.)
 
-kifungu DBwana amekuwa Dni ufahamu wa Israel wa kuelezea na sio tamko ambalo baadhi ya mageuzi yamechukuliwa juu ya Mungu. Mungu haja badilika, hatabadilika, na hawezi kubadilika!Katika kushuhudia tukio hili kubwa, Mungu amekuwa wa kutukuzwa mbele ya macho ya Waebrania. Kama tunavyoshuhudia mkono wa Mungu ukitembea juu ya maisha yetu na mioyo yetu ghafula inajawa na utambuzi wa nguvu, upendo na ukaribu wa Mungu, kwa hiyo sasa Musa anaimba: Bwana amekuwa wokovu wangu na mkono wake wa kuume umetukuka katika nguvu. Mungu alikuwa wokovu wao tayari na nguvu wakati wote hutoka kwa Mungu, lakini sasa Waisrael WANAITAMUA.
+kifungu DBwana amekuwa Dni ufahamu wa Israel wa kuelezea na sio tamko ambalo baadhi ya mageuzi yamechukuliwa juu ya Mungu. Mungu haja badilika, hatabadilika, na hawezi kubadilika!Katika kushuhudia tukio hili kubwa, Mungu amekuwa wa kutukuzwa mbele ya macho ya Waebrania. Kama tunavyoshuhudia mkono wa Mungu ukitembea juu ya maisha yetu na mioyo yetu ghafula inajawa na utambuzi wa nguvu, upendo na ukaribu wa Mungu, kwa hiyo sasa Musa anaimba: Bwana amekuwa wokovu wangu na mkono wake wa kuume umetukuka katika nguvu. Mungu alikuwa wokovu wao tayari na nguvu wakati wote hutoka kwa Mungu, lakini sasa Waisraeli WANAITAMUA.
 
 ##### Walijionea wenyewe nini ambacho ni LAZIMAKUFANYA.
 
@@ -82,7 +82,7 @@ kusifu kwa Musa kuliko ongezwa sauti na mchezo mtakatifu wa Miriamu Dvilikuwa nd
 
 ### Uwezo wa muujiza
 
-#### IMANI YA WAISRAEL ILITIWA NGUVU
+#### IMANI YA Waisraeli ILITIWA NGUVU
 
 Bwana ndiye nguvu yangu na wimbo wangu mstr.2
 
@@ -128,7 +128,7 @@ Ilitajwa zaidi mahali Fulani katika maandiko Matakatifu:Ukimbizi wa Hajiri (Mwan
 
 ### Maji machungu ya Mara (15:23-26)
 
-Hali ya waisrael ya kutokuwa na maji katikajangwa la Shuri lilisifiwa kwa ugunduzi wa maji ambao hayakunyweka. Mara inamaanisha chungu.
+Hali ya Waisraeli ya kutokuwa na maji katikajangwa la Shuri lilisifiwa kwa ugunduzi wa maji ambao hayakunyweka. Mara inamaanisha chungu.
 
 Israel inaitikia kwa kunungunika kwa mara ya pili tangu walipoondoka Misri (14:11,12) na kuendeleza mazoea ya kulalamika na kunung 9unika wanapokutana na kikwazo. Hii ilikuwa sehemu ya ukomavu wa akili wa utumwa Dambayo Mungu aliibuni kufanya kazi inje yao wakiwa jangwani kabla ya kuwaleta katika urithi wao. Walikuwa tayari wamekuwa wamezoea kuzidiwa na utumwa na masumbufu ya muda mrefu, Mungu alikuwa anawafundisha kwamba wangeshinda na kuwa washindi katika uso wa ugumu.
 

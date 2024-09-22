@@ -121,17 +121,17 @@ Zaburi za maombolezo binafsi ni 5–7, 13, 17, 22, 25, 26, 28, 31, 35, 36, 38, 3
 
 Kwa mfano, Zaburi ya 13:1 inasema, "Ee BWANA, hata lini utanisahau, hata milele? Hata lini utanificha uso wako?" Waisraeli walipokuwa jangwani, walilalamika, na Mungu aliwakasirikia kwasababu ya malalamiko yao (Hesabu 14:22). Je malalamiko katika zaburi yanatofautianaje na malalamiko ya wana Waisraeli?
 
-- Waisrael waliongea kuhusu Mungu (kaka ilivyokuwa) nyuma yake. Walizungumza kama vile wamekata tamaa kwa Mungu.
+- Waisraeli waliongea kuhusu Mungu (kaka ilivyokuwa) nyuma yake. Walizungumza kama vile wamekata tamaa kwa Mungu.
 - Malalamiko ya mwimba zaburi yamezungumzwa moja kwa moja kwa Mungu. Mwimba zaburi hakukata tama kwa Mungu lakini anaelezea kinyume chake.
 - Bila kujali hisia walizokuwa nazowalizikabidhi kwa Mungu, lakini katika mazingira ya kuomba msaada na kuwa na tumaini kwamba atawajibu dhiki zao.
 
-Maombolezo ni maarufu sanakatika maombi ya Waisrael. Hii inatuonyesha sisi kwamba maombi ya "dhiki na mshangao katika maisha ya imani siyo alama ya upungufu wa imani, kitu cha kuiondoa ile tabia au kuweka nyuma ya mtu, lakini badala yake ni asili kwa asili ya imani."[6] Wakati mwingine tunaimba nyimbo za furaha tu au sifa, lakini tukiondoa nyimbo za maombolezo, Tunahitimisha kwamba "mambo magumu ya haki ni maswali yasiyofaa kupeleka katika kiti cha enzi, kwasababu kiti cha enzi kinaonekana kuwa eneo la sifa tu."[7] Zaburi za maombolezo zinatufundisha sisi kwamba "Mungu anahusika katika kila kipimo cha maisha." Kama hatutaleta shida zetu kwa Mungu kwa njia ya maombolezo, basi kils tulichonacho ni wasiwasi na kukata tamaa kwasababu ya shida zetu.[8]
+Maombolezo ni maarufu sanakatika maombi ya Waisraeli. Hii inatuonyesha sisi kwamba maombi ya "dhiki na mshangao katika maisha ya imani siyo alama ya upungufu wa imani, kitu cha kuiondoa ile tabia au kuweka nyuma ya mtu, lakini badala yake ni asili kwa asili ya imani."[6] Wakati mwingine tunaimba nyimbo za furaha tu au sifa, lakini tukiondoa nyimbo za maombolezo, Tunahitimisha kwamba "mambo magumu ya haki ni maswali yasiyofaa kupeleka katika kiti cha enzi, kwasababu kiti cha enzi kinaonekana kuwa eneo la sifa tu."[7] Zaburi za maombolezo zinatufundisha sisi kwamba "Mungu anahusika katika kila kipimo cha maisha." Kama hatutaleta shida zetu kwa Mungu kwa njia ya maombolezo, basi kils tulichonacho ni wasiwasi na kukata tamaa kwasababu ya shida zetu.[8]
 
 Lakini vipi kuhusu sisi leo? Je Wakristo waeleze malalamiko yao dhidi ya Mungu? Maandamano kuelekea kwa Mungu yanaeleweka katika Agano la Kale, kwasababu katika mpango kanuni kuu zilikuwa baraka za wale waliotunza agano na laana za wale ambao hawakutunza agano. Kama mtu mmoja aliyekuwa mwenye haki katika kutunza agano waliteseka, halafu inainesha kama siyo haki. Lakini katika mpango mpya, Yesu na maaskofu wanaeleza vizuri kuwa mwenye haki atapata mateso. Kristo aliteseka, na akasema kwamba ata sisi tutateseka.[9] Tutatakiwa kuendelea kupeleka mizigo yetu kwa Mungu, lakini hatutatakiwa kushangaa tunapopitia mateso.
 
 ### Zaburi za maombolezo ya kitaifa
 
-Zaburi za maombolezo ya kitaifa ni 12, 44, 58, 60, 74, 77, 79, 80, 82, 83, 85, 90, 94, 106, 108, 123, 126, na 137. "Katika zaburi hizi, Waisrael walitoka katika tamko la kuumiza na hasira, kuwasilisha kwa Mungu, na mwisho kusimamisha."[10] Katika zaburi hizi, kuna imani katika ukombozi wa Mungu, lakini zinachanganya "maombolezo ya sifa, kwasababu wanafahamu zaidi kwamba Mungu habadiliki, upendo usioshindwa wataokolewa mwisho."[11]
+Zaburi za maombolezo ya kitaifa ni 12, 44, 58, 60, 74, 77, 79, 80, 82, 83, 85, 90, 94, 106, 108, 123, 126, na 137. "Katika zaburi hizi, Waisraeli walitoka katika tamko la kuumiza na hasira, kuwasilisha kwa Mungu, na mwisho kusimamisha."[10] Katika zaburi hizi, kuna imani katika ukombozi wa Mungu, lakini zinachanganya "maombolezo ya sifa, kwasababu wanafahamu zaidi kwamba Mungu habadiliki, upendo usioshindwa wataokolewa mwisho."[11]
 
 ---
 
@@ -324,13 +324,13 @@ Zaburi za kifalme zinahusu kutawala kwa mfalme, ama kwa kihistoria au kimasiya, 
 
 ### Umuhimu wa mfalme wa kidunia
 
-Mkristo wa kisasa anaweza kushangaa ziko wapi zaburi zinazozungumzia kuhusu kiongozi wa kiserikali. Lakini ni lazima tukumbuke kwamba kwa Waisrael wa zamani, mfalme alikuwa ni kiongozi wa serikali na hapo hapo ni kiongozi wa dini. "Ufalme ulikuwa, sambamba na ukuhani na unabii, moja ya taasisi tatu za msingi za waisrael, na inachukua mbali eneo la kati katika zaburi kuliko yoyote kati yam engine mawili."[1] "Mfalme alikuwa kiungo kikubwa katika uhamisho wa mwanzo wa Yerusalemu. Aliongoza kama mwakilishi wa Mungu duniani na kuongea na watu katika wajibu huo. Wakati huo huo, mfalme, kwasababu ya ushirika wake mzuri na Mungu, aliwawakilisha watu katika kushughulika na Mungu. Mfalme alikuwa kama mwangalizi."[2] Kuna uhusiano muhimu kati ya Mungu na mfalme katika Zaburi hizi. Mungu alimuita mfalme mwanae katika Zaburi 2:6. Mfalme alihakikisha uhusiano huu pale alipomuita Mungu baba yake katika Zaburi 89:26–27.[3]
+Mkristo wa kisasa anaweza kushangaa ziko wapi zaburi zinazozungumzia kuhusu kiongozi wa kiserikali. Lakini ni lazima tukumbuke kwamba kwa Waisraeli wa zamani, mfalme alikuwa ni kiongozi wa serikali na hapo hapo ni kiongozi wa dini. "Ufalme ulikuwa, sambamba na ukuhani na unabii, moja ya taasisi tatu za msingi za Waisraeli, na inachukua mbali eneo la kati katika zaburi kuliko yoyote kati yam engine mawili."[1] "Mfalme alikuwa kiungo kikubwa katika uhamisho wa mwanzo wa Yerusalemu. Aliongoza kama mwakilishi wa Mungu duniani na kuongea na watu katika wajibu huo. Wakati huo huo, mfalme, kwasababu ya ushirika wake mzuri na Mungu, aliwawakilisha watu katika kushughulika na Mungu. Mfalme alikuwa kama mwangalizi."[2] Kuna uhusiano muhimu kati ya Mungu na mfalme katika Zaburi hizi. Mungu alimuita mfalme mwanae katika Zaburi 2:6. Mfalme alihakikisha uhusiano huu pale alipomuita Mungu baba yake katika Zaburi 89:26–27.[3]
 
 Daudi alikuwa mfalme, na aliandika kama nusu ya kitabu. Ufalme wa Daudi ulishawishi yaliyokuwemo katika kitabu.
 
 ### Matukio katika zaburi za ufalme
 
-Hatuna uhakika halisi zaburi hizi zimetumikaje katika kuabudu mila za Waisrael wa zamani, lakini tunaweza kusema kutoka katika yaliyomo kwamba baadhi yake zilikuwa kwaajili ya matukio muhimu katika maisha ya mfalme.
+Hatuna uhakika halisi zaburi hizi zimetumikaje katika kuabudu mila za Waisraeli wa zamani, lakini tunaweza kusema kutoka katika yaliyomo kwamba baadhi yake zilikuwa kwaajili ya matukio muhimu katika maisha ya mfalme.
 
 #### Taji la mfalme
 
@@ -378,7 +378,7 @@ Mungu ni mfalme wa Israel, lakini pia ni mfalme juu ya mataifa (47:8) na juu ya 
 > Mahali ambapo hakuna haki, kuna uhitaji mdogo kuongea kuhusu haki. Marudio ya mada ya haki katika zaburi hizi yanapendekeza kwamba yalikusudiwa kuhusika na hali ambazo kutokuwa na haki umekuwa mkubwa.
 > —C. Hassell Bullock[1]
 
-Zaburi 97:2 inasema kwamba, "Haki na hukumu ndio msingi wa kiti chake." Haki yake imekuwa siyo tu imefunuliwa kwa Waisrael, lakini imeonyeshwa pia katika mataifa (98:2)
+Zaburi 97:2 inasema kwamba, "Haki na hukumu ndio msingi wa kiti chake." Haki yake imekuwa siyo tu imefunuliwa kwa Waisraeli, lakini imeonyeshwa pia katika mataifa (98:2)
 
 ### Bwana ni mfalme katika uumbaji
 
@@ -388,7 +388,7 @@ Mungu ana nguvu juu ya uumbaji. Dunia inazunguka (99:1), dunia inatetemeka (97:4
 
 ### Bwana ni mfalme katika hukumu
 
-Hukumu zake ni haki na misingi yake ni katika dunia (96:10, 13), yenye maana kwamba ni hukumu za haki na nzuri. Anahukumu watu wote, siyo tu Waisrael (96:13). Lengo la hukumu zake ni kuleta usawa (99:4).
+Hukumu zake ni haki na misingi yake ni katika dunia (96:10, 13), yenye maana kwamba ni hukumu za haki na nzuri. Anahukumu watu wote, siyo tu Waisraeli (96:13). Lengo la hukumu zake ni kuleta usawa (99:4).
 
 Psalm 47:2 says that God is **terrible** (See also 45:4; 65:5; 66:3, 5; 68:35; 76:12; 99:3; 106:22). What does it mean that God is terrible? "The terror of the Lord" speaks of the reverence or fear inspired by the thought that God is judge (2 Corinthians 5:10–11).
 
@@ -1151,7 +1151,7 @@ Katika mstari wa 5, tunaona ufanano pamoja na jinsi mjinga alivyotambulishwa kat
 
 ### Upweke (mst. 7–12)
 
-Upweke siyo kitu ambacho Mungu anakitaka kwa mwanadamu (Mwan. 2:18), na aliwaahidi waisrael kuwa asingewaacha wao peke yao (Is. 41:10).
+Upweke siyo kitu ambacho Mungu anakitaka kwa mwanadamu (Mwan. 2:18), na aliwaahidi Waisraeli kuwa asingewaacha wao peke yao (Is. 41:10).
 
 ### Matatizo ya kiserikali (mst. 13–16)
 

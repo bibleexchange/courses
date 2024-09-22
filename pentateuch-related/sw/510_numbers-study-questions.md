@@ -4,7 +4,7 @@
 <h1><span lang='swa'>Ni nini ambayo kitabu hiki&#44; kwa mazungumzo ya ujumla kimeweka? </span></h1>
 <h2><span lang='swa'>Hiki kitabu kinaweka habari ya miaka arobaini ya kutangatanga jangwani na kuandaliwa kwa watu kwa ajili ya kuchukua umiliki katika nchi ya Ahadi. </span></h2>
 <h1><span lang='swa'>Andika maneno hayohayo msitari wa ufunguo wa kitabu hiki. </span></h1>
-<h2><span lang='swa'>Hes 9:17 4Wakati wingu lilipo ondokakutoka hema ya kukutania&#44; kisha baada ya hapo wana waisrael walisafiri: na mahali ambapo wingu lilikuwa&#44;palepale wana Israel walipiga hema zao. </span></h2>
+<h2><span lang='swa'>Hes 9:17 4Wakati wingu lilipo ondokakutoka hema ya kukutania&#44; kisha baada ya hapo wana Waisraeli walisafiri: na mahali ambapo wingu lilikuwa&#44;palepale wana Israel walipiga hema zao. </span></h2>
 <h1><span lang='swa'>Ni nini ilikuwa kigezo kwa ajili ya sense kuchukuliwa katika Hesabu sura ya kwanza? </span></h1>
 <h2><span lang='swa'>1. Wanaume2 umri wa miaka.20 na zaidi - 3.Wote wanaweza kwenda mbele kwenye vita </span></h2>
 <h1><span lang='swa'>Majumlisho ya walawi yalichukuliwa pamoja na hawa? Elezea jibu lako. </span></h1>

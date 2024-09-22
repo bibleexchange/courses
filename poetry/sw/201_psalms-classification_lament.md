@@ -59,19 +59,19 @@ Zaburi za maombolezo binafsi ni 5–7, 13, 17, 22, 25, 26, 28, 31, 35, 36, 38, 3
 
 ### Zaburi za maombolezo ya kitaifa
 
-Zaburi za maombolezo ya kitaifa ni 12, 44, 58, 60, 74, 77, 79, 80, 82, 83, 85, 90, 94, 106, 108, 123, 126, na 137. "Katika zaburi hizi, Waisrael walitoka katika tamko la kuumiza na hasira, kuwasilisha kwa Mungu, na mwisho kusimamisha."<sup>[6]</sup> Katika zaburi hizi, kuna imani katika ukombozi wa Mungu, lakini zinachanganya "maombolezo ya sifa, kwasababu wanafahamu zaidi kwamba Mungu habadiliki, upendo usioshindwa wataokolewa mwisho."<sup>[7]</sup>
+Zaburi za maombolezo ya kitaifa ni 12, 44, 58, 60, 74, 77, 79, 80, 82, 83, 85, 90, 94, 106, 108, 123, 126, na 137. "Katika zaburi hizi, Waisraeli walitoka katika tamko la kuumiza na hasira, kuwasilisha kwa Mungu, na mwisho kusimamisha."<sup>[6]</sup> Katika zaburi hizi, kuna imani katika ukombozi wa Mungu, lakini zinachanganya "maombolezo ya sifa, kwasababu wanafahamu zaidi kwamba Mungu habadiliki, upendo usioshindwa wataokolewa mwisho."<sup>[7]</sup>
 
 ### Kueleza kuchanganyikiwa kwetu kwa Mungu
 
 Nyingi za zaburi hizi zina malalamiko na shutuma kali dhidi ya Mungu. Kwa mfano, Zaburi ya 13:1 inasema, "Ee BWANA, hata lini utanisahau, hata milele? Hata lini utanificha uso wako?" Waisraeli walipokuwa jangwani, walilalamika, na Mungu aliwakasirikia kwasababu ya malalamiko yao (Hesabu 14:26&ndash;30). Je malalamiko katika zaburi yanatofautianaje na malalamiko ya wana Waisraeli?
 
-- Waisrael waliongea kuhusu Mungu (kama ilivyokuwa) nyuma yake. Walizungumza kama vile wamekata tamaa kwa Mungu.
+- Waisraeli waliongea kuhusu Mungu (kama ilivyokuwa) nyuma yake. Walizungumza kama vile wamekata tamaa kwa Mungu.
 - Malalamiko ya mwimba zaburi yamezungumzwa moja kwa moja kwa Mungu. Mwimba zaburi hakukata tamaa kwa Mungu lakini anaelezea kinyume chake.
 - Bila kujali hisia walizokuwa nazowalizikabidhi kwa Mungu, lakini katika mazingira ya kuomba msaada na kuwa na tumaini kwamba atawajibu dhiki zao.
 
 #### Kumimina moyo wako kwa Mungu
 
-Maombolezo ni maarufu sana katika maombi ya Waisrael. Hii inatuonyesha sisi kwamba maombi ya "dhiki na mshangao katika maisha ya imani siyo alama ya upungufu wa imani, kitu cha kuiondoa ile tabia au kuweka nyuma ya mtu, lakini badala yake ni asili kwa asili ya imani."<sup>[8]</sup> Wakati mwingine tunaimba nyimbo za furaha tu au sifa, lakini tukiondoa nyimbo za maombolezo, Tunahitimisha kwamba "mambo magumu ya haki ni maswali yasiyofaa kupeleka katika kiti cha enzi, kwasababu kiti cha enzi kinaonekana kuwa eneo la sifa tu."<sup>[9]</sup> Zaburi za maombolezo zinatufundisha sisi kwamba "Mungu anahusika katika kila kipimo cha maisha." Kama hatutaleta shida zetu kwa Mungu kwa njia ya maombolezo, basi kils tulichonacho ni wasiwasi na kukata tamaa kwasababu ya shida zetu.<sup>[10]</sup>
+Maombolezo ni maarufu sana katika maombi ya Waisraeli. Hii inatuonyesha sisi kwamba maombi ya "dhiki na mshangao katika maisha ya imani siyo alama ya upungufu wa imani, kitu cha kuiondoa ile tabia au kuweka nyuma ya mtu, lakini badala yake ni asili kwa asili ya imani."<sup>[8]</sup> Wakati mwingine tunaimba nyimbo za furaha tu au sifa, lakini tukiondoa nyimbo za maombolezo, Tunahitimisha kwamba "mambo magumu ya haki ni maswali yasiyofaa kupeleka katika kiti cha enzi, kwasababu kiti cha enzi kinaonekana kuwa eneo la sifa tu."<sup>[9]</sup> Zaburi za maombolezo zinatufundisha sisi kwamba "Mungu anahusika katika kila kipimo cha maisha." Kama hatutaleta shida zetu kwa Mungu kwa njia ya maombolezo, basi kils tulichonacho ni wasiwasi na kukata tamaa kwasababu ya shida zetu.<sup>[10]</sup>
 
 #### Kuteseka ni sehemu ya maisha
 
