@@ -10,62 +10,85 @@ The Scriptures of the Old Testament record the story of God's chosen people, Isr
 
 ### Books of Law
 
+1. Genesis
+2. Exodus
+3. Leviticus
+4. Numbers
+5. Deuteronomy
+
 ### Books of History
 
-| Genesis | Exodus | Leviticus | Numbers | Deuteronomy | Joshua | Judges | Ruth | 1 Samuel | 2 Samuel | 1 Kings | 2 Kings | 1 Chronicles | 2 Chronicles | Ezra | Nehemiah | Esther |
+1. Joshua
+2. Judges
+3. Ruth
+4. 1 Samuel
+5. 2 Samuel
+6. 1 Kings
+7. 2 Kings
+8. 1 Chronicles
+9. 2 Chronicles
+10. Ezra
+11. Nehemiah
+12. Esther
 
-### Books of Poetry | | | | | | | | | | | | | Major Prophets | | | | |
+### Books of Poetry
 
-| Job | Psalms | Proverbs | Ecclesisastes | Song of Solomon | | | | | | | | | Isaiah | Jeremiah | Lamentataions | Ezekiel | Daniel |
-| Minor Prophets | | | | | | | | | | | | | | | | | |
-| | | | Hosea | Joel | Amos | Obadiah | Jonah | Micah | Nahum | Habakkuk | Zephaniah | Haggai | Zechariah | Malachi | | | |
-| | | | | | | | | | | | | | | | | | | | |
+1. Job
+2. Psalms
+3. Proverbs
+4. Ecclesisastes
+5. Song of Solomon
+
+### Major Prophets
+
+1. Isaiah
+2. Jeremiah
+3. Lamentataions
+4. Ezekiel
+5. Daniel
+
+### Minor Prophets
+
+1. Hosea
+2. Joel
+3. Amos
+4. Obadiah
+5. Jonah
+6. Micah
+7. Nahum
+8. Habakkuk
+9. Zephaniah
+10. Haggai
+11. Zechariah
+12. Malachi
 
 ## The Books of Law
 
-### There are Two Titles of the Books of the Law
+### There are two titles of the Books of the Law
 
-The five books of the Law (Jewish name: Torah) are also called “the Pentateuch”(a Greek name) which means “five scrolls.” At least some of this literature if not all was written by Moses (Luke 24:27; John 5:46). These books describe the creation of the world, God’s call to the Hebrews to be His special people,their captivity and release from Egypt, the laws which guided them on their way to the Promised Land and how God blessed the people when they obeyed and disciplined them when they disobeyed.
+The five books of the Law (Jewish name: Torah) are also called “the Pentateuch” (a Greek name) which means “five scrolls.” At least some of this literature if not all was written by Moses (Luke 24:27; John 5:46). These books describe the creation of the world, God’s call to the Hebrews to be His special people,their captivity and release from Egypt, the laws which guided them on their way to the Promised Land and how God blessed the people when they obeyed and disciplined them when they disobeyed.
 
 ### This is the Order of Events and People in the Pentateuch
 
-#### Creation of All Things
-
-#### The Book of Genesis: 4004 B.C. to 1800 B.C.
-
-#### The Fall of Man in the Garden of Eden
-
-#### Noah’s Flood
-
-#### The Tower of Babel
-
-#### Birth of Abraham
-
-#### Birth of Isaac
-
-#### Birth of Jacob
-
-#### Birth of Joseph
-
-#### The Book of Exodus: 1800 B.C. to 1491 B.C.
-
-#### The Hebrew people were enslaved in Egypt.
-
-#### Birth of Moses
-
-#### Moses Sees the Burning Bush
-
-#### The Ten Plagues of Egypt
-
-#### Crossing the Red Sea
-
-#### The Giving of the Ten Commandments
-
-#### The Books of Leviticus, Numbers, and Deuteronomy: 1491 B.C. to 1451 B.C.
-
-#### Forty Years Wandering in the Wilderness
-
-#### Joshua Replaces Moses
+1. Creation of all things
+2. The Book of Genesis: 4004 B.C. to 1800 B.C.
+3. The Fall of Man in the Garden of Eden
+4. Noah’s Flood
+5. The Tower of Babel
+6. Birth of Abraham
+7. Birth of Isaac
+8. Birth of Jacob
+9. Birth of Joseph
+10. The Book of Exodus: 1800 B.C. to 1491 B.C.
+11. The Hebrew people were enslaved in Egypt.
+12. Birth of Moses
+13. Moses Sees the Burning Bush
+14. The Ten Plagues of Egypt
+15. Crossing the Red Sea
+16. The Giving of the Ten Commandments
+17. The Books of Leviticus, Numbers, and Deuteronomy: 1491 B.C. to 1451 B.C.
+18. Forty Years Wandering in the Wilderness
+19. Joshua Replaces Moses
 
 NOTE: All dates are approximate.
 
@@ -73,29 +96,37 @@ NOTE: All dates are approximate.
 
 A superficial reading of the Bible shows it to be a collection of sixty-six books written during a period of about 1600 years by about forty different men, among who were kings, prophets, priests, a scribe, a shepherd, and fishermen. It may appears to be a library rather than one book, but a closer look at the Bible reveals it to be a unified work.
 
-Through the many stories and varied subject matter of the Scriptures runs one outstanding and predominant theme—the Redemption of mankind through a Divinely appointed Savior (and this is evidence to the fact that all the authors were under the direction of one Author—the Holy Ghost.) This unity of the Scriptures is a stark contrast to the Islamic Koran, which consists of a collection of 114 unrelated chapters organized according to their length (with the exception of Sura 1).
+Through the many stories and varied subject matter of the Scriptures runs one outstanding and predominant theme—the Redemption of mankind through a Divinely appointed Savior (and this is evidence to the fact that all the authors were under the direction of one Author—the Holy Ghost.) This unity of the Scriptures is a stark contrast to the Islamic Koran, which consists of a collection of 114 unrelated chapters organized according to their length (with the exception of chapter 1).
 
-The story of Redemption is a dramatic story, and not dead, boring, hastily combined pieces of literature. The Pentateuch sets the scene and palette for the entire picture of Biblical revelation.
-
-(Gen. 3:15; 6:18; Ex.12:13; Lev. 1:5; Num. 19:1-10; Deut. 1:8; Luke 24:27)
+The story of Redemption is a dramatic story, and not dead, boring, hastily combined pieces of literature. The Pentateuch sets the scene and palette for the entire picture of Biblical revelation (Gen. 3:15; 6:18; Ex.12:13; Lev. 1:5; Num. 19:1-10; Deut. 1:8; Luke 24:27).
 
 ## General Details of the Pentateuch
 
-Pentateuch means “5 Scrolls” and is the Greek name given to the first five books of the Bible by the translators. These 5 books are known by the Jews as “The Torah” which means The Law. The Pentateuch is part of the Old Testament. “Testament” means will or covenant. This covenant was one of shadows and promises of better things to come. (Hebrews 8:6-13)
+Pentateuch means “five Scrolls” and is the Greek name given to the first five books of the Bible by the translators. These 5 books are known by the Jews as “The Torah” which means The Law. The Pentateuch is part of the Old Testament. “Testament” means will or covenant. This covenant was one of shadows and promises of better things to come. (Hebrews 8:6-13)
 
 > Hebrews 12:24—And to Jesus the mediator of the new covenant, and to the blood of sprinkling, that speaketh better things than that of Abel.
 
 ## A Description of each book of the Pentateuch
 
+### GENESIS
+
 **GENESIS** is the book of origins—of the beginning of life, and of ruin through sin. Its first phrase "in the beginning God created" is in striking contrast to its last phrase "in a coffin in Egypt."
+
+### EXODUS
 
 **EXODUS** is the book of Redemption—the first need of a ruined race.
 
+### LEVITICUS
+
 **LEVITICUS** is the book of worship and communion, which is the proper exercise of the redeemed.
+
+### NUMBERS
 
 **NUMBERS** speaks of the experiences of a pilgrim people passing through a hostile scene to a promised inheritance.
 
-**DEUTERONOMY** is retrospective and prospective. It is a book of instruction for the redeemed about to enter into their inheritance. (Retrospective — relating to things of the past. Prospective — relating to things of the future.) "Remember"is the key word.
+### DEUTERONOMY
+
+**DEUTERONOMY** is retrospective and prospective. It is a book of instruction for the redeemed about to enter into their inheritance. (Retrospective — relating to things of the past. Prospective — relating to things of the future.) "Remember" is the key word.
 
 ## Authorship of the Pentateuch
 
@@ -105,17 +136,12 @@ The author of the Pentateuch is nowhere designated in the collection itself. The
 
 ### Passages Confirming this Conclusion
 
-#### Exodus 17:14 Moses, Write this…in a book
+1. Exodus 17:14 Moses, Write this…in a book
+2. John 1:45 Moses…did write
+3. John 5:46 Moses…he wrote of Me
+4. Mark 12:26; 2 Chr. 25:4; Neh.13:1 book of Moses
 
-#### John 1:45 Moses…did write
-
-#### John 5:46 Moses…he wrote of Me
-
-#### Mark 12:26; 2 Chr. 25:4; Neh.13:1 book of Moses
-
-### EXCEPTION: Deuteronomy 34 almost definitely was not written by Moses.
-
-(REASONING: Concerns his death and what took place following his death.) <sup>[3]</sup>
+EXCEPTION: Deuteronomy 34 almost definitely was not written by Moses. (REASONING: Concerns his death and what took place following his death.)<sup>[3]</sup>
 
 ## Depth of the Pentateuch
 
@@ -129,13 +155,14 @@ The Pentateuch is not merely a record of happenings, but in thePentateuch we hav
 
 ## Historical Precedence
 
-Babylonian and Assyrian monuments contain records bearing a grotesque resemblance to the majestic account ofCreation and of The Flood. Dennis Bratcher of CRI has observed, "…there aresimply too many similarities between the accounts to deny any relationship between the accounts." This fact confirms rather than invalidates Divine inspiration of the Mosaic account. Some tradition of creation and the Flood would inevitably be handed down in the ancient cradle of the human race. Such tradition, following the order of all tradition, would take on grotesque and mythological features over time, and these abound in the Babylonianrecords.
+Babylonian and Assyrian monuments contain records bearing a grotesque resemblance to the majestic account ofCreation and of The Flood. Dennis Bratcher of CRI has observed, "…there aresimply too many similarities between the accounts to deny any relationship between the accounts." This fact confirms rather than invalidates Divine inspiration of the Mosaic account. Some tradition of creation and the Flood would inevitably be handed down in the ancient cradle of the human race. Such tradition, following the order of all tradition, would take on grotesque and mythological features over time, and these abound in the Babylonian records.
 
 An example of such a tradition that has survived the ages is the uEnuma Elish ("When on High"). The uEnumaElish is seven Babylonian clay tablets uncovered in Nineveh (Mosul, Iraq)by Henry Layard in 1849. The uEnuma Elish has about a thousand lines and is recorded in Old Babylonian on seven clay tablets, each holding between 115and 170 lines of text. The tablets give us a good look at the Babylonian world view centered on their patron false god, Marduk. These tablets date back to 7th or 8th century BC but the story contained in it may date as far back as the 12th or even the 14th century BC.
 
-| Creation Accounts Comparison                                                                           |                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+### Creation Accounts Comparison
+
 | GENESIS ACCOUNT                                                                                        | ENUMA ELISH<sup>[5]</sup>                                                                                                               |
+| ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
 | God is seen as the ultimate source of power; transcends creation                                       | Magic incantations are ultimate source of power; the gods are subject to nature. III. 101; IV. 1-26,91<sup>[6]</sup>                    |
 | Organized synopsis of creation; systematically includes general realms of nature.                      | Does not include creation of vegetation, animals or light—the existence of these is assumed. Moon and stars created but not sun. V.2-22 |
 | PURPOSE: Praise to God as Lord of Creation; acknowledging Him as such. A tribute to God's sovereignty. | PURPOSE: Hymn of praise to Marduk as champion and mightiest of the gods. Creation is incidental. VI. 100ff                              |
@@ -147,11 +174,11 @@ An example of such a tradition that has survived the ages is the uEnuma Elish ("
 | Man created to rule creation.                                                                          | Man created to do the service of the gods so the gods would not have to work so hard. VI. 8, 34                                         |
 | Man created from the soil.                                                                             | Man created from the blood of slain hero. (kingu). VI. 33                                                                               |
 
-It is possible these tablets are older than any copies of Scripture that we have, but this does not mean they are a more reliable record just because they are older. Of necessity, the first task of inspiration would be to supplant the often absurd and childish traditions of men with a revelation of the true history (thePentateuch), and such history we find in words of matchless grandeur, and in an order which, rightly understood, is absolutely scientific.
+It is possible these tablets are older than any copies of Scripture that we have, but this does not mean they are a more reliable record just because they are older. Of necessity, the first task of inspiration would be to supplant the often absurd and childish traditions of men with a revelation of the true history (the Pentateuch), and such history we find in words of matchless grandeur, and in an order which, rightly understood, is absolutely scientific.
 
 ---
 
-# Foot Notes:
+**Foot Notes:**
 
 - [1] Authenticity: whether they exist genuine and entire as they came from the hands of their author.
 - [2] American Tract Society Dictionary, "Genesis."Matt. 8:4--Lev. 14:3-4; Matt. 19:7-- Deut. 24:1; John 1:45-Gen. 3:15; 49:10& etc.; Mark 12:26-- Ex. 3:2-6; and many more.
