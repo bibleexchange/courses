@@ -104,7 +104,7 @@ Inahusisha utambuzi binafsi wa Mungu na msamaha wa kimungu.
 
 #### Mwanatheolojia anaweza kuwa tu mwanasayansi.
 
-#### Mwanafunzi wa kikristo wa theolojia huweka sawa mahusiano yote.
+#### Mwanafunzi wa Kikristo wa theolojia huweka sawa mahusiano yote.
 
 ## Viwango vya theolojia
 

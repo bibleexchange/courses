@@ -4194,7 +4194,7 @@ KUFAULU MAFUNZO &nbsp;HAYA
 <li><span class='english' id='t103#' >The kings</span><span class='swahili' id='t103#' >Wafalme</span></li>
 <li><span class='english' id='t104#' >The shepherds</span><span class='swahili' id='t104#' >Wachungaji</span></li></ol>
 <h3><span class='english' id='t105#' >The priests</span><span class='swahili' id='t105#' >Makuhani</span></h3>
-<h2><span class='english' id='t106#' >Answer true or false. Augustine said that the Greeks were the librarians of the Christian church.</span><span class='swahili' id='t106#' >Jibu kweli au siokweli. Augustine alisema Wagiriki walikuwa waangalizi wa makitaba ya kanisa la kikristo.</span></h2>
+<h2><span class='english' id='t106#' >Answer true or false. Augustine said that the Greeks were the librarians of the Christian church.</span><span class='swahili' id='t106#' >Jibu kweli au siokweli. Augustine alisema Wagiriki walikuwa waangalizi wa makitaba ya kanisa la Kikristo.</span></h2>
 <h3><span class='english' id='t107#' >FALSE</span><span class='swahili' id='t107#' >SIO KWELI</span></h3>
 <h2>
 	<span class='english' id='t108#' >The division of Scripture into chapters was first done by ___________  _____________ of Saint Cher in ___________ AD.</span>
@@ -4502,7 +4502,7 @@ Uumbaji halisi kwa Burudani
 Mwanzo 1:1 - Katika mwanzo Mungu aliumba mbingu na nchi.
 2 Na nchi ilikuwa bila fomu, na utupu, na giza lilikuwa juu ya uso wa kina. Na Roho ya Mungu ikatulia juu ya uso wa maji.
 
-Wakati wa dunia ya mwazo mashirika kikristo hayakutaka nadharia , na kusema ni yakitalamu na wala sio ya kitafiti , na si lazima, katika aina zake vijana dunia vijana dunia waumini katika viumbe kudai kuwa ulimwengu mzima unaidadi ya watu 6-10,000 miaka ya zamani.
+Wakati wa dunia ya mwazo mashirika Kikristo hayakutaka nadharia , na kusema ni yakitalamu na wala sio ya kitafiti , na si lazima, katika aina zake vijana dunia vijana dunia waumini katika viumbe kudai kuwa ulimwengu mzima unaidadi ya watu 6-10,000 miaka ya zamani.
 
 Wewe 9:6, hata wewe, sanaa Bwana peke yake, wewe uliyefanya mbingu, mbingu za mbingu, pamoja na jeshi lake lote, dunia na vyote vilivyomo, bahari na vyote vilivyomo, nawe unavihifadhi wote; na jeshi la mbinguni kwako kuabudu.
 Wakolosai 1:16 Maana kwa njia yake vitu vyote viliumbwa, vilivyo mbinguni na vilivyo juu ya nchi, vinavyoonekana na visivyoonekana ikiwa ni viti vya enzi, au usultani, au enzi, au mamlaka; vitu vyote viliumbwa kwa njia yake, na kwa naye:

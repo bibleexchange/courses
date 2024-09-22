@@ -2,17 +2,17 @@
 
 ## God is eternally existent
 
-The Bible never attempts to prove the existence of God, but merely acceptsHis eternal existence as a foregone conclusion. God is eternally existent and preceded all matter and persons. (Deut. 32:40; 33:27; Job 36:26; Psalm 9:7;Isa. 57:15; Rev. 1:8)
+The Bible never attempts to prove the existence of God, but merely acceptsHis eternal existence as a foregone conclusion. God is eternally existent and preceded all matter and persons (Deut. 32:40; 33:27; Job 36:26; Psalm 9:7; Isa. 57:15; Rev. 1:8).
 
-> Hebrews 11:6--…he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.
+> Hebrews 11:6-…he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.
 
-The foundation of Christianity is faith. In the fullness of time, this faith can be confirmed by observable facts. Although filled with scientifically accurate material, the intent of Scripture is not to give a world history or ascientific exegesis of all things natural. Only the first two chapters aredevoted to a synopsis of creation and it promptly proceeds to the maincourse--God's dealings with man and specifically, the Hebrew people. All thebooks of the Old Testament concern themselves with this thought.
+The foundation of Christianity is faith. In the fullness of time, this faith can be confirmed by observable facts. Although filled with scientifically accurate material, the intent of Scripture is not to give a world history or ascientific exegesis of all things natural. Only the first two chapters are devoted to a synopsis of creation and it promptly proceeds to the maincourse--God's dealings with man and specifically, the Hebrew people. All thebooks of the Old Testament concern themselves with this thought.
 
-As both Creationism and Evolution require faith, It would seem the only necessity for the idea of evolution is to create a situation where man can be independent of God and free to establish his own rules of life. Evolution is the religion of the atheist. To believe in the religion of evolution is to beanti-God in that it is in stark contrast to the record of Scripture, God's HolyWord.
+As both Creationism and Evolution require faith, It would seem the only necessity for the idea of evolution is to create a situation where man can be independent of God and free to establish his own rules of life. Evolution is the religion of the atheist. To believe in the religion of evolution is to beanti-God in that it is in stark contrast to the record of Scripture, God's Holy Word.
 
 ## God is the Creator of all things
 
-God--"Elohim" supreme God; superlative; creative glory (found in 180 verses in Genesis; 2,249 verses in the O.T.) Gen. 6:7;Isa. 43:15; John 1:3; Heb. 1:10; I Peter 4:19
+God: "Elohim" supreme God; superlative; creative glory (found in 180 verses in Genesis; 2,249 verses in the O.T.) Gen. 6:7;Isa. 43:15; John 1:3; Heb. 1:10; I Peter 4:19
 
 ### All things have their beginning and source in God.
 

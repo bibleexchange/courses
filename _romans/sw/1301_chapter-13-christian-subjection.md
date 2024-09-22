@@ -55,7 +55,7 @@ Bwana anaahidi kurudi, lakini wakati wakurudi ataikuta imani duniani? (Luk. 18:8
 
 ### Kutembea kwetu
 
-Kila mwanafunzi wa kikristo, lazima awe na kusudi, au maono, vinginevyo tutashindwa. Hili ni jambo ambalo Kristo atatupa.
+Kila mwanafunzi wa Kikristo, lazima awe na kusudi, au maono, vinginevyo tutashindwa. Hili ni jambo ambalo Kristo atatupa.
 
 ### Je, tunafanya kazi ya Mungu au kazi zetu?
 

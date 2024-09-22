@@ -75,7 +75,6 @@
 
 <h4>Grace is God&#8217;s dealing with the sinner absolutely apart from the question of merit or demerit. Grace is neither treating a person as he deserves, nor treating him better than he deserves.</h4>
 
-
 <h4>Grace is infinite love expressing itself in infinite goodness.</h4>
 <p></p>
 <p>A misunderstanding should be avoided. Grace does not mean that sin is forgiven because God is big-hearted enough to remit the penalty. Redemption is through the blood. (Rom. 3:24; Eph. 1:6-7) Pardoning sin is based on strict justice. In pardoning sin He is faithful and just&#8221; ( I John 1:9) We are justified only because Christ PAID the debt.</p>
@@ -83,7 +82,6 @@
 <h4>Grace is independent of man&#8217;s works or activity. Gal. 5:4</h4>
 
 <p>When a person is under the Law, he cannot be under Grace. When he is under Grace, he is not under Law.</p>
-
 
 <table>
 <tr>
@@ -96,8 +94,6 @@
 <td>A work done.</td></tr>
 
 <tr><td>Restrains actions.</td><td>Changes nature</td></tr><tr><td>Condemns</td><td>Justifies</td></tr><tr><td>Servants work for wages.</td><td>Sons enjoying an inheritance.</td></tr></table>
-
-
 
 <p>
 	<img width="118" height="105" src="/assets/doctrine-1/danger-sign-en.png" >
@@ -174,7 +170,7 @@
 
 Christ earned or paid for this righteousness for us and the price is His atoning death. Romans 3:25 says:
 
->Romans 3:25
+> Romans 3:25
 
 <p>Propitiation is that which secures God&#8217;s favor for the undeserving. Christ died in order to save us from God&#8217;s righteous wrath and to secure His favor to us. Propitiation means mercy seat. (Ex. 26:34; Heb. 9:5; I John 2:2; 4:10)</p>
 
@@ -189,7 +185,6 @@ Christ earned or paid for this righteousness for us and the price is His atoning
 <h5>Righteousness was purchased by Christ&#8217;s substitutionary death.</h5>
 
 <p>God has provided a garment. Isa. 61:10; Isa. 53:5,11; Rom. 4:6;5:18,19; II Cor. 5:21 His death was a perfect act of righteousness because it satisfied the law of God; it was also a perfect act of obedience. And all this was done on our behalf and placed to our credit. The act by which God charges or reckons this righteousness to our account is called imputation.</p>
-
 
 <h5>Righteousness is imputed to our account.</h5>
 
@@ -214,7 +209,6 @@ Christ earned or paid for this righteousness for us and the price is His atoning
 
 <p>Christ being in you Col. 1:27; Eph. 3:17; Gal. 4:19; Eph. 4:13</p>
 <p>Being in Christ and Christ in us actually go together John 15:4 John 14:23I John 3:24; 4:13 Real salvation calls for a life of practical holiness. They who wear His righteousness will be careful to purify themselves. I John 3:3</p>
-
 
 <h2>The Means of Justification &#8211; Faith</h2>
 
@@ -248,6 +242,7 @@ Christ earned or paid for this righteousness for us and the price is His atoning
 - Faith protected by works, James 2:22
 
 That is, faith is an energetic principle; as well as, a receptive attitude. Faith is therefore a powerful motive to obedience and to every good work. Faith involves the will and is connected with all good choices and actions. (Rom. 14:23) Faith includes the choice and pursuit of the truth. (II Thess. 2:12) Faith implies subjection to the righteousness of God. (Rom. 10:3)
+
 </div>
 <div lang="swa">
 <h1>Kuhesabuliwa haki</h1>
@@ -312,14 +307,13 @@ That is, faith is an energetic principle; as well as, a receptive attitude. Fait
 
 <p>Kristo ni mwisho wa sheria&#8221; Warumi 10:4.</p>
 
-
 <h2>Chemi-chemi ya haki &#8212; Neema</h2>
 
 <h3>Kazi ya neema imeeleweka</h3>
 
 <p>Neema maana yote ya kwanza fadhili, ao hali ya wema akihini mwa Mungu </p>
 
-<p>Neema iliitwa wema na fadhilisafi bila thsawabu&#8221; ao fadhili ambao haistailiwe&#8221;. Neema haiwegi kukopa deni. Ile Mungu ametoa, ameyatowa kama karama; hatuwezi kulipa kwa ajili ya hiyo. (warumi 6:23) Kazi ya kikristo siyo malipo kwa ajili ya neema la Mungu; Kazi ni njia ya kikristo ya kuonyesha utauwa na upendo kwa Mungu Tumemupenda, kwani yeye alitupenda mbele (Iyohana 4:19).</p>
+<p>Neema iliitwa wema na fadhilisafi bila thsawabu&#8221; ao fadhili ambao haistailiwe&#8221;. Neema haiwegi kukopa deni. Ile Mungu ametoa, ameyatowa kama karama; hatuwezi kulipa kwa ajili ya hiyo. (warumi 6:23) Kazi ya Kikristo siyo malipo kwa ajili ya neema la Mungu; Kazi ni njia ya Kikristo ya kuonyesha utauwa na upendo kwa Mungu Tumemupenda, kwani yeye alitupenda mbele (Iyohana 4:19).</p>
 
 <p>Neema ni jinsi ya Mungu kutumika kuhusu dhambi bagaire kabisa ya swaliza kustaili&#8221; hama kutokustaili&#8221;. Neema siyo kamwe kumtunza mtu jinsi amestaili, hama kumtunza vizuri zaidi kuliko amestaili.</p>
 
@@ -381,7 +375,7 @@ That is, faith is an energetic principle; as well as, a receptive attitude. Fait
 
 <h4>Neema Yenye Nguvu</h4>
 
->Ephesians 3:7
+> Ephesians 3:7
 
 <p>Neema imekuwa na nguvu kwa kuzaa kugeuka, kama haipingwe na mtu, yohana 5:40; Matendo 13:46 Neema yenye nguvu&#8221; haiko namna moja na neema yenye kupingwa.</p>
 <p>Nukta ya nne ya Mafundisho ya calvin ni neema yenye kupingwa&#8221;. Hiyo ono kuhusu neema imeonyesha ya kuwa hatuna mtu awezaye kuyapinga neema ya Mungu, walakini yule yeyote mungu alichagua&#8221; kwa kuokolewa, aliokolewa bila kupinga hiyi neno zimekanusha mafundisho ya Biblia ya mapenzi huru na uchaguzi, na imekataa hitaiji lolote ya mtenda dhambi kushirikiana kwa namna zote na tendo la Mungu.</p>
@@ -408,7 +402,6 @@ That is, faith is an energetic principle; as well as, a receptive attitude. Fait
 
 <!---->
 
-
 <h2>Sababu ya Kuhesabuliwa Haki &#8211; Haki ya Kristo.</h2>
 <p><img width="50" height="50" src="/assets/doctrine-1/question-mark-circle.png" >Vipi Mungu awezaye kuona mwenye dhambi kama mtu mwenye haki?</p>
 <p>Mungu amemfanya Mwenye kutubu kuwa mwenye haki.</p>
@@ -424,7 +417,7 @@ That is, faith is an energetic principle; as well as, a receptive attitude. Fait
 
 <p>Kristo aliyapato ao kiyalipa hiyo Haki juu yetu na bei ni ni kifo chake cha utubio. Warumi 3:25 imesema:</p>
 
->Romans 3:25
+> Romans 3:25
 
 <p>Upatanisho ni ile ambayo imesalamisha fadhili ya Mungu kwa wale ambae hawastahili. Kristo alikufa ili kusudi tuepushwe kwa hasira ya Mungu yenyi haki na kusalamisha fadhili yake kwetu. Upatanisho maana kitu chenye rehema (Kutoka 26:34; Waebrania 9:5; I Yohana 2:2; 4:10).</p>
 
@@ -453,7 +446,7 @@ That is, faith is an energetic principle; as well as, a receptive attitude. Fait
 <p>Katika kuhesabuliwa kuwa haki kristo ni upande wetu, lakini amekuwa tena ndani mwetu?</p>
 
 <p>Maana, imeonekana ya kuwa utilia inge chafua sheria ikawa haikuambatane na usalama wa haki ijao.</p>
-<p>Jibu ni kwamba hiyo imani yenye haki ni tendo la kwanza ya maisha ya kikristo, na hiyo tendo la kwanza, wakati imani ikohai, imefwatwa na mabadili ya kiroho ya ndani yenye kujulikana kama kuzaliwa upya kwa kiroho (regeneration).</p>
+<p>Jibu ni kwamba hiyo imani yenye haki ni tendo la kwanza ya maisha ya Kikristo, na hiyo tendo la kwanza, wakati imani ikohai, imefwatwa na mabadili ya kiroho ya ndani yenye kujulikana kama kuzaliwa upya kwa kiroho (regeneration).</p>
 <p>Kaki imetiliwa katika kuhesabuliwa kuwa haki na imetolewa katika kuzaliwa upya kwa kiroho (regeneration). Kristo ambae amekuwa upande wetu amekuwa kristo ndani mwetu. Kristo ameishi ndani muangu&#8221;, Wagalatia 2:20</p>
 
 <p>Mabadiliko ya uamuzi- wakati ndani ya Kristo.</p>
@@ -463,7 +456,6 @@ That is, faith is an energetic principle; as well as, a receptive attitude. Fait
 
 <p>Kristo ndani mwako wakolosai 1:27, waefeso 3:17; wagalatia 4:19; waefeso 4:13. Kuwa ndani ya kristo na kridto ndani mwetu imeenda sasa pamoja. Yohana 15:4; 14:23, I yohana 3: 24; 4:13 wokovu halisi zimeomba maisha yenye matumizi ya utkalifu. Wale ambae wamevaa haki yake wakafanya iwezekanavyo kujitakasa wenyewe. I Yohana 3:3</p>
 
-
 <h2>Vyombo vy kuhesabuliwa kuwa haki &#8211; Imani </h2>
 
 <p>Kuhesabuliwa kuwahaki ni kwa imani. Kwa sababu sheria haiwezi kuhesabu kuwa haki, taraja tu ya mtu ni Haki bila shema&#8221; (warumi 3:21). Hiyo siyo kutokuwa haki bila kutokea kwa sheria, ao dini ambayo imetujuzu to tenda dhambi, lakini ni kuhesabuliwa kwoa haki ambao kumebadili uamuzi wetu na Mungu yenye kuketi juu ya staha ya kristo. Hiyo ndiyo Haki ya Mungu&#8221; (Haki ambao Mungu ametolea), na imekuwa kipawa kwa sababu mtu amekosa mamlaka ya kuikomalisha ao kuitimiza. (waefeso 2:8-10). Kazi matatu ya imani ni hiyi ifwatayo:</p>
@@ -472,11 +464,11 @@ That is, faith is an energetic principle; as well as, a receptive attitude. Fait
 
 <p>Kipawa kimepasa kukubaliwa. Vipi sasa kipawa cha haki kimekubaliwa? Ni chambo gani kimejichukulia haki ya kristo. Ni imani. </p>
 
->Galatians 2:16
+> Galatians 2:16
 
 <h3>Imani imetenda</h3>
 
->Psalms 51:7
+> Psalms 51:7
 
 <p>Imani haichukuwe tu yale yote Mungu ametoa, lakini yameikabizi kwenye nafsi.</p>
 
@@ -486,7 +478,6 @@ That is, faith is an energetic principle; as well as, a receptive attitude. Fait
 <p>Imani imeamba matendo. Maandiko yamezungumzia kuhusu kazi za imani.&#8221;</p>
 <p>wagalatia 5:6 &#8211; Imani itendayo.</p>
 <p>Awathesaloni 1:3 &#8211; Kazi ya imani </p>
-
 
 -Imani imezoa&#8211;Yakobo 2:26
 -Imani imehakikishwa kwa matendo&#8212;Yakobo 2:18

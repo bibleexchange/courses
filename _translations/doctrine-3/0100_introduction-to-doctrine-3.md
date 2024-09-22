@@ -44,7 +44,7 @@ Nimuhimu kwamba juhudi yetu iwe imekusudiwa kwa hisia kwa ajili ya maandiko mata
 - Mazoea ya haraka, kusahihisha, na wazo mfululizo.
 - Utaratabu katika kufikiri na wazo la mawasiliano.
 - Wepesi katika maandalizi kwa ajili ya madhabahu.
-- Mwenye uwezo kamili katika maelezo ya mafundisho ya kikristo.
+- Mwenye uwezo kamili katika maelezo ya mafundisho ya Kikristo.
 - Wepesi katika kuwathibitisha.
 - Kuwa na msimamo wa mitazamo na maelezo.
 - Hali ya kutulia ya moyo katika kujihusisha na ukweli wa kidini.

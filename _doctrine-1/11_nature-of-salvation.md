@@ -224,7 +224,7 @@
 
 <p>Imani na utibio ni matayarisho tu kwa wokobu&#160;? </p>
 
-<p>Tumehitaji Mungu kwa kila hatua katika maisha yetu ya kikristo na tumemtegemea kwa yote. Imetupasa kuyapokea kila neema ya kikristo kutokea kwa Mungu na Mungu amejibu kwa imani, Waebrania 11:6; II Timotheo 2:25.</p>
+<p>Tumehitaji Mungu kwa kila hatua katika maisha yetu ya Kikristo na tumemtegemea kwa yote. Imetupasa kuyapokea kila neema ya Kikristo kutokea kwa Mungu na Mungu amejibu kwa imani, Waebrania 11:6; II Timotheo 2:25.</p>
 
 <p> Ni roho mtakatifu imeleta hakikisho za dhambi imepeleka watu kwenye utubio.</p>
 

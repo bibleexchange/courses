@@ -46,7 +46,7 @@ Roho ya kifungu hiki ni ya kipekee na maalumu unapofikiria kwamba Paulo hakukuta
 
 > Wagalatia 3:28—Hapana Myahudi wala Myunani. Hapana mtumwa wala huru. Hapana mtu mume wala mtu mke. Maana ninyi nyote mmekuwa mmoja katika Kristo Yesu.
 
-> Kwa ulimwengu ambao Paulo alikuwa anaishi ulikuwa ni wa kigeni, wazo jipya ambalo wanawake wangeshirikisha kwa wanaume katika msisimko yake ya kifahari. Kihistoria udhaifu wa nusu ya wanadamu ni matokeo ya moja kwa moja ya kanuni ya kikristo ambayo wote ni wamoja katika Kristo Yesu.
+> Kwa ulimwengu ambao Paulo alikuwa anaishi ulikuwa ni wa kigeni, wazo jipya ambalo wanawake wangeshirikisha kwa wanaume katika msisimko yake ya kifahari. Kihistoria udhaifu wa nusu ya wanadamu ni matokeo ya moja kwa moja ya kanuni ya Kikristo ambayo wote ni wamoja katika Kristo Yesu.
 > —MacClaren
 
 ## Maamukizi na salamu (mst. 3–15)

@@ -273,7 +273,7 @@ Uumbaji halisi kwa Burudani
 Mwanzo 1:1 - Katika mwanzo Mungu aliumba mbingu na nchi.
 2 Na nchi ilikuwa bila fomu, na utupu, na giza lilikuwa juu ya uso wa kina. Na Roho ya Mungu ikatulia juu ya uso wa maji.
 
-Wakati wa dunia ya mwazo mashirika kikristo hayakutaka nadharia , na kusema ni yakitalamu na wala sio ya kitafiti , na si lazima, katika aina zake vijana dunia vijana dunia waumini katika viumbe kudai kuwa ulimwengu mzima unaidadi ya watu 6-10,000 miaka ya zamani.
+Wakati wa dunia ya mwazo mashirika Kikristo hayakutaka nadharia , na kusema ni yakitalamu na wala sio ya kitafiti , na si lazima, katika aina zake vijana dunia vijana dunia waumini katika viumbe kudai kuwa ulimwengu mzima unaidadi ya watu 6-10,000 miaka ya zamani.
 
 Wewe 9:6, hata wewe, sanaa Bwana peke yake, wewe uliyefanya mbingu, mbingu za mbingu, pamoja na jeshi lake lote, dunia na vyote vilivyomo, bahari na vyote vilivyomo, nawe unavihifadhi wote; na jeshi la mbinguni kwako kuabudu.
 Wakolosai 1:16 Maana kwa njia yake vitu vyote viliumbwa, vilivyo mbinguni na vilivyo juu ya nchi, vinavyoonekana na visivyoonekana ikiwa ni viti vya enzi, au usultani, au enzi, au mamlaka; vitu vyote viliumbwa kwa njia yake, na kwa naye:

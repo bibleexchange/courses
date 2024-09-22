@@ -44,7 +44,7 @@ Nimuhimu kwamba juhudi yetu iwe imekusudiwa kwa hisia kwa ajili ya maandiko mata
 - Mazoea ya haraka&#44; kusahihisha&#44; na wazo mfululizo.
 - Utaratabu katika kufikiri na wazo la mawasiliano.
 - Wepesi katika maandalizi kwa ajili ya madhabahu.
-- Mwenye uwezo kamili katika maelezo ya mafundisho ya kikristo.
+- Mwenye uwezo kamili katika maelezo ya mafundisho ya Kikristo.
 - Wepesi katika kuwathibitisha.
 - Kuwa na msimamo wa mitazamo na maelezo.
 - Hali ya kutulia ya moyo katika kujihusisha na ukweli wa kidini.
@@ -193,7 +193,7 @@ Inahusisha utambuzi binafsi wa Mungu na msamaha wa kimungu.
 
 #### Mwanatheolojia anaweza kuwa tu mwanasayansi.
 
-#### Mwanafunzi wa kikristo wa theolojia huweka sawa mahusiano yote.
+#### Mwanafunzi wa Kikristo wa theolojia huweka sawa mahusiano yote.
 
 ## Viwango vya theolojia
 
@@ -1267,7 +1267,7 @@ Nimuhimu kwamba juhudi yetu iwe imekusudiwa kwa hisia kwa ajili ya maandiko mata
 - Mazoea ya haraka&#44; kusahihisha&#44; na wazo mfululizo.
 - Utaratabu katika kufikiri na wazo la mawasiliano.
 - Wepesi katika maandalizi kwa ajili ya madhabahu.
-- Mwenye uwezo kamili katika maelezo ya mafundisho ya kikristo.
+- Mwenye uwezo kamili katika maelezo ya mafundisho ya Kikristo.
 - Wepesi katika kuwathibitisha.
 - Kuwa na msimamo wa mitazamo na maelezo.
 - Hali ya kutulia ya moyo katika kujihusisha na ukweli wa kidini.
@@ -1416,7 +1416,7 @@ Inahusisha utambuzi binafsi wa Mungu na msamaha wa kimungu.
 
 #### Mwanatheolojia anaweza kuwa tu mwanasayansi.
 
-#### Mwanafunzi wa kikristo wa theolojia huweka sawa mahusiano yote.
+#### Mwanafunzi wa Kikristo wa theolojia huweka sawa mahusiano yote.
 
 ## Viwango vya theolojia
 

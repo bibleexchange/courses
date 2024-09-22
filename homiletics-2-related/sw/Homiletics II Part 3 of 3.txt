@@ -256,8 +256,8 @@
 559###  Je ulikamilisha mazoezi ya sura: ya pili? (Kugawanya mistari katika sehemu zake)
 560###  jibu lazima liwe NDIO.
 561###  Jaribio la maswali sehemu ya tatu: Uunganishaji wa hotuba
-562###  Ni nini chanzo cha mafundisho ya kikristo?
-563###  Kumbuka maandiko matakatifu ndio chanzo cha mafundisho ya kikristo.
+562###  Ni nini chanzo cha mafundisho ya Kikristo?
+563###  Kumbuka maandiko matakatifu ndio chanzo cha mafundisho ya Kikristo.
 564###  Kutoa dondoo itakua ndio msingi wako kumaanisha nini?
 565###  Kutoa dondoo itakuwa msingi wako kumaanisha ubora wa uzalishaji,masomo ya katika ya Biblia, ni mazungumzo,na hotuba. 
 566###  Orodhesha aina tatu za hotuba na utoe maelezo mafupi ya kila moja wapo.
@@ -560,8 +560,8 @@
 863###  Maelezo ya maneno ni hotuba nzima ilioandikwa katika sentence moja kamili.Maelezo ya maneno kutoka War1:16 yange kuwa'Injili ni uwezo kamili.'
 864###  Ni kifungu gani kilikuwa cha Petro katika hotuba yake inayo patikana katika Mndo2:14-41?
 865###  Yoeli  2:28&#45;32
-866###  Ni nini ambayo ni chanzo cha mafundisho ya kikristo?
-867###  Kumbuka kwamba mandiko matakatifu ndio chanzo cha mafundisho ya kikristo.
+866###  Ni nini ambayo ni chanzo cha mafundisho ya Kikristo?
+867###  Kumbuka kwamba mandiko matakatifu ndio chanzo cha mafundisho ya Kikristo.
 868###  Dondoo zitakuwa msingi wako kumaanisha nini?
 869###  Dondoo zitakuwa msingi wako kuzalisha ubora,masomo ya katikati ya Biblia,mazungumzo,na hotuba.
 870###  Orodhesha aina tatu za hotuba na toa maelezo mafupi ya kila moja ya hotuba.

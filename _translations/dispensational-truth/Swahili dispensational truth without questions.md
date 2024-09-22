@@ -457,7 +457,7 @@ A.       Mwanzo wa Binadamu na Serikali zake Mwanzo 8:15-11:9
 
 Deluge ilidumu 1 mwaka na siku 10, Nuhu alikuwa na umri wa miaka 601 wakati wa mpango wa Serikali za Binadamu ulioanza,Mungu akawapa mwanzo mpya.
 
-1.       Mungu alimuaru Nuhu baada ya mafuriko na "Toka Marikebu ya safina ". Zaeni, 	mkaongezeke"Mwa 8:16-17
+1.        Mungu alimuaru Nuhu baada ya mafuriko na "Toka Marikebu ya safina ". Zaeni, 	mkaongezeke"Mwa 8:16-17
 
 2.  Nuhu alipo maliza kipinda cha mafuriko na Safina aliweza kujenga madhabahu kwa Bwana. Mwanzo 8: 20
 
@@ -468,15 +468,15 @@ Deluge ilidumu 1 mwaka na siku 10, Nuhu alikuwa na umri wa miaka 601 wakati wa m
 B.       Mungu na Amri zake Chini ya Serikali za Wanadamu
 
 1.  "Mkaijaze nchi" Mwanzo 9:1
-2.       Kila kitu kiko mikononi mwenu Nuhu Mwanzo 9: 2-
+2.        Kila kitu kiko mikononi mwenu Nuhu Mwanzo 9: 2-
     3.     Huwezo wa kula nyama Mwanzo 9: 3
     4.     Damu, ulikatazwa kuwa kuliwa Mwanzo 9: 4-
     5.      Adhabu ya kifo Mwanzo 9: 5-6
 
 C.       Nuhu na utekelezaji Chini ya Serikali
 
-1.       Nuhu kuwa mkulima & kupandwa mazao- Mwanzo 9: 20-
-2.       Nuhu na kunywa divai na kulewa Mwanzo 9: 21-
+1.        Nuhu kuwa mkulima & kupandwa mazao- Mwanzo 9: 20-
+2.        Nuhu na kunywa divai na kulewa Mwanzo 9: 21-
     3.    Kutoka ulevi Mwanzo 9: 21-
     4.    Hii inathibitisha kwamba mtu hawezi kutawala nafsi yake. Mwanzo06:09 & 09:21.
     Ubora wa Mwanadamu nikuacha maovu katika mioyo yetu. Uhafifu wa Mwanadamu anahitaji neema ya Mungu.
@@ -491,7 +491,7 @@ D.       Nuhu naUnabii - Mwanzo 9
 
 Huu Unabii ulikuwa si wa hasira lakini ni historia inaonyesha kuwa Nuhu alikuwa na Mungu aliyemvuviwa.
 
-1.       Laana juu ya Kanaani – Mwanzo 9: 25
+1.        Laana juu ya Kanaani – Mwanzo 9: 25
     a.          Kanaani alikuwa mwana wa Ham ambapo laana iliwekwa juu yake.
 
 b.      Laana ilikuwa juu ya Kanaani ni kwamba asiwe mtumishi.
@@ -553,9 +553,9 @@ Mwana                       Mataifa             
 
 E.       Uasi katika Babeli
 
-1.       Katika Mwanzo 9:1 Mungu akamwambia Nuhu na wanawe mkaijaze nchi.
+1.        Katika Mwanzo 9:1 Mungu akamwambia Nuhu na wanawe mkaijaze nchi.
 
-2.       Katika Mwanzo 10:32 ardhi ilikuwa imegawanywa katika mataifa baada ya gharika.
+2.        Katika Mwanzo 10:32 ardhi ilikuwa imegawanywa katika mataifa baada ya gharika.
 
 3.   Katika Mwanzo 11:01 walikuwa katika uasi kwa mpango wa Mungu.
 
@@ -775,7 +775,7 @@ b.         Maisha ya Musa ilikuwa yamegawanywa katika vipindi vitatu vya 
 B.       Kipindi cha Ukombozi
 
 1.  Wito wa Musa pale Burning Bush - 3:1-10
-2.       Tume yake ya Kimungu - 3:12-22; 4:1-9
+2.        Tume yake ya Kimungu - 3:12-22; 4:1-9
     3.  Haruni na Musakufanyajambo mpaka Farao kuwaachilia watu waende. 
     4:27-31; 5:1-3
     4.  Kusababisha Ishara Kumi - 7-11
@@ -786,28 +786,28 @@ B.       Kipindi cha Ukombozi
 C.       Kipindi cha Nidhamu
 
 1.  Idadi kwamba alipotoka Misri - 12:37-38
-2.       Sababu Mungu aliongoza watu kupitia jangwa -13:17-18
-3.       Bwana wakiongozwa na nguzo ya wingu na nguzo la moto - 13:21-22
+2.        Sababu Mungu aliongoza watu kupitia jangwa -13:17-18
+3.        Bwana wakiongozwa na nguzo ya wingu na nguzo la moto - 13:21-22
     4.  Masomo:
     Katika Bahari ya Shamu (14:15-18) Kwa Mara (15:23-25) Bila Manna (16:15) Bila ya Maji nje yajiwe (17:5-6; 20:8-13) Bila ya shaba nyoka (21:8-9)
 
 D.       Kipindi cha Sheria
 
 1.  Kuwasili katika Sinai 19:1-2
-2.       Sheria za Mungu na Majedwali ya Mawe 20:1 - 31:18
+2.        Sheria za Mungu na Majedwali ya Mawe 20:1 - 31:18
 3.  Maandalizi na mkutano wa Hema 35:1 - 40:38
 
 E.       Kutangatanga Jangwani
 
-1.       Kutuma wapelelezi ya - Hesabu 13:1-2
-2.       Taarifa ya Yoshua na Kalebu - Hesabu 14:6-9
+1.        Kutuma wapelelezi ya - Hesabu 13:1-2
+2.        Taarifa ya Yoshua na Kalebu - Hesabu 14:6-9
     3.  Uasi wa Watu - Hesabu14:10-12
     4.   Kifo cha Musa - Kumbukumbu34:1-7
 
 F.       ( Conquest) Kuidhibiti kuichukuwa Kanaani
 
-1.       Uvamizi wa Ardhi  - Yoshua 1:1-5:15
-2.       Kuanguka kwa Yeriko - Yoshua 6
+1.        Uvamizi wa Ardhi  - Yoshua 1:1-5:15
+2.        Kuanguka kwa Yeriko - Yoshua 6
     Sanduku linawakilisha ukamilifu wa roho. Tunaweza kuona jinsi kuta za Yeriko zilivyo weza kuangushwa kwa sababu Waisraeli (ndani zilizomo amri za Mungu), waliweza kutii neno la Mungu.Baadhi ya watu wanaweza kupiga kelele kama wanaweza kuisha katika utii na kufata neno la Mungu.
     3.        Mapigano ya Ai - Yoshua 7:8
     Shinda 7:11 Dhambi huja daima wakati kuna mchanganyiko.Lakini kwa haraka yakifanyika masahihisho tatizo huisha,Na ndipo ushindi huo tena ulipatikana kwa Israeli.
@@ -867,12 +867,12 @@ Bwana anachukizwa na mwenye kuasi.Waebrania 10:31 - Ni jambo moja ambalo mtu ana
     Wakati wa Sulemani alijua kwamba alifanya makosa, yeye hakutubu,lakini ilithubutu kumuua Nabii wa Mungu,ili kupigana na Mungu katika kiini.Si kwa sababu ya Sulemani lakini kwa sababu ya Daudi
     B.       Idara zima katika Ufalme.
 
-5.       Sababu Ufalme huu ulikuwa na niya ya Kugawanywa IWafalme12:1-16
+5.        Sababu Ufalme huu ulikuwa na niya ya Kugawanywa IWafalme12:1-16
 
     Wakati mwingine jamii ya Vijana wana maana zuri, lakini wakati mwingine kushindwa kushauri vizuri.Na wakati mwingine hutoa neno kama Mungu alivyosema, na makabila yakagawanyika.. ...
     Illus: Mkutano wa Mungu, walikutana wahubiri vijana, aliamua mfumo mwingine wowote katika shughuli za waovu, na katika mkutano hao kuuzwa zaidi picha za ngono kwa wale wahubiri kuliko wenye dhambi katika hoteli walipo kuwepo.Kama tunaweza kurudi nyuma kidogo,kwahio muda mchache kabla ya kutambua hivyo vilima vime kuja chini.Wao walikataa ushauri wa Wazee.
 
-6.       Hatua ya Rehoboamu na uamuzi katika Israeli IWafalme 12:18-19
+6.        Hatua ya Rehoboamu na uamuzi katika Israeli IWafalme 12:18-19
                             	Wakaasi juu ya nyumba ya Daudi nah ii tunaweza kuona hata siku za leo...
 
 7.  Jereboam ilikuwa mfalme juu ya makabila kumi ya kaskazini katika Israeli I Wafalme 12:20
@@ -891,9 +891,9 @@ Tuna mengi ya taabu kukubali kwamba sisi tu wakosaji na sisi ndio tuna dhambi ka
 
 C.       Ufalme wa kaskazini ilidumu kidogo zaidi ya miaka 200
 
-1.       Ufalme huu daima ulikuwa unasumbuliwa kutoka ndani na mara nyingi 	kushambuliwa kutoka bila majibu.
+1.        Ufalme huu daima ulikuwa unasumbuliwa kutoka ndani na mara nyingi 	kushambuliwa kutoka bila majibu.
 
-2.       Ufalme huu unajulikana zaidi na Malkia wa Ufalme wa kaskazini ambapo 	alikuwapo Ahabu na Yezebeli. – I Wafalme 16:30-31
+2.        Ufalme huu unajulikana zaidi na Malkia wa Ufalme wa kaskazini ambapo 	alikuwapo Ahabu na Yezebeli. – I Wafalme 16:30-31
     Yuda maana yake ni sifa. Ufunuo wa Pentekoste, Kati ya Yuda wakaja Bana, Bana maana yake mcha Mungu,Imrai maana yake ni iliyosafishwa (wasemaji).Imrai ikazalisha Omri. Omri maana yak mioyo iliyo nusu - Moja ya mambo yalioshauriwa na,Yezebeli ni kudanganya watumishi wa Mungu.Ufunuo 2:20; II Wafalme 17:17
     3.        Si kila mmoja wa wafalme wake kumi na tisa walikuwa watauwa wa watu.
     Chukua nafasi kwa ajili ya ukweli, wakati mwingine lazima udhulumiwe. Waliingilia huduma hizo, waliweza pia kushambuliwa manabii wa Mungu.Mbali ya hao wafalme 19 waliotawala walikuwa upande wa kaskazini ufalme, sio kila mmoja wao alikuwa katika Utauwa.
@@ -914,14 +914,14 @@ D.       Yuda alikuwa mtawala juu ya Wafalme 19 na Malkia mmoja.
     4.   Hatimaye walifanya yaliyo maovu machoni pa Bwana. 1Wafalme 14:22
       "Yuda walifanya yaliyo maovu machoni pa Bwana"
     Tunapasa kupitia maisha matakatifu ili kuwezesha kifo cha shetani, lakini wakati huo huo sisi tunapaswa kuwa juu ya ulinzi dhidi ya shetani ambaye huweza kufanya kitu chochote nakukuvutia wewe mbali. Shetani anajaribu kufanya mambo na mtu aaze kufikiri kwamba ni vigumu kuwa Mkristo ambae anaweza kuishi maisha matakatifu, lakini Biblia inasema kuhusu kuwa katika maisha ya dhambi, unakumbuka, ni vigumu kuwa mwenye dhambi.
-    Lakini kama kweli mtu anaweza kuishi maisha matakatifu ya kikristo, ni wazi kabisa hakuna maisha mazuri kama ya kuisha katika Kikristo yani maisha matakatifu.
+    Lakini kama kweli mtu anaweza kuishi maisha matakatifu ya Kikristo, ni wazi kabisa hakuna maisha mazuri kama ya kuisha katika Kikristo yani maisha matakatifu.
 
 E.       Nebukadreza kuuzingira mji wa Yerusalemu
 
 Akauhusuru ni mji uliosababisha wao kulipa kodi.Mungu aliwapa muda ya kwamba wao wangeweza kutubu, lakini hawakufanya hivyo, hivyo Mungu aliwaacha wachukuliwe katika utumwa.Wakati Mungu aliwaonya watu wale, lakini sasa basi ni kutazamia hukumu. Sita weza kupata shida kama nitapata shida na watu, lakini kama nitakuwa sina mahusiano mazuri naMungu hapo nitakuwa katika shida na, Mpendwa Mungu basi nitakuwa katika taabu. Lakini kama tukishindwa katika jambo moja basi ni rahisi kushindwa katika mambo wote. Israeli kamwe hawakujuwa kushindwa,ni wakati tu ule walipokuwa na shida ndani.
 
-1.       Yuda na Yerusalemu ilianguka katika mwaka 587-586
-2.       Baada ya miaka ya 470 waliweka wakfu katika Hekalu-II Wafalme 25:1-	11 Suleimani
+1.        Yuda na Yerusalemu ilianguka katika mwaka 587-586
+2.        Baada ya miaka ya 470 waliweka wakfu katika Hekalu-II Wafalme 25:1-	11 Suleimani
     3.  Mateka wa Yuda walichukuliwa mateka mpaka Babeli.
     4.  Katika Babeli Waebrania na walitubu na wakamgeukia Mungu.
 
@@ -930,11 +930,11 @@ Kutoka matengenezo ya Mwisho wa Agano la Kale
 
 A.       Babeli akaanguka kwa Koreshi, Mfalme wa Wamedi na Waajemi
 
-1.       Tangazo la Cyrus - Ezra 1:1-6
+1.        Tangazo la Cyrus - Ezra 1:1-6
 
     Daniel 2:39.Miaka 100 kabla ya Koreshi kulikuwa mbiu yake, kwaajili ya kupachukua mahali pale. - Isaya 45:1
 
-2.       Koreshi aliwatoa Wayahudi na vyombo vya Nebukadreza alikuwa na 	Yerusalemu nakuletwa kwao - Ezra 1:7-11
+2.        Koreshi aliwatoa Wayahudi na vyombo vya Nebukadreza alikuwa na 	Yerusalemu nakuletwa kwao - Ezra 1:7-11
     Ezra 8:24-Hili ni somo kubwa kuhusu vyombo. Kila mtu alikuwa na wajibu kwamba alikupewa wakati alipofika.Usipoteze kile Mungu amekupatia wewe. Kumbuka mtu ambaye anaificha taaluma yake.Sio tu pale walipokuwa wanatakiwa kuwajibika kwa uzito wake lakini pia kwa idadi yao, kwa idadi na kwa uzito wao.Walikuwa hawasafiri kwa treni au kwa ndege lakini walisafiri kwai mguu.Na njiani kulikuwa na wezi na wanyang'anyi, nao walikuwa na ulinzi dhidi ya hayo yote.
 
 3.    Hatuwa zilizo chukuliwa na Wayahudi kwa Tangazo hili. - Zaburi 126:1-3
@@ -1041,7 +1041,7 @@ A.         Ufufuo wa Kristo mpaka kupaa kwake
 
 1.  Alionja mauti ili kila mwanadamu awe huru. Waebrania. 2:9
 
-2.       Katika siku ya tatu akafufuka na kushinda mauti. Matendo 10:40
+2.        Katika siku ya tatu akafufuka na kushinda mauti. Matendo 10:40
 
 3.        Mungu alimtuma malaika akaliondol lile jiwe na kaburi likawa tupu.
 
@@ -1120,10 +1120,10 @@ vs 10 "Nami nitawamwagia watu wa nyumba ya Daudi ... Roho wa neema na kuomba"
 a.         Sheria ya Mungu - "nitamwaga" ina maana ya wingi - Joel 2:28
 b.    Matokeo ya kumwagwa -
 
-1.       Kwa mwenye dhambi - Yohana 16:8-11
+1.        Kwa mwenye dhambi - Yohana 16:8-11
     a)       "Roho ya neema" inayosababisha wokovu -
     b)       "Roho wa dua" inayosababisha toba na maombi-
-2.       Ili waumini - Yohana 16:13-15
+2.        Ili waumini - Yohana 16:13-15
 
 2.       Ufunuo Mkuu - 10 vs "nao watamtazama yeye ambaye walimchoma"
 Karibu miaka 2,000 iliyopita, Alidharauliwa na kukataliwa kwake - wao alisema, "sisi si kuwa mtu huyu atutawale."Wakalia kwa kusulubiwa kwake.

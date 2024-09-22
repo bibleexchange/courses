@@ -1092,7 +1092,7 @@ Mungu alimwambia Sulemani anaenda kumsimamisha katika Ufalme wake na kuwapa adui
 
 Tunapasa kupitia maisha matakatifu ili kuwezesha kifo cha shetani, lakini wakati huo huo sisi tunapaswa kuwa juu ya ulinzi dhidi ya shetani ambaye huweza kufanya kitu chochote na kukuvutia wewe mbali. Shetani anajaribu kufanya mambo na mtu aanze kufikiri kwamba ni vigumu kuwa Mkristo ambae anaweza kuishi maisha matakatifu, lakini Biblia inasema kuhusu kuwa katika maisha ya dhambi, unakumbuka, ni vigumu kuwa mwenye dhambi.
 
-Lakini kama kweli mtu anaweza kuishi maisha matakatifu ya kikristo, ni wazi kabisa hakuna maisha mazuri kama ya kuisha katika Ukristo yani maisha matakatifu.
+Lakini kama kweli mtu anaweza kuishi maisha matakatifu ya Kikristo, ni wazi kabisa hakuna maisha mazuri kama ya kuisha katika Ukristo yani maisha matakatifu.
 
 ### Nebukadreza kuuzingira mji wa Yerusalemu
 

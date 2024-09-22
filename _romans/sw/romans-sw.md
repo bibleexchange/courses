@@ -29,7 +29,7 @@ Paulo alijulikana kama mwandishi wa waraka kwa Warumi mapema mnamo 95 BK. Baadhi
 
 ## Nani alilianzisha Kanisa la Rumi
 
-Paul aliandika hii waraka, lakini yeye hakuanzisha Kanisa la Rumi, walakulitembelea hili Kanisa hadi wakati fulani baada kuandika barua hii. Kanisa la kikristo katika Rumi lilikuwepo tayari kabla ya kuandika waraka kwa Warumi pamoja na kundi ka waamini kukutana majumbani kama vile kwa Priskila na Akula. Kama tutalinganisha War. 1:8, 1:11, na sura ya 16, kwa usalama tunaweza kuhitimisha kwamba kulikuwa na kanisa Rumi kabla ya Paulo hata Petro.
+Paul aliandika hii waraka, lakini yeye hakuanzisha Kanisa la Rumi, walakulitembelea hili Kanisa hadi wakati fulani baada kuandika barua hii. Kanisa la Kikristo katika Rumi lilikuwepo tayari kabla ya kuandika waraka kwa Warumi pamoja na kundi ka waamini kukutana majumbani kama vile kwa Priskila na Akula. Kama tutalinganisha War. 1:8, 1:11, na sura ya 16, kwa usalama tunaweza kuhitimisha kwamba kulikuwa na kanisa Rumi kabla ya Paulo hata Petro.
 
 Hapakuwa na historia ilioandikwa ya kupata kanisa huko Roma, lakini tunaweza pia kuhitimisha kwamba Petro hakupata kanisa la kirumi kama inavyosemwa na kanisa la kikatoliki. Paulo hakuwahi kumtamaka Petro kama ilivyothaniwa huko Roma na ngeonekana kimaantiki kama Petro angekuwa kiongozi wa kanisa Paulo angemtaja katika salamu zake katika War 16 badala yake Paulo anaorodhesha watu 28 katika salamu miongoni watu walioorodheshwa wakwanza alikuwa Priska na Akila. Zaidi ya hapo, kitabu cha Matendo kinamweka Petro katika Yerusalemu sio Rumi kulipata kanisa yuko Yerusalemu.
 
@@ -43,7 +43,7 @@ Mwanahistoria Cassius Dio anatoa taarifa ya tendo lilochukuliwa na Kilaudio dhid
 
 > "Kwa ajili ya wayahudi, yeye ambaye alikuwa tena aliongezeka kwa ukubwa ambayo kwa sababu ya makutano yao igekuwa ngumu pasipo kuinua makelele kuwapinga kutoka mjini, yeye hakuwakufuza, bali aliwaagiza, wakati wakiendeleza mtindo wao maisha, sio kushikilia makutano."
 
-Kutokea hapo wasimamizi waliamriwa na serikali walikuwa ni kanisa la wamataifa. Ni Kanisa hili ambalo lilipokea barua ya paulo mudafulani takribani 57-58 BK. Badala ya masinagogi ya kati au mahali pa mikutano mikubwa, kanisa hili lilikutana katika makundi madogo kuzunguka mji wa Rumi kama majumbani mwa waamini. Kwa kupitia mahali pa makusanyiko yao walipewa madaraka hasa kwa barua ya Warumi, tunaweza kuona kanisa la kikristo likidumisha mawasiliano na umuhimu wa mwili moja katika Kristo.
+Kutokea hapo wasimamizi waliamriwa na serikali walikuwa ni kanisa la wamataifa. Ni Kanisa hili ambalo lilipokea barua ya paulo mudafulani takribani 57-58 BK. Badala ya masinagogi ya kati au mahali pa mikutano mikubwa, kanisa hili lilikutana katika makundi madogo kuzunguka mji wa Rumi kama majumbani mwa waamini. Kwa kupitia mahali pa makusanyiko yao walipewa madaraka hasa kwa barua ya Warumi, tunaweza kuona kanisa la Kikristo likidumisha mawasiliano na umuhimu wa mwili moja katika Kristo.
 
 ## WAKATI & MAHALI
 
@@ -1442,7 +1442,7 @@ Bwana anaahidi kurudi, lakini wakati wakurudi ataikuta imani duniani? (Luk. 18:8
 
 ### Kutembea kwetu
 
-Kila mwanafunzi wa kikristo, lazima awe na kusudi, au maono, vinginevyo tutashindwa. Hili ni jambo ambalo Kristo atatupa.
+Kila mwanafunzi wa Kikristo, lazima awe na kusudi, au maono, vinginevyo tutashindwa. Hili ni jambo ambalo Kristo atatupa.
 
 ### Je, tunafanya kazi ya Mungu au kazi zetu?
 
@@ -1680,7 +1680,7 @@ Roho ya kifungu hiki ni ya kipekee na maalumu unapofikiria kwamba Paulo hakukuta
 
 > Wagalatia 3:28—Hapana Myahudi wala Myunani. Hapana mtumwa wala huru. Hapana mtu mume wala mtu mke. Maana ninyi nyote mmekuwa mmoja katika Kristo Yesu.
 
-> Kwa ulimwengu ambao Paulo alikuwa anaishi ulikuwa ni wa kigeni, wazo jipya ambalo wanawake wangeshirikisha kwa wanaume katika msisimko yake ya kifahari. Kihistoria udhaifu wa nusu ya wanadamu ni matokeo ya moja kwa moja ya kanuni ya kikristo ambayo wote ni wamoja katika Kristo Yesu.
+> Kwa ulimwengu ambao Paulo alikuwa anaishi ulikuwa ni wa kigeni, wazo jipya ambalo wanawake wangeshirikisha kwa wanaume katika msisimko yake ya kifahari. Kihistoria udhaifu wa nusu ya wanadamu ni matokeo ya moja kwa moja ya kanuni ya Kikristo ambayo wote ni wamoja katika Kristo Yesu.
 > —MacClaren
 
 ## Maamukizi na salamu (mst. 3–15)

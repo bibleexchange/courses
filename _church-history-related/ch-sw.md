@@ -395,7 +395,7 @@ Alipigana vita na Maksentiusi kugombea ufalme katika mapigano ya Daraja la Milvi
 
 ### Konstantini alifanya muafaka wa imani na hii akachukuliwa kama aliyeingia ukristo
 
-Wanahistoria wengi wa kikristo walitilia shaka uaminifu wake.
+Wanahistoria wengi wa Kikristo walitilia shaka uaminifu wake.
 
 ### Hati ya Uvumilivu (Hati ya Konstantini) (313 BK)
 

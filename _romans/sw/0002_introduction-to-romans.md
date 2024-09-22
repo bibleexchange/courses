@@ -21,7 +21,7 @@ Paulo alijulikana kama mwandishi wa waraka kwa Warumi mapema mnamo 95 BK. Baadhi
 
 ## Nani alilianzisha Kanisa la Rumi
 
-Paul aliandika hii waraka, lakini yeye hakuanzisha Kanisa la Rumi, walakulitembelea hili Kanisa hadi wakati fulani baada kuandika barua hii. Kanisa la kikristo katika Rumi lilikuwepo tayari kabla ya kuandika waraka kwa Warumi pamoja na kundi ka waamini kukutana majumbani kama vile kwa Priskila na Akula. Kama tutalinganisha War. 1:8, 1:11, na sura ya 16, kwa usalama tunaweza kuhitimisha kwamba kulikuwa na kanisa Rumi kabla ya Paulo hata Petro.
+Paul aliandika hii waraka, lakini yeye hakuanzisha Kanisa la Rumi, walakulitembelea hili Kanisa hadi wakati fulani baada kuandika barua hii. Kanisa la Kikristo katika Rumi lilikuwepo tayari kabla ya kuandika waraka kwa Warumi pamoja na kundi ka waamini kukutana majumbani kama vile kwa Priskila na Akula. Kama tutalinganisha War. 1:8, 1:11, na sura ya 16, kwa usalama tunaweza kuhitimisha kwamba kulikuwa na kanisa Rumi kabla ya Paulo hata Petro.
 
 Hapakuwa na historia ilioandikwa ya kupata kanisa huko Roma, lakini tunaweza pia kuhitimisha kwamba Petro hakupata kanisa la kirumi kama inavyosemwa na kanisa la kikatoliki. Paulo hakuwahi kumtamaka Petro kama ilivyothaniwa huko Roma na ngeonekana kimaantiki kama Petro angekuwa kiongozi wa kanisa Paulo angemtaja katika salamu zake katika War 16 badala yake Paulo anaorodhesha watu 28 katika salamu miongoni watu walioorodheshwa wakwanza alikuwa Priska na Akila. Zaidi ya hapo, kitabu cha Matendo kinamweka Petro katika Yerusalemu sio Rumi kulipata kanisa yuko Yerusalemu.
 
@@ -35,7 +35,7 @@ Mwanahistoria Cassius Dio anatoa taarifa ya tendo lilochukuliwa na Kilaudio dhid
 
 > "Kwa ajili ya wayahudi, yeye ambaye alikuwa tena aliongezeka kwa ukubwa ambayo kwa sababu ya makutano yao igekuwa ngumu pasipo kuinua makelele kuwapinga kutoka mjini, yeye hakuwakufuza, bali aliwaagiza, wakati wakiendeleza mtindo wao maisha, sio kushikilia makutano."
 
-Kutokea hapo wasimamizi waliamriwa na serikali walikuwa ni kanisa la wamataifa. Ni Kanisa hili ambalo lilipokea barua ya paulo mudafulani takribani 57-58 BK. Badala ya masinagogi ya kati au mahali pa mikutano mikubwa, kanisa hili lilikutana katika makundi madogo kuzunguka mji wa Rumi kama majumbani mwa waamini. Kwa kupitia mahali pa makusanyiko yao walipewa madaraka hasa kwa barua ya Warumi, tunaweza kuona kanisa la kikristo likidumisha mawasiliano na umuhimu wa mwili moja katika Kristo.
+Kutokea hapo wasimamizi waliamriwa na serikali walikuwa ni kanisa la wamataifa. Ni Kanisa hili ambalo lilipokea barua ya paulo mudafulani takribani 57-58 BK. Badala ya masinagogi ya kati au mahali pa mikutano mikubwa, kanisa hili lilikutana katika makundi madogo kuzunguka mji wa Rumi kama majumbani mwa waamini. Kwa kupitia mahali pa makusanyiko yao walipewa madaraka hasa kwa barua ya Warumi, tunaweza kuona kanisa la Kikristo likidumisha mawasiliano na umuhimu wa mwili moja katika Kristo.
 
 ## WAKATI & MAHALI
 

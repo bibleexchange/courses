@@ -6,13 +6,13 @@
 
 ## Ufahamu kamili za mafundisho zimeitojika kwa wokovu
 
-### 1	Timotheo 4: 16&mdash;<i>Jitunze nafsi yako, na mafundisho yako: duma katika mambo hayo; maana kwa kufanya hivyo utajiokowa nafsi yako na wale wakusikia pia.</i>
+### 1 Timotheo 4: 16&mdash;<i>Jitunze nafsi yako, na mafundisho yako: duma katika mambo hayo; maana kwa kufanya hivyo utajiokowa nafsi yako na wale wakusikia pia.</i>
 
 Kila ufahamu tunayo ya mungu imetegemea imani (Imani chanzo chake nikusikia, na kusikia huja kwa NENO LA MUNGU. Warumi 10:17). Paulo mtume ameuliza swali moja yenyi maana na yenyi kuhudhuru nukta yetu kwenye shauri 14 ya warumi 10 &ldquo;Basi wamwiteje yeye wasiyemwamini?&rdquo;. Ufahamu kamili ya mafundisho imeitajika, kwani haitoshi kuaminia kitu, lakini twapashuwa kuwa na kweli. Mungu hajibu kwa toraja .-hivi, ao walieleza kwamba&hellip;, lakini Mungu amejibu kwenye mani kupitia kwa neon lako.
 
 KWA MFANO: Matendo ya mitume 17:22-34. Watu wa athene walijenga madhabahu iliyoandikwa: &ldquo;Kwa MUNGU ASIYEJULIKANA&rdquo;. Paulo akasimama katikati ya Areopago, akasema, Enyi Watu wa Athen, katika mambo yote naona ya kuisa minyi ni watu wa athene walipata wokovu kwa njia ya kwabudu bila kunijua, lakini wale waliyoyapata ufahamu ya Yesu Kristo ambaye alisulubiashwa na kufifuta katika wafu hawakuyapate wokovu! I timotheo 4:16 ametetea kwamba ikiwa hautunze mafundisho yote, hatuitunze mafundisho yetu, tutapotea.
 
-## Ufahamu wa mafundisho umehitajika kwa kujenga mwenendo ya kikristo, na imesaidia kwa kuelimika Katika haki. II Timotheo 3:16,17.
+## Ufahamu wa mafundisho umehitajika kwa kujenga mwenendo ya Kikristo, na imesaidia kwa kuelimika Katika haki. II Timotheo 3:16,17.
 
 > II Timotheo 3:17 &mdash; ili mtu wa Mungu awe kamili, &hellip;
 
@@ -20,7 +20,7 @@ Kamili, ni maendeleo timilifu. Kuna maendeleo katika maisha ya kiroho vile imeku
 
 Niyamulimu kuishi katika haki badala yakuyafahamu mafundisho, walakini hatutaishi katika haki bila mafundisho kweli ya kweli maishani walakini kweli katika kunena yamefaa kwa kuishi katika kweli (Galatia 2:17; Tito 1:16; I Petro 1:22, Waefeso 2:5, 8-10; Wafilip 2:12,13; Waebrania 12:14; I Petro 1:16).
 
-Waweza kweli kumpenda Jesu bila ufahamu wa neon la Mungu? Kuelewa mafundisho kumehitajika kabla ya kukomaa katika mwenendo ya kikristo. Ilisemeka vizuri kwamba, &ldquo;Mwenende ya kikristu ni tuda zimekomaa tu kwenye mafundishio ya kiktristo.&rdquo; Mafundisho kamili. Haivai kifuwani, walakini, bila hiyo amekuwa mkristu kijongo hama samaki asiye na hali majini. Kuambatana kwa mwisho na kristo kumehitaji utahidikwa kweli. Tumehitaji mfupa wa mgongo wenye nguvu mafundisho.
+Waweza kweli kumpenda Jesu bila ufahamu wa neon la Mungu? Kuelewa mafundisho kumehitajika kabla ya kukomaa katika mwenendo ya Kikristo. Ilisemeka vizuri kwamba, &ldquo;Mwenende ya kikristu ni tuda zimekomaa tu kwenye mafundishio ya kiktristo.&rdquo; Mafundisho kamili. Haivai kifuwani, walakini, bila hiyo amekuwa mkristu kijongo hama samaki asiye na hali majini. Kuambatana kwa mwisho na kristo kumehitaji utahidikwa kweli. Tumehitaji mfupa wa mgongo wenye nguvu mafundisho.
 
 Yesus ni mfano wetu kubawa na tena alikuwa na mafundisho:
 
@@ -48,7 +48,7 @@ Kila siku, uyafwate neon. Tumehitaji Kutaribisha kila shida na swali hiyi &ldquo
 
 Ni kwa ajili ya mamba mabaya, maubiri yote umekosa kweli (mathayo 16:12), Kila mkristo amestahili kushikama mzima katika neon la Mungu. Kweli imehitajika sana! (wacolosai 2:8; waebrania 13;9) imetupasa kujifunza neon la Mungu.
 
->	2 Timotheo 2:15 &mdash; <i>Jitahidi Kujionyesha kuwa umekuboliwa na Mungu, mtenda kazi asiye na sababu ya kutahayari, ukikumia kwa halali neon la kweli.</i>
+>     2 Timotheo 2:15 &mdash; <i>Jitahidi Kujionyesha kuwa umekuboliwa na Mungu, mtenda kazi asiye na sababu ya kutahayari, ukikumia kwa halali neon la kweli.</i>
 
 Imewaposa wanafunzi wa biblia kuwa wenye saburi, busara na ujosiri. Kwa mafunzo ztu za neon la Mungu tumelinganisha maandiko na maandiko, kwani hakuna unabii katika maandiko upatao kufasiriwa kama apendovyo mtu Fulani tu (2 petro 1:20). Makosa mengi zimetukia, kwani watu wamechukuwa maandiko wame fasiriya hivyo na womepiga mbio moyo. Wame fasiriya maandiko kwa maandiko.
 
@@ -58,6 +58,6 @@ Katika njia yetu ya kijifunza na kutafuta kweli imetupaso kujikumbusha wenyewe k
 
 ## Ufahamu ya mafundisho umetoka kwa utie wa neon la mungu.
 
->	Johana 7:17&mdash;<i>Ikawa mtu yeyote ameshika mapenzi yake, yule atapata ufahamu katika mafundisho ya kuwa ni ya Mungu hama nimesema kuhusu mwenyewe.</i>
+>     Johana 7:17&mdash;<i>Ikawa mtu yeyote ameshika mapenzi yake, yule atapata ufahamu katika mafundisho ya kuwa ni ya Mungu hama nimesema kuhusu mwenyewe.</i>
 
 Imetupasa kuijaribu neon la Mungu. Kumjaribu Mungu ili kuona kama atakuwa mwaminifu Mfalme Daude alisema : &ldquo;O jaribu ili kuona kama Mfalme ni mwema&rdquo; (Zaburi 34:8). Maadomu tumetembea katika mapenzi ya bwana, tutapokea na kushudia kweli na ukweli ya maneno bwana yesi alishuudia. Mungu akutuamuru kusadikia kitabu kilicho wazi, bali ame fungua ukurasa wamaandiko kwa uelebu wetu na kutualika kuishi katika kila neon. Ni katika kuishi katika hiyi tumepata ufahamu wa mafundisho wa ndom.
