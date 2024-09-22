@@ -1,28 +1,32 @@
-# Noah 5:29-10:7
+## Noah (5:29-10:7)
 
-## The name Noah means rest.
+### The name Noah means rest
 
 Following Adam and Eve's expulsion from Eden, sin spread like an epidemic. In his jealousy, Cain murdered his own brother. God judges Cain making him a fugitive, but would not hold others guiltless in taking Cain's life (God set a mark upon Cain). The influence of sin was everywhere and growing every day. We see the degeneration of man (…every imagination of the thoughts of his \[humanity\] heart was only evil continually. 6:5) epitomized in "Lamech I" (4:18-24), a sixth generation descendant of Cain. He not only had two wives, but he murdered two men. It was upon this scene of sin's broad influence in the earth into which Noah was born to "Lamech II" (an eighth generation descendent of Seth).
 
-> Genesis 5:29--And he called his name Noah, saying, uThis same shall comfort us concerning our work and toil of our hands, because of the ground which the LORD hath cursed.
+> Genesis 5:29–And he called his name Noah, saying, This same shall comfort us concerning our work and toil of our hands, because of the ground which the LORD hath cursed.
 
-Noah was a sign to his generation of a ‘rest’ from the futile toil of sin and of the salvation of God. (Ps. 37:7; Jer. 6:16; Heb. 4:9;)
+Noah was a sign to his generation of a ‘rest’ from the futile toil of sin and of the salvation of God (Ps. 37:7; Jer. 6:16; Heb. 4:9).
 
-## Noah's Family
+### Noah's Family
 
 He was the tenth in descent fromAdam, in the line of Seth, the son of Lamech and grandson of Methuselah. We hear nothing of Noah until he is 500 years old when he begat three sons, Shem,Ham and Japheth.
 
-## Noah's Life
+### Noah's Life
 
-### Who Was Noah?
+#### Who Was Noah?
 
-Through faith he built an ark to the saving of his household. (I Pt. 3:20; Heb.11:7) During the period of building the ark it is said that he was a righteous man and perfect in his generations (i.e. among his contemporaries), and that he, like Enoch, walked with God. (Gen. 6:9; 2 Peter 2:5) He was 600 years old at the Flood and lived 950 years. He lived approximately 2948 BC to 1998 BC.
+Through faith he built an ark to the saving of his household (I Pt. 3:20; Heb. 11:7). During the period of building the ark it is said that he was a righteous man and perfect in his generations (i.e. among his contemporaries), and that he, like Enoch, walked with God (Gen. 6:9; 2 Peter 2:5). He was 600 years old at the Flood and lived 950 years. He lived approximately 2948 BC to 1998 BC.
 
-| Person Number 8 out of 8 People on the Ark Or The 8th Preacher of Righteousness                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| II Peter 2:5--And spared not the old world, but saved Noah the eighth person, a preacher of righteousness, bringing in the flood upon the world of the ungodly; |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| I Peter 3:20--… few, that is, eight souls were saved by water. (Genesis7:1-24)                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Adam Clarke's Commentary:                                                                                                                                       | \[Saved Noah the eighth\] Some think that the words should be translated, Noah the eighth preacher of righteousness; but it seems most evident, from 1Pe 3:20, that eight persons are here meant, which were the whole that were saved in the ark, viz. Shem, Ham, Japheth, and their three wives,six; Noah's wife seven; and Noah himself the eighth. The form of expression, ogdoonmwe, "Noah the eighth", that is, "Noah and seven more", is most common in the Greek language.<sup>[1]</sup> |
+#### Person Number 8 out of 8 People on the Ark Or The 8th Preacher of Righteousness?
+
+> II Peter 2:5–And spared not the old world, but saved Noah the eighth person, a preacher of righteousness, bringing in the flood upon the world of the ungodly;
+
+> I Peter 3:20–… few, that is, eight souls were saved by water (Genesis 7:1-24)
+
+Adam Clarke's Commentary:
+
+> [Saved Noah the eighth] Some think that the words should be translated, Noah the eighth preacher of righteousness; but it seems most evident, from 1Pe 3:20, that eight persons are here meant, which were the whole that were saved in the ark, viz. Shem, Ham, Japheth, and their three wives,six; Noah's wife seven; and Noah himself the eighth. The form of expression, ogdoonmwe, "Noah the eighth", that is, "Noah and seven more", is most common in the Greek language.<sup>[1]</sup>
 
 ### Chronology of the Flood
 
@@ -63,11 +67,11 @@ A second school of thought concerning the firmament is that it may have consiste
 
 #### NO RAIN
 
-The Bible possibly teaches that there was no rain before the Flood (Gen. 2:5). But there went up a mist from the earth,and watered the whole face of the ground.--2:6. There is no reference ofrain having fallen until the time of the deluge. The argument is essentiallyfrom the silence of the Bible, for there is no definitive statement in eithercase, for we merely assume that from the time of the creation no changetakes place until the Flood.
+The Bible possibly teaches that there was no rain before the Flood (Gen. 2:5). But there went up a mist from the earth,and watered the whole face of the ground (2:6). There is no reference ofrain having fallen until the time of the deluge. The argument is essentiallyfrom the silence of the Bible, for there is no definitive statement in eithercase, for we merely assume that from the time of the creation no changetakes place until the Flood.
 
 #### UNIFORM CLIMATE
 
-The climate before the Flood may have been more uniform than today, that is, not having the same extremes intemperature. The Bible seems to indicate that the seasons wereestablished after the flood.--Gen. 8:22.
+The climate before the Flood may have been more uniform than today, that is, not having the same extremes intemperature. The Bible seems to indicate that the seasons wereestablished after the flood (Gen. 8:22).
 
 #### VEGETARIANS
 
@@ -97,27 +101,19 @@ Before the Flood, the people lived much longer. This longevity created a scenari
 
 ### JEWISH CALENDAR NOTES<sup>[2]</sup>
 
-After the EGYPTIAN EXODUS, the first month was changed from BUL MARCHESRAN to ABIBNISON.
+1. After the EGYPTIAN EXODUS, the first month was changed from BUL MARCHESRAN to ABIBNISON.
+2. A new month commenced with the new moon Numbers 10:10; Psalms 81:3
+3. Each new moon was commemorated with feast and sacrifice. Num.10:10; 28:11; I Sam. 20:5; Ps. 81:3; Isa. 1:14; Hosea 2:11
+4. The Civil Day was from sun-set one evening to sun-set the next;for "the evening and the morning were the first day."
+5. NIGHT Watches (Ancient): First till midnight, Middle till 3 a.m.,Morning till 6 a.m.
+6. NIGHT Watches (New Testament) First-Evening-6 to 9 pm Second-Midnight-9to 12 a.m. Third-12 to 3 a.m. Fourth-morning-3 to 6 a.m.
+7. DAY (Ancient) Morning to 10 a.m., Heat of day to 2 p.m., Cool ofday to 6 p.m.
+8. DAY (New Testament) Third Hour-6 to 9 a.m. Sixth Hour-9 to 12midday Ninth Hour-12 to 3 p.m. Twelfth Hour-3 to 6 p.m.
+9. In the history of the Jews, the year was wholly lunar, having alternately a full month of thirty days, and a defective month of twenty-nine days, thus completing their year in three hundred and fifty-four days. As the lunar year, which the Jews followed, is shorter than the solar year by eleven days, the Jewish calendar contains a 13th month.
 
-A new month commenced with the new moon Numbers 10:10; Psalms 81:3
+---
 
-Each new moon was commemorated with feast and sacrifice. Num.10:10; 28:11; I Sam. 20:5; Ps. 81:3; Isa. 1:14; Hosea 2:11
-
-The Civil Day was from sun-set one evening to sun-set the next;for "the evening and the morning were the first day."
-
-NIGHT Watches (Ancient): First till midnight, Middle till 3 a.m.,Morning till 6 a.m.
-
-NIGHT Watches (New Testament) First-Evening-6 to 9 pm Second-Midnight-9to 12 a.m. Third-12 to 3 a.m. Fourth-morning-3 to 6 a.m.
-
-DAY (Ancient) Morning to 10 a.m., Heat of day to 2 p.m., Cool ofday to 6 p.m.
-
-DAY (New Testament) Third Hour-6 to 9 a.m. Sixth Hour-9 to 12midday Ninth Hour-12 to 3 p.m. Twelfth Hour-3 to 6 p.m.
-
-360 Natural Days to one prophetic year. Dan. 7:25; 12:7 3.5Prophetic Years=1,260 natural days; Rev. 12:14
-
-In the history of the Jews, the year was wholly lunar, having alternately a full month of thirty days, and a defective month of twenty-nine days, thus completing their year in three hundred and fifty-four days. As the lunar year, which the Jews followed, is shorter than the solar year by eleven days, the Jewish calendar contains a 13th month.
-
-# Foot Notes:
+**Foot Notes**:
 
 - [1] SEE ALSO: Albert Barnes' NT Commentary and Robertson's NT Word Pictures
 - [2] For more information see The Student Bible Dictionary, Barbour Publishing

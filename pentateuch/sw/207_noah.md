@@ -1,28 +1,32 @@
-# Nuhu 5:29-10:7
+## Nuhu (5:29-10:7)
 
-## Jina Nuhu linamaanisha kupumzika.
+### Jina Nuhu linamaanisha kupumzika
 
-Kufuatana na ufukuzwaji wa Adamu na Eva kutoka bustanini, dhambi ilikuwa kama ukoma katika dunia. Katika wivu wake, Kainialimuuwa ndugu yake mwenyewe. Mungu alimhukumu kaini kumfanya mtoro, na kusababisha wengine watakao muuwa Kaini kuwa na hatia (Mungu alimwekea kaini alama). Nguvu ya dhambi ilienea kila mahali na kukuwa kila siku. Tunaona uzazi wa mwanadamu(kila tafakari ya mawazo ya moyo wake (ubinadamu)ulikuwani uovu pekee wa kwakuendelea.-6:5)iliofanywa muhtasari kwa CLameki D(4:18-24), mtiririko wa kizazi cha sita cha Kaini. Hakuwa na wake wawili tu, bali aliuwa watu wawili. Ilikuwa juu ya mandhari hii ya nguvu kubwa ya dhambi katika dunia katika hiyo Nuhu alizaliwa kwa CLameki 11 D (mtiririko wa kizazi cha nane cha Seth).
+Kufuatana na ufukuzwaji wa Adamu na Eva kutoka bustanini, dhambi ilikuwa kama ukoma katika dunia. Katika wivu wake, Kainialimuuwa ndugu yake mwenyewe. Mungu alimhukumu kaini kumfanya mtoro, na kusababisha wengine watakao muuwa Kaini kuwa na hatia (Mungu alimwekea kaini alama). Nguvu ya dhambi ilienea kila mahali na kukuwa kila siku. Tunaona uzazi wa mwanadamu(kila tafakari ya mawazo ya moyo wake (ubinadamu) ulikuwani uovu pekee wa kwakuendelea.-6:5) iliofanywa muhtasari kwa Lameki (4:18-24), mtiririko wa kizazi cha sita cha Kaini. Hakuwa na wake wawili tu, bali aliuwa watu wawili. Ilikuwa juu ya mandhari hii ya nguvu kubwa ya dhambi katika dunia katika hiyo Nuhu alizaliwa kwa Lameki II (mtiririko wa kizazi cha nane cha Seth).
 
-> Mwzo 5:29 4Na alimuita jina lake Nuhu, kusema huyu ni sawa atatufariji kuhusu kazi yetu na shughuli za mikono yetu, kwa sababu ya aridhi ambayo Bwana aliilaani.
+> Mwanzo 5:29–Akamwita jina lake Nuhu, akinena, Huyu ndiye atakayetufariji kwa kazi yetu na kwa taabu ya mikono yetu katika nchi aliyoilaani BWANA.
 
-Nuhu alikuwa ishara kwa kizazi chake cha mapumziko kutoka kazi ya sulubu na isioleta manufaa ya dhambi na ya wokovu wa Mungu (Zab. 37:7; Yer. 6:16; Waeb. 4:9;)
+Nuhu alikuwa ishara kwa kizazi chake cha mapumziko kutoka kazi ya sulubu na isioleta manufaa ya dhambi na ya wokovu wa Mungu (Zab. 37:7; Yer. 6:16; Waeb. 4:9).
 
-## Familia ya Nuhu
+### Familia ya Nuhu
 
 Yeye alikuwa babu wa kumi toka Adam, katikamsitari wa Seth, mwana wa Lameki na mjukuu wa Methusela. Hatusikii chochote kuhusu Nuhu mpaka alipokuwa na miaka 500 wakati alipozaa wana watatu, Shemu, Hamu na Yafeti.
 
-## Maisha ya Nuhu
+### Maisha ya Nuhu
 
-### Nuhu alikuwa nani?
+#### Nuhu alikuwa nani?
 
-Kwa imani alijenga safina kwa ajili ya kuokoa nyumba yake. (I Pet. 3:20; Waeb.11:7) Tangu kipindi cha kujenga safina inasema kwamba alikuwa mtu wa haki na mkamilifu katika vizazi vyake (i.e. miongoni mwa wa wenzake), na kwamba alikuwa, kama Henoko, alitembea pamoja na Mungu. (Mwzo. 6:9; 2 Petr 2:5) Alikuwa na miaka 600 wakati wa gharika na aliishi miaka 950. Aliishi karibia miaka 2948 KK hadi 1998 KK.
+Kwa imani alijenga safina kwa ajili ya kuokoa nyumba yake (I Pet. 3:20; Waeb.11:7). Tangu kipindi cha kujenga safina inasema kwamba alikuwa mtu wa haki na mkamilifu katika vizazi vyake (i.e. miongoni mwa wa wenzake), na kwamba alikuwa, kama Henoko, alitembea pamoja na Mungu (Mwzo. 6:9; 2 Petr 2:5). Alikuwa na miaka 600 wakati wa gharika na aliishi miaka 950. Aliishi karibia miaka 2948 K.K. hadi 1998 K.K.
 
-| Mtu wa namba 8 toka kwa watu 8 kwenye Safina au Mjumbe wa 8 wa haki                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| II Petr 2:5— wala hakuuachilia ulimwengu wa kale, bali alimhifadhi Nuhu, mjumbe wa haki, na watu wengine saba, hapo alipoleta Gharika juu ya ulimwengu wa wasiomcha Mungu; |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| I Petr 3:20— wachache, yaani, watu wanane, waliokoka kwa maji. (Mwzo 7:1-24)                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Tangazo la uzazi wa Adam:                                                                                                                                                  | [Nuhu aliyeokolewa mtu nane] Baadhi hufikiri kwamba maneno yangefasiriwa, kama Nuhu ni mjumbe wa nane wa haki;lakini inaonekana dhahiri sana, kutoka 1Pet 3:20, kwamba watu nane hapa inamaanisha, wale waliokolewa ndani ya Safina, yaani Shemu, Hamu, Yafeti, na wake zao jumla, sita;mke wa Nuhu wa saba;Nuhu mwenyewe wa nane. Muundo wa maelezo, ogdoonmwe, "Nuhu ni wa nane", hiyo inamaanisha CNuhu na watu saba, ni kawaida sana katika lugha ya Kigriki.<sup>[1]</sup> |
+#### Mtu wa namba 8 toka kwa watu 8 kwenye Safina au Mjumbe wa 8 wa haki?
+
+> II Petro 2:5—wala hakuuachilia ulimwengu wa kale, bali alimhifadhi Nuhu, mjumbe wa haki, na watu wengine saba, hapo alipoleta Gharika juu ya ulimwengu wa wasiomcha Mungu;
+
+> I Petro 3:20—wachache, yaani, watu wanane, waliokoka kwa maji. (Mwzo 7:1-24)
+
+Tangazo la uzazi wa Adam Clarke:
+
+> [Nuhu aliyeokolewa mtu nane] Baadhi hufikiri kwamba maneno yangefasiriwa, kama Nuhu ni mjumbe wa nane wa haki;lakini inaonekana dhahiri sana, kutoka 1Pet 3:20, kwamba watu nane hapa inamaanisha, wale waliokolewa ndani ya Safina, yaani Shemu, Hamu, Yafeti, na wake zao jumla, sita;mke wa Nuhu wa saba;Nuhu mwenyewe wa nane. Muundo wa maelezo, ogdoonmwe, "Nuhu ni wa nane", hiyo inamaanisha CNuhu na watu saba, ni kawaida sana katika lugha ya Kigriki.<sup>[1]</sup>
 
 ### Wendo wa Gharika
 
@@ -63,15 +67,15 @@ Shule ya pili ya wazo kuhusu anga ni kwamba inawezakana ilikuwa tabia ya kawaida
 
 #### HAKUNA MVUA
 
-Biblia kwa kadiri iwezekanavyo inafundisha kwamba hapakuwa na mvua kabla ya gharika (Mwzo.2:5). ukungu ukapanda katika nchi, ukatia maji juu ya uso wote wa ardhi..—2:6. Hakuna rejea ya mvua kushuka mpaka wakati gharika. Hoja ni kimsingi kutoka ukimia wa Biblia, kwa maana hakuna maelezo ya kina ama jambo lolote, maana kwa halisi tunasadiki kwamba kutoka wakati wa uumbaji hakuna mabadiliko yaliyo tokeampaka Gharika.
+Biblia kwa kadiri iwezekanavyo inafundisha kwamba hapakuwa na mvua kabla ya gharika (Mwanzo2:5). ukungu ukapanda katika nchi, ukatia maji juu ya uso wote wa ardhi (2:6). Hakuna rejea ya mvua kushuka mpaka wakati gharika. Hoja ni kimsingi kutoka ukimia wa Biblia, kwa maana hakuna maelezo ya kina ama jambo lolote, maana kwa halisi tunasadiki kwamba kutoka wakati wa uumbaji hakuna mabadiliko yaliyo tokeampaka Gharika.
 
 #### USAWA WA HALIJOTO
 
-Halijoto kabla ya gharika yawezakuwa ilikuwa sawasawa zaidi ya leo, hiyo ni, kutokuwa na kupita kiasi kabisa. Biblia inaonekana inaonyesha kwamba majira yalithitiwa baada ya gharika. Mwzo.8:22.
+Halijoto kabla ya gharika yawezakuwa ilikuwa sawasawa zaidi ya leo, hiyo ni, kutokuwa na kupita kiasi kabisa. Biblia inaonekana inaonyesha kwamba majira yalithitiwa baada ya gharika (Mwanzo 8:22).
 
 #### UOTO
 
-Maandiko kwa kadiri iwezekanavyo yanfundisha kwamba binadamu na wanyama walikuwa sio wala nyama mpaka baada ya gharika. Hitimisho hili laweza kuchukuliwa kutoka Mwzo. 1:29.
+Maandiko kwa kadiri iwezekanavyo yanfundisha kwamba binadamu na wanyama walikuwa sio wala nyama mpaka baada ya gharika. Hitimisho hili laweza kuchukuliwa kutoka Mwanzo 1:29.
 
 #### KIPINDI
 
@@ -97,27 +101,19 @@ Kabla ya gharika, watu waliishi muda mrefu. Kipindi hiki kilifanya mpangilio wa 
 
 ### MAANDISHI YA KALENDA YA KIYAHUDI <sup>[2]</sup>
 
-Baada KUTOKA MISRI, mwezi wa kwanza ulikuwaumebadilika kutoka BUL MARCHESRAN kwenda ABIBNISON.
+1. Baada KUTOKA MISRI, mwezi wa kwanza ulikuwaumebadilika kutoka BUL MARCHESRAN kwenda ABIBNISON.
+2. Mwezi mpya ulihusishwa na mwandamo mpya Hesabu 10:10; Zab 81:3
+3. Kila mwandamo mpya ulikuwa unafanyiwa ukumbusho pamoja na sikukuu na dhabihu. Hesabu.10:10; 28:11; I Sam. 20:5; Zab. 81:3; Isa. 1:14; Hosea 2:11
+4. Siku ya uraia ilikuwa kutoka mawio ya-jua jioni moja hadi jioni inayofuata;kwa maana Djioni na asubuhi ilikuwa siku moja.
+5. Wangoja mlango wa USIKU (Majengo ya zamani): Mara ya kwanza mpaka usiku wa manane katikati ni saa 9 usiku, mpaka saa 12 asubuhi.
+6. Wangoja mlango wa USIKU (Agano Jipya) Jioniya-kwanza-6 hadi 9 pm usiku-wa manane-9 hadi 12 siku ya tatu-12 hadi 3 a.m. siku ya nneasubuhi-3 hadi 6 a.m.
+7. MCHANA (Watu wa zamani) Asubuhi huishia saa10 a.m., Adhuhuri kuanzia saa 2 p.m., Alasiri 6 p.m.
+8. MCHANA (Agano Jipya) Masaa matatu-6 hadi 9 a.m. Masaa sita-9 hadi 12mchana kati Masaa tisa-12 hadi 3 p.m. Masaa kumi na mbili-3 hadi 6 p.m.
+9. Katika historia ya Wayahudi, mwaka ulikuwa umbo la mwezi mwandamo kabisa, kuwa na zamu mwezi mzima wa siku thelathini, na mwezi wenye kasoro wa siku ishirini na tisa, hii ina kamilisha mwaka wao katika siku miatatu na hamsini na nne, Kama mwaka unaofuata, ambao wayahudi waliufuata utakuwa mfupi zaidi mwaka wa jua kwa siku kumi na moja, Kalenda ya kiyahudi inaweka mwezi kumi na tatu.
 
-Mwezi mpya ulihusishwa na mwandamo mpya Hesabu 10:10; Zab 81:3
+---
 
-Kila mwandamo mpya ulikuwa unafanyiwa ukumbusho pamoja na sikukuu na dhabihu. Hesabu.10:10; 28:11; I Sam. 20:5; Zab. 81:3; Isa. 1:14; Hosea 2:11
-
-Siku ya uraia ilikuwa kutoka mawio ya-jua jioni moja hadi jioni inayofuata;kwa maana Djioni na asubuhi ilikuwa siku moja. D
-
-Wangoja mlango wa USIKU (Majengo ya zamani): Mara ya kwanza mpaka usiku wa manane katikati ni saa 9 usiku, mpaka saa 12 asubuhi
-
-Wangoja mlango wa USIKU (Agano Jipya) Jioniya-kwanza-6 hadi 9 pm usiku-wa manane-9 hadi 12 siku ya tatu-12 hadi 3 a.m. siku ya nneasubuhi-3 hadi 6 a.m.
-
-MCHANA (Watu wa zamani) Asubuhi huishia saa10 a.m., Adhuhuri kuanzia saa 2 p.m., Alasiri 6 p.m.
-
-MCHANA (Agano Jipya) Masaa matatu-6 hadi 9 a.m. Masaa sita-9 hadi 12mchana kati Masaa tisa-12 hadi 3 p.m. Masaa kumi na mbili-3 hadi 6 p.m.
-
-Siku za mwaka wa kinabii ni 360. Dan. 7:25;12:7 3.5Miaka ya kinabii=3D1,260 siku za kawaida; Uf. 12:14
-
-Katika historia ya Wayahudi, mwaka ulikuwa umbo la mwezi mwandamo kabisa, kuwa na zamu mwezi mzima wa siku thelathini, na mwezi wenye kasoro wa siku ishirini na tisa, hii ina kamilisha mwaka wao katika siku miatatu na hamsini na nne, Kama mwaka unaofuata, ambao wayahudi waliufuata utakuwa mfupi zaidi mwaka wa jua kwa siku kumi na moja, Kalenda ya kiyahudi inaweka mwezi kumi na tatu.
-
-# MAANDISHI YA MWISHO:
+**MAANDISHI YA MWISHO**:
 
 - [1] TAZAMA PIA: Albert Barnes' NT Commentary and Robertson's Picha za Neno za Agano Jipya
 - [2] TAZAMA: The Student Bible Dictionary, Barbour Publishing
