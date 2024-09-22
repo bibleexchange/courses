@@ -18,7 +18,7 @@ Harvest Offering Fifty Days( hence: Pentecost) after Passover. Reading of the Bo
 
 ## Feast of Trumpets (Rosh Hashanah) 23-25
 
-The Jewish New Year. The Shofar (Ram's horn Trumpets are blown to proclaim a gathering for worship.
+The Jewish New Year. The Shofar (Ram's horn) Trumpets are blown to proclaim a gathering for worship.
 
 ## Day of Atonement (Yom Kippur) 26-32; Ch. 16
 
