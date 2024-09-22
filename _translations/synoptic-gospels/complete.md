@@ -24,9 +24,9 @@ Injili tatu za kwanza zinatoa ufafanuzi wa maisha ya Kristo. Injili za Synoptic 
 
 ## Ufunuo wa Mungu (Maneno manne ya ufunguo)
 
-Tunapata katika Injili, Yeye aliye katika sheria ya Musa, na Mnabii, aliandika, Yesu. (Yohn 1:45), lakini tunaweza kumpata Yeye ni mtu mzuri zaidi usiobadilika kuliko mitazamo ya Manabii. Tunatakiwa tumjue Yeye. 
+Tunapata katika Injili, Yeye aliye katika sheria ya Musa, na Mnabii, aliandika, Yesu. (Yohn 1:45), lakini tunaweza kumpata Yeye ni mtu mzuri zaidi usiobadilika kuliko mitazamo ya Manabii. Tunatakiwa tumjue Yeye.
 
-Injili ni sehemu kuu katika Biblia; Manabii walisema vitu ambavyo vilivyo tuongoza kwa Bwana muda wa dunia kwa kuangalia Msalaba. Nyaraka zile zilifuta hatua kutoka kule, kwa kuangalia nyuma. Nakala za Injili tulizo nazo. Walisimama karibu na Agano la Kale na ufungulizi wa Agano Jipya, kabla ya Nyaraka. 
+Injili ni sehemu kuu katika Biblia; Manabii walisema vitu ambavyo vilivyo tuongoza kwa Bwana muda wa dunia kwa kuangalia Msalaba. Nyaraka zile zilifuta hatua kutoka kule, kwa kuangalia nyuma. Nakala za Injili tulizo nazo. Walisimama karibu na Agano la Kale na ufungulizi wa Agano Jipya, kabla ya Nyaraka.
 
 ### Maandlizi
 
@@ -38,7 +38,7 @@ Injili nne za Kristo; zilipenya Ulimwenguni, wahudumu wa ulimwengu, walifia ulim
 
 ### Kutwaaliwa
 
-Katika Matendo na Nyaraka tunaona jinsi Bwana Yesu alivyopokelewa, alitolewa na kuyatoa maisha yake mwenyewe. 
+Katika Matendo na Nyaraka tunaona jinsi Bwana Yesu alivyopokelewa, alitolewa na kuyatoa maisha yake mwenyewe.
 
 ### Utimizo
 
@@ -56,7 +56,7 @@ Mfalme/Simba, Mtumishi/maksai, Mwana wa Mwanadamu/Mwanadamu, Mwana wa Mungu/Mala
 
 ### Kila Mwandishi ni mwakilishi tofauti wa Bwana wetu mmoja
 
-Kila Injili ni ya kawaida sana kwa zingine, japo zina umuhimu tofauti. Kila Mwandishi alinukuu yale ambayo ni mfanano na inayofungamana na dhamira husika. Alikuwa MFAME lakini pia alikuwa MTUMWA mkamilifu. Alikuwa MWANA WA MWANADAMU lakini hatuwezi kusahau Yeye ni Mwana wa MUNGU. 
+Kila Injili ni ya kawaida sana kwa zingine, japo zina umuhimu tofauti. Kila Mwandishi alinukuu yale ambayo ni mfanano na inayofungamana na dhamira husika. Alikuwa MFAME lakini pia alikuwa MTUMWA mkamilifu. Alikuwa MWANA WA MWANADAMU lakini hatuwezi kusahau Yeye ni Mwana wa MUNGU.
 
 ### Nne = Ulimwengu (Kaskazini, Kusini, Mashariki, na Magharibi)
 
@@ -90,11 +90,11 @@ Injili zote zimefungwa kwa ahadi za Mesia. Tunaweza kuona haya katika Agano a Ka
 
 ### Wayahudi
 
-kulikuwa na mafunzo maalum. Maandioko na Manabii walisimamishwa katika Agano la kale. Mathayo aliandika hasahasa kwao. Kama Wayahudi waligandamizwa, walitakiwa kuwa na mwalim wao wenyewe kama mistari ya Agano la Kale kwa desturi ya Wayahudi. Walitakiwa kujua kwamba hawa Wayahudi walikuja kukamilisha unabii wa Agano la Kale. Zaidi ya yote tunasoma katika Mathayo; kwamba uweza na nguvu utimilike; kama yalivyo zungumzwa na Nabii Yeremia. Tunaona watu wa aina sawa na waleo. Wanaishi katika unabii ulio kailika na usiokamilka. Wanatafuta kujua manabii wamesema nini na itakuja kupitaje. 
+kulikuwa na mafunzo maalum. Maandioko na Manabii walisimamishwa katika Agano la Kale. Mathayo aliandika hasahasa kwao. Kama Wayahudi waligandamizwa, walitakiwa kuwa na mwalim wao wenyewe kama mistari ya Agano la Kale kwa desturi ya Wayahudi. Walitakiwa kujua kwamba hawa Wayahudi walikuja kukamilisha unabii wa Agano la Kale. Zaidi ya yote tunasoma katika Mathayo; kwamba uweza na nguvu utimilike; kama yalivyo zungumzwa na Nabii Yeremia. Tunaona watu wa aina sawa na waleo. Wanaishi katika unabii ulio kailika na usiokamilka. Wanatafuta kujua manabii wamesema nini na itakuja kupitaje.
 
 ### Warumi
 
-Mkuu wa ukimwengu kwa wakati huu. Marko aliandika kutoka kwao. Warumi hawakujua chochote kuhusu maandiko ya Agano la Kale.Hawakupendezwa na unabii ulivyotimizwa. Uhai kuhusu juu ya alama ya kiongozi atakaye patikana katika Palestina. Walitakiwa kujua kama kweli amemiliki nguvu za kawaida za ziada. Wakapenda ujumbe mnyoofu wa Marko. Marko alikjawa na ukweli si kwa maneno. Ni Injili ya waziwazi ya huduma ya Kristo. Warumi katika siku za Yesu walikuwa kama watu wa biashara ya kawaida wa siku hizi.Hawajihusishi kama mwanzo kuhusu ukoo wa Ufalme, ila kwa ajili ya Mungu ambaye ni mweza, Mungu ambaye anaweza kukutana na mtu yeyote amtakaye. Marko ni mfanya biashara ya Injili. 
+Mkuu wa ukimwengu kwa wakati huu. Marko aliandika kutoka kwao. Warumi hawakujua chochote kuhusu maandiko ya Agano la Kale.Hawakupendezwa na unabii ulivyotimizwa. Uhai kuhusu juu ya alama ya kiongozi atakaye patikana katika Palestina. Walitakiwa kujua kama kweli amemiliki nguvu za kawaida za ziada. Wakapenda ujumbe mnyoofu wa Marko. Marko alikjawa na ukweli si kwa maneno. Ni Injili ya waziwazi ya huduma ya Kristo. Warumi katika siku za Yesu walikuwa kama watu wa biashara ya kawaida wa siku hizi.Hawajihusishi kama mwanzo kuhusu ukoo wa Ufalme, ila kwa ajili ya Mungu ambaye ni mweza, Mungu ambaye anaweza kukutana na mtu yeyote amtakaye. Marko ni mfanya biashara ya Injili.
 
 ### Ugriki (uyunani)
 
@@ -106,11 +106,11 @@ Yohana aliandika kwa watu wote ambaye waliweza kuamini kuwa Yesu ni Kristo. Kris
 
 ## Funguo za Injili
 
-### Mathayo 
+### Mathayo
 
 Haki ya kupendeza - Kitabu cha ukoo wa Yesu Kristo, Mwana wa Daudi, Mwana wa Ibrahim (Mat 1:1). Hii inaonyesha nafasi ya agano kama Mwana wa Ibrahim. Na nafasi ya Ufalme wake kama Mwana wa Daudi (Zab 132:11). Mathayo anamwakilisha Yesu kama Mfalme anatupatia kuwa Yeye ni ukoo wa Kifalme katika mistari 17 ya kwanza. Mfalme hachaguliwi kwa kura nyingi, ila kwa kuzaliwa.
 
-Mfalme wa Wafalme (28:18-20) Mfalme huamrisha na kugiza Wanafunzi wake. Mesia bado yupo dunia. Nimepewa mamlaka yote mbinguni na duniani. Nendeni ulimwenguni kote, mkawafundishe mataifa yote; na kuvitawala kila kitu nilivyo waamuru: na, nitakuwa nawe siku zote, hata mwisho wa nchi. 
+Mfalme wa Wafalme (28:18-20) Mfalme huamrisha na kugiza Wanafunzi wake. Mesia bado yupo dunia. Nimepewa mamlaka yote mbinguni na duniani. Nendeni ulimwenguni kote, mkawafundishe mataifa yote; na kuvitawala kila kitu nilivyo waamuru: na, nitakuwa nawe siku zote, hata mwisho wa nchi.
 
 ### Marko
 
@@ -118,21 +118,21 @@ Ukuu na kujitwalia. Walienda mbele, na kuhubiri kila mahali, Bwana alitembea nao
 
 Hakuna ukoo. Yesu anaelezwa ni mtumishi. Hakuna hata mmoja aliyevutia katika jadi ya kutumika.
 
-### Luka 
+### Luka
 
 Ukoo umeanza katika Luka 3:23. Mathayo anafuata nyayo za ukoo wa Kristo toka kwa Ibrahim hadi kwa Daudi kuonyesha Yeye ni Myahudi na ni mtiririko wa Kifalme. Luka anafuata nyayo zake kurudi kwa Adam. Kristo ni mwakilishi kama mtu mkamilifu. Alitoka katika mtiririko wa Adam. Adam aliumbwa akiwa mkamilifu
 
-Tofauti - Yesu, mtu mkamilifu, alitumwa na Baba. Yeye alikuwa ni sehem toka kwake, na alichukuliwa juu mbinguni (24:51). Kuchukuliwa- alichukuliwa kwa mamlaka ya nguvu zake. Mtu mkamilifu ndio shabaha yetu, makini kwa Bwana, amshike Baba. 
+Tofauti - Yesu, mtu mkamilifu, alitumwa na Baba. Yeye alikuwa ni sehem toka kwake, na alichukuliwa juu mbinguni (24:51). Kuchukuliwa- alichukuliwa kwa mamlaka ya nguvu zake. Mtu mkamilifu ndio shabaha yetu, makini kwa Bwana, amshike Baba.
 
-### Yohana 
+### Yohana
 
 Hakuwa na ukoo wa kidunia, isipokuwa wa kimbinguni. Hapo mwanzo kulikuwako Neno, Naye Neno alikuwako kwa Mungu (Yohana 1:1,2). Kristo ameelezwa kama Mwana wa Mungu katika Yohana (Vizazi vinne- Mathayo 1:1-17; Marko; Luka 3:23-38; Yohana 1:1,2).
 
 ### Mstari wa mwisho
 
- Lakini pia kuna vitu vingine vingi, (21:25) Hakika, asingeweza mtu kuongea kama mtu huyu (7:46), kwa hiyo Yeye ni Mwana halali wa Mungu. Ilionyesha Kristo asili yake ni milele, hana mwanzo - hana mwisho; Yeye ni Mwana wa Mungu.
+Lakini pia kuna vitu vingine vingi, (21:25) Hakika, asingeweza mtu kuongea kama mtu huyu (7:46), kwa hiyo Yeye ni Mwana halali wa Mungu. Ilionyesha Kristo asili yake ni milele, hana mwanzo - hana mwisho; Yeye ni Mwana wa Mungu.
 
-## YOHANA TOFAUTI (Kwanini nYohana hakuhusishwa katika Injili za kimuhtasari) 
+## YOHANA TOFAUTI (Kwanini nYohana hakuhusishwa katika Injili za kimuhtasari)
 
 <table>
     <tr>
@@ -159,7 +159,7 @@ Hakuwa na ukoo wa kidunia, isipokuwa wa kimbinguni. Hapo mwanzo kulikuwako Neno,
 
 ### Maelezo ya Kitabu hiki
 
-Mathayo inaunganisha Agano la Kale na Jipya. Katika Agano la Kale tunapata maagano mawili makubwa: 
+Mathayo inaunganisha Agano la Kale na Jipya. Katika Agano la Kale tunapata maagano mawili makubwa:
 
 1. Agano na Daudi - II Sam. 7:8-13, 16 (Mfalme)
 2. Agano na Ibrahimu - Mwanzo 22:8 (Dhabihu)
@@ -369,15 +369,15 @@ Mzizi wa sheria hii ni huruma. Upendo hutawala badala ya sheria.
 Tunaonyeshwa dhambi siyo tu kutenda lakini pia kwenye mawazo (Mat. 5:21, 22, 27, 28).
 
 Mara kumi na nne Mfalme husema, "Nawaambia ninyi."
- 
+
 Hizi sheria hii inatuleta:
 
-* upendo badala ya sheria
-* ukweli badala ya uwongo
-* furaha badala ya wivu
-* haki badala ya kutotenda haki
-* umoja badala ya matengano/mgawanyiko
-* haki badala ya hasira
+- upendo badala ya sheria
+- ukweli badala ya uwongo
+- furaha badala ya wivu
+- haki badala ya kutotenda haki
+- umoja badala ya matengano/mgawanyiko
+- haki badala ya hasira
 
 Lengo kuu ni kuwa wakamilifu (5:48).
 
@@ -608,8 +608,8 @@ Mfano ni hadithi inayojulikana inayotumiwa kufundisha ukweli wa kiroho.
 
 Kwa nini Yesu alifundisha kwa mifano?
 
-* Kwa sababu haijatolewa kwa wote kujua siri za ufalme wa mbinguni (13:11)
-* Kwa sababu ilitabiriwa (13:34-35)
+- Kwa sababu haijatolewa kwa wote kujua siri za ufalme wa mbinguni (13:11)
+- Kwa sababu ilitabiriwa (13:34-35)
 
 > "Na nifunue kinywa changu kwa mithali, Niyatamke mafumbo ya kale."&mdash;Zab. 78:2
 
@@ -913,13 +913,13 @@ Marko
 
 ##### Yeye ni kijana wa Maria na binamu wa Barnaba
 
-Maria alikuwa ni mwanamke mwenye pesa kwsababu alijaribu kuwa na nyumba yake na kuhifadhi watumwa. 
+Maria alikuwa ni mwanamke mwenye pesa kwsababu alijaribu kuwa na nyumba yake na kuhifadhi watumwa.
 
 #### Marko alibadilishwa na Petro aliyemwita mwanangu katika I Petro 5:13
 
 #### Marko anashirikiana na Paulo na Barnaba huko Antiokia
 
-##### shida na raha hapa kwasababu Marko ameachwa (Matendo 12:25, 13:5) lakini walisuluhishwa kwasababu walionekana baadaye na Paulo huko Rumi (Col. 4:10) na wakati wa Paulo kuwekwa gerezani mara ya mwisho huko Rumi, anamwomba Timotheo kuja kwake na kumleta Marko pia (II Tim. 4:11) 
+##### shida na raha hapa kwasababu Marko ameachwa (Matendo 12:25, 13:5) lakini walisuluhishwa kwasababu walionekana baadaye na Paulo huko Rumi (Col. 4:10) na wakati wa Paulo kuwekwa gerezani mara ya mwisho huko Rumi, anamwomba Timotheo kuja kwake na kumleta Marko pia (II Tim. 4:11)
 
 #### Yawezekana Marko aliandika kati ya 50 AD
 
@@ -951,7 +951,7 @@ Warumi walikuwa tofauti kuliko Wayahudi.
 
 - Jambo iao la msingi ndio kawaida yao
 - Dini yao lazima uifanyie mazoezi
-- Hawakupenda kuvutiwa na nyayo za waamini waliopita 
+- Hawakupenda kuvutiwa na nyayo za waamini waliopita
 - Koo halali na utimilifu wa nabii walimwacha Yeye kwa kasi na kwa ugumu wa mioyo
 - Mwandishi mmoja alisema Warumi wanaweza kusema, sijui chochote kuhusiana na maandiko, na sijali chochote kwa mawazo yenu maalum; ningefurahi kusikia hadithi dhahiri za maisha ya huyu mtu Yesu aishivyo. Niambieni Yeye hufanya nini. hadi nimuone Yeye alivyo.
 
@@ -1004,7 +1004,7 @@ Hakuna rejea kwa uzao wake ni katika Injili yote.
 
 ##### Mtumishi alinyamaza mpaka kazi ilipo malizika
 
-#### Hakuna utangulizi katika Marko. Injili zingine zina ufunguzi mrefu, lakini kwa Marko hakuna. 
+#### Hakuna utangulizi katika Marko. Injili zingine zina ufunguzi mrefu, lakini kwa Marko hakuna.
 
 ##### Mtumishi hakuwa na utangulizi.
 
@@ -1057,7 +1057,8 @@ Hakuna rejea kwa uzao wake ni katika Injili yote.
 ##### Miujiza ishirini tunaipata katika Marko kwa undani.
 
 ### Yesu anaelezwa kama mnyenyekevu lakini mtu mkamilifu wa Yehova na tunapata malaika wanahudum kwake.
- ## Maandalizi ya mtumishi
+
+## Maandalizi ya mtumishi
 
 ### Mtumishi ameandaliwa
 
@@ -1187,7 +1188,7 @@ Sio hivyo kwa Mungu!
 
 ## Alithibitishwa na Baba
 
-> Marko 1:9-11&mdash;Ikawa siku zile,Yesu alikuja kutoka Nazareti ya Galilaya, akabatizwa na Yohana katika Yordani. 10 Mara akapanda kutoka majini, akaona mbingu zinapasuka, na Roho kama hua akishuka juu yake: 11 na sauti ikatoka mbinguni, ikisema, Wewe ndiwe Mwanangu, mpendwa wangu, ninaye pendezwa nawe. 
+> Marko 1:9-11&mdash;Ikawa siku zile,Yesu alikuja kutoka Nazareti ya Galilaya, akabatizwa na Yohana katika Yordani. 10 Mara akapanda kutoka majini, akaona mbingu zinapasuka, na Roho kama hua akishuka juu yake: 11 na sauti ikatoka mbinguni, ikisema, Wewe ndiwe Mwanangu, mpendwa wangu, ninaye pendezwa nawe.
 
 # Kazi ya mtumishi
 
@@ -1229,7 +1230,7 @@ Marko anamwambia Yesu&hellip;
 > Marko 1:35&mdash;Hata alfajiri na mapema sana akaondoka, akatoka akaenda zake mahalipasipokuwa na watu, akaomba huko.
 
 - Ndipo waliendelea kutembea.
-- Kama Mwana wa Mungu anahitajiwa kuomba kabla hajaingia majaribuni, ninyi mngekuwa zaidi. 
+- Kama Mwana wa Mungu anahitajiwa kuomba kabla hajaingia majaribuni, ninyi mngekuwa zaidi.
 - Baadhi ya upungufu wa mafanikio na ushindi ni kwasababu mnashindwa kuomba hata kidogo.
 
 ## Marko 3:14, 15
@@ -1250,7 +1251,7 @@ Aliwaweka 12 ambaye wanaweza kuwa naye. Anataka sisi na Yeye tuwe na ushirika na
 
 Akatakasa wakoma
 
-> Marko 1:40&mdash;Akaja kwake mtu mwenye ukoma, akamsihi, na kumpigia magoti, na kumwambia, nimepungukiwa na nguvu, naomba unitakase. 
+> Marko 1:40&mdash;Akaja kwake mtu mwenye ukoma, akamsihi, na kumpigia magoti, na kumwambia, nimepungukiwa na nguvu, naomba unitakase.
 
 ## Marko 2:1
 
@@ -1283,7 +1284,7 @@ Hawa marafiki walijua Yesu alikuwa wapi. Chagua marafiki wenye hekima.
 
 ##### Yeye atashitakiwa kwa hila
 
-Marko 9:31 
+Marko 9:31
 
 ##### Yeye atauawa na Warumi
 
@@ -1388,13 +1389,13 @@ Luka peke yake anatuambia kuhusu:
 
 Kuanzishwa kwa Injili ya Yohana inaonyesha mandhari ya Yesu kuwa Mwana wa Mungu.
 
->"Hapo mwanzo kulikuwako Neno, naye Neno alikuwako kwa Mungu, naye Neno alikuwa Mungu."&mdash;Yoh. 1:1
+> "Hapo mwanzo kulikuwako Neno, naye Neno alikuwako kwa Mungu, naye Neno alikuwa Mungu."&mdash;Yoh. 1:1
 
 Luka, kama hadithi rahisi kuhusu watu, hutoa Yesu kama mtu katika utangulizi.
 
->"Zamani za Herode, mfalme wa Uyahudi, palikuwa na kuhani mmoja, jina lake Zakaria..."&mdash;Luka 1:5
+> "Zamani za Herode, mfalme wa Uyahudi, palikuwa na kuhani mmoja, jina lake Zakaria..."&mdash;Luka 1:5
 
->"Siku zile amri ilitoka kwa Kaisari Augusto ya kwamba iandikwe orodha ya majina ya watu wote wa ulimwengu."&mdash;Luka 2:1
+> "Siku zile amri ilitoka kwa Kaisari Augusto ya kwamba iandikwe orodha ya majina ya watu wote wa ulimwengu."&mdash;Luka 2:1
 
 Kumbuka: Mika alisema kwamba Bethlehemu ilikuwa ni mahali pa kuzaliwa kwa Yesu (Mika 5: 2-5).
 

@@ -2,22 +2,26 @@
 
 Utaratibu wa Utafiti: Utangulizi, Sehemu Mwanzo, Sehemu Kutoka, Sehemu Mambo ya Walawi, Sehemu Hesabu, Sehemu Kumbukumbu la Torati.
 
-## Hii ni rafu ya vitabu vya Agano la kale.
+## Hii ni rafu ya vitabu vya Agano la Kale
 
-Neno "agano" humaanisha "matakwa" au "mapatano." Kipindi cha "Agano la kale", kwa hiyo, linarejea mapatano ya Mungu au sheria ya ahadi ya kubariki jamii ya wanadamu kupitia Taifa la kiyahudi. Imekuwa pia kurejewa kwa maandishi juu ya Agano la kale,ijapokuwa ni mazungumzo dhahiri, vitabu hivi vya kale ni maandiko matakatifu ya Agano la kale.
+Neno "agano" humaanisha "matakwa" au "mapatano." Kipindi cha "Agano la Kale", kwa hiyo, linarejea mapatano ya Mungu au sheria ya ahadi ya kubariki jamii ya wanadamu kupitia Taifa la kiyahudi. Imekuwa pia kurejewa kwa maandishi juu ya Agano la Kale,ijapokuwa ni mazungumzo dhahiri, vitabu hivi vya kale ni maandiko matakatifu ya Agano la Kale.
 
-Maandiko matakatifu ya Agano la kale huhifadhi habari ya wateule wa Mungu, Waisraeli, na uhusiano wao na agano lake kuwabariki mataifa yote kupitia kwao.
+Maandiko matakatifu ya Agano la Kale huhifadhi habari ya wateule wa Mungu, Waisraeli, na uhusiano wao na agano lake kuwabariki mataifa yote kupitia kwao.
 
-|                           |                   |         |                 |                 |        |         |                    |           |           |           |           |                    |                                     |         |            |         |
-| ------------------------- | ----------------- | ------- | --------------- | --------------- | ------ | ------- | ------------------ | --------- | --------- | --------- | --------- | ------------------ | ----------------------------------- | ------- | ---------- | ------- | ------ | --- | --- |
-|                           |                   |         |                 |                 |        |         |                    |           |           |           |           |                    |                                     |         |            |         |        |     |     |
-|                           | Vitabu vya Sheria |         |                 |                 |        |         | Vitabu ni Historia |           |           |           |           |                    |                                     |         |            |         |        |     |     |
-| Mwanzo                    | Exodus            | Kutoka  | Mambo ya Walawi | Hesabu          | Yoshua | Waamuzi | Ruth               | 1 Samweli | 2 Samweli | 1 Wafalme | 2 Wafalme | 1 Mambo ya nyakati | 2 Mambo ya nyakati                  | Ezra    | Nehemia    | Esta    |
-| Vitabu vya Mashairi       |                   |         |                 |                 |        |         |                    |           |           |           |           |                    | Hivi ni vitabu vya manabii wa kubwa |         |            |         |        |
-| Ayubu                     | Zaburi            | Mithali | Mhubiri         | Wimbo Ulio Bora |        |         |                    |           |           |           |           |                    | Isaya                               | Yeremia | Maombolezo | Ezekiel | Daniel |
-| Vitabu vya Manabii Wadogo |                   |         |                 |                 |        |         |                    |           |           |           |           |                    |                                     |         |            |         |        |
-|                           |                   |         | Hosea           | Yoeli           | Amosi  | Obadia  | Yona               | Mika      | Nahumu    | Habakuki  | Sefania   | Hagai              | Zekaria                             | Malaki  |            |         |        |
-|                           |                   |         |                 |                 |        |         |                    |           |           |           |           |                    |                                     |         |            |         |        |     |     |
+### Vitabu vya Sheria
+
+### Vitabu ni Historia
+
+| Mwanzo | Exodus | Kutoka | Mambo ya Walawi | Hesabu | Yoshua | Waamuzi | Ruth | 1 Samweli | 2 Samweli | 1 Wafalme | 2 Wafalme | 1 Mambo ya nyakati | 2 Mambo ya nyakati | Ezra | Nehemia | Esta |
+
+### Vitabu vya Mashairi
+
+### Hivi ni vitabu vya manabii wa kubwa
+
+Ayubu | Zaburi | Mithali | Mhubiri | Wimbo Ulio Bora | | | | | | | | | Isaya | Yeremia | Maombolezo | Ezekiel | Daniel |
+| Vitabu vya Manabii Wadogo | | | | | | | | | | | | | | | | | |
+| | | | Hosea | Yoeli | Amosi | Obadia | Yona | Mika | Nahumu | Habakuki | Sefania | Hagai | Zekaria | Malaki | | | |
+| | | | | | | | | | | | | | | | | | | | |
 
 ## Vitabu vya sheria
 
@@ -79,7 +83,7 @@ Habari ya ukombozi ni ya kuvutia, na sio mfu, kuchosha ya kuropoka, vipande vili
 
 ## Habari mbalimbali za Pentantuki
 
-Torati humaanisha “Magombo matano 5” na nijina la Kigriki lililotolewa kwa ajili vitabu vitano vya kwanza vya Biblia na watafasri. Hivi vitabu vitano 5 vinajulikana na wayahudi kama “Torah” ambalo humaanisha sheria. Torati ni sehemu ya Agano la kale. “Agano” humaanisha matakwa au mapatano. Hili agano lilikuwa moja ya vivuli na ahadi za vitu boravijavyo. (Waebrania 8:6-13)
+Torati humaanisha “Magombo matano 5” na nijina la Kigriki lililotolewa kwa ajili vitabu vitano vya kwanza vya Biblia na watafasri. Hivi vitabu vitano 5 vinajulikana na wayahudi kama “Torah” ambalo humaanisha sheria. Torati ni sehemu ya Agano la Kale. “Agano” humaanisha matakwa au mapatano. Hili agano lilikuwa moja ya vivuli na ahadi za vitu boravijavyo. (Waebrania 8:6-13)
 
 > Waebrania 12:24—Na yesu ni mpatanishi wa Agano jipya, na kwa damu ya kunyunyiza, ambayo hunena mambo mema kuliko ile ya Abeli.
 

@@ -42,7 +42,7 @@ Kitabu cha Waebrania kinarejea kitabu hiki kama Dsheria ya kuhani <sup>[2]<sup>.
 
 Basi, kama ukamilifu ulikuwapo kwa ukuhani wa Lawi; (maana watu wale waliipata sheria kwa huo); kulikuwa na haja gani tena ya kuhani mwingine ainuke, kwa mfano wa Melkizedeki, wala asihesabiwe kwamfano wa Haruni?Waeb. 7:11; Zab. 110:4
 
-MUHTASARI: Paulo anathibitisha hitimisho kubwa na hasahasa ukuhani wa Agano la kale ulivyo kuwa, haikuwa imethibitishwa na Mungu kama mwisho wa kusudi la Uungu wake, bali jiwe la kujengea na maandalizi ya somo njia kwa ajili ya utaratibu mkamilifu zaidi wa kuwasiliana na Mungu. Waeb. 9:11; 10:1
+MUHTASARI: Paulo anathibitisha hitimisho kubwa na hasahasa ukuhani wa Agano la Kale ulivyo kuwa, haikuwa imethibitishwa na Mungu kama mwisho wa kusudi la Uungu wake, bali jiwe la kujengea na maandalizi ya somo njia kwa ajili ya utaratibu mkamilifu zaidi wa kuwasiliana na Mungu. Waeb. 9:11; 10:1
 
 ## Mpangilio 4wa kitabu walawi
 

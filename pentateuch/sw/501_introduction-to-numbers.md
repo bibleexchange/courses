@@ -46,7 +46,7 @@ Biblia inafaa kwa ajili ya biashara ya kutegemewa kwa ajili ya Historia, na usom
 - 2 Ukombozi sambamba wa kiroho wa kutoka kwaWaebrania kutoka vifungo vya dhambi na dunia hii.
 - 3 Katika Hesabu safari ya Waisraeli kiupitiajangwani inachochea wazo kuhusu dhamira za kiroho ya utambuzi wote kuhusu Mungu na maisha ya kuishi na kutembea katika Roho. Hesabu kwa halisi inaelezea utakaso ambao ni kutengwa kutoka Misri
 
-Kwenye ufahamu wa kiroho, somo la Agano la kale. sheria ni nyepesi kuchochea, lakini ufahamu wa kimwili waweza kuipata ikiwa na upungufu wa uhai.
+Kwenye ufahamu wa kiroho, somo la Agano la Kale. sheria ni nyepesi kuchochea, lakini ufahamu wa kimwili waweza kuipata ikiwa na upungufu wa uhai.
 
 I Wakor2:14-16—Basi mwanadamu wa tabia ya asili hayapokei mambo ya Roho wa Mungu; maana kwake huyo ni upuzi, wala hawezi kuyafahamu, kwa kuwa yatambulikana kwa jinsi ya rohoni. 15 Lakini mtu wa rohoni huyatambua yote, wala yeye hatambuliwi na mtu. 16 Maana, Ni nani aliyeifahamu nia ya Bwana, amwelimishe? Lakini sisi tunayo nia ya Kristo
 

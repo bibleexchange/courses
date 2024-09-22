@@ -12,10 +12,10 @@ Kwa nini Paulo anaongelea kuhusu Ibrahimu? Paulo anaelezea swali la Wayahhudi. W
 
 Wayahudi walikuwa wameshikiliwa katika uhusiano wao na Abrahamu ("wana wa Abrahamu kimwili") kama dhamana yao kwa uzima wa milele. Wayahudi waliweka faraja kubwa kwa Abrahimu baba wa taifa lao hii ni swali la kiyahudi, Paulo analielezea:
 
-* Ni nini kuhusu Ibrahimu Baba yetu?
-* Ni agano gani la tohara lililotolewa kwa Abrahimu, lisilo tufanya sisi kuwa haki?
+- Ni nini kuhusu Ibrahimu Baba yetu?
+- Ni agano gani la tohara lililotolewa kwa Abrahimu, lisilo tufanya sisi kuwa haki?
 
-War sura ya 4 inashughulika na "haki ya Ibrahimu." Ibrahimu ni mfano wa kuhesabiwa kwa neema kupitia ya imani. Paulo anatumia maisha ya Ibrahimu kama YALIVYOONYESHWA KATIKA MAANDIKO MATAKATIFU kuelezea fundisho la haki kwa njia ya imani. Katika sura sura zote mbili ya 3 na ya4 Paulo anautoa ukweli kwamba yeye hahubiri injili ya kushindanisha maandiko ya (Agano la kale), bali za ni injili ambayo mwendelezo wa kusudi la Mungu la milele.
+War sura ya 4 inashughulika na "haki ya Ibrahimu." Ibrahimu ni mfano wa kuhesabiwa kwa neema kupitia ya imani. Paulo anatumia maisha ya Ibrahimu kama YALIVYOONYESHWA KATIKA MAANDIKO MATAKATIFU kuelezea fundisho la haki kwa njia ya imani. Katika sura sura zote mbili ya 3 na ya4 Paulo anautoa ukweli kwamba yeye hahubiri injili ya kushindanisha maandiko ya (Agano la Kale), bali za ni injili ambayo mwendelezo wa kusudi la Mungu la milele.
 
 1. katika sura ya 3, Paulo anathibitisha kwamba imani haipuki sheria bali zaidi ya hapo inaithibitisha.
 2. Katika sura ya 4 ahadi iliotolewa kwa Ibrahimu haikuwa kwa njia ya sheria (tohara) bali kwa njia ya haki ya imani.
@@ -45,4 +45,3 @@ Wayahudi walitazamia tohara na sheria kama chanzo cha haki yao. Ibrahimu alihesa
 Tohara haikumhesabia Ibrahimu haki. Tohara ilikuwa imetolewa kama ishara ya ahadi. Ilikuwa imetolewa kama mhuri wa haki ya imani. Ni alama ya kuindoa sehemu ya mwili. Hakuna nguvu ya haki katika tendo la kimwili. Hii kwa uhalisi ni kazi ya Mungu mara nyingi katika njia hiyo hiyo ubatizo ni alama ya kazi kamili.
 
 Sheria inaleta kuitambua dhambi (mst. 15). Inasema mahali ambapo hakuna sheria hakuna uasi inarejea kwenye ukweli kwamba ikiwa hakuna sheria basi hakuna kuivunja sheria. Hii pia lazima inarejea kwenye sheria ya maadili kama ilivyo kwa sheria Musa. Ibrahimu alikuwa amehesabiwa kwa imani kwa njia ya neema (mst. 16). Hakujipatia haki kwa uwezo wake mwenyewe;Itolewa pasipo kusitahili kwasababu ya imani yake.
-

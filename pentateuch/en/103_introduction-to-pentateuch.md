@@ -8,16 +8,18 @@ The word "testament" means "will" or "covenant." The term "Old Testament", there
 
 The Scriptures of the Old Testament record the story of God's chosen people, Israel, and their relationship to His covenant to bless all nations through them.
 
-|                 |              |           |               |                 |        |         |                  |          |          |          |           |              |                |          |               |         |
-| --------------- | ------------ | --------- | ------------- | --------------- | ------ | ------- | ---------------- | -------- | -------- | -------- | --------- | ------------ | -------------- | -------- | ------------- | ------- | ------ | --- | --- |
-|                 |              |           |               |                 |        |         |                  |          |          |          |           |              |                |          |               |         |        |     |     |
-|                 | Books of Law |           |               |                 |        |         | Books of History |          |          |          |           |              |                |          |               |         |        |     |     |
-| Genesis         | Exodus       | Leviticus | Numbers       | Deuteronomy     | Joshua | Judges  | Ruth             | 1 Samuel | 2 Samuel | 1 Kings  | 2 Kings   | 1 Chronicles | 2 Chronicles   | Ezra     | Nehemiah      | Esther  |
-| Books of Poetry |              |           |               |                 |        |         |                  |          |          |          |           |              | Major Prophets |          |               |         |        |
-| Job             | Psalms       | Proverbs  | Ecclesisastes | Song of Solomon |        |         |                  |          |          |          |           |              | Isaiah         | Jeremiah | Lamentataions | Ezekiel | Daniel |
-| Minor Prophets  |              |           |               |                 |        |         |                  |          |          |          |           |              |                |          |               |         |        |
-|                 |              |           | Hosea         | Joel            | Amos   | Obadiah | Jonah            | Micah    | Nahum    | Habakkuk | Zephaniah | Haggai       | Zechariah      | Malachi  |               |         |        |
-|                 |              |           |               |                 |        |         |                  |          |          |          |           |              |                |          |               |         |        |     |     |
+### Books of Law
+
+### Books of History
+
+| Genesis | Exodus | Leviticus | Numbers | Deuteronomy | Joshua | Judges | Ruth | 1 Samuel | 2 Samuel | 1 Kings | 2 Kings | 1 Chronicles | 2 Chronicles | Ezra | Nehemiah | Esther |
+
+### Books of Poetry | | | | | | | | | | | | | Major Prophets | | | | |
+
+| Job | Psalms | Proverbs | Ecclesisastes | Song of Solomon | | | | | | | | | Isaiah | Jeremiah | Lamentataions | Ezekiel | Daniel |
+| Minor Prophets | | | | | | | | | | | | | | | | | |
+| | | | Hosea | Joel | Amos | Obadiah | Jonah | Micah | Nahum | Habakkuk | Zephaniah | Haggai | Zechariah | Malachi | | | |
+| | | | | | | | | | | | | | | | | | | | |
 
 ## The Books of Law
 

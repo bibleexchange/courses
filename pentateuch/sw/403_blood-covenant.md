@@ -26,7 +26,7 @@ Kufanya agano la damu inaonekana kama dhanaya kidunia inaopatikana miongoni mwaj
 
 ## Kielelezo cha Agano
 
-Agano la Mungu pamoja nasi ni sawa na Aganola damu katika Agano la kale. (Waebrania. 9:24)
+Agano la Mungu pamoja nasi ni sawa na Aganola damu katika Agano la Kale. (Waebrania. 9:24)
 
 ### Tunabadilisha mavazi yetu na upanga Waefeso. 6:11-17
 

@@ -54,6 +54,6 @@ Ufufuo wa Kristo ni tukio amabalo humtenga Yesu kutoka kwa viongozi wengine wa d
 
 Yesu alichukkuliwa juu mbinguni na yuko mkono wa kuume wa Baba ambaye siku zote yu hai kutuombea. Andiko linatuambia Yesu kuhani wetu mkuu bado anatuombea mbinguni.
 
-Kuhani mkuu wa Agano la kale aliwaombea watu siku ya upatanisho kwa kunyunyiza damu ya mwanakondoo juu ya kiti cha rehema kwa ajili ya wenye dhambi. Yesu alijitoa mwenyewe mara moja na kumwaga damu ya kiungu kwa ajili ya dhambi za wanadamu. Damu ya Yesu bado ina nguvu kusafisha mwenye dhambi mbaya sana. Baba anaangalia mtakatifu kupitia kazi ya ukombozi ya Kristo. Yesu bado ni kuhani wetu mkuu.
+Kuhani mkuu wa Agano la Kale aliwaombea watu siku ya upatanisho kwa kunyunyiza damu ya mwanakondoo juu ya kiti cha rehema kwa ajili ya wenye dhambi. Yesu alijitoa mwenyewe mara moja na kumwaga damu ya kiungu kwa ajili ya dhambi za wanadamu. Damu ya Yesu bado ina nguvu kusafisha mwenye dhambi mbaya sana. Baba anaangalia mtakatifu kupitia kazi ya ukombozi ya Kristo. Yesu bado ni kuhani wetu mkuu.
 
 > Waebr 7:25 --- Naye, kwa sababu hii, aweza kuwaokoa kabisa wao wamjiao Mungu kwa yeye; maana yu hai sikuzote ili awaombee.

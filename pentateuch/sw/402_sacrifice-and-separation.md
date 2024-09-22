@@ -20,13 +20,13 @@ VITU HIVI VINAWEZEKANA JE?
 
 “Iweni watakatifu” (Wal. 20:7)
 
-## Kusudi la dhabihu za Agano la kale
+## Kusudi la dhabihu za Agano la Kale
 
 Inathibitisha kwa uhalisi kwamba imethibitishwa katika fahamu zetu kwamba ukombozi na kuhesabiwa haki kwa mwanadamu inawezekana tu kwa kupitia damu ya Yesu.
 
 > Waeb 9:12-14 4Wala sio damu ya mbuzina ndama, bali kwa damu yake mwenyewe aliyeingia mara moja mahali patakatifu, na kupata ukombozi wa milele kwa ajili yetu. Kwa maana, ikiwa damu ya mbuzina mafahali na majivu ya ndama ya ng'ombe waliyonyunyiziwa wenye uchafu hutakasa hata kuusafisha mwili; 14 basi si zaidi damu yake Kristo, ambaye kwamba kwa Roho wa milele alijitoa nafsi yake kwa Mungu kuwa sadaka isiyo na mawaa, itawasafisha dhamiri zenuna matendo mafu, mpate kumwabudu Mungu aliye hai?
 
-Katika mwanga wa dhabihu ya Kristo msalabani, "ya damu" kitabu cha walawi kinakuwa hai pamoja na uhusiano. walawi hakijapitwa na wakati kwasababu ya kifo cha Kristo, bali bado kinatumika kusudi hilohilo kama ilivyokuwa kabla ya kifo chake. Kusudi la dhabihu za walawi na jumla ya Agano la kale ni kuelekeza kwa Kristo. Sheria ni kiongozi anayefanya ufafanuzi wa haki, ubaya na tiba. Kama tunavyo angalia katika somo hili kubwala walawi, weka akilini kwamba kila dhabihu, sikukuuu, amri zilizotolewa na Mungu ni picha ya Kristo kujishughulisha kwake na binadamu.
+Katika mwanga wa dhabihu ya Kristo msalabani, "ya damu" kitabu cha walawi kinakuwa hai pamoja na uhusiano. walawi hakijapitwa na wakati kwasababu ya kifo cha Kristo, bali bado kinatumika kusudi hilohilo kama ilivyokuwa kabla ya kifo chake. Kusudi la dhabihu za walawi na jumla ya Agano la Kale ni kuelekeza kwa Kristo. Sheria ni kiongozi anayefanya ufafanuzi wa haki, ubaya na tiba. Kama tunavyo angalia katika somo hili kubwala walawi, weka akilini kwamba kila dhabihu, sikukuuu, amri zilizotolewa na Mungu ni picha ya Kristo kujishughulisha kwake na binadamu.
 
 ## "Sadaka ya kuteketeza (nzima nzima), sura. 1 "
 

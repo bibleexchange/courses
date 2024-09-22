@@ -56,7 +56,7 @@ Historia ya Mwanzo hufunua kwamba nyenzo za ulimwengu ziko tofauti na kazi ya Mu
 
 Mwanzo ni kitabu cha vitu vya kwanza:kinataarifu ndoa ya kwanza, familia ya kwanza, uzazi wa kwanza, dhambi ya kwanza, mauwaji ya kwanza, mitala ya kwanza, vyombo vya kwanza vya mziki, na ahadi ya kwanza ya ukombozi. Agano lililofanywa na Abraham katika12:1-3 ni kituo cha katikati cha maandiko yote matakatifu.
 
-Mwanzo pekee inaelezea asili ya makabila kumi na mbili ya Israel. Mwanzo hufunua jinsi mababu wa Abraham walivyo malizia huko Misri kwa miaka 430 na wale wanao chukua hatua kwa ajili ya Kutoka, tukio la ukombozi wa katikati wa Agano la kale.
+Mwanzo pekee inaelezea asili ya makabila kumi na mbili ya Israel. Mwanzo hufunua jinsi mababu wa Abraham walivyo malizia huko Misri kwa miaka 430 na wale wanao chukua hatua kwa ajili ya Kutoka, tukio la ukombozi wa katikati wa Agano la Kale.
 
 ## Ukamilisho wa Agano Jipya:
 

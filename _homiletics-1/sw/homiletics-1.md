@@ -211,7 +211,7 @@ Katika Maandiko Matakatifu mafuta ni alama ya Roho Mtakatifu. Mafuta anayomimini
 
 Katika Agano Jipya kupakwa mafuta kunatumika kuonesha uhusiano wake na mahubiri ya Injili. Kupakwa mafuta ni kupewa nguvu za Mungu ili kumwezesha mwanadamu afundishe kwa nguvu na mamlaka.
 
-#### Katika Agano la kale wafalme walipewa mamlaka yao kwa kupakwa mafuta
+#### Katika Agano la Kale wafalme walipewa mamlaka yao kwa kupakwa mafuta
 
 Wafalme walipakwa mafuta na manabii wa Mungu. Hii ilikuwa ni ishara kwamba wamepewa mamlaka na Mungu na kutengwa kwa ajili ya huduma yake. Mpango wa Mungu kwa wafalme hawa ni kuwapatia Roho Mtakatifu katika maisha yao. Baadhi ya wafalme hao hawakumtumikia Mungu kwa hiyo Roho Mtakatifu hakuwa pamoja nao.
 
@@ -219,7 +219,7 @@ Wafalme walipakwa mafuta na manabii wa Mungu. Hii ilikuwa ni ishara kwamba wamep
 
 Katika I Wafalme 19:16 Elisha anaagizwa na Mungu ampake mafuta Yehu awe Mfalme naye Elisha apakwe mafuta ili awe Nabii mahali pake. Mafuta haya yalimwagwa juu ya Manabii kama alama ya Roho Mtakatifu akiwa amemwagwa katika maisha yao. Manabii waliongea kama kipaza sauti cha Mungu. Biblia inatumia maneno: "Neno la Bwana," katika kuelezea Mungu alivyofikisha ujumbe kwa kuwatumia Manabii wake (Yeremia 44:24).
 
-#### Katika Agano la kale Makuhani walipakwa mafuta
+#### Katika Agano la Kale Makuhani walipakwa mafuta
 
 Makuhani hawa walipaswa kuwa Watakatifu katika Bwana. Walipakwa mafuta pia (Hes. 3:3). Hii inatuonesha kwamba wale ambao wanafanya kazi ya Bwana wanapaswa kumwagiwa Roho Mtakatifu.
 
@@ -299,7 +299,7 @@ Kifungu cha kinabii cha weza kuwa na mikunjo miwili ya utimilifu, lakini kuna fa
 
 Maandiko yote lazima ya chukuliwe katika simlizi yake na maana ya wazi kuruhusu tu kwa ajili ya mfano na mashauri ya vitabu. Kila kifungu lazima kichukuliwe katika thamani ya sura yake Maritini luther aliita hii kanuni "fasiri simlizi." Hii kanuni humanisha kwamba tunasoma na kutathimini maandiko pamoja na heshima hiyo hiyo na kufahamu kwamba tunasoma kitabu chochote.
 
-Acha andiko lijizungumzie lenyewe. Ukweli ni kamili na hauhusiani na mpangilio wako wa matukio. Hii kanuni inauhusiano maalumu katika somo la unabii. Agano la kale linabeba karibu nabii 450 kuhusu ujio wa kwanza wa Kristo. Nabii nyingi zilikuwa nakala, angalau kweli sitini dhahiri za maisha ya Kristo na huduma ilio onyeshwa, na zote sitini, pasipo udhuru, zilikuwa unabii ulotimizwa kihalisi ambao ulikuwa hauja timizwa kihalisi na mimi sio unabii wa kweli.
+Acha andiko lijizungumzie lenyewe. Ukweli ni kamili na hauhusiani na mpangilio wako wa matukio. Hii kanuni inauhusiano maalumu katika somo la unabii. Agano la Kale linabeba karibu nabii 450 kuhusu ujio wa kwanza wa Kristo. Nabii nyingi zilikuwa nakala, angalau kweli sitini dhahiri za maisha ya Kristo na huduma ilio onyeshwa, na zote sitini, pasipo udhuru, zilikuwa unabii ulotimizwa kihalisi ambao ulikuwa hauja timizwa kihalisi na mimi sio unabii wa kweli.
 
 Uliza swali: Mawazo gani KIHALISI hutiririka kutoka kifungu? Maana ya wazi kisome kwa njia iliondikiwa. Kuna hekima kuu katika urahisi.
 
@@ -393,7 +393,7 @@ Lugha zote sio mbaya. Kama jambo la hakika, kila lugha ni ya kipekee pamoja na n
 
 **MFANO**: Kristo anajieleza kwa Maria Yoh. 19:26 anatoa sauti ya ukali katika Kiswahili: "Mwanamke, tazama mwanao!" Kama jambo la hakika, ni sauti ya kushusha heshima sana. Tunafasiri kifungu hiki sio katika mwanga wa jinsi ya kutoa sauti katika Kiswahili, bali ni jinsi ya kutoa sauti katika kiyunani kwa sababu hiyo ni asili na lugha ilio vuviwa ya kitabu cha Yohn na Kiebrania au kiaramu kwa sababu ya mukini hiyo ndio lugha ambayo Yesu aliizungumza katika kiebrania, "mwanamke" inasauti kinyume kuliko ilivyo katika kiswahili; ni utaratibu wa heshima kama vile "mama."
 
-Kutafuta maana ya maneno kwenye dikishenari inaweza kumsaidia muhubiri kupata ufahamu bora wa maandiko. Agano la kale kiasili lilikuwa limeandikwa kwa kiebrania na Agano jipya kiasili lilikuwa limeandikwa kwa kiyunani. Kuna vitabu vya rejea kama vile Concordance na dictionary ya Biblia. Vitabu hivi hutoa maana ya maneno katika lugha za kinadharia. Matumizi ya kamusi ya lugha ya kawaida kama Webster vilevile inaweza kusaidia katika kufahamu maana ya maneno katika kifungu cha maandiko.
+Kutafuta maana ya maneno kwenye dikishenari inaweza kumsaidia muhubiri kupata ufahamu bora wa maandiko. Agano la Kale kiasili lilikuwa limeandikwa kwa kiebrania na Agano jipya kiasili lilikuwa limeandikwa kwa kiyunani. Kuna vitabu vya rejea kama vile Concordance na dictionary ya Biblia. Vitabu hivi hutoa maana ya maneno katika lugha za kinadharia. Matumizi ya kamusi ya lugha ya kawaida kama Webster vilevile inaweza kusaidia katika kufahamu maana ya maneno katika kifungu cha maandiko.
 
 ## Kanuni ya kumi: vifaa vywa rejea ni vyombo vyenye nguvu bali matumizi yake lazima yatawaliwe na kanuni za kihabari
 

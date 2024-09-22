@@ -1,7 +1,7 @@
 <p><span lang='swa'>MASWASI YA KUJIFUNZA </span></p>
 <p><span lang='swa'>Sehemu ya 2 Kut </span></p>
 <p><span lang='swa'>Kutoka inamaanisha nini? </span></p>
-<p><span lang='swa'>Jina la kitabu hichi linakuja kutoka Toleo la zamani sana la Agano la kale katika hilo ndipo kilitwa DKutoka D amabalo humaanisha Ckwenda inje. DHili jina linarejea kwaWanaisrael Ckwenda inje Dkutoka Misri </span></p>
+<p><span lang='swa'>Jina la kitabu hichi linakuja kutoka Toleo la zamani sana la Agano la Kale katika hilo ndipo kilitwa DKutoka D amabalo humaanisha Ckwenda inje. DHili jina linarejea kwaWanaisrael Ckwenda inje Dkutoka Misri </span></p>
 <p><span lang='swa'>Jina la kiebrania la kitabu hiki nini na linamaanisha nini? </span></p>
 <p><span lang='swa'>Hiki kitabu kwa kiebrania kinaitwa Biblia Dhaya ndio majina D(Weelleh Shemoth)ambayo nikufungua ibara mojaya kitabu. </span></p>
 <p><span lang='swa'>Ni nini madhumuni ya dhamira ya msingi ya Kutoka? </span></p>

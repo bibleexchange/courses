@@ -158,7 +158,7 @@ Tarumbeta zifanywe kutokana na habari ambazo Mungu anatoa kwako.
 
 Biblia
 
-"Agano la kale Agano la kale. Agano zote mbili ni kitabu kimoja. Zote zinaweka habari ambazo zinatangaza ukweli juu ya ukombozi, Wokovu, Kukombolewa, Uponyaji na Ushindi. Sauti msalabaniu ""Imekwisha"" Ukombozi umekamilika-utoaji umesha fanyika uzi mwekundu wa ukombozi umetanda kupitia kila kitabu cha Biblia. Yesuni mkombozi wetu mbarikiwa "
+"Agano la Kale Agano la Kale. Agano zote mbili ni kitabu kimoja. Zote zinaweka habari ambazo zinatangaza ukweli juu ya ukombozi, Wokovu, Kukombolewa, Uponyaji na Ushindi. Sauti msalabaniu ""Imekwisha"" Ukombozi umekamilika-utoaji umesha fanyika uzi mwekundu wa ukombozi umetanda kupitia kila kitabu cha Biblia. Yesuni mkombozi wetu mbarikiwa "
 
 kwamba mweze kuvitumia
 
@@ -180,7 +180,7 @@ Jifanyie tarumbeta mbili za fedha za picha nzima ya kitabu utazifanya kuwa moja 
 
 Jifanyie tarumbeta mbili za kitabu kizima cha picha"
 
-Agano la kale
+Agano la Kale
 
 Agano jipya
 

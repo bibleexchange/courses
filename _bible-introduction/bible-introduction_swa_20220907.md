@@ -204,7 +204,7 @@ BIBLIA NI NINI?
 
 <span class="cs82C183F4"></span>
 
-- <span class="cs55623DE3">Agano la kale limejaa utabiri wa Kristo. Utabiri huu huitwa Utabiri wa Mesia. Agano la kale linavivuli vingi na viashiria vinavyoonesha ujio wa Kristo. Sheria ni mwalimu wa kutupeleka kwa Kristo. – Gal. 3:24 Kristo ni utimilifu wa sheria. </span>
+- <span class="cs55623DE3">Agano la Kale limejaa utabiri wa Kristo. Utabiri huu huitwa Utabiri wa Mesia. Agano la Kale linavivuli vingi na viashiria vinavyoonesha ujio wa Kristo. Sheria ni mwalimu wa kutupeleka kwa Kristo. – Gal. 3:24 Kristo ni utimilifu wa sheria. </span>
 
 <span class="cs55623DE3"></span>
 
@@ -2496,7 +2496,7 @@ Haya ni mafundisho ya uongo ambayo ni hatari kuzungumzia sehemu tu kuwa na pumzi
 
 <span class="cs7C9C5CE4"></span>
 
-<span class="cs55623DE3">Marisiyo ndiye aliyekuwa mtu wa kwanza kutengeneza orodha ya baadhi ya vitabu vya Agano Jipya. Marisiyo alilikataa Agano la kale lote na akamuona Mungu wa Agano la Kale kuwa ni mdogo kwa Yesu. Kanoni ya Marsiyo iliundwa na vitabu 10 tu ambavyo ni nyaraka za Paulo (ukiondoa ambazo za kichungaji) na injili ya Luka. Vitabu hivi alivifanyia masahihisho ili vielewane na ufundishaji wake uliokengeuka.</span>
+<span class="cs55623DE3">Marisiyo ndiye aliyekuwa mtu wa kwanza kutengeneza orodha ya baadhi ya vitabu vya Agano Jipya. Marisiyo alilikataa Agano la Kale lote na akamuona Mungu wa Agano la Kale kuwa ni mdogo kwa Yesu. Kanoni ya Marsiyo iliundwa na vitabu 10 tu ambavyo ni nyaraka za Paulo (ukiondoa ambazo za kichungaji) na injili ya Luka. Vitabu hivi alivifanyia masahihisho ili vielewane na ufundishaji wake uliokengeuka.</span>
 
 <span class="cs55623DE3">Ingawaje alikuwa muongo kuibuka kwa mafundisho ya uongo kulilifanya kanisa ligundue umuhinu wa kufafanua kanoni ya kweli ya Maandiko.</span>
 
@@ -2806,7 +2806,7 @@ Agano Jipya huangalia nyuma katika kazi iliyokamilishwa katika msalaba.
 
 ### Kristo yupo katikati ya yote mawili
 
-Agano la kale limejaa utabiri wa Kristo. Utabiri huu huitwa Utabiri wa Mesia. Agano la kale linavivuli vingi na viashiria vinavyoonesha ujio wa Kristo. Sheria ni mwalimu wa kutupeleka kwa Kristo (Gal. 3:24). Kristo ni utimilifu wa sheria.
+Agano la Kale limejaa utabiri wa Kristo. Utabiri huu huitwa Utabiri wa Mesia. Agano la Kale linavivuli vingi na viashiria vinavyoonesha ujio wa Kristo. Sheria ni mwalimu wa kutupeleka kwa Kristo (Gal. 3:24). Kristo ni utimilifu wa sheria.
 
 > Mathayo 5:17—Msidhani ya kuwa nalikuja kuitangua torati au manabii; laa, sikuja kutangua bali kutimiliza.
 
@@ -3918,7 +3918,7 @@ Kanuni ya Kisamaria ndiyo Biblia iliyo ndogo kuliko zote duniani na ambayo hutam
 
 ### Kanuni ya Marsiyo
 
-Marisiyo ndiye aliyekuwa mtu wa kwanza kutengeneza orodha ya baadhi ya vitabu vya Agano Jipya. Marisiyo alilikataa Agano la kale lote na akamuona Mungu wa Agano la Kale kuwa ni mdogo kwa Yesu. Kanoni ya Marsiyo iliundwa na vitabu 10 tu ambavyo ni nyaraka za Paulo (ukiondoa ambazo za kichungaji) na injili ya Luka. Vitabu hivi alivifanyia masahihisho ili vielewane na ufundishaji wake uliokengeuka.
+Marisiyo ndiye aliyekuwa mtu wa kwanza kutengeneza orodha ya baadhi ya vitabu vya Agano Jipya. Marisiyo alilikataa Agano la Kale lote na akamuona Mungu wa Agano la Kale kuwa ni mdogo kwa Yesu. Kanoni ya Marsiyo iliundwa na vitabu 10 tu ambavyo ni nyaraka za Paulo (ukiondoa ambazo za kichungaji) na injili ya Luka. Vitabu hivi alivifanyia masahihisho ili vielewane na ufundishaji wake uliokengeuka.
 Ingawaje alikuwa muongo kuibuka kwa mafundisho ya uongo kulilifanya kanisa ligundue umuhinu wa kufafanua kanoni ya kweli ya Maandiko.
 
 ### Kanuni ya Muratoriano iliyotawanyika
@@ -4045,7 +4045,7 @@ KUFAULU MAFUNZO &nbsp;HAYA
 <h1 id="maswali-ka-utangulizi-wa-biblia">Maswali ka Utangulizi wa Biblia</h1>
 <h2 id="biblia-ni-nini">Biblia ni nini?</h2>
 <h2 id="dhamira-kuu-ya-biblia-ni-_________________________________________________">Dhamira kuu ya Biblia ni _________________________________________________</h2>
-<h2 id="mwanzoni-agano-la-kale-liliandikwa-kwa-lugha-ya">Mwanzoni Agano la kale liliandikwa kwa lugha ya:</h2>
+<h2 id="mwanzoni-agano-la-kale-liliandikwa-kwa-lugha-ya">Mwanzoni Agano la Kale liliandikwa kwa lugha ya:</h2>
 <ol type="A">
 <li>Kilatini</li>
 <li>Kiebrania</li>
@@ -4071,7 +4071,7 @@ KUFAULU MAFUNZO &nbsp;HAYA
 <h2 id="neno-___________-maana-yake-ufito-rula-au-kifaa-cha-kupimia-urefu.">Neno ___________ maana yake ufito, rula au kifaa cha kupimia urefu.</h2>
 <h2 id="lengo-la-masoreti-lilikuwa-ni-________-__________-maneno-na-maana-ya-maandiko.">Lengo la masoreti lilikuwa ni ________ __________, maneno na maana ya maandiko.</h2>
 <p>Jibu kweli au sio kweli.</p>
-<h2 id="agano-la-kale-limetajwa-mara-326-katika-agano-jipya.">Agano la kale limetajwa mara 326 katika Agano Jipya.</h2>
+<h2 id="agano-la-kale-limetajwa-mara-326-katika-agano-jipya.">Agano la Kale limetajwa mara 326 katika Agano Jipya.</h2>
 <h2 id="viongozi-wa-kwanza-wa-kanisa-walizifikisha-taarifa-hizo-za-agano-jipya-kwa-waliowapokea.">Viongozi wa kwanza wa kanisa walizifikisha taarifa hizo za Agano Jipya kwa waliowapokea.</h2>
 <h2 id="biblia-ina-jumla-ya-vitabu-39.">Biblia ina jumla ya vitabu 39.</h2>
 <h2 id="katika-agano-jipya-kuna-nyaraka-21-tu.">Katika Agano Jipya kuna nyaraka 21 tu.</h2>
@@ -4094,21 +4094,21 @@ KUFAULU MAFUNZO &nbsp;HAYA
 <h3><span class='english' id='t3#' >The Bible is <strong>God&#8217;s written revelation</strong> of His will to men.</span><span class='swahili' id='t3#' >Biblia ni ufunuo wa Mungu <strong>ulioandikwa</strong> wa mapenzi yake kwa wanadamu &#8217;.</span></h3>
 <h2><span class='english' id='t4#' >The Bible&#8217;s central theme is ___________ __________ _________ __________.</span><span class='swahili' id='t4#' >Dhamira ya katikati ya Biblia ni ___________ __________ _________ __________.</span></h2>
 <h3><span class='english' id='t5#' >The Bible&#8217;s central theme is <strong>salvation through Jesus Christ</strong>.</span><span class='swahili' id='t5#' >Dhamira ya katikati&#8217;ya Biblia ni Wokovu <wenye nguvu>kwa njia ya Kristo Yesu</strong>.</span></h3>
-<h2><span class='english' id='t6#' >The Old Testament was written in which language?</span><span class='swahili' id='t6#' >Agano la kale liliandikwa kwa lugha gani?</span></h2>
+<h2><span class='english' id='t6#' >The Old Testament was written in which language?</span><span class='swahili' id='t6#' >Agano la Kale liliandikwa kwa lugha gani?</span></h2>
 <ol><li><span class='english' id='t7#' >Greek</span><span class='swahili' id='t7#' >Kigiriki</span></li>
 <li><span class='english' id='t8#' >English</span><span class='swahili' id='t8#' >Kiingereza</span></li>
 <li><span class='english' id='t9#' >Latin</span><span class='swahili' id='t9#' >Kilatini</span></li>
 <li><span class='english' id='t10#' >Hebrew</span><span class='swahili' id='t10#' >Kiebrania</span></li></ol>
 <h3><span class='english' id='t11#' >Hebrew</span><span class='swahili' id='t11#' >Kiebrania</span></h3>
 <h2><span class='english' id='t12#' >The Bible has ________ books: ________ in the Old Testament and ________ in the New Testament.</span><span class='swahili' id='t12#' >Biblia inayo ________ vitabu: ________katika Agano kale na ________ katika Agano jipya.</span></h2>
-<h3><span class='english' id='t13#' >The Bible has <strong>66</strong> books: <strong>39</strong> in the Old Testament and <strong>27</strong> in the New Testament.</span><span class='swahili' id='t13#' >Biblia inayo <strong>vya vitabu</strong> 66: <strong>39</strong> katika Agano la kale na <strong>27</strong> katika Agano jipya.</span></h3>
+<h3><span class='english' id='t13#' >The Bible has <strong>66</strong> books: <strong>39</strong> in the Old Testament and <strong>27</strong> in the New Testament.</span><span class='swahili' id='t13#' >Biblia inayo <strong>vya vitabu</strong> 66: <strong>39</strong> katika Agano la Kale na <strong>27</strong> katika Agano jipya.</span></h3>
 <h2><span class='english' id='t14#' >What does the Greek word <em>Biblios</em> mean?</span><span class='swahili' id='t14#' >Neno la Kigiriki <em>Biblios</em> humaanisha nini?</span></h2><ol>
 <li><span class='english' id='t15#' >Testament</span><span class='swahili' id='t15#' > Agano</span></li>
 <li><span class='english' id='t16#' >Books</span><span class='swahili' id='t16#' >Vitabu</span></li>
 <li><span class='english' id='t17#' >Scroll</span><span class='swahili' id='t17#' >Gombo</span></li>
 <li><span class='english' id='t18#' >Scripture</span><span class='swahili' id='t18#' >Maandiko matakatifu</span></li></ol>
 <h3><span class='english' id='t19#' >Books</span><span class='swahili' id='t19#' >Vitabu</span></h3>
-<h2><span class='english' id='t20#' >Answer true or false. Proverbs is a book of Old Testament history.</span><span class='swahili' id='t20#' >Jibu kweli au sio kweli. Mithali ni kitabu cha historia ya Agano la kale.</span></h2>
+<h2><span class='english' id='t20#' >Answer true or false. Proverbs is a book of Old Testament history.</span><span class='swahili' id='t20#' >Jibu kweli au sio kweli. Mithali ni kitabu cha historia ya Agano la Kale.</span></h2>
 <h3><span class='english' id='t21#' >FALSE</span><span class='swahili' id='t21#' >Sio kweli</span></h3>
 <h2><span class='english' id='t22#' >The Bible was written that men might ______________,  ______________,  ______________,  ______________, and  ______________ Christ.</span><span class='swahili' id='t22#' >Biblia iliandikwa ili watu wa weze ______________&#44;  ______________&#44;  ______________&#44;  ______________&#44; na  ______________ Kristo.</span></h2>
 <h3><span class='english' id='t23#' >The Bible was written that men might <strong>believe</strong>, <strong>understand</strong>, <strong>know</strong>, <strong>love</strong>,  and <strong>follow</strong> Christ.</span><span class='swahili' id='t23#' >Biblia iliandikwa ili watu wa weze kuamini</strong>&#44;na kufahamu <strong>na kujua</strong> na kupenda <strong>&#44; na kumfuata Kristo</strong>.</span></h3>

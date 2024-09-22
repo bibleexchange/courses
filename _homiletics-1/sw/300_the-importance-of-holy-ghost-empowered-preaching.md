@@ -24,7 +24,7 @@ Katika Maandiko Matakatifu mafuta ni alama ya Roho Mtakatifu. Mafuta anayomimini
 
 Katika Agano Jipya kupakwa mafuta kunatumika kuonesha uhusiano wake na mahubiri ya Injili. Kupakwa mafuta ni kupewa nguvu za Mungu ili kumwezesha mwanadamu afundishe kwa nguvu na mamlaka.
 
-#### Katika Agano la kale wafalme walipewa mamlaka yao kwa kupakwa mafuta
+#### Katika Agano la Kale wafalme walipewa mamlaka yao kwa kupakwa mafuta
 
 Wafalme walipakwa mafuta na manabii wa Mungu. Hii ilikuwa ni ishara kwamba wamepewa mamlaka na Mungu na kutengwa kwa ajili ya huduma yake. Mpango wa Mungu kwa wafalme hawa ni kuwapatia Roho Mtakatifu katika maisha yao. Baadhi ya wafalme hao hawakumtumikia Mungu kwa hiyo Roho Mtakatifu hakuwa pamoja nao.
 
@@ -32,7 +32,7 @@ Wafalme walipakwa mafuta na manabii wa Mungu. Hii ilikuwa ni ishara kwamba wamep
 
 Katika I Wafalme 19:16 Elisha anaagizwa na Mungu ampake mafuta Yehu awe Mfalme naye Elisha apakwe mafuta ili awe Nabii mahali pake. Mafuta haya yalimwagwa juu ya Manabii kama alama ya Roho Mtakatifu akiwa amemwagwa katika maisha yao. Manabii waliongea kama kipaza sauti cha Mungu. Biblia inatumia maneno: "Neno la Bwana," katika kuelezea Mungu alivyofikisha ujumbe kwa kuwatumia Manabii wake (Yeremia 44:24).
 
-#### Katika Agano la kale Makuhani walipakwa mafuta
+#### Katika Agano la Kale Makuhani walipakwa mafuta
 
 Makuhani hawa walipaswa kuwa Watakatifu katika Bwana. Walipakwa mafuta pia (Hes. 3:3). Hii inatuonesha kwamba wale ambao wanafanya kazi ya Bwana wanapaswa kumwagiwa Roho Mtakatifu.
 

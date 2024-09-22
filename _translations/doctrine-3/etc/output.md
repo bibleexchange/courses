@@ -8,7 +8,7 @@ Kumsaidia mwanafunzi katika kujifunza kwake kibinafsi&#44;mwenye kutafakari&#44;
 
 ### Mwenye ufahamu
 
-Kufanya vitu na msamiati wa somo hili kueleweka kwa wanafunzi wanaoanza na wale wanaoendelea. 
+Kufanya vitu na msamiati wa somo hili kueleweka kwa wanafunzi wanaoanza na wale wanaoendelea.
 
 ### Ukweli
 
@@ -71,7 +71,7 @@ Nimuhimu kwamba juhudi yetu iwe imekusudiwa kwa hisia kwa ajili ya maandiko mata
 - Epuka uchoshaji katika maelezo ya mapendekezo yako.
 - Epuka kosa kubwa la kudhania kwamba kweli ambayo ni dhahiri kwa baadhi ya mioyo ndio ilivyo kwa wote.
 
-Iliochukuliwa kutoka kwa mihadhara ya Finney juu ya Theolojia&#44; na Charles G. Finney na kuchapishwa na Ufuasi wa Bethany mnamo 1976 chini ya jina la Moyo wa Kweli. 
+Iliochukuliwa kutoka kwa mihadhara ya Finney juu ya Theolojia&#44; na Charles G. Finney na kuchapishwa na Ufuasi wa Bethany mnamo 1976 chini ya jina la Moyo wa Kweli.
 
 ## Dondoo kwa ajili ya somo letu la Mafundisho ya Biblia III
 
@@ -99,11 +99,11 @@ Sayansi ya Mungu (Uwepo wake&#44; asili&#44; hali&#44; sheria&#44; serikali&#44;
 
 #### Kisayansi:
 
-Kipeo cha matatizo&#44; kihistoria&#44; kifilosofia na somo la kisaikolojia la kidini na mawazo ya kidinia. 
+Kipeo cha matatizo&#44; kihistoria&#44; kifilosofia na somo la kisaikolojia la kidini na mawazo ya kidinia.
 
 #### Kawaida:
 
-Somo kuhusu mawazo ya ulimwengu wa binadamu ya Nguvu ya Juu au mtu. 
+Somo kuhusu mawazo ya ulimwengu wa binadamu ya Nguvu ya Juu au mtu.
 
 ### Etimolojia ya kipindi
 
@@ -139,7 +139,7 @@ Yote ni mahusiano ya kimungu ya ukweli. Mafundisho ni uhusiano maalumuwa ukweli.
 
 ## Vyanzo vya theolojia
 
-### kuna vyanzo viwili vya kweli. 
+### kuna vyanzo viwili vya kweli.
 
 #### Asili (theolojia ya asili)
 
@@ -159,15 +159,15 @@ Yote ni mahusiano ya kimungu ya ukweli. Mafundisho ni uhusiano maalumuwa ukweli.
 
 #### Mapokeo ya zamani
 
-Hii nadharia hudai kutangaza kwamba zile fasiri za kimahubiri ya maandiko matakatifu ni sawa sawa&#44; na mara zote ni bora&#44; kwa maandiko matakatifu yenyewe.Hii ni hoja ya uongo wa Waroma. 
+Hii nadharia hudai kutangaza kwamba zile fasiri za kimahubiri ya maandiko matakatifu ni sawa sawa&#44; na mara zote ni bora&#44; kwa maandiko matakatifu yenyewe.Hii ni hoja ya uongo wa Waroma.
 
 #### Falisafa
 
-Hii nadharia huweka sababu juu ya ufunuo. Wanafalisafa hukataa maandiko yote ambayo hajapitishwa kwenye jaribio la ufahamu wa mwanadamu kuchunguzwa.miujiza ya Biblia inawekwa kwenye majaribio haya.Wanafalisafa hutoa fasiri tatu kwa miujiza: Yakiasili&#44; Ya kimafumbo&#44; na ya muda mrefu. 
+Hii nadharia huweka sababu juu ya ufunuo. Wanafalisafa hukataa maandiko yote ambayo hajapitishwa kwenye jaribio la ufahamu wa mwanadamu kuchunguzwa.miujiza ya Biblia inawekwa kwenye majaribio haya.Wanafalisafa hutoa fasiri tatu kwa miujiza: Yakiasili&#44; Ya kimafumbo&#44; na ya muda mrefu.
 
 #### Imani Juu ya Mungu kwa tafkira
 
-Hii nadharia huunga mkono zoezi la kupata nuru mpya juu ya Mungu kwa njia ya ufunuo binafsi. Uzoefu wa kutokea ndani ya moyo uliotangazwa kuwa sawa sawa kwa ufunuo ulioandikwa. Mawazo binafisi na maoni yaweza kuongoza kwenye makosa. 
+Hii nadharia huunga mkono zoezi la kupata nuru mpya juu ya Mungu kwa njia ya ufunuo binafsi. Uzoefu wa kutokea ndani ya moyo uliotangazwa kuwa sawa sawa kwa ufunuo ulioandikwa. Mawazo binafisi na maoni yaweza kuongoza kwenye makosa.
 
 ## Mahusiano ya Theolojia
 
@@ -181,15 +181,15 @@ Maana ya kilatini ni kufunga au kufunga kwa haraka&#44; kuzuia. Dini ni maisha k
 
 ### Maadili ni sheria.
 
-i.e.&#44; mfumo wa maalimu wa sheria ya tabia kwa kile ambacho watu wanajitawala wenyewe; utaratibu maalumu wa mawazo ya usahihi na tabia mbaya. 
+i.e.&#44; mfumo wa maalimu wa sheria ya tabia kwa kile ambacho watu wanajitawala wenyewe; utaratibu maalumu wa mawazo ya usahihi na tabia mbaya.
 
 ### Kuabudu ni sanaa.
 
-Ni maelezo ya inje ya dini. 
+Ni maelezo ya inje ya dini.
 
 ### Wokovu ni uzoefu.
 
-Inahusisha utambuzi binafsi wa Mungu na msamaha wa kimungu. 
+Inahusisha utambuzi binafsi wa Mungu na msamaha wa kimungu.
 
 #### Mwanatheolojia anaweza kuwa tu mwanasayansi.
 
@@ -199,19 +199,19 @@ Inahusisha utambuzi binafsi wa Mungu na msamaha wa kimungu.
 
 ### Theolojia ya ufafanuzi wa maandiko matakatifu
 
-Somo la lugha za asili za Biblia kuelezea maana ya kweli ya maandiko matakatifu ya-kiebrania&#44; Kiaramu cha Agano la Kale na Kigriki cha Agano jipya. 
+Somo la lugha za asili za Biblia kuelezea maana ya kweli ya maandiko matakatifu ya-kiebrania&#44; Kiaramu cha Agano la Kale na Kigriki cha Agano jipya.
 
 ### Theolojia ya kihisitoria
 
-mwanafunzi wa historia ya kanisa na maendeleo ya ufasiri wa kimaandiko. 
+mwanafunzi wa historia ya kanisa na maendeleo ya ufasiri wa kimaandiko.
 
 ### Yakidojima
 
-Theolojia Somo la imani za kanisa na misingi ya ukweli uliopatikana katika hizo imani. 
+Theolojia Somo la imani za kanisa na misingi ya ukweli uliopatikana katika hizo imani.
 
 ### Ya muundo wa utaratibu
 
-Theolojia Somo la picha yenye sehemu zaidi ya moja ya theolojia iliochukuliwa kutoka Biblia&#44; historia&#44; filosofia na ujuzi wa jumla wa mtu juu ya Mungu. Jambo la somo lililopangwa katika utaratibu wa muundo unaotoa mtazamo wa kumbukumbu ya wazo la mtu juu ya Mungu.Theolojia ya Kibiblia hii ni rahisi&#44; somo la moja kwa moja la Mungu na mafundisho ya mkristo huchukuliwa kwa kutengwa kutoka Biblia. 
+Theolojia Somo la picha yenye sehemu zaidi ya moja ya theolojia iliochukuliwa kutoka Biblia&#44; historia&#44; filosofia na ujuzi wa jumla wa mtu juu ya Mungu. Jambo la somo lililopangwa katika utaratibu wa muundo unaotoa mtazamo wa kumbukumbu ya wazo la mtu juu ya Mungu.Theolojia ya Kibiblia hii ni rahisi&#44; somo la moja kwa moja la Mungu na mafundisho ya mkristo huchukuliwa kwa kutengwa kutoka Biblia.
 
 ## Uwezo wa Theolojia
 
@@ -273,17 +273,17 @@ Theolojia Somo la picha yenye sehemu zaidi ya moja ya theolojia iliochukuliwa ku
 
 ### Ni msingi wa fueli ya uzoefu wa Mkirsto.
 
-Kuamini kwa usahihi ni kigezo cha kwanza cha neema iokoayo. 
+Kuamini kwa usahihi ni kigezo cha kwanza cha neema iokoayo.
 
 ### Hujenga kielelezo kwa ajili ya uhai wa njia ya Mkristo.
 
 #### Inajenga kielelezo cha maadili.
 
-Maadili ï¿½ Huhusisha mazoezi&#44; viwango au tabia za watu kama jamii katika uhusiano na wengine&#44; na urejeo wa haki na uovu. ï¿½toleo la Webster 1828. 
+Maadili ï¿½ Huhusisha mazoezi&#44; viwango au tabia za watu kama jamii katika uhusiano na wengine&#44; na urejeo wa haki na uovu. ï¿½toleo la Webster 1828.
 
 #### Huongoza kinyume cha mfano wa maisha ya milele.
 
-Uovu ï¿½ Siofuata utaratibu wa unyofu wa maadili; kinyume na maadili na sheria ya Mungu; waovu na wasio; wasiohaki; wasionaheshima; wenye makosa. ï¿½toleo la Webste 1828. 
+Uovu ï¿½ Siofuata utaratibu wa unyofu wa maadili; kinyume na maadili na sheria ya Mungu; waovu na wasio; wasiohaki; wasionaheshima; wenye makosa. ï¿½toleo la Webste 1828.
 
 #### Humsaidia muumini kujenga ufahamu wa hali za maadili ya Mungu.
 
@@ -291,27 +291,27 @@ Upotovu-kutokujali maadili si uovu kwa dhahiri: kutoa uthabiti kwa kile ambacho 
 
 ### Hulinda moyo dhidi ya makosa.
 
-Ni askari walinzi wa moyo na akili. 
+Ni askari walinzi wa moyo na akili.
 
 ### Ni sifa ya lazima kwa ajili ya huduma.
 
-Kuhubiri juu ya Mungu&#44; mtu lazima amjue na kujua habari zake. Pamoja na akili iliowazi&#44; mioyo yenye unyenyekevu na tegemeo kamili juu Roho Mtakatifu&#44; tunaanza swali letu la Mungu na mambo ya kimungu. 
+Kuhubiri juu ya Mungu&#44; mtu lazima amjue na kujua habari zake. Pamoja na akili iliowazi&#44; mioyo yenye unyenyekevu na tegemeo kamili juu Roho Mtakatifu&#44; tunaanza swali letu la Mungu na mambo ya kimungu.
 
-UPANGAJI: Soma huu mwingilio wa Utangulizi wa Theolojia; kuleta darasani angalau maswali matatu yaliyoandikwa au alama zilizaliwa kutoka kusoma huu mwingilio wa utangulizi. Pia&#44; uwe tayari kujibu maswali kuhusu habari hii.# Kuwepo kwa Mungu 
+UPANGAJI: Soma huu mwingilio wa Utangulizi wa Theolojia; kuleta darasani angalau maswali matatu yaliyoandikwa au alama zilizaliwa kutoka kusoma huu mwingilio wa utangulizi. Pia&#44; uwe tayari kujibu maswali kuhusu habari hii.# Kuwepo kwa Mungu
 
 ## Kuwepo kwa Mungu uliotamkwa
 
 ### Hakuna ushihidi uliobuniwa wa uwepo wa Mungu katika Biblia.
 
-Hebu tuanze sehemu hii ya somo letu kwa swali: Je Biblia inajaribu kuthibitisha kuwepo wa Mungu? 
+Hebu tuanze sehemu hii ya somo letu kwa swali: Je Biblia inajaribu kuthibitisha kuwepo wa Mungu?
 
 Jibu ni hapana&#44;Biblia haijaribu kuthibitisha kuwepo wa Mungu.
 
 #### Kuwepo kwa Mungu inahusishwa kama ukweli wa hakika.
 
-Msitari wa kwanza katika Biblia unafungua na: Hapo mwanzo Mungu. Mungu hajaribu kuthibitisha kwamba yeye ni nani.yeye ni Mungu.Mungu alimwambia Musa:Mimi NIKO ambayo NIKO. 
+Msitari wa kwanza katika Biblia unafungua na: Hapo mwanzo Mungu. Mungu hajaribu kuthibitisha kwamba yeye ni nani.yeye ni Mungu.Mungu alimwambia Musa:Mimi NIKO ambayo NIKO.
 
-> Hakuna jaribio lilo fanywa kumuonyesha Mungu&apos;s kuwepo kwa sababu kila mahali kwenye Biblia Mungu hutanguliza kama anayejulikana" A.B. Davidson 
+> Hakuna jaribio lilo fanywa kumuonyesha Mungu&apos;s kuwepo kwa sababu kila mahali kwenye Biblia Mungu hutanguliza kama anayejulikana" A.B. Davidson
 
 #### Mtu anaitwa kumwamini Mungu.
 
@@ -333,71 +333,71 @@ Kama maandiko hayatoi mwonyesho wa hoja wa kuwepo kwa Mungu&#44;kwa nini tufanye
 
 ### Hoja kutoka Uumbaji
 
-Hoja kutoka Uumbaji ambayo imerejelewa kama hoja ya nadharia kuhusu chanzo cha ulimwengu. 
+Hoja kutoka Uumbaji ambayo imerejelewa kama hoja ya nadharia kuhusu chanzo cha ulimwengu.
 
-> kwa maana vitu vyake visivyoonekana kutoka uumbaji wa ulimwengu vimeonekana wazi&#44; vimekuwa vimefahamika kwa vitu vilivyo fanywa&#44;hata nguvu yake ya milele na Uungu;kwa hiyo basi hawana udhuru -War 1:20 
+> kwa maana vitu vyake visivyoonekana kutoka uumbaji wa ulimwengu vimeonekana wazi&#44; vimekuwa vimefahamika kwa vitu vilivyo fanywa&#44;hata nguvu yake ya milele na Uungu;kwa hiyo basi hawana udhuru -War 1:20
 
-Andiko hili hutuambia Mungu hujifunua kwa njia ya uumbaji wake. Vitu visivyo onekana vya Mungu vimeonekana katika uumbaji wa ulimwengu. Andiko linaeleza kwamba nguvu ya milele ya Mungu imeonyeshwa mbele katika Uumbaji wake. Uongozi wa Mungu pia umefunuliwa kwa njia ya uumbaji wake. Uongozi wa Mungu ni utaratibu uliotumika kurejea nafsi tatu katika Mungu mmoja. Namba tatu ni maarufu katika mambo yote ya asili. Mungu anamfunulia mtu vitu vyake visivyoonekana: KWAMBA YEYE NI MUNGU WA KWELI&#44; kile tutakacho jifunza katika sehemu ya Utatu wa Mungu. 
+Andiko hili hutuambia Mungu hujifunua kwa njia ya uumbaji wake. Vitu visivyo onekana vya Mungu vimeonekana katika uumbaji wa ulimwengu. Andiko linaeleza kwamba nguvu ya milele ya Mungu imeonyeshwa mbele katika Uumbaji wake. Uongozi wa Mungu pia umefunuliwa kwa njia ya uumbaji wake. Uongozi wa Mungu ni utaratibu uliotumika kurejea nafsi tatu katika Mungu mmoja. Namba tatu ni maarufu katika mambo yote ya asili. Mungu anamfunulia mtu vitu vyake visivyoonekana: KWAMBA YEYE NI MUNGU WA KWELI&#44; kile tutakacho jifunza katika sehemu ya Utatu wa Mungu.
 
-#### Nguvu ya Mungu imefunuliwa kwa njia ya uumbaji. 
+#### Nguvu ya Mungu imefunuliwa kwa njia ya uumbaji.
 
-Kuna nguvu nyingi sana katika asili. Mungu alisema neno ulimwengu ukawa kwa neno la Mungu. Waeb. 11:3. Mungu pekee awezaye kuumba uhai&#44; kutoka cell moja ya vijidudu vidogo visivyo onekana kwa macho cell trilioni za mtu ambaye kwa hofu na kwa ajabu ilimfanya Mungu kuonyesha wingi wa nguvu yake kuumba uhai. Fikiri ukubwa wa ulimwengu. Jua letu&#44; ambalo hufikiriwa kama nyota ndogo&#44; hutoa mwanga zaidi kwa sekunde moja kuliko ilivyo tumika kwa mtu tangu mwanzo wa wakati. Hebu pia tufikiri nguvu ya upepo: nguvu ya haraka&#44; vimbunga&#44; na tufani ambayo huharibu meli katika njia zake. Haya yote ni katika nguvu hii tu ya asili. Haiwezi kulinganishwa na nguvu ya milele ya Mungu. 
+Kuna nguvu nyingi sana katika asili. Mungu alisema neno ulimwengu ukawa kwa neno la Mungu. Waeb. 11:3. Mungu pekee awezaye kuumba uhai&#44; kutoka cell moja ya vijidudu vidogo visivyo onekana kwa macho cell trilioni za mtu ambaye kwa hofu na kwa ajabu ilimfanya Mungu kuonyesha wingi wa nguvu yake kuumba uhai. Fikiri ukubwa wa ulimwengu. Jua letu&#44; ambalo hufikiriwa kama nyota ndogo&#44; hutoa mwanga zaidi kwa sekunde moja kuliko ilivyo tumika kwa mtu tangu mwanzo wa wakati. Hebu pia tufikiri nguvu ya upepo: nguvu ya haraka&#44; vimbunga&#44; na tufani ambayo huharibu meli katika njia zake. Haya yote ni katika nguvu hii tu ya asili. Haiwezi kulinganishwa na nguvu ya milele ya Mungu.
 
-#### Ukamilifu wa uumbaji. 
+#### Ukamilifu wa uumbaji.
 
-Kutoka viumbe vya baharini ambavyo hutengeneza maelfu ya nuru yao chini ya miguu bahari hufurika kwa ufundi wa kuruka angani wa ndege mkimya awezaye kusimama katikati ya hewa kuzungukazunguka juu ya ua na kasha huruka pande zingine na kuendelea na mruko wake&#44;Uumbaji siorahisi kuelezeka kuwa umetokea kwa bahati. Utunzi wa DNA wa mwanadamu uko mbali sana kuelezea kwa urahisi kuanzia mwanzo kwa kuelezea katika kiwango hiki. Je unafikiri mchangamano wa michirizi 747 ya maji ilizalishwa kutoka bomu katika uwanja wa takataka? Ni makosa kufikiri hii dunia kubwa imefaynwa kutoka mlipuko mkubwa. 
+Kutoka viumbe vya baharini ambavyo hutengeneza maelfu ya nuru yao chini ya miguu bahari hufurika kwa ufundi wa kuruka angani wa ndege mkimya awezaye kusimama katikati ya hewa kuzungukazunguka juu ya ua na kasha huruka pande zingine na kuendelea na mruko wake&#44;Uumbaji siorahisi kuelezeka kuwa umetokea kwa bahati. Utunzi wa DNA wa mwanadamu uko mbali sana kuelezea kwa urahisi kuanzia mwanzo kwa kuelezea katika kiwango hiki. Je unafikiri mchangamano wa michirizi 747 ya maji ilizalishwa kutoka bomu katika uwanja wa takataka? Ni makosa kufikiri hii dunia kubwa imefaynwa kutoka mlipuko mkubwa.
 
-#### Maajabu ya uumbaji wa Mungu. 
+#### Maajabu ya uumbaji wa Mungu.
 
-Kuna vitu vingi vya ajabu katika asili. Fikiri uzuri wa machweo ya jua&#44;utukufu wa bahari&#44;fahari ya milima.Nani aongozaye uhamaji wa vipepeo wa kubwa kutoka Amerika kaskzini kwenda ghumba ya Mexiko na kwenda huko Mexiko? Vipepeo hutaga mayai huko Mexiko kabla hawajafa na vipepeo wapya huhama kurudi Amerika kaskzini mahali ambapo wazazi wao walianguliwa.hawa vipepeo siku zote huruka kwenda mahali ambapo hawajawahi kuwepo bila kupata hasara.Ni maelezo gani mengine kuhusu uhamaji huu zaidi ya mapenzi ya Mungu. Jinsi gani hewa ya hydrogen na oxygen&#44; gesi mbili zinazo lipuka&#44;hazilipuki zinapo ungwa kutengeneza molekuli ya maji? Mbegu ndogo hutia kitu cha kuongoza kwa ajili ya mwaloni mkubwa.Nani anayeziamwambia pembe za kombamwiko dume kuruhusu chumba katikati kifuko fuko chake kwa ajili ya antenna wakati jike hafanyi hivyo?maajabu ya uumbaji hayajatokea kwa bahati mbaya; ni kazi ya Mungu. 
+Kuna vitu vingi vya ajabu katika asili. Fikiri uzuri wa machweo ya jua&#44;utukufu wa bahari&#44;fahari ya milima.Nani aongozaye uhamaji wa vipepeo wa kubwa kutoka Amerika kaskzini kwenda ghumba ya Mexiko na kwenda huko Mexiko? Vipepeo hutaga mayai huko Mexiko kabla hawajafa na vipepeo wapya huhama kurudi Amerika kaskzini mahali ambapo wazazi wao walianguliwa.hawa vipepeo siku zote huruka kwenda mahali ambapo hawajawahi kuwepo bila kupata hasara.Ni maelezo gani mengine kuhusu uhamaji huu zaidi ya mapenzi ya Mungu. Jinsi gani hewa ya hydrogen na oxygen&#44; gesi mbili zinazo lipuka&#44;hazilipuki zinapo ungwa kutengeneza molekuli ya maji? Mbegu ndogo hutia kitu cha kuongoza kwa ajili ya mwaloni mkubwa.Nani anayeziamwambia pembe za kombamwiko dume kuruhusu chumba katikati kifuko fuko chake kwa ajili ya antenna wakati jike hafanyi hivyo?maajabu ya uumbaji hayajatokea kwa bahati mbaya; ni kazi ya Mungu.
 
 ### Hoja kutoka ugunduzi
 
-Dunia imebuniwa kwa usawa na usahihi ambao haungeweza kuwa kama tokeo lilotokea kwa bahati mbaya. [Hebu tufikirie analojia kutoka kwa bingwa wa madawa Robin Collins PHD: Fikiria kanuni&#44;au moja ya shughuli za matoleo ya zamani ya Radio ambayo huenda na kwa njia ya kuvuka dunia yote. Ingevunjwa kwenda faida za inch moja&#44;ambayo inamaanisha ingekuwa ni mabilioni juu ya mabilioni ya inch. Mita ya kuingilia inawakilisha safu ya misukumo ya nguvu katika asili&#44; pamoja na mvutano wenye nguvu dhaifu na msukumo wa nukilia yenye nguvu ambayo hufunga mabomu na makombora kwa pamoja kuwa na nguvu zaidi&#44; billion billion billion billion elifu kumi zidisha nguvu zaidi ya mvutano. Sasa hebu tuondoe ile mita kutoka mahali ilipokuwa imewekwa kwa sasa. Hata kama ulikuwa umeiondoa inch moja tu&#44; madhara katika maisha yangekuwa balaa. Yale marekebisho ya mita yangeoza mvutano kwa mikunjo miwili ya bilioni -moja&#44; Wanyama mahali popote wenye usawa wa binadamu wange kandamizwa. Kama unavyo ona linganisha na safu za jumla za misukumo ya nguvu katika asili&#44; mvutano wenye safu nyembamba isiofahamika kwa ajili ya maisha kuwako. Katika yote mipangilio inayowezekana juu ya mita&#44;kutoka upande moja dunia kwenda upande mwingine&#44; inatokea kuwa unapo hamisha sehemu ndogo iliosahihi ya inch kuufanya usitadi wa dunia yetu wa kuhudumia maisha.] -1 
+Dunia imebuniwa kwa usawa na usahihi ambao haungeweza kuwa kama tokeo lilotokea kwa bahati mbaya. [Hebu tufikirie analojia kutoka kwa bingwa wa madawa Robin Collins PHD: Fikiria kanuni&#44;au moja ya shughuli za matoleo ya zamani ya Radio ambayo huenda na kwa njia ya kuvuka dunia yote. Ingevunjwa kwenda faida za inch moja&#44;ambayo inamaanisha ingekuwa ni mabilioni juu ya mabilioni ya inch. Mita ya kuingilia inawakilisha safu ya misukumo ya nguvu katika asili&#44; pamoja na mvutano wenye nguvu dhaifu na msukumo wa nukilia yenye nguvu ambayo hufunga mabomu na makombora kwa pamoja kuwa na nguvu zaidi&#44; billion billion billion billion elifu kumi zidisha nguvu zaidi ya mvutano. Sasa hebu tuondoe ile mita kutoka mahali ilipokuwa imewekwa kwa sasa. Hata kama ulikuwa umeiondoa inch moja tu&#44; madhara katika maisha yangekuwa balaa. Yale marekebisho ya mita yangeoza mvutano kwa mikunjo miwili ya bilioni -moja&#44; Wanyama mahali popote wenye usawa wa binadamu wange kandamizwa. Kama unavyo ona linganisha na safu za jumla za misukumo ya nguvu katika asili&#44; mvutano wenye safu nyembamba isiofahamika kwa ajili ya maisha kuwako. Katika yote mipangilio inayowezekana juu ya mita&#44;kutoka upande moja dunia kwenda upande mwingine&#44; inatokea kuwa unapo hamisha sehemu ndogo iliosahihi ya inch kuufanya usitadi wa dunia yetu wa kuhudumia maisha.] -1
 
-Kuna utaratibu wa elimu ya sayari uitwao sayansi isiyo badilika kuhusu ulimwengu ambayo kwa mara ya kwanza ilitambulishwa na Einstien na sasa hutumika kurejea msongamano wa nguvu wa nafasi iliowazi. Hili ni somo pana la kuhusu sayansi ambalo hatutajaribu katika darasa hili. Bado&#44;tunaweza kutafuta kwenye usawa wa mawimbi mazuri ya utafutaji wa kihisabati katika uhusiano wa ulimwengu. Huu uthabiti unapaswa kuwekwa pamoja na usawa katika utaratibu kwa ajili ya ulimwengu kwa kuweko kwake. [Kulingana na Robin Collins PHD : Mawimbi mazuri (ya elimu ya sayansi isiobadilika) kwa kushikilia mambo ya kale imekadiriwa kuwa angalau moja ya sehemu ya billion billion billion billion billion milioni mia moja. Hiyo ingekuwa kumi iliofuatiwa na sifuri hamsini na tatu. Huo ni utaratibu usiosadikika.] - 1 
+Kuna utaratibu wa elimu ya sayari uitwao sayansi isiyo badilika kuhusu ulimwengu ambayo kwa mara ya kwanza ilitambulishwa na Einstien na sasa hutumika kurejea msongamano wa nguvu wa nafasi iliowazi. Hili ni somo pana la kuhusu sayansi ambalo hatutajaribu katika darasa hili. Bado&#44;tunaweza kutafuta kwenye usawa wa mawimbi mazuri ya utafutaji wa kihisabati katika uhusiano wa ulimwengu. Huu uthabiti unapaswa kuwekwa pamoja na usawa katika utaratibu kwa ajili ya ulimwengu kwa kuweko kwake. [Kulingana na Robin Collins PHD : Mawimbi mazuri (ya elimu ya sayansi isiobadilika) kwa kushikilia mambo ya kale imekadiriwa kuwa angalau moja ya sehemu ya billion billion billion billion billion milioni mia moja. Hiyo ingekuwa kumi iliofuatiwa na sifuri hamsini na tatu. Huo ni utaratibu usiosadikika.] - 1
 
-Kuna mageuzi mengine katika ulimwengu ambayo huhitaji usawa wa utaratibu kwa ajili ya kuwepo kwa dunia yenyewe. [Kwa mfano&#44; Oxford physicist Roger Penrose alisema kigezo kimoja&#44; ï¿½nafasi ya asili ya sauti&#44;huhitaji mawimbi mazuri kwa usahihi wa sehemu moja katika bilioni kumi iliozidishwa kwa yenyewe mara mia moja na ishirini tatu. Penrose alitoa maoni kwamba haingekuwa rahisi kuandika hiyo namba kikamilifu&#44; tangu mwazo ilihitaji sifuri zaidi kuliko kanuni ya mwanzo katika kwa ulimwengu mzima! Hii ilionyeshwa&#44;alisema&#44; ï¿½utaratibu ulihitajika kuupanga ulimwengu juu ya chanzo chake] - 1 
+Kuna mageuzi mengine katika ulimwengu ambayo huhitaji usawa wa utaratibu kwa ajili ya kuwepo kwa dunia yenyewe. [Kwa mfano&#44; Oxford physicist Roger Penrose alisema kigezo kimoja&#44; ï¿½nafasi ya asili ya sauti&#44;huhitaji mawimbi mazuri kwa usahihi wa sehemu moja katika bilioni kumi iliozidishwa kwa yenyewe mara mia moja na ishirini tatu. Penrose alitoa maoni kwamba haingekuwa rahisi kuandika hiyo namba kikamilifu&#44; tangu mwazo ilihitaji sifuri zaidi kuliko kanuni ya mwanzo katika kwa ulimwengu mzima! Hii ilionyeshwa&#44;alisema&#44; ï¿½utaratibu ulihitajika kuupanga ulimwengu juu ya chanzo chake] - 1
 
-Tunge weza kwenda juu yake na mifano ilioko ndani ya ulimwengu ambayo huhitaji usawa kamili wa ubunifu kwa ajili ya kuwa ulimwengu upo katika uwepo. [Kwa mfano kuna tofauti katika kuchunguza kati ya nutroni na protoni. Ongeza fungu la nutroni kwa zaidi ya sehemu moja kati ya mia saba myeyuko wa nukilia katika nyota ungesimama. Kungekuwa hakuna chanzo cha nishati kwa ajili ya maisha. Kama msukumo wa umeme kidogo ulikuwa na nguvu au dhaifu&#44;maisha katika dunia hayangewezekana. Au fikiri msukumo wa nukilia yenye nguvu. Fikiria kwa kufupisha kwa asilimia hamsini&#44; ambayo ni sehemu ndogo sana katika kumi billion billion billion billion&#44; iliolinganishwa na safu ya jumla ya msukumo wa nguvu. Tena kama ufukuzaji wa mashambulizi&#44;kani ya nukilia yenye nguvu ingekuwa dhaifu kuzuia kani mbaya kati ya proton ilioshambuliwa kwa hakika kwenye nukilia ya atomiki kutoka kupasua sehemu zote za atomiki isipokuwa hydrogen. Robin Collins PHD.] - 1 Kwa wazi pasipo atomiki ambayo ni mawe ya kujengea ya nguvu zote hapangekuwepo na chochote. 
+Tunge weza kwenda juu yake na mifano ilioko ndani ya ulimwengu ambayo huhitaji usawa kamili wa ubunifu kwa ajili ya kuwa ulimwengu upo katika uwepo. [Kwa mfano kuna tofauti katika kuchunguza kati ya nutroni na protoni. Ongeza fungu la nutroni kwa zaidi ya sehemu moja kati ya mia saba myeyuko wa nukilia katika nyota ungesimama. Kungekuwa hakuna chanzo cha nishati kwa ajili ya maisha. Kama msukumo wa umeme kidogo ulikuwa na nguvu au dhaifu&#44;maisha katika dunia hayangewezekana. Au fikiri msukumo wa nukilia yenye nguvu. Fikiria kwa kufupisha kwa asilimia hamsini&#44; ambayo ni sehemu ndogo sana katika kumi billion billion billion billion&#44; iliolinganishwa na safu ya jumla ya msukumo wa nguvu. Tena kama ufukuzaji wa mashambulizi&#44;kani ya nukilia yenye nguvu ingekuwa dhaifu kuzuia kani mbaya kati ya proton ilioshambuliwa kwa hakika kwenye nukilia ya atomiki kutoka kupasua sehemu zote za atomiki isipokuwa hydrogen. Robin Collins PHD.] - 1 Kwa wazi pasipo atomiki ambayo ni mawe ya kujengea ya nguvu zote hapangekuwepo na chochote.
 
-Ugunduzi huu ni wazi kabisa kuwa na matokeo ya bahati&#44;maelezo pekee ya kihabari kwa ajili ya ule ugunduzi sahihi ni kwamba kulikuwa na mbunifu. 
+Ugunduzi huu ni wazi kabisa kuwa na matokeo ya bahati&#44;maelezo pekee ya kihabari kwa ajili ya ule ugunduzi sahihi ni kwamba kulikuwa na mbunifu.
 
-Haiwezekani kuwa mchoro pasipo mchoraji. Mungu ni msanifu wa mambo yate ya asili. Ubunifu mwingi ni barabara kabisa kuwa tokeo la ulinganifu au bila utaratibu maalumu kama tokeo la mshindo kubwa kama baadhi ya wanasayansi wanavyo dai.Kwa mfano&#44;kama dunia ingelazwa upande wa kiwango kimoja au katika njia ya uwepo wake dunia haingekuwa ya kuishi.Hii sio kutaja kwamba dunia inaumbali sahihi kutoka kwenye jua na kuwekwa katika mahali sahihi pamoja na njia ya kundi la nyota nyeupe pamoja zile ambazo dunia imewekwa ilikusaidia uhai kwenye sayari yetu. 
+Haiwezekani kuwa mchoro pasipo mchoraji. Mungu ni msanifu wa mambo yate ya asili. Ubunifu mwingi ni barabara kabisa kuwa tokeo la ulinganifu au bila utaratibu maalumu kama tokeo la mshindo kubwa kama baadhi ya wanasayansi wanavyo dai.Kwa mfano&#44;kama dunia ingelazwa upande wa kiwango kimoja au katika njia ya uwepo wake dunia haingekuwa ya kuishi.Hii sio kutaja kwamba dunia inaumbali sahihi kutoka kwenye jua na kuwekwa katika mahali sahihi pamoja na njia ya kundi la nyota nyeupe pamoja zile ambazo dunia imewekwa ilikusaidia uhai kwenye sayari yetu.
 
-Kipande cha theluji ni mfano mwingine wa usanifu wa Mungu. Hakuna vipande viwili vya theluji ambavyo vina usawa&#44;bado vyote vinafanana katika usanifu na ulinganifu. Vipande vya theluji vimefanywa kwa pembe tatu sawa&#44; na tena zinaonyesha utatu. Kuna maeneo mengi ya usanifu wa kweli katika asili; hitimisho pekee la habari ni kwamba lazima kuna mbunifu. 
+Kipande cha theluji ni mfano mwingine wa usanifu wa Mungu. Hakuna vipande viwili vya theluji ambavyo vina usawa&#44;bado vyote vinafanana katika usanifu na ulinganifu. Vipande vya theluji vimefanywa kwa pembe tatu sawa&#44; na tena zinaonyesha utatu. Kuna maeneo mengi ya usanifu wa kweli katika asili; hitimisho pekee la habari ni kwamba lazima kuna mbunifu.
 
-### Hoja kutoka asili ya mtu 
+### Hoja kutoka asili ya mtu
 
-Mtu aliumbwa kwa sura na mfano wa Mungu. Mtu aliumbwa akiwa na dhamiri ambayo ni uwezo wa kupambanua kati ya haki na ubaya. Dhamiri ikiwa ndani ya mtu itamfanya kujua kama amefanya jambo baya. Hizi sheria za maadili na uhakika kwamba kuna vigezo vya mtoa. sheria. Mungu ndio huyo mtoa sheria. 
+Mtu aliumbwa kwa sura na mfano wa Mungu. Mtu aliumbwa akiwa na dhamiri ambayo ni uwezo wa kupambanua kati ya haki na ubaya. Dhamiri ikiwa ndani ya mtu itamfanya kujua kama amefanya jambo baya. Hizi sheria za maadili na uhakika kwamba kuna vigezo vya mtoa. sheria. Mungu ndio huyo mtoa sheria.
 
-### Hoja kutoka historia. 
+### Hoja kutoka historia.
 
-> Na yeye hugeuza nyakati na majira: yeye huondoa wafalme&#44; na kuweka wafalme: huwapa hekima kwa wenye hekima&#44; na maarifa kwao wanajua ufahamu: Dan. 2:21 
+> Na yeye hugeuza nyakati na majira: yeye huondoa wafalme&#44; na kuweka wafalme: huwapa hekima kwa wenye hekima&#44; na maarifa kwao wanajua ufahamu: Dan. 2:21
 
-#### Mungu yuko katika kiti cha enzi na anatawala mambo ya mwanadamu. 
+#### Mungu yuko katika kiti cha enzi na anatawala mambo ya mwanadamu.
 
-Mungu alimuumba mtu kuwa wakala wa maadili huru mwenye matakwa ya kufanya machaguo yake mwenyewe. Mungu bado anatunza haki kama mtawala wa kiwango cha juu ya yote kuangalia mapenzi yake imetimizwa hapa duniani na katika mbingu. Huu ukweli umefunuliwa kwetu kutoka kwenye maandiko; Yesu alimwomba Baba: Mapenzi yako yafanyika hapa duniani kama huko mbinguni; Mt. 6:10. Mapenzi ya Mungu ya enda kuthibitishwa; hakuna mtu anaweza kupinga mapenzi ya Mungu na kushinda. Nebuchadneza alijiinua juu katika kiburi na aliondolewa na Mungu kutoka ufalme wake kwa miaka saba. Daniel 4:32. Mungu yuko katika kiti cha enzi na anatawala mambo ya wanadamu. 
+Mungu alimuumba mtu kuwa wakala wa maadili huru mwenye matakwa ya kufanya machaguo yake mwenyewe. Mungu bado anatunza haki kama mtawala wa kiwango cha juu ya yote kuangalia mapenzi yake imetimizwa hapa duniani na katika mbingu. Huu ukweli umefunuliwa kwetu kutoka kwenye maandiko; Yesu alimwomba Baba: Mapenzi yako yafanyika hapa duniani kama huko mbinguni; Mt. 6:10. Mapenzi ya Mungu ya enda kuthibitishwa; hakuna mtu anaweza kupinga mapenzi ya Mungu na kushinda. Nebuchadneza alijiinua juu katika kiburi na aliondolewa na Mungu kutoka ufalme wake kwa miaka saba. Daniel 4:32. Mungu yuko katika kiti cha enzi na anatawala mambo ya wanadamu.
 
-#### Majaliwa ya Mungu. 
+#### Majaliwa ya Mungu.
 
-Webster&apos;s dictionary inafafanua majaliwa kama:tendo kutoa au kuandaa kwa ajili ya matumizi ya wakati ujao au matendo. Mungu anaingilia kati mambo ya mwanadamu. Mungu anajua mwanzo hadi mwisho. Yeye huandaa njia kwa ajili ya mapenzi ya uungu wake kuthibitishwa. 
+Webster&apos;s dictionary inafafanua majaliwa kama:tendo kutoa au kuandaa kwa ajili ya matumizi ya wakati ujao au matendo. Mungu anaingilia kati mambo ya mwanadamu. Mungu anajua mwanzo hadi mwisho. Yeye huandaa njia kwa ajili ya mapenzi ya uungu wake kuthibitishwa.
 
-Baadhi ya mifano ya majaliwa ya Mungu: 
+Baadhi ya mifano ya majaliwa ya Mungu:
 
-Zana za vita za kirumi ziliharibiwa na kimbunga mnamo 1588. Meli zilikuwa katika safari ya kwenda kushambulia nchi ya kiporotestanti ya Uingreza. Wakuu wa bunge walipaswa kuupinga ukristo na kuampandisha cheo mungu kikatoliki aliyelinda watu wake huko Uingireza na Mungu alilinda watu ambao siku moja wangahamia Amerika. 
+Zana za vita za kirumi ziliharibiwa na kimbunga mnamo 1588. Meli zilikuwa katika safari ya kwenda kushambulia nchi ya kiporotestanti ya Uingreza. Wakuu wa bunge walipaswa kuupinga ukristo na kuampandisha cheo mungu kikatoliki aliyelinda watu wake huko Uingireza na Mungu alilinda watu ambao siku moja wangahamia Amerika.
 
-Hesabu ya mahujaji wa Squanto tena ni majaliwa ya Mungu kuwasaidia masalio ya mahujaji katika hali mbaya ya hewa wakati wa hija. Ni nini iliokuwa bahati ya Wahindi ambao wanazungumza Kiingireza bila shida kuwasalimia mahujaji mnamo mwaka 1620? 
+Hesabu ya mahujaji wa Squanto tena ni majaliwa ya Mungu kuwasaidia masalio ya mahujaji katika hali mbaya ya hewa wakati wa hija. Ni nini iliokuwa bahati ya Wahindi ambao wanazungumza Kiingireza bila shida kuwasalimia mahujaji mnamo mwaka 1620?
 
-Mageuzi ya Wamarekani hayakuwa na upungufu wa muujiza. Muda si muda tena Mungu alimsaidia George Washington ambaye alikuwa mtu wa maombi. Mapema katika vita kitu pekee ambacho kiliokoa jeshi changa la Wamarekani kutoka maangamizi iliokuwa ni ukungu mzito uliowaweza kuwa salama kurudi nyuma kutoka jeshi la Kiingereza. 
+Mageuzi ya Wamarekani hayakuwa na upungufu wa muujiza. Muda si muda tena Mungu alimsaidia George Washington ambaye alikuwa mtu wa maombi. Mapema katika vita kitu pekee ambacho kiliokoa jeshi changa la Wamarekani kutoka maangamizi iliokuwa ni ukungu mzito uliowaweza kuwa salama kurudi nyuma kutoka jeshi la Kiingereza.
 
-Na vita vya wenyewe kwa wenyewe ni mfano mwingine wa majaliwa ya Mungu. Mungu aliinua watu kama Abraham Lincoln&#44; mtu mwingine wa maombi&#44; kulinda umoja. Mwanzoni mwa vita vya wenyewe kwa wenyewe haikuenda vizuri kwa ajili ya jeshi la muungano. Haikuwa mapenzi ya Mungu kwa muungano kuharibiwa. Mungu alilinda nchi na kukomesha zoezi la uovu la utumwa katika mchakato. 
+Na vita vya wenyewe kwa wenyewe ni mfano mwingine wa majaliwa ya Mungu. Mungu aliinua watu kama Abraham Lincoln&#44; mtu mwingine wa maombi&#44; kulinda umoja. Mwanzoni mwa vita vya wenyewe kwa wenyewe haikuenda vizuri kwa ajili ya jeshi la muungano. Haikuwa mapenzi ya Mungu kwa muungano kuharibiwa. Mungu alilinda nchi na kukomesha zoezi la uovu la utumwa katika mchakato.
 
-#### Mungu hupanga falme za wanadamu. Dan. 2 
+#### Mungu hupanga falme za wanadamu. Dan. 2
 
-Maendeleo ya watawala kutoka Babeli hadi Rumi ilitabiriwa katika ndoto ya Nebukadreza iliyoingizwa katika Dan 2. Hata uanzishaji ambayo ufalme wa tatu ungetoa mtawala juu ya dunia yote alitabiriwa katika sura hii. Mungu alimweka hata yule mtawala wa Kigriki ambayo aliongozwa na Alexander Mkuu ammbaye angeshinda ulimwengu na kuenezalugha ya Kigriki kuandaa njia kwa ajili ya A.J.=Agano Jipya Hili tukio lilitabiriwa miaka 500 kabla halijatokea. Hii inaweza kuelezewa tu kwa uingiliaji kati wa Mungu katika mambo ya wanadamu. 
+Maendeleo ya watawala kutoka Babeli hadi Rumi ilitabiriwa katika ndoto ya Nebukadreza iliyoingizwa katika Dan 2. Hata uanzishaji ambayo ufalme wa tatu ungetoa mtawala juu ya dunia yote alitabiriwa katika sura hii. Mungu alimweka hata yule mtawala wa Kigriki ambayo aliongozwa na Alexander Mkuu ammbaye angeshinda ulimwengu na kuenezalugha ya Kigriki kuandaa njia kwa ajili ya A.J.=Agano Jipya Hili tukio lilitabiriwa miaka 500 kabla halijatokea. Hii inaweza kuelezewa tu kwa uingiliaji kati wa Mungu katika mambo ya wanadamu.
 
-### Hoja kutoka imani ya kidunia 
+### Hoja kutoka imani ya kidunia
 
 Mtu aliumbwa akiwa na shauku ya asili ya kumwabudu Mungu.Hata watu wasiositaarabika kote ulimwenguni wana mfumo fulani wa ibada na imani.# Asili ya Mungu
 
@@ -407,7 +407,7 @@ Mtu aliumbwa akiwa na shauku ya asili ya kumwabudu Mungu.Hata watu wasiositaarab
 
 Mungu ni Roho&#44; asiye na mwisho&#44; ni wamilele&#44; na habadiliki katika kuwapo kwake&#44; hekima&#44; mwenye nguvu&#44; mwenye utakafu&#44; mwenye haki&#44; mwema&#44; na wakweli; Westminister Catechism
 
-Mungu hana mwisho na Roho kamili katika yeye vitu vyote vina chanzo katika yeye&#44; vinaungana hadi mwisho imenakiliwa toka; Strong 
+Mungu hana mwisho na Roho kamili katika yeye vitu vyote vina chanzo katika yeye&#44; vinaungana hadi mwisho imenakiliwa toka; Strong
 
 ### Maandishi ya maandiko matakatifu ya Mungu.
 
@@ -543,7 +543,7 @@ Wazo nguvu zote za mbinguni kama aliyepo kwa ajili ya mahitaji ya watu wa Mungu#
 
 > Dan. 11:32 watu wamjuao Mungu wao watakuwa hodari&#44; na kutenda mambo makuu.
 
-## Polytheism ï¿½ wenyenye kuabudu miungu 
+## Polytheism ï¿½ wenyenye kuabudu miungu
 
 ### Tabia za dini za zamani
 
@@ -595,7 +595,7 @@ Wazo nguvu zote za mbinguni kama aliyepo kwa ajili ya mahitaji ya watu wa Mungu#
 
 #### Shairi sio mtunga shairi
 
-#### Kiumbe sio Muumbaji War 1:25 
+#### Kiumbe sio Muumbaji War 1:25
 
 ## Uyakinifu ï¿½ jambo ni sababu ya maisha yote na ufahamu(Big bang theory)
 
@@ -615,7 +615,7 @@ Wazo nguvu zote za mbinguni kama aliyepo kwa ajili ya mahitaji ya watu wa Mungu#
 
 #### Mungu ni muumbaji wa maisha yote
 
-## Imani ya uungu bila kukubali ufunuo ï¿½ hurusu kuwa kuna Mungu pekee#44; aliyeuumba ulimwengu; kisha akaucha ukatawaliwa na sheria za asili 
+## Imani ya uungu bila kukubali ufunuo ï¿½ hurusu kuwa kuna Mungu pekee#44; aliyeuumba ulimwengu; kisha akaucha ukatawaliwa na sheria za asili
 
 ### Saa ya kusisimka iliochwa kujiendesha yenyewe
 
@@ -659,7 +659,7 @@ Baadhi ya maelezo makuu kuhusu Mungu katika maandiko ni: ROHO (Yohn 4:24)&#44; N
 
 #### Hana vikomo vya kimwili
 
-> Tazameni mikono yangu na miguu yangu&#44;#44; ya kuwa ni mimi mwenyewe.: Nishikenishikeni&#44; mwone;#44 kwa kuwa roho haina mwili na mifupa #44;kama mnavyoniona mimi kuwa nayo. Luk 24:37 
+> Tazameni mikono yangu na miguu yangu&#44;#44; ya kuwa ni mimi mwenyewe.: Nishikenishikeni&#44; mwone;#44 kwa kuwa roho haina mwili na mifupa #44;kama mnavyoniona mimi kuwa nayo. Luk 24:37
 
 ### Elimu yenye kupendekeza uwakilishaji wa Mungu
 
@@ -699,7 +699,7 @@ Linganisha na Mwanzo. 1:14&#44; Waeb. 11:3
 
 ### Mungu yu hai
 
-> Yoshua 3:10 Yoshua akasema&#44; #44Kwa jambo hili mtajua ya kuwa Mungu aliye hai yu kati yenu&#44;#44;... 
+> Yoshua 3:10 Yoshua akasema&#44; #44Kwa jambo hili mtajua ya kuwa Mungu aliye hai yu kati yenu&#44;#44;...
 
 > I Samuel 17:26 ... yeye atakayemwua Mfilisti huyo&#44; na kuwaondolea Israeli aibu hii? Maana Mfilisti huyu asiyetahiriwa ni nani hata awatukane majeshi ya Mungu aliye hai?
 
@@ -783,7 +783,7 @@ Yeye mwenyewe
 
 > Yeye ni sababu ya kwanza&#44;yeye haja sababishwa." --Thomas Aquinas
 
-kut 3:14; Kut 6:3; Yohn 5:26; Mndo 17:24-28# Tabia za kishindo-za Mungu zisizo husiana na maadili 
+kut 3:14; Kut 6:3; Yohn 5:26; Mndo 17:24-28# Tabia za kishindo-za Mungu zisizo husiana na maadili
 
 ## Maelezo "ya sifa ambazo si za maadili zisizo"
 
@@ -791,7 +791,7 @@ kut 3:14; Kut 6:3; Yohn 5:26; Mndo 17:24-28# Tabia za kishindo-za Mungu zisizo h
 
 Tabia ambazo zina husika kwa hali na kutoa maandishi yake. Maandishi ya asili au sifa za mtu
 
-> Kwa mfano&#44;Mungu anajisemea&#44; mimi ni mtakatifu; kwa hiyo tunaweza&#44;Mungu ni mtakatifu.Utakatifu&#44;kisha ikawa ni hali ya Mungu&#44;kwa sababu utakatifu ni sifa ambayo tuna weza kudhania au kutia kwake. ï¿½ Kitabu cha mafundisho ya Biblia 
+> Kwa mfano&#44;Mungu anajisemea&#44; mimi ni mtakatifu; kwa hiyo tunaweza&#44;Mungu ni mtakatifu.Utakatifu&#44;kisha ikawa ni hali ya Mungu&#44;kwa sababu utakatifu ni sifa ambayo tuna weza kudhania au kutia kwake. ï¿½ Kitabu cha mafundisho ya Biblia
 
 ### Maadili- ya kishindo
 
@@ -827,7 +827,7 @@ Maoni- ya maadili ya kishindo ni zile kweli za Asili ya Mungu ambazo hazihusishw
 
 ### Mungu ajua ubora wa kumaanisha kufikia matokeo yaliyo tamaniwa
 
-> Haijalishi kuna kiumbe chochote ambacho hakijadhihirishwa katika uwepo wake:bali mambo yote ni utupu na wazi mbele ya macho yake katika yeye tunapaswa kufanya. He4: 
+> Haijalishi kuna kiumbe chochote ambacho hakijadhihirishwa katika uwepo wake:bali mambo yote ni utupu na wazi mbele ya macho yake katika yeye tunapaswa kufanya. He4:
 
 ## Kudura
 
@@ -947,7 +947,7 @@ Maadili ni kuwa na sifa ya kufanya kwa lazima kitu kwa haki na uovu. Tabia zote 
 
 Elimu kuhusu Kristo ni somo la juu ya Yesu Kristo. Kristo ni Mfumo wa Kigriki wa neno la Kiebrania masiha na humaanisha mpakwa mafuta. Yesu alisubiriwa kwa mda mrefu kwa ajili masiha ambaye alikuja kulingana na unabii.
 
-## Uungu wa Kristo. 
+## Uungu wa Kristo.
 
 ### Yesu ni Mungu.
 
@@ -959,7 +959,7 @@ Huu ni unabii wa Kristo ambaye aliitwa Mungu. Kuna Mungu moja tu mwenye nguvu; Y
 
 ### Yesu si Mungu mdogo kuliko Baba.
 
-> Wafl 2:5-6&mdash;â€Iweni na nia iyo hiyo ndani yenu ambayo ilikuwamo pia ndani ya Kristo Yesu;y6 ambaye yeye mwanzo alikuwa yuna namna ya Mungu&#44; naye hakuona kule kuwa sawa na Mungu kuwa ni kitu cha kushikamana nacho: 
+> Wafl 2:5-6&mdash;â€Iweni na nia iyo hiyo ndani yenu ambayo ilikuwamo pia ndani ya Kristo Yesu;y6 ambaye yeye mwanzo alikuwa yuna namna ya Mungu&#44; naye hakuona kule kuwa sawa na Mungu kuwa ni kitu cha kushikamana nacho:
 
 Yesu ni Mungu na yuko sawa na Mungu Baba. Hili somo litakamilishwa katika habari kubwa kwenye sehemu: Utatu wa Mungu.
 
@@ -985,9 +985,9 @@ Yesu ni Mungu na yuko sawa na Mungu Baba. Hili somo litakamilishwa katika habari
 
 ### Yesu ni Alpha na Omega.
 
-> Ufunuo 1:7-8&mdash;â€Tazama&#44; yuaja na mawingu; na kila jicho litamwona&#44; na hao waliomchoma; na kabila zote za dunia wataomboleza kwa ajili yake. Naam. Amina.8 Mimi ni Alfa na Omega&#44; mwanzo na mwisho&#44; asema Bwana Mungu&#44; aliyeko na aliyekuwako na atakayekuja&#44; Mwenyezi. 
+> Ufunuo 1:7-8&mdash;â€Tazama&#44; yuaja na mawingu; na kila jicho litamwona&#44; na hao waliomchoma; na kabila zote za dunia wataomboleza kwa ajili yake. Naam. Amina.8 Mimi ni Alfa na Omega&#44; mwanzo na mwisho&#44; asema Bwana Mungu&#44; aliyeko na aliyekuwako na atakayekuja&#44; Mwenyezi.
 
-Hili andiko hutuambia kwamba Yesu ni Alpha na Omega. Alpha ni herufi ya kwanza katika alifabeti za Kigriki na Omega ni herufi ya mwisho kuthibitisha kwamba Yesu ni wa kwanza na wa mwisho. Yesu ndiye alikuwa amechomwa na anakuja na mawingu. Yesu ni Bwana aliyeko&#44; na aliyekuwako&#44; na atakaye kuja. Muktadha wa maandiko matakatifu kwa wazi hufunua kwamba ni moja anaye jitangaza na kusema kwamba yeye ni Alpha and Omega. 
+Hili andiko hutuambia kwamba Yesu ni Alpha na Omega. Alpha ni herufi ya kwanza katika alifabeti za Kigriki na Omega ni herufi ya mwisho kuthibitisha kwamba Yesu ni wa kwanza na wa mwisho. Yesu ndiye alikuwa amechomwa na anakuja na mawingu. Yesu ni Bwana aliyeko&#44; na aliyekuwako&#44; na atakaye kuja. Muktadha wa maandiko matakatifu kwa wazi hufunua kwamba ni moja anaye jitangaza na kusema kwamba yeye ni Alpha and Omega.
 
 ### Yesu ni wa milele.
 
@@ -999,7 +999,7 @@ Hili andiko hutuambia kwamba Yesu ni Alpha na Omega. Alpha ni herufi ya kwanza k
 
 > Naye Neno alifanyika mwili&#44; akakaa kwetu; nasi tukauona utukufu wake&#44; utukufu kama wa Mwana pekee atokaye kwa Baba; amejaa neema na kweli.&mdash;â€John 1:14
 
-Kulingana sheria za mkombozi wa wawanadamu ambaye angekuja baadaye angalipa gharama ya ukombozi. Yesu Neno la milele alifanyika mtu ilikutimiza sehemu ya mkombozi wa wanadamu na kilipa gharama kwa ajili ya ubinadamu ulioanguka pamoja na damu ya Uungu juu ya msalaba. 
+Kulingana sheria za mkombozi wa wawanadamu ambaye angekuja baadaye angalipa gharama ya ukombozi. Yesu Neno la milele alifanyika mtu ilikutimiza sehemu ya mkombozi wa wanadamu na kilipa gharama kwa ajili ya ubinadamu ulioanguka pamoja na damu ya Uungu juu ya msalaba.
 
 > Waefeso 1:7&mdash;â€Katika yeye huyo&#44; kwa damu yake&#44; tunao ukombozi wetu&#44; masamaha ya dhambi&#44; sawasawa na wingi wa neema yake;
 
@@ -1017,7 +1017,7 @@ Ubao aliolazwa pamoja na dhahabu ni vyombo vya Hema ya kukutania kufanania na as
 
 > Waeb 4:15&mdash;â€Kwa kuwa hamna kuhani mkuu asiyeweza kuchukuana nasi katika mambo yetu ya udhaifu; bali yeye alijaribiwa sawasawa na sisi katika mambo yote&#44; bila kufanya dhambi.# KRISTO KABLA YA KUWA NA MWILI
 
-Kuwa na mwili inarejea kwa Kristo umbo la binadamu. 
+Kuwa na mwili inarejea kwa Kristo umbo la binadamu.
 
 > Wafl 2:7 -8&mdash;bali alijifanya kuwa hana utukufu&#44; akatwaa namna ya mtumwa&#44; akawa ana mfano wa wanadamu; 8 tena&#44; alipoonekana ana umbo kama mwanadamu&#44; alijinyenyekeza akawa mtii hata mauti&#44; naam&#44; mauti ya msalaba.
 
@@ -1039,21 +1039,21 @@ Yohn 8:58&mdash;Yesu akawaambia&#44; Amin&#44; amin&#44; nawaambia&#44; Yeye Ibr
 
 > Yohn 1:18&mdash;Hakuna mtu aliyemwona Mungu wakati wo wote; Mungu Mwana pekee aliye katika kifua cha Baba&#44; huyu ndiye aliyemfunua.
 
-Kulingana na mukitadha wa andiko hili hakuna mtu aliyemwona Mungu Baba wakati wowote.hii ingejumuishwa na wakati wa kipindi cha Agano la Kale.Baba alijifunua mwenyewe kwa ubinadamu kwa njia ya Mwana katika Agano zote mbili la Kale na kwa nyakati za Agano jipya. Ingawa katika Agano la Kale Kristo alikuwa hajathihirishwa katika mwili&#44;bado alikuwepo pamoja na Baba na kutokea katika Agano la kale kwa ubinadamu kama Mungu. Na tangu tumejua kutoka maandiko kwamba hakuna mtu aliwahi kumuona Mungu wakati wowote huu mwonekano wa Mungu ungeweza kuwa tu ni Kristo ambayo ni tangazo la milele la Baba.
+Kulingana na mukitadha wa andiko hili hakuna mtu aliyemwona Mungu Baba wakati wowote.hii ingejumuishwa na wakati wa kipindi cha Agano la Kale.Baba alijifunua mwenyewe kwa ubinadamu kwa njia ya Mwana katika Agano zote mbili la Kale na kwa nyakati za Agano jipya. Ingawa katika Agano la Kale Kristo alikuwa hajathihirishwa katika mwili&#44;bado alikuwepo pamoja na Baba na kutokea katika Agano la Kale kwa ubinadamu kama Mungu. Na tangu tumejua kutoka maandiko kwamba hakuna mtu aliwahi kumuona Mungu wakati wowote huu mwonekano wa Mungu ungeweza kuwa tu ni Kristo ambayo ni tangazo la milele la Baba.
 
 ### Kaputeni wa jeshi la BWANA.
 
 > Yoshua 5: 14-15 Akasema&#44; La&#44; lakini nimekuja sasa&#44; nili amiri wa jeshi la Bwana. Yoshua akapomoka kiusouso hata nchi&#44; naye akasujudu&#44; akamwuliza&#44; Bwana wangu aniambia nini mimi mtumishi wake? 15 Huyo amiri wa jeshi la Bwana akamwambia Yoshua&#44; Vua viatu vyako miguuni mwako; kwa kuwa mahali hapo usimamapo ni patakatifu. Yoshua akafanya vivyo.
 
-Hii ilikuwa nchi takatifu kwa sababu Kristo ambayo alikuwa Mungu alikuwa amesimama juu yake. 
+Hii ilikuwa nchi takatifu kwa sababu Kristo ambayo alikuwa Mungu alikuwa amesimama juu yake.
 
 ### Malaika wa Bwana.
 
-Kutoka Agano la kale Malaika wa Bwana alielezewa kwa tabia za Mungu.
+Kutoka Agano la Kale Malaika wa Bwana alielezewa kwa tabia za Mungu.
 
 > Mwanzo 16:10&mdash;Malaika wa BWANA akamwambia&#44; Hakika nitauzidisha uzao wako&#44; wala hautahesabika kwa jinsi utakavyokuwa mwingi.
 
-Mwanzo 22:11&mdash;Ndipo malaika wa Bwana akamwita kutoka mbinguni&#44; akasema&#44; Ibrahimu! Ibrahimu! Naye akasema&#44; Mimi hapa. 
+Mwanzo 22:11&mdash;Ndipo malaika wa Bwana akamwita kutoka mbinguni&#44; akasema&#44; Ibrahimu! Ibrahimu! Naye akasema&#44; Mimi hapa.
 
 Mwanzo 22:15-17&mdash;Malaika wa Bwana akamwita Ibrahimu mara ya pili kutoka mbinguni 16 akasema&#44; Nimeapa kwa nafsi yangu asema Bwana&#44; kwa kuwa umetenda neno hili&#44; wala hukunizuilia mwanao&#44; mwanao wa pekee&#44;17 katika kubariki nitakubariki&#44; na katika kuzidisha nitauzidisha uzao wako kama nyota za mbinguni&#44; na kama mchanga ulioko pwani; na uzao wako utamiliki mlango wa adui zao; uzao kama nyota za mbimguni&#44;kama mchanga ulio juu ya ufuko wa Bahari; na wazao wako watamiliki mlango wa adui zake;
 
@@ -1113,7 +1113,7 @@ Mtume Yohana kwa kawaida anatumia Neno katika kumrejea Kristo ambaye ni Neno la 
 
 ### Mwana wa Mungu
 
-Matumizi ya Mwana wa Mungu hurejea asili ya Uungu ya Kristo. Yusufu hakuwa baba wa Yesu: maandiko yanatuambia kwamba Yesu alichukuliwa mimba kwa mpango wa Roho Mtakatifu. Neno la milele lililo hai lilichukua mwili wa mwanadamu iliaweze kumkomboa mtu. Kumbuka kwamba Yesu alikuwepo kabla ya kuzaliwa na bikira Maria; Nebukadireza alimtangaza mtu wa nne ana umbo kama la mwanadamu katika moto ni kama mwana wa Mungu. 
+Matumizi ya Mwana wa Mungu hurejea asili ya Uungu ya Kristo. Yusufu hakuwa baba wa Yesu: maandiko yanatuambia kwamba Yesu alichukuliwa mimba kwa mpango wa Roho Mtakatifu. Neno la milele lililo hai lilichukua mwili wa mwanadamu iliaweze kumkomboa mtu. Kumbuka kwamba Yesu alikuwepo kabla ya kuzaliwa na bikira Maria; Nebukadireza alimtangaza mtu wa nne ana umbo kama la mwanadamu katika moto ni kama mwana wa Mungu.
 
 Petro alipokea ufunuo toka kwa Baba ya kuwa Yesu ni nani.
 
@@ -1133,11 +1133,11 @@ Hii inarejea ya ukoo wa kifalme wa Kristo kama Mfalme na mrithi wa haki wa kiti 
 
 ### Bwana
 
-Neno la Kigiriki Kurios ambalo limetafasiriwa Bwana limetumika kurejea bwana mtawala au bwana.Yesu ni mfalme wa wafalme na Bwana wa mabwana. 
+Neno la Kigiriki Kurios ambalo limetafasiriwa Bwana limetumika kurejea bwana mtawala au bwana.Yesu ni mfalme wa wafalme na Bwana wa mabwana.
 
 ### Kristo
 
-Kristo ni kigiriki kutoka Neno la Kiebrania "Masiha" ambalo kwa halisi humaanisha mpakwa mafuta. Yesu ni Masiha. 
+Kristo ni kigiriki kutoka Neno la Kiebrania "Masiha" ambalo kwa halisi humaanisha mpakwa mafuta. Yesu ni Masiha.
 
 ## Offisi za Kristo
 
@@ -1159,7 +1159,7 @@ Yesu alikuwa mrithi halali kwa kiti cha enzi cha Daudi na anakaa sasa kwenye mko
 
 ## Hali za Kristo
 
-Yesu ni Mungu na maadili sawa na hali kama za Mungu Baba. Kristo mtu alijewekea kikomo mwenyewe kwa mwili wa kibinadamu wakati alipokuwa duniani&#44; lakini alipofufuka&#44;Kristo mfufuka lazima awe na hali sawa na Mungu Baba. Kitu kingine kidogo kingemfanya Yesu mdogo kuliko Mungu. Kristo alietukuzwa hana kikomo katika mwili wa nyama. Yesu lazima awe mahali pote kama Baba na Roho mtakatifu. Yesu alisema kwamba Yeye atakuwa katikati ya watakatifu kwamba wakusanyike katika jina Lake 
+Yesu ni Mungu na maadili sawa na hali kama za Mungu Baba. Kristo mtu alijewekea kikomo mwenyewe kwa mwili wa kibinadamu wakati alipokuwa duniani&#44; lakini alipofufuka&#44;Kristo mfufuka lazima awe na hali sawa na Mungu Baba. Kitu kingine kidogo kingemfanya Yesu mdogo kuliko Mungu. Kristo alietukuzwa hana kikomo katika mwili wa nyama. Yesu lazima awe mahali pote kama Baba na Roho mtakatifu. Yesu alisema kwamba Yeye atakuwa katikati ya watakatifu kwamba wakusanyike katika jina Lake
 
 > Mat 18:20 ï¿½Kwa kuwa walipo wawili watatu wamekusanyika kwa jina langu&#44; nami nipo papo hapo katikati yao.# KAZI YA KRISTO
 
@@ -1181,7 +1181,7 @@ Yesu ni Mungu na maadili sawa na hali kama za Mungu Baba. Kristo mtu alijewekea 
 
 ## Kazi ya ukombozi ya Kristo
 
-Kazi muhimu ya Kristo kununua ukombozi kwa ajili ya mwanadamu kwa njia ya mauti yake juu ya msalaba. Neno akafanyika mwili kwa kusudi la kuufia ubinadamu uliopotea. 
+Kazi muhimu ya Kristo kununua ukombozi kwa ajili ya mwanadamu kwa njia ya mauti yake juu ya msalaba. Neno akafanyika mwili kwa kusudi la kuufia ubinadamu uliopotea.
 
 ### Kifo cha Kristo
 
@@ -1203,13 +1203,13 @@ Neno la kigriki hapa limetafasiriwa uridhishaji kurejea kiti cha rehema. Kiti ch
 
 Waeb 2:14 Basi&#44; kwa kuwa watoto wameshiriki damu na mwili&#44; yeye naye vivyo hivyo alishiriki yayo hayo&#44; ili kwa njia ya mauti amharibu yeye aliyekuwa na nguvu za mauti&#44; yaani&#44; Ibilisi;
 
-Yesu alikwenda kwenye eneo wafu kushinda mauti.Mauti hangeweza kumshikilia mwana wa Mungu.Yesu alimshinda ibilis aliyekuwa na nguvu ya mauti.Yesu alivulia ibilis uweza wake na mamlaka na kuchukua funguo za mauti kutoka kwa ibilis. 
+Yesu alikwenda kwenye eneo wafu kushinda mauti.Mauti hangeweza kumshikilia mwana wa Mungu.Yesu alimshinda ibilis aliyekuwa na nguvu ya mauti.Yesu alivulia ibilis uweza wake na mamlaka na kuchukua funguo za mauti kutoka kwa ibilis.
 
 > Ufunuo 1:18 na aliye hai; nami nalikuwa nimekufa&#44; na tazama&#44; ni hai hata milele na milele. Nami ninazo funguo za mauti&#44; na za kuzimu.
 
 ### Ufufuo wa Kristo
 
-Ufufuo wa Kristo ni tukio amabalo humtenga Yesu kutoka kwa viongozi wengine wa dini na masiha wa uwongo. Buddah&#44; Mohamed&#44; Sun Myung Mwezi na masiha wengine wa uwongo wako ndani ya kaburi. Kuna kaburi wazi huko Yerusalemu mahali Yesu alipowekwa kwa siku tatu&#44;lakini siku tatu zilipotimia Kristo alifufuka kwa ushindi juu ya mauti&#44;kuzimu na kaburi. 
+Ufufuo wa Kristo ni tukio amabalo humtenga Yesu kutoka kwa viongozi wengine wa dini na masiha wa uwongo. Buddah&#44; Mohamed&#44; Sun Myung Mwezi na masiha wengine wa uwongo wako ndani ya kaburi. Kuna kaburi wazi huko Yerusalemu mahali Yesu alipowekwa kwa siku tatu&#44;lakini siku tatu zilipotimia Kristo alifufuka kwa ushindi juu ya mauti&#44;kuzimu na kaburi.
 
 ## Maombezi ya kuendelea ya Kristo
 
@@ -1217,7 +1217,7 @@ Ufufuo wa Kristo ni tukio amabalo humtenga Yesu kutoka kwa viongozi wengine wa d
 
 Yesu alichukkuliwa juu mbinguni na yuko mkono wa kuume wa Baba ambaye siku zote yu hai kutuombea. Andiko linatuambia Yesu kuhani wetu mkuu bado anatuombea mbinguni.
 
-Kuhani mkuu wa Agano la kale aliwaombea watu siku ya upatanisho kwa kunyunyiza damu ya mwanakondoo juu ya kiti cha rehema kwa ajili ya wenye dhambi. Yesu alijitoa mwenyewe mara moja na kumwaga damu ya kiungu kwa ajili ya dhambi za wanadamu. Damu ya Yesu bado ina nguvu kusafisha mwenye dhambi mbaya sana. Baba anaangalia mtakatifu kupitia kazi ya ukombozi ya Kristo.Yesu bado ni kuhani wetu mkuu.
+Kuhani mkuu wa Agano la Kale aliwaombea watu siku ya upatanisho kwa kunyunyiza damu ya mwanakondoo juu ya kiti cha rehema kwa ajili ya wenye dhambi. Yesu alijitoa mwenyewe mara moja na kumwaga damu ya kiungu kwa ajili ya dhambi za wanadamu. Damu ya Yesu bado ina nguvu kusafisha mwenye dhambi mbaya sana. Baba anaangalia mtakatifu kupitia kazi ya ukombozi ya Kristo.Yesu bado ni kuhani wetu mkuu.
 
 > Waebr 7:25 Naye&#44; kwa sababu hii&#44; aweza kuwaokoa kabisa wao wamjiao Mungu kwa yeye; maana yu hai sikuzote ili awaombee.
 
@@ -1231,7 +1231,7 @@ Kumsaidia mwanafunzi katika kujifunza kwake kibinafsi&#44;mwenye kutafakari&#44;
 
 ### Mwenye ufahamu
 
-Kufanya vitu na msamiati wa somo hili kueleweka kwa wanafunzi wanaoanza na wale wanaoendelea. 
+Kufanya vitu na msamiati wa somo hili kueleweka kwa wanafunzi wanaoanza na wale wanaoendelea.
 
 ### Ukweli
 
@@ -1294,7 +1294,7 @@ Nimuhimu kwamba juhudi yetu iwe imekusudiwa kwa hisia kwa ajili ya maandiko mata
 - Epuka uchoshaji katika maelezo ya mapendekezo yako.
 - Epuka kosa kubwa la kudhania kwamba kweli ambayo ni dhahiri kwa baadhi ya mioyo ndio ilivyo kwa wote.
 
-Iliochukuliwa kutoka kwa mihadhara ya Finney juu ya Theolojia&#44; na Charles G. Finney na kuchapishwa na Ufuasi wa Bethany mnamo 1976 chini ya jina la Moyo wa Kweli. 
+Iliochukuliwa kutoka kwa mihadhara ya Finney juu ya Theolojia&#44; na Charles G. Finney na kuchapishwa na Ufuasi wa Bethany mnamo 1976 chini ya jina la Moyo wa Kweli.
 
 ## Dondoo kwa ajili ya somo letu la Mafundisho ya Biblia III
 
@@ -1322,11 +1322,11 @@ Sayansi ya Mungu (Uwepo wake&#44; asili&#44; hali&#44; sheria&#44; serikali&#44;
 
 #### Kisayansi:
 
-Kipeo cha matatizo&#44; kihistoria&#44; kifilosofia na somo la kisaikolojia la kidini na mawazo ya kidinia. 
+Kipeo cha matatizo&#44; kihistoria&#44; kifilosofia na somo la kisaikolojia la kidini na mawazo ya kidinia.
 
 #### Kawaida:
 
-Somo kuhusu mawazo ya ulimwengu wa binadamu ya Nguvu ya Juu au mtu. 
+Somo kuhusu mawazo ya ulimwengu wa binadamu ya Nguvu ya Juu au mtu.
 
 ### Etimolojia ya kipindi
 
@@ -1362,7 +1362,7 @@ Yote ni mahusiano ya kimungu ya ukweli. Mafundisho ni uhusiano maalumuwa ukweli.
 
 ## Vyanzo vya theolojia
 
-### kuna vyanzo viwili vya kweli. 
+### kuna vyanzo viwili vya kweli.
 
 #### Asili (theolojia ya asili)
 
@@ -1382,15 +1382,15 @@ Yote ni mahusiano ya kimungu ya ukweli. Mafundisho ni uhusiano maalumuwa ukweli.
 
 #### Mapokeo ya zamani
 
-Hii nadharia hudai kutangaza kwamba zile fasiri za kimahubiri ya maandiko matakatifu ni sawa sawa&#44; na mara zote ni bora&#44; kwa maandiko matakatifu yenyewe.Hii ni hoja ya uongo wa Waroma. 
+Hii nadharia hudai kutangaza kwamba zile fasiri za kimahubiri ya maandiko matakatifu ni sawa sawa&#44; na mara zote ni bora&#44; kwa maandiko matakatifu yenyewe.Hii ni hoja ya uongo wa Waroma.
 
 #### Falisafa
 
-Hii nadharia huweka sababu juu ya ufunuo. Wanafalisafa hukataa maandiko yote ambayo hajapitishwa kwenye jaribio la ufahamu wa mwanadamu kuchunguzwa.miujiza ya Biblia inawekwa kwenye majaribio haya.Wanafalisafa hutoa fasiri tatu kwa miujiza: Yakiasili&#44; Ya kimafumbo&#44; na ya muda mrefu. 
+Hii nadharia huweka sababu juu ya ufunuo. Wanafalisafa hukataa maandiko yote ambayo hajapitishwa kwenye jaribio la ufahamu wa mwanadamu kuchunguzwa.miujiza ya Biblia inawekwa kwenye majaribio haya.Wanafalisafa hutoa fasiri tatu kwa miujiza: Yakiasili&#44; Ya kimafumbo&#44; na ya muda mrefu.
 
 #### Imani Juu ya Mungu kwa tafkira
 
-Hii nadharia huunga mkono zoezi la kupata nuru mpya juu ya Mungu kwa njia ya ufunuo binafsi. Uzoefu wa kutokea ndani ya moyo uliotangazwa kuwa sawa sawa kwa ufunuo ulioandikwa. Mawazo binafisi na maoni yaweza kuongoza kwenye makosa. 
+Hii nadharia huunga mkono zoezi la kupata nuru mpya juu ya Mungu kwa njia ya ufunuo binafsi. Uzoefu wa kutokea ndani ya moyo uliotangazwa kuwa sawa sawa kwa ufunuo ulioandikwa. Mawazo binafisi na maoni yaweza kuongoza kwenye makosa.
 
 ## Mahusiano ya Theolojia
 
@@ -1404,15 +1404,15 @@ Maana ya kilatini ni kufunga au kufunga kwa haraka&#44; kuzuia. Dini ni maisha k
 
 ### Maadili ni sheria.
 
-i.e.&#44; mfumo wa maalimu wa sheria ya tabia kwa kile ambacho watu wanajitawala wenyewe; utaratibu maalumu wa mawazo ya usahihi na tabia mbaya. 
+i.e.&#44; mfumo wa maalimu wa sheria ya tabia kwa kile ambacho watu wanajitawala wenyewe; utaratibu maalumu wa mawazo ya usahihi na tabia mbaya.
 
 ### Kuabudu ni sanaa.
 
-Ni maelezo ya inje ya dini. 
+Ni maelezo ya inje ya dini.
 
 ### Wokovu ni uzoefu.
 
-Inahusisha utambuzi binafsi wa Mungu na msamaha wa kimungu. 
+Inahusisha utambuzi binafsi wa Mungu na msamaha wa kimungu.
 
 #### Mwanatheolojia anaweza kuwa tu mwanasayansi.
 
@@ -1422,19 +1422,19 @@ Inahusisha utambuzi binafsi wa Mungu na msamaha wa kimungu.
 
 ### Theolojia ya ufafanuzi wa maandiko matakatifu
 
-Somo la lugha za asili za Biblia kuelezea maana ya kweli ya maandiko matakatifu ya-kiebrania&#44; Kiaramu cha Agano la Kale na Kigriki cha Agano jipya. 
+Somo la lugha za asili za Biblia kuelezea maana ya kweli ya maandiko matakatifu ya-kiebrania&#44; Kiaramu cha Agano la Kale na Kigriki cha Agano jipya.
 
 ### Theolojia ya kihisitoria
 
-mwanafunzi wa historia ya kanisa na maendeleo ya ufasiri wa kimaandiko. 
+mwanafunzi wa historia ya kanisa na maendeleo ya ufasiri wa kimaandiko.
 
 ### Yakidojima
 
-Theolojia Somo la imani za kanisa na misingi ya ukweli uliopatikana katika hizo imani. 
+Theolojia Somo la imani za kanisa na misingi ya ukweli uliopatikana katika hizo imani.
 
 ### Ya muundo wa utaratibu
 
-Theolojia Somo la picha yenye sehemu zaidi ya moja ya theolojia iliochukuliwa kutoka Biblia&#44; historia&#44; filosofia na ujuzi wa jumla wa mtu juu ya Mungu. Jambo la somo lililopangwa katika utaratibu wa muundo unaotoa mtazamo wa kumbukumbu ya wazo la mtu juu ya Mungu.Theolojia ya Kibiblia hii ni rahisi&#44; somo la moja kwa moja la Mungu na mafundisho ya mkristo huchukuliwa kwa kutengwa kutoka Biblia. 
+Theolojia Somo la picha yenye sehemu zaidi ya moja ya theolojia iliochukuliwa kutoka Biblia&#44; historia&#44; filosofia na ujuzi wa jumla wa mtu juu ya Mungu. Jambo la somo lililopangwa katika utaratibu wa muundo unaotoa mtazamo wa kumbukumbu ya wazo la mtu juu ya Mungu.Theolojia ya Kibiblia hii ni rahisi&#44; somo la moja kwa moja la Mungu na mafundisho ya mkristo huchukuliwa kwa kutengwa kutoka Biblia.
 
 ## Uwezo wa Theolojia
 
@@ -1496,17 +1496,17 @@ Theolojia Somo la picha yenye sehemu zaidi ya moja ya theolojia iliochukuliwa ku
 
 ### Ni msingi wa fueli ya uzoefu wa Mkirsto.
 
-Kuamini kwa usahihi ni kigezo cha kwanza cha neema iokoayo. 
+Kuamini kwa usahihi ni kigezo cha kwanza cha neema iokoayo.
 
 ### Hujenga kielelezo kwa ajili ya uhai wa njia ya Mkristo.
 
 #### Inajenga kielelezo cha maadili.
 
-Maadili ï¿½ Huhusisha mazoezi&#44; viwango au tabia za watu kama jamii katika uhusiano na wengine&#44; na urejeo wa haki na uovu. ï¿½toleo la Webster 1828. 
+Maadili ï¿½ Huhusisha mazoezi&#44; viwango au tabia za watu kama jamii katika uhusiano na wengine&#44; na urejeo wa haki na uovu. ï¿½toleo la Webster 1828.
 
 #### Huongoza kinyume cha mfano wa maisha ya milele.
 
-Uovu ï¿½ Siofuata utaratibu wa unyofu wa maadili; kinyume na maadili na sheria ya Mungu; waovu na wasio; wasiohaki; wasionaheshima; wenye makosa. ï¿½toleo la Webste 1828. 
+Uovu ï¿½ Siofuata utaratibu wa unyofu wa maadili; kinyume na maadili na sheria ya Mungu; waovu na wasio; wasiohaki; wasionaheshima; wenye makosa. ï¿½toleo la Webste 1828.
 
 #### Humsaidia muumini kujenga ufahamu wa hali za maadili ya Mungu.
 
@@ -1514,27 +1514,27 @@ Upotovu-kutokujali maadili si uovu kwa dhahiri: kutoa uthabiti kwa kile ambacho 
 
 ### Hulinda moyo dhidi ya makosa.
 
-Ni askari walinzi wa moyo na akili. 
+Ni askari walinzi wa moyo na akili.
 
 ### Ni sifa ya lazima kwa ajili ya huduma.
 
-Kuhubiri juu ya Mungu&#44; mtu lazima amjue na kujua habari zake. Pamoja na akili iliowazi&#44; mioyo yenye unyenyekevu na tegemeo kamili juu Roho Mtakatifu&#44; tunaanza swali letu la Mungu na mambo ya kimungu. 
+Kuhubiri juu ya Mungu&#44; mtu lazima amjue na kujua habari zake. Pamoja na akili iliowazi&#44; mioyo yenye unyenyekevu na tegemeo kamili juu Roho Mtakatifu&#44; tunaanza swali letu la Mungu na mambo ya kimungu.
 
-UPANGAJI: Soma huu mwingilio wa Utangulizi wa Theolojia; kuleta darasani angalau maswali matatu yaliyoandikwa au alama zilizaliwa kutoka kusoma huu mwingilio wa utangulizi. Pia&#44; uwe tayari kujibu maswali kuhusu habari hii.# Kuwepo kwa Mungu 
+UPANGAJI: Soma huu mwingilio wa Utangulizi wa Theolojia; kuleta darasani angalau maswali matatu yaliyoandikwa au alama zilizaliwa kutoka kusoma huu mwingilio wa utangulizi. Pia&#44; uwe tayari kujibu maswali kuhusu habari hii.# Kuwepo kwa Mungu
 
 ## Kuwepo kwa Mungu uliotamkwa
 
 ### Hakuna ushihidi uliobuniwa wa uwepo wa Mungu katika Biblia.
 
-Hebu tuanze sehemu hii ya somo letu kwa swali: Je Biblia inajaribu kuthibitisha kuwepo wa Mungu? 
+Hebu tuanze sehemu hii ya somo letu kwa swali: Je Biblia inajaribu kuthibitisha kuwepo wa Mungu?
 
 Jibu ni hapana&#44;Biblia haijaribu kuthibitisha kuwepo wa Mungu.
 
 #### Kuwepo kwa Mungu inahusishwa kama ukweli wa hakika.
 
-Msitari wa kwanza katika Biblia unafungua na: Hapo mwanzo Mungu. Mungu hajaribu kuthibitisha kwamba yeye ni nani.yeye ni Mungu.Mungu alimwambia Musa:Mimi NIKO ambayo NIKO. 
+Msitari wa kwanza katika Biblia unafungua na: Hapo mwanzo Mungu. Mungu hajaribu kuthibitisha kwamba yeye ni nani.yeye ni Mungu.Mungu alimwambia Musa:Mimi NIKO ambayo NIKO.
 
-> Hakuna jaribio lilo fanywa kumuonyesha Mungu&apos;s kuwepo kwa sababu kila mahali kwenye Biblia Mungu hutanguliza kama anayejulikana" A.B. Davidson 
+> Hakuna jaribio lilo fanywa kumuonyesha Mungu&apos;s kuwepo kwa sababu kila mahali kwenye Biblia Mungu hutanguliza kama anayejulikana" A.B. Davidson
 
 #### Mtu anaitwa kumwamini Mungu.
 
@@ -1556,71 +1556,71 @@ Kama maandiko hayatoi mwonyesho wa hoja wa kuwepo kwa Mungu&#44;kwa nini tufanye
 
 ### Hoja kutoka Uumbaji
 
-Hoja kutoka Uumbaji ambayo imerejelewa kama hoja ya nadharia kuhusu chanzo cha ulimwengu. 
+Hoja kutoka Uumbaji ambayo imerejelewa kama hoja ya nadharia kuhusu chanzo cha ulimwengu.
 
-> kwa maana vitu vyake visivyoonekana kutoka uumbaji wa ulimwengu vimeonekana wazi&#44; vimekuwa vimefahamika kwa vitu vilivyo fanywa&#44;hata nguvu yake ya milele na Uungu;kwa hiyo basi hawana udhuru -War 1:20 
+> kwa maana vitu vyake visivyoonekana kutoka uumbaji wa ulimwengu vimeonekana wazi&#44; vimekuwa vimefahamika kwa vitu vilivyo fanywa&#44;hata nguvu yake ya milele na Uungu;kwa hiyo basi hawana udhuru -War 1:20
 
-Andiko hili hutuambia Mungu hujifunua kwa njia ya uumbaji wake. Vitu visivyo onekana vya Mungu vimeonekana katika uumbaji wa ulimwengu. Andiko linaeleza kwamba nguvu ya milele ya Mungu imeonyeshwa mbele katika Uumbaji wake. Uongozi wa Mungu pia umefunuliwa kwa njia ya uumbaji wake. Uongozi wa Mungu ni utaratibu uliotumika kurejea nafsi tatu katika Mungu mmoja. Namba tatu ni maarufu katika mambo yote ya asili. Mungu anamfunulia mtu vitu vyake visivyoonekana: KWAMBA YEYE NI MUNGU WA KWELI&#44; kile tutakacho jifunza katika sehemu ya Utatu wa Mungu. 
+Andiko hili hutuambia Mungu hujifunua kwa njia ya uumbaji wake. Vitu visivyo onekana vya Mungu vimeonekana katika uumbaji wa ulimwengu. Andiko linaeleza kwamba nguvu ya milele ya Mungu imeonyeshwa mbele katika Uumbaji wake. Uongozi wa Mungu pia umefunuliwa kwa njia ya uumbaji wake. Uongozi wa Mungu ni utaratibu uliotumika kurejea nafsi tatu katika Mungu mmoja. Namba tatu ni maarufu katika mambo yote ya asili. Mungu anamfunulia mtu vitu vyake visivyoonekana: KWAMBA YEYE NI MUNGU WA KWELI&#44; kile tutakacho jifunza katika sehemu ya Utatu wa Mungu.
 
-#### Nguvu ya Mungu imefunuliwa kwa njia ya uumbaji. 
+#### Nguvu ya Mungu imefunuliwa kwa njia ya uumbaji.
 
-Kuna nguvu nyingi sana katika asili. Mungu alisema neno ulimwengu ukawa kwa neno la Mungu. Waeb. 11:3. Mungu pekee awezaye kuumba uhai&#44; kutoka cell moja ya vijidudu vidogo visivyo onekana kwa macho cell trilioni za mtu ambaye kwa hofu na kwa ajabu ilimfanya Mungu kuonyesha wingi wa nguvu yake kuumba uhai. Fikiri ukubwa wa ulimwengu. Jua letu&#44; ambalo hufikiriwa kama nyota ndogo&#44; hutoa mwanga zaidi kwa sekunde moja kuliko ilivyo tumika kwa mtu tangu mwanzo wa wakati. Hebu pia tufikiri nguvu ya upepo: nguvu ya haraka&#44; vimbunga&#44; na tufani ambayo huharibu meli katika njia zake. Haya yote ni katika nguvu hii tu ya asili. Haiwezi kulinganishwa na nguvu ya milele ya Mungu. 
+Kuna nguvu nyingi sana katika asili. Mungu alisema neno ulimwengu ukawa kwa neno la Mungu. Waeb. 11:3. Mungu pekee awezaye kuumba uhai&#44; kutoka cell moja ya vijidudu vidogo visivyo onekana kwa macho cell trilioni za mtu ambaye kwa hofu na kwa ajabu ilimfanya Mungu kuonyesha wingi wa nguvu yake kuumba uhai. Fikiri ukubwa wa ulimwengu. Jua letu&#44; ambalo hufikiriwa kama nyota ndogo&#44; hutoa mwanga zaidi kwa sekunde moja kuliko ilivyo tumika kwa mtu tangu mwanzo wa wakati. Hebu pia tufikiri nguvu ya upepo: nguvu ya haraka&#44; vimbunga&#44; na tufani ambayo huharibu meli katika njia zake. Haya yote ni katika nguvu hii tu ya asili. Haiwezi kulinganishwa na nguvu ya milele ya Mungu.
 
-#### Ukamilifu wa uumbaji. 
+#### Ukamilifu wa uumbaji.
 
-Kutoka viumbe vya baharini ambavyo hutengeneza maelfu ya nuru yao chini ya miguu bahari hufurika kwa ufundi wa kuruka angani wa ndege mkimya awezaye kusimama katikati ya hewa kuzungukazunguka juu ya ua na kasha huruka pande zingine na kuendelea na mruko wake&#44;Uumbaji siorahisi kuelezeka kuwa umetokea kwa bahati. Utunzi wa DNA wa mwanadamu uko mbali sana kuelezea kwa urahisi kuanzia mwanzo kwa kuelezea katika kiwango hiki. Je unafikiri mchangamano wa michirizi 747 ya maji ilizalishwa kutoka bomu katika uwanja wa takataka? Ni makosa kufikiri hii dunia kubwa imefaynwa kutoka mlipuko mkubwa. 
+Kutoka viumbe vya baharini ambavyo hutengeneza maelfu ya nuru yao chini ya miguu bahari hufurika kwa ufundi wa kuruka angani wa ndege mkimya awezaye kusimama katikati ya hewa kuzungukazunguka juu ya ua na kasha huruka pande zingine na kuendelea na mruko wake&#44;Uumbaji siorahisi kuelezeka kuwa umetokea kwa bahati. Utunzi wa DNA wa mwanadamu uko mbali sana kuelezea kwa urahisi kuanzia mwanzo kwa kuelezea katika kiwango hiki. Je unafikiri mchangamano wa michirizi 747 ya maji ilizalishwa kutoka bomu katika uwanja wa takataka? Ni makosa kufikiri hii dunia kubwa imefaynwa kutoka mlipuko mkubwa.
 
-#### Maajabu ya uumbaji wa Mungu. 
+#### Maajabu ya uumbaji wa Mungu.
 
-Kuna vitu vingi vya ajabu katika asili. Fikiri uzuri wa machweo ya jua&#44;utukufu wa bahari&#44;fahari ya milima.Nani aongozaye uhamaji wa vipepeo wa kubwa kutoka Amerika kaskzini kwenda ghumba ya Mexiko na kwenda huko Mexiko? Vipepeo hutaga mayai huko Mexiko kabla hawajafa na vipepeo wapya huhama kurudi Amerika kaskzini mahali ambapo wazazi wao walianguliwa.hawa vipepeo siku zote huruka kwenda mahali ambapo hawajawahi kuwepo bila kupata hasara.Ni maelezo gani mengine kuhusu uhamaji huu zaidi ya mapenzi ya Mungu. Jinsi gani hewa ya hydrogen na oxygen&#44; gesi mbili zinazo lipuka&#44;hazilipuki zinapo ungwa kutengeneza molekuli ya maji? Mbegu ndogo hutia kitu cha kuongoza kwa ajili ya mwaloni mkubwa.Nani anayeziamwambia pembe za kombamwiko dume kuruhusu chumba katikati kifuko fuko chake kwa ajili ya antenna wakati jike hafanyi hivyo?maajabu ya uumbaji hayajatokea kwa bahati mbaya; ni kazi ya Mungu. 
+Kuna vitu vingi vya ajabu katika asili. Fikiri uzuri wa machweo ya jua&#44;utukufu wa bahari&#44;fahari ya milima.Nani aongozaye uhamaji wa vipepeo wa kubwa kutoka Amerika kaskzini kwenda ghumba ya Mexiko na kwenda huko Mexiko? Vipepeo hutaga mayai huko Mexiko kabla hawajafa na vipepeo wapya huhama kurudi Amerika kaskzini mahali ambapo wazazi wao walianguliwa.hawa vipepeo siku zote huruka kwenda mahali ambapo hawajawahi kuwepo bila kupata hasara.Ni maelezo gani mengine kuhusu uhamaji huu zaidi ya mapenzi ya Mungu. Jinsi gani hewa ya hydrogen na oxygen&#44; gesi mbili zinazo lipuka&#44;hazilipuki zinapo ungwa kutengeneza molekuli ya maji? Mbegu ndogo hutia kitu cha kuongoza kwa ajili ya mwaloni mkubwa.Nani anayeziamwambia pembe za kombamwiko dume kuruhusu chumba katikati kifuko fuko chake kwa ajili ya antenna wakati jike hafanyi hivyo?maajabu ya uumbaji hayajatokea kwa bahati mbaya; ni kazi ya Mungu.
 
 ### Hoja kutoka ugunduzi
 
-Dunia imebuniwa kwa usawa na usahihi ambao haungeweza kuwa kama tokeo lilotokea kwa bahati mbaya. [Hebu tufikirie analojia kutoka kwa bingwa wa madawa Robin Collins PHD: Fikiria kanuni&#44;au moja ya shughuli za matoleo ya zamani ya Radio ambayo huenda na kwa njia ya kuvuka dunia yote. Ingevunjwa kwenda faida za inch moja&#44;ambayo inamaanisha ingekuwa ni mabilioni juu ya mabilioni ya inch. Mita ya kuingilia inawakilisha safu ya misukumo ya nguvu katika asili&#44; pamoja na mvutano wenye nguvu dhaifu na msukumo wa nukilia yenye nguvu ambayo hufunga mabomu na makombora kwa pamoja kuwa na nguvu zaidi&#44; billion billion billion billion elifu kumi zidisha nguvu zaidi ya mvutano. Sasa hebu tuondoe ile mita kutoka mahali ilipokuwa imewekwa kwa sasa. Hata kama ulikuwa umeiondoa inch moja tu&#44; madhara katika maisha yangekuwa balaa. Yale marekebisho ya mita yangeoza mvutano kwa mikunjo miwili ya bilioni -moja&#44; Wanyama mahali popote wenye usawa wa binadamu wange kandamizwa. Kama unavyo ona linganisha na safu za jumla za misukumo ya nguvu katika asili&#44; mvutano wenye safu nyembamba isiofahamika kwa ajili ya maisha kuwako. Katika yote mipangilio inayowezekana juu ya mita&#44;kutoka upande moja dunia kwenda upande mwingine&#44; inatokea kuwa unapo hamisha sehemu ndogo iliosahihi ya inch kuufanya usitadi wa dunia yetu wa kuhudumia maisha.] -1 
+Dunia imebuniwa kwa usawa na usahihi ambao haungeweza kuwa kama tokeo lilotokea kwa bahati mbaya. [Hebu tufikirie analojia kutoka kwa bingwa wa madawa Robin Collins PHD: Fikiria kanuni&#44;au moja ya shughuli za matoleo ya zamani ya Radio ambayo huenda na kwa njia ya kuvuka dunia yote. Ingevunjwa kwenda faida za inch moja&#44;ambayo inamaanisha ingekuwa ni mabilioni juu ya mabilioni ya inch. Mita ya kuingilia inawakilisha safu ya misukumo ya nguvu katika asili&#44; pamoja na mvutano wenye nguvu dhaifu na msukumo wa nukilia yenye nguvu ambayo hufunga mabomu na makombora kwa pamoja kuwa na nguvu zaidi&#44; billion billion billion billion elifu kumi zidisha nguvu zaidi ya mvutano. Sasa hebu tuondoe ile mita kutoka mahali ilipokuwa imewekwa kwa sasa. Hata kama ulikuwa umeiondoa inch moja tu&#44; madhara katika maisha yangekuwa balaa. Yale marekebisho ya mita yangeoza mvutano kwa mikunjo miwili ya bilioni -moja&#44; Wanyama mahali popote wenye usawa wa binadamu wange kandamizwa. Kama unavyo ona linganisha na safu za jumla za misukumo ya nguvu katika asili&#44; mvutano wenye safu nyembamba isiofahamika kwa ajili ya maisha kuwako. Katika yote mipangilio inayowezekana juu ya mita&#44;kutoka upande moja dunia kwenda upande mwingine&#44; inatokea kuwa unapo hamisha sehemu ndogo iliosahihi ya inch kuufanya usitadi wa dunia yetu wa kuhudumia maisha.] -1
 
-Kuna utaratibu wa elimu ya sayari uitwao sayansi isiyo badilika kuhusu ulimwengu ambayo kwa mara ya kwanza ilitambulishwa na Einstien na sasa hutumika kurejea msongamano wa nguvu wa nafasi iliowazi. Hili ni somo pana la kuhusu sayansi ambalo hatutajaribu katika darasa hili. Bado&#44;tunaweza kutafuta kwenye usawa wa mawimbi mazuri ya utafutaji wa kihisabati katika uhusiano wa ulimwengu. Huu uthabiti unapaswa kuwekwa pamoja na usawa katika utaratibu kwa ajili ya ulimwengu kwa kuweko kwake. [Kulingana na Robin Collins PHD : Mawimbi mazuri (ya elimu ya sayansi isiobadilika) kwa kushikilia mambo ya kale imekadiriwa kuwa angalau moja ya sehemu ya billion billion billion billion billion milioni mia moja. Hiyo ingekuwa kumi iliofuatiwa na sifuri hamsini na tatu. Huo ni utaratibu usiosadikika.] - 1 
+Kuna utaratibu wa elimu ya sayari uitwao sayansi isiyo badilika kuhusu ulimwengu ambayo kwa mara ya kwanza ilitambulishwa na Einstien na sasa hutumika kurejea msongamano wa nguvu wa nafasi iliowazi. Hili ni somo pana la kuhusu sayansi ambalo hatutajaribu katika darasa hili. Bado&#44;tunaweza kutafuta kwenye usawa wa mawimbi mazuri ya utafutaji wa kihisabati katika uhusiano wa ulimwengu. Huu uthabiti unapaswa kuwekwa pamoja na usawa katika utaratibu kwa ajili ya ulimwengu kwa kuweko kwake. [Kulingana na Robin Collins PHD : Mawimbi mazuri (ya elimu ya sayansi isiobadilika) kwa kushikilia mambo ya kale imekadiriwa kuwa angalau moja ya sehemu ya billion billion billion billion billion milioni mia moja. Hiyo ingekuwa kumi iliofuatiwa na sifuri hamsini na tatu. Huo ni utaratibu usiosadikika.] - 1
 
-Kuna mageuzi mengine katika ulimwengu ambayo huhitaji usawa wa utaratibu kwa ajili ya kuwepo kwa dunia yenyewe. [Kwa mfano&#44; Oxford physicist Roger Penrose alisema kigezo kimoja&#44; ï¿½nafasi ya asili ya sauti&#44;huhitaji mawimbi mazuri kwa usahihi wa sehemu moja katika bilioni kumi iliozidishwa kwa yenyewe mara mia moja na ishirini tatu. Penrose alitoa maoni kwamba haingekuwa rahisi kuandika hiyo namba kikamilifu&#44; tangu mwazo ilihitaji sifuri zaidi kuliko kanuni ya mwanzo katika kwa ulimwengu mzima! Hii ilionyeshwa&#44;alisema&#44; ï¿½utaratibu ulihitajika kuupanga ulimwengu juu ya chanzo chake] - 1 
+Kuna mageuzi mengine katika ulimwengu ambayo huhitaji usawa wa utaratibu kwa ajili ya kuwepo kwa dunia yenyewe. [Kwa mfano&#44; Oxford physicist Roger Penrose alisema kigezo kimoja&#44; ï¿½nafasi ya asili ya sauti&#44;huhitaji mawimbi mazuri kwa usahihi wa sehemu moja katika bilioni kumi iliozidishwa kwa yenyewe mara mia moja na ishirini tatu. Penrose alitoa maoni kwamba haingekuwa rahisi kuandika hiyo namba kikamilifu&#44; tangu mwazo ilihitaji sifuri zaidi kuliko kanuni ya mwanzo katika kwa ulimwengu mzima! Hii ilionyeshwa&#44;alisema&#44; ï¿½utaratibu ulihitajika kuupanga ulimwengu juu ya chanzo chake] - 1
 
-Tunge weza kwenda juu yake na mifano ilioko ndani ya ulimwengu ambayo huhitaji usawa kamili wa ubunifu kwa ajili ya kuwa ulimwengu upo katika uwepo. [Kwa mfano kuna tofauti katika kuchunguza kati ya nutroni na protoni. Ongeza fungu la nutroni kwa zaidi ya sehemu moja kati ya mia saba myeyuko wa nukilia katika nyota ungesimama. Kungekuwa hakuna chanzo cha nishati kwa ajili ya maisha. Kama msukumo wa umeme kidogo ulikuwa na nguvu au dhaifu&#44;maisha katika dunia hayangewezekana. Au fikiri msukumo wa nukilia yenye nguvu. Fikiria kwa kufupisha kwa asilimia hamsini&#44; ambayo ni sehemu ndogo sana katika kumi billion billion billion billion&#44; iliolinganishwa na safu ya jumla ya msukumo wa nguvu. Tena kama ufukuzaji wa mashambulizi&#44;kani ya nukilia yenye nguvu ingekuwa dhaifu kuzuia kani mbaya kati ya proton ilioshambuliwa kwa hakika kwenye nukilia ya atomiki kutoka kupasua sehemu zote za atomiki isipokuwa hydrogen. Robin Collins PHD.] - 1 Kwa wazi pasipo atomiki ambayo ni mawe ya kujengea ya nguvu zote hapangekuwepo na chochote. 
+Tunge weza kwenda juu yake na mifano ilioko ndani ya ulimwengu ambayo huhitaji usawa kamili wa ubunifu kwa ajili ya kuwa ulimwengu upo katika uwepo. [Kwa mfano kuna tofauti katika kuchunguza kati ya nutroni na protoni. Ongeza fungu la nutroni kwa zaidi ya sehemu moja kati ya mia saba myeyuko wa nukilia katika nyota ungesimama. Kungekuwa hakuna chanzo cha nishati kwa ajili ya maisha. Kama msukumo wa umeme kidogo ulikuwa na nguvu au dhaifu&#44;maisha katika dunia hayangewezekana. Au fikiri msukumo wa nukilia yenye nguvu. Fikiria kwa kufupisha kwa asilimia hamsini&#44; ambayo ni sehemu ndogo sana katika kumi billion billion billion billion&#44; iliolinganishwa na safu ya jumla ya msukumo wa nguvu. Tena kama ufukuzaji wa mashambulizi&#44;kani ya nukilia yenye nguvu ingekuwa dhaifu kuzuia kani mbaya kati ya proton ilioshambuliwa kwa hakika kwenye nukilia ya atomiki kutoka kupasua sehemu zote za atomiki isipokuwa hydrogen. Robin Collins PHD.] - 1 Kwa wazi pasipo atomiki ambayo ni mawe ya kujengea ya nguvu zote hapangekuwepo na chochote.
 
-Ugunduzi huu ni wazi kabisa kuwa na matokeo ya bahati&#44;maelezo pekee ya kihabari kwa ajili ya ule ugunduzi sahihi ni kwamba kulikuwa na mbunifu. 
+Ugunduzi huu ni wazi kabisa kuwa na matokeo ya bahati&#44;maelezo pekee ya kihabari kwa ajili ya ule ugunduzi sahihi ni kwamba kulikuwa na mbunifu.
 
-Haiwezekani kuwa mchoro pasipo mchoraji. Mungu ni msanifu wa mambo yate ya asili. Ubunifu mwingi ni barabara kabisa kuwa tokeo la ulinganifu au bila utaratibu maalumu kama tokeo la mshindo kubwa kama baadhi ya wanasayansi wanavyo dai.Kwa mfano&#44;kama dunia ingelazwa upande wa kiwango kimoja au katika njia ya uwepo wake dunia haingekuwa ya kuishi.Hii sio kutaja kwamba dunia inaumbali sahihi kutoka kwenye jua na kuwekwa katika mahali sahihi pamoja na njia ya kundi la nyota nyeupe pamoja zile ambazo dunia imewekwa ilikusaidia uhai kwenye sayari yetu. 
+Haiwezekani kuwa mchoro pasipo mchoraji. Mungu ni msanifu wa mambo yate ya asili. Ubunifu mwingi ni barabara kabisa kuwa tokeo la ulinganifu au bila utaratibu maalumu kama tokeo la mshindo kubwa kama baadhi ya wanasayansi wanavyo dai.Kwa mfano&#44;kama dunia ingelazwa upande wa kiwango kimoja au katika njia ya uwepo wake dunia haingekuwa ya kuishi.Hii sio kutaja kwamba dunia inaumbali sahihi kutoka kwenye jua na kuwekwa katika mahali sahihi pamoja na njia ya kundi la nyota nyeupe pamoja zile ambazo dunia imewekwa ilikusaidia uhai kwenye sayari yetu.
 
-Kipande cha theluji ni mfano mwingine wa usanifu wa Mungu. Hakuna vipande viwili vya theluji ambavyo vina usawa&#44;bado vyote vinafanana katika usanifu na ulinganifu. Vipande vya theluji vimefanywa kwa pembe tatu sawa&#44; na tena zinaonyesha utatu. Kuna maeneo mengi ya usanifu wa kweli katika asili; hitimisho pekee la habari ni kwamba lazima kuna mbunifu. 
+Kipande cha theluji ni mfano mwingine wa usanifu wa Mungu. Hakuna vipande viwili vya theluji ambavyo vina usawa&#44;bado vyote vinafanana katika usanifu na ulinganifu. Vipande vya theluji vimefanywa kwa pembe tatu sawa&#44; na tena zinaonyesha utatu. Kuna maeneo mengi ya usanifu wa kweli katika asili; hitimisho pekee la habari ni kwamba lazima kuna mbunifu.
 
-### Hoja kutoka asili ya mtu 
+### Hoja kutoka asili ya mtu
 
-Mtu aliumbwa kwa sura na mfano wa Mungu. Mtu aliumbwa akiwa na dhamiri ambayo ni uwezo wa kupambanua kati ya haki na ubaya. Dhamiri ikiwa ndani ya mtu itamfanya kujua kama amefanya jambo baya. Hizi sheria za maadili na uhakika kwamba kuna vigezo vya mtoa. sheria. Mungu ndio huyo mtoa sheria. 
+Mtu aliumbwa kwa sura na mfano wa Mungu. Mtu aliumbwa akiwa na dhamiri ambayo ni uwezo wa kupambanua kati ya haki na ubaya. Dhamiri ikiwa ndani ya mtu itamfanya kujua kama amefanya jambo baya. Hizi sheria za maadili na uhakika kwamba kuna vigezo vya mtoa. sheria. Mungu ndio huyo mtoa sheria.
 
-### Hoja kutoka historia. 
+### Hoja kutoka historia.
 
-> Na yeye hugeuza nyakati na majira: yeye huondoa wafalme&#44; na kuweka wafalme: huwapa hekima kwa wenye hekima&#44; na maarifa kwao wanajua ufahamu: Dan. 2:21 
+> Na yeye hugeuza nyakati na majira: yeye huondoa wafalme&#44; na kuweka wafalme: huwapa hekima kwa wenye hekima&#44; na maarifa kwao wanajua ufahamu: Dan. 2:21
 
-#### Mungu yuko katika kiti cha enzi na anatawala mambo ya mwanadamu. 
+#### Mungu yuko katika kiti cha enzi na anatawala mambo ya mwanadamu.
 
-Mungu alimuumba mtu kuwa wakala wa maadili huru mwenye matakwa ya kufanya machaguo yake mwenyewe. Mungu bado anatunza haki kama mtawala wa kiwango cha juu ya yote kuangalia mapenzi yake imetimizwa hapa duniani na katika mbingu. Huu ukweli umefunuliwa kwetu kutoka kwenye maandiko; Yesu alimwomba Baba: Mapenzi yako yafanyika hapa duniani kama huko mbinguni; Mt. 6:10. Mapenzi ya Mungu ya enda kuthibitishwa; hakuna mtu anaweza kupinga mapenzi ya Mungu na kushinda. Nebuchadneza alijiinua juu katika kiburi na aliondolewa na Mungu kutoka ufalme wake kwa miaka saba. Daniel 4:32. Mungu yuko katika kiti cha enzi na anatawala mambo ya wanadamu. 
+Mungu alimuumba mtu kuwa wakala wa maadili huru mwenye matakwa ya kufanya machaguo yake mwenyewe. Mungu bado anatunza haki kama mtawala wa kiwango cha juu ya yote kuangalia mapenzi yake imetimizwa hapa duniani na katika mbingu. Huu ukweli umefunuliwa kwetu kutoka kwenye maandiko; Yesu alimwomba Baba: Mapenzi yako yafanyika hapa duniani kama huko mbinguni; Mt. 6:10. Mapenzi ya Mungu ya enda kuthibitishwa; hakuna mtu anaweza kupinga mapenzi ya Mungu na kushinda. Nebuchadneza alijiinua juu katika kiburi na aliondolewa na Mungu kutoka ufalme wake kwa miaka saba. Daniel 4:32. Mungu yuko katika kiti cha enzi na anatawala mambo ya wanadamu.
 
-#### Majaliwa ya Mungu. 
+#### Majaliwa ya Mungu.
 
-Webster&apos;s dictionary inafafanua majaliwa kama:tendo kutoa au kuandaa kwa ajili ya matumizi ya wakati ujao au matendo. Mungu anaingilia kati mambo ya mwanadamu. Mungu anajua mwanzo hadi mwisho. Yeye huandaa njia kwa ajili ya mapenzi ya uungu wake kuthibitishwa. 
+Webster&apos;s dictionary inafafanua majaliwa kama:tendo kutoa au kuandaa kwa ajili ya matumizi ya wakati ujao au matendo. Mungu anaingilia kati mambo ya mwanadamu. Mungu anajua mwanzo hadi mwisho. Yeye huandaa njia kwa ajili ya mapenzi ya uungu wake kuthibitishwa.
 
-Baadhi ya mifano ya majaliwa ya Mungu: 
+Baadhi ya mifano ya majaliwa ya Mungu:
 
-Zana za vita za kirumi ziliharibiwa na kimbunga mnamo 1588. Meli zilikuwa katika safari ya kwenda kushambulia nchi ya kiporotestanti ya Uingreza. Wakuu wa bunge walipaswa kuupinga ukristo na kuampandisha cheo mungu kikatoliki aliyelinda watu wake huko Uingireza na Mungu alilinda watu ambao siku moja wangahamia Amerika. 
+Zana za vita za kirumi ziliharibiwa na kimbunga mnamo 1588. Meli zilikuwa katika safari ya kwenda kushambulia nchi ya kiporotestanti ya Uingreza. Wakuu wa bunge walipaswa kuupinga ukristo na kuampandisha cheo mungu kikatoliki aliyelinda watu wake huko Uingireza na Mungu alilinda watu ambao siku moja wangahamia Amerika.
 
-Hesabu ya mahujaji wa Squanto tena ni majaliwa ya Mungu kuwasaidia masalio ya mahujaji katika hali mbaya ya hewa wakati wa hija. Ni nini iliokuwa bahati ya Wahindi ambao wanazungumza Kiingireza bila shida kuwasalimia mahujaji mnamo mwaka 1620? 
+Hesabu ya mahujaji wa Squanto tena ni majaliwa ya Mungu kuwasaidia masalio ya mahujaji katika hali mbaya ya hewa wakati wa hija. Ni nini iliokuwa bahati ya Wahindi ambao wanazungumza Kiingireza bila shida kuwasalimia mahujaji mnamo mwaka 1620?
 
-Mageuzi ya Wamarekani hayakuwa na upungufu wa muujiza. Muda si muda tena Mungu alimsaidia George Washington ambaye alikuwa mtu wa maombi. Mapema katika vita kitu pekee ambacho kiliokoa jeshi changa la Wamarekani kutoka maangamizi iliokuwa ni ukungu mzito uliowaweza kuwa salama kurudi nyuma kutoka jeshi la Kiingereza. 
+Mageuzi ya Wamarekani hayakuwa na upungufu wa muujiza. Muda si muda tena Mungu alimsaidia George Washington ambaye alikuwa mtu wa maombi. Mapema katika vita kitu pekee ambacho kiliokoa jeshi changa la Wamarekani kutoka maangamizi iliokuwa ni ukungu mzito uliowaweza kuwa salama kurudi nyuma kutoka jeshi la Kiingereza.
 
-Na vita vya wenyewe kwa wenyewe ni mfano mwingine wa majaliwa ya Mungu. Mungu aliinua watu kama Abraham Lincoln&#44; mtu mwingine wa maombi&#44; kulinda umoja. Mwanzoni mwa vita vya wenyewe kwa wenyewe haikuenda vizuri kwa ajili ya jeshi la muungano. Haikuwa mapenzi ya Mungu kwa muungano kuharibiwa. Mungu alilinda nchi na kukomesha zoezi la uovu la utumwa katika mchakato. 
+Na vita vya wenyewe kwa wenyewe ni mfano mwingine wa majaliwa ya Mungu. Mungu aliinua watu kama Abraham Lincoln&#44; mtu mwingine wa maombi&#44; kulinda umoja. Mwanzoni mwa vita vya wenyewe kwa wenyewe haikuenda vizuri kwa ajili ya jeshi la muungano. Haikuwa mapenzi ya Mungu kwa muungano kuharibiwa. Mungu alilinda nchi na kukomesha zoezi la uovu la utumwa katika mchakato.
 
-#### Mungu hupanga falme za wanadamu. Dan. 2 
+#### Mungu hupanga falme za wanadamu. Dan. 2
 
-Maendeleo ya watawala kutoka Babeli hadi Rumi ilitabiriwa katika ndoto ya Nebukadreza iliyoingizwa katika Dan 2. Hata uanzishaji ambayo ufalme wa tatu ungetoa mtawala juu ya dunia yote alitabiriwa katika sura hii. Mungu alimweka hata yule mtawala wa Kigriki ambayo aliongozwa na Alexander Mkuu ammbaye angeshinda ulimwengu na kuenezalugha ya Kigriki kuandaa njia kwa ajili ya A.J.=Agano Jipya Hili tukio lilitabiriwa miaka 500 kabla halijatokea. Hii inaweza kuelezewa tu kwa uingiliaji kati wa Mungu katika mambo ya wanadamu. 
+Maendeleo ya watawala kutoka Babeli hadi Rumi ilitabiriwa katika ndoto ya Nebukadreza iliyoingizwa katika Dan 2. Hata uanzishaji ambayo ufalme wa tatu ungetoa mtawala juu ya dunia yote alitabiriwa katika sura hii. Mungu alimweka hata yule mtawala wa Kigriki ambayo aliongozwa na Alexander Mkuu ammbaye angeshinda ulimwengu na kuenezalugha ya Kigriki kuandaa njia kwa ajili ya A.J.=Agano Jipya Hili tukio lilitabiriwa miaka 500 kabla halijatokea. Hii inaweza kuelezewa tu kwa uingiliaji kati wa Mungu katika mambo ya wanadamu.
 
-### Hoja kutoka imani ya kidunia 
+### Hoja kutoka imani ya kidunia
 
 Mtu aliumbwa akiwa na shauku ya asili ya kumwabudu Mungu.Hata watu wasiositaarabika kote ulimwenguni wana mfumo fulani wa ibada na imani.# Asili ya Mungu
 
@@ -1630,7 +1630,7 @@ Mtu aliumbwa akiwa na shauku ya asili ya kumwabudu Mungu.Hata watu wasiositaarab
 
 Mungu ni Roho&#44; asiye na mwisho&#44; ni wamilele&#44; na habadiliki katika kuwapo kwake&#44; hekima&#44; mwenye nguvu&#44; mwenye utakafu&#44; mwenye haki&#44; mwema&#44; na wakweli; Westminister Catechism
 
-Mungu hana mwisho na Roho kamili katika yeye vitu vyote vina chanzo katika yeye&#44; vinaungana hadi mwisho imenakiliwa toka; Strong 
+Mungu hana mwisho na Roho kamili katika yeye vitu vyote vina chanzo katika yeye&#44; vinaungana hadi mwisho imenakiliwa toka; Strong
 
 ### Maandishi ya maandiko matakatifu ya Mungu.
 
@@ -1766,7 +1766,7 @@ Wazo nguvu zote za mbinguni kama aliyepo kwa ajili ya mahitaji ya watu wa Mungu#
 
 > Dan. 11:32 watu wamjuao Mungu wao watakuwa hodari&#44; na kutenda mambo makuu.
 
-## Polytheism ï¿½ wenyenye kuabudu miungu 
+## Polytheism ï¿½ wenyenye kuabudu miungu
 
 ### Tabia za dini za zamani
 
@@ -1818,7 +1818,7 @@ Wazo nguvu zote za mbinguni kama aliyepo kwa ajili ya mahitaji ya watu wa Mungu#
 
 #### Shairi sio mtunga shairi
 
-#### Kiumbe sio Muumbaji War 1:25 
+#### Kiumbe sio Muumbaji War 1:25
 
 ## Uyakinifu ï¿½ jambo ni sababu ya maisha yote na ufahamu(Big bang theory)
 
@@ -1838,7 +1838,7 @@ Wazo nguvu zote za mbinguni kama aliyepo kwa ajili ya mahitaji ya watu wa Mungu#
 
 #### Mungu ni muumbaji wa maisha yote
 
-## Imani ya uungu bila kukubali ufunuo ï¿½ hurusu kuwa kuna Mungu pekee#44; aliyeuumba ulimwengu; kisha akaucha ukatawaliwa na sheria za asili 
+## Imani ya uungu bila kukubali ufunuo ï¿½ hurusu kuwa kuna Mungu pekee#44; aliyeuumba ulimwengu; kisha akaucha ukatawaliwa na sheria za asili
 
 ### Saa ya kusisimka iliochwa kujiendesha yenyewe
 
@@ -1882,7 +1882,7 @@ Baadhi ya maelezo makuu kuhusu Mungu katika maandiko ni: ROHO (Yohn 4:24)&#44; N
 
 #### Hana vikomo vya kimwili
 
-> Tazameni mikono yangu na miguu yangu&#44;#44; ya kuwa ni mimi mwenyewe.: Nishikenishikeni&#44; mwone;#44 kwa kuwa roho haina mwili na mifupa #44;kama mnavyoniona mimi kuwa nayo. Luk 24:37 
+> Tazameni mikono yangu na miguu yangu&#44;#44; ya kuwa ni mimi mwenyewe.: Nishikenishikeni&#44; mwone;#44 kwa kuwa roho haina mwili na mifupa #44;kama mnavyoniona mimi kuwa nayo. Luk 24:37
 
 ### Elimu yenye kupendekeza uwakilishaji wa Mungu
 
@@ -1922,7 +1922,7 @@ Linganisha na Mwanzo. 1:14&#44; Waeb. 11:3
 
 ### Mungu yu hai
 
-> Yoshua 3:10 Yoshua akasema&#44; #44Kwa jambo hili mtajua ya kuwa Mungu aliye hai yu kati yenu&#44;#44;... 
+> Yoshua 3:10 Yoshua akasema&#44; #44Kwa jambo hili mtajua ya kuwa Mungu aliye hai yu kati yenu&#44;#44;...
 
 > I Samuel 17:26 ... yeye atakayemwua Mfilisti huyo&#44; na kuwaondolea Israeli aibu hii? Maana Mfilisti huyu asiyetahiriwa ni nani hata awatukane majeshi ya Mungu aliye hai?
 
@@ -2006,7 +2006,7 @@ Yeye mwenyewe
 
 > Yeye ni sababu ya kwanza&#44;yeye haja sababishwa." --Thomas Aquinas
 
-kut 3:14; Kut 6:3; Yohn 5:26; Mndo 17:24-28# Tabia za kishindo-za Mungu zisizo husiana na maadili 
+kut 3:14; Kut 6:3; Yohn 5:26; Mndo 17:24-28# Tabia za kishindo-za Mungu zisizo husiana na maadili
 
 ## Maelezo "ya sifa ambazo si za maadili zisizo"
 
@@ -2014,7 +2014,7 @@ kut 3:14; Kut 6:3; Yohn 5:26; Mndo 17:24-28# Tabia za kishindo-za Mungu zisizo h
 
 Tabia ambazo zina husika kwa hali na kutoa maandishi yake. Maandishi ya asili au sifa za mtu
 
-> Kwa mfano&#44;Mungu anajisemea&#44; mimi ni mtakatifu; kwa hiyo tunaweza&#44;Mungu ni mtakatifu.Utakatifu&#44;kisha ikawa ni hali ya Mungu&#44;kwa sababu utakatifu ni sifa ambayo tuna weza kudhania au kutia kwake. ï¿½ Kitabu cha mafundisho ya Biblia 
+> Kwa mfano&#44;Mungu anajisemea&#44; mimi ni mtakatifu; kwa hiyo tunaweza&#44;Mungu ni mtakatifu.Utakatifu&#44;kisha ikawa ni hali ya Mungu&#44;kwa sababu utakatifu ni sifa ambayo tuna weza kudhania au kutia kwake. ï¿½ Kitabu cha mafundisho ya Biblia
 
 ### Maadili- ya kishindo
 
@@ -2050,7 +2050,7 @@ Maoni- ya maadili ya kishindo ni zile kweli za Asili ya Mungu ambazo hazihusishw
 
 ### Mungu ajua ubora wa kumaanisha kufikia matokeo yaliyo tamaniwa
 
-> Haijalishi kuna kiumbe chochote ambacho hakijadhihirishwa katika uwepo wake:bali mambo yote ni utupu na wazi mbele ya macho yake katika yeye tunapaswa kufanya. He4: 
+> Haijalishi kuna kiumbe chochote ambacho hakijadhihirishwa katika uwepo wake:bali mambo yote ni utupu na wazi mbele ya macho yake katika yeye tunapaswa kufanya. He4:
 
 ## Kudura
 
@@ -2170,7 +2170,7 @@ Maadili ni kuwa na sifa ya kufanya kwa lazima kitu kwa haki na uovu. Tabia zote 
 
 Elimu kuhusu Kristo ni somo la juu ya Yesu Kristo. Kristo ni Mfumo wa Kigriki wa neno la Kiebrania masiha na humaanisha mpakwa mafuta. Yesu alisubiriwa kwa mda mrefu kwa ajili masiha ambaye alikuja kulingana na unabii.
 
-## Uungu wa Kristo. 
+## Uungu wa Kristo.
 
 ### Yesu ni Mungu.
 
@@ -2182,7 +2182,7 @@ Huu ni unabii wa Kristo ambaye aliitwa Mungu. Kuna Mungu moja tu mwenye nguvu; Y
 
 ### Yesu si Mungu mdogo kuliko Baba.
 
-> Wafl 2:5-6&mdash;â€Iweni na nia iyo hiyo ndani yenu ambayo ilikuwamo pia ndani ya Kristo Yesu;y6 ambaye yeye mwanzo alikuwa yuna namna ya Mungu&#44; naye hakuona kule kuwa sawa na Mungu kuwa ni kitu cha kushikamana nacho: 
+> Wafl 2:5-6&mdash;â€Iweni na nia iyo hiyo ndani yenu ambayo ilikuwamo pia ndani ya Kristo Yesu;y6 ambaye yeye mwanzo alikuwa yuna namna ya Mungu&#44; naye hakuona kule kuwa sawa na Mungu kuwa ni kitu cha kushikamana nacho:
 
 Yesu ni Mungu na yuko sawa na Mungu Baba. Hili somo litakamilishwa katika habari kubwa kwenye sehemu: Utatu wa Mungu.
 
@@ -2208,9 +2208,9 @@ Yesu ni Mungu na yuko sawa na Mungu Baba. Hili somo litakamilishwa katika habari
 
 ### Yesu ni Alpha na Omega.
 
-> Ufunuo 1:7-8&mdash;â€Tazama&#44; yuaja na mawingu; na kila jicho litamwona&#44; na hao waliomchoma; na kabila zote za dunia wataomboleza kwa ajili yake. Naam. Amina.8 Mimi ni Alfa na Omega&#44; mwanzo na mwisho&#44; asema Bwana Mungu&#44; aliyeko na aliyekuwako na atakayekuja&#44; Mwenyezi. 
+> Ufunuo 1:7-8&mdash;â€Tazama&#44; yuaja na mawingu; na kila jicho litamwona&#44; na hao waliomchoma; na kabila zote za dunia wataomboleza kwa ajili yake. Naam. Amina.8 Mimi ni Alfa na Omega&#44; mwanzo na mwisho&#44; asema Bwana Mungu&#44; aliyeko na aliyekuwako na atakayekuja&#44; Mwenyezi.
 
-Hili andiko hutuambia kwamba Yesu ni Alpha na Omega. Alpha ni herufi ya kwanza katika alifabeti za Kigriki na Omega ni herufi ya mwisho kuthibitisha kwamba Yesu ni wa kwanza na wa mwisho. Yesu ndiye alikuwa amechomwa na anakuja na mawingu. Yesu ni Bwana aliyeko&#44; na aliyekuwako&#44; na atakaye kuja. Muktadha wa maandiko matakatifu kwa wazi hufunua kwamba ni moja anaye jitangaza na kusema kwamba yeye ni Alpha and Omega. 
+Hili andiko hutuambia kwamba Yesu ni Alpha na Omega. Alpha ni herufi ya kwanza katika alifabeti za Kigriki na Omega ni herufi ya mwisho kuthibitisha kwamba Yesu ni wa kwanza na wa mwisho. Yesu ndiye alikuwa amechomwa na anakuja na mawingu. Yesu ni Bwana aliyeko&#44; na aliyekuwako&#44; na atakaye kuja. Muktadha wa maandiko matakatifu kwa wazi hufunua kwamba ni moja anaye jitangaza na kusema kwamba yeye ni Alpha and Omega.
 
 ### Yesu ni wa milele.
 
@@ -2222,7 +2222,7 @@ Hili andiko hutuambia kwamba Yesu ni Alpha na Omega. Alpha ni herufi ya kwanza k
 
 > Naye Neno alifanyika mwili&#44; akakaa kwetu; nasi tukauona utukufu wake&#44; utukufu kama wa Mwana pekee atokaye kwa Baba; amejaa neema na kweli.&mdash;â€John 1:14
 
-Kulingana sheria za mkombozi wa wawanadamu ambaye angekuja baadaye angalipa gharama ya ukombozi. Yesu Neno la milele alifanyika mtu ilikutimiza sehemu ya mkombozi wa wanadamu na kilipa gharama kwa ajili ya ubinadamu ulioanguka pamoja na damu ya Uungu juu ya msalaba. 
+Kulingana sheria za mkombozi wa wawanadamu ambaye angekuja baadaye angalipa gharama ya ukombozi. Yesu Neno la milele alifanyika mtu ilikutimiza sehemu ya mkombozi wa wanadamu na kilipa gharama kwa ajili ya ubinadamu ulioanguka pamoja na damu ya Uungu juu ya msalaba.
 
 > Waefeso 1:7&mdash;â€Katika yeye huyo&#44; kwa damu yake&#44; tunao ukombozi wetu&#44; masamaha ya dhambi&#44; sawasawa na wingi wa neema yake;
 
@@ -2240,7 +2240,7 @@ Ubao aliolazwa pamoja na dhahabu ni vyombo vya Hema ya kukutania kufanania na as
 
 > Waeb 4:15&mdash;â€Kwa kuwa hamna kuhani mkuu asiyeweza kuchukuana nasi katika mambo yetu ya udhaifu; bali yeye alijaribiwa sawasawa na sisi katika mambo yote&#44; bila kufanya dhambi.# KRISTO KABLA YA KUWA NA MWILI
 
-Kuwa na mwili inarejea kwa Kristo umbo la binadamu. 
+Kuwa na mwili inarejea kwa Kristo umbo la binadamu.
 
 > Wafl 2:7 -8&mdash;bali alijifanya kuwa hana utukufu&#44; akatwaa namna ya mtumwa&#44; akawa ana mfano wa wanadamu; 8 tena&#44; alipoonekana ana umbo kama mwanadamu&#44; alijinyenyekeza akawa mtii hata mauti&#44; naam&#44; mauti ya msalaba.
 
@@ -2262,21 +2262,21 @@ Yohn 8:58&mdash;Yesu akawaambia&#44; Amin&#44; amin&#44; nawaambia&#44; Yeye Ibr
 
 > Yohn 1:18&mdash;Hakuna mtu aliyemwona Mungu wakati wo wote; Mungu Mwana pekee aliye katika kifua cha Baba&#44; huyu ndiye aliyemfunua.
 
-Kulingana na mukitadha wa andiko hili hakuna mtu aliyemwona Mungu Baba wakati wowote.hii ingejumuishwa na wakati wa kipindi cha Agano la Kale.Baba alijifunua mwenyewe kwa ubinadamu kwa njia ya Mwana katika Agano zote mbili la Kale na kwa nyakati za Agano jipya. Ingawa katika Agano la Kale Kristo alikuwa hajathihirishwa katika mwili&#44;bado alikuwepo pamoja na Baba na kutokea katika Agano la kale kwa ubinadamu kama Mungu. Na tangu tumejua kutoka maandiko kwamba hakuna mtu aliwahi kumuona Mungu wakati wowote huu mwonekano wa Mungu ungeweza kuwa tu ni Kristo ambayo ni tangazo la milele la Baba.
+Kulingana na mukitadha wa andiko hili hakuna mtu aliyemwona Mungu Baba wakati wowote.hii ingejumuishwa na wakati wa kipindi cha Agano la Kale.Baba alijifunua mwenyewe kwa ubinadamu kwa njia ya Mwana katika Agano zote mbili la Kale na kwa nyakati za Agano jipya. Ingawa katika Agano la Kale Kristo alikuwa hajathihirishwa katika mwili&#44;bado alikuwepo pamoja na Baba na kutokea katika Agano la Kale kwa ubinadamu kama Mungu. Na tangu tumejua kutoka maandiko kwamba hakuna mtu aliwahi kumuona Mungu wakati wowote huu mwonekano wa Mungu ungeweza kuwa tu ni Kristo ambayo ni tangazo la milele la Baba.
 
 ### Kaputeni wa jeshi la BWANA.
 
 > Yoshua 5: 14-15 Akasema&#44; La&#44; lakini nimekuja sasa&#44; nili amiri wa jeshi la Bwana. Yoshua akapomoka kiusouso hata nchi&#44; naye akasujudu&#44; akamwuliza&#44; Bwana wangu aniambia nini mimi mtumishi wake? 15 Huyo amiri wa jeshi la Bwana akamwambia Yoshua&#44; Vua viatu vyako miguuni mwako; kwa kuwa mahali hapo usimamapo ni patakatifu. Yoshua akafanya vivyo.
 
-Hii ilikuwa nchi takatifu kwa sababu Kristo ambayo alikuwa Mungu alikuwa amesimama juu yake. 
+Hii ilikuwa nchi takatifu kwa sababu Kristo ambayo alikuwa Mungu alikuwa amesimama juu yake.
 
 ### Malaika wa Bwana.
 
-Kutoka Agano la kale Malaika wa Bwana alielezewa kwa tabia za Mungu.
+Kutoka Agano la Kale Malaika wa Bwana alielezewa kwa tabia za Mungu.
 
 > Mwanzo 16:10&mdash;Malaika wa BWANA akamwambia&#44; Hakika nitauzidisha uzao wako&#44; wala hautahesabika kwa jinsi utakavyokuwa mwingi.
 
-Mwanzo 22:11&mdash;Ndipo malaika wa Bwana akamwita kutoka mbinguni&#44; akasema&#44; Ibrahimu! Ibrahimu! Naye akasema&#44; Mimi hapa. 
+Mwanzo 22:11&mdash;Ndipo malaika wa Bwana akamwita kutoka mbinguni&#44; akasema&#44; Ibrahimu! Ibrahimu! Naye akasema&#44; Mimi hapa.
 
 Mwanzo 22:15-17&mdash;Malaika wa Bwana akamwita Ibrahimu mara ya pili kutoka mbinguni 16 akasema&#44; Nimeapa kwa nafsi yangu asema Bwana&#44; kwa kuwa umetenda neno hili&#44; wala hukunizuilia mwanao&#44; mwanao wa pekee&#44;17 katika kubariki nitakubariki&#44; na katika kuzidisha nitauzidisha uzao wako kama nyota za mbinguni&#44; na kama mchanga ulioko pwani; na uzao wako utamiliki mlango wa adui zao; uzao kama nyota za mbimguni&#44;kama mchanga ulio juu ya ufuko wa Bahari; na wazao wako watamiliki mlango wa adui zake;
 
@@ -2336,7 +2336,7 @@ Mtume Yohana kwa kawaida anatumia Neno katika kumrejea Kristo ambaye ni Neno la 
 
 ### Mwana wa Mungu
 
-Matumizi ya Mwana wa Mungu hurejea asili ya Uungu ya Kristo. Yusufu hakuwa baba wa Yesu: maandiko yanatuambia kwamba Yesu alichukuliwa mimba kwa mpango wa Roho Mtakatifu. Neno la milele lililo hai lilichukua mwili wa mwanadamu iliaweze kumkomboa mtu. Kumbuka kwamba Yesu alikuwepo kabla ya kuzaliwa na bikira Maria; Nebukadireza alimtangaza mtu wa nne ana umbo kama la mwanadamu katika moto ni kama mwana wa Mungu. 
+Matumizi ya Mwana wa Mungu hurejea asili ya Uungu ya Kristo. Yusufu hakuwa baba wa Yesu: maandiko yanatuambia kwamba Yesu alichukuliwa mimba kwa mpango wa Roho Mtakatifu. Neno la milele lililo hai lilichukua mwili wa mwanadamu iliaweze kumkomboa mtu. Kumbuka kwamba Yesu alikuwepo kabla ya kuzaliwa na bikira Maria; Nebukadireza alimtangaza mtu wa nne ana umbo kama la mwanadamu katika moto ni kama mwana wa Mungu.
 
 Petro alipokea ufunuo toka kwa Baba ya kuwa Yesu ni nani.
 
@@ -2356,11 +2356,11 @@ Hii inarejea ya ukoo wa kifalme wa Kristo kama Mfalme na mrithi wa haki wa kiti 
 
 ### Bwana
 
-Neno la Kigiriki Kurios ambalo limetafasiriwa Bwana limetumika kurejea bwana mtawala au bwana.Yesu ni mfalme wa wafalme na Bwana wa mabwana. 
+Neno la Kigiriki Kurios ambalo limetafasiriwa Bwana limetumika kurejea bwana mtawala au bwana.Yesu ni mfalme wa wafalme na Bwana wa mabwana.
 
 ### Kristo
 
-Kristo ni kigiriki kutoka Neno la Kiebrania "Masiha" ambalo kwa halisi humaanisha mpakwa mafuta. Yesu ni Masiha. 
+Kristo ni kigiriki kutoka Neno la Kiebrania "Masiha" ambalo kwa halisi humaanisha mpakwa mafuta. Yesu ni Masiha.
 
 ## Offisi za Kristo
 
@@ -2382,7 +2382,7 @@ Yesu alikuwa mrithi halali kwa kiti cha enzi cha Daudi na anakaa sasa kwenye mko
 
 ## Hali za Kristo
 
-Yesu ni Mungu na maadili sawa na hali kama za Mungu Baba. Kristo mtu alijewekea kikomo mwenyewe kwa mwili wa kibinadamu wakati alipokuwa duniani&#44; lakini alipofufuka&#44;Kristo mfufuka lazima awe na hali sawa na Mungu Baba. Kitu kingine kidogo kingemfanya Yesu mdogo kuliko Mungu. Kristo alietukuzwa hana kikomo katika mwili wa nyama. Yesu lazima awe mahali pote kama Baba na Roho mtakatifu. Yesu alisema kwamba Yeye atakuwa katikati ya watakatifu kwamba wakusanyike katika jina Lake 
+Yesu ni Mungu na maadili sawa na hali kama za Mungu Baba. Kristo mtu alijewekea kikomo mwenyewe kwa mwili wa kibinadamu wakati alipokuwa duniani&#44; lakini alipofufuka&#44;Kristo mfufuka lazima awe na hali sawa na Mungu Baba. Kitu kingine kidogo kingemfanya Yesu mdogo kuliko Mungu. Kristo alietukuzwa hana kikomo katika mwili wa nyama. Yesu lazima awe mahali pote kama Baba na Roho mtakatifu. Yesu alisema kwamba Yeye atakuwa katikati ya watakatifu kwamba wakusanyike katika jina Lake
 
 > Mat 18:20 ï¿½Kwa kuwa walipo wawili watatu wamekusanyika kwa jina langu&#44; nami nipo papo hapo katikati yao.# KAZI YA KRISTO
 
@@ -2404,7 +2404,7 @@ Yesu ni Mungu na maadili sawa na hali kama za Mungu Baba. Kristo mtu alijewekea 
 
 ## Kazi ya ukombozi ya Kristo
 
-Kazi muhimu ya Kristo kununua ukombozi kwa ajili ya mwanadamu kwa njia ya mauti yake juu ya msalaba. Neno akafanyika mwili kwa kusudi la kuufia ubinadamu uliopotea. 
+Kazi muhimu ya Kristo kununua ukombozi kwa ajili ya mwanadamu kwa njia ya mauti yake juu ya msalaba. Neno akafanyika mwili kwa kusudi la kuufia ubinadamu uliopotea.
 
 ### Kifo cha Kristo
 
@@ -2426,13 +2426,13 @@ Neno la kigriki hapa limetafasiriwa uridhishaji kurejea kiti cha rehema. Kiti ch
 
 Waeb 2:14 Basi&#44; kwa kuwa watoto wameshiriki damu na mwili&#44; yeye naye vivyo hivyo alishiriki yayo hayo&#44; ili kwa njia ya mauti amharibu yeye aliyekuwa na nguvu za mauti&#44; yaani&#44; Ibilisi;
 
-Yesu alikwenda kwenye eneo wafu kushinda mauti.Mauti hangeweza kumshikilia mwana wa Mungu.Yesu alimshinda ibilis aliyekuwa na nguvu ya mauti.Yesu alivulia ibilis uweza wake na mamlaka na kuchukua funguo za mauti kutoka kwa ibilis. 
+Yesu alikwenda kwenye eneo wafu kushinda mauti.Mauti hangeweza kumshikilia mwana wa Mungu.Yesu alimshinda ibilis aliyekuwa na nguvu ya mauti.Yesu alivulia ibilis uweza wake na mamlaka na kuchukua funguo za mauti kutoka kwa ibilis.
 
 > Ufunuo 1:18 na aliye hai; nami nalikuwa nimekufa&#44; na tazama&#44; ni hai hata milele na milele. Nami ninazo funguo za mauti&#44; na za kuzimu.
 
 ### Ufufuo wa Kristo
 
-Ufufuo wa Kristo ni tukio amabalo humtenga Yesu kutoka kwa viongozi wengine wa dini na masiha wa uwongo. Buddah&#44; Mohamed&#44; Sun Myung Mwezi na masiha wengine wa uwongo wako ndani ya kaburi. Kuna kaburi wazi huko Yerusalemu mahali Yesu alipowekwa kwa siku tatu&#44;lakini siku tatu zilipotimia Kristo alifufuka kwa ushindi juu ya mauti&#44;kuzimu na kaburi. 
+Ufufuo wa Kristo ni tukio amabalo humtenga Yesu kutoka kwa viongozi wengine wa dini na masiha wa uwongo. Buddah&#44; Mohamed&#44; Sun Myung Mwezi na masiha wengine wa uwongo wako ndani ya kaburi. Kuna kaburi wazi huko Yerusalemu mahali Yesu alipowekwa kwa siku tatu&#44;lakini siku tatu zilipotimia Kristo alifufuka kwa ushindi juu ya mauti&#44;kuzimu na kaburi.
 
 ## Maombezi ya kuendelea ya Kristo
 
@@ -2440,7 +2440,7 @@ Ufufuo wa Kristo ni tukio amabalo humtenga Yesu kutoka kwa viongozi wengine wa d
 
 Yesu alichukkuliwa juu mbinguni na yuko mkono wa kuume wa Baba ambaye siku zote yu hai kutuombea. Andiko linatuambia Yesu kuhani wetu mkuu bado anatuombea mbinguni.
 
-Kuhani mkuu wa Agano la kale aliwaombea watu siku ya upatanisho kwa kunyunyiza damu ya mwanakondoo juu ya kiti cha rehema kwa ajili ya wenye dhambi. Yesu alijitoa mwenyewe mara moja na kumwaga damu ya kiungu kwa ajili ya dhambi za wanadamu. Damu ya Yesu bado ina nguvu kusafisha mwenye dhambi mbaya sana. Baba anaangalia mtakatifu kupitia kazi ya ukombozi ya Kristo.Yesu bado ni kuhani wetu mkuu.
+Kuhani mkuu wa Agano la Kale aliwaombea watu siku ya upatanisho kwa kunyunyiza damu ya mwanakondoo juu ya kiti cha rehema kwa ajili ya wenye dhambi. Yesu alijitoa mwenyewe mara moja na kumwaga damu ya kiungu kwa ajili ya dhambi za wanadamu. Damu ya Yesu bado ina nguvu kusafisha mwenye dhambi mbaya sana. Baba anaangalia mtakatifu kupitia kazi ya ukombozi ya Kristo.Yesu bado ni kuhani wetu mkuu.
 
 > Waebr 7:25 Naye&#44; kwa sababu hii&#44; aweza kuwaokoa kabisa wao wamjiao Mungu kwa yeye; maana yu hai sikuzote ili awaombee.
 
