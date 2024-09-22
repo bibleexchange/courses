@@ -14,7 +14,7 @@ Hatua ya maendeleo ya mafundisho ya mkristo ambayo herufi inafunua usawa kwa asi
 
 Paulo alijulikana kama mwandishi wa waraka kwa Warumi mapema mnamo 95 BK. Baadhi ya waandishi walitambuliwa katika mamlaka ya msatari wa Paulo kwa Warumi walikuwa ni:
 
-1. Waandishi wa Agano jipya hasahasa Petro (2 Pet. 3:15)
+1. Waandishi wa Agano Jipya hasahasa Petro (2 Pet. 3:15)
 2. Kleenti wa Rumi (95 BK)
 3. Ignatio wa Antiokia (110 BK)
 4. Polikapi, Askofu wa Simirna (Baada 110 BK)
@@ -49,4 +49,3 @@ Warumi iliandikwa kulingana na utangulizi wa Paulo kwa wakirsto waliokuwa Rumi k
 ## KUHUSU
 
 Ni matengenezo ya kitheologia kwa maana ya Injli. Ingawa kanisa lilikuwa limeongezwa na wamataifa, Uyuda ulikuwa ni nguvu yaziada iliongezwa. Kulikuwa na wayahudi wengi katika Rumi kwa wakati wa kuandikwa kwa waraka huu kwa warumi hata wakristo wa kiyahudi walikuwa wamefungwa na mapokeo na urithi wa kiyahudi, Wayahudi waliamini kwa sababu walikuwa na sheria za Musa na agano la tohara ambayo walikuwa wamewekeana na Mungu kwa ajili ya uzima wa milele. Wao waliamini na wao walikuwa bora katika wapagani wa mataifa na kwa hiyo wao hawakuwa na haja ya kujinyenyekeza kwa watawala wapagani. Paulo anakanusha mafundisho ya wayahudi ambayo hayakuhusiana na maandiko matakatifu.
-

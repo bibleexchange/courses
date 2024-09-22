@@ -66,7 +66,7 @@ Zungushia duara swali sahihi.
 
 ## Ni tukio gani la mwisho kwenye kipindi cha Kanisa la mateso?
 
-1. Ukamilifu wa Agano jipya
+1. Ukamilifu wa Agano Jipya
 2. Siku ya Pentecoste
 3. **Hati ya Kostantino**
 4. Anguko la Rumi

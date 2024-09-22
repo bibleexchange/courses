@@ -393,7 +393,7 @@ Lugha zote sio mbaya. Kama jambo la hakika, kila lugha ni ya kipekee pamoja na n
 
 **MFANO**: Kristo anajieleza kwa Maria Yoh. 19:26 anatoa sauti ya ukali katika Kiswahili: "Mwanamke, tazama mwanao!" Kama jambo la hakika, ni sauti ya kushusha heshima sana. Tunafasiri kifungu hiki sio katika mwanga wa jinsi ya kutoa sauti katika Kiswahili, bali ni jinsi ya kutoa sauti katika kiyunani kwa sababu hiyo ni asili na lugha ilio vuviwa ya kitabu cha Yohn na Kiebrania au kiaramu kwa sababu ya mukini hiyo ndio lugha ambayo Yesu aliizungumza katika kiebrania, "mwanamke" inasauti kinyume kuliko ilivyo katika kiswahili; ni utaratibu wa heshima kama vile "mama."
 
-Kutafuta maana ya maneno kwenye dikishenari inaweza kumsaidia muhubiri kupata ufahamu bora wa maandiko. Agano la Kale kiasili lilikuwa limeandikwa kwa kiebrania na Agano jipya kiasili lilikuwa limeandikwa kwa kiyunani. Kuna vitabu vya rejea kama vile Concordance na dictionary ya Biblia. Vitabu hivi hutoa maana ya maneno katika lugha za kinadharia. Matumizi ya kamusi ya lugha ya kawaida kama Webster vilevile inaweza kusaidia katika kufahamu maana ya maneno katika kifungu cha maandiko.
+Kutafuta maana ya maneno kwenye dikishenari inaweza kumsaidia muhubiri kupata ufahamu bora wa maandiko. Agano la Kale kiasili lilikuwa limeandikwa kwa kiebrania na Agano Jipya kiasili lilikuwa limeandikwa kwa kiyunani. Kuna vitabu vya rejea kama vile Concordance na dictionary ya Biblia. Vitabu hivi hutoa maana ya maneno katika lugha za kinadharia. Matumizi ya kamusi ya lugha ya kawaida kama Webster vilevile inaweza kusaidia katika kufahamu maana ya maneno katika kifungu cha maandiko.
 
 ## Kanuni ya kumi: vifaa vywa rejea ni vyombo vyenye nguvu bali matumizi yake lazima yatawaliwe na kanuni za kihabari
 

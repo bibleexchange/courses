@@ -40,7 +40,7 @@
 
 # WALITOKA:27th
 
-# Andika ahadi ya Mungu ilioashiriwa na upinde wa Mvua na msitari wa Agano jipya unaotangaza njia ya Mungu itakayofuata hukumu badala ya gharika.
+# Andika ahadi ya Mungu ilioashiriwa na upinde wa Mvua na msitari wa Agano Jipya unaotangaza njia ya Mungu itakayofuata hukumu badala ya gharika.
 
 Mwanzo 9:14,15
 

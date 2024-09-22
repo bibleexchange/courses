@@ -22,7 +22,7 @@ Yohn 8:58 --- Yesu akawaambia, Amin, amin, nawaambia, Yeye Ibrahimu asijakuwako,
 
 > Yohn 1:18 --- Hakuna mtu aliyemwona Mungu wakati wo wote; Mungu Mwana pekee aliye katika kifua cha Baba, huyu ndiye aliyemfunua.
 
-Kulingana na mukitadha wa andiko hili hakuna mtu aliyemwona Mungu Baba wakati wowote. Hii ingejumuishwa na wakati wa kipindi cha Agano la Kale. Baba alijifunua mwenyewe kwa ubinadamu kwa njia ya Mwana katika Agano zote mbili la Kale na kwa nyakati za Agano jipya. Ingawa katika Agano la Kale Kristo alikuwa hajathihirishwa katika mwili, bado alikuwepo pamoja na Baba na kutokea katika Agano la Kale kwa ubinadamu kama Mungu. Na tangu tumejua kutoka maandiko kwamba hakuna mtu aliwahi kumuona Mungu wakati wowote huu mwonekano wa Mungu ungeweza kuwa tu ni Kristo ambayo ni tangazo la milele la Baba.
+Kulingana na mukitadha wa andiko hili hakuna mtu aliyemwona Mungu Baba wakati wowote. Hii ingejumuishwa na wakati wa kipindi cha Agano la Kale. Baba alijifunua mwenyewe kwa ubinadamu kwa njia ya Mwana katika Agano zote mbili la Kale na kwa nyakati za Agano Jipya. Ingawa katika Agano la Kale Kristo alikuwa hajathihirishwa katika mwili, bado alikuwepo pamoja na Baba na kutokea katika Agano la Kale kwa ubinadamu kama Mungu. Na tangu tumejua kutoka maandiko kwamba hakuna mtu aliwahi kumuona Mungu wakati wowote huu mwonekano wa Mungu ungeweza kuwa tu ni Kristo ambayo ni tangazo la milele la Baba.
 
 ### Kaputeni wa jeshi la BWANA.
 

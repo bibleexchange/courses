@@ -47,7 +47,7 @@ Mwanzo pekee inaelezea asili ya makabila kumi na mbili ya Israel. Mwanzo hufunua
 
 Mwanzo inafunua historia ya kinabii ya ukombozi na mkombozi kama kuja kwa njia ya uzao wa mwanamke (3:15), msitari wa Seth (4:25–26), msitari wa Shem (9:26–27), na kwa njia ya uzao wa Abraham (12:3.) Agano Jipya hutumia Mwanzo12:3 moja kwa moja kwa utoaji wa Mungu wa ukombozi katika Yesu (Wagalatia 3:16,29.)
 
-Watu wengi na matukio kutoka Mwanzo wametajwa katika Agano jipya kwa kuhusianishwa na:
+Watu wengi na matukio kutoka Mwanzo wametajwa katika Agano Jipya kwa kuhusianishwa na:
 
 - Imani na haki (War. 4; Wabr. 11:1-22)
 - Hukumu ya Mungu (Luka 16:26-29,32; II Petro 3:5; Yuda 7, 11a)

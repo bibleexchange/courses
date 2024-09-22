@@ -107,11 +107,11 @@ Siku ya uraia ilikuwa kutoka mawio ya-jua jioni moja hadi jioni inayofuata;kwa m
 
 Wangoja mlango wa USIKU (Majengo ya zamani): Mara ya kwanza mpaka usiku wa manane katikati ni saa 9 usiku, mpaka saa 12 asubuhi
 
-Wangoja mlango wa USIKU (Agano jipya) Jioniya-kwanza-6 hadi 9 pm usiku-wa manane-9 hadi 12 siku ya tatu-12 hadi 3 a.m. siku ya nneasubuhi-3 hadi 6 a.m.
+Wangoja mlango wa USIKU (Agano Jipya) Jioniya-kwanza-6 hadi 9 pm usiku-wa manane-9 hadi 12 siku ya tatu-12 hadi 3 a.m. siku ya nneasubuhi-3 hadi 6 a.m.
 
 MCHANA (Watu wa zamani) Asubuhi huishia saa10 a.m., Adhuhuri kuanzia saa 2 p.m., Alasiri 6 p.m.
 
-MCHANA (Agano jipya) Masaa matatu-6 hadi 9 a.m. Masaa sita-9 hadi 12mchana kati Masaa tisa-12 hadi 3 p.m. Masaa kumi na mbili-3 hadi 6 p.m.
+MCHANA (Agano Jipya) Masaa matatu-6 hadi 9 a.m. Masaa sita-9 hadi 12mchana kati Masaa tisa-12 hadi 3 p.m. Masaa kumi na mbili-3 hadi 6 p.m.
 
 Siku za mwaka wa kinabii ni 360. Dan. 7:25;12:7 3.5Miaka ya kinabii=3D1,260 siku za kawaida; Uf. 12:14
 
@@ -119,5 +119,5 @@ Katika historia ya Wayahudi, mwaka ulikuwa umbo la mwezi mwandamo kabisa, kuwa n
 
 # MAANDISHI YA MWISHO:
 
-- [1] TAZAMA PIA: Albert Barnes' NT Commentary and Robertson's Picha za Neno za Agano jipya
+- [1] TAZAMA PIA: Albert Barnes' NT Commentary and Robertson's Picha za Neno za Agano Jipya
 - [2] TAZAMA: The Student Bible Dictionary, Barbour Publishing

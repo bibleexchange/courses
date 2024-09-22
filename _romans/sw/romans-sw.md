@@ -22,7 +22,7 @@ Hatua ya maendeleo ya mafundisho ya mkristo ambayo herufi inafunua usawa kwa asi
 
 Paulo alijulikana kama mwandishi wa waraka kwa Warumi mapema mnamo 95 BK. Baadhi ya waandishi walitambuliwa katika mamlaka ya msatari wa Paulo kwa Warumi walikuwa ni:
 
-1. Waandishi wa Agano jipya hasahasa Petro (2 Pet. 3:15)
+1. Waandishi wa Agano Jipya hasahasa Petro (2 Pet. 3:15)
 2. Kleenti wa Rumi (95 BK)
 3. Ignatio wa Antiokia (110 BK)
 4. Polikapi, Askofu wa Simirna (Baada 110 BK)
@@ -1181,7 +1181,7 @@ Wengi wa Waisraeli wamekosea lengo. Kristo ni ukamilifu wa sheria, lakini Waisra
 
 Sababu ambayo wayahudi kama taifa walimkataa masiha (Kristo) inaibua swali kwamba "je neno la Mungu lilishindwa?" "Je Mungu alishindwa kutimiza ahadi zake?" ni jinsi gani Paulo anajibu maswali haya? Katika fungu la misitari hii Paulo anaujasiri kwamba kukataa injili kwa Waisraeli sio kitu Mungu anaweza kupandikiza tena!
 
-Mwiisraeli wa kweli ni mteule, sio kwa mbegu ya asili. Tunaona mpango wa Mungu ambao haujafungwa. Sio kila mtu ambaye hajazaliwa katika taifa la Israel ametengwa na Israel ya kiroho. Wana waisraeli ni wale tu wa kimwili, bali wana wa ahadi ni wana wa Mungu. (Yoh. 3:6 "walio zaliwa kwa Roho"). Kanisa la Agano jipya lina rejelewa kama israeli wa Mungu (Gal. 6:16) kwasababu ya imani yao kwa Mungu na mwanae, Yesu kristo na sio kwasababu ya ukoo wao (10:1-4).
+Mwiisraeli wa kweli ni mteule, sio kwa mbegu ya asili. Tunaona mpango wa Mungu ambao haujafungwa. Sio kila mtu ambaye hajazaliwa katika taifa la Israel ametengwa na Israel ya kiroho. Wana waisraeli ni wale tu wa kimwili, bali wana wa ahadi ni wana wa Mungu. (Yoh. 3:6 "walio zaliwa kwa Roho"). Kanisa la Agano Jipya lina rejelewa kama israeli wa Mungu (Gal. 6:16) kwasababu ya imani yao kwa Mungu na mwanae, Yesu kristo na sio kwasababu ya ukoo wao (10:1-4).
 
 ## Uteuzi na nadharia sio kazi yake aliyeita (mst. 11-13)
 

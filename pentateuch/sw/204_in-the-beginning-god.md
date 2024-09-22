@@ -1,12 +1,12 @@
-# Mungu (Kabla ya mwanadamu) 1:1-25
+## Katika Mwanzo Mungu (Kabla ya mwanadamu) 1:1-25
 
-## Mungu ni wa milele. Hapo mwanzo Mungu
+## Mungu ni wa milele
 
 Biblia kamwe haijaribu kuuthibisha uwepo wa Mungu, bali kwa uhalisi inakubali uwepo wake wa milele kama hitimisho lililotangulia. Mungu ni wa milele na aliyetangulia mambo yote na watu wote. (Kumb. 32:40; 33:27; Ayubu 36:26; Zab 9:7; Isa. 57:15; Ufunuo. 1:8)
 
 > Waeb 11:6—kwa maana mtu amwendeaye Mungu lazima aamini kwamba yeye yuko, na kwamba huwapa thawabu wale wamtafutao.
 
-Msingi wa kikristo ni imani. Katika muda wote, hii imani inaweza kuthibitishwa kwa matendo ya kuonekana. Ingawa yamejazwa na vitu vya uangalifu vya kisayansi, kusudi la maandiko matakatifu sio kutoa historia ya dunia au ufafanuzi wa kisayansi wa vitu vyote vya asili. Sura mbili tu za kwanza zimewekwa kwa mhitasari wa uumbaji na kwa kushawishi inaendelea mbele kwenye mazungumzo makuu 4shughuli za Mungu pamoja na mwanadamu na hususani, Waebrania. Vitabu vyote vya Agano jipya vinahusiana vyenyewe kwa vyenyewe na wazo hili.
+Msingi wa kikristo ni imani. Katika muda wote, hii imani inaweza kuthibitishwa kwa matendo ya kuonekana. Ingawa yamejazwa na vitu vya uangalifu vya kisayansi, kusudi la maandiko matakatifu sio kutoa historia ya dunia au ufafanuzi wa kisayansi wa vitu vyote vya asili. Sura mbili tu za kwanza zimewekwa kwa mhitasari wa uumbaji na kwa kushawishi inaendelea mbele kwenye mazungumzo makuu 4shughuli za Mungu pamoja na mwanadamu na hususani, Waebrania. Vitabu vyote vya Agano Jipya vinahusiana vyenyewe kwa vyenyewe na wazo hili.
 
 Vyote viwili uumbaji na mabadiliko vinahitaji imani, ingewezakana kuonekana ulazima pekee kwa ajili ya wazo la mabadiliko ni kutengeneza mahali ambapo mwanadamu ataweza kuwa mtu wa kumtegemea Mungu na kuwa huru kuthibisha madaraka yake ya maisha. Mageuko au mabadiliko ni dini ya mkanamungu. Kuamini katika dini ya mageuko ni kuwa mpinga- Mungu katika kile ambacho ni kinyume kabisa na habari ya maandiko matakatifu, Neno takatifu la Mungu.
 

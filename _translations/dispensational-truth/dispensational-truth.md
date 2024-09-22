@@ -18,7 +18,7 @@ Saba juu ya mpango (Dispensations) wa Historia:
 6. Mpango wa Neema
 7. Mpango wa Haki
 
-_Mpango_ (Dispsensation) ni neno ambalo linaonekana katika nyakati za Biblia mara nne, na pia tunaweza kulipata katika Agano jipya (I Wakoritho 9:17; Waefeso 1:10; 3:2; Wakolosai 1:25).
+_Mpango_ (Dispsensation) ni neno ambalo linaonekana katika nyakati za Biblia mara nne, na pia tunaweza kulipata katika Agano Jipya (I Wakoritho 9:17; Waefeso 1:10; 3:2; Wakolosai 1:25).
 
 Neno hili kwa Kigiriki ni _oikonomia_ linaweza pia kupatikana kutafsiriwa kama:
 

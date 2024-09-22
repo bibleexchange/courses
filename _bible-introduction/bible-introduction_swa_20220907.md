@@ -182,7 +182,7 @@ BIBLIA NI NINI?
 
 - <span class="cs55623DE3">Wokovu kwa njia ya Yesu Kristo ni dhamira kwa Maagano yote mawili.</span>
 - <span class="cs7C9C5CE4"></span>
-- <span class="cs55623DE3">Agano la Kale huangalia mbele kwa imani katika msalaba. Ukombozi kwa damu ya Yesu ulikuwa mpango wa Mungu kwa Agano la Kale na ndio mpango wa Mungu kwa Agano jipya.</span>
+- <span class="cs55623DE3">Agano la Kale huangalia mbele kwa imani katika msalaba. Ukombozi kwa damu ya Yesu ulikuwa mpango wa Mungu kwa Agano la Kale na ndio mpango wa Mungu kwa Agano Jipya.</span>
 
 <span class="cs7C9C5CE4"></span>
 
@@ -612,7 +612,7 @@ BIBLIA NI NINI?
 
 <span class="csB71F7FCF">Yohana Mbatizaji</span><span class="csFE60FFDC">—Aliyemtangulia Kristo. Alibatiza wale waliotubu dhambi zao katika mto Yordani. Mt. 3:5-6 </span>
 
-<span class="csFE60FFDC"> </span><span class="csB71F7FCF">Yesu Kristo</span><span class="csFE60FFDC">—Mwana pekee wa Mungu. Mhusika Mkuu katika Agano Jipya. Agano jipya lote kwa kipekee linaweka katikati kazi za Kristo duniani, lakini Biblia kwa ujumla wake inaonyesha kwamba inamhusu kwa njia moja au nyingine.</span>
+<span class="csFE60FFDC"> </span><span class="csB71F7FCF">Yesu Kristo</span><span class="csFE60FFDC">—Mwana pekee wa Mungu. Mhusika Mkuu katika Agano Jipya. Agano Jipya lote kwa kipekee linaweka katikati kazi za Kristo duniani, lakini Biblia kwa ujumla wake inaonyesha kwamba inamhusu kwa njia moja au nyingine.</span>
 
 <span class="csB71F7FCF">Wafuasi 12</span><span class="csFE60FFDC"> – Waliitwa na kufundishwa na Yesu; Kwamba watakuwa viongozi wa kanisa katika Agano Jipya. 1) Petro, 2)Andrea ndugu yake Petro 3)Yakobo mwanaye Zebedayo 4)Yohana ndugu yake Yakobo 5)Filipo, 6)Bartolomeo 7)Tomaso 8)Matayo aliyekuwa mtumishi 9)Yakobo mwanaye Alfayo 10)Tadei 11)Simoni wa Kanani, na 12)Yuda Iskarioti.</span>
 
@@ -2267,7 +2267,7 @@ Haya ni mafundisho ya uongo ambayo ni hatari kuzungumzia sehemu tu kuwa na pumzi
 
 <span class="cs82C183F4"></span>
 
-- <span class="cs55623DE3">Agano jipya linathibitisha mamlaka ya Agano la Kale.</span>
+- <span class="cs55623DE3">Agano Jipya linathibitisha mamlaka ya Agano la Kale.</span>
 
 <span class="cs82C183F4"></span>
 
@@ -2451,7 +2451,7 @@ Haya ni mafundisho ya uongo ambayo ni hatari kuzungumzia sehemu tu kuwa na pumzi
 
 - <span class="cs55623DE3">Vitabu vya Apokrifa </span>
 - <span class="cs55623DE3"></span>
-- <span class="cs55623DE3">Neno hili Apokraifa hutumiwa kwa vitabu vilivyoko kati ya Agano la Kale na Agano jipya na hujumlishwa kama rejea kwa baadhi ya kanoni. </span>
+- <span class="cs55623DE3">Neno hili Apokraifa hutumiwa kwa vitabu vilivyoko kati ya Agano la Kale na Agano Jipya na hujumlishwa kama rejea kwa baadhi ya kanoni. </span>
 - <span class="cs55623DE3">Vitabu hivi vimepata jina lake kutokana na neno la Kiyunani </span><span class="csC9CE4D27">apokruphos</span><span class="cs55623DE3">, maana yake iliyofichika. Vilipewa jina hili kwa sababu vilifichika na mamlaka yake hayajulikani.</span>
 - <span class="cs55623DE3">Kanisa la Katoliki la Roma linakubali Apokraifa kama sehemu ya kanoni yao ya Maandiko. </span>
 - <span class="cs55623DE3"> Wayahudi wanavitambua kama sehemu muhimu ya historia ya Taifa lao. </span>
@@ -2796,7 +2796,7 @@ Hili ndio muhimu, lenye nguvu na jina kamili la Biblia Takatifu. Biblia ni Neno 
 
 Wokovu kwa njia ya Yesu Kristo ni dhamira kwa Maagano yote mawili.
 
-Agano la Kale huangalia mbele kwa imani katika msalaba. Ukombozi kwa damu ya Yesu ulikuwa mpango wa Mungu kwa Agano la Kale na ndio mpango wa Mungu kwa Agano jipya.
+Agano la Kale huangalia mbele kwa imani katika msalaba. Ukombozi kwa damu ya Yesu ulikuwa mpango wa Mungu kwa Agano la Kale na ndio mpango wa Mungu kwa Agano Jipya.
 
 > Ufunuo 13:8—Na watu wote wakaao juu ya nchi watamsujudu, kila ambaye jina lake halikuandikwa katika kitabu cha uzima cha Mwana—Kondoo, aliyechinjwa tangu kuwekwa misingi ya dunia.
 
@@ -3062,7 +3062,7 @@ Ifuatayo ni orodha ya sehemu muhimu za Biblia na maelezo mafupi kuhusu kilichoto
 ## Wahusika Wakuu katika Agano Jipya
 
 - **Yohana Mbatizaji**—Aliyemtangulia Kristo. Alibatiza wale waliotubu dhambi zao katika mto Yordani (Mt. 3:5-6).
-- **Yesu Kristo**—Mwana pekee wa Mungu. Mhusika Mkuu katika Agano Jipya. Agano jipya lote kwa kipekee linaweka katikati kazi za Kristo duniani, lakini Biblia kwa ujumla wake inaonyesha kwamba inamhusu kwa njia moja au nyingine.
+- **Yesu Kristo**—Mwana pekee wa Mungu. Mhusika Mkuu katika Agano Jipya. Agano Jipya lote kwa kipekee linaweka katikati kazi za Kristo duniani, lakini Biblia kwa ujumla wake inaonyesha kwamba inamhusu kwa njia moja au nyingine.
 - **Wafuasi 12**–Waliitwa na kufundishwa na Yesu; Kwamba watakuwa viongozi wa kanisa katika Agano Jipya. 1) Petro, 2)Andrea ndugu yake Petro 3)Yakobo mwanaye Zebedayo 4) Yohana ndugu yake Yakobo 5) Filipo 6) Bartolomeo 7) Tomaso 8) Matayo aliyekuwa mtumishi 9) Yakobo mwanaye Alfayo 10) Tadei 11) Simoni wa Kanani, na 12) Yuda Iskarioti.
 - **Stefano**—Mmoja wapo wa wale Mashemasi saba wa Kanisa waliochaguliwa kwanza katika Yerusalemu na kutofautishwa kati yao kama "mtu aliyejaa imani na Roho Mtakatifu." Alipigwa mawe hadi kufa chini ya utawala wa Sanhedrin ambao Saulo wa Tarso alikuwa mwanachama wake. Kifo cha Stefano ilikuwa ni mwanzo wa mateso makali kwa juhudi zilizoongozwa na Saulo, ambazo zilisababisha kuenea zaidi kwa Neno la Mungu (Mdo. 8:1, 4; 11:19-21).
 - **Philipo**—Shemasi na Mwinjilisti (Mdo. 6:5; 21:8; Efe. 4:11). Alikuwa na watoto wa kike wanne waliojaliwa kipaji cha unabii (Mdo. 2:17; 21:8-9). Baada ya kifo cha Stefano alihubiri injili toka Samaria na kwa towashi Mhabeshi kwa mafaniko makubwa na kukawepo na miujiza mingi.
@@ -3767,7 +3767,7 @@ Ni jambo la kawaida wakati wa Kristo kwa Agano la Kale kuwa katika mgawanyiko we
 
 Yesu alisoma kutoka kitabu cha Isaya. Lk. 4:17-21. Yesu alizitaja taarifa hizi kama Habari Njema kwa hiyo alithibitisha mamlaka na uvuvio wake. Yesu asingetumia taarifa kutoka vitabu vya Agano la Kale kama visingekuwa na uvuvio.
 
-### Agano jipya linathibitisha mamlaka ya Agano la Kale.
+### Agano Jipya linathibitisha mamlaka ya Agano la Kale.
 
 Agano la Kale limetajwa mara 263 katika Agano Jipya. Matumizi ya maandiko haya katika Agano Jipya ni uthibitisho kwamba yalichukuliwa kama yenye Mamlaka katika Neno la Mungu. Paulo ametaja za taarifa za Agano Jipya kama Maandiko (Rum. 10:11; 11:2; Gal. 3:8).
 
@@ -3898,7 +3898,7 @@ Swali lingine ni kwamba Yuda aliandika taarifa ambazo hazijatajwa mahali pengine
 
 ### Vitabu vya Apokrifa
 
-Neno hili Apokraifa hutumiwa kwa vitabu vilivyoko kati ya Agano la Kale na Agano jipya na hujumlishwa kama rejea kwa baadhi ya kanoni. Vitabu hivi vimepata jina lake kutokana na neno la Kiyunani apokruphos, maana yake iliyofichika. Vilipewa jina hili kwa sababu vilifichika na mamlaka yake hayajulikani. Kanisa la Katoliki la Roma linakubali Apokraifa kama sehemu ya kanoni yao ya Maandiko. Wayahudi wanavitambua kama sehemu muhimu ya historia ya Taifa lao. Vitabu hivi havikufikia kiwango cha msingi wa majaribio ya kuwekwa kanoni. Havikutambuliwa kama vitabu vyenye uvuvio na Wayahudi. Vilipewa sehemu yake vyenyewe katika kitabu hicho kitakatifu vikiwa na maelezo ya kutosha kwamba havihesabiwi kama vyenye mamlaka yaliyosawa na vitabu vyenye kanoni. Baadhi ya viongozi wa kanisa walitumia neno hili kwa vitabu ambavyo havina kanoni.
+Neno hili Apokraifa hutumiwa kwa vitabu vilivyoko kati ya Agano la Kale na Agano Jipya na hujumlishwa kama rejea kwa baadhi ya kanoni. Vitabu hivi vimepata jina lake kutokana na neno la Kiyunani apokruphos, maana yake iliyofichika. Vilipewa jina hili kwa sababu vilifichika na mamlaka yake hayajulikani. Kanisa la Katoliki la Roma linakubali Apokraifa kama sehemu ya kanoni yao ya Maandiko. Wayahudi wanavitambua kama sehemu muhimu ya historia ya Taifa lao. Vitabu hivi havikufikia kiwango cha msingi wa majaribio ya kuwekwa kanoni. Havikutambuliwa kama vitabu vyenye uvuvio na Wayahudi. Vilipewa sehemu yake vyenyewe katika kitabu hicho kitakatifu vikiwa na maelezo ya kutosha kwamba havihesabiwi kama vyenye mamlaka yaliyosawa na vitabu vyenye kanoni. Baadhi ya viongozi wa kanisa walitumia neno hili kwa vitabu ambavyo havina kanoni.
 
 ### Maandiko yenye maana ndogo
 
@@ -4100,8 +4100,8 @@ KUFAULU MAFUNZO &nbsp;HAYA
 <li><span class='english' id='t9#' >Latin</span><span class='swahili' id='t9#' >Kilatini</span></li>
 <li><span class='english' id='t10#' >Hebrew</span><span class='swahili' id='t10#' >Kiebrania</span></li></ol>
 <h3><span class='english' id='t11#' >Hebrew</span><span class='swahili' id='t11#' >Kiebrania</span></h3>
-<h2><span class='english' id='t12#' >The Bible has ________ books: ________ in the Old Testament and ________ in the New Testament.</span><span class='swahili' id='t12#' >Biblia inayo ________ vitabu: ________katika Agano kale na ________ katika Agano jipya.</span></h2>
-<h3><span class='english' id='t13#' >The Bible has <strong>66</strong> books: <strong>39</strong> in the Old Testament and <strong>27</strong> in the New Testament.</span><span class='swahili' id='t13#' >Biblia inayo <strong>vya vitabu</strong> 66: <strong>39</strong> katika Agano la Kale na <strong>27</strong> katika Agano jipya.</span></h3>
+<h2><span class='english' id='t12#' >The Bible has ________ books: ________ in the Old Testament and ________ in the New Testament.</span><span class='swahili' id='t12#' >Biblia inayo ________ vitabu: ________katika Agano kale na ________ katika Agano Jipya.</span></h2>
+<h3><span class='english' id='t13#' >The Bible has <strong>66</strong> books: <strong>39</strong> in the Old Testament and <strong>27</strong> in the New Testament.</span><span class='swahili' id='t13#' >Biblia inayo <strong>vya vitabu</strong> 66: <strong>39</strong> katika Agano la Kale na <strong>27</strong> katika Agano Jipya.</span></h3>
 <h2><span class='english' id='t14#' >What does the Greek word <em>Biblios</em> mean?</span><span class='swahili' id='t14#' >Neno la Kigiriki <em>Biblios</em> humaanisha nini?</span></h2><ol>
 <li><span class='english' id='t15#' >Testament</span><span class='swahili' id='t15#' > Agano</span></li>
 <li><span class='english' id='t16#' >Books</span><span class='swahili' id='t16#' >Vitabu</span></li>
@@ -4204,7 +4204,7 @@ KUFAULU MAFUNZO &nbsp;HAYA
 	<span class='english' id='t109#' >The division of Scripture into chapters was first done by Cardinal Hugh of Saint Cher in 1244 AD.</span>
 	<span class='swahili' id='t109#' >Mgawanyiko katika sura ulifanywa kwa mara ya kwanza na Kadinali Hugh wa Mtakatifu Cher mwaka 1244 BK.</span>
 </h3>
-<h2><span class='english' id='t110#' >What were the first New Testament books to be assembled together?</span><span class='swahili' id='t110#' >Ni vitabu gani vya Agano jipya vilithibitishwa kwa mara ya kwanza?</span></h2>
+<h2><span class='english' id='t110#' >What were the first New Testament books to be assembled together?</span><span class='swahili' id='t110#' >Ni vitabu gani vya Agano Jipya vilithibitishwa kwa mara ya kwanza?</span></h2>
 <ol><li><span class='english' id='t111#' >The General Epistles</span><span class='swahili' id='t111#' >Nyaraka mbalimbali</span></li>
 <li><span class='english' id='t112#' >The Gospels</span><span class='swahili' id='t112#' >Injili</span></li>
 <li><span class='english' id='t113#' >The Epistles of Paul</span><span class='swahili' id='t113#' >Nyaraka za Paulo</span></li>

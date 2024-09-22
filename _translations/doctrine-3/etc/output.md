@@ -199,7 +199,7 @@ Inahusisha utambuzi binafsi wa Mungu na msamaha wa kimungu.
 
 ### Theolojia ya ufafanuzi wa maandiko matakatifu
 
-Somo la lugha za asili za Biblia kuelezea maana ya kweli ya maandiko matakatifu ya-kiebrania&#44; Kiaramu cha Agano la Kale na Kigriki cha Agano jipya.
+Somo la lugha za asili za Biblia kuelezea maana ya kweli ya maandiko matakatifu ya-kiebrania&#44; Kiaramu cha Agano la Kale na Kigriki cha Agano Jipya.
 
 ### Theolojia ya kihisitoria
 
@@ -1039,7 +1039,7 @@ Yohn 8:58&mdash;Yesu akawaambia&#44; Amin&#44; amin&#44; nawaambia&#44; Yeye Ibr
 
 > Yohn 1:18&mdash;Hakuna mtu aliyemwona Mungu wakati wo wote; Mungu Mwana pekee aliye katika kifua cha Baba&#44; huyu ndiye aliyemfunua.
 
-Kulingana na mukitadha wa andiko hili hakuna mtu aliyemwona Mungu Baba wakati wowote.hii ingejumuishwa na wakati wa kipindi cha Agano la Kale.Baba alijifunua mwenyewe kwa ubinadamu kwa njia ya Mwana katika Agano zote mbili la Kale na kwa nyakati za Agano jipya. Ingawa katika Agano la Kale Kristo alikuwa hajathihirishwa katika mwili&#44;bado alikuwepo pamoja na Baba na kutokea katika Agano la Kale kwa ubinadamu kama Mungu. Na tangu tumejua kutoka maandiko kwamba hakuna mtu aliwahi kumuona Mungu wakati wowote huu mwonekano wa Mungu ungeweza kuwa tu ni Kristo ambayo ni tangazo la milele la Baba.
+Kulingana na mukitadha wa andiko hili hakuna mtu aliyemwona Mungu Baba wakati wowote.hii ingejumuishwa na wakati wa kipindi cha Agano la Kale.Baba alijifunua mwenyewe kwa ubinadamu kwa njia ya Mwana katika Agano zote mbili la Kale na kwa nyakati za Agano Jipya. Ingawa katika Agano la Kale Kristo alikuwa hajathihirishwa katika mwili&#44;bado alikuwepo pamoja na Baba na kutokea katika Agano la Kale kwa ubinadamu kama Mungu. Na tangu tumejua kutoka maandiko kwamba hakuna mtu aliwahi kumuona Mungu wakati wowote huu mwonekano wa Mungu ungeweza kuwa tu ni Kristo ambayo ni tangazo la milele la Baba.
 
 ### Kaputeni wa jeshi la BWANA.
 
@@ -1422,7 +1422,7 @@ Inahusisha utambuzi binafsi wa Mungu na msamaha wa kimungu.
 
 ### Theolojia ya ufafanuzi wa maandiko matakatifu
 
-Somo la lugha za asili za Biblia kuelezea maana ya kweli ya maandiko matakatifu ya-kiebrania&#44; Kiaramu cha Agano la Kale na Kigriki cha Agano jipya.
+Somo la lugha za asili za Biblia kuelezea maana ya kweli ya maandiko matakatifu ya-kiebrania&#44; Kiaramu cha Agano la Kale na Kigriki cha Agano Jipya.
 
 ### Theolojia ya kihisitoria
 
@@ -2262,7 +2262,7 @@ Yohn 8:58&mdash;Yesu akawaambia&#44; Amin&#44; amin&#44; nawaambia&#44; Yeye Ibr
 
 > Yohn 1:18&mdash;Hakuna mtu aliyemwona Mungu wakati wo wote; Mungu Mwana pekee aliye katika kifua cha Baba&#44; huyu ndiye aliyemfunua.
 
-Kulingana na mukitadha wa andiko hili hakuna mtu aliyemwona Mungu Baba wakati wowote.hii ingejumuishwa na wakati wa kipindi cha Agano la Kale.Baba alijifunua mwenyewe kwa ubinadamu kwa njia ya Mwana katika Agano zote mbili la Kale na kwa nyakati za Agano jipya. Ingawa katika Agano la Kale Kristo alikuwa hajathihirishwa katika mwili&#44;bado alikuwepo pamoja na Baba na kutokea katika Agano la Kale kwa ubinadamu kama Mungu. Na tangu tumejua kutoka maandiko kwamba hakuna mtu aliwahi kumuona Mungu wakati wowote huu mwonekano wa Mungu ungeweza kuwa tu ni Kristo ambayo ni tangazo la milele la Baba.
+Kulingana na mukitadha wa andiko hili hakuna mtu aliyemwona Mungu Baba wakati wowote.hii ingejumuishwa na wakati wa kipindi cha Agano la Kale.Baba alijifunua mwenyewe kwa ubinadamu kwa njia ya Mwana katika Agano zote mbili la Kale na kwa nyakati za Agano Jipya. Ingawa katika Agano la Kale Kristo alikuwa hajathihirishwa katika mwili&#44;bado alikuwepo pamoja na Baba na kutokea katika Agano la Kale kwa ubinadamu kama Mungu. Na tangu tumejua kutoka maandiko kwamba hakuna mtu aliwahi kumuona Mungu wakati wowote huu mwonekano wa Mungu ungeweza kuwa tu ni Kristo ambayo ni tangazo la milele la Baba.
 
 ### Kaputeni wa jeshi la BWANA.
 

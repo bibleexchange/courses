@@ -110,7 +110,7 @@ Inahusisha utambuzi binafsi wa Mungu na msamaha wa kimungu.
 
 ### Theolojia ya ufafanuzi wa maandiko matakatifu
 
-Somo la lugha za asili za Biblia kuelezea maana ya kweli ya maandiko matakatifu ya-kiebrania, Kiaramu cha Agano la Kale na Kigriki cha Agano jipya.
+Somo la lugha za asili za Biblia kuelezea maana ya kweli ya maandiko matakatifu ya-kiebrania, Kiaramu cha Agano la Kale na Kigriki cha Agano Jipya.
 
 ### Theolojia ya kihisitoria
 

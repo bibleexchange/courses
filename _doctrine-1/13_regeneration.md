@@ -24,7 +24,6 @@
 
 <p>Rom. 6:4,5; Col. 2:13; 3:1; Eph. 2:5,6 </p>
 
-
 <h3>The Need for Regeneration </h3>
 
 <p>John 3:7&#8212;Marvel not that I said unto thee, Ye must be born again.</p>
@@ -104,7 +103,7 @@
 
 <h3>Asili (Maumbile) ya tendo la kuzaliwa upya kwa kiroho</h3>
 
-<p>Kuzaliwa upya kwa kiroho ni tendo la kimungu ambayo imetolea kwa mwaminifu mwenye kutubia maisha mpya na ya hali ya juu katika kuunga kwa mwenyewe na kristo. Agano jipya imefasiria kizliwa upya kwa kiroho kama&#160;:</p>
+<p>Kuzaliwa upya kwa kiroho ni tendo la kimungu ambayo imetolea kwa mwaminifu mwenye kutubia maisha mpya na ya hali ya juu katika kuunga kwa mwenyewe na kristo. Agano Jipya imefasiria kizliwa upya kwa kiroho kama&#160;:</p>
 
 <h4>Tendo la kuzaliwa</h4>
 <p>Tenddo la kuzaliwa upya kwa kiroho (siyo ubatizo &#8211; kuhudhuna kanisa &#8211; mabadiliko). Mungu Baba ni yule ambae &#8220;alizaa&#8221; na mwaminifu ni mwenye &#8220;kuzaliwa&#8221; kwa Mungu (Iyohana 5:1), &#8220;Kuzaliwa kwa roho&#8221; (Yohana 3:8) na &#8220;kuzliwa kutoka juu&#8221; (mafasirion kamlifu ya Yohana 3:7).</p>

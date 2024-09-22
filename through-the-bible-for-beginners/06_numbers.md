@@ -160,7 +160,7 @@ To the spiritual mind&#44; a study of the O.T. law is quickening and provocative
 <p><span lang='en'>C.Make thee two trumpets of silver of a whole piece shalt thou make them 1. Becoming responsible to the Word </span><span lang='swa'>Jifanyie tarumbeta mbili za fedha za picha nzima ya kitabu utazifanya kuwa moja 1. Kufanyika kuitikia Neno </span></p>
 <p><span lang='en'>a.&quot;Make thee two trumpets of a whole piece&quot; </span><span lang='swa'>Jifanyie tarumbeta mbili za kitabu kizima cha picha" </span></p>
 <p><span lang='en'>1)The Old Covenant </span><span lang='swa'>Agano la Kale </span></p>
-<p><span lang='en'>2)The New Covenant </span><span lang='swa'>Agano jipya </span></p>
+<p><span lang='en'>2)The New Covenant </span><span lang='swa'>Agano Jipya </span></p>
 <p><span lang='en'>Mat. 28:19;Romans 1:17; 10:8&#44; 15&#44;17; I Cor. 2:9-10 </span><span lang='swa'>Mat. 28:19;War 1:17; 10:8&#44; 15&#44;17; I Wakr. 2:9-10 </span></p>
 <p><span lang='en'>1 Tim. 4:16--Take heed unto thyself&#44; and unto the doctrine; continue in them: for in doing this thou shalt both save thyself&#44; and them that hear thee. </span><span lang='swa'>1 Tim. 4:16&mdash; Jitunze nafsi yako&#44; na mafundisho yako. Dumu katika mambo hayo; maana kwa kufanya hivyo utajiokoa nafsi yako na wale wakusikiao pia. </span></p>
 <p><span lang='en'>Titus 2:1--But speak thou the things which become sound doctrine: </span><span lang='swa'>Tit 2:1&mdash;Lakini wewe nena mambo yapasayo mafundisho yenye uzima; </span></p>

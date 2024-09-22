@@ -182,7 +182,7 @@ Jifanyie tarumbeta mbili za kitabu kizima cha picha"
 
 Agano la Kale
 
-Agano jipya
+Agano Jipya
 
 Mat. 28:19;War 1:17; 10:8, 15,17; I Wakr. 2:9-10
 

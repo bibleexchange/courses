@@ -112,7 +112,7 @@ Ilikuwa kwasababu ya uchaguzi wa Farao mwenyewe kwamba vile vitu vilivyo leta sh
 
 Hitimisho la mapigo kwenye usiku wa manane:wa tar 14 April
 
-Ukombozi wa Waisraeli toka Misri ni tokeo muhimu sana katika Agano la Kale (kukataa kwao kuhusu Yesu katika Agano jipya kunge fikiriwa kwa umuhimu zaidi). Usiku kabla ya Waisraeli kutoka ulikuwa usiku wa sherehe ya tamko la dhati ambalo lingekumbukwa milele (12:24). Hata kwenye siku hii usiku wa Pasaka unaadhimishwa kila mwaka kwa sababu Pasaka ilichukua nafasi mnamo tar 14 April
+Ukombozi wa Waisraeli toka Misri ni tokeo muhimu sana katika Agano la Kale (kukataa kwao kuhusu Yesu katika Agano Jipya kunge fikiriwa kwa umuhimu zaidi). Usiku kabla ya Waisraeli kutoka ulikuwa usiku wa sherehe ya tamko la dhati ambalo lingekumbukwa milele (12:24). Hata kwenye siku hii usiku wa Pasaka unaadhimishwa kila mwaka kwa sababu Pasaka ilichukua nafasi mnamo tar 14 April
 
 Pasaka ilikuwa nini na nini umuhimu wake kiroho?
 

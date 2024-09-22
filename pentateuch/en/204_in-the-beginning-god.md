@@ -1,6 +1,6 @@
-# In the Beginning God (Before Man) 1:1-25
+## In the Beginning God (Before Man) 1:1-25
 
-## God is eternally existent. In the beginning God…
+## God is eternally existent
 
 The Bible never attempts to prove the existence of God, but merely acceptsHis eternal existence as a foregone conclusion. God is eternally existent and preceded all matter and persons. (Deut. 32:40; 33:27; Job 36:26; Psalm 9:7;Isa. 57:15; Rev. 1:8)
 
