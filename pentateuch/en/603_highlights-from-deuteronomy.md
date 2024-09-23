@@ -28,7 +28,7 @@ Remember Especially Deut. 4:10; Ex 19:9,16; 20:18; Heb 12:18-19
 
 But the LORD hath taken you, and brought you forth out of the iron furnace, even out of Egypt, to be unto him a people of inheritance, as ye are this day.
 
-#NAME?
+# NAME?
 
 1:8,21,39; 2:24,31; 3:18,20; 4:1,5,14,22,26;5:31,33; 6:1,18; 7:1; 8:1; 9:1,4,5,6,23; 10:11;11:8,10,11,23,29,31; 12:1,2,29;15:4;17:14; 18:14;19:2,14; 21:1; 23:20; 25:19; 28:21,42,63; 30:5,16,18;31:3,13; 32:47; 33:23
 
