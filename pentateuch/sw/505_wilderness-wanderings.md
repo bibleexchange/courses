@@ -8,7 +8,7 @@ Mengi ya yale yaliyorekodiwa katikaHesabu ni kihafadhi kwa ajili yetu sio kwa ji
 
 (Hes 14:22 "mara kumi" muundo wa maandishi unaolezea mara nyingi zaidi na zaidi)
 
-## ng'ombe mke mwekundu asiye na kipaku (Sura ya 19)
+### ng'ombe mke mwekundu asiye na kipaku (Sura ya 19)
 
 > Hes 19:2-Hii ndiyo amri ya sheria Bwana aliyoagiza, akisema, Waambie wana wa Israeli wakuletee ng'ombe mke mwekundu asiye na kipaku, mkamilifu, ambaye hajatiwa nira bado;
 
@@ -18,7 +18,7 @@ Hii ni Sura pekee kuhusu kujiandaa na kutumika kwa watumishi ambao walikuwa wame
 
 Jibu katika malalamiko haya, wako hapa kwa kuelekezwa kujitakasa wao wenyewe, kwa hiyo basi wakaribia kwa mbali walikuwa na furusa isio kuwa woga.
 
-### Njia ya kuandaa majivu haya (Hes. 19:1-10)
+#### Njia ya kuandaa majivu haya (Hes. 19:1-10)
 
 #### Zilibuniwa kutakasa watu kutoka kwenye uchafu uliogusana na maiti (Hes 19:11-16)
 
