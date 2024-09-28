@@ -8,7 +8,7 @@ Uamsho mkubwa unahusishwa nakuanzishwa upya jitihada za kuieneza injili Uingerez
 
 ### Georgi Whitefield (1714–1770)
 
-Bwana Whitefield ambaye alikuwa mhubiri shupavu wa injili iliyokuwa katika lugha rahisi tangu akiwa naumri wa miaka 24, alipingwa marufuku kuhubiri katika kanisa la Anglikana. Aliamua kufundisha mitaani na kufanya viwanja vya wazi kuwa mahali pake pa salana akahubiria maelfu ya watu. Huu ulikuwa mwanzo wa uamsho katika maeneo ya Magharibi ya Uingereza. Alihubiri Uingereza na Marekani.
+Bwana Whitefield ambaye alikuwa mhubiri shupavu wa injili iliyokuwa katika lugha rahisi tangu akiwa naumri wa miaka 24, alipingwa marufuku kuhubiri katika kanisa la Anglikana. Aliamua kufundisha mitaani na kufanya viwanja vya wazi kuwa mahali pake pa salama akahubiria maelfu ya watu. Huu ulikuwa mwanzo wa uamsho katika maeneo ya Magharibi ya Uingereza. Alihubiri Uingereza na Marekani.
 
 ### Yohane Wesley (1703–1791)
 

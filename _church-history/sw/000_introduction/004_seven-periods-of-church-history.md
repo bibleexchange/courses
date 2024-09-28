@@ -36,7 +36,7 @@ MWANZO: Tangu anguko la Konstantinipo (1453 BK)
 
 MWISHO: Hadi mwisho wa vita vya miaka 30 (1678 BK)
 
-Huu ni wakati ambao Mungu aliwatumia watu kama Martin Luther kusimamia nakupigana na wimbi la ukatoliki na walihubiri kwamba wenye haki wataishi kwa imani yao. Mungu aliamsha wanaume katika eneo lote la Ulaya ili walirudishe Neno la Mungu kanisani.
+Huu ni wakati ambao Mungu aliwatumia watu kama Martin Luther kusimamia na kupigana na wimbi la ukatoliki na walihubiri kwamba wenye haki wataishi kwa imani yao. Mungu aliamsha wanaume katika eneo lote la Ulaya ili walirudishe Neno la Mungu kanisani.
 
 ### Kanisa la Kisasa
 
@@ -50,6 +50,6 @@ Hiki ni kipindi cha uamsho wa hali ya juu na umisionari ulienea sehemu nyingi. H
 
 MWANZO: Kwanzia karne ya ishirini (Miaka ya 1950 BK)
 
-MWISHO: Hadi siku yaleo
+MWISHO: Hadi siku ya leo
 
 Tutasoma kila kipindi katika vipindi hivi 7 peke yake. Sura hii ilikuwa ni muhtasari tu wamafunzo yatakayo fundishwa.
