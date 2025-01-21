@@ -16,8 +16,21 @@ Read verse 15. The Sabeans took Job’s cattle. If you did not know the story of
 
 ### Is God the author of evil?
 
-Read Isaiah 45:7. The next question is not so easy. Is God the author of evil? We know that He created calamity for the day of calamity and that He could stop any act at any moment, but He allows trouble and suffering to continue. We know that He knows the end from the beginning. Nothing surprises Him. If He knows what is going to happen and can stop it but does not, we can reason that He ordained it. But we need to make a distinction here. The evil present in Satan and the Sabeans is that they bad intentions directed towards someone else. The will to allow trouble to happen to Job is with God, but it is not born out of ill will toward Job. Our mistake is that we see them as the same thing. God allowing trouble is not the same as Satan’s intent to hurt someone with that same trouble. So who is responsible? God, Satan, and the Sabeans are responsible, but all for different reasons. Do not allow your mind to reduce God’s character in order to solve this problem. For example,Joseph's brothers meant what they did for evil, but God meant it for good.
+Read Isaiah 45:7. The next question is not so easy. Is God the author of evil? We know that He created calamity for the day of calamity and that He could stop any act at any moment, but He allows trouble and suffering to continue. We know that He knows the end from the beginning. Nothing surprises Him. If He knows what is going to happen and can stop it but does not, we can reason that He ordained it. But we need to make a distinction here. The evil present in Satan and the Sabeans is that they bad intentions directed towards someone else. The will to allow trouble to happen to Job is with God, but it is not born out of ill will toward Job. Our mistake is that we see them as the same thing. God allowing trouble is not the same as Satan’s intent to hurt someone with that same trouble. So who is responsible? God, Satan, and the Sabeans are responsible, but all for different reasons. Do not allow your mind to reduce God’s character in order to solve this problem. For example, Joseph's brothers meant what they did for evil, but God meant it for good.
+
+Even though other people acted in the suffering of Job, the book makes it clear that the suffering of Job came from the hand of God:
+
+1. Satan said God must must stretch out his hand to strike Job (1:11, 2:5)
+2. God says that He was the one who ruined Job (2:3)
+3. Job says it was God who afflicted him (16:9, 19:21)
+4. The narrator says that is was God that brought the troubles (42:11)[1]
 
 ### Job's Response (1:20&ndash;22)
 
 As the chapter comes to a close we see Job strong in his will to continue to serve and honor God. Verse 21 is one of his great statements of strength and dedication. Job coins some memorable phrases for us to look to in times of trouble and use in times of exhortation. Finally, notice the succinct way the chapter closes, almost as if the book is ending and Job has escaped with his life and integrity, like a storm that a ship seems to have outrun, surely this is enough for one man to endure.
+
+---
+
+* [1] Walton, J. H., & Vizcaino, K. L. (2012). The NIV Application Commentary: Job (T. Muck, T. Longman III, R. Hubbard, J. H. Walton, A. Dearman, S. N. Gundry, K. Covrett, & V. Verbrugge, Eds.; p. 109). Zondervan.
+
+
