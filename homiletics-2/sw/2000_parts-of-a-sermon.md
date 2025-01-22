@@ -1,4 +1,4 @@
-# Sehemu za Mahubiri
+# Sehemu za Hotuba
 
 Somo linapaswa kuandaliwa kwa kuzingaitia umbile, maelezo kwa mpango wa wazo. Ni lazima ufahamu unakoelekea na uongoze kwa njia ambayo wasikilizaji wako wataweza kufuata!
 

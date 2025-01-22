@@ -27,9 +27,15 @@ It is said that Job spoke true things about God, while the friends did not (42:7
 1. Job repented for some of the things he said (40:3&ndash;5; 42:1&ndash;6)
 2. Job spoke directly to God, but the friends spoke to each other about God. This is the difference between lament and murmuring.
 
-After all these things, Job ended up having twice as much as he had before the trial.
+After all these things, Job ended up having twice as much as he had before the trial. Even though God restored the physical things to Job, more importantly, Job grew in spiritual ways:
+
+1. Job became a stronger person because of the trial (42:5).
+2. Job faced his fears. His fear was that God would take away all of his possessions (3:25; 31:23). Even though Job's fear came true in his life, it did not destroy him.
 
 ### Final point
 
-When we struggle in life we wrestle with all the questions that come out in this book. When we read the Bible we often do the same. We can trace it all back to that one tree in the garden that was not like any other tree. If God knew what Adam and Eve would do, why did He put the tree there in the first place? Firstly, it was the opportunity to serve Him in a special way. More importantly, the world was created so that God could redeem from it a bride for His Son. For that bride to be perfect, she must be redeemed. In order to be redeemed, she must first fall. The purposes of God are too big for us to understand, let us rejoice that we have been given a part, and never forget that his own Son suffered according to this mater plan. "Not my will but thine be done."
+When we struggle in life we wrestle with all the questions that come out in this book. The book of Job does not teach us **why** there is suffering in the world, but though it, we can learn **what** to do when we face suffering:
+
+1. Bless God, even when we lose things.
+2. Bring your problems directly to God.
 

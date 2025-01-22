@@ -49,11 +49,9 @@ There is no way to cover the conversations chapter by chapter without losing int
 
 #### Eliphaz
 
-We can cay that Eliphaz is like a **mystic**. He gives the most weight to his lived experiences: if he has seen something to be true in his life, then it is the truth for everyone else, too.
+We can cay that Eliphaz is like a **mystic**. He gives the most weight to his lived experiences: if he has seen something to be true in his life, then it is the truth for everyone else, too (4:8; 5:3; 15:17–19). An important experience in his life that shaped his thinking was a dream that he had (4:12–16).
 
-He talks about his dreams.
-
-He believes that the righteous can suffer for a short time, but it will not be permanent.
+He believes that the righteous can suffer for a short time, but it will not be permanent (4:5–7).
 
 By the end of the debate, he no longer believes that Job is innocent (22:5&ndash;9).
 
@@ -65,7 +63,7 @@ The speeches of Eliphaz are:
 
 #### Bildad
 
-We can say that Bildad is a **traditionalist**. He relies on the wisdom of the ages.
+We can say that Bildad is a **traditionalist**. He relies on the wisdom of the ages (8:8–10).
 
 Bildad uses the death of Job's children as proof of retribution (8:4).
 
@@ -77,7 +75,7 @@ The speeches of Bildad are:
 
 #### Zophar
 
-We can say that Zophar is a **rationalist**. Everything is black and white to him.
+We can say that Zophar is a **rationalist**. Everything is black and white to him. "He reasons deductively from a set of cherished propositions, and he fills his speech with many motifs drawn from the legal, wisdom, and hymnic traditions."<sup>[2]</sup>
 
 He thinks Job is suffering because he is a secret sinner (11:5&ndash;6).
 
@@ -94,13 +92,11 @@ Elihu only speaks one time, but he speaks for a long time. He speaks from chapte
 
 ### The big question: "Why?"
 
-The question, "Why?" is not stated plainly in any of the discussion. Job does not have the luxury of knowing that this is a competition of sorts between higher powers. He and his friends never ask the question directly, but every one of their speeches contains an effort to answer the question, "why is this happening to Job?"
+The question, "Why?" is not stated plainly in any of the discussion. He and his friends never ask the question directly, but every one of their speeches contains an effort to answer the question, "why is this happening to Job?"
 
-Their reasoning is centered on an idea that seems agreed upon by all parties: "God blesses righteousness and punishes sin." This assumption leads his friends to the conclusion that Job has sinned. Because of this, Job is drawn into a debate where he defends his own righteousness. This prompts his friends to say that Job is elevating himself above God and they go on and on about the righteousness of God. Job agrees, but he realizes that they are only trying to defend their first position, and therefore he again defends his position.
+Their reasoning is centered on an idea that seems agreed upon by all parties: "God blesses righteousness and punishes sin." It can also be phrased as, "Good things happen to good people, and bad things happen to bad people." This is called _retribution_. We all know this to be true on the surface and the Bible supports it, but there is not a one-to-one correlation. Jesus heals the lame man and says, "go and sin no more lest a worst thing come upon you" (John 5:14), and then in another case he is asked who sinned that this man was made blind and he answers, "no man but that the glory of God may be manifest" (John 9:3).
 
-If there is any fault in Job, it is that he is self-righteous, however do not forget that he was drawn into this position by a false assumption, three critical friends, and the worst tragedy recorded in the Bible.
-
-The original assumption was, "God blesses righteousness and punishes sin." This is called _retribution_. We all know this to be true on the surface and the Bible supports it, but there is not a one-to-one correlation. Jesus heals the lame man and says, "go and sin no more lest a worst thing come upon you" (John 5:14), and then in another case he is asked who sinned that this man was made blind and he answers, "no man but that the glory of God may be manifest" (John 9:3).
+Because they believed in retribution, Job's friends drew the conclusion that Job has sinned. Because of this, Job is drawn into a debate where he defends his own righteousness. He believed that God was wrongly punishing him for sins that he did not do (7:17–21; 9:16–18; 10:1–3; 13:23–25; 19:6–7; 31:35–37). This prompts his friends to say that Job is elevating himself above God.
 
 What Job and his friends are not allowing for is that there is another level, which only God Himself can see and in that place man may suffer without doing wrong. So in an attempt to answer why, and armed with an incomplete doctrine of the goodness of God, Job becomes more and more frustrated and confused as the discussion goes on. This condition leads us to our next point.
 
@@ -116,4 +112,5 @@ Though he made mistakes and was drawn into boasting and became bold enough to as
 
 <small>
 * [1] Walton, J. H., & Vizcaino, K. L. (2012). The NIV Application Commentary: Job (T. Muck, T. Longman III, R. Hubbard, J. H. Walton, A. Dearman, S. N. Gundry, K. Covrett, & V. Verbrugge, Eds.; p. 49). Zondervan.
+* [2] Hartley, J. E. (1988). The Book of Job (p. 193). Wm. B. Eerdmans Publishing Co.
 </small>

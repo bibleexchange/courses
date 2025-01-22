@@ -6,6 +6,8 @@ Hakuna muda uliopotezwa hapa. Tabia ya Ayubu imeelezewa, kiini chake kilipimwa, 
 
 Hakuna shaka kwamba Ayubu ni mtu mwadilifu na asiye na hatia. Imesemwa na Ayubu (6:30; 9:15), msimulizi (1:1; 22), na Mungu (1:8; 2:3; 42:7&ndash;8).
 
+Ayubu hakujali tu haki yake mwenyewe, bali pia haki ya familia yake. Alitoa sadaka kwa niaba ya watoto wake (1:4–5). Akiwa mwanamume mkubwa zaidi wa familia, angekuwa kuhani wa familia hiyo.
+
 ### Shetani (1:6&ndash;12)
 
 Neno _Shetani_ kwa kweli ni cheo na si jina. Ina maana "adui." Katika Agano la Kale alitajwa mara chache. Cha kushangaza zaidi ni kwamba ametokea kabla ya Mungu pamoja na malaika. Siyo mpaka mwisho wa Ufunuo kwamba alitupwa nje ya uwepo wa Mungu kwa mazuri. Ni kwa jinsi gani angekuwa tena mhukumu wa ndugu zake isipokuwa ana watazamaji na Mungu (Ufu. 12:7&ndash;12). Uwepo wake unatukumbusha kuwa adui wa agano la kale viongozi na Israeli siku zote ilikuwa nguvu ya asili kama vile ukame, njaa, au nchi yenye uadui. Hapa tuna mawaidha kuwa vita ya kweli ni kwaajili yam bio za wanadamu na roho zao. Kama Wakristo, tunadhani hii siku zote imeeleweka kwasababu Yesu alimfunua Shetani katika njia kwamba siku zote tunafahamuu kuhusu vita hii, lakini uhaba wa nakala kuhusu Shetani inatakiwa itukumbushe sisi kuwa ujumbe huu unamruhusu msomaji katika muda huo. Ni mtazamo muhimu wa vitu ambavyo bado havijaeleweka.
@@ -23,7 +25,7 @@ Ingawa watu wengine walitenda katika mateso ya Ayubu, kitabu kinaweka wazi kwamb
 1. Shetani alisema lazima Mungu anyooshe mkono wake ili kumpiga Ayubu (1:11, 2:5)
 2. Mungu anasema kwamba Yeye ndiye aliyemharibu Ayubu (2:3)
 3. Ayubu anasema ni Mungu ndiye aliyemtesa (16:9, 19:21)
-4. Msimulizi anasema huyo ndiye Mungu aliyeleta shida (42:11)[1]
+4. Msimulizi anasema huyo ndiye Mungu aliyeleta shida (42:11)<sup>[1]</sup>
 
 ### Jibu la Ayubu (1:20&ndash;22)
 
@@ -31,4 +33,7 @@ Sura unapokuja karibu tunamuona Ayubu akiwa imara katika mapenzi yake kuendelea 
 
 ---
 
+<small>
 * [1] Walton, J. H., & Vizcaino, K. L. (2012). The NIV Application Commentary: Job (T. Muck, T. Longman III, R. Hubbard, J. H. Walton, A. Dearman, S. N. Gundry, K. Covrett, & V. Verbrugge, Eds.; p. 109). Zondervan.
+</small>
+

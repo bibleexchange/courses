@@ -12,7 +12,14 @@ The book is named after Job, but the main character of the book is God. In it, G
 
 The book of Job has a few obstacles that will keep us from understanding its deepest messages. We must start by naming some of them so we do not get off track as we study.
 
-1. The book is not about wealth. The wealth that Job has at the beginning and the end are seasons of grace and God was not required to give either. They display God’s affection for Job but they must take a back seat in our study. If the whole subject of wealth were removed the central theme would remain intact. Remember, Job himself never once cried over the cattle. Today, we would only care about the value of the cattle and houses. We would cry over the death of our loved ones, but Job is from the east, and his main focus is the loss of respect and honor in the community. This may be because of time or location or both, but it still applies in our day. Maybe that’s because he worked so hard to gain honor, and maybe we don’t think much about it because we’ve never earned it in the first place.
+1. The book is not about wealth. The wealth that Job has at the beginning and the end are seasons of grace and God was not required to give either. They display God’s affection for Job but they must take a back seat in our study. If the whole subject of wealth were removed the central theme would remain intact. Remember, Job himself never once cried over the cattle. Today, we would only care about the value of the cattle and houses. We would cry over the death of our loved ones, but Job is from the east, and his main focus is the loss of respect and honor in the community (12:4; 19:9; 30:1).
 2. Job is not a place we go to study didactic text in search of doctrine. The narrative is an honest representation of the dialog of Job and his friends. To dig for doctrine in the oratory will lead us down the wrong road. We should rather step back and identity the overall movements that are taking place. The friends have many wrong ideas about God. Why are so many wrong ideas included in the book? Because it shows that the wisdom of God is different than the wisdom of man.
 3. Don’t give up. The people talk a long time and say many things, and it is easy to lose focus if we forget the main purpose of the book. When trying to understand Job, read the whole book and try to understand how the smaller parts fit in the whole.
 4. God does not change. The account causes such strong feelings of injustice at times that we begin to make excuses for God’s actions or allow God’s attributes to shift to make events easier to swallow.
+
+### The structure of the book
+
+1. The introduction by the narrator (Chapters 1–2)
+2. The dialog (3:1–42:6)
+3. The conclusion by the narrator (42:7–17)
+

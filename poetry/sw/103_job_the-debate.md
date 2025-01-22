@@ -49,11 +49,9 @@ Hakuna njia ya kufunika maongezi ya sura kwa mlango bila kupoteza mvuto kwaajili
 
 #### Elifazi
 
-Tunaweza kusema kwamba Elifazi ni kama **mtu wa fumbo**. Anatoa uzito zaidi kwa uzoefu wake alioishi: ikiwa ameona kitu kuwa kweli katika maisha yake, basi ni ukweli kwa kila mtu mwingine, pia.
+Tunaweza kusema kwamba Elifazi ni kama **mtu wa fumbo**. Anatoa uzito zaidi kwa uzoefu wake alioishi: ikiwa ameona kitu kuwa kweli katika maisha yake, basi ni ukweli kwa kila mtu mwingine, pia (4:8; 5:3; 15:17–19). Uzoefu muhimu katika maisha yake ambao ulitengeneza mawazo yake ilikuwa ndoto ambayo alikuwa nayo (4:12–16).
 
-Anazungumza juu ya ndoto zake.
-
-Anaamini kwamba wenye haki wanaweza kuteseka kwa muda mfupi, lakini itakuwa ya kudumu.
+Anaamini kwamba wenye haki wanaweza kuteseka kwa muda mfupi, lakini itakuwa ya kudumu (4:5–7).
 
 Kufikia mwisho wa mjadala, haamini tena kwamba Ayubu hana hatia (22:5&ndash;9).
 
@@ -65,7 +63,7 @@ Maneno ya Elifazi ni haya:
 
 #### Bildadi
 
-Tunaweza kusema kwamba Bildadi ni **mwanamapokeo**. Anategemea hekima ya zama.
+Tunaweza kusema kwamba Bildadi ni **mwanamapokeo**. Anategemea hekima ya zama (8:8–10).
 
 Bildadi anatumia kifo cha watoto wa Ayubu kama uthibitisho wa malipizi (8:4).
 
@@ -77,7 +75,7 @@ Maneno za Bildadi ni haya:
 
 #### Sofari
 
-Tunaweza kusema kwamba Sofari ni **mwenye mantiki**. Kila kitu ni nyeusi na nyeupe kwake.
+Tunaweza kusema kwamba Sofari ni **mwenye mantiki**. Kila kitu ni nyeusi na nyeupe kwake. "Anasababu kwa uthabiti kutoka kwa seti ya mapendekezo yanayopendwa sana, na anajaza hotuba yake kwa motifu nyingi kutoka kwa sheria, hekima, na mapokeo ya nyimbo."<sup>[2]</sup>
 
 Anafikiri Ayubu anateseka kwa sababu yeye ni mtenda dhambi wa siri (11:5&ndash;6).
 
@@ -94,13 +92,11 @@ Elihu anazungumza mara moja tu, lakini anazungumza kwa muda mrefu. Anazungumza k
 
 ### Swali kubwa: "Kwanini?"
 
-Swali, "Kwanini?" haisemwi waziwazi katika majadiliano yeyote. Ayubu hana anasa ya kujua kuwa haya ni marudio ya aina kati ya nguvu kubwa. Yeye na rafiki zake hawakuwahi kuuliza swali moja kwa moja, lakini kila moja ya hotuba ina jitihada za kujibu swali, "kwanini haya yalitokea kwa Ayubu?"
+Swali, "Kwanini?" haisemwi waziwazi katika majadiliano yeyote. Yeye na rafiki zake hawakuwahi kuuliza swali moja kwa moja, lakini kila moja ya hotuba ina jitihada za kujibu swali, "kwanini haya yalitokea kwa Ayubu?"
 
-Sababu zao zimelenga katika wazo linaloonyesha kukubaliwa kwa vyama vyote: "Mungu huwabariki wenye haki na kuwahukumu wenye dhambi." Dhana hii inatupelekea rafiki zake katika hitimisho kuwa Ayubu amefanya dhambi. Kwasababu ya hili, Ayubu amejengwa katika mjadala ambapo alitetea haki yake mwenyewe. Hii inawaharakisha rafiki zake kusema kuwa Ayubu anajiinua mwenyewe juu ya Mungu na wanaendelea mbele mbele kuhusu haki ya Mungu. Ayubu anakubali, lakini anagundua kuwa wanajaribu tu kuzitetea nafasi zao, na hivyo anatetea tena nafasi yake.
+Sababu zao zimelenga katika wazo linaloonyesha kukubaliwa kwa vyama vyote: "Mungu huwabariki wenye haki na kuwahukumu wenye dhambi." Inaweza pia kusemwa kama, "Mambo mazuri hutokea kwa watu wazuri, na mabaya hutokea kwa watu wabaya." Hii inaitwa _malipo_. Wote tunajua kuwa hili ni kweli katika uso na Biblia inakubaliana na hili, lakini hakuna uwiano wa moja kwa moja. Yesu anamponya kipofu na kusema, "usitende dhambi tena, lisije likakupata jambo lililo baya zaidi" (Yoh. 5:14), na baada ya hapo katika kesi nyingine aliulizwa nani alitenda dhambi kuwa mtu huyu alifanywa kipofu na anajibu, hakuna mtu "kazi za Mungu zidhihirishwe ndani yake" (Yoh. 9:3).
 
-Kama kuna kosa lolote, ni kwamba yeye mwenyewe ni mwenye haki, hata hivyo usisahau kuwa alijengwa katika nafasi hiii kwa dhana mabaya, na majanga mbaya sana iliyonakiliwa katika Biblia.
-
-Dhana halisi ilikuwa, "Mungu anabariki wenye haki na kuhukumu wenye dhambi." Hii inaitwa _malipo_. Wote tunajua kuwa hili ni kweli katika uso na Biblia inakubaliana na hili, lakini hakuna uwiano wa moja kwa moja. Yesu anamponya kipofu na kusema, "usitende dhambi tena, lisije likakupata jambo lililo baya zaidi" (Yoh. 5:14), na baada ya hapo katika kesi nyingine aliulizwa nani alitenda dhambi kuwa mtu huyu alifanywa kipofu na anajibu, hakuna mtu "kazi za Mungu zidhihirishwe ndani yake" (Yoh. 9:3).
+Kwa sababu waliamini katika malipo, marafiki wa Ayubu walikata kauli kwamba Ayubu amefanya dhambi. Kwasababu ya hili, Ayubu amejengwa katika mjadala ambapo alitetea haki yake mwenyewe. Aliamini kwamba Mungu alikuwa akimuadhibu kimakosa kwa ajili ya dhambi ambazo hakufanya (7:17–21; 9:16–18; 10:1–3; 13:23–25; 19:6–7; 31:35–37). Hii inawaharakisha rafiki zake kusema kuwa Ayubu anajiinua mwenyewe juu ya Mungu.
 
 Kitu ambacho Ayubu na rafiki zake hawaruhusu ni kwamba kuna hatua nyingine, ambayo Mungu peke yake anaweza kuona na katika sehemu hiyo mtu anaweza kuteseka bila kufanya mabaya. Hivyo katika jaribio la kujibu kwanini, na silaha pamoja na mafundisho ambayo hayajatimia ya mema ya Mungu, Ayubu anakata tamaa na kuchanganyikiwa zaidi majadiliano yanapoendelea. Sharti hili linatuongoza sisi katika hatua nyingine.
 
@@ -116,4 +112,5 @@ Pamoja na kuwa alifanya makosa na kufanywa fahari na kuwa shujaaa kutosha kuuliz
 
 <small>
 * [1] Walton, J. H., & Vizcaino, K. L. (2012). The NIV Application Commentary: Job (T. Muck, T. Longman III, R. Hubbard, J. H. Walton, A. Dearman, S. N. Gundry, K. Covrett, & V. Verbrugge, Eds.; p. 49). Zondervan.
+* [2] Hartley, J. E. (1988). The Book of Job (p. 193). Wm. B. Eerdmans Publishing Co.
 </small>

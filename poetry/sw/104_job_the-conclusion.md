@@ -27,9 +27,15 @@ Inasemekana kwamba Ayubu alisema mambo ya kweli juu ya Mungu, lakini marafiki ha
 1. Ayubu alitubu kwa baadhi ya mambo aliyosema (40:3 &ndash;5; 42:1 &ndash;6)
 2. Ayubu alizungumza moja kwa moja na Mungu, lakini marafiki walizungumza wao kwa wao juu ya Mungu. Hii ndiyo tofauti kati ya kuomboleza na kunung'unika.
 
-Baada ya mambo haya yote, Ayubu aliishia kuwa na maradufu ya aliyokuwa nayo kabla ya msiba.
+Baada ya mambo haya yote, Ayubu aliishia kuwa na maradufu ya aliyokuwa nayo kabla ya msiba. Ingawa Mungu alirudisha vitu vya asili kwa Ayubu, muhimu zaidi, Ayubu alikua katika njia za kiroho:
+
+1. Ayubu akawa mtu mwenye nguvu zaidi kwa sababu ya majaribu (42:5).
+2. Ayubu alikabiliana na hofu zake. Hofu yake ilikuwa kwamba Mungu angemnyang’anya mali yake yote (3:25; 31:23). Ingawa hofu ya Ayubu ilitimia maishani mwake, haikumwangamiza.
 
 ### Jambo la mwisho
 
-Tunapopata shida katika maisha tunashindana na maswaliyanayokuja katika kitabu hiki. Tukisoma Biblia mara nyingi tunafanya yale yale. Tunaweza kuingilia kimakosa katika mti huo mmoja katika bustani kuwa haikuwa kama miti mingine. Kama Mungu angejua kile ambacho Adamu na Eva wangefanya, kwanini aliweka mti ule pale katika eneo la kwanza? Kwanza, ilikuwa nafasi ya kumtumikia katika njia maalumu. Ya muhimu zaidi dunia iliumbwa ili Mungu amkomboe bibi harusi kuwa kamili, lazima akombolewe. Ili ukombolewe, lazima aanguke kwanza. Malengo ya Mungu ni makubwa sana kwetu kuelewa, acha tufurahi kwamba tumepata sehemu, na kamwe tusisahau kuwa mwana wake wa pekee aliteseka kulingana na mpango huu. "Siyo mapenzi yangu bali mapenzi yake yafanyike." 
+Tunapopata shida katika maisha tunashindana na maswaliyanayokuja katika kitabu hiki. Kitabu cha Ayubu hakitufundishi **kwa nini** kuna mateso duniani, lakini ingawaje, tunaweza kujifunza **nini** cha kufanya tunapokabiliana na mateso:
+
+1. Mbariki Mungu, hata tunapopoteza vitu.
+2. Lete shida zako moja kwa moja kwa Mungu.
 
