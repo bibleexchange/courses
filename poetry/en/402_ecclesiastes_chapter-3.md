@@ -12,4 +12,4 @@ God has created humanity and the world. He has given us work to do. We are to do
 
 ### Death and judgment (v. 16–22)
 
-Qoheleth is discouraged because everywhere he looks he sees wickedness. But he knows that there is a season for everything, and though the wicked may have a season of prosperity, there will come a season of judgment. Jesus said to let the wheat grow with the thorns (Matt. 13:24-30).
+Qohelet is discouraged because everywhere he looks he sees wickedness. But he knows that there is a season for everything, and though the wicked may have a season of prosperity, there will come a season of judgment. Jesus said to let the wheat grow with the thorns (Matt. 13:24-30).

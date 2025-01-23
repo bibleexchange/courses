@@ -5,13 +5,13 @@
 > Proverbs 18:1—Through desire a man, having separated himself, seeketh  
 > And intermeddleth with all wisdom.
 
-The Hebrew word for _intermeddleth_ in the Hebrew is _gala_ (גָּלַע ), which means "to be hostile or to defy."<sup>[1]</sup> This means that the selfish man, who is seeking his own desires, is defying wisdom. Wisdom says that it is a good thing to have friends, but he is too selfish to share his time and resources with other people.
+The Hebrew word for _intermeddleth_ in the Hebrew is _gala_ (גָּלַע), which means "to be hostile or to defy."<sup>[1]</sup> This means that the selfish man, who is seeking his own desires, is defying wisdom. Wisdom says that it is a good thing to have friends, but he is too selfish to share his time and resources with other people.
 
 God said it is not good for man to be alone (Gen. 2:18).
 
 ### It is better to have a few real friends than to have many shallow friends
 
-Not everyone that says that they are your friend is a real friend. In Proverbs the Hebrew word _rea_ (רֵעַ ) can mean either a "neighbor" or a "friend."<sup>[2]</sup> We have to look at the context to see if the word means someone who is physically close (a neighbor) or someone who is emotionally close (a friend). In life we also have to discern who are real friends are. You can live near someone and see them every day, but that does not make them a true friend. Many people talk good to us. They say, "I am your friend," but will they be there when you really need them? A true friend is someone who is there in the good times and the bad times.
+Not everyone that says that they are your friend is a real friend. In Proverbs the Hebrew word _rea_ (רֵעַ) can mean either a "neighbor" or a "friend."<sup>[2]</sup> We have to look at the context to see if the word means someone who is physically close (a neighbor) or someone who is emotionally close (a friend). In life we also have to discern who are real friends are. You can live near someone and see them every day, but that does not make them a true friend. Many people talk good to us. They say, "I am your friend," but will they be there when you really need them? A true friend is someone who is there in the good times and the bad times.
 
 <!--
 > The significance of friends is found in their quality, not quantity.
@@ -56,7 +56,6 @@ The book of Proverbs was written as a father to his son, so there are many warni
 
 We now understand that friendship is a good thing, but what does it mean to be a good friend? Proverbs has many sayings that teach us how to interact with other people:
 
-- Handle matters with wisdom (16:20)
 - Be considerate of others (27:14)
 - Be willing to forgive (10:12)
 - Don't meddle in other people's business (26:17)

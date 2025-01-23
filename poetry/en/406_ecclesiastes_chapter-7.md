@@ -1,6 +1,6 @@
 ## Better and balanced living (chapter 7)
 
-In the remaining six chapters are a mixture of proverbs and narration designed to make the most of life "under the sun." In other words, while life under the sun is "vanity," how then should we live? Human Wisdom is limited in providing answers. Notice how skewed and limited wisdom is when God is not included in the equation.
+In the remaining six chapters are a mixture of proverbs and narration designed to make the most of life "under the sun." In other words, while life under the sun is "vanity," how then should we live? Human wisdom is limited in providing answers. Notice how skewed and limited wisdom is when God is not included in the equation.
 
 ### Proverbs on better living (v. 1–14)
 
@@ -18,8 +18,8 @@ The second half of the chapter offers "counsel for balanced living." These are c
 
 In these verses Qohelet comes to the conclusion that it is not good to be too wise or too righteous. He says this because he sees the righteous, the wicked, the wise, and the fool all meeting the same end. "The two case studies present us with a paradox, and Qohelet surely wanted his listener/reader to be shocked by what he said. He saw the righteous perishing and the wicked living long. This is the polar opposite of what some strands of biblical teaching indicate. For instance, certain legal portions of the Bible teach that observation of the law prolongs life (Exod. 20:12; Deut. 4:40), and the wisdom teachers instructed that righteousness led to life (Prov. 3:1–2), while the wicked suffered and died early (Ps. 1)."[6] "What could it possibly mean to be moderately righteous and moderately wicked?"[7] There are two ways of interpreting this:
 
-1. Qohelet warns against seeking righteousness and wisdom with too much fervor
-2. he guards against false pretense in righteousness and wisdom.[8]
+1. Qohelet warns against seeking righteousness and wisdom with too much fervor. Someone can be too focused on spiritual things and not care about the things around them.
+2. He guards against false pretense in righteousness and wisdom.[8]
 
 <!-- Qohelet refers to cursing others, but one cannot help reflecting on how close he has come to calling evil good and good evil (cf. Isa. 5:20). In Isa. 5 such people are described as wise in their own eyes and ripe for God’s judgment, his curse.
 > Baker, p. 338-->

@@ -20,7 +20,7 @@ In verse 1, there is instruction that those that go to the temple should be read
 
 #### Vows (v. 4–7)
 
-Qohelet continues the idea of being careful with our words by giving advice on making vows to God. He said that it is better to not make a vow than to make a vow and break it. Jesus went farther with this teaching, and He said that we shouldn't make any vows at all (Matt. 5:33–37).
+Qohelet continues the idea of being careful with our words by giving advice on making vows to God. A vow is a promise that you make before God. He said that it is better to not make a vow than to make a vow and break it. Jesus went farther with this teaching, and He said that we shouldn't make any vows at all (Matt. 5:33–37).
 
 ### Oppression and wealth (v. 8–17)
 

@@ -102,7 +102,7 @@ Angalia pia 19:1
 
 ### Hitimisho
 
-Kuzungumza ni moja ya jambo rahisi kufanya, lakini ni njia rahisi ya kufanya dhambi au kuhumiza watu. Ndiyo maana Mithali inatoa maonyo mengi na ushauri mwingi wa namna ya kusema.
+Kuzungumza ni moja ya jambo rahisi kufanya, lakini ni njia rahisi ya kufanya dhambi au kuhumiza watu. Ndiyo maana Mithali inatoa maonyo mengi na ushauri mwingi wa namna ya kusema. Tunahitaji Mungu atupe maneno mazuri ya kunena:
 
 > Mithali 16:1—Maandalio ya moyo ni ya mwanadamu;  
 > Bali jawabu la ulimi hutoka kwa BWANA.

@@ -8,7 +8,7 @@ Hii ni taarifa dhahiri: inzi waliokufa huharibu marashi. Linganisha na 9:18, ina
 
 #### Ujinga humuaibisha mjinga kwa kujifunua yenyewe (mst. 2–4)
 
-Mkono wa kulia ulihusishwa kama upande wenye nguvu, ujuzi, uzuri na kibali na mkono wa kushoto ulihusishwa kuwa mdhaifu na mbaya. "Kuwa na moyo wa mtu katika mkono wake wa kushoto ni kuwa na 'chemchemi za uzima' (Mithali 4:23) inayopatikana katika ulimwengu wa vitendo na uzembe kiroho."[1] Anamuonesha kila mtu kwamba ni mjinga.
+Mkono wa kulia ulihusishwa kama upande wenye nguvu, ujuzi, uzuri na kibali na mkono wa kushoto ulihusishwa kuwa mdhaifu na mbaya.<sup>[1]</sup> Anamuonesha kila mtu kwamba ni mjinga.
 
 #### Ujinga wa aibu katika maeneo ya juu (mst. 5–7)
 
@@ -28,11 +28,11 @@ Mjinga hujulikana kwa maneno yake mengi, na kwa dhana yake kuhusu kesho wakati h
 
 Wajinga hawana hamu na kazi, au wakifanya kazi wanachoka mapema. Hawaoni kwamba ni hekima kufanya kazi sasa ili kuiandaa kesho. Kazi za ujinga zinatakiwa ziwe mbali na kazi.
 
-Hawajui hata namna ya kwenda katika jiji! Mjinga hana maana ya uelekeo au lengo. Wanaishi maisha yao kama vile ilikuwa haina maana, wala muelekeo. "Katika maandishi ya kejeli, mithali hii inasema kwamba mtu anaweza kujihusisha katika mabishano kuhusu ulimwengu kuwa anakosa kile mtu wa kawaida anakionea wasiwasi kuhusu, yaani, kutafuta njia ya nyumbani."[2]
+Hawajui hata namna ya kwenda katika jiji! Mjinga hana maana ya uelekeo au lengo. Wanaishi maisha yao kama vile ilikuwa haina maana, wala muelekeo. "Katika maandishi ya kejeli, mithali hii inasema kwamba mtu anaweza kujihusisha katika mabishano kuhusu ulimwengu kuwa anakosa kile mtu wa kawaida anakionea wasiwasi kuhusu, yaani, kutafuta njia ya nyumbani."<sup>[2]</sup>
 
 #### Jinsi ujinga unavyoharibu taifa (mst. 16–20)
 
-Kohelethi alielewa kuwa ardhi ilibarikiwa vitu vizuri, kiongozi mwaminifu lakini aliyelaaniwa chini ya uovu na kiongozi asiye na umahiri. Kama mhubiri 10:18 inaonyesha anguko la taifa, halafu sababu zifuatazo zinatoa sababu za anguko: viongozi wajinga, wabinafsi, na wanaojali mapenzi yao tu na mazuri yao. "Hawafanyi chochote kubadili usiku kuwa mchana, na mchana kuwa usiku; wanalala wakati wanatakiwa kuamka, na huamka wakiwa wanatakiwa kulala; wakihangaikia ufisadi na karamu, badala ya maslahi ya nchi."[3]
+Kohelethi alielewa kuwa ardhi ilibarikiwa vitu vizuri, kiongozi mwaminifu lakini aliyelaaniwa chini ya uovu na kiongozi asiye na umahiri. Kama mhubiri 10:18 inaonyesha anguko la taifa, halafu sababu zifuatazo zinatoa sababu za anguko: viongozi wajinga, wabinafsi, na wanaojali mapenzi yao tu na mazuri yao. "Hawafanyi chochote kubadili usiku kuwa mchana, na mchana kuwa usiku; wanalala wakati wanatakiwa kuamka, na huamka wakiwa wanatakiwa kulala; wakihangaikia ufisadi na karamu, badala ya maslahi ya nchi."<sup>[3]</sup>
 
 ---
 

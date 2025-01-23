@@ -18,7 +18,7 @@ Nusu nyingine ya mlango unatoa "ushauri kwa maisha kamili." Hizo zinatoa changam
 
 Katika mistari hii Kohelethi anafikia hitimisho kwamba siyo vizuri kuwa mwenye hekima sana au mwenye haki sana. Anasema hili kwasababu anaona haki, uovu, hekima, na ujinga yote ikihitimisha sawa. "Tafiti mbili zinatoa kitendawili kwetu, na Kohelethi kwa uhakika alitaka msikilizaji au msomaji kushtushwa na kile alichokisema. Aliona mwenye haki akiangamia na muovu akiishi muda mrefu. Hii ni kinyume cha nini baadhi ya mafundisho ya kibiblia yanaonesha. Kwa mfano, sehemu mojawapo ya kisheria wa biblia inafundisha kuwa uchunguzi wa sheria huendeleza maisha (Mith. 3:1-2), wakati muovu alipata shida na kufa mapema (Zab. 1)."[6] "Hii inaweza kumaanisha nini kuwa haki kiasi na uovu kiasi? "[7] Kuna njia mbili za kutafsiri hii:
 
-1. Kohelethi anaonya dhidi ya kutafuta haki na hekima na kibali cha juu
+1. Kohelethi anaonya dhidi ya kutafuta haki na hekima na kibali cha juu. Mtu anaweza kuzingatia sana mambo ya kiroho na kutojali mambo yanayomzunguka.
 2. Analinda dhidi ya kujifanya kuongopea katika haki na hekima.[8]
 
 #### Tafsiri ya Kohelethi kuhusu safari yake na kukosekana kwa hekima (mst. 23–29)

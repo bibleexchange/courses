@@ -14,7 +14,7 @@ Katika mstari wa 1, kuna maelekezo kwamba wale wanaoenda hekaluni lazima awe tay
 
 #### Viapo (mst. 4–7)
 
-Kohelethi anaendelea na wazo la kuwa makini na maneno yetu kwa kutoa ushauri wa kuweka viapo kwa Mungu. Alisema kwamba ni bora kutoweka kiapo kuliko kuweka kiapo na kuivunja. Yesu alienda mbali zaidi na mafundisho yake, na alisema kwamba hatutakiwi kuweka viapo kabisa (Mat. 5:33–37).
+Kohelethi anaendelea na wazo la kuwa makini na maneno yetu kwa kutoa ushauri wa kuweka viapo kwa Mungu. Viapo ni ahadi unayoweka mbele za Mungu. Alisema kwamba ni bora kutoweka kiapo kuliko kuweka kiapo na kuivunja. Yesu alienda mbali zaidi na mafundisho yake, na alisema kwamba hatutakiwi kuweka viapo kabisa (Mat. 5:33–37).
 
 ### Ukandamizaji na utajiri (mst. 8–17)
 

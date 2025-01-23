@@ -5,13 +5,13 @@
 > Mithali 18:1—Ajitengaye na wenzake hutafuta matakwa yake mwenyewe;  
 > Hushindana na kila shauri jema.
 
-Neno la kiebrania la _hushindana_ kwa kiebrania ni _gala_ (גָּלַע ), inayomaanisha "kuwa na uadui au mpinzani."<sup>[1]</sup> Hii inamaanisha kwamba mtu mbinafsi, ambaye hutafuta to matamanio yake, huipinga hekima. Hekima inasema kwamba ni kitu kizuri kuwa na marafiki, lakini ni mbinafsi sana kutoa muda wake na rasilimali zake kwa watu wengine.
+Neno la kiebrania la _hushindana_ kwa kiebrania ni _gala_ (גָּלַע), inayomaanisha "kuwa na uadui au mpinzani."<sup>[1]</sup> Hii inamaanisha kwamba mtu mbinafsi, ambaye hutafuta to matamanio yake, huipinga hekima. Hekima inasema kwamba ni kitu kizuri kuwa na marafiki, lakini ni mbinafsi sana kutoa muda wake na rasilimali zake kwa watu wengine.
 
 Mungu alisema si vema mtu awe peke yake (Mwanzo 2:18).
 
 ### Ni bora kuwa na marafiki wachache wa uhakika kuliko kuwa na marafiki wengi wasio wa uhakika
 
-Siyo kila mtu anayesema ni rafiki yako ni rafiki wa kweli. Katika Mithali neno la Kiebrania _rea_ (רֵעַ ) inaweza kumaanisha ama "jirani" au "rafiki"<sup>[2]</sup> Tunatakiwa kuangalia katika mazingira kuona kama neno linamaanisha mtu ambaye ni karibu kimwili (jirani) au mtu ambaye kimwili yuko karibu (rafiki). Katika maisha tunatakiwa kutambuanani ni marafiki halisi. Unaweza kuishi karibu na mtu na kuwaona kila siku, lakini hiyo haiwezi kumaanisha kuwa wao ni marafiki halisi. Watu wengi wanazungumza mazuri kwetu. Wanasema, "Mimi ni rafiki yako," lakini je ni kweli watakuwa na wewe utakapowahitaji? Rafiki wa kweli ni Yule ambaye atakuwa nawewe katika nyakati mbaya na nyakati nzuri.
+Siyo kila mtu anayesema ni rafiki yako ni rafiki wa kweli. Katika Mithali neno la Kiebrania _rea_ (רֵעַ) inaweza kumaanisha ama "jirani" au "rafiki"<sup>[2]</sup> Tunatakiwa kuangalia katika mazingira kuona kama neno linamaanisha mtu ambaye ni karibu kimwili (jirani) au mtu ambaye kimwili yuko karibu (rafiki). Katika maisha tunatakiwa kutambuanani ni marafiki halisi. Unaweza kuishi karibu na mtu na kuwaona kila siku, lakini hiyo haiwezi kumaanisha kuwa wao ni marafiki halisi. Watu wengi wanazungumza mazuri kwetu. Wanasema, "Mimi ni rafiki yako," lakini je ni kweli watakuwa na wewe utakapowahitaji? Rafiki wa kweli ni Yule ambaye atakuwa nawewe katika nyakati mbaya na nyakati nzuri.
 
 #### Rafiki wa kweli hatakuacha
 
@@ -43,7 +43,6 @@ Kitabu cha Mithali kiliandikwa kama baba kwa watoto wake, kwahiyo kuna maonyo me
 
 Sasa tunaelewa kwamba urafiki ni jambo zuri, lakini nini maana ya kuwa rafiki mzuri? Mithali ina misemo mingi inayotufundisha namna ya kushirikiana na watu wengine:
 
-- Yashu hulikie mambo kwa hekima (16:20)
 - Kuwafikiria wengine (27:14)
 - Uwe tayari kusamehe (10:12)
 - Usiingilie mambo ya wengine (26:17)

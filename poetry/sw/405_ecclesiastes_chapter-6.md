@@ -16,7 +16,7 @@ Tunafanya kazi kwa nguvu kwaajili ya kupata mambo mazuri, na kula pia. Baadae tu
 
 ### Hitimisho kwa utafutaji wa maana (mst. 10–12)
 
-Mstari huu unahitimisha utafutaji wa Kohelethi. "Anaacha uwazi kwa maana na katika nusu ya kitabu unalenga katika ushauri na maoni kuhusu wakati ujao."[1] Mstari wa 10 unasema "kwamba yale yaliyoko yamekuwako; na hayo yatakayokuwako; yamekwisha kuwako; na anarudia wazo kuwa hakuna jipya chini ya jua (3:15).
+Mstari huu unahitimisha utafutaji wa Kohelethi. "Anaacha uwazi kwa maana na katika nusu ya kitabu unalenga katika ushauri na maoni kuhusu wakati ujao."<sup>[1]</sup> Mstari wa 10 unasema "kwamba yale yaliyoko yamekuwako; na hayo yatakayokuwako; yamekwisha kuwako; na anarudia wazo kuwa hakuna jipya chini ya jua (3:15).
 
 ---
 

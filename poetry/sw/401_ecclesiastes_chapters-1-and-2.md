@@ -29,7 +29,9 @@ Katika mahitaji ya mwanadamu kuna kuridhika sambamba (njaa-chakula, na kadhalika
 > Mkristo anasema, 'kiumbe hakijazaliwa na hamu isipokuwa kuridhika kwa wale wanaotamani upo. Mtoto anahisi njaa: sawa, kuna kitu kama chakula. Bata anataka kuogelea: sawa, kuna kitu kama maji. Wanaume wanahisi hamu ya mapenzi: sawa, kuna kitu kama mapenzi. Kama nikikuta ndani yangu hamu ambayo hakuna uzoefu katika dunia hii itakayoridhisha, maelezo makubwa yenye uwezekano ni kwamba niliumbwa kwaajili ya ulimwengu mwingine. Kama hakuna chochote kinachoridhisha katika dunia haithibitishi kwamba ulimwengu unadanganya. Kuna uwezekano kuwa raha za dunia hazikukusudiwa kuuridhisha ulimwengu, lakini kuuinua tu, kupendekeza kitu halisi.'
 > —C. S. Lewis
 
-Kuna mbingu, lakini hatupo, bado. Mhubiri hutufundisha jinsi ya kuishi katika maisha haya ya sasa ambayo tumepewa.
+Kuna mbingu, lakini hatupo, bado. Mhubiri hutufundisha jinsi ya kuishi katika maisha haya ya sasa ambayo tumepewa. Ingawa Wakristo wana ufahamu wa mbingu kutoka kwa Agano Jipya, hakuna ushahidi kwamba Waisraeli walikuwa na fundisho tata la maisha ya baada ya kifo katika Agano la Kale. Kwa hiyo tusishangae kwamba Kohelethi anazingatia maisha haya tunayoishi duniani.
+
+Badala ya kutafuta zaidi kila wakati, tunapaswa kujifunza kumshukuru Mungu kwa mambo tuliyo nayo katika maisha haya.
 
 #### Kupata hekima na maarifa (1:12–18)
 
@@ -52,10 +54,11 @@ Mhubiri 1:18 inasema, "Yaani, Katika wingi wa hekima mna wingi wa huzuni." Lakin
 
 #### Mtu mwenye hekima ni bora zaidi ya mjinga (2:12–16)
 
+Hekima hupita upumbavu, lakini hekima haiwezi kukusaidia kuepuka kifo.
+
 #### Taabu haina maana (2:17-23)
 
 ### Hitimisho (2:24–26)
 
 > "Hakuna bora zaidi ya kula na kunywa na kufurahia maisha"
 
-Wazo kuu ni kwamba baadhi ya majibu hayatapatikana hapa ulimwenguni. Majibu hayo yanapatikana **zaidi ya jua** na ni ya kiroho kiasili.

@@ -13,8 +13,8 @@ Not all of the Psalms are prayers. Some of them are praise, others are for teach
 The book is inspired by God (2 Samuel 23:1-2; Matthew 22:43; Luke 24:44; Acts 1:16; 2 Timothy 3:16). Psalms is a composite work containing multiple authors. Some psalms name their author in the first line or title:
 
 - Moses wrote 1 (Ps. 90).
-- David wrote 73 (Ps.1-41 and 32 others)
-- Solomon wrote 2 to 3 (Ps.72, 127)
+- David wrote 73 (Ps. 1-41 and 32 others)
+- Solomon wrote 2 to 3 (Ps. 72, 127)
 - Asaph wrote 3 (Ps. 50, 73-83)
 - Sons of Korah wrote 10 (Ps. 42, 44-49, 84, 85, 87) ("Sons of Korah" were possibly performers rather than authors)
 - Heman the Ezrahite wrote 1 (Ps. 88)
@@ -96,6 +96,7 @@ There are 79 quotes from the Psalms in the New Testament.<sup>[1]</sup> Followin
 <small>
 * [1] Stephen Voorwinde, Vox Reformata, 2005, pg. 58
 </small>
+
 
 <!-- Mowinckel acknowledges both aspects when he says.
 > In spite of the didactic character of the ‘learned psalmography’, it has one characteristic in common with genuine psalmography; these poems are, and must be considered as, prayers. Like every real psalm, they address God, even though they often address men as well.

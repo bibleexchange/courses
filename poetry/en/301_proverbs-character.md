@@ -17,7 +17,7 @@ The book of Proverbs is not just a list of natural and moralistic rules, but the
 Things that will make us steadfast:
 
 - Wisdom (4:6; 24:3)
-- Prudence (4:25–27)
+- Prudence (4:25–27). Prudence is being careful of what you do today, because you know that there will be consequences in the future for your actions of today. It is looking ahead.
 - Righteousness (10:25; 12:3)
 - Trust in God (16:3)
 
@@ -32,7 +32,14 @@ See also 11:27, 12:24, 12:27, 13:4.
 
 God hates pride. Proverbs chapter 6 lists seven things that God hates. The first item in this list is pride (6:16–17a; See also 21:4). Because God hates pride He will punish the proud (15:25; 16:5) and we should share His hatred for it (8:12–13).
 
-What does it mean to be humble? A humble person does not brag about himself (27:2; 25:27). When we are humble, we show that we trust in God (28:26). Humility brings blessings (22:4) and honor (15:33), while pride brings shame (11:2), contention (13:10; 21:24), and self-destruction (16:18; 18:12; 29:23).
+What does it mean to be humble? A humble person does not brag about himself (27:2; 25:27). We should not be wise in our own eyes (16:2; 26:5, 12). When we are humble, we show that we trust in God (28:26). Humility brings blessings (22:4) and honor (15:33), while pride brings shame (11:2), contention (13:10; 21:24), and self-destruction (16:18; 18:12; 29:23).
+
+How do we develop humility? Following are some things we can do:
+
+1. Perform religious acts of service. When we worship God, it reminds us that all that we have is from Him.
+2. Write down the good things that you have in life.
+3. Recognize how other people have helped us.
+4. Develop close relationships with others.<sup>[2]</sup>
 
 ### Contentment
 
@@ -46,6 +53,10 @@ Patience in our work will bring results. Many people want get to get rich quickl
 
 Patience keeps you from sinning (19:2), it shows trust in God (20:22), and it can change other people's opinions (25:15).
 
+### Cheerfulness
+
+Prov. 15:13, 15; 16:24; 17:22
+
 ### Conclusion
 
 In ancient Israeli culture, people were motivated by honor and shame. The shame of one person could shame their whole family. Proverbs says that the foolish son shames on his parents (10:5) and the foolish wife shames her husband (11:16; 12:4). A person of good character will have honor (21:21), but the person of bad character will have shame (13:5; 18:3).
@@ -54,6 +65,7 @@ In ancient Israeli culture, people were motivated by honor and shame. The shame 
 
 <small>
 * [1] Dave Bland, *Proverbs and the Formation of Character*
+* [2] Dave Bland, *Proverbs and the Formation of Character* pg 60
 </small>
 
 <!--

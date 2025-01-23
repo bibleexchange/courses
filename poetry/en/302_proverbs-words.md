@@ -136,7 +136,7 @@ See also 19:1.
 
 ### Conclusion
 
-Talking is one of the easiest things to do, but it is also the easiest way to sin or hurt people. That is why Proverbs gives many warnings and much advice on how we should speak.
+Talking is one of the easiest things to do, but it is also the easiest way to sin or hurt people. That is why Proverbs gives many warnings and much advice on how we should speak. We need God to give us good words to speak:
 
 > Proverbs 16:1—The preparations of the heart in man,  
 > And the answer of the tongue, is from the LORD.

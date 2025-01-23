@@ -17,7 +17,7 @@ Kitabu cha mithali siyo tu orodha ya sheria za kimaadili za asili, lakini sheria
 Mambo yatakayotufanya imara:
 
 - Hekima (4:6; 24:3)
-- Busara (4:25–27)
+- Busara (4:25–27). Busara ni kuwa mwangalifu kwa kile unachofanya leo, kwa sababu unajua kwamba kutakuwa na matokeo katika siku zijazo kwa matendo yako ya leo. Inatazama mbele.
 - Haki (10:25; 12:3)
 - Imani kwa Mungu (16:3)
 
@@ -32,7 +32,15 @@ Angalia pia 11:27, 12:24, 12:27, na 13:4.
 
 Mungu anachukizwa na kiburi na majivuno. Mithali sura ya sita inaorodha ya vitu saba anavyovichukia Mungu. Kitu cha kwanza kwenye orodha ni kiburi (6:16–17a; ona pia 21:4). Kwakuwa Mungu anachukizwa na kiburi ataadhibu wanaojivuna (15:25; 16:5) na lazima tushirikishe shauku yake kwa hili (8:12–13).
 
-Nini maana ya kuwa mnyenyekevu? Mtu mnyenyekevu hajisifu mwenyewe (hajivuni) (27:2; 25:27). Tunapokuwa wanyenyekevu, tunaonyesha kuwa tunamwamini Mungu (28:26). Unyenyekevu huleta baraka (28:26) na heshima (15:33), wakati kiburi huleta aibu (11:2), ugomvi (13:10; 21:24), na uaribifu binafsi (16:18; 18:12; 29:23).
+Nini maana ya kuwa mnyenyekevu? Mtu mnyenyekevu hajisifu mwenyewe (hajivuni) (27:2; 25:27). Hatupaswi kuwa wenye hekima machoni petu wenyewe (16:2; 26:5, 12). Tunapokuwa wanyenyekevu, tunaonyesha kuwa tunamwamini Mungu (28:26). Unyenyekevu huleta baraka (28:26) na heshima (15:33), wakati kiburi huleta aibu (11:2), ugomvi (13:10; 21:24), na uaribifu binafsi (16:18; 18:12; 29:23).
+
+Tunakuzaje unyenyekevu? Yafuatayo ni baadhi ya mambo tunayoweza kufanya:
+
+1. Fanya matendo ya huduma ya kidini. Tunapomwabudu Mungu, inatukumbusha kwamba yote tuliyo nayo yametoka kwake.
+2. Andika mambo mazuri uliyo nayo maishani.
+3. Tambua jinsi watu wengine wametusaidia.
+4. Kuendeleza uhusiano wa karibu na wengine.<sup>[2]</sup>
+
 
 ### Kuridhika
 
@@ -46,6 +54,10 @@ Uvumilivu katika kazi zetu utaleta matokeo. Watu wengi wanataka kuwa na utajiri 
 
 Uvumilivu hukuweka mbali na dhambi (19:2), huonyesha imani kwa Mungu (20:21), na pia inaweza kubadilisha mawazo ya watu wengine (25:15).
 
+### Uchangamfu
+
+Mith. 15:13, 15; 16:24; 17:22
+
 ### Hitimisho
 
 Tamaduni za kale za Waisraeli, watu watu walikuwa wanavutiwa kwa heshima na aibu. Aibu ya mtu mmoja ilikuwa aibu ya familia nzima. Mithali inasema mwana mpumbavu ni aibu kwa wazazi wake (10:5) na mwanamke mpumbavu ni aibu kwa mumewe (11:16; 12:4). Mtu wa tabia nzuri atakuwa na heshima (21:21), bali mtu wa tabia mbaya atapata aibu (13:5; 18:3).
@@ -54,4 +66,5 @@ Tamaduni za kale za Waisraeli, watu watu walikuwa wanavutiwa kwa heshima na aibu
 
 <small>
 * [1] Dave Bland, *Proverbs and the Formation of Character*
+* [2] Dave Bland, *Proverbs and the Formation of Character* pg 60
 </small>

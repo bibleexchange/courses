@@ -8,7 +8,7 @@ This is an obvious statement: dead flies spoils the perfume. Compare it with 9:1
 
 #### Folly disgraces the fool by revealing itself (v. 2–4)
 
-The right hand was regarded as the side of strength, skill, good and favor and the left hand was regarded as weak and bad. "To have one's heart at his left side is to have the 'springs of life' (Proverbs 4:23) located in the realm of practical and spiritual incompetence."[1] He shows everyone that he is a fool.
+The right hand was regarded as the side of strength, skill, good and favor and the left hand was regarded as weak and bad.<sup>[1]</sup> He shows everyone that he is a fool.
 
 #### Folly disgraces in high places (v. 5–7)
 
@@ -28,11 +28,11 @@ The fool is known by his many words, and by his presumption about the future whe
 
 Fools have no desire to work, or when they do work they quickly become wearied. They can't see that it is wise to work now in order to prepare for the future. The fool works hard to get out of work.
 
-They do not even know how to go to the city! The fool has no sense of direction or goal. They live their life as if it were meaningless, directionless. "In a fine note of sarcasm, this proverb says that a person may be so involved in arguing about the universe that he misses what the ordinary person is concerned about, namely, finding the way home."[2]
+They do not even know how to go to the city! The fool has no sense of direction or goal. They live their life as if it were meaningless, directionless. "In a fine note of sarcasm, this proverb says that a person may be so involved in arguing about the universe that he misses what the ordinary person is concerned about, namely, finding the way home."<sup>[2]</sup>
 
 #### How foolishness corrupts a nation (v. 16–20)
 
-Qohelet understood that a land was blessed by good, faithful leaders, but cursed under wicked and incompetent leaders. If Ecclesiastes 10:18 symbolizes the fall of a nation, then the following reasons give the reason for the fall: leaders who are foolish, selfish, and concerned only for their own pleasure and good. "They do nothing in order; turn night into day, and day into night; sleep when they should wake, and wake when they should sleep; attending more to chamberings and banquetings, than to the concerns of the state."[3]
+Qohelet understood that a land was blessed by good, faithful leaders, but cursed under wicked and incompetent leaders. If Ecclesiastes 10:18 symbolizes the fall of a nation, then the following reasons give the reason for the fall: leaders who are foolish, selfish, and concerned only for their own pleasure and good. "They do nothing in order; turn night into day, and day into night; sleep when they should wake, and wake when they should sleep; attending more to chamberings and banquetings, than to the concerns of the state."<sup>[3]</sup>
 
 ---
 

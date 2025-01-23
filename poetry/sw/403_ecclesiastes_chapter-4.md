@@ -16,6 +16,6 @@ Katika mstari wa 5, tunaona ufanano pamoja na jinsi mjinga alivyotambulishwa kat
 
 Upweke siyo kitu ambacho Mungu anakitaka kwa mwanadamu (Mwan. 2:18), na aliwaahidi Waisraeli kuwa asingewaacha wao peke yao (Is. 41:10).
 
-### Matatizo ya kiserikali (mst. 13–16)
+### Hekima na mamlaka (mst. 13–16)
 
 Wafalme wanaweza kuwa tayari kusikiliza wakiwa wadogo, lakini wakiwa wazee, hawatafuti tena ushauri.

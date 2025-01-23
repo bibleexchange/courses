@@ -2,20 +2,20 @@
 
 ## Who is "the preacher?"
 
-The word in Hebrew is _Qoheleth_ and it means "one who gathers." It might mean one who gathers people together to speak to them, or it might mean one who gathers ideas together, like a philosopher.
+The word in Hebrew is _Qohelet_ and it means "one who gathers." It might mean one who gathers people together to speak to them, or it might mean one who gathers ideas together, like a philosopher.
 
-Is he Solomon? Many people think Qoheleth is Solomon because he is called the "son of David" (1:1). But the term "son of David" can be used for anyone in the lineage of David, as can be seen when Jesus is called the son of David (Matt. 1:1).
+Is he Solomon? Many people think Qohelet is Solomon because he is called the "son of David" (1:1). But the term "son of David" can be used for anyone in the lineage of David, as can be seen when Jesus is called the son of David (Matt. 1:1).
 
 Another reason that people believe it is Solomon is because it says that he surpassed all of the previous rulers in Jerusalem (1:16; 2:9). (Though at the time of Solomon, there had been very few rulers in Jerusalem.)
 
-It is possible that it is Solomon, but there is no real evidence of it. Because many people think it is Solomon, they come to the text with assumptions, such as the fact that Solomon was far from God in the latter part of his life. To avoid this problem, we will call the preacher _Qoheleth_ in this textbook and try to understand the text for itself.
+It is possible that it is Solomon, but there is no real evidence of it. Because many people think it is Solomon, they come to the text with assumptions, such as the fact that Solomon was far from God in the latter part of his life. To avoid this problem, we will call the preacher _Qohelet_ in this textbook and try to understand the text for itself.
 
 ## The structure of the book
 
 There are two people speaking in the book:
 
-1. A narrator speaks in 1:1-2, 7:27, and 12:8-14. He is telling the story of Qoheleth.
-2. Qoheleth speaks in the rest of the book.
+1. A narrator speaks in 1:1-2, 7:27, and 12:8-14. He is telling the story of Qohelet.
+2. Qohelet speaks in the rest of the book.
 
 ## The theme of the book
 
@@ -23,7 +23,7 @@ The book of Ecclesiastes is an understanding of life as it is. The word _vanity_
 
 It is repeated many times in the book that we need to sieze the day (2:24-25; 3:22; 5:18-19; 8:15; 9:7-10; 12:13).
 
-Many of the things that Qoheleth says are not wrong, but he is looking at things from a very natural view. It is one-sided, but not necessarily wrong.
+Many of the things that Qohelet says are not wrong, but he is looking at things from a very natural view. It is one-sided, but not necessarily wrong.
 
 <!--## The name of the book
 
@@ -32,7 +32,7 @@ In the Hebrew Bible this book is classified as one of the "Writings" and titled 
 It isn't completely clear what the exact translation of "ecclesiastes" should be, but it is rendered in English as "preacher" or "one who addresses an assembly."
 
 > The Hebrew word qōhelet is the Qal feminine  singular participle of the verb qāhal, meaning “to call,” “to assem-  ble.” Thus the nickname may allude to one who gathers an assembly  to address it or to one who gathers words for instruction. The femi-  nine participle is used elsewhere in the OT to refer to particular offices or occupations (Ezra 2:55; Neh. 7:57, 59).
-> The English title derives from the Septuagint (ekklēsiastēs) via the Latin Vulgate (Liber Ecclesiastes). The Septuagint translator(s) inter-  preted qōhelet to refer to a citizen of the assembly or ekklēsia. English  translations have traditionally translated qōhelet as “Preacher” (KJV,  RSV), which goes back to Luther’s translation of qōhelet as “der  Prediger.”[3] This translation is somewhat anachronistic, with its  overtones of the NT concept of the ekklēsia as the church. Qoheleth’s  “office” is clearly identified in the epilogue (12:8–14) as that of a wise  man, but “preacher” is helpful in that it alerts us to the fact that Qoheleth was wise and taught the people knowledge (12:10).
+> The English title derives from the Septuagint (ekklēsiastēs) via the Latin Vulgate (Liber Ecclesiastes). The Septuagint translator(s) inter-  preted qōhelet to refer to a citizen of the assembly or ekklēsia. English  translations have traditionally translated qōhelet as “Preacher” (KJV,  RSV), which goes back to Luther’s translation of qōhelet as “der  Prediger.”[3] This translation is somewhat anachronistic, with its  overtones of the NT concept of the ekklēsia as the church. Qohelet’s  “office” is clearly identified in the epilogue (12:8–14) as that of a wise  man, but “preacher” is helpful in that it alerts us to the fact that Qohelet was wise and taught the people knowledge (12:10).
 > Baker Commentary, p. 20
 
 ## What is the message? Why is this negative book in the cannon?
@@ -50,10 +50,10 @@ It isn't completely clear what the exact translation of "ecclesiastes" should be
 Ecclesiastes as a book about politics and the family, about human  existence in the context of creation order. He envisaged Solomon not  as a solitary but as a political figure deeply concerned about social  life. In contrast to Jerome’s allegorical and christological exegesis of  4:4–12, Luther read this text as a strong affirmation of communal and  civic life.
 > Baker, p. 38
 
-> Qohelethh demonstrates the futility of trying to find meaning in a fallen world apart from remembering one’s creator and starting with the fear of the LORD, but he also affirms life, and this tension is resolved at the conclusion of his journey precisely through his exhortation to remember one’s creator. Thus the futility Ecclesiastes exposes is that of trying to find meaning while embracing human autonomy in a world which depends at every point upon its creator.
+> Qoheleth demonstrates the futility of trying to find meaning in a fallen world apart from remembering one’s creator and starting with the fear of the LORD, but he also affirms life, and this tension is resolved at the conclusion of his journey precisely through his exhortation to remember one’s creator. Thus the futility Ecclesiastes exposes is that of trying to find meaning while embracing human autonomy in a world which depends at every point upon its creator.
 > Bartholomew, C. G. (2014). The Intertextuality of Ecclesiastes and the New Testament. In C. V. Camp, A. Mein, W. Kynes, & K. Dell (Eds.), Reading Ecclesiastes Intertextually (Vol. 587, p. 232). London; New Delhi; New York; Sydney: Bloomsbury.
 
-> Remembering his creator is the solid ground to which Qohelethh finally returns and which enables him to affirm life—thereby granting the carpe diem passages the final say—without detracting from the brokenness of life as evident in the threefold “before” in 12:1–7.
+> Remembering his creator is the solid ground to which Qoheleth finally returns and which enables him to affirm life—thereby granting the carpe diem passages the final say—without detracting from the brokenness of life as evident in the threefold “before” in 12:1–7.
 > Bartholomew, C. G. (2014). The Intertextuality of Ecclesiastes and the New Testament. In C. V. Camp, A. Mein, W. Kynes, & K. Dell (Eds.), Reading Ecclesiastes Intertextually (Vol. 587, p. 233). London; New Delhi; New York; Sydney: Bloomsbury.
 
 > In my reading of Ecclesiastes, resolution comes through remembering your creator before … before … before … The decentering of the ego evoked by such remembrance puts one in a position of creature before the Creator and thus in a position to receive instruction and to obey, rather than relying on reason, experience and observation as the royal route to truth.
@@ -90,7 +90,7 @@ Some question whether certain conditions described in the book (3:16; 4:13-16; 5
 
 ### Frame narrator
 
-> A breakthrough for literal interpretation came with Rashbam  (1085–1155). He interprets according to the principle that the text has  only one meaning. Rashbam displays great sensitivity to the literary nature of Ecclesiastes and was the first to realize that Qoheleth  was set within a framework; 1:1–2 and the last seven verses were written by those who edited the book.
+> A breakthrough for literal interpretation came with Rashbam  (1085–1155). He interprets according to the principle that the text has  only one meaning. Rashbam displays great sensitivity to the literary nature of Ecclesiastes and was the first to realize that Qohelet  was set within a framework; 1:1–2 and the last seven verses were written by those who edited the book.
 > Baker, p. 27
 
 ## Key Verse
