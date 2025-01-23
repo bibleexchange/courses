@@ -93,7 +93,7 @@ Mithali itumikayo vibaya inaweza kuwa hatari. Mithali 27:5 inasema "Lawama ya wa
 
 Hakuna andiko moja linaloweza kutupa picha toshelevu ya somo Fulani. Linganisha mithali moja na nyingine na andiko lingine kupata uelewa bora zaidi.
 
-Tunatakiwa tusome mithali na tuelewa kwamba kuna vitu katika maisha ambayo ni vinachanganya. Katika mithali tunaona kwamba "Baraka za Bwana hutajirisha" (10:22) na kwamba "watu wakali hushika mali siku zote" (11:16).
+Tunatakiwa tusome mithali na tuelewa kwamba kuna vitu katika maisha ambayo ni vinachanganya. Katika mithali tunaona kwamba "Baraka za Bwana hutajirisha" (10:22), lakini pia wanakubali kwamba mara nyingi watu waovu wanaonekana kutoadhibiwa (11:16).
 
 ##### Kwakuwa mithali inasema kitu kimoja ni kizuri kuliko kingine haimaanishi kuwa kinacholinganishwa ni kibaya zaidi
 
@@ -106,6 +106,8 @@ Mungu atawabariki watu kwa wakati, lakini kuna Baraka zingine ambazo Mungu anazi
 > —Raymond C. Van Leeuwan<sup>[6]</sup>
 
 ##### Udhalimu/kutokutenda haki kupo katika dunia
+
+Mithali inatuonyesha kuwa ulimwenguni kuna shida nyingi:
 
 - Masikini hawana chakula kwasababu ya wezi (13:23; 30:14)
 - Watu wakali hushika mali siku zote (11:16)

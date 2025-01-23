@@ -130,7 +130,7 @@ A proverb used wrongly can be dangerous. Proverbs 27:5 says that "Open rebuke is
 
 No single verse of Scripture gives us a complete view on any one subject. Compare one proverb with other proverbs and other Scriptures to get a better understanding of it.
 
-We have to read Proverbs with an understanding that there are things in life that are complicated. From the proverbs we see that "The blessing of the LORD makes rich" (10:22) and also that "Violent men get riches" (11:16).
+We have to read Proverbs with an understanding that there are things in life that are complicated. From the proverbs we see that "The blessing of the LORD makes rich" (10:22), but they also acknowledge that many times wicked people seem to go unpunished (11:16).
 
 ##### Just because a proverb says something is better than something else, does not mean that the thing compared is inherently bad
 
@@ -143,6 +143,8 @@ God will at times bless people with riches, but there are other blessings that H
 > —Raymond C. Van Leeuwan<sup>[6]</sup>
 
 ##### There is injustice in the world
+
+Proverbs shows us that in the world there are many problems:
 
 - The poor do not have food because of thieves (13:23; 30:14)
 - Violent men get riches (11:16)
