@@ -19,7 +19,7 @@ There are two people speaking in the book:
 
 ## The theme of the book
 
-The book of Ecclesiastes is an understanding of life as it is. The word _vanity_ is used frequently. The word could also be translated as "breath" (See 4:16). It shows that life is short, so we need to make the most of the time that we have. This idea is not only found in Ecclesiastes, but it is found in Psalms (62:9; 103:15), Isaiah (40:6-7), James (4:14), and I Peter (1:24).
+The book of Ecclesiastes is an understanding of life as it is. The word _vanity_ is used frequently. The word could also be translated as "breath" (See 4:16). It shows that life is short, so we need to make the most of the time that we have. This idea is not only found in Ecclesiastes, but it is found in Job (7:7-10), Psalms (62:9; 103:15), Isaiah (40:6-7), James (4:14), and I Peter (1:24).
 
 It is repeated many times in the book that we need to sieze the day (2:24-25; 3:22; 5:18-19; 8:15; 9:7-10; 12:13).
 

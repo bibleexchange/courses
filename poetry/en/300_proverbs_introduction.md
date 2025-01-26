@@ -164,7 +164,7 @@ We do not always see the fulfillment of judgment in this life, and so we must us
 
 ### Proverbs is a spiritual book
 
-It is true that Proverbs deals with a lot of practical things in life, but true wisdom is more than just knowledge or emotional intelligence. To Solomon, wisdom does not begin with a natural education, but it comes from God. The fear of the Lord is the beginning of knowledge (1:7). Solomon himself got his wisdom by asking God (1 Kings 3:5–12).
+It is true that Proverbs deals with a lot of practical things in life, but true wisdom is more than just knowledge or emotional intelligence. The Israelites did not separate the spiritual from the natural. To be righteous was to be right before both God and men. To Solomon, wisdom does not begin with a natural education, but it comes from God. The fear of the Lord is the beginning of knowledge (1:7). Solomon got his wisdom by asking God (1 Kings 3:5–12).
 
 A constant reason for behaving righteously is because God hates wickedness and loves righteousness (11:1; 12:2; 15:8–9; 17:15; 20:10, 23; 21:3, 27; 28:9).
 

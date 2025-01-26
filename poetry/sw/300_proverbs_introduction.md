@@ -127,7 +127,7 @@ Sio mara zote hukumu hutokea katika maisha haya, hivyo tunatakiwa kuitumia imani
 
 ### Mithali ni kitabu cha kiroho
 
-Ni ukweli kwamba Mithali inahusiana na vitu vingi katika uhalisia, lakini hekima ya kweli ni zaidi ya maarifa au akili za kihisia. Kwa Sulemani hekima haianzii kwenye elimu ya asili, lakini inatoka kwa Mungu. Kumcha Bwana ni chanzo cha maarifa (1:7). Sulemani mwenyewe alipata hekima yake kwa kumuomba Mungu (1 Wafalme 3:5–12).
+Ni ukweli kwamba Mithali inahusiana na vitu vingi katika uhalisia, lakini hekima ya kweli ni zaidi ya maarifa au akili za kihisia. Waisraeli hawakutenganisha mambo ya kiroho na ya asili. Kuwa mwenye haki ilikuwa ni kuwa sawa mbele za Mungu na wanadamu. Kwa Sulemani hekima haianzii kwenye elimu ya asili, lakini inatoka kwa Mungu. Kumcha Bwana ni chanzo cha maarifa (1:7). Sulemani alipata hekima yake kwa kumuomba Mungu (1 Wafalme 3:5–12).
 
 Sababu sahihi ya kuishi kwa haki ni kwasababu Mungu huchukua uovu na hupenda haki (11:1; 12:2, 15:8–9; 17:15; 20:10, 23; 21:3, 27; 28:9).
 

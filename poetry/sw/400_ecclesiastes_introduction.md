@@ -19,7 +19,7 @@ Kuna watu wawili wanaozungumza kwenye kitabu:
 
 ## Mandhari ya kitabu
 
-Kitabu cha Mhubiri ni ufahamu wa maisha jinsi yalivyo. Neno _ubatili_ hutumiwa mara kwa mara. Neno linaweza pia kutafsiriwa kama "pumzi" (Ona 4:16). Inaonyesha kwamba maisha ni mafupi, kwa hiyo tunahitaji kutumia vizuri wakati tulio nao.
+Kitabu cha Mhubiri ni ufahamu wa maisha jinsi yalivyo. Neno _ubatili_ hutumiwa mara kwa mara. Neno linaweza pia kutafsiriwa kama "pumzi" (Ona 4:16). Inaonyesha kwamba maisha ni mafupi, kwa hiyo tunahitaji kutumia vizuri wakati tulio nao. Wazo hili halipatikani tu katika Mhubiri, bali linapatikana katika Ayubu (7:7-10), Zaburi (62:9; 103:15), Isaya (40:6-7), Yakobo (4:14). na I Petro (1:24).
 
 Imerudiwa mara nyingi katika kitabu kwamba tunahitaji kutumia siku ya sasa (2:24-25; 3:22; 5:18-19; 8:15; 9:7-10; 12:13).
 
