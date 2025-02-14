@@ -68,3 +68,4 @@ Tamaduni za kale za Waisraeli, watu watu walikuwa wanavutiwa kwa heshima na aibu
 * [1] Dave Bland, *Proverbs and the Formation of Character*
 * [2] Dave Bland, *Proverbs and the Formation of Character* pg 60
 </small>
+

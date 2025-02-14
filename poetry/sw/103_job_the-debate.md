@@ -114,3 +114,4 @@ Pamoja na kuwa alifanya makosa na kufanywa fahari na kuwa shujaaa kutosha kuuliz
 * [1] Walton, J. H., & Vizcaino, K. L. (2012). The NIV Application Commentary: Job (T. Muck, T. Longman III, R. Hubbard, J. H. Walton, A. Dearman, S. N. Gundry, K. Covrett, & V. Verbrugge, Eds.; p. 49). Zondervan.
 * [2] Hartley, J. E. (1988). The Book of Job (p. 193). Wm. B. Eerdmans Publishing Co.
 </small>
+

@@ -33,3 +33,4 @@ Baadhi ya watu wanaweza kuzungumza maneno ya upendo nay a kujipendekeza, lakini 
 #### Mruhusu Mungu akusaidie kumpata mwenzi
 
 Wahubiri wachache watanukuu Mithali 18:22 na kusema kwamba tunatakiwa kutia bidii na nguvu kutafuta mke, lakini tunatakiwa kukumbuka kwamba Mungu pekee ndiye atakayempa mtu mke mwema (19:14).
+

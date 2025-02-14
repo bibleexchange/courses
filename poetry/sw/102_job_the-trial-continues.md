@@ -15,3 +15,4 @@ Mwili wa Ayubu umejaa majipu, alikataa ushauri mbaya toka kwa mke wake, na rafik
 Sura ya pili inahitimishwa kwa siku saba za ukimya. Siku saba bila maneno! Hii inaweza kuonekana kama muda mrefu kwetu, lakini ilikuwa desturi ya kawaida ya kuomboleza wakati huo. Mfano wa hili ni wakati Yusufu aliomboleza kwa siku saba baada ya kifo cha baba yake (Mwanzo 50:10). Wayahudi leo bado "watakaa Shiva" kwa siku saba wakati wa kuomboleza.
 
 Milango inayofuata itathibitisha kuwa katika siku hizo saba Ayubu na rafiki zake walikuwa na mawazo mengi. Kila mmoja alikuwa na maswali yake na majibu. Wakati wanazungumza, Ayubu anabadilisha baadhi ya mawazo yake, lakini anadumisha kutokuwa na hatia.
+

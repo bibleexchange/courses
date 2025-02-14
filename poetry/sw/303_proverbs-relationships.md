@@ -70,3 +70,4 @@ Tunatakiwa kutia bidii katika mahusiano yetu na marafiki zetu, kwasababu kama tu
 * [5] Wilson, L. (2018). Proverbs: An Introduction and Commentary Vol. 17, (p. 399). Downers Grove, IL: InterVarsity Press.
 * [6] Bland, D. (2016). Proverbs and the Formation of Character (p. 4). Cambridge, UK: 	Lutterworth Press.
 </small>
+

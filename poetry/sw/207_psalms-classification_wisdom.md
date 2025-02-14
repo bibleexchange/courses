@@ -37,3 +37,4 @@ Misamiati ya kawaida katika zaburi hizi zinaelezea maombolezo, shukrani, na sifa
 * [4] Day, J. (1999). Psalms (p. 56). London; New York: T&T Clark.
 * [5] Guide to Studying the Psalter, p. 173
 </small>
+

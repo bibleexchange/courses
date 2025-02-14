@@ -1,6 +1,8 @@
-# Introduction to Ecclesiastes
+# Ecclesiastes
 
-## Who is "the preacher?"
+## Introduction to Ecclesiastes
+
+### Who is "the preacher?"
 
 The word in Hebrew is _Qohelet_ and it means "one who gathers." It might mean one who gathers people together to speak to them, or it might mean one who gathers ideas together, like a philosopher.
 
@@ -10,14 +12,14 @@ Another reason that people believe it is Solomon is because it says that he surp
 
 It is possible that it is Solomon, but there is no real evidence of it. Because many people think it is Solomon, they come to the text with assumptions, such as the fact that Solomon was far from God in the latter part of his life. To avoid this problem, we will call the preacher _Qohelet_ in this textbook and try to understand the text for itself.
 
-## The structure of the book
+### The structure of the book
 
 There are two people speaking in the book:
 
 1. A narrator speaks in 1:1-2, 7:27, and 12:8-14. He is telling the story of Qohelet.
 2. Qohelet speaks in the rest of the book.
 
-## The theme of the book
+### The theme of the book
 
 The book of Ecclesiastes is an understanding of life as it is. The word _vanity_ is used frequently. The word could also be translated as "breath" (See 4:16). It shows that life is short, so we need to make the most of the time that we have. This idea is not only found in Ecclesiastes, but it is found in Job (7:7-10), Psalms (62:9; 103:15), Isaiah (40:6-7), James (4:14), and I Peter (1:24).
 
@@ -206,3 +208,4 @@ These are wise sayings that will "prod" our thinking, and exhortations that will
 * Chapter 10 (Various wise sayings and the contrast between wisdom and folly)
 * Chapter 11 (Benevolences and advice to the young.)
 * Chapter 12 (Description of old age and conclusion concerning the highest duty of man.)-->
+

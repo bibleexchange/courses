@@ -1,11 +1,3 @@
-MWAKA WA PILI
-
-KITABU CHAKIADA
-
-# Elimu ya Mahubiri Sehemu ya Pili
-
-## Maandalizi ya hotuba na mahubibiri
-
 # Utangulizi
 
 Darasa hili litakufundisha namna ya kuandaa ratiba ya hotuba ya msingi. Ratiba ya msingi ni njia rahisi ya kuweka dondoo za andiko ambayo umeshajifunza. Ratiba hii ya msingi ni maandiko madogo ambayo inaonesha mipaka ya hotuba. Ratiba iliyoandaliwa vizuri itasaidia katika kuhubiri kwa hotuba. 
@@ -28,11 +20,12 @@ KIFUNGU: mst. 17–21 (Nukuu toka Yoel 2:28–32)
 
 KICHWA CHA UJUMBE: Yesu ni Masiha
 
+```
 I.  UTANGULIZI (mst. 14–16)
 II.  YESU ALITIMIZA MPANGO WA MUNGU (mst. 22–24)
   A.  Yesu alikuwa pendekezo la Mungu
-    1. Kwa miujiza, maajabu na ishara
-    2. Kwa kazi ya Mungu
+    1.  Kwa miujiza, maajabu na ishara
+    2.  Kwa kazi ya Mungu
   B.  Kusulubiwa ilikuwa sawa na mpango wa Mungu
   C.  Ufufuo ulikuwa umetimizwa kulingana na unabii
   D.  Kulingana na maarifa ya Mungu
@@ -48,6 +41,7 @@ V.  HITIMISHO (mst. 37–40)
   A.  Matokeo ya lichoma ndani ya mioyo yao (thibitisho la hatia ya kosa)
   B.  Haja yakuita kutubu na kubatizwa
   C.  Wengi waliitikia watu—3000 waliokoka
+```
 
 ### Mahubiri ya Yesu
 
@@ -88,7 +82,7 @@ V.  HITIMISHO (mst. 37–40)
 12. Mifano kwa ajili ya maombi (18:1–14; Luka 11:1–13)
 13. Wakati wa mwisho (21:5–36; Mat 24:1–26:2)
 
-### Katika injili kama ilivyo andikwa na Yohana
+#### Katika injili kama ilivyo andikwa na Yohana
 
 1. Kukutana na Nikodemo (3:1–21; Warumi 6:1–14)
 2. Mwanamke kisimani (4:5–38; Colossians 3:16)
@@ -105,7 +99,7 @@ V.  HITIMISHO (mst. 37–40)
 2. Huko Antiokia (Mdo 13:16–43)
 3. Mbele ya Feliki (Mdo 24:10–21)
 
-# Sehemu za Mahubiri
+# Sehemu za Hotuba
 
 Somo linapaswa kuandaliwa kwa kuzingaitia umbile, maelezo kwa mpango wa wazo. Ni lazima ufahamu unakoelekea na uongoze kwa njia ambayo wasikilizaji wako wataweza kufuata!
 
@@ -174,13 +168,13 @@ Kwenye ufufuo jumapili watu wanatarajia kusikia hotuba kuhusu ufufuo wa Kristo. 
 
 Maafa ya kitaifa yanaweza kuwafanya watu watambue nguvu za Mungu. Unaweza kuonesha jinsi unabii wa Biblia unavyokamilika. 
 
-#### Faida za kutumia kifungu cha Maandiko
+### Faida za kutumia kifungu cha Maandiko
 
-##### Kifungu cha Maandiko huonesha kwamba unazingatia ukweli na huhamasisha mshikamano na Biblia
+#### Kifungu cha Maandiko huonesha kwamba unazingatia ukweli na huhamasisha mshikamano na Biblia
 
 Kifungu cha maandiko humpa mhubiri nafasi ya kuieleza Mandiko. Kifungu cha Maandiko huzuia matumizi ya maneno yaliyo kinyume na mada isiyo ya ki-maandiko.
 
-##### Kifungu cha Maandiko huzuia kuropoka
+#### Kifungu cha Maandiko huzuia kuropoka
 
 Kifungu cha Mandiko yataushikia ujumbe mstarini. Kifungu cha Mandiko kitamzuia mhubiri asiyumbe na kupotea njia. Njia nzuri ya kukumbuka wakati unapopoteza hatua katika mahubiri au maandalizi na kurudi katika kifungu cha Maandiko. 
 
@@ -361,8 +355,8 @@ Neno moja haliko wazi kwa hiyo halifai kukamilisha kichwa cha somo. Neno moja ka
 
 Kama kawaida maandishi hayo yanapendekeza mada. Maandishi ni eneo la Maandiko ambayo husomwa kabla somo halijafundishwa. Kumbuka kwamba unafundisha Neno la Mungu. Mada inapaswa kwa asili ipatikane kutoka katika Injili. Maandishi hayo hayahitaji kutupwa kwenye ubao na kupata shida kabla ya mada kutolewa ndani yake. Mada inapaswa ionekane kwa urahisi katika maandishi kama moja ya mawazo yanayotawala. Wakati wa kulitoa somo ni vizuri kutumia mara kwa mara maneno yaliyoko katika maandishi. Kumbuka kulihubiri Neno kwa sababu mamlaka yako yanatokana na hilo Neno.
 
-**MAZOEZI: Tambua dhamira kuu ya kila moja ya vifungu vifuatavyo na kisha utambue baadhi ya makusudi madogomadogo kila kifungu. Yohn
-10:7--10; Zab 14:1; Yoh 14:6;**
+**MAZOEZI:** Tambua dhamira kuu ya kila moja ya vifungu vifuatavyo na kisha utambue baadhi ya makusudi madogomadogo kila kifungu. Yohn
+10:7--10; Zab 14:1; Yoh 14:6;
 
 ## Maelezo ya hoja
 
@@ -392,7 +386,7 @@ Maelezo hayo ya hoja hukuwezesha kufahamu somo kamili litahusu nini? Weka ujumbe
 * Andiko: Tutapataje kupona, tusipojali wokovu mkuu namna hii? Ambao kwanza ulinenwa na Bwana, kisha ukathibitika kwetu na wale waliosikia (Ebr. 2:3)  
 	Hoja: Kwa kweli wale ambao hawafanyi chochote kuhusu roho zao wanakataa zawadi kubwa kupita zote na hawataepuka hukumu ya milele motoni.
 
-	## Mwili
+## Mwili
 
 Ratiba ya mwili wa mafundisho inajumlisha nyama na uzito wa somo kwa maelezo ya dondoo muhimu au mgawanyo. Somo linajengeka hatua kwa hatua katika mwili wa ratiba. 
 
@@ -438,7 +432,7 @@ Tendo ndio lengo la hitimisho lenye kutia changa moto. Matumizi haya ya hitimish
 
 #### Sihi kwa hisia
 
-# Kinds of Sermons
+# Aina za Hotuba
 
 Kuna aina kuu mbili za hotuba: yakifungu na yakimada.
 
@@ -451,7 +445,23 @@ Hotuba za kifungu nizile ambazo somo na migawanyo mikuu vimepatikana kutoka kifu
 
 ### Migawanyo
 
-Maneno muhimu ndio yanayofanya sehemu za hotuba. Yafuatilie kwa umakini maneno yaliyoandikwa kipengele kwa kipengele. Maandishi hayo yanatenganishwa katika vifungu vinavyofaa kufanyia kazi, kwa ajili ya uchunguzi kamili. Maandishi hayo hayapasuliwi kama mtu anayevunja kwa nyundo kama mtoto anavyoweza kupasua saa. Maandishi hayo yanagawanywa kwa umakini wa mtengeneza saa. 
+Maneno muhimu ndio yanayofanya sehemu za hotuba. Yafuatilie kwa umakini maneno yaliyoandikwa kipengele kwa kipengele. Maandishi hayo yanatenganishwa katika vifungu vinavyofaa kufanyia kazi, kwa ajili ya uchunguzi kamili. Maandishi hayo hayapasuliwi kama mtu anayevunja kwa nyundo kama mtoto anavyoweza kupasua saa. Maandishi hayo yanagawanywa kwa umakini wa mtengeneza saa.
+
+Kugawanya maandishi katika lugha yake sahihi. Kwa uwazi, kupata viungo vyake asilia katika maandishi. Tafsiri sahihi ya maneno ya maandishi. Maana yake katika lugha ya asili (kitabu cha Strong kiitwacho Mzabibu). Tafakari ya taarifa kwa maneno yaliyoko ndani ya msitari. Kutafakari taarifa ya msitari ndani ya taarifa yote.
+
+### Jinsi ya kutenganisha Maandiko katika mawazo yake makuu
+
+Njia nzuri ya kusoma Injili ni kuitenga katika mafungu yake muhimu kama ilivyoandikwa. Unaweza kuendelea kujifunza wazo kuu la kilichoandikwa peke yake. Lengo la mhubiri ni kushirikisha wengine sehemu moja ya ukweli au tukio kwa wakati mmoja. Kuigawa Injili katika vipande kutakusaidia kuhubiri sehemu moja ya Injili halafu ukaendelea na sehemu nyingine kisha ukaijenga yote kwa wakati. Kwa mfano Yohana 3:16 inaweza kutenganishwa katika mawazo yake makuu kama ifuatavyo:
+
+| Sehemu ya Injili                        | Mada ya Kujifunza                     |
+| --------------------------------------- | ------------------------------------- |
+| Kwa jinsi hii Mungu aliupenda ulimwengu | upendo kubwa wa Mungu—anawapenda wote |
+| hata akamtoa Mwanaye wa pekee           | gharama kubwa ya wokovu wetu—msalaba  |
+| ili kila amwaminiye                     | mahitaji makubwa—imani                |
+| asipotee                                | kutoroka kubwa—kutotiwa hatiani       |
+| bali awe na uzima wa milele             | zawadi kubwa—mbinguni                 |
+
+Ukiangalia sehemu ya aya hii na ukajifunza utaielewa vizuri zaidi aya yote. Hii itakusaidia pia kuihubiri kwa kipande kimoja baada ya kingine. Utajifunza maana ya kushirikisha wengine sehemu kwa sehemu na kujenga hatua moja kwa wakati mmoja.
 
 ### Manufaa ya hotuba ya kifungu
 
@@ -463,10 +473,6 @@ Maneno muhimu ndio yanayofanya sehemu za hotuba. Yafuatilie kwa umakini maneno y
 
 Mafanikio ya kuandika hotuba yanategemea uchaguzi wa maandishi. Maandishi ya aina fulani yanafaa zaidi kuliko mengine kwa ajili ya kazi ya hotuba. Maandishi mengine ni bora zaidi kwa ajili ya kupanga mada. Maandishi yanaweza kuwekwa katika njia mbalimbali.
 
-### Lugha sahihi
-
-Kugawanya maandishi katika lugha yake sahihi. Kwa uwazi, kupata viungo vyake asilia katika maandishi. Tafsiri sahihi ya maneno ya maandishi. Maana yake katika lugha ya asili (kitabu cha Strong kiitwacho Mzabibu). Tafakari ya taarifa kwa maneno yaliyoko ndani ya msitari. Kutafakari taarifa ya msitari ndani ya taarifa yote.
-
 ### Kutambua tabia ya mafundisho ya namna hii
 
 #### Inapaswa kuwa ya kawaida na rahisi kuijenga mtiririko wa wazo kwa wazo
@@ -475,7 +481,7 @@ Usilazimishe kugawanya mahali pasipofaa panapokaribia kuvunjika.
 
 #### Inapaswa kuwepo na maendeleo mazuri ya mawazo
 
-Kila kipande kinapaswa kuipeleka mada hatua moja mbele kukaribia kilele. Siyo lazima kuyagawa maneno kama yanavyotokea ili mradi kunakupiga hatua katika somo lenyewe. 
+Kila kipande kinapaswa kuipeleka mada hatua moja mbele kukaribia kilele. Siyo lazima kuyagawa maneno kama yanavyotokea ili mradi kunakupiga hatua katika somo lenyewe.
 
 ### Njia za kupokea andiko cha maandiko
 
@@ -483,17 +489,17 @@ Kila kipande kinapaswa kuipeleka mada hatua moja mbele kukaribia kilele. Siyo la
 2. Tafuta vitu maishani ambavyo vitakukumbusha maandiko.
 3. Sikiza wahubiri wengine.
 4. Sikiza Roho. Ataiweka moyoni mwako (Yoh. 14:26).
-
 ### Mfano wa hotuba ya kifungu
 
 * KICHWA CHA HABARI: Mungu anataka nini
 * KIFUNGU: Kumb 10:12–13
 
-1. Umche BWANA, Mungu wako
-2. Kwenda katika njia zake zote
-3. Kumpenda
-4. Kumtumikia BWANA, Mungu wako, kwa moyo wako wote, na kwa roho yako yote
-5. Kuzishika amri za BWANA na sheria zake
+<pre><code>I.  Umche <span class="hljs-keyword">BWANA, </span>Mungu wako
+II.  Kwenda katika njia zake zote
+III.  Kumpenda
+IV.  Kumtumikia <span class="hljs-keyword">BWANA, </span>Mungu wako, kwa moyo wako wote, na kwa roho yako yote
+V.  Kuzishika amri za <span class="hljs-keyword">BWANA </span>na <span class="hljs-keyword">sheria </span>zake
+</code></pre>
 
 ### Kukigawanya kifungu katika sehemu zake: kutoa dondoo
 
@@ -639,15 +645,18 @@ Mafanikio ya mafunzo kwa njia ya hotuba hutegemea uwezo wa kusisitiza alionao mh
 * Dhamira: Safi
 * Kifungu: I Timoteo 5:22
 
+```
 I.  Ulazima kwa ajili ya utakaso
 II.  Ulazima kwa ajili ya Huduma
 III.  Ulazima kwa ajili ya Usalama
+```
 
 #### Mifano 2
 
 * Dhamira: Upendo pungufu
 * Kifungu: Ufunuo 2:4–5
 
+```
 I.  Tabia za huu upendo
   A.  Kasoro
   B.  Upungufu
@@ -660,16 +669,18 @@ III.  Chombo cha kuchuja huu upendo
   A.  Kumbuka
   B.  Tubu
   C.  Geuka
+```
 
 #### Mifano 3
 
 * Dhamira: Nafsi katika mapambano
 * Kifungu: Waefeso 6:10–18
 
-A.  Chanzo cha mapambano
-B.  Eneo la mapambano
-C.  Mafanikio katika mapambano
-
+```
+I.  Chanzo cha mapambano
+II.  Eneo la mapambano
+III.  Mafanikio katika mapambano
+```
 ﻿### Mfano wa hotuba ya kifungu na hotuba ya kimada 
 
 Mifano yote inatumia Yohana 3:16 kama kifungu kwa ajili ya mifano yote.
@@ -678,18 +689,21 @@ Mifano yote inatumia Yohana 3:16 kama kifungu kwa ajili ya mifano yote.
 
 #### Hotuba ya kifungu
 
+```
 I.  Kwa maana jinsi hii Mungu aliupenda ulimwengu
 II.  Kwamba alimtoa mwanae wa pekee
 III.  Ili kila amwaminiye asipotee, bali awe na uzima wa milele
+```
 
 Pointi kuu ni migawanyo ya asili ya kifungu.
 
 #### Hotuba ya kimada
 
+```
 I.  Hitaji la wokovu
 II.  Chanzo cha wokovu
 III.  Mchakato wa wokovu
+```
 
 Wazo kuu huja kutoka kifungu, na wewe unakuja na pointi zilizopangwa kihabari nakuwekewa msingi juu ya dhamira.
 
-

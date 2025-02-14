@@ -13,3 +13,4 @@ Mungu ameumba utu na dunia. Ametupa sisi kazi ya kufanya. Tunatakiwa tufanye kaz
 ### Kifo na hukumu (mst. 16–22)
 
 Kohelethi amevunjika moyo kwasababu kila mahali anapotazama anaona uovu. Lakini anajua kuwa kuna majira kwa kila kitu, na hata kama waovu watakuwa na majira ya kufanikiwa, majira ya hukumu yatakuja. Yesu alisema iache ngano ikue pamoja na magugu (Mat. 13:24-30).
+

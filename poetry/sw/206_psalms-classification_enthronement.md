@@ -54,3 +54,4 @@ Kuna mtazamo wa mbele katika 98:9. Inaangalia mbele kwa lini ufalme wa Mungu uta
 <small>
 * [1] Encountering the Psalms, p. 485
 </small>
+

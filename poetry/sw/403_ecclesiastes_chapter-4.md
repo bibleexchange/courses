@@ -19,3 +19,4 @@ Upweke siyo kitu ambacho Mungu anakitaka kwa mwanadamu (Mwan. 2:18), na aliwaahi
 ### Hekima na mamlaka (mst. 13–16)
 
 Wafalme wanaweza kuwa tayari kusikiliza wakiwa wadogo, lakini wakiwa wazee, hawatafuti tena ushauri.
+

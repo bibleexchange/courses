@@ -95,3 +95,4 @@ Zaburi 65 na 145 zinamsifu Mungu kwa sababu ya mavuno.
     4. Zaburi za kihistoria: Zaburi 105; 106; 114; 135; 136.
     5. Zaburi za kuingia: Zaburi 24, 95, na 100.<sup>[2]</sup>
     Psalms (Encountering Biblical Studies): A Literary and Theological Introduction By C. Hassell Bullock, p. 309-->
+

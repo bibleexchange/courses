@@ -61,3 +61,4 @@ Zaburi ya 62 inaeleza vizuri kwamba Mungu mwenyewe ni chanzo chetu cha kujiamini
 * [7] Encountering the Psalms, p. 434
 * [8] Day, J. (1999). Psalms (p. 52). London; New York: T&T Clark.
 </small>
+

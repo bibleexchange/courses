@@ -8,6 +8,7 @@ TEXT: vs. 17–21 (Quotation from Joel 2:28–32)
 
 TITLE: Jesus is the Messiah
 
+```
 I.  INTRODUCTION (vs. 14–16)
 II.  JESUS FULFILLED GOD'S PLAN (vs. 22–24)
   A. Jesus was approved of God
@@ -28,6 +29,7 @@ V.  CONCLUSION (vs. 37–40)
   A.  Results—pricked in their heart (conviction)
   B.  Application—call to repent and be baptized
   C.  Many responded—3000 souls saved
+```
 
 ### Jesus' Preaching
 

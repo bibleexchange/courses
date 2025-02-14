@@ -30,15 +30,6 @@ Katika zaburi hizi kuna mazungumzo kuhusu _maadui_. Inaweza kuwa haya yalikuwa m
 
 _Katika mfano wetu, malalamiko ni 13:2._
 
-**Kazi ya nyumbani:** Tafuta muundo wa Zaburi za maombolezo hizi:
-
-|            | Zab. 54                               | Zab. 71                                          |
-| ---------- | ------------------------------------- | ------------------------------------------------ |
-| Invocation | <span class='Teacher'>mst. 1–2</span> | <span class='Teacher'>mst. 1–3 (or 1–6)</span>   |
-| Complaint  | <span class='Teacher'>mst. 3</span>   | <span class='Teacher'>mst. 4–11 (or 7–11)</span> |
-| Petition   | <span class='Teacher'>mst. 4–5</span> | <span class='Teacher'>mst. 12–13</span>          |
-| Conclusion | <span class='Teacher'>mst. 6–7</span> | <span class='Teacher'>mst. 14–24</span>          |
-
 ##### Dua
 
 Sehemu hii inaomba msaada na motisha au sababu za kwanini Mungu lazima asaidie. "Wakati mwingine zaburi inaweza kujumuisha mashtaka ya hatia, mfano 'Nitanawa mikono yangu kwa kutokuwa na hatia' (26:6) au ukiri wa dhambi, mfano 'Maana nimejua mimi makosa yangu, na dhambi yangu i mbele yangu daima' (51:3), japokuwa mara nyingi wala ipo."<sup>[5]</sup> Zaburi hizi nyingi zina maswali yaliyojibiwa na Mungu.
@@ -50,6 +41,15 @@ _Katika mfano wetu, dua ni 13:3&ndash;4._
 Hitimisho la zaburi za maombolezo kwa kawaida huwa na sifa kwa Mungu. Inashangaza kuona mzungumzaji akibadilika kutoka kuvunjika moyo sana hadi kuhisi kuwa na tumaini katika Mungu. Inawezekana kwamba baada ya dua hilo na kabla ya hitimisho kwamba kuhani alitoa baraka fulani isiyoandikwa ambayo ilimfanya msemaji apate tena tumaini lao kwa Mungu.
 
 _Katika mfano wetu, hitimisho ni 13:5&ndash;6._
+
+**Kazi ya nyumbani:** Tafuta muundo wa Zaburi za maombolezo hizi:
+
+|            | Zab. 54                               | Zab. 71                                          |
+| ---------- | ------------------------------------- | ------------------------------------------------ |
+| Sala | <span class='Teacher'>mst. 1–2</span> | <span class='Teacher'>mst. 1–3 (or 1–6)</span>   |
+| Malalamiko  | <span class='Teacher'>mst. 3</span>   | <span class='Teacher'>mst. 4–11 (or 7–11)</span> |
+| Dua   | <span class='Teacher'>mst. 4–5</span> | <span class='Teacher'>mst. 12–13</span>          |
+| Hitimisho | <span class='Teacher'>mst. 6–7</span> | <span class='Teacher'>mst. 14–24</span>          |
 
 ### Zaburi za maombolezo binafsi
 
@@ -92,3 +92,4 @@ Lakini vipi kuhusu sisi leo? Je Wakristo waeleze malalamiko yao dhidi ya Mungu? 
 * [10] ibid, p. 108
 * [11] The Psalms as Christian Lament, p. 28
 </small>
+

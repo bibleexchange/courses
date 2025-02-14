@@ -48,3 +48,4 @@ Agano Jipya linathibitisha kwamba zaburi ilikuwa unabii wa Yesu. "Agano Jipya li
 * [7] Encountering the Psalms, p. 465
 * [8] Encountering the Psalms, p. 469
 </small>
+

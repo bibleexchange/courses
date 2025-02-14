@@ -8,6 +8,7 @@ KIFUNGU: mst. 17–21 (Nukuu toka Yoel 2:28–32)
 
 KICHWA CHA UJUMBE: Yesu ni Masiha
 
+```
 I.  UTANGULIZI (mst. 14–16)
 II.  YESU ALITIMIZA MPANGO WA MUNGU (mst. 22–24)
   A.  Yesu alikuwa pendekezo la Mungu
@@ -28,6 +29,7 @@ V.  HITIMISHO (mst. 37–40)
   A.  Matokeo ya lichoma ndani ya mioyo yao (thibitisho la hatia ya kosa)
   B.  Haja yakuita kutubu na kubatizwa
   C.  Wengi waliitikia watu—3000 waliokoka
+```
 
 ### Mahubiri ya Yesu
 

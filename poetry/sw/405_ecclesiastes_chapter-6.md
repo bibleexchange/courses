@@ -23,3 +23,4 @@ Mstari huu unahitimisha utafutaji wa Kohelethi. "Anaacha uwazi kwa maana na kati
 <small>
 * [1] Longman, T. (1998). The Book of Ecclesiastes (p. 176). Grand Rapids, MI: Wm. B. Eerdmans Publishing Co.
 </small>
+

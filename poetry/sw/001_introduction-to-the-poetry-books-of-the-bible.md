@@ -108,3 +108,4 @@ Misemo ya nambari ni wakati herufi imetolewa, na mstari uliofuata, kunakuwa na o
 * [3] ibid, pg. 16
 * [4] Stuart, D. (2009). Old Testament Exegesis: A Handbook for Students and Pastors (Fourth Edition, p. 177). Westminster John Knox Press.
 </small>
+

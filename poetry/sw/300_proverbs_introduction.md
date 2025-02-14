@@ -211,3 +211,4 @@ Upande unaosoma mithali na maonyo yake kuhusu mwanamke "mwovu," wanawake wanawez
 * [5] Van Leeuwan, Hebrew Studies 33 pg. 31
 * [6] Van Leeuwan, Hebrew Studies 33 pg. 32
 </small>
+

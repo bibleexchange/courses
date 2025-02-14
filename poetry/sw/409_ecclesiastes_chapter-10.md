@@ -41,3 +41,4 @@ Kohelethi alielewa kuwa ardhi ilibarikiwa vitu vizuri, kiongozi mwaminifu lakini
 * [2] Wright
 * [3] Clarke
 </small>
+

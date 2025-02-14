@@ -48,3 +48,4 @@ Kila kipande kinapaswa kuipeleka mada hatua moja mbele kukaribia kilele. Siyo la
 2. Tafuta vitu maishani ambavyo vitakukumbusha maandiko.
 3. Sikiza wahubiri wengine.
 4. Sikiza Roho. Ataiweka moyoni mwako (Yoh. 14:26).
+

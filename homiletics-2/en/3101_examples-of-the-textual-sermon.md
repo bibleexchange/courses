@@ -2,12 +2,14 @@
 
 * TITLE: What God Requires
 * TEXT: Deuteronomy 10:12–13
- 
+
+```
 I.  Fear the LORD thy God
 II.  Walk in all His ways
 III.  Love Him
 IV.  Serve the LORD thy God with all thy heart and with all thy soul
 V.  Keep the commandments of the LORD and his statues
+```
 
 ### Dividing a text into its parts: Outlining
 
@@ -37,6 +39,7 @@ The Bible is divided into books, chapters, paragraphs, verses. But further disse
 * TITLE: The Evangelist's Commission
 * TEXT: Luke 9:1–5
 
+```
 I.  ANSWER & GO
   A.  Then he called his twelve disciples together
   B.  gave them power and authority
@@ -48,6 +51,7 @@ III.  RECEIVE & GIVE
   A.  Take nothing for your journey
   B.  whatsoever house ye enter into, there abide
   C.  shake off the very dust from your feet for a testimony against them
+```
   
 **Exercise:** Divide the following Texts into their parts:  Ezekiel 1:10; Deut. 6:5; Romans12:1; Matt. 5:44; Proverbs 6:16–19; Joshua 22:15; I Cor. 13:13; Galatians 2:20; Revelation 3:20; Daniel 1:8; Ruth 1:16.
 

@@ -99,3 +99,4 @@ Utajiri unaweza kuwa zawadi kutoka kwa Mungu, lakini pia unaweza kutufanya tumsa
 * [1] Waltke, B. K. (2004). The Book of Proverbs, Chapters 1–15 (p. 258). Grand Rapids, MI: Wm. B. Eerdmans Publishing Co.
 * [2] ibid.
 </small>
+

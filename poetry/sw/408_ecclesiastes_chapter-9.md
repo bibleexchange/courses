@@ -22,3 +22,4 @@ Kohelethi anatoa hadithi ya mtu mwenye hekima aliyeokoa jiji lake, lakini alisah
 * [1] Kidner
 * [2] Spurgeon
 </small>
+

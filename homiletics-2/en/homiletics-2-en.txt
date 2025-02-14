@@ -28,9 +28,10 @@ TEXT: vs. 17–21 (Quotation from Joel 2:28–32)
 
 TITLE: Jesus is the Messiah
 
+```
 I.  INTRODUCTION (vs. 14–16)
 II.  JESUS FULFILLED GOD'S PLAN (vs. 22–24)
-  A.  Jesus was approved of God
+  A. Jesus was approved of God
 	  1.  By miracles, wonders and signs
 	  2.  By the work of God
   B.  The crucifixion was according to God's plan
@@ -48,6 +49,7 @@ V.  CONCLUSION (vs. 37–40)
   A.  Results—pricked in their heart (conviction)
   B.  Application—call to repent and be baptized
   C.  Many responded—3000 souls saved
+```
 
 ### Jesus' Preaching
 
@@ -360,7 +362,7 @@ Single words are too vague to form a complete subject. Single words like worship
 
 As a rule, the text naturally suggests the theme. The text is the portion of Scripture that is read before the sermon is preached. Remember that you are preaching the Word. The theme should flow naturally from the Scripture. The text should not need to be flung on the rack and tortured before the theme can be extracted from it. The theme should also be evident in the text as one of its ruling ideas. During the delivery of the sermon it is effective to frequently use the words of the text. Remember to preach the Word because your authority comes from the Word.
 
-**EXERCISE: Identify the main theme of each of the following texts and then identify some of their sub-themes. John 10:7–10; Psalm 14:1; John 14:6;**
+**EXERCISE:** Identify the main theme of each of the following texts and then identify some of their sub-themes. John 10:7–10; Psalm 14:1; John 14:6;
 
 ## The thesis statement
 
@@ -392,7 +394,9 @@ The thesis statement allows you to know exactly what the sermon is to be about. 
 
 ## The Body
 
-The body of the sermon outline includes the meat and substance of the sermon expressed as main points. The sermon is built step by step in the body of the outline.## The Conclusion
+The body of the sermon outline includes the meat and substance of the sermon expressed as main points. The sermon is built step by step in the body of the outline.
+
+## The Conclusion
 
 The conclusion is the end of a sermon, but is not merely the point where you say you are done, but is perhaps the most important part of the sermon. It is so important because it is an intense time of decision for the hearers. The conclusion should include a call to action. The question, “What should be said in the conclusion?” is answered by answering another question, “If the congregation were to leave forgetting everything that I have said in my sermon except for one thing, what would I want that one thing to be?” The answer to that question should be your conclusion. There are at Least Three Kinds of Sermon "Conclusions."
 
@@ -449,6 +453,22 @@ Textual sermons are those in which the subject and main divisions are derived fr
 
 The prominent words of the text form the divisions of the sermon. Follows closely the words of the text, clause by clause. The text is taken apart into manageable portions, for the purpose of a thorough examination of the text. The text is not taken apart with a club, as a child might break up a watch. The text is taken apart with the precision of a watchmaker.
 
+Division of the text in its precise language. At clear, natural breaking points within the text. A correct interpretation of the words of the text. The meaning in the original language (Strong’s, Vine’s). Considering the context of the word within the verse. Considering the context of the verse within the entire passage.
+
+#### How to separate a Scripture into its main thoughts
+
+A good way to study a Scripture is to break it down into the main phrases of the text. You can then study each main thought of the text separately. The goal of the preacher is to share one portion of truth at a time. Separating the Scripture into parts will help you to preach one part of the Scripture and then go on to the next part and build the sermon on the whole Scripture one piece at a time. For example John 3:16 can be separated into its main thoughts:
+
+| Scripture Part                      | Topic to Study                                |
+| ----------------------------------- | --------------------------------------------- |
+| For God so loved the world          | the **great love** of God—Loves ALL           |
+| that he gave his only begotten Son, | the **great cost** of our salvation—the cross |
+| that whosoever believeth in him     | the **great requirement**—faith               |
+| should not perish                   | the **great escape**—no condemnation          |
+| but have everlasting life.          | the **great reward**—heaven                   |
+
+Looking at this verse part by part and studying it will help you to better understand the verse. This will also help you to preach this verse in workable pieces, one portion at a time. You will learn how to share truth in sections and build one step at a time.
+
 ### Advantages of the textual sermon
 
 #### The structure (divisions) are already made
@@ -459,15 +479,11 @@ The prominent words of the text form the divisions of the sermon. Follows closel
 
 The success of the textual sermon. Dependent upon the selection of the text. Certain texts are better suited to textual treatment. Other texts are best treated in a topical manner. Many texts can be treated in a variety of different ways.
 
-### Precise language
-
-Division of the text in its precise language. At clear, natural breaking points within the text. A correct interpretation of the words of the text. The meaning in the original language (Strong’s, Vine’s). Considering the context of the word within the verse. Considering the context of the verse within the entire passage.
-
 ### Distinguishing characteristics of this type of sermon
 
 #### It should be natural and easy to develop a flowing of thought to thought
 
-Do not force divisions at awkward breaking points. 
+Do not force divisions at awkward breaking points.
 
 #### There should be a distinct advancement in thought
 
@@ -484,12 +500,14 @@ Each division should carry the theme one more step towards the climax. It is not
 
 * TITLE: What God Requires
 * TEXT: Deuteronomy 10:12–13
- 
+
+```
 I.  Fear the LORD thy God
 II.  Walk in all His ways
 III.  Love Him
 IV.  Serve the LORD thy God with all thy heart and with all thy soul
 V.  Keep the commandments of the LORD and his statues
+```
 
 ### Dividing a text into its parts: Outlining
 
@@ -519,6 +537,7 @@ The Bible is divided into books, chapters, paragraphs, verses. But further disse
 * TITLE: The Evangelist's Commission
 * TEXT: Luke 9:1–5
 
+```
 I.  ANSWER & GO
   A.  Then he called his twelve disciples together
   B.  gave them power and authority
@@ -530,6 +549,7 @@ III.  RECEIVE & GIVE
   A.  Take nothing for your journey
   B.  whatsoever house ye enter into, there abide
   C.  shake off the very dust from your feet for a testimony against them
+```
   
 **Exercise:** Divide the following Texts into their parts:  Ezekiel 1:10; Deut. 6:5; Romans12:1; Matt. 5:44; Proverbs 6:16–19; Joshua 22:15; I Cor. 13:13; Galatians 2:20; Revelation 3:20; Daniel 1:8; Ruth 1:16.
 
@@ -635,15 +655,18 @@ The success of the topical sermon is dependent on the rhetorical ability of the 
 * TOPIC: Purity
 * TEXT: I Timothy 5:22
 
+```
 I.  Necessary for Sanctification
 II.  Necessary for Service
 III.  Necessary for Security
+```
 
 #### Example 2
 
 * TOPIC: Deficient Love
 * TEXT: Revelation 2:4–5
 
+```
 I.  The Characteristics of This Love
   A.  Deficient
   B.  Lacking
@@ -656,15 +679,18 @@ III.  The Cure of This Love
   A.  Remember
   B.  Repent
   C.  Return
+```
 
 #### Example 3
 
 * TOPIC: The Soul in Conflict
 * TEXT: Ephesians 6:10–18
 
+```
 I.  The Source of the Conflict
 II.  The Scope of the Conflict
 III.  The Success in the Conflict
+```
 
 ### Examples of textual and topical sermons
 
@@ -674,18 +700,21 @@ Both of the following examples use John 3:16 as their text.
 
 #### The textual sermon
 
+```
 I.  For God so loved the world
 II.  That he gave his only begotten Son
 III.  That whosoever believeth in him should not perish, but have everlasting life
+```
 
 The main points are the natural divisions of the text.
 
 #### The topical sermon
 
+```
 I.  The need for salvation
 II.  The source of salvation
 III.  The process of salvation
+```
 
 The main idea comes from the text, and you come up with logical points based on that theme.
 
-

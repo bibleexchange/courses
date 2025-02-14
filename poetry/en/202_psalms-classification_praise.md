@@ -35,7 +35,7 @@ They are usually constructed around three key elements:
 |                  | Ps. 8   | Ps. 29                                | Ps. 103                               | Ps. 146                               | Ps. 147                             |
 | ---------------- | ------- | ------------------------------------- | ------------------------------------- | ------------------------------------- | ----------------------------------- |
 | Call to praise   | v. 1a   | <span class='teacher'>v. 1-2</span>   | <span class='teacher'>v. 1-5</span>   | <span class='teacher'>v. 1</span>     | <span class='teacher'>v. 1a</span>  |
-| Cause for praise | v. 1b-8 | <span class='teacher'>v. 3-9</span>   | <span class='teacher'>v. 6-19</span>  | <span class='teacher'>v. 2-10a</span> | <span>v. 1b-20a</span>              |
+| Cause for praise | v. 1b-8 | <span class='teacher'>v. 3-9</span>   | <span class='teacher'>v. 6-19</span>  | <span class='teacher'>v. 2-10a</span> | <span class='teacher'>v. 1b-20a</span>              |
 | Conclusion       | v. 9    | <span class='teacher'>v. 10-11</span> | <span class='teacher'>v. 20-22</span> | <span class='teacher'>v. 10b</span>   | <span class='teacher'>v. 20b</span> |
 
 ### Themes
