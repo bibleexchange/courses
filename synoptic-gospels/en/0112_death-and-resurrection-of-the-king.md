@@ -10,4 +10,4 @@ He was raised from the dead because He is King.
 
 Sometimes we are persecuted because of what or who we are. In the end we will be rewarded for the same, if we are faithful (Gal. 6:9).
 
-We see the King's power in the last verses (Matt. 28:18-20)
+We see the King's power in the last verses (Matt. 28:18-20).

@@ -4,88 +4,96 @@
 
 An amateur crowds everything in. We can see this with Mark.
 
-#### There is nothing about the virgin birth. 
+#### There is nothing about the virgin birth.
 
 No reference to His birth is made in the whole Gospel.
 
-### No one is interested in the pedigree of a servant.
+No one is interested in the pedigree of a servant.
 
-#### There is no visit of the wise men.
+#### There is no visit of the wise me
 
-### A servant does not receive homage.
+A servant does not receive homage.
 
-#### There is no account of the boy Jesus in the temple.
+#### There is no account of the boy Jesus in the temple
 
-##### servants are not important as children.
+servants are not important as children.
 
 #### There is no Sermon on the Mount.
 
-##### A servant has no kingdom and frames no laws.
+A servant has no kingdom and frames no laws.
 
-#### There are no continual quotations from the prophets. Only one in 1:2. Matthew quotes on every page.
+#### There are no continual quotations from the prophets
 
-#### No divine titles are used. Jesus is never called “King” except in derision.  Matthew says, “They shall call His name ‘Emanuel’“ (God with us).
+Only one in 1:2. Matthew quotes on every page.
 
-##### Mark calls Him Master where others call Him Lord.
+#### No divine titles are used
 
-###### Matthew - “Lord, save us; we perish”
+Jesus is never called "King" except in derision. Matthew says, "They shall call His name 'Emanuel'" (God with us).
 
-###### Mark - “Master, carest thou not that we perish?”
+##### Mark calls Him Master where others call Him Lord
 
-#### There is no statement that His work is finished at death. In John 19:30 He said, “It is finished.”
+1. Matthew - "Lord, save us; we perish"
+2. Mark - "Master, carest thou not that we perish?"
 
-##### A servant does not say when his work is done.
+#### There is no statement that His work is finished at death
 
-#### There is no introduction in Mark. The other Gospels have lengthy openings, but none in Mark.
+In John 19:30 He said, "It is finished."
 
-##### A servant has no introduction.
+A servant does not say when his work is done.
 
-### Key Verse - Mark 10:45
+#### There is no introduction in Mark
 
-### Key Word - “straightway” also translated “immediatly,” “forthwith," and "anon"
+The other Gospels have lengthy openings, but none in Mark.
 
-#### Used 42 times in the book.
+A servant has no introduction.
+
+### Key Verse
+
+Mark 10:45
+
+### Key Word
+
+"straightway" also translated "immediatly," "forthwith," and "anon"
+
+Used 42 times in the book.
 
 #### Definitely servant's words.
 
-### The word gospel is used twelve times in Matthew, Mark, Luke and John together.
+### The word gospel is used twelve times in Matthew, Mark, Luke and John together
 
-#### Eight of those times are in Mark.
+Eight of those times are in Mark.
 
-##### The servant is to bear the “Good News”
+The servant is to bear the "Good News"
 
 ### Twelve out of the sixteen chapters of Mark begin with the word "and."
 
-#### His service was continuous and constant.
+His service was continuous and constant.
 
 ### Mark is the shortest Gospel -
 
-#### Sixteen chapters and four parables.
+Sixteen chapters and four parables.
 
 ### Parables
 
-#### Matthew records fourteen parables
+Matthew records fourteen parables.
 
-####  Mark only four parables
+Mark only four parables:
 
-##### The sower
+1. The sower
+2. The seed growing secretly
+3. The mustard seed
+4. The wickeed husbandman
 
-##### The seed growing secretly
-
-##### The mustard seed
-
-##### The wickeed husbandman
-
-#### There is nothing about the householder or the marriage of the “king’s son” or the “talents”.
+There is nothing about the householder or the marriage of the "king's son" or the "talents."
 
 ### Miracles
 
-#### They have a leading place in Mark as parables have in Matthew.
+They have a leading place in Mark as parables have in Matthew.
 
-##### A king speaks, but a servant works.
+A king speaks, but a servant works.
 
-#####  Mark describes more of Jesus’ miracles more than he records Christ’s’ parables.
+Mark describes more of Jesus' miracles more than he records Christ's' parables.
 
-##### Twenty miracles are given in Mark in detail.
+Twenty miracles are given in Mark in detail.
 
-### Jesus is portrayed as the humble but perfect servant of Jehovah and we find angels ministering unto Him.
+Jesus is portrayed as the humble but perfect servant of Jehovah and we find angels ministering unto Him.

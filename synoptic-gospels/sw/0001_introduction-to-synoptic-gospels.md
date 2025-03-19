@@ -40,13 +40,11 @@ Katika Ufunuo, matokeo yake yote - yamekwisha.
 
 ## KWANINI NNE? (Sababu nne)
 
-### Moja au mbili haziwezi kutupa ufafanuzi mzuri wa maisha ya Kristo
-
-### Kuna ofisi nne tofauti za Kristo na Ezekieli 1:1O ni sawsawa na ufafanuzi wa Kristo katika Injili
-
-Mfalme/Simba, Mtumishi/maksai, Mwana wa Mwanadamu/Mwanadamu, Mwana wa Mungu/Malaika.
+Moja au mbili haziwezi kutupa ufafanuzi mzuri wa maisha ya Kristo.
 
 ### Kila Dhamira za Injili zinamfunua Kristo katika mwanga mwingine
+
+Kuna ofisi nne tofauti za Kristo na Ezekieli 1:1O ni sawsawa na ufafanuzi wa Kristo katika Injili (Mfalme/Simba, Mtumishi/maksai, Mwana wa Mwanadamu/Mwanadamu, Mwana wa Mungu/Malaika).
 
 ### Kila Mwandishi ni mwakilishi tofauti wa Bwana wetu mmoja
 
@@ -54,9 +52,7 @@ Kila Injili ni ya kawaida sana kwa zingine, japo zina umuhimu tofauti. Kila Mwan
 
 ### Nne = Ulimwengu (Kaskazini, Kusini, Mashariki, na Magharibi)
 
-### Kuna pembe Nne za dunia
-
-Tuunahubiri Injili kwa kila kiumbe. Injili Nne zinaeleza kwa maneno huduma za duniani katika Mbingu moja.
+Kuna pembe Nne za dunia. Tuunahubiri Injili kwa kila kiumbe. Injili Nne zinaeleza kwa maneno huduma za duniani katika Mbingu moja.
 
 ## YESU KATIKA INJILI NNE (Ofisi nne)
 
@@ -73,12 +69,12 @@ Tuunahubiri Injili kwa kila kiumbe. Injili Nne zinaeleza kwa maneno huduma za du
 - Luka anamhusisha Mwokozi ni mwenye Neema kamilifu.
 - Yohana anamhusisha Mwokozi ni mmiliki wa watu.
 
-Injili zote zimefungwa kwa ahadi za Mesia. Tunaweza kuona haya katika Agano a Kale:
+Injili zote zimefungwa kwa ahadi za Mesia. Tunaweza kuona haya katika Agano la Kale:
 
-- **Mfalme** Zab. 72; Isa. 9:6,7, 32:1; Yer. 23:5; Zek. 9:9, 14:9
+- **Mfalme** Zab. 72; Isa. 9:6, 7, 32:1; Yer. 23:5; Zek. 9:9, 14:9
 - **Mtumishi** (wa Yehova) Isa. 42:1-7, 52:13-15
-- **Mtu** (Mwana wa Mwanadamu) mwanz.22:18; Isa. 7:14,15, 9:6
-- **Mungu** (Mwana wa Mungu) Isa. 7:14,15, 9:6, 40:3-5, 47:4
+- **Mtu** (Mwana wa Mwanadamu) Mwanz. 22:18; Isa. 7:14, 15, 9:6
+- **Mungu** (Mwana wa Mungu) Isa. 7:14, 15, 9:6, 40:3-5, 47:4
 
 ## Ndipo sasa ni aina ya Watu
 
@@ -88,7 +84,7 @@ kulikuwa na mafunzo maalum. Maandioko na Manabii walisimamishwa katika Agano la 
 
 ### Warumi
 
-Mkuu wa ukimwengu kwa wakati huu. Marko aliandika kutoka kwao. Warumi hawakujua chochote kuhusu maandiko ya Agano la Kale.Hawakupendezwa na unabii ulivyotimizwa. Uhai kuhusu juu ya alama ya kiongozi atakaye patikana katika Palestina. Walitakiwa kujua kama kweli amemiliki nguvu za kawaida za ziada. Wakapenda ujumbe mnyoofu wa Marko. Marko alikjawa na ukweli si kwa maneno. Ni Injili ya waziwazi ya huduma ya Kristo. Warumi katika siku za Yesu walikuwa kama watu wa biashara ya kawaida wa siku hizi.Hawajihusishi kama mwanzo kuhusu ukoo wa Ufalme, ila kwa ajili ya Mungu ambaye ni mweza, Mungu ambaye anaweza kukutana na mtu yeyote amtakaye. Marko ni mfanya biashara ya Injili.
+Mkuu wa ukimwengu kwa wakati huu. Marko aliandika kutoka kwao. Warumi hawakujua chochote kuhusu maandiko ya Agano la Kale. Hawakupendezwa na unabii ulivyotimizwa. Uhai kuhusu juu ya alama ya kiongozi atakaye patikana katika Palestina. Walitakiwa kujua kama kweli amemiliki nguvu za kawaida za ziada. Wakapenda ujumbe mnyoofu wa Marko. Marko alikjawa na ukweli si kwa maneno. Ni Injili ya waziwazi ya huduma ya Kristo. Warumi katika siku za Yesu walikuwa kama watu wa biashara ya kawaida wa siku hizi. Hawajihusishi kama mwanzo kuhusu ukoo wa Ufalme, ila kwa ajili ya Mungu ambaye ni mweza, Mungu ambaye anaweza kukutana na mtu yeyote amtakaye. Marko ni mfanya biashara ya Injili.
 
 ### Ugriki (uyunani)
 
@@ -120,9 +116,7 @@ Tofauti - Yesu, mtu mkamilifu, alitumwa na Baba. Yeye alikuwa ni sehem toka kwak
 
 ### Yohana
 
-Hakuwa na ukoo wa kidunia, isipokuwa wa kimbinguni. Hapo mwanzo kulikuwako Neno, Naye Neno alikuwako kwa Mungu (Yohana 1:1,2). Kristo ameelezwa kama Mwana wa Mungu katika Yohana (Vizazi vinne- Mathayo 1:1-17; Marko; Luka 3:23-38; Yohana 1:1,2).
-
-### Mstari wa mwisho
+Hakuwa na ukoo wa kidunia, isipokuwa wa kimbinguni. Hapo mwanzo kulikuwako Neno, Naye Neno alikuwako kwa Mungu (Yohana 1:1, 2). Kristo ameelezwa kama Mwana wa Mungu katika Yohana (Vizazi vinne- Mathayo 1:1-17; Marko; Luka 3:23-38; Yohana 1:1, 2).
 
 Lakini pia kuna vitu vingine vingi, (21:25) Hakika, asingeweza mtu kuongea kama mtu huyu (7:46), kwa hiyo Yeye ni Mwana halali wa Mungu. Ilionyesha Kristo asili yake ni milele, hana mwanzo - hana mwisho; Yeye ni Mwana wa Mungu.
 

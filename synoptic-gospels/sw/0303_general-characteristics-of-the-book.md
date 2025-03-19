@@ -8,85 +8,92 @@ Makundi ya wasanifu kila kitu kipo. Tunaweza kuona hili kwa Marko.
 
 Hakuna rejea kwa uzao wake ni katika Injili yote.
 
-### Hakuna hata mmoja aliyevutiwa katika ukoo wa utumishi
+Hakuna hata mmoja aliyevutiwa katika ukoo wa utumishi.
 
 #### Mamajusi wa mashariki hawakumtembelea
 
-### Watumishi hawakusujudu
+Watumishi hawakusujudu
 
 #### Hapakuwa na thamani ya kijana Yesu katika hekalu
 
-##### Watumishi si wamuhimu kama watoto
+Watumishi si wamuhimu kama watoto
 
 #### Hapakuwepo na hotuba mlimani
 
-##### Ufalme haukuwa kwa mtumishi wala kutunga sheria
+Ufalme haukuwa kwa mtumishi wala kutunga sheria.
 
-#### Hapakuwepo na mwendelezo wa nakala kutoka kwa Manabii. Moja tu katika 1:2. Mathayo ana nukuu juu ya kila kurasa
+#### Hapakuwepo na mwendelezo wa nakala kutoka kwa Manabii
 
-#### Hakuna cheo cha Kiunagu kilichotumika. Yesu hawakuwahi kumwita "Mfalme" isipo kuwa kwa dhihaka. Mathayo anasema, "Jina lake ataitwa 'Emanueli'" (Mungu pamoja nasi)
+Moja tu katika 1:2. Mathayo ana nukuu juu ya kila kurasa
+
+#### Hakuna cheo cha Kiunagu kilichotumika
+
+Yesu hawakuwahi kumwita "Mfalme" isipo kuwa kwa dhihaka. Mathayo anasema, "Jina lake ataitwa 'Emanueli'" (Mungu pamoja nasi).
 
 ##### Marko anamwita Yeye Mkuu wakati wengine wanamwita Yeye Bwana
 
-###### Mathayo - "Bwana, tuokoe; tunaangamia"
+1. Mathayo - "Bwana, tuokoe; tunaangamia"
+2. Marko - "Mkuu, usingetukumbatia tungekufa?
 
-###### Marko - "Mkuu, usingetukumbatia tungekufa?
+#### Hakuna maelezo kwamba kazi yake imemalizwa kwa kifo
 
-#### Hakuna maelezo kwamba kazi yake imemalizwa kwa kifo. Katika Yohana 19:30 Alisema, "Yamekwisha."
+Katika Yohana 19:30 Alisema, "Yamekwisha."
 
-##### Mtumishi alinyamaza mpaka kazi ilipo malizika
+Mtumishi alinyamaza mpaka kazi ilipo malizika.
 
-#### Hakuna utangulizi katika Marko. Injili zingine zina ufunguzi mrefu, lakini kwa Marko hakuna. 
+#### Hakuna utangulizi katika Marko
 
-##### Mtumishi hakuwa na utangulizi.
+Injili zingine zina ufunguzi mrefu, lakini kwa Marko hakuna.
 
-### Mstari wa ufunguo - Marko 10:45
+Mtumishi hakuwa na utangulizi.
 
-### Neno la ufunguo -"bila kukawia" pia imetafsiriwa "ghafla," "papo hapo" na "mara"
+### Mstari wa ufunguo
 
-#### Limetumika mara 42 katika kitabu.
+Marko 10:45
+
+### Neno la ufunguo
+
+"bila kukawia" pia imetafsiriwa "ghafla," "papo hapo" na "mara"
+
+Limetumika mara 42 katika kitabu.
 
 #### Maneno dhahiri ya mtumishi.
 
-### Neno injili limetumika mara kumi na mbili katika Mathayo, Marko, na Yohana kwa pamoja.
+### Neno injili limetumika mara kumi na mbili katika Mathayo, Marko, na Yohana kwa pamoja
 
-#### Mara nane ya yale yanapatikana katika Marko.
+Mara nane ya yale yanapatikana katika Marko.
 
-##### Mtumishi ni kuzaa "Habari Njema"
+Mtumishi ni kuzaa "Habari Njema"
 
 ### Sura kumi na mbili kati ya kumi na sita za Marko zinaanza na neno "na"
 
-#### Huduma yake ilikuwa inaendelea na kutengamaa.
+Huduma yake ilikuwa inaendelea na kutengamaa.
 
 ### Injili fupi kuiko zote ni ya Marko
 
-#### Sura kumi na sita na mifano minne.
+Sura kumi na sita na mifano minne.
 
 ### Mifano
 
-#### Mathayo alinakili mifano kumi na nne
+Mathayo alinakili mifano kumi na nne.
 
-#### Marko mifano minne tu
+Marko mifano minne tu:
 
-##### Mpanzi
+1. Mpanzi
+2. Mbegu ikakua kwa siri
+3. Mbegu ya haradani
+4. Mkulima muovu
 
-##### Mbegu ikakua kwa siri
-
-##### Mbegu ya haradani
-
-##### Mkulima muovu
-
-#### Hakuna chochote kuhusu mwangalizi wa nyumba au ndoa ya "Mwana wa Kifalme" au "kipaji"
+Hakuna chochote kuhusu mwangalizi wa nyumba au ndoa ya "Mwana wa Kifalme" au "kipaji."
 
 ### Miujiza
 
-#### Kuna sehemu inayotuongoza katika Marko kama mifano ilio katika Mathayo.
+Kuna sehemu inayotuongoza katika Marko kama mifano ilio katika Mathayo.
 
-##### Mfalme huongea, lakini mtumishi hufanya.
+Mfalme huongea, lakini mtumishi hufanya.
 
-##### Marko anamaelezo zaidi ya mifano ya Yesu kuliko nakala ya mifano ya Kristo.
+Marko anamaelezo zaidi ya mifano ya Yesu kuliko nakala ya mifano ya Kristo.
 
-##### Miujiza ishirini tunaipata katika Marko kwa undani.
+Miujiza ishirini tunaipata katika Marko kwa undani.
 
-### Yesu anaelezwa kama mnyenyekevu lakini mtu mkamilifu wa Yehova na tunapata malaika wanahudum kwake.
- 
+Yesu anaelezwa kama mnyenyekevu lakini mtu mkamilifu wa Yehova na tunapata malaika wanahudum kwake.

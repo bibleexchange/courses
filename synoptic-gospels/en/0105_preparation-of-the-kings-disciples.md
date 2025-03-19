@@ -28,25 +28,18 @@ Who was Jesus referring to in Matthew 16:28? Some believe that is was John the b
 
 ### The transfiguration of Christ (17:1-9)
 
-#### His face did shine as the sun
-
-#### His raiment was white as the light
-
-#### The appearance of Moses and Elijah
-
-Moses could not enter into the Promised Land, because of unbelief. But where is Moses now? He is standing on the Promised Land. 
+1. His face did shine as the sun.
+2. His raiment was white as the light.
+3. The appearance of Moses and Elijah. Moses could not enter into the Promised Land, because of unbelief. But where is Moses now? He is standing on the Promised Land.
 
 #### The Father's witness of the Son (17:5)
-
-> "This is my beloved Son, in whom I am well pleased; hear ye Him."
 
 ### John the Baptist's prophetic fulfilment (17:10-13)
 
 ### Healing of demoniac son (17:10-13)
 
-#### The disciples lack of faith
-
-#### The need for prayer and fasting
+1. The disciples lack of faith
+2. The need for prayer and fasting
 
 There is a need in the ministry for prayer and fasting. Is it easy? No. Does the flesh enjoy it? No. Is it necessary? Yes.
 

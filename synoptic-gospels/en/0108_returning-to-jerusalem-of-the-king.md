@@ -6,9 +6,8 @@
 
 ### Christ the ministering servant (20:25-28)
 
-#### We are to follow Christ's example
-
-#### Gave His life a ransom for many
+1. We are to follow Christ's example
+2. Gave His life a ransom for many
 
 ### Two blind men healed (20:29-34)
 
@@ -16,10 +15,9 @@
 
 The two disciples brought an ass and a colt.
 
-This parade could not have been compared in magnificence to any procession that has attended the coronation of a king, or the inauguration of a president; but it meant much more for the world. 
+This parade could not have been compared in magnificence to any procession that has attended the coronation of a king, or the inauguration of a president; but it meant much more for the world.
 
-This was the first public recognition of His rights Messiah and King. He offered Himself as Messiah only to be
-rejected and killed. How great is the love of God!
+This was the first public recognition of His rights Messiah and King. He offered Himself as Messiah only to be rejected and killed. How great is the love of God!
 
 The people spread garments and branches to carpet the highway. They cried our Psalms and when people asked them who He was they replied, "This is Jesus the prophet of Nazareth of Galilee."
 

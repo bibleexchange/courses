@@ -6,8 +6,7 @@
 
 Unless you are absolutely sure it is God's Will for you to marry, don't get married. Many people have been ruined by marrying the wrong person.
 
-Fornication and adultery are not the same thing. According to the law, in a certain set of days after the wedding and she is found to have committed (fornication) than you could separate in that certain days, not ten years down the road. 
-According to Romans 7:1-3 the sin is ongoing, even if you have asked for forgiveness. But in the ministry that disqualifies you from the ministry.
+Fornication and adultery are not the same thing. According to the law, in a certain set of days after the wedding and she is found to have committed (fornication) than you could separate in that certain days, not ten years down the road. According to Romans 7:1-3 the sin is ongoing, even if you have asked for forgiveness. But in the ministry that disqualifies you from the ministry.
 
 ### Suffer little children (19:13-15)
 
@@ -23,8 +22,6 @@ He wouldn't let go of the money to serve the Lord.
 
 ### The parable of the vineyard (20:1-16)
 
-#### One penny was a day's wage
-
-#### Others came in at different hours
-
-#### All received the same wage
+1. One penny was a day's wage
+2. Others came in at different hours
+3. All received the same wage

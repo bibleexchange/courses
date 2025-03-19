@@ -2,13 +2,10 @@
 
 ### The beginning of rejection (11:2-30)
 
-#### The question of John the Baptist
-
-#### Christ's testimony of John the Baptist
-
-#### Unrepentant cities
-
-#### Jesus the burden bearer
+1. The question of John the Baptist
+2. Christ's testimony of John the Baptist
+3. Unrepentant cities
+4. Jesus the burden bearer
 
 ### The rejection by the Pharisees (12:1-50)
 
@@ -36,10 +33,10 @@ A parable is a familiar story or illustration used to teach a spiritual truth.
 
 Why did Jesus teach in parables?
 
-* Because not given to all to know the mysteries of the kingdom of heaven (13:11)
-* Because it was prophesied (13:34-35)
+- Because not given to all to know the mysteries of the kingdom of heaven (13:11)
+- Because it was prophesied (13:34-35)
 
-> "I will open My mouth in parable: I will utter dark sayings of old:" &ndash;Psalm 78:2
+> "I will open My mouth in parable: I will utter dark sayings of old:" -Psalm 78:2
 
 ### The rejection at Nazareth (13:53-14:36)
 
@@ -65,17 +62,14 @@ He started sinking with unbelief, but was saved by the Lord.
 
 #### Jesus reproves the pharisees (15:1-9)
 
-> "But in vain they do worship me, teaching for doctrines the commandments of men." &ndash;Matthew 15:9
-
 #### Christ's teaching on defilement (15:10-20)
 
 Man is not defiled by what he eats, but he is defiled by what comes out of his heart (15:19-20).
 
 #### Healing of the Syrophenician woman's daughter (15:21-28)
 
-##### Great is thy faith
-
-##### Be it unto thee even as thou wilt (15:28)
+1. Great is thy faith
+2. Be it unto thee even as thou wilt (15:28)
 
 #### The Great Physician (15:29-31)
 
@@ -83,8 +77,7 @@ Man is not defiled by what he eats, but he is defiled by what comes out of his h
 
 #### Pharisees and Sadducees rebuked (16:1-4)
 
-##### They were seeking a sign from heaven
-
-##### They could not discern the signs of the times
+1. They were seeking a sign from heaven
+2. They could not discern the signs of the times
 
 #### Beware of the doctrine of the pharisees and sadducees (16:5-12)

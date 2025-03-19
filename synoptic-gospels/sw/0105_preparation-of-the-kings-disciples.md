@@ -28,25 +28,18 @@ Yesu alikuwa akimzungumzia nani katika Mathayo 16:28? Baadhi wanaamini kuwa ni Y
 
 ### Ubadilishaji wa Kristo (17:1-9)
 
-#### Uso wake uliangaza kama jua
-
-#### Nguo yake ilikuwa nyeupe kama mwanga
-
-#### Kuonekana kwa Musa na Eliya
-
-Musa hakuweza kuingia katika Nchi ya Ahadi, kwa sababu ya kutokuamini. Lakini yuko wapi Musa sasa? Yeye amesimama juu ya Nchi ya Ahadi.
+1. Uso wake uliangaza kama jua.
+2. Nguo yake ilikuwa nyeupe kama mwanga.
+3. Kuonekana kwa Musa na Eliya. Musa hakuweza kuingia katika Nchi ya Ahadi, kwa sababu ya kutokuamini. Lakini yuko wapi Musa sasa? Yeye amesimama juu ya Nchi ya Ahadi.
 
 #### Ushahidi wa Baba kuhusu mwana (17:5)
-
-> "Huyu ni Mwanangu, mpendwa wangu, ninayependezwa naye; msikieni yeye."
 
 ### Utimizaji wa unabii wa Yohana Mbatizaji (17:10-13)
 
 ### Uponyaji wa mwanadamu aliyekuwa na pepo (17:10-13)
 
-#### Ukosefu wa imani wa wanafunzi
-
-#### Haja ya sala na kufunga
+1. Ukosefu wa imani wa wanafunzi
+2. Haja ya sala na kufunga
 
 Kuna haja katika huduma kwa ajili ya sala na kufunga. Je, ni rahisi? Hapana. Je, mwili hufurahia? Hapana. Je, ni muhimu? Ndio.
 

@@ -4,16 +4,13 @@
 
 ### The pharisees' trap (22:15-22)
 
-#### Question about taxes
-
-#### The wisdom of Jesus
+1. Question about taxes
+2. The wisdom of Jesus
 
 ### The Sadducees Attempt to stump Jesus (22:23-33)
 
 ### The lawyer's temptation (22:34-46)
 
-#### The greatest commandment
-
-#### Love thy neighbor
-
-#### Man's wisdom confounded
+1. The greatest commandment
+2. Love thy neighbor
+3. Man's wisdom confounded

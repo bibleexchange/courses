@@ -4,35 +4,31 @@
 
 ### Mwandishi
 
-#### Luka ni mwandishi wa kidunia wa kitabu hiki
+Luka ni mwandishi wa kidunia wa kitabu hiki.
 
-#### Luka anatoa maelezo mengi juu ya mwanzo wake (1:1-4)
+Luka anatoa maelezo mengi juu ya mwanzo wake (1:1-4).
 
-#### Kitabu hiki kiliandikwa kwa mtu mmoja aitwaye Theophilo (1:3)
+Kitabu hiki kiliandikwa kwa mtu mmoja aitwaye Theophilo (1:3). Jina la Theophilo linamaanisha "Mpenzi wa Mungu" au "mmoja aliyependwa na Mungu." Anaweza kuwa mtu wa juu kwa sababu cheo "mtukufu" kilikuwa kinatumika tu kwa viongozi au wanachama wa hali ya juu ya kijamii.
 
-Jina la Theophilo linamaanisha "Mpenzi wa Mungu" au "mmoja aliyependwa na Mungu." Anaweza kuwa mtu wa juu kwa sababu cheo "mtukufu" kilikuwa kinatumika tu kwa viongozi au wanachama wa hali ya juu ya kijamii.
-
-#### Mwandishi, Luka, anajulikana kwa jina mara tatu tu
+Mwandishi, Luka, anajulikana kwa jina mara tatu tu:
 
 - Kol. 4:14
 - File. 1:24
 - II Tim. 4:11
 
-#### Tunaona yeye ni daktari, mmoja wa wafanyakazi wa Paulo, na kwamba alikuwa pamoja na Paulo wakati wa kifungo cha mwisho
+Tunaona yeye ni daktari, mmoja wa wafanyakazi wa Paulo, na kwamba alikuwa pamoja na Paulo wakati wa kifungo cha mwisho.
 
-#### Wengi wanahisi kwamba Luka alikuwa Mataifa wa kuzungumza Kigiriki, ambaye alikuwa amepata elimu nzuri na ambaye alikuwa na uwezo mkubwa wa akili
+Wengi wanahisi kwamba Luka alikuwa Mataifa wa kuzungumza Kigiriki, ambaye alikuwa amepata elimu nzuri na ambaye alikuwa na uwezo mkubwa wa akili.
 
-#### Luka alikuwa daktari
-
-#### Luka pia aliandika kitabu cha Matendo (Acts 1:1)
+Luka pia aliandika kitabu cha Matendo (Acts 1:1).
 
 Luka iliandikwa kabla ya Mathayo na Marko. Luka labda aliandikwa mwaka mmoja kabla ya Mathayo.
 
 ### Wasikilizaji
 
-#### Luka kiliandikwa kwa Wagiriki
+Luka kiliandikwa kwa Wagiriki.
 
-#### Wagiriki walikuwa tofauti na Wayahudi na Warumi
+Wagiriki walikuwa tofauti na Wayahudi na Warumi:
 
 - Walikuwa na utamaduni mkubwa
 - Walipenda uzuri
@@ -40,7 +36,7 @@ Luka iliandikwa kabla ya Mathayo na Marko. Luka labda aliandikwa mwaka mmoja kab
 - Walipenda falsafa
 - Walipendezwa sana na mtu wa kimwili
 
-#### Kwa sababu Luka alijifunza Kigiriki vizuri na kuwa daktari, angeweza kufaa kwa kazi hii
+Kwa sababu Luka alijifunza Kigiriki vizuri na kuwa daktari, angeweza kufaa kwa kazi hii.
 
 ### Uwasilishaji
 
@@ -55,15 +51,9 @@ Luka peke yake anatuambia kuhusu:
 
 ##### Tunamwona Yesu kama mtu mkamilifu katika utangulizi
 
-Kuanzishwa kwa Injili ya Yohana inaonyesha mandhari ya Yesu kuwa Mwana wa Mungu.
+Kuanzishwa kwa Injili ya Yohana inaonyesha mandhari ya Yesu kuwa Mwana wa Mungu (Yoh. 1:1).
 
->"Hapo mwanzo kulikuwako Neno, naye Neno alikuwako kwa Mungu, naye Neno alikuwa Mungu."&mdash;Yoh. 1:1
-
-Luka, kama hadithi rahisi kuhusu watu, hutoa Yesu kama mtu katika utangulizi.
-
->"Zamani za Herode, mfalme wa Uyahudi, palikuwa na kuhani mmoja, jina lake Zakaria..."&mdash;Luka 1:5
-
->"Siku zile amri ilitoka kwa Kaisari Augusto ya kwamba iandikwe orodha ya majina ya watu wote wa ulimwengu."&mdash;Luka 2:1
+Luka, kama hadithi rahisi kuhusu watu, hutoa Yesu kama mtu katika utangulizi (Luka 1:5; 2:1).
 
 Kumbuka: Mika alisema kwamba Bethlehemu ilikuwa ni mahali pa kuzaliwa kwa Yesu (Mika 5: 2-5).
 
@@ -108,7 +98,7 @@ Miujiza mitano kati ya sita katika kitabu hicho ilikuwa miujiza ya uponyaji.
 
 Luka tu anaelezea kuhusu uponyaji wa sikio la Malko (22:51).
 
-### Tunaweza kuona Luka pia ni kwa watu wasiohitajika duniani.
+#### Tunaweza kuona Luka pia ni kwa watu wasiohitajika duniani
 
 Luka tu anatuambia kuhusu:
 
@@ -117,7 +107,7 @@ Luka tu anatuambia kuhusu:
 - Mwana mpotevu (15:11-24)
 - Zakayo (19:2)
 
-### Luka ni mwandishi ambaye ana mengi ya kusema kuhusu wanawake
+#### Luka ni mwandishi ambaye ana mengi ya kusema kuhusu wanawake
 
 Katika Luka tunaona zaidi juu ya Maria na Elizabeth (Sura ya 1 na 2).
 
@@ -128,16 +118,13 @@ Kuheshimu kwake wanawake na watoto huonekana katika:
 - Jinsi Yesu anamfungua mtoto wa mwanamke (9:38-42)
 - Martha na Maria waliwakemea kwa huruma (10:38-42)
 - Binti za Yerusalemu (23:27, 28)
+
 ### Mstari muhimu ni Luka 19:10
 
 "Kwa kuwa Mwana wa Adamu alikuja kutafuta na kuokoa kile kilichopotea."
 
-### Neno muhimu ni huruma
+### Neno muhimu ni huruma (Luka 17:13)
 
-Luka 17:13
-
-#### Yesu (10:33)
-
-#### Msamaria Mzuri (15:20)
-
-#### Baba wa mwana mpotevu
+1. Yesu (10:33)
+2. Msamaria Mzuri (15:20)
+3. Baba wa mwana mpotevu

@@ -22,8 +22,6 @@ Hakuweza kuruhusu fedha kwenda kumtumikia Bwana.
 
 ### Mfano hai wa shamba la mizabibu (20:1-16)
 
-#### Dinari ilikuwa mshahara wa siku
-
-#### Wengine walifika saa tofauti
-
-#### Wote walipokea mshahara huo
+1. Dinari ilikuwa mshahara wa siku
+2. Wengine walifika saa tofauti
+3. Wote walipokea mshahara huo

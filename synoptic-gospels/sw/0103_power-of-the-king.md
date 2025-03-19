@@ -14,9 +14,8 @@ Yule Akida alikuwa na imani kuu.
 
 #### Aliponya wengi (8:16-17)
 
-##### Alitoa mapepo kwa neno lake.
-
-##### Aliponya wengi kwa neno lake
+1. Alitoa mapepo kwa neno lake.
+2. Aliponya wengi kwa neno lake
 
 #### Alizikemea pepo za bahari (8:18-27)
 
@@ -48,8 +47,7 @@ Pepo na bahari zilimtii Yesu.
 
 #### Aliwaamuru wanafunzi wake kuomba kwa ajili ya watenda kazi (9:35-38)
 
-Yesu alitoa huduma Galilaya, na aliwahurumia makutano. Aliwaambia wanafunzi
-waombe kwakuwa watenda kazi wengi walihitajika.
+Yesu alitoa huduma Galilaya, na aliwahurumia makutano. Aliwaambia wanafunzi waombe kwakuwa watenda kazi wengi walihitajika.
 
 Nguvu yake ilitembea kwa wale walionyenyekea kwake. Anatutaka sisi tuwe wtenda kazi. Anawatafuta wale watakaotembea katika roho.
 
@@ -57,27 +55,19 @@ Nguvu yake ilitembea kwa wale walionyenyekea kwake. Anatutaka sisi tuwe wtenda k
 
 Alikuwa anapanga ufalme wake. Mfalme lazima awe na masomo. Wale kumi na wawili walikuwa kamati ya mfalme.
 
-Anahitaji kuachilia nuru yake kwa wanadamu kama vyombo. Sisi ni nuru ya
-ulimwengu lakini yeye ndiye chanzo cha nuru, Yesu bado ana upendo
-mkuu kwa ulimwengu lakini bado mwanadamu abebe hilo. Mawazo ya kiroho hayawezi kutembea yenyewe katika
-ulimwengu na kuwa na thamani yeyote. Lazima yavaliwe na unyenyekevu. Lazima
-tutumike kwa moyo, akili, mikono na miguu kupeleka injili.
-
-> Warumi 10:14:15 Basi wamwiteje yeye wasiye mwamini? Na wamwaminije yeye wasiyemsikia? Tena wamsikieje pasipo muhubiri? Tena wahubirije wasipopelekwa? Kama ilivyoandikwa ni mizuri kama nini miguu yao wahubirio habari ya mema.
+Anahitaji kuachilia nuru yake kwa wanadamu kama vyombo. Sisi ni nuru ya ulimwengu lakini yeye ndiye chanzo cha nuru, Yesu bado ana upendo mkuu kwa ulimwengu lakini bado mwanadamu abebe hilo. Mawazo ya kiroho hayawezi kutembea yenyewe katika ulimwengu na kuwa na thamani yeyote. Lazima yavaliwe na unyenyekevu. Lazima tutumike kwa moyo, akili, mikono na miguu kupeleka injili (Warumi 10:14:15).
 
 ##### Aliwatuma hao kwa nguvu (10:1)
 
 ##### Aliwatuma watu wa kawaida (10:2-4)
 
-Yesu aliwapata wapi watu wake wa kamati ya kwanza? Siyo katika hekalu, wala siyo kati ya madaktari
-au makuhani, au katika vyuo vya Yerusalemu lakini aliwapata katika bahari wakizishusha nyavu.
+Yesu aliwapata wapi watu wake wa kamati ya kwanza? Siyo katika hekalu, wala siyo kati ya madaktari au makuhani, au katika vyuo vya Yerusalemu lakini aliwapata katika bahari wakizishusha nyavu.
 
 Wanafunzi walitakiwa wafike mahali pakujitambua kuwa ni wenye dhambi. Watu wanaojidhania kuwa wako sawa wanajihesabia haki.
 
-Mungu aliyachagua mabo mapumbavu ya dunia awaaibishe wenye hekima. (1 Kor. 1:27)
+Mungu aliyachagua mabo mapumbavu ya dunia awaaibishe wenye hekima (1 Kor. 1:27).
 
-Mathayo 10:2-4 ni mojawapo kati ya orodha muhimu ya nani ni nani
-katika ulimwengu.
+Mathayo 10:2-4 ni mojawapo kati ya orodha muhimu ya nani ni nani katika ulimwengu.
 
 Watu hawa walikuwa wamepewa kazi ya kufanya itakayoleta ushindi na kuanzisha ngome ya matokea madogo.
 
@@ -85,30 +75,18 @@ Watu hawa walikuwa wamepewa kazi ya kufanya itakayoleta ushindi na kuanzisha ngo
 
 ##### Aliwatuma wao na agizo (10:7-10)
 
-###### Hubirini kuwa ufalme wa mbinguni umekaribia
-
-Neno "ufalme" limetumika mara 55 katika Mathayo, na neno "Ufalme wa mbinguni" limeonekana mara 35. Ifano kumi na tano ya Mathayo, kumi na mbili huanza "na ufalme wa mbinguni ni kama…."
-
-###### Pozeni wagonjwa
-
-###### Takaseni wenye ukoma
-
-###### Fufueni wafu
-
-###### Toeni pepo
-
-###### Mmepata bure toeni bure
-
-###### Tembeeni kwa Imani
-
-Msifungwe na vitu vya maisha haya.
+1. Hubirini kuwa ufalme wa mbinguni umekaribia. Neno "ufalme" limetumika mara 55 katika Mathayo, na neno "Ufalme wa mbinguni" limeonekana mara 35. Ifano kumi na tano ya Mathayo, kumi na mbili huanza "na ufalme wa mbinguni ni kama…."
+2. Pozeni wagonjwa
+3. Takaseni wenye ukoma
+4. Fufueni wafu
+5. Toeni pepo
+6. Mmepata bure toeni bure
+7. Tembeeni kwa Imani. Msifungwe na vitu vya maisha haya.
 
 ##### Aliwatuma na onyo (10:11-23)
 
-###### Wangekataliwa (10:11-15)
-
-###### Wangeteswa (10:16-23)
-
-##### Aliwatuma na maelekezo (10:24-39)
+1. Wangekataliwa (10:11-15)
+2. Wangeteswa (10:16-23)
+3. Aliwatuma na maelekezo (10:24-39)
 
 ##### Aliwatuma na ahadi ya zawadi (10:40-42)

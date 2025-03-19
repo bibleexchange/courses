@@ -8,8 +8,8 @@
 
 ### He gave specific instructions (Chapter 10)
 
-“After these things the Lord appointed other seventy also”
+"After these things the Lord appointed other seventy also"
 
-“Sent them two by two before His face into every city and place, whither He Himself would come.”
+"Sent them two by two before His face into every city and place, whither He Himself would come."
 
 We must go where He says to go, where He will be.

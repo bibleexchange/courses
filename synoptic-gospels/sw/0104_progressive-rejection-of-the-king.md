@@ -2,13 +2,10 @@
 
 ### Mwanzo wa kukataa (11:2-30)
 
-#### Swali la Yohana Mbatizaji
-
-#### Ushahidi wa Kristo wa Yohana Mbatizaji
-
-#### Miji ambayo haitatubu
-
-#### Yesu ndiye anayebeba mizigo yetu
+1. Swali la Yohana Mbatizaji
+2. Ushahidi wa Kristo wa Yohana Mbatizaji
+3. Miji ambayo haitatubu
+4. Yesu ndiye anayebeba mizigo yetu
 
 ### Kukataliwa na Mafarisayo (12:1-50)
 
@@ -36,10 +33,10 @@ Mfano ni hadithi inayojulikana inayotumiwa kufundisha ukweli wa kiroho.
 
 Kwa nini Yesu alifundisha kwa mifano?
 
-* Kwa sababu haijatolewa kwa wote kujua siri za ufalme wa mbinguni (13:11)
-* Kwa sababu ilitabiriwa (13:34-35)
+- Kwa sababu haijatolewa kwa wote kujua siri za ufalme wa mbinguni (13:11)
+- Kwa sababu ilitabiriwa (13:34-35)
 
-> "Na nifunue kinywa changu kwa mithali, Niyatamke mafumbo ya kale."&mdash;Zab. 78:2
+> "Na nifunue kinywa changu kwa mithali, Niyatamke mafumbo ya kale."—Zab. 78:2
 
 ### Kukataliwa huko Nazareti (13:53-14:36)
 
@@ -65,17 +62,14 @@ Alianza kuzama na kutoamini, lakini aliokolewa na Bwana.
 
 #### Yesu anawakemea Wafarisayo (15:1-9)
 
-> "Nao waniabudu bure, Wakifundisha mafundisho Yaliyo maagizo ya wanadamu."&mdash;Mat. 15:9
-
 #### Mafundisho ya Kristo juu ya uchafu (15:10-20)
 
 Mtu hajatijisi na kile anachokula, lakini anajisikia na kile kinachotoka moyoni mwake (15:19-20).
 
-#### Uponyaji wa binti ya mwanamke wa Syrophenician (15:21-28)\
+#### Uponyaji wa binti ya mwanamke wa Syrophenician (15:21-28)
 
-##### Kubwa ni imani yako
-
-##### Iwe kwako kama utakavyo (15:28)
+1. Kubwa ni imani yako
+2. Iwe kwako kama utakavyo (15:28)
 
 #### Daktari Kubwa (15:29-31)
 
@@ -83,8 +77,7 @@ Mtu hajatijisi na kile anachokula, lakini anajisikia na kile kinachotoka moyoni 
 
 #### Mafarisayo na Masadukayo walikemea (16:1-4)
 
-##### Walikuwa wakitafuta ishara kutoka mbinguni
-
-##### Hawakuweza kutambua ishara za nyakati
+1. Walikuwa wakitafuta ishara kutoka mbinguni
+2. Hawakuweza kutambua ishara za nyakati
 
 #### Jihadharini na mafundisho ya Wafarisayo na Wasadukayo (16:5-12)

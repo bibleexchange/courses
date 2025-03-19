@@ -33,15 +33,15 @@ Mzizi wa sheria hii ni huruma. Upendo hutawala badala ya sheria.
 Tunaonyeshwa dhambi siyo tu kutenda lakini pia kwenye mawazo (Mat. 5:21, 22, 27, 28).
 
 Mara kumi na nne Mfalme husema, "Nawaambia ninyi."
- 
+
 Hizi sheria hii inatuleta:
 
-* upendo badala ya sheria
-* ukweli badala ya uwongo
-* furaha badala ya wivu
-* haki badala ya kutotenda haki
-* umoja badala ya matengano/mgawanyiko
-* haki badala ya hasira
+- upendo badala ya sheria
+- ukweli badala ya uwongo
+- furaha badala ya wivu
+- haki badala ya kutotenda haki
+- umoja badala ya matengano/mgawanyiko
+- haki badala ya hasira
 
 Lengo kuu ni kuwa wakamilifu (5:48).
 
@@ -73,13 +73,10 @@ Yesu alihubiri maadili.
 
 ##### Mfano wa namna ya kuomba (9-13)
 
-###### Mapenzi yafanyike (Mat. 26:39)
-
-###### Omba kwa mahitaji ya kila siku
-
-###### Utuepushe na yule mwovu
-
-###### Msamaha (14-15)
+1. Mapenzi yafanyike (Mat. 26:39)
+2. Omba kwa mahitaji ya kila siku
+3. Utuepushe na yule mwovu
+4. Msamaha (14-15)
 
 #### Katika kufunga (6:16-18)
 
@@ -99,11 +96,8 @@ Msihukumu kwa macho bali ifanyeni hukumu ya haki (Yoh. 7:24).
 
 #### Maamuzi mawili ya mwanadamu (7:13-14)
 
-##### Mlango mwembamba uendao uzimani
-
-Hii ndiyo njia iendayo kwenye ufalme.
-
-##### Mlango mpana huelekea upotevuni
+1. Mlango mwembamba uendao uzimani. Hii ndiyo njia iendayo kwenye ufalme.
+2. Mlango mpana huelekea upotevuni
 
 #### Ladha ya tunda (7:15-20)
 
@@ -113,8 +107,7 @@ Tunawafahamu watu kwa matunda yao. Mti mwema huzaa matunda mazuri na mti mwovu h
 
 #### Msingi wa Maisha (7:24-27)
 
-##### Watendaji wa neno wanafananishwa na wale wenye akili waliojenga nyumba zo kwenye mwamba
-
-#### Wale wanaosikia neno na kutokulitendea kazi wanafananishwa na wale wapumbavu waliojenga nyumba juu ya mchanga
+1. Watendaji wa neno wanafananishwa na wale wenye akili waliojenga nyumba zo kwenye mwamba
+2. Wale wanaosikia neno na kutokulitendea kazi wanafananishwa na wale wapumbavu waliojenga nyumba juu ya mchanga
 
 #### Yesu anafundisha kwa mamlaka (7:28-29)

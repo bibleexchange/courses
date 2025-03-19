@@ -2,13 +2,13 @@
 
 He told His disciples to pray and withdrew Himself and prayed.
 
-“Not My will, but will, be done.” Every Christian will face times in his life that he must pray “not my will”
+"Not My will, but will, be done." Every Christian will face times in his life that he must pray "not my will"
 
-“An angel appeared unto Him from heaven strengthening Him.”
+"An angel appeared unto Him from heaven strengthening Him."
 
-“Being in agony, He prayed more earnestly”
+"Being in agony, He prayed more earnestly"
 
-“His sweat was as it were great drops of blood falling down to the ground”
+"His sweat was as it were great drops of blood falling down to the ground"
 
 His disciples were sleeping for sorrow.
 

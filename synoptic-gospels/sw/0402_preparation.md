@@ -2,7 +2,7 @@
 
 Baada ya historia ya ukoo, Luka anazungumzia maandalizi ya Yesu.
 
-> " Na Yesu, hali amejaa Roho Mtakatifu...akaongozwa na Roho muda wa siku arobaini nyikani"&mdash;Luka 4:1
+> " Na Yesu, hali amejaa Roho Mtakatifu... akaongozwa na Roho muda wa siku arobaini nyikani"—Luka 4:1
 
 Alikuwa alijaribiwa na kuthibitishwa. Unaposaga maua, manukato yake hunukia na kujulikana. Wakati shetani alipomjaribu YESU ukamilisho wa YESU KRISTO ulidhihirika.
 

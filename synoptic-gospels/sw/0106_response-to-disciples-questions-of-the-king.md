@@ -6,11 +6,9 @@ Wanafunzi waliuliza swali: "Ni nani basi aliye mkuu katika ufalme wa mbinguni?"
 
 Yesu akajibu kwamba walihitaji kubadili na kuwa watoto. Yeye anayejinyenyekeza kama mtoto ni mkuu katika ufalme wa mbinguni.
 
-#### Onyo dhidi ya kumshtaki mtoto
-
-#### Tunahitaji kukata kitu kinachosababisha shida
-
-#### Usimkataze mtoto
+1. Onyo dhidi ya kumshtaki mtoto
+2. Tunahitaji kukata kitu kinachosababisha shida
+3. Usimkataze mtoto
 
 ### Mfano wa kondoo aliyepotea (18:11-14)
 

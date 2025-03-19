@@ -4,27 +4,22 @@
 
 ### Hypocrisy exposed (23:2-7)
 
-#### Say and do not
-
-#### Do works to be seen of men
-
-#### Seek self exaltation
+1. Say and do not
+2. Do works to be seen of men
+3. Seek self exaltation
 
 ### Warning against assuming Godly titles (23:8-10)
 
-#### Be not called Rabbi
-
-#### Call no man your father (as a title)
-
-#### Neither be ye called masters
+1. Be not called Rabbi
+2. Call no man your father (as a title)
+3. Neither be ye called masters
 
 ### The greatness of serving others (23:11-12)
 
 ### Judgment pronounced upon scribes and pharisees (23:13-33)
 
-#### Woe unto you, scribes and pharisees, hypocrites!
-
-#### How can ye escape the damnation of hell?
+1. Woe unto you, scribes and pharisees, hypocrites!
+2. How can ye escape the damnation of hell?
 
 ### Prophecy of their future response to men of God (23:34-36)
 

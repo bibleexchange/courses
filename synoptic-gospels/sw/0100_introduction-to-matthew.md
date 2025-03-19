@@ -4,7 +4,7 @@
 
 ### Maelezo ya Kitabu hiki
 
-Mathayo inaunganisha Agano la Kale na Jipya. Katika Agano la Kale tunapata maagano mawili makubwa: 
+Mathayo inaunganisha Agano la Kale na Jipya. Katika Agano la Kale tunapata maagano mawili makubwa:
 
 1. Agano na Daudi - II Sam. 7:8-13, 16 (Mfalme)
 2. Agano na Ibrahimu - Mwanzo 22:8 (Dhabihu)

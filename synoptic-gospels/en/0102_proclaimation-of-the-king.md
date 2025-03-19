@@ -16,7 +16,7 @@
 
 #### Healing the sick (4:23-25)
 
-Jesus went teaching and preaching in their synagogues. Teaching, preaching, and healing&mdash;they go together.
+Jesus went teaching and preaching in their synagogues. Teaching, preaching, and healing—they go together.
 
 He healed all manner of sickness, cast out devils, and great multitudes followed Him.
 
@@ -36,12 +36,12 @@ Fourteen times the King says, "I say unto you."
 
 This law brings us:
 
-* love instead of lawlessness
-* truth instead of treachery
-* gladness instead of grief
-* justice instead of injustice
-* divinity instead of division
-* righteousness instead of wrath
+- love instead of lawlessness
+- truth instead of treachery
+- gladness instead of grief
+- justice instead of injustice
+- divinity instead of division
+- righteousness instead of wrath
 
 The central theme is perfection (5:48).
 
@@ -73,13 +73,10 @@ Jesus preached morality.
 
 ##### An example of how to pray (9-13)
 
-###### Thy will be done (Matt. 26:39)
-
-###### Pray for daily needs
-
-###### Deliver us from evil
-
-###### Forgiveness (14-15)
+1. Thy will be done (Matt. 26:39)
+2. Pray for daily needs
+3. Deliver us from evil
+4. Forgiveness (14-15)
 
 #### On Fasting (6:16-18)
 
@@ -99,11 +96,8 @@ Hypocrites should not judge, but saints should judge righteous judgment (John 7:
 
 #### Two choices of man (7:13-14)
 
-##### The straight way leads to life
-
-This is the entrance to the Kingdom.
-
-##### The broad way leads to destruction
+1. The straight way leads to life. This is the entrance to the Kingdom.
+2. The broad way leads to destruction
 
 #### The fruit test (7:15-20)
 
@@ -113,8 +107,7 @@ We know men by their fruits. A good tree yields good fruit, and an evil tree yie
 
 #### Life's foundation (7:24-27)
 
-##### Doers of the Word are like those who build on the rock
-
-##### Those that hear without doing are like those who build on sinking sand
+1. Doers of the Word are like those who build on the rock.
+2. Those that hear without doing are like those who build on sinking sand.
 
 #### Jesus teaches with authority (7:28-29)

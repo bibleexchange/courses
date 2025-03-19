@@ -6,9 +6,8 @@
 
 ### Kristo mtumishi (20:25-28)
 
-#### Tunapaswa kufuata mfano wa Kristo
-
-#### Alipewa maisha yake fidia kwa wengi
+1. Tunapaswa kufuata mfano wa Kristo
+2. Alipewa maisha yake fidia kwa wengi
 
 ### Vipofu wawili wameponywa (20:29-34)
 
