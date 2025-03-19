@@ -1,5 +1,5 @@
-# INJILI ZA MUHTASARI
+# Injili za Muhtasari
 
-## MATAYO, MARK NA LUKA.
+## Mathayo, Marko, na Luka
 
 A Kitabu cha mwaka wa pili Chuo cha Biblia na ukombozi.
