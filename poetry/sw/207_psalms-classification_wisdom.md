@@ -14,7 +14,7 @@ Maombolezo, muundo wa alfabeti, misemo ya namba, na usawa ni miundo yote ya kifa
 2. **Misemo ya heri/furaha**: "Heri kila mtu amchaye BWANA, Aendaye katika njia yake." (128:1)
 3. **Maonyo**: "Msiwe kama farasi wala nyumbu, Wasiokuwa na akili. Kwa matandiko ya lijamu na hatamu Sharti kuwazuia hao, au hawatakukaribia." (32:9)
 4. **Anuani**: "Sikieni haya, enyi mataifa yote; Sikilizeni, ninyi nyote mnaokaa duniani. Watu wakuu na watu wadogo wote pia, Tajiri na maskini wote pamoja." (49:1–2)
-5. Miundo mingine ya sifa za hekima kama vile **mafananisho** (1:4), **misemo ya namba** (62:11&ndash;12), au **maswali ya kejeli** (14:4).<sup>[5]</sup>
+5. Miundo mingine ya sifa za hekima kama vile **mafananisho** (1:4), **misemo ya namba** (62:11&ndash;12), au **maswali balagah** (maswali ya lisilodai jibu) (14:4).<sup>[5]</sup>
 
 ### Mandhari katika zaburi za hekima
 
@@ -37,4 +37,3 @@ Misamiati ya kawaida katika zaburi hizi zinaelezea maombolezo, shukrani, na sifa
 * [4] Day, J. (1999). Psalms (p. 56). London; New York: T&T Clark.
 * [5] Guide to Studying the Psalter, p. 173
 </small>
-

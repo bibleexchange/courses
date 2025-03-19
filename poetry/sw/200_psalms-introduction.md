@@ -2,7 +2,7 @@
 
 ## Utangulizi wa Kitabu cha Zaburi
 
-Zaburi ina maombi nyingi kwa Mungu. Wengi wanafurahi na kushukuru, lakini wengine wamejaa huzuni. Tunapozitazama Zaburi, tunaona ni tofauti sana kuliko maombi mengi tunayosikia kanisani. Maombi nyingi ni kurudia tu maneno yaleyale tena na tena, lakini Zaburi ni ndefu na zina maneno na mawazo mengi tofauti.
+Zaburi ina maombi mengi kwa Mungu. Wengi wanafurahi na kushukuru, lakini wengine wamejaa huzuni. Tunapozitazama Zaburi, tunaona ni tofauti sana kuliko maombi mengi tunayosikia kanisani. Maombi mengi ni kurudia tu maneno yaleyale tena na tena, lakini Zaburi ni ndefu na zina maneno na mawazo mengi tofauti.
 
 Yesu alisema katika Mathayo 6:7 kwamba tunahitaji "msipayuke-payuke" tunapoomba. Watu wa kipagani wanafikiri kwamba maneno ya kurudia-rudia yatamshawishi Mungu kuyasikia. Zaburi zinaweza kutufundisha kusali tukiwa na maana zaidi.
 
@@ -96,4 +96,3 @@ Kuna nukuu 79 kutoka Zaburi katika Agano Jipya.<sup>[1]</sup> Ifuatayo ni baadhi
 <small>
 * [1] Stephen Voorwinde, Vox Reformata, 2005, pg. 58
 </small>
-

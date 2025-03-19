@@ -26,7 +26,7 @@ Kama mfano, ifuatayo ni muundo wa zaburi 30:
 1. Utangulizi (mst. 1–5)
 2. Simulizi
   a. Mgogoro (mst. 6–7)
-  b. Ombi kwaajili ya msaada (mst. 8–19)
+  b. Ombi kwaajili ya msaada (mst. 8–10)
   c. Ukombozi (mst. 11–12a)
 3. Hitimisho (mst. 12b)
 ```
@@ -49,4 +49,3 @@ Tangu zaburi hizi zilipoimbwa katika hekalu, zilikuwa sehemu ya ibada za wazi na
 * [2] Day, J. (1999). Psalms (p. 45). London; New York: T&T Clark.
 * [3] Psalms (Encountering Biblical Studies): A Literary and Theological Introduction By C. Hassell Bullock, p. 394 [3]
 </small>
-

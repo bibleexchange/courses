@@ -20,7 +20,7 @@ Hekima ni maarifa katika matendo. Ni kutumia maarifa katika maisha. Sulemani ali
 
 #### Maadili: Jinsi ya kuwa waaminifu na kuishi pamoja na wengine (Mith. 20:10; 22:28)
 
-Katika Mithali 1:3, it inazungumza kuhusu mtu mwenye busara anapokea "haki, na hukumu, na adili."
+Katika Mithali 1:3, inazungumza kuhusu mtu mwenye busara anapokea "haki, na hukumu, na adili."
 
 > Kupitia kitabu cha Mithali, haki na hekima ni maneno yanayobadilishana. Huwezi kuwa na hekima pasipo kuwa na haki. Hivyo hivyo upumbavu na uovu hayawezi kutenganishwa. Tabia ya upumbavu ni uovu.<sup>[2]</sup>
 
@@ -64,7 +64,7 @@ Hii ni wakati unasema kitu kimoja ni kitufulani na siyo halisi. Ni kama mfananis
 
 ### Nyongeza (Ukuzaji)
 
-This is an exaggeration. Hii ni kutia chumvi/kuongeza maneno. Kwa Mfano **Zaburi 12:1** mwandishi anasema kwamba hakuna mwenye haki katika dunia yote. Tunajua kwamba siyo ukweli. Hata wakati tunahisi kama tuko wenyewe, Mungu anawatu wengi anaowaokoa (I Wafalme 19:18). Mwandishi hakuwa muongo kwa sababu ndivyo alivyohisi alivyoandika Zaburi.
+Hii ni kutia chumvi/kuongeza maneno. Kwa Mfano **Zaburi 12:1** mwandishi anasema kwamba hakuna mwenye haki katika dunia yote. Tunajua kwamba siyo ukweli. Hata wakati tunahisi kama tuko wenyewe, Mungu anawatu wengi anaowaokoa (I Wafalme 19:18). Mwandishi hakuwa muongo kwa sababu ndivyo alivyohisi alivyoandika Zaburi.
 
 ### Ubinafsishaji (Uhuishaji)
 
@@ -108,4 +108,3 @@ Misemo ya nambari ni wakati herufi imetolewa, na mstari uliofuata, kunakuwa na o
 * [3] ibid, pg. 16
 * [4] Stuart, D. (2009). Old Testament Exegesis: A Handbook for Students and Pastors (Fourth Edition, p. 177). Westminster John Knox Press.
 </small>
-

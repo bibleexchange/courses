@@ -33,7 +33,7 @@ Tunapaswa kukumbuka kwamba Mithali siyo ahadi kabisa, lakini ni kanuni. Siyo dha
 
 Kama wewe ni mwenye haki, Mungu atakubariki, lakini si lazima wakati wote Baraka hizo ziwe kwa njia ya fedha au mali zingine. Kama wanadamu, tunafikiria kwamba fedha ndio kitu muhimu katika maisha, lakini Mungu anajua kwamba kuna Baraka zingine ambazo tunahitaji zaidi ya fedha.
 
-Katika sura ya tatu tunaona maelezo ya Mwanamke Mwenye Hekima. Mstari wa 16 unasema kwamba ana wingi wa siku katika mkono wake wa kuume, utajiri na heshima katika mkono wake wa kushoto. Katika utamaduni wa Waebrania wa kale, mkono wa kulia uliheshimika kuliko mkono wa kushoto (Mwa. 48:14; Mah. 10:12; Mat. 25:33).<sup>[1]</sup> Hii inatuonyesha kwamba hekima inaweza kutupa utajiri, lakini utajiri sio muhimu zaidi ya maisha. Pia, mistari miwili ambayo inafuata (3:14–15) inazungumza kuhusu namna hekima ilivyo muhimu kuliko dhahabu na fedha (angalia pia 8:19 na 16:16). Fedha sio mbaya, lakini hekima ni bora. Mungu alimpa Sulemani utajiri, lakini kwasababu tu alimuomba kwanza hekima. Hekima siyo kwamba ndiyo kitu muhimu kuliko utajiri. Bruce Waltke anasema, "Utajiri ni hali inayohitajika na malipo ya hekima (angalia 3:9–10), siyo lengo la maisha ya mtu."<sup>[2]</sup> Mithali inaonyesha vitu vingi muhimu kuliko kuwa na fedha:
+Katika sura ya tatu tunaona maelezo ya Mwanamke Mwenye Hekima. Mstari wa 16 unasema kwamba ana wingi wa siku katika mkono wake wa kuume, utajiri na heshima katika mkono wake wa kushoto. Katika utamaduni wa Waebrania wa kale, mkono wa kulia uliheshimika kuliko mkono wa kushoto (Mwa. 48:14; Mhu. 10:12; Mat. 25:33).<sup>[1]</sup> Hii inatuonyesha kwamba hekima inaweza kutupa utajiri, lakini utajiri sio muhimu zaidi ya maisha. Pia, mistari miwili ambayo inafuata (3:14–15) inazungumza kuhusu namna hekima ilivyo muhimu kuliko dhahabu na fedha (angalia pia 8:19 na 16:16). Fedha sio mbaya, lakini hekima ni bora. Mungu alimpa Sulemani utajiri, lakini kwasababu tu alimuomba kwanza hekima. Hekima siyo kwamba ndiyo kitu muhimu kuliko utajiri. Bruce Waltke anasema, "Utajiri ni hali inayohitajika na malipo ya hekima (angalia 3:9–10), siyo lengo la maisha ya mtu."<sup>[2]</sup> Mithali inaonyesha vitu vingi muhimu kuliko kuwa na fedha:
 
 - Midomo ya maarifa (20:15)
 - Jina jema (22:1)
@@ -99,4 +99,3 @@ Utajiri unaweza kuwa zawadi kutoka kwa Mungu, lakini pia unaweza kutufanya tumsa
 * [1] Waltke, B. K. (2004). The Book of Proverbs, Chapters 1–15 (p. 258). Grand Rapids, MI: Wm. B. Eerdmans Publishing Co.
 * [2] ibid.
 </small>
-
