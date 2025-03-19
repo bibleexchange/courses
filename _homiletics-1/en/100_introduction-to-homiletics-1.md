@@ -1,6 +1,6 @@
 # Introduction: What is preaching?
 
-Homiletics is the art or science of religious discourse or preaching. A homily is a sermon and the power of a sermon rests in its preparation. In the Bible, we find the pattern for Christian preaching. Following is a list of some of what we know about preaching:
+**Homiletics is the art or science of religious discourse or preaching.** A homily is a sermon and the power of a sermon rests in its preparation. In the Bible, we find the pattern for Christian preaching. Following is a list of some of what we know about preaching:
 
 1.  Teaching and preaching are distinct but go hand in hand (Matt. 11:1)
 2.  John the Baptist preached the baptism of repentance for the remission of sins (Mark 1:4)

@@ -1,6 +1,6 @@
 # Utangulizi: Kuhubiri ni kufanya kitu gani?
 
-Elimu ya mahubiri ni sanaa au sayansi ya majadiliano ya kidini au kuhubiri. Katika darasa hili wanafunzi watapata msaada wa namna ya kuandaa hotuba na kuhubiri. Katika Biblia, tunaona mfano kwa mahubiri ya Kikristo. Ifuatayo ni orodha ya mambo ambayo tunajua kuhusu kuhubiri:
+**Elimu ya mahubiri ni sanaa au sayansi ya majadiliano ya kidini au kuhubiri.** Katika darasa hili wanafunzi watapata msaada wa namna ya kuandaa hotuba na kuhubiri. Katika Biblia, tunaona mfano kwa mahubiri ya Kikristo. Ifuatayo ni orodha ya mambo ambayo tunajua kuhusu kuhubiri:
 
 1.  Kufundisha na kuhubiri ni tofauti lakini nenda nayo vyote (Mat. 11:1)
 2.  Yohana mpatizaji alihubiri ubatizo wa toba kwa ajili ya ondoleo la dhambi (Mark 1:4)
