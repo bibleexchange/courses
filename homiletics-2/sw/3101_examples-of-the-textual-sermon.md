@@ -1,7 +1,7 @@
 ### Mfano wa hotuba ya kifungu
 
-* KICHWA CHA HABARI: Mungu anataka nini
-* KIFUNGU: Kumb 10:12–13
+- KICHWA CHA HABARI: Mungu anataka nini
+- KIFUNGU: Kumb 10:12–13
 
 ```
 I.  Umche BWANA, Mungu wako
@@ -22,7 +22,7 @@ Biblia imegawanyika katika vitabu, milango, paragirafu, misitari. Lakini kutenga
 > Luka 9:1–5—Akawaita wale Thenashara, akawapa uwezo na mamlaka juu ya pepo wote na kuponya maradhi. Akawatuma wautangaze ufalme wa Mungu, na kupoza wagonjwa. Akawaambia, Msichukue kitu kwa safari yenu, fimbo, wala mkoba, wala mkate, wala fedha, wala mmoja wenu asiwe na kanzu mbili. Na nyumba yo yote mtakayoingia kaeni humo, mpaka mtoke mjini. Na wale wasiowakaribisha, mtokapo katika mji huo, yakung’uteni hata mavumbi ya miguuni mwenu, kuwa ushuhuda juu yao.
 
 1. Akawaita wale Thenashara
-2. akawapa uwezo na mamlaka 
+2. akawapa uwezo na mamlaka
 3. Akawatuma
 4. wautangaze ufalme wa Mungu
 5. na kupoza wagonjwa
@@ -36,13 +36,13 @@ Biblia imegawanyika katika vitabu, milango, paragirafu, misitari. Lakini kutenga
 
 **MFANO:**
 
-* LENGO: Agizo la kiuinjilisti
-* KIFUNGU: Luka 9:1–5
+- KICHWA CHA HABARI: Agizo la kiuinjilisti
+- KIFUNGU: Luka 9:1–5
 
 ```
 I.  JIBU NA KWENDA
   A.  Akawaita wale Thenashara
-  B.  akawapa uwezo na mamlaka 
+  B.  akawapa uwezo na mamlaka
   C.  Akawatuma
 II.  SEMA NA KUTENDA
   A.  wautangaze ufalme wa Mungu
@@ -54,4 +54,3 @@ III.  KUPOKEA NA KUTOA
 ```
 
 **Mazoezi**: Gawanya vifungu vifuatavyo katika sehemu: Ezekiel 1:10; Kumb. 6:5; Warumi 12:1; Mat. 5:44; Mith 6:16--19; Yoshua 22:15; I Wakr. 13:13; Wagal 2:20; Ufunuo 3:20; Daniel 1:8; Ruth 1:16.
-

@@ -2,7 +2,7 @@
 
 Mwisho ni umaliziaji wa somo, lakini hujisemei tu umekamilisha, lakini huenda ni sehemu muhimu zaidi ya hotuba. Ni muhimu pia kwa sababu ni wakati mzito wa wasikilizaji kufanya uamuzi. Swali muhimu ni "Ni kitu gani kisemwe katika kumalizia?" linajibiwa kwa kujibu swali lingine, "Iwapo waumini wangeondoka wakiwa wamesahau kila kitu ambacho nimekisema katika hotuba yangu isipokuwa kitu kimoja mimi ningependa kitu hicho kiwe ni kipi?" Jibu la swali hilo linapaswa kuwa mada yako. Kuna angalau aina tatu za hotuba "Hitimisho."
 
-Hii ndio pale unapotumia baada ya kumapza dondoo Hii inachukua maana ya wazi na kuiweka kwenye matumizi ya vitendo. Hii ni jinsi gani nitavyo itikia kwenye neno ambalo dhambi itanifanya niwe mbaya, kwa kanuni zipi nitajitoa katika kushindwa, matundu yapi ya kuepuka, katika matendo yapi yanayo athiri, na ahadi zipi za kushika.
+Hii ndio pale unapotumia baada ya kumaliza dondoo Hii inachukua maana ya wazi na kuiweka kwenye matumizi ya vitendo. Hii ni jinsi gani nitavyo itikia kwenye neno ambalo dhambi itanifanya niwe mbaya, kwa kanuni zipi nitajitoa katika kushindwa, matundu yapi ya kuepuka, katika matendo yapi yanayo athiri, na ahadi zipi za kushika.
 
 ### Mhitasari wa Hitimisho
 
@@ -39,4 +39,3 @@ Tendo ndio lengo la hitimisho lenye kutia changa moto. Matumizi haya ya hitimish
 #### Sihi kwa makusudi ya juu
 
 #### Sihi kwa hisia
-
