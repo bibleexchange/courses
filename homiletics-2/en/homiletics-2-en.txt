@@ -1,6 +1,6 @@
 Second Year
 
-TEXTBOOK
+TextBOOK
 
 # Homiletics 2
 
@@ -24,9 +24,9 @@ Why Should We Make an Outline? Organization is very important to the communicati
 
 Note that Peter's sermon had a textual foundation.
 
-TEXT: vs. 17–21 (Quotation from Joel 2:28–32)
+Text: vs. 17–21 (Quotation from Joel 2:28–32)
 
-TITLE: Jesus is the Messiah
+Theme: Jesus is the Messiah
 
 ```
 I.  INTRODUCTION (vs. 14–16)
@@ -56,14 +56,14 @@ V.  CONCLUSION (vs. 37–40)
 #### In the Gospel According to Mathew
 
 1. Sermon on the mount (5:1–7:29; Luke 6:17–49)
-2. The 12 commissioned (10:1–42; Mark 6:6–13)
+2. The 12 commissioned (10:1–42; Mk. 6:6–13)
 3. About John the Baptist (11:2–30; Luke 7:18–35)
-4. A House Divided (12:22–50; Mark 3:20–30)
+4. A House Divided (12:22–50; Mk. 3:20–30)
 5. Parables by the Sea (13:1–53; Luke 8:4–21)
-6. Kingdom Greatness (18:1–35; Mark 9:33–50)
+6. Kingdom Greatness (18:1–35; Mk. 9:33–50)
 7. Authority of Christ (21:23–22:14; Luke 20:1–19)
-8. Woes to Leaders (23:1–39; Mark 12:38–40)
-9. The End of Time (24:1–26:2; Mark 13:1–37)
+8. Woes to Leaders (23:1–39; Mk. 12:38–40)
+9. The End of Time (24:1–26:2; Mk. 13:1–37)
 10. Upper Room Discourse (26:26–35; John 13:1–17:26)
 
 #### In the Gospel According to Mark
@@ -81,8 +81,8 @@ V.  CONCLUSION (vs. 37–40)
 3. Parables by the Sea (8:4–21; Matthew 13:1–53)
 4. Seventy Sent (10:1–24; Matthew 10:1–42)
 5. How to Pray (11:1–13; Matthew 6:5–15)
-6. A House Divided (11:14–36; Mark 3:2–31)
-7. Pharisees Rebuked (11:37–54; Mark 7:1–23)
+6. A House Divided (11:14–36; Mk. 3:2–31)
+7. Pharisees Rebuked (11:37–54; Mk. 7:1–23)
 8. God Cares (12:1–13:9; Matthew 10:5–33)
 9. Discipleship (14:25–35; Matthew 10:34–42)
 10. The Lost Parables (15:1–16:31; John 9:35–10:21)
@@ -117,8 +117,8 @@ An outline is basically an aid to help lay out the precepts and reasons of your 
 
 How do you Construct an Outline? Basically, you are making a framework with the following components:
 
-1. TEXT: The foundation of ANY sermon. What portion of Scripture are you preaching?
-2. THEME: Your sermon in one sentence. (Probably completed last in the sermon preparation process. Could include a "Title.")
+1. Text: The foundation of ANY sermon. What portion of Scripture are you preaching?
+2. Theme: Your sermon in one sentence. (Probably completed last in the sermon preparation process. Could include a "Title.")
 3. INTRODUCTION: An introductory paragraph PREPARING the hearers for what is to be said.
 4. BODY
 5. CONCLUSION: Review, summarize, and or call to action. In the conclusion you could REMIND the hearers what has been said.
@@ -385,11 +385,11 @@ The thesis statement allows you to know exactly what the sermon is to be about. 
 
 ### Examples of Thesis Statements Taken from Scripture Texts
 
-* TEXT: Let this mind be in you which was also in Christ Jesus (Phil. 2:5)  
+* Text: Let this mind be in you which was also in Christ Jesus (Phil. 2:5)  
 	THESIS: The believer must allow his thoughts to be in line with the mind of Christ.
-* TEXT: Jesus wept (John 11:35)  
+* Text: Jesus wept (John 11:35)  
 	THESIS: The unbelief of man grieves the heart of God.
-* TEXT: How shall we escape, if we neglect so great salvation; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him (Heb. 2:3)  
+* Text: How shall we escape, if we neglect so great salvation; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him (Heb. 2:3)  
 	THESIS: Those who do nothing concerning their soul are in fact rejecting the greatest gift and will not escape eternal judgment in hell.
 
 ## The Body
@@ -498,8 +498,8 @@ Each division should carry the theme one more step towards the climax. It is not
 
 ### Example of the Textual Sermon
 
-* TITLE: What God Requires
-* TEXT: Deuteronomy 10:12–13
+* Theme: What God Requires
+* Text: Deuteronomy 10:12–13
 
 ```
 I.  Fear the LORD thy God
@@ -534,8 +534,8 @@ The Bible is divided into books, chapters, paragraphs, verses. But further disse
 
 **Example:**
 
-* TITLE: The Evangelist's Commission
-* TEXT: Luke 9:1–5
+* Theme: The Evangelist's Commission
+* Text: Luke 9:1–5
 
 ```
 I.  ANSWER & GO
@@ -653,7 +653,7 @@ The success of the topical sermon is dependent on the rhetorical ability of the 
 #### Example 1
 
 * TOPIC: Purity
-* TEXT: I Timothy 5:22
+* Text: I Timothy 5:22
 
 ```
 I.  Necessary for Sanctification
@@ -664,7 +664,7 @@ III.  Necessary for Security
 #### Example 2
 
 * TOPIC: Deficient Love
-* TEXT: Revelation 2:4–5
+* Text: Revelation 2:4–5
 
 ```
 I.  The Characteristics of This Love
@@ -684,7 +684,7 @@ III.  The Cure of This Love
 #### Example 3
 
 * TOPIC: The Soul in Conflict
-* TEXT: Ephesians 6:10–18
+* Text: Ephesians 6:10–18
 
 ```
 I.  The Source of the Conflict

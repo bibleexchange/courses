@@ -2,8 +2,8 @@
 
 #### Mifano 1
 
-* Dhamira: Safi
-* Kifungu: I Timoteo 5:22
+- Dhamira: Safi
+- Kifungu: I Timoteo 5:22
 
 ```
 I.  Ulazima kwa ajili ya utakaso
@@ -13,8 +13,8 @@ III.  Ulazima kwa ajili ya Usalama
 
 #### Mifano 2
 
-* Dhamira: Upendo pungufu
-* Kifungu: Ufunuo 2:4–5
+- Dhamira: Upendo pungufu
+- Kifungu: Ufunuo 2:4–5
 
 ```
 I.  Tabia za huu upendo
@@ -33,12 +33,11 @@ III.  Chombo cha kuchuja huu upendo
 
 #### Mifano 3
 
-* Dhamira: Nafsi katika mapambano
-* Kifungu: Waefeso 6:10–18
+- Dhamira: Nafsi katika mapambano
+- Kifungu: Waefeso 6:10–18
 
 ```
 I.  Chanzo cha mapambano
 II.  Eneo la mapambano
 III.  Mafanikio katika mapambano
 ```
-

@@ -6,9 +6,9 @@ Jinsi gani dondoo za kimada ni tofauti na dondoo za kifungu?
 
 1. Iliopatikana kwenye dhamira au mada ya kifungu, kidogo kuliko maneno ya kifungu.
 2. Dhamira iliojitokeza katika hotuba ya kifungu.
-3. Migawanyo ya hotuba ilioundwa na mhubiri (ambayo ingejengewa juu ya dhamira)
+3. Migawanyo ya hotuba ilioundwa na mhubiri. (Ambayo ingejengewa juu ya dhamira.)
 
-Mafundisho ya somo hutegemea mada au kichwa cha habari zaidi kuliko maneno yaliyoko kwenye taarifa. Mada huonekana wazi zaidi katika mafundisho ya somo. Sehemu za somo hutengenezwa na mhubiri (jambo hili msingi wake ni mada.) Maandishi kwa asili yanapaswa kuonesha mada ijapokuwa mada inaweza kuchaguliwa kwanza. Njia inayotumika kuweka utaratibu wa maandishi itakuwa ni ya kurudia rudia kwa kuweka mkazo katika mada. Mafundisho ya somo ni lazima yaoneshe somo kwa ukamilifu.
+Maandishi kwa asili yanapaswa kuonesha mada ijapokuwa mada inaweza kuchaguliwa kwanza. Njia inayotumika kuweka utaratibu wa maandishi itakuwa ni ya kurudia rudia kwa kuweka mkazo katika mada. Mafundisho ya somo ni lazima yaoneshe somo kwa ukamilifu.
 
 ### Faida za hotuba ya kimada
 
@@ -59,7 +59,7 @@ Wazi kabisa, matendo elekezi yangepatikana katika kila hotuba. hotuba isingepung
 
 Pointi zimeonyeshwa, zimefikiwa, na zimechunguzwa. Matumizi ya kawaida yanatakiwa yapatikane katika kila somo.
 
-### Hatua za kupata dhamira ya Andiko
+### Hatua za kupata dhamira ya andiko
 
 #### Kuangalia
 
@@ -74,14 +74,14 @@ Kamwe usiache kiburi chako kugandisha maono yako na kukuweka katika giza au kuto
 #### Andika muhtasari kwa ajili ya kifungu katika maneno yako mwenyewe
 
 1. Kisha unaweza kuanza kutafuta dhamira kuu na dhana.
-2. Anza na utangulizi;inahitaji kutawala mada kuu au dhana ya dondoo. Hii ni kanuni ya jumla/wazo ambalo linawakilisha kifungu cha maneno unayo jifunza.
+2. Anza na utangulizi; inahitaji kutawala mada kuu au dhana ya dondoo. Hii ni kanuni ya jumla/wazo ambalo linawakilisha kifungu cha maneno unayo jifunza.
 3. Kisha andika maelezo mafupi juu ya hilo wazo.
 4. Hakikisha yako sahihi na kifungu.
 5. Hakikisha unaandika mistari baadaye kwa kila wazo.
 
 Sura na mistari ilio ongezwa na mchapishaji na sio sehemu ya kifungu cha asili wala kuvuviwa. Kwahiyo usijilazimishe nayo. Utaikuta hiyo mara kadhaa ikiondoa mawazo ya ufunguo katika wazo la katikati ambalo bado ni uzi, ambao bado unaendelea.
 
-#### Kisha orodhesha mawazo yote mbalimbali/pointi katika utaratibu.
+#### Kisha orodhesha mawazo yote mbalimbali/pointi katika utaratibu
 
 Hii ndio pale unapo tumia "Fasihi." Hii inachukua kile kina cho semwa na kupata kile kifungu kinamaanisha, jinsi ya kufasiri kwa simulizi katika mazingira sahihi.
 

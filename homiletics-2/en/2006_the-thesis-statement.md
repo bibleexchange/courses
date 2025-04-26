@@ -8,8 +8,8 @@ The term thesis statement is used to refer to the one complete sentence that wil
 
 A subject cannot stand alone. A subject needs a complement to be complete. A complete sentence needs both a subject and a predicate. This statement will add a predicate to the subject. You need to know what you are going to say about your subject.
 
-* The subject answers the question: What am I going to say?
-* The thesis statement answers the question: What am I going to say, about what I am going to say?
+- The subject answers the question: What am I going to say?
+- The thesis statement answers the question: What am I going to say, about what I am going to say?
 
 For example, a possible thesis statement for a sermon preached from Romans 10:17 could simply be: True faith requires a Word from God and then obedience to act upon that Word. This answers the question: what am I going to say about faith? The complete sentence (thesis statement) gives a focus for the sermon.
 
@@ -19,10 +19,9 @@ The thesis statement allows you to know exactly what the sermon is to be about. 
 
 ### Examples of Thesis Statements Taken from Scripture Texts
 
-* TEXT: Let this mind be in you which was also in Christ Jesus (Phil. 2:5)  
-	THESIS: The believer must allow his thoughts to be in line with the mind of Christ.
-* TEXT: Jesus wept (John 11:35)  
-	THESIS: The unbelief of man grieves the heart of God.
-* TEXT: How shall we escape, if we neglect so great salvation; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him (Heb. 2:3)  
-	THESIS: Those who do nothing concerning their soul are in fact rejecting the greatest gift and will not escape eternal judgment in hell.
-
+- Text: Let this mind be in you which was also in Christ Jesus (Phil. 2:5)  
+  THESIS: The believer must allow his thoughts to be in line with the mind of Christ.
+- Text: Jesus wept (John 11:35)  
+  THESIS: The unbelief of man grieves the heart of God.
+- Text: How shall we escape, if we neglect so great salvation; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him (Heb. 2:3)  
+  THESIS: Those who do nothing concerning their soul are in fact rejecting the greatest gift and will not escape eternal judgment in hell.

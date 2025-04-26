@@ -4,9 +4,9 @@ Hotuba za kifungu nizile ambazo somo na migawanyo mikuu vimepatikana kutoka kifu
 
 ### Migawanyo
 
-Maneno muhimu ndio yanayofanya sehemu za hotuba. Yafuatilie kwa umakini maneno yaliyoandikwa kipengele kwa kipengele. Maandishi hayo yanatenganishwa katika vifungu vinavyofaa kufanyia kazi, kwa ajili ya uchunguzi kamili. Maandishi hayo hayapasuliwi kama mtu anayevunja kwa nyundo kama mtoto anavyoweza kupasua saa. Maandishi hayo yanagawanywa kwa umakini wa mtengeneza saa.
+Maneno muhimu ndio yanayofanya sehemu za hotuba. Yafuatilie kwa umakini maneno yaliyoandikwa kipengele kwa kipengele. Maandishi hayo yanatenganishwa katika vifungu vinavyofaa kufanyia kazi, kwa ajili ya uchunguzi kamili.
 
-Kugawanya maandishi katika lugha yake sahihi. Kwa uwazi, kupata viungo vyake asilia katika maandishi. Tafsiri sahihi ya maneno ya maandishi. Maana yake katika lugha ya asili (kitabu cha Strong kiitwacho Mzabibu). Tafakari ya taarifa kwa maneno yaliyoko ndani ya msitari. Kutafakari taarifa ya msitari ndani ya taarifa yote.
+Kugawanya maandishi katika lugha yake sahihi. Kwa uwazi, kupata viungo vyake asilia katika maandishi. Tafsiri sahihi ya maneno ya maandishi. Maana yake katika lugha ya asili. Tafakari ya taarifa kwa maneno yaliyoko ndani ya msitari. Kutafakari taarifa ya msitari ndani ya taarifa yote.
 
 ### Jinsi ya kutenganisha Maandiko katika mawazo yake makuu
 
@@ -41,10 +41,3 @@ Usilazimishe kugawanya mahali pasipofaa panapokaribia kuvunjika.
 #### Inapaswa kuwepo na maendeleo mazuri ya mawazo
 
 Kila kipande kinapaswa kuipeleka mada hatua moja mbele kukaribia kilele. Siyo lazima kuyagawa maneno kama yanavyotokea ili mradi kunakupiga hatua katika somo lenyewe.
-
-### Njia za kupokea andiko cha maandiko
-
-1. Soma na ujifunze Bibilia, hata wakati haujahubiri.
-2. Tafuta vitu maishani ambavyo vitakukumbusha maandiko.
-3. Sikiliza wahubiri wengine.
-4. Sikiliza Roho. Ataiweka moyoni mwako (Yoh. 14:26).

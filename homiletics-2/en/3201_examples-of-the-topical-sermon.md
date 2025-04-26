@@ -2,30 +2,30 @@
 
 #### Example 1
 
-* TOPIC: Purity
-* TEXT: I Timothy 5:22
+- Theme: Purity
+- Text: I Timothy 5:22
 
 ```
-I.  Necessary for Sanctification
-II.  Necessary for Service
-III.  Necessary for Security
+I.  Necessary for sanctification
+II.  Necessary for service
+III.  Necessary for security
 ```
 
 #### Example 2
 
-* TOPIC: Deficient Love
-* TEXT: Revelation 2:4–5
+- Theme: Deficient love
+- Text: Revelation 2:4–5
 
 ```
-I.  The Characteristics of This Love
+I.  The characteristics of this love
   A.  Deficient
   B.  Lacking
   C.  Weak
-II.  The Cause of This Love
-  A.  Lack of Prayer
+II.  The cause of this love
+  A.  Lack of prayer
   B.  Lack of Bible
-  C.  Lack of Witness
-III.  The Cure of This Love
+  C.  Lack of witness
+III.  The cure of this love
   A.  Remember
   B.  Repent
   C.  Return
@@ -33,12 +33,11 @@ III.  The Cure of This Love
 
 #### Example 3
 
-* TOPIC: The Soul in Conflict
-* TEXT: Ephesians 6:10–18
+- Theme: The soul in conflict
+- Text: Ephesians 6:10–18
 
 ```
-I.  The Source of the Conflict
-II.  The Scope of the Conflict
-III.  The Success in the Conflict
+I.  The source of the conflict
+II.  The scope of the conflict
+III.  The success in the conflict
 ```
-

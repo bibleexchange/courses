@@ -1,4 +1,4 @@
-# Sehemu za Hotuba
+# Sehemu za hotuba
 
 Somo linapaswa kuandaliwa kwa kuzingaitia umbile, maelezo kwa mpango wa wazo. Ni lazima ufahamu unakoelekea na uongoze kwa njia ambayo wasikilizaji wako wataweza kufuata!
 
@@ -8,11 +8,10 @@ Dondoo kimsingi ni msaada wa kuweka miongozo na sababu za hotuba yako katika uta
 
 Je, unaundaje dondoo? Kimsingi, unatengeneza fremu au mifupa pamoja na vitu vinavyo fuata kama nyama:
 
-1. KIFUNGU: Msingi wa hotuba yeyote. Sehemu gani ya andiko unayo enda kuhubiri?
+1. Kifungu: Msingi wa hotuba yeyote. Sehemu gani ya andiko unayo enda kuhubiri?
 2. DHAMIRA: Hotuba yako ni sentesi moja. (Yamkini imekamilika mwishoni kwenye harakati za maandalizi ya hotuba. Ingehitimisha na kichwa cha habari.")
 3. UTANGULIZI: Neno la utangulizi HUANDAA wasikiaji kwa ajili ya kile kitakacho semwa.
 4. MWILI
 5. HITIMISHO: Kupitia, kimhitasari, na kuita kwenye kitendo. Katika hitimisho unaweza KUKUMBUSHIA wasikiaji kwa kile ulicho sema.
 
 Kutoa mhitasari, kama shughuli yeyote mpya, itachukua zoezi. kushikiliwa na bila kuvunja moyo itachukua mda!
-
