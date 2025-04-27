@@ -8,18 +8,14 @@ Kifungu cha maandishi kinaweza kuwa ni zaidi ya kilichosomwa. Hotuba inaweza kuj
 
 Kifungu cha maandishi ni msingi wa Injili ambao juu yake mahubiri hujengwa. Neno la Mungu ni mamlaka aliyonayo mhubiri (I Tim. 4:2). Neno la Mungu ndiyo mamlaka ya mwisho.
 
-Neno la Kilatini _textus_ (kifungu cha Maandiko) maana "yake tunda la kusuka au mtandao." Maandishi ni nguo ya mahubiri. Mahubiri yamesukwa kuyazunguka Kifungu cha maandishi.
-
 ### Sababu za matumizi ya kifungu cha maandiko
 
 #### Ipo mifano ndani ya Biblia ya namna ya kusoma andiko kabla ya kufundisha
 
 1. Kitabu cha sheria kilisomwa kabla ya kuwaonesha watu (Neh. 8:8)
 2. Yesu alisoma kitabu cha Isaya kabla ya kuwafundisha watu (Lk. 4:16-20)
-3. Wafuasi wa Yesu walitumia maandiko kama msingi wa mafundisho yao
-4. Petro alimnukuu nabii Yoeli siku ya Pentekoste (Mdo. 2:16-21)
-5. Paulo alitumia Maandiko katika mafundisho yake (Mdo. 13:16-42)
-6. Timotheo alihimizwa kulihubiri Neno (2 Tim. 4:2)
+3. Petro alimnukuu nabii Yoeli siku ya Pentekoste (Mdo. 2:16-21)
+4. Paulo alitumia Maandiko katika mafundisho yake (Mdo. 13:16-42)
 
 #### Yapo matukio ya kihistoria yanayotumika ya kusoma andiko kabla ya kuhubiri
 
@@ -35,7 +31,7 @@ Injili ni uweza wa Mungu uuletao wokovu (Rum. 1:16). Neno la Mungu halitarudi bu
 
 #### Kifungu cha maandishi kinapaswa kuchaguliwa kwa kufikiria kwa uangalifu
 
-Fanya maombi ili upate muongozo wa Roho Mtakatifu katika kuchagua maandiko. Fikiria pia kuhusu kufaa kwa maandishi unayochagua kwa kutambua waumini utakao wafundisha. Kwa mfano wimbo wa Sulemani 1:13 hautafaa katika hotuba kwa watoto wadogo.
+Fanya maombi ili upate muongozo wa Roho Mtakatifu katika kuchagua maandiko. Fikiria pia kuhusu kufaa kwa maandishi unayochagua kwa kutambua waumini utakao wafundisha.
 
 #### Unapaswa kuelewa mahitaji ya waumini wakati unapochagua taarifa ya maandiko
 
@@ -49,12 +45,14 @@ Kwenye ufufuo jumapili watu wanatarajia kusikia hotuba kuhusu ufufuo wa Kristo. 
 
 Maafa ya kitaifa yanaweza kuwafanya watu watambue nguvu za Mungu. Unaweza kuonesha jinsi unabii wa Biblia unavyokamilika.
 
+Tunahitaji kuwa waangalifu kuhusu kutangaza mapenzi ya Mungu kwa sababu kama wanadamu, uelewaji wetu wa mambo ni wa chini sana kuliko hekima ya Mungu.
+
 #### Njia za kupokea andiko cha maandiko
 
 1. Soma na ujifunze Bibilia, hata wakati haujahubiri.
 2. Tafuta vitu maishani ambavyo vitakukumbusha maandiko.
 3. Sikiliza wahubiri wengine.
-4. Sikiliza Roho. Ataiweka moyoni mwako (Yoh. 14:26).
+4. Sikiliza Roho. Ataiweka moyoni mwako (Yn. 14:26).
 
 ### Faida za kutumia kifungu cha maandiko
 
@@ -72,18 +70,11 @@ Kifungu cha Mandiko yataushikia ujumbe mstarini. Kifungu cha Mandiko kitamzuia m
 
 Iwapo siyo sentensi kamili, kifungu cha Mandiko kinapaswa kuwa na ukweli wote ambao unazungumziwa.
 
-Kifungu cha Mandiko sahihi siyo sehemu ya tamko lililotolewa katika maelezo. Sehemu za kifungu cha Maandishi zinaweza kutumiwa kwa ajili ya kitu chochote. Tafsiri sahihi ya taarifa za Biblia ni muhimu kuliko kutumia sehemu ya aya moja kama andiko. Kwa mfano, sehemu ya Mathayo 18:17 ikitumiwa kama taarifa: "Akidharau kulisikiliza kanisa, muache yeye...". Kipande hiki cha maandishi kinaweza kutumiwa vibaya.
+Kifungu cha Mandiko sahihi siyo sehemu ya tamko lililotolewa katika maelezo. Sehemu za kifungu cha Maandishi zinaweza kutumiwa kwa ajili ya kitu chochote. Tafsiri sahihi ya taarifa za Biblia ni muhimu kuliko kutumia sehemu ya aya moja kama andiko.
 
 > "Aya za andiko hazipaswi kukatwa katwa kwa ajili ya kupata uzito au matamko yenye kusisimua."
 
-Weka akilini mwako ukweli mmoja ambao utauzungumzia. Mtiririko ambao andiko hilo litatokea ni lazima ufikiriwe vizuri. Hii itakulinda usifanye makosa na kuhakikisha tafsiri ya Injili inafanyika ipasavyo. Mifano ya matumizi mazuri ya sehemu za vifungu vya Maandiko:
-
-- ...damu ya agano la milele... (Waebrania 13:20)
-- ...mimi ni wa nani... (Matendo 27:23)
-- ...tulipatanishwa na Mungu..." (Warumi 5:10)
-- ...utajiri usiopimika... (Waefeso 3:8)
-- ...wana wako, Ee Sayuni wapigane na wana wako, Ee Uyunani... (Zakaria 9:13)
-- ...Kila mtu kwanza huandaa divai iliyonjema;... ndipo huleta iliyodhaifu... (Yohana 2:10)
+Weka akilini mwako ukweli mmoja ambao utauzungumzia. Mtiririko ambao andiko hilo litatokea ni lazima ufikiriwe vizuri. Hii itakulinda usifanye makosa na kuhakikisha tafsiri ya Injili inafanyika ipasavyo.
 
 #### Urefu wa taarifa huamuliwa na dhamira yake
 
@@ -105,18 +96,25 @@ Neno kamilisha maana yake ni kitu kinachofanya kamili, timiza au fikisha katika 
 
 Mifano ya taarifa zinazokamilisha:
 
-- MFANO 1:
+- Mfano 1:
   - "Mimi ndimi mlango wa kondoo" (Yohana 10:7)
   - "tumepata kwa njia ya Imani" (Warumi 5:2)
   - "Sote tumepata njia ya kumkaribia katika Roho mmoja" (Waefeso 2:18)
   - "Kupaingia pakatakatifu kwa damu ya Yesu" (Waebrania 10:19)
-- MFANO 2:
-  - "Mhudumu mwuaminifu wa Kristo" (Wakolosai 1:7)
-  - "Mimi Paulo nalikuwa mhudumu " (Wakolosai 1:23) (mhudumu wa Injili)
-  - "Mhudumu wa kanisa" (Wakolosai 1:24-25)
-- MFANO 3:
+- Mfano 2:
   - "utamlinda katika amani kamilifu, kwa kuwa anakutumaini:" (Isaya 26:3)
   - "Na amani ya Mungu ipitayo akili zote itawahifadhi mioyo yenu na nia zenu katika Kristo Yesu." (Wafilipi 4:7)
+- Mfano 3:
+  - Maneno "kama" katika sura ya kumi na moja ya kitabu cha Yohana yamesimama kama vilele vinavyofuatana mfululizo katika mlima mmoja (Yohana 11:9, 10, 12, 21, 40).
+- Mfano 4:
+  - C.H. Spurgeon alihubiri kwa maneno "nimetenda dhambi":
+  - Farao aliyekuwa shupavu (Kutoka 9:27)
+  - Balaamu aliyekuwa kigeugeu (Hesabu 22:34)
+  - Mfalume Sauli mdhambi (I Samweli 15:24)
+  - Akani akajuta (Yoshua 7:20)
+  - Yuda akaumia rohoni (Mathayo 27:4)
+  - Ayubu akashangazwa na uadilifu wa Mungu (Ayubu 7:2)
+  - Mwana mpotevu alitubu (Luka 15:21)
 
 #### Kutofautisha vifungu vya maandiko
 
@@ -124,30 +122,12 @@ Neno tofautisha lina maana linganisha kwa kuchambua kisichofanana. Maandishi yan
 
 Mifano ya vifungu vya maandiko vinavyotofautiana:
 
-- MFANO 1:
+- Mfano 1:
   - "Maana Mungu wetu ni moto ulao" (Waebrania 12:29)
   - "Kwa maana Mungu ni upendo" (I Yohana 4:8)
-- MFANO 2:
+- Mfano 2:
   - "acha sasa tuanguke mikononi kwa BWANA; kwa kuwa huruma zake ni za ajabu:" (2 Samweli 24:4)
   - "ni jambo la kutisha kuanguka katika mikono ya Mungu aliye hai." (Ebr. 10:31)
-- MFANO 3:
+- Mfano 3:
   - "Mimi Bwana Mungu wako ni Mungu mwenye wivu nawapatiliza wana maovu ya baba zao," (Kutoka 20:5)
   - "Mwana hatauchukua uovu wa baba yake," (Ezekieli 18:20)
-
-#### Vifungu vya mandiko sambamba
-
-Neno sambamba maana yake upande kwa upande, kuelekea upande mmoja, sawasawa au inayofanana. Kulinganisha ni kuonyesha jinsi vitu vinavyofanana. Vifungu vya Maandiko ya neno moja kwa njia mbalimbali yanaweza kusemwa kwamba ni vifungu vya mandiko sambamba.
-
-Mifano ya vifungu vya Maandiko sambamba:
-
-- MFANO 1:
-  - Maneno "kama" katika sura ya kumi na moja ya kitabu cha Yohana yamesimama kama vilele vinavyofuatana mfululizo katika mlima mmoja (Yohana 11:9, 10, 12, 21, 40).
-- MFANO 2:
-  - C.H. Spurgeon alihubiri kwa maneno "nimetenda dhambi":
-  - Farao aliyekuwa shupavu (Kutoka 9:27)
-  - Balaamu aliyekuwa kigeugeu (Hesabu 22:34)
-  - Mfalume Sauli mdhambi (I Samweli 15:24)
-  - Akani akajuta (Yoshua 7:20) (samahani amekamatwa, lakini hakutubu)
-  - Yuda akaumia rohoni (Mathayo 27:4)
-  - Ayubu akashangazwa na uadilifu wa Mungu (Ayubu 7:2)
-  - Mwana mpotevu alitubu (Luka 15:21)

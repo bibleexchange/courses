@@ -9,10 +9,10 @@ Kifungu: mst. 17–21 (Nukuu toka Yoel 2:28–32)
 Dhamira: Yesu ni Masiha
 
 ```
-I.  Utangulizi (mst. 14–16)
+I.  Utangulizi (mst. 14–21)
 II.  Yesu alitimiza mpango wa Mungu (mst. 22–24)
   A.  Yesu alikuwa pendekezo la Mungu
-    1.  Kwa miujiza, maajabu na ishara
+    1.  Kwa miujiza, maajabu, na ishara
     2.  Kwa kazi ya Mungu
   B.  Kusulubiwa ilikuwa sawa na mpango wa Mungu
   C.  Ufufuo ulikuwa umetimizwa kulingana na unabii

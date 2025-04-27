@@ -9,10 +9,10 @@ Text: vs. 17–21 (Quotation from Joel 2:28–32)
 Theme: Jesus is the Messiah
 
 ```
-I.  Introduction (vs. 14–16)
+I.  Introduction (vs. 14–21)
 II.  Jesus fulfilled God's plan (vs. 22–24)
   A. Jesus was approved of God
-	  1.  By miracles, wonders and signs
+	  1.  By miracles, wonders, and signs
 	  2.  By the work of God
   B.  The crucifixion was according to God's plan
   C.  The resurrection was fulfilled according to prophecy

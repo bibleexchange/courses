@@ -17,7 +17,7 @@ Biblia imegawanyika katika vitabu, milango, paragirafu, misitari. Lakini kutenga
 
 #### Gawanya kifungu katika sehemu zake
 
-**MFANO:**
+**Mfano:**
 
 > Luka 9:1–5—Akawaita wale Thenashara, akawapa uwezo na mamlaka juu ya pepo wote na kuponya maradhi. Akawatuma wautangaze ufalme wa Mungu, na kupoza wagonjwa. Akawaambia, Msichukue kitu kwa safari yenu, fimbo, wala mkoba, wala mkate, wala fedha, wala mmoja wenu asiwe na kanzu mbili. Na nyumba yo yote mtakayoingia kaeni humo, mpaka mtoke mjini. Na wale wasiowakaribisha, mtokapo katika mji huo, yakung’uteni hata mavumbi ya miguuni mwenu, kuwa ushuhuda juu yao.
 
@@ -34,7 +34,7 @@ Biblia imegawanyika katika vitabu, milango, paragirafu, misitari. Lakini kutenga
 
 #### Fanya sehemu za kifungu
 
-**MFANO:**
+**Mfano:**
 
 - KICHWA CHA HABARI: Agizo la kiuinjilisti
 - Kifungu: Luka 9:1–5

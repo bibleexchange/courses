@@ -1,6 +1,6 @@
 # Parts of a sermon
 
-A sermon should be outlined and have a structured, logical order of thought. You must know where you are going and lead on a path that your hearers can follow!
+A sermon should be outlined and have a structured, logical order of thought. You must know where you are going and lead on a path that your hearers can follow.
 
 First, look for a general theme, then sub-themes and ideas, such as where each idea begins and ends, and how it is sustained. Search for the principal themes and the logical order of each sub-idea; then, when you see another principal/primary theme, you can place it in the next category or section.
 
@@ -10,8 +10,8 @@ How do you construct an outline? Basically, you are making a framework with the 
 
 1. Text: The foundation of any sermon. What portion of Scripture are you preaching?
 2. Theme: Your sermon in one sentence. (Probably completed last in the sermon preparation process. Could include a "title.")
-3. INTRODUCTION: An introductory paragraph preparing the hearers for what is to be said.
-4. BODY
-5. CONCLUSION: Review, summarize, and or call to action. In the conclusion you could remind the hearers what has been said.
+3. Introduction: An introductory paragraph preparing the hearers for what is to be said.
+4. Body
+5. Conclusion: Review, summarize, and or call to action. In the conclusion you could remind the hearers what has been said.
 
 Outlining, like any new activity, will take practice. Be persistent and do not get frustrated. It will take time and practice!
