@@ -1,4 +1,4 @@
-## The Textual Sermon
+## The textual sermon
 
 Textual sermons are those in which the subject and main divisions are derived from the text. Gibbs in his book, The Preacher and His Preaching, says that the textual sermon consists of selecting verses, a verse, or even the part of a verse as the text.
 
@@ -6,7 +6,11 @@ Textual sermons are those in which the subject and main divisions are derived fr
 
 The prominent words of the text form the divisions of the sermon. Follows closely the words of the text, clause by clause. The text is taken apart into manageable portions, for the purpose of a thorough examination of the text.
 
-Division of the text in its precise language. At clear, natural breaking points within the text. A correct interpretation of the words of the text. The meaning in the original language. Considering the context of the word within the verse. Considering the context of the verse within the entire passage.
+Divide the text at clear, natural breaking points within the text.
+
+You need a correct interpretation of the words of the text, sometimes including the meaning in the original language.
+
+You need to consider the context of the word within the verse. Also consider the context of the verse within the entire passage.
 
 #### How to separate a Scripture into its main thoughts
 
@@ -30,7 +34,7 @@ Looking at this verse part by part and studying it will help you to better under
 
 ### Success
 
-The success of the textual sermon. Dependent upon the selection of the text. Certain texts are better suited to textual treatment. Other texts are best treated in a topical manner. Many texts can be treated in a variety of different ways.
+The success of the textual sermon is dependent upon the selection of the text. Certain texts are better suited to textual treatment. Other texts are best treated in a topical manner. Many texts can be treated in a variety of different ways.
 
 ### Distinguishing characteristics of this type of sermon
 

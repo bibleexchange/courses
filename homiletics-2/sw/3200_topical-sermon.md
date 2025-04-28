@@ -8,7 +8,7 @@ Jinsi gani dondoo za kimada ni tofauti na dondoo za kifungu?
 2. Dhamira iliojitokeza katika hotuba ya kifungu.
 3. Migawanyo ya hotuba ilioundwa na mhubiri. (Ambayo ingejengewa juu ya dhamira.)
 
-Maandishi kwa asili yanapaswa kuonesha mada ijapokuwa mada inaweza kuchaguliwa kwanza. Njia inayotumika kuweka utaratibu wa maandishi itakuwa ni ya kurudia rudia kwa kuweka mkazo katika mada. Mafundisho ya somo ni lazima yaoneshe somo kwa ukamilifu.
+Maandishi kwa asili yanapaswa kuonesha dhamira ijapokuwa dhamira inaweza kuchaguliwa kwanza. Njia inayotumika kuweka utaratibu wa maandishi itakuwa ni ya kurudia rudia kwa kuweka mkazo katika dhamira. Hotuba za kimada ni lazima yaoneshe dhamira kwa ukamilifu.
 
 ### Faida za hotuba ya kimada
 
@@ -22,7 +22,7 @@ Kifungu kimoja marachache hufanya hivi.
 
 #### Inaiweka akili katika mapana ambayo picha nzima huonekana
 
-Mafundisho ya somo huhamasisha kwa kiasi kukubwa kutafakari vizuri baraza lote la Mungu.
+Hotuba ya kimada huhamasisha kwa kiasi kukubwa kutafakari vizuri baraza lote la Mungu.
 
 Roho ya maneno ni kile ambacho tungelenga kuleta kwenye nuru, nasio kama maneno matupu.
 
@@ -44,7 +44,7 @@ Mafunzo kwa njia ya hotuba hutoa fursa ya kutumia michoro na hadithi.
 
 #### Ya Msimu
 
-Mafundisho ya somo huinua vilele vinavyofuatana hadi kufikia hatima yenye maelezo mazuri.
+Hotuba ya kimada huinua vilele vinavyofuatana hadi kufikia hatima yenye maelezo mazuri.
 
 #### Hushawishi
 
@@ -57,7 +57,7 @@ Wazi kabisa, matendo elekezi yangepatikana katika kila hotuba. hotuba isingepung
 
 #### Endelevu
 
-Pointi zimeonyeshwa, zimefikiwa, na zimechunguzwa. Matumizi ya kawaida yanatakiwa yapatikane katika kila somo.
+Pointi zimeonyeshwa, zimefikiwa, na zimechunguzwa. Matumizi ya kawaida yanatakiwa yapatikane katika kila hotuba.
 
 ### Hatua za kupata dhamira ya andiko
 
@@ -91,4 +91,4 @@ Kila maandishi ya mada ndogo mawazo makuu kutoka kifungu cha maneno/aya. Wakati 
 
 ### Mafanikio
 
-Mafanikio ya mafunzo kwa njia ya hotuba hutegemea uwezo wa kusisitiza alionao mhubiri. Anapaswa kuwa mwanafunzi wa Neno la Mungu na awe na uwezo wa kupangilia namna ya kuuonesha ukweli. Nguvu za somo hili zimo katika mada iliyoko mkononi. Mafundisho ya somo yanayokubalika ni yale yanayokamilisha maonesho ya mada ambapo kila upande wake unaangaliwa vizuri.
+Mafanikio ya mafunzo kwa njia ya hotuba hutegemea uwezo wa kusisitiza alionao mhubiri. Anapaswa kuwa mwanafunzi wa Neno la Mungu na awe na uwezo wa kupangilia namna ya kuuonesha ukweli. Nguvu za hotuba hili zimo katika mada iliyoko mkononi. Hotuba ya kimada yanayokubalika ni yale yanayokamilisha maonesho ya mada ambapo kila upande wake unaangaliwa vizuri.

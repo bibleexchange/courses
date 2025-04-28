@@ -1,6 +1,6 @@
 ### Mfano wa hotuba ya kifungu
 
-- KICHWA CHA HABARI: Mungu anataka nini
+- Dhamira: Mungu anataka nini
 - Kifungu: Kumb 10:12–13
 
 ```
@@ -13,7 +13,7 @@ V.  Kuzishika amri za BWANA na sheria zake
 
 ### Kukigawanya kifungu katika sehemu zake: kutoa dondoo
 
-Biblia imegawanyika katika vitabu, milango, paragirafu, misitari. Lakini kutenganisha zaidi ni lazima kwa ajili ya ufahamu wa wazi na uwakilishaji wa kifungu. Tunapaswa kugawanya kifungu katika usawa na vipande usawa wa (i. e. kutafuna).
+Biblia imegawanyika katika vitabu, milango, paragirafu, misitari. Lakini kutenganisha zaidi ni lazima kwa ajili ya ufahamu wa wazi na uwakilishaji wa kifungu. Tunapaswa kugawanya kifungu katika usawa na vipande usawa wa.
 
 #### Gawanya kifungu katika sehemu zake
 
@@ -36,21 +36,21 @@ Biblia imegawanyika katika vitabu, milango, paragirafu, misitari. Lakini kutenga
 
 **Mfano:**
 
-- KICHWA CHA HABARI: Agizo la kiuinjilisti
+- Dhamira: Agizo la kiuinjilisti
 - Kifungu: Luka 9:1–5
 
 ```
-I.  JIBU NA KWENDA
+I.  Jibu na kwenda
   A.  Akawaita wale Thenashara
   B.  akawapa uwezo na mamlaka
   C.  Akawatuma
-II.  SEMA NA KUTENDA
+II.  Sema na kutenda
   A.  wautangaze ufalme wa Mungu
   B.  na kupoza wagonjwa
-III.  KUPOKEA NA KUTOA
+III.  Kupokea na kutoa
   A.  Msichukue kitu kwa safari yenu
   B.  Na nyumba yo yote mtakayoingia kaeni humo, mpaka mtoke mjini
   C.  yakung’uteni hata mavumbi ya miguuni mwenu, kuwa ushuhuda juu yao
 ```
 
-**Mazoezi**: Gawanya vifungu vifuatavyo katika sehemu: Ezekiel 1:10; Kumb. 6:5; Warumi 12:1; Mt. 5:44; Mith 6:16--19; Yoshua 22:15; I Wakr. 13:13; Wagal 2:20; Ufunuo 3:20; Daniel 1:8; Ruth 1:16.
+**Mazoezi**: Gawanya vifungu vifuatavyo katika sehemu: Ezekiel 1:10; Kumb. 6:5; Rum. 12:1; Mt. 5:44; Mith. 6:16--19; Yoshua 22:15; I Wakr. 13:13; Wagal 2:20; Ufunuo 3:20; Daniel 1:8; Ruth 1:16.

@@ -1,6 +1,6 @@
 # Sehemu za hotuba
 
-Somo linapaswa kuandaliwa kwa kuzingaitia umbile, maelezo kwa mpango wa wazo. Ni lazima ufahamu unakoelekea na uongoze kwa njia ambayo wasikilizaji wako wataweza kufuata.
+Hotuba linapaswa kuandaliwa kwa kuzingaitia umbile, maelezo kwa mpango wa wazo. Ni lazima ufahamu unakoelekea na uongoze kwa njia ambayo wasikilizaji wako wataweza kufuata.
 
 Kwanza, tazama kiini kwa ujumla, kisha dhamira ndogo zinazofuata chini na dhana, kama vile wapi kila wazo linaanza na linaishia, na jinsi lilivyo patikana. Tafuta dhamira za kikanuni na zilizo pangwa kwa utaratibu wa kila wazo linalo fuata chini; kisha, utakapo ona kanuni nyingine/dhamira ya msingi, unaweza kuiweka katika aina inayo fuata au sehemu.
 

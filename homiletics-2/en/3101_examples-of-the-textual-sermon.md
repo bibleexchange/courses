@@ -1,6 +1,6 @@
 ### Example of the Textual Sermon
 
-- Theme: What God Requires
+- Theme: What God requires
 - Text: Deuteronomy 10:12–13
 
 ```
@@ -13,7 +13,7 @@ V.  Keep the commandments of the LORD and his statues
 
 ### Dividing a text into its parts: outlining
 
-The Bible is divided into books, chapters, paragraphs, verses. But further dissection is necessary for clear understanding and presentation of a text. We must divide the text into "sizeable" pieces (i. e. bite size).
+The Bible is divided into books, chapters, paragraphs, verses. But further dissection is necessary for clear understanding and presentation of a text. We must divide the text into "sizeable" pieces.
 
 #### Divide the text into its parts
 
@@ -53,4 +53,4 @@ III.  Receive and give
   C.  shake off the very dust from your feet for a testimony against them
 ```
 
-**Exercise:** Divide the following Texts into their parts: Ezekiel 1:10; Deut. 6:5; Romans12:1; Matt. 5:44; Proverbs 6:16–19; Joshua 22:15; I Cor. 13:13; Galatians 2:20; Revelation 3:20; Daniel 1:8; Ruth 1:16.
+**Exercise:** Divide the following texts into their parts: Ezekiel 1:10; Deut. 6:5; Romans 12:1; Matt. 5:44; Proverbs 6:16–19; Joshua 22:15; I Cor. 13:13; Galatians 2:20; Revelation 3:20; Daniel 1:8; Ruth 1:16.

@@ -1,7 +1,6 @@
-# Aina za Hotuba
+# Aina za hotuba
 
 Kuna aina kuu mbili za hotuba: yakifungu na yakimada.
 
-1. Kwa kifungu cha Maandiko—Kifungu cha Maandiko huonesha dhamira, kichwa na migawanyo. Migawanyo hupendekezwa kwa maneno muhimu katika maandishi.
-2. Ki mada—Msingi wake ni dhamira au somo la habari.
-
+1. Kifungu: Kifungu huonesha dhamira, kichwa na migawanyo. Migawanyo hupendekezwa kwa maneno muhimu katika kifungu.
+2. Kimada: Msingi wake ni dhamira au somo la kifungu.

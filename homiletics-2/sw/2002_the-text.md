@@ -2,7 +2,7 @@
 
 ### Maana ya Neno kifungu cha maandiko
 
-Neno _kifungu cha Maandiko_ mara kwa mara hutumika kumaanisha andiko ambalo husomwa na mhubiri mwanzoni mwa somo. Ni eneo la Maandiko Matakatifu ambalo litafafanuliwa.
+Neno _kifungu cha Maandiko_ mara kwa mara hutumika kumaanisha andiko ambalo husomwa na mhubiri mwanzoni mwa hotuba. Ni eneo la Maandiko Matakatifu ambalo litafafanuliwa.
 
 Kifungu cha maandishi kinaweza kuwa ni zaidi ya kilichosomwa. Hotuba inaweza kujengwa kwa kuzingatia ukurasa au sura nzima. Mhubiri anaweza kuchagua kusoma sehemu sehemu za ujumbe mrefu au akapitia kwa kusoma jinsi anavyoendelea kuikamilisha hotuba yake.
 
@@ -86,7 +86,7 @@ Ni rahisi zaidi kwa waumini kukumbuka. Uwe mwangalifu katika kutumia taarifa fup
 
 ##### Taarifa ndefu huwa kamili na zina mamlaka
 
-Ni msingi kamili wa somo. Ni fursa ya kulinganisha taarifa za Biblia kwa waumini.
+Ni msingi kamili wa hotuba. Ni fursa ya kulinganisha taarifa za Biblia kwa waumini.
 
 ### Taarifa zinaweza kuchukuliwa kutoka katika andiko zaidi ya moja
 
@@ -118,7 +118,7 @@ Mifano ya taarifa zinazokamilisha:
 
 #### Kutofautisha vifungu vya maandiko
 
-Neno tofautisha lina maana linganisha kwa kuchambua kisichofanana. Maandishi yanayoonesha zaidi ya upande mmoja au tabia ya somo ni taarifa tofauti. Ni muhimu kuelewa kwamba maandishi haya yanatofautiana na siyo kwamba yanapingana!
+Neno tofautisha lina maana linganisha kwa kuchambua kisichofanana. Maandishi yanayoonesha zaidi ya upande mmoja au tabia ya dhamira ni taarifa tofauti. Ni muhimu kuelewa kwamba maandishi haya yanatofautiana na siyo kwamba yanapingana!
 
 Mifano ya vifungu vya maandiko vinavyotofautiana:
 

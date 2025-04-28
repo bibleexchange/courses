@@ -1,8 +1,6 @@
 ## Hitimisho
 
-Mwisho ni umaliziaji wa somo, lakini hujisemei tu umekamilisha, lakini huenda ni sehemu muhimu zaidi ya hotuba. Ni muhimu pia kwa sababu ni wakati mzito wa wasikilizaji kufanya uamuzi. Swali muhimu ni "Ni kitu gani kisemwe katika kumalizia?" linajibiwa kwa kujibu swali lingine, "Iwapo waumini wangeondoka wakiwa wamesahau kila kitu ambacho nimekisema katika hotuba yangu isipokuwa kitu kimoja mimi ningependa kitu hicho kiwe ni kipi?" Jibu la swali hilo linapaswa kuwa mada yako. Kuna angalau aina tatu za hotuba "Hitimisho."
-
-Hii ndio pale unapotumia baada ya kumaliza dondoo Hii inachukua maana ya wazi na kuiweka kwenye matumizi ya vitendo. Hii ni jinsi gani nitavyo itikia kwenye neno ambalo dhambi itanifanya niwe mbaya, kwa kanuni zipi nitajitoa katika kushindwa, matundu yapi ya kuepuka, katika matendo yapi yanayo athiri, na ahadi zipi za kushika.
+Mwisho ni umaliziaji wa hotuba, lakini hujisemei tu umekamilisha, lakini huenda ni sehemu muhimu zaidi ya hotuba. Ni muhimu pia kwa sababu ni wakati mzito wa wasikilizaji kufanya uamuzi. Swali muhimu ni "Ni kitu gani kisemwe katika kumalizia?" linajibiwa kwa kujibu swali lingine, "Iwapo waumini wangeondoka wakiwa wamesahau kila kitu ambacho nimekisema katika hotuba yangu isipokuwa kitu kimoja mimi ningependa kitu hicho kiwe ni kipi?" Jibu la swali hilo linapaswa kuwa mada yako. Kuna angalau aina tatu za hotuba "hitimisho."
 
 ### Mhitasari wa hitimisho
 
@@ -20,9 +18,9 @@ Lengo la pili linalo wezekana kwa ajili ya hitimisho lako lingekua ni kuhusianis
 
 matumizi haya ya hitimisho, huwafanya wasikilizaji kukumbuka vya kutosha kilichosemwa kinahusiana nao. Unaweza kujaribu kujibu swali, "Nimeshasikia kile ulicho sema, lakini kwangu inahusianaje?" Tafuta kusababisha wasikilizaji kujua kwamba Mungu anaongea nao kibinafisi na sio kama na jirani yao.
 
-#### Hitimisho ambazo hupendekezwa kipekee huzalisha
+Hii ndio pale unapotumia baada ya kumaliza dondoo Hii inachukua maana ya wazi na kuiweka kwenye matumizi ya vitendo. Hii ni jinsi gani nitavyo itikia kwenye neno ambalo dhambi itanifanya niwe mbaya, kwa kanuni zipi nitajitoa katika kushindwa, matundu yapi ya kuepuka, katika matendo yapi yanayo athiri, na ahadi zipi za kushika.
 
-Waambie watu nini wanapaswa kufanya ijayo. Kwa mfano, "Nenda msamehe mtu," "toa mtu zawadi," au "Kubali wokovu."
+Hii inaweza pia kuwa hadithi au wimbo ambao utasaidia watu kukumbuka kile ulichohubiri.
 
 #### Hitimisho ambazo hutia mawazo ya kweli hasa kwa wasikiaji
 
@@ -33,3 +31,7 @@ Saidia watu kuelewa jinsi ujumbe huu unaweza kusaidia shida zao. Kwa mfano, "Sio
 Lengo la tatu linalowezekana kwa ajili ya hitimisho lako lingekua kuwatia changa moto wasikilizaji wako kuwaitikia hotuba yako. Hitimisho ni nafasi ya mwisho ya kushawishi kwa watu, ikiwa haujafanya hivyo tayari.
 
 Tendo ndio lengo la hitimisho lenye kutia changa moto. Matumizi haya ya hitimisho lako hutafuta kuwatia changamoto wasikilizaji wako kwenye vitendo. Kuona kama wanakumbuka kile kilichokua kinasemwa na kujua Mungu anazungumza nao na sio kama na mtu mwingine zaidi, unatafuta kuwavuvia kuitikia hotuba pamoja na vitendo. Mfano wa hii ungekuwa ni kutoa nafasi madhabahuni kuwaita wenye dhambi na kuwaita kutubu na kuwaombea Mungu bila kuchelewa. Tendo ambalo limepewa changamoto katika aina hii ya hitimisho ni ile ambayo wenye dhambi wange weza kumuomba Mungu na kuzaliwa mara ya pili.
+
+#### Hitimisho ambazo hupendekezwa kipekee huzalisha
+
+Waambie watu nini wanapaswa kufanya ijayo. Kwa mfano, "Nenda msamehe mtu," "toa mtu zawadi," au "Kubali wokovu."

@@ -26,7 +26,7 @@ The topical sermon greatly encourages considerations of the whole council of God
 
 The spirit of the words is what we should aim to bring into the light, and not just the bare words.
 
-#### A theme can be chosen first, A text can then be selected, Which supports that theme
+#### A theme can be chosen first, A text can then be selected, which supports that theme
 
 ### Distinguishing characteristics of the topical sermon
 
@@ -83,7 +83,7 @@ The chapter and verses were added by the publisher and are not part of the origi
 
 #### Then list all of the various ideas/points in sequence
 
-This is where you use "Interpretation". This is taking what is said and finding out what the text means, how to interpret literally in the correct context.
+This is where you use "interpretation". This is taking what is said and finding out what the text means, how to interpret literally in the correct context.
 
 Always, always go in the sequence of the text. Do not jump around! Never take out of God's Word what is not there, or read in your will as His.
 

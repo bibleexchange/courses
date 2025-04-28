@@ -118,7 +118,7 @@ Examples of complementary texts:
 
 #### Contrasting texts
 
-The word contrast means to compare as to point out the differences. Texts which reveal more than one side or aspect of a subject are contrasting texts. It is important to note that these texts are contrasting and not contradicting!
+The word contrast means to compare as to point out the differences. Texts which reveal more than one side or aspect of a theme are contrasting texts. It is important to note that these texts are contrasting and not contradicting!
 
 Examples of contrasting texts:
 

@@ -1,4 +1,4 @@
-### Examples of the Topical Sermon
+### Examples of the topical sermon
 
 #### Example 1
 
