@@ -6,13 +6,15 @@ Hotuba za kifungu nizile ambazo dhamira na migawanyo mikuu vimepatikana kutoka k
 
 Maneno muhimu ndio yanayofanya sehemu za hotuba. Yafuatilie kwa umakini maneno yaliyoandikwa kipengele kwa kipengele. Maandishi hayo yanatenganishwa katika vifungu vinavyofaa kufanyia kazi, kwa ajili ya uchunguzi kamili.
 
+Biblia imegawanyika katika vitabu, milango, aya, misitari. Lakini kutenganisha zaidi ni lazima kwa ajili ya ufahamu wa wazi na uwakilishaji wa kifungu. Tunapaswa kugawanya kifungu katika usawa na vipande usawa wa.
+
 Gawanya maandika katika sehemu zilizo wazi, za asili ndani ya maandika.
 
 Unahitaji tafsiri sahihi ya maneno ya maandishi, wakati mwingine ikijumuisha maana katika lugha asilia.
 
 Unahitaji kuzingatia muktadha wa neno ndani ya mstari. Pia zingatia muktadha wa mstari ndani ya kifungu kizima.
 
-### Jinsi ya kutenganisha Maandiko katika mawazo yake makuu
+#### Jinsi ya kutenganisha Maandiko katika mawazo yake makuu
 
 Njia nzuri ya kusoma andiko ni kuitenga katika mafungu yake muhimu kama ilivyoandikwa. Unaweza kuendelea kujifunza wazo kuu la kilichoandikwa peke yake. Lengo la mhubiri ni kushirikisha wengine sehemu moja ya ukweli au tukio kwa wakati mmoja. Kuigawa andiko katika vipande kutakusaidia kuhubiri sehemu moja ya andiko halafu ukaendelea na sehemu nyingine kisha ukaijenga yote kwa wakati. Kwa mfano Yohana 3:16 inaweza kutenganishwa katika mawazo yake makuu kama ifuatavyo:
 
@@ -25,6 +27,44 @@ Njia nzuri ya kusoma andiko ni kuitenga katika mafungu yake muhimu kama ilivyoan
 | bali awe na uzima wa milele             | zawadi kubwa—mbinguni                 |
 
 Ukiangalia sehemu ya aya hii na ukajifunza utaielewa vizuri zaidi aya yote. Hii itakusaidia pia kuihubiri kwa kipande kimoja baada ya kingine. Utajifunza maana ya kushirikisha wengine sehemu kwa sehemu na kujenga hatua moja kwa wakati mmoja.
+
+#### Gawanya kifungu katika sehemu zake
+
+**Mfano:**
+
+> Luka 9:1–5—Akawaita wale Thenashara, akawapa uwezo na mamlaka juu ya pepo wote na kuponya maradhi. Akawatuma wautangaze ufalme wa Mungu, na kupoza wagonjwa. Akawaambia, Msichukue kitu kwa safari yenu, fimbo, wala mkoba, wala mkate, wala fedha, wala mmoja wenu asiwe na kanzu mbili. Na nyumba yo yote mtakayoingia kaeni humo, mpaka mtoke mjini. Na wale wasiowakaribisha, mtokapo katika mji huo, yakung’uteni hata mavumbi ya miguuni mwenu, kuwa ushuhuda juu yao.
+
+1. Akawaita wale Thenashara
+2. akawapa uwezo na mamlaka
+3. Akawatuma
+4. wautangaze ufalme wa Mungu
+5. na kupoza wagonjwa
+6. Msichukue kitu kwa safari yenu
+7. Na nyumba yo yote mtakayoingia kaeni humo, mpaka mtoke mjini
+8. yakung’uteni hata mavumbi ya miguuni mwenu, kuwa ushuhuda juu yao
+
+#### Fanya sehemu za kifungu
+
+**Mfano:**
+
+- Dhamira: Agizo la kiuinjilisti
+- Kifungu: Luka 9:1–5
+
+```
+I.  Jibu na kwenda
+  A.  Akawaita wale Thenashara
+  B.  akawapa uwezo na mamlaka
+  C.  Akawatuma
+II.  Sema na kutenda
+  A.  wautangaze ufalme wa Mungu
+  B.  na kupoza wagonjwa
+III.  Kupokea na kutoa
+  A.  Msichukue kitu kwa safari yenu
+  B.  Na nyumba yo yote mtakayoingia kaeni humo, mpaka mtoke mjini
+  C.  yakung’uteni hata mavumbi ya miguuni mwenu, kuwa ushuhuda juu yao
+```
+
+**Mazoezi**: Gawanya vifungu vifuatavyo katika sehemu: Ezekiel 1:10; Kumb. 6:5; Rum. 12:1; Mt. 5:44; Mith. 6:16--19; Yoshua 22:15; I Wakr. 13:13; Wagal 2:20; Ufunuo 3:20; Daniel 1:8; Ruth 1:16.
 
 ### Manufaa ya hotuba ya kifungu
 

@@ -1,6 +1,6 @@
 ## Topical outlines
 
-Topical sermons are those in which the subject alone is derived from the text. The preacher is instrumental in the organization of the topical sermon. His topic is derived from the text, but how the topic is treated is determined by the preacher.
+Topical sermons are those in which the subject alone is derived from the text. A theme can be chosen first, A text can then be selected, which supports that theme. The preacher is instrumental in the organization of the topical sermon. His topic is derived from the text, but how the topic is treated is determined by the preacher.
 
 How is the topical outline different from the textual outline?
 
@@ -25,8 +25,6 @@ A single text rarely does this.
 The topical sermon greatly encourages considerations of the whole council of God.
 
 The spirit of the words is what we should aim to bring into the light, and not just the bare words.
-
-#### A theme can be chosen first, A text can then be selected, which supports that theme
 
 ### Distinguishing characteristics of the topical sermon
 
@@ -63,11 +61,11 @@ The points are indicated, reached and reviewed. Plain direct application should 
 
 #### Observation
 
-Carefully go over the text to see what is going on, the "who, what, where, when, how, and why."This will pull out facts through the nature of Scripture and help avoid presumptions and fallacies. Allow the Word of God to "speak for Itself."
+Carefully go over the text to see what is going on, the "who, what, where, when, how, and why." This will pull out facts through the nature of Scripture and help avoid presumptions and fallacies. Allow the Word of God to "speak for itself."
 
 Read the text in its context several times. For example, if you are studying the book of John, begin with reading the whole book.
 
-Make sure you are going into your relationship with God's Word in a meaningful manner. If you start too hastily, thinking you already know thepassage, you will not gain the insights and depth because your haste will make waste.
+Make sure you are going into your relationship with God's Word in a meaningful manner. If you start too hastily, thinking you already know the passage, you will not gain the insights and depth because your haste will make waste.
 
 Never let your pride clog your vision and keep you in the dark or from discovering all you can.
 
@@ -79,7 +77,7 @@ Never let your pride clog your vision and keep you in the dark or from discoveri
 4. Make sure it is accurate to the text.
 5. Make sure you write down the verses next to each idea.
 
-The chapter and verses were added by the publisher and are not part of the original text nor are they inspired. So, donot constrain yourself to them. You will find that sometimes they cut off key ideas in mid-thought that are still in "thread," that is, still going on.
+The chapter and verses were added by the publisher and are not part of the original text nor are they inspired. So, do not constrain yourself to them. You will find that sometimes they cut off key ideas in mid-thought that are still in "thread," that is, still going on.
 
 #### Then list all of the various ideas/points in sequence
 
@@ -87,7 +85,7 @@ This is where you use "interpretation". This is taking what is said and finding 
 
 Always, always go in the sequence of the text. Do not jump around! Never take out of God's Word what is not there, or read in your will as His.
 
-Each sub--topic describes the main ideas from the paragraph/passage. When supporting information is listed under a sub-topic, there is a sequence that follows a logical order, especially in the Epistles.
+Each sub-topic describes the main ideas from the paragraph/passage. When supporting information is listed under a sub-topic, there is a sequence that follows a logical order, especially in the epistles.
 
 ### Success
 

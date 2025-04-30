@@ -1,6 +1,6 @@
 ## Dondoo za kimada
 
-Hotuba za kimada ni zile zizohusiana na dhamira pekee lililopatikana kutoka kwenye kifungu. Mhubiri ni chombo katika uunganishaji wa hotuba ya kimada. Mada yake inavutwa kutoka kwenye kifungu, lakini jinsi mada ilivyo tengenezwa imethibitishwa na mhubiri.
+Hotuba za kimada ni zile zizohusiana na dhamira pekee lililopatikana kutoka kwenye kifungu. Kwanza, kuchagua mandhari na kisha kuchagua Nakala kwamba inasaidia kwamba mandhari. Mhubiri ni chombo katika uunganishaji wa hotuba ya kimada. Mada yake inavutwa kutoka kwenye kifungu, lakini jinsi mada ilivyo tengenezwa imethibitishwa na mhubiri.
 
 Jinsi gani dondoo za kimada ni tofauti na dondoo za kifungu?
 
@@ -25,8 +25,6 @@ Kifungu kimoja marachache hufanya hivi.
 Hotuba ya kimada huhamasisha kwa kiasi kukubwa kutafakari vizuri baraza lote la Mungu.
 
 Roho ya maneno ni kile ambacho tungelenga kuleta kwenye nuru, nasio kama maneno matupu.
-
-#### Kwanza, kuchagua mandhari na kisha kuchagua Nakala kwamba inasaidia kwamba mandhari
 
 ### Tabia zinazotofautisha wa hotuba ya kimada
 

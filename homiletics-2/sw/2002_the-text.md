@@ -47,7 +47,7 @@ Maafa ya kitaifa yanaweza kuwafanya watu watambue nguvu za Mungu. Unaweza kuones
 
 Tunahitaji kuwa waangalifu kuhusu kutangaza mapenzi ya Mungu kwa sababu kama wanadamu, uelewaji wetu wa mambo ni wa chini sana kuliko hekima ya Mungu.
 
-#### Njia za kupokea andiko cha maandiko
+#### Njia za kupokea kifungu cha maandiko
 
 1. Soma na ujifunze Bibilia, hata wakati haujahubiri.
 2. Tafuta vitu maishani ambavyo vitakukumbusha maandiko.
