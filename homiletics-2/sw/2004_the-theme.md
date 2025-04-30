@@ -67,5 +67,5 @@ Maneno moja hayaeleweki sana kuunda dhamira kamili. Maneno mamoja kama vile kuab
 
 Kama kawaida maandishi hayo yanapendekeza dhamira. Maandishi ni eneo la Maandiko ambayo husomwa kabla hotuba halijafundishwa. Kumbuka kwamba unafundisha Neno la Mungu. Dhamira inapaswa kwa asili ipatikane kutoka katika Injili. Maandishi hayo hayahitaji kutupwa kwenye ubao na kupata shida kabla ya dhamira kutolewa ndani yake. Dhamira inapaswa ionekane kwa urahisi katika maandishi kama moja ya mawazo yanayotawala. Wakati wa kulitoa hotuba ni vizuri kutumia mara kwa mara maneno yaliyoko katika maandishi. Kumbuka kulihubiri Neno kwa sababu mamlaka yako yanatokana na hilo Neno.
 
-**MAZOEZI:** Tambua dhamira kuu ya kila moja ya vifungu vifuatavyo na kisha utambue baadhi ya makusudi madogomadogo kila kifungu. Yn.
-10:7–10; Zab 14:1;
+**Mazoezi:** Tambua dhamira kuu ya kila moja ya vifungu vifuatavyo na kisha utambue baadhi ya makusudi madogomadogo kila kifungu. Yn.
+10:7–10;
